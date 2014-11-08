@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twistimage.com privacy policy that was archived on 2014-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140510211849id_/http%3A//www.twistimage.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twistimage.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108041220id_/http%3A//www.twistimage.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
     <meta charset="utf-8">
@@ -8,17 +8,19 @@
     <meta name="description" content="At Twist Image, we connect brands to people and people to brands. Let us show you what we mean.">
     <meta name="author" content="Twist Image">
     <meta name="robots" content="index,follow">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <!--[if lt IE 7 ]><meta http-equiv="refresh" content="0;url=/upgrade_en.html"><![endif]-->
     <link rel="shortcut icon" href="/images/favicon.ico">
     <link rel="apple-touch-icon" href="/images/i_ti.png">
-    <link rel="image_src" href="/images/i_ti.png">
-    <link rel="stylesheet" href="/css/global.css?v=1.4">
+    <link rel="image_src" href="/images/i_ti.png">    
+    <link rel="stylesheet" href="/css/video-js.css">
+    <link rel="stylesheet" href="/css/global.css?v=1.43">
     <link rel="stylesheet" href="/css/lang_en.css">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/modernizr-1.6.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.9.1.min.js" style=""></script>
+    <script src="/js/modernizr-1.6.min.js"></script>
     <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-796315-33']);
@@ -34,33 +36,160 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+
+    /* NEW STARTS HERE  */
+
+    var toggleOpen = false;
+    var toggleSubOpen = false;
+
+
+    $(document).ready(function() {
+       $('#ti #b_toggle_menu').bind('click', function() {
+            toggleMenuMobile();
+        });
+        $('.feed').find('li').each(function() {
+            $(this).bind('click', function() {
+                container = $(this).parents('li').find('.details');
+                showDetails();
+            });
+        });
+        var ua = navigator.userAgent;
+        var checker = {
+            blackberry: ua.match(/BB10/),
+            blackberryOld: ua.match(/Blackberry/)
+        };
+        if (checker.blackberry){
+            $('#bg').remove();
+        }
+        else if (checker.blackberryOld){
+            $('#bg').remove();
+        }
+    });
+    function showDetails(){
+        var cHeight = container.outerHeight();
+        var translate = window.scrollY;
+        var total = cHeight/2 + 150  + translate + window.innerHeight/2 +'px';
+        container.css('-webkit-transform', 'translateY(' + total + ')').css('-moz-transform', 'translateY(' + total + ')');
+        container.css('opacity', '1');
+        var bHeight = $('#container').height();
+        $('body').append('<div class="overlay"</div>');
+        $('.overlay').height(bHeight + 'px');
+    }
+
+    var menuStatus = false;
+    function toggleMenuMobile(){
+        if (menuStatus == false){
+            menuStatus = true;
+            b_toggle_menu.innerHTML = "Close";
+            $('#b_toggle_menu').css("background-position","9px -35px")
+            $( "#menu-container" ).animate({marginTop: 0}, 500);
+        }
+        else{
+            menuStatus=false;
+            b_toggle_menu.innerHTML = "Menu";
+            $('#b_toggle_menu').css("background-position","9px 9px")
+            $( "#menu-container" ).animate({marginTop: -210}, 500);
+            toggleSubOpen = false;
+            $( ".subnav" ).animate({height: 0, opacity:0}, 500);
+        }
+    }
+    function toggleSubMenu(){
+        if (toggleSubOpen == false){
+            toggleSubOpen = true;
+            $( ".subnav" ).animate({height: 140, opacity:1}, 500);
+        }
+        else{
+            toggleSubOpen = false;
+            $( ".subnav" ).animate({height: 0, opacity:0}, 500);
+        }
+
+    }
+
+    /* NEW ENDS HERE  */
+
     </script>
 </head>
-<body id="privacy-policy">
 
-    <header class="main" style="top: 82.4289px;">
+<body id="privacy-policy" data-ti-culture="en" data-ti-period="" data-ti-forecast="" data-ti-mobile="false">
+
+    <header class="main mainNav">
+
         <h1 id="l_twistimage"><a href="/">Twist Image</a></h1>
-        <nav>
+        <div class="nav-btn"><span></span></div>
+        <nav id="mainNav">
             <ul>
-                <li id="m_who-we-are"><a href="/en/who-we-are">Who We Are</a>
+                <li id="m_who-we-are" class="linker">
+                    <a class="nav" href="#">Who We Are</a>
                     <ul class="subnav">
+                        <li id="sm_who-we-are"><a href="/en/who-we-are">About Us</a></li>
                         <li id="sm_our-leadership"><a href="/en/who-we-are/our-leadership">Our Leadership</a></li>
                         <li id="sm_our-team"><a href="/en/who-we-are/our-team">Our Team</a></li>
                         <li id="sm_office"><a href="/en/who-we-are/office">One Office, Two Locations</a></li>
                     </ul>
                 </li>
-                <li id="m_what-we-do"><a href="/en/what-we-do">What We do</a></li>
-                <li id="m_contact-us" class="last"><a href="/en/contact-us">Contact Us</a></li>
-                <li class="second"><a href="/culture">français</a></li>
-                <!-- <li class="second"><a href="http://clients.twistimage.com/">client login</a></li> -->
+                <li id="m_what-we-do">
+                    <a class="nav" href="/en/what-we-do">What We do</a>
+                </li>
+                <li id="m_contact-us" class="last">
+                    <a class="nav" href="/en/contact-us">Contact Us</a>
+                </li>                
+                <!-- <li class="second"><a href="http://clients.twistimage.com/"></a></li> -->
+            </ul>
+            <ul class="mobile_nav">
+                <li><a href="/en/careers" rel="deeplink" class="careers">Careers</a></li>
+                <li><a href="/en/privacy-policy" rel="deeplink" class="privacy-policy">privacy</a></li>
+                <li class="sixpixels">
+                    <a href="http://www.twistimage.com/blog/" class="tTip" data-ga-label="SPOS" data-second-title="Visit Six Pixels of Separation" title="<h6>Six Pixels of Separation – The Blog</h6>Join Twist Image president Mitch Joel as he shares his visionary insights about the ever-changing world of digital marketing and media.">
+                    <img src="/images/sixpixels_logo.png" alt="six pixels of separation">
+                    Visit Six Pixels of Separation                    </a>
+                </li>
+                <a href="/en/version" rel="deeplink" id="version">v 1.2</a>
+            </ul>
+            <ul>
+                <li class="second lang"><a href="/culture">français</a></li>
+            </ul>
+            <ul class="mobile_nav">
+                 <li class="socialmedia">
+                    <a href="#" onclick="window.open('http://www.linkedin.com/company/twist-image');" class="tTip" id="b_linkedin" data-ga-label="LinkedIn" title="Follow us on LinkedIn">Follow us on LinkedIn</a>
+                    <a href="#" onclick="window.open('http://www.facebook.com/twistimage');" class="tTip" id="b_facebook" data-ga-label="Facebook" title="Follow us on Facebook">Follow us on Facebook</a>
+                    <a href="#" onclick="window.open('http://twitter.com/twistimage');" class="tTip" id="b_twitter" data-ga-label="Twitter" title="Follow us on Twitter">Follow us on Twitter</a>
+                </li>
+                <li class="copyright">copyright © 2014 Twist Image</li>
             </ul>
         </nav>
+
     </header>
 
     <div id="ti">
-        <div id="wrapper">
+
+        <!-- <div id="topMenu">
+
+            <div id="menu-container">
+                <nav class="primary-nav">
+                    <ul id="main-nav">
+                        <li class="n_contact"><a href="/en/contact-us">Contact Us</a></li>
+                        <li class="n_whoweare"><a href="#" id="b_who-we-are" class="closed nocallout">Who We Are</a>
+                            <ul id="who-we-are" class="subnav">
+                                <li class="n_leadership"><a href="/en/who-we-are/our-leadership">Our Leadership</a></li>
+                                <li class="n_team"><a href="/en/who-we-are/our-team">Our Team</a></li>
+                                <li class="n_office"><a href="/en/who-we-are/office">One Office, Two Locations</a></li>
+                            </ul>
+                        </li>
+                        <li class="n_whatwedo"><a href="/en/what-we-do">What We do</a></li>
+                        <li class="n_activity"><a href="/en/feed">Activity Feed</a></li>
+                    </ul>
+                </nav>
+            </div><
+
+        </div>
+
+        <a href="#" id="b_toggle_menu" class="closed nocallout" data-labelclosed="Menu" data-labelopened="Close">Menu</a>
+        -->
+
+        <!-- <div id="wrapper"> -->
+         <!-- <a id="mobileLogo" href="/"><img src="http://m.twistimage.com/mobile/img/l/l_ti.png" alt="logoTwist"></a> -->
         <div id="content_wrapper">
-﻿            <section id="content" data-js="privacyJS" data-section="privacy-policy">
+            ﻿            <section id="content" data-js="privacyJS" data-section="privacy-policy">
                 <h1 id="data-title" data-title="Privacy Policy">Privacy Policy</h1>
                 
 <p>Twist Image is the sole owner of the information collected on this site. We will not sell, share, or rent this information in ways other than that disclosed in this statement. Twist Image may collect information from our users at various different points on our website.</p>
@@ -72,36 +201,33 @@
 				<p>If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Your consent by using our site, you consent to the collection and use of this information by Twist Image. Twist Image welcomes your questions and comments about privacy, please e-mail them to <a href="mailto:support@twistimage.com">support@twistimage.com</a>.</p>
             </section>
         </div> <!-- END #content-wrapper -->
-        </div>
-    </div> <!-- END #ti -->
 
+        <!-- </div> --> <!-- END #wrapper -->
+    </div><!-- END #ti -->
 
-
-
-    <div id="tiShapes"></div> <!-- END #tiShapes -->
-
-﻿
+    <div id="tiShapes"></div><!-- END #tiShapes -->
+    
+    ﻿
     <footer class="main">
         <nav>
             <ul>
                 <!--<li><a id="b_six-pixels-blog" href="http://www.twistimage.com/blog/">six pixels of separation</a></li>-->
 				<li><a href="/en/careers" rel="deeplink" class="careers">Careers</a></li>
                 <li><a href="/en/privacy-policy" rel="deeplink" class="privacy-policy">privacy</a></li>
+                <li id="onMobileLang" class="second lang"><a href="/culture">français</a></li>
                 <li class="copyright">copyright © 2014 Twist Image</li>
             </ul>
         </nav>
         <ul class="social_links">
-            <li><a href="http://www.twistimage.com/blog/" class="tTip" id="b_spos" data-ga-label="SPOS" data-second-title="Visit Six Pixels of Separation" original-title="
-              <h6>Six Pixels of Separation – The Blog</h6>Join Twist Image president Mitch Joel as he shares his visionary insights about the ever-changing world of digital marketing and media.
-          ">six pixels of separation</a></li>
-            <li><a href="#" onclick="window.open('http://www.linkedin.com/company/twist-image');" class="tTip" id="b_linkedin" data-ga-label="LinkedIn" original-title="Follow us on LinkedIn">Follow us on LinkedIn</a></li>
-            <li><a href="#" onclick="window.open('http://www.facebook.com/twistimage');" class="tTip" id="b_facebook" data-ga-label="Facebook" original-title="Follow us on Facebook">Follow us on Facebook</a></li>
-            <li><a href="#" onclick="window.open('http://twitter.com/twistimage');" class="tTip" id="b_twitter" data-ga-label="Twitter" original-title="Follow us on Twitter">Follow us on Twitter</a></li>
+            <li><a href="http://www.twistimage.com/blog/" class="tTip" id="b_spos" data-ga-label="SPOS" data-second-title="Visit Six Pixels of Separation" title="<h6>Six Pixels of Separation – The Blog</h6>Join Twist Image president Mitch Joel as he shares his visionary insights about the ever-changing world of digital marketing and media.">six pixels of separation</a></li>
+            <li><a href="#" onclick="window.open('http://www.linkedin.com/company/twist-image');" class="tTip" id="b_linkedin" data-ga-label="LinkedIn" title="Follow us on LinkedIn">Follow us on LinkedIn</a></li>
+            <li><a href="#" onclick="window.open('http://www.facebook.com/twistimage');" class="tTip" id="b_facebook" data-ga-label="Facebook" title="Follow us on Facebook">Follow us on Facebook</a></li>
+            <li><a href="#" onclick="window.open('http://twitter.com/twistimage');" class="tTip" id="b_twitter" data-ga-label="Twitter" title="Follow us on Twitter">Follow us on Twitter</a></li>
         </ul>
         <a href="/en/version" rel="deeplink" id="version">v 1.2</a>
     </footer>
 
-    <div id="bg"><img src="/images/weather/cloudy_day.jpg?lan=en&amp;timestamp=1580511624774" id="bgImg"></div>
+    <div id="bg"></div>
     <div id="noscript"><div>JavaScript support is required to browse the Twist Image website. Please turn it on, then refresh the page.</div></div>
     <div id="browser">
         <a href="#" id="b_browser_close">close</a>
@@ -109,75 +235,17 @@
             To experience this site at its full capacity, you'll need to <a href="/en/old-browser" rel="deeplink">upgrade your browser</a>.
         </div>
     </div>
-
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
     <script>!window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))</script><script src="/js/jquery.min.js"></script>
-    <script src="/js/plugins.js?v=1.1"></script>
+    <script src="/js/plugins.js?v=1.2"></script>
     <script src="/js/jquery.ti.touchscroll_.js?v=1.1"></script>
-
     <script src="/js/Dispatcher.js"></script>
+    <script src="/js/jquery.form.min.js"></script>
     <script src="/js/BandwidthCalc.js"></script>
-    <script>
-        var imagePath, imageSize;
-            phpPath = 'bg_image.php';
-        imagePath = '/images/weather/cloudy_day.jpg';
-        imageSize = 177000;
-            // var calc = new BandwidthCalculator("bg", phpPath, imagePath, imageSize, 'en');
-        var calc = new BandwidthCalculator("bg", imagePath, imageSize, 'en');
-		calc.addEventListener('BANDWIDTH_CALC_COMPLETED', handler);
+    <script src="/js/global_.js?v=1.83"></script>
+    <script src="/js/fileuploader.js"></script>
+    <script src="/js/video.js"></script>
+    <script>TI.init();</script> 
 
-        function handler(event, args) {
-                        if(args.speedMbps > 1) {
-                //DOWNLOAD HTML5 OR FLASH VIDEO
-                if (Modernizr.video) {
-                    // GET TIME OF DAY IN HOURS
-                    var currentTime = new Date()
-                    var hours = currentTime.getHours()
-                    //PLAY HTML5 VIDEO
-                    var video = document.createElement('video');
-                    video.id = "bgVideo";
-                    video.loop = "loop";
-                    video.controls = false;
-                    // if ( hours > 3 ){
-                         if (Modernizr.video.ogg)  {
-                             video.src = "/medias/cloudy_day.ogv";
-                         } else if (Modernizr.video.webm) {
-                             video.src = "/medias/cloudy_day.webm";
-                         } else if (Modernizr.video.h264){
-                             video.src = "/medias/cloudy_day.mp4";
-                         }
-                         video.play();
-                    // }else{
-                    //     night();
-                    // }
-                    document.getElementById('bg').appendChild(video);
-
-
-                    $('#bgImg').fadeOut('slow', function() {
-                        document.getElementById('bg').removeChild(document.getElementById('bgImg'));
-                    });
-
-                } else {
-                    //FALLBACK TO FLASH
-                    var flashvars = {
-                        videoLink: "/medias/cloudy_day.f4v"
-                    };
-                    var params = {
-                        wmode: "transparent",
-                        scale: "true",
-                        loop: "true"
-                    };
-                    var attributes = {
-                        id: "bg_flash1"
-                    };
-                    swfobject.embedSWF("/flash/main.swf", "bg", "100%", "100%", "9.0.0","expressInstall.swf", flashvars, params, attributes);
-                }
-            }
-            
-        }
-    </script>
-
-    <script src="/js/global_.js?v=1.7"></script><div id="ajax_loading"></div>
-    <script>TI.init();</script><div id="rideau" style="background-color: rgb(226, 226, 226); width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; opacity: 1; z-index: -999;"></div>
 
 </body></html>
