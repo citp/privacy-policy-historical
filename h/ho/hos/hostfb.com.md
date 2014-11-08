@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostfb.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428153920id_/http%3A//hostfb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostfb.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108103139id_/https%3A//hostfb.com/privacy) for the most accurate reproduction.*
 
 # hostFB’s Privacy Policy
 
