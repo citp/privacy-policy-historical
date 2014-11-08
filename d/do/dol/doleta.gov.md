@@ -1,35 +1,56 @@
-> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034642id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108024746id_/http%3A//dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
-# Privacy and Security Statement, Employment & Training Administration (ETA) - U.S. Department of Labor
+# U.S. Department of Labor -- Privacy and Security Statement
 
-Thank you for visiting the Department of Labor (DOL) Website and reviewing our privacy and security statement. DOL is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, DOL makes every effort to ensure compliance with applicable Federal law, including, but not limited to, the Privacy Act of 1974, the Paperwork Reduction Act of 1995, and the Freedom of Information Act.
+Thank you for visiting the Department of Labor (DOL or Department) website and reviewing our privacy and security statement. DOL is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personally identifiable information (PII), DOL makes every effort to ensure compliance with applicable federal law, including, but not limited to, [The Privacy Act of 1974](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.justice.gov/opcl/privstat.htm&exitTitle=http://www.justice.gov&fedpage=yes), [The Paperwork Reduction Act of 1995](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.archives.gov/federal-register/laws/paperwork-reduction/&exitTitle=www.archives.gov&fedpage=yes), and [The Freedom of Information Act](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm&exitTitle=http://www.justice.gov&fedpage=yes).
 
-As a general rule, the Department of Labor does not collect personally-identifying information about you when you visit our site, unless you choose to provide such information to us. The information we receive depends upon what you do when visiting our site. 
+As a general rule, the Department does not collect personally identifiable information when you visit our site unless you choose to provide such information. The information we collect varies based on what you do when visiting our site. 
 
-_**If you visit our site to read or download information, we collect and store the following information:**_
+_If you respond to an online request for personal information:_
+
+The information requested by the Department will be used to respond to your inquiry or to provide you with the service associated with the request. When this information is requested, a customized "Privacy Notice" will describe fully the reasons for collecting it and will provide a description of the Department's intended use of the information. This Privacy Notice will appear in one of two places. It will either be on the webpage where the information is collected or it will be accessible through a link prominently displayed immediately preceding the information request.
+
+_If you visit our site to read or download information, we collect and store the following information:_
 
   * The name of the domain from which you access the Internet (for example, dol.gov, if you are connecting from the Department of Labor's computer account).
   * The date and time you access our site.
-  * The Internet address of the website from which you linked directly to our site.
+  * The Internet address of the website from which you directly linked to our site.
 
-  
-The above information is used by software programs on our website to create summary statistics which allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful to visitors.
 
-_If you identify yourself by sending an E-mail containing personal information:_  
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/public/foia/main.htm](http://www.dol.gov/dol/foia/main.htm)
 
-_**If you link to other sites outside DOL:**_  
-Our Website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
+This information is used by software programs on our website to collect summary statistics that allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful to visitors.
 
-_**Cookie Use Notice**_  
-On a limited number of its web pages, the U.S. Department of Labor employs "cookies" to provide better service to its customers. The Department does not use cookies to collect any personally identifying information from users or to track user activities beyond our web site. The Department does not maintain copies of cookies on our web site after you leave our web site.
+_If you identify yourself by sending an e-mail containing personal information:_
 
-Cookies are small pieces of temporary data that are exchanged between a web site and a user's computer which enable a "session", or "dialog", to be established between the two machines. With the session established, the Department is able to tailor its responses (i.e., identify and provide you with the information you want) and help you traverse our web pages in the most efficient and effective manner possible. The session is often broken when the Department's server does not receive further requests from your computer or you simply exit your browser.
+You may send us personally identifiable information in an electronic mail message - for example you may send us your mailing address when requesting that information be mailed to you. This information is used solely for responding to your requests for information or records. We may forward your e-mail to other government employees who are better able to fulfill your requests. Should you wish to file a request under the Freedom of Information Act (FOIA), instructions are provided at [http://www.dol.gov/dol/foia/](https://web.archive.org/dol/foia/).
 
-The Department limits its use of cookies to "session cookies". types of cookies that are temporarily stored in your computer's memory. Session cookies are normally deleted from a user's computer when the user logs off the computer or the user exits the browser. As of January, 2001, the Department does not issue "persistent cookies".types of cookies that could be stored permanently on your workstation and reused each time you visit the Department's web site. Before January, 2001, however, the Department had a small number of web sites that automatically created persistent cookies. Those cookies may still be stored on some user's computers and, in some cases, may be updated by the user's browser when revisiting the DOL web site. In the event a cookie is found on your workstation which was issued from a Department of Labor web site, you may remove it without adversely affecting your future visits to our web site. 
+_If you link to other sites outside DOL:_
+
+Our website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
+
+_Social Media and Third Party Sites:_
+
+In addition to the Department's official websites, the Department uses social media and third party sites to provide DOL content in a different format that may be useful or interesting to you. When we use these sites, the information we provide is consistent with the intended purpose of the DOL website. No PII may be requested from or collected by DOL on social media sites. The privacy protection provided on social media and third party sites that are not a part of DOL websites may not be the same as the privacy protection given by the DOL and described here.
+
+_Cookie Use Notice:_
+
+Cookies are small files that Web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
+
+  * they allow the website to identify you as a previous visitor each time you access a site;
+  * they track what information you view at a site (important to commercial sites trying to determine your buying preferences); 
+  * in the more advanced cases they track your movements through many websites but not the whole Web; 
+  * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
+  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many websites; and 
+  * they can be used to help a website tailor screens for each customer's preference. 
+
+
+
+Some DOL pages have "session cookies," to facilitate use of that particular page. These disappear when the Web user terminates a Web session and closes the browser. DOL also permits the use of persistent cookies for the collection of Web metrics; however, DOL does not collect any personally identifiable information about visitors to our Web pages. Please see our [DOL Persistent Cookie Notice](https://web.archive.org/dol/persistentcookies.htm) that details the types of information collected and how to opt-out by changing the cookie settings in your browsers.
+
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies. 
 
 * * *
 
-For security purposes and to ensure that this service remains available to all users, our website also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996. 
