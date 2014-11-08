@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcredible.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510045016id_/http%3A//www.webcredible.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcredible.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108142740id_/http%3A//www.webcredible.com/privacy.shtml) for the most accurate reproduction.*
 
 # Webcredible privacy policy - customer experience design agency
 
@@ -18,10 +18,10 @@ Webcredible does not use cookies on its website, except for the font size change
 
 ## Use of session files
 
-Webcredible does not use session files to log your individual browsing patterns; instead, we collect web site usage information in aggregate form. We use this data to analyze which pages on the website are most commonly viewed and which URLs are referring site visitors to the Webcredible website (if applicable).
+Webcredible does not use session files to log your individual browsing patterns; instead, we collect web site usage information in aggregate form. We use this data to analyse which pages on the website are most commonly viewed and which URLs are referring site visitors to the Webcredible website (if applicable).
 
 ## Links to external sites
 
 Webcredible cannot be held responsible for the content or data policies and procedures on external sites.
 
-If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20140510045016id_/http%3A//www.webcredible.com/contact-us.shtml).
+If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20141108142740id_/http%3A//www.webcredible.com/contact-us.shtml).
