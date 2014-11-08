@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155848id_/http%3A//www.dol.govt.nz/common/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108041342id_/http%3A//www.dol.govt.nz/common/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - New Zealand Department of Labour
 
