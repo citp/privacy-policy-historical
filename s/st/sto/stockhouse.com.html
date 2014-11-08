@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2014-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603024414id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108195227id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"88d46cb767","applicationID":"2269267","transactionName":"MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=","queueTime":15,"applicationTime":781,"ttGuid":"F6B6541D84C4EBD0","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMAWFFSGwECUlhQAQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9L7TF"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"88d46cb767","applicationID":"2269267","transactionName":"MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=","queueTime":0,"applicationTime":74,"ttGuid":"D6779E9A584FEC23","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMAWFFSGwECUlhQAQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>
 	Stockhouse-Privacy Policy
 </title><meta charset="UTF-8"> 
@@ -11,24 +11,72 @@
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="rating" content="General"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-<link rel="shortcut icon" href="/media/ui/icons/favicon.ico"> 
+<link rel="shortcut icon" href="/media/ui/icons/favicon.ico">
+<style>
+	body .membership{ margin-top:0px !important;}
+</style>
+<script src="//load.sumome.com/" data-sumo-site-id="69a2cf6f9d9fee777e38a3aadcc813367c214e96c7fbbe83ae5f0be2bf420f14" async=""></script> 
 <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
 <link href="/favicon.ico" type="image/x-icon" rel="icon"> 
-<link rel="stylesheet" href="/stockhouse/assets/css/sh.min.css?v=1.0.0.28541" type="text/css"></head>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" type="text/css">
+<link rel="stylesheet" href="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/css/bootstrap.css.map" type="text/css">
+<link rel="stylesheet" href="/stockhouse/assets/css/sh-theme.min.css?v=1.0.0.24642" type="text/css">
+<link rel="stylesheet" href="/stockhouse/assets/css/sh-theme.css.map" type="text/css">
+
+
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--><script type="text/javascript">
+//<![CDATA[
+var _sf_startpt = (new Date()).getTime();
+//]]>
+</script>
+<script>var dataLayer = [];</script>
+<script>
+dataLayer.push({
+'visitorLoginState' : 'unauthenticated',
+'visitorId' : 'anonymous'});
+</script>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9L7TF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; 
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-N9L7TF');
+</script>
+<script>
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == 'https:' ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+elem.async = true;
+elem.type = 'text/javascript';
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+</head>
 
 <body class="LTR ENUS ContentBody">
     
     <form method="post" action="/legal/privacy-policy" id="form">
 <div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTczMjg2NTcwNQ9kFgICARBkZBYCAgUPZBYCZg9kFgJmD2QWBAIDD2QWAmYPDxYCHgdWaXNpYmxlaGQWAgIPD2QWAgIDD2QWAmYPZBYCAgEPZBYCAgEPZBYCAgEPZBYCAgEPD2QWAh4Hb25rZXl1cAVXY2hhckNvdW50ZXIoJ3BfbHRfem9uZU1lbWJlcnNoaXBfU3RvY2tob3VzZV9NZW1iZXJCYXJfdHh0VXNlcm5hbWUnLCAnY2hhckNvdW50ZXInLCAxNSk7ZAIJD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYQZg9kFgJmD2QWAmYPFQG1ATxhIGNsYXNzPSJuZXdzbGlua3MiIGhyZWY9Imh0dHA6Ly9iaXQubHkvMXd6Nng0WSIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5LzF3ejZ4NFkiPlBveWRyYXMgR2FtaW5nIEFubm91bmNlcyBEZXBsb3ltZW50IG9mIEFkZGl0aW9uYWwgU2xvdCBNYWNoaW5lcyBpbiBDb3JlIE1hcmtldHMgIDwvYT5kAgIPZBYCZg9kFgJmDxUBxgE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5LzFrNEV6dFIiIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iaHR0cDovL2JpdC5seS8xazRFenRSIj5OZXcgRXhlY3V0aXZlIENoYWlybWFuIEJyaW5ncyAzNCB5ZWFycyBvZiBFeHRlbnNpdmUgR2xvYmFsIE9pbCBhbmQgR2FzIEV4cGVyaWVuY2UgdG8gT3JhY2xlIEVuZXJneTwvYT5kAgQPZBYCZg9kFgJmDxUBoAE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5L1NReXVHNiIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5L1NReXVHNiI+SUFNR09MRCBjb21wbGV0ZXMgNCw1MjggbWV0cmVzIGFzIHBhcnQgb2YgZWFybmluZyA1MCUgaW50ZXJlc3Q8L2E+ZAIGD2QWAmYPZBYCZg8VAbUBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xaHZFRE5FIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMWh2RURORSI+TmFub3N0cnVjayBzaWducyBMT0kgd2l0aCBaaW1iYWJ3ZeKAmXMgUHVycGxlIEdyaWQgVHJhZGluZyBmb3IgTmFub21ldCBUZWNobm9sb2d5PC9hPmQCCA9kFgJmD2QWAmYPFQGYATxhIGNsYXNzPSJuZXdzbGlua3MiIGhyZWY9Imh0dHA6Ly9iaXQubHkvMW82SkdJayIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5LzFvNkpHSWsiPk1pbmluZyBFeHBlcnQgSmF5IFRheWxvcuKAmXMgTmV3IEdvbGQgUmVjb21tZW5kYXRpb248L2E+ZAIKD2QWAmYPZBYCZg8VAcMBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xaDZSWjJkIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMWg2UloyZCI+JDEzLDAwMCBpbiBwcml6ZXMgdG8gYmUgd29uISBSZWdpc3RlciBub3cgZm9yIEhvcml6b25zIEVURnMgQmlnZ2VzdCBXaW5uZXIgVHJhZGluZyBDb21wZXRpdGlvbiE8L2E+ZAIMD2QWAmYPZBYCZg8VAZgBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xbTFXN1V1IiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMW0xVzdVdSI+VmFpbCBPaWwgUHJvamVjdCBSZXBvcnRzIE9pbCBGbG93IG9uIEJ1cmtldHQgNS0zNEhPUjwvYT5kAg4PZBYCZg9kFgJmDxUBpQE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5LzFuOE9DTTgiIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iaHR0cDovL2JpdC5seS8xbjhPQ004Ij5NYW51bGlmZSBGaW5hbmNpYWwgIENvcnBvcmF0aW9uIFNlY3VyaXRpZXMgQ2xhc3MgQWN0aW9uIENlcnRpZmllZDwvYT5kGAQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSlwJGx0JHpvbmVUb3BNZW51JFNlYXJjaEJveCRidG5JbWFnZUJ1dHRvbgU7cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRtdlJlZ2lzdHJhdGlvbkZvcm0PD2RmZAU0cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRtdkxvZ2luRm9ybQ8PZGZkBTRwJGx0JHpvbmVNZW1iZXJzaGlwJFN0b2NraG91c2VfTWVtYmVyQmFyJG12TG9naW5WaWV3Dw9kZmQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3NzY5NTY4MmQYAQUucCRsdCR6b25lTWVtYmVyc2hpcCRNZW1iZXJCYXJMaWdodCRtdkxvZ2luVmlldw8PZGZk">
 </div>
 
 <script type="text/javascript">
@@ -150,7 +198,7 @@ ctrlPressed = false;
 	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
 	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
-    
+        <input type="hidden" name="shusercookie" id="shusercookie" value="F07C8190-2A1B-4175-96A2-80ED3718FBD6[new]">
         <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','tdm$pM$pMP',''], [], [], 90, '');
@@ -170,19 +218,178 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <div class="mwrap">
+  <div id="notifications" data-userid="65" data-numrows="3">
+	
+    <div id="gritter-notice-wrapper">
+    </div>
+
+</div>
   
-  
+<span id="p_lt_zoneMembership_chartbeat_lblErr"></span><div class="membership clearfix">
+
+    <ul class="left">
+        <li class="first"><a class="dropdown-trigger" style="margin-left: 0">Quick Links</a>
+<ul style="display: none;">
+    <li class="first"><a href="/">Home</a></li>
+    <li><a href="/community">Community</a></li>
+    <li><a href="/markets">Markets</a></li>
+    <li><a href="/news">News</a></li>
+    <li><a href="/opinion">Opinion</a></li>
+    <li><a href="/portfolio">Portfolio</a></li>
+    <li class="last"><a href="/video">Video</a></li></ul></li>
+        <li>
+            <a href="/community/bullboards" class="bullboards" title="Bullboards"></a>
+        </li>
+        <li style="padding:0 13px;"> 
+    <a href="/checkout/shopping-cart">
+        <img src="/stockhouse/images/cart_white.png">
+    </a>
+</li></ul>
+        <ul class="right">
+          <li class="first">
+              <a class="registration-required">Join the Community</a> | 
+              <a class="login-required">Sign In</a></li></ul>
+        
+    <div id="user-membership-login" class="membership-container">
+        <div class="container-fluid bootstrap clearfix">
+            <div class="col-xs-12 no-padding">
+                
+                <a class="membership-close-btn" title="close"><span aria-hidden="true">×</span><span class="sr-only">Close</span></a>
+
+                <div id="user-membership-login-form" class="validationGroup" data-bind="enterkey: doLogin"><input type="hidden" id="userLoginToken" value="d75816ea67c843e986ee4706a755c197">
+
+                    <div class="row">
+                        <p class="m-title">Welcome back to Stockhouse <br>Member Sign In</p></div>                   
+
+                    <div class="form-group row">
+                        <span class="ie-label">Email or Username:</span>
+                        <div class="input-group">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-user"></span>
+                            </span>
+                            <input type="text" id="login-user-name" class="form-control" data-rule-required="true" data-msg-required="Email or username is required." data-bind="value: userName" placeholder="Email or Username">
+                        </div>
+                        <span class="control-label" data-bind="validationMessage: userName"></span>
+                    </div>
+
+                    <div class="form-group row">
+                        <span class="ie-label">Password:</span>
+                        <div class="input-group">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-lock"></span>
+                            </span>
+                            <input type="password" id="login-user-password" class="form-control" data-rule-required="true" data-msg-required="Password is required." data-bind="value: userPassword" placeholder="Password">
+                        </div>
+                        <span class="control-label" data-bind="validationMessage: userPassword"></span>
+                    </div>
+
+                    <div class="row password-hint-container"><input type="hidden" id="passwordHintToken" value="59a9cf98f1c3451594dcca67b2d63ca2">
+                        <span id="user-password-hint" class="text-muted"></span>      
+                    </div>
+
+                    <div class="form-group row">
+                        <button type="button" id="btnLoginUser" class="btn btn-primary btn-block orangeButton" data-bind="click: doLogin, enable: submitEnabled">
+                            <span class="spinner"><i class="icon-spin icon-refresh"></i></span>
+                            Sign in
+                        </button></div>
+
+                    <div class="form-group row clearfix">
+                        <div class="checkbox pull-left remember-me">
+                            <label>
+                                <input type="checkbox" data-bind="checked: rememberMe"> Remember me
+                            </label></div>
+                        <div class="pull-right">
+                            <a href="javascript:void(0)" class="forgot-password" data-bind="click: showForgotPassword">I don't know my password</a></div></div>
+
+                    <div class="row clearfix text-left" data-bind="css: errorMsgCssClass">
+                        <div class="col-sm-offset-1 col-xs-10">
+                            <span class="control-label has-error login-failed" data-bind="text:errorMsg"></span>
+                        </div></div></div>
+                
+
+                <div id="user-membership-resetpassword" class="validationGroup" style="display:none" data-bind="enterkey: doReset">
+
+                    <div class="row">
+                        <p class="m-title">Send my password</p><input type="hidden" id="passwordResetToken" value="f2422f6026154351ada5e1a89ec19cf9"></div>
+
+                    <div id="reset-password-form">
+                        <div class="form-group row">
+                            <span class="ie-label">Enter Email or Username:</span>
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-lock"></span>
+                                </span>
+                                <input type="text" class="form-control" id="membership-password-reset-userName" data-rule-required="true" data-msg-required="Email or Username is required." data-bind="value: userName" placeholder="Enter Email or Username">
+                            </div>
+                            <span class="control-label" data-bind="validationMessage: userName"></span>
+                        </div>
+
+                        <div class="form-group row">
+                            <button type="button" id="btnResetPassword" class="btn btn-primary btn-block orangeButton" data-bind="click: doReset, enable: submitEnabled">Submit</button></div>
+
+                        <div class="form-group row clearfix" data-bind="css: errorMsgCssClass">
+                            <span class="control-label has-error reset-failed" data-bind="text:errorMsg"></span>
+                        </div></div>
+		
+                    <div id="reset-password-msg" style="display: none">
+                        <div class="row">
+                            <span class="control-label" data-bind="text:resetMsg"></span>
+                        </div>
+                        <div class="row">
+                            <button type="button" class="btn btn-primary orangeButton membership-close-btn pull-right">Close</button></div></div>
+                    
+                    
+                    <p><a href="javascript:void(0)" data-bind="click: returnToLogin">« back </a></p></div></div></div></div>
+    <div id="user-membership-register" class="membership-container bootstrap">
+        <div class="container-fluid user-register-form clearfix">
+            <div class="col-xs-12 no-padding">
+                <a class="membership-close-btn" title="close"><span aria-hidden="true">×</span><span class="sr-only">Close</span></a>
+                
+                <div id="user-membership-reg-form" class="validationGroup" data-bind="enterkey: submitEmail">                   
+
+                    <div class="row">
+                        <p class="m-title">Become a member today, It's free!</p>
+                        <p>We will not release or resell your information to third parties without your permission.</p><input type="hidden" id="userRegToken" value="3451a4aa275c4c9aa7747ab902ad10ff"></div>
+
+                    <div class="form-group row">
+                        <span class="ie-label">Enter your email address:</span>
+                        <div class="input-group">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-user"></span>
+                            </span>
+                            <input type="text" class="form-control" id="membership-register-userEmail" data-rule-required="true" data-msg-required="Email is required." data-rule-email="true" data-msg-rule-email="Invalid email." data-bind="value: userEmail" placeholder="Enter your email address">
+                        </div>
+                        <span class="control-label" data-bind="validationMessage: userEmail"></span>
+                    </div>
+
+                    <div class="form-group row">
+                        <button type="button" id="btnRegisterEmail" class="btn btn-primary btn-block orangeButton" data-bind="click: submitEmail, enable: submitEnabled">Submit</button></div>
+                  
+                    <div class="row clearfix text-left" data-bind="css: errorMsgCssClass">
+                        <div class="col-sm-offset-1 col-xs-10">
+                            <span class="control-label has-error join-failed" data-bind="text:errorMsg"></span>
+                        </div></div>
+                    
+                    <div class="form-group row clearfix">
+                        <span class="control-label">
+                           By providing my email, I consent to receiving investment related electronic messages from Stockhouse.
+                        </span></div>
+                    
+                    <div class="form-group row pull-right">
+                        <span class="control-label">
+                            <a href="/legal/disclaimer">Disclaimer</a> and <a href="/legal/privacy-policy">Privacy Policy</a></span></div></div></div></div></div></div>
+<span id="p_lt_zoneMembership_StockhouseControls_lblErr"></span><span id="shuc" data-guid=""></span>
 </div>
 
 <div class="hwrap">
-    <header class="container clearfix">
+    <header class="sh-container clearfix">
         <div class="column span-6 banner">
-            <div class="leaderboard">
-    <script type="text/javascript">
-        document.write('<scr' + 'ipt type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></scr' + 'ipt>');
-    </script><script type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></script>
-    <noscript><a rel="noindex,nofollow" href="http://oasc12035.247realmedia.com/RealMedia/ads/click_nx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"><img alt="top" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_nx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></a></noscript>
-</div>        
+            <div class="top-ad"><div id="p_lt_zoneBannerAds_IFrameAd_panelAd" class="ad-container" style="height:90px;">
+	
+    <iframe id="p_lt_zoneBannerAds_IFrameAd_dynamicIFrame" scrolling="no" width="728px" class="ad-iframe" height="90px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=06f659f540c24f199d1217be413455fb&amp;apl=Top,Middle,Right,Right1&amp;cap=Top&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="90" data-allow-resize="False"></iframe>
+   
+
+</div></div>        
             <a href="/" title="Return to the homepage" class="mainlogo">
               <img src="/Stockhouse/images/stockhouse-logo.png" alt="Stockhouse.com Logo">
             </a>
@@ -221,6 +428,8 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 		</li>
 		<li style=""><a href="/news" style="">News</a>
 		<ul>
+			<li style=""><a href="/news/newswire" style="">Featured News</a></li>
+			<li style=""><a href="/news/bulletins" style="">Breaking News</a></li>
 			<li style=""><a href="/news/natural-resources" style="">Natural Resources</a></li>
 			<li><a href="/news/micro-cap-report">Micro Cap Report</a></li>
 			<li><a href="/news/canadian-press-releases">Canadian Press Releases</a></li>
@@ -248,34 +457,33 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 		<li class="video" style=""><a href="http://www.stockhouse.tv/" style="">Video</a></li>
 	</ul>
 
-<div id="p_lt_zoneTopMenu_SearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneTopMenu_SearchBox_btnImageButton')">
-	
-    <label for="p_lt_zoneTopMenu_SearchBox_txtWord" id="p_lt_zoneTopMenu_SearchBox_lblSearch" style="display:none;">Search for:</label>
-    <input name="p$lt$zoneTopMenu$SearchBox$txtWord" type="text" maxlength="1000" id="p_lt_zoneTopMenu_SearchBox_txtWord" class="searchText" placeholder="Search News, Quotes &amp; Companies" data-postbackref="__doPostBack('p$lt$zoneTopMenu$SearchBox$btnSearch','client')">
+
+<div class="sh-search">
     
-    <input type="image" name="p$lt$zoneTopMenu$SearchBox$btnImageButton" id="p_lt_zoneTopMenu_SearchBox_btnImageButton" class="searchButton" src="/Stockhouse/images/search-button.png" alt="Search">
+	    <div class="row">
+		    
+			    <div class="input-group">
+				    <input name="p$lt$zoneTopMenu$Stockhouse_SearchBox$txtWord" type="text" id="txtWord" class="form-control typeahead tt-input" placeholder="Search News, Quotes &amp; Companies">
+                    <span class="input-group-btn">
+                        <button onclick="__doPostBack('p$lt$zoneTopMenu$Stockhouse_SearchBox$submitSearch','')" id="submitSearch" class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+                    </span>
+                </div>
+	
+	    </div>
 
 </div>
-
         </nav> 
     </header>
 </div>
 
-<div class="container">
+<div class="sh-container">
     
 
 <div class="column span-4">
-    
-<div class="sub-nav">
-    
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneLeft_Stockhouse_Tabmenu_repTabMenu_ctl00_lnkItem" class="current" href="/legal/privacy-policy">Privacy Policy</a>
-        
-            <span class="comp-nav-separator">&nbsp;|&nbsp;</span>
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneLeft_Stockhouse_Tabmenu_repTabMenu_ctl02_lnkItem" href="/legal/disclaimer">Disclaimer</a>
-        
-</div>
+    <h1 class="p-top20">Privacy Policy</h1>
+<hr class="thin">
 <div class="editable">
-  <style type="&quot;text/css&quot;">
+  <div class="generic-content"><style type="&quot;text/css&quot;">
 div.column.span-2.last {
 display: none;
 }
@@ -533,43 +741,56 @@ Last Updated: May 2014
 
 
 
+</div>
+</div><div class="webpart-container ">
+    
 
+
+
+     
 </div>
 </div>
 <div class="column span-2 last">
     <div class="webpart-container ">
-    <a class="newslinks" href="http://bit.ly/1wz6x4Y" target="_blank" title="http://bit.ly/1wz6x4Y">Poydras Gaming Announces Deployment of Additional Slot Machines in Core Markets  </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1k4EztR" target="_blank" title="http://bit.ly/1k4EztR">New Executive Chairman Brings 34 years of Extensive Global Oil and Gas Experience to Oracle Energy</a><hr class="thin"><a class="newslinks" href="http://bit.ly/SQyuG6" target="_blank" title="http://bit.ly/SQyuG6">IAMGOLD completes 4,528 metres as part of earning 50% interest</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1hvEDNE" target="_blank" title="http://bit.ly/1hvEDNE">Nanostruck signs LOI with Zimbabwe’s Purple Grid Trading for Nanomet Technology</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1o6JGIk" target="_blank" title="http://bit.ly/1o6JGIk">Mining Expert Jay Taylor’s New Gold Recommendation</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1h6RZ2d" target="_blank" title="http://bit.ly/1h6RZ2d">$13,000 in prizes to be won! Register now for Horizons ETFs Biggest Winner Trading Competition!</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1m1W7Uu" target="_blank" title="http://bit.ly/1m1W7Uu">Vail Oil Project Reports Oil Flow on Burkett 5-34HOR</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1n8OCM8" target="_blank" title="http://bit.ly/1n8OCM8">Manulife Financial  Corporation Securities Class Action Certified</a>      
+    <div id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd_panelAd" class="ad-container" style="height:250px;">
+	
+    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd_dynamicIFrame" scrolling="no" width="300px" class="ad-iframe" height="250px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=c50a2a8c575d40fabb95426b58399557&amp;apl=Top,Middle,Right,Right1&amp;cap=Right&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="250" data-allow-resize="False"></iframe>
+   
+
+</div>     
+</div><div class="side-box">
+<h4>Featured News Links</h4><a class="newslinks" href="http://bit.ly/1u3vc19" target="_blank" title="http://bit.ly/1u3vc19">EnerDynamic (V.EHT) Enters Into JV Agreement with Leading West African Electrical Company</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1wzN0Cf" target="_blank" title="http://bit.ly/1wzN0Cf">TEST RESULTS ARE IN : GLK Confirms High Purity Graphite at Lochaber</a><hr class="thin"><a class="newslinks" href="http://bit.ly/13I6ycP" target="_blank" title="http://bit.ly/13I6ycP">Wildflower Takes it to The Next Level! Second License Application Completed with Health Canada</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1vEejXF" target="_blank" title="http://bit.ly/1vEejXF">IC Potash’s (T.ICP) Investment Opportunity!  </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1x43XWQ" target="_blank" title="http://bit.ly/1x43XWQ">Mega Precious Metals’ (V.MGP) President &amp; CEO Presents the Monument Bay Project at the European Precious Metals Summit. </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1x3ZYcW" target="_blank" title="http://bit.ly/1x3ZYcW">IC Potash (T.ICP) appoints Dr. Ross Bhappu to the BOD and receives federal preference right mining leases</a> <div class="clear"></div>
 </div><div class="webpart-container ">
-    <h4>Showcase News Releases</h4>
-<div style="font-size: 14px; line-height: 21px;">
     
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl00_lnkShowcase" href="/companies/showcase/v.avt">Avanti Mining Inc</a>
-            <br>
-            Avanti Mining Reports Results from Annual Meeting
-        
-            <hr class="thin">
-        
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl02_lnkShowcase" href="/companies/showcase/v.fgh">First Growth Holdings Ltd.</a>
-            <br>
-            First Growth Appoints Norman Huang as General Manager of Chinese Operations
-        
-            <hr class="thin">
-        
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl04_lnkShowcase" href="/companies/showcase/v.vfx">Virtutone Networks Inc</a>
-            <br>
-            Virtutone Announces Record Revenues of $14.9 Million for the Month of May
-        
-</div>
-<br>
-<br>
-<a href="/companies/showcase" class="more">More showcase news releases »</a>     
+
+
+
+     
+</div><div class="webpart-container ">
+    <div id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd1_panelAd" class="ad-container" style="height:0px;">
+	
+    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd1_dynamicIFrame" class="ad-iframe" scrolling="no" width="300px" data-crossscript="False" data-src="/cmspages/iframes/ads.aspx?cb=7b11ecce3fc94b53bb953bfc9526c732&amp;apl=Top,Middle,Right,Right1&amp;cap=Right1&amp;cpp=%2flegal%2fprivacy-policy" data-height="0" data-allow-resize="True" style="overflow:hidden;z-index:1;display:none"></iframe>
+   
+
+</div>     
 </div>
 </div>
-      
+    
+<br class="clear">
+<hr class="thick">
+<div id="topStoryCarousel" data-numrows="10">
+	
+    <a class="prev">&lt;</a>
+    <div class="storySlides">
+    </div>
+    <a class="next">&gt;</a>
+    <div class="clear"></div>   
+
+</div>  
 </div>
 
 <div class="lwrap">
-    <div class="container">
+    <div class="sh-container">
         <div class="span-6 last logo">
             <div class="logo-bottom">
               <a href="/" title="Return to the homepage" class="mainlogo">
@@ -589,10 +810,10 @@ Last Updated: May 2014
 </div>
 
 <div class="fwrap">
-    <footer id="footer" class="container clearfix">
+    <footer id="footer" class="sh-container clearfix">
         <div class="span-4">
             <div class="span-1 menu">
-	<h2>Stockhouse</h2>
+		<span class="heading">Stockhouse</span>
 	<ul>
 <li>
   <a href="/corporate/about-us">
@@ -617,7 +838,7 @@ Last Updated: May 2014
 </li>
 	</ul>
 </div><div class="span-1 menu">
-	<h2>Members</h2>
+	<span class="heading">Members</span>
         <ul>
 <li>
   <a href="/members/join-the-community">
@@ -630,7 +851,7 @@ Last Updated: May 2014
 </li>
 	</ul>
 </div><div class="span-1 menu">
-	<h2>Support</h2>
+	<span class="heading">Support</span>
         <ul>
 <li>
   <a href="/support/help">
@@ -641,9 +862,9 @@ Last Updated: May 2014
     Sitemap
   </a>
 </li>
-	</ul>
+</ul>
 </div><div class="span-1 menu last">
-	<h2>Legal</h2>
+	<span class="heading">Legal</span>
         <ul>
 <li>
   <a href="/legal/privacy-policy">
@@ -654,7 +875,7 @@ Last Updated: May 2014
     Disclaimer
   </a>
 </li>
-	</ul>
+</ul>
 </div><div class="span-4 copyright last">Stockhouse.com is owned by Stockhouse Publishing Ltd. © 2013 Stockhouse Publishing Ltd. All rights reserved.<br>
 Financial Market Data powered by QuoteMedia. All rights reserved. View the <a href="http://www.quotemedia.com/legal/tos.php">Quote Media Terms of Use</a><br>
 NYSE/AMEX/NASDAQ and other data delayed 15 minutes unless otherwise indicated.<br></div>
@@ -671,29 +892,38 @@ NYSE/AMEX/NASDAQ and other data delayed 15 minutes unless otherwise indicated.<b
 
 
 
-    <script type="text/javascript">
-        document.write('<scr' + 'ipt type="text/javascript" src="http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Bottom1"></scr' + 'ipt>');
-    </script><script type="text/javascript" src="http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Bottom1"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 964383634;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964383634/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
         
 
         
- 
-
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
 <script>
     (window.jQuery || document.write('<script src="/stockhouse/js/lib/jquery.min.js"><\/script>')); 
 </script>
-
 <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
 <script>
     (window.ko || document.write("<script src='/stockhouse/js/lib/knockout-2.2.1.js'><\/script>"));
 </script><script src="/stockhouse/js/lib/knockout-2.2.1.js"></script>
-
-<script src="/stockhouse/js/configuration.js?v=d85ee813b6124f55a1624b19a4afe92d"></script>
-
-<script src="/stockhouse/js/stockhouse.js?v=1.0.0.28541"></script>
+<script src="/stockhouse/js/configuration.js?v=01cc8ce43a5245ae8fae4cc979de3635"></script>
+<script src="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/bootstrap.min.js" type="text/javascript"></script>
+<script src="/stockhouse/assets/js/sh.min.js?v=1.0.0.24642" type="text/javascript"></script>
 
 
 
@@ -722,10 +952,64 @@ theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 </script>
 </form>
   
+    <script type="text/javascript">
+
+    var _sf_async_config = {};
+
+    _sf_async_config.uid = 54918;
+    _sf_async_config.domain = 'stockhouse.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'General';
+    _sf_async_config.authors = 'Other'; 
+        
+    (function () {   
     
+    function loadChartbeat() {
+    window._sf_endpt = (new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+    }
+
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ? loadChartbeat : function () { oldonload(); loadChartbeat(); };
+
+    })();       
+    
+
+</script>
+<script type="text/javascript">
+_qevents.push( { qacct:'p-ZsB88wt2KmZ_X'} )
+</script>
+<noscript>
+<div style='display: none;'>
+<img src='http://pixel.quantserve.com/pixel/p-test123.gif' height='1' width='1' alt='Quantcast'/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+//this uses sh.membership.loginViewModel.js and sh.membership.resetPasswordViewModel
+        stockhouse.web.UI.setupLogin();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+//this uses sh.membership.registrationViewModel.js
+        stockhouse.web.UI.setupRegistration();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+//this uses sh.membership.loginViewModel.js
+    stockhouse.web.UI.setupMemberbar();
+//]]>
+</script>
+
     
 
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
