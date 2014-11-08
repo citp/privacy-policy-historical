@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedxtube.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504004105id_/http%3A//nakedxtube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedxtube.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108022229id_/http%3A//nakedxtube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to nakedxtube.com
 
