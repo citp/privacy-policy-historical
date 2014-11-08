@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportalink.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812004357id_/http%3A//www.sportalink.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportalink.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108070811id_/http%3A//www.sportalink.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to Sportalink
 
