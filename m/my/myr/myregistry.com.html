@@ -1,25 +1,40 @@
-<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2014-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140508233113id_/http%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108124017id_/http%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>MyRegistry.com - All Stores, One Registry® Gift Registry, Baby Registry, Bridal Registry, Wedding Registry</title><meta name="description" content="Create the ultimate online gift registry at MyRegistry.com. Add items from any store in the world onto one universal gift list. Great for Wedding, Baby, Bridal Shower wishlists and more!"><meta name="keywords" content="Gift Registry, Bridal Registry, Baby Registry, Wedding Registry, Universal Gift Registry, Cash Gift Registry, Wish List, Wedding Gift list, Holiday Wish List, Birthday Gift, Graduation Gift, Christmas Gift List, Honeymoon Registry, Donation, Organization Fund, Charity, Universal Wishlist, Celebrity Gift Registry"><link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Statement - MyRegistry.com
+</title><meta name="description" content="This Privacy Statement sets forth the information gathering, use, and dissemination practices of MyRegistry LLC (&quot;MyRegistry&quot;) in connection with the World Wide Web site located at www.myregistry.com (the “Site”). "><meta name="keywords" content="privacy statement, privacy policy, Opt-Out"><link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201405071300496640"></script>
-    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201405071300496640"></script>
-    <link href="/StyleSet/MrMainStyles.css?version=201405080023002745" rel="stylesheet" type="text/css">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201411031249212303"></script>
+    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201411031249212303"></script>
+    <link href="/StyleSet/MrMainStyles.css?version=201411080023003141" rel="stylesheet" type="text/css">
 <script type="text/javascript">
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-23309797-1']);
-    _gaq.push(['_setDomainName', 'myregistry.com']);
-    _gaq.push(['_trackPageview']);
+    var GoogleTracking = {
+        account: 'UA-23309797-1',
+        domainName: 'myregistry.com',
+        isEnabled: true,
+        Initialize: function() {
+            _gaq.push(['_setAccount', this.account]);
+            _gaq.push(['_setDomainName', this.domainName]);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
 
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        },
+        trackEvent: function(category, action, label, value) {
+            if (this.isEnabled) {
+                _gaq.push(['_trackEvent', category, action, label, value]);
+            }
+        }
+    };
+    GoogleTracking.Initialize();
+    _gaq.push(['_trackPageview']);
 </script>
  
-<!-- Google Publisher Tag BEGIN-->
+<!--Google Publisher Tag BEGIN-->
 <script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -38,8 +53,9 @@
 <script type="text/javascript">
     var GoogleTag = {
         Initialized: false,
+        RegistryType: "",
         Initialize: function () {
-            if (GoogleTag.GetRegistryType()) {
+            if (!GoogleTag.Initialized && GoogleTag.GetRegistryType()) {
                 GoogleTag.PushTags();
                 GoogleTag.Initialized = true;
             }
@@ -65,16 +81,16 @@
         },
         GetRegistryType: function () {
             var rType;
-            rType = $("#RegistryType").val();
-            //rType = "Wedding";
+            rType = GoogleTag.RegistryType || $("#RegistryType").val();
             if (!rType) {
                 var rTypeFromCookie = GoogleTag.getCookie('MrMarketingRegistryType');
                 if (rTypeFromCookie != null) {
                     rType = (rTypeFromCookie.indexOf('Baby') != -1) ? "Baby" :
                         (rTypeFromCookie.indexOf('Wedding') != -1) ? "Wedding" :
                             (rTypeFromCookie.indexOf('Lifestyle') != -1) ? "Lifestyle" : "";
-                }
-            }
+                } else rType = "Lifestyle";
+            } 
+            
             return rType;
         },
         PushTags: function () {
@@ -110,16 +126,81 @@
                 googletag.defineSlot('/21500042/VGL_Top_Leader_728x90', [728, 90], 'div-gpt-ad-1384806024094-0').addService(googletag.pubads());
                 googletag.defineSlot('/21500042/mg_top_center_970x90', [970, 90], 'div-gpt-ad-1396300426810-0').addService(googletag.pubads());
                 googletag.defineSlot('/21500042/storeswelike:sky:160x600', [160, 600], 'div-gpt-ad-1396645096605-0').addService(googletag.pubads());
+                
+
+                //new banners 8/8/2014
+                googletag.defineSlot('/21500042/info_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-0').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/info_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-1').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/info_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-2').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/info_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-3').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/landing_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-4').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/landing_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-5').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/landing_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-6').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/landing_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-7').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/search_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-8').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/search_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-9').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/search_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-10').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/search_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-11').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/babyVend_B_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-0').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/babyVend_L_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-1').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/babyVend_R_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-2').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/babyVend_T_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-3').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/wedRes_B_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-4').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/wedRes_L_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-5').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/wedRes_R_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-6').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/wedRes_T_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-7').addService(googletag.pubads());
+                googletag.defineSlot('/21500042/sync_B_leader_728x90', [728, 90], 'div-gpt-ad-1407972263082-0').addService(googletag.pubads());
+                
                 googletag.pubads().collapseEmptyDivs(true);
                 
                 googletag.pubads().setTargeting("reg", GoogleTag.GetRegistryType()); //live
                 
                 googletag.enableServices();
             });
+        },
+        GoogleBannerPosition: function () {
+            var mgGoogleBanners = setInterval(function () {
+                // Changing window size depend on Google Banners
+                if (GoogleTag.IsLeftBannerExist() && GoogleTag.IsRightBannerExist()) { // left + right
+                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '1300px');
+                    $('#MR_GlobalLeftBanner, #MR_GlobalRightBanner').scrollToFixed();
+                    $('#giftListManageButtonsContainer').trigger('detach.ScrollToFixed').scrollToFixed();
+                    clearInterval(mgGoogleBanners);
+                } else if (GoogleTag.IsLeftBannerExist() || GoogleTag.IsRightBannerExist()) { // left or right
+                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '1140px');
+                    $('#MR_GlobalLeftBanner, #MR_GlobalRightBanner').scrollToFixed();
+                    $('#giftListManageButtonsContainer').trigger('detach.ScrollToFixed').scrollToFixed();
+                } else {
+                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '960px');
+                }
+            }, 200);
+
+            $(window).bind("load", function() {
+                clearInterval(mgGoogleBanners);
+                if (GoogleTag.IsTopBannerExist()) {
+                    $("#MR_GlobalTopBanner div").first().css('padding', '5px 0');
+                }
+            });
+        },
+        IsLeftBannerExist: function () {
+            var leftBanner = $("#MR_GlobalLeftBanner iframe").contents().find('body').html();
+            return (typeof leftBanner != 'undefined' &&
+                leftBanner != "" &&
+                    leftBanner != null) ? true : false; 
+        },
+        IsRightBannerExist: function () {
+            return $("#MR_GlobalRightBanner iframe").contents().find('div').length > 0;
+        },
+        IsTopBannerExist: function () {
+            return $("#MR_GlobalTopBanner iframe").contents().find('div').length > 0;
+        },
+        IsManageGiftsMiddleBannerExist: function () {
+            return $("#ManageGiftsMiddleBanner iframe").contents().find('div').length > 0;
         }
     };
 </script>
 <!-- Google Publisher Tag END-->
+
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">                                                                                                _atrk_opts = { atrk_acct: "ggrge1aUY9008q", domain: "myregistry.com" }; atrk();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=ggrge1aUY9008q" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
@@ -157,17 +238,36 @@
             window.print();
         }
     </script>
-<title>
-	Privacy Policy
-</title><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=60303108"></script></head>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            GoogleTag.Initialize();
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-0'); });
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-1'); });
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-2'); });
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1407511021360-3'); });
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            GoogleTag.GoogleBannerPosition();
+        });
+    </script>
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=60303108"></script></head>
 <body style="">
     <form method="post" action="Privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkYA9vkPGPqRi1dJrOWL6rB1ebONI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMDcxMDExNmRk3CEKil6V+DVyoavyY8SfiguO+Ag=">
 
+    <div id="MR_GlobalTopBanner">
+        
+    <div id="div-gpt-ad-1407511021360-3" style="width: 728px; margin: 0 auto; padding: 5px 0;"></div>
+
+    </div>
     <div id="MR_GlobalWrapper">
+        <!--[if gt IE 9]><!-->
+        <div id="BlockLayer" class="disabled" style="position: fixed;width: 100%;height: 100%;background-color: rgb(255, 255, 255);opacity: 0.7;z-index: 1021;visibility: hidden; cursor: pointer" textedited=""></div>
+        <!--<![endif]-->
         <div id="MR_GlobalTop">
-            
-            
             
 <div class="mrw_master_header">
     <div class="mr_header" style="margin-bottom: 40px;">
@@ -214,7 +314,7 @@
             </div>
             <div class="mr_onclick_email_login_panel" style="display: none; padding-top: 34px;">
                 <div style="padding-top: 3px;">
-                    <input type="email" placeholder="Email" id="txtLoginUserName" class="mr_hmpg_login_field mr_default_white_input mr_signup_field" value="">
+                    <input type="text" placeholder="Email" id="txtLoginUserName" class="mr_hmpg_login_field mr_default_white_input mr_signup_field" value="">
                 </div>
                 <div style="padding-top: 6px;">
                     <input type="password" placeholder="Password" id="txtLoginPassword" class="mr_hmpg_login_field mr_default_white_input mr_signup_field">
@@ -224,8 +324,8 @@
                         forgot password?</a>
                 </div>
                 <div class="la" style="padding: 0px 0px 8px 13px;">
-                    <input type="checkbox" class="mrw_inputcheck" id="keepMeLoggedIn">
-                    <label for="keepMeLoggedIn">
+                    <input type="checkbox" class="mrw_inputcheck" id="chkLoginKeepMe">
+                    <label for="chkLoginKeepMe">
                         Keep me logged in
                     </label>
                 </div>
@@ -336,7 +436,8 @@
         <div id="MR_GlobalMiddle">
             <div id="MR_GlobalLeftBanner">
                 
-                
+    <div id="div-gpt-ad-1407511021360-1"></div>
+
             </div>
             <div style="text-align: center">
                 <div id="MR_GlobalMain">
@@ -349,189 +450,85 @@
         <div class="header">
             MyRegistry LLC Privacy Statement</div>
         <div class="content">
-            This Privacy Statement sets forth the information gathering, use, and dissemination
-            practices of MyRegistry LLC ("MyRegistry") in connection with the World Wide
-            Web site located at www.myregistry.com (the “Site”). This Privacy Statement addresses
-            MyRegistry’s practices regarding information collected only directly through or
-            from the Site - it does not address or govern any information gathering, use, or
-            dissemination practices related to information collected other than directly through
-            or from the Site, including, without limitation, from or via telephone, facsimile,
-            postal mail, personal delivery, or other offline means or media. MyRegistry can
-            be contacted by mail at 2050 Center Ave, Suite 100, Fort Lee, NJ 07024, or by e-mail
-            at <a href="mailto:customercare@myregistry.com">customercare@myregistry.com</a>.<br>
-            <br>
-            <h1 class="forms_header">
-                Information Collection</h1>
-            MyRegistry collects and may track (1) the e-mail addresses of member visitors that
-            communicate with MyRegistry via e-mail, (2) information knowingly provided by the
-            visitor in online forms, registration forms, order forms, surveys, e-mail, the "Contact
-            Us" section of the Site, other inquiries visitors may make through the Site, and
-            other online avenues (including, but not limited to, information such as demographic,
-            business profile, and personal profile data), (3) the home server domain names,
-            e-mail addresses, type of client computer, files downloaded, search engine used,
-            operating system, and type of Web browser of member visitors to the Site, and (4)
-            aggregate and user-specific information regarding which pages Site member visitors
-            access. MyRegistry web servers may seek to place a "cookie" (a small data file)
-            on your computer's hard drive which allows the server to identify the computer when
-            it visits MyRegistry again, in order to track statistical information about navigation
-            to, and throughout, certain areas of our Site, and navigation to MyRegistry promotions
-            on third party Web sites. This cookie is not used to obtain your name or any personal
-            data, and the information that is tracked is used only for internal purposes. However,
-            if you prefer not to accept cookies, you can set your browser to reject them or
-            to alert you before one is placed. When a member visitor performs a search within
-            the Site, MyRegistry may record information identifying the member visitor or linking
-            the member visitor to the search performed. MyRegistry may also record limited information
-            for every member visit and search request, for example, in the form of a Web or
-            Site log, and use that information to provide member visitors with a better experience
-            while visiting our Site, to solve technical problems with the services available
-            directly or indirectly in connection with the Site, and to calculate overall usage
-            statistics.<br>
-            <br>
-            <h1 class="forms_header">
-                Use of Personal Data Collected</h1>
-            Personal data collected by MyRegistry may be used by MyRegistry for many reasons,
-            for example, for editorial and feedback purposes; to improve your shopping experience;
-            to communicate with you about products, promotions, services, and contests; to maintain
-            your account; for administration and review of the Site content; for product development;
-            for content improvement; for fulfillment of a requested transaction or recordkeeping;
-            for marketing and promotional purposes; for a statistical analysis of users’ behavior;
-            or to customize the content and layout of the Site. Aggregate data regarding member
-            visitors’ home servers may be used for internal purposes, and individually identifying
-            information, such as names, postal and e-mail addresses, phone numbers, and other
-            personal information which visitors voluntarily provide to MyRegistry may be added
-            to MyRegistry’s databases and used for future calls and mailings regarding Site
-            updates, new products and services, and upcoming events. MyRegistry also may use
-            member visitor data to contact the member visitors regarding account status and
-            changes to the Web Site Terms and Conditions, Online Agreement, Privacy Statement,
-            and any other policies or agreements relevant to member visitors. Additionally,
-            MyRegistry may send members electronic mail regarding billing, administrative, or
-            legal matters relating to the Site or services available or provided via the Site
-            or notifying you of special offers or promotions. In addition, you may use the Site’s
-            “Tell A Friend” feature which allows you to send an email inviting your friends
-            to join the Site or view a partner’s site. In order to use the “Tell A Friend” feature
-            MyRegistry will obtain your friend’s email address and any other necessary information
-            in order to send the request. MyRegistry will store such information solely for
-            the purpose of processing such requests.<br>
-            <br>
-            <h1 class="forms_header">
-                Disclosure of Data to Third Parties</h1>
-            <span style="color: red">MyRegistry.com will never sell, rent or share your personal
-                information with any third parties</span>, except when necessary to complete
-            a transaction that you requested, for example, product fulfillment companies, credit
-            card processing companies and banks for marketing and promotional purposes, or as
-            described herein. We may disclose personal information when legally required, or
-            in the good faith belief that such action is necessary in order to comply with the
-            law or legal process. Identifiable and non-identifiable user information and data
-            may be disclosed or distributed to another party with which MyRegistry enters or
-            reasonably may enter into a corporate transaction, such as, for example, a merger,
-            consolidation, acquisition, or asset purchase, or if determined by MyRegistry in
-            its sole judgment that such disclosure or distribution is appropriate to protect
-            the life, health, or property of MyRegistry or any other person or entity. Personal
-            information will <u>never</u> be shared for profit. MyRegistry also may disclose
-            information about member visitors’ Site usage and demographics to third parties
-            on an aggregate basis. Aggregate data regarding member visitors’ home servers and
-            individually identifying information, such as names, postal and e-mail addresses,
-            and phone numbers, may be disclosed or distributed: to another party with which
-            MyRegistry enters or reasonably may enter into a corporate transaction, such as,
-            for example, a merger, consolidation, acquisition, or asset purchase; or to a third
-            party pursuant to a subpoena, court order, or other form of legal process; in response
-            to a request by or on behalf of any local, state, federal, or other government agency,
-            department, or body, whether or not pursuant to a subpoena, court order, or other
-            form of legal process; or if determined by MyRegistry in its sole judgment that
-            such disclosure or distribution is appropriate to protect the life, health, or property
-            of MyRegistry or any other person or entity. MyRegistry is not responsible for,
-            and will not be liable for, the conduct, actions, omissions, or information handling
-            or dissemination practices of any third party. This Site may contain links to other
-            World Wide Web sites or advertisements for or placed by third parties. MyRegistry
-            has no control over Web sites that we provide links to, and is not responsible for
-            the privacy practices of such Web sites, advertisers, or third parties, or for the
-            content of such sites or advertisements. It is possible that these links or advertisements,
-            themselves, may be used by third parties or others to collect personal or other
-            information about Site visitors. It is solely the visitors’ obligation to review
-            and understand the privacy practices and policies of these other Web sites and of
-            these advertisers and third parties.<br>
-            <br>
-            <h1 class="forms_header">
-                Security Measures</h1>
-            MyRegistry has implemented security features that are designed to prevent the unauthorized
-            release of or access to personal information. For example, all information personally
-            identifying to our visitors is stored on a highly secure server, and all credit
-            card information is stored in a clear format. Once we receive personally-identifiable
-            information, we take steps to protect its security on our systems. In the event
-            we request or transmit sensitive information, such as credit card information, we
-            use industry standard, secure socket layer ("SSL") encryption.<br>
-            <br>
-            <h1 class="forms_header">
-                Links to Other Sites and Financial Information</h1>
-            The Site may also contain links to other sites or advertisements for or placed by
-            third parties, including sites that enable you to purchase products and services,
-            such as those of MyRegistry’s partners. If you access a third party site from a
-            link on this Site, any information you disclose on that site is not subject to this
-            Privacy Statement. It is possible that these links may be used by third parties
-            to collect personal or other information about you. MyRegistry is not responsible
-            for the privacy practices of such Web sites, advertisers, or third parties or the
-            content of such sites and it is your sole obligation to review and understand the
-            privacy practices and policies of these other web sites. MyRegistry does not control
-            these third parties’ use of cookies, collection of information, or how they manage
-            such information. It is solely your obligation to review and understand the privacy
-            practices and policies of these other Web sites, advertisers and any third parties.<br>
-            <br>
-            <h1 class="forms_header">
-                Privacy of Children</h1>
-            The Site is not intended for children under the age of 13. It does not knowingly
-            collect personal information online from users in this age group. All users must
-            be at least 18 years of age in order to use the Site and to provide information
-            to the Site.<br>
-            <br>
-            <h1 class="forms_header">
-                Opt-Out Right</h1>
-            Except as necessary for MyRegistry to provide the services, information, or products
-            requested by a visitor, the visitor may opt out of having his or her personally
-            identifiable information, which has been voluntarily provided to MyRegistry through
-            an account registration, customer order, or other account activity, prospectively
-            retained by MyRegistry, prospectively used by MyRegistry for secondary purposes,
-            or prospectively disclosed by MyRegistry to third parties by contacting MyRegistry
-            via postal mail or e-mail at the addresses set out above. (This does not apply to
-            collection of the type of Web browser of the visitor to the Site or to information
-            provided or collected that does not meet the description in this Section.)<br>
-            <br>
-            <h1 class="forms_header">
-                Access and Ability to Correct Personal Data</h1>
-            Upon a visitor’s request via the Site, postal mail or e-mail, MyRegistry will provide
-            to the visitor a summary of any personally identifiable information retained by
-            MyRegistry regarding the visitor, which information has been voluntarily provided
-            by a visitor to MyRegistry through an account registration, customer order, or electronic
-            news or information subscription. A visitor may modify, correct, change or update
-            their personally identifiable information by contacting MyRegistry via the Site,
-            postal mail or e-mail at the addresses or numbers above.<br>
-            <br>
-            <h1 class="forms_header">
-                Changes to Privacy Policy</h1>
-            We may revise this online privacy policy at any time. Notice of any new or revised
-            Privacy Statement, as well as the location of the new or revised statement, will
-            be posted on the Site for at least 20 days after the change. It is the obligation
-            of users returning to the Site to learn of changes to the Privacy Statement since
-            their last visit. Any change to this Privacy Statement shall be effective as to
-            any visitor who has visited the Site before the change was made.<br>
-            <br>
-            <h1 class="forms_header">
-                Your California Privacy Rights</h1>
-            If you are a California resident, California Civil Code Section 1798.83 provides
-            you with the right to request certain information regarding disclosure of your personal
-            information to third parties for direct marketing purposes, including a description
-            of the categories of personal information disclosed. In order to obtain such information,
-            please email your request to <a href="mailto:info@myregistry.com" class="forms_link">
-                info@myregistry.com</a> or write us at the address above.<br>
-            <br>
-            <h1 class="forms_header">
-                Contact</h1>
-            If problems arise, users may contact MyRegistry by email at <a href="mailto:customercare@myregistry.com" class="forms_link">customercare@myregistry.com</a>. If you have any further
-            questions about privacy or security, please contact us by sending an email to: <a href="mailto:customercare@myregistry.com" class="forms_link">customercare@myregistry.com</a>.<br>
-            <br>
+            <p>
+            This Privacy Statement sets forth the information gathering, use, and dissemination practices of MyRegistry LLC ("MyRegistry") in connection with the World Wide Web site located at www.myregistry.com (the “Site”). This Privacy Statement addresses MyRegistry’s practices regarding information collected only directly through or from the Site - it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other offline means or media. MyRegistry can be contacted by mail at 2050 Center Ave, Suite 100, Fort Lee, NJ 07024, or by e-mail at  
+                <a href="mailto:customercare@myregistry.com">customercare@myregistry.com</a>.<br>
+            </p>
+            <p>
+                </p><h1 class="forms_header">
+                    Information Collection
+                </h1>
+                MyRegistry collects and may track (1) the e-mail addresses of member visitors that communicate with MyRegistry via e-mail, (2) information knowingly provided by the visitor in online forms, registration forms (including registration forms completed through a Partner Website (“Partner Website” is defined as a third party company that is using the MyRegistry.com gift registry software to allow you to sign up for the Site)), order forms, surveys, e-mail, the "Contact Us" section of the Site, other inquiries visitors may make through the Site, and other online avenues (including, but not limited to, information such as demographic, business profile, and personal profile data), (3) the home server domain names, e-mail addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of member visitors to the Site, and (4) aggregate and user-specific information regarding which pages Site member visitors access. MyRegistry web servers may seek to place a "cookie" (a small data file) on your computer's hard drive which allows the server to identify the computer when it visits MyRegistry again, in order to track statistical information about navigation to, and throughout, certain areas of our Site, and navigation to MyRegistry promotions on third party Web sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed. When a member visitor performs a search within the Site, MyRegistry may record information identifying the member visitor or linking the member visitor to the search performed. MyRegistry may also record limited information for every member visit and search request, for example, in the form of a Web or Site log, and use that information to provide member visitors with a better experience while visiting our Site, to solve technical problems with the services available directly or indirectly in connection with the Site, and to calculate overall usage statistics.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Use of Personal Data Collected
+                </h1>
+                Personal data collected by MyRegistry may be used by MyRegistry for many reasons, for example, for editorial and feedback purposes; to improve your shopping experience; to communicate with you about products, promotions, services, and contests; to maintain your account; for administration and review of the Site content; for product development; for content improvement; for fulfillment of a requested transaction or recordkeeping; for marketing and promotional purposes; for a statistical analysis of users’ behavior; or to customize the content and layout of the Site. Aggregate data regarding member visitors’ home servers may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to MyRegistry may be added to MyRegistry’s databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events. MyRegistry also may use member visitor data to contact the member visitors regarding account status and changes to the Web Site Terms and Conditions, Online Agreement, Privacy Statement, and any other policies or agreements relevant to member visitors. Additionally, MyRegistry may send members electronic mail regarding billing, administrative, or legal matters relating to the Site or services available or provided via the Site or notifying you of special offers or promotions. In addition, you may use the Site’s “Tell A Friend” feature which allows you to send an email inviting your friends to join the Site or view a partner’s site. In order to use the “Tell A Friend” feature MyRegistry will obtain your friend’s email address and any other necessary information in order to send the request. MyRegistry will store such information solely for the purpose of processing such requests.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Disclosure of Data to Third Parties
+                </h1>
+                <span style="color: red">MyRegistry.com will never sell, rent or share your personal information with any third parties</span>, except (i) when necessary to complete a transaction that you requested, for example, product fulfillment companies, credit card processing companies and banks for marketing and promotional purposes, or as described herein and (ii) to share your personal information with the Partner Website to whom you provided your information as a part of the sign-up process for the Site. For use by the company who operates the Partner Website for its own marketing and  business purposes.
+                We may disclose personal information when legally required, or in the good faith belief that such action is necessary in order to comply with the law or legal process. Identifiable and non-identifiable user information and data may be disclosed or distributed to another party with which MyRegistry enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or if determined by MyRegistry in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of MyRegistry or any other person or entity. Personal information will never be shared for profit. MyRegistry also may disclose information about member visitors’ Site usage and demographics to third parties on an aggregate basis. Aggregate data regarding member visitors’ home servers and individually identifying information, such as names, postal and e-mail addresses, and phone numbers, may be disclosed or distributed: to another party with which MyRegistry enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase; or to a third party pursuant to a subpoena, court order, or other form of legal process; in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process; or if determined by MyRegistry in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of MyRegistry or any other person or entity. MyRegistry is not responsible for, and will not be liable for, the conduct, actions, omissions, or information handling or dissemination practices of any third party. This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. MyRegistry has no control over Web sites that we provide links to, and is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Security Measures
+                </h1>
+                MyRegistry has implemented security features that are designed to prevent the unauthorized release of or access to personal information. For example, all information personally identifying to our visitors is stored on a highly secure server, and all credit card information is stored in a clear format. Once we receive personally-identifiable information, we take steps to protect its security on our systems. In the event we request or transmit sensitive information, such as credit card information, we use industry standard, secure socket layer ("SSL") encryption.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Links to Other Sites and Financial Information
+                </h1>
+                The Site may also contain links to other sites or advertisements for or placed by third parties, including sites that enable you to purchase products and services, such as those of MyRegistry’s partners. If you access a third party site from a link on this Site, any information you disclose on that site is not subject to this Privacy Statement. It is possible that these links may be used by third parties to collect personal or other information about you. MyRegistry is not responsible for the privacy practices of such Web sites, advertisers, or third parties or the content of such sites and it is your sole obligation to review and understand the privacy practices and policies of these other web sites. MyRegistry does not control these third parties’ use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other Web sites, advertisers and any third parties.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Privacy of Children
+                </h1>
+                The Site is not intended for children under the age of 13. It does not knowingly collect personal information online from users in this age group. All users must be at least 18 years of age in order to use the Site and to provide information to the Site.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Opt-Out Right
+                </h1>
+                Except as necessary for MyRegistry to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to MyRegistry through an account registration, customer order, or other account activity, prospectively retained by MyRegistry, prospectively used by MyRegistry for secondary purposes, or prospectively disclosed by MyRegistry to third parties by contacting MyRegistry via postal mail or e-mail at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the description in this Section.)
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Access and Ability to Correct Personal Data
+                </h1>
+                Upon a visitor’s request via the Site, postal mail or e-mail, MyRegistry will provide to the visitor a summary of any personally identifiable information retained by MyRegistry regarding the visitor, which information has been voluntarily provided by a visitor to MyRegistry through an account registration, customer order, or electronic news or information subscription. A visitor may modify, correct, change or update their personally identifiable information by contacting MyRegistry via the Site, postal mail or e-mail at the addresses or numbers above.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Changes to Privacy Policy
+                </h1>
+                We may revise this online privacy policy at any time. Notice of any new or revised Privacy Statement, as well as the location of the new or revised statement, will be posted on the Site for at least 20 days after the change. It is the obligation of users returning to the Site to learn of changes to the Privacy Statement since their last visit. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before the change was made.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Your California Privacy Rights
+                </h1>
+                If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your personal information to third parties for direct marketing purposes, including a description of the categories of personal information disclosed. In order to obtain such information, please email your request to  
+                <a href="mailto:info@myregistry.com" class="forms_link">
+                    info@myregistry.com
+                </a> or write us at the address above.
+            <p></p>
+            <p>
+                </p><h1 class="forms_header">
+                    Contact
+                </h1>
+                If problems arise, users may contact MyRegistry by email at <a href="mailto:customercare@myregistry.com" class="forms_link">customercare@myregistry.com</a>. If you have any further
+                questions about privacy or security, please contact us by sending an email to: <a href="mailto:customercare@myregistry.com" class="forms_link">customercare@myregistry.com</a>.<br>
+            <p></p>
             <div class="forms_end">
                 <div style="display:inline-block">
                     This Terms and Conditions Statement is effective May 3, 2006<br>
-                    <strong>Last Updated</strong>: 09/15/2011</div>
+                    <strong>Last Updated</strong>: 03/12/2014</div>
                 <div class="forms_buttons">
                     <a href="javascript:printWindow();" class="mrw_button blue">Print</a>
                 </div>
@@ -543,7 +540,13 @@
             </div>
             <div id="MR_GlobalRightBanner">
                 
+    <div id="div-gpt-ad-1407511021360-2"></div>
+
+            </div>
+            <div id="MR_GlobalBottomBanner">
                 
+    <div id="div-gpt-ad-1407511021360-0" style="width: 728px; margin: 0 auto; padding: 5px 0;"></div>
+
             </div>
         </div>
     </div>
@@ -641,6 +644,7 @@
     <div id="hiddenFields">
         <input id="WebsiteHost" type="hidden" value="http://www.myregistry.com/">
         <input id="RegistryType" type="hidden" value="">
+        <input id="isAuthenticated" type="hidden" value="False">
     </div>
     <div id="mrExternalScripts">
         
