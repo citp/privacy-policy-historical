@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209120005id_/http%3A//www.haven.com/support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108012518id_/http%3A//www.haven.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Haven - Privacy Policy
 
