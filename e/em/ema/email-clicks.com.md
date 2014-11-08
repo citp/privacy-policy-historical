@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the email-clicks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062909id_/http%3A//email-clicks.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-clicks.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108032026id_/http%3A//www.email-clicks.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | FEEDGEE email marketing tools
 
