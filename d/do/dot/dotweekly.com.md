@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625183212id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108040953id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DotWeekly.com
+
+You are here:  [Home](http://dotweekly.com/) » Privacy Policy
 
 **What information do we collect?**
 
@@ -67,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.DotWeekly.com](http://web.archive.org/web/20121006111226/http://www.dotweekly.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.DotWeekly.com](http://web.archive.org/web/20121006111226/http://dotweekly.com/)
 
 **Your Consent**
 
