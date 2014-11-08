@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qt-project.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527212016id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qt-project.org privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108042251id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
