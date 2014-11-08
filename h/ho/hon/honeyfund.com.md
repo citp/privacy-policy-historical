@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214059id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108033252id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Honeyfund.com, the free honeymoon registry
+# Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry
 
-_Last updated January, 13, 2010_
+_Last updated October 22, 2013_
 
 Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, [www.honeyfund.com](http://www.honeyfund.com/) (the "Site"). This privacy policy was created to let you know why we collect information from you and what we do with it. By using the Site, you consent to the following terms.
 
@@ -16,17 +16,19 @@ This statement discloses the privacy practices of Honeyfund.com, Inc. It covers:
 
 
 
-### How we collect your information
+#### How we collect your information
 
-#### Information collected at registration
+### Information collected at registration
 
 Honeyfund.com, Inc. collects personal information when you register with us and when you use Honeyfund services. Honeyfund.com, Inc. may combine this information about you with information we obtain from business partners or companies. During registration, we require members to give us basic contact information (such as your and your future spouse's first names, last names and e-mail addresses), wedding and honeymoon information (such as your wedding date and preferred honeymoon destination) and demographic information (such as your ZIP or postal code). Registration information is collected via Secure Socket Layer (SSL) protocol (https). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services.
+
+Users who register through Facebook agree to share their public Facebook profile, friend list and e-mail address via Facebook's App permissions interface.
 
 Users who give gifts to Honeyfund.com members are not required to register. However, some information is collected during the "Give a Gift" process, including first and last name and e-mail address. This information is associated with the member's account. The e-mail address collected during the “Give a Gift” process is kept private and not shared with third parties. It is used by Honeyfund.com, Inc. to communicate with the gift giver regarding their gift. 
 
 We do not accept registrations from persons under the age of 18. Honeyfund services are available only to persons who are 18 years of age and over. If we learn that a user is under the age of 18, we will terminate the account and delete the user's information. Honeyfund.com, Inc. will not be liable for any content or advertisements viewed by minor children in violation of the terms of this agreement.
 
-#### Information collected through use of Honeyfund.com
+### Information collected through use of Honeyfund.com
 
 In addition to the questions you answer when you register for Honeyfund.com membership, we collect information necessary to create your honeymoon registry, including but not limited to at least one registry item and a contact person. Personal information is collected via Secure Socket Layer (SSL) protocol (https). When you enter this information and publish your honeymoon registry, you agree to make it public and accessible by visitors to Honeyfund.com. Note you are responsible for obtaining permission to publish your contact person's information like name and telephone number.
 
@@ -38,11 +40,11 @@ You can browse the Honeyfund.com website without registering or providing any pe
 
 ### What we do with the information we collect
 
-Information we collect from your membership helps us to make your registry available to your guests, improve our content, customize certain pages for you, send promotional information, and update you about Honeyfund.com, Inc..
+Information we collect from your membership helps us to make your registry available to your guests, improve our content, customize certain pages for you, make third-party payment systems available to you, and provide you with promotional information and updates about Honeyfund.com, Inc. and it's affiliates.
 
 ### With whom do we share information
 
-Honeyfund.com, Inc. does not share your personal information with third parties, except where reasonably necessary to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
+Honeyfund.com, Inc. does not share your personal information with third parties, except where reasonably necessary to provide you with site functionality including but not limited to third-party payment systems, to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
 
 ### Changing your personal information
 
