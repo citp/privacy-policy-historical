@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booyah.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627143018id_/http%3A//www.booyah.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booyah.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108084815id_/http%3A//www.booyah.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Booyah!
 
