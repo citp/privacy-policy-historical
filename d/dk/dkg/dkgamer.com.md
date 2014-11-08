@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkgamer.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201020303id_/http%3A//www.slixmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkgamer.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108025902id_/http%3A//www.slixmedia.com/privacy) for the most accurate reproduction.*
 
 # Slix Media - Leading the Industry
 
@@ -136,9 +136,3 @@ If you have a privacy question about our Services, please go to our [Support Cen
 ## 15\. CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change, modify or amend this Privacy Policy at any time to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Effective Date" and such changes will be effective upon posting. If we make material changes to this Privacy Policy, we will notify you by prominently posting a notice on the Website or by sending you a notice to the e-mail address we have on file for you. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the Effective Date of the revised policy. It is your responsibility to periodically check and review our Privacy Policy for changes. 
-
-## Welcome to the Slix Media Entertainment Network
-
-### Leading the Industry...
-
-Slix Media is a collection of highly entertaining gaming websites. We start with great domains and develop them into highly engaging portals with a strong focus on user experience and premium content!
