@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629014053id_/http%3A//www.foxrentacar.com/about-fox/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108234943id_/http%3A//www.foxrentacar.com/about-fox/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,10 @@ Our Website typically collects two kinds of information about you: (a) informati
 **(1) Personally Identifiable Information:** Our definition of “personally identifiable information” includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc.
 
 When you place a reservation online with us, or if you sign up for our Fox Rewards Program, in order to process the rental reservation we collect some or all of the following personal information about you depending on the location of the rental and the type of vehicle reserved:
+
+Name  
+Telephone number  
+Street Address
 
 Credit card information  
 Email address  
@@ -68,6 +72,9 @@ If you are concerned about the storage and use of cookies, you may be able to di
 
 **(6) Your California Privacy Rights:** Residents of the State of California have the right to request from certain business with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes. We are only required to respond to a customer request once during any calendar year. To obtain this information you should send a request to [privacy@foxrentacar.com](mailto:privacy@foxrentacar.com) with the subject heading “California Privacy Rights.” In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the **California Privacy Rights Requirements _(should include a link to this information)_** and only information on covered sharing will be included in our response.
 
+  
+**(7) OnStar Equipment:** If my rental vehicle has active OnStar equipment, I understand that my use of the vehicle is subject to the OnStar Terms and Conditions and Privacy Statement, a current copy of which is available at www.onstar.com, including system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices relating to OnStar’s collection, use and sharing of information about me and the vehicle, and the application of other relevant provisions including responsibilities I have when using OnStar services.  Further details regarding the OnStar Terms and Conditions and Privacy Statement are available at OnStar.com.  By proceeding to rent the vehicle and sign this contract, I authorize the provision of OnStar services in accordance with the OnStar Terms and Conditions and Privacy Statement, and agree to be bound by the OnStar Terms and Conditions and Privacy Statement.
+
 **D. PUBLIC FORUMS**
 
 We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. 
@@ -90,16 +97,16 @@ The features, programs, promotions and other aspects of our Website requiring th
 
 We have implemented security measures to protect against the loss, misuse and alteration of the information under our control, including Secure Sockets Layer (SSL) technology to encrypt the transmission of nonpublic personally identifiable financial and transaction information over the Internet. We also utilize additional security devices such as firewalls, security patches, and anti-virus programs, to protect nonpublic personally identifiable information. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
- **H. OTHER SITES/LINKS**
+**H. OTHER SITES/LINKS**
 
 Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
 
- **I. CONTACT & OPT-OUT INFORMATION**
+**I. CONTACT & OPT-OUT INFORMATION**
 
 You may contact us as at [privacy@foxrentacar.com](mailto:privacy@foxrentacar.com) if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
- **J. SOLE STATEMENT**
+**J. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
