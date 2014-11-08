@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdtemp.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055840id_/http%3A//psdtemp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdtemp.net privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108201923id_/http%3A//psdtemp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSD Design
 
