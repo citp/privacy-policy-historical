@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055456id_/http%3A//www.100marks.in/News/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108093812id_/http%3A//www.100marks.in/News/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy »
 
 To avail certain information/services from 100Marks users are required to provide some personal details like – Name, Address, Sex, Age, Email id etc., and the like. (All required information is Service Dependent). The Information supplied enables to improve the content and service. If you choose not to provide us with certain personal information, we may not be able to provide you with the information/services you require, or of the desired quality we prefer to provide.
 
