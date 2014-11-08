@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228120034id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108144753id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
 
 # CoverPage - Privacy Policy
 
-**MONOGRAM Interactive LLC (MONOGRAM)** wants you to be informed and comfortable about all our actions that help us provide our services and deliver you best and secure user experience.
+_This document was last updated: 22. October 2013 by CoverPage Team_
+
+**MONOGRAM Interactive s.r.o. (MONOGRAM)** wants you to be informed and comfortable about all our actions that help us provide our services and deliver you best and secure user experience.
 
 ## What information do we collect?
 
@@ -45,6 +47,19 @@ We use cookies to understand and save your preferences for future visits and com
 
 We do not sell, trade to third parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential, including without limitation, the device's ID like (iOS UDID). We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing and advertising.
 
+## Google Analytics features
+
+We have implemented these features based on Display Advertising:
+
+  * Remarketing
+  * Google Display Network Impression Reporting
+
+
+
+We are using Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. MONOGRAM and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website.  
+MONOGRAM and third-party vendors, including Google, also use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this site.  
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings.](https://www.google.com/settings/ads)
+
 ## Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -79,14 +94,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice.
 
-**This policy was last modified on Monday, 27th June 2011**
-
 ## Contacting Us 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.coverpageapp.com  
-6911 Livingston Woods Ln  
-Naples, FLORIDA 34109  
-UNITED STATES  
-info@monograminteractive.com
+Cintorínska 3/B  
+Bratislava 811 08  
+Slovakia, EU  
+info@coverpageapp.com
