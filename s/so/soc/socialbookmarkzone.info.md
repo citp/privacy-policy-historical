@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarkzone.info privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510211858id_/http%3A//www.socialbookmarkzone.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarkzone.info privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108142731id_/http%3A//www.socialbookmarkzone.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › SocialbookmarkZone.info : Expert social marketing and bookmarking service | Great place for internet users to store, manage, share favorite links & websites at one place
 
