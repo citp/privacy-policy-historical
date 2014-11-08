@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425152924id_/http%3A//www.chinatravel.com/about-china-travel/china-travel-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108151629id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy, Chinatravel.com User Privacy and Security Protection
+# Privacy Statement, Chinatravel.com User Privacy and Security Protection
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chinatravel.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Guilin-China-International-Travel-Service-Co--Ltd/validation?rid=358c7a26-950a-4838-a8fe-f50b42b4efae "TRUSTe online privacy certification")
 
-This privacy statement describes how we collect and use the personal information you provide on our Web site: [www.chinatravel.com](http://www.chinatravel.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement applies to http://www.chinatravel.com owned and operated by Guilin China International Travel Service Co. Ltd ("Chinatravel.com"). This privacy statement describes how Chinatravel.com collects and uses the personal information you provide on our Web site: www.chinatravel.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Chinatravel.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at CITS Guilin, No.11 Binjiang Road, Guilin, China 541002 or email to [marketing@chinatravel.com](mailto:marketing@chinatravel.com). 
+Chinatravel.com has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at CITS Guilin, No.11 Binjiang Road, Guilin, China 541002 or email to [marketing@chinatravel.com](mailto:marketing@chinatravel.com). 
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. ****
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, http://www.chinatravel.com and does not cover information that may be collected through software downloaded from the site. ****
 
 ## Collection and Use of Personal Information
 
@@ -62,13 +62,13 @@ We may also disclose your personal information:
 
 ### Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personally identifiable information you submit while on our site. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personal information you submit while on our site. 
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. 
 
 We use cookie in our hotel & flights pages, order forms and account login pages, we set a persistent cookie to store the check in/out date selection, password and some information that you filled, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  If you reject cookies, you can still use our site, but you may enter the same information many times. _Tracking Technologies &_ _Third Party Cookies_ The use of cookies by our tracking utility company, service providers are not covered by our privacy statement.  We do not have access or control over these cookies.  Our tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
 
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., flychina.com, boldchat.com, visahq.com, worldnomads.com) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by China Highlights only and does not cover the use of cookies by any third-party.
+We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., flychina.com, boldchat.com, visahq.com, worldnomads.com) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by China Highlights only and does not cover the use of cookies by any third-party.
 
 ### Web beacons
 
@@ -76,7 +76,16 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 We use a third party (Google analytics) to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-_Links to Other Web Sites_
+### **Flash LSOs**
+
+We use local storage objects (LSOs) to store content information and preferences [or – other uses].  
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+
+### Links to Other Web Sites
 
 Our Site includes links to other Web sites whose privacy practices may differ from Chinatravel.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
@@ -95,13 +104,15 @@ Our Web site offers publicly community forums like travel stories and reviews sh
 
 You can link to our site using social networking services such as Facebook, Twitter, TripAdvisor, Lonelyplanet and Wiki. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook & Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-Tell-A-Friend: If you choose to use our referral service to tell a friend about our site or send free e-cards to your friends, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.
+Tell-A-Friend: If you choose to use our referral service to tell a friend about our site or send free e-cards to your friends, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. Chinatravel.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at [service@chinatravel.com](mailto:service@chinatravel.com) to request that we remove this information from our database. 
 
 With your consent we may post your testimonials, questions and reviews along with your name.  If you want your testimonials, questions and reviews removed please contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
 ### **Correcting and Updating Your Personal Information**
 
 To review and update your personal information to ensure it is accurate, you may [login to your account](https://web.archive.org/my/) to make the changes or contact us directly at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [service@chinatravel.com](mailto:service@chinatravel.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### **Notification of Privacy Statement Changes**
 
@@ -110,5 +121,5 @@ We may update this privacy statement to reflect changes to our information pract
 ### **Contact Information**
 
 You can contact us about this privacy statement by writing or email us at the address below:  
-Address: CITS Guilin, No.11 Binjiang Road, Guilin, China 541002  
-Email: [marketing@chinatravel.com](mailto:marketing@chinatravel.com)
+**Chinatravel.com, No.11 Binjiang Road, Guilin, China 541002  
+Email: [marketing@chinatravel.com](mailto:marketing@chinatravel.com)**[](mailto:marketing@chinatravel.com)
