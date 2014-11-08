@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114710id_/http%3A//irf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108163742id_/http%3A//www.irf.com/privacy) for the most accurate reproduction.*
 
 # International Rectifier Privacy Policy
 
@@ -39,7 +39,7 @@ IR complies with the EU Safe Harbor Framework as set forth by the US Department 
 
 IR personnel in the EU may raise any questions or issues regarding Safe Harbor with their local Human Resources representative or the IR Safe Harbor Privacy contact. Any IR personnel in the EU that cannot resolve his or her issue directly with their Human Resources Department is permitted to contact his or her local data protection authority for further information and assistance. Any questions about IR Safe Harbor should be directed to Theresa Olson, Assistant General Counsel at [tolson1@irf.com](mailto:tolson1@irf.com).
 
-[International Rectifier Safe Harbor Statement](https://web.archive.org/web/20140626114710id_/http%3A//irf.com/privacy/safe-harbor)
+[International Rectifier Safe Harbor Statement](https://web.archive.org/web/20141108163742id_/http%3A//www.irf.com/privacy/safe-harbor)
 
 **Cookies**  
 IR is committed to continually improving the Web experience for our visitors. Currently, cookies are the most effective way of identifying a unique, anonymous visitor and their navigation during a visit. A "cookie" is a text file that is sent by a web server and stored in RAM while the browser is running so that it can be read back from that browser the next time a unique visitor returns to that web server. Companies commonly use cookies for on-line ordering systems, site personalization, and Web site tracking. Cookies allow the browser to "remember" specific information about the visitor such as last visit, time spent, or user preferences (like style sheets). When visitors to the site run into browser or HTML problems, cookies allow us to isolate their specific session in our visitor log files. This information helps to replicate the environment and isolate the problem. Cookies and registration are two methods that allow IR to offer more features to repeat visitors/customers. IR uses cookie information to understand usage patterns, to offer personalized features, or to isolate problems experienced by our users as they traverse our site. We do not use cookies for any other purpose. IR cookies are terminated when a visitor ends their browser session. However, cookies may also be stored on your computer's hard drive once you log off from our Web site.
@@ -57,7 +57,7 @@ IR Website may contain links to third party websites. This Privacy Statement doe
 We reserve the right to change this Privacy Statement at any time.
 
 **Conditions of Use**  
-By using IR’s Website, You consent to the collection and use of Your information as set forth in this Privacy Statement and to the [Terms and Conditions of Use](https://web.archive.org/web/20140626114710id_/http%3A//irf.com/privacy/terms-conditions) pertaining to our Website.
+By using IR’s Website, You consent to the collection and use of Your information as set forth in this Privacy Statement and to the [Terms and Conditions of Use](https://web.archive.org/web/20141108163742id_/http%3A//www.irf.com/privacy/terms-conditions) pertaining to our Website.
 
 **Contact Us**  
 If You have any questions or comments about IR’s Privacy Statement, please contact [tolson1@irf.com](mailto:tolson1@irf.com).
