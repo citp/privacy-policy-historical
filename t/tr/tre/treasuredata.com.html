@@ -1,0 +1,547 @@
+<!--The following is the downloaded HTML source of the treasuredata.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108205319id_/http%3A//www.treasuredata.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" id="view" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1">
+<title>Privacy Policy | Treasure Data</title>
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/ico" href="img/favicon.ico">
+<link rel="apple-touch-icon" href="img/icon.png">
+
+
+
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WDH3KQ"></script><script src="//use.edgefonts.net/lato:n1,i1,n3,i3,n4,i4,n7,i7,n9,i9.js"></script>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/mobile-redux.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+<script type="text/javascript">
+var timeout = 500;
+var closetimer = 0;
+var menuitem = 0;
+
+function menu_open() {
+	menu_canceltimer();
+	menu_close();
+	menuitem = $(this).find('div').css('visibility', 'visible');
+}
+
+function menu_close() {
+	if (menuitem) menuitem.css('visibility', 'hidden');
+}
+
+function menu_timer() {
+	closetimer = window.setTimeout(menu_close, timeout);
+}
+
+function menu_canceltimer() {
+	if (closetimer) {
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+var navleftinitial;
+var navscootinitial;
+function recalc() {
+	navleftinitial = window.innerWidth+"px";
+	navscootinitial = "-"+window.innerWidth+"px";
+}
+function nav_left_right() { 
+	recalc();
+	menu1 = $(this).nextAll("div.menu");
+	menu1.css("z-index","999");
+	$(this).nextAll("div.menu").css("z-index","999").css("display","block").css("visibility","visible");
+	$("div#supernav").animate( { left: navscootinitial});
+}
+
+// div.statement - under lnav ul at end of unav li
+// div.hidden_statement - at top of/above lnav ul
+var hovered_statement = '';
+
+function swap_dropdown_text() {
+	hovered_statement = $(this).next("div.hidden_statement").html();
+	$(this).parents("li.section_ancestor").find("div.statement").html(hovered_statement);
+}
+
+var resize_rotate;
+var w;
+var menuout = false;
+var tnavout = false;
+var navleft;
+
+resize_rotate = function() {
+	w = window.innerWidth;
+	recalc();
+	$("div.menu").css("z-index","100").css("visibility","hidden").css("left",navleftinitial);
+	if (w<769) {
+		navleft = "-"+w+"px";
+	}
+	$("#dimmer").css("height", $(window).height());
+	if (menuout) {
+		if (w>768) { /* rotating ipad from 768 to 1024 (i.e. no longer mobile template) with menuout disappears supernav, so reset */
+			$("div#supernav").css("display", "block").css("position","static");
+		} else {
+			$("div#supernav").slideUp(function() {
+				menuout = false;
+				$("div#supernav").css("left","0px");
+			});
+		}
+	}
+	if (w>768) {
+		$('#menunav > li').bind('mouseover', menu_open);
+		$('#menunav > li').bind('mouseout', menu_timer);
+		$('#menunav a').bind('mouseover', swap_dropdown_text);
+		$("div#supernav").css("display", "block").css("position","static");
+		$("div.menu").css("visibility","hidden");
+		$('ul#menunav li div.menu').css("left","0px");
+	} else {
+		$("div#supernav").css("display", "none").css("position","absolute");
+		$('#menunav > li').unbind('mouseover');
+		$('#menunav > li').unbind('mouseout');
+		$('#menunav a').unbind('mouseover');
+	}
+	// position the content of slide shows
+	if (w<481) {
+		var padtop = (w*525)/600+20;
+		$("li#slide1").css("padding-top",padtop+"px");
+		$("li#slide2").css("padding-top",padtop+"px");
+		$("li#slide3").css("padding-top",padtop+"px");
+		$("li#slide4").css("padding-top",padtop+"px");
+		$("li#slide5").css("padding-top",padtop+"px");
+		$("li#slide6").css("padding-top",(w*200)/600+"px");
+	}
+}
+
+$(document).ready(function() {
+	$('div.accordionpanel h1').click(function(e){
+		e.preventDefault();
+		$(this).closest('div').find('.accordioncontent').not(':animated').slideToggle(function() {
+			if ($(this).prev('h1').find('i').hasClass('fa-angle-right')) $(this).prev('h1').find('i.fa-angle-right').removeClass('fa-angle-right').addClass('fa-angle-down');
+			else $(this).prev('h1').find('i.fa-angle-down').removeClass('fa-angle-down').addClass('fa-angle-right');
+		});
+	});
+
+	$("div#banner div.button-red a").mouseenter(function() {
+		$(this).parents("div.button-red").addClass("button-red-hovered");
+		$(this).parents("div.button-red").find("img").attr("src","img/button_icon_trial_on.png");
+	}).mouseleave(function() {
+		$(this).parents("div.button-red").removeClass("button-red-hovered");
+		$(this).parents("div.button-red").find("img").attr("src","img/button_icon_trial.png");
+	});
+
+	$("div.button-white a").mouseenter(function() {
+		$(this).parents("div.button-white").addClass("button-white-hovered");
+		$(this).parents("div.button-white").find("img").attr("src","img/button_icon_trial.png");
+	}).mouseleave(function() {
+		$(this).parents("div.button-white").removeClass("button-white-hovered");
+		$(this).parents("div.button-white").find("img").attr("src","img/button_icon_trial_on.png");
+	});
+
+	// position the video and the (x) icon
+	var scrwidth = $(window).width();
+	var halfOfVid = 320;
+	var iconWidth = 28;
+	var buttonLeft = scrwidth - scrwidth/2 + halfOfVid - iconWidth;
+	/* $(".closebutton").css("left", buttonLeft); */
+	var vidLeft = scrwidth - scrwidth/2 - halfOfVid;
+	$("div#video").css("left", vidLeft);
+	$("#dimmer").css("height", $(document).height());
+	$(".playvideo").click(function() {
+		var vidFile = 'TreasureDataVideo20140627';
+		$('div#video').html('<video width="640" height="360" poster="video/screencap.jpg" controls autoplay><source src="video/'+vidFile+'.iphone.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2"><source src="video/'+vidFile+'.webmsd.webm" type="video/webm; codecs=vp8,vorbis"><source src="video/'+vidFile+'.oggtheora.ogv" type="video/ogg; codecs=theora,vorbis"></video>');
+		$('div#video').css("display","block");
+		/* $('.closebutton').css("display","block");
+		$('.closebutton').css("visibility","visible"); */
+		$('#dimmer').css("visibility","visible");
+		return false;
+	});
+
+	$("div#dimmer").click(function() {
+		$('div#video').html('');
+		$('div#video').css("display","none");
+		$('div#dimmer').css("visibility","hidden");
+		/* $('div.closebutton').css("display","none");
+		$('div.closebutton').css("visibility","hidden"); */
+	});
+	/*
+	$("div.closebutton").click(function() {
+		$('div#video').html('');
+		$('div#video').css("display","none");
+		$('div#dimmer').css("visibility","hidden");
+		$('div.closebutton').css("display","none");
+		$('div.closebutton').css("visibility","hidden");
+	});
+	*/
+
+	$('#producttour').bxSlider({
+		mode: 'horizontal',
+		auto: false,
+		infiniteLoop: false,
+		speed: 1000,
+		prevText: '<i class="fa fa-angle-left"></i>',
+		nextText: '<i class="fa fa-angle-right"></i>',
+		randomStart: false,
+		pager: false,
+		hideControlOnEnd: true,
+		easing: 'swing',
+		responsive: true,
+		touchEnabled: true,
+		prevSelector: '#previous-slide',
+		nextSelector: '#next-slide',
+		controls: true
+	});
+
+	$("div#navindicator").click(function() { 
+		if (menuout) {
+			$("div#supernav").slideUp(function() {
+				menuout = false;
+				$("div#supernav").css("left","0px");
+			}); 
+		} else {
+			$("div#supernav").slideDown(function() {
+				menuout = true;
+			}); 
+		}					
+	});
+	
+	recalc();
+	// position the lnav window offscreen
+	$('ul#menunav li div.menu').css("left",navleftinitial);
+	$('i.fa-chevron-right').bind('click', nav_left_right);
+	$("div.backto").click(function() {
+		$("div#supernav").animate( { left:"0px"});
+	});
+	$("div#tnavheader").click(function() {
+		if (tnavout) {
+			$("div#tnav").slideUp(function() {
+				tnavout = false;
+			}); 
+		} else {
+			$("div#tnav").slideDown(function() {
+				tnavout = true;
+			}); 
+		}					
+	});
+
+	resize_rotate();
+	document.onclick = menu_close;
+});
+window.onorientationchange = function() {
+	return resize_rotate();
+};
+var resizeTimeout = null;
+$(window).resize(function(){
+	if (resizeTimeout)
+		clearTimeout(resizeTimeout);
+	resizeTimeout = setTimeout(function(){
+		return resize_rotate();
+	}, 500);
+});
+</script>
+
+
+</head>
+<body id="privacy">
+
+<div id="main">
+<div id="topbar">
+<a href="index.php"><div id="logo"></div></a>
+<div id="navindicator"><i class="fa fa-bars"></i></div>
+<ul id="tools">
+<li><a id="blog" href="http://treasuredata.wpengine.com/">Blog</a></li>
+<li><div id="freetrial" class="button-red"><a id="tryit" href="https://console.treasuredata.com/users/sign_up">Try It Free</a></div></li>
+<li><a id="login" href="https://console.treasuredata.com/users/sign_in">Log In</a></li>
+<li><a id="japanese" href="jp/index.php">日本語</a></li>
+</ul>
+</div>
+
+
+<div id="supernavwrapper">
+<div id="supernav" style="display: block; position: static;">
+<div id="unav"><ul id="menunav">
+<li class="section_ancestor"><i id="product" class="fa fa-chevron-right"></i><a href="product.php" class="unav">Product</a>
+<div class="hidden_statement"><b>Treasure Data's Unique Technology</b><br>
+Sign up for Treasure Data and get a unique combination of technology capabilities and services in days for one monthly subscription fee, just like SaaS.</div>
+<div class="menu product" style="z-index: 100; visibility: hidden; left: 0px;">
+<div class="lnav">
+<div class="backto"><i class="fa fa-chevron-left"></i>&nbsp; Product</div>
+<a href="why_treasure.php" class="lnav">Why Treasure?</a>
+<div class="hidden_statement"><b>Why Treasure Data?</b><br>
+Find out why Treasure Data's technology and managed service model are so different from other approaches.  </div>
+<a href="tour.php" class="lnav">Product Tour</a>
+<div class="hidden_statement"><b>Product Tour</b><br>
+Get a high-level overview of the Treasure Data Service capabilities.</div>
+<a href="technology.php" class="lnav">Technology</a>
+<div class="hidden_statement"><b>Treasure Data Technology</b><br>
+Learn more about Treasure Data's unique cloud technology stack for end-to-end data processing.</div>
+<a href="pricing.php" class="lnav">Service Pricing</a>
+<div class="hidden_statement"><b>Service Pricing</b><br>
+Get a complete set of big data technology capabilities for a flat monthly subscription fee, just like SaaS.</div>
+<a href="solution_comparison.php" class="lnav">Solution Comparison</a>
+<div class="hidden_statement"><b>Solution Comparison</b><br>
+Find out how Treasure Data compares with cloud data warehouses, Hadoop and other open-source options and solutions.</div>
+</div><!-- end lnav -->
+<div class="statement">
+<b>Treasure Data's Unique Technology</b><br>
+Sign up for Treasure Data and get a unique combination of technology capabilities and services in days for one monthly subscription fee, just like SaaS.
+</div><!-- end statement -->
+</div><!-- end menu -->
+</li>
+<li class="section_ancestor"><i id="developers" class="fa fa-chevron-right"></i><a href="developers.php" class="unav">Developers</a>
+<div class="hidden_statement"><b>Treasure Data for Developers</b><br>
+Build a new world of applications and insights – without worrying about data infrastructure management.</div>
+<div class="menu developers" style="z-index: 100; visibility: hidden; left: 0px;">
+<div class="lnav">
+<div class="backto"><i class="fa fa-chevron-left"></i>&nbsp; Developers</div>
+<a href="technology_overview.php" class="lnav">Technology Overview</a>
+<div class="hidden_statement"><b>Flexible Technology for Developers</b><br>
+Find out about Treasure Data’s unique technology, which enables you to collect and interact with a variety of data types.</div>
+<a href="benefits.php" class="lnav">Benefits</a>
+<div class="hidden_statement"><b>Benefits for Developers</b><br> Focus on building great applications and analyzing data for deep insights – not managing infrastructure.</div>
+<a href="treasure_agent.php" class="lnav">Treasure Agent</a>
+<div class="hidden_statement"><b>Unique Data Collection Technology</b><br>
+Treasure Agent is a lightweight data collection agent that makes it simple to stream real-time data into the Treasure Data Service.</div>
+<a href="developer_resouces.php" class="lnav">Developer Resources</a>
+<div class="hidden_statement"><b>Resources for Treasure Data Developers</b><br>
+Access documentation, release notes and other resources.</div>
+</div><!-- end lnav -->
+<div class="statement">
+<b>Treasure Data for Developers</b><br>
+Build a new world of applications and insights – without worrying about data infrastructure management.
+</div><!-- end statement -->
+</div><!-- end menu -->
+</li>
+<li class="section_ancestor"><i id="solutions" class="fa fa-chevron-right"></i><a href="solutions.php" class="unav">Solutions</a>
+<div class="hidden_statement"><b>Treasure Data Solutions</b><br>
+Learn the many ways that customers have deployed the Treasure Data Service to support different use cases.</div>
+<div class="menu solutions" style="z-index: 100; visibility: hidden; left: 0px;">
+<div class="lnav">
+<div class="backto"><i class="fa fa-chevron-left"></i>&nbsp; Solutions</div>
+<a href="use_cases.php" class="lnav">Use Cases</a>
+<div class="hidden_statement"><b>Treasure Data Use Cases</b><br>
+Learn the many ways that customers have deployed the Treasure Data Service to support different use cases.</div>
+<a href="industries.php" class="lnav">Industries</a>
+<div class="hidden_statement"><b>Treasure Data Industry Solutions</b><br>
+Deliver new analytics capabilities in days with packaged solutions for specific industries.</div>
+</div><!-- end lnav -->
+<div class="statement">
+<b>Treasure Data Solutions</b><br>
+Learn the many ways that customers have deployed the Treasure Data Service to support different use cases.
+</div><!-- end statement -->
+</div><!-- end menu -->
+</li>
+<li class="section_ancestor"><i id="resources" class="fa fa-chevron-right"></i><a href="resources.php" class="unav">Resources</a>
+<div class="hidden_statement"><b>Treasure Data Resources</b><br>
+Regardless of where you sit in your organization, these resources will help you discover new ways to quickly gain insights from big data with Treasure.</div>
+<div class="menu resources" style="z-index: 100; visibility: hidden; left: 0px;">
+<div class="lnav">
+<div class="backto"><i class="fa fa-chevron-left"></i>&nbsp; Resources</div>
+<a href="library.php" class="lnav">Library</a>
+<div class="hidden_statement"><b>Resource Library</b><br>
+Learn more about Treasure Data and get insight from industry analysts and experts
+</div>
+<a href="events.php" class="lnav">Events</a>
+<div class="hidden_statement"><b>Industry Events</b><br>
+Attend an event to hear more about Treasure Data in person.</div>
+<a href="case_studies.php" class="lnav">Customer Case Studies</a>
+<div class="hidden_statement"><b>Customer Case Studies</b><br>
+Read big data case studies and find out how companies are using Treasure Data to innovate and grow their business</div>
+</div><!-- end lnav -->
+<div class="statement">
+<b>Treasure Data Resources</b><br>
+Regardless of where you sit in your organization, these resources will help you discover new ways to quickly gain insights from big data with Treasure.
+</div><!-- end statement -->
+</div><!-- end menu -->
+</li>
+<li class="section_ancestor"><i id="about" class="fa fa-chevron-right"></i><a href="about.php" class="unav">About</a>
+<div class="hidden_statement"><b>Treasure Data History</b><br>
+Discover more about Treasure Data and why we are transforming the way organizations collect, store and analyze big data.</div>
+<div class="menu about" style="z-index: 100; visibility: hidden; left: 0px;">
+<div class="lnav">
+<div class="backto"><i class="fa fa-chevron-left"></i>&nbsp; About</div>
+<a href="newsroom.php" class="lnav">Newsroom</a>
+<div class="hidden_statement"><b>Newsroom</b><br>
+Browse media coverage of Treasure Data from top news outlets and industry leaders.</div>
+<a href="careers.php" class="lnav">Careers</a>
+<div class="hidden_statement"><b>Careers at Treasure Data</b><br>
+Find out about our current job openings and apply to become part of the Treasure Data Team.</div>
+<a href="partners.php" class="lnav">Partners</a>
+<div class="hidden_statement"><b>Treasure Data Partners</b><br>
+Learn about our partners and the extended capabilities that allow for quick data processing and insights.</div>
+<a href="contact.php" class="lnav">Contact Us</a>
+<div class="hidden_statement"><b>Contact Treasure Data</b><br>
+Reach our team or find directions to our offices.</div>
+<a href="team.php" class="lnav">Team</a>
+<div class="hidden_statement"><b>Treasure Data Team</b><br>
+Learn about the team behind our innovative cloud managed service.</div>
+</div><!-- end lnav -->
+<div class="statement">
+<b>Treasure Data History</b><br>
+Discover more about Treasure Data and why we are transforming the way organizations collect, store and analyze big data.
+</div><!-- end statement -->
+</div><!-- end menu -->
+</li>
+<!-- tools -->
+<li class="unavtools"><a id="blog" href="http://treasuredata.wpengine.com/">Blog</a></li>
+<li class="unavtools"><a id="tryit" href="https://console.treasuredata.com/users/sign_up">Try It Free</a></li>
+<li class="unavtools"><a id="login" href="https://console.treasuredata.com/users/sign_in">Log In</a></li>
+<li class="unavtools"><a id="japanese" href="jp/index.php">日本語</a></li>
+<li><a id="navcontact" href="tel://1-866-899-5386">Contact Us +1.866.899.5386</a></li>
+</ul>
+<div class="clearboth"></div>
+</div><!-- end unav -->
+</div><!-- end supernav -->
+</div><!-- end supernavwrapper -->
+
+
+<div id="bannerinternal">
+<h1></h1>
+
+</div><!-- end bannerinternal -->
+
+
+
+<div id="internal">
+<div id="internalcontent">
+<h1>Privacy Policy</h1>
+<p>
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
+</p>
+<p>
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+</p>
+<p>
+We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+</p>
+<p>
+We will only retain personal information as long as necessary for the fulfillment of those purposes. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+</p>
+<p>
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+</p>
+<p>
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+</p>
+<p>
+We will make readily available to customers information about our policies and practices relating to the management of personal information.
+</p>
+<h3>
+Links to third party Websites
+</h3>
+<p>
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+</p>
+<h3>
+Changes to this Privacy Statement
+</h3>
+<p>
+The contents of this statement may be altered at any time, at our discretion.
+</p>
+<p>
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+</p>
+
+</div><!-- end internalcontent -->
+
+<div id="rightcol">
+
+</div><!-- end rightcol -->
+
+<div class="clearboth"></div>
+</div>
+
+<div id="botbar">
+
+<div id="footer">
+<p style="width: 50%; padding: 0; float: left; white-space: nowrap;">© 2014 Treasure Data, Inc.</p>
+<p id="privacy-top"><a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Service</a></p>
+</div><!-- end footer -->
+
+<div class="clearboth"></div>
+
+<div id="column1">
+<p>
+<a href="about.php">About</a><br>
+<a href="tour.php">Take the Tour</a><br>
+<a href="careers.php">Careers</a><br>
+<a href="http://treasuredata.wpengine.com/">Blog</a><br>
+<a href="contact.php">Contact Us</a>
+</p>
+</div><!-- end column1 -->
+
+<div id="column2">
+<p>
+<a href="https://console.treasure-data.com/users/sign_in">Log In</a><br>
+<a href="https://console.treasuredata.com/users/sign_up">Try It Now</a><br>
+<a href="case_studies.php">Customer Case Studies</a><br>
+<a href="developer_resouces.php">Developer Resources</a><br>
+</p>
+</div><!-- end column2 -->
+
+<div id="column3">
+<p>
+Treasure Data, Inc.<br>
+201 San Antonio Circle #172<br>
+Mountain View, CA 94040<br>
+<br>
+<a href="tel://1-866-899-5386">+1.866.899.5386</a>
+</p>
+</div><!-- end column3 -->
+
+<div id="social">
+<a href="https://www.facebook.com/TreasureData" title="Facebook" target="_blank"><span class="fa-stack fa-lg">
+  <i class="fa fa-circle-thin fa-stack-2x"></i>
+  <i class="fa fa-facebook fa-stack-1x"></i>
+</span></a>
+
+<a href="https://twitter.com/TreasureData" title="Twitter" target="_blank"><span class="fa-stack fa-lg">
+  <i class="fa fa-circle-thin fa-stack-2x"></i>
+  <i class="fa fa-twitter fa-stack-1x"></i>
+</span></a>
+
+<a href="http://www.linkedin.com/company/treasure-data-inc-" title="LinkedIn" target="_blank"><span class="fa-stack fa-lg">
+  <i class="fa fa-circle-thin fa-stack-2x"></i>
+  <i class="fa fa-linkedin fa-stack-1x"></i>
+</span></a>
+
+<a href="https://plus.google.com/105843563952216613062" title="Google+" target="_blank"><span class="fa-stack fa-lg">
+  <i class="fa fa-circle-thin fa-stack-2x"></i>
+  <i class="fa fa-google-plus fa-stack-1x"></i>
+</span></a>
+</div>
+
+<p id="privacy-bottom"><a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Service</a></p>
+
+</div><!-- end botbar -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDH3KQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDH3KQ');</script>
+<!-- End Google Tag Manager -->
+
+
+</div><!-- end main -->
+
+<!-- preload diamond icon -->
+<div style="display:none">
+<img src="img/button_icon_trial_on.png" alt="">
+</div>
+
+<div id="video" style="left: 363px;"></div><!-- end video -->
+<div id="dimmer" style="height: 768px;"></div>
+
+
+
+</body></html>
