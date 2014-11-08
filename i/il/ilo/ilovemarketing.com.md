@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovemarketing.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210191402id_/http%3A//www.ilovemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemarketing.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108022604id_/http%3A//www.ilovemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « I Love Marketing
 
