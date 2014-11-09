@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518144943id_/http%3A//www.wlsam.com/corp/page/Privacy_Policy/114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110003419id_/http%3A//www.wlsam.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
 
 # 89 WLS - Privacy Policy
 
