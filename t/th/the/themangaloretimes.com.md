@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themangaloretimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060823id_/http%3A//themangaloretimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themangaloretimes.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109163611id_/http%3A//www.themangaloretimes.com/privacy) for the most accurate reproduction.*
 
 # 
 
