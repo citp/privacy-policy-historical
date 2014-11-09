@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090202id_/http%3A//www.dccomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109174114id_/http%3A//www.dccomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DC Comics
-
-## Updated: 
-
-Tuesday, April 17th, 2012 
-
-##  Privacy Policy 
 
 Updated: January 6, 2014
 
