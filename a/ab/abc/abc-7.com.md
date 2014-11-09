@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325064835id_/http%3A//www.abc-7.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109073911id_/http%3A//www.abc-7.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - ABC-7.com WZVN News for Fort Myers, Cape Coral & Naples, Florida
 
