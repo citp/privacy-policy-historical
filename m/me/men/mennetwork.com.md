@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mennetwork.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622172032id_/http%3A//men.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mennetwork.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109143741id_/http%3A//www.men.com/terms/pp) for the most accurate reproduction.*
 
 # Men.com :: Privacy Policy
 
