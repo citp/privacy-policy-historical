@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510214237id_/http%3A//www.1001pallets.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109040317id_/http%3A//www.1001pallets.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | 1001 Pallets
 
@@ -16,7 +16,7 @@ Like many other Web sites, 1001Pallets.com makes use of log files. The informat
 
   * Google, as a third party vendor, uses cookies to serve ads on 1001Pallets.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to 1001Pallets.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
