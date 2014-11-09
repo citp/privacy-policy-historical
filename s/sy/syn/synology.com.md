@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102130955id_/http%3A//www.synology.com/company/privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109131909id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Synology Network Attached Storage - Privacy
+# Legal - About Synology - Synology - Network Attached Storage (NAS)
 
-## PRIVACY STATEMENT
+### Privacy
 
-Synology Inc. is committed to protecting your privacy. This privacy statement explains data collection and use practices of the www.synology.com website (the “Site”). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+##### PRIVACY STATEMENT
+
+Synology Inc. is committed to protecting the personal information that you decide to share with us. This privacy statement explains data collection and use practices of (1) the www.synology.com website (the “Site”); (2) Synology products. By accessing the Site or registering your Synology product, you are consenting to the information collection and use practices described in this privacy statement.
 
 ## Collection of your Personal Information
 
@@ -55,11 +57,37 @@ www.synology.com is a general audience site and does not knowingly collect any p
 
 ## Use of Cookies
 
-Synology Inc. uses cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server but cannot be used to run programs or deliver viruses to your computer. Web beacons, or action tags, may be used to assist in delivering the cookie on the Site. This technology is a tool used to compile aggregated statistics about www.synology.com Website usage, such as how many visitors clicked on key elements (such as links or graphics) on a www.synology.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you may usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site. 
+Synology Inc. uses cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server but cannot be used to run programs or deliver viruses to your computer. Web beacons, or action tags, may be used to assist in delivering the cookie on the Site. This technology is a tool used to compile aggregated statistics about www.synology.com Website usage, such as how many visitors clicked on key elements (such as links or graphics) on a www.synology.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you may usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site. 
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20131102130955id_/http%3A//www.synology.com/company/contact_us.php?lang=us) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://www.synology.com/company/contact_us) Synology Inc. 
+
+## Collection of Synology Product Usage Information
+
+When you use Synology products, Synology may collect different levels of information from you and/or your Synology system. The type of information depends on how much information you wish to provide.
+
+  * Register: if you choose to register your Synology product with us, you will provide us with the following information: 
+    * Email address (that becomes associated with the MyDS Center account) 
+    * The serial number of your Synology Products 
+    * The Country where the system you use is. 
+
+If you choose not to register your Synology product with us, identifiable information will not be transmitted.
+
+  * Usage Sharing: if you agree to provide us with more information, your system will periodically report the following information regarding your usage of the Synology products system: 
+    * The information of the disks installed in your system, including brand, model name, health, logs 
+    * Volume and storage configuration of your Synology system. 
+    * The Synology DSM and package version. 
+    * The services running on your system 
+    * The information of external devices, including Wi-Fi adapters, DVB sticks, printers, UPS devices, DLNA players. 
+    * Users’ browsers to connect to DSM web interface 
+    * IP camera information in Surveillance Station 
+
+
+
+## Use of Synology Product Usage Information:
+
+The information collected from the Synology DSM helps us provide you with content, services and a more personalized experience based on information you provide. It also helps us better understand how Synology products are used and how we can improve our products in the future. No information collected from you or Synology system will be rent or sold to any third parties.
 
 ## Changes to this Statement
 
