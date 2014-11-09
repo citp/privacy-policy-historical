@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decarboni.se privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230009id_/http%3A//decarboni.se/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decarboni.se privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109105416id_/http%3A//decarboni.se/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Decarboni.se
 
