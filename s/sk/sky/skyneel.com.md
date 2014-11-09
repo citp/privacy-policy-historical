@@ -1,88 +1,67 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509163336id_/http%3A//www.skyneel.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109061123id_/http%3A//www.skyneel.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Knowledge always help us
 
-This Privacy Policy governs the manner in which Skyneel collects, uses, maintains and discloses information collected from users (each, a "User") of the  [www.skyneel.com](http://www.skyneel.com/) websites ("Site"). This privacy policy applies to the Site and all products and services offered by Skyneel.
-
-####  **Personal identification information**
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-####  **Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service provider’s utilized and other similar information.  
+We are very serious about our valuable user’s privacy. We ensure that user’s personal information is not disclosed to other website or companies. On this privacy policy you see that how could we collect and use your personal information on [www.skyneel.com](http://www.skyneel.com/).  
   
 
 
-####  **Web browser cookies**
+####  Personal identification information
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-####  **How we use collected information**
-
-Skyneel may collect and use Users personal information for the following purposes:
-
-  * _To improve customer service_
-
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-
-
-
-  * _To personalize user experience_
-
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-
-
-
-  * _To improve our Site_
-
-We may use feedback you provide to improve our products and services.
-
-
-
-  * _To send periodic emails_
-
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-
-
-
-####  **How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
   
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
-
+We may gather personal information of our valuable users by different sources like clicking on the contact us page, or click on our newsletters page and fill his information only your name and valid email id. We take these information to giving reply of your queries. Users may also visit skyneel.com anonymously.  
+  
+Our newsletters comes via Feedburner so, you can check Feebburner policy by clicking on this [link](http://www.google.com/privacy.html). We assure you that your personal identification information are not disclosed by us.  
   
 
 
-####  **Sharing your personal information**
+####  Non-Personal identification information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-####  **Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-####  **Google Adsense**
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-####  **Changes to this privacy policy**
-
-Skyneel has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+  
+We may gather non personal information of our valuable users when they try to connect with us by opening our page. We may collect browsing software, operating system, name of your computer and other technical information.     
   
 
 
-####  **Your acceptance of these terms**
+####  Web browser cookies
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
+  
+Skyneel.com uses browser cookies to store visitor’s information and keep track of record of visitor during visiting on our website pages. These cookies are used for improving our website and make better user experience. These cookies are used by the third party and advertising partners for displaying useful information and advertisement, but user also able to refuse these cookies by clicking on the disable cookies option in his browser.  
   
 
 
-####  **Contacting us**
+####  How we use collected information
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+  
+Skyneel.com may collect and uses our valuable user’s personal information for the following purposes:  
+  
+• To solving different queries of our valuable users or visitors.  
+• To make better user experience how they effetely uses these information.  
+• To improve our website, we always ready to accept your valuable suggestions.  
+• To send newsletters email via feed burner for those users who subscribe us, it include new posts and updates. If you want then you can easily un-subscribe theses newsletters by clicking on the Un-Subscribe link which is placed on the bottom of page.   
+  
 
 
-This document was last updated on May 2, 2014
+####  Third party websites
+
+  
+When visitors or users are surfing on Skyneel.com they get links of others website of our advertisers, sponsors and third parties. These sites have its own terms and policies for the users and if any visitors browsing on these websites by clicking on the links then it is subjected to third party website policies. Skyneel.com don’t have any kind of control on these website policies.  
+  
+
+
+####  Google Adsense
+
+  
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>  
+  
+
+
+####  Changes to this privacy policy
+
+  
+Skyneel has the discretion to update this privacy policy at any time without any notice. When we do this job, we will revise the updated date at the bottom of this page.
+
+If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](http://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
+
+This document was last updated on October 5, 2014  
+  
+© 2012-2014 by skyneel.com. All rights reserved
