@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215216id_/http%3A//hogville.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109180831id_/http%3A//www.hogville.net/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hogville.net
 
@@ -26,8 +26,7 @@ It is important to note that we will not publicly reveal your information, unles
 
 [](http://www.arkansasmatters.com/)[](http://www.fox16.com/)[](http://www.nwahomepage.com/)
 
-  
-Your browser does not handle frames!
+[](http://www.ticketmonster.com/Arkansas-Razorbacks-tickets?aid=16600)
 
   
 Your browser is archaic. Your browser is antiquated. Your browser... it FAILS! Update it, please.
@@ -37,15 +36,15 @@ Most popular forums:
 
 | Board | Topics | Posts  
 ---|---|---  
-[Monday Morning Quarterback](http://www.hogville.net/yabbse/index.php?board=1.0) [](http://www.hogville.net/yabbse/index.php?board=1.0) | 163,111 | 3,462,042  
-[Jump Ball](http://www.hogville.net/yabbse/index.php?board=71.0) [](http://www.hogville.net/yabbse/index.php?board=71.0) | 24,298 | 626,317  
-[SEC Sports](http://www.hogville.net/yabbse/index.php?board=92.0) [](http://www.hogville.net/yabbse/index.php?board=92.0) | 13,774 | 399,873  
+[Monday Morning Quarterback](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=1.0) [](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=1.0) | 165,875 | 3,375,347  
+[SEC Sports](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=92.0) [](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=92.0) | 17,279 | 844,872  
+[Jump Ball](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=71.0) [](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&board=71.0) | 25,067 | 601,338  
   
 Most Popular Threads: 
 
 | Views | Replies  
 ---|---|---  
-[Agnosticism](http://www.hogville.net/yabbse/index.php?topic=482000.0) | 247,570 | 17,020  
-[Arkansas CWS game thread - Hogs headed home ........LSU 14 Razorbacks 5](http://www.hogville.net/yabbse/index.php?topic=296176.0) | 257,435 | 12,272  
-[Omaha '12 Thread: CWS game 4 Arkansas vs SC round 3](http://www.hogville.net/yabbse/index.php?topic=483367.0) | 297,769 | 8,949  
-[The Soccer Thread](http://www.hogville.net/yabbse/index.php?topic=161321.0) | 343,279 | 8,889
+[Arkansas CWS game thread - Hogs headed home ........LSU 14 Razorbacks 5](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&topic=296176.0) | 268,449 | 12,272  
+[The Soccer Thread](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&topic=161321.0) | 375,344 | 10,075  
+[Omaha '12 Thread: CWS game 4 Arkansas vs SC round 3](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&topic=483367.0) | 354,676 | 8,949  
+[OFFICIAL post your picks thread (sports investing)](http://www.hogville.net/yabbse/index.php?PHPSESSID=922ae28f02b1afe6b497a667c0a8236a&topic=419577.0) | 205,417 | 8,104
