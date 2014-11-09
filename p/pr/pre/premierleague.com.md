@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231014304id_/http%3A//www.premierleague.com/content/premierleague/en-gb/toolbar/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109102940id_/http%3A//www.premierleague.com/content/premierleague/en-gb/toolbar/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
