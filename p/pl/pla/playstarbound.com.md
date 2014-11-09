@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081341id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109114125id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbound
 
@@ -10,7 +10,7 @@ Chucklefish also collects potentially personally-identifying information like In
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to Chucklefish’s websites choose to interact with Chucklefish in ways that require Chucklefish to gather personally-identifying information. The amount and type of information that Chucklefish gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [community.playstarbound.com](http://community.playstarbound.com/) to provide a username and email address. In any case, Chucklefish collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor’s interaction with Chucklefish. Chucklefish does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Chucklefish’s websites choose to interact with Chucklefish in ways that require Chucklefish to gather personally-identifying information. The amount and type of information that Chucklefish gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at community.playstarbound.com to provide a username and email address. In any case, Chucklefish collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor’s interaction with Chucklefish. Chucklefish does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**
 
@@ -22,7 +22,21 @@ Chucklefish discloses potentially personally-identifying and personally-identify
 
 **Cookies**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Chucklefish uses cookies to help Chucklefish identify and track visitors, their usage of a Chucklefish website, and their website access preferences. Chucklefish visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Chucklefish’s websites, with the drawback that certain features of Chucklefish’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Chucklefish uses cookies to help Chucklefish identify and track visitors, their usage of a Chucklefish website, and their website access preferences. The following cookies are used on the playstarbound.com website:
+
+  * Cookie Name
+  * Description
+  * Link
+  * Google Analytics  
+_(Google Analytics is a service offered by Google that generates detailed statistics about a website’s traffic and traffic sources and measures conversions and sale)  http://www.google.com/analytics/)_
+  * Gravatar  
+_(Gravatar is a service that allows an image to follow you from website to website appearing beside your name when you do things like comment or post on a blog  https://en.gravatar.com/)_
+
+
+
+Chucklefish visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Chucklefish’s websites, with the drawback that certain features of Chucklefish’s websites may not function properly without the aid of cookies.
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org. To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout. To opt out of being tracked by advertising providers you can access a general opt out at http://www.networkadvertising.org/managing/opt_out.asp
 
 **Business Transfers**
 
@@ -40,21 +54,24 @@ Comments and other content submitted to a third party anti-spam service are not 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-**Childrens Online Privacy Protection Act Compliance**
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page. Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-The Starbound forums are hosted in the United States and U.S. federal laws may apply. The privacy protection of children under 13 years of age is among these laws. Chucklefish will not accept or keep personally identifiable information for children under the age of 13 and will deny or revoke access to the site based on this law. If you have a child under the age of 13 who has registered for this site, please contact an Administrator to have the associated account disabled. Current Administrators are listed here: http://community.playstarbound.com/index.php?threads/starbound-forum-staff-list.572/  
-More information on the Children’s Online Privacy Protection Act can be found here: http://www.coppa.org/”
+The Starbound forums are hosted in the United States and U.S. federal laws may apply. The privacy protection of children under 13 years of age is among these laws. Chucklefish will not accept or keep personally identifiable information for children under the age of 13 and will deny or revoke access to the site based on this law. If you have a child under the age of 13 who has registered for this site, please contact an Administrator to have the associated account disabled. Current Administrators are listed here:http://community.playstarbound.com/index.php?threads/starbound-forum-staff-list.572/
+
+More information on the Children’s Online Privacy Protection Act can be found here:  
+http://www.coppa.org/
 
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Chucklefish may change its Privacy Policy from time to time, and in Chucklefish’s sole discretion. Chucklefish encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Playstarbound.com account, you should also check the forum’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-**Change log:**
+**Chucklefish Limited**  
+Registered company number 07664836 (England & Wales).  
+Registered company address: 64 Southwark Bridge Road, London SE1 0AS  
+All questions, comments or enquiries should be directed to Chucklefish by emailing [contact@chucklefish.org](mailto:contact@chucklefish.org).  
+We will endeavour to respond to any query or questions ASAP.
 
-  * January 1st 2012 – Initial Version
-
-
+**Change log:**  
+1 July 2014
