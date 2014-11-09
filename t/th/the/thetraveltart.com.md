@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511005717id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109121836id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, Advice
 
