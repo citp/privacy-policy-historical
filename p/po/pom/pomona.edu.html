@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pomona.edu privacy policy that was archived on 2014-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140510232504id_/http%3A//www.pomona.edu/administration/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pomona.edu privacy policy that was archived on 2014-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141109041634id_/http%3A//www.pomona.edu/administration/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Privacy Statement - Pomona College</title>
@@ -30,7 +30,7 @@ jQuery.browser.version=0;if(navigator.userAgent.match(/MSIE ([0-9]+)\./)){
 jQuery.browser.msie=true;jQuery.browser.version=RegExp.$1;}})();
 </script>
 <link href="http://feeds.feedburner.com/PomonaCollegeNews" rel="alternate" title="Pomona College News" type="application/rss+xml">
-<meta content="Privacy Statement" property="og:title"><meta content="http://pomona.edu/administration/privacy/index.aspx" property="og:url">
+<meta content="Privacy Statement" property="og:title"><meta content="http://www.pomona.edu/administration/privacy/index.aspx" property="og:url">
 </head>
 
 <body>
@@ -77,7 +77,7 @@ jQuery.browser.msie=true;jQuery.browser.version=RegExp.$1;}})();
 <li><a href="/contact/">Directory</a></li>
 <li class="last"><a href="#">Quick Links</a>
 <ul>
-<li><a href="/administration/registrar/calendars/academic-calendar.aspx">Academic Calendar</a></li>
+<li><a href="http://catalog.pomona.edu/content.php?catoid=14&amp;navoid=2582">Academic Calendar</a></li>
 <li><a href="http://www.pe.pomona.edu">Athletics</a></li>
 <li><a href="/map/" target="_blank">Campus Map</a></li>
 <li><a href="http://catalog.pomona.edu/">Catalog</a></li>
@@ -182,6 +182,81 @@ var addthis_config = {"data_track_addressbar":false};
 
   ga('create', 'UA-9604792-1', 'pomona.edu');
   ga('send', 'pageview');
+
+</script>
+<script>
+//  <![CDATA[
+if (typeof jQuery != 'undefined'){
+	$(document).ready(function() {
+		var GADebugMode = false;		//set to true when you're testing so that alerts are displayed instead of the gif being sent to google.
+		//if in debug mode this alerts the data, if not in debug mode this sends the data to google.
+		sendData = function (category, action, label, value){
+			if(!GADebugMode){
+					try{
+						ga('send', 'event', category, action, label, value, {'nonInteraction': 1});
+					}catch(err){}
+			}else{
+				//console.log("Category: " + category + ". action: " + action + ". label: " + label);
+			}
+		}
+
+		//track various outbound and download links
+		ga_track = function (target){
+			$('body').on('click', target, function(event) {
+				var href = $(this).attr('href');
+				var hrefTarget = $(this).prop("target");
+				var category;
+				var action;
+				var label;
+				//href = $(this).attr('href');
+				if(href.match(("(.pdf$)|(.xlsx?$)|(.docx?$)"))){      //if the link ends with .pdf, .xls, .xlsx, .doc, .docx then it's a download
+	 				category = "Download";
+	 				action = href.match(/([^/]+)$/)[1];
+	 			}else if(href.match(("^https?://"))){   //if the link starts with http:// or https:// then it's an outbound link
+	 				category = "Outbound Link";							
+					action = href;
+	 			}else if(href.substring(0,7) === "mailto:"){    //if the link starts with mailto: then it's a mailto link
+	 				category = "Contact";
+	 				action = href;
+	 			}
+
+			 	if($(this).find("img").length > 0){    //if this is an image link
+					if($(this).find("img").prop("alt")){
+						label = $(this).find("img").prop('alt');
+					}else{
+						label = "image";
+					}
+				}else{
+					label = $(this).text();
+				}
+
+				sendData(category,action,label,0);
+
+				if (event.metaKey || event.ctrlKey || hrefTarget == "_blank" || $(this).hasClass('show-youtube-video') || $(this).hasClass('inset-youtube-modal') || $(this).hasClass('fancybox-media') || $(this).hasClass('fancybox-button-slideshow') || ($(this).hasClass('flickr-images') && $(this).parent().parent().is('#flickr-hidden'))){
+					var newTab = true;
+				}
+
+				if (!newTab){
+					event.preventDefault();
+					setTimeout('location.href = "'+href+'"', 200); //delay is set before redirection so google gets a chance to send tracking gif
+				}
+			});
+		}
+		
+		ga_track("a[href^='mailto']");
+		ga_track("a[href$='.pdf']");
+		ga_track("a[href$='.xls']");
+		ga_track("a[href$='.xlsx']");
+		ga_track("a[href$='.doc']");
+		ga_track("a[href$='.docx']");
+
+		//outbound links that aren't pdf, xls, xlsx, doc, or docx
+		ga_track("a[href^='http://']:not([href$='.pdf'],[href$='.xls'],[href$='.xlsx'],[href$='.doc'],[href$='.docx'],[href*='pomona.edu'])");
+		ga_track("a[href^='https://']:not([href$='.pdf'],[href$='.xls'],[href$='.xlsx'],[href$='.doc'],[href$='.docx'],[href*='pomona.edu'])");
+	});
+}
+
+// ]]>
 
 </script>
 <script type="text/javascript">
