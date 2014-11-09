@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fusionradio.fm privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222725id_/http%3A//fusionradio.fm/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionradio.fm privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109134818id_/http%3A//dance.fusion.fm/aboutus/privacy) for the most accurate reproduction.*
 
-# Fusion Radio - Internet Dance Radio | Chicago | San Francisco | New York
+# Fusion Dance | Fusion Radio - Internet Dance Radio
 
 | 
 
