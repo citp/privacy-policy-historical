@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150033id_/http%3A//www.elitify.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitify.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109093725id_/http%3A//www.elitify.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ELITIFY
 
@@ -6,7 +6,9 @@ We value the trust you place in Elitify.com. That's why we insist upon the highe
 
 **1\. Collection of Personally Identifiable Information**
 
-We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up a free account with Elitify.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests. However, if you would like us to not contact you please write to us at info@elitify.com or call us at +91 92120 354 83.
+We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up a free account with Elitify.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration.
+
+We reserve the right to contact you on the information provided, both email and mobile phone numbers, with the intent of keeping you abreast of the order status or any other information that may impact your purchase experience with Elitify. This may require us to contact you on your number even if it is listed on the DND list. If you prefer to be contacted on another number, then you must explicitly state the same in your order or call in to our customer service department. In addition, we may use your contact information to send you offers based on your previous orders and your interests unless explicitly opted out by you. 
 
 **2\. Use of Demographic and Profile Data**
 
