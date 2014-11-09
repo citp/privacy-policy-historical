@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gumroad.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209084428id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumroad.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109075712id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.*
 
 # Gumroad - Privacy Policy
 
-### Privacy Policy last revised: January 23, 2012
+###  Privacy Policy last revised: January 23, 2012
 
 #### 1\. Scope
 
@@ -12,19 +12,19 @@ By accepting the Privacy Policy and the User Agreement, you expressly consent to
 
 #### 2\. Types of Data We Collect
 
-**"Personal Data"** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. **"Anonymous Data"** means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+**"Personal Data"** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. **"Anonymous Data"** means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
 
 You can browse our Website without telling us who you are or revealing any Personal Data about yourself. Once you give us your Personal Data, you are not anonymous to us. If you choose to provide us with Personal Data, you consent to the transfer and storage of that information on our servers located in the United States.
 
   * ##### We may collect and store the following Personal Data:
 
     * e-mail address, phone number, physical contact information, and sometimes financial information, such as credit card or bank account numbers;
-    * transactional information based on your activities on the Website (such as buying, selling, item and content you generate or that relates to your account); 
-    * shipping, billing and other information you provide to purchase an item; 
+    * transactional information based on your activities on the Website (such as buying, selling, item and content you generate or that relates to your account);
+    * shipping, billing and other information you provide to purchase an item;
     * community discussions, chats, dispute resolution, correspondence through our Website, and correspondence sent to us;
-    * other information from your interaction with our Website, Service, and content, including device ID, computer and connection information, statistics on page views, traffic to and from the sites, IP address and standard web log information; 
+    * other information from your interaction with our Website, Service, and content, including device ID, computer and connection information, statistics on page views, traffic to and from the sites, IP address and standard web log information;
     * additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item you list);
-    * information from other companies, such as demographic and navigation data; 
+    * information from other companies, such as demographic and navigation data;
     * if you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply; and
     * other supplemental information from third parties.
   * ##### Information Collected via Technology.
@@ -56,10 +56,10 @@ If you access our Website from a shared computer or a computer in an Internet ca
     * identify you as a User in the system;
     * send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created;
     * respond to your inquiries related to employment opportunities or other requests;
-    * provide the Service and customer support you request; 
+    * provide the Service and customer support you request;
     * resolve disputes, collect fees, and troubleshoot problems;
-    * prevent, detect, and investigate potentially prohibited or illegal activities, and enforce our User Agreement; 
-    * customize, measure and improve our Service and content; 
+    * prevent, detect, and investigate potentially prohibited or illegal activities, and enforce our User Agreement;
+    * customize, measure and improve our Service and content;
     * tell you about our Service, service updates, and promotional offers based on your communication preferences;
     * compare information for accuracy, and verify it with third parties; and
     * and other uses as described when we collect the information.
@@ -76,8 +76,8 @@ We may disclose Personal Data to respond to legal requirements, enforce our poli
 
 ##### We may also share your Personal Data with:
 
-    * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs). 
-    * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
+    * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs).
+    * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
     * Law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Gumroad User to legal liability. In such events, we will disclose information relevant to the investigation, such as name, city, state, ZIP code, telephone number, e-mail address, User ID history, IP address, fraud complaints, bidding and listing history, and anything else we may deem relevant to the investigation.
     * Other business entities, should we plan to merge with or be acquired by that business entity, or any parent company, subsidiaries, or other companies under a common control. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your Personal Data. If your personal information will be used contrary to this policy, you will receive prior notice.) In the event of an insolvency, bankruptcy or receivership, your Personal Data may also be transferred as a business asset.
 
@@ -89,7 +89,7 @@ Gumroad enables you to share personal and financial information to complete tran
 
 ##### You agree to use User information only for:
 
-    * Gumroad transaction-related purposes that are not unsolicited commercial messages; 
+    * Gumroad transaction-related purposes that are not unsolicited commercial messages;
     * using services offered through Gumroad (such as shipping and fraud complaints), or
     * other purposes that a User expressly chooses.
 
