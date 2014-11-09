@@ -1,40 +1,74 @@
-> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093425id_/http%3A//www.versace.com/en/legal-notes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109044511id_/http%3A//www.versace.com/en/legal-notes/privacy) for the most accurate reproduction.*
 
 # Versace 2014
 
 ## THE PRIVACY POLICY OF THIS WEBSITE
 
-### THE REASON FOR THIS INFORMATION NOTICE
+### WHY PUBLISH THIS NOTICE
 
-This page describes how the website operates when processing the personal data of users visiting it. This information notice is also provided in terms of [Art. 13 of Legislative Decree no 196/2003 – Personal Data Protection Code](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248) to those interacting with the web services of Gianni Versace S.p.A. (hereafter also the "Company"), as accessible online from the following address: [www.versace.com](http://www.versace.com/) which is the home page of the Company's official website. The information is provided only for the Company's website and not for any other websites that the user might visit after following links. The information notice is also based on Recommendation no 2/2011 that the European Personal Data Protection Authorities, brought together in the Group established by [Art. 29 of Directive no95/46/CE](http://www.garanteprivacy.it/garante/document?ID=432175), adopted on May 17, 2011 to lay down certain minimum requirements for the gathering of personal data online. These minimum requirements describe the methods, timing and nature of the information that data controllers must provide users when they visit websites, irrespective of the purposes of such visits.
+This page describes how the website manages the processing of users' personal data. This notice is given pursuant to Article 13 of Italian Legislative Decree no. 196/2003 - Personal Data Protection Code - and is addressed to those who interact with the web services of the Company Gianni Versace S.p.A. (hereinafter the "Company"), accessible via the internet at the addresses: [www.versace.com](http://www.versace.com/), [www.versacehome.com](http://www.versacehome.com/), [www.versusversace.com](http://www.versusversace.com/), [www.versacecollection.com](http://www.versacecollection.com/), (hereinafter “Versace websites”) and corresponding to the respective home pages of the Company's official websites. Detailed notices on the processing of personal data are provided, where necessary, on the pages relating to individual services. These notices are aimed at defining the limits and methods of data processing for each service, based on which the visitor can freely express his/her consent, authorising the collection of data and its subsequent use. The notice relates exclusively to the aforementioned corporate websites, and not to other websites that may be accessed by the user via hyperlinks.
 
-### THE DATA CONTROLLER
+### 1\. DATA CONTROLLER
 
-After visits to this website, data relating to persons identified or identifiable may be processed. The Data Controller is Società Gianni Versace S.p.A. whose registered office is in Via A. Mazoni 38, 20121, Milan (Italy).
+Consultation of this website may lead to the processing of data relating to persons that are or can be identified. The Data Controller is the company Gianni Versace S.p.A., with registered office in Milan (Italy), Via A. Manzoni 38, 20121. 
 
-### PLACE OF DATE PROCESSING
+### 2\. DATA PROCESSING LOCATION
 
-Processing relating to the web services of this website take place at the premises of single member company MAXUS S.r.l., registered office in via Carducci 14, 20123 Milano, which has been appointed as administrator of the Company website. No data resulting from web services is communicated or distributed to other parties.
+Data processing relating to the web services of this website takes place at: 
 
-### TYPES OF DATA PROCESSED
+  * Diennea srl, a company incorporated under the laws of Italy, with registered office in Viale G.Marconi 30/14 - 48018 Faenza (RA) - (Italy), which acts as Data Processor on behalf of the Company
+  * Arvato AG, a company incorporated under the laws of Germany, with registered office in An der Autobahn, D-33333 Gütersloh (Germany), which acts as Data Processor on behalf of the Company
+  * Trade Global Inc., a company incorporated under the laws of the United States, with registered office in 5389 East Provident Drive Cincinnati, OH 45246 (USA), which acts as Data Processor on behalf of the Company
 
-_Internet navigation data_
 
-During their normal operations, the information systems and software routines that enable this web site to function acquire certain personal data whose transmission is implicit in the use of Internet communication protocols. Such information is not collected to be matched with identified data subjects but, given its nature, it could be processed and matched with data held by third parties to identify users. This data category includes the IP addresses or domain names of the computers utilized by users to access the website, the URI (Uniform Resource Identifier) addresses of resources requested, the time of the request, the method utilized to make the request to the server, the size of the file obtained in response, the numerical code indicating the status of the data reply from the server (successful, error, etc) and other parameters relating to the user's operating system and IT environment. Such data is used solely to obtain anonymous statistical information about utilization of the site and to check that it is working properly; the data is immediately cancelled after processing. The data could be utilized to determine responsibility in the event of any computer offences that damage the website; except in such circumstances, data on website hits is not retained for more than seven days.
 
-_Data provided voluntarily by the user_
+### 3\. TYPES OF DATA PROCESSED
 
-The optional, express and voluntary sending of emails to the addresses indicated on this website will lead to the subsequent acquisition of the sender's email address, as necessary to repay to requests made, and the acquisition of any other personal data included in the email. Specific summary information is reported or shown on the website pages created for particular services on request.
+_Browsing data_
 
-### COOKIES
+During their normal operation, the computer systems and software procedures used to operate this website collect some personal data, the transmission of which is an integral part of Internet communication protocols. This information is not collected in order to be associated with identified data subjects but, by its very nature, it might allow users to be identified by processing and associating it with data held by third parties. This category of data includes the IP address or domain name of the computer used by visitors connecting to the website, the URI (Uniform Resource Identifier) of requested resources, the time of the request, the method used to submit the request to the server, the size of the file received as a reply, the numeric code indicating the status of the reply given by the server (successful, error, etc.) and other parameters regarding the user's operating system and computer environment. This data is used exclusively to obtain anonymous statistics on website use and to check its proper functioning, and is deleted immediately after processing. The data might also be used to ascertain any liability in cases of alleged computer crimes against the website: without prejudice to this possibility, at present data of contacts from the web is not held for more than seven days. 
 
-No personal data or users is acquired by the website in this manner. The website does not use cookies to send information of a personal nature nor does it use persistent cookies of any type or any user tracking systems. Use of session cookies (which are not memorized in a persistent manner on the user's computer and disappear when the browser is closed) is strictly limited to the transmission of session identification details (consisting of random numbers generated by the server) required to enable the secure and efficient exploration of the website. The session cookies utilized on this website avoid the use of other information technology techniques that could potential affect the navigation confidentiality of users and they do not permit the acquisition of personal identity details of users.
+_Data freely provided by the user_
 
-### PROCESSING METHODS
+The optional, explicit and free sending of emails to the addresses indicated on this website and the filling in of data collection forms on this website involve the subsequent acquisition of the sender's address and/or of the information provided, which is required to respond to the requests; correspondence enables other personal data included in the messages to be acquired. Specific summary notices are progressively reported or displayed on the website pages dedicated to particular services on demand. 
 
-Personal data is processed with automated tools for the time strictly necessary to fulfill the objectives for which it was collected. Specific security measures are observed to prevent the loss of data its unlawful or improper use and unauthorized access.
+### 4\. DATA PROCESSING PURPOSES
 
-### RIGHTS OF DATA SUBJECTS
+The personal data requested via Versace websites is collected and processed for the following purposes: 
 
-Data subjects have the right, at any time, to obtain confirmation that the said data does or does not exist, to be informed about its content and origin, to check its accuracy or to request its improvement or updating, or adjustment ([Art. 7 of Legislative Decree no 196/2003](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248)). In terms of the same article, data subjects have the right to request the cancellation, transformation into anonymous form or blocking of data processed in breach of the law and to oppose the processing of such data, for any legitimate reasons. Requests should be made to the Company by sending an email to [privacy@versace.it](mailto:privacy@versace.it) or by conventional mail to the following address:  
-Società Gianni Versace S.p.A., via A. Manzoni 38, 20121 Milano, Italia
+  * a) To pursue your requests and manage the relation you wish to establish with our Company or the one already existing between you and the Company;
+  * b) For administrative purposes in any way connected with the fulfilment of the relevant contractual obligations or the fulfilment of law requirements (e.g. accounting, tax), or for pursuing the requests of judicial authorities;
+  * c) In case of consent, to check the level of customer satisfaction and to propose (via mail, email, phone, fax) products similar to those already supplied, by regularly sending newsletters, catalogues, brochures, invitations to events or, in general, commercial communications and advertising material, and by carrying out market surveys;
+  * d) In case of consent, the Company, based on your purchasing data and preferences, will also carry out customer profiling and analysis activities, in order to send (via mail, email, phone, fax) advertising communications expressly dedicated to you.
+
+
+
+### 5.PROVISION OF DATA
+
+The provision of data for the purposes referred to in point a) and b) is optional, but refusal to do so will make it impossible for the company to pursue its contractual commitments. With regard to the purposes referred to in points c) and d), instead, the provision of personal data is optional, and their use is subject to your explicit consent (see the consent form provided at the end of the specific summary notices). Any refusal to provide consent will not have any effect other than the inability to analyse your consumer habits and duly inform you of any corporate initiatives that may be of interest to you.
+
+### 6\. PROCESSING METHODS
+
+Personal data collected through Versace websites is processed by automated means for the time strictly required to achieve the purposes for which they were collected. Specific security measures are observed in order to prevent the loss of data, unlawful or incorrect use and unauthorised access. 
+
+### 7\. SCOPE OF THE PROCESSING
+
+Your personal data is processed by in-house staff, in their capacity of Data Processors or Persons in Charge of the Processing; the Data Processors for data collected through Versace websites are, within their respective competences, the Heads of the Retail, Global Marketing and Communication, and PR departments from time to time. The data collected, if necessary or functional to fulfilling said purposes, may be processed by third parties specifically appointed as external Data Processors, or, as appropriate, communicated to them as independent data controllers. Said third parties are: 
+
+  * (i) companies that are part of our group for the purposes specified
+  * (ii) individuals, companies, associations and professionals offering assistance and advice to our company, for the purposes referred to in points b), c), d)
+  * (iii) companies, entities and associations that provide services related and functional to fulfilling the above purposes (courier deliveries of catalogues and/or purchased products, our points of sale, customer care services, market survey and analysis services, credit card payments processing, maintenance of IT systems), for the purposes referred to in point a)
+
+Personal data may also be transferred abroad, including outside the European Union, to companies that form part of the Versace Group. Your personal data will in no case be disclosed. 
+
+### 8\. REDIRECTING TO OTHER WEBSITES
+
+Versace websites may use the so-called social plug-ins. Social plug-ins are special tools that allow social network features to be incorporated directly within our websites (e.g. the "Like" button on Facebook). All social plug-ins on our websites are marked by the respective logos owned by the relevant social network. When you visit a page of our websites and interact with a plug-in (e.g. clicking the "Like" button) or decide to write a comment, the corresponding information is transmitted by your browser directly to the relevant social network (Facebook in this case), which stores it. For information on the purposes, types, and methods used for personal data collection, processing, use and storage by social networks, and for information on how to exercise your rights, please refer to the social network's privacy policy. 
+
+### 9\. DATA SUBJECTS' RIGHTS
+
+Data subjects have the right to obtain confirmation as to whether or not personal data concerning them exist. Moreover, they have the right to be informed of the contents and source of the personal data, verify its accuracy or ask that it be supplemented, updated or amended (article 7 of Italian Legislative Decree no. 196/2003). Pursuant to the same article, data subjects also have the right to obtain the erasure, anonymisation or blocking of data that has been processed unlawfully, and, in any case, object, on legitimate grounds, to its processing; Requests should be addressed to the Company by email to privacy@versace.it or by regular mail to the following address: Gianni Versace S.p.A., via A. Manzoni 38, 20121 Milan, Italy 
+
+### 10\. CHANGES TO THE POLICY
+
+Any new regulations on the subject, as well as our constant analysis and updating of user services, may result in the need to change the user’s personal data processing methods. Consequently, our privacy policy may change over time. Therefore, we invite you to visit this page on a regular basis. For this purpose, the policy document states the latest review date. **Any material changes to this Privacy Policy will be notified to registered users by email and by posting a notice on the website.** Last review: 1 June 2014 
