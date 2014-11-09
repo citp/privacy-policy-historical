@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511005607id_/http%3A//www.solutioninn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109122315id_/http%3A//www.solutioninn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Solution Inn, The source of all academic solutions
 
