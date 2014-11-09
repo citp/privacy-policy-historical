@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookitsimply.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511010454id_/http%3A//cookitsimply.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookitsimply.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109172646id_/http%3A//www.cookitsimply.com/privacy.php) for the most accurate reproduction.*
 
 # COOKITSIMPLY.COM: Privacy policy
 
