@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219154554id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109045406id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
 
 # 
 
