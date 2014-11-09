@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220035535id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109135938id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -62,5 +62,7 @@ ComplaintBoard.in may disclose information about its users if required to do so 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
 
 | 
+
+### Share this site with others
 
 ### Recently Updated Complaints
