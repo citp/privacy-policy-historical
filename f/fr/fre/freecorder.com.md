@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecorder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050602id_/http%3A//freecorder.com/fc8/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecorder.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109150031id_/http%3A//freecorder.com/fc8/privacy.php) for the most accurate reproduction.*
 
 # Freecorder Privacy Policy
 
@@ -26,7 +26,7 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[Customer Support](https://web.archive.org/web/20140625050602id_/http%3A//freecorder.com/fc8/support.php)** **[](https://web.archive.org/web/20140625050602id_/http%3A//freecorder.com/fc8/support.php#TechSupport)**
+  * **[Customer Support](https://web.archive.org/web/20141109150031id_/http%3A//freecorder.com/fc8/support.php)** **[](https://web.archive.org/web/20141109150031id_/http%3A//freecorder.com/fc8/support.php#TechSupport)**
   * FAX: 415-480-1748 (USA)
 
 
