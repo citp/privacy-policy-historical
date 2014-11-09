@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624160738id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109103409id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
@@ -11,7 +11,7 @@ By using this site you are consenting to the use of cookies. [Find out more](htt
   * [](https://web.archive.org/index.html "Homepage")
   * [Mortgages](https://web.archive.org/mortgages/index.html "Mortgages")
   * [Savings](https://web.archive.org/savings/index.html "Savings")
-  * [Financial Advice](https://web.archive.org/financial-advice/index.html "Financial Advice")
+  * [Financial advice](https://web.archive.org/financial-advice/index.html "Financial advice")
   * [Insurance](https://web.archive.org/insurance/index.html "Insurance")
   * Other Services
 
@@ -121,3 +121,12 @@ Find out how you can do this by visiting [www.allaboutcookies.org/manage-cookie
 ###  Or, write to us
 
 **Customer Relations Department** Yorkshire Building Society Yorkshire House Yorkshire Drive Bradford West Yorkshire BD5 8LJ
+
+##  Get in touch 
+
+###  Call us
+
+  * 8am - 8pm: Mon to Fri
+  * 9am - 1pm: Sat
+
+
