@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shenyunperformingarts.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214194059id_/http%3A//www.shenyunperformingarts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shenyunperformingarts.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110005830id_/http%3A//www.shenyunperformingarts.org/privacy-policy) for the most accurate reproduction.*
 
 # Shen Yun Performing Arts - Privacy Policy
 
