@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armaniexchange.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226170016id_/http%3A//www.armaniexchange.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaniexchange.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109123459id_/http%3A//www.armaniexchange.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy & Security - Customer Service - Armani Exchange
 
