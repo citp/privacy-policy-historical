@@ -1,64 +1,54 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326094322id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109082510id_/http%3A//www.atlanta.net/Privacy-Policy) for the most accurate reproduction.*
 
-# Atlanta.net - ACVB Privacy Policy
+# Atlanta.net Privacy Policy
 
-The Atlanta Convention and Visitors Bureau ("ACVB") respects the privacy and confidentiality of individuals who visit the ACVB web site located at www.atlanta.net. The ACVB maintains this Privacy Policy to help you understand the commitment of ACVB to safeguard the privacy of the information you provide to the ACVB on the ACVB Website. This Privacy Policy outlines the information which ACVB will collect from you on the ACVB Website and how ACVB will use that information. 
+## Atlanta Convention and Visitors Bureau Privacy Policy
 
-Collection of Your Personal Information by ACVB  
+**This Privacy Policy was last updated on October 6, 2014.**
+
+This Privacy Policy is provided by the Atlanta Convention and Visitors Bureau ("ACVB") for the websites operated by the ACVB (the "ACVB Websites"), and covers all of the ACVB Websites generally, including Atlanta.net, Atlantameetings.com, IAMATL.net, ATLFiles.com and any associated content, features and functionality including email and RSS feeds made available on the ACVB Websites. The ACVB respects the privacy and confidentiality of individuals who visit the ACVB Websites and maintains this Privacy Policy to help you understand the commitment of ACVB to safeguard the privacy of the information you provide to the ACVB on the ACVB Websites. This Privacy Policy outlines the information that ACVB will collect from you on the ACVB Websites and how the ACVB will use that information. 
+
+**Collection of Your Personal Information by ACVB**  
 The ACVB's mission is to provide you with personalized services and offerings designed to enhance your Atlanta experience. To do so effectively, ACVB collects the following information:
 
-(a) Personally Identifiable Information. ACVB, through the use of the ACVB Website, only collects personally identifiable information about you when you voluntarily provide such personally identifiable information to ACVB using the ACVB Website. If you do not wish your personally identifiable information to be collected, please do not submit it.
+(a) Personally Identifiable Information. ACVB, through the use of the ACVB Websites, only collects personally identifiable information about you when you voluntarily provide such personally identifiable information to ACVB using the ACVB Websites. If you do not want your personally identifiable information to be collected, please do not submit it.
 
-(b) Information from the Use of "Cookies". The ACVB Website employs "cookie" technology. Cookies are small pieces of data stored in files on your computer allowing the ACVB Website to track your use of the ACVB Website as you visit and revisit the ACVB Website. The use of cookies by the ACVB Website complies with generally accepted programming standards and practices. Please note that you can choose to block the use of cookies through settings in your web browser but be advised that certain features of the ACVB Website may not work properly without them.
+(b) Information from the Use of "Cookies" and Other Tracking Tools. The ACVB Websites employ "cookie" and pixel technology and other tracking tools. Cookies and pixels are small pieces of data stored in files on your computer allowing the ACVB Websites to track your use of the ACVB Websites as you visit and revisit such websites. The use of cookies by the ACVB Websites complies with generally accepted programming standards and practices. Please note that you can choose to block the use of cookies and pixels through settings in your web browser but be advised that certain features of the ACVB Websites may not work properly without the use of cookies or pixels. The ACVB Websites are not set up to honor web browser do-not-track settings.
 
-Use of Your Information by ACVB  
-It is the policy of the ACVB not to sell, share, transfer, or rent to third parties any information you provide to the ACVB, through the use of the ACVB Website, without your written consent except as required by operation of the law or in compliance with legal authorities; provided, however the ACVB may share your personal information with certain third parties ("Target Third Parties") without your written consent in order to further the purpose for which you voluntarily provide the ACVB with the information. Additionally, the ACVB engages third party information management service providers to help maintain efficient operations. Because such information management service providers may access our systems, such information management service providers may have access to your information. The ACVB does not transfer or relinquish ownership of information maintained about you within ACVB systems and databases to such information management service providers but requires these information management service providers to sign confidentiality agreements to keep all confidential information and other proprietary information found in our systems confidential.
+**Use of Your Information by ACVB**  
+It is the policy of the ACVB not to sell, share, transfer, or rent to third parties any information you provide to the ACVB through the use of the ACVB Websites, without your written consent except as required by operation of the law or in compliance with legal authorities; provided, however the ACVB may share your personal information with certain third parties ("Target Third Parties") without your written consent in order to further the purpose for which you voluntarily provide the ACVB with the information. Additionally, the ACVB engages third party information management service providers to help maintain efficient operations. Because such information management service providers may access our systems, such information management service providers may have access to your information. The ACVB does not transfer or relinquish ownership of information maintained about you within ACVB systems and databases to such information management service providers but requires these information management service providers to sign confidentiality agreements to keep all confidential information and other proprietary information found in our systems confidential.
 
-The ACVB routinely collects, compiles, and reports statistics and information reflecting the use of the ACVB Website and information services in order to enhance membership services, advertising services, improve marketing and promotional efforts, analyze ACVB Website usage, improve the ACVB Website's content and layout, generate aggregate reports on trends, interests and behavior and enhance service offerings.
+The ACVB routinely collects, compiles, and reports statistics and information reflecting the use of the ACVB Websites and information services in order to enhance membership services, advertising services, improve marketing and promotional efforts, analyze usage of the ACVB Websites, improve the ACVB Websites' content and layout, generate aggregate reports on trends, interests and behavior and enhance service offerings.
 
-The ACVB reserves the right to take any action the ACVB deems prudent or necessary to safeguard the ACVB Website and your information in the ACVB systems and databases from malicious or unwarranted attack by viruses, hackers, or other miscreants.
+The ACVB may now or in the future work with third parties, including third party advertising networks and website analysis firms, who use cookies, pixels and other tracking technologies to collect non-personally identifiable information when you visit the ACVB Websites. This non-personally identifiable information, collected through cookies, pixels and other techniques, is often used by these advertising networks to serve you with advertisements tailored to meet your preferences and needs.
 
-Collection and Use of Your Information by Third Parties  
-Please note that third parties offer goods and services on and through the ACVB Website. We assume each such third party has its own internal privacy policy and data collection and use practices. The ACVB does not have any responsibility for their practices.
+The ACVB reserves the right to take any action the ACVB deems prudent or necessary to safeguard the ACVB Websites and your information in the ACVB systems and databases from malicious or unwarranted attack by viruses, hackers, or other miscreants.
 
-Changing and Deleting Your Personal Information  
-You may request the ACVB change or delete your personal information in ACVB systems and databases by submitting a detailed description of the desired action to the following e-mail address: 
+**Collection and Use of Your Information by Third Parties**  
+In an attempt to provide increased value to users of the ACVB Websites, the ACVB Websites may link to, or contain links for, third party websites that we do not control or maintain. These may include websites linked to products referenced on the ACVB Websites or in advertisements on the ACVB Websites. We are not responsible for the terms and conditions or privacy practices employed by any such third party website accessible from the ACVB Websites. Access to such third party websites is at your own risk, and we encourage you to read the privacy statements of all third party websites before submitting any personally identifiable information while using such other websites.
 
-[_privacy@atlanta.net_](mailto:privacy@atlanta.net)
-
-.
+**Changing and Deleting Your Personal Information**  
+You may request the ACVB change or delete your personal information in ACVB systems and databases by submitting a detailed description of the desired action to the following e-mail address: [privacy@atlanta.net](mailto:privacy@atlanta.net).
 
 Please note that after the ACVB processes a change or deletes your personal information from active ACVB systems and databases, it is possible that non-active residual copies of your information may still exist in ACVB systems and on archive or backup media.
 
-Your Consent  
-By using the ACVB Website, you consent to the collection and use of the above-described information by ACVB (and Target Third Parties, in which case, once such Target Third Party is in possession of your information, we can not control such Target Third Party's use of your information). If you do not agree with the terms and conditions stated in this Privacy Policy, please do not access or use the ACVB Website.
+**Your Consent**  
+By using any of the ACVB Websites, you consent to the collection and use of the above-described information by ACVB (and Target Third Parties, in which case, once such Target Third Party is in possession of your information, we cannot control such Target Third Party's use of your information). If you do not agree with the terms and conditions stated in this Privacy Policy, please do not access or use the ACVB Websites.
 
-Electronic Newsletters  
-We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not share our mailing lists with any third parties, including advertisers or partners.
+**Electronic Newsletters**  
+We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not as a general practice share our mailing lists with any third parties, including advertisers. However, to minimize duplicative e-mails and other electronic messages we do correlate user e-mail addresses with Facebook users through a service provided by Facebook, although it is our understanding that Facebook does not retain any of this data.
 
-Control of your Password  
-You are required to control the security of your password. We are not responsible for any damages arising out of the loss or misuse of your passwords. If you have forgotten your password, please go to the appropriate page and enter your e-mail in the appropriate box and resubmit it. Your password will be e-mailed to you shortly thereafter. Note that we will never ask for your password in an unsolicited phone call or e-mail.
+**Children’s Privacy and ACVB Website Age Limitations**  
+The ACVB Websites are intended for use by persons aged 18 or older. The ACVB does not knowingly allow use of the ACVB Websites by any person that the ACVB believes to be younger than 18. The ACVB also does not collect any personally identifiable information from any persons under the age of 18 and if we discover that we have been provided any such information, we will delete this information from our records.
 
-Your Questions and Concerns  
-If you have questions or concerns about this Privacy Policy or any of ACVB's use of your information, please contact the ACVB at the following e-mail address: 
+**Contests and Promotions**  
+From time-to-time, the ACVB may operate contests or promotions through the ACVB Websites by itself or with one or more co-sponsoring organizations. In addition to the official rules that apply to such contest or promotion, the ACVB may request information from users of the ACVB Websites in connection with such contests or promotions. Information requested may include contact information (such as name and address), and demographic information (such as zip code and age). We may co-sponsor some contests on the ACVB Websites with other organizations. If you enter one of these contests, our co-sponsors may also receive the information collected or may collect the information directly.
 
-[_privacy@atlanta.net_](mailto:privacy@atlanta.net)
+**Your Questions and Concerns**  
+If you have questions or concerns about this Privacy Policy or any of ACVB's use of your information, please contact the ACVB at the following e-mail address: privacy@atlanta.net.
 
-.
+**Changes to this Privacy Policy**  
+We reserve the right to modify this Privacy Policy, or any part of it, without notice at any time and for any reason. Whenever the ACVB changes this Privacy Policy, we will post the updated Privacy Policy on the ACVB Websites, and we will note at the top of this Privacy Policy the date of the last update, which should alert you to changes in this Privacy Policy since your prior visit to the ACVB Websites.
 
-Changes to this Privacy Policy  
-On occasion the ACVB may amend or change this Privacy Policy by updating or revising this posting, with the revised terms taking effect as of the date of its posting.
-
-Posted: September 3, 2002
-
-[](http://www.atlanta.net/50funthings/)
-
-### 50 Fun Things
-
-Find 50 fun things to see and do in Atlanta. 
-
-[](http://www.citypass.com/atlanta?mv_source=atlantacvb&campaign=acvb)
-
-### Atlanta CityPASS
-
-Atlanta CityPASS is your ticket to five top attractions.
+**Governing Law**  
+This Privacy Policy your use of the ACVB Websites shall be governed in all respects by the laws of Georgia, without regard to choice of law provisions.
