@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122309id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109170045id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
 
-# India's No.1 Cashback & Coupons site
+# Discount Coupons & Extra Cashback on 500+ Sites -CashKaro
 
 Cashkaro.com (“website”, “our website”, “site”) is operated by Pouring Pounds Ltd (“We”, “Our”, “Company”).
 
