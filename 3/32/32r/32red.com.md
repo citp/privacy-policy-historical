@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218153039id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109171728id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
 
@@ -12,11 +12,21 @@ This website (the 'Site') is operated by and information collected from this Sit
 
 If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and 32Red will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site, after we either personally notify you or generally post changes on the Site, will constitute your acceptance of those changes. 
 
-### Use of Cookies and Other Information Stored on a User's Machine...
+### Our cookie policy and use of information stored on your device...
 
-A cookie is a file containing electronic information which stored on a user's hard drive to provide information needed by the user on a regular basis. Cookies are often used to save website customisations and website login information. 32Red only uses cookies for the operation of the Site.
+A cookie is a text file containing information about you and your device which is stored on your computer to provide information needed by the user on a regular basis. Cookies are often used to save website customisations and website login information so that the website knows who you are. Cookies can also be used to tailor the experience that you get from a particular website, and provide you with personalised offers as well as give important information as to how the website is performing. Here at 32Red we use cookies for the following purposes: 
 
-An IP address is a number that uniquely identifies your computer on the internet. 32Red Online Casino may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address. 
+  * To provide a full customer experience within the casino.
+  * To recognise you as an existing customer and to allow you to login to your account more easily.
+  * To collect vital information on the running of our website, this allows us to improve our service to you.
+  * To understand how you are using our website, to help us improve our service.
+  * To make our marketing activity relevant to you - this helps us to ensure we show you the most relevant offers both on our own site and on others.
+
+
+
+We may also work with external advertising networks who use 3rd party cookies to collect information on your preferences, meaning we can show adverts and offers that are tailored to you. For more information of cookies please visit <http://www.youronlinechoices.com/uk/>
+
+An IP address is a number that uniquely identifies your computer on the internet. 32Red Online Casino may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address. We may also use your IP address to ensure that we give you the best customer experience, and provide you with a service in your local currency, where applicable.
 
 ### Public Messages... 
 
