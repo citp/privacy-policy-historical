@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506131227id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109100913id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
 
 # FindLaw UK About Us: Privacy Policy
 
@@ -147,12 +147,11 @@ You may cancel your registration or update your preferences at any time. If you 
 
 If you have any additional questions or concerns related to this Privacy Statement and/or our practices, please [email us](mailto:findlaw.portalmanager@thomsonreuters.com "email us") or contact us at:
 
-FindLaw UK/Contact Law  
-The Warehouse Office Suites  
-12a Ravensbury Terrace  
+FindLaw UK  
+19 Hatfields  
 London  
-SW18 4RL  
-Telephone: 0800 1777 162
+SE1 8DJ  
+
 
 ### PRIVACY STATEMENT CHANGES
 
