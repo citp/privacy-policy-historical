@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyexchange.com.hk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080131id_/http%3A//www.beautyexchange.com.hk/etc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyexchange.com.hk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109055508id_/http%3A//beautyexchange.com.hk/etc/privacy.php) for the most accurate reproduction.*
 
 # BeautyExchange.com - all about beauty, fashion, lifestyle and more...
 
