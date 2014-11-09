@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001063329id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109044707id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -13,7 +13,7 @@ CPA, Nursing, Plumber, etc
 Miami FL, 02110, California, etc  
   
 ---  
-| [Post Jobs ($1/day)](https://web.archive.org/web/20131001063329id_/http%3A//www.helpwanted.com/Application/post-classifieds-jobs "Post Jobs \($1/day\)")  
+| [Post Jobs ($1/day)](https://web.archive.org/web/20141109044707id_/http%3A//www.helpwanted.com/Application/post-classifieds-jobs "Post Jobs \($1/day\)")  
    
   |  |  |   | 
 
