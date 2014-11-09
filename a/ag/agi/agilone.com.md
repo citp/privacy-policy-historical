@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614120221id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109062414id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | AgilOne | Predictive Marketing Platform
 
@@ -6,7 +6,7 @@
 
 **Effective date: July 6, 2012**
 
-**This privacy policy (this “Policy”) describes the types of information that AgilOne, Inc. (including our affiliates, “AgilOne” or “we”) collects from users of its corporate Web site, www.agilone.com, as well as any Web site that directly links to this Policy when you click on “Privacy” or “Privacy Policy” in the Web site footer (each, a “Site”). Unless otherwise provided in this Policy, this Policy does not cover our offline data practices. This Policy also describes the services we provide to our clients (our “Services”).**
+[](https://safeharbor.export.gov/list.aspx)**This privacy policy (this “Policy”) describes the types of information that AgilOne, Inc. (including our affiliates, “AgilOne” or “we”) collects from users of its corporate Web site, www.agilone.com, as well as any Web site that directly links to this Policy when you click on “Privacy” or “Privacy Policy” in the Web site footer (each, a “Site”). Unless otherwise provided in this Policy, this Policy does not cover our offline data practices. This Policy also describes the services we provide to our clients (our “Services”).  To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>**
 
 This Policy is effective as of the date set forth above. We encourage you to check this Policy from time to time. If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to opt out. Your continued use of this Site constitutes your acceptance of the current posted Policy. If you have questions about our privacy policy, please contact us as provided below.
 
