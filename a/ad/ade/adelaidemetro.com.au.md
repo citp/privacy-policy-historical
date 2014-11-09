@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050018id_/https%3A//adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109140151id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
@@ -224,6 +224,8 @@ You can access the information we hold about you by logging into your metrocard 
 Access to your personal information is restricted to Adelaide Metro and the Department of Planning, Transport and Infrastructure personnel who need to transact business with you. 
 
 If you are a parent or guardian, you may request access to the personal information of a minor. Reasonable proof of your identity is required in addition to reasonable proof of a relationship to the minor before any information is disclosed. 
+
+You may arrange for secure third party access to your Metrocard account if required however, a third party cannot modify your account details as this could prevent you from accessing your account. 
 
 You may also request that your partner may access your personal information on your behalf. Requests for access to personal information of a partner require consent of the partner. 
 
