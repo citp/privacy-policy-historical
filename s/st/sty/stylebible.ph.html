@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stylebible.ph privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630215509id_/http%3A//www.stylebible.ph/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stylebible.ph privacy policy that was archived on 2014-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141109122219id_/http%3A//www.stylebible.ph/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 				<title>Privacy Policy | Stylebible.ph</title>
@@ -26,7 +26,7 @@
 	
 	<!--start loading important js files-->
 	<!--<script type="text/javascript" language="javascript" src="http://www.stylebible.ph/js/jquery.js"></script>-->
-	<script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1468025356754948"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1468025356754948"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ph-ssl.effectivemeasure.net/em.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 	
 	<script type="text/javascript" language="javascript" src="http://www.stylebible.ph/js/jquery.color.js"></script>
@@ -84,6 +84,60 @@
 	<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>
 	
 	<script> var WEBSITE = 'Style Bible'; </script>
+	
+	<!--share count script start-->
+	<script src="http://www.stylebible.ph/js/jquery.sharrre.js"></script>
+	
+	<script>  
+	$(function(){
+		
+		$('#facebook_share').sharrre({
+			  share: { facebook: true },
+			  url: 'http://www.stylebible.ph/privacy-policy/',
+			  enableHover: false,
+			  enableTracking: true,
+			  template: '<img src="/images/a1.jpg"/><center>{total}</center>',
+		});
+		
+		$('#twitter_sharecount').sharrre({
+			share: { twitter: true },	
+			url: 'http://www.stylebible.ph/privacy-policy/',
+			enableHover: false,
+			enableTracking: true,
+			template: '<img src="/images/a2.jpg"/ style="margin-top:10px;"><center>{total}</center>',
+			//buttons: { twitter: {via: ''}},
+		});
+		
+		 $('#twitter_right').sharrre({
+			share: {
+				twitter: true
+			},
+			enableHover: false,
+			enableTracking: true,
+			buttons: { },
+			click: function(api, options){
+			api.simulateClick();
+			api.openPopup('twitter');
+		  }
+		});
+	
+		$('#facebook_right').sharrre({
+		  share: {
+			facebook: true
+		  },
+		  enableHover: false,
+		  enableTracking: true,
+		  click: function(api, options){
+			api.simulateClick();
+			api.openPopup('facebook');
+		  }
+		});
+	
+	});
+		
+	</script>
+	<!--share count script end-->
+	
 	<!--end loading important js files-->
     <script>
     WebFontConfig = {
@@ -123,21 +177,19 @@
 			<!-- start of file includes that should be placed after the start body tag -->
 	
 	
-
 		<!-- BEGIN EFFECTIVE MEASURE CODE -->
 		<!-- COPYRIGHT EFFECTIVE MEASURE -->
-		<script type="text/javascript" language="JavaScript">
-			//<![CDATA[
-			document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%20language%3D%22JavaScript%22%20src%3D%22'));
-			document.write((location.protocol.indexOf('https')>-1?'https://ph-ssl':'http://ph-cdn')
-			+unescape('.effectivemeasure.net/em.js%22%3E%3C/script%3E'));
-			//]]>
-		</script><script type="text/javascript" language="JavaScript" src="https://ph-ssl.effectivemeasure.net/em.js"></script>
+		<script type="text/javascript">
+			(function() {
+				var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+				em.src = ('https:' == document.location.protocol ? 'https://ph-ssl' : 'http://ph-cdn') + '.effectivemeasure.net/em.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+			})();
+		</script>
 		<noscript>
 			<img src="//ph.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 		</noscript>
 		<!--END EFFECTIVE MEASURE CODE -->
-		
 		<!-- BEGIN GOOGLE ANALYTICS -->
 		<script type="text/javascript" language="JavaScript">
 				
@@ -151,11 +203,25 @@
 			//stylebible account
 			ga('create', 'UA-252180-25', {'name': 'stylebible'});
 		
+			ga('require', 'displayfeatures');
+		
 			ga('stylebible.send', 'pageview');
 		
 		</script>
 		<!-- END GOOGLE ANALYTICS -->
-			<div id="fb-root"></div>
+			<!-- START scrolldepth -->	
+			
+        <script type="text/javascript" language="javascript" src="http://www.stylebible.ph/js/jquery.scrolldepth.js"></script>
+        
+        <script>
+        $(function() {
+          $.scrollDepth({pageLabel: 'Scroll Depth - privacy-policy'});
+        });
+
+        </script>
+        		
+<!-- END scrolldepth -->
+	<div id="fb-root"></div>
 
 <script>
 // 	window.fbAsyncInit = function(){
@@ -328,7 +394,7 @@
 										<li><a href="http://www.stylebible.ph/fashion/designer-spotlight/">designer spotlight</a></li>
 										<li><a href="http://www.stylebible.ph/fashion/fashion-shows/">fashion shows</a></li>
 										<!--<li><a href="http://www.stylebible.ph/philippine-fashion-week/spring-summer-2014/designers/">fashion week</a></li>-->
-										<li><a href="http://www.stylebible.ph/philippine-fashion-week/holiday-2014/designers/">fashion week</a></li>
+										<li><a href="http://www.stylebible.ph/philippine-fashion-week/spring-summer-2015/designers/">fashion week</a></li>
 										<li><a href="http://www.stylebible.ph/fashion/fashion-videos/">fashion videos</a></li>
                                         <li><a href="http://www.stylebible.ph/getkultured/">get kultured</a></li>
 									</ul>
@@ -401,13 +467,14 @@
 						<li><a href="http://www.stylebible.ph/style-bible-picks/">Style Bible Picks &nbsp;|</a></li>
 						<li><a href="http://www.stylebible.ph/preview-portfolio-project/">Preview Portfolio Project &nbsp;|</a></li>
 						<!--<li><a href="http://www.stylebible.ph/nofilterbeauty/">No Filter Beauty</a></li>-->
-                                  <li><a href="http://www.stylebible.ph/preview-best-dressed/preview-best-dressed-2014/galleries/">#PreviewBall</a></li>
+                        <!--<li><a href="http://www.stylebible.ph/preview-best-dressed/preview-best-dressed-2014/galleries/">#PreviewBall</a></li>-->
+                        <li><a href="http://www.stylebible.ph/philippine-fashion-week/spring-summer-2015/designers/">Philippine Fashion Week</a></li>
 					</ul>
 				</div>
                 <div id="hs_preview_cover" style="">
 											
                     <a href="https://www.summitnewsstand.com.ph/preview-magazine" target="_blank" id="magazine">
-                    <img src="http://www.stylebible.ph//thumbs/images/articles/2014/cover_june.105x134.jpg"></a>
+                    <img src="http://www.stylebible.ph//thumbs/images/articles/2014/preview_nov.105x134.jpg"></a>
                	 </div>
             	</div>    
 			</div>
@@ -627,108 +694,80 @@ Personal information about children is a concern for all of us. At Style Bible, 
 											googletag.display('div-gpt-ad-1362976130662-7');
 									</script>
 			</div>
-						<div class="hs_clear_fix"></div>
+			
+            <div class="hs_clear_fix"></div>
             <div id="hs_most_popular" class="hs_margin_b_15 hs_border_b_00_1 hs_float_left">
             	<h2 class="hs_bg_000 hs_font_color_fff hs_padding_v_5 tac hs_text_shadow_none">MOST POPULAR</h2>
                 <div class="hs_clear_fix"></div>
-				<div id="targetElementHome">
-					<!-- Template (invisible) -->
-        			<div id="templateElementHome" style="display: none;">
-        				<!--%
-		                var items = data.response.items;
-		                for (var i = 0; i < items.length; i++) { 
-		                    var item = items[i];
-
-		                    var clickurl = item.click_url + '?cx_ref=popular';
-		                    var description = item.description;
-
-		                    if (!description) {
-		                        description = '';
-		                    }
-
-		                    if (description.length > 300) {
-		                            description = description.substr(0,300) + '...';
-		                    }
-
-		                    var title = item.title || "No title";
-		                    title = title.replace(/\\/g, "");
-		    				var imgurl = (item.dominantthumbnaildimensions && item.dominantthumbnail) || item.thumbnail || item.og-image;
-
-		                    var urlI = item.url;
-		                    var urlSplit = urlI.split("/");
-		                    var channel = urlSplit[4]; 
-		                    channel = channel.replace("-"," ");
-		                    channel = channel.toUpperCase();
-
-		                    var channelLink = urlSplit[1]+'//'+urlSplit[2]+'/'+urlSplit[3]+'/'+urlSplit[4];
-		                %-->
-
-		                <div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
-		                    <a tmp:id="img-{{i}}" onclick="return true;" tmp:href="{{clickurl}}" tmp:target="_top">
-		                        <img tmp:src="{{imgurl}}" alt="{{title}}" title="{{title}}" class="hs_float_left" width="99" height="60">
-
-		                        <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
-		                            <span class="hs_font_size_11 hs_font_color_666">{{channel}}</span><br>
-		                            <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
-		                                <span class="title">{{title}}</span>
-		                            </span><br>
-		                        </div>
-		                    </a>
-		                </div>
-
-		                <!--%
-                    		}
-               			%-->
-
-					</div>
-				</div>
-            </div>
+                                    	<div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
+                            <a href="http://www.stylebible.ph/beauty/look-we-love/celebrity-lookalikes/?ref=popular" class="">
+                                <img src="http://www.stylebible.ph//thumbs/images/articles/2014/11/07/celebrity_lookalikes/crop-1415359307-single-celebrity_lookalikes.99x60.jpg" title="CELEBRITY LOOKALIKES" alt="CELEBRITY LOOKALIKES" class="hs_float_left" width="99" height="60">
+    
+                                <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
+                                    <span class="hs_font_size_11 hs_font_color_666">
+                                        LOOK WE LOVE</span><br>
+                                    <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
+                                        CELEBRITY LOOKALIKES</span><br>
+                                </div>
+                            </a>
+                        </div>
+                                        	<div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
+                            <a href="http://www.stylebible.ph/parties/halloween-celebrations-at-aracama-and-prive/?ref=popular" class="">
+                                <img src="http://www.stylebible.ph//thumbs/images/articles/2014/11/02/aracama_prive_halloween_parties/crop-1414897933-single-aracama_prive_halloween_parties.99x60.jpg" title="ARACAMA VS. ZOMBIES HALLOWEEN PARTY" alt="ARACAMA VS. ZOMBIES HALLOWEEN PARTY" class="hs_float_left" width="99" height="60">
+    
+                                <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
+                                    <span class="hs_font_size_11 hs_font_color_666">
+                                        PARTIES</span><br>
+                                    <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
+                                        ARACAMA VS. ZOMBIES HALLOWEEN PARTY</span><br>
+                                </div>
+                            </a>
+                        </div>
+                                        	<div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
+                            <a href="http://www.stylebible.ph/fashion/style-report/how-celebrities-wear-their-adidas-stripes/?ref=popular" class="">
+                                <img src="http://www.stylebible.ph//thumbs/images/articles/2014/11/05/how_celebrities_wear_their_adidas_stripes/crop-1415181043-single-how_celebrities_wear_their_adidas_stripes.99x60.jpg" title="HOW CELEBRITIES WEAR THEIR ADIDAS STRIPES" alt="HOW CELEBRITIES WEAR THEIR ADIDAS STRIPES" class="hs_float_left" width="99" height="60">
+    
+                                <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
+                                    <span class="hs_font_size_11 hs_font_color_666">
+                                        STYLE REPORT</span><br>
+                                    <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
+                                        HOW CELEBRITIES WEAR THEIR ADIDAS STRIPES</span><br>
+                                </div>
+                            </a>
+                        </div>
+                                        	<div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
+                            <a href="http://www.stylebible.ph/fashion/personal-stylist/celebrities-dress-up-for-halloween-2014/?ref=popular" class="">
+                                <img src="http://www.stylebible.ph//thumbs/images/articles/2014/11/03/celebrities_dress_up_for_halloween_2014/crop-1414990025-single-celebrities_dress_up_for_halloween_2014.99x60.jpg" title="CELEBRITIES DRESS UP FOR HALLOWEEN 2014" alt="CELEBRITIES DRESS UP FOR HALLOWEEN 2014" class="hs_float_left" width="99" height="60">
+    
+                                <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
+                                    <span class="hs_font_size_11 hs_font_color_666">
+                                        PERSONAL STYLIST</span><br>
+                                    <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
+                                        CELEBRITIES DRESS UP FOR HALLOWEEN 2014</span><br>
+                                </div>
+                            </a>
+                        </div>
+                                        	<div id="hs_mp_art" class="hs_border_b_e1_1 hs_padding_v_14 hs_padding_h_17 hs_border_h_e1_1 hs_float_left" style="width:264px;">
+                            <a href="http://www.stylebible.ph/fashion/personal-stylist/traveling-in-style-with-anne-curtis/?ref=popular" class="">
+                                <img src="http://www.stylebible.ph//thumbs/images/articles/2014/11/04/traveling_in_style_with_anne_curtis/crop-1415073032-single-traveling_in_style_with_anne_curtis.99x60.jpg" title="TRAVELING IN STYLE WITH ANNE CURTIS" alt="TRAVELING IN STYLE WITH ANNE CURTIS" class="hs_float_left" width="99" height="60">
+    
+                                <div class="hs_mp_text tac hs_float_left hs_line_height_8 hs_margin_t_7" style="width:164px">
+                                    <span class="hs_font_size_11 hs_font_color_666">
+                                        PERSONAL STYLIST</span><br>
+                                    <span class="hs_font_bold hs_font_size_12 hs_line_height_1">
+                                        TRAVELING IN STYLE WITH ANNE CURTIS</span><br>
+                                </div>
+                            </a>
+                        </div>
+                                </div>
             <div class="hs_clear_fix"></div>
 										
 			<div id="blogs">
 				<a href="http://www.stylebible.ph/blogs/"><h2 class="header">blogs</h2></a>
 				
 				<ul>
-											<li>
-							<div class="blog">
-								<a href="http://blogs.stylebible.ph/previewblog/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_editors.png" alt="notes from the editors" title="notes from the editors"></a>
-								
-								<div class="blog_info">
-									<a href="http://blogs.stylebible.ph/previewblog/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/notes_from_the_editors.png" alt="notes from the editors" title="notes from the editors"></a>
-									<a href="http://blogs.stylebible.ph/previewblog/?p=5018" class="link"><h2 class="latest">Icona Pop Will Party in Manila</h2></a>
-									<span class="posted_date">June 19, 2014</span>
-								</div>
-								
-								<div class="clr"></div>
-							</div>
-							<div class="border"></div>						</li>
-												<li>
-							<div class="blog">
-								<a href="http://blogs.stylebible.ph/missjones/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_kim.png" alt="miss jones" title="miss jones"></a>
-								
-								<div class="blog_info">
-									<a href="http://blogs.stylebible.ph/missjones/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/miss_jones.png" alt="miss jones" title="miss jones"></a>
-									<a href="http://blogs.stylebible.ph/missjones/?p=642" class="link"><h2 class="latest">YStyle</h2></a>
-									<span class="posted_date">June 27, 2014</span>
-								</div>
-								
-								<div class="clr"></div>
-							</div>
-							<div class="border"></div>						</li>
-												<li>
-							<div class="blog">
-								<a href="http://blogs.stylebible.ph/people.portraits/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_portraits.png" alt="people portraits" title="people portraits"></a>
-								
-								<div class="blog_info">
-									<a href="http://blogs.stylebible.ph/people.portraits/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/people_portraits.png" alt="people portraits" title="people portraits"></a>
-									<a href="http://blogs.stylebible.ph/people.portraits/?p=3144" class="link"><h2 class="latest">Tina Ong</h2></a>
-									<span class="posted_date">June 30, 2014</span>
-								</div>
-								
-								<div class="clr"></div>
-							</div>
-													</li>
-											
+
+                    <li>	<div class="blog">		<a href="http://blogs.stylebible.ph/previewblog/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_editors.png" alt="notes from the editors" title="notes from the editors"></a>		<div class="blog_info">			<a href="http://blogs.stylebible.ph/previewblog/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/notes_from_the_editors.png" alt="notes from the editors" title="notes from the editors"></a>			<a href="http://blogs.stylebible.ph/previewblog/?p=5144" class="link"><h2 class="latest">AN EARLY HOLIDAY WITH JING MONIS</h2></a>			<span class="posted_date">November 7, 2014</span>		</div>		<div class="clr"></div>	</div><div class="border"></div></li><li>	<div class="blog">		<a href="http://blogs.stylebible.ph/people.portraits/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_portraits.png" alt="people portraits" title="people portraits"></a>		<div class="blog_info">			<a href="http://blogs.stylebible.ph/people.portraits/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/people_portraits.png" alt="people portraits" title="people portraits"></a>			<a href="http://blogs.stylebible.ph/people.portraits/?p=3421" class="link"><h2 class="latest">Paul</h2></a>			<span class="posted_date">November 6, 2014</span>		</div>		<div class="clr"></div>	</div><div class="border"></div></li><li>	<div class="blog">		<a href="http://blogs.stylebible.ph/rajosblog/"><img class="author_image" src="http://www.stylebible.ph/templates/march_2013/images/blogs/author_rajo.png" alt="rajo's blog" title="rajo's blog"></a>		<div class="blog_info">			<a href="http://blogs.stylebible.ph/rajosblog/"><img class="logo" src="http://www.stylebible.ph/templates/march_2013/images/blogs/rajos_blog.png" alt="rajo's blog" title="rajo's blog"></a>			<a href="http://blogs.stylebible.ph/rajosblog/?p=32718" class="link"><h2 class="latest">Kenya, Nairobi Day 1!</h2></a>			<span class="posted_date">October 31, 2014</span>		</div>		<div class="clr"></div>	</div></li>
 				</ul>
 			</div>
 										<div class="mrec mb_15">
@@ -889,7 +928,11 @@ Personal information about children is a concern for all of us. At Style Bible, 
 					WEBSITES: 
 					<a rel="nofollow" title="Female Network" href="http://www.femalenetwork.com/" target="_blank">Female Network</a> | 
 					<a rel="nofollow" title="Jobstreet" href="http://ph.jobstreet.com/" target="_blank">Jobstreet</a> | 
-					<a rel="nofollow" title="Techie" href="http://www.techie.com.ph/" target="_blank">Techie</a>
+					<a title="TravelBook" href="http://www.Travelbook.ph/" target="_blank">TravelBook</a> |
+					<a rel="nofollow" title="MyProperty" href="http://www.MyProperty.ph/" target="_blank">MyProperty</a> |
+					<a rel="nofollow" title="RealLiving" href="http://www.RealLiving.com.ph/" target="_blank">Real Living</a> |
+					<a rel="nofollow" title="BridalBook" href="http://www.BridalBook.ph/" target="_blank">Bridal Book</a> |
+					<a rel="nofollow" title="Buqo" href="http://www.buqo.ph/" target="_blank">Buqo</a>
 				</div>
 				
 				<div class="footer_links_ordinary" style="padding: 5px 0px 0px;">
@@ -934,12 +977,7 @@ Personal information about children is a concern for all of us. At Style Bible, 
 		<div id="cX-root" style="display:none"></div>
 		<script type="text/javascript">
 			var cX = cX || {}; cX.callQueue = cX.callQueue || [];
-			cX.callQueue.push(['setSiteId', CXENSE_SITE_ID ]);cX.callQueue.push(['sendPageViewEvent', { useAutorefreshCheck: false }]);cX.callQueue.push(['insertWidget',{
-				      widgetId: '5704341c99bb634e6bb10c85c9442b76345c7ac7',
-				      templateElementId: 'templateElementHome',
-	  				  targetElementId: 'targetElementHome',
-				      width: 298, height: 500
-				      }]);
+			cX.callQueue.push(['setSiteId', CXENSE_SITE_ID ]);cX.callQueue.push(['sendPageViewEvent', { useAutorefreshCheck: false }]);
 		</script>
 		<script type="text/javascript">
 			(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
@@ -948,7 +986,7 @@ Personal information about children is a concern for all of us. At Style Bible, 
 		</script>
 		<!-- Cxense script end -->	<script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
