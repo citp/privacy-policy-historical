@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608071248id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109141226id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy One Little Mister
 
@@ -67,4 +67,4 @@ This policy was last modified on June 29, 2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact the blog owner, Nicole, at nicole@onelittlemister.com.
+If there are any questions regarding this privacy policy you may contact the blog owner, at admin@onelittlemister.com.
