@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102034id_/http%3A//houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109035812id_/http%3A//www.houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
@@ -8,7 +8,9 @@ Houseofnames.com, an Internet property of Swyrich Corporation, has created this 
 
 * * *
 
-If you have questions or concerns regarding the privacy policy, please contact the Policy Administrator at      privacy@swyrich.com 
+If you have questions or concerns regarding the privacy policy, please contact the Policy Administrator at 
+
+    privacy@swyrich.com 
 
 or write to
 
@@ -166,7 +168,7 @@ When you receive newsletters or promotional E-Mail from us, we may use a simple 
   
 This page was last modified on 10 April 2014 at 23:23.
 
-©2000-2014 Swyrich Corporation. See [Terms of Use](http://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
+©2000-2014 Swyrich Corporation. See [Terms of Use](https://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
 houseofnames.com is an internet property owned by Swyrich Corporation.
 
 | 
