@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxdessert.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506163732id_/http%3A//xxxdessert.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxdessert.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110001101id_/http%3A//xxxdessert.com/information/privacy) for the most accurate reproduction.*
 
 # XXX Dessert - free xxx pics & sex photos. Porn videos, pussy movies.
 
