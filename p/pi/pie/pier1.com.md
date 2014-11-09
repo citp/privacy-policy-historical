@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628151335id_/http%3A//www.pier1.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109041520id_/http%3A//www.pier1.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
