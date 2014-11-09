@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511030536id_/http%3A//www.svb.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109103646id_/http%3A//www.svb.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Silicon Valley Bank - Online Privacy Policy
 
@@ -13,7 +13,7 @@ SVB is headquartered in Santa Clara, California, USA.  SVB serves clients aroun
   
 
 
-###  Agreement to Notice
+### Agreement to Notice
 
 By using this Site or interacting with SVB you consent to this Notice, including your consent to our use and disclosure of information about you in the manner described in this Notice.
 
@@ -98,7 +98,7 @@ We also may make identifiable and anonymous information available to third parti
 
 From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.
 
-For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: [www.ftc.gov](https://web.archive.org/web/20140511030536id_/http://www.svb.com/Privacy-Policy/www.ftc.gov).
+For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: [www.ftc.gov](http://www.ftc.gov/).
 
   
 
@@ -107,17 +107,17 @@ For more information about the Children's Online Privacy Protection Act (COPPA),
 
 If you have any questions or concerns about our privacy policies, please contact us:
 
-**By email** : [privacy@svb.com](mailto:privacy@svb.com)
+ **By email** : [privacy@svb.com](mailto:privacy@svb.com)
 
 **For US Clients:**
 
 **By phone** :   
-+1 (408) 654-7400 (U.S.)
++1 (408) 654-7400 (U.S.) 
 
- **By postal mail** :   
-SVB Financial Group  
-Security Office – Data Privacy  
-3003 Tasman Drive  
+**By postal mail** :   
+SVB Financial Group   
+Security Office – Data Privacy   
+3003 Tasman Drive   
 Santa Clara, CA 95054
 
 |   | 
@@ -128,9 +128,9 @@ Santa Clara, CA 95054
 +44 207 367 7800
 
 **By postal mail** :   
-Data Protection Officer  
-41 Lothbury,  
-London  
+Data Protection Officer   
+41 Lothbury,   
+London   
 EC2R 7HF  
   
 ---|---|---  
