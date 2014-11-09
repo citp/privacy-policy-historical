@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628111055id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109123525id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
 
 # DomainSherpa Privacy Policy
 
@@ -72,4 +72,4 @@ Bainbridge Island, WA 98110
 
 #### If you enjoyed this article, subscribe for updates (it's free)
 
-[](http://www.escrow.com/?utm_source=DomainSherpa&utm_medium=Banner&utm_campaign=Sponsorship)
+[](https://uniregistry.com/?utm_source=DomainSherpa&utm_medium=LargeBanner&utm_campaign=Sponsorship)
