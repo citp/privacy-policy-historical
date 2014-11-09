@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628034856id_/http%3A//hirewordpressexperts.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109012914id_/http%3A//www.hirewordpressexperts.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Hire Wordpress Freelance Developers, Programmers & SEO Experts
 
