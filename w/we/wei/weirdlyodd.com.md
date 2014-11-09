@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdlyodd.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006142550id_/http%3A//www.weirdlyodd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdlyodd.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109045707id_/http%3A//www.weirdlyodd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Weird,Odd and Cool lists - Weirdly Odd
 
