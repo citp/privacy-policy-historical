@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyblade.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809071121id_/http%3A//www.beyblade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyblade.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109074904id_/http%3A//www.beyblade.com/privacy) for the most accurate reproduction.*
 
 # The Official BEYBLADE Website – BEYBLADE.com | PRIVACY POLICY
 
