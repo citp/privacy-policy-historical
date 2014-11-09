@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214150420id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109013907id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
-[](https://guarantybank.com/Home.aspx "Guaranty Bank")
+[](http://www.guarantybank.com/Home.aspx "Guaranty Bank")
 
 ### Have any questions?
 
@@ -12,7 +12,8 @@
   * [Email Us](https://web.archive.org/email.aspx)
   * Lost or Stolen   
 ATM/Debit Card Notification  
-1-800-554-8969
+Business Hours: 1-800-235-4636 (INFO)  
+Off Hours: 1-800-236-2442 
 
 
 
@@ -226,7 +227,7 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Guaranty Bank (d/b/a BestBank in Michigan and Georgia) has no affiliates._
+  * _Guaranty Bank (d/b/a BestBank in Michigan and Georgia)  does not share with our affiliates._
 
   
   
