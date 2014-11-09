@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotlegsandfeet.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523101520id_/http%3A//www.hotlegsandfeet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlegsandfeet.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109230456id_/http%3A//hotlegsandfeet.com/privacy-policy.html) for the most accurate reproduction.*
 
-# HOT LEGS AND FEET - Privacy Policy
+# Hot Legs And Feet - Privacy Policy
 
 ## Privacy Policy
 
@@ -61,7 +61,7 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **How to Contact HOTLEGSANDFEET**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=HOTLEGSANDFEET.com) or via email at support@HOTLEGSANDFEET.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=HOTLEGSANDFEET.COM) or via email at support@HOTLEGSANDFEET.COM.
 
   
 
