@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023030558id_/http%3A//premierequine.oxatis.com/PBCPPlayer.asp%3FID%3D1323009) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109061857id_/http%3A//premierequine.oxatis.com/PBCPPlayer.asp%3FID%3D1323009) for the most accurate reproduction.*
 
 # 
 
