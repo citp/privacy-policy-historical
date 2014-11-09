@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430014652id_/http%3A//gosh.nhs.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109143615id_/http%3A//www.gosh.nhs.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Great Ormond Street Hospital
 
@@ -22,20 +22,25 @@ By submitting personal data manually or in electronic form to this website, or b
 
 ## Other information we collect
 
-If you do nothing other than read pages or download information while using this web site, we will capture and store information about your visit. This information will not identify you. It relates to   
-(i)    the Internet domain and IP address from which you access the web site   
-(ii)    the type of browser and operating system you use   
-(iii)    the date and time of your visit,   
-(iv)    the pages you visit, and   
-(v)    the address of the website from which you linked to us (if applicable).
+If you do nothing other than read pages or download information while using this web site, we will collect information about your visit. This information will not personally identify you. It relates to   
+(i) the Internet domain and IP address from which you access the web site   
+(ii) the type of browser and operating system you use   
+(iii) the date and time of your visit, 
+
+(iv) demographic and interest information from Google,   
+
+(v) the pages you visit, and   
+(vi) the address of the website from which you linked to us (if applicable).
 
 ## Why do we collect information, including personal information?
 
-We collect information to help us improve our web service, make each visit more rewarding and enable online interaction with GOSH.
+We collect information to help us improve our web service and the information available to users, make each visit more rewarding and enable online interaction with GOSH.
 
 ## How do we use your information?
 
 We will use your information (personal or otherwise) to provide you with the services, products or information you have requested. We may need to share your information with our service providers, associated organisations and agents for these purposes.
+
+The data we collect is used in aggregate (and therefore anonymously) to monitor the use of our website and to research our users' behaviour, demographics and interests. This allows us to gain a better understanding of how our users navigate and use the website and, therefore, improve our service to you and to the hospital. By using the demographic and interest reports, we are able to tailor sections of the website for the people who use it and in particular for the patients and their parents.
 
 Any information (personal or otherwise) we collect is stored and processed in the UK. Your information is not shared with third parties or used in any other way, other than described in this policy or as required by law, unless you agree.
 
