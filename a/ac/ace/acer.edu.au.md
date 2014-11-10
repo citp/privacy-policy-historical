@@ -1,273 +1,159 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404004102id_/http%3A//www.acer.edu.au/shared/pages/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110162154id_/http%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
 
-# ACER - Australian Council for Educational Research
+# ACER
 
-ACER Privacy Policy  
-Assessment Services Privacy Policy  
-Website Privacy Policy   
-Copyright Policy  
-Credits
+## ACER and your personal information
 
-ACER Privacy Policy
+This is our Privacy Policy which sets out what personal information the Australian Council for Educational Research Ltd and its related companies (collectively, **ACER** , **we** or **us** ) collect about you.
 
-Click here to download the [ACER Privacy Policy (PDF:80kb)](https://web.archive.org/web/20070404004102id_/http%3A//www.acer.edu.au/shared/pages/documents/ACER_Privacy_Policy.pdf)
+It sets out how we collect your personal information, how we hold it, how we use it and who we disclose it to.  It explains what information we may collect from you when you use our website or an ACER product or service.  It also sets out how you may access and seek correction of your personal information or complain about a breach of your privacy.  This Privacy Policy may be amended from time to time if our practices change.
 
-Protecting your privacy is important to ACER. 
+On our website, you may find links to other websites not operated by us.  This Privacy Policy does not apply to them – always check the Privacy Policy of any other website you enter.
 
-Every time we collect or otherwise deal with your personal information, we will be regulated by the National Privacy Principles contained within the Privacy Act 1988 (Cth). ACER has developed this Privacy Statement to inform you about how ACER will collect, hold, use, and disclose personal information of our customers or other individuals, how individuals can gain access to personal information held by us and how an individual may inquire about how we deal with personal information. 
+You can navigate separate sections of this Privacy Policy through the links below.
 
-Collection of your personal information 
+1.         What kinds of personal information do we collect and how?
 
-We only collect your personal information where that personal information is necessary for one or more of our functions or activities. Depending on your relationship with us, this information may include, but is not limited to the following information:   
-Name   
-Address   
-e-mail address   
-Telephone number   
-Registration information for ACER testing programs   
-Test answers   
-Survey information   
-Information about your use of ACER Products or Services 
+2.         What is our approach to collecting personal information about children?
 
-When collecting this personal information, we will do so only by lawful and fair means and not in an unreasonably intrusive way. 
+3.         When do we collect your personal information?
 
-When collecting personal information about you which, for the purposes of the Privacy Act is regarded as sensitive information or health information, we will collect that information from you or from third parties only with your consent.
+4.         Why do we collect the information and how do we use or disclose it?
 
-  
-At or before the time we collect personal information about you (or if that is not practicable, as soon as practicable thereafter), we will provide you with a statement outlining certain basic facts concerning us and our information handling practices as required by the Privacy Act. 
+5.         Can you choose to remain anonymous?
 
-Where it is reasonable and practicable to do so, we will only collect personal information about you directly and not from third parties. However, in some instances, this will not be practicable. If we collect personal information about you from a third party then we will take reasonable steps to ensure that you receive the information that we are obliged to make you aware of. This may involve us contacting you directly, or a third party discharging our obligations on our behalf. 
+6.         How can you request not to receive direct marketing?       
 
-Use and disclosure of your personal information   
-ACER collects, uses and discloses your personal information for a range of purposes. These purposes depend largely upon your relationship with us. 
+7.         Who do we disclose your personal information to?
 
-We will use personal information for the primary purpose for which it was collected. The primary purpose of collection is the main reason we collect your personal information in the first instance. For example, if you are a customer of ACER, the primary purpose may be to facilitate your purchase of an ACER Product or Service, or if you are a job applicant it may be to conduct the recruitment exercise to select ACER staff. 
+8.         Do we disclose your information overseas?        
 
-Generally speaking, ACER uses and discloses personal information for purposes such as:   
-• to provide ACER Products and Services   
-• to conduct educational research   
-• to provide educational assessment and testing programs 
+9.         How do we hold your personal information and keep it secure?
 
-ACER sometimes contracts out various services associated with our functions and activities. This may involve the disclosure of your personal information to other persons and organisations, both within Australia and overseas. In general these include disclosure (where necessary) within ACER and to service providers that assist us to provide ACER products or services such as insurance companies, credit providers and those that assist us in tailoring our products and services to our client needs. 
+10.       How can you seek access to, and correction of your information?
 
-Where ACER does disclose your personal information to other parties it has in place   
-arrangements or understandings with those third parties to ensure that your personal information is handled in a manner consistent with our obligations under this privacy policy. Where appropriate, we will ensure that your personal information is de-identified before being used or destroyed or de-identified if it is no longer necessary that it be retained. 
+11.       How can you seek further information or complain about a breach of your privacy?
 
-The types of persons and organisations to which may disclose your personal information include the following:   
-• organisations with whom we have arrangements or agreements for the purpose of promoting   
-our products or services and any agents used by us in administering such arrangements or   
-agreements;   
-• our agents, contractors and external advisers who carry on our functions and activities or who   
-assist us to carry on our functions and activities from time to time;   
-• payment systems operators;   
-• other parties to whom we are authorised or required by law to disclose information.   
-• schools, educational systems, psychologists, human resource practitioners and others who have contracted with ACER for the provision of its products and services. For example, if you are a candidate for an ACER scholarship test ACER will supply your test results to those schools to which you have applied for a scholarship. 
+ **What kinds of personal information do we collect and how?**
 
-  
-  
-Consent and sensitive information   
-We will only collect sensitive or health information from you or about you with your consent. By supplying sensitive or health information about yourself in writing you will be taken to have given your consent to our collection of that information. 
+The personal information we collect depends on your relationship with us – whether you are a client, a candidate or a prospective employee – and the product or service we are delivering.  It may include:
 
-In most instances, when we collect sensitive information directly from you, we will obtain your consent to use it for our various purposes. When we obtain such information from a third party we will usually enlist that third party to obtain consent on our behalf. Where this occurs, we shall comply with the Privacy Act at all times. 
+  * your contact details, photograph and personal preferences (such as name, address, email address, phone number and dietary requirements);
+  * your website registration and login information;
+  * your payment details (such as credit card details);
+  * your employment history and qualifications;
+  * government-related identifiers and information (such as student number, working with children details and police checks); and
+  * your testimonials, feedback and complaints.
 
-Security and quality of your personal information   
-ACER will take reasonable steps to ensure that any of your personal information that we collect, store, use or disclose is accurate, complete and up to date. 
 
-We will also take reasonable steps to protect your personal information from misuse and loss and from unauthorised access, modification or disclosure in accordance with the requirements of our privacy policy and the Privacy Act. 
 
-  
-Requests for access to and correction of your personal information   
-You have a right of access to your personal information. 
+Sometimes we may also collect sensitive information about you.  This may happen, for example, through surveys we conduct or when you sit tests, and may include your race and religious beliefs and your health information (such as whether you have any disability or medical condition and require special testing accommodations).  We will only collect sensitive information from you or about you with your consent unless otherwise required or authorised by law.
 
-You may request details of the personal information we hold about you, by writing to or   
-contacting us at any time. 
+By supplying sensitive information about yourself or on behalf of your child, you will be taken to have given your consent to our collection of that information.  When we obtain such information from a third party (such as through a school or institution at which you or your child studies), we will usually enlist that third party to obtain consent from you if that is required.
 
-No fee will be charged for making the request. We may charge a fee for the provision of this information to cover administrative costs. However, we will inform you of any fee at the time a request is made. 
+ **What is our approach to collecting personal information about children?**
 
-In general, we will allow access to the personal information we hold about you. However, we may deny access to personal information to you to the extent that: 
+We collect information about children who, for example, sit assessments at schools to whom we provide our services, participate in our surveys or participate in other research projects.  Whether a child has the capacity to make his or her own privacy decisions is assessed by us on a case by case basis, having regard to factors such as their age and circumstances.  In general, a person over 15 years will have the capacity to make his or her own privacy decisions.
 
-• providing access would pose a serious threat (or in the case of personal information other than health information, a serious and imminent threat) to the life or health of any individual;   
-or   
-• providing access would have an unreasonable impact upon the privacy of other individuals;   
-or   
-• your request for access is frivolous or vexatious;   
-or   
-• it is otherwise appropriate for us to deny access in accordance with the Privacy Act. 
+For children who are under 15 years old, or who otherwise do not have capacity to make these decisions for themselves, or where we cannot make an assessment of their capacity, ACER will refer or deal with requests for access, consent and notices in relation to personal information to the parent and/or guardian or relevant school or institution.  We will treat consent given by a parent and/or guardian as consent given on behalf of the child, and notices to the relevant school or other institution or parent and/or guardian will act as notice given to the child.
 
-We will not deny you access to any personal information following an access request without providing you with a reason for the denial. 
+ **When do we collect your personal information?**
 
-Where providing access would reveal evaluative information generated within ACER in   
-connection with a commercially sensitive decision-making process, we may give you an explanation for the commercially sensitive decision rather than direct access to the information. 
+We may collect your personal information when you contact us, purchase or use our products or services (including when you sit a test or participate in a survey or other research), register with us online, participate in our online discussion boards or enter our competitions, contribute to one of our social media pages (such as Twitter, LinkedIn, Vimeo and Facebook), attend an ACER event, apply for a job with us, provide services to us or make a donation through the ACER Foundation.
 
-If you are aware that any of your personal information is inaccurate, incomplete or out of date following an access request, or because your circumstances have changed, please inform us so that we can update our records. We will correct any incorrect personal information and will not refuse to make a correction without providing you with a reason for the refusal. However, if we do refuse to make a correction, we will take reasonable steps to place with the disputed information a statement from you claiming that the disputed information in your opinion is not accurate, complete or up-to-date. 
+Given the nature of our products and services, we often collect personal information about you from third parties, such as the school or educational institution that you (or your child) attends.  We may also collect information through secure web based application systems if you do certain assessments, and from other third parties where you have agreed with them that your information may be disclosed.
 
-  
-  
-CHANGES TO THE PRIVACY POLICY STATEMENT   
-We may change our policies and update the Privacy Policy Statement from time to time. We may send you an updated Privacy Policy Statement using methods we choose from time to time, and may publish it on our website at www.acer.edu.au 
+ **Why do we collect the information and how do we use or disclose it?**
 
-To get a copy of our most current Privacy Policy Statement, please contact us at the address above. 
+We collect, hold, use and disclose your personal information:
 
-  
-Inquiries   
-If you have any concerns or inquiries about how we deal with your personal information, you should contact us. 
+  * to deliver our educational research and learning products and services (including our consultancy services and professional development programs, such as testing, assessments and training);
+  * to publish educational material;
+  * to conduct our retail activities (including through our website);
+  * to operate and manage the ACER Foundation and ACER Cunningham Library;
+  * to develop and enhance our products and services;
+  * to conduct research and plan and develop our product strategies;
+  * to provide and operate our competitions, events and promotions;
+  * to market and promote our products and services; and
+  * to comply with our legal obligations.
 
-We are committed to discussing with you any concerns you may have and to addressing these concerns promptly and appropriately. You may require more general information from us concerning how we handle your personal information and we will take reasonable steps to provide this to you. All correspondence should be directed to: 
 
-The Director of Corporate Development   
-The Australian Council for Educational Research Limited   
-19 Prospect Hill Road   
-Camberwell   
-Victoria   
-Australia 3124   
-Or e-mail moore@acer.edu.au 
 
-Back to top
+ **Can you choose to remain anonymous?**
 
-Assessment Services Privacy Policy
+You may elect not to identify yourself or you may use a pseudonym in your dealings with us, except where it is impracticable for us to deal with you on this basis (for example, we will need to identify you in order to provide most of our products and services).  You can always choose not to give us your information or remain anonymous, but if you do we may not be able to provide you (or our client) with the products and services that you (or they) have asked for.
 
-Protecting your privacy is important to ACER.
+ **How can you request not to receive direct marketing?      **
 
-Every time we collect or otherwise deal with your personal information, we will be regulated by the National Privacy Principles contained within the Privacy Act 1988 (Cth). We only collect your personal information where that personal information is necessary for one or more of our functions or activities, in this case a testing program.
+You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or by contacting us via our website at <http://www.acer.edu.au/contact>.  
 
-Such information may include, but is not limited to name, address, e-mail address, telephone number, date of birth, and gender.
+ **Who do we disclose your personal information to?**
 
-ACER will not disclose your personal information to any third party other than educational institutions and authorities which you have agreed will receive your test results.
+We may disclose your personal information (including, in certain limited circumstances, your sensitive information):
 
-For information about ACER’s Privacy Policy please click here.
+  * to schools, educational institutions, psychologists, HR practitioners and other third parties who have contracted with us for the provision of our products and services.  For example, if you are a candidate for an ACER scholarship test, we will supply your test results to those schools to which you have applied for a scholarship;
+  * to entities who assist us in providing and administering our products and services and our events and promotions (including hosting, data storage, payment systems, printing and scanning providers and debt collectors); 
+  * to companies that promote and market, or conduct research to help us improve and target, our products and services;
+  * to social media sites on which we have a presence;
+  * where we are required to do so by law, or to government agencies, or individuals appointed by government, responsible for investigating and resolving disputes or complaints concerning our products or services.
 
-Access to your Personal Information  
-In general, we will allow access to the personal information we hold about you. However, we may deny access to personal information to you to the extent that:
 
-*providing access would pose a serious threat (or in the case of personal information other than health information, a serious and imminent threat) to the life or health of any individual; or
 
-*providing access would have an unreasonable impact upon the privacy of other individuals; or
+When you enter into a competition we are running or participate in a sponsored event, we may seek, as a condition of entry, consent to pass your information to a promoter or sponsor of the competition or event.  If we do this, we will notify you at the time of entering into the competition or event with us.
 
-*your request for access is frivolous or vexatious; or
+ **Do we disclose your information overseas?**
 
-*it is otherwise appropriate for us to deny access in accordance with the Privacy Act.
+We may disclose your personal information:
 
-We will not deny you access to any personal information following an access request without providing you with a reason for the denial.
+  * to our related bodies corporate located overseas (including in India and the UK) to assist us in delivering our products and services; and
+  * to overseas educational institutions (including schools and universities) and other organisations or bodies (including government agencies) who are our clients and to whom we need to provide your personal information in order to deliver our products and services.
 
-If you are aware that any of your personal information is inaccurate, incomplete or out of date following an access request, or because your circumstances have changed, please inform us so that we can update our records.
 
-ACER reserves the right to decide what means of access to your Personal Information is appropriate.
 
-Candidates should note that access to personal information does not entitle them to information about ACER’s test scoring processes or to appeal test results.
+ **How do we hold your personal information and keep it secure?**
 
-Please note that ACER charges an administrative fee of $25.00 for providing access to your Personal Information. Your request will not be processed until this fee is paid.
+We hold your personal information in a combination of electronic and hard copy files.  We may store your personal information with one or more third party data storage providers. 
 
-Please note that if ACER determines that you may access your Personal Information only by supervised inspection of our records an additional fee may apply. Should this be the case ACER will inform you regarding the amount of the additional fee.
+We may combine personal information we receive about you with other information we hold about you.  This includes information received from third parties.  Where reasonably practicable, we will de-identify personal information we collect from studies we carry out as part of our research activities. 
 
-How to Register your Enquiry  
-Please download, print and complete [this request form (PDF:130kb)](https://web.archive.org/web/20070404004102id_/http%3A//www.acer.edu.au/shared/pages/documents/as_privacy.pdf), and mail it to: 
+We take all reasonable steps to ensure that the personal information we hold is protected from misuse, interference and loss, and unauthorised access, modification or disclosure by the use of various methods, including password protection and secure storage.  Where we store your personal information with a third party data storage provider, we require them to keep it secure and only use or disclose it for the purpose for which it was provided.
 
-The Privacy Officer   
-Assessment Services   
-ACER   
-Private Bag 55, Camberwell, Victoria, 3124. 
+Please contact us immediately if you become aware or have reason to believe there has been any unauthorised use of your personal information that we hold.
 
-Please note : 
+ **How can you seek access to, and correction of your information?**
 
-(a) You must complete all details on the request form; and 
+You may request access to your personal information by writing to us or contacting us at any time at the details below.  We will need to verify your identity before we can give you access.  We will promptly acknowledge receipt, and we will endeavour to deal with and respond to your request within a reasonable time (usually within two weeks). 
 
-(b) You must attach a copy of the birth certificate of the candidate to assist with verification of identity. 
+In certain circumstances, we are permitted by law to refuse access to your personal information (such as where providing access would have an unreasonable impact upon the privacy of other individuals, or would reveal our test scoring processes or other commercially sensitive information). 
 
-ACER reserves the right to refuse to process a request for access to Personal Information, or to seek further information regarding identity, in the circumstance that a reasonable doubt exists with respect to the identity of the person making the request for access.. 
+In such cases, we will give you a written explanation for our decision (including, where applicable, an alternative means of access to the information, such as supervised inspection), and how you can complain if you are not satisfied with our decision.
 
-Please note that ACER charges an administrative fee of $25.00 for providing access to your Personal Information. Your request will not be processed until this fee is paid either on-line, or if by cheque when the cheque is cleared by your bank. 
+You will not be charged for making a request for your personal information.  However, we may charge a fee to provide your information to cover administrative costs (including for supervised inspection).  We will inform you of any fee at the time your request is made.
 
-Back to top
+If you think that any personal information we hold about you is inaccurate, incomplete, out-of-date or irrelevant, you may ask us to correct it.  We will take reasonable steps to correct it unless we disagree with your reasons.  If we refuse to correct your personal information we will give you a written explanation why.
 
-Website Privacy Policy
+ **How can you seek further information or complain about a breach of your privacy?**
 
-This Privacy Policy describes how the web sites maintained by ACER and all business structures ACER is involved with collect and utilise users' personally identifiable information.
+If you have any questions about this Privacy Policy or consider that we have breached your privacy, you can contact us at:
 
-It is our policy that our users are aware of:
+The Manager Legal and Corporate Services  
+The Australian Council for Educational Research Limited  
+19 Prospect Hill Road  
+Camberwell  Victoria  3124
 
-  * What personal identifiable information is collected by our site 
+Australia  
+Email: [rhonda.farkota@acer.edu.au](mailto:rhonda.farkota@acer.edu.au) 
 
-  * What the site can do with that information 
+Telephone: +61 3 9277 5555
 
+We will investigate any complaint, and notify you of our decision in relation to the complaint, as soon as practicable after it is received.  
 
+If we are unable to satisfactorily resolve your concerns about our handling of your personal information, you can contact the Office of the Australian Information Commissioner:
 
+GPO Box 5218
 
-ACER and all business structures ACER is involved with will not disclose a user's personally identifiable information to any third party without the user's express permission.
+Sydney NSW 2001
 
-Information not collected:
+Tel: 1300 363 992
 
-A user can access the ACER web site without providing any information.
-
-The web sites of ACER and all business structures ACER is involved with are not collecting - using any background processes - information related to a user's workstation or email address.
-
-We are preparing monthly statistics on our WEB server load, including information about total traffic from separate countries, our most popular products etc. Statistical information is global and does not include information about individual visitors. That information is used to determine how effective our WEB site is and is not disclosed to any third party. We do not attempt to match any information collected by this automated process with user's personally identifiable information.
-
- 
-
-Information collected:
-
-Information related to a user's qualifications might be required to purchase some ACER publications.
-
-If a user wishes to utilise certain services, such as:
-
-  * purchasing selected publications, restricted to specific professional groups 
-
-  * on-line purchasing by individual users 
-
-  * on-line purchasing using corporate accounts 
-
-  * participating in selected professional discussion boards 
-
-  * participating in selected professional mailing lists 
-
-
-
-
-the user may decide to submit information required to process those transactions.
-
-The information collected during the registration process may include:
-
-  * user's email address, name, date of birth, phone number 
-
-  * in the case of purchases, their billing/shipping address 
-
-  * other information related to user's professional affiliations 
-
-
-
-
-Web sites of ACER and all business structures ACER is involved with do not offer users the means to delete personal information associated with past use of our services.
-
- 
-
-Optional services
-
-While registering, a user may also ask for various optional services, such as email notification.
-
-Mailing lists and discussion forums:
-
-Users may have access to mailing lists and discussion forums on the web servers of ACER and all business structures ACER is involved with. Users should understand that should they choose to disclose personal information in these areas or send that information as part of a communication process, it will become public information.
-
-Surveys:
-
-Occasionally ACER and all business structures ACER is involved with may conduct surveys to better understand our user needs. Participation in surveys is optional and no personal information will be collected during this process.
-
-Copyright Policy:
-
-All content, images, documents and software delivered, distributed or circulated via the www.acer.edu.au remains the copyright of ACER.
-
-Back to top
-
-Credits:
-
-This site was designed and developed inhouse by the ACER IT Department  
-[Click here to contact the webmaster. ](mailto:webmaster@acer.edu.au)
-
-The following software is used to develop and maintain our website:
-
-[](http://www.adobe.com/)
-
-Site developed using Macromedia Dreamweaver MX  
-Site updated using Macromedia Contribute  
-Site designed using Adobe Photoshop
-
-Back to top
+[www.oaic.gov.au](http://www.oaic.gov.au/)
