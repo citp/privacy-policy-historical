@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrum.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013005id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrum.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110100710id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
-# See Our Updated Privacy Policy | Pfizer: the world's largest research-based pharmaceutical company
+# See Our Updated Privacy Policy | Pfizer: One of the world’s premier biopharmaceutical companies
 
 **Effective December 16, 2013**
 
@@ -121,7 +121,7 @@ Top
 
 ##  Transfer of Data to Other Countries
 
-Any information you provide to Pfizer through use of the Site may be stored and processed, transferred between and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the one in which you reside. However, Pfizer will handle your personal information in accordance with this Privacy Policy regardless of where your personal information is stored/accessed.
+Any information you provide to Pfizer through use of the Site may be stored and processed, transferred between and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the one in which you reside. However, Pfizer will handle your personal information in accordance with this Privacy Policy regardless of where your personal information is stored/accessed. Please note that Pfizer Inc. abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU/Switzerland with respect to certain categories of personal information collected by entities located in the European Economic Area and Switzerland and transferred to Pfizer in the United States. For additional information regarding the Safe Harbor Program, click [here ](https://web.archive.org/files/pdf/Pfizer_Safe_Harbor_Privacy_Policy.pdf)to read Pfizer’s Safe Harbor Policy.
 
 Top
 
