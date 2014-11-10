@@ -1,26 +1,98 @@
-> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608035816id_/http%3A//ozemail.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/about/legal/privacy.html) for the most accurate reproduction.*
 
-# iiNet
+# iiNet's privacy statement
 
-## privacy policy
+iiNet is committed to providing excellent service and protecting your personal information is important to us. This statement explains how we collect, use, share and hold your personal information.
 
-This is our Privacy Policy, a document which outlines our guarantee on your use of our products. For further information see our [Privacy Policy FAQ](https://web.archive.org/web/20070608035816id_/http://www.ozemail.com.au/privacy/faq.html) page. 
+### What personal information we collect
 
-  1. We use and may disclose your personal information in order to: 
-    1. Provide services to you; 
-    2. Research, develop, administer, protect and improve our services; 
-    3. Instigate debt collection; and 
-    4. Comply with legal compulsion such as a Court order. 
-  2. Other than listed in Clause 1, we will not provide any information which you give to us to any other organisation or individual without your express permission. 
-  3. As part of routine administration, we collect system status information such as login times and help desk records. These are not on-sold or disclosed to others except as required in paragraph 1. 
-  4. All clients may request access to the personal details collected by us in relation to themselves and the use of the account owned by them. We wish to ensure that such details are always correct and up-to-date, and will amend any inaccuracies or changes to details on request. 
-  5. By law, we must retain some client details for a minimum of 5 years. However, we do not retain clients' personal information longer than is necessary for the purposes of compliance with the law and routine administration. 
-  6. If we are ever sold to another organisation, the new owners must also comply with this privacy policy. 
-  7. We keep client information on controlled facilities which are secured against unauthorised access. Proof of identity will be required before information is released to any person, including the client. 
-  8. We typically communicate with clients by email, and send all clients a newsletter approximately once per month. In exceptional circumstances, urgent notifications may also be sent out by email. 
-  9. We are constantly improving and enhancing our services for clients, and may update this privacy policy from time to time. Any changes to the policy will be advised to clients in our regular newsletter and by updating this page on the web site. 
-  10. If you have any queries or comments concerning the privacy policy, please [contact us](https://web.archive.org/contact/). 
+iiNet collects personal information from our customers including the type of information required to provide our services such as your name, address, date of birth, gender, contact details, payment information, credit information, driver’s licence number, usage data, iiNet username, password and voice password.
+
+If you don’t provide all or part of the personal information we require, we may not be able to provide you with the relevant services. 
+
+### How we may collect your personal information
+
+iiNet usually collects personal information about you directly. For example, we collect information when you provide it to us by phone or email.
+
+iiNet usually collects personal information about you directly. For example, we collect personal information when you provide information to us by phone or email, or when you enter your personal details on our websites.
+
+We may also collect information about you indirectly, including from:
+
+  * our employees, agents, contractors or suppliers;
+  * third parties such as our related companies, [credit reporting bodies](https://iihelp.iinet.net.au/support/node/13375/) and credit providers;
+  * third parties such as sporting clubs and community organisations that we partner with;
+  * third parties such as utility aggregators who provide product comparison services for telecommunications market;
+  * our customer’s authorised representatives;
+  * other telecommunication and information service providers;
+  * our equipment; and
+  * publicly available sources of information.
 
 
 
-Dated the 22nd day of September 2005. 
+### Why we collect your personal information
+
+Your personal information is collected and used by iiNet so we can go about our day-to-day business of providing you awesome customer service.
+
+For example, to: 
+
+  * verify your identity;
+  * assess whether you are eligible for our services;
+  * assist you to complete an application that was abandoned;
+  * carry out checks for credit-worthiness and for fraud;
+  * process your application to become an iiNet customer;
+  * provide the services you require;
+  * deal with enquiries and provide customer support;
+  * manage your services, including billing, account management and collecting debts;
+  * research and develop our products and services;
+  * business planning;
+  * provide information to the manager of the Integrated Public Number Database (IPND);
+  * provide you with information about our services, products and special offers (and marketing those products to you unless you have requested us not to do so).
+
+
+
+### How we may share your personal information
+
+We may need to share your personal information to organisations outside iiNet. We ensure that these companies take the security of your personal information as seriously as we do. 
+
+We may need to share your personal information to organisations outside iiNet, for example, with:
+
+  * suppliers so we can supply the service to you;
+  * technicians we engage to resolve faults concerning your service;
+  * a credit reporting body or credit provider if you fail to make payments due under our CRA;
+  * a fraud-checking agency to carry out checks;
+  * debt collection agencies and similar parties that assist with debt-recovery;
+  * specialist contractors for the purposes of research and development;
+  * other communication companies, for specific marketing campaigns;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * other telecommunications and information service providers, for example, for billing purposes;
+  * your authorised representative or contact person in the manner you have agreed to;
+  * your legal advisers, if requested by you to do so;
+  * a duly authorised government, regulatory authority or other organisation such as the TIO, when we are required or specifically permitted by law to do so (for example, to the operator of the IPND, which supplies information for telephone directories) or to resolve customer complaints or disputes;
+  * a specified recipient if a court order compels us to do so, and
+  * law enforcement agencies concerning the enforcement of criminal and other laws if we are compelled, or required to do so.
+
+
+
+There are some circumstances where iiNet may provide your personal information to an organisation located outside of Australia. These organisations work with us to provide professional services in software development, systems and technical support, data storage, marketing and product development. The countries these organisations are based in include: Singapore, the United Kingdom, the United States of America, China, Malaysia, South Africa, India and Indonesia. We ensure that these companies take the security and confidentiality of your personal information as seriously as we do.
+
+### How we hold your personal information
+
+We keep customer information on controlled systems, which are secure against unauthorised access. Proof of identity is always required before personal information is disclosed to any person, including the specific customer. We take particular care with credit card details, which are not stored unencrypted in iiNet systems.
+
+### Our websites
+
+We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you.  We may use cookies or other similar technology for these purposes. You can usually remove or block cookies (by using the settings in your browser), but it may affect your ability to use the website.
+
+### How to access & correct your personal information
+
+Your personal information can be accessed via your secure [toolbox](https://toolbox.iinet.net.au/) or by [contacting us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/).
+
+We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request opt-out of certain communications and make changes to their personal information directly through their Toolbox, or by contacting us at [support@iinet.net.au](mailto:support@iinet.net.au) or by calling 13 22 58.
+
+Please [contact us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/) if you wish to access or correct personal information that we hold about you.
+
+### Contact us about our privacy statement
+
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/) by calling support on 13 22 58 or email [ support@iinet.net.au](mailto:support@iinet.net.au). Any privacy complaints will be handled in accordance with our [complaint process](https://iihelp.iinet.net.au/Complaints_escalation_process).
+
+Date: 11 March 2014
