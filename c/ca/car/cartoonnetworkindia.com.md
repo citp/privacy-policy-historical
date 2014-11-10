@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315230109id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110021038id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network India | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
