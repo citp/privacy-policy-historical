@@ -1,75 +1,49 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035034id_/http%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110015638id_/http%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NotGoingtoUni - NGTU
 
-**Why do we have a privacy policy?**
+[www.notgoingtouni.co.uk](http://www.notgoingtouni.co.uk/) and [www.notgoingtouni.com](http://www.notgoingtouni.com/) (" **Website** ") are owned and operated by _not going to uni Limited_ (" **NGtU/we/us** ") (company number: 06464163). Our registered office is: 
 
-At notgoingtouni we know how much you care about how information you give us is used and protected. Our Security and Privacy Policies detail what information we collect from you, how we use it to offer a high quality service and how we ensure it is kept secure. 
+Not Going to Uni Limited,   
+3 Wey Court, Mary Road , Guildford, Surrey GU1 4QU 
 
-At notgoingtouni we employ market leading data security techniques and processes so that our customers can use our services with the highest confidence. 
+This Privacy Policy sets out how we will treat personal information that you provide to us while using this Website and/or the services which are, from time to time, provided from it or accessed through it (" **Services** "). 
 
-By visiting notgoingtouni, registering your account with us you are accepting and consenting to our Security and Privacy Policies. If we change our Security and Privacy Policies, we will post those changes on this page. 
+  1. **Changes:** We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Website. Registered users of the Website will be notified by email of any material change to the Privacy Policy. 
+  2. **Collection of Personal Data:** To provide the Website and the Services, it is necessary for us to hold and process certain personal information. 
 
-If you have any queries relating to our Security and Privacy Policies please do not hesitate to contact:
+The data that we collect or ask you to provide may include some or all of the following: name, address, date of birth, gender, email addresses and/or mobile phone numbers, financial information (including payment details), education history, IP addresses, web-browser details, operating system details, and/or your activities on the Website. 
 
-**Email:** [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk)
+  3. **Sensitive Personal Data:** In addition, you may submit or it may be a requirement of, for example, an application for a course, apprenticeship or job that you supply, Sensitive Personal Data which is information about your racial or ethnic origin, mental/physical health (including any disability), trade union membership and any criminal convictions. You are not obliged to submit Sensitive Personal Data but some opportunities may not be available to you if this information is requested but not provided. 
+  4. **Storage and Use of Personal Information:**
+    1. The information we collect or you provide will be stored together with any additional information you may provide to us and will be used to provide you with the Services and by us in analysing the use of the Website. 
+    2. By registering as a user of the Website and submitting personal information, you consent to it being collected, held and processed by us and to it being passed to: 
+      * those persons that operate or provide services to the Website such as the moderator of a forum; 
+      * other members of our group of companies that provide services or products that we think may be of interest to you, we are part of the Walpole (Holdings) Limited group and current group companies include Walpole Publishing Limited, the publisher of "Moving On"; and 
+      * to it being included in applications made to course providers and employers offering apprenticeships and/or jobs through the Website and/or agents acting on their behalf. 
+Sensitive personal data will only be passed to course providers and employers offering apprenticeships and/or jobs through the Website and/or agents acting on their behalf where specifically requested by them as part of the application process. This information will only be used by us and those third parties to monitor equality of opportunity and, where applicable, to ensure compliance with employment law. 
+    3. We may also use information collected or provided to send you promotional material about services/products we or our group companies offer and/or material relating to trusted partners of ours. 
+    4. We take reasonable care in keeping the information we collect or you provide secure and preventing any unauthorised access or unlawful use of it. 
+    5. We will only keep your personal information for as long as necessary. 
+    6. We may, from time to time, expand or reduce our business and this may involve the sale of part or all of our business. Information provided by users of the Website will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such information for the purposes for which it was supplied by you. Equally, if our group of companies changes, we may share your personal information with any new group company. 
+    7. We may use or disclose personal information to comply with any court order or otherwise in compliance with any legal obligation we may have. 
+  5. **Cookies:** We use 'cookies' while you access the Website to avoid the need to re-enter details on different occasions. A "cookie" is a small amount of data sent from the server and stored on your computer's hard drive. This information is used by us to track usage of the Website, allows us to tailor your use of the Website, for example by storing information about the type of course/job you are interested in and enables targeted advertising. 
 
-**Telephone:** 0203 691 2800
+Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. Please note that certain features of the Website are only activated by the presence of a cookie and if you choose to refuse cookies these features may not be available to you. All modern browsers allow you to change your cookie settings. For further information about cookies and how to control their use, please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
-**Address:**  
-Not Going to Uni,  
-Mountcharm House,  
-Ground Floor 102-104 Queens Road  
-Buckhurst Hill IG9 5BS  
-
-
-**What sort of data do we collect?**
-
-notgoingtouni collects personal data about you to help in the recruitment process. This data consists of information such as your name, address, e-mail address, work and education history and your responses to and the results of assessments administered through the site, plus your nationality which we are required to collect by law. We also collect information in the aggregate to provide us with a better understanding of the users of our website as a group, but which does not contain personally identifiable information. 
-
-**Why do we process this personal data?**
-
-We process this personal data as necessary to aid the recruitment process. We may also use data collected in the aggregate to help us to understand our users as a group so that we can provide you with a better service. 
-
-**Why do we collect and process sensitive personal data?**
-
-We collect and process sensitive personal data only so far as is necessary to ensure we conform with legal requirements, for example under the equality of opportunity laws. By using this website and by registering your details with us, you consent to us collecting and processing sensitive personal data supplied by you and disclosing this information to prospective employers and clients in connection with the recruitment process. 
-
-**Do we pass data to third parties?**
-
-Where necessary we may pass data to third parties that help us to process data and to prospective or intended employers, training providers or colleges for the purpose of recruitment. We may also share aggregate information with selected third parties but we do not disclose individual names or any identifying information. 
-
-We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information relating to you to third parties in the following circumstances: 
-
-  * In the event that our business assets are ever sold to or purchased by another company we would share our records, enabling the purchaser to continue to offer an uninterrupted service to you; 
-  * In rare cases we may need to disclose certain personal data in order to comply with a legal obligation, or in order to enforce or apply our Conditions or to protect our rights, property, or safety, our customers, or others. 
+  6. **Advertising:** We use third party advertising providers to display advertising on the Website. These providers may use information about your visits to the Website (obtained using cookies) and other third party websites to personalise the advertising you see on the Website and other websites. 
+  7. **Links to other websites:** The Website contains links to other websites. Please bear in mind that we have no control over those other websites. You should check the terms of use and privacy policy applicable to each such website before you provide any personal information. 
+  8. **Forums:** If in posting any material on a forum on this Website, you include any personal information, that any information will not be covered by this Privacy Policy and will become public information. 
+  9. **Requesting Your Personal Information:** You may request details of personal information which we hold about you, please write to us at _Not Going to Uni Limited, 3 Wey Court, Mary Road , Guildford, Surrey GU1 4QU_. A small fee will be payable. 
 
 
 
-If we disclose information to third parties, we will only disclose information necessary for their specific purpose.
+We are registered with the Information Commissioner’s Office (registration number Z1421176).
 
-**How is this data safeguarded?**
+If you have any queries about this Privacy Policy, please contact us at [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk) or by telephone on 02036912800. 
 
-The security of your data is extremely important to us. Access to your personal data is only provided to our staff and third parties who help us to process data and, in order to help with the recruitment process, to prospective employers, training providers or colleges. 
+If you do not want us to retain or use your personal information in any way, please do not provide it to us or, if you have already provided personal information and wish us to delete the information that we are holding, please contact us at [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk). 
 
-**How do we let you know if our policy changes?**
+If you wish to stop receiving marketing material, please click the unsubscribe link in any email, contact us by telephone at [02036912800] or email us from the email address registered with us at [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk) with STOP as the subject. 
 
-Any policy changes, either due to business reasons or future changes in legislation, will be posted on this page and, if substantial, may be promoted on the website or through e-mail notification. 
-
-**What are 'cookies' and why do we use them?**
-
-'Cookies' are ways of saving a small amount of personal information. We use cookies to save information about what type of job you're looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you untick the 'keep me signed in' checkbox when you sign in to notgoingtouni.co.uk. This will remove all details from the cookie. If you would like more information about cookies, go to the website all about cookies. 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
-
-**What About Links To Other Sites?**
-
-notgoingtouni contains links to and from the websites of our sponsors, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies or website content. You should check their policies before you submit any personal data to third party websites. 
-
-**How do you remove your name from the database?**
-
-Under the Employment Agencies Act, notgoingtouni.co.uk is obliged to hold your data for 12 months after it was last used. If you do not indicate by signing in to notgoingtouni.co.uk that you wish your details to be retained on our database, we will archive your account. If you wish to delete your account you can do so by logging in and closing you account in the edit preferences. 
-
-**Email Marketing Messages**
-
-If you wish to stop receiving promotional emails, please click the Unsubscribe link included in your message or alternatively you can email [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk) with the subject title STOP. 
+13 May 2014
