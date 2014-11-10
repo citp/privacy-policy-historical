@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405160759id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110124843id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Ten Lists or Best Top 10 Lists at TopTenpk.com
 
@@ -8,7 +8,7 @@ We allow third-party advertising companies (like [Google Adsense](http://www.goo
 
 Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.google.com/privacy_ads.html)
 
-Here are some third-party vendors serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
+Here are some third-party vendors serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability). 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info gsmtweet@gmail.com
 
