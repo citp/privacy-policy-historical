@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogame.org privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604170355id_/http%3A//agbserver.gameforge.com/enGB-Privacy-OGame.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogame.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110013108id_/http%3A//agbserver.gameforge.com/enGB-Privacy-OGame.html) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to all services which are offered on Gameforge Inter
 Data controller    
 
 
-The data controller according to the Federal Data Protection Act is Gameforge Productions GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe. In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).    
+The data controller according to the Federal Data Protection Act is Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe. In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).    
 
 
 General information    
@@ -38,7 +38,7 @@ This website uses Google Analytics, a web analysis service provided by Google In
 Cookies    
 
 
-For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, our own cookies in addition to Google Analytics cookies described above. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. &lt;b&gt;If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser.&lt;/b&gt; Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.    
+For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, our own cookies in addition to Google Analytics cookies described above. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser. Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.    
 
 
 Collection of data for statistical purposes    
