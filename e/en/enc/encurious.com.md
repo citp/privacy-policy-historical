@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encurious.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023425id_/http%3A//encurious.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encurious.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110164737id_/http%3A//encurious.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Encurious
 
@@ -11,3 +11,6 @@ Encurious has no access to or control over cookies that are used by third-party 
 You should consult the respective privacy policies of these third-party services for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This privacy policy does not apply to, and we cannot control the activities of other web sites. The same goes for any links to other websites that we may include.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+  
+
