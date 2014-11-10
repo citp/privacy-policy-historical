@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073935id_/http%3A//www.beagleboard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110094207id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.*
 
 # BeagleBoard.org - privacy
 
