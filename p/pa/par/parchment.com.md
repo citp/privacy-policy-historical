@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612014055id_/http%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110164415id_/http%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Parchment.com
+# Privacy Policy
 
 Parchment Inc. (“Company”) takes your privacy seriously. We have developed this Privacy Policy that covers how we collect, use, and disclose your information in providing our Services on this Web site (“Site”).
 
@@ -37,7 +37,7 @@ It is Parchments policy to follow the sending institution’s preferences _until
 
 ## Control of your information
 
-You can correct and update the information you provide Parchment by signing in to your account and accessing the Profile tab. From time to time, Parchment may provide you information on its various Services through email, telephone solicitations, and/or postal mail. You can opt-out of receiving these types of communications by contacting our Site Administrator through the [contact forms](http://www.parchment.com/contact-us "Contact us"). Please recognize that once your information is disclosed to a third party with your consent in accordance with this Privacy Policy, we do not provide a means of opting-out of any communications that affiliates may send to you and we advise that you contact such service provider or affiliate directly for more information on any available opt-out procedures.  Of course, if you choose to share any information with non-Parchment affiliated individuals on the Parchment site, you do so knowing that Parchment has no control over what such individuals will do with the information you choose to reveal.
+You can correct and update the information you provide Parchment by signing in to your account and accessing the Profile tab. From time to time, Parchment may provide you information on its various Services through email, telephone solicitations, and/or postal mail. You can opt-out of receiving these types of communications by contacting our Site Administrator through the [contact forms](https://web.archive.org/contact-us "Contact us"). Please recognize that once your information is disclosed to a third party with your consent in accordance with this Privacy Policy, we do not provide a means of opting-out of any communications that affiliates may send to you and we advise that you contact such service provider or affiliate directly for more information on any available opt-out procedures.  Of course, if you choose to share any information with non-Parchment affiliated individuals on the Parchment site, you do so knowing that Parchment has no control over what such individuals will do with the information you choose to reveal.
 
 ## Security
 
@@ -51,4 +51,4 @@ Our Site is a general audience Web site and no portion of the Site is directed t
 
 ## Summary
 
-At Parchment, protecting your privacy is important to us. By accessing and using our Site, you consent to the collection, use and disclosure of information by Parchment as described in this Privacy Policy. Although this Privacy Policy is subject to change from time to time, we will display a notice on the Site of any material change at least fifteen (15) days prior to implementation of the revised Privacy Policy. If you have any questions concerning this policy please send an email to the Site Administrator from the link found on the [Contact Us](http://www.parchment.com/contact-us "Contact us") page.
+At Parchment, protecting your privacy is important to us. By accessing and using our Site, you consent to the collection, use and disclosure of information by Parchment as described in this Privacy Policy. Although this Privacy Policy is subject to change from time to time, we will display a notice on the Site of any material change at least fifteen (15) days prior to implementation of the revised Privacy Policy. If you have any questions concerning this policy please send an email to the Site Administrator from the link found on the [Contact Us](https://web.archive.org/contact-us "Contact us") page.
