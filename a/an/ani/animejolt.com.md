@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606033517id_/http%3A//www.animejolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animejolt.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110090522id_/http%3A//www.animejolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Anime Episodes Online Streaming Subbed & Dubbed
 
