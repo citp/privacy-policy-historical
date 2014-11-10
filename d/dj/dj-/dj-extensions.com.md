@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052409id_/http%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110030818id_/http%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ● DJ-Extensions.com
 
@@ -47,4 +47,6 @@ By using our site, you consent to our privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page.  
+  
+Follow us on [Twitter](https://twitter.com/DJExtensions), like us on [Facebook](http://www.facebook.com/djextensions) or add us to [Google +](https://plus.google.com/112178676388159700421)
