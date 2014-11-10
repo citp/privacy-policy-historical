@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouthhealthy.org privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509162951id_/http%3A//www.mouthhealthy.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthhealthy.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181226id_/http%3A//www.mouthhealthy.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MouthHealthy - American Dental Association
 
