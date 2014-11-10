@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badrairlines.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508115524id_/http%3A//www.badrairlines.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26layout%3Ditem%26id%3D17%26Itemid%3D189) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badrairlines.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110231909id_/http%3A//badrairlines.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26layout%3Ditem%26id%3D17%26Itemid%3D189) for the most accurate reproduction.*
 
 # Privacy Policy
 
