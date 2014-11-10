@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072346id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110031100id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
 Categories
 
 [New Items](http://www.extremerestraints.com/products_new.php)
+
+[25% Off Top Sex Toys](http://www.extremerestraints.com/information/new/sextoys.html?utm_source=frontpage&utm_medium=banner&utm_campaign=14Nov5FPTopToysSidelink)
 
 [Bondage Gear](http://www.extremerestraints.com/bondage-gear_10/)
 
@@ -50,8 +52,6 @@ Categories
 
 [Miscellaneous](http://www.extremerestraints.com/miscellaneous_51/)
 
-[Fetish & Erotic Books](http://www.extremerestraints.com/fetish-and-erotic-books_23/)
-
 [Lubes & Creams](http://www.extremerestraints.com/lubes-and-creams_49/)
 
   
@@ -72,6 +72,7 @@ Extreme Promos
 ---  
   
 [Clearance](http://www.extremerestraints.com/clearance_401/)  
+[Overstock](http://www.extremerestraints.com/extreme-overstock_608/)  
 [First Time Buyer](http://www.extremerestraints.com/first-time-buyer-promotion_798.html)  
 [Products on Sale](http://www.extremerestraints.com/specials.php)  
 [Daily Specials](http://www.extremerestraints.com/daily_specials.php)  
@@ -82,8 +83,7 @@ Extreme Promos
 Subscribe Now  
   
 ---  
-  
-Join our [Newsletter](http://www.extremerestraints.com/information/submit/extreme-newsletter.html)  
+[](http://www.extremerestraints.com/information/forms/xr-newsletter-signup.html)  
   
   
 
