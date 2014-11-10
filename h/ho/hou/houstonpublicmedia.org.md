@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153424id_/http%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110070947id_/http%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy about : privacy | Houston, Texas USA | Houston Public Media | Public Radio and Television | University of Houston
+# Privacy Policy about : privacy | Houston, Texas USA | Houston Public Media
 
 Houston Public Media wants to ensure that members feel comfortable and secure in their use of this website. As a demonstration of our commitment to user privacy and security, we have disclosed our privacy policy below. While we make a legitimate effort to ensure your privacy and the security of any information that you provide to us, we urge you to remember that privacy and security begin with you. You are responsible for maintaining the secrecy of any passwords or password reminders and should exercise caution when disclosing information online.
 
