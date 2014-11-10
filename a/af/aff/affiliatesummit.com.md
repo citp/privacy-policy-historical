@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427235853id_/http%3A//www.affiliatesummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110170758id_/http%3A//www.affiliatesummit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Affiliate Summit
 
@@ -94,11 +94,11 @@ AFFILIATE SUMMIT stores the Individual Information in a database on AFFILIATE SU
 
 3.1 Sale or Transfer to Third Parties.
 
-AFFILIATE SUMMIT MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN AFFILIATE SUMMIT’S SOLE DISCRETION.
+AFFILIATE SUMMIT DOES NOT SELL, RENT OR SHARE ATTENDEE PERSONAL INFORMATION TO THIRD PARTIES EXCEPT IN THE FOLLOWING SITUATIONS:
 
 3.2 Order Fulfillment.
 
-AFFILIATE SUMMIT will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using AFFILIATE SUMMIT web sites or when responding to offers provided by AFFILIATE SUMMIT.
+AFFILIATE SUMMIT will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using AFFILIATE SUMMIT web sites or when responding to offers provided by AFFILIATE SUMMIT. [Example: The mailhouse that Affiliate Summit uses receives the mailing database to send Affiliate Summit's FeedFront Magazine to its subscribers.]
 
 3.3 Legal Process.
 
@@ -121,10 +121,6 @@ Advertising agencies, merchants, and other companies (together, “Advertisers�
 4.2 Links.
 
 The Websites and email messages sometimes contain hypertext links to the web sites of third parties. AFFILIATE SUMMIT is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by third parties. Such links are provided for your convenience and reference only. AFFILIATE SUMMIT does not operate or control in any respect any information, software, products or services available on such third party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
-
-4.3 Affiliated Companies.
-
-AFFILIATE SUMMIT may disclose, transfer, and sell Individual Information to entities affiliated with AFFILIATE SUMMIT in AFFILIATE SUMMIT’s discretion.
 
 5\. Unsubscribe Procedures.
 
