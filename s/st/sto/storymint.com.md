@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the storymint.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110154101id_/http%3A//www.storymint.com/content.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+
+# Storymint.com :: Storymint.com Privacy Policy
+
+Storymint.com instantly connects people everywhere to what�s most meaningful to them. Any registered user can post story, which is story title, story description or less that is public by default and can include other content like photos, videos, and links to other websites.
+
+This Privacy Policy describes how and when Storymint.com collects, uses and shares your information when you use our Services. Storymint.com receives your information through our various source websites, APIs, email notifications, applications, buttons, and widgets. For example, you send us information when you use Storymint.com to post story or receive Mints via others like(vote), or access Storymint.com from an application. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Storymint.com to use your information in the India and any other country where Storymint.com operates.
