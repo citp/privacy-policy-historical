@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411174029id_/http%3A//harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110113324id_/http%3A//harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # HarryPotterFanfiction.com :: Over 80,000 Harry potter stories and podcasts
 
