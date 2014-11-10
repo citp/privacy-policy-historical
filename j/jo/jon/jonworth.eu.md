@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511020320id_/http%3A//www.jonworth.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110064657id_/http%3A//www.jonworth.eu/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Jon Worth
 
