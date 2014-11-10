@@ -1,77 +1,113 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115007id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110055303id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
 
 # SurePayroll Privacy Policy | SurePayroll
 
-SurePayroll, Inc.'s privacy policy explains how we collect and utilize information we obtain at the SurePayroll.com website (the "Site"). Our privacy policy applies to information collected at the Site unless you and we have entered into a written (including electronic) agreement that provides other terms. It does not apply to information that we may collect by other means. When you utilize the Site or provide information at the Site, you are consenting to the manner in which we will collect, use, and disclose your personal information as set forth below.
+**Privacy Statement**
 
-**We do not sell any personally identifiable information to third parties for marketing purposes without your consent.**
+This Privacy Statement describes how SurePayroll collects, uses, shares and protects business, financial, and personal information. This statement applies to all information collected or submitted on this website and mobile applications (“Site”). This notice is available on the homepage of this Site and at every login page where personally identifiable information may be requested.
 
-We maintain security measures to protect the loss, misuse and alteration of confidential customer information under our control. In connection with performing services, we are required to disclose certain information to governmental taxing authorities in order to ensure that credit is made for tax withholding deposits. We also use customer information to perform the services you contract with us to provide and to communicate with you. We will permit only authorized personnel, who are trained in the proper handling of customer information, to have access to personally identifiable customer information. 
+Your privacy, and the privacy of the information provided, is important to us. We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration and untimely destruction. We grant access to personal information about you only to our employees, agents, and service providers so they can provide products or services, process and service your account, and administer our business. 
 
-We will attempt to keep customer files complete, up-to-date, and accurate. We will tell our customers how and where to conveniently access their information (except when we're prohibited by law) and how to notify us about errors, which we will endeavor to promptly correct. 
+At times, we will provide you with links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information. 
 
-In extraordinary circumstances, we may also be required for other reasons to disclose confidential information of customers to law enforcement or government officials and we reserve the right to release information if we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our agreements with you, or to protect the rights, property, or personal safety of our Site, us, our officers, directors, employees, representatives, other users, and/or the public. 
-
-**Collection of Personal Information**
-
-You are not required to provide any personal information in order to have general access to the Site. However, in order to access certain information, features or services at the Site or certain of our offerings, you may be required to provide personal information. We collect personal information about you from the following sources: 
-
-  * When you utilize the services at the Site we obtain from you the information we need to complete your transactions. For example, this information may include your name, address, telephone number, and email address and/or information regarding a particular business entity or individuals who seek to utilize Services we offer. If you use a credit or debit card at the Site, it will include the credit card or debit card account number. 
-  * When you establish an account or register to use certain features at the Site. 
-  * If you provide us with comments or suggestions, request information about our products and services, or contact our customer service department via phone, email, or other forms of communication. 
-  * When you submit an application for our services or register for our services. 
-  * We may collect additional information if you choose to use or participate in one of our various programs (such as our referral service). 
-  * We obtain information concerning the services you utilize and from your transactions and other interactions with us, our affiliates, and others, including our marketing partners and third party service providers. 
-  * When you use certain features at the Site where you voluntarily submit personal information, for example, in connection with requesting a price quote or registering to receive a newsletter. 
-  * We may also collect information we receive from consumer and business reporting agencies. 
+  * Information Collection and Use
+  * Parties with Whom Information May be Shared
+  * How to Access and Correct Your Information
+  * Security
+  * Changes to this Privacy Statement
 
 
 
-**How We Use Personal Information**
+**INFORMATION COLLECTION AND USE**
 
-We use personal information, including that collected from our marketing partners, to improve the quality of the products and services that we offer. We also want to provide you enjoyable experience on the Site, and to do this we strive to continually improve the service we provide to you. We use personal information as one source to help up achieve this goal, by personalizing, though email communications and your visits to the Site, offers of products and services that we believe would be of interest to you. We may use the personal information, including business information, that you have given to us and cross-reference it with personal information, including business information, we receive from our marketing partners and others in order to provide you an enhanced and more personalized experience at the Site. 
+**What information is collected**
 
-We use personal information, including business information, that we obtain from your use of the Site to respond to your comments or inquiries, to resolve disputes, to contact you when necessary in connection with the operation of the Site, or for matters involving any product or service transactions, to address problems at the Site and to enforce our agreements with you. 
+We limit the collection of personal information to the information that we need to administer and improve the Site, to provide our products and services (“Services”) to our customers, and to fulfill any legal and regulatory requirements. 
 
-We may also use the services of other businesses to perform tasks for us such as providing marketing assistance and data analysis or to perform other services offered to users of our website and may provide personal information, including business information, to those businesses when that information is necessary or desirable for them to perform such services. 
+The categories of personal information that we collect may include, but are not limited to:The categories of personal information that we collect may include, but are not limited to:
 
-**Collection of Non-Personal Information**
+  * Contact information to allow us to communicate with you 
+  * Employer information, including financial and bank account information, to provide the Services 
+  * Employee information, including social security number, date of birth, financial, bank account, medical and beneficiary information, to provide the Services 
+  * Credit, debit, or cash/payment card information if used, such as for billing 
+  * Credit or debt history regarding your creditworthiness or credit history 
+  * Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, SBC). We use such information in connection with our business operations and in administering the Site. 
 
-**How we use Non-personal Information**
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+**How personal information is collected**
 
-Use of Aggregate Information: From time to time, we may collect general, non-personal, statistical information about the users of the Site and our services. We collect this information to determine information regarding the use of our site and general information about our customers. We may also group this information into aggregate data in order to describe the use of our Site and to provide general aggregated information, such as the SurePayroll Small Business Scorecard. The aggregated data will not personally identify any customers or visitors to the Site. 
+We do not require you to provide any personal information in order to have general access to the Site. However, in order to access or use certain information, features or Services at the Site, you may be required to provide personal information. Personal information is primarily collected:
 
-**Use of Cookies**
+  * When you utilize the Services, we obtain from you the information we need to provide the Services.
+  * From applications, forms and other information you provide us on the Site
+  * When you establish an account, or an account is established for you at the direction of your employer, to receive Services
+  * From survey information and/or site registration
+  * If you provide us with comments or suggestions, request information about our Services, or contact our customer service department via phone, email or other forms of communication
+  * From consumer and business reporting agencies regarding your creditworthiness or credit history
+  * From third parties to verify information given to us
 
-Your Internet browser has a feature called cookies. Our Site may use cookies. Cookies store small amounts of data on your computer about your visit to Site. Cookies alone tell us nothing about who you are or give us personally identifiable information about you. 
 
-**Your California Privacy Rights**
 
-California Civil Code Section 1798.83, known as the "Shine The Light" law, permits California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: 
+**How personal information is used**
 
-SurePayroll, Inc.  
-Attn: California Privacy Rights Administrator  
-2350 Ravine Way, Suite 100  
-Glenview, IL 60025
+We use the information provided on the Site to perform the Services you request. We limit the collection of private customer information that we need to:
 
-**Limitation of Liability**
+  * Facilitate customer requested transactions, investments, distributions and benefits
+  * Provide superior service to our customers
+  * Comply with legal, reporting and regulatory requirements
+  * Administer and improve our websites
+  * Detect fraud or theft to protect our business and client information
+  * Contact you with information on Services, new Services or products, or upcoming events
+  * Facilitate applicant tracking and recruitment
 
-We maintain safeguards to protect the confidentiality of customer personal information. However, transmissions protected by security technology and implemented by human beings cannot be made absolutely secure. Consequently, we shall not be liable for unauthorized disclosure of personal information not due to the direct fault of SurePayroll including, but not limited to, errors in transmission and unauthorized acts. 
 
-**Children**
 
-The SurePayroll site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age. 
+**How aggregated, non-personal information is used**
 
-**Changing Your Information**
+We may collect general, non-personal, statistical information about the users of the Site and our services in order to determine information regarding the use of our Site and general information about our customers. We may also group this information to provide general aggregated data, such as the SurePayroll Small Business Scorecard®. The aggregated data will not personally identify any customers or visitors to the Site. 
 
-If you have an account at the Site, you can make changes to your account information by logging in to the Site and using the available online tools. If you subscribe to any of our e-mail newsletters you may unsubscribe from such newsletters by following the instructions included with the newsletter or by contacting our customer service representatives or sending an email to [help@SurePayroll.com](mailto:help@SurePayroll.com). If you have further questions regarding Changing Your Information please contact our customer service representatives or send an email to [help@SurePayroll.com](mailto:help@SurePayroll.com). 
+**How cookies are used**
 
-**Changes to Privacy Policy**
+A “cookie” is a piece of data that our Site may provide to your browser while you are at our Site. The information stored in a cookie is used for user convenience purposes, such as reducing repetitive messages, tracking helper tool versions, and retaining user display preferences. If a user rejects the cookie, they will be able to browse the Site but will be unable to use our online application. 
 
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+Other parties, such as third party ad networks, may collect information about an individual’s online activities when a consumer uses our website. 
 
-This Privacy Policy was last updated on September 30, 2009
+**Children under 13 years of age**
+
+This site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age. All dependent data needed for benefits enrollment is customarily provided by the employee/guardian and kept secure as indicated in this Statement. 
+
+**Your California privacy rights**
+
+Under California Civil Code 1798, California residents with an established business relationship can request information about sharing their personal information with third parties for the third parties’ direct marketing purposes. If you are a California resident and would like more information, please contact your service provider. 
+
+**PARTIES WITH WHOM INFORMATION MAY BE SHARED**
+
+We do not sell or disseminate customer information collected on the Site to any third parties under any circumstances, except to fulfill legal and regulatory requirements or to facilitate customer requested transactions.
+
+Information is shared to facilitate the Services needed in order to properly and efficiently handle duties related to your account. We may share information with: 
+
+  * Government agencies to fulfill legal, reporting and regulatory requirements
+  * Attorneys, accountants and auditors
+  * Credit reporting agencies to supply vendor references on client’s behalf
+  * Our employees, affiliated companies, subsidiaries, agents and third party service vendors to perform Services related to your account, to offer additional Services, perform analysis to determine qualification to receive future services or collect amounts due.
+  * Banking and brokerage firms to complete payroll processing and securities transactions
+  * Credit bureaus and similar organizations, law enforcement or government officials. We reserve the right to release information if we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, in a fraud investigation, an audit or examination.
+
+
+
+**HOW TO ACCESS AND CORRECT YOUR INFORMATION**
+
+Keeping your information accurate and up-to-date is very important. You can review or correct your account information by contacting a customer service representative. If you have an account at the Site, you can make changes to your account information after you login to the Site from your PC or wireless device and using the online tools. Note that some information changes may be done by or have to be done through your employer. 
+
+**SECURITY**
+
+For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the [Security](http://www.surepayroll.com/SecurityCenter/BcrhWare/) page. 
+
+**CHANGES TO THIS PRIVACY STATEMENT**
+
+This statement may be revised from time to time due to legislative changes, changes in technology or our privacy practices or new uses of customer information not previously disclosed in this Statement. Revisions are effective upon posting and your continued use of this Site will indicate your acceptance of those changes. Please refer to this Statement regularly. 
+
+If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.
+
+Last revised date: August 27, 2014
