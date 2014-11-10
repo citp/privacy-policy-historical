@@ -1,41 +1,26 @@
-> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105653id_/https%3A//www.skrill.com/en/siteinformation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110045035id_/https%3A//www.skrill.com/en/siteinformation/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skrill
 
-**Effective date: 17 July 2013**
+**Effective date: 29 October 2014**
 
 ##  1\. General 
 
 **1.1. Our Privacy Policy**  
-Skrill Limited (registered number: 4260907) with its registered office at Floor 27, 25 Canada Square, London, E14 5LQ (“we” or “us”) are committed to protecting your information and respecting your privacy.
+Skrill Limited (registered number: 4260907) with its registered office at 25 Canada Square, London, E14 5LQ (“we” or “us”) are committed to protecting your information and respecting your privacy.
 
-This Privacy Policy together with the [Skrill Account Terms of Use](https://web.archive.org/en/siteinformation/terms-conditions/) (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website [new.skrill.com](https://new.skrill.com/en/) (“Website”) or in connection with your Skrill Account (as defined in the Skrill Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy.
+This Privacy Policy together with the [Skrill Account Terms of Use](https://www.skrill.com/index.php?id=104) (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website [www.skrill.com ](http://www.skrill.com/)(“Website”) or in connection with your Skrill Account (as defined in the Skrill Terms of Use) will be processed by us. This Privacy Policy also applies to payments made via the Skrill Guest service. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy.
 
- **Please read this Privacy Policy carefully to understand our views and practices regarding your personal data, how we use it and how we will treat it. If you do not agree with this Privacy Policy, please do not use our services.**  
+ **Please read this Privacy Policy carefully to understand our views and practices regarding your personal data, how we use it and how we will treat it. If you do not agree with this Privacy Policy, please do not use our services.**
 
-**1.2. Certification**  
-We have been awarded with TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site. By displaying the TRUSTe trustmark, we have agreed to notify you of:
-
-  * The nature and extent of the personal data we collect from you directly or from third parties.
-  * Who processes your personal data;
-  * How your personal data are used;
-  * With whom we may share your personal data;
-  * The choices available to you regarding collection, use and distribution of your personal data.
-  * The security procedures in place to protect against the loss, misuse or alteration of personal data processed by us.
-  * How you can correct any inaccuracies in the personal data we hold.
-
-
-
-If you have questions or concerns regarding this our TRUSTe certification, you should first Contact Us. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then help you to resolve your concerns. 
-
-**1.3. Changes to this Privacy Policy**  
+ **1.2. Changes to this Privacy Policy**  
 Any changes we make to this Privacy Policy in the future will be posted on this page. Any new Privacy Policy will be effective from the time that it is posted on the Website. We reserve the right to make changes to our Privacy Policy at any time, without notice, where such change is required by applicable legislation.  
-If we make any material changes to the way your personal data are used, we will notify you by email prior to the change becoming effective. You may object to any new use or change in use of your personal data by contacting us as set out in section 10 (Contact Us) below. We will treat such objection as a notice to terminate your Skrill Account which will be closed in accordance with the Skrill Account Terms of Use. 
+If we make any material changes to the way your personal data are used, we will notify you by email prior to the change becoming effective. You may object to any new use or change in use of your personal data by contacting us as set out in section 10 (Contact Us) below. We will treat such objection as a notice to terminate your Skrill Account which will be closed in accordance with the Skrill Account Terms of Use.
 
 ##  2\. Information We Collect 
 
 **2.1 Information We Collect from You**  
-We may collect and process the following data about you:
+Depending on the payment service you use, we may collect and process the following data about you:
 
   * your full name, address, email address, telephone number, date of birth and bank or payment card details and any proof of your identity and/or address that we may request,
   * details of any transactions you carry out through our Website using your Skrill Account and of the fulfilment of your requests,
@@ -59,6 +44,7 @@ In order to fulfil our legal obligations to prevent fraud and money laundering, 
 We use information held about you in the following ways:
 
   * to operate and administer your Skrill Account and to provide services that you have requested,
+  * to process your payment via Skrill Guest,
   * to carry out your instructions to make and receive payments and undertake transactions using our services, including verifying that you have sufficient funds in your nominated bank account to make such payments,
   * to allow you to participate in interactive features of the Website,
   * to notify you about changes to our service(s),
@@ -109,7 +95,7 @@ When you open a Skrill Account, at intervals of up to every 3 months and at any 
 **5.4. Other Disclosures**  
 We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties. We may also disclose your personal information to:
 
-  * a prospective buyer of our business or a buyer of a substantial number of the shares in our business,
+  * a prospective buyer of our business or a buyer of a substantial number of the shares in our business, if Skrill Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data,
   * the police, other lawful enforcement body, regulatory body or court if we are under a duty or required by law to disclose or share your personal data , or to protect the rights, property, or safety of ourselves or our group companies, our customers, or others,
   * third parties where you have expressed an interest in receiving information about their goods and services, and
   * third parties who referred you to us initially and to whom we owe a commission payment as a result of the referral. Where the commission payment is based on transaction volumes, numbers or types of transactions, we may share that information with that third party, but we will not disclose the full details of each of your transactions without your further written consent.
@@ -167,7 +153,11 @@ In order to comply with legislation, we have reviewed the use of cookies on our 
 Further details of the cookies we use and how they relate to the descriptions set out above can be found in Annex A to this policy. We may use other cookies from time to time in accordance with this policy. By using our sites and other online services, you acknowledge that we may use some or all of the cookies set out in Annex A and you agree that we can place Performance and Functionality Cookies on your device when you use our site. If you do not agree to this you should cease using our sites and online services or adjust your browser settings. Please see section 9.3 below.
 
  **9.3. Blocking Cookies**  
-****Should you want to continue using our services but restrict our use of cookies, you can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including Strictly necessary and/or Compliance cookies, as set described above) you may not be able to access all or parts of our site. Our site may issue some of the cookies described above as soon as you visit our site unless you have adjusted your browser setting so that it will refuse cookies.
+Should you want to continue using our services but restrict our use of cookies, you can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including Strictly necessary and/or Compliance cookies, as set described above) you may not be able to access all or parts of our site. Our site may issue some of the cookies described above as soon as you visit our site unless you have adjusted your browser setting so that it will refuse cookies.
+
+ **9.4. Behavioral Targeting/ Re-Targeting**  
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
+(Google AdSense) We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other websites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 ##  10\. Contact Us 
 
