@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604095123id_/http%3A//www.iinet.net.au/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/about/legal/privacy.html) for the most accurate reproduction.*
 
 # iiNet's privacy statement
 
@@ -85,14 +85,14 @@ We may also collect information about visits to our websites for marketing and s
 
 ### How to access & correct your personal information
 
-Your personal information can be accessed via your secure [toolbox](https://toolbox.iinet.net.au/) or by [contacting us](https://web.archive.org/web/20140604095123id_/http%3A//www.iinet.net.au/contact/).
+Your personal information can be accessed via your secure [toolbox](https://toolbox.iinet.net.au/) or by [contacting us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/).
 
 We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request opt-out of certain communications and make changes to their personal information directly through their Toolbox, or by contacting us at [support@iinet.net.au](mailto:support@iinet.net.au) or by calling 13 22 58.
 
-Please [contact us](https://web.archive.org/web/20140604095123id_/http%3A//www.iinet.net.au/contact/) if you wish to access or correct personal information that we hold about you.
+Please [contact us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/) if you wish to access or correct personal information that we hold about you.
 
 ### Contact us about our privacy statement
 
-If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20140604095123id_/http%3A//www.iinet.net.au/contact/) by calling support on 13 22 58 or email [ support@iinet.net.au](mailto:support@iinet.net.au). Any privacy complaints will be handled in accordance with our [complaint process](https://iihelp.iinet.net.au/Complaints_escalation_process).
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20141110172523id_/http%3A//www.iinet.net.au/contact/) by calling support on 13 22 58 or email [ support@iinet.net.au](mailto:support@iinet.net.au). Any privacy complaints will be handled in accordance with our [complaint process](https://iihelp.iinet.net.au/Complaints_escalation_process).
 
 Date: 11 March 2014
