@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rebatesme.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512075952id_/http%3A//www.rebatesme.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebatesme.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181314id_/http%3A//www.rebatesme.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – RebatesMe – Shopping online and earn cash back
+# Privacy Policy - RebatesMe - Shopping online and earn cash back
 
 We at RebatesMe.com are committed to safeguarding your personal information, and have designed our business practices to safeguard your privacy. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or to people we do not employ. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices. By using this site, you agree to the terms of this privacy policy. 
 
