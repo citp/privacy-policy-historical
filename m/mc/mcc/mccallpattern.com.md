@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccallpattern.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512085432id_/http%3A//mccallpattern.mccall.com/privacy-policy-pages-2763.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccallpattern.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110182753id_/http%3A//mccallpattern.mccall.com/privacy-policy-pages-2763.php) for the most accurate reproduction.*
 
 # Privacy Policy | McCall's Patterns
 
