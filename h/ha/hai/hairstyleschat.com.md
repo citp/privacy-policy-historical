@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairstyleschat.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923170711id_/http%3A//hairstyleschat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstyleschat.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110155130id_/http%3A//hairstyleschat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | HairstylesChat
 
@@ -10,7 +10,7 @@ We may use an outside ad company to display ads on our Site. These ads may conta
 
 We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
 
-In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
+In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under [circumstances](http://hairstyleschat.com/tag/circumstances) required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
 
 By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
