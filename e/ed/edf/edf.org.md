@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213071627id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110091728id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Environmental Defense Fund
 
@@ -31,13 +31,15 @@ This means information that tells us something about who you are, such as your n
 
 If you visit our sites to read or download information, such as consumer brochures or press releases, we collect and store only the following non-personally identifying information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; which pages you visit; and the Internet address of the web site from which you may have linked directly to our site.
 
-If you ask for one of our many personalized or enhanced services, we will ask you to provide us with personally identifiable information. For example, if you wish to contact your representative in Congress, we will ask for your address so that we can direct your communication to the correct member of Congress. We want to be very clear: we only obtain this kind of personally-identifying information when you choose to provide it.
+If you ask for one of our many personalized or enhanced services, we will ask you to provide us with personally identifiable information. For example, if you wish to contact your representative in Congress, we will ask for your address so that we can direct your communication to the correct member of Congress. We also keep a record of faxes and e-mails you send from our system, as well as your comments.
+
+We want to be very clear: we only obtain this kind of personally-identifying information when you choose to provide it.
 
 [top]
 
 ### **2\. What organization is collecting your information?**
 
-We are Environmental Defense Fund, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense Fund and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational sites are [www.edf.org](http://www.environmentaldefense.org/) and [www.edactionfund.org](http://www.edactionfund.org/). In addition, we sponsor several other sites, including but not limited to [EDF+ Business](http://innovation.edf.org/) and [EDF Climate Corps](http://edfclimatecorps.org/).
+We are Environmental Defense Fund, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense Fund and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational sites are [www.edf.org](http://www.environmentaldefense.org/) and [www.edfaction.org](http://www.edfaction.org/). In addition, we sponsor several other sites, including but not limited to [EDF+ Business](http://innovation.edf.org/) and [EDF Climate Corps](http://edfclimatecorps.org/).
 
 [top]
 
@@ -45,9 +47,11 @@ We are Environmental Defense Fund, a non-profit, tax-deductible environmental ad
 
 We use your personal information to give you personalized service (for example, information about your neighborhood, or your favorite subjects); to send you email alerts; to answer your requests; to let you become a member online, etc. You can opt out at any time to stop any further contact from us.
 
-We also use it to track use of our web sites; this lets us see which of our features are the most popular so we can better serve our users' needs. We also keep a record of faxes and e-mails you send from our system, as well as your comments. This also lets us provide aggregate data about our traffic (not identifying you personally, but showing how many visitors used which features, for example) to outside parties. See How "cookies" are used.
+We also use it to track use of our web sites; this lets us see which of our features are the most popular so we can better serve our users' needs. This also lets us provide aggregate data about our traffic (not identifying you personally, but showing how many visitors used which features, for example) to outside parties. Also see, "How 'cookies' are used." 
 
 We may also use this information to suggest other web site services to you, ask you to become a member of EDF, or to solicit donations. At any time you can opt out, so that we will not contact you by email, mail, fax, or telephone.
+
+We may share your personally-identifiable information, as well as a record of transactions you conduct with us, with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To learn more about the use of this information or to make choices about receiving personalized advertising on other sites, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices).
 
 [top]
 
@@ -75,13 +79,11 @@ Some of our web sites use "cookie" data to provide better services. They remind 
 
 Google Analytics is used to analyze traffic to this web site. For more details about Google's privacy practices, please see [Google's privacy center](http://www.google.com/privacy.html).
 
-If you would like your browser to reject cookies, you can instruct your browser to do so, although some site features would be unavailable to you.
-
 [top]
 
 ### **8\. Changes in our privacy policy**
 
-Should our practices change, this notice will be immediately updated. Regardless of later updates, we will never use the information you submit under this current notice in a new way (in a way not described in this notice) without first providing you an opportunity to opt-out or otherwise prevent that use. See Official Terms and Conditions of using our web sites.
+Should our practices change, this notice will be immediately updated. See Official Terms and Conditions of using our web sites.
 
 [top]
 
