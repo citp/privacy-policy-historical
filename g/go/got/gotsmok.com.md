@@ -1,29 +1,47 @@
-> *The following text is extracted and transformed from the gotsmok.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407142651id_/http%3A//gotsmok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsmok.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110060929id_/http%3A//gotsmok.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GOT SMOK?
+# Privacy Policy | GOTSMOK.COM
 
-**If you require any more information  or have any questions about our privacy policy, please feel free to contact us by email at admin@gotsmok.com.**
+At GOTSMOK.COM, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information which is received and collected by GOTSMOK.COM and how it is used.
 
-At http://gotsmok.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://gotsmok.com and how it is used.
+**What information do we collect?**  
+GOTSMOK.COM collects information from you when you visit our site, register on our site or subscribe to our daily deal alerts. When registering on our site, you will be asked to enter your: name, e-mail address and sometimes mailing address. You may visit our site anonymously by not completing the registration process.
 
-**Log Files**  
-Like many other web sites, http://gotsmok.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**What do we use your information for?**  
+Any of the information GOTSMOK.COM collects from you may be used in one of the following ways:
 
-**Cookies and Web Beacons**  
-http://gotsmok.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**Ads**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
-
-  * [madvapes.com](http://www.madvapes.com/?acc=f899139df5e1059396431415e770c6dd)
-  * [vaporalley.com](http://aff.vaporalley.com/idevaffiliate/idevaffiliate.php?id=114_0_1_4)
+  * To personalize your experience (Showing content and information that is relevant to your account and account preferences)
+  * To improve our website (We continually improve our website and features based on the information and feedback we receive from you.)
+  * To improve site functionality (Your information helps us to effectively make sure GOTSMOK.COM is bug-free.)
+  * To send an occasional email (If you subscribed to our daily deal alerts, the email address you provide will only be used to send you information on e-cigarette discounts and/or site giveaways. If at any time you would like to unsubscribe from receiving daily deal alerts or emails,  we’ve included  unsubscribe instructions at the bottom of each email.)
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://gotsmok.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**What about CAN-SPAM compliance?**  
+GOTSMOK.COM has taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-http://gotsmok.com has no access to or control over these cookies that are used by third-party advertisers.
+**Do we use log files?**  
+Like many other web sites, GOTSMOK.COM makes use of log files. The information inside the log files includes Internet Protocol ( IP ) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://gotsmok.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Do we use cookies?**  
+GOTSMOK.COM uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites
+**Do we disclose any information to outside parties?**  
+GOTSMOK.COM will not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential with the same respect to privacy as we outline here. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**California Online Privacy Protection Act Compliance**  
+Because GOTSMOK.COM values your privacy as we do our own, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Ever.
+
+**Childrens Online Privacy Protection Act Compliance**  
+GOTSMOK.COM is in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older (actually 18, but this part is specifically related to COPPA).
+
+**Online Privacy Policy Only**  
+This online privacy policy applies only to information collected through GOTSMOK.COM and not to information collected offline.
+
+**Your Consent**  
+By using GOTSMOK.COM, you consent to our privacy policy.
+
+**Changes To Our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.
+
+This policy was last modified on 05/21/2013
