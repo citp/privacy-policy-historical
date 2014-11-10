@@ -1,94 +1,119 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519022646id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110153642id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
-This privacy policy together with our terms of use sets out how PhotoBox Limited, part of the Photoways group, ("we", "our", "us") will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the "website"). 
+**Introduction**
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controllers are PhotoBox Limited of Bridge House, 1st Floor, 63-65 North Wharf Road, London, W2 1LA and Photoways, ZAC des Parriers, 37-39 de Beauce, 785–Sartrouville. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors"). 
+We are a company registered in England and Wales (registration number 03906401) under the name Photobox Limited; the address of our registered office is Bridge House, 63-65 North Wharf Road, London W2 1LA. We are registered as a data controller with the Information Commissioner’s Office (registration number Z4768023).
 
-We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.
+Photobox is committed to respecting the privacy rights of visitors to its Site and App. This privacy policy explains how we collect, store and use personal data about you when you visit the Site or App, buy Products from us or otherwise provide your personal data to us. It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data. Words used in this Privacy Policy have the same meaning as is attributed to them in the [Photobox Terms of Use.](http://www.photobox.co.uk/content/legal/terms-of-use)
 
-We collect and use personal information in order to: 
+## What personal information do we collect about you ?
 
-  * Administer or otherwise carry out our obligations in relation to any agreement that you may have with us.
-  * Anticipate and resolve problems with your service.
-  * Carry out market research and the tracking of sales.
-  * Create and inform you of products and services provided either by us or by carefully selected third parties that you may be interested in, where you have consented to be contacted for such purposes and allow Data Processors to do the same – see Emails and Newsletters below for more information about this. 
+When you access and move around Photobox, register an Account with Photobox or purchase a Product from Photobox, we may collect some or all of the following personal data about you:
 
-
-
-In order carry out the above, we need to collect and process personal information about you (including but not limited to, your name, address, telephone number, email address, details of your visits to the website and any transactional information in relation to order fulfilment). We may ask you for this information on the website during the registration process or at any subsequent point. The data we collect may be provided to Data Processors for analysis so that we may tailor the goods, services and marketing materials we, and other third parties, offer to you (where you have consented to receive the same). 
-
-In order to take advantage of some of our services, you may need to supply us with the personal details of a third party (for example, their name and address if you wish to send them some prints). We will not use this information for anything other than providing the service for which the information was supplied. 
-
-We may disclose your first name and last name, to selected third parties, including but not limited to Pro-Gallery owners from whom you have purchased items. The purpose of this is so that a record may be kept by the third parties of who has purchased photo related items from them. It is a condition of your use of our services that you agree to this disclosure of your data.
-
-We will not disclose any personally identifiable information without your permission unless: 
-
-  * We are legally entitled to do so (for example, pursuant to a court order or for the purposes of prevention of crime or fraud). You will be treated as having given your permission for disclosures referred to in this policy.
-  * We are in negotiations with a third party for the sale or purchase of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * We, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * To enforce or apply our [terms of use](https://web.archive.org/content/legal/terms-of-use) and other agreements; or to protect our rights, property, safety, customers, or others. 
+  * a username and password;
+  * name, date of birth, age and sex;
+  * billing and delivery addresses, email address and phone number(s);
+  * Payment Method (typically credit card or debit card) details;
+  * your Images and other User Content;
+  * correspondence with and from Photobox;
+  * your preferences about receiving communications from Photobox;
+  * information about your use of Photobox, and your browsing and online purchasing activities; and details we may ask you to submit to verify your identity.
 
 
 
-## Non-Personal Details
+We may also collect some of this personal data from third parties who have your consent to pass your details to us.
 
-We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information. 
+In order to take advantage of some of our Services, you may need to supply us with the personal details of a third party (for example, their name and address if you wish to send them a Product to them as a gift). We will not use this information for anything other than providing the Services for which the information was supplied.
 
-## Newsletters and Service Emails
+We may disclose your first name and last name, to selected third parties, including but not limited to Pro-Gallery owners from whom you have purchased items. The purpose of this is so that a record may be kept by the third parties of who has purchased Products from them. It is a condition of your use of our Services that you agree to this disclosure of this data.
 
-We give you the option to decide what emails you receive from us.
+## How do we use your personal information ?
 
-The emails we send fall into two categories:
+Your personal data will be collected, processed, stored and used by us, and passed to and processed by our subsidiary and/or affiliated companies and other data processors acting under contract with us:
 
-  * Our emails (we call them newsletters) which provide you with information about offers, new products and other things that we think may interest you or PhotoBox customers generally. You can notify us of your preferences concerning our newsletters here: [www.photobox.co.uk/my/account/newsletters](http://www.photobox.co.uk/my/account/newsletters).
-  * The emails that we send concerning activity on your Photobox account (service emails), specifically: 
+  * to provide Photobox to you;
+  * to tailor aspects of your experience of Photobox;
+  * to contact you to provide examples of Products bearing your Images we think might interest you;
+  * to create personalised Products selected by you;
+  * to associate your Account, and your Product purchases, with you, and to verify your identity;
+  * if you elect to store a Payment Method with us, to associate that Payment Method with you when you place an order;
+  * to associate your Account, and your Product purchases, with you, and to verify your identity;
+  * to process payments you make for Products;
+  * to provide customer support;
+  * to contact you by email and mobile communication (such as text (SMS) and “push” notification);
+  * for customer satisfaction and customer experience improvement purposes; and in connection with the prevention and detection of fraud and other crime.
+
+
+
+If you elect to store a Payment Method with us, that Payment Method will not in fact be stored by Photobox itself, but instead it will be stored by a payment service provider under contract with us. The storing payment service provider will be required to comply with the Payment Card Industry Data Security Standard (PCI DSS). Note that, when using a stored Payment Method to make payment for your Photobox order, certain techniques will be used to assist in maintaining the security of the details of your stored Payment Method. For example, not all of the payment card number will be visible to you (typically, all except the final four digits will be masked), and you will be required to provide certain information (such as, but not limited to, a CV2 card security number) in order to proceed with using that Payment Method. To remove or change a stored Payment Method, please follow the procedures specified on the Site or App, or contact our customer services team.
+
+We may use automatically collect anonymous information about your use of Photobox. For example, we may automatically log which parts of Photobox you access, which web browser you deploy and the website from which you linked to Photobox. You cannot be identified from any of this information. It enables us to compile statistics about the use of Photobox, and to help target aspects of Photobox and advertising to you more accurately.
+
+## Disclosing your personal data
+
+We will not disclose any of your personal data, other than to subsidiary and/or affiliated companies and data processors (including payment service providers) under contract with us, without your permission unless:
+
+  * we are legally entitled to do so (for example, pursuant to a court order or for the purposes of prevention or detection of crime or fraud);
+  * we are in negotiations with a third party for the sale or purchase of any of Photobox’s business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * Photobox, or substantially all of its assets, is acquired by a third party, in which case personal data held by Photobox about its customers will be one of the transferred assets; or
+  * to enforce or apply our Terms of Use and other agreements to which you are party, or to protect our rights, property, safety, customers, or others.
+
+
+
+## Email and Text preferences
+
+The emails and mobile communication (such as text (SMS) and “push” notification) we send to you fall into two categories:
+
+  * Emails (we call them newsletters) and mobile communication (such as text (SMS) and “push” notification) (we call them messaging alerts) which provide you with information about offers, new Products and other things that we think may interest you or PhotoBox customers generally. You can notify us of your preferences concerning our newsletters here: [www.photobox.co.uk/my/account/newsletters](http://www.photobox.co.uk/my/account/newsletters) and you can opt out of receiving text (SMS) messaging alerts at any time by texting STOP to the number which appears in the relevant text (SMS) messaging alert, and prevent receipt of “push” notification messaging alerts by turning off the push function on your mobile device.
+  * The emails and messaging alerts that we send concerning activity on your Photobox Account (“Service Messages”), specifically: 
     * To remind you of free PhotoBox credits that may be in your account
     * To remind you of unordered items in your online basket
+    * To remind you of Product creations that you have abandoned
     * To explain how PhotoBox credits that you have purchased work
     * To remind you to use PhotoBox credits before they expire
     * Surveys to capture your feedback on orders you have placed with PhotoBox
     * Surveys to capture your feedback on contact with our customer service team
+    * To inform you of last Product order dates for seasonal events such as Christmas, Valentine’s day, Mother’s Day and Father’s day
+    * To remind you that you have an Account
+  * Should you wish to, you can opt out of receiving the above Service Messages here: <http://photobox-en.custhelp.com/app/ask>.
 
 
 
 Should you wish to, you can opt out of receiving our service emails here: <http://photobox-en.custhelp.com/app/ask>.
 
-While we do our best to act on your preferences as soon as we can, please be aware that it may take up to 14 days for changes to your preferences concerning newsletters or service emails to take effect.
+While we do our best to act on your preferences as soon as we reasonably can, please be aware that it may take up to 14 days for changes to your preferences concerning Service Messages to take effect.
 
-Please note that transactional emails that we send you – that is, emails that we need to send you relating directly to your orders and purchases from PhotoBox – are unaffected by your preferences for newsletters and service emails.
-
-## Competitions
-
-From time to time, we may hold competitions via the website. When you enter a competition, we may ask you to tell us your name, email address, mailing address and telephone number. We will collect and use these details in accordance with the provisions of this privacy policy.
+Please note that (a) emails that we need to send you relating directly to your orders and purchases from PhotoBox (such as order and dispatch confirmation emails), and (b) emails which notify you of changes to our Terms of Use, or to policies we apply under our Terms of Use, are unaffected by your preferences for newsletters and Service Messages; you cannot opt-out of receiving these emails.
 
 ## Cookies
 
-### Information about our use of cookies
+**Information about our use of cookies**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By visiting or using this site with your browser set to allow cookies, you are consenting to our use of cookies for the purposes set out below.   
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By visiting or using this site with your browser set to allow cookies, you are consenting to our use of cookies for the purposes set out below. 
+
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
 
-To make full use of our website and to benefit from certain personalised features, your computer, tablet or mobile phone will need to be set up to accept cookies. Our website (like many other shopping websites) will not work when cookies are blocked.
+To make full use of Photobox.co.uk and to benefit from certain personalised features, your computer, tablet or mobile phone will need to be set up to accept cookies. The PhotoBox.co.uk website (like many other shopping websites) will not work when cookies are blocked.
 
-The list below details the cookies used on our website. We have outlined who sets these cookies and their purpose.
+The list below details the cookies used on Photobox.co.uk. We have outlined who sets these cookies and their purpose.
 
 Category | Party | Purpose  
 ---|---|---  
-**Functionality** | Our Website | Our website uses these cookies to enable some basic functionalities to provide a basic personalised experience whilst browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your basket, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
-**Strictly necessary** | Our Website | These cookies are essential as they enable you to move around a website and use its features, such as accessing the checkout. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
+**Functionality** | [Photobox.co.uk](http://www.photobox.co.uk/) | Photobox.co.uk uses these cookies to enable some basic functionalities to provide a basic personalised experience whilst browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your basket, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
+**Strictly necessary** | [Photobox.co.uk](http://www.photobox.co.uk/) | These cookies are essential as they enable you to move around a website and use its features, such as accessing the checkout. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
 **Analytical/Performance** | Google Analytics,  
 Euerlian | Google Analytics and Eurelian use cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
-**Analytical/Performance** | ABTasty | Our website work with 3rd party ABtasty to test and find the optimal content and experience for our users. The cookies used by ABtasty enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, ABTasty does not collect specific customer data and is never shared with other third parties.  
+**Analytical/Performance** | ABTasty | Photobox.co.uk work with 3rd party ABtasty to test and find the optimal content and experience for our users. The cookies used by ABtasty enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, ABTasty does not collect specific customer data and is never shared with other third parties.  
 **Targeting** | Jumptap,  
-Quantcast, | Our website work with 3rd party agencies, Quantcast and Jumptap to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+Quantcast, | Photobox.co.uk work with 3rd party agencies, Quantcast and Jumptap to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
 **Targeting** | Facebook, Google  
 Adwords, Bing,  
 Madmetrics, | Google Adwords, Bing, Madmetrics and Facebook use cookies to track our own paid advertising activity. We use the information collected by these cookies to help us determine where our ads will be most effective online. Each individual advertiser uses its own tracking cookies and the data taken is not confidential data or interchangeable.  
 **Targeting** | Awin, Trialpay,  
-Linking Mobile | Cookies are used by 3rd parties Awin, Trialpay and Linking Mobile enabling our website to meet contractual obligations to make payments to them when they introduce a new customer to our website. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
-**Targeting** | Adroll | Our website works with 3rd party agency Adroll to display banner advertising on other selected websites based on pages already viewed on our website. These cookies help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+Linking Mobile | Cookies are used by 3rd parties Awin, Trialpay and Linking Mobile enabling Photobox.co.uk to meet contractual obligations to make payments to them when they introduce a new customer to PhotoBox.co.uk. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+**Targeting** | Adroll | Photobox.co.uk works with 3rd party agency Adroll to display banner advertising on other selected websites based on pages already viewed on photobox.co.uk. These cookies help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
   
 ### Managing Cookies
 
@@ -117,26 +142,42 @@ Here’s how to do it:
 
 
 
-## Accuracy
+## What happens if I disable cookies?
 
-We aim to keep our records as accurate as possible. If you would like to review or change the details that you have supplied us with at any time you can either amend your details directly by going to the 'My Details' section of your homepage of the website, or by contacting us using the details below.
+This depends on which cookies you disable, but in general our Site will not operate properly if cookies are off. In particular, note that you may be prevented from making purchases of Products if cookies are disabled.
 
-## Security
+## International transfers
 
-The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorised access and improper use. We will continue to update these measures as new technology becomes available. 
-
-## Your Rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, or by going to the 'My Preferences' area of the 'My Details' section of your homepage of the website. You can also exercise the right at any time by [contacting us](https://web.archive.org/content/help/contact-us).
+We may transfer personal data that we collect from you to third party data processors located in countries that are outside of the European Economic Area (EEA) and to other Photobox group companies in connection with the above purposes. Please be aware that countries outside the EEA may not offer the same level of data protection as the United Kingdom; however, we always require that third party data processors deal with your personal data in accordance with this privacy policy.
 
 ## Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+The Data Protection Act 1998 gives you the right to access personal data held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the personal information we hold about you.
 
-## Links
+## Links to third party sites
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Our Site may, from time to time, contain links to the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for those websites or their policies.
+
+## Security
+
+We take appropriate technical and organisational measures to guard against unauthorised or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no computer system is completely secure, we believe the measures implemented by our site reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+We have security measures in place to protect our database of Users and access to this database is restricted internally. However, note that it remains each User's responsibility:
+
+  * to ensure no-one else uses Photobox through his/her Account;
+  * to log off or exit from your Photobox Account when not using it; and
+  * to keep his/her password or other access information secret. 
+
+
+
+## Deceptive emails
+
+We will never ask you to confirm the details of your Account or Payment Method by email or mobile communication. If you receive such contact, please do not respond to it.
+
+## Updates to this policy
+
+This Privacy Policy was last updated on 20 June 2014. Please check back regularly to keep informed of changes to this Policy.
 
 ## Contact us
 
-If you would like to contact us [click here](https://web.archive.org/content/help/contact-us).
+If you would like to contact us about any aspect of this Privacy Policy [click here](https://web.archive.org/content/help/contact-us).
