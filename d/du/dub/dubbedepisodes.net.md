@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubbedepisodes.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213204911id_/http%3A//www.dubbedepisodes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubbedepisodes.net privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110063300id_/http%3A//www.dubbedepisodes.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Anime English Dubbed
+# Privacy Policy « Anime English Dubbed | Free Anime Online
 
 We respect your privacy. While visiting dubbedepisodes.com, small amounts of personal data is collected. The list includes but is not limited to: IP, DART cookies and possibly email address.
 
