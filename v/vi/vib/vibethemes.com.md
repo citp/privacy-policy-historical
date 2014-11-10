@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042007id_/http%3A//www.vibethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110195502id_/http%3A//www.vibethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » VibeThemes
+# Privacy Policy - VibeThemes
 
 _**What This Policy Covers. This policy covers how VibeThemes treats personal information that we collect and receive.**_
 
