@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180430id_/http%3A//iblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110114135id_/http%3A//iblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Please find our Privacy Policy Here | iBlog
 
