@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130853id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110190014id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
 
 # Order fulfillment privacy policy
 
@@ -67,3 +67,7 @@ If you have any questions about this privacy statement, the practices of this si
   * [How to Protect Your Privacy](http://www.ftc.gov/privacy "How to Protect Your Privacy") – information from the Federal Trade Commission.
 
 
+
+* * *
+
+Was this article helpful?  Yes   No 
