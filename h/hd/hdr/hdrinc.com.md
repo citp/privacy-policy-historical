@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234857id_/http%3A//www.hdrinc.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110203212id_/http%3A//www.hdrinc.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms/Privacy < HDR, Inc.
 
