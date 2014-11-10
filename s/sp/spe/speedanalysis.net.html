@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedanalysis.net privacy policy that was archived on 2014-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140421234349id_/http%3A//www.speedanalysis.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedanalysis.net privacy policy that was archived on 2014-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111005538id_/http%3A//www.speedanalysis.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -42,10 +42,26 @@
     ga('send', 'pageview');
 </script>
 <script>
+	function is_dupdl(obj) {
+		var i;
+		for (i=0; i<$jq._data(obj,'events').click.length; i++) {
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("LPDOWNLOADBUTTON")>0) return true;
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("keyEvBtnClick")>0) return true;
+		}
+		return false;
+	}
+	function is_dup_analytics(obj) {
+		var i;
+		for (i=0; i<$jq._data(obj,'events').click.length; i++) {
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("ga('send'")>0) return true;
+		}
+		return false;
+	}
+
     $jq(function() {
             });
 </script>
-<script type="text/javascript" src="//d2sj2omw0azr1m.cloudfront.net/blocker.min.js"></script></head>
+</head>
 <body>
     <div id="header">
         <div class="logo">
@@ -259,14 +275,15 @@
     <h2>Contact Information</h2>
 
     <p>You can contact us about this privacy statement by emailing us at: <a href="mailto:support@speedanalysis.net">support@speedanalysis.net</a></p>
-</div>    </div><!-- content x -->
+</div>
+    </div><!-- content x -->
     
     <div id="footer">    
     	<p>
         	© SpeedAnalysis.net.   All Rights Reserved. &nbsp; 
-        	<a href="/about.php" title="">About</a> | 
-        	<a href="/faq.php" title="">FAQ</a> | <a href="/eula.php" title="">EULA</a> | 
-        	<a href="/privacy.php" title="">Privacy</a> | <a href="/contact.php" title="">Advertise with Us</a> 
+        	<a href="/about.php" target="_blank" title="">About</a> | 
+        	<a href="/faq.php" target="_blank" title="">FAQ</a> | <a href="/eula.php" target="_blank" title="">EULA</a> | 
+        	<a href="/privacy.php" target="_blank" title="">Privacy</a> | <a href="/contact.php" target="_blank" title="">Advertise with Us</a> 
         </p>        
     </div><!-- footer x -->
 
