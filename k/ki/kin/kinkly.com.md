@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinkly.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015716id_/http%3A//www.kinkly.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinkly.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110182637id_/http%3A//www.kinkly.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kinkly.com
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Kinkly.com  
 Suite 104, 4207 - 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
-Last updated Monday, November 25, 2013  
+Last updated Thursday, August 21, 2014  
 
 
   
