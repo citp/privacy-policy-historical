@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209115007id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2014-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141110055303id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><script type="text/javascript" async="" src="/elqNow/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/seg?t=1&amp;add=296852" id="nowspots-retargeting"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121011115300/https://apis.google.com/js/plusone.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/seg?t=1&amp;add=296852" id="nowspots-retargeting"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script>
   try 
   {
 	if (top.location.hostname != self.location.hostname) throw 1;
@@ -21,45 +21,22 @@
     
 	<link rel="stylesheet" href="/skins/surepayroll/sp_960_v3.css">
     
+
     <script type="text/javascript" src="/skins/surepayroll/nav-menu-960.js"></script>
 
 <!-- Woopra Start -->
 	<script type="text/javascript">
-		var _qp = (function () {
-    		var result = {};
-    		if (window.location.search) {
-    			var params = window.location.search.slice(1).split("&");
-    			for (var i = 0; i < params.length; i++) {
-    				var tmp = params[i].split("=");
-    				result[tmp[0]] = unescape(tmp[1]);
-    			}
-    		}
-    		return result;
-		} ());
-		(function(){
-			var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
-		})("woopra");
+		!function(){var a,b,c,d=window,e=document,f=arguments,g="script",h=["config","track","trackForm","trackClick","identify","visit","push","call"],i=function(){var a,b=this,c=function(a){b[a]=function(){return b._e.push([a].concat(Array.prototype.slice.call(arguments,0))),b}};for(b._e=[],a=0;a<h.length;a++)c(h[a])};for(d.__woo=d.__woo||{},a=0;a<f.length;a++)d.__woo[f[a]]=d[f[a]]=d[f[a]]||new i;b=e.createElement(g),b.async=1,b.src="//static.woopra.com/js/w.js",c=e.getElementsByTagName(g)[0],c.parentNode.insertBefore(b,c)}("woopra");
 		woopra.config({
 			domain: 'surepayroll.com',
 			ping_interval: 10000,
 			idle_timeout: 1800000
 		});
 
-		if (window.location.pathname.indexOf('/quote/instant_quote_results.asp') == 0 || window.location.pathname.indexOf('/mobile/quote-results.asp') == 0) {
-			woopra.identify ({
-				name: _qp.email,
-				email: _qp.email,
-				employees: _qp.NumberOfEmployees,
-				frequency: _qp.Freq
-			});
-			woopra.track('request_quote', {
-				name: 'request_quote',
-				employees: _qp.NumberOfEmployees,
-				frequency: _qp.Freq,
-				email: _qp.email,
-				url: window.location.host + window.location.pathname
-			});
-		}
+		woopra.trackForm('Request Quote', 'quotesform1', {
+		});
+		woopra.trackForm('Request Quote', 'payrollForm', {
+		});
 
 		if (window.location.pathname.indexOf('/query') == 0) {
 			woopra.track('search', {
@@ -70,17 +47,49 @@
 			url: window.location.host + window.location.pathname,
 			title: document.title
 		});
+		if(document.getElementById('acct-resell-form') != null)
+		{
+		    document.getElementById('acct-resell-form').onclick = function() {
+		        woopra.track('Accountant Form', {
+		            page: 'Reseller',
+		        });
+		    };
+		}
+		if(document.getElementById('acct-dash-form') != null)
+		{
+		    document.getElementById('acct-dash-form').onclick = function() {
+		        woopra.track('Accountant Form', {
+		            page: 'Reseller',
+		        });
+		    };
+		}
 	</script>
 <!-- Woopra End -->
 
-    
     <script type="text/javascript" src="//cdn.optimizely.com/js/26319495.js"></script>
 
+    
+    <script>        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '1439328489651811']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]); 
+    </script> 
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1439328489651811&ev=NoScript" /></noscript>
     
     <script type="text/javascript" src="/skins/surepayroll/jquery-1.7.2.min.js"></script>
 	<script type="text/javascript" src="/skins/surepayroll/jquery.validate.js"></script>
     
-	<script type="text/javascript" src="/skins/surepayroll/script.js"></script>
+	    <script type="text/javascript" src="/skins/surepayroll/script.js"></script>
     
     <!--[if IE 6]>
 	    <link rel="stylesheet" href="/skins/surepayroll/widget.ie6.css" />
@@ -192,7 +201,9 @@
 </ul>
 
 <div class="search">
+
 <form method="get" action="http://search.surepayroll.com/query.go" target="_self" accept-charset="utf-8">
+
 <input type="hidden" name="crid" value="38990b6b"><input type="text" name="query" maxlength="100" class="sp-search"> <input type="submit" value="" name="B1" class="submit">
 </form>
 </div>
@@ -276,57 +287,107 @@
 
 <h1 title="SurePayroll Privacy Policy">SurePayroll Privacy Policy</h1>
 <img src="/images/960/global/hr-line682.gif"><br>
-<p>SurePayroll, Inc.'s privacy policy explains how we collect and utilize information we obtain at the SurePayroll.com website (the "Site"). Our privacy policy applies to information collected at the Site unless you and we have entered into a written (including electronic) agreement that provides other terms. It does not apply to information that we may collect by other means.  When you utilize the Site or provide information at the Site, you are consenting to the manner in which we will collect, use, and disclose your personal information as set forth below.</p>
+<p><strong>Privacy Statement</strong></p>
+<p>This Privacy Statement describes how SurePayroll collects, uses, shares and protects business, financial, and personal information.  This statement applies to all information collected or submitted on this website and mobile applications (“Site”).  This notice is available on the homepage of this Site and at every login page where personally identifiable information may be requested.</p>
                 
-                <p><strong>We do not sell any personally identifiable information to third parties for marketing purposes without your consent.</strong>
-                
-                </p><p>We maintain security measures to protect the loss, misuse and alteration of confidential customer information under our control. In connection with performing services, we are required to disclose certain information to governmental taxing authorities in order to ensure that credit is made for tax withholding deposits. We also use customer information to perform the services you contract with us to provide and to communicate with you. We will permit only authorized personnel, who are trained in the proper handling of customer information, to have access to personally identifiable customer information.
-                </p><p>We will attempt to keep customer files complete, up-to-date, and accurate. We will tell our customers how and where to conveniently access their information (except when we're prohibited by law) and how to notify us about errors, which we will endeavor to promptly correct.
-                </p><p>In extraordinary circumstances, we may also be required for other reasons to disclose confidential information of customers to law enforcement or government officials and we reserve the right to release information if  we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our agreements with you, or to protect the rights, property, or personal safety of our Site, us, our officers, directors, employees, representatives, other users, and/or the public.
-                </p><p><strong>Collection of Personal Information</strong> 
-               </p><p> You are not required to provide any personal information in order to have general access to the Site.  However, in order to access certain information, features or services at the Site or certain of our offerings, you may be required to provide personal information. We collect personal information about you from the following sources: 
+<p>Your privacy, and the privacy of the information provided, is important to us.  We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration and untimely destruction.  We grant access to personal information about you only to our employees, agents, and service providers so they can provide products or services, process and service your account, and administer our business.  
                 </p>
-                <ul>
-                <li>When you utilize the services at the Site we obtain from you the information we need to complete your transactions. For example, this information may include your name, address, telephone number, and email address and/or information regarding a particular business entity or individuals who seek to utilize Services we offer.  If you use a credit or debit card at the Site, it will include the credit card or debit card account number. 
-                </li><li>When you establish an account or register to use certain features at the Site.
-                </li><li>If you provide us with comments or suggestions, request information about our products and services, or contact our customer service department via phone, email, or other forms of communication.
-                </li><li>When you submit an application for our services or register for our services.
-                </li><li>We may collect additional information if you choose to use or participate in one of our various programs (such as our referral service).  
-                </li><li>We obtain information concerning the services you utilize and from your transactions and other interactions with us, our affiliates, and others, including our marketing partners and third party service providers. 
-                </li><li>When you use certain features at the Site where you voluntarily submit personal information, for example, in connection with requesting a price quote or registering to receive a newsletter.
-                </li><li>We may also collect information we receive from consumer and business reporting agencies. 
-               </li></ul>
-               <p> <strong>How We Use Personal Information</strong>
-               </p><p> We use personal information, including that collected from our marketing partners, to improve the quality of the products and services that we offer. We also want to provide you enjoyable experience on the Site, and to do this we strive to continually improve the service we provide to you. We use personal information as one source to help up achieve this goal, by personalizing, though email communications and your visits to the Site, offers of products and services that we believe would be of interest to you. We may use the personal information, including business information, that you have given to us and cross-reference it with personal information, including business information, we receive from our marketing partners and others in order to provide you an enhanced and more personalized experience at the Site.
-                </p><p>We use personal information, including business information, that we obtain from your use of the Site to respond to your comments or inquiries, to resolve disputes, to contact you when necessary in connection with the operation of the Site, or for matters involving any product or service transactions, to address problems at the Site and to enforce our agreements with you.    
-                </p><p>We  may also use the services of other businesses to perform tasks for us such as providing marketing assistance and data analysis or to perform other services offered to users of our website and may provide personal information, including business information, to those businesses when that information is necessary or desirable for them to perform such services.  
-                
-              </p><p> <strong> Collection of Non-Personal Information </strong>
-               
-              </p><p>  We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, SBC). We use such information in connection with our business operations and in administering the Site.
-              </p><p><strong>  How we use Non-personal Information</strong>
-              </p><p>  We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
-              </p><p>  Use of Aggregate Information: From time to time, we may collect general, non-personal, statistical information about the users of the Site and our services. We collect this information to determine information regarding the use of our site and general information about our customers. We may also group this information into aggregate data in order to describe the use of our Site and to provide general aggregated information, such as the SurePayroll Small Business Scorecard. The aggregated data will not personally identify any customers or visitors to the Site.
-             </p><p><strong> Use of Cookies </strong>  
-             </p><p>   Your Internet browser has a feature called cookies. Our Site may use cookies. Cookies store small amounts of data on your computer about your visit to Site. Cookies alone tell us nothing about who you are or give us personally identifiable information about you.
-             </p><p>  <strong> Your California Privacy Rights</strong>
-              </p><p>  California Civil Code Section 1798.83, known as the "Shine The Light" law, permits California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
-               </p>
-               
-                SurePayroll, Inc.<br>
-                Attn: California Privacy Rights Administrator<br>
-                2350 Ravine Way, Suite 100<br>
-                Glenview, IL 60025<br>
 
-               <p> <strong> Limitation of Liability</strong>
-               </p><p> We maintain safeguards to protect the confidentiality of customer personal information. However, transmissions protected by security technology and implemented by human beings cannot be made absolutely secure. Consequently, we shall not be liable for unauthorized disclosure of personal information not due to the direct fault of SurePayroll including, but not limited to, errors in transmission and unauthorized acts. 
-               </p><p> <strong>  Children</strong>
-              </p><p>  The SurePayroll site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age.
-              </p><p>  <strong>  Changing Your Information</strong>
-              </p><p>  If you have an account at the Site, you can make changes to your account information by logging in to the Site and using the available online tools. If you subscribe to any of our e-mail newsletters you may unsubscribe from such newsletters by following the instructions included with the newsletter or by contacting our customer service representatives or sending an email to <a href="mailto:help@SurePayroll.com">help@SurePayroll.com</a>.  If you have further questions regarding Changing Your Information please contact our customer service representatives or send an email to <a href="mailto:help@SurePayroll.com">help@SurePayroll.com</a>. 
-              </p><p>  <strong>  Changes to Privacy Policy </strong>
-              </p><p>  Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
-              </p><p>  This Privacy Policy was last updated on September 30, 2009</p>
+<p>At times, we will provide you with links to other websites.  We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.
+                </p>
+   
+
+                <ul>
+                <li><a href="#heading1">Information Collection and Use</a>
+                </li><li><a href="#heading2">Parties with Whom Information May be Shared</a>
+                </li><li><a href="#heading3">How to Access and Correct Your Information</a>
+                </li><li><a href="#heading4">Security</a> 
+                </li><li><a href="#heading5">Changes to this Privacy Statement</a>
+               </li></ul>
+
+
+               <p><strong><a name="heading1"></a>INFORMATION COLLECTION AND USE</strong>
+               </p><p><strong>What information is collected</strong>
+               </p><p> We limit the collection of personal information to the information that we need to administer and improve the Site, to provide our products and services (“Services”) to our customers, and to fulfill any legal and regulatory requirements.
+                </p><p>The categories of personal information that we collect may include, but are not limited to:The categories of personal information that we collect may include, but are not limited to:</p>
+
+                <ul>
+                <li>Contact information to allow us to communicate with you
+                </li><li>Employer information, including financial and bank account information, to provide the Services
+                </li><li>Employee information, including social security number, date of birth, financial, bank account, medical and beneficiary information, to provide the Services
+                </li><li>Credit, debit, or cash/payment  card information if used, such as for billing
+                </li><li>Credit or debt history regarding your creditworthiness or credit history
+                </li><li>Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module
+                </li>
+                </ul>
+                                   
+              <p></p><p> <strong> How personal information is collected </strong></p>
+               
+              <p> We do not require you to provide any personal information in order to have general access to the Site.  However, in order to access or use certain information, features or Services at the Site, you may be required to provide personal information. Personal information is primarily collected:</p>
+                            
+<ul>
+<li>When you utilize the Services, we obtain from you the information we need to provide the Services.</li>
+<li>From applications, forms and other information you provide us on the Site</li> 
+<li>When you establish an account, or an account is established for you at the direction of your employer, to receive Services</li> 
+<li>From survey information and/or site registration</li>
+<li>If you provide us with comments or suggestions, request information about our Services, or contact our customer service department via phone, email or other forms of communication</li>
+<li>From consumer and business reporting agencies regarding your creditworthiness or credit history</li>
+<li>From third parties to verify information given to us</li>
+</ul>
+
+               <p> <strong>How personal information is used</strong>
+               </p><p>We use the information provided on the Site to perform the Services you request.  We limit the collection of private customer information that we need to:</p>
+<ul>    
+<li>Facilitate customer requested transactions, investments, distributions and benefits</li> 
+<li>Provide superior service to our customers</li>
+<li>Comply with legal, reporting and regulatory requirements</li>
+<li>Administer and improve our websites</li>
+<li>Detect fraud or theft to protect our business and client information</li>
+<li>Contact you with information on Services, new Services or products, or upcoming events</li> 
+<li>Facilitate applicant tracking and recruitment</li> 
+</ul>   
+              <p><strong>How aggregated, non-personal information is used</strong>
+              </p><p> We may collect general, non-personal, statistical information about the users of the Site and our services in order to determine information regarding the use of our Site and general information about our customers.  We may also group this information to provide general aggregated data, such as the SurePayroll Small Business Scorecard<span class="superscript2">®</span>.  The aggregated data will not personally identify any customers or visitors to the Site.
+
+              </p><p><strong>  How cookies are used</strong>
+              </p><p>A “cookie” is a piece of data that our Site may provide to your browser while you are at our Site. The information stored in a cookie is used for user convenience purposes, such as reducing repetitive messages, tracking helper tool versions, and retaining user display preferences.   If a user rejects the cookie, they will be able to browse the Site but will be unable to use our online application.   
+              </p><p>Other parties, such as third party ad networks, may collect information about an individual’s online activities when a consumer uses our website.   
+
+              </p><p><strong>Children under 13 years of age </strong>
+              </p><p> This site is not intended for children under 13 years of age.  We do not knowingly collect personal information from children under 13 years of age.  All dependent data needed for benefits enrollment is customarily provided by the employee/guardian and kept secure as indicated in this Statement.
+              </p>
+
+              <p><strong>Your California privacy rights</strong>
+              </p><p> Under California Civil Code 1798, California residents with an established business relationship can request information about sharing their personal information with third parties for the third parties’ direct marketing purposes.  If you are a California resident and would like more information, please contact your service provider.
+              </p>              
+
+              <p><strong><a name="heading2"></a>PARTIES WITH WHOM INFORMATION MAY BE SHARED </strong>
+              </p><p>We do not sell or disseminate customer information collected on the Site to any third parties under any circumstances, except to fulfill legal and regulatory requirements or to facilitate customer requested transactions.</p>
+              <p> Information is shared to facilitate the Services needed in order to properly and efficiently handle duties related to your account.  We may share information with:
+              </p>
+
+<ul>
+<li>Government agencies to fulfill legal, reporting and regulatory requirements</li>
+<li>Attorneys, accountants and auditors</li> 
+<li>Credit reporting agencies to supply vendor references on client’s behalf</li>   
+<li>Our employees, affiliated companies, subsidiaries, agents and third party service vendors to perform Services related to your account, to offer additional Services, perform analysis to determine qualification to receive future services or collect amounts due.</li>
+<li>Banking and brokerage firms to complete payroll processing and securities transactions</li>  
+<li>Credit bureaus and similar organizations, law enforcement or government officials.  We reserve the right to release information if we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, in a fraud investigation, an audit or examination.</li>
+</ul>
+
+              <p><strong><a name="heading3"></a>HOW TO ACCESS AND CORRECT YOUR INFORMATION</strong>
+              </p><p>Keeping your information accurate and up-to-date is very important.  You can review or correct your account information by contacting a customer service representative.  If you have an account at the Site, you can make changes to your account information after you login to the Site from your PC or wireless device and using the online tools.  Note that some information changes may be done by or have to be done through your employer.  
+              </p>
+
+              <p><strong><a name="heading4"></a>SECURITY</strong>
+              </p><p>For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the <a href="http://www.surepayroll.com/SecurityCenter/BcrhWare/" target="_blank">Security</a> page.   
+              </p>
+
+              <p><strong><a name="heading5"></a>CHANGES TO THIS PRIVACY STATEMENT</strong>
+              </p><p>This statement may be revised from time to time due to legislative changes, changes in technology or our privacy practices or new uses of customer information not previously disclosed in this Statement. Revisions are effective upon posting and your continued use of this Site will indicate your acceptance of those changes.  Please refer to this Statement regularly.  
+              </p><p>If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.</p>
+              <p>Last revised date: August 27, 2014</p>      
+
 </div>
 
 </div>
@@ -425,50 +486,19 @@ Sales: <strong>877.954.7873</strong>
    
 </div>
 
-<script type="text/javascript" src="/include/960/js/go.js"></script>
-
 <script type="text/javascript">
-
-    var _elqQ = _elqQ || [];
-    _elqQ.push(['elqSetSiteId', '2470']);
-    _elqQ.push(['elqTrackPageView']);
+    piAId = '36372';
+    piCId = '1810';
 
     (function () {
         function async_load() {
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-            s.src = '/elqNow/elqCfg.min.js';
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
         }
-        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
-        else if (window.attachEvent) window.attachEvent('onload', async_load);
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
     })();
-
-
-    var timerId = null, timeout = 5;
-    function WaitUntilCustomerGUIDIsRetrieved() {
-        if (!!(timerId)) {
-            if (timeout == 0) {
-                return;
-            }
-            if (typeof this.GetElqCustomerGUID === 'function') {
-                var elq_form_guid = document.getElementsByName('elqCustomerGUID');
-                if (elq_form_guid[0] != null) {
-                    elq_form_guid[0].value = GetElqCustomerGUID();
-                }
-                return;
-            }
-            timeout -= 1;
-        }
-        timerId = setTimeout("WaitUntilCustomerGUIDIsRetrieved()", 500);
-        return;
-    }
-    if (window.addEventListener) {
-        window.addEventListener('load', WaitUntilCustomerGUIDIsRetrieved, false);
-    }
-    else if (window.attachEvent) {
-        window.attachEvent('onload', WaitUntilCustomerGUIDIsRetrieved);
-    }
-    _elqQ.push(['elqGetCustomerGUID']);
 </script>
 
 <script type="text/javascript">
@@ -484,6 +514,19 @@ Sales: <strong>877.954.7873</strong>
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
+</script>
+
+<script type="text/javascript">
+    function recordOutboundLink(link, category, action) {
+        _gat._getTrackerByName()._trackEvent(category, action);
+        setTimeout('document.location = "' + link.href + '"', 100);
+    }
+
+    (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
 </script>
 
 <script type="text/javascript">
@@ -520,8 +563,6 @@ Sales: <strong>877.954.7873</strong>
     })();
 </script>
 
-
-<script src="http://www.linkstant.com/linkstant.js" type="text/javascript"></script>
 
 
 </body></html>
