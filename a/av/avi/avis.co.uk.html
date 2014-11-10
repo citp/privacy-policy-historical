@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the avis.co.uk privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630165329id_/http%3A//www.avis.co.uk/about-avis/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avis.co.uk privacy policy that was archived on 2014-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141110155209id_/http%3A//www.avis.co.uk/about-avis/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-touch geolocation csstransforms csstransitions svg json scriptdefer svgfilters jquery2 positionfixed no-highres" style=""><!--<![endif]--><head>
-	
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="utf-8">
    	<meta name="keywords" content="Privacy Policy">
 	<meta name="description" content="">
@@ -56,6 +55,7 @@
     <![endif]-->
 
     <script type="text/javascript" async="" src="//ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?s=1&amp;v=7.0&amp;OnScriptLoad=__async_req_1__"></script><script src="//tags.tiqcdn.com/utag/avisbudgetgroup/avis/prod/utag.js" type="text/javascript" async=""></script><script src="/resources/templating-kit/themes/avis-digital/js/lib/modernizr-2.6.2-custom.min.js"></script>
+	
 	<!-- Maxymiser script start -->
 	<script type="text/javascript" src="//service.maxymiser.net/cdn/avis/js/mmcore.js"></script>
 	<!-- Maxymiser script end -->
@@ -80,23 +80,23 @@
             },
     
             errorMessages : {
-				postcodeError:["No results found"],
-           		loginEmailEmpty : ["Please provide your email address"],
-                loginPasswordEmpty : ["Please provide your password"],
-               	genericEmpty : ["Please fill out this field"],
-                genericTryAgain : ["Please try again"],
-                invalidEmail : ["Sorry, we do not recognise your email address. Please try again, using this format: hello@example.co.uk"],
-                invalidPassword : ["Sorry, your email address and password do not match. Please check and try again."],
-                emailEmpty: ["Please tell us your email address"],
-                emailInvalid: ["Please tell us your email address in the same format as abc@example.co.uk"],
-                 emailExists:["You have already subscribed"],
-                 minAgeError:["Sorry, the date of birth entered is below the minimum age required."],
+				postcodeError:["Sorry, we couldn’t find any results. Please search again or call 0808 284 0013."],
+           		loginEmailEmpty : ["Please provide your email address."],
+                loginPasswordEmpty : ["Please provide your password."],
+               	genericEmpty : ["Please fill out this field."],
+                genericTryAgain : ["Please try again."],
+                invalidEmail : ["Sorry, we don't recognise your email address. Please try again, using this format: hello@example.com"],
+                invalidPassword : ["Sorry, your email address and password don't match. Please check and try again."],
+                emailEmpty: ["Please tell us your email address."],
+                emailInvalid: ["Please provide your email address, using this format: hello@example.com"],
+                 emailExists:["Thanks, but you have already subscribed."],
+                 minAgeError:["Sorry, the date of birth provided is below the minimum age required. "],
     
                 carRentalSearchFail : "The car search failed, please try again",
     
-                hireLocationRequired : ["Please choose your pick-up location."],
-                returnLocationRequired : ["Please choose your return location."],
-                AWDValidate: ["Sorry, we don’t recognise your Avis Worldwide Discount (AWD) number. Please try again."],
+                hireLocationRequired : ["Please choose your pick-up location. (E0003)"],
+                returnLocationRequired : ["Please choose your return location. (E0004)"],
+                AWDValidate: ["Sorry, we don’t recognise your Avis Worldwide Discount (AWD) number. Please check and try again."],
     
                 locationClosedDay : ["This location isn't open on the day you've chosen.", "Select another day"],
                 locationClosedTime : ["Sorry, we won't be here. Please choose another time.  "],
@@ -111,18 +111,21 @@
                 not24hrsupoort:["Sorry, we won't be here when you return. Please choose another time or location."],
                 support24hr:["Sorry we won't be here, but you can still return your vehicle by leaving your keys in our secure box."],
                 dropoffLocationClosedDay:["Sorry, we won't be here when you return. Please choose another day or location. "],
-                tableMessage : "No Rentals are Available.",
+                tableMessage : "Sorry, we don't have any available cars for your journey. Please choose another location or date, or call 0808 284 0013.",
 				billingDetails: {
 					companyName : ["Sorry, we don’t recognise that company. Please try again, using letters, numbers and spaces only."],
 					address : ["Sorry, we don't recognise that address. Please try again, using letters, numbers, spaces and the characters - # . , ; : ' ° &()/only."],
-					city : ["Sorry, we don’t recognise that location. Please try again, using A-Z, a-z, 1-9, spaces and the characters - , . ; ' & / . ( ) only"],
+					city : ["Sorry, we don’t recognise that location. Please try again, using A-Z, a-z, 1-9, spaces and the characters - , . ; ' & / . ( ) only."],
 					postCode : ["Sorry, we don’t recognise that postcode. Please try again, using letters, numbers and spaces only."],
-					county : ["Sorry, we don’t recognise that county. Please try again, using letters, numbers and spaces only."]
+					county : ["Sorry, we don’t recognise that county. Please try again, using letters, numbers and spaces only."],
+					clendarMsg :["Please Click on <a href='/drive-avis/car-hire-services/long-term-car-hire'>Avis flex </a> to book more than <span> 365</span> day(s)"]
+        
 				},
 				billingDetailsMandate:{        
 					address : ["Please tell us the first line of your address"],
-					city : ["Please provide your town or city"],
+					city : ["Please provide your town or city."],
 					postCode : ["Please tell us your postcode. If your address doesn't have one, please write XXX-XXX in the postcode field."]
+					
 				}
             },
     
@@ -135,7 +138,7 @@
                 mapPageMobile :  '/proximity-map.html?device=mobile', // Replace with production mobile map view page url
                 billingLocationSearch : '/JsonProviderServlet/?requestType=addr-search', //used for payment lookahead
                 deliveryLocationSearch : '/.resources/htmlTemplates/stubs/m_d_30_extras-delivery-location-search.json', //used for delivery postcode/address lookahead
-				termsAndCondUrl:'http://10.120.16.16:8080/digital-services-2.0/termsandconditions/avis/',
+				termsAndCondUrl:'http://digitalservices.avis:8080/digital-services-2.1/termsandconditions/avis/',
                 termsAndConddomain:'avis.co.uk',
 				youngDriverSurcharge : '/JsonProviderServlet/?requestType=youngDriverSurcharge',
 				newsletterSignup: '/JsonProviderServlet/?requestType=newsletter',
@@ -150,10 +153,10 @@
             map : {
                 credentials : 'Ajw7IfaSsJGGljeccmtYvvBTgb6_uEk3QqBr7XMZ8qwxcImKMPB9yZziOj1Gvo-0', // Replace with the genuine AVIS key, as this key is trial only which expries on 11/17/2013
                 defaults : { // Tailor these details per region as commented out below
-                    language : 'en-GB',
-                    latitude : 54.524270,
-                    longitude : -4.130859,
-                    zoom: 5
+                  // language : 'en-GB',
+                  //  latitude : 54.524270,
+                  //   longitude : -4.130859,
+                  //   zoom: 5
     
                     // GERMANY
                     // language : 'de-DE',
@@ -162,11 +165,18 @@
                     // zoom: 6
     
                     // SPAIN
-                    // language : 'es-ES',
-                    // latitude : 40.294349,
-                    // longitude : -3.847656,
-                    // zoom: 6
-    
+                     language : 'en-GB',
+                     latitude : 54.524270,
+                     longitude : -4.130859,
+                     zoom: 5
+                       
+                  // language : 'es-ES',
+                           // latitude : 40.294349,
+                       //longitude : -3.847656,
+                       //zoom: 6  
+                       
+                       
+                       
                     // FRANCE
                     // language : 'fr-FR',
                     // latitude : 46.511768,
@@ -205,6 +215,8 @@
             },
     
             userSession : {
+				sessionTime : 20, //mins
+				sessionBufferTime : 5, //mins
 				rentalDays : 2
             },
     
@@ -212,9 +224,9 @@
     
                 startDayOffset : 0, // from today
     
-                defaultDayRange : 2, // from start day
-    
-                maxRentalPeriod : 28,
+                defaultDayRange : 2,
+				
+               maxRentalPeriod : 365,
     
                 mobileMonths : 1,
     
@@ -236,6 +248,7 @@
     
                 ,isMobile :  false,
 				searchIp : false,
+				keyUpDelay : 400,
                   dayRental : "Day Rental",
                     dayRentals :"days rental",
 					mapScrollPickup : true,
@@ -254,7 +267,7 @@
 
 
 
-  
+ 
     <script type="text/javascript" langage="javascript">
       var utag_data = {
                   bookingCountry : "UK",
@@ -262,8 +275,9 @@
                   language : "en",
                   brandAndCountry : "avis|uk",
                   pageName : "about-avis:privacy-policy",
-                  server : "endp01dwb02",
+                  server : "endp01dwb04",
                   pageType : "Avis_Flexible_Content",
+                  ipAddress : "10.120.250.1",
                   brands : []
          }
     </script>
@@ -434,6 +448,21 @@
     <li cms:edit="" class="hero">
   
 
+<a href="/car-hire-offers">
+ 
+ 
+  <span class="helper">
+      All Car Hire Offers
+     <i data-icon="" aria-hidden="true"></i>
+   </span>
+   <span class="hero-img">
+   <img alt="Save on Avis car hire from one of thousands of locations around the world." src="/dms/avis/top-nav/offers/all-offers-rcz-top-nav.jpg" class="responsive-image" data-small="/dms/avis/top-nav/offers/all-offers-rcz-top-nav.jpg" data-small-retina="/dms/avis/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large="/dms/avis/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large-retina="/dms/avis/top-nav/offers/all-offers-rcz-top-nav.jpg">
+    </span>
+
+</a></li>
+<li cms:edit="" class="hero">
+  
+
 <a href="/car-hire-offers/uk-offers">
  
  
@@ -476,21 +505,6 @@
     </span>
 
 </a></li>
-<li cms:edit="" class="hero">
-  
-
-<a href="/car-hire-offers/partners">
- 
- 
-  <span class="helper">
-      Avis Partners
-     <i data-icon="" aria-hidden="true"></i>
-   </span>
-   <span class="hero-img">
-   <img alt="Car Hire with Avis. Save up to 15% on car hire from one of thousands of locations around the world." src="/dms/avis/top-nav/offers/partners-top-nav.jpg" class="responsive-image" data-small="/dms/avis/top-nav/offers/partners-top-nav.jpg" data-small-retina="/dms/avis/top-nav/offers/partners-top-nav.jpg" data-large="/dms/avis/top-nav/offers/partners-top-nav.jpg" data-large-retina="/dms/avis/top-nav/offers/partners-top-nav.jpg">
-    </span>
-
-</a></li>
 </ul> </div>
 </li>
 <li cms:edit="">
@@ -500,11 +514,11 @@
     <li cms:edit="" class="hero">
   
 
-<a href="/drive-avis">
+<a href="/drive-avis/car-hire-locations">
  
  
   <span class="helper">
-      Drive Avis
+      Car hire locations
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
@@ -513,12 +527,12 @@
 
 </a></li>
 <li cms:edit="">
-<a href="/drive-avis/fleet">
-  Avis fleet <i data-icon="" aria-hidden="true"></i>                 
+<a href="/drive-avis">
+  Drive Avis <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/drive-avis/car-hire-locations">
-  Car hire locations <i data-icon="" aria-hidden="true"></i>                 
+<a href="/drive-avis/fleet">
+  Avis fleet <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/drive-avis/car-hire-services">
@@ -526,15 +540,7 @@
 </a>
 </li><li cms:edit="">
 <a href="/drive-avis/car-hire-extras">
-  Car hire extras <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li cms:edit="">
-<a href="/drive-avis/driving-guides">
-  Driving guides <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li cms:edit="">
-<a href="/drive-avis/avis-mobile-apps">
-  Avis mobile app <i data-icon="" aria-hidden="true"></i>                 
+  Car hire extras and fuel <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/drive-avis/car-hire-services/avis-delivers">
@@ -543,6 +549,14 @@
 </li><li cms:edit="">
 <a href="/drive-avis/car-hire-services/additional-cover">
   Additional cover <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/drive-avis/driving-guides">
+  Driving guides <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/drive-avis/avis-mobile-apps">
+  Avis mobile app <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/your-avis/avis-loyalty">
@@ -582,8 +596,24 @@
   Travel management companies <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
+<a href="/business-rentals/long-term-car-hire-for-businesses">
+  Long term business car hire <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
 <a href="/business-rentals/quotes-booking">
   Book business car hire <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/about-avis/environment-csr">
+  Corporate Social Responsibility <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/your-avis/manage-booking/request-rental-invoice">
+  Request rental invoice <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/business-rentals/request-a-call-back">
+  Request a call back <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li></ul> </div>
 </li>
@@ -606,7 +636,7 @@
   </div>
 
   <div class="narrow-vp-hide">
-    <p>Log in to manage your booking. Haven't got an account yet? It's easy to create one, just use the link below:</p>
+    <p>Log in to Avis Preferred below, manage an existing booking using the link on the left, or call our Customer Services team on 0808 284 6666, this is Your Avis.</p>
   </div>
   
   
@@ -705,6 +735,7 @@
 		<div class="wrapper">
 			<div id="contentWrapper">
 <div id="content">
+	<span class="is-visually-hidden">Welcome to Avis</span>
 	<!-- Begin Desktop Inspiration Module -->
 
 
@@ -712,7 +743,7 @@
 
 <div class="row full">
   <div class="inspiration-container">   
-    <span class="responsive-background" data-small="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" data-small-retina="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" data-medium="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" data-medium-retina="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" data-large="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" data-large-retina="/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png" style="background-image: url(&quot;/dms/avis/inspirational-banner/generic/red-merc-redbg-1600x355highcar/red-merc-redbg-1600x355.png&quot;);">
+    <span class="responsive-background" data-small="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" data-small-retina="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" data-medium="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" data-medium-retina="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" data-large="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" data-large-retina="/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg" style="background-image: url(&quot;/dms/avis/inspirational-banner/locations/Red-Merc-RedBG-1600x355/red-merc-redbg-1600x355highcar.jpg&quot;);">
     </span>
     <div class="inspiration-main-content">
       <h1>Avis Privacy Policy</h1>
@@ -721,7 +752,8 @@
 <div class="tertiary-bar">
   
   
-  <nav class="extras-accordion tertiary-navigation-accordion">   
+  <nav class="extras-accordion tertiary-navigation-accordion"> 
+    
 <h2 class="extras-accordion-header">
   <a href="#" class="accordion-trigger">
     About Avis
@@ -738,37 +770,49 @@
  
     
 
-<li><a href="/about-avis">About Avis<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li><a href="/about-avis">About Avis<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
  
     
 
-<li><a href="/about-avis/awards">Awards<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li><a href="/about-avis/awards">Awards<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
  
     
 
-<li><a href="/about-avis/booking-conditions">Booking Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li><a href="/about-avis/environment-csr">Corporate Social Responsibility<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
  
     
 
-<li><a href="/about-avis/website-conditions">Website Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li><a href="/about-avis/booking-conditions">Booking Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
  
     
 
-<li><a href="/about-avis/privacy-policy">Privacy policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li><a href="/about-avis/website-conditions">Website Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
  
     
 
-<li><a href="/about-avis/cookie-policy">Cookie Policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>    
+   <li style="display: none;"><a href="/about-avis/privacy-policy">Privacy policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
+    
+ 
+    
+
+   <li style="display: none;"><a href="/about-avis/cookie-policy">Cookie Policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
+    
     
     <li>
-      <div id="more" style="display: none;">
+      <div id="more" style="display: block;">
         <a href="#">More <i id="tertiary_nav_arrow" data-icon="" data-icon-active="" aria-hidden="true"></i></a>
-        <ul id="moreLinks"><li style="display: none;"><a href="/about-avis">About Avis<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/awards">Awards<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/booking-conditions">Booking Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/website-conditions">Website Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/privacy-policy">Privacy policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/cookie-policy">Cookie Policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li></ul>
+        <ul id="moreLinks"><li style="display: none;"><a href="/about-avis">About Avis<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/awards">Awards<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/environment-csr">Corporate Social Responsibility<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/booking-conditions">Booking Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li style="display: none;"><a href="/about-avis/website-conditions">Website Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li><a href="/about-avis/privacy-policy">Privacy policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li><li><a href="/about-avis/cookie-policy">Cookie Policy<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li></ul>
       </div>
     </li>
   </ul>
@@ -797,7 +841,7 @@
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
       <h2>Avis UK Privacy Policy</h2>
-    <p> &nbsp;</p>
+    <span class="changeFontSize"> &nbsp;</span>
   </div>
 </div>
    </div>  
@@ -806,7 +850,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>Controller of information</strong><br> <br> Any personal information provided to or gathered by this website is controlled primarily by Avis Budget EMEA Ltd, whose registered office is at Avis House, Park Road, Bracknell RG12 2EW, United Kingdom.</p>
+    <span class="changeFontSize"> <strong>Controller of information</strong><br> <br> Any personal information provided to or gathered by this website is controlled primarily by Avis Budget EMEA Ltd, whose registered office is at Avis House, Park Road, Bracknell RG12 2EW, United Kingdom.</span>
   </div>
 </div>
    </div>  
@@ -815,7 +859,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>What data does Avis collect?<br> <br> </strong><strong>Booking Information:</strong> When booking car rental services we ask for your name, postal address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of any quotes obtained or bookings made. If you pay for your rental at the time of booking you will be asked to enter your payment card type, number and expiration date to enable us to take your payment.<br> <br> <strong>Online Account:</strong>&nbsp;When you make a booking, we will give you the opportunity to create an online account. If you accept we will store the personal details you provide in our customer database. This will enable you to make future bookings more rapidly.  Deletion of your online account will not delete the personal data that we hold on file.  You are able to view and correct the personal data we hold at any time, see the Accessing and updating information section on how to do so.<br> <br> <strong>Avis Preferred:</strong> If you join our Avis Preferred service we will create an online account for you. Your account will include all the information you enter into the Avis Preferred Membership Form.<br> <br> <strong>Wizard Card Holders:</strong> If you are a Wizard card holder we link your membership number to the information we keep in our main customer database in order to speed up your booking process. <br> History of Transactions: We will maintain electronic records of all rental agreements and other transactions you enter into with Avis.<br> <br> <strong>IP address:</strong> We collect your IP address when you visit our site. This only identifies your ISP (Internet Service Provider) and does not contain any information about you as an individual. We use this information to help us understand more about where our site traffic originates. <br> <br> <strong>Cookies:</strong> Our website uses "cookie" technology. "Cookies" are encrypted strings of text that a website stores on a user's computer. Cookies enable us to customise our website and offerings to your needs and provide you with a better online experience. In addition, cookies are used to measure usage of various pages on our website to help us make our information more pertinent to your needs and easy for you to access. The types of cookies that we use are referred to as "session" cookies and "persistent" cookies.<br> <br> Session cookies are temporary and are automatically deleted once you leave our website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other sites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with our website. Cookies do not corrupt or damage your computer, programs, or computer files.</p>
+    <span class="changeFontSize"> <strong>What data does Avis collect?<br> <br> </strong><strong>Booking Information:</strong> When booking car rental services we ask for your name, postal address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of any quotes obtained or bookings made. If you pay for your rental at the time of booking you will be asked to enter your payment card type, number and expiration date to enable us to take your payment.<br> <br> <strong>Online Account:</strong>&nbsp;When you make a booking, we will give you the opportunity to create an online account. If you accept we will store the personal details you provide in our customer database. This will enable you to make future bookings more rapidly.  Deletion of your online account will not delete the personal data that we hold on file.  You are able to view and correct the personal data we hold at any time, see the Accessing and updating information section on how to do so.<br> <br> <strong>Avis Preferred:</strong> If you join our Avis Preferred service we will create an online account for you. Your account will include all the information you enter into the Avis Preferred Membership Form.<br> <br> <strong>Wizard Card Holders:</strong> If you are a Wizard card holder we link your membership number to the information we keep in our main customer database in order to speed up your booking process. <br> History of Transactions: We will maintain electronic records of all rental agreements and other transactions you enter into with Avis.<br> <br> <strong>IP address:</strong> We collect your IP address when you visit our site. This only identifies your ISP (Internet Service Provider) and does not contain any information about you as an individual. We use this information to help us understand more about where our site traffic originates. <br> <br> <strong>Cookies:</strong> Our website uses "cookie" technology. "Cookies" are encrypted strings of text that a website stores on a user's computer. Cookies enable us to customise our website and offerings to your needs and provide you with a better online experience. In addition, cookies are used to measure usage of various pages on our website to help us make our information more pertinent to your needs and easy for you to access. The types of cookies that we use are referred to as "session" cookies and "persistent" cookies.<br> <br> Session cookies are temporary and are automatically deleted once you leave our website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other sites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with our website. Cookies do not corrupt or damage your computer, programs, or computer files.</span>
   </div>
 </div>
    </div>  
@@ -824,7 +868,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>How does Avis use your data?<br> </strong><br> <strong>Sharing Information</strong><br> Avis will never release your personal details to any company that is not a member of the Avis Budget UK for marketing purposes. <br> <br> As we are part of an international group operating the Avis Budget UK , we will from time to time share with other companies operating the Avis Budget UK (located inside and outside Europe) information relating to our car rental service operations, which may include your personal information. Unless you have given us your consent your personal information will not be used for any other purpose.<br> <br> <strong>Avis online competitions</strong><br> If you enter any competitions we offer on our site, we will ask you to enter certain personal information so we can notify you if necessary. Exact terms and conditions and rules of each competition will be posted at the time and may vary. If a prize is offered through a third party we may need to disclose information to the relevant third party in order to facilitate the distribution of any prizes.<br> <strong><br> Avis online surveys</strong><br> When you participate in any online surveys you may be asked to supply certain personal information, for example age or income. Provision of all or any of the requested information is voluntary. Survey results will only be used to improve the Avis car hire experience for our customers and not for any other purpose. &nbsp;</p>
+    <span class="changeFontSize"> <strong>How does Avis use your data?<br> </strong><br> <strong>Sharing Information</strong><br> Avis will never release your personal details to any company that is not a member of the Avis Budget UK for marketing purposes. <br> <br> As we are part of an international group operating the Avis Budget UK , we will from time to time share with other companies operating the Avis Budget UK (located inside and outside Europe) information relating to our car rental service operations, which may include your personal information. Unless you have given us your consent your personal information will not be used for any other purpose.<br> <br> <strong>Avis online competitions</strong><br> If you enter any competitions we offer on our site, we will ask you to enter certain personal information so we can notify you if necessary. Exact terms and conditions and rules of each competition will be posted at the time and may vary. If a prize is offered through a third party we may need to disclose information to the relevant third party in order to facilitate the distribution of any prizes.<br> <strong><br> Avis online surveys</strong><br> When you participate in any online surveys you may be asked to supply certain personal information, for example age or income. Provision of all or any of the requested information is voluntary. Survey results will only be used to improve the Avis car hire experience for our customers and not for any other purpose. &nbsp;</span>
   </div>
 </div>
    </div>  
@@ -833,7 +877,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>How does Avis protect your data?</strong><br> <br> Secure Socket Layer (SSL) encryption technology is used to protect personal information such as credit card details when making a booking.<br> <br> Any personal information that we hold as part of your customer profile will be held in a database with physical and technological security controls and procedures in place.<br> <br> Only the last 4 digits of your credit card number will be displayed when viewing, amending or deleting your credit card details or on any booking on our website.  &nbsp;</p>
+    <span class="changeFontSize"> <strong>How does Avis protect your data?</strong><br> <br> Secure Socket Layer (SSL) encryption technology is used to protect personal information such as credit card details when making a booking.<br> <br> Any personal information that we hold as part of your customer profile will be held in a database with physical and technological security controls and procedures in place.<br> <br> Only the last 4 digits of your credit card number will be displayed when viewing, amending or deleting your credit card details or on any booking on our website.  &nbsp;</span>
   </div>
 </div>
    </div>  
@@ -842,7 +886,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>Our commitment to data security</strong><br> <br> The security of your personal information is important to us. When you enter sensitive information (such as your payment card number) during any registration or booking process, we encrypt that information using secure socket layer technology (SSL).<br> <br> We follow generally accepted industry standards to protect the personally identifiable information and personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.<br> <br> With this in mind we would ask you not to enter any payment card number into fields on our websites, unless that the field is specifically marked for that purpose. &nbsp;</p>
+    <span class="changeFontSize"> <strong>Our commitment to data security</strong><br> <br> The security of your personal information is important to us. When you enter sensitive information (such as your payment card number) during any registration or booking process, we encrypt that information using secure socket layer technology (SSL).<br> <br> We follow generally accepted industry standards to protect the personally identifiable information and personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.<br> <br> With this in mind we would ask you not to enter any payment card number into fields on our websites, unless that the field is specifically marked for that purpose. &nbsp;</span>
   </div>
 </div>
    </div>  
@@ -851,7 +895,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>Accessing and updating information</strong><br> <br> You are welcome to see the information held about you at any time and to make the necessary amendments to keep the information up to date.<br> <br> To view your personal information please contact ukmarketing@avis.co.uk quoting your name and address and either your drivers licence number or date of birth (for verification).&nbsp;</p>
+    <span class="changeFontSize"> <strong>Accessing and updating information</strong><br> <br> You are welcome to see the information held about you at any time and to make the necessary amendments to keep the information up to date.<br> <br> To view your personal information please contact ukmarketing@avis.co.uk quoting your name and address and either your drivers licence number or date of birth (for verification).&nbsp;</span>
   </div>
 </div>
    </div>  
@@ -860,7 +904,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>Subscribing to our email newsletter<br> </strong><br> Our email newsletter provides subscribers with the latest information on prices, offers, products, services and competitions. We will only send our newsletter to users who have agreed to receive it.<br> <br> When you agree to receive our newsletter we will ask for a minimum of your email address. Over time we may ask for additional personal information about you. Providing this information is voluntary and will be used to customise the content of your newsletter so it is relevant to you. <br> <br> You can unsubscribe at any time and will be given the option to do so from each newsletter we send you, or by using the <strong>unsubscribe form</strong> on our website.     &nbsp;</p>
+    <span class="changeFontSize"> <strong>Subscribing to our email newsletter<br> </strong><br> Our email newsletter provides subscribers with the latest information on prices, offers, products, services and competitions. We will only send our newsletter to users who have agreed to receive it.<br> <br> When you agree to receive our newsletter we will ask for a minimum of your email address. Over time we may ask for additional personal information about you. Providing this information is voluntary and will be used to customise the content of your newsletter so it is relevant to you. <br> <br> You can unsubscribe at any time and will be given the option to do so from each newsletter we send you, or by using the <strong>unsubscribe form</strong> on our website.     &nbsp;</span>
   </div>
 </div>
    </div>  
@@ -869,7 +913,7 @@
   <div class="content-51b">
 <div class="content-51b-list  ">
   <div class="spotlight-feature-text">
-    <p> <strong>Changes to this policy</strong><br> <br> Any changes to this privacy policy will always be posted to this page of our website.<br> <br> Cookie Policy PageThe Avis website uses cookies. A cookie is a small text file that is stored by your browser, and allows it to remember information between web pages and browser sessions. Avis uses a number of “first party” cookies - generated and used by the Avis website – and some “third party” cookies – generated on our site by third parties.  They enable us to remember each part of your reservation as you go through the site, remember your customer details and display appropriate content based on your selected options and journey.  They also help us to understand user behaviour within our site, which means we can make the experience better for you.<br> <br> Cookies can only store text, which is always anonymous and usually encrypted.  Avis will never store any personal information in a cookie.&nbsp;<br> <br> <a href="/about-avis/cookie-policy.html">Find out more about the New Cookie Policy</a>.<br> <br> Search for your nearest&nbsp;<a href="/drive-avis/car-hire-locations.html">car hire station</a>.<br type="_moz"> <br type="_moz"></p>
+    <span class="changeFontSize"> <strong>Changes to this policy</strong><br> <br> Any changes to this privacy policy will always be posted to this page of our website.<br> <br> Cookie Policy PageThe Avis website uses cookies. A cookie is a small text file that is stored by your browser, and allows it to remember information between web pages and browser sessions. Avis uses a number of “first party” cookies - generated and used by the Avis website – and some “third party” cookies – generated on our site by third parties.  They enable us to remember each part of your reservation as you go through the site, remember your customer details and display appropriate content based on your selected options and journey.  They also help us to understand user behaviour within our site, which means we can make the experience better for you.<br> <br> Cookies can only store text, which is always anonymous and usually encrypted.  Avis will never store any personal information in a cookie.&nbsp;<br> <br> <a href="/about-avis/cookie-policy.html">Find out more about the New Cookie Policy</a>.<br> <br> Search for your nearest&nbsp;<a href="/drive-avis/car-hire-locations.html">car hire station</a>.<br type="_moz"> <br type="_moz"></span>
   </div>
 </div>
    </div>  
@@ -933,24 +977,24 @@
     <div id="more-avis-links">
     <ul>
     <li cms:edit="">
-<a href="/about-avis">
-  About Avis <i data-icon="" aria-hidden="true"></i>                 
+<a href="/contact-us">
+  Contact us <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/careers-at-avis">
-  Careers <i data-icon="" aria-hidden="true"></i>                 
+<a href="/avis-affiliate-programme">
+  Affiliate programme <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/about-avis/cookie-policy">
   Cookie policy <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a target="_blank" href="http://www.avis.co.uk/blog">
-  Blog <i data-icon="" aria-hidden="true"></i>                 
+<a href="/contact-us/customer-services">
+  Customer services <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/contact-us">
-  Contact us <i data-icon="" aria-hidden="true"></i>                 
+<a target="_blank" href="http://careers.avisbudgetgroup.eu">
+  Careers <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/about-avis/privacy-policy">
@@ -961,24 +1005,28 @@
   Press Area <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/avis-affiliate-programme">
-  Affiliate programme <i data-icon="" aria-hidden="true"></i>                 
+<a href="/about-avis">
+  About Avis <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/about-avis/booking-conditions">
-  Booking conditions <i data-icon="" aria-hidden="true"></i>                 
+<a href="/about-avis/website-conditions">
+  Website conditions <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
 <a href="/your-avis/manage-booking">
   Manage booking <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/site-map">
-  Site map <i data-icon="" aria-hidden="true"></i>                 
+<a target="_blank" href="http://www.avis.co.uk/blog">
+  Blog <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li cms:edit="">
-<a href="/about-avis/website-conditions">
-  Website conditions <i data-icon="" aria-hidden="true"></i>                 
+<a href="/about-avis/booking-conditions">
+  Booking conditions <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li cms:edit="">
+<a href="/site-map">
+  Site map <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li>   </ul>
   </div>
@@ -1272,8 +1320,48 @@
 </script>			</div>
 		</div>
 	</div>
+<div class="loader-bck"></div>
+<div class="loaderOverlay">
+  <span></span>
+</div>
 
-
+<div id="timer-overlay"></div> <!-- Timer Overlay div -->
+<div class="review-and-pay">
+<!-- Timer will expire in <n> min Container --> 
+    <div class="expirePopUp" id="expire">
+        <div class="expire-header clearfix">
+            <span class="expire-text">YOUR SESSION IS SET TO EXPIRE</span>
+            <div class="img" data-value="continue">
+                <img src="/resources/templating-kit/themes/avis-digital/img/close.png" alt="Close Session set to Exipre" title="Close" width="100%" height="100%">
+            </div>
+        </div>
+        <div class="expire-body clearfix">
+		  <p class="expire-text">We think you may have left us. This page will expire in 
+		  <span class="red">5 </span>minutes.</p>
+          <p class="expire-text">If you'd like to continue, rather than starting afresh, please hit the button below.</p>
+			<button class="button-primary" data-value="continue" type="button" value="continue ">
+				continue <i data-icon=""></i>
+			</button>
+	</div>
+    </div>
+	
+	<!-- Timer expired -->
+    <div class="expirePopUp" id="expired">
+        <div class="expire-header clearfix">
+            <span class="expire-text">Your session has expired</span>
+            <div class="img" data-value="home">
+                 <img src="/resources/templating-kit/themes/avis-digital/img/close.png" alt="Close Session set to Exipre" title="Close" width="100%" height="100%">
+            </div>
+        </div>
+        <div class="expire-body clearfix">
+           <p class="expire-text">Sorry, but after a period of inactivity your session timed out.</p>
+              <p class="expire-text">Please hit the button below to return to our homepage.</p>
+			<button class="button-primary" data-value="home" type="button" value="home">
+				home <i data-icon=""></i>
+			</button>
+		</div>
+    </div>
+	</div>
      <script src="/resources/templating-kit/themes/avis-digital/js/app.js" type="text/javascript"></script>
   
 <div id="primary-nav-overlay"></div></body></html>
