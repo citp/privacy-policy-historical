@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052918id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111004613id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
 
 # BackLinks.com: Privacy Policy
 
@@ -79,10 +79,10 @@ info@nextnetmedia.com
   
 
 
-Generate revenue from your web site by selling simple text link ads. Our powerful control panel allows you to manage all text link sales. We have thousands of advertisers interested in buying text links on your web pages.
+通過出售簡單的文本連結廣告從您的網站上獲得收入。我們強大的控制台允許您管理所有的文本連結銷售情況。我們有上千個廣告商對購買您網頁上的文本連結感興趣。
 
-  * Make money selling text link ads
-  * Generate revenue from each of your web pages
-  * You control the placement of the text links
+  * 通過出售連結文本廣告賺錢
+  * 從您的每一個網頁中獲得收入
+  * 由您控制文本連結的位置
 
 
