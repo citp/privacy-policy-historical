@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511103939id_/http%3A//www.uvi.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110160411id_/http%3A//www.uvi.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UVI
 
@@ -19,8 +19,6 @@ UVI Sounds & Software
 159 rue Amelot   
 75011 Paris   
 France 
-
-[info@uvi.net](mailto:info@uvi.net?subject=UVI%20Privacy%20Policy%20Request "Contact UVI Privacy")
 
 3\. Use And Collection Of Data
 
