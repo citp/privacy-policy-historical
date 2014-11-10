@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meaningfulbeauty.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328070827id_/http%3A//www.meaningfulbeauty.com/privacy-new/privacy-new%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meaningfulbeauty.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110110456id_/http%3A//www.meaningfulbeauty.com/privacy-new/privacy-new%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy - Meaningful Beauty®
+# Privacy | Meaningful Beauty®
 
 This Privacy Policy is effective as of January 30, 2014.
 
@@ -22,7 +22,7 @@ The Company and its affiliates and subsidiaries may use the information that you
 
 We want to communicate with you via email correspondence only if you want to hear from us. If for any reason you would no longer like to receive email messages from the Company, you can [click here](https://www.guthy-renker-store.com/optout/optout-comit.php?name=&email=&prdln=GR&src=privacy&cid=) to remove yourself. In addition, if you do not want us to share your personal information with third party organizations, you can email us at [unsubscribe@guthy-renker.com](mailto:unsubscribe@guthy-renker.com) to remove yourself. Please allow up to 10 days for us to process your request.
 
-Please note, if you opt not to receive marketing emails from the Company, you may still receive "Transactional" email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.) If you have questions or concerns regarding this statement, please contact us at [privacy@guthy-renker.com](https://web.archive.org/web/20140328070827id_/http%3A//www.meaningfulbeauty.com/privacy-new/privacy@guthy-renker.com).
+Please note, if you opt not to receive marketing emails from the Company, you may still receive "Transactional" email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.) If you have questions or concerns regarding this statement, please contact us at [privacy@guthy-renker.com](https://web.archive.org/web/20141110110456id_/http%3A//www.meaningfulbeauty.com/privacy-new/privacy@guthy-renker.com).
 
 We may contract with companies or individuals to provide certain services including email and hosting services, credit card processing, shipping, data management, surveys and marketing, promotional services, to assist in preventing or deterring fraud, etc. We call them our Service Providers. We may share personally identifiable information with Service Providers solely as appropriate for them to perform their functions, but they may not use such information for any other purpose.
 
