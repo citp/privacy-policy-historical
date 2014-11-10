@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513005455id_/http%3A//www.mbs.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110200126id_/http%3A//mbs.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
