@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happygag.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071641id_/http%3A//happygag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happygag.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110033938id_/http%3A//happygag.com/privacy.php) for the most accurate reproduction.*
 
 # Happygag - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, Happygag, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
