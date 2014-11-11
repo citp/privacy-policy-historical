@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064836id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111080938id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Zen Cart, Zen Cart Templates, Responsive Ecommerce Design
 
@@ -52,6 +52,6 @@ Cookies are pieces of information that your browser stores on your computer's ha
 
 ### Your Feedback is Always Welcome
 
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us [click here](http://www.picaflor-azul.com/index.php?main_page=contact_us). 
+We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us [click here](https://www.picaflor-azul.com/index.php?main_page=contact_us). 
 
 You can reach us via email at info@picaflor-azul.com. 
