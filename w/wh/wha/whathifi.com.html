@@ -1,661 +1,293 @@
-<!--The following is the downloaded HTML source of the whathifi.com privacy policy that was archived on 2014-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328055608id_/http%3A//www.whathifi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whathifi.com privacy policy that was archived on 2014-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111071353id_/http%3A//www.whathifi.com/haymarket-media-group-privacy-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHU1BACQcAVFRbBQ=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="1. Introduction Your personal information is being processed by Haymarket  Media Group ('Haymarket'). For a full list of our brands and business divisions  please visit our web site.  Haymarket respects your privacy and is committed to protecting your personal  information.">
-<script type="text/javascript" src="https://tealium.hs.llnwd.net/o43/utag/haymarket/whathifi-legacy/prod/utag.js"></script>
-<meta property="og:title" content="Haymarket Privacy Policy">
-<meta property="og:description" content=" 1. Introduction
-Your personal information is being processed by Haymarket  Media Group ('Haymarket'). For a full list of our brands and business divisions  please visit our web site.  Haymarket respe">
-<meta property="og:url" content="http://www.whathifi.com/privacy-policy">
-<meta property="og:site_name" content="whathifi.com">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com News RSS Feed" href="/rss/news">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com News and Reviews combined RSS Feed" href="/rss/news-reviews">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com Videos RSS Feed" href="/rss/videos">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com Reviews RSS Feed" href="/rss/reviews">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com Competitions RSS Feed" href="/rss/competitions">
-<link rel="alternate" type="application/rss+xml" title="whathifi.com Blogs RSS Feed" href="/rss/blogs">
-<link rel="shortcut icon" href="http://cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:700,400,300">
-<link rel="canonical" href="http://www.whathifi.com/privacy-policy">		<title>Haymarket Privacy Policy | whathifi.com</title>
-    <link type="text/css" rel="stylesheet" media="all" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_992d323ca4afa975ad2c51c551ec960a.css">
-<link type="text/css" rel="stylesheet" media="screen,projection" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_35fbc00ef976e79db108a11897001a84.css">
-       <script type="text/javascript" src="http://cdn.code.haymarket.com/injector/deliver/WhatHiFi.haymarket.haymarketanalytics_js.ashx"></script>
-<script type="text/javascript">
-    try {var tracker = new HaymarketAnalytics();} catch (e) {}
-</script>
+<!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+<link rel="shortcut icon" href="http://images.cdn.whathifi.com/sites/whathifi.com/files/favicon-01_0.jpg" type="image/jpeg">
+<link rel="dns-prefetch" href="//cdn.whathifi.com">
+<script type="text/javascript">var locale_redirector_settings = {"current":"en","default":"en"};</script><script id="redirect" src="/sites/all/modules/custom/locale_redirector/js/doRedirect.js"></script><link rel="dns-prefetch" href="//css.cdn.whathifi.com">
+<link rel="dns-prefetch" href="//images.cdn.whathifi.com">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta name="description" content="1. Introduction">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://www.whathifi.com/haymarket-media-group-privacy-notice">
+<link rel="shortlink" href="http://www.whathifi.com/node/113967">
+  <title>Haymarket Media Group Privacy Notice | What Hi-Fi?</title>
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="cleartype" content="on">
 
-<script type="text/javascript">
-                    //<![CDATA[
-                     try {
-                            tracker.setSystemMetrics({ server:'10.177.69.79' });
-                            tracker.setContentMetrics({ title:'Haymarket Privacy Policy | What Hi-fi' });
-                            tracker.setNavigationMetrics({ site:'whathifi', section:'Home', hierarchy:['Home',  'privacy'] });
-                            
-                            
-                            tracker.render();
-                            } catch(e) { }
-                             //]]>
-                            </script>
-                            <!-- noscript tag -->
-                            <noscript>
-                    <img src="http://cdn.code.haymarket.com/injector/deliver/WhatHiFi.haymarket.sitestatNoscript_img.ashx?s=Home.privacy."width="1" height="1" alt="" />
-                            </noscript>
-<script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_9f161044ea8aef2742cbf028cd572a3c.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/whathifi.com\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false}});
-//--><!]]>
-</script>
-  <!--[if lt IE 7]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/whathifi.com/themes/blueprint/whathifi_v2/fix-ie.css" />  <![endif]-->
-  <!--[if IE 7]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/whathifi.com/themes/blueprint/whathifi_v2/fix-ie7.css" />  <![endif]-->
-  <!--[if IE 8]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/whathifi.com/themes/blueprint/whathifi_v2/fix-ie8.css" />  <![endif]-->
-<script type="text/javascript">
-$(window).load(function(){
-  $('a.skinWrapperLink').insertBefore('#page-wrapper');
-});
-</script>
-<style type="text/css">
-body.admin-menu #page-wrapper {
-	padding-top: 20px;
-}
-#footer, #header {
-	position: relative;
-	z-index: 1;
-}
-#header {
+  <link type="text/css" rel="stylesheet" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_t_hw5ByxYOOjDXR7uEuVt3JTeyuvyi4Da9bbEfpsI4U.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_YU1dFlpBKBZW9MlRKhYI6QDjLSFSK7wXlCvvacs0yr0.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_Q9A-ImtrNPuvfQwVY5Zgg0sPNsTrQrohe7u3Dxzwk70.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_r1DrJNnIT3MnS-AokXaqzCxZoi7I2vaUMTEM2AohiCQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_FjIt-2mMcNw-3VqHbHDUIreFX6mU5thpus2dm8cViSU.css" media="all">
 
-}
-.skinWrapperLink {
-	z-index: 0;
-}
-#header .leaderBoardWrapper {
-	top: -90px;
-}
-</style>
-	</head>
-	<body class="not-front not-logged-in page-node node-type-page col-1  two-sidebars haymarket-privacy-policy">
-		<div id="page-wrapper" class="clearfix">
-		          <div id="leaderboard">  
-<div id="block-ad_injector-placeholder-Skin" class="clear-block block block-ad_injector  skinWrapper">
-
-  <div id="skinWrapperInner" class="content">
-        </div>
-
-  </div>
-</div>
-         
-			<div id="header">
-				<div id="header-inner">
-					<div id="pageHeader">
-						  
-<div id="block-ad_injector-placeholder-Masthead" class="clear-block block block-ad_injector  MastheadWrapper">
-
-  <div id="MastheadWrapperInner" class="content">
-       </div>
-
-  </div>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
   
-<div id="block-ad_injector-placeholder-leaderboard" class="clear-block block block-ad_injector  leaderBoardWrapper">
-
-  <div id="leaderBoardWrapperInner" class="content">
-             </div>
-
-  </div>
-					</div>
-					<div id="site-branding" class="clearfix">
-					  <div id="site-logo"><a href="/" title="whathifi.com"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/logo.png" alt="whathifi.com logo" border="0"></a></div>
-					  <span class="slogan"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/slogan1.png" alt="The world's most trusted tech reviews" title="The world's most trusted tech reviews" width="247" height="26"></span>
-					</div>
-					<div id="utilities" class="headerRight">
-						  
-<div id="block-search-0" class="clear-block block block-search  ">
-
-  <div id="" class="content">
-    <form action="/privacy-policy" accept-charset="UTF-8" method="post" id="search-block-form">
-<div><div class="container-inline">
-  <div class="form-item" id="edit-search-block-form-1-wrapper">
- <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="20" value="" class="form-text searchInput auto-hint" title="Search site">
-</div>
-<input type="image" name="submit" value="Search" id="edit-submit" class="form-submit" src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/search-magnifier.png">
-<input type="hidden" name="form_build_id" id="form-27a1c50677e3d9ba5bd0cd6caa0ace92" value="form-27a1c50677e3d9ba5bd0cd6caa0ace92">
-<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
-</div>
-
-</div></form>
-  </div>
-
-  </div>
-  
-<div id="block-static_blocks-1" class="clear-block block block-static_blocks  loginstatus">
-
-  <div id="" class="content">
-    <ul class="regList clearfix"><li><a href="/user">Sign in</a></li><li class="last"><a href="/user/register?destination=%2Fprivacy-policy">Register</a></li></ul>  </div>
-
-  </div>
-					</div>
-					<div id="global-navigation" class="headerLeft clearfix">
-								        <ul class="links primary-links"><li class="menu-361034 first"><a href="/" title="">Home</a></li>
-<li class="menu-1031531"><a href="/reviews">Reviews</a></li>
-<li class="menu-708889"><a href="/news" title="News">News</a></li>
-<li class="menu-525437"><a href="/best-buys" title="">Best Buys</a></li>
-<li class="menu-394482"><a href="/blog" title="">Blogs</a></li>
-<li class="menu-596206"><a href="/video" title="">Videos</a></li>
-<li class="menu-460807"><a href="/forum" title="">Forums</a></li>
-<li class="menu-593740"><a href="/win" title="">Competitions</a></li>
-<li class="menu-460808"><a href="/awards/2013">Awards</a></li>
-<li class="menu-1008271 last"><a href="http://www.whathifi.com/shop/" title="">Shop</a></li>
-</ul>		        					</div>
-				</div><!-- End of header-inner -->
-			</div><!-- End of #header -->
-			
-			<div id="postHeader">
-				  
-<div id="block-hcmnews-hot_news" class="clear-block block block-hcmnews  ">
-
-  <div id="" class="content">
-    <div class="navWrapper navHot5"><h2>Trending</h2><div class="item-list"><h3></h3><ul class="channelList"><li class="first"><a href="/news/explore-the-world-of-online-streaming-in-our-april-2014-issue-%E2%80%93-on-sale-now">Latest issue</a></li>
-<li><a href="/content/bw-685-s2">B&amp;W 685 S2</a></li>
-<li><a href="/news/sonos-everything-you-need-to-know">Sonos</a></li>
-<li><a href="/content/marantz-pm6005">Marantz PM6005</a></li>
-<li class="last"><a href="/news/best-headphones-to-buy-in-2014">Best headphones</a></li>
-</ul></div></div>  </div>
-
-  </div>
-				<div class="breadcrumb"><a href="/">Home</a></div>		  </div><!-- End of post header -->
-
-			<div id="content" class="clearfix">
-				<div id="contentHeader">
-				  				</div>
-
-        <div id="main">
-				  <div class="contentWrapper">
-				    				    				    <h1 class="pageTitle">Haymarket Privacy Policy</h1>            				    				    				    				    					                                                          
- 				    <div id="node-62881" class="node">
-
-
-
-  
-  <div class="content clear-block">
-     <p><strong><em>1. Introduction</em></strong></p>
-<p>Your personal information is being processed by Haymarket  Media Group ('Haymarket'). For a full list of our brands and business divisions  please visit our <a href="http://www.haymarket.com/brands.aspx" target="_blank">web site</a>.  Haymarket respects your privacy and is committed to protecting your personal  information. We comply with the principles of the Data Protection Act 1998 and  aim to maintain consistently high levels of best practice in our processing of  your personal information. This Privacy Notice relates to our use of any  personal information you provide to us through the Haymarket network of  websites and/or other services provided by Haymarket.</p>
-<p> In order to provide you with the full range of services, we  may request and/or record information about you. This privacy notice explains  the following:</p>
-<ul type="disc">
-<li>the type of information we       collect;</li>
-<li>how the information is       used;</li>
-<li>when we may contact you;</li>
-<li>whether we will disclose       your details to anyone else; and</li>
-<li>the use of cookies.</li>
-</ul>
-<p>Many Haymarket websites contain hyperlinks to websites owned  and operated by third parties. These third party websites have their own  privacy notices and we encourage you to review them. We do not accept any  responsibility or liability for the privacy practices of such third party  websites and your use of such websites is at your own risk.</p>
-<p><strong><em>2. What type of  personal information is collected?</em></strong></p>
-<p>When you sign up to participate in or receive a service from  any Haymarket website, such as a newsletter, competition, forum we will ask for  limited personal information. We will also collect personal information from  you when you subscribe to one of our magazines and when you communicate with us  over the telephone or via written correspondence. This can include information  such as your name, postal address, telephone or mobile number, fax number,  email address, gender or date of birth. Different Haymarket websites may ask  for different pieces of personal information. By entering your details in the  fields requested, you enable Haymarket and its service providers to provide you  with the services you select.</p>
-<p><strong><em>3. How will the  information be used?</em></strong></p>
-<p>Haymarket will use your personal information for a number of  non-marketing purposes including the following:</p>
-<ol type="1">
-<li>we may contact you for service       related reasons that you have subscribed to, signed up for, or participate       in (e.g. to make you aware of any delays in your subscription arriving on       time, reminding you of a password or username, or about a comment you have       made on a website.);</li>
-<li>to invite you to share       your opinions and comments through a research study about the level of       service you receive from us;</li>
-<li>to track traffic flows and       to make our websites easier for you to use;</li>
-<li>to fulfil subscription       orders;</li>
-<li>to provide a user online       community; and for</li>
-<li>planning and managing our       business activities by understanding aggregated analysis on behaviour and       habits;</li>
-</ol>
-<p>We may disclose your personal information to any member of  our group which includes our subsidiaries as defined in section 1159 of the Companies  Act 2006</p>
-<p><strong><em>4. Will I be  contacted for marketing purposes?</em></strong></p>
-<p>Yes. Haymarket may use the information you have provided to  promote the products and services of Haymarket or others.</p>
-<p> However, be assured that we understand the irritations of  unsolicited communications and are fully committed to ensuring the rights and  obligations set out in the Data Protection Act 1998 and the Privacy and  Electronic Communications Regulations 2003 are respected.</p>
-<p><strong>If you don’t want it,  you won’t get it</strong>.&nbsp; Any marketing  communication you receive will always include a clear, simple option to refuse,  or ‘opt-out’ of such future communications. You may also opt-out at ANY time by  contacting us (see below).</p>
-<p>The Telephone Preference Service (TPS) and the Mailing  Preference Service (MPS) offer consumers important statutory and non-statutory  protection against unsolicited marketing contact. If you are registered on  either service, Haymarket will assume that your <em>subsequent</em> submission of personal data via a Haymarket website or  data capture form indicates, for the time being, your consent to receive  marketing by us.<strong> You may opt-out at ANY  time by contacting us (see below).</strong></p>
-<p><strong><em>5. Will Haymarket  share my information with anyone else?</em></strong></p>
-<p>Haymarket may disclose your personal data where it believes  it is compelled to do so by law; in particular for the prevention or detection  of crime, the capture or prosecution of offenders; and the assessment or  collection of tax or duty.</p>
-<p>Occasionally, we may share your contact information with  carefully selected third party companies whose products and services we feel  may be of interest to you. We will keep these offers relevant to your  interests. It's easy to unsubscribe from any email or mobile messages you no  longer want. (see below).</p>
-<p>We use a number of third party organisations to help provide  a professional service to our customers (i.e. fulfilment bureaus, call centres,  and website designers). These organizations act as data processors and are  strictly controlled in how they may/may not use your personal data. We remain  responsible for the protection of your data.<br> Please note that some of our partners may be located outside  the European Economic Area (EEA). Countries outside the EEA may not be required  to protect personal information as stringently as countries inside.</p>
-<p><strong><em>6. Can I find out  what personal information Haymarket holds on me?</em></strong></p>
-<p>Under the Data Protection Act 1998 you have the right to  request a copy of the personal information that Haymarket holds about you.  There will be an administration fee of £10 associated with this request and  will require two pieces of identification to prove your identity. Please make a  written application to the Data Protection Officer, Haymarket Media Group,  Teddington, Middlesex, TW11 9BE.</p>
-<p>If any of the personal information that we hold about you is  incorrect, you can click on the contact us link on each website. If the  incorrect information relates to your magazine subscription, then you can  contact the customers services team on 08456 777 800 who will update your  details as soon as practically possible.</p>
-<p><strong><em>7. Changes to the  Haymarket Privacy Policy?</em></strong></p>
-<p>This privacy policy may be updated at any time with or  without notice in order to comply with new practices or regulations. You may  wish to visit this page every time you submit personal information to one of  Haymarket’s websites.</p>
-<p><strong><em>8. Cookies and your  privacy</em></strong></p>
-<p>In order to enable us to provide you with a  personalised browsing experience, this website uses 'cookie' information  collection technology. "Cookies" are small pieces of information that  are issued to your computer when you enter a website. Cookies are stored by  your browser on your computer's hard drive, and they can be used for a wide  range of purposes, such as identifying your computer's previous visits to a website,  and to ascertain the most popular features of a website.</p>
-<p>This website uses cookies as they enable us to  identify your computer when you visit the website. For example, cookies can  make it possible for us to identify and automatically log in registered users  of certain services on the website without the need for us to ask users for  their registration details and password each time they visit. We also use  cookies to develop a clearer picture of which parts of the website are the most  popular to its visitors, and your preferences. Cookies are also used in  behavioural advertising to identify users who share a particular interest so  that they can be served more relevant adverts.</p>
-<p>If you wish to know more about cookies and how companies  like Haymarket use them, please visit <a href="http://www.youronlinechoices.com" target="_blank">www.youronlinechoices.com</a> or <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.&nbsp;Information  on these websites will assist you in exercising your privacy rights providing  guidance on how to opt-out of future access or continued storage of information  via cookies.</p>
-<p>Following recent revisions of the Privacy and Electronic  Communications (EC Directive) Regulations 2003 relating to the notification and  use of cookies Haymarket is currently working towards implementing the new  requirements in line with guidance provided by The Information Commissioner’s  Office.</p>
-<p><strong><em>9. Contacting  Haymarket about this Privacy Policy</em></strong></p>
-<p>If you have any further questions or comments concerning  your privacy, please contact;</p>
-<p>MAIL:<br> Data Protection Officer<br> Haymarket Media Group<br> Teddington Studios<br> Teddington<br> Middlesex<br> TW11 9BE</p>
-<p>If you don’t want to receive any more direct marketing messages then  please <a href="http://www.pages05.net/haymarketmediagroupuk/optout/contact_details/" target="_blank">click  here</a>.</p>
-   </div>
-
-  <div class="clear-block">
-    <div class="meta">
-        </div>
-
-      </div>
-
-</div>
-
-				  </div>
-          			  </div>
-			
-			  <div id="related">
-			      
-<div id="block-ad_injector-placeholder-mpu" class="clear-block block block-ad_injector  MPUWrapper">
-
-  <div id="MPUWrapperInner" class="content">
-            </div>
-
-  </div>
-  
-<div id="block-ad_injector-placeholder-mpu2" class="clear-block block block-ad_injector  MPUWrapper2">
-
-  <div id="MPUWrapper2Inner" class="content">
-           </div>
-
-  </div>
-				  									</div>
-
-				<div id="local-navigation">	
-					  
-<div id="block-hcmproduct-0" class="clear-block block block-hcmproduct  ">
-
-  <h2>Products</h2>
-  <div id="" class="content">
-    <div navwrapper="" navreviews=""><div class="item-list"><ul class="channelList"><li class="first"><div><a href="/reviews/tvs" class="">TVs</a></div></li>
-<li class=""><div><a href="/reviews/home-cinema" class="">Home cinema</a></div></li>
-<li class=""><div><a href="/reviews/hi-fi" class="">Hi-Fi</a></div></li>
-<li class=""><div><a href="/reviews/all-in-one-systems" class="">All-in-one-systems</a></div></li>
-<li class=""><div><a href="/reviews/home-digital-media-devices" class="">Home digital media devices</a></div></li>
-<li class=""><div><a href="/reviews/digital-tv-boxes" class="">Digital TV boxes</a></div></li>
-<li class=""><div><a href="/reviews/portable" class="">Portable</a></div></li>
-<li class=""><div><a href="/reviews/accessories" class="">Accessories</a></div></li>
-<li class="last"><div><a href="/reviews/apps" class="">Apps</a></div></li>
-</ul></div></div>  </div>
-
-  </div>
-  
-<div id="block-hcmreviews-5" class="clear-block block block-hcmreviews  ">
-
-  <div id="" class="content">
-    <h2 class="linkBox"><a href="/brand">Reviews by brand</a></h2>  </div>
-
-  </div>
-  
-<div id="block-hcmreviews-sponsored_links" class="clear-block block block-hcmreviews  ">
-
-  <div id="" class="content">
-    <span class="advertHeadline"><br>SPONSORED LINKS<br></span><p></p>  </div>
-
-  </div>
-  
-<div id="block-ad_injector-placeholder-button1" class="clear-block block block-ad_injector  LSbuttonHolder">
-
-  <div id="LSbuttonHolderInner" class="content">
-                </div>
-
-  </div>
-  
-<div id="block-ad_injector-placeholder-button2" class="clear-block block block-ad_injector  LSbuttonHolder2">
-
-  <div id="LSbuttonHolder2Inner" class="content">
-               </div>
-
-  </div>
-  
-<div id="block-ad_injector-placeholder-button3" class="clear-block block block-ad_injector  LSbuttonHolder3">
-
-  <div id="LSbuttonHolder3Inner" class="content">
-              </div>
-
-  </div>
-				</div>
-			</div><!-- End of #content -->
-
-			<!-- Footer -->
-						<div id="footer" class="clearfix">
-				<div id="footer-inner" class="clearfix">
-					  
-<div id="block-menu-primary-links" class="clear-block block block-menu  ">
-
-  <div id="" class="content">
-    <ul class="menu"><li class="leaf first"><a href="/" title="" id="custom_breadcrumbs_menu-361034" class="active">Home</a></li>
-<li class="leaf"><a href="/reviews" id="custom_breadcrumbs_menu-1031531">Reviews</a></li>
-<li class="leaf"><a href="/news" title="News" id="custom_breadcrumbs_menu-708889">News</a></li>
-<li class="leaf"><a href="/best-buys" title="" id="custom_breadcrumbs_menu-525437">Best Buys</a></li>
-<li class="leaf"><a href="/blog" title="" id="custom_breadcrumbs_menu-394482">Blogs</a></li>
-<li class="leaf"><a href="/video" title="" id="custom_breadcrumbs_menu-596206">Videos</a></li>
-<li class="leaf"><a href="/forum" title="" id="custom_breadcrumbs_menu-460807">Forums</a></li>
-<li class="leaf"><a href="/win" title="" id="custom_breadcrumbs_menu-593740">Competitions</a></li>
-<li class="leaf"><a href="/awards/2013" id="custom_breadcrumbs_menu-460808">Awards</a></li>
-<li class="leaf last"><a href="http://www.whathifi.com/shop/" title="" id="custom_breadcrumbs_menu-1008271">Shop</a></li>
-</ul>  </div>
-
-  </div>
-  
-<div id="block-views-issues-block_2" class="clear-block block block-views  ">
-
-  <h2><a href="/themag">In this month's mag</a></h2>
-  <div id="" class="content">
-    <div class="view view-issues view-id-issues view-display-id-block_2 view-dom-id-1">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content">June 2014</span>
-  </div>
-  
-  <div class="views-field-field-headline-1-value">
-                <span class="field-content">COVER TEST: Music streaming services</span>
-  </div>
-  
-  <div class="views-field-field-headline-2-value">
-                <span class="field-content">SUPERTEST: Stereo speakers £100-£200</span>
-  </div>
-  
-  <div class="views-field-field-headline-3-value">
-                <span class="field-content">GROUP TEST: Projectors £2800-£3000</span>
-  </div>
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-  </div>
-  
-<div id="block-views-issues-block_4" class="clear-block block block-views  ">
-
-  <div id="" class="content">
-    <div class="view view-issues view-id-issues view-display-id-block_4 view-dom-id-2">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-    
-<div class="views-field-field-coverimage-imceimage-path">
-<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/latest-issue-maga-cover-footer/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-latest-issue-maga-cover-footer" width="130" height="186"></a></span>
-</div>
-
-<div class="views-field-field-print-mag-link-url">
-<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14">Print mag</a></span>
-</div>
-
-<div class="views-field-view-node">
-<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14" title="Subscribe to the print magazine"><img src="/sites/whathifi.com/themes/blueprint/whathifi_v2/images/magshop_logo.png"></a></span>
-</div>
-
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-  </div>
-  
-<div id="block-views-issues-block_3" class="clear-block block block-views  ">
-
-  <div id="" class="content">
-    <div class="view view-issues view-id-issues view-display-id-block_3 view-dom-id-3">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-field-coverimage-imceimage-path">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_ipad/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_ipad" width="95" height="127"></a></span>
-  </div>
-  
-  <div class="views-field-field-coverimage-imceimage-path-1">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_iphone/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_iphone" width="39" height="58"></a></span>
-  </div>
-  
-  <div class="views-field-field-digital-mag-link-url">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601">Digital mag</a></span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601 " title="Subscribe to the digital magazine" class="appstore_logo"><img src="/sites/whathifi.com/themes/blueprint/whathifi_v2/images/Digital_issues/AppStoreBadge.png"></a></span>
-  </div>
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-  </div>
-  
-<div id="block-static_blocks-1" class="clear-block block block-static_blocks  loginstatus">
-
-  <div id="" class="content">
-    <ul class="regList clearfix"><li><a href="/user">Sign in</a></li><li class="last"><a href="/user/register?destination=%2Fprivacy-policy">Register</a></li></ul>  </div>
-
-  </div>
-  
-<div id="block-menu-menu-footer-social-links" class="clear-block block block-menu  ">
-
-  <h2>Footer Social Links</h2>
-  <div id="" class="content">
-    <ul class="menu"><li class="leaf first"><a href="https://plus.google.com/105460503053277686458/posts" title="Google plus link" class="menu_icon menu-1031534" id="custom_breadcrumbs_menu-1031534">Google+</a></li>
-<li class="leaf"><a href="http://www.whathifi.com/rss" title="RSS link" class="menu_icon menu-1031535" id="custom_breadcrumbs_menu-1031535">Whathifi RSS</a></li>
-<li class="leaf"><a href="https://www.facebook.com/whathifi.com" title="Facebook link" class="menu_icon menu-1031536" id="custom_breadcrumbs_menu-1031536">Facebook</a></li>
-<li class="leaf"><a href="http://twitter.com/whathifi" title="Twitter link" class="menu_icon menu-1031537" id="custom_breadcrumbs_menu-1031537">Twitter</a></li>
-<li class="leaf last"><a href="http://www.youtube.com/user/WhathifiTv" title="Youtube link" class="menu_icon menu-1031538" id="custom_breadcrumbs_menu-1031538">Youtube</a></li>
-</ul>  </div>
-
-  </div>
-  <!--[if lte IE 7]>
-    <div class="ie-spacer"></div>
-<![endif]-->
-
-<div id="block-menu-helpful-links" class="clear-block block block-menu  ">
-
-  <div id="" class="content">
-    <ul class="menu"><li class="leaf first"><a href="/contact-whathifi" title="" id="custom_breadcrumbs_menu-170796">Contact Us</a></li>
-<li class="leaf"><a href="/house-rules" title="" id="custom_breadcrumbs_menu-170800">House rules</a></li>
-<li class="leaf active-trail"><a href="/privacy-policy" title="" id="custom_breadcrumbs_menu-170801" class="active active">Privacy policy</a></li>
-<li class="leaf last"><a href="/page/terms-and-conditions" title="" id="custom_breadcrumbs_menu-170799">Terms &amp; Conditions</a></li>
-</ul>  </div>
-
-  </div>
-					<div id="footer-bottom">
-						<div class="logo"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/logo_footer/sites/whathifi.com/themes/blueprint/whathifi_v2/logo.png" alt="whathifi.com logo" title="whathifi.com" class="imagecache imagecache-logo_footer" width="155" height="22"></div>
-						<div class="slogan"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/slogan1.png" alt="The world's most trusted tech reviews" title="The world's most trusted tech reviews" width="247" height="26"></div>
-						<div class="parent-brand"><a href="http://www.haymarket.com" rel="nofollow" title="Explore Haymarket"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/parent_logo.png" alt="Haymarket Publishing" title="Haymarket Publishing" width="96" height="24"></a><p>© 2014 Haymarket Publishing</p></div>
-					</div>
-				</div>
-			</div>			<!-- //Footer -->
-			
-		</div><!-- End of #page-wrapper -->
-		  
-<div id="block-ad_injector-mpu" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="MPUWrapperMove">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('300x250,300x600','mpu');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#MPUWrapperInner').size()) {
-						tracker.safelyMoveAdvert('MPUWrapperMove', 'MPUWrapperInner')
-					}
-				</script>
-
-        </div>
-
-  </div>
-  
-<div id="block-ad_injector-Masthead" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="MastheadWrapperMove">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('970x250','Masthead');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#MastheadWrapperInner').size()) {
-						tracker.safelyMoveAdvert('MastheadWrapperMove', 'MastheadWrapperInner')
-					}
-				</script>
-
-   </div>
-
-  </div>
-  
-<div id="block-ad_injector-leaderboard" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="leaderBoardWrapperMove">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('728x90','leaderboard');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#leaderBoardWrapperInner').size()) {
-						tracker.safelyMoveAdvert('leaderBoardWrapperMove', 'leaderBoardWrapperInner')
-					}
-				</script>
-
-         </div>
-
-  </div>
-  
-<div id="block-ad_injector-mpu2" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="MPUWrapper2Move">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('300x251,300x601','mpu2');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#MPUWrapper2Inner').size()) {
-						tracker.safelyMoveAdvert('MPUWrapper2Move', 'MPUWrapper2Inner')
-					}
-				</script>
-
-       </div>
-
-  </div>
-  
-<div id="block-ad_injector-Skin" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="skinWrapperMove">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('1x2','Skin');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#skinWrapperInner').size()) {
-						tracker.safelyMoveAdvert('skinWrapperMove', 'skinWrapperInner')
-					}
-				</script>
-
-    </div>
-
-  </div>
-  
-<div id="block-static_blocks-13" class="clear-block block block-static_blocks  ">
-
-  <div id="" class="content">
-    <script type="text/javascript" src="http://whathificom.skimlinks.com/api/skimlinks.js"></script>
-				<script type="text/javascript">
-				var skimlinks_pub_id = '1044X500158';
-				skimlinks();
-				</script>  </div>
-
-  </div>
-  
-<div id="block-ad_injector-button1" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="LSbuttonHolderMove">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('160x133','button1');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#LSbuttonHolderInner').size()) {
-						tracker.safelyMoveAdvert('LSbuttonHolderMove', 'LSbuttonHolderInner')
-					}
-				</script>
-
-            </div>
-
-  </div>
-  
-<div id="block-ad_injector-button2" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="LSbuttonHolder2Move">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('160x133','button2');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#LSbuttonHolder2Inner').size()) {
-						tracker.safelyMoveAdvert('LSbuttonHolder2Move', 'LSbuttonHolder2Inner')
-					}
-				</script>
-
-           </div>
-
-  </div>
-  
-<div id="block-ad_injector-button3" class="clear-block block block-ad_injector  ">
-
-  <div id="" class="content">
-    
-        <div id="LSbuttonHolder3Move">
-				<script type="text/javascript" class="injectedAdvert">
-				try {tracker.renderAdvert('160x133','button3');} catch(e) { }
-				</script>
-	</div>
-				<script type="text/javascript">
-					if($('#LSbuttonHolder3Inner').size()) {
-						tracker.safelyMoveAdvert('LSbuttonHolder3Move', 'LSbuttonHolder3Inner')
-					}
-				</script>
-
-          </div>
-
-  </div>
-    <script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_5de03bbec532353de0ec373ba051de39.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n       \u003cp\u003eWe use cookies on whathifi.com to improve your browsing experience and to provide you with relevant      content and advertising, by continuing to use our site you agree to this.      See our \u003ca href=\"\/privacy-policy\" target=\"_blank\"\u003ePrivacy policy\u003c\/a\u003e      for more details.\u003c\/p\u003e\n     \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"agree-button\"\u003eYes, I agree\u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\"\u003eNo, I want to find out more\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_html_agreed":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content agreed\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n       \u003cp\u003eThank you\u003c\/p\u003e\n     \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"hide-popup-button\"\u003eHide this message \u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\" \u003eMore information on cookies\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_position":0,"popup_language":"en"}});
-//--><!]]>
-</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"1ac3da5a9f","applicationID":"1400592","transactionName":"MQdQNRNTXRVRVUxeVghNcwIVW1wIH1hXU1w5ElMGBG1FD1VB","queueTime":0,"applicationTime":1415,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-356.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-113967 node-type-page i18n-en section-haymarket-media-group-privacy-notice">
+    <div id="page"><div id="tip-region" class="clearfix"><div class="grey"><div class="container"><div class="region region-tip"><div id="block-hcm-ads-leaderboard-extra" class="block block-hcm-ads first last odd"><div id="gpt_7294_leaderboard_extra"></div></div></div></div></div></div>
+<header id="header" role="banner" class="clearfix"><div class="grey"><div class="container"><div class="grid_16"><div class="region region-hat"><div id="block-buy-magazine-buy-magazine-short" class="block block-buy-magazine first odd">
+<a href="http://www.whathifi.com/subscribe/" class="themag" target="_blank">Buy the magazine</a></div><div id="block-whathifi-login-extras-whathifi-login-extras-block" class="block block-whathifi-login-extras even"><div class="item-list"><ul class="ajax-register-links inline"><li class="first">
+<a href="/whathifi/register/nojs/register" class="ctools-use-modal ctools-modal-ctools-ajax-register-style" rel="nofollow" title="Register">Register</a></li><li><span>or</span></li><li class="last">
+<a href="/ajax_register/login/nojs" class="ctools-use-modal ctools-modal-ctools-ajax-register-style" rel="nofollow" title="Login">Login</a></li></ul></div></div><div id="block-menu-menu-social-icons-top" class="block block-menu last odd" role="navigation"><h2 class="block__title block-title">Follow us</h2><ul class="menu"><li class="menu__item is-leaf first leaf">
+<a href="https://www.facebook.com/whathifi.com" class="menu__link menu_icon menu-1770" target="_blank">Facebook</a></li><li class="menu__item is-leaf leaf">
+<a href="https://twitter.com/whathifi" class="menu__link menu_icon menu-1771" target="_blank">Twitter</a></li><li class="menu__item is-leaf leaf">
+<a href="https://plus.google.com/+whathifi/posts" class="menu__link menu_icon menu-1772" target="_blank">Google</a></li><li class="menu__item is-leaf last leaf">
+<a href="http://www.youtube.com/user/WhathifiTv" class="menu__link menu_icon menu-1773" target="_blank">YouTube</a></li></ul></div></div></div></div></div><div class="red"><div class="container"><div class="grid_16 top-header-grid clearfix">
+<a href="/" class="logo-retina" title="Home" rel="home" id="logo_retina">
+<img src="/sites/whathifi.com/themes/whathifi/logo_retina.png" alt="Home"></a>
+<a href="/" class="logo-standard" title="Home" rel="home" id="logo">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/whathifi/logo.png" alt="Home"></a><div id="mobile-search-trigger"></div><div id="mobile-menu-trigger"></div></div></div></div><div class="over"><div class="container"><div class="grid_16"><div class="region region-header-top"><div id="block-search-form" class="block block-search first last odd" role="search"><form action="/haymarket-media-group-privacy-notice" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-actions form-wrapper" id="edit-actions--2">
+<input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit"></div><div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--4">Search </label>
+<input title="Enter the terms you wish to search for." class="auto_submit form-text form-autocomplete" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128">
+<input type="hidden" id="edit-search-block-form--4-autocomplete" value="http://www.whathifi.com/admin/search/autocomplete" disabled="disabled" class="autocomplete"></div>
+<input type="hidden" name="form_build_id" value="form-e7tFiqb7SrUOjXu8yheGayMZv1tDFqj3-dYF19nIedk">
+<input type="hidden" name="form_id" value="search_block_form"></div></div></form></div></div>
+<nav id="main-menu" role="navigation" class="clearfix"><ul class="menu"><li class="menu__item is-expanded first expanded reviews-menu-link">
+<a href="/products" class="menu__link block-menu">Reviews</a><ul class="menu"><li class="menu__item is-leaf first leaf product-categories-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-categories-block-1" class="block block-views first odd"><h2 class="block__title block-title">Categories</h2><div class="view view-products-categories view-id-products_categories view-display-id-block_1 view-dom-id-dc888194f96197725f75d5007a977c92"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/tvs">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/televisions2.png?itok=-pY_OfwU" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/tvs">TVs</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/hi-fi">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/hifi2.png?itok=cT-yUm-n" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/hi-fi">Hi-Fi</a></span></div></div><div class="views-row views-row-3 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/home-cinema">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/homecinema2.png?itok=EOqXgyVJ" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/home-cinema">Home cinema</a></span></div></div><div class="views-row views-row-4 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/tablets">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/tablets2.png?itok=yNL-ij0j" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/tablets">Tablets</a></span></div></div><div class="views-row views-row-5 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/smartphones">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/phones2.png?itok=xqw8O2bO" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/smartphones">Smartphones</a></span></div></div><div class="views-row views-row-6 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/streaming">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/streaming2.png?itok=O9emR91l" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/streaming">Streaming</a></span></div></div><div class="views-row views-row-7 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/headphones">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/headphones2.png?itok=VHEL-1_0" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/headphones">Headphones</a></span></div></div><div class="views-row views-row-8 views-row-even views-row-last"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/accessories">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/accessories2.png?itok=bkMvETNL" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/accessories">Accessories</a></span></div></div></div></div></div></div></li><li class="menu__item is-leaf leaf product-header-navigation-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-block-5" class="block block-views even"><h2 class="block__title block-title">Latest offers</h2><div class="view view-products view-id-products view-display-id-block_5 view-dom-id-8407bf3d61bf0ee0610771e38279262d"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/sony/str-dn1050/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Sony/sonystr-dn1050angle.jpg?itok=h7dfjkC0" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/sony/str-dn1050/review">Sony STR-DN1050</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £492.99</div></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/yamaha/rx-v675/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/YamahaRX-V675main.jpg?itok=Zjw34MmG" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/yamaha/rx-v675/review">Yamaha RX-V675</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £299</div></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/panasonic/dmp-bdt460/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Panasonic/panasonic_dmp-bdt460_00.jpg?itok=sF4UN6Mi" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/panasonic/dmp-bdt460/review">Panasonic DMP-BDT460</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £159</div></div></div></div></div></div></div></li><li class="menu__item is-leaf last leaf product-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-block-3" class="block block-views odd"><h2 class="block__title block-title">Latest Reviews</h2><div class="view view-products view-id-products view-display-id-block_3 view-dom-id-b284551b13f669e0f611ba3977dc59c3"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/dynaudio/xeo-4/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Dynaudio/dynaudio_xeo_4_1.jpg?itok=GI-SnnEK" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/dynaudio/xeo-4/review">Dynaudio Xeo 4</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-5"></div></div></div></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/samsung/shape-audio-system/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Samsung/both.jpg?itok=JHXp0cSe" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/samsung/shape-audio-system/review">Samsung Shape Audio System</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-4"></div></div></div></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/simple-audio/roomplayer/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/SimpleAudio/simple_audio_3.jpg?itok=a3NT5Ztw" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/simple-audio/roomplayer/review">Simple Audio Roomplayer+</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-4"></div></div></div></div></div></div></div></div></div></li></ul></li><li class="menu__item is-expanded expanded news-menu-link">
+<a href="/news" class="menu__link block-menu">News</a><ul class="menu"><li class="menu__item is-leaf first leaf news-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-articles-block" class="block block-views even"><h2 class="block__title block-title">Latest News</h2><div class="view view-articles view-id-articles view-display-id-block view-dom-id-698eecf09f93c1d900c737efc444b666"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/denon-ceol-wireless-range-gets-two-new-systems">Denon CEOL wireless range gets two new systems</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/mous-unveils-new-storage-solution-your-iphones-headphones">Mous unveils new storage solution for your iPhone's headphones</a></span></div></div><div class="views-row views-row-3 views-row-odd"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/best-4k-tvs-to-buy-in-2014">Best 4K TVs to buy in 2014</a></span></div></div><div class="views-row views-row-4 views-row-even"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/amazon-sales-49-cent-to-surge-ahead-uk-entertainment-rivals">Amazon sales up 4.9 per cent to surge ahead of UK entertainment rivals</a></span></div></div><div class="views-row views-row-5 views-row-odd views-row-last"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/week-in-hd-monday-10th-november">The Week in HD – Monday 10th November</a></span></div></div></div></div></div></div></li><li class="menu__item is-leaf last leaf videos-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-articles-block-2" class="block block-views odd"><h2 class="block__title block-title">Videos</h2><div class="view view-articles view-id-articles view-display-id-block_2 view-dom-id-602e8d0e49c7d227d335c30adc5bbd0d"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/how-to-write-your-own-user-review"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/news/august/user_review.png?itok=sf1AnjA1 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/news/august/user_review.png?itok=9Jev77zq 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/how-to-write-your-own-user-review">How to write your own user review</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/13-best-halloween-films-to-watch-netflix"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/news/october/horror_0.jpg?itok=of9_JEk5 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/news/october/horror_0.jpg?itok=LYSLk-r7 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/13-best-halloween-films-to-watch-netflix">13 best Halloween films to watch on Netflix</a></span></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/trailers-week-best-new-film-releases-24th-october"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/playlist/age_of_ultron-02.jpg?itok=rxvd1kvL 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/playlist/age_of_ultron-02.jpg?itok=xFiBD5hw 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/trailers-week-best-new-film-releases-24th-october">Trailers of the Week - best new film releases 24th October</a></span></div></div></div></div></div></div></li></ul></li><li class="menu__item is-leaf leaf best-buys-menu-link">
+<a href="/best-buys" class="menu__link">Best Buys</a></li><li class="menu__item is-leaf leaf awards-menu-link">
+<a href="/awards/2014" class="menu__link">Awards</a></li><li class="menu__item is-leaf last leaf forums-menu-link">
+<a href="/forum" class="menu__link">Forums</a></li></ul> </nav></div></div></div><div class="container"><div class="grid_16"></div></div> </header><div class="fake-body"><div id="trending"><div class="container"><div class="region region-trending"><div id="block-hcm-trending-hcm-trending-line" class="block block-hcm-trending first last odd"><div class="item-list"><h3>Trending</h3><ul><li class="first">
+<a href="/news/write-your-own-review-and-win-home-cinema-system-in-our-ps4000-giveaway">Win a home cinema!</a></li><li>
+<a href="/awards/2014">Awards 2014</a></li><li>
+<a href="/news/ultra-hd-4k-tv-reviews-news-and-everything-you-need-to-know">4K TV</a></li><li class="last">
+<a href="/apple/ipad-air-2/review">iPad Air 2</a></li></ul></div></div></div></div></div><div id="leaderboard"><div class="region region-leaderboard"><div id="block-hcm-ads-skin" class="block block-hcm-ads first last odd"><div id="gpt_7294_skin"></div></div></div></div><div id="main" class="container clearfix">
+<nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li>
+<a href="/">Home</a></li><li>Haymarket Media Group Privacy Notice</li></ol></nav><div id="below_title"></div><div id="top-wide" class="grid_16"></div><div id="content" class="column grid_16 clearfix" role="main">
+<a id="main-content"></a><div class="region region-help"><div id="block-hcm-apachesolr-sort-hcm-solr-sorter" class="block block-hcm-apachesolr-sort first last odd"><form action="/haymarket-media-group-privacy-notice" method="post" id="hcm-apachesolr-sort-sorter-form" accept-charset="UTF-8"><div>
+<input type="hidden" name="form_build_id" value="form-AMeVF6crzCqssz4A5h52JSJKh1S6Nqg4zs8-Wtpsx9s">
+<input type="hidden" name="form_id" value="hcm_apachesolr_sort_sorter_form"></div></form></div></div><div id="content-top"></div>
+<article class="node-113967 node node-page view-mode-full clearfix"> <header><h1 class="node__title node-title">Haymarket Media Group Privacy Notice</h1> </header><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>HAYMARKET PRIVACY POLICY </strong></p><p><strong>1 INTRODUCTION </strong></p><p>[Haymarket Media Group Limited (“Haymarket”], “Us”, “We”, “Our”) registered in England and Wales under company number 00267189 is the data controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). We respect your privacy and we are committed to protecting your personal information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.</p><p>Please read in conjunction with our
+<a href="http://www.whathifi.com/terms-conditions">Terms and Conditions</a> and our
+<a href="http://www.whathifi.com/haymarket-cookie-policy">Cookie Policy</a>.</p><p>This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a minute to read and understand the Policy.</p><p>By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.</p><p>In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the bottom of this document.&nbsp;</p><p><strong>2 WHAT INFORMATION DO WE COLLECT? </strong></p><p>All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please write to us at:
+<a href="mailto:datacontroller@haymarket.com?subject=Privacy%20Policy">datacontroller@haymarket.com</a>. When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:</p><p><strong>2.1 Information you voluntarily provide to us </strong></p><p>We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:</p><ul><li>when you register on our website or for a service, you may provide us with certain Information including your name, email address, screen name, password and demographic information;</li><li>where our website contains a social networking function, you may create and add to your profile by providing Information about your interests;</li><li>if you sign up to receive a newsletter, a magazine, enter a contest or participate in social networking activities, you may provide us with contact information (e.g., email, telephone and/or or physical address); and</li><li>you may provide us with Information in the course of email, customer support interactions and surveys.</li></ul><p>Different websites operated by us may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our websites. For more information, please see the “How We Use Your Information” section of the Policy below.</p><p><strong>2.2 Information we collect through your use of our Website </strong></p><p>As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our
+<a href="http://www.whathifi.com/haymarket-cookie-policy">Cookie Policy</a> for more information.</p><p><strong>2.3 Information we receive from third parties</strong></p><p>We may also combine online and/or offline information received from third parties (including other members of our group of companies) with your Information. The third party information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and advertising we provide to you.</p><p><strong>3 HOW WE USE YOUR INFORMATION</strong></p><p>We will use your Information in the ways described below and as described at the time that the Information is collected.</p><p><strong>3.1 To Provide the Services </strong></p><p>In general, we use your Information as necessary or appropriate for our business purposes including to:</p><ul><li>administer your account where you have opened an account with us;</li><li>register you and provide you access to the website or services requested by you;</li><li>respond to inquiries or requests that you direct to us;</li><li>fulfil your requests for products or services;</li><li>send communications and administrative emails about the website or our services;</li><li>personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services;</li><li>running competitions:</li><li>other purposes related to any of the above</li></ul><p><strong>3.2 Marketing </strong></p><p>Where you have provided us with the appropriate consents, or where the Act entitles us to do so, we may send you marketing materials about other products or services offered by Haymarket, and/or products or services offered by our group companies. In addition, where you have provided us with the appropriate consents, we may also pass your Information to one or more of our group companies or other selected third parties for marketing purposes. However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the Act and the Privacy and Electronic Communications Regulations 2003, updated 2004 and 2011 are respected.</p><p><strong>3.3 Behavioural Advertising </strong></p><p>We believe that advertising is more interesting to you when it is relevant. Accordingly, where you have consented for us to do so we may customise the advertisements that you see based upon:</p><ul><li>the Information you voluntarily provide to us;</li><li>geographic location information, which we may determine through your IP address, from your mobile device, or other ways;</li><li>data we receive from third parties; or</li><li>your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our
+<a href="http://www.whathifi.com/haymarket-cookie-policy">Cookie Policy</a> for further information.</li></ul><p>Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Please see our
+<a href="http://www.whathifi.com/haymarket-cookie-policy">Cookie Policy</a> for further information.</p><p>You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our
+<a href="http://www.whathifi.com/haymarket-cookie-policy">Cookie Policy</a> for more details of how to delete cookies.</p><p>After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.</p><p><strong>4 CAN I FIND OUT WHAT PERSONAL INFORMATION HAYMARKET HOLDS ON ME? </strong></p><p>Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group Limited, Teddington, Middlesex, TW11 9BE.</p><p>If any of the Information that we hold about you is incorrect, you can click on the contact us link on our website. If the incorrect Information relates to your magazine subscription, then you can contact the customer services team on 08456 777 800 who will update your details as soon as practically possible.</p><p><strong>5 HOW WE DISCLOSE YOUR INFORMATION TO THIRD PARTIES</strong></p><p>We may share your Information with third parties as specifically approved by you or under the circumstances described below.</p><p><strong>5.1 Disclosure for legal reasons </strong></p><p>We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.</p><p>We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organisations act as data processors and are strictly controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.</p><p><strong>5.2 Promotions and Sponsors </strong></p><p>Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent. We are not responsible for their privacy policy or practices.</p><p>When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion.</p><p><strong>5.3 Changes to our Company</strong></p><p>In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.</p><p><strong>5.4 Message Boards and Chats </strong></p><p>We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.</p><p><strong>6 UPDATING AND CONTROL OF YOUR INFORMATION </strong></p><p>There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences.</p><p><strong>6.1 Opting-Out on Receipt of Marketing Communications</strong></p><p>When you receive marketing communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the marketing e-mail or newsletter.</p><p><strong>6.2 Preference Services </strong></p><p>The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing contact. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent.</p><p><strong>6.3 Contacting Us </strong></p><p>If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you
+<a href="http://pages.haymarket.com/optout/contact_details">click here</a>.</p><p>Please note that:</p><ul><li>even if you delete Information, we may retain your Information in conformance with our data retention policy; and</li><li>we are not responsible for updating or removing your Information contained in the lists or databases of third parties who have been provided with Information as permitted by this Policy.</li></ul><p><strong>7 THIRD PARTY LINKS AND SERVICES </strong></p><p>Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through our website or services and does not apply to these third party websites and third party service providers.</p><p><strong>8 WHERE WE STORE YOUR INFORMATION </strong></p><p>The Information that we collect from you may be transferred to, stored and processed at a destination outside the European Economic Area, (all EU countries plus Norway, Iceland and Liechtenstein). Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers, for instance, for customer service purposes. By submitting Information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary, including the use of the Model Contractual Arrangements as approved by the EU, or other contractual means to ensure that your Information is treated securely and in accordance with this Policy and the Act.</p><p><strong>9 SECURITY OF YOUR INFORMATION </strong></p><p>We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, unfortunately, the transmission of information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it.</p><p><strong>10 SOCIAL MEDIA </strong></p><p>10.1 Social networking sites, such as Facebook, Linked-In, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.</p><p>10.2 We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing. If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Haymarket is not responsible for how these third party sites may use information collected from or about you.</p><p><strong>11 HOW TO CONTACT US </strong></p><p>If you have any questions regarding privacy or this Policy, you may contact us as follows:</p><p>Data Protection Officer Haymarket Media Group Ltd Teddington Studios Teddington Middlesex TW11 9BE</p><p>Email us:
+<a href="mailto:datacontroller@haymarket.com ?subject=Privacy%20Policy">datacontroller@haymarket.com </a></p><p><strong>LIST OF THE HAYMARKET GROUP OF COMPANIES – REGISTERED IN ENGLAND AND WALES </strong></p><p>Haymarket Media Group Ltd – company number 00267189</p><p>Haymarket Exhibitions Ltd – company number 2457048</p><p>Thenhurst Agricultural Ltd – company number 1301566</p><p>Haymarket Group Ltd – company number 2809261</p><p>Haymarket Publishing Services – company number 0813651</p><p>Haymarket Network Ltd – company number 0834207</p></div></div></div> </article></div></div></div><div id="footer-links"><div class="container"><div class="grid_16"><div class="region region-footer-links-left"><div id="block-whathifi-login-extras-whathifi-login-extras-block--2" class="block block-whathifi-login-extras first odd"><div class="item-list"><ul class="ajax-register-links inline"><li class="first">
+<a href="/whathifi/register/nojs/register" class="ctools-use-modal ctools-modal-ctools-ajax-register-style" rel="nofollow" title="Register">Register</a></li><li><span>or</span></li><li class="last">
+<a href="/ajax_register/login/nojs" class="ctools-use-modal ctools-modal-ctools-ajax-register-style" rel="nofollow" title="Login">Login</a></li></ul></div></div><div id="block-search-form--2" class="block block-search even" role="search"><h2 class="block__title block-title">Search the site</h2><form action="/haymarket-media-group-privacy-notice" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-actions form-wrapper" id="edit-actions">
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input title="Enter the terms you wish to search for." class="auto_submit form-text form-autocomplete" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128">
+<input type="hidden" id="edit-search-block-form--2-autocomplete" value="http://www.whathifi.com/admin/search/autocomplete" disabled="disabled" class="autocomplete"></div>
+<input type="hidden" name="form_build_id" value="form-SCBfsucOiMzPoQ7cjJ0Kur3M7FcXZH4Hpy0hPIs7epA">
+<input type="hidden" name="form_id" value="search_block_form"></div></div></form></div><div id="block-menu-menu-footer-left-links" class="block block-menu last odd" role="navigation"><h2 class="block__title block-title">Footer - Left links</h2><ul class="menu"><li class="menu__item is-leaf first leaf">
+<a href="/terms-conditions" class="menu__link">Terms &amp; Conditions</a></li><li class="menu__item is-active-trail is-leaf leaf active-trail">
+<a href="/haymarket-media-group-privacy-notice" class="menu__link is-active-trail active-trail active">Privacy Policy</a></li><li class="menu__item is-leaf leaf">
+<a href="/house-rules" class="menu__link">House Rules</a></li><li class="menu__item is-leaf leaf">
+<a href="/contact-us" class="menu__link">Contact Us</a></li><li class="menu__item is-leaf leaf">
+<a href="/news/about-us" class="menu__link">About Us</a></li><li class="menu__item is-leaf last leaf">
+<a href="/haymarket-cookie-policy" class="menu__link">Cookie Policy</a></li></ul></div></div><div class="region region-footer-links"><div id="block-system-main-menu" class="block block-system block-menu first odd" role="navigation"><h2 class="block__title block-title">Menu</h2><ul class="menu"><li class="menu__item is-expanded first expanded reviews-menu-link">
+<a href="/products" class="menu__link block-menu">Reviews</a><ul class="menu"><li class="menu__item is-leaf first leaf product-categories-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-categories-block-1--2" class="block block-views even"><h2 class="block__title block-title">Categories</h2><div class="view view-products-categories view-id-products_categories view-display-id-block_1 view-dom-id-f7ff82ab979b6c79d4f2b4eec5590e08"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/tvs">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/televisions2.png?itok=-pY_OfwU" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/tvs">TVs</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/hi-fi">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/hifi2.png?itok=cT-yUm-n" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/hi-fi">Hi-Fi</a></span></div></div><div class="views-row views-row-3 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/home-cinema">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/homecinema2.png?itok=EOqXgyVJ" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/home-cinema">Home cinema</a></span></div></div><div class="views-row views-row-4 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/tablets">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/tablets2.png?itok=yNL-ij0j" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/tablets">Tablets</a></span></div></div><div class="views-row views-row-5 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/smartphones">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/phones2.png?itok=xqw8O2bO" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/smartphones">Smartphones</a></span></div></div><div class="views-row views-row-6 views-row-even"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/streaming">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/streaming2.png?itok=O9emR91l" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/streaming">Streaming</a></span></div></div><div class="views-row views-row-7 views-row-odd"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/headphones">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/headphones2.png?itok=VHEL-1_0" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/headphones">Headphones</a></span></div></div><div class="views-row views-row-8 views-row-even views-row-last"><div class="views-field views-field-field-hover-image"><div class="field-content">
+<a href="/products/accessories">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/product_category_menu_icon/public/accessories2.png?itok=bkMvETNL" width="30" height="30" alt=""></a></div></div><div class="views-field views-field-name">
+<span class="field-content">
+<a href="/products/accessories">Accessories</a></span></div></div></div></div></div></div></li><li class="menu__item is-leaf leaf product-header-navigation-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-block-5--2" class="block block-views odd"><h2 class="block__title block-title">Latest offers</h2><div class="view view-products view-id-products view-display-id-block_5 view-dom-id-c3a8aaf352ba3b5df269339907afd420"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/sony/str-dn1050/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Sony/sonystr-dn1050angle.jpg?itok=h7dfjkC0" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/sony/str-dn1050/review">Sony STR-DN1050</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £492.99</div></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/yamaha/rx-v675/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/YamahaRX-V675main.jpg?itok=Zjw34MmG" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/yamaha/rx-v675/review">Yamaha RX-V675</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £299</div></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/panasonic/dmp-bdt460/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Panasonic/panasonic_dmp-bdt460_00.jpg?itok=sF4UN6Mi" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/panasonic/dmp-bdt460/review">Panasonic DMP-BDT460</a></span></div><div class="views-field views-field-field-product-reference"><div class="field-content">from £159</div></div></div></div></div></div></div></li><li class="menu__item is-leaf last leaf product-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-products-block-3--2" class="block block-views even"><h2 class="block__title block-title">Latest Reviews</h2><div class="view view-products view-id-products view-display-id-block_3 view-dom-id-f09170571dedbdc02ea4a01c54d609e3"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/dynaudio/xeo-4/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Dynaudio/dynaudio_xeo_4_1.jpg?itok=GI-SnnEK" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/dynaudio/xeo-4/review">Dynaudio Xeo 4</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-5"></div></div></div></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/samsung/shape-audio-system/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/Samsung/both.jpg?itok=JHXp0cSe" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/samsung/shape-audio-system/review">Samsung Shape Audio System</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-4"></div></div></div></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/simple-audio/roomplayer/review">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu-block-icon/public/brands/SimpleAudio/simple_audio_3.jpg?itok=a3NT5Ztw" width="50" height="50" alt=""></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/simple-audio/roomplayer/review">Simple Audio Roomplayer+</a></span></div><div class="views-field views-field-field-rating"><div class="field-content"><div class="integer-stars"><div class="integer-stars-full integer-stars-4"></div></div></div></div></div></div></div></div></div></li></ul></li><li class="menu__item is-expanded expanded news-menu-link">
+<a href="/news" class="menu__link block-menu">News</a><ul class="menu"><li class="menu__item is-leaf first leaf news-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-articles-block--2" class="block block-views odd"><h2 class="block__title block-title">Latest News</h2><div class="view view-articles view-id-articles view-display-id-block view-dom-id-bf66480b440ee9e109006e9564dadd67"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/denon-ceol-wireless-range-gets-two-new-systems">Denon CEOL wireless range gets two new systems</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/mous-unveils-new-storage-solution-your-iphones-headphones">Mous unveils new storage solution for your iPhone's headphones</a></span></div></div><div class="views-row views-row-3 views-row-odd"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/best-4k-tvs-to-buy-in-2014">Best 4K TVs to buy in 2014</a></span></div></div><div class="views-row views-row-4 views-row-even"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/amazon-sales-49-cent-to-surge-ahead-uk-entertainment-rivals">Amazon sales up 4.9 per cent to surge ahead of UK entertainment rivals</a></span></div></div><div class="views-row views-row-5 views-row-odd views-row-last"><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/week-in-hd-monday-10th-november">The Week in HD – Monday 10th November</a></span></div></div></div></div></div></div></li><li class="menu__item is-leaf last leaf videos-block-menu-link"><div class="menu-attach-block-wrapper orientation-horizontal"><div id="block-views-articles-block-2--2" class="block block-views even"><h2 class="block__title block-title">Videos</h2><div class="view view-articles view-id-articles view-display-id-block_2 view-dom-id-c39878bfde1485c1052babc751ad01a1"><div class="view-content"><div class="views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/how-to-write-your-own-user-review"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/news/august/user_review.png?itok=sf1AnjA1 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/news/august/user_review.png?itok=9Jev77zq 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/how-to-write-your-own-user-review">How to write your own user review</a></span></div></div><div class="views-row views-row-2 views-row-even"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/13-best-halloween-films-to-watch-netflix"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/news/october/horror_0.jpg?itok=of9_JEk5 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/news/october/horror_0.jpg?itok=LYSLk-r7 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/13-best-halloween-films-to-watch-netflix">13 best Halloween films to watch on Netflix</a></span></div></div><div class="views-row views-row-3 views-row-odd views-row-last"><div class="views-field views-field-field-image"><div class="field-content">
+<a href="/news/trailers-week-best-new-film-releases-24th-october"><picture><!--[if IE 9]>
+<video style="display: none;"><![endif]-->
+<source srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/menu_news_video_thumbnail_small/public/brands/playlist/age_of_ultron-02.jpg?itok=rxvd1kvL 1x" media="only screen and (max-width : 1420px)"><!--[if IE 9]></video><![endif]-->
+<img srcset="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/news_menu_video_thumbnail/public/brands/playlist/age_of_ultron-02.jpg?itok=xFiBD5hw 225w" alt="" title=""></picture></a></div></div><div class="views-field views-field-title">
+<span class="field-content">
+<a href="/news/trailers-week-best-new-film-releases-24th-october">Trailers of the Week - best new film releases 24th October</a></span></div></div></div></div></div></div></li></ul></li><li class="menu__item is-leaf leaf best-buys-menu-link">
+<a href="/best-buys" class="menu__link">Best Buys</a></li><li class="menu__item is-leaf leaf awards-menu-link">
+<a href="/awards/2014" class="menu__link">Awards</a></li><li class="menu__item is-leaf last leaf forums-menu-link">
+<a href="/forum" class="menu__link">Forums</a></li></ul></div><div id="block-menu-menu-social-icons" class="block block-menu even" role="navigation"><h2 class="block__title block-title">Follow us</h2><ul class="menu"><li class="menu__item is-leaf first leaf">
+<a href="https://www.facebook.com/whathifi.com" class="menu__link menu_icon menu-163" target="_blank">Facebook</a></li><li class="menu__item is-leaf leaf">
+<a href="https://twitter.com/whathifi" class="menu__link menu_icon menu-164" target="_blank">Twitter</a></li><li class="menu__item is-leaf leaf">
+<a href="https://plus.google.com/+whathifi?rel=publisher" class="menu__link menu_icon menu-165" target="_blank">Google</a></li><li class="menu__item is-leaf last leaf">
+<a href="http://www.youtube.com/user/WhathifiTv" class="menu__link menu_icon menu-615" target="_blank">YouTube</a></li></ul></div><div id="block-buy-magazine-buy-magazine" class="block block-buy-magazine last odd"><h2 class="block__title block-title">Buy the magazine</h2><div id="buy_magazine_print"><div class="main_image">
+<a href="http://www.whathifi.com/subscribe/">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/buy_magazine_print/public/awards_cover_main.jpg?itok=xgP7O6wW" width="130" height="185" alt=""></a></div><div class="content">
+<a href="http://www.whathifi.com/subscribe/" class="arrow">Subscribe now</a></div></div><div id="buy_magazine_digital"><div class="main_image">
+<a href="http://www.whathifi.com/subscribe/">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/buy_magazine_iphone/public/awards_cover_main.jpg?itok=dOr1_au-" width="41" height="87" alt=""></a>
+<a href="http://www.whathifi.com/subscribe/">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/styles/buy_magazine_ipad/public/awards_cover_main.jpg?itok=I-6W8ti9" width="123" height="160" alt=""></a></div><div class="content">
+<a href="http://www.whathifi.com/subscribe/" class="arrow">Subscribe now</a></div></div></div></div></div></div></div><div id="footer-wrapper"><div class="container"><div class="grid_16">
+<a href="/" title="Home" rel="home" id="logo-footer">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/whathifi/logo.png" alt="Home"></a>
+<footer id="footer" class="region region-footer"><div id="block-menu-menu-footer-standard-pages" class="block block-menu first odd" role="navigation"><h2 class="block__title block-title">Footer - Standard Pages</h2></div><div id="block-copyright-notice-copyright-notice" class="block block-copyright-notice last even">
+<img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/transparent_circle.png" alt=""><div>© 2014 Haymarket Media Group</div></div> </footer></div></div></div></div>  <script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_LOLyUOJOPlSh3SndjRh0lDw8X_XNvFEhVVYzQXDJ5p0.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_boo6oBg7qm4eyGPuKgYpA1e5d2SbGcOSlYs2-Jx2gW4.js"></script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_lVnQWz7xwhLvwo36JQdT1OQaMa0aO_IMm66w4YBlOIo.js"></script>
+<script src="https://tags.tiqcdn.com/utag/haymarket/whathifi/prod/utag.js"></script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_SXbQOg0zstgjrb1IIwClONFnWZnkuM3xaNJ8Jw37Eis.js"></script>
+<script>var pageDnaObj = {"content":{"authors":"","has_video":"","has_gallery":"false","has_poll":"","id":"113967","language":"en","page_of":"","rating_max":"5","rating_score":"","title":"HaymarketMediaGroupPrivacyNotice","type":"author","landing":"","subtype":"","publish_date":"20140509","update_date":"20141110","publish_time":"1606","update_time":"1528","taxonomy_group1":"","taxonomy_group2":"","taxonomy_group3":"","taxonomy_group4":"","word_count":"","pagetype":""},"navigation":{"locale":"enGB","site_domain":"www.whathifi.com","site_name":"whathifi.uk","section_child1":"whathifi.uk","section_child2":"misc","section_child3":"","section_child4":"","section_child5":""},"search":{"searchphrase":""},"product":{"id":"","manufacturer":"","model":"","category":"","sub_category1":"","product_edition":"","style":"","size":"","condition":"","price":"","price_band":"","target_price":"","price_currency":"","offer_price":"","min_price":"","max_price":"","version":"","colour":"","dealer":"","dealer_id":"","dealer_group":"","features":"","location":"","green_band":""},"electronics":[],"adzone":{"2":"misc","3":"","4":"","5":""}}</script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_U37uuztdRu201I2_PBsLikSqtx0Z58ddz00E4zK2ELM.js"></script>
+<script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_vK7j_2FJZAIZDReSSu1_468lQftcLylwgIRtP-XHnyI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"whathifi","theme_token":"f2wFtvLffvsCrAteCmxbhj82VFFNYHI3dAXS6teyi1I","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/contrib\/quote\/quote.css":1,"sites\/all\/modules\/custom\/stickynav\/css\/stickynav.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/ajax_register\/css\/ajax-register.css":1,"sites\/all\/modules\/contrib\/lang_dropdown\/msdropdown\/dd_after.css":1,"sites\/whathifi.com\/themes\/whathifi\/system.menus.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/webfonts.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/normalize.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/wireframes.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/page-backgrounds.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/tabs.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/pages.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/blocks.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/navigation.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/views-styles.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/nodes.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/comments.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/forms.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/fields.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/print.css":1,"sites\/whathifi.com\/themes\/whathifi\/css\/forum.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.js":1,"sites\/all\/modules\/contrib\/picture\/picture.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"0":1,"sites\/whathifi.com\/modules\/custom\/hcm_apachesolr\/js\/hcm_apachesolr.js":1,"sites\/whathifi.com\/modules\/custom\/hcm_apachesolr\/js\/hcm_apachesolr_search_autosubmit.js":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/modules\/custom\/locale_redirector\/js\/locale_redirector.js":1,"sites\/all\/modules\/contrib\/quote\/quote.js":1,"sites\/all\/modules\/custom\/stickynav\/js\/stickynav.js":1,"sites\/all\/modules\/custom\/sticky_elements\/js\/sticky_elements.js":1,"https:\/\/tags.tiqcdn.com\/utag\/haymarket\/whathifi\/prod\/utag.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"1":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/ajax_register\/js\/ajax-register.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/msdropdown\/jquery.dd.js":1,"sites\/all\/modules\/custom\/hcm_ads\/js\/skin.js":1,"sites\/all\/modules\/custom\/hcm_ads\/js\/stickify_me.js":1,"misc\/autocomplete.js":1,"sites\/whathifi.com\/modules\/features\/site_sitewide\/js\/ckeditor_fix.js":1,"sites\/whathifi.com\/themes\/whathifi\/js\/script.js":1,"sites\/whathifi.com\/themes\/whathifi\/js\/brightcove.js":1,"sites\/whathifi.com\/themes\/whathifi\/js\/lbox.js":1,"sites\/whathifi.com\/themes\/whathifi\/js\/langdropdown.js":1,"sites\/whathifi.com\/themes\/whathifi\/js\/homepage-filters.js":1}},"locales_prefix":{"en":""},"locales_list":{"current":"en","default":"en","uk":"en","UK":"en","GB":"en"},"site":"What Hi-Fi?","locale_modal_settings":{"en":{"noun":"UK","adj":"UK","icon":false}},"quote_nest":"2","stickynav":{"selector":"#header"},"sticky_elements":{"element_1":{"element_id":"#paragraph-selector","wrapper_id":"#paragraph-selector","bottom_id":"#footer-links","distance":10}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg src=\u0022http:\/\/images.cdn.whathifi.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg src=\u0022http:\/\/images.cdn.whathifi.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"ctools-ajax-register-style":{"modalSize":{"type":"fixed","width":0,"height":140,"contentRight":30,"contentBottom":0},"modalOptions":{"opacity":0.7,"background-color":"#000000"},"closeText":"","throbber":"\u003Cimg src=\u0022http:\/\/images.cdn.whathifi.com\/sites\/all\/modules\/contrib\/ajax_register\/images\/ajax-loader.gif\u0022 alt=\u0022\u0022 \/\u003E","animation":"fadeIn","animationSpeed":"fast"},"lang_dropdown":{"jsWidget":{"visibleRows":5,"rowHeight":23,"animStyle":"slideDown","mainCSS":"dd_after"}},"hcm_ads":{"mpu_wrapper_id":"block-hcm-ads-mpu-flexible2","mpu_id":"gpt_7294_mpu_flexible2","top_margin":"60"}});</script>
+  <script src="http://cdn.whathifi.com/sites/whathifi.com/files/js/js_6TAnF117heNLUe_NSA6QrMWPUlMbDthN85wxrI4UFUM.js"></script>
+
+
+</body></html>
