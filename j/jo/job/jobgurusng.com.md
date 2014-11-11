@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobgurusng.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134816id_/http%3A//jobgurus.com.ng/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobgurusng.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111151845id_/http%3A//www.jobgurus.com.ng/terms.php) for the most accurate reproduction.*
 
 # 
 
