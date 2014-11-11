@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fimfiction.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090653id_/http%3A//www.fimfiction.net/index.php%3Fview%3Dpage%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fimfiction.net privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111193632id_/http%3A//www.fimfiction.net/index.php%3Fview%3Dpage%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # FIMFiction.net - My Little Pony: Friendship is Magic Fanfiction
+
+You seem to have javascript disabled, or your browser is failing to execute it properly. Much of Fimfiction's functionality requires javascript so we suggest you turn it on! If this message goes away after a few seconds, ignore it, javascript support sometimes takes a few seconds to detect.
 
 This Privacy Policy governs the manner in which Fimfiction collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.fimfiction.net](http://www.fimfiction.net/) website ("Site"). This privacy policy applies to the Site and all services offered by Fimfiction.
 
