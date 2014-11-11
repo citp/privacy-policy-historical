@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420225425id_/http%3A//www.safetyrisk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111084250id_/http%3A//www.safetyrisk.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Safety and Risk Management
+# Privacy Policy – Safety Risk Blog
 
 ## Our Privacy Policy
 
 ### Privacy Policy for www.safetyrisk.net
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@safetyrisk.com.au.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@safetyrisk.net
 
-At www.safetyrisk.com.au, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.safetyrisk.com.au and how it is used.
+At www.safetyrisk.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.safetyrisk.net and how it is used.
 
 **Log Files**  
 Like many other Web sites, www.safetyrisk.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-www.safetyrisk.com.au does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+www.safetyrisk.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**
 
@@ -27,7 +27,7 @@ www.safetyrisk.com.au does use cookies to store information about visitors prefe
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.safetyrisk.com.au send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.safetyrisk.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.safetyrisk.net has no access to or control over these cookies that are used by third-party advertisers.
 
@@ -35,16 +35,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Be Sociable, Share!
+Did you like this article? 
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Our%20Privacy%20Policy%0D%0APrivacy%20Policy%20for%20www.safetyrisk.net%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%40safetyrisk.com.au.%0D%0A%0D%0AAt%20www.safetyrisk.com.au%2C%20the%20privac "Delicious")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Safety+and+Risk+Management+Free+Safety+and+Risk+Management+Checklists%2C+Templates%2C+Downloads%2C+Images%2C+Creative+Ideas%2C+Discussion+and+Articles.&summary=Our%20Privacy%20Policy%0D%0APrivacy%20Policy%20for%20www.safetyrisk.net%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%40safetyrisk.com.au.%0D%0A%0D%0AAt%20www.safetyrisk.com.au%2C%20the%20privac "LinkedIn")
-  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&t=Privacy%20Policy&s=Our%20Privacy%20Policy%0D%0APrivacy%20Policy%20for%20www.safetyrisk.net%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%40safetyrisk.com.au.%0D%0A%0D%0AAt%20www.safetyrisk.com.au%2C%20the%20privac "Tumblr")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&title=Privacy%20Policy&bodytext=Our%20Privacy%20Policy%0D%0APrivacy%20Policy%20for%20www.safetyrisk.net%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%40safetyrisk.com.au.%0D%0A%0D%0AAt%20www.safetyrisk.com.au%2C%20the%20privac "Digg")
-  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.safetyrisk.net%2Fprivacy-policy%2F&title=Privacy%20Policy "Reddit")
-  * 
+If so, please join over 20,000 other discerning people who love the weekly updates from this blog. And, get instant access to all of our free downloads and Safety EBooks! Just enter your name and email below: 
 
+[](http://riskex.optinskin.hop.clickbank.net/)
