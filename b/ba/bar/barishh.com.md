@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barishh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625202024id_/http%3A//www.barishh.com/Privacy-Policy-pid-17491.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barishh.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111043234id_/http%3A//www.barishh.com/Privacy-Policy-pid-17491.html) for the most accurate reproduction.*
 
-# Privacy Policy • Barishh.com
+# Privacy Policy | www.barishh.com
 
 This privacy policy sets out how barishh.zepo.in uses and protects any information that you give **barishh.com**  when you use this website.
 
