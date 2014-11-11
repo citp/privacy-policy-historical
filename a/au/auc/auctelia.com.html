@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctelia.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625055605id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctelia.com privacy policy that was archived on 2014-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111041544id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -67,7 +67,9 @@
   
 
   <style>
-
+  .z-forward{
+    z-index:1000;
+  }
   </style>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
@@ -77,7 +79,7 @@
 <div id="mc_embed_signup-show" style="display:none;background-color: #e87722; z-index: 90; height: 29px; width: 24px; position: absolute; margin-left: 3px; padding: 2px; padding-left: 6px;">
   <span class="pull-left" style="font-size:25px;margin-top:7px;"><a href="#" id="mc_embed_signup_show"><i class="icon-arrow-down static-white"></i></a></span>
 </div>
-<div id="mc_embed_signup" class="alert alert-info" style="background-color: rgb(232, 119, 34); color: white; position: absolute; z-index: 90; margin: 0px; border-radius: 0px; width: 100%; border: 0px; padding: 1.11022e-15px 0px 0px 15px; overflow: hidden; height: 1px;">
+<div id="mc_embed_signup" class="alert alert-info" style="background-color:#e87722; color:white; position:absolute; z-index:90;margin:0; border-radius:0;width:100%;border:0;padding: 5px 0 0 15px;display:none;">
   <div id="mc_embed_container" class="row" style="">
     <div class="span12">
       <span class="pull-left" style="font-size:30px;margin-top:7px;"><a href="#" id="mc_embed_signup_hide"><i class="icon-arrow-up static-white"></i></a></span>
@@ -146,72 +148,75 @@
               </ul>
               <ul id="menu-collapse" class="nav nav-pills pull-left collapse">
                 <li>
-                  <a href="/en/home/index">Home</a>
+                  <a href="/en/search/seance?status=OPEN&amp;status=PUBLISHED">
+                    Auction Calendar
+                  </a>
                 </li>
                 <li>
-                  <a href="/en/home/support">Support</a>
+                  <a href="/en/search/item">
+                    Catalogue
+                  </a>
                 </li>
                 <li>
-                  <a href="/en/home/contact">Contact</a>
+                  <a href="/en/sales/sellWithUs">
+                    How to Sell?
+                  </a>
                 </li>
-                <li>
-                  <a href="/en/home/partners">Partners</a>
-                </li>
-                <li>
-                  <a href="/en/home/about">About</a>
+                <li class="custom-nav-li ">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    About
+                    <span class="caret align-top caret-black"></span>
+                  </a>
+                  <ul class="dropdown-menu" id="nav-dropdown-menu">
+                    <li><a href="/en/home/about">Auctelia</a></li>
+                    <li><a href="/en/home/themesales">Theme Sales</a></li>
+                    <li><a href="/en/home/partners">Partners</a></li>
+                    <li><a href="/en/home/support">Contact</a></li>
+                  </ul>
                 </li>
               </ul>
-              <ul class="nav pull-right">
-                <li>
-                  <a href="mailto:info@auctelia.com"><i class="icon-envelope-alt"></i> info@auctelia.com</a>
+              <ul class="nav pull-right header-connection-ul">
+                <li class="header-connection-li">
+                  
+                    <a href="#" class="sign-in header-btn header-connection-btn" data-toggle="modal" data-target="#bid-modal-2">
+                      Log in
+                    </a>
+                    
+
+                  
+                  
                 </li>
-                <li><a href="#" onclick="return false;" id="phonenumber"><i class="icon-phone"></i> +32 (0)10 620 660
-                </a></li>
+                <li class="header-connection-li">
+                  
+                    <a href="/en/register/registerModal" id="register-button" class="header-btn header-register-btn">
+                      Register
+                    </a>
+                  
+                  
+                </li>
               </ul>
             </nav>
+          </div>
+          <div class="row-fluid header-search-row-fluid">
+            <div class="span9 header-search-span">
+              <form action="/en/search/item" method="post" class="header-search search-form">
+                <div class="full-width">
+                  <button type="submit" class="btn btn-mini btn-primary pull-right"><i class="icon icon-arrow-right"></i></button>
+                  <input id="search-input" class="pull-right search-input" type="text" name="q" autocomplete="off" placeholder="Search in 830 Items" value="" data-target="/en/search/guess" data-guess="/en/ajax/getHomePageItems">
+                </div>
+              </form>
+            </div>
           </div>
         </div><!-- end container -->
       </div>    <!-- end navbar inner -->
     </div>
   </header>
-
 </div>
 
-<div id="nav" class="subnav container-fluid">
-  <nav class="row-fluid">
-    <ul class="nav pull-left">
-      <li class="">
-        <a href="/en/search/item" class="btn btn-nav-left link-color-2">Buy <span>»</span></a>
-      </li>
-      <li>
-        <a href="/en/sales/sellWithUs" class="btn btn-nav-left link-color-2">Sell <span>»</span></a>
-      </li>
-    </ul>
-
-    
-      <ul class="nav nav-pills pull-right">
-
-        <li>
-          <a href="#" class="sign-in" data-toggle="modal" data-target="#bid-modal-2">
-            Log in
-          </a>
-          
-
-        </li>
-        <li>
-          <a href="/en/register/registerModal" id="register-button" class="btn btn-primary">
-            Sign up
-          </a>
-
-
-        </li>
-      </ul>
-    
+  
     
   
 
-  </nav>
-</div><!-- end subnav -->
 
 
 
@@ -233,9 +238,9 @@
 
 
             
-<div class="panel panel-bordered margin-bottom">
+<div class="panel panel-bordered margin-bottom  ">
   <div class="row-fluid">
-    <a href="/en/self/index?origin=home" class="btn btn-primary btn-buy btn-fluid">Make a Sale</a>
+    <a href="/en/self/index?origin=home" class="btn btn-primary btn-buy btn-fluid  ">Make a Sale</a>
     <span class="help-block-2">First sale ? We guide you step by step</span>
   </div>
 </div>
@@ -331,7 +336,7 @@ Auctelia suggests that our Users frequently check our Privacy Policy so that the
           <h5>Buy</h5>
           <ul>
             <li><a href="/en/purchase/buyWithUs">Buy with Auctelia</a></li>
-            <li><a href="/en/purchase/study">Buyer testimonies</a></li>
+            <li><a href="/en/purchase/study">Buyer testimonials</a></li>
             <li><a href="/en/purchase/faq">Support</a></li>
             <li>
               <a href="/en/search/item?saleType=auction">
@@ -352,7 +357,7 @@ Auctelia suggests that our Users frequently check our Privacy Policy so that the
             <li><a href="/en/sales/sellWithUs">Sell with Auctelia</a></li>
             <li><a href="/en/sales/step">Selling step-by-step</a></li>
             <li><a href="/en/sales/partners">Business provider</a></li>
-            <li><a href="/en/sales/study">Seller testimonies</a></li>
+            <li><a href="/en/sales/study">Seller testimonials</a></li>
             <li><a href="/en/sales/faq">Support</a></li>
           </ul>
         </div>
@@ -431,7 +436,6 @@ Auctelia suggests that our Users frequently check our Privacy Policy so that the
 <script src="/static/bundle-bundle_colorbox_defer.js" type="text/javascript"></script>
 <script src="/static/js/jquery.easing.1.3.js" type="text/javascript"></script>
 <script src="/static/bundle-bundle_auctelia_defer.js" type="text/javascript"></script>
-
 
 
 
