@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthymantoday.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312054748id_/http%3A//healthymantoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthymantoday.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111210246id_/http%3A//healthymantoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Healthy Man Today
 
 **Healthy Man Today** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
