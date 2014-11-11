@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205617id_/http%3A//indiandir.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111092438id_/http%3A//indiandir.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,7 +83,7 @@ Removal from our Database:
 
       Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [ privacy@indiandir.com](mailto:links@indiandir.com).
 
-[Contact us ](https://web.archive.org/web/20140625205617id_/http%3A//indiandir.com/feedback.php) for any queries or concerns in private policy. 
+[Contact us ](https://web.archive.org/web/20141111092438id_/http%3A//indiandir.com/feedback.php) for any queries or concerns in private policy. 
 
   
 
