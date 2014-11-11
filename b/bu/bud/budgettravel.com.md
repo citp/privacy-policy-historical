@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327131649id_/http%3A//budgettravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111160746id_/http%3A//budgettravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Deals, Travel Tips, Vacation Ideas | Budget Travel
 
@@ -48,7 +48,7 @@ We may share the information we collect about you in limited circumstances, incl
 
 **How you can access your information**
 
-You can access and update the personal information you have provided on our website through our account management system by [clicking here](http://affiliate.kickapps.com/kickapps/view/manageProfileQuestions.kickAction?as=21864).
+You can access and update the personal information you have provided on our website through our account management system by [clicking here](https://web.archive.org/mybudgettravel).
 
 **How we protect your information**
 
