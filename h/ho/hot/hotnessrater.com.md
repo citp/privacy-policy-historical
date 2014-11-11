@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074648id_/http%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111233857id_/http%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ As part of your registration, we collect your e-mail and ip address. This is use
 Your information will never be shared with or sold to any other parties except under the following circumstances: 
 
   * It is required by law to share the information with the appropriate agencies 
-  * Hotness Rater is merged or acquired by another company. In this case, your information will be transferred to the new company and it will be subject to their privacy policy. 
+  * Pearson Media LLC is merged or acquired by another company. In this case, your information will be transferred to the new company and it will be subject to their privacy policy. 
 
 
 
@@ -18,11 +18,7 @@ We reserve the right to change this privacy policy. We will notify you of any si
 
 ## Advertising
 
-HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you. Links to each advertising network or their privacy policies are provided below:
-
-  * [Zap United](http://www.zapunited.com/help/privacy)
-
-
+HotnessRater.com displays advertisements provided by third-party advertising networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services which may interest you.
 
 For general information on consumer privacy on the web as it pertains to advertising, you may wish to visit the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/). The NAI also provides information and resources on “opting-out” of behavioral advertising.
 
