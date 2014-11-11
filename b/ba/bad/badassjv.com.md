@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badassjv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011035id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badassjv.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111014821id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
