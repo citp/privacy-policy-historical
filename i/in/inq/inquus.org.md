@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509141246id_/http%3A//inquus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111072848id_/http%3A//inquus.org/privacy-policy) for the most accurate reproduction.*
 
 # OpenStudy: Study Together
-
-## Sign Up For Free
-
-### 188 helpers are online right now
-
-75% of questions are answered within 5 minutes.
 
 ##### Forgot Your Password?
 
