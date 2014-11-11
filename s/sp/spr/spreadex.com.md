@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062327id_/http%3A//www.spreadex.com/financials/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111210708id_/http%3A//www.spreadex.com/sports/terms-agreements/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spreadex | Financial Spread Betting
+# Privacy Policy | Spreadex | Terms & Agreements
 
 **1\. DATA PRIVACY PROTECTION POLICY**  
 Protecting the security and privacy of your personal information is important to Spreadex and to the way we conduct our business in compliance with laws on privacy, data protection and data security. We hope the policy outlined below will help you understand what information Spreadex may collect, how Spreadex uses and safeguards that information and with whom we may share it.
