@@ -1,58 +1,98 @@
-> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530194823id_/http%3A//kanoodle.com/privasy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111044806id_/http%3A//kanoodle.com/privacy-policy) for the most accurate reproduction.*
 
-# Kanoodle - Providing Search-Targeted Sponsored Links Since 1999
+# Privacy Policy | kanoodle.com
 
-At Kanoodle, we take your privacy seriously and do all we can to protect your privacy while using our site and other services available through our site. This Privacy Policy explains how we collect and use information about you as you utilize any Kanoodle services, including the adverting services we provide to businesses that have their own web sites (our "Advertising Network"). Our Privacy Policy is subject to change, so we encourage you to visit this page frequently to review our practices. By using services provided by Kanoodle.com, Inc. ("Kanoodle"), you indicate that you agree to the collection and use of your information by Kanoodle as outlined in this Privacy Policy.
+**Privacy Policy**
 
-**Why We Collect Information**  
-First and foremost, Kanoodle collects information to improve the services we provide and to present you with information and features that will interest you. We also use your information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate our site.
+This privacy policy discloses the privacy practices for http://kanoodle.com 
 
-**Personal Information We Collect**  
-Any personal information that is collected by us is provided by you strictly on a voluntary basis. We may receive personal information from you in a number of ways, depending on the Kanoodle service you are using and your choices while using our services. Depending upon the nature of the service being provided, we may ask you for, and you may choose to send to us, your name, e-mail address, physical address or other personal information necessary to complete a transaction or provide services to you. For example, if you choose to run an advertising program through Kanoodle, we will need to collect certain personal information about you in connection with administering the program; however, we do not collect any personal information from site users in connection with our activities on sites in our Advertising Network. Wherever we ask you for personal information, we try to include a link to this Privacy Policy for your review.
+This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-**Use of Personal Information**  
-As noted above, unless you voluntarily provide personal information for a specific purpose, we do not collect personal information from you. Moreover, we will never combine any personal information about a user of our site with any aggregate information we collect about that user, whether collected on our site or our Advertising Network. If you choose to provide personal information, we use your personal information to provide you with particular services that you request. For instance, we may use your personal information to contact you about advertising services that you have requested and to provide you with data about your advertising campaign. We may also share your personal information with business partners who provide services you have requested. In these cases, we will provide only the information that is needed to perform the service. If you do not want Kanoodle to share your information in this way, you can simply choose not to sign up for the service in question. By providing your email address to Kanoodle, you expressly consent to receive emails from us.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-Kanoodle does not sell, trade or rent personal information to other companies. However, we will transfer personal information in connection with a sale or merger of Kanoodle or the division responsible for the services provided to you. We may also share your personal information with our technical consultants, third party auditors and other third parties who make our site available, enhance its functionality or provide associated services and/or who deal with you in processing your orders and/or delivering content, samples, products, services and gifts and prizes. These third parties are not allowed to use personal information except for the purposes of providing the applicable services. In addition, we may provide information to law enforcement authorities or pursuant to a court order or to investigate suspected fraud. Our site and services are maintained in the United States of America. By using the site and/or services, you authorize the export of personal information to the USA and its storage and use as specified in this policy.
+  2. What choices are available to you regarding the use of your data.
 
-**Aggregate Information We Collect and Use**  
-In addition to personal information, we may also collect non-personally identifiable information, such as site pages viewed, browser type, computer information, cookies, clickstream data and other information. This aggregate information is analyzed and combined with similar aggregate information of other users and may be collected both on our site and on other sites in our Advertising Network. Such aggregate information is anonymous and does not identify any individual user. We may share aggregate information with our business partners and other third parties.
+  3. The security procedures in place to protect the misuse of your information.
 
-"Cookies" are small data files that are sent to your browser and are stored on your hard drive, keeping track of your general activity on a site. When you make subsequent visits to our site or another site on our Advertising Network, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor Kanoodle services to your needs. Your cookie may be altered at different times throughout your visits to a site, and it is updated frequently as you use various Kanoodle features and services. When you use the services of Kanoodle or our partners, our server may deliver certain customized information to you based on the data stored in your cookie. You may opt-out of the BehaviorTarget customized information program operated by Kanoodle's partner, Pulse 360. [Click here](http://www.pulse360.com/behavior/opt.html) to view/change your preferences for this program. You may set your browser to reject cookies; however, this may affect some functions of this site and our other services.
-
-We may use third party advertising technology providers to serve advertisements and provide other services on this site and in connection with our Advertising Network. These services may include the use of web beacons, web bugs, action tags and third party cookies which read our cookies, or visa-versa, or involve the use of anonymous supplemental information (described below). To opt-out of other behavior targeting programs not associated with Kanoodle, [click here](http://www.networkadvertising.org/consumer/opt_out.asp) for the National Advertising Initiative (NAI) opt-out tool.
-
-"Clickstream data" is a trail of electronic information that is left at each web site you visit. This information can be collected and stored by a site's server. We may, for example, use clickstream data to tell us the type of computer and browsing software you use, the address of the site from which you linked to our site, how much time you spend on each page of our site, how you navigate throughout the site and how we may tailor our web pages to better meet the needs of our users.
-
-**Supplementation of Information**  
-In order for our site to perform properly and as necessary to enhance our services, we may supplement the information we receive on this site with information from third party sources. For example, to determine if our customers qualify for credit, we may use their personal information to request a credit report. As another example, we may combine cookie data gathered on this site or on other sites in our Advertising Network with cookie data from a third party in order to improve our services.
-
-**Other Web Sites**  
-Our site may link to advertisers and other sites that collect personal information about you when you leave Kanoodle and that may have privacy policies and practices that are different from ours. This type of collection or use of information is beyond Kanoodle's control and is not covered by this Privacy Policy. We encourage you to read the privacy policy of every site you visit before providing any information.
-
-**Security**  
-Kanoodle stores all data using industry standard security devices, such as firewalls and encryption protocols, to prevent against unauthorized access to our data. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. We have put in place policies to restrict access to your information by our employees. However, Kanoodle cannot guarantee that your information will be completely protected from unauthorized access and you assume such risk when you use our services.
-
-**Corrections or Removal of Personal Information**  
-This site gives users the following options for changing, modifying or deleting information previously provided. Users can email [clientservices@corp.kanoodle.com](mailto:clientservices@corp.kanoodle.com)
-
-Users can send mail to the following postal address:
-
-Kanoodle  
-2390 North Forest Road, Suite 10  
-Getzville, New York 14068  
-U.S.A.  
+  4. How you can correct any inaccuracies in the information.
 
 
-or call the following telephone number: 1-877-KANOODLE (1-877-526-6635)
 
-We are not responsible for removing your personal information from the lists of any third party who has been provided your information in accordance with this policy.
 
-**Protection for Children**  
-We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database.
+**Information Collection, Use, and Sharing**
 
-**Changes to This Privacy Policy**  
-Our Privacy Policy may change from time to time. Be sure to visit this page frequently to find any updates we have made. Your continued use of the site after such changes have been posted indicates your consent and acceptance of such changes.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-**Effective Date**  
-This Privacy Policy is effective and was last updated on April 2, 2007.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+
+**Your Access to and Control Over Information**
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+
+   • See what data we have about you, if any.
+
+   • Change/correct any data we have about you.
+
+   • Have us delete any data we have about you.
+
+   • Express any concern you have about our use of your data.
+
+**Security**
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+**Registration**
+
+In order to use some features on this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
+
+**Orders**
+
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+
+**Cookies**
+
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+**Sharing**
+
+We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+
+**Links**
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+**Content and Metadata**
+
+The Kanoodle website is intended to share Content with others. “Content” includes the text, graphics, photos, sounds, music, videos, audiovisual combinations, and other materials you may view on, access through, or contribute to the Website(s).  If you do not want us to store metadata associated with Kanoodle pertaining to what you share on Kanoodle (such as photos), please remove the metadata before uploading the Content. 
+
+This privacy policy does not apply to any information collected by Kanoodle other than information collected through the website. This privacy policy shall not apply to any unsolicited information you provide to Kanoodle through the website or through any other means. This includes, but is not limited to, Content or other information posted to any public areas of the website, such as comments, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Kanoodle shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. 
+
+**Comments**
+
+In order to enhance their use of the Kanoodle.com website, users can choose to leave comments on particular articles of interest. Kanoodle does not endorse these comments as they are opinions of users not associated with Kanoodle or its employees. 
+
+**Mailing List**
+
+Kanoodle has a mailing list for users. In order to sign up to receive regular emails, newsletters and the like from the mailing list. users must submit information including, without limitation, a valid email address and demographic information such as location and interests. This information will be used in anonymous, aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list. 
+
+**Public Forums**
+
+Kanoodle make chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+**Surveys & Contests**
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+**Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via our[ Contact Page](http://kanoodle.com/contact/ "Contact").**
