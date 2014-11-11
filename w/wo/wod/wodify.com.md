@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wodify.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809115955id_/http%3A//wodify.wpengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wodify.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111080611id_/http%3A//www.wodify.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - Wodify
+# Wodify Privacy Policy - Software for Box Owners and their Athletes
 
 Last Updated: March 20, 2013
 
