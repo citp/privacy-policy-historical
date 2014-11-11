@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104700id_/http%3A//www.travelport.com/Privacy-Policy/Travelport%2520GDS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111184850id_/http%3A//www.travelport.com/Privacy-Policy/Travelport%2520GDS) for the most accurate reproduction.*
 
-# Travelport: world-leading travel commerce platform | Privacy Policy - Travelport GDS
+# Travelport: leading travel commerce platform | Privacy Policy - Travelport GDS
 
 ##  Travelport GDS privacy policy
 
+  
 Welcome to this **Travelport** website. We at Travelport recognize the importance of protecting the privacy of personal data or personally identifiable information (“ **Personal Information** ”) about the individual travelers that we process in our global distribution systems and about the users and visitors of our website. The following **Privacy Policy** discloses what information we gather, how we use it, and how to correct or change it. Please note, however, that we may update and amend this Privacy Policy from time to time. At Travelport, we want to give you an understanding about how we collect your information and the use we make of it in the course of our business.
 
 **Travelport GDS**   
-Travelport recognizes that many countries have adopted laws that apply to Personal Information about individual travelers that we process in our global distribution systems (“ **GDS Personal Information** ”), including our Apollo™, Galileo™, and Worldspan™ global distribution systems. We refer to each of these systems as a “Travelport GDS”. This section of our Privacy Policy describes how we collect, use, store and process GDS Personal Information about individual travelers.
+Travelport recognizes that many countries have adopted laws that apply to Personal Information about individual travelers that we process in our global distribution systems (“ **GDS Personal Information** ”), including the Travelport Apollo, Travelport Galileo, and the Travelport Worldspan global distribution systems. We refer to each of these systems as a “Travelport GDS”. This section of our Privacy Policy describes how we collect, use, store and process GDS Personal Information about individual travelers.
 
-This section of our Privacy Policy does not cover how travel suppliers, such as an airline, car rental company, or a hotel (a “ **Travel Supplier** ”), handle Personal Information. It also does not cover the Personal Information activities of a travel agency or other company that subscribes to a Travelport GDS (a “ **Subscriber** ”). It also does not include Personal Information about users obtained through our public websites. We recommend that travelers should carefully review the privacy policies of their Travel Suppliers and Subscribers. The diagram below illustrates our function in the purchase of travel. 
+This section of our Privacy Policy does not cover how travel suppliers, such as an airline, a car rental company, or a hotel (a “ **Travel Supplier** ”), handle Personal Information. It also does not cover the Personal Information activities of a travel agency or other company that subscribes to a Travelport GDS (a “ **Subscriber** ”) ( **[click here](http://www.travelport.com/Privacy-Policy/Travelport-business-partners)** to view our business partner’s privacy policy). It also does not include Personal Information about users obtained through our public websites ( **[click here](http://www.travelport.com/Privacy-Policy/Travelport-websites)** to view the privacy policy for Travelport websites). We recommend that travelers should carefully review the privacy policies of their Travel Suppliers and Subscribers. The diagram below illustrates our function in the purchase of travel. 
 
 As illustrated in the graphic below, our GDS is a technology platform used for the distribution of travel services. Many travelers engage traditional or online travel agencies, known in our industry as Subscribers, for assistance in managing their travel. Subscribers use our GDS to identify and price travel alternatives and to purchase the traveler’s selection. We then advise the relevant Travel Suppliers about the sale of their services. 
 
  
 
 **International Transfers of GDS Personal Information**  
-Travelport does most of its processing of GDS Personal Information in Travelport data centres located in the United States of America, a country that may not offer the same level of statutory protection for your Personal Information as your home country.
+Travelport does most of its processing of GDS Personal Information in Travelport data center located in the United States of America, a country that may not offer the same level of statutory protection for your Personal Information as your home country.
+
+Your Personal Information will be sent to Travel Suppliers that you select for your travel. These Travel Suppliers may be located in a country that may not offer the same level of statutory protection for your Personal Information as your home country.
 
 **European Safe Harbor**  
 We recognize that the European Union (EU) and Switzerland have data protection laws. The EU and the Swiss requirements restrict the transfer to the United States of Personal Information about Europeans, unless there is “adequate protection” for such information when it is received in the United States.
@@ -25,7 +28,7 @@ To address this restriction as applied to GDS Personal Information about Europea
 
 Although we take seriously the personal data of all travelers, our participation in Safe Harbor benefits European Travelers and does not cover travelers using a Subscriber located outside of the EU and Switzerland.
 
-To learn more about the Safe Harbor program, and to view Travelport’s certification, please visit <http://www.export.gov/safeharbor/>.
+To learn more about the Safe Harbor program, and to view Travelport’s certification, please visit [**http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/).
 
 **Collection, Use, and Disclosure**  
 Travelport obtains GDS Personal Information when a Travel Supplier or a Subscriber submits such data to a Travelport GDS. We also receive GDS Personal Information when an individual traveler submits data to us directly; however, this occurs only in limited circumstances. The types of GDS Personal Information that we obtain is the typical information that you provide when you travel. This includes: 
@@ -71,33 +74,40 @@ Travelport analyzes, uses, discloses, and processes statistical and other data i
 Travelport GDS services are not intended for use by minors. We do not knowingly collect GDS Personal Information from any minor child.
 
 **Data Access and Correction Requests and Other Questions**  
-Travelers should direct any requests relating to their own GDS Personal Information, or any other privacy questions, to Travelport at [privacy@travelport.com](https://web.archive.org/web/20140625104700id_/http%3A//www.travelport.com/Privacy-Policy/privacy@travelport.com) or to the Privacy Officer at the addresses specified below. In practice, travelers may first wish to contact their Travel Supplier or Subscriber, because that might be the most efficient means of addressing any issues. Travelport retains the right to use reasonable measures to authenticate the identity of any traveler who requests access to their GDS Personal Information or otherwise raises any questions. In addition, if any European Traveler experiences an issue regarding GDS Personal Information that the European Traveler cannot resolve directly with Travelport, such traveler may contact their local data protection authority for further information. 
+Travelers should direct any requests relating to their own GDS Personal Information, or any other privacy questions, to Travelport at privacy@travelport.com or to the Privacy Officer at the addresses specified below. In practice, travelers may first wish to contact their Travel Supplier or Subscriber, because that might be the most efficient means of addressing any issues. Travelport retains the right to use reasonable measures to authenticate the identity of any traveler who requests access to their GDS Personal Information or otherwise raises any questions. In addition, if any European Traveler experiences an issue regarding GDS Personal Information that the European Traveler cannot resolve directly with Travelport, such traveler may contact their local data protection authority for further information. 
 
 If you do not consent to the data use described in this policy, you may choose not to use a Subscriber’s services.
 
-Inquiries may be directed to: 
+Inquiries may be directed to:: 
 
 Travelport  
 One Axis Park, 10 Hurricane Way  
 Langley, Berkshire SL3 8AG  
 United Kingdom  
-Attention: Privacy Officer/Legal Dept  
+Attention: Privacy Officer/Legal Dept
+
 T: +44 (0) 1753 288000  
-F: +44 (0) 1753 288001 | OR | Travelport  
+F: +44 (0) 1753 288001
+
+| OR | Travelport  
 300 Galleria Parkway  
 Atlanta, Georgia 30339  
 USA  
-Attention: Privacy Officer/Legal Dept  
+Attention: Privacy Officer/Legal Dept
+
 T: +1 770-563-7400  
 F: +1 770-563-7878  
+  
 ---|---|---  
   
+Once we receive your inquiry we will investigate the matter and respond to you promptly. We will endeavor to do this within 10 days. If this is not possible, we will endeavor to contact you and let you know about a revised timeframe. 
+
 **Publication and Effective Date**  
 This policy is published by Travelport, LP on behalf of the Travelport group companies. Travelport, LP is a Delaware USA limited partnership with its principal place of business located at 300 Galleria Parkway, Atlanta, Georgia 30339, USA, T: +1 770-563-7400, F: +1 770-563-7878. We may update this policy from time to time and will post a prominent notice to inform users about significant changes.
 
-Effective Date: This policy was last updated on March 12, 2014.  ** **[Click here](https://web.archive.org/Privacy-Policy/Privacy-Policy-Archives)**** to view prior versions.
+Effective Date: This policy was last updated on August 06, 2014. **[Click here](https://web.archive.org/Privacy-Policy/Privacy-Policy-Archives)** to view prior versions.
 
- 
+* * *
 
 
 
