@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filevice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075635id_/http%3A//filevice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filevice.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112005545id_/http%3A//filevice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Filevice - כותרת עמוד
+# Filevice - Easy way to share your files
 
 **Importance of your Privacy Policy**
 
