@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themusic.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113548id_/http%3A//themusic.com.au/meta/the-fine-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusic.com.au privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111053753id_/http%3A//themusic.com.au/meta/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ♫
+# Privacy Policy ♫ theMusic.com.au | Australia’s Premier Music News & Reviews Website
 
 **Privacy Policy**
 
@@ -40,7 +40,7 @@ We may collect your personal information from a variety of sources, including fr
 
 We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback).
 
-If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified.
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person's consent to provide such information for the purpose specified.
 
 **Why we collect it**
 
