@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordangliaeducation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080908id_/http%3A//www.nordangliaeducation.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordangliaeducation.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111131640id_/http%3A//www.nordangliaeducation.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
