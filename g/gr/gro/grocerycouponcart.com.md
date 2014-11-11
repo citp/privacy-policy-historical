@@ -1,57 +1,70 @@
-> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208111037id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111173923id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grocery Coupon Cart
 
-## Privacy Policy 
+Last Updated:  October 29, 2014
 
-Last Updated: November 11th, 2010
+This is the Privacy Policy of GroceryCouponCart.com (“us”, “we”, or “our” ) for your use of all pages and services provided on our website (collectively, the “Site”). 
 
-This is the Privacy Policy of GroceryCouponCart.com (“GCC”, or “us”, or “we”, or “our” ) for your use of all pages and services provided on our website (collectively, the “Site”). Site Visitor further acknowledges and agrees that we may update this Privacy Policy without notice at any time, and as a result, Site Visitors are encouraged to review these Terms each and every time they use the Site.
+We respect the privacy of those who access and/or use the Site (“you”, “your”, “user” or collectively “users”) and are committed to protecting the personally identifiable information we collect.
 
-We are committed to protecting your privacy. Please read our privacy policy below to learn more.
+1\. CHANGES TO THIS POLICY
 
-### What This Privacy Policy Covers
+If this Privacy Policy changes, we will post all changes in an amended version with a new “Last Updated” date at the top of this Privacy Policy.
 
-  * This Privacy Policy explains our privacy practices and applies to your use of the Site.
-  * This Privacy Policy covers how we treat the personal information we collect and receive related to your use of the Site.
-  * When we refer to “personal information”, what we mean is any information about you that is personally identifiable like your name, e-mail address, and any other information that is not otherwise publicly available.
-  * This Privacy Policy does not apply to the practices of people or companies that we do not own, control, employ or manage.
-  * **_Minors_** – You must be at least 18 years old to register or subscribe for the Site because it is available only to individuals who can form legally binding contracts under applicable law.
+2. ****INFORMATION THAT WE COLLECT****
 
+We collect two types of information from you. The first type is personal information that you actively choose to disclose (“Active Information”) and the second type is anonymous aggregate information collected in a manner not visible to you or others visiting the Site (“Passive Information”).
 
+**a. Active Information** **.** Examples of personally identifiable information that you provide to us may include your first and last name, address, email address and telephone number. In providing Active Information, you consent and agree to being contacted with information related to your inquiry and/or information regarding our or third parties’ products and services. If you provide personally identifiable information to us, you may later elect to have that information deleted from our files, or kept from being used by us for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
-### Information Collection
+**b. Passive Information** **.** We record information relating to your use of the Site, such as the information you click on, your browser type, IP address, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We may also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
-  * We may collect personal information about you when you visit and use the Site, when you register or subscribe for our e-mail newsletter, when you open our e-mail newsletters, when you visit the websites of some of our partners, and when you enter promotions or sweepstakes sponsored by or in connection with the Site.
-  * Furthermore, when you use the Site, we receive and record information from your computer and browser, including your IP address, Site cookie information, the type of software and hardware you are using and the Web page(s) you visit.
+3\. HOW COLLECTED INFORMATION IS USED
 
+We may share or sell your Active and/or Passive Information to our marketing partners and affiliates to provide you with commercial products that may be of interest. We also use this information to better target content in an effort to create a more personally relevant experience.
 
+**4\. USE OF COOKIES** ****
 
-### Sharing and Disclosing Information
+We use cookies to store users’ preferences and to record session information, for purposes including ensuring that users are not repeatedly offered the same material and to customize any newsletter, advertising, and Web page content based on browser type and user profile information. We may share, sell, or license cookies collected from your browser and hard drive to third-party advertisers. These authorized third parties may link your name, address, and e-mail address to other information which they collect, such as past online/offline purchase information and Web usage from other sites. To learn more about this practice click here: <http://www.networkadvertising.org/managing/opt_out.asp>. You may disable cookies by adjusting the settings on your Web browser. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so you may wish to review the “Help” menu of your browser to learn how to change your cookie preferences. Note, however, that you may be required to enable cookies in order to use certain functions on our Site.
 
-  * We do not rent or sell personal information about you to third parties, however, we reserve the right to share the personal information we collect about you through the Site with third parties when we have your permission or under the circumstances described below.
-  * We may use the data we collect about you for the following purposes:
-  * To provide you with the products or services you have requested from us or through the Site;
-  * To provide personal information, when required by law, in connection with security-related or law enforcement investigations, to comply with legal requirements, orders.
-  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law;
-  * To customize the content and provide targeted advertising for the Site and to improve the Site;
-  * To contact you with offers and/or third parties that we think may be of interest to you;
-  * To conduct research and provide anonymous reporting for internal and external clients;
-  * We may use your IP address to help diagnose problems with our servers and to administer our websites and to estimate the total number of Internet users who visit our websites from certain states or regions.
-  * We may provide data to trusted partners who work on our behalf to communicate with you about offers from us and our marketing partners. Note, these companies do not have any right to use or share the data for any other purposes;
-  * We may transfer, share, or disclose your personal information to third parties as part of any corporate reorganization process such as a merger, acquisition, and/or a sale of all, substantially all, or part of our assets, and/or a licensing agreement with third parties. We will provide you with notice before your personal information becomes subject to a different privacy policy unless the privacy policy remains tied to our own practices;
+5\. DO-NOT-TRACK POLICY FOR CALIFORNIA USERS
 
+We may collect users’ personally identifiable information while their Web browser’s “do-not-track” features – or other mechanisms that provide choice regarding the collection of personally identifiable information about consumers’ online activities – are activated. Further, while using our Site, third parties may collect users’ personally identifiable information relating to their online activities while “do-not-track” technologies and similar mechanisms are activated.
 
+6\. INFORMATION SHARING AND DISCLOSURE
 
-### Cookies and Other Technologies
+We may share, license, or sell information we collect to third parties for various marketing purposes, including their online marketing programs.  We also reserve the unequivocal right to release all your information, to the maximum extent permitted by law in the event that: (i) we believe that the Site is being or has been used to commit unlawful acts, (ii) the information is subpoenaed or otherwise required in a court proceeding, (iii) you violate or breach an agreement with the Site, (iv) you have submitted fraudulent or otherwise invalid information to this Site, (v) we believe that you may harm, or have harmed, the property or other rights of us, our employees, the Site’s other users or any other third party, (vi) we are sold to or otherwise acquired by any individual, entity or organization (i.e. to a successor entity in the event of sale of the business, including merger, bankruptcy or other ownership change), or (vii) when we otherwise deem it necessary or appropriate. We may disclose any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended from time to time, or any other applicable state or federal law, rule or regulation.
 
-We use cookies and other technologies to personalize the Site to your preferences and to monitor all of your interaction with the Site.
+7\. OPTING-OUT
 
-### Your Subscription Information and Preferences
+If you no longer wish to receive newsletter or promotional communications from us, you may opt-out by following the instructions included in each newsletter or promotional communication or by contacting us as provided in this Privacy Policy. You may continue to receive email communications from us for up to five (5) business days from the time we receive your unsubscribe request. Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
-  * We respect your right to control how your personal information is used. To edit your personal information, to unsubscribe from receiving our correspondence that you previously requested, update your account or to terminate your account, please visit our Edit Subscription page. If you are unable to update or delete your account, please contact us. We will respond to your request to delete or unsubscribe your account within 30 days.
-  * Information about how to opt out of receiving communications to which you are currently subscribed is included in every communication we send to you.
+8\. ACCESS/ACCURACY
 
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [insert email address] and we will make reasonable efforts to comply as soon as possible.
 
+9\. SECURITY OF INFORMATION
 
- 
+Use of the Site is at your own risk. We do, however, make reasonable efforts to secure your information, including, but not limited to, monitoring our network and data for intrusions. We also use industry-accepted standards to protect your information, including SSL encryption if transmitting sensitive information. Communications you may have with us via email or mail may not be secure unless we advise you that security measures are in place prior to your sending information.
+
+10\. LINKS TO THIRD PARTY SITES
+
+The Site may contain links to third party Web sites including sites with which we have no affiliation. We are not responsible for their privacy practices. It is recommended you read the privacy policies on all such third party Web sites.
+
+11\. CALIFORNIA PRIVACY RIGHTS
+
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [insert email address] with the words “Opt-Out” in the subject header.[  
+](file:///C:/Users/Dayne/Desktop/WeHeartFreebies%20com%20Privacy%20Policy%2010-23-13.docx#_msocom_1)
+
+12\. CHILDREN
+
+If you are under 18, you may not access or use the Site.  BY ACCESSING OR USING THE SITE, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD.  In compliance with COPPA, we do not knowingly collect personally identifiable information from users under 13.
+
+13\. CONTACT INFORMATION
+
+For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at Team@grocerycouponcart.com or send us correspondence at the following address:
+
+GroceryCouponCart.com  
+8466 N Lockwood Ridge Rd., Ste 143  
+Sarasota, FL 34243
