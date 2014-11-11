@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the farecompare.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628210946id_/http%3A//www.farecompare.com/about/privacy-at-farecompare) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farecompare.com privacy policy that was archived on 2014-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111010717id_/http%3A//www.farecompare.com/about/privacy-at-farecompare) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><!--<![endif]--><head>
         <title>Privacy Policy</title>
@@ -13,7 +13,7 @@
             <meta property="og:title" content="Privacy Policy">
                         <meta property="og:image" content="http://cdn.farecompare.com/resources/v2/components/facebook/images/facebook-og-logo.gif">
                         <meta property="og:description" content="Thank you for visiting FareCompare. FareCompare values your privacy and appreciate your use of our services. FareCompare employs best practices and all reasonable efforts to protect its registered and unregistered users’ information. Information we collect For each visitor to our Web page, our Web server automatically recognizes your IP location to enhance your website experience.">
-            <script type="text/javascript" async="" src="http://cdn.farecompare.com/resources/ga/ga.js"></script><script type="text/javascript">var fcOldUrl = "http://www.farecompare.com/articles/privacy-at-farecompare/";</script><meta property="og:url" content="http://www.farecompare.com/articles/privacy-at-farecompare/"><script type="text/javascript">var fcPostId = "17123";</script>
+            <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="http://cdn.farecompare.com/resources/ga/ga.js"></script><script type="text/javascript">var fcOldUrl = "http://www.farecompare.com/articles/privacy-at-farecompare/";</script><meta property="og:url" content="http://www.farecompare.com/articles/privacy-at-farecompare/"><script type="text/javascript">var fcPostId = "17123";</script>
         <link rel="shortcut icon" href="http://www.farecompare.com/cms/wp-content/themes/fare-compare/images/favicon.ico" type="image/x-icon">
 
 		<link rel="alternate" type="application/rss+xml" title="FareCompare » Feed" href="http://www.farecompare.com/about/feed/">
@@ -223,10 +223,62 @@ var FC_URL = 'http://www.farecompare.com/';
     <script type="text/javascript">var account="UA-204993-5";var fcAccount="UA-12114189-1";var domain="."+document.domain;var _gaq=_gaq||[];_gaq.push(["_setAccount",account],["_setDomainName",domain],["_trackPageview"],["_fc._setAccount",fcAccount],["_fc._setDomainName",domain],["_fc._initData"]);if(typeof(tracking)=="undefined"){var tracking={}}tracking._fired=[];tracking._trackEvent=function(d,f,b,e){var a=d.replace("_one-way","")+f+b;if(tracking._fired.indexOf(a)==-1){tracking._fired.push(a);var c=["_fc._trackEvent",d,f];if(typeof(b)!="undefined"){c.push(b)}if(typeof(e)!="undefined"){c.push(e)}_gaq.push(c)}};(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src="http://cdn.farecompare.com/resources/ga/ga.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)})();</script>
     -->
 
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("42e42c97dbbf71c74baf70b7cf50d9ea");
+
+mixpanel.set_config({ track_pageview: false });
+
+function get_param(param) {
+   var search = window.location.search.substring(1);
+   var compareKeyValuePair = function(pair) {
+      var key_value = pair.split('=');
+      var decodedKey = decodeURIComponent(key_value[0]);
+      var decodedValue = decodeURIComponent(key_value[1]);
+      if(decodedKey == param) return decodedValue;
+      return null;
+   };
+
+   var comparisonResult = null;
+
+   if(search.indexOf('&') > -1) {
+      var params = search.split('&');
+      for(var i = 0; i < params.length; i++) {
+         comparisonResult = compareKeyValuePair(params[i]); 
+         if(comparisonResult !== null) {
+            break;
+         }
+      }
+   } else {
+      comparisonResult = compareKeyValuePair(search);
+   }
+
+   return comparisonResult;
+}
+
+
+
+	mixpanel.track("Viewed Blog Page", {
+		"Page URI" : document.location.pathname,
+		"App Type" : "Blogs",
+	    	"Page Title" : document.title,
+
+		// last touch attribution US10560
+		"utm_medium_last"	: get_param("utm_medium"),
+		"utm_source_last"	: get_param("utm_source"),
+		"utm_campaign_last"	: get_param("utm_campaign"),
+		"utm_term_last"		: get_param("utm_term"),
+		"utm_content_last"	: get_param("utm_content")
+		
+		
+	});
+
+</script>
+
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk (enhanced)
 
-Served from: www.farecompare.com @ 2014-06-28 16:09:46 --></body></html>
+Served from: www.farecompare.com @ 2014-11-10 20:07:17 --></body></html>
