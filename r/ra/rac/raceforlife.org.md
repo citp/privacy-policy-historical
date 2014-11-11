@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622035758id_/http%3A//www.cancerresearchuk.org/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111185031id_/http%3A//www.cancerresearchuk.org/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Cancer Research UK
 
@@ -43,7 +43,7 @@ If you send feedback to the CancerHelp UK team, the feedback will be noted and y
 
 ## Your choices
 
-You have a choice about whether you want to receive information about our progress and fundraising activities. We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted. You can change your marketing preferences at any time by contacting Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD, by phone on 020 7121 6699, or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
+You have a choice about whether you want to receive information about our progress and fundraising activities. We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted. You can change your marketing preferences at any time by contacting Supporter Services at Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ, by phone on 0300 123 1022, or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
 
 ## Under 16s
 
@@ -75,7 +75,7 @@ You also consent to our transferring your information to countries or jurisdicti
 
 If you have created an account with us, you can sign into your account to access and update your information.
 
-You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you wish to exercise these rights, contact Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk)
+You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you wish to exercise these rights, contact Supporter Services at Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
 
 ## Links
 
