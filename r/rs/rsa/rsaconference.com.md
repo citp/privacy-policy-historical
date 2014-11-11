@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165221id_/http%3A//www.emc.com/legal/emc-corporation-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111082234id_/http%3A//www.emc.com/legal/emc-corporation-privacy-statement.htm) for the most accurate reproduction.*
 
 # EMC Corporation Privacy Statement - EMC
-
-[](https://privacy.truste.com/privacy-seal/EMC-Corporation/validation?rid=beed4676-e152-4a58-9ba6-7cb88e8da5f0 "TRUSTe European Safe Harbor certification")
 
 _**Updated: November 14, 2013**_
 
