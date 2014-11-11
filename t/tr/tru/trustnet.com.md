@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514123556id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111203414id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy | FE Trustnet
 
