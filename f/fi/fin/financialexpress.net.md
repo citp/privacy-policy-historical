@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084032id_/http%3A//www.financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111092600id_/http%3A//financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
 
 # FE Privacy Policy | FE Be Better Informed
 
