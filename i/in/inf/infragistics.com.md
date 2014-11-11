@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627015127id_/http%3A//www.infragistics.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111200700id_/http%3A//www.infragistics.com/legal/privacy) for the most accurate reproduction.*
 
 # Infragistics - Privacy Statement
 
 You take privacy seriously, and so does Infragistics. It's our way of sustaining your trust in Infragistics as well as in our products and services.
 
-## Information We Collect and Store
+##### Information We Collect and Store
 
-### Non-Personal Information
+###### Non-Personal Information
 
 In general, you can visit Infragistics on the World Wide Web or use our applications without telling us who you are or revealing any information about yourself. 
 
@@ -16,11 +16,11 @@ Our desktop and mobile applications collect anonymous information about your use
 
 We collect anonymous information both directly and via use of third party services such as Google Analytics and Flurry.
 
-### Information You Provide
+###### Information You Provide
 
 We ask you to register in certain circumstances, including for example, when you download trial or free software, sign up for newsletter services, download patches, purchase software, register software, use our support forums or join a limited-access premium service.   As part of the registration process, we collect personal information from you in order to provide service.  Information we collect from you includes personal information, such as name, e-mail address, mailing address, phone number or credit card number ("Registration Information").  
 
-## How We Use Collected Information
+###### How We Use Collected Information
 
 We may use collected information for several purposes:
 
@@ -36,7 +36,7 @@ We may use collected information for several purposes:
     * in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations);
     * as required by law, for example, in response to a subpoena or search warrant;
     * to outside auditors who have agreed to keep the information confidential;
-    * as necessary to protect the rights, safety, or property of [COMPANY NAME], its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction.
+    * as necessary to protect the rights, safety, or property of Infragistics, its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction.
     * as necessary to enforce the Terms of Service.
  
 
@@ -44,7 +44,7 @@ We may use collected information for several purposes:
 
 If you don't want Infragistics to send you e-mail or postal mail regarding Infragistics' products, services, or special offers, you may opt-out at any time.  
 
-## Your Data
+###### Your Data
 
 In the course of using certain of our applications and services, you may provide our applications or services with access to your data (including files and personal information), either locally on a device or remotely on servers.  For example, you may access contact details or information stored on servers via SharePlus or ReportPlus.  Where our applications access your data, we do so only for the purpose of providing the service.    
 
@@ -54,6 +54,6 @@ If you choose to use our support services, you may post information on our suppo
 
 We do not transmit or otherwise use your data for any purpose other than fulfilling the service.
 
-## Contacting Us
+###### Contacting Us
 
 Please feel free to contact Infragistics at [privacy@infragistics.com](mailto:privacy@infragistics.com) with any questions, comments, or concerns.
