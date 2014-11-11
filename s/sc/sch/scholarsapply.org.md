@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scholarsapply.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083121id_/http%3A//scholarshipamerica.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarsapply.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111090857id_/http%3A//scholarshipamerica.org/privacy.php) for the most accurate reproduction.*
 
 # Scholarship America Privacy Policy
 
 Scholarship America recognizes the importance of data privacy. We are dedicated to protecting your privacy and handling any personal information you provide to us with care and respect. This privacy policy explains data collection and use.
 
-Scholarship America complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Scholarship America has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Scholarship America’s certification, please visit <http://www.export.gov/safeharbor/>
+Scholarship America complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Scholarship America has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Scholarship America’s certification, please visit [http://www.export.gov/safeharbor.](http://www.export.gov/safeharbor/)
 
 By accessing the Site and using its services, you confirm that you have read and consent to the information practices described in the policy. 
 
@@ -72,7 +72,7 @@ Scholarship America wants your information and preferences to be accurate and co
 
 Scholarship America  
 Development Department  
-1550 American Boulevard E, Suite 155  
+7900 International Drive, Suite 500  
 Minneapolis, MN 55425  
 Or email: [development@scholarshipamerica.org](mailto:development@scholarshipamerica.org)
 
