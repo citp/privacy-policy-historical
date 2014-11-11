@@ -1,38 +1,27 @@
-> *The following text is extracted and transformed from the faceporn.no privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822041621id_/http%3A//www.faceporn.no/legal/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceporn.no privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111233757id_/http%3A//members.faceporn.com/privacy) for the most accurate reproduction.*
 
-# Faceporn.no | Legal
+# Privacy Policy - members.faceporn.com
 
-This document details important information regarding the use and disclosure of User Data collected on Faceporn. The security of your Data is very important to us and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. Faceporn expressly and strictly limits its membership and/or viewing privileges to adults, atleast 18 years of age and over or having attained the age of majority in their community. All persons who do not meet it's criteria are strictly forbidden from accessing or viewing the contents of Faceporn. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+## This Privacy Policy is effective for members.faceporn.com members  
+Last edition — 1 June 2014
 
-## Data Collected
+The members.faceporn.com web-site and the service is a member of White Label Dating Solutions & Dating Factory network, which is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
 
-### Personal Information:
+members.faceporn.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the members.faceporn.com web-site. members.faceporn.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues.
 
-  * Non-Registered users can watch content without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-  * Registered Members: Registration is required for uploading content, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), email address (required) and date of birth (required). Any additional personal information may be added on a voluntary basis after registration for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit Faceporn, we may send one or more cookies to your computer that uniquely identifies your browser session. Faceporn uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit Faceporn, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence.
+members.faceporn.com may change some clauses of this Policy from time to time, and members are advised to review this Policy regularly to make sure they read and understand the most current version of it.
+
+  1. All the information you fill about you on your profile will be displayed on your profile page. We are required to remove any bad language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the members.faceporn.com web-site. We will only post pictures and images which meet the editorial guidelines set out in Terms of use.
+  2. We will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.
+  3. We will not share your personal information with any third party for marketing purposes without your permission.
+  4. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the members.faceporn.com website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
+  5. Your individual use of members.faceporn.com website and your interaction with other members through this site will be kept strictly private.
+  6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you. You may unsubscribe from members.faceporn.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every members.faceporn.com email.
+  7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by members.faceporn.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous.
+  8. Our members have the following choices to modify or delete their information from our database: 
+    * Send an email to [Customer support](https://web.archive.org/contacts/)
+    * Log in with your password and change/delete your profile
 
 
 
-### Uses:
-
-Your personally identifiable information submitted to Faceporn is used to provide to the user the website's features and special personalized features. Your chosen username (not your email address) is displayed to other members alongside the content you upload, including content, comments, the messages you send through the Faceporn private mail, etc. Any videos/photos or other content that you submit to Faceporn may be redistributed through the internet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Faceporn user-experience.
-
-## Disclosure of information
-
-If under duty to do so Faceporn may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Faceporn or our members or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Faceporn's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-
-Should you deliberately upload any illegal material, Faceporn shall forward all available information to all relevant authorities and this without notice. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-
-## Security
-
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Faceporn uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Faceporn and you do so at your own risk.
-
-## Your rights
-
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [contact](http://www.faceporn.no/contact) section. If you have additional questions then please use our [contact form](http://www.faceporn.no/contact).
+If you have questions or concerns, please use [Customer support](https://web.archive.org/contacts/) form on members.faceporn.com web-site and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
