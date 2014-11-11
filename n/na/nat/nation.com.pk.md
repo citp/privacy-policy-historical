@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nation.com.pk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630081234id_/http%3A//www.nation.com.pk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nation.com.pk privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111032947id_/http%3A//nation.com.pk/privacy-policy.html) for the most accurate reproduction.*
 
 # The Nation – News, ePaper and Today's Paper from Pakistan
 
