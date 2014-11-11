@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328140947id_/http%3A//kstp.com/article/stories/s277.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111173823id_/http%3A//kstp.com/article/stories/s277.shtml) for the most accurate reproduction.*
 
 # 5 EYEWITNESS NEWS Privacy Policy | KSTP TV - Minneapolis and St. Paul
 
