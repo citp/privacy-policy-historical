@@ -1,55 +1,29 @@
-> *The following text is extracted and transformed from the appup.net privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425092909id_/http%3A//www.appup.com/appup-privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appup.net privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111172554id_/http%3A//www.intel.com/content/www/us/en/privacy/intel-online-privacy-notice-summary.html) for the most accurate reproduction.*
 
-# Intel Online Privacy Notice Summary - Intel AppUp center
+# Intel Online Privacy Notice Summary
 
-_Intel is committed to respecting your privacy. Our personal information handling practices are outlined below and in supplemental notices at the point of collection._
+**Our web site uses cookies.   For more information about how we use cookies, please see our [Cookie Notice](https://web.archive.org/content/www/us/en/privacy/intel-cookie-notice.html). **
 
-### Collection of Your Personal Information
+## **Personal Information**
 
-Intel collects personal information such as your name, address, email address, and payment card information for a variety of reasons. We will explain why we need to collect this information when we ask you for it.
+Intel collects personal information for a variety of reasons. For example, to deliver a product or service that you have requested, enable your participation in online activities, or personalize your experience. We will explain why we need to collect this information when we ask you for it and keep it to fulfill the purposes for which it was collected or as required by applicable laws or regulations.  
 
-### Use of Your Personal Information
+## **Uses**
 
-Intel will only use your personal information for the purpose it was collected. For example, to deliver a product or service that you have requested, enable your participation in online activities, or personalize your experience. We will not use your personal information for a different purpose without first asking your permission.
+Intel will use your personal information for the purpose it was collected. We will not use your personal information for a different purpose without first asking your permission. We may share your personal information with Intel Corporation in the US, with any Intel subsidiary worldwide, or with authorized third parties. We do not allow third parties to use your personal information for a different purpose.
 
-### Sharing Your Personal Information
+## Choices
 
-Intel may share your personal information with Intel Corporation in the US, with any Intel subsidiary worldwide, or with authorized third parties. We only provide third parties with the minimum amount of personal information necessary to complete the requested service. We do not allow third parties to use your personal information for a different purpose.
+You may access and update your personal information and communication preferences by using one of the following methods: visit the specific product or service web site; visit the [Intel Subscription Center](http://www.intel.com/intel/subscriptions.htm); visit the [Intel Profile Center](https://ssl.intel.com/ipc-app/default.aspx); or [contact us](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html) using the online form.
 
-We may need to access or disclose your personal information to comply with the law or legal process and to exercise our legal rights or defend against legal claims.
+## **How to Contact Us**
 
-We may share personal information and any additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, violations of Intel's terms of use, or as otherwise required by law.
+You can contact Intel by using the [Contact Us](https://web.archive.org/content/www/us/en/forms/privacy-contact-us.html) form or send a letter to the mailing address listed below. Please include your contact information, name of the Intel web site or service, and a detailed description of your request or privacy concern.
 
-### Communication Preferences
+Intel Corporation  
+ATTN: Privacy  
+M/S RNB4-145  
+2200 Mission College Blvd.  
+Santa Clara, CA 95054 USA
 
-You can manage your communication preferences using one of the following methods: visit the specific product or service web site; visit the [Intel Subscription Center](http://www.intel.com/intel/subscriptions.htm); [contact us](http://www.intel.com/sites/sitewide/en_US/privacy/contactus.htm) using the online form; or send a letter to the mailing address below including your name, e-mail address, and the details of your request. For example, if you wish to unsubscribe from a newsletter, include the name of the newsletter.
-
-### Accessing Your Personal Information
-
-You may access and update your personal information using one of the following methods: visit the specific product or service web site; visit the [Intel Profile Center](https://ssl.intel.com/ipc-app/default.aspx); [contact us](http://www.intel.com/sites/sitewide/en_US/privacy/contactus.htm) using the online form; or send a letter to the mailing address below including your name, e-mail address, account id, and purpose of request.
-
-### Security of Your Personal Information
-
-Intel uses a combination of industry standard security measures to protect your personal information from loss and misuse. For example, we use encryption when transmitting payment card information over the Internet.
-
-### Personalization
-
-Intel uses cookies, web beacons, and the personal information you provide us to personalize your online experience and improve our services. For example, we use a cookie to remember the country and language preferences you selected on our web site.
-
-### Data Retention
-
-Intel will only retain your personal information to fulfill the purposes for which it was collected or as required by applicable laws or regulations.
-
-### Linked Sites
-
-Intel may provide links to web sites operated by third parties that are not covered by this policy. We encourage you to review the privacy policies posted on those web sites.
-
-### Children's Privacy
-
-Intel does not normally collect the personal information of children under the age of 13. If we do, we require verifiable parental consent, prior to collection. If we learn that we have collected children's personal information without parental consent, we will delete it from our systems.
-
-### Transfer of Personal Information
-
-Intel may transfer your personal information to Intel Corporation in the US or to any Intel subsidiary worldwide. We may transfer your personal information to third parties located in another country for purposes of processing, storage, or fulfillment.
-
-We participate in the U.S. Department of Commerce's Safe Harbor principles for off-line, online, and manually processed personal data.
+**Last Updated: January 2009**
