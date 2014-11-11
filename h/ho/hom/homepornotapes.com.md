@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepornotapes.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621114939id_/http%3A//www.homepornotapes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepornotapes.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111020136id_/http%3A//www.homepornotapes.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -26,7 +26,7 @@ We reserve the right to contact you by e-mail in order to inform you about statu
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 **How You Can Access Or Correct Your Information:**  
-You can access all your personally identifiable information that we collect online and maintain by using your account information at Segpay's (365Billing, Epoch) website. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before  
+You can access all your personally identifiable information that we collect online and maintain by using your account information at Segpay's website. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before  
 granting access or making corrections.
 
 **How To Contact Us:**  
