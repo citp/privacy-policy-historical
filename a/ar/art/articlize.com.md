@@ -1,41 +1,75 @@
-> *The following text is extracted and transformed from the articlize.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110120947id_/http%3A//articlize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlize.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111081738id_/http%3A//yeform.com/includes/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy » Articlize – Article Directory
+# Privacy Policy - YeForm
 
-Articlize.com offer its visitors option for article posting in its free article directory. Articlize.com may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Articlize.com will never sell, barter, or rent your email address to any unauthorized third party.
+##  Privacy Policy
 
-How we gather information from users
+* * *
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. Like most Web sites, Articlize.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+This Privacy Policy governs the manner in which YeForm collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://yeform.com](https://web.archive.org/web/20141111081738id_/http%3A//yeform.com/includes/%3CA%20href='http://yeform.com/)http://yeform.com/">http://yeform.com> website ("Site"). This privacy policy applies to the Site and all products and services offered by Online Forms.
 
-What we do with the information we collect
+**Personal identification information  
+**   
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+**Non-personal identification information  
+**   
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We may use Personally Identifiable Information collected on www.Articlize.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.Articlize.com and other topics we think you might find of interest.
+**Web browser cookies**
 
-Personally Identifiable Information collected by Articlize.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Affiliated sites, linked sites and advertisements
+**How we use collected information  
+**   
+Online Forms may collect and use Users personal information for the following purposes:
 
-Articlize.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.Articlize.com page, certain content that is actually created or hosted by a third party. Also, through Articlize.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Articlize.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Articlize.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Articlize.com and this policy.
 
-Children
+**How we protect your information**
 
-Articlize.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Articlize.com has any information from or about anyone under 13, please contact us at the address listed below.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Changes to this Policy
+**Sharing your personal information  
+**   
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Articlize.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+**Third party websites**
 
-Governing law
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Chandigarh.
+**Advertising  
+**   
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Chandigarh, under the Indian court rules. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+**Google Adsense**
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://web.archive.org/web/20141111081738id_/http%3A//yeform.com/includes/%3CA%20href='http://www.google.com/privacy_ads.html)http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html>
+
+**Changes to this privacy policy  
+**   
+Online Forms has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us  
+**   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Yeform](https://web.archive.org/web/20141111081738id_/http%3A//yeform.com/includes/%3CA%20href='http://yeform.com/)   
+Neeru Gehlawat  
+Yeform Chandigarh  
+9780369920  
+[onlineforms3@gmail.com](mailto:onlineforms3@gmail.com)
+
+This document was last updated on December 20, 2013
