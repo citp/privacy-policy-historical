@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210084052id_/http%3A//www.spreadsheet123.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111220031id_/http%3A//www.spreadsheet123.com/privacy) for the most accurate reproduction.*
 
-# Spreadsheet123 - Privacy Policy.
-
-Last Revised: **Jan 30, 2011**
+# Spreadsheet123.com | Privacy Policy
 
 At Spreadsheet123 Ltd **we treat your privacy with respect** and we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
 
-Spreadsheet123.com (further mentioned as "site") is a property of **Spreadsheet123 Ltd** (further mentioned as "We", "Us" or "Our") as well as the associates, employees, partners, and affiliates who help to provide our **Services** and deliver the **Content** to you.
+Spreadsheet123.com (further mentioned as "site") is a property of **Spreadsheet123 Ltd** (further mentioned as "We", "Us" or "Our") as well as the associates, employees, partners, and affiliates who help to provide our **services** and deliver the **content** to you.
 
 You are strictly prohibited from use of our service If you disagree or have any objections related to this Privacy Policy in full or with any of its part.
 
@@ -20,7 +18,7 @@ We do update this Policy from time to time by updating this page so please do re
 
 ## Information We Collect
 
-In operating our website we may collect and process the following data about you: 
+In operating our website we may collect and process the following data about you:
 
   * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
   * Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.
@@ -54,8 +52,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ## Use of Your Information
 
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:  
-
+The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
   * To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
   * To meet our contractual commitments to you.
@@ -136,4 +133,4 @@ By using our site, you consent to our privacy policy.
 
 ## Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. We can be reached via our [Contact Us](https://web.archive.org/emailus.html) page.
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. We can be reached via our [contact](https://web.archive.org/emailus.html) page.
