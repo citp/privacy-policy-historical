@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043044id_/http%3A//registrar.uoregon.edu/records_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111210039id_/http%3A//registrar.uoregon.edu/records_privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
@@ -8,11 +8,11 @@ To see how FERPA regulations apply to you, select a category.
 
 ## Student Records Privacy Policy For Students
 
-The University of Oregon is committed to the privacy and security of our students. The University of Oregon Student Records Policy complies with the [Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) \- sometimes called the Buckley Amendment - which establishes students’ rights and institutions’ responsibilities regarding the privacy of education records. It provides guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
+The University of Oregon is committed to the privacy and security of our students. The University of Oregon Student Records Policy complies with the [Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) \- sometimes called the Buckley Amendment - which establishes students’ rights and institutions’ responsibilities regarding the privacy of education records. It provides guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
 
 ### Your Rights Under FERPA
 
-As a current or former university student, [The Family Educational Rights and Privacy Act (FERPA)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) affords you certain rights regarding your education records. They are:
+As a current or former university student, [The Family Educational Rights and Privacy Act (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) affords you certain rights regarding your education records. They are:
 
   * The right to inspect and review your records. You may request to review your records by submitting a written request to the University Registrar or other school official having custody of such records; 
   * The right to seek amendment of your records which you believe are inaccurate, misleading, or otherwise in violation of your privacy rights. Requests for amendment of records must be in writing and must describe the specific portions of specific records that you wish to have amended, text or instructions as to the change desired, and the reasons why the change is justified;
@@ -343,7 +343,7 @@ Disclosure of information from education records is allowed under the University
 
   * [Full text of the University of Oregon Student Records Policy](http://arcweb.sos.state.or.us/rules/OARS_500/OAR_571/571_020.html "Full text of the University of Oregon Student Records Policy")
   * [Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html)
-  * [More information about the federal Family Educational Rights and Privacy Act](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html "More information about the federal Family Educational Rights and Privacy Act")
+  * [More information about the federal Family Educational Rights and Privacy Act](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "More information about the federal Family Educational Rights and Privacy Act")
   * [More information about the Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html "More information about the Family Policy Compliance Office \(FPCO\)")
 
 
@@ -683,14 +683,6 @@ Whether a graduate student has a GTF appointment and their teaching assignment |
 |   
   
 **Note:** items marked as releasable will be provided to a third party upon request unless a Directory Information Restriction has been filed.
-
-### Student Records Privacy Quiz
-
-[Take the Student Records Policy Quiz](https://web.archive.org/web/20140626043044id_/http://registrar.uoregon.edu/records_privacy/?width=1000&height=760&inline=true#inline-quiz "Student Records Privacy Quiz").
-
-### University of Oregon Student Records Policy
-
-[Full text of the University of Oregon Student Records Policy](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html)
 
 ### Forms and Other Resources
 
