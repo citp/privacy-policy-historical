@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highstakesdb.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034625id_/http%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstakesdb.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111045838id_/http%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HighstakesDB
 
