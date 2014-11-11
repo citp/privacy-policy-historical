@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424172357id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111173853id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We offer a number of services that do not require you to register for an account
   * Affiliated sites – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to DiabetesDaily.com in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
   * Links – DiabetesDaily.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising.
   * Other sites – This Privacy Policy applies to DiabetesDaily.com services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
-  * Public Profile Information \- You may add information to your public profile including type of diabetes, age and gender. There are settings available to determine whether this information is public, private, or visible only to people that you select. This information is public by default.
+  * Public Profile Information – You may add information to your public profile including type of diabetes, age and gender. There are settings available to determine whether this information is public, private, or visible only to people that you select. This information is public by default.
 
 
 
