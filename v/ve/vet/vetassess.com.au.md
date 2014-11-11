@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095348id_/http%3A//www.vetassess.com.au/privacy_disclaimer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111195917id_/http%3A//www.vetassess.com.au/Privacy) for the most accurate reproduction.*
 
-# Privacy - VETASSESS
+# VETASSESS - Vocational Education Training Services
+
+* * *
 
 ## Our website
 
-VETASSESS ABN 44 434 746 781 ('VETASSESS') is committed to protecting your privacy. This statement sets out VETASSESS' privacy policy in relation to www.vetassess.com.au ('the Site') and electronic transmission privacy issues. The Site may contain links to other web sites. VETASSESS is not responsible for the privacy practices or the content of any web sites linked to the Site.
+VETASSESS ABN 74 802 942 886 ('VETASSESS') is committed to protecting your privacy. This statement sets out VETASSESS' privacy policy in relation to www.vetassess.com.au ('the Site') and electronic transmission privacy issues. The Site may contain links to other web sites. VETASSESS is not responsible for the privacy practices or the content of any web sites linked to the Site.
 
 Whenever VETASSESS collects, handles, stores, uses or discloses information about you at the Site, it aims to comply with the applicable Privacy Principles that apply to protect your personal information. 'Personal information' means information or an opinion (including information in a database) about an individual whose identity is apparent or can reasonably be ascertained.
 
@@ -66,7 +68,7 @@ VETASSESS uses cookies to understand usage of the Site and to improve the conten
 
 ## Contact details
 
-Please [contact us](https://web.archive.org/web/20140625095348id_/http%3A//www.vetassess.com.au/about_vetassess/contact_us.cfm) if you:
+Please [contact us](https://web.archive.org/Home/Contact-Us) if you:
 
   * have any questions about this policy
   * would like to request access to the personal information that VETASSESS holds about you
