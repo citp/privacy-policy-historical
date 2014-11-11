@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031812id_/http%3A//www.themanual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111010550id_/http%3A//www.themanual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Manual
 
