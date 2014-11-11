@@ -1,32 +1,7 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072631id_/http%3A//clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111073111id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Clearwater Technologies, Inc. | Privacy Policy | Boise, Idaho. USA
 
-| **July 20, 2009**  
-
-
-#### IDEC Pilot Lights
-
-[**The AP22M Series**](https://web.archive.org/web/20140625072631id_/http%3A//clrwtr.com/IDEC-22mm-Switches.htm) of pilot lights feature ultra-bright, sunlight-viewable displays. These pilot lights are ideal for applications where high visibility in bright conditions is critical. Featuring industry standard 22mm diameter, and a specially designed LED and lens combination that provide illumination up to 100 times brighter than standard pilot lights when viewed from the side! Available in red, green, blue, yellow, amber, and white,  
-  
----  
-  
-#### Banner Wireless
-
-[**The SureCross Performance Wireless I/O Network**](https://web.archive.org/web/20140625072631id_/http%3A//clrwtr.com/Banner-Wireless-Configurable-Gateways-Nodes.htm) provides reliable monitoring without the burden of wiring or conduit installation. The SureCross wireless network can operate independently or in conjunction with a host system, PLC, and/or PC software. Each wireless network system consists of one Gateway and one or more Nodes. Devices ship with factory defined inputs and outputs that may be all discrete, all analog, or a mix of discrete and analog I/O.  
-  
-|  | 
-
-### Clearwater Tech
-
-| 
-
-Loading  
-  
----|---  
-  
-**[Home](https://web.archive.org/web/20140625072631id_/http%3A//clrwtr.com/Default.htm)   >   [Company](https://web.archive.org/web/20140625072631id_/http%3A//clrwtr.com/about_us.htm)   >   Privacy Policy**  
-  
 [**www.clrwtr.com**](http://www.clrwtr.com/) wants to demonstrate our firm commitment to privacy by providing you this privacy policy statement.
 
 ### Cookies
@@ -43,11 +18,4 @@ Clearwater Technologies, Inc. makes commercially reasonable efforts to protect t
 
 ### Contact Webmaster
 
-For any questions pertaining to our privacy policy, the practices of this site, or your dealings with this website, e-mail our [**Webmaster**](mailto:donm@clrwtr.com), or call us at (800) 894-0412.  
-  
-|   
----  
-**Part Number:**  
-  
-Can't find a part number?  
-[E-mail](mailto:info@clrwtr.com) Us!
+For any questions pertaining to our privacy policy, the practices of this site, or your dealings with this website, e-mail our [**Webmaster**](mailto:donm@clrwtr.com), or call us at (800) 894-0412.
