@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c4isrnet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124255id_/http%3A//www.c4isrnet.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4isrnet.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111035656id_/http%3A//www.c4isrnet.com/section/privacy) for the most accurate reproduction.*
 
-# privacy | privacy | c4isrnet.com
+# PRIVACY | PRIVACY | c4isrnet.com
 
 Last Updated: January 3, 2013
 
