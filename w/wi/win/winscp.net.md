@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413234933id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112230623id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
@@ -21,8 +21,6 @@ Third party vendors, including Google, use cookies to serve ads on our site. Goo
 ### Installing WinSCP application
 
 When installing WinSCP, we might collect anonymous information about the number of initiated and finished installations per geo-location and language. No private information is collected. WinSCP installer might offer you to install a third party application along with WinSCP, in such a case we collect also statistics for its installations. Note that before deciding to install any third party application, you are required to agree to its separate and independent Terms of use and Privacy policy. 
-
-Some versions of WinSCP sponsored installation package use [OpenCandy](https://web.archive.org/eng/docs/opencandy) advertising module (but only in the sponsored installer, never in the WinSCP application). 
 
 ### Using WinSCP application
 
