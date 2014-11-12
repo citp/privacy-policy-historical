@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelinkconverter1.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065529id_/http%3A//safelinkconverter1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelinkconverter1.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112115806id_/http%3A//safelinkconverter1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Safe Link Converter
 
@@ -39,9 +39,9 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+**Third party  Advertising**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp.>
 
 **California Online Privacy Protection Act Compliance**
 
@@ -69,13 +69,28 @@ The revenue share percentage with our authors depend on their level of registrat
 
 We accept all websites which do not contain or links to any adult content, drugs, liquor or copyrighted content .
 
+**Copyright Protection**
+
+Our website “Safelinkconverter.com” and its linked domains are protected by Copyright Law of State of California.  
+So copying anything from our site is against our policies and its a major violation and We can are authorized to take any legal measures necessary.
+
+**Advertisments**
+
+_We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, emal address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.as](http://www.networkadvertising.org/managing/opt_out.asp)_
+
+**Payment by Us**
+
+We only give payment to some Elite Members only from our side only if the person / company is not violating any of our polices and it not trying to cheat our system in any way. If a company / person is found doing fraud with our service / system then we can ban user , block payment , deduct the amount for fraud against our system as well as take any legal actions according to loss we incurred due the fraud done by a company / person.
+
+We are not liable to pay according to the reports received.The final decision of sending payment depends on us.
+
 **Your Consent**
 
 By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page.Please keep visiting this page for any changes because you will not be notified about any changes.
 
 **Contacting Us**
 
