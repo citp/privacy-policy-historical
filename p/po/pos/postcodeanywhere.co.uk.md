@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025222id_/http%3A//www.postcodeanywhere.co.uk/privacy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112111201id_/http%3A//www.postcodeanywhere.co.uk/privacy) for the most accurate reproduction.*
 
 # Postcode Anywhere Privacy Policy
 
-The purpose of this document is to bring to your attention Postcode Anywhere (Europe) Ltd’s policy regarding the use of, and protection of, personal data stored on our systems. It also explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+The purpose of this document is to bring to your attention Postcode Anywhere (Europe) Ltd's policy regarding the use of, and protection of, personal data stored on our systems. It also explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
 ## Use of personal information
 
@@ -20,9 +20,9 @@ We may also wish to provide you with information about special features of our w
 
 We collect email addresses for 3 main purposes.
 
-  1. Email is our preferred means of communication, and will be used to notify our customers of developments within the Postcode Anywhere services.
-  2. We use email to administer your account, for example, by alerting you when your account balance reaches a given level.
-  3. The email address on registration will be used to authenticate users who have forgotten passwords or user account IDs.
+  * Email is our preferred means of communication, and will be used to notify our customers of developments within the Postcode Anywhere services.
+  * We use email to administer your account, for example, by alerting you when your account balance reaches a given level.
+  * The email address on registration will be used to authenticate users who have forgotten passwords or user account IDs.
 
 
 
@@ -75,7 +75,7 @@ When you choose to purchase an item from our website a session cookie is set to 
 
 If you choose to automatically log on to your account each time you visit the website, a cookie will be stored on your PC containing an encrypted version of your account code which is then used to log you in to the website whenever you visit.
 
-Read more about [our use of cookies](https://web.archive.org/web/20140331025222id_/http%3A//www.postcodeanywhere.co.uk/privacy/cookies.aspx).
+Read more about [our use of cookies](https://web.archive.org/cookies/).
 
 ## Use of Web Beacons
 
@@ -87,7 +87,7 @@ We may use a third party to serve advertisements on our site. Cookies may be ass
 
 ## Disabling/Enabling Cookies
 
-If you register with our website, or if you continue to use this website, you agree to our use of cookies. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our website if cookies are disabled. In order to block or delete cookies, select the “Help” entry under the “Help” menu of your internet browser and type in “delete cookies” or “block cookies” to find a step by step process of how to undertake such actions.
+If you register with our website, or if you continue to use this website, you agree to our use of cookies. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our website if cookies are disabled. In order to block or delete cookies, select the “Help” entry under the ""Help" menu of your internet browser and type in ""delete cookies" or "block cookies" to find a step by step process of how to undertake such actions.
 
 ## Third party sites
 
