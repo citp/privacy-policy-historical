@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113004553id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112090616id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html%3ForderBy%3Dname) for the most accurate reproduction.*
 
-# WorldofVolley ::
+# WorldofVolley :: / orderBy=name
 
 **  Introduction**
 
@@ -18,7 +18,7 @@
 
 Information About Yourself.
 
-** When you [Create](https://web.archive.org/about-wov/WoV_Account.html)[ WoV Account](https://web.archive.org/about-wov/WoV_Account.html) you provide us with your name and email. During the registration process we give you the opportunity to connect with other players, coaches, managers and agencies. You will also be able to add a picture of yourself. In some cases we may ask for additional information for security reasons or to provide specific services to you. Once you register you can provide other information about yourself by connecting with, for example, your current club, national team, personal statistics, videos and much more.  You can also provide your personal information.
+** When you [Create WoV Account](https://web.archive.org/about-wov/WoV_Account.html) you provide us with your name and email. During the registration process we give you the opportunity to connect with other players, coaches, managers and agencies. You will also be able to add a picture of yourself. In some cases we may ask for additional information for security reasons or to provide specific services to you. Once you register you can provide other information about yourself by connecting with, for example, your current club, national team, personal statistics, videos and much more.  You can also provide your personal information.
 
 **Content.** One of the primary reasons people use WorldofVolley is to share content with others. Examples include when you update your information, upload or take a photo, upload a video, make a comment on BPR, write something on Forum, write a note, or send someone a M[essage](https://web.archive.org/about-wov/WoV_Features.html). If you do not want us to store metadata associated with content you share on WorldofVolley (such as photos), please remove the metadata before uploading the content.
 
@@ -121,7 +121,7 @@ We do our best to keep your information secure, but we need your help. For more 
 
 **9\. Other Terms**
 
-**Changes.** We may change this Privacy Policy pursuant to the procedures outlined in the WorldofVolley [Statement of ](https://web.archive.org/about-wov/terms/Statement-of-Rights-and-Responsibilities.html)[Rights and Responsibilities](https://web.archive.org/about-wov/terms/Statement-of-Rights-and-Responsibilities.html). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances. 
+**Changes.** We may change this Privacy Policy pursuant to the procedures outlined in the WorldofVolley [Statement of Rights and Responsibilities](https://web.archive.org/about-wov/terms/Statement-of-Rights-and-Responsibilities.html). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances. 
 
 **Consent to Collection and Processing in the United States.** By using WorldofVolley, you consent to having your personal data transferred to and processed in the United States.
 
