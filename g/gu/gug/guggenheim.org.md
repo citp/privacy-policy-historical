@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010531id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112142id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,7 @@ You can opt out of certain service providers’ use of cookies. For example:
 
   * Google permits you to register your preferences at <http://www.google.com/ads/preferences>;
   * Google Analytics also provides an opt-out add-on for your browser ([https://tools.google.com/dlpage/gaoptout/)](https://tools.google.com/dlpage/gaoptout/ "tools.google.com/dlpage/gaoptout/");
-  * The Self-Regulatory Program for Online Behavioral Advertising (<http://www.aboutads.info/choices>) and the National Advertising Initiative ([http://www.networkadvertising.org/choices/](http://www.aboutads.info/choices "networkadvertising.org/choices")) have websites that allow you to register your choice to opt-out of receiving interest-based advertisements from certain companies that participate in such initiatives;
-  * Yahoo permits you to register your preferences at <https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com>.
+  * The Self-Regulatory Program for Online Behavioral Advertising (<http://www.aboutads.info/choices>) and the National Advertising Initiative ([http://www.networkadvertising.org/choices/](http://www.aboutads.info/choices "networkadvertising.org/choices")) have websites that allow you to register your choice to opt-out of receiving interest-based advertisements from certain companies that participate in such initiatives
 
 
 
@@ -48,8 +47,6 @@ Please note that when you make an online donation or purchase a Guggenheim membe
 ##### Online Store Purchases
 
 When you order a product from the Guggenheim Museum "Online Store," the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Sharing of Personal Data with Others."
-
-Please note that when you purchase a Guggenheim product online, you exit the Site and enter the site of our store merchant, "Yahoo." Yahoo has an independent privacy policy that governs Yahoo's use of Personal Data, which is collected during your purchase. Please consult the [Yahoo Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html "Yahoo Privacy Policy") for more information.
 
 ##### Online Admissions and Event Registrations and Tickets
 
