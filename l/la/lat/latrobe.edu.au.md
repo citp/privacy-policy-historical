@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330093642id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112224211id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
 # Website privacy statement, Statements, La Trobe University
 
@@ -8,7 +8,7 @@ The La Trobe web site privacy statement will be periodically updated to reflect 
 
 ## Privacy laws
 
-In regard to personal information collected from the University web site, La Trobe University must comply with the Victorian Information Privacy Act 2000 and the Health Records Act 2001.
+In regard to personal information collected from the University web site, La Trobe University must comply with the Victorian Privacy and Data Protection Act (2014) and the Health Records Act 2001.
 
 ## Collecting, using and disclosing personal information
 
