@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529114516id_/http%3A//www.centurylinktechnology.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113000837id_/http%3A//www.centurylinktechnology.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | CenturyLink Technology Solutions
 
@@ -59,7 +59,7 @@ If you would like to contact us for any reason regarding our privacy practices, 
 
 Megan Maguire  
 c/o CenturyLink Technology Solutions  
-1 Savvis Parkway  
+1 Solutions Parkway  
 Town & Country, MO 63017  
 314-628-7000  
 [info@savvis.com](mailto:info@savvis.com)  
