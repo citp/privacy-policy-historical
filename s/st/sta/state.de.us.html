@@ -1,605 +1,506 @@
-<!--The following is the downloaded HTML source of the state.de.us privacy policy that was archived on 2013-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926141953id_/http%3A//www.delaware.gov/help/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the state.de.us privacy policy that was archived on 2014-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141112170845id_/http%3A//www.delaware.gov/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="help">
+<meta name="description" content="State of Delaware online support/help page.">
+<meta name="author" content="The State of Delaware">
+<title>State of Delaware - Help - Privacy Policy</title>
+	<!-- Header Include File -->
+	    <!-- Favorites Icon -->
+    <link rel="shortcut icon" href="/portalimg/favicon.ico">
 
-	<!-- Mark of the Web -->
-	<!-- saved from url=(0014)about:internet -->
+    <!-- Bookmarklets Icon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/portalimg/apple-icon57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/portalimg/apple-icon72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/portalimg/apple-icon114.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/portalimg/apple-icon144.png">
 
-	<!-- Backward-compatability scripts -->
-	<!-- Detects available browser features for HTML5 and CSS3 in the browser -->
-	<script src="http://www.delaware.gov/CLF30pages/js/modernizr-2.5.3.js"></script>
-
-	<!-- jQuery library calls -->
-	<script src="http://www.delaware.gov/CLF30pages/js/jquery-1.5.1.min.js"></script>
-<!-- <script src="http://www.delaware.gov/CLF30/js/jquery.tmpl.min.js"></script> -->
-	<script type="text/javascript" src="/usr/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/usr/js/jquery.mobile.customized.min.js"></script>
-    <script type="text/javascript" src="/usr/js/jquery.easing.1.3.js"></script>
-   
-   
-    <!-- Homepage Main Nav Bar Rollover Effects -->
-	<script type="text/javascript">
-	$(document).ready(function() {
-	$("img.rollover").hover(
-	function() { this.src = this.src.replace("_off", "_on");
-	},
-	function() { this.src = this.src.replace("_on", "_off");
-	});
-	});
-	</script>
-
-
-<!-- 
-	<script type="text/javascript">
-	function adjustIframes()
-	{
-  $('iframe').each(function(){
-    var
-    $this       = $(this),
-    proportion  = $this.data( 'proportion' ),
-    w           = $this.attr('width'),
-    actual_w    = $this.width();
+    <!-- Google Translate Meta -->
+    <meta name="google-translate-customization" content="43ec6db4277f1c9a-06e18d88e2e346a7-gd6c10ef7ddc37b03-10">
     
-    if ( ! proportion )
-    {
-        proportion = $this.attr('height') / w;
-        $this.data( 'proportion', proportion );
+    <!-- Facebook OG Properties -->
+	<meta property="og:title" content="State of Delaware">
+	<meta property="og:image" content="http://www.delaware.gov/portalimg/fb_og_images/portal-fb-image1.jpg">
+	<meta property="og:site_name" content="delaware.gov">
+	<meta property="og:description" content="A portal for Delaware state government. Presenting high-level information about Delaware, links to state agencies, and connections to services for residents, businesses, job seekers, and visitors.">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/portalcss/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom Styles for Portal 2014 -->
+    <link href="/portalcss/portal2014.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Retina Display LESS Styles -->
+    <link href="/portalcss/retina.less" rel="stylesheet" type="text/css">
+
+    <!-- CSS Animations Styles -->
+    <link href="/portalcss/animate.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Sidr Nav Menu Styles -->
+    <link href="/portalcss/jquery.sidr.light.css" rel="stylesheet">
+
+    <!-- Font Awesome Icons -->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- Body Font Styles (From Google.com/fonts) -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
+
+    <!-- Core JavaScript
+    ================================================== -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/portaljs/jquery-1.10.2.min.js"></script>
+    <script src="/portaljs/bootstrap.min.js"></script>
+    <script src="/portaljs/jquery.sidr.min.js"></script>
+    <script src="/portaljs/config.js"></script>
+    <script src="/portaljs/ready.min.js"></script>
+    <script src="http://f1.na.readspeaker.com/script/7262/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+    
+
+    <!--[if IE 8 ]>
+    <html lang="en" class="ie8">
+
+    <script>
+    $(document).ready(function() {
+    $("#searchButton").click(function() {
+        var portalTopBarSearchFieldText = document.getElementById("q").value;
+        if(portalTopBarSearchFieldText != '') {
+            var dataString = 'searchword='+portalTopBarSearchFieldText+'&searchtype=2';
+            $.ajax({
+                type: "POST",
+                url: "/files/addSearchStats.php",
+                data: dataString,
+                success: function(data) {
+                    window.location.href = "http://search.delaware.gov/search?as_sitesearch=&q="+portalTopBarSearchFieldText+"&proxystylesheet=default_frontend&client=default_frontend&output=xml_no_dtd";
+                }
+            });
+        }
+        return false;
+    });
+});
+
+function mobileSearchValidateForm() {
+    var searchText = document.mobileSearchForm.q.value;
+    valid = true;
+    if (searchText == "") {
+        valid = false;
     }
-  
-    if ( actual_w != w )
-    {
-        $this.css( 'height', Math.round( actual_w * proportion ) + 'px' );
-    }
-  });
+    return valid;
 }
-$(window).on('resize load',adjustIframes);
-	</script>	
- -->
-	
-	
-	<!-- Smooth Scroll Script for Long Pages of Content -->
-	<script type="text/javascript">
-	$(document).ready(function() {
-  $('a[href*=#]').each(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-    && location.hostname == this.hostname
-    && this.hash.replace(/#/,'') ) {
-      var $targetId = $(this.hash), $targetAnchor = $('[name=' + this.hash.slice(1) +']');
-      var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
-       if ($target) {
-         var targetOffset = $target.offset().top;
-         $(this).click(function() {
-           $('html, body').animate({scrollTop: targetOffset}, 400);
-           return false;
-         	});
-      	  }
-    	}
- 	 });
-	});
-	</script>
+</script>
+    <![endif]-->
 
 
-    <!-- Page scripts -->
-    <script>    
-    $(document).ready(function () {
-	
-	// Header Bar Items 
-	
-	$(".txtKeyword").click(function() {
-      $("#portalTopBar_shelfSearch").slideDown("slow");
-		  return false;
-  });
-  
-  $(".searchButton").click(function() {
-      var portalTopBarSearchFieldText = document.getElementById("txtKeyword").value;
-      if(portalTopBarSearchFieldText == '') {
-          $("#portalTopBar_shelfSearch").slideDown("slow");
-      } else {
-          var searchOption = $('input:radio[name=portalTopBarSearchOption]:checked').val();
-          if(searchOption == 1) { 
-              window.location.href = "http://search.delaware.gov/search?as_sitesearch=http%3A%2F%2Fdelaware.gov%2Ftopics%2F&q="+portalTopBarSearchFieldText;
-          } else if(searchOption == 2) {
-              window.location.href = "http://search.delaware.gov/search?as_sitesearch=&q="+portalTopBarSearchFieldText;
-          } else if(searchOption == 3) {
-              window.location.href = "http://www.delaware.gov/phonedirectory/index.php?searchname="+portalTopBarSearchFieldText;
-          }        
-      }
-    return false;    
-  });  
-	
-	$(".servicesButton").click(function(){
-		if ($('#portalTopBar_shelfServices').is(":hidden")) {
-				if ($('#portalTopBar_shelfSearch').is(":visible")) {
-					$('#portalTopBar_shelfSearch').slideUp("slow");
-					$('#portalTopBar_shelfServices').delay(600).slideDown("slow");
-				} else {
-					$("#portalTopBar_shelfServices").slideDown("slow");
-				}
-			} else {
-				$("#portalTopBar_shelfServices").slideUp("slow");
-			}			
-		return false;
-	});
-	
-	
-  
-	/* P2010 LIVEPERSON POPUP WINDOW SCRIPT */
-	function openPopup(url,w,h,winname){var winl=(screen.width - w) / 2;var wint=(screen.height - h) / 2;popupWin=window.open(url,winname,'toolbar=1,location=1,directories=0,status=1,menubar=1,resizable=1,scrollbars=1,top='+wint+',screenY='+wint+',left='+winl+',screenX='+winl+',width='+w+',innerWidth='+w+',height='+h+',innerHeight='+h);}
 
-	
-	// Navigation nav bar state set
-	var navBarState = "closed";
-	var navstr = navBarState;
-	$("#closed").text(navstr);
-	
-	$("#forceDOMredraw").hide();
-       	
-	});
-	
-	
-	
-	// Force DOM Redraw for mobile orientation load and also change and on screen resize
-	 function forceDOMredraw(){
-        $("#forceDOMredraw").show();
-        setTimeout(function () {
-            $("#forceDOMredraw").hide();
-        }, 50);
-        //alert("FPS!");
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+
+
+
+
+<!--[if !IE 8]><!-->
+<script>
+$(document).ready(function() {
+    $("#searchButton").click(function() {
+        var portalTopBarSearchFieldText = document.getElementById("searchKeyword").value;
+        if(portalTopBarSearchFieldText != '') {
+            var dataString = 'searchword='+portalTopBarSearchFieldText+'&searchtype=2';
+            $.ajax({
+                type: "POST",
+                url: "/files/addSearchStats.php",
+                data: dataString,
+                success: function(data) {
+                    window.location.href = "http://search.delaware.gov/search?as_sitesearch=&q="+portalTopBarSearchFieldText+"&proxystylesheet=portal4&client=portal4&output=xml_no_dtd";
+                }
+            });
+        }
+        return false;
+    });
+});
+
+function mobileSearchValidateForm() {
+    var searchText = document.mobileSearchForm.q.value;
+    valid = true;
+    if (searchText == "") {
+        valid = false;
     }
-    
-    // Listener for DOM redraw
-    
-    if (window.addEventListener) //DOM method for binding an event
-	window.addEventListener('load', function(){ if(!window.pageYOffset){ forceDOMredraw(); } } );
-	else if (window.attachEvent) //IE 7 support
-	window.attachEvent('load', function(){ if(!window.pageYOffset){ forceDOMredraw(); } } );
-    
-    if (window.addEventListener) //DOM method for binding an event
-	window.addEventListener('orientationchange', forceDOMredraw);
-	else if (window.attachEvent) //IE 7 support
-	window.attachEvent('orientationchange', forceDOMredraw );
-        
-    
-	
-	// Navigation
-	var navBarState = "closed";
-	
-	function collapsing_nav() {
-		$("body").addClass("enhanced");
-		$("#collapsing-nav > li:first").addClass("selected");
-		$("#collapsing-nav > li").not(":first").find("ul").hide();
-		$("#collapsing-nav > li span").click(function() {
-			if ($(this).parent().find("ul").is(":visible")) {
-				$(this).parent().removeClass("selected");
-				$(this).parent().find("ul").slideUp("fast");
-			}
-			else {
-				$(this).parent().addClass("selected");
-				$(this).parent().find("ul").slideDown("fast");
-			}
-		});
-	}
-	
-	$(collapsing_nav);
+    return valid;
+}
+</script>
+<!--<![endif]-->
 
-	function showNavBar() {
-		$("#nav_bar").fadeIn();
-		$("#nav_close_button1").show();
-		$("#nav_open_button1").hide();
-		$("#nav_close_button2").show();
-		$("#nav_open_button2").hide();
-		navBarState = "open";
-		var navstr = navBarState;
-		$("#closed").text(navstr);
-		}
-		
-	function hideNavBar() {
-		$("#nav_bar").fadeOut();
-		$("#nav_close_button1").hide();
-		$("#nav_open_button1").show();
-		$("#nav_close_button2").hide();
-		$("#nav_open_button2").hide();
-		navBarState = "closed";
-		var navstr = navBarState;
-		$("#closed").text(navstr);
-		}
-	
 
-	// Listener for window resizing. On move, reports window size after 100ms delay.
-	$(window).resize(function() {
-		if(this.resizeTO) clearTimeout(this.resizeTO);
-		this.resizeTO = setTimeout(function() {
-			$(this).trigger('resizeEnd');
-		    //alert("update");
-		}, 100);
-	});
+<meta name="verify-v1" content="thP3VfXQ653dVrb9ExI9XqvyNnfVO9/R4FszKgp0ml8=">
+<meta name="google-site-verification" content="FYhBJf5l-LXJwmPZxTG7qbjjsOZhxCsowTB801qgJ4g">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	// Receives report for window resize. Performs action.
-	$(window).bind('resizeEnd', function() {
-			
-		// display elements, for testing only		
-		$("#width").text($(this).width());
-		$("#height").text($(this).height());
-			
-		
-		if (   (($(window).width()) < 800 )  &&  (navBarState == "open")  ) {
-			setTimeout(function() {
-			$("#nav_close_button1").fadeIn();
-			$("#nav_open_button1").hide();
-			$("#nav_close_button2").fadeIn();
-			$("#nav_open_button2").hide();
-			},50);
-		}
-		
-		if (   (($(window).width()) > 799 )  &&  (navBarState == "open")  ) {
-			setTimeout(function() {
-			$("#nav_close_button1").hide();
-			$("#nav_open_button1").hide();
-			$("#nav_close_button2").hide();
-			$("#nav_open_button2").hide();
-			},50);
-		}
-		
-		
-		if (   (($(window).width()) < 800 )  &&  (navBarState == "closed")  ) {
-			setTimeout(function() {
-			$("#nav_bar").hide();
-			$("#nav_open_button1").fadeIn();
-			$("#nav_close_button1").hide();
-			$("#nav_open_button2").hide();
-			$("#nav_close_button2").hide();
-			},50);
-		}
-		
-		if (   (($(window).width()) > 799 )  &&  (navBarState == "closed")  ) {
-			setTimeout(function() {
-			$("#nav_close_button1").hide();
-			$("#nav_open_button2").hide();
-			$("#nav_close_button1").hide();
-			$("#nav_open_button1").hide();
-			//$("#nav_bar").fadeIn();
-			},50);
-		}
-		
-		
-		if (   (($(window).width()) < 800 )  ) {
-			if ($('#portalTopBar_shelfServices').is(":visible")) {
-					$('#portalTopBar_shelfServices').slideUp("fast");
-				} 
-		}
-		
-		
-		if (   (($(window).width()) > 799 )  ) {
-			setTimeout(function() {
-			$("#nav_bar").fadeIn();
-			},50);
-		}
-		
-	});
-	
-    </script>
-    
-    
-	<!-- Favorite Icon -->
-	<link rel="shortcut icon" href="/CLF30/img/favicon.ico">
-	
-	<!-- Bookmarklets Icon -->
-	<link rel="apple-touch-icon" sizes="57x57" href="/usr/img/apple-icon57.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/usr/img/apple-icon72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/usr/img/apple-icon114.png">
-	
-	<!-- Bootstrap JS -->
-	<script src="/CLF30/js/bootstrap.js"></script>
+  ga('create', 'UA-3329332-12', 'delaware.gov');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 
-	<!-- Core Stylesheets CLF for Header Bar, Global Images, Forms, and State Footer  -->
-	<link href="/CLF30pages/css/CLF_core.css" rel="stylesheet">
-	<link href="/CLF30pages/css/CLF_core_layout.css" rel="stylesheet">
-	<link href="/CLF30pages/css/CLF_core_images.css" rel="stylesheet">
-	<link href="/CLF30pages/css/CLF_core_forms.css" rel="stylesheet">
-	<link href="/CLF30pages/css/CLF_core_support_retro.css" rel="stylesheet">
-	<link href="/CLF30pages/css/CLF_core_exceptions.css" rel="stylesheet">
-	
-	<!-- Agency Customizable Stylesheet / Includes some images and Customization -->
-	<link href="/usr/css/CLF_agency_styles.css" rel="stylesheet">
-	
-    <!-- Audio Player Stylesheet -->
-	<link rel="stylesheet" href="/usr/css/CLF_audioplayer.css">
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
+</script> 
+  </head>
+  <body style="">
 
-	<!-- Tiny Pop-up Box Stylesheet -->
-	<link rel="stylesheet" href="/usr/css/CLF_popupbox.css">
+<!-- BEGIN Fixed Main Nav Bar -->
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="/"><img src="/portalimg/delaware_portal_title.png" alt="Delaware.gov - The Offical Website of the First State" title="Delaware.gov - The Offical Website of the First State" class="border_none hidden-xs"></a>
+          <a href="/"><img src="/portalimg/delaware_logo_text.png" alt="Delaware.gov - The Offical Website of the First State" title="Delaware.gov - The Offical Website of the First State" class="delaware_text visible-xs"></a>
+        </div>
+		<!--[if !IE 8]><!-->
+        <div class="navbar-form navbar-left hidden-xs">
+            <form name="search_form" id="search_form" role="search">
+                <div class="form-group">
+                    <img src="/portalimg/portal_search_blue.png" id="navbar_delaware" alt="Delaware" title="Delaware" class="hidden-xs">
+                    <input type="text" name="searchKeyword" id="searchKeyword" class="form-search" placeholder="Search for Services, People and More..." x-webkit-speech="">
+                    <label class="wave_text" for="searchKeyword">Search Delaware.gov</label>
+                </div>
+                <button type="submit" name="searchButton" id="searchButton" class="btn btn-search" value="search"><span class="wave_text">Search</span><i class="fa fa-search fa-lg fa-fw"></i></button>
+            </form>
+        </div>
+        <!--<![endif]-->
 
-	<!-- H1 Font Style (Google Fonts) -->
-	<link href="http://fonts.googleapis.com/css?family=Fjalla+One&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <!--[if IE 8 ]>
+        <div class="navbar-form navbar-left hidden-xs">
+            <form name="search_form" id="search_form" role="search" action="http://search.delaware.gov/search?as_sitesearch=&q=">
+                <div class="form-group">
+                    <img src="/portalimg/portal_search_blue.png" id="navbar_delaware" alt="Delaware" title="Delaware" class="hidden-xs" />
+                    <input type="text" name="q" id="q" class="form-search" placeholder="Search for Services, People and More..." x-webkit-speech />
+                    <label class="wave_text" for="searchKeyword">Search Delaware.gov</label>
+                </div>
+                <button type="submit" name="searchButton" id="searchButton" class="btn btn-search" value="search"><span class="wave_text">Search</span><i class="fa fa-search fa-lg fa-fw"></i></button>
+            </form>
+        </div>
+        <![endif]-->
+        <div id="menu">
+            <a id="right-menu" href="#right-menu" title="Menu"><span class="wave_text">Menu</span><i class="fa fa-bars fa-4x fa-fw"></i></a>
+            <p class="menu">MENU</p>
+        </div>
+      </div>
+    </div>
 
-	<!-- stable, iOS/Android viewport command -->
-	<meta name="viewport" content="width=device-width,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
 
-	<!-- Agency Scripts and JS Include File -->
-    <script src="/usr/js/CLF_agency_js.js"></script>
 
-    <!-- Tiny Pop-up Box JS -->
-	<script src="/usr/js/CLF_popupbox.js"></script>
-    
-    <!-- Bootstrap Styles -->
-    <link href="/CLF30pages/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="/CLF30pages/css/bootstrap.css" rel="stylesheet">
-    
-    <!-- CSS Media Query retro support IE7, IE8, etc. -->
-	<script src="http://www.delaware.gov/CLF30/js/respond.min.js"></script>
-<title>State of Delaware - Topics - Privacy Policy
-</title>
-<meta name="Keywords" content="help">
-<meta name="Description" content="State of Delaware online support/help page.">
-</head>
-<body>
-<!--framework-->    <div id="forceDOMredraw"></div>
-	<div id="pw1"><div id="pw2"><div id="pw3"><div id="pw4">
-	<div id="eas1"><div id="eas2"><div id="eas3"><div id="eas4"><div id="eas5"><div id="eas6">	<!--EAS include file-->
-	</div></div></div></div></div></div>
-	<header role="banner">
-		<div id="hg1"><div id="hg2"><div id="hg3"><div id="hg4"><div id="hg5"><div id="hg6">
-		<h1 class="semanticHide">State of Delaware - Search and Services/Information</h1>
-			
-			<div id="hg1_l">
-				<div id="sl1"><div id="sl2"><div id="sl3"><div id="sl4">
-					<a href="http://www.delaware.gov"><img src="/CLF30pages/img/CLF_hdr_StateOfDelaware_big2.png" alt="State of Delaware - The Official Website of the First State" title="State of Delaware Web - The Official Website of the First State" class="hdr_StateOfDelaware"></a>
-					<a href="http://www.delaware.gov"><img src="/CLF30pages/img/CLF_btn_delaware_d2.png" alt="State of Delaware - The Official Website of the First State" title="State of Delaware Web - The Official Website of the First State" class="hdr_StateOfDelawareD"></a>
-				</div></div></div></div>
-			</div>
+ 
+<!-- END Fixed Main Nav Bar -->
 
-			    <div id="hg1_r">
-                    <div id="searchGroup" role="search">
-                        <form id="portalTopBarSearchForm">
-                            <div id="searchGroupLeft">
-                            <label for="txtKeyword" id="search-label">Search:</label>
-                                <div id="searchAreaLeft"></div>
-                                <div id="searchAreaMiddle"><input id="txtKeyword" type="text" class="txtKeyword"><!--[if IE]><input type="text" style="display: none;" disabled="disabled" size="1" /><![endif]--></div>
-                                <div id="searchAreaRight"></div>
-                            </div>
-                            <div id="searchGroupRight">
-                                <input type="image" class="searchButton" src="/CLF30pages/img/CLF_1px.gif" alt="search" onclick="">
-                            </div>
-                        </form>
-                    </div>
-				
-				<div id="servicesGroup">
-					<div id="servicesGroupLeft">
-						<a href="#" onclick=""><img src="/CLF30pages/img/CLF_1px.gif" alt="Services and Information" title="Services and Information" class="hdr_servicesLabel"></a>
-					</div>
-					<div id="servicesGroupRight">
-						<input onclick="" type="image" class="servicesButton" src="/CLF30pages/img/CLF_1px.gif" alt="services">
-					</div>
-				</div>
-				
-				<div id="sGsG_c">
-				</div>
-			</div>
-			
-			<div id="hg1_c">
-			</div>
-		
-				
-		</div></div></div></div></div></div>
-		<!-- TOP BAR SHELVES -->
-			<div id="portalTopBar_shelfSearch" class="hidden">
-				<div id="portalTopBar_shelfSearchWrap">
-					<div id="portalTopBar_shelfSearchSelectors">
-					
-						<div id="portalTopBarSearchOptionLabel1Wrap" class="portalTopBarSearchOptionItemLabel"><input type="radio" name="portalTopBarSearchOption" id="portalTopBarSearchOption1" value="1" checked=""></div>
-						<div id="portalTopBarSearchOption1Wrap" class="portalTopBarSearchOptionItemButton"><label for="portalTopBarSearchOption1" id="portalTopBarSearchOptionLabel1">This Site</label></div>
-						
-						<div id="portalTopBarSearchOptionLabel2Wrap" class="portalTopBarSearchOptionItemLabel"><input type="radio" name="portalTopBarSearchOption" id="portalTopBarSearchOption2" value="2"></div>
-						<div id="portalTopBarSearchOption2Wrap" class="portalTopBarSearchOptionItemButton"><label for="portalTopBarSearchOption2" id="portalTopBarSearchOptionLabel2">Statewide</label></div>
-						
-						<div id="portalTopBarSearchOptionLabel3Wrap" class="portalTopBarSearchOptionItemLabel"><input type="radio" name="portalTopBarSearchOption" id="portalTopBarSearchOption3" value="3"></div>
-						<div id="portalTopBarSearchOption3Wrap" class="portalTopBarSearchOptionItemButton"><label for="portalTopBarSearchOption3" id="portalTopBarSearchOptionLabel3">Phone Directory</label></div>
-					</div>
-					<div id="portalTopBar_shelfSearchAdvancedLink">
-						<a href="http://search.delaware.gov/search?output=xml_no_dtd&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;proxycustom=%3CADVANCED/%3E">Use Advanced Search</a>
-					</div>
-				</div>
-			</div>
-			
-			<div id="portalTopBar_shelfServices" class="hidden">
-				<div class="portalTopBar_shelfInner">
-					<div class="portalTopBar_shelfInnerInner">
-						<div class="portalShelfLinkColumn LinkColumnQuickLinks">
-							<strong>Citizen Services</strong><br>
-							<a href="https://egov.dnrec.delaware.gov/egovpublic/dnrec/disp?doc=LoginScreen&amp;deptPath=public&amp;op=showDefault&amp;dept=5">Get Park Passes</a><br>
-							<a href="http://www.deldot.gov/information/travel_advisory/">Check Traffic</a><br>
-							<a href="https://egov.dnrec.delaware.gov/egovpublic/dnrec/disp?doc=LoginScreen&amp;deptPath=public&amp;op=showDefault&amp;dept=5">Get Fishing License</a><br>
-							<a href="https://uics.delawareworks.com/Forms/Form_WL1.aspx">Unemployment Claim</a><br>
-							<a href="http://courts.delaware.gov/Help/Traffic/index.stm">Pay Traffic Ticket</a><br>
-							<a href="https://assist.dhss.delaware.gov/">Apply for Services</a><br>
-							<a href="http://delawarestatejobs.com/">Apply for State Job</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/onlineservices">More</a></div>
-						</div>
-						<div class="portalShelfLinkColumn LinkColumnQuickLinks">
-							<strong>Business Services</strong><br>
-							<a href="http://www.delaware.gov/topics/incorporateindelaware">Incorporate</a><br>
-							<a href="http://onestop.delaware.gov/">Register a Business</a><br>
-							<a href="https://delecorp.delaware.gov/tin/EntitySearch.jsp">Name Availability</a><br>
-							<a href="https://delecorp.delaware.gov/tin/GINameSearch.jsp">Search Entity Names</a><br>
-							<a href="http://www.courts.delaware.gov/tradenames/">Search Trade Names</a><br>
-							<a href="https://dorweb.revenue.delaware.gov/scripts/licrenew/licrenew.dll">Renew License</a><br>
-							<a href="https://dorweb.revenue.delaware.gov/bussrch/">Search Licenses</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/incorporateindelaware">More</a></div>
-						</div>
-						<div id="portalShelfLinkColumnTopics" class="portalShelfLinkColumn LinkColumnQuickLinks">
-							<strong>Topics</strong><br>
-							<a href="http://www.delaware.gov/topics/certificates">Certificates</a><br>
-							<a href="http://www.delaware.gov/topics/complaintsreports">Complaints/Reporting</a><br>
-							<a href="http://www.delaware.gov/topics/k12ed">Education (K-12)</a><br>
-							<a href="http://www.delaware.gov/topics/humanservices">Human Services</a><br>
-							<a href="http://www.delaware.gov/topics/legal">Courts &amp; Law</a><br>
-							<a href="http://www.delaware.gov/topics/vehicles">Motor Vehicles</a><br>
-							<a href="http://www.delaware.gov/topics/recreation">Sports &amp; Recreation</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/">More</a></div>
-						</div>
-						<div id="portalShelfLinkColumnNewsSocialMedia" class="portalShelfLinkColumn LinkColumnQuickLinks">
-							<strong>News</strong><br>
-							<a href="http://news.delaware.gov/" class="http://news.delaware.gov">Latest State News</a><br>
-							<br>
-							<strong>Social Media</strong><br>
-							<a href="https://www.facebook.com/delaware.gov" class="btn-functionBarFacebook">Facebook</a><br>
-							<a href="https://twitter.com/Delaware_gov" class="btn-functionBarTwitter">Twitter</a><br>
-							<a href="http://www.youtube.com/user/DelawareGovernment/" class="btn-functionBarYouTube">YouTube</a><br>
-							<a href="http://www.flickr.com/groups/delaware_gov/pool/" class="btn-functionBarFlickr">Flickr</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/socialmedia">More</a></div>
-							<!--  emc 
-							<a href="Links To Delaware.gov and Triggers FACEBOOK Drawer to automatically open" class="btn-functionBarFacebook">Facebook</a><br>
-							<a href="Links To Delaware.gov and Triggers TWITTER Drawer to automatically open" class="btn-functionBarTwitter">Twitter</a><br>
-							<a href="Links To Delaware.gov and Triggers BLOGS Drawer to automatically open" class="btn-functionBarBlogs">Blogs</a><br>
-							<a href="Links To Delaware.gov and Triggers YOUTUBE Drawer to automatically open" class="btn-functionBarYouTube">YouTube</a><br>
-							<a href="Links To Delaware.gov and Triggers FLICKR Drawer to automatically open" class="btn-functionBarFlickr">Flickr</a><br>
-							-->
-						</div>
-						<div class="portalShelfLinkColumn">
-							<strong>Help</strong><br>
-							<a href="http://portal.delaware.gov/help/">24x7 Help Center</a><br>
-							<a href="http://www.delaware211.org/">Delaware 211</a><br>
-							<br>
-							<strong>Live Chat</strong><br>
-							<a href="http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;byhref=1&amp;SESSIONVAR!skill=Corp_Info&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/corp/info/" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;SESSIONVAR!skill=Corp_Info&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/corp/info/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); openPopup(lpButtonCTTUrl,475,400,'chat33511087');return false;">Corporations</a><br>
-							<a href="http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;byhref=1&amp;SESSIONVAR!skill=Rev_BIT&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/revenue/taxbus/" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;SESSIONVAR!skill=Rev_BIT&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/revenue/taxbus/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); openPopup(lpButtonCTTUrl,475,400,'chat33511087');return false;">Revenue</a><br>
-							<a href="http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;byhref=1&amp;SESSIONVAR!skill=Portal_Help&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/portal/" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/33511087/?cmd=file&amp;file=visitorWantsToChat&amp;site=33511087&amp;SESSIONVAR!skill=Portal_Help&amp;imageUrl=http://portal.delaware.gov/help/images/liveperson/icons/portal/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); openPopup(lpButtonCTTUrl,475,400,'chat33511087');return false;">General Questions</a><br>
-						</div>
-						<div class="portalShelfLinkColumn">
-							<strong>Contacts</strong><br>
-							<a href="http://phonedirectory.delaware.gov/">Phone Directory</a><br>
-							<a href="http://legis.delaware.gov/Legislature.nsf/Lookup/Know_Your_Legislators?open&amp;nav=leginfo">Find Your Legislator</a><br>
-							<br>
-							<strong class="secondHeaderShelf">Subscribe</strong><br>
-							<a href="http://subscribe.delaware.gov">E-mail / Text Alerts</a><br>
-							<a href="http://www.delaware.gov/topics/socialmedia">Social Media</a><br>
-							<a href="http://www.delaware.gov/rss/portal.xml">RSS</a>
-						</div>
-						<div class="portalShelfLinkColumn"><strong>Government</strong><br>
-							<a href="http://governor.delaware.gov">Governor</a><br>
-							<a href="http://www.de.gov/topics/yourgovernment">Elected Officials</a><br>
-							<a href="http://legis.delaware.gov/">General Assembly</a><br>
-							<a href="http://courts.delaware.gov/">Courts</a><br>
-							<a href="http://www.delaware.gov/topics/agencylist_alpha">State Agencies</a><br>
-							<a href="http://www.delaware.gov/locations/">Cities &amp; Towns</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/yourgovernment">More</a></div>
-						</div>
-						<div class="portalShelfLinkColumn LinkLastColumn">
-							<strong>State Agencies</strong><br>
-							<a href="http://corp.delaware.gov/">Corporations</a><br>
-							<a href="http://www.dmv.de.gov/">DMV</a><br>
-							<a href="http://www.destateparks.com/">Parks &amp; Recreation</a><br>
-							<a href="http://revenue.delaware.gov/">Revenue</a><br>
-							<a href="http://www.doe.k12.de.us/">Education</a><br>
-							<a href="http://www.visitdelaware.com/">Tourism</a><br>
-							<div class="LinkColumnRightMore">+ <a href="http://www.delaware.gov/topics/agencylist_alpha">More</a></div>
-						</div>
-					</div>
-					<div id="portalShelfLinkColumn_SeeMore" class="portalTopBar_shelfInnerMore"><a href="http://www.delaware.gov">See More at Delaware.gov</a></div>
-				</div>
-			</div>
-<!--framework-->        <!-- To remove the header image sitewide, comment out this file's code. -->
-        <!-- To remove the header image from one page only, comment out the call for this file -->
-        <div id="hgp1"><div id="hgp2"><div id="hgp3"><div id="hgp4"><div id="hgp5"><div id="hgp6">
-		<img src="/CLF30/img/CLF_1px.gif" alt="Photo" title="Photo" class="headerPhoto">
-		</div></div></div></div></div></div>
-	
-<div id="st1"><div id="st2"><div id="st3"><div id="st4"><h2><a href="http://delaware.gov">Delaware.gov</a> <span class="st_gt">&gt;&gt;</span><a href="/help/index.shtml">Help</a></h2></div></div></div></div>
-<!-- start main content area (mca) -->
-<div id="mcaw1_full"><div id="mcaw2_full"><div id="mcaw3_full"><div id="mcaw4_full"><div id="mcaw5"><div id="mcaw6">
-<!-- set ID="CLF_OFF" to disable CLF2012 page styling -->
-<div id="CLF_ON">
-<!-- start main content area user content (mcauser) -->
+<!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA -->
+<!-- Uncomment to use this section to use in emergency situations, when finished comment it out again to make it disappear -->
+<!-- <div class="ens">
+	<p><i class="fa fa-exclamation-circle fa-lg fa-fw"></i><strong>Winter Weather Advisory is in full effect until Wednesday, December 11th 12am EST. Governor Jack Markell has closed state agencies in NCCO. <a href="http://news.delaware.gov/2013/12/10/governors-office-statement-on-weather-conditions/" onclick="trackOutboundLink('http://news.delaware.gov/2013/12/10/governors-office-statement-on-weather-conditions/'); return false;">More information <i class="fa fa-long-arrow-right fa-lg fa-fw"></i></a></strong></p>
+</div> --> 
+<!-- END EMERGENCY NOTIFICATION AREA -->
 
-<div id="mcauser1_full">		<section>
-<div id="mcauser_hdr1_full"><div id="mcauser_hdr2"><div id="mcauser_hdr3"><div id="mcauser_hdr4">
-<br>
-	<header><h1>
-		Privacy Policy</h1>
-	</header>
-</div></div></div></div>
-<!-- start main content area user content sub area (mcauser_cont) -->
-<div id="mcauser_cont1_full"><div id="mcauser_cont2"><div id="mcauser_cont3"><div id="mcauser_cont4" role="main">
-<!-- C O N T E N T   B E L O W   T H I S   L I N E -->
-<div><br>
-<p><strong>Information Privacy Statement</strong></p> <p>Welcome to the Delaware.gov Web Portal. We are committed to maintaining the privacy and security of personal information submitted by all visitors to this site.</p> <br>
-<br>
-<p><strong>Is information collected when I visit the Delaware.gov Web Portal?</strong></p> 
-<p>When you visit the Delaware.gov Web Portal, some basic information may be collected from your web browser. This information is used solely to help us make this site more useful to visitors, to learn about the number of visitors to our site and the kinds of technology they use. Basic information that may be collected is: </p><ul>
-<li>The Internet Protocol (IP) Address and domain name used from which you accessed our Portal. The IP Address is a numerical identifier assigned either to your Internet service provider or directly to your computer;</li> <li>The type of browser and operating system used to access our site;</li> <li>The date and time you visited our site;</li><li>The web pages or services you accessed at this site; </li><li>The web site you visited prior to coming to this web site; </li>The web site you visit as you leave this web site; and <li>If you downloaded a form, the form that was downloaded.</li></ul> 
-<br>
-<p><strong>What if I send you an email?</strong></p><p> You may choose to provide us with personal information, as an e-mail with a comment or question. This information is used to improve our service to you or to respond to your request. Sometimes we share your e-mail with other State agencies and employees who may be better able to help you, and these staffs may be employed by a different agency within the State. By law, we cannot share this information with individuals (including state employees) that do not require it as a normal part of their official duties. Except for authorized law enforcement investigations, or as required by law, we do not distribute, share, sell, or lease e-mail to any other entities without your consent. </p>
-<p> We use your e-mail: to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action. Once the issue or concern is resolved, this information will not be retained unless required by state law or agency regulation. </p>
-<br>
-<p><strong>Does the Delaware.gov Web Portal require me to accept cookies?</strong></p><p> Visitors to the Delaware.gov Web Portal can access the Portal <strong>without</strong> accepting cookies.</p> <br>
-<br>
-<p><strong>What is a Cookie?</strong></p>
-<p> There are two general types of cookies that web sites make use of:<br> 1. Session cookies -- these are cookies created by a web site that exist only as long as your visit to that web site. They are not stored permanently on your computer.<br> 2. Persistent cookies -- these cookies are stored on your computer by a web site for some period of time and are used when you return to that site in the future. </p>
-<p><br> A cookie provides a way for a web site to keep track of a user's internet browsing patterns and preferences. Cookies contain a range of web site addresses for which they are valid. When a user's web browser encounters those addresses again, it sends those specific cookies to the Web server. For example, if a user's specific preferences were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent times.</p> <br>
-<br>
-<p><strong>What won't a cookie do?</strong></p>
-<br><p> Certain web-based applications operated by Delaware State agencies (e.g., online tax filing with the Delaware Division of Revenue) may require users to establish a user ID and password. When accessing these applications through the Delaware.gov Portal you will need to separately enter and/or store your user information as required by the agency operating the application. A cookie that is stored on your computer for these applications will not incorporate those separate user IDs and passwords. In other words, should a third party use your computer they <strong>WILL NOT</strong> have access to personal information (e.g., your name or e-mail address) simply by virtue of having cookies stored on your computer. A third party using your computer <strong>MAY BE ABLE</strong> to view your personalized accounts when using your computer if you have selected the option that allows a web site or service to "remember" your username and password. If you are using a computer in a shared location, or are uncomfortable with this, you may want to avoid this option. If you do not want cookies stored on your computer, you should carefully read the information contained in the next section entitled "What options do I have with respect to cookies?"</p> <br>
-<br>
-<p><strong>What options do I have with respect to cookies?</strong></p>
-<br><p> You can have your browser disable cookies or prompt you before accepting a cookie. Look for the cookie options in your browser under the "Options" or "Preferences" menu. </p><br>
-<br>
-<br>
-<p><strong>Will my information be disclosed to third parties?</strong></p> 
-<p>The Delaware.gov Portal will not distribute, share, sell, or lease your information to third parties for direct marketing or e-mail marketing purposes. The information collected at this site will remain confidential to the extent permitted by state or federal law. State law may, however, require disclosure upon request of certain information collected at this site should it be deemed "public information" under the Delaware Freedom of Information Act. To learn more about requirements for requests, and information that may be disclosed in response to a request, consult the <a href="http://delcode.delaware.gov/title29/c100/index.shtml#TopOfPage">Delaware Freedom of Information Act, Title 29, Chapter 100 of the Delaware Code.</a></p>
-<br>
-<br>
-<br>
-<p><strong>Third-party services and privacy</strong></p> 
-<p>To deliver dynamic services and enhanced functionality to site visitors, the State of Delaware uses third-party add-ins on some of its Web pages. When third-party add-ins are used or embedded the third-party's Terms of Service apply.  For your convenience, links to each service's Terms of Service page are provided below. </p><ul>
-<li>AddThis Sharing Service (www.addthis.com) - <a href="http://www.addthis.com/tos">Terms of Service</a></li>
-<li>Google Maps (maps.google.com) - <a href="http://www.google.com/intl/en_us/help/terms_maps.html">Terms of Service</a></li>
-</ul><p> Please note that State Agencies may elect to use third-party add-ins that are not listed here. If you have questions or concerns, please e-mail the Government Information Center at <a href="mailto:gic@delaware.gov">gic@delaware.gov.</a></p>  <br>
-<br>
-<br>
-<p><strong>What if the Privacy Policy changes?</strong></p><p> Changes to the Delaware.gov Portal privacy policy will be posted to this web page for review without expressed prior notification to its visitors. If you have questions concerning this policy, please email the Government Information Center at <a href="mailto:gic@delaware.gov">gic@delaware.gov.</a></p> <br>
-<br>
-<p><strong>NOTE:</strong> Other sites that you can reach from the Delaware.gov Web Portal (including some sites maintained by Delaware State agencies) may have different privacy statements. You may wish to review the individual policy statements utilized by these entities. In the event that a link to the privacy statement is not provided, you may want to e-mail the Webmaster and inquire as to the privacy policy employed by that site. </p></div>
+<!-- BEGIN Breadcrumb -->
+<ol class="breadcrumb">
+	<li><a href="../">Delaware.gov</a></li>
+	<li><a href="/help/">Help</a></li>
+</ol> 
+<!-- END Breadcrumb -->
 
- <!-- C O N T E N T   A B O V E   T H I S   L I N E -->
-		</div></div></div></div><!-- end main content area user content sub area (mcauser_cont) -->
-		</section>
-</div></div></div></div><!-- end main content area user content (mcauser) -->
-<!-- mcaw area -->
-<div id="mcanav_mcauser_bottom"></div>
-</div><!-- end CLF_ON wrapper area -->
-</div></div></div><!-- end divs for mcaw -->
-  <!--framework-->
-	<footer>
-			<h1 class="semanticHide">Site Footer</h1>
-			
-			<div id="ftr1"><div id="ftr2"><div id="ftr3"><div id="ftr4">
-				
-				<div id="ftrs1"><div id="ftrs2"><div id="ftrs3"><div id="ftrs4" role="contentinfo">
-					
-					<div id="ftrs1_r">
-						<div id="ftrs2_l">
-							<a href="http://www.delaware.gov">Delaware.gov</a> <span class="ftr_bar">|</span> <a href="http://www.delaware.gov/help/privacy.shtml">Privacy</a> <span class="ftr_bar">|</span> <a href="http://www.delaware.gov/help/translate.shtml">Translate</a> <span class="ftr_bar">|</span> <a href="http://smu.portal.delaware.gov/cgi-bin/mail.php?contact_us">Contact</a> <span class="ftr_bar">|</span> <a href="http://www.delaware.gov/phonedirectory/">Phone Directory</a>
-						</div>
-						<div id="ftrs2_c">
-						</div>
-					</div>
-					<div id="ftrs1_c">
-					</div>
-				</div></div></div></div>
-			
-			</div></div></div></div>
-	</footer>
-	
-	
-	<!-- end divs for pw -->
-	</header></div></div></div></div>
-	
-	<!-- bottom curve -->
-	<div id="btm1"><div id="btm2"><div id="btm3"><div id="btm4">
-		<div id="btm_bc1"><div id="btm_bc2"><div id="btm_bc3"><div id="btm_bc4"></div></div></div></div>
-	</div></div></div></div>
+<!-- B E G I N   M A I N   C O N T E N T -->
 
-<br>
+<div class="container">
+  <div class="main_content">
+   <h1>Privacy Policy</h1><br>
 
-</body></html>
+<div class="row">
+<div class="col-sm-8">
+
+	<h2>Information Privacy Statement</h2>
+  	<hr class="blue">
+  
+  <p>Welcome to the Delaware.gov Web Portal. We are committed to maintaining the privacy and security of personal information submitted by all visitors to this site.</p><br>
+  
+  	<h2>Is information collected when I visit the Delaware.gov Web Portal?</h2>
+  	<hr class="blue">
+  	
+  <p>When you visit the Delaware.gov Web Portal, some basic information may be collected from your web browser. This information is used solely to help us make this site more useful to visitors, to learn about the number of visitors to our site and the kinds of technology they use. Basic information that may be collected is: 
+  </p><ul>
+    <li>The Internet Protocol (IP) Address and domain name used from which you accessed our Portal. The IP Address is a numerical identifier assigned either to your Internet service provider or directly to your computer;</li>
+    <li>The type of browser and operating system used to access our site;</li>
+    <li>The date and time you visited our site;</li>
+    <li>The web pages or services you accessed at this site;</li>
+    <li>The web site you visited prior to coming to this web site;</li>
+    <li>The web site you visit as you leave this web site; and</li>
+    <li>If you downloaded a form, the form that was downloaded.</li>
+  </ul> 
+  <br>
+  
+  	<h2>What if I send you an email?</h2>
+  	<hr class="blue">
+  	
+  <p> You may choose to provide us with personal information, as an e-mail with a comment or question. This information is used to improve our service to you or to respond to your request. Sometimes we share your e-mail with other State agencies and employees who may be better able to help you, and these staffs may be employed by a different agency within the State. By law, we cannot share this information with individuals (including state employees) that do not require it as a normal part of their official duties. Except for authorized law enforcement investigations, or as required by law, we do not distribute, share, sell, or lease e-mail to any other entities without your consent. </p>
+  <p> We use your e-mail: to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action. Once the issue or concern is resolved, this information will not be retained unless required by state law or agency regulation.</p><br>
+  
+  	<h2>Does the Delaware.gov Web Portal require me to accept cookies?</h2>
+  	<hr class="blue">
+  	
+  <p> Visitors to the Delaware.gov Web Portal can access the Portal <strong>without</strong> accepting cookies, however, the Delaware Portal does use cookies to improve information to users.</p><br>
+
+  	<h2>What is a Cookie?</h2>
+  	<hr class="blue">
+  	
+  <p>There are two general types of cookies that web sites make use of:<br> 1. Session cookies — these are cookies created by a web site that exist only as long as your visit to that web site. They are not stored permanently on your computer.<br> 2. Persistent cookies — these cookies are stored on your computer by a web site for some period of time and are used when you return to that site in the future.</p>
+  <p>A cookie provides a way for a web site to keep track of a user's internet browsing patterns and preferences. Cookies contain a range of web site addresses for which they are valid. When a user's web browser encounters those addresses again, it sends those specific cookies to the Web server. For example, if a user's specific preferences were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent times.</p><br>
+
+  	<h2>What won't a cookie do?</h2>
+  	<hr class="blue">
+
+    <p> Certain web-based applications operated by Delaware State agencies (e.g., online tax filing with the Delaware Division of Revenue) may require users to establish a user ID and password. When accessing these applications through the Delaware.gov Portal you will need to separately enter and/or store your user information as required by the agency operating the application. A cookie that is stored on your computer for these applications will not incorporate those separate user IDs and passwords. In other words, should a third party use your computer they <strong>WILL NOT</strong> have access to personal information (e.g., your name or e-mail address) simply by virtue of having cookies stored on your computer. A third party using your computer <strong>MAY BE ABLE</strong> to view your personalized accounts when using your computer if you have selected the option that allows a web site or service to "remember" your username and password. If you are using a computer in a shared location, or are uncomfortable with this, you may want to avoid this option. If you do not want cookies stored on your computer, you should carefully read the information contained in the next section entitled "What options do I have with respect to cookies?"</p><br>
+
+  	<h2>What options do I have with respect to cookies?</h2>
+  	<hr class="blue">
+  	
+    <p>You can have your browser disable cookies or prompt you before accepting a cookie. Look for the cookie options in your browser under the "Options" or "Preferences" menu.</p><br>
+
+  	<h2>Will my information be disclosed to third parties?</h2>
+  	<hr class="blue">
+  	
+    <p>The Delaware.gov Portal will not distribute, share, sell, or lease your information to third parties for direct marketing or e-mail marketing purposes. The information collected at this site will remain confidential to the extent permitted by state or federal law. State law may, however, require disclosure upon request of certain information collected at this site should it be deemed "public information" under the Delaware Freedom of Information Act. To learn more about requirements for requests, and information that may be disclosed in response to a request, consult the <a href="http://delcode.delaware.gov/title29/c100/index.shtml#TopOfPage">Delaware Freedom of Information Act, Title 29, Chapter 100 of the Delaware Code.</a></p><br>
+
+  	<h2>Third-party services and privacy</h2>
+  	<hr class="blue">
+  	
+  <p>To deliver dynamic services and enhanced functionality to site visitors, the State of Delaware uses third-party add-ins on some of its Web pages. When third-party add-ins are used or embedded the third-party's Terms of Service apply.  For your convenience, links to each service's Terms of Service page are provided below. 
+  </p><ul>
+    <li>AddThis Sharing Service (www.addthis.com) - <a href="http://www.addthis.com/tos">Terms of Service</a></li>
+  	<li>Google Maps (maps.google.com) - <a href="http://www.google.com/intl/en_us/help/terms_maps.html">Terms of Service</a></li>
+  </ul>
+  
+	<p>Please note that State Agencies may elect to use third-party add-ins that are not listed here. If you have questions or concerns, please e-mail the Government Information Center at <a href="mailto:gic@delaware.gov">gic@delaware.gov.</a></p><br>
+
+  	<h2>What if the Privacy Policy changes?</h2>
+  	<hr class="blue">
+  	
+<p>Changes to the Delaware.gov Portal privacy policy will be posted to this web page for review without expressed prior notification to its visitors. If you have questions concerning this policy, please email the Government Information Center at <a href="mailto:gic@delaware.gov">gic@delaware.gov.</a></p>
+
+<p><strong>NOTE:</strong> Other sites that you can reach from the Delaware.gov Web Portal (including some sites maintained by Delaware State agencies) may have different privacy statements. You may wish to review the individual policy statements utilized by these entities. In the event that a link to the privacy statement is not provided, you may want to e-mail the Webmaster and inquire as to the privacy policy employed by that site. </p>
+
+</div>
+
+   <div class="col-sm-4">
+		<h2>Did You Know? <i class="fa fa-lightbulb-o fa-fw"></i></h2>
+<hr class="blue">
+<img src="/portalimg/portal_dyk_lighthouse.jpg" alt="Fenwick Island Lighthouse" title="Fenwick Island Lighthouse" class="dyk_img img-responsive">
+<p>The 87-foot <a href="http://www.fenwickisland.org/" onclick="trackOutboundLink('http://www.fenwickisland.org/'); return false;" target="_blank">Fenwick Island</a> Lighthouse was painted in 1880 for a total cost of about $5.00.</p><br> 
+		<h2>What's Trending <i class="fa fa-thumbs-o-up fa-fw"></i></h2>
+
+<hr class="blue">
+
+<p><a href="http://www.deldot.gov/" onclick="trackOutboundLink('http://www.deldot.gov/'); return false;">Motor Vehicles</a><br>
+<a href="http://dol.delaware.gov/" onclick="trackOutboundLink('http://dol.delaware.gov/'); return false;">Labor</a><br>
+<a href="http://corp.delaware.gov/" onclick="trackOutboundLink('http://corp.delaware.gov/'); return false;">Corporations</a><br>
+<a href="/topics/highered">Education</a><br>
+<a href="http://governor.delaware.gov/" onclick="trackOutboundLink('http://governor.delaware.gov/'); return false;">Jack Markell</a><br>
+<a href="http://attorneygeneral.delaware.gov/" onclick="trackOutboundLink('http://attorneygeneral.delaware.gov/'); return false;">Biden</a><br>
+<a href="/topics/health">Health</a></p> 
+   </div>
+
+  		</div>
+  </div>
+</div>
+<!-- E N D   M A I N   C O N T E N T -->
+
+
+<!-- BEGIN Portal Footer -->
+<div id="sidr-right" class="sidr right">
+    <!-- Slide-In Menu on Right -->
+    <div id="sidr_top">
+        <h1>Navigation</h1>
+        <div class="close_sidr_menu" id="close-right-menu">
+            <p><a href="#close-right-menu"><i class="fa fa-times fa-1x fa-fw"></i> Close Menu</a></p>
+        </div><br>
+        <div class="sidr_search">
+            <form name="mobileSearchForm" role="search" action="http://search.delaware.gov/search?as_sitesearch=&amp;q=" onsubmit="return mobileSearchValidateForm();">
+                <div class="form-group">
+                    <p><i class="fa fa-search fa-lg fa-fw"></i>Search</p><input type="text" name="q" id="q" class="form-search-small" placeholder="Search on Delaware.gov...">
+                    <!--[if IE 8 ]>
+                    <input type="hidden" name="proxystylesheet" value="default_frontend" />
+                    <input type="hidden" name="client" value="default_frontend" />
+                    <input type="hidden" name="output" value="xml_no_dtd" />
+                    <![endif]-->
+
+                    <input type="hidden" name="proxystylesheet" value="portal4">
+                    <input type="hidden" name="client" value="portal4">
+                    <input type="hidden" name="output" value="xml_no_dtd">
+
+                </div>
+            </form>
+        </div>
+    </div>
+    <ul>
+        <li><a href="/topics/agencylist_alpha">State Agencies</a></li>
+        <li><a href="/phonedirectory/">Phone Directory</a></li>
+        <li><a href="/locationsdirectory/">Locations Directory</a></li>
+        <li><a href="http://news.delaware.gov" onclick="trackOutboundLink('http://news.delaware.gov'); return false;">Latest News</a></li>
+        <li><a href="/citizen_services.shtml">Citizen Services</a></li>
+        <li><a href="/business_services.shtml">Business Services</a></li>
+        <li><a href="http://egov.delaware.gov/pmc/" onclick="trackOutboundLink('http://egov.delaware.gov/pmc/'); return false;">Public Meetings</a></li>
+        <li><a href="/topics/">Delaware Topics</a></li>
+        <li><a href="/topics/socialmedia">Social Media</a></li>
+        <li><a href="/help/">Help &amp; Support</a></li>
+        <li><a href="/help/index.shtml#LiveChat">Live Chat</a></li>
+        <li><a href="/readspeaker_info.shtml">Using ReadSpeaker</a></li>
+    </ul><br>
+
+
+    <h2 class="text_blue"><strong>Adjust Your Font Size</strong></h2>
+    <hr class="blue">
+    <div class="text_size">
+        <a href="#" class="decreaseFont"><span class="wave_text">Make Text Size Smaler</span><span class="fa-stack fa-2x">
+            <i class="fa fa-circle-o fa-stack-2x"></i>
+            <i class="fa fa-minus fa-stack-1x"></i>
+        </span></a>
+
+        <a href="#" class="resetFont"><span class="wave_text">Reset Text Size</span><span class="fa-stack fa-2x">
+            <i class="fa fa-circle-o fa-stack-2x"></i>
+            <i class="fa fa-refresh fa-stack-1x"></i>
+        </span></a>
+
+        <a href="#" class="increaseFont"><span class="wave_text">Make Text Size Bigger</span><span class="fa-stack fa-2x">
+            <i class="fa fa-circle-o fa-stack-2x"></i>
+            <i class="fa fa-plus fa-stack-1x"></i>
+        </span></a>
+    </div><br><br><br><br>
+</div>
+    <div class="social center-block">
+        <hr class="blue">
+            <div class="social_facebook">
+                <a href="https://www.facebook.com/delaware.gov" onclick="trackOutboundLink('https://www.facebook.com/delaware.gov'); return false;"><img src="/portalimg/social_icon_facebook@2x.png" alt="State of Delaware Facebook Page" title="State of Delaware Facebook Page" class="bottom">
+                <img src="/portalimg/social_icon_facebook_off@2x.png" alt="State of Delaware Facebook Page" title="State of Delaware Facebook Page" class="top"></a>
+            </div>
+            <div class="social_twitter">
+                <a href="https://twitter.com/delaware_gov/" onclick="trackOutboundLink('https://twitter.com/delaware_gov/'); return false;"><img src="/portalimg/social_icon_twitter@2x.png" alt="State of Delaware Twitter Page" title="State of Delaware Facebook Page" class="bottom">
+                <img src="/portalimg/social_icon_twitter_off@2x.png" alt="State of Delaware Twitter Page" title="State of Delaware Twitter Page" class="top"></a>
+            </div>
+            <div class="social_flickr">
+                <a href="http://www.flickr.com/groups/delaware_gov/" onclick="trackOutboundLink('http://www.flickr.com/groups/delaware_gov/'); return false;"><img src="/portalimg/social_icon_flickr@2x.png" alt="State of Delaware Flickr Photos" title="State of Delaware Flickr Photos" class="bottom">
+                <img src="/portalimg/social_icon_flickr_off@2x.png" alt="State of Delaware Flickr Photos" title="State of Delaware Flickr Photos" class="top"></a>
+            </div>
+            <div class="social_youtube">
+                <a href="https://www.youtube.com/user/DelawareGovernment" onclick="trackOutboundLink('https://www.youtube.com/user/DelawareGovernment'); return false;"><img src="/portalimg/social_icon_youtube@2x.png" alt="State of Delaware Youtube Page" title="State of Delaware Youtube Page" class="bottom">
+                <img src="/portalimg/social_icon_youtube_off@2x.png" alt="State of Delaware Youtube Page" title="State of Delaware Youtube Page" class="top"></a>
+            </div>
+            <div class="social_rss">
+                <a href="/topics/subscriberss"><img src="/portalimg/social_icon_rss@2x.png" alt="State of Delaware RSS Feed" title="State of Delaware RSS Feed" class="bottom">
+                <img src="/portalimg/social_icon_rss_off@2x.png" alt="State of Delaware RSS Feed" title="State of Delaware RSS Feed" class="top"></a>
+            </div>
+    </div><div class="clear"></div><br>
+
+    <div id="footer">
+      <div class="container">
+        <h1>Government &amp; Services</h1>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <p><a href="/topics/agencylist_alpha">State Agencies</a><br>
+                <a href="http://governor.delaware.gov" onclick="trackOutboundLink('http://governor.delaware.gov'); return false;">Governor Jack Markell</a><br>
+                <a href="/topics/yourgovernment">Elected Officials</a><br>
+                <a href="http://legis.delaware.gov/" onclick="trackOutboundLink('http://legis.delaware.gov/'); return false;">General Assembly</a><br>
+                <a href="http://courts.delaware.gov/" onclick="trackOutboundLink('http://courts.delaware.gov/'); return false;">Delaware Courts</a><br>
+                <a href="http://delawarepersonnel.com/information/employee_resources.shtml" onclick="trackOutboundLink('http://delawarepersonnel.com/information/employee_resources.shtml'); return false;">State Employees</a><br>
+                <a href="/topics/municipalities">Cities &amp; Towns</a><br>
+                <a href="http://delcode.delaware.gov/" onclick="trackOutboundLink('http://delcode.delaware.gov/'); return false;">Delaware State Code</a><br>
+                <a href="http://regulations.delaware.gov/default.shtml" onclick="trackOutboundLink('http://regulations.delaware.gov/default.shtml'); return false;">State Regulations</a><br>
+              <!--  <a href="http://governor.delaware.gov/regulatory_review.shtml" onclick="trackOutboundLink('http://governor.delaware.gov/regulatory_review.shtml'); return false;">Regulatory Review</a></p>-->
+           <a href="/phonedirectory/index.php">Phone Directory</a></p>
+            </div>
+            <div class="col-sm-3">
+                <p>
+                <a href="/locationsdirectory/index.php">Locations Directory</a><br>
+                <a href="http://egov.delaware.gov/pmc/" onclick="trackOutboundLink('http://egov.delaware.gov/pmc/'); return false;">Public Meetings</a><br>
+                <a href="http://elections.delaware.gov" onclick="trackOutboundLink('http://elections.delaware.gov'); return false;">Voting &amp; Elections</a><br>
+                <a href="/topics/transparency">Transparency</a><br>
+                <a href="http://www.choosehealthde.com/Health-Insurance" onclick="trackOutboundLink('http://www.choosehealthde.com/Health-Insurance'); return false;">Delaware Marketplace</a><br>
+                <a href="/topics/TaxCenter">Tax Center</a><br>
+                <a href="http://revenue.delaware.gov/pit_onlinefiling.shtml" onclick="trackOutboundLink('http://revenue.delaware.gov/pit_onlinefiling.shtml'); return false;">Personal Income Tax</a><br>
+                <a href="/help/privacy">Privacy Policy</a><br>
+                <a href="/topics/weatherpage">Weather &amp; Travel</a></p>
+            </div>
+            <div class="col-sm-3">
+                <p><a href="http://smu.portal.delaware.gov/cgi-bin/mail.php?contact_us" onclick="trackOutboundLink('http://smu.portal.delaware.gov/cgi-bin/mail.php?contact_us'); return false;">Contact Us</a><br>
+                <a href="http://corp.delaware.gov/" onclick="trackOutboundLink('http://corp.delaware.gov/'); return false;">Corporations</a><br>
+                <a href="http://corp.delaware.gov/paytaxes.shtml" onclick="trackOutboundLink('http://corp.delaware.gov/paytaxes.shtml'); return false;">Franchise Tax</a><br>
+                <a href="https://grossreceiptstax.delaware.gov/grtpublic/" onclick="trackOutboundLink('https://grossreceiptstax.delaware.gov/grtpublic/'); return false;">Gross Receipts Tax</a><br>
+                <a href="https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll" onclick="trackOutboundLink('https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll'); return false;">Withholding Tax</a><br>
+                <a href="/topics/">Delaware Topics</a><br>
+                <a href="/help/">Help Center</a><br>
+                <a href="/topics/apps">Mobile Apps</a><br>
+                <a href="/topics/subscribeemail">E-mail / Text Alerts</a><br>
+                <a href="/topics/subscriberss">RSS Feeds</a><br>
+                <a href="/firststep/index.php">&nbsp;</a></p>
+            </div>
+            <div class="col-sm-3">
+            <img src="/portalimg/portal_footer_seal.png" alt="State Seal of Delaware" title="State Seal of Delaware" class="hidden-xs img-responsive">
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-4">
+            <!-- Google Translate Element BEGIN -->
+            <div id="google_translate_element"></div>
+                <script type="text/javascript">
+                    function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+                </script>
+                <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><br>
+            <!-- Google Translate Element END -->
+            </div>
+            <div class="col-sm-4">
+                <!-- AddThis Button BEGIN -->
+                <div class="addthis_toolbox addthis_default_style">
+                    <a class="addthis_button_facebook_like"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>
+                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-527d1c3818882452"></script><br>
+                <!-- AddThis Button END -->
+            </div>
+            <div class="col-sm-4">
+            <img src="/portalimg/gic_logo@2x.png" alt="Government Information Center (GIC)" title="Government Information Center (GIC)" class="footer_logo">
+            <p>Built by the <a href="http://gic.delaware.gov" title="Government Information Center (GIC)" onclick="trackOutboundLink('http://gic.delaware.gov'); return false;">Government Information Center</a><br>
+            ©MMXIV Delaware.gov</p>
+            </div>
+        </div>
+      </div><br>
+    </div>
+    <!-- jquery totop script -->
+    <script src="/portaljs/jquery.easing-1.3.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+        $().UItoTop({ easingType: 'easeOutQuart' });
+        });
+    </script> 
+<!-- END Portal Footer -->
+  
+
+<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a></body></html>
