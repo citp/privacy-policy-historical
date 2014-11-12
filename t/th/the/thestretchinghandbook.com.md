@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093802id_/http%3A//injuryfix.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002910id_/http%3A//injuryfix.com/legal.php) for the most accurate reproduction.*
 
 # Injury Fix™ - Legal Information, Policies and Disclaimers
 
@@ -42,7 +42,7 @@ The email address you provide for order processing, will only be used to send yo
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
 Opt-Out, Unsubscribe and Removal from our database  
-Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20140625093802id_/http%3A//injuryfix.com/help/index.php?a=add) and one of our staff will remove you from our database.
+Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20141113002910id_/http%3A//injuryfix.com/help/index.php?a=add) and one of our staff will remove you from our database.
 
 If you do submit a ticket via our help desk, please make sure you include the email address that you used when you subscribed, purchased one of our products or requested information from us: You can find this address at the bottom of every email we send to you.
 
@@ -76,7 +76,7 @@ If we decide to change our privacy policy we will post those changes on this pag
 This policy was last modified on October 18, 2012.
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20140625093802id_/http%3A//injuryfix.com/help/index.php?a=add), or using the information below.
+If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20141113002910id_/http%3A//injuryfix.com/help/index.php?a=add), or using the information below.
 
 **Phone:** | 1-877-580-7771  
 ---|---  
