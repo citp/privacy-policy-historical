@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalcollection.org.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423103300id_/http%3A//www.royalcollection.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcollection.org.uk privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112115955id_/http%3A//www.royalcollection.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy and security | Royal Collection Trust
+# Privacy and security
 
 This website is operated by Royal Collection Trust ('RCT', referred to as 'we', 'us', 'our', etc.) This Privacy Policy outlines the way in which we gather and use information relating to you, the user of the RCT website. By using this website, you consent to the use (including transfer) of information as described below.
 
@@ -89,8 +89,8 @@ The Information Commissioner’s Office (<http://www.ico.gov.uk/>) provides some
 
 We work with the following companies in maintaining and improving our website. They must all satisfy the data-protection requirements.
 
-the OTHER media Ltd  
-the OTHER media provide build services to RCT and help us to maintain the software that runs our website. They provide us with reporting statistics, and the software they develop and configure will serve cookies on our behalf to enable any site personalisation and log-in functionality.
+Deeson Group Ltd  
+Deeson Group provides build services to RCT and helps us to maintain the software that runs our website. It provides us with reporting statistics, and the software it develops and configures will serve cookies on our behalf to enable any site personalisation and log-in functionality.
 
 Pulsant Ltd  
 Pulsant Ltd provides hosting services to RCT and help us to maintain the software that runs our website.  
