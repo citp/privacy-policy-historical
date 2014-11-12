@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604120120id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002756id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy
 
@@ -14,7 +14,7 @@ In addition, under its Guiding Ethical Principles, members of the University com
 
 ## The type of personal information collected
 
-The types of personal information which the University handles may include, but is not limited to: names, residential addresses, student or staff ID numbers, tax file numbers, email addresses, date of birth, bank details, government identifiers and signatures. 
+The types of personal information which the University handles may include, but is not limited to: names, residential addresses, student or staff ID numbers, student or staff photographs, tax file numbers, email addresses, date of birth, bank details, government identifiers and signatures. 
 
 ## Purpose of collection of personal information
 
@@ -46,7 +46,7 @@ All staff and students have the right to access their personal information held 
 
 ## Use of cookies
 
-Curtin University uses digital cookies to remember your preferences and collect online traffic data. For more information on the use of cookies, please see our [web standards](http://global.curtin.edu.au/legal/webstandards.cfm) page.
+Curtin University uses digital cookies to remember your preferences and collect online traffic data, which is analysed using Google Analytics. For more information on the use of cookies, please see our [web standards](http://global.curtin.edu.au/legal/webstandards.cfm) page.
 
 ## Opting out of future communications
 
@@ -54,9 +54,9 @@ If you are not a Curtin staff member or student, and are receiving communication
 
 ## Complaints
 
-Staff and students may make a complaint about a breach of privacy through the Professionals Standards and Conduct Unit portal, please see the _[PSCU portal](http://complaints.curtin.edu.au/management/report.cfm)_ for details. 
+Staff and students may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) portal, please see the _[ISU portal](http://complaints.curtin.edu.au/management/report.cfm)_ for details. 
 
-Privacy statement last updated 4 March 2014.
+Privacy statement last updated 21 October 2014.
 
 ## Enquiries
 
