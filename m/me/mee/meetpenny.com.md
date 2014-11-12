@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085959id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112125302id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Meet Penny
-
-[](http://www.hupso.com/share/)
 
 **If you love legal writing, keep scrolling down. If you prefer human-speak, this section of the Privacy Policy is for you…**
 
@@ -53,8 +51,6 @@ Accordingly, we have developed this Policy in order for you to understand how we
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-[](http://www.hupso.com/share/)
 
 Subscribers get more for FREE!
 
