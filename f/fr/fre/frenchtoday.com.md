@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511014203id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112162705id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
 
-# French Today Privacy Policy » Learn French
+# French Today Privacy Policy - Learn French
 
 If you feel that we are not abiding by our posted privacy policy, please contact Camille Chevalier at [camille@frenchtoday.com](http://www.frenchtoday.com/about-us) or call (+33) 09 72 14 76 68
 
