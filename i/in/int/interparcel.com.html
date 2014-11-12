@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065925id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2014-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141112220931id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
@@ -16,23 +16,41 @@
 <meta name="msvalidate.01" content="678FD1241E11053F7097426AB26B4F1D">
 <meta name="p:domain_verify" content="444d21b637414196e553c99980a18b5a">
 
+<meta name="msapplication-config" content="none">
+
 <link rel="shortcut icon" href="/images/favicon/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" title="Interparcel News Feed" href="/news-rss.xml" type="application/rss+xml">
 
+
+<!-- JQuery Setup -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.11.0-pre.min.js"></script>
+
+
+<!-- Simple Modal Lightbox -->
 <script src="/js/jquery.simplemodal.1.4.4.min.js"></script>
 
-<link rel="stylesheet" href="/css/main.css?v=1">
-<link rel="stylesheet" href="/css/myaccount_menu.css?v=2">
-<link rel="stylesheet" href="/css/panels.css?v=1">
-<link rel="stylesheet" href="/css/form_elements.css?v=1">
+
+<!-- Load Web Fonts -->
+<link href="//fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
 
 
+<!-- CSS Stylesheets -->
+<link rel="stylesheet" href="/css/main.css?v=3">
+<link rel="stylesheet" href="/css/myaccount_menu.css?v=3">
+<link rel="stylesheet" href="/css/panels.css?v=3">
+<link rel="stylesheet" href="/css/form_elements.css?v=3">
 
-<!-- Select2 dropdown setup -->
+
+<!-- Select2 Dropdown Setup -->
 <link href="/js/select2-3.4.5/select2.css" rel="stylesheet">
-<script src="/js/select2-3.4.8/select2.js"></script>
+<script src="/js/select2-3.4.5/select2.js"></script>
+
+
+<!-- Milonic Menu Setup -->
+<script type="text/javascript" src="/menu/milonic_src.js"></script>	
+<script type="text/javascript" src="/menu/mmenudom.js"></script>
+<script type="text/javascript" src="/menu/menu_data.php"></script>
 
 
 <title>Interparcel Privacy Policy</title>
@@ -40,9 +58,7 @@
 <meta name="keywords" content="Interparcel privacy policy, privacy policy, interparcel data protection">
 
 
-<script type="text/javascript" src="/menu/milonic_src.js"></script>	
-<script type="text/javascript" src="/menu/mmenudom.js"></script>
-<script type="text/javascript" src="/menu/menu_data.php"></script>
+
 
 <script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=c1&amp;groupid=661&amp;websiteid=0"></script></head>
 
@@ -59,23 +75,13 @@
 
 
 <noscript>
-  <center><div class="alert_container" style="width:800px; position:relative; top:-4px">Your browser does not support Javascript, or it is disabled. You must enable Javascript in order to use our services.</div></center>
+  <center>
+  <div class='alert-box error' style="width:800px; position:relative; top:-4px"><b>ERROR: </b>Your browser does not support Javascript, or it is disabled. You must enable Javascript in order to use this website.</div>
+  </center>
 </noscript>
 
 
 <script language="javascript">
-
-function findPosition(oElement) {
-  if( typeof( oElement.offsetParent ) != 'undefined' ) {
-    for( var posX = 0, posY = 0; oElement; oElement = oElement.offsetParent ) {
-      posX += oElement.offsetLeft;
-      posY += oElement.offsetTop;
-    }
-    return [ posX, posY ];
-  } else {
-    return [ oElement.x, oElement.y ];
-  }
-}
 
 var logintimer = 0;
 
@@ -85,14 +91,14 @@ function show_loginform () {
 
 function hide_loginform () {
   document.getElementById('loginbox').style.visibility = "hidden";
-  document.getElementById('logintab').src='/images_new/menu/mnu_login_off.gif';
+  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_off.gif';
 }
 
 function start_logintimer() {
   if (logintimer != 0) {
     clearTimeout (logintimer); logintimer = 0;
   } 
-  document.getElementById('logintab').src='/images_new/menu/mnu_login_hover.gif';
+  document.getElementById('logintab').src='/images_new/menu_new/mnu_login_hover.gif';
   show_loginform();
 }
 
@@ -119,13 +125,13 @@ function show_myaccountform () {
 
 function hide_myaccountform () {
   document.getElementById('myaccountbox').style.visibility = "hidden";
-  document.getElementById('myaccounttab').src='/images_new/menu/mnu_myaccount_off.gif';}
+  document.getElementById('myaccounttab').src='/images_new/menu_new/mnu_myaccount_off.gif';}
 
 function start_myaccounttimer() {
   if (myaccounttimer != 0) {
     clearTimeout (myaccounttimer); myaccounttimer = 0;
   } 
-  document.getElementById('myaccounttab').src='/images_new/menu/mnu_myaccount_hover.gif';
+  document.getElementById('myaccounttab').src='/images_new/menu_new/mnu_myaccount_hover.gif';
   show_myaccountform();
 }
 
@@ -142,19 +148,14 @@ function clear_myaccounttimer () {
   }
 }
 
-function track_package() {
-  var trackno = document.getElementById('header_track').value;
-  document.location = 'http://www.interparcel.com/tracking.php?action=track&trackno=' + trackno
-}
-
 function enter_trackbox() {
-  var trackno = document.getElementById('header_track').value;
-  if (trackno == 'Enter your tracking number...') {document.getElementById('header_track').value = '';}
+  var trackno = document.getElementById('trackno').value;
+  if (trackno == 'Enter your tracking number...') {document.getElementById('trackno').value = '';}
 }
 
 function leave_trackbox() {
-  var trackno = document.getElementById('header_track').value;
-  if (trackno == '') {document.getElementById('header_track').value = 'Enter your tracking number...';}
+  var trackno = document.getElementById('trackno').value;
+  if (trackno == '') {document.getElementById('trackno').value = 'Enter your tracking number...';}
 }
 
 </script>
@@ -170,19 +171,41 @@ function leave_trackbox() {
 <tbody><tr>
 <td width="600" rowspan="2">
 <a border="0" href="http://www.interparcel.com">
-</a><h1><a border="0" href="http://www.interparcel.com"><img src="/images_new/main_layout/interparcel_logo.png" style="position:relative; top:-6px" alt="Interparcel"></a></h1>
+</a><h1><a border="0" href="http://www.interparcel.com"><img src="/images_new/main_layout/interparcel_logo.png" style="position:relative; top:-12px" alt="Interparcel"></a></h1>
 </td>
 
-<td align="right" height="90" colspan="2"><img src="/images_new/main_layout/the-way-parcels-are-meant-to-be-sent.png" alt="The way parcels are meant to be sent" title="The way parcels are meant to be sent"></td></tr>
+<td align="right" height="90" colspan="2">
+
+<a class="social fb" href="https://www.facebook.com/interparcel" target="_BLANK"></a>
+
+<a class="social tw" href="https://twitter.com/interparcel" target="_BLANK"></a>
+
+<a class="social gp" href="https://plus.google.com/+interparcel/about" target="_BLANK"></a>
+
+<a class="social li" href="https://www.linkedin.com/company/interparcel" target="_BLANK"></a>
+
+<a class="social yt" href="https://www.youtube.com/user/interparcel" target="_BLANK"></a>
+
+<a class="social rs" href="http://www.interparcel.com/news-rss.xml" target="_BLANK"></a>
+
+</td>
+
+</tr>
+
+<form action="/tracking.php"></form>
+<input type="hidden" name="action" value="track">
 
 <tr>
 <td align="right" valign="top" height="60" width="300">
 
-<input type="text" class="modern" name="header_track" id="header_track" style="line-height: 34px; padding-left: 10px; width:220px; height:34px; -webkit-border-radius: 6px 0px 0px 6px; -moz-border-radius: 6px 0px 0px 6px; border-radius: 6px 0px 0px 6px;" value="Enter your tracking number..." onfocus="enter_trackbox();" onblur="leave_trackbox();"></td>
+<input type="text" class="modern" name="trackno" id="trackno" style="border-color: #888; line-height: 34px; padding-left: 10px; width:220px; height:34px; -webkit-border-radius: 2px 0px 0px 2px; -moz-border-radius: 2px 0px 0px 2px; border-radius: 2px 0px 0px 2px; border-right: none;" value="Enter your tracking number..." onfocus="enter_trackbox();" onblur="leave_trackbox();"></td>
 
-<td valign="top" width="60"><button class="orange_button" name="Track" value="Track" style="border-right:1px solid #a5a5a5; border-top:1px solid #a5a5a5;border-bottom:1px solid #a5a5a5; font-weight: bold; font-size:12px; height:36px; width:60px; -webkit-border-radius: 0px 6px 6px 0px; -moz-border-radius: 0px 6px 6px 0px; border-radius: 0px 6px 6px 0px;" onclick="track_package();">Track</button>
+<td valign="top" width="60"><input type="submit" class="orange_button" name="Track" value="Track" style="border:1px solid #888; border-left: none; font-weight: bold; font-size:12px; height:36px; width:60px; -webkit-border-radius: 0px 2px 2px 0px; -moz-border-radius: 0px 2px 2px 0px; border-radius: 0px 2px 2px 0px;">
 </td>
 </tr>
+
+
+
 </tbody></table>
 
 
@@ -195,38 +218,38 @@ function leave_trackbox() {
 
 
 <!-- Menu -->
-<table id="header" border="0" cellpadding="0" cellspacing="0" width="960" align="center" style="BACKGROUND-image: url(/images_new/menu/menu_background.gif); -webkit-border-radius: 7px 7px 0px 0px; -moz-border-radius: 7px 7px 0px 0px; border-radius: 7px 7px 0px 0px; behavior: url(/js/ie-pie/PIE.htc);">
+<table id="header" border="0" cellpadding="0" cellspacing="0" width="960" align="center" style="BACKGROUND-image: url(/images_new/menu_new/menu_background.gif);">
 <tbody><tr>
 <td height="42" width="7"></td>
 
-<td width="65" valign="bottom"><a href="http://www.interparcel.com"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_home_off.gif" onmouseover="this.src='/images_new/menu/mnu_home_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_home_off.gif'"></a></td><td width="15">&nbsp;</td><td width="133" valign="bottom">
+<td width="65" valign="bottom"><a href="http://www.interparcel.com"><img border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_home_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_home_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_home_off.gif'"></a></td><td width="15">&nbsp;</td><td width="133" valign="bottom">
 <script>
 with(milonic=new menuname("Quote_Menu")){
   alwaysvisible=1;
   orientation="horizontal";
   style=menuStyle;
-  position="relative";aI("image=/images_new/menu/mnu_quote_off2.gif;overimage=/images_new/menu/mnu_quote_hover2.gif;showmenu=Quote;url=/quote;");}
+  position="relative";aI("image=/images_new/menu_new/mnu_quote_off2.gif;overimage=/images_new/menu_new/mnu_quote_hover2.gif;showmenu=Quote;url=http://www.interparcel.com/quote;");}
 drawMenus();
-</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(0)" onselectstart="return 0" id="menu0" style="padding:0px;background:#2c3e4c;border:3px solid #2c3e4c;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(1)" onselectstart="return 0" id="menu1" style="padding:0px;background:#2c3e4c;border:3px solid #2c3e4c;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(2)" onselectstart="return 0" id="menu2" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl2"><tbody><tr><td id="el9" onmouseover="h$(9,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl9"><tbody><tr id="td9"><td id="_imgO9"><img onload="_p2(2,this)" border="0" style="display:block;" id="_img9" src="/images_new/menu/mnu_quote_off2.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink2" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
+</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(0)" onselectstart="return 0" id="menu0" style="padding:0px;background:#2c3e4c;border:3px solid #2c3e4c;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(1)" onselectstart="return 0" id="menu1" style="padding:0px;background:#2c3e4c;border:3px solid #2c3e4c;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(2)" onselectstart="return 0" id="menu2" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl2"><tbody><tr><td id="el9" onmouseover="h$(9,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl9"><tbody><tr id="td9"><td id="_imgO9"><img onload="_p2(2,this)" border="0" style="display:block;" id="_img9" src="/images_new/menu_new/mnu_quote_off2.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink2" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
 </td><td width="15">&nbsp;</td><td width="140" valign="bottom">
 <script>
 with(milonic=new menuname("OurServices_Menu")){
   alwaysvisible=1;
   orientation="horizontal";
   style=menuStyle;
-  position="relative";aI("image=/images_new/menu/mnu_services_off.gif;overimage=/images_new/menu/mnu_services_hover.gif;showmenu=OurServices;");}
+  position="relative";aI("image=/images_new/menu_new/mnu_services_off.gif;overimage=/images_new/menu_new/mnu_services_hover.gif;showmenu=OurServices;url=/couriers;");}
 drawMenus();
-</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(3)" onselectstart="return 0" id="menu3" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl3"><tbody><tr><td id="el10" onmouseover="h$(10,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl10"><tbody><tr id="td10"><td id="_imgO10"><img onload="_p2(3,this)" border="0" style="display:block;" id="_img10" src="/images_new/menu/mnu_services_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink3" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
+</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(3)" onselectstart="return 0" id="menu3" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl3"><tbody><tr><td id="el10" onmouseover="h$(10,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl10"><tbody><tr id="td10"><td id="_imgO10"><img onload="_p2(3,this)" border="0" style="display:block;" id="_img10" src="/images_new/menu_new/mnu_services_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink3" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
 </td><td width="15">&nbsp;</td><td width="150" valign="bottom">
 <script>
 with(milonic=new menuname("Help_Menu")){
   alwaysvisible=1;
   orientation="horizontal";
   style=menuStyle;
-  position="relative";aI("image=/images_new/menu/mnu_help_off.gif;overimage=/images_new/menu/mnu_help_hover.gif;showmenu=Help;url=/help/;");}
+  position="relative";aI("image=/images_new/menu_new/mnu_help_off.gif;overimage=/images_new/menu_new/mnu_help_hover.gif;showmenu=Help;url=/help/;");}
 drawMenus();
-</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(4)" onselectstart="return 0" id="menu4" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl4"><tbody><tr><td id="el11" onmouseover="h$(11,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl11"><tbody><tr id="td11"><td id="_imgO11"><img onload="_p2(4,this)" border="0" style="display:block;" id="_img11" src="/images_new/menu/mnu_help_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink4" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
-</td><td width="15">&nbsp;</td><td width="108" valign="bottom"><a href="http://www.interparcel.com/contact.php"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_contact_off.gif" onmouseover="this.src='/images_new/menu/mnu_contact_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_contact_off.gif'"></a></td><td>&nbsp;</td><td width="92" valign="bottom"><img id="logintab" border="0" style="cursor:pointer;" src="/images_new/menu/mnu_login_off.gif" onmouseover="start_logintimer();" onmouseout="reset_logintimer();"></td><td width="7"></td>
+</script><div class="mmenucontainer" onmouseout="$_I()" onmouseover="$_J(4)" onselectstart="return 0" id="menu4" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 16px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl4"><tbody><tr><td id="el11" onmouseover="h$(11,0,1)" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl11"><tbody><tr id="td11"><td id="_imgO11"><img onload="_p2(4,this)" border="0" style="display:block;" id="_img11" src="/images_new/menu_new/mnu_help_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink4" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
+</td><td width="15">&nbsp;</td><td width="108" valign="bottom"><a href="http://www.interparcel.com/contact.php"><img border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_contact_off.gif" onmouseover="this.src='/images_new/menu_new/mnu_contact_hover.gif'" onmouseout="this.src='/images_new/menu_new/mnu_contact_off.gif'"></a></td><td>&nbsp;</td><td width="92" valign="bottom"><img id="logintab" border="0" style="cursor:pointer;" src="/images_new/menu_new/mnu_login_off.gif" onmouseover="start_logintimer();" onmouseout="reset_logintimer();"></td><td width="7"></td>
 </tr>
 
 </tbody></table>
@@ -247,7 +270,7 @@ drawMenus();
     <table cellpadding="0" cellspacing="0" class="login_menu" width="246">
 
     <tbody><tr>
-    <td height="20" valign="top"><img src="/images_new/menu/loginbox/loginbox_username.gif"></td>
+    <td height="20" valign="top"><img src="/images_new/menu_new/loginbox/loginbox_username.gif"></td>
     </tr>
     
     <tr>
@@ -258,7 +281,7 @@ drawMenus();
     
     
     <tr>
-    <td height="20" valign="top"><img src="/images_new/menu/loginbox/loginbox_password.gif"></td>
+    <td height="20" valign="top"><img src="/images_new/menu_new/loginbox/loginbox_password.gif"></td>
     </tr>
     
     <tr>
@@ -289,33 +312,11 @@ drawMenus();
 
 
 
-
-
-
-
-
-
-<table width="960" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>
-
-
-<td width="8" height="16" style="background-image: url(/images_new/menu/menu_bottom_left.gif);"></td><td width="944"></td><td width="8" style="background-image: url(/images_new/menu/menu_bottom_right.gif);">
-
-</td>
-</tr>
-<tr><td height="6"></td></tr>
-</tbody></table>
-
-
-
-
-  
-  
   
 <!-- MAIN PAGE TABLE -->
 
 
-  <table id="maintable" border="0" cellpadding="0" cellspacing="0" width="960" height="600" align="center" style="background-color: #ffffff; padding-bottom:20px; -webkit-border-radius: 0px 0px 7px 7px; -moz-border-radius: 0px 0px 7px 7px; border-radius: 0px 0px 7px 7px; behavior: url(/js/ie-pie/PIE.htc);">
+  <table id="maintable" border="0" cellpadding="0" cellspacing="0" width="960" height="600" align="center" style="background-color: #ffffff; padding-bottom:20px; padding-top: 22px;">
   <tbody><tr>
   <td width="16" height="100%" bgcolor="#FFFFFF"></td>
   <td width="928" valign="top" bgcolor="#FFFFFF">
@@ -462,7 +463,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
   
   
   <tbody><tr>
-  <td height="180" valign="top">
+  <td height="173" valign="top">
     <a href="/sameday">
     <img src="/images_new/promos/200px/same-day-express-courier.gif" alt="Same Day delivery from interparcel.com" title="Same Day delivery from interparcel.com"></a>
   </td>
@@ -470,8 +471,19 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 
 
+<!--
   <tr>
-  <td height="154" valign="top">
+    <td height=238 valign="top">
+    <a href="/couriers/InPost.php">
+    <image src="/images_new/promos/200px/summer-offer-parcel-delivery.png" alt="Send a parcel with InPost for only £1.20!" title="Send a parcel with InPost for only £1.20!">
+    </a>
+    </td>
+  </tr> 
+-->
+
+
+  <tr>
+  <td height="172" valign="top">
     <a href="/help">
     <img src="/images_new/promos/200px/how-to-wrap-your-package.gif" alt="Advice and helpful tips for sending your parcel" title="Advice and helpful tips for sending your parcel"></a>
     </td>
@@ -479,15 +491,27 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 
 
-  <tr><td height="25"></td></tr><!-- Spacer -->
-  
+
   <tr>
-    <td>
+    <td height="235" valign="top">
     <a href="/pallet">
     <img src="/images_new/promos/200px/interparcel-pallet-delivery.gif" alt="Pallet delivery from interparcel.com" title="Pallet delivery from interparcel.com"></a>
     </td>
   </tr>
- 
+
+
+
+
+
+
+
+  <tr>
+    <td height="80" valign="top">
+    <img src="/images_new/credit-cards-narrow.png" alt="We accept Visa, Mastercard, Delta, Solo &amp; Paypal" title="We accept Visa, Mastercard, Delta, Solo &amp; Paypal">
+    </td>
+  </tr> 
+  
+  
   
   </tbody></table>
   <!-- End of 2nd column container table-->
@@ -571,7 +595,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 <tr>
 <td valign="top" height="30" style="color: #998866">&nbsp;
-Web Server 2&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;e2i04b2jguh45n3bn7k1iicja1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Cache Used Geo IP </td>
+Web Server 2&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Cache Used Geo IP </td>
 </tr>
 </tbody></table> 
 <!---------------------------- FOOTER END----------------------------->
