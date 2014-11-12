@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the gain-weight-muscle-fast.com privacy policy that was archived on 2014-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140201124654id_/http%3A//www.gain-weight-muscle-fast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gain-weight-muscle-fast.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112090729id_/http%3A//www.gymjp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Build Muscle and Gain Weight Fast Guide
 
+[Home](http://www.gymjp.com/) / Privacy Policy
+
 Updated: 01/16/2014
 
-We recognize that your privacy is important. This page outlines the types of personal information we receive and collect when you use "The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com), as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This page outlines the types of personal information we receive and collect when you use "The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com), as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-"The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+"The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
 ## Personal Information
 
-"The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+"The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
@@ -20,7 +22,7 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your web browser to enable our system to recognize your browser.
 
-The purpose of a cookie is to tell the web server that you have come to the site for the first time, or have returned to a specific page. If you personalize the site's pages, or register with any of our site's services, a cookie enables "The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) to recall your specific information on subsequent visits.
+The purpose of a cookie is to tell the web server that you have come to the site for the first time, or have returned to a specific page. If you personalize the site's pages, or register with any of our site's services, a cookie enables "The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) to recall your specific information on subsequent visits.
 
 You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
@@ -42,19 +44,19 @@ In some cases, we may collect information about you that is not personally ident
 
 ## Release of Information
 
-If "The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+If "The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please [Contact Us.](http://www.gain-weight-muscle-fast.com/contact.html)
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please [Contact Us.](http://www.gymjp.com/contact.html)
 
 ## Updates and Effective Date
 
-"The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+"The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 ## Agreeing to Terms
 
-If you do not agree to "The Build Muscle and Gain Weight Fast Guide" (www.gain-weight-muscle-fast.com) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+If you do not agree to "The Build Muscle and Gain Weight Fast Guide" (www.gymJP.com) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
 
@@ -62,7 +64,7 @@ Your use of this site indicates acceptance of this privacy policy.
 
 If you have questions or concerns regarding this privacy policy, please contact me.
 
-[Contact Form](http://www.gain-weight-muscle-fast.com/contact.html)
+[Contact Form](http://www.gymjp.com/contact.html)
 
 JP Clifford  
 9218 Metcalf Ave, Suite 213  
