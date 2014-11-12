@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ahm.com.au privacy policy that was archived on 2014-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140428065738id_/http%3A//www.ahm.com.au/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahm.com.au privacy policy that was archived on 2014-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141112095322id_/http%3A//www.ahm.com.au/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="async" src="https://www.adobetag.com/d2/medibank/live/AHM.js"></script><script type="text/javascript" async="" src="https://cdn.phone-analytics.com/WebTracker/WT1845/pa.js?async=true"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/339129224.js"></script>
     <meta charset="utf-8"><title>Privacy Policy | ahm Health Insurance</title>
@@ -23,7 +23,7 @@
     <link href="/assets/img/apple-touch-icon-57px.png" rel="apple-touch-icon">
     <link href="/assets/img/apple-touch-icon-114px.png" rel="apple-touch-icon" sizes="114x114">
     <link rel="stylesheet" href="/assets/css/bootstrap-2.3.0.min.css">
-    <link rel="stylesheet" href="/assets/css/ahm-2.12.1.min.css"><script>
+    <link rel="stylesheet" href="/assets/css/ahm-2.26.0.min.css"><script>
     var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];</script>
     <script src="/assets/js/lib/liveperson.js"></script>
     <script type="text/javascript">
@@ -42,20 +42,55 @@
     <script src="/assets/js/respond.min.js"></script><![endif]--><!--[if lte IE 8]>
     <script src="/assets/js/ie8.js"></script><![endif]-->
   <script type="text/javascript" charset="iso-8859-1" src="https://sr1.liveperson.net/visitor/addons/deploy2.asp?site=88033399&amp;d_id=1&amp;default=simpleDeploy"></script></head>
-  <body>
+  <body data-spy="scroll" data-target=".info-sidenav">
     <header id="header">
       <div class="container"><a href="/" class="logo"><img src="/assets/img/ahm-logo.png" width="130" height="80" alt="ahm by Medibank" class="visible-desktop"><img src="/assets/img/ahm-logo@2x.png" width="130" height="80" alt="ahm by Medibank" class="hidden-desktop"></a>
-        <nav class="nav">
+        <nav data-ng-controller="NavigationController" class="nav">
           <ul class="pull-right">
-            <li class="browse "><a href="/health-insurance">browse</a></li>
-            <li class=""><a href="https://members.ahm.com.au/"><i class="icon-user"></i><span>members</span></a></li>
+            <li class="browse hidden-phone "><a href="/health-insurance">products</a>
+            </li>
+            <li class="hidden-phone "><a href="https://members.ahm.com.au/"><i class="icon-user"></i><span>members</span></a></li>
             <li class="help "><a href="/help"><i class="icon-question-sign"></i><span>help</span></a></li>
-            <li><a href="tel:134246" class="call-button"><i class="icon-phone-sign"></i><span class="hidden-phone"><span class="js-dynamic-phone">134 246</span></span></a></li>
+            <li><a href="/contact-us" class="hidden-phone"><i class="icon-phone-sign"></i><span class="js-dynamic-phone">134 246</span></a><a href="tel:134246" class="visible-phone"><i class="icon-phone-sign"></i></a></li>
+            <li><a href="#" data-ng-click="toggleMobileMenu()" class="visible-phone js-mobile-menu-button"><i class="icon-bars"></i>menu</a></li>
           </ul>
           <div class="clearfix"></div>
         </nav>
       </div>
     </header>
+    <div data-ng-class="{'menu-open': mobileMenuVisible}" class="mobile-menu js-mobile-menu">
+      <div class="link-row"><a href="/" data-path="/" class="link-wrapper">
+          <div class="menu-link"><i class="icon-home icon-2x icon-grey"></i>
+            <h6>Home</h6>
+          </div></a><a href="/health-insurance" data-path="/health-insurance" class="link-wrapper">
+          <div class="menu-link"><i class="icon-copay icon-2x icon-grey"></i>
+            <h6>Products</h6>
+          </div></a><a href="http://members.ahm.com.au/pages/find-a-provider" data-path="/pages/find-a-provider" class="link-wrapper">
+          <div class="menu-link"><i class="icon-user-md icon-2x icon-grey"></i>
+            <h6>Providers</h6>
+          </div></a>
+      </div>
+      <div class="link-row"><a href="https://members.ahm.com.au/claims" data-ng-class="utils.navigationItemClass('/claims')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-list-alt icon-2x icon-grey"></i>
+            <h6>Claims</h6>
+          </div></a><a href="https://members.ahm.com.au/policy" data-ng-class="utils.navigationItemClass('/policy')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-plus-sign icon-2x icon-grey"></i>
+            <h6>Your cover</h6>
+          </div></a><a href="https://members.ahm.com.au/payments" data-ng-class="utils.navigationItemClass('/payments')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-dollar-sign icon-2x icon-grey"></i>
+            <h6>Payments</h6>
+          </div></a></div>
+      <div class="link-row"><a href="https://members.ahm.com.au/contact-details" data-ng-class="utils.navigationItemClass('/contact-details')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-pencil-square-o icon-2x icon-grey"></i>
+            <h6>Your details</h6>
+          </div></a><a href="https://members.ahm.com.au/documents" data-ng-class="utils.navigationItemClass('/documents')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-file-alt icon-2x icon-grey"></i>
+            <h6>Documents</h6>
+          </div></a><a href="https://members.ahm.com.au/settings" data-ng-class="utils.navigationItemClass('/settings')" class="link-wrapper">
+          <div class="menu-link"><i class="icon-settings icon-2x icon-grey"></i>
+            <h6>Settings</h6>
+          </div></a></div>
+    </div>
     <div id="main">
       <div id="privacy">
         <div class="container">
@@ -277,35 +312,44 @@
     </div>
     <footer id="footer">
       <div class="container">
-        <div class="span12">
-          <nav>
-            <ul>
-              <li class="about"><a href="/about">About</a></li>
-              <li><a href="http://www.ahmoshc.com">Overseas students</a></li>
-              <li><a href="http://providers.ahm.com.au/">For providers</a></li>
-              <li><a href="/pages/sitemap">Sitemap</a></li>
-              <li><a href="/pages/privacy-policy">Privacy</a></li>
-              <li><a href="/pages/terms-and-conditions">Terms &amp; conditions</a></li>
-              <li class="contact"><a href="/contact-us">Contact us</a></li>
-              <li class="icon facebook"><a href="http://facebook.com/ahm.health.insurance" class="icon"><i class="icon-facebook-circle"></i></a></li>
-              <li class="icon twitter"><a href="http://twitter.com/ahmservice" class="icon"><i class="icon-twitter-circle"></i></a></li>
-            </ul>
-          </nav>
+        <div class="row">
+          <div class="span12">
+            <nav>
+              <ul>
+                <li class="about"><a href="/about">About</a></li>
+                <li><a href="http://www.ahmoshc.com">Overseas students</a></li>
+                <li><a href="http://providers.ahm.com.au/">For providers</a></li>
+                <li><a href="/pages/sitemap">Sitemap</a></li>
+                <li><a href="/pages/privacy-policy">Privacy</a></li>
+                <li><a href="/pages/terms-and-conditions">Terms &amp; conditions</a></li>
+                <li class="contact"><a href="/contact-us">Contact us</a></li>
+                <li class="icon facebook"><a href="http://facebook.com/ahm.health.insurance"><i class="icon-facebook-circle"></i></a></li>
+                <li class="icon twitter"><a href="http://twitter.com/ahmservice"><i class="icon-twitter-circle"></i></a></li>
+              </ul>
+            </nav>
+          </div>
         </div>
-        <div class="span12"><br>
-          <p class="disclaimer">
-            ahm Health Insurance is a business of Medibank Private Ltd ABN 47 080 890 259. <br>
-            'ahm by Medibank', 'ahm Health Insurance' and 'ahm' are references to Medibank Private Ltd trading as ahm Health Insurance.
-          </p>
+        <div class="row">
+          <div class="span12 center">
+            <div class="contact-hours">
+              <h4><a href="/contact-us" class="hidden-phone"><i class="icon-phone-sign"></i> 134 246</a><a href="tel:134246" class="visible-phone"><i class="icon-phone-sign"></i> 134 246</a></h4>
+              <h6 class="light">8am - 6pm Monday to Friday (AEST)</h6>
+            </div>
+            <p class="disclaimer">ahm Health Insurance is a business of Medibank Private Ltd ABN 47 080 890 259.<br>'ahm by Medibank', 'ahm Health Insurance' and 'ahm' are references to Medibank Private Ltd trading as ahm Health Insurance.</p>
+          </div>
         </div>
       </div>
     </footer>
-    <div class="js-live-chat">
-      <div id="chat-sales-ahm-health" class="hidden"></div><a id="livechat" href="#" style="display: none" data-live-chat="" class="visible-desktop"><img src="/assets/img/icon-chat.png" alt="Chat online">
+    <div class="js-live-chat" style="display: none;">
+      <div id="chat-sales-ahm-health" class="hidden"></div><a id="livechat" href="#" style="display: none" data-live-chat="" class="visible-desktop"><img src="/assets/img/icon-chat.png" alt="Chat online" width="16" height="16">
         <h6>Live Chat</h6>
         <h6 class="online center">Online</h6></a>
     </div>
-    <script src="/assets/js/ahm-2.12.1.min.js"></script>
+    <div id="livechat-invite" style="display: none;" class="hidden-phone hidden-tablet js-live-chat-invite"><a href="#" class="invite-close js-close-invite">x</a>
+      <h4>Got a question?</h4>
+      <h6 class="light">We're here to help.</h6><a href="#" class="button js-accept-invite"><img src="/assets/img/icon-chat.png" alt="Chat online" width="16" height="16">Start live chat</a>
+    </div>
+    <script src="/assets/js/ahm-2.26.0.min.js"></script>
     <script src="//use.typekit.net/ibs8yly.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript">
