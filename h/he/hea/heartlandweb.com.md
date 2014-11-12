@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063558id_/http%3A//heartlandweb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112105811id_/http%3A//www.heartlandweb.com/privacy.asp) for the most accurate reproduction.*
 
 # HeartlandWeb Online Classifieds - Classifieds - Privacy Policy
 
@@ -22,14 +22,14 @@ After you complete any form on our site, you will receive an email confirmation 
 HeartlandWeb.com Online Classifieds does not share, sell or trade email addresses, information collected as part of a survey or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored offline in an encrypted format.  
   
 ---|---  
-If you need any assistance, click here or call us toll free: 1-888-789-0888   
+If you need any assistance, click here or call: 1-229-227-6629   
 ---  
   
 [The above banner ad was brought to you by: www.intelseek.com](http://www.intelseek.com/)  
   
-**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20140625063558id_/http%3A//heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20140625063558id_/http%3A//heartlandweb.com/terms.asp). **  
+**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20141112105811id_/http%3A//www.heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20141112105811id_/http%3A//www.heartlandweb.com/terms.asp). **  
   
   | © Copyright 1998 - 2014 by HeartlandWeb.com - All Rights Reserved.  
-Contact: 25390 3420 E St., LaMoille, IL 61330  Ph: 1-888-789-0888 - [Site Map](https://web.archive.org/sitemap.asp) | 
+Contact: 25390 3420 E St., LaMoille, IL 61330  Ph: 1-229-227-6629 - [Site Map](https://web.archive.org/sitemap.asp) | 
 
 [](http://www.mgaweb.com/)
