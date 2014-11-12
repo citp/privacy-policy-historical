@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012752id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002635id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
 
 # Deakin University Privacy Statement
 
-Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic).
+Deakin University respects the privacy of users of its website and complies with the _Privacy and Data Protection Act 2014  (Vic)_.
 
 ### Collecting information about users of the website
 
@@ -18,18 +18,21 @@ The University web server, and cookies installed by the server on users' compute
 
 
 
-A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us learn about how people use our site, analyse our visitors and provide users with a better user experience. Deakin uses cookies in two ways:
+A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us learn about how people use our site, analyse our visitors and provide users with a better user experience. Deakin uses cookies in the following ways:
 
-  1. to personalise your visit to the Deakin website a cookie allows a web server to 'remember' the visitor on subsequent visits without having to prompt the visitor for information previously supplied. A cookie may also be used to personalise your web experience. An example of this would be a cookie remembering courses you previously viewed.
-  2. to provide information about Deakin to you throughout your browsing experience
+  1. to personalise your visit to the Deakin website a cookie allows a web server to 'remember' the visitor on subsequent visits without having to prompt the visitor for information previously supplied. A cookie may also be used to personalise your web experience. An example of this would be a cookie remembering courses you previously viewed;
+  2. to provide information about Deakin to you throughout your browsing experience;
+  3. to obtain non-identifying information about your demographic group and general interests.
 
 
 
-Deakin uses DoubleClick, which tailors your browsing experience by placing information about its services on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, the date and time of your request, and the identity of your browser but does not collect personally identifying information. The cookie remains active for 30 days after each visit you make to the Deakin website. For further information about DoubleClick cookies, please visit the [DoubleClick cookies webpage](https://support.google.com/adsense/answer/2839090?hl=en.).
+Deakin uses DoubleClick, which tailors your browsing experience by placing information about its services on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, the date and time of your request, and the identity of your browser but does not collect personally identifying information. The cookie remains active for 30 days after each visit you make to the Deakin website. For further information about DoubleClick cookies, please visit the [DoubleClick cookies webpage](https://support.google.com/adsense/answer/2839090?hl=en.). 
 
-You may choose not to receive DoubleClick cookies by [opting-out](https://support.google.com/adsense/troubleshooter/1631343?hl=en).
+Deakin also uses Google Analytics, which predicts your age range and general interests from the websites you visit.  Deakin will use this information to further understand its audience.  No personally identifying information will be collected.
 
-The installation of cookies may be blocked via the user's web browser if the user does not wish to accept cookies, but this may mean that the user will not be able to access some parts of the University's website without re-authenticating on each visit. Web browser software contains a function enabling the user to delete all cookies on their computer's hard drive.
+You may choose not to receive cookies by [opting-out](https://support.google.com/adsense/troubleshooter/1631343?hl=en) of DoubleClick or [opting-out](https://tools.google.com/dlpage/gaoptout) of Google Analytics.
+
+The installation of cookies may be blocked via the user's web browser if the user does not wish to accept cookies, but this may mean that the user will not be able to access some parts of the University's website without re-authenticating on each visit. Web browser software contains a function enabling the user to delete all cookies on their computer's hard drive. 
 
 ### User-supplied information
 
@@ -44,7 +47,7 @@ Some areas of Deakin's web environment may offer users the opportunity to supply
 
 A user may also choose to provide personal information during the completion of online surveys or forms or in offering feedback about the website.
 
-Personal information will be managed by Deakin University in accordance with the _Information Privacy Act 2000_.
+Personal information will be managed by Deakin University in accordance with the  _Privacy and Data Protection Act 2014 (Vic)_.
 
 ### Internet use risks
 
@@ -75,7 +78,11 @@ Geelong Vic 3220
 ### Links:
 
   * [Deakin University Privacy Policy](http://theguide.deakin.edu.au/TheGuide/TheGuide2011.nsf/191d0d51322b3a04ca2576be00064063/be56c159459e1ca9ca257b02007a17c6?OpenDocument)
-  * [_Information Privacy Act 2000_ **(Vic)**](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/cd652e34a04da6c2ca257505007ce686%21OpenDocument)
+  * [ _Privacy and Data Protection Act 2014  (Vic)_](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/409fbd6322ca2b75ca257d5700232e36!OpenDocument)
   * [Privacy Victoria](http://www.privacy.vic.gov.au/privacy/web2.nsf/pages/home)
 
 
+
+Page custodian: eSolutions - Digital Presence
+
+Last updated: October 7, 2014 (3:36pm)
