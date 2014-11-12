@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketgoose.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627111809id_/https%3A//www.ticketgoose.com/bookbustickets/HTMLRedirectAction.do%3Fevent%3Dredirect%26pageId%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketgoose.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112095535id_/http%3A//www.ticketgoose.com/bookbustickets/privacypolicy) for the most accurate reproduction.*
 
-# Ticketgoose Privacy Policy | Reservation of Travels Bus Tickets Online
+# Privacy Policy | TicketGoose.com
 
 Ticketgoose respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
