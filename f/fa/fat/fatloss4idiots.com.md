@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatloss4idiots.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074915id_/http%3A//fatloss4idiots.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatloss4idiots.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112223318id_/http%3A//fatloss4idiots.com/Privacy.html) for the most accurate reproduction.*
 
 # Weight Loss & Diet SuperSite -- Fat Loss 4 Idiots
 
@@ -16,7 +16,7 @@ Like most standard Web sites we use basic log files. This includes internet prot
 
 For dieters who choose to register for a Username and Password to access certain parts of the Fat Loss 4 Idiots site, any information provided to us will be held in strict confidence and will never be divulged, sold, or otherwise shared with any third parties for any reason.  We strongly believe in protecting the privacy of our dieters.
 
-[ ](https://web.archive.org/web/20140625074915id_/http%3A//fatloss4idiots.com/index.html)  
+[ ](https://web.archive.org/web/20141112223318id_/http%3A//fatloss4idiots.com/index.html)  
 
 
   
