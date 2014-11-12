@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143928id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002259id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SAM Learning
 
@@ -52,8 +52,7 @@ We welcome your views about our Privacy Statement. If you would like to contact 
 
 Helpdesk  
 SAM Learning Limited  
-Fifth Floor,  
-New Premier House,  
-150 Southampton Row,  
+Fourth Floor,  
+29 and 30 High Holborn,  
 London,  
-WC1B 5AL
+WC1V 6AZ
