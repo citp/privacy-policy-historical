@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330131553id_/https%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112214621id_/https%3A//www.privacyrights.org/content/prcs-privacy-policy) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
@@ -24,7 +24,7 @@ As a leading national consumer privacy organization, we strive to provide a priv
 
 **             Information Our Site Gathers**
 
-When you visit our website, our site collects information to provide us with aggregate data.  We use an analytics program called [AWStats](http://awstats.sourceforge.net/ "AW Stats").  AWStats analyzes the data our site collects and provides us with a report.
+When you visit our website, our site collects information to provide us with aggregate data.  We use an analytics program called [Piwik](http://www.piwik.org/ "Piwik").  Piwik analyzes the data our site collects and provides us with reports.
 
   The information our site collects includes: 
 
@@ -36,11 +36,11 @@ When you visit our website, our site collects information to provide us with agg
 
 
 
-This data is stored in log files that are used by AWStats to generate website usage reports that do not contain personally identifiable information.  PRC deletes the log files monthly, and we do not back them up.
+This data is stored in log files that are used by Piwik to generate website usage reports that do not contain personally identifiable information.  PRC deletes the log files monthly, and we do not back them up.
 
 **             ****What Information We Are Able to See**
 
-While our site collects the information listed above, we receive aggregate data from [AWStats](http://awstats.sourceforge.net/). The data reveals, for instance, how many unique visitors we have in a month, how many individual page views we receive, the top 25 countries from which our site is viewed, the top 10 operating systems and browsers that people use to visit our site, and how people reached our content (through links in other sites, search engines, etc.).   The reports do not include IP addresses and we do not attempt to tie individual IP addresses to this information.
+While our site collects the information listed above, we receive aggregate data from [Piwik](http://www.piwik.org/ "Piwik"). The data reveals, for instance, how many unique visitors we have in a month, how many individual page views we receive, the top 25 countries from which our site is viewed, the top 10 operating systems and browsers that people use to visit our site, and how people reached our content (through links in other sites, search engines, etc.).   The reports do not include IP addresses and we do not attempt to tie individual IP addresses to this information.
 
 **             ****Cookies**
 
@@ -134,3 +134,7 @@ We practice what we preach, and we train our staff so that they understand our p
 Revised: 01.02.2012
 
 Version: 2.0.  We revised our policy to add more detail, describe our complaint tool, spell out the disclosures that we make with more specificity, provide information about access and correction.  We did not make any changes to our basic policy of respecting the privacy of our users, or to our policy of not giving user data to advertisers.
+
+Revised: 05.19.2014
+
+Revision: We revised our policy to note the switch from AWstats to the Piwik Analytics engine.
