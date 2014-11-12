@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealnews.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830174204id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealnews.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112080348id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
 
-# dealnews and Your Right to Privacy
+# dealnews.com, Inc., Privacy Policy
 
-If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact.html?dept=privacy) or via postal mail at PO Box 1567, Huntsville, AL 35807.
+If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact/?dept=privacy) or via postal mail at PO Box 1567, Huntsville, AL 35807.
 
 The policies below are applicable to dealnews.com, dealmac.com, dealcoupon.com, dealram.com, dealcam.com, dealink.com, and other sites published by dealnews.com, Inc. (dealnews), PO Box 1567, Huntsville, AL 35807.
 
@@ -30,9 +30,9 @@ Users that have subscribed to dealnews newsletters or email alerts will occasion
 
 Our users are given the opportunity to "opt-in" to having their information used for purposes not directly related to our site at the point where we ask for information. dealnews does not supply identifying information to other companies, or use such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as email used for the alerts function, and notification the outcome of an entry in a contest, survey or sweepstakes.)
 
-Once subscribed, users who no longer wish to receive our newsletter and promotional communications may opt-out of (i.e., discontinue receiving) these communications by replying to unsubscribe in the subject line in the email or contact us via [this online contact form](http://dealnews.com/contact.html?dept=privacy). We also offer opt-out mechanisms in the text of each email we send, and the user may contact us at the street address at the top of this page to opt-out.
+Once subscribed, users who no longer wish to receive our newsletter and promotional communications may opt-out of (i.e., discontinue receiving) these communications by replying to unsubscribe in the subject line in the email or contact us via [this online contact form](http://dealnews.com/contact/?dept=privacy). We also offer opt-out mechanisms in the text of each email we send, and the user may contact us at the street address at the top of this page to opt-out.
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at [mydealnews](https://dealnews.com/mydealnews/profile.html) or by contacting us via [this online contact form](http://dealnews.com/contact.html?dept=privacy). 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at [mydealnews](https://dealnews.com/mydealnews/) or by contacting us via [this online contact form](http://dealnews.com/contact/?dept=privacy). 
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law if we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or a legal process served on our Web site.
 
