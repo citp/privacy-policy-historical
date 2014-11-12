@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudstor.es privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053009id_/http%3A//cloudstor.es/policies/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudstor.es privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112111952id_/http%3A//cloudstor.es/policies/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudstores
 
