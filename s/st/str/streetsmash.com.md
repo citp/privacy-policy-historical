@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetsmash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071512id_/http%3A//streetsmash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsmash.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113001738id_/http%3A//streetsmash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Streetsmash
+# Privacy Policy - Streetsmash
 
 What information do we collect?
 
