@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagshots.net privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414171538id_/http%3A//gagshots.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagshots.net privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112125058id_/http%3A//gagshots.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funny Pictures | Comics | Celebs | Chicks | Troll | Texting Fail | Animals | Quotes
 
