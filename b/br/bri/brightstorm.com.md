@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404080123id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112033831id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Math, Science, English, Test Prep - Brightstorm
 
@@ -65,11 +65,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ###### Modifying Your Information
 
-You can access and modify, or delete the PII associated with your Account by viewing my account page at <http://www.brightstorm.com/account> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
+You can access and modify, or delete the PII associated with your Account by viewing your account page at <http://www.brightstorm.com/account> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in my account settings page or you can contact us at [support@brightstorm.com](mailto:support@brightstorm.com). 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@brightstorm.com](mailto:support@brightstorm.com). 
 
 ###### Facebook Connect
 
@@ -92,7 +92,7 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 Please contact us at [support@brightstorm.com](mailto:support@brightstorm.com) if you have any questions about our Privacy Policy.   
 Brightstorm, Inc.  
-2103 Landings Dr.,   
-Mountain View, CA 94043. 
+1270 Oakmead pkwy, Suite 214,   
+Sunnyvale, CA 94085. 
 
 Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification prior to the change becoming effective. We'll indicate when such changes will become effective. 
