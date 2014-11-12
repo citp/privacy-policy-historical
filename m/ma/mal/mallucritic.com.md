@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mallucritic.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515005420id_/http%3A//www.mallucritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallucritic.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113001852id_/http%3A//www.mallucritic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mallucritic
+# Privacy Policy - Mallucritic
 
 This Privacy Policy governs the manner in which MalluCritic collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.mallucritic.com](http://www.mallucritic.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by MalluCritic.
 
