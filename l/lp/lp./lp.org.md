@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607011303id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112092819id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Libertarian Party
 
@@ -6,8 +6,8 @@ This web site is owned and administered by The Libertarian Party.
 
 Our postal address is:
 
-> 2600 Virginia Ave. NW, Suite 200  
->  Washington D.C. 20037
+> 1444 Duke St.  
+>  Alexandria, VA 22314-3403
 
 We can be reached via e-mail at [info@lp.org](mailto:info@lp.org) or you can reach us by telephone at (202) 333-0008.
 
