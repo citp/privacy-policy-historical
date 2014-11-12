@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209165948id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112145105id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # SwapaDVD :: Privacy Policy
 
