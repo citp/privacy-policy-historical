@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamechix.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627120157id_/http%3A//www.gamechix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechix.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112135309id_/http%3A//www.gamechix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
