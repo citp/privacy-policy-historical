@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515003628id_/http%3A//www.justprop.com/component/content/article/171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113000824id_/http%3A//www.justprop.com/component/content/article/171) for the most accurate reproduction.*
 
 # privacy policy
 
