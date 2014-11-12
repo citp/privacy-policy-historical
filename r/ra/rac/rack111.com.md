@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rack111.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514124735id_/http%3A//www.rack111.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rack111.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112204155id_/http%3A//www.rack111.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
-Welcome to www.rack111.com
+Welcome to rack111.com
 
 We are fully aware of our responsibilities as honorable Internet citizens, and we maintain a ZERO TOLERANCE Spam Policy accordingly. We are highly sensitive to the privacy of and are dedicated to protecting the rights of all Internet citizens. We vigorously oppose the sending of unsolicited e-messages (Spam) and will make every effort to enforce our strict Anti-Spam policies. We do NOT allow anyone to use our products or services for the purpose of sending Spam, nor do we allow our products or services to be referenced in Spam. If any third party sends Spam to anyone, his or her account will be terminated.We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Stephens Marketing. (collectively, “Services”) (“Authorized Customers”).
 
@@ -28,7 +28,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 How is Personally Identifiable Information stored?
 
-Personally Identifiable Information collected by www.rack111.com is securely stored and is not accessible to third parties or employees of Stephens Marketing, except for use as indicated above.
+Personally Identifiable Information collected by rack111.com is securely stored and is not accessible to third parties or employees of Stephens Marketing, except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
