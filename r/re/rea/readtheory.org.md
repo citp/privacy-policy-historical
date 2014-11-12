@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511023544id_/http%3A//www.readtheory.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112245id_/http%3A//readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Read Theory
 
-This Privacy Policy governs the manner in which Read Theory collects, uses, maintains and discloses information collected from users (each, a "User") of the [readtheory.org](http://www.generateprivacypolicy.com/account/policies/edit/readtheory.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by Read Theory.
+Privacy Policy 
+
+This Privacy Policy governs the manner in which Read Theory collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("Site"). This privacy policy applies to the Site and all products and services offered by Read Theory.
 
 Personal identification information
 
@@ -31,6 +33,7 @@ We may use feedback you provide to improve our products and services.
   * _\- To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
+  
 
 
 How we protect your information
@@ -45,13 +48,13 @@ Google Adsense
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
- _Log Files_  
+_Log Files_  
 Like many other Web sites, www.readhtheory.org makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
- _Cookies and Web Beacons  _  
+_Cookies and Web Beacons  _  
 www.readhtheory.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
- _DoubleClick DART Cookie  _  
+_DoubleClick DART Cookie  _  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.readhtheory.org.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.readhtheory.org and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
@@ -69,20 +72,20 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Changes to this privacy policy
 
-Read Theory has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Read Theory has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-Your acceptance of these terms
+Your acceptance of these terms 
 
-By using this Site, you signify your acceptance of this policy and [terms and conditions](http://www.readtheory.org/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of use](https://web.archive.org/welcome/termsAndConditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-Contacting us
+Contacting us 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-readtheorymail@gmail.com
+readtheorymail@gmail.com 
 
-This document was last updated on February 26, 2013
+This document was last updated on September 6, 2014 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at englishforeveryone.org@gmail.com. 
 
-At www.readtheory.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.readhtheory.org and how it is used.
+At www.readtheory.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.readhtheory.org and how it is used. 
