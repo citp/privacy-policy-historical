@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507090035id_/http%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112224416id_/http%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # About DeepDyve | DeepDyve
 
@@ -18,7 +18,7 @@ The information we gather from users enables us to personalize and improve our s
 
 ## PERSONAL INFORMATION YOU PROVIDE TO US: 
 
-We receive and store any information you enter on deepdyve.com or provide to us in any other way. The types of Personal Information collected may include your name, e-mail address, billing address, credit card information, information about your use of the services on deepdyve.com. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, newsletters, billing you for goods and services, provide you an API key, sign up for email alerts regarding articles, view your transaction history, customizing the advertising and content you see, and communicating with you about specials and new features. 
+We receive and store any information you enter on deepdyve.com or provide to us in any other way. The types of Personal Information collected may include your name, e-mail address, billing address, credit card information, information about your use of the services on deepdyve.com. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, newsletters, billing you for goods and services, provide you an API key, sign up for search alerts regarding articles, view your transaction history, customizing the advertising and content you see, and communicating with you about specials and new features. 
 
 If you choose to use our Invite a Colleague feature on our site, we will ask you for your Colleague’s name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DeepDyve stores this information for the sole purpose of sending this one-time email. 
 
