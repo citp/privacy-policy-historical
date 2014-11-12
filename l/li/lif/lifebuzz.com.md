@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifebuzz.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607122629id_/http%3A//www.lifebuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifebuzz.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112172437id_/http%3A//www.lifebuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · LifeBuzz
+# Privacy Policy - LifeBuzz
 
 This document was last modified on **February 6, 2014**
 
