@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosty555.info privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209084429id_/http%3A//kosty555.info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosty555.info privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112172423id_/http%3A//kosty555.info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - World Of Celebs
 
@@ -11,3 +11,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Cookies**   
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+
+  1.  
+
+
