@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050232id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113004105id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
 
 # Privacy Policy | University of Louisiana at Lafayette
 
@@ -15,6 +15,12 @@ You may choose to submit information that personally identifies you or allows yo
 We do not share any personal information with any unaffiliated third party. Information submitted will be encrypted where required by state law.
 
 Email addresses appearing on the University’s site are published to facilitate private, individual communication between the University community and our visitors. UL Lafayette websites are designed to prohibit the non-approved automated harvesting of email addresses from University sites.
+
+##  Photography
+
+The University of Louisiana at Lafayette reserves the right to photograph members of the University community, including but not limited to, its students and faculty, in situations appropriate to the image of an academic institution. These photos may be used in University publications, marketing materials, social media or on the University website.
+
+However, the University will, to the extent feasible, honor requests of constituents who do not wish their images photographed or published.
 
 ##  External Links
 
