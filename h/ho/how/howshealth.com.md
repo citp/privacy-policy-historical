@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howshealth.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005114706id_/http%3A//howshealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howshealth.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112214854id_/http%3A//howshealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HowsHealth.com
+# Privacy Policy | Current Health Articles and Tips
 
 **Privacy Policy for www.howshealth.com**
 
