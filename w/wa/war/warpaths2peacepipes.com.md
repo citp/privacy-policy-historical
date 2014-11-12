@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warpaths2peacepipes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072319id_/http%3A//warpaths2peacepipes.com/native-indian-tribes-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpaths2peacepipes.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112090616id_/http%3A//warpaths2peacepipes.com/native-indian-tribes-privacy-statement.htm) for the most accurate reproduction.*
 
 # Native Indian Tribes Privacy Statement ***
 
-[Siteseen Ltd.](http://www.siteseen.info/) has created this privacy statement in order to demonstrate our firm commitment to privacy.   
+[Siteseen Ltd.](https://plus.google.com/+SiteseenInfo/about) has created this privacy statement in order to demonstrate our firm commitment to privacy.   
 The following discloses both our information gathering and dissemination practices for  
 [www.warpaths2peacepipes.com](http://www.warpaths2peacepipes.com/)
 
@@ -16,7 +16,7 @@ your visits to this and other Web sites in order to provide advertisements about
 services of interest to you. To learn more about this behavioral advertising practice   
 or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-[Siteseen Ltd.](http://www.siteseen.info/) is not responsible for the privacy practices or the content of   
+[Siteseen Ltd.](https://plus.google.com/+SiteseenInfo/about) is not responsible for the privacy practices or the content of   
 such Web sites.
 
 You will not receive any communications from us unless requested.
@@ -28,5 +28,5 @@ you can contact :-
 The webmaster  
 [webmaster@warpaths2peacepipes.com](mailto:webmaster@warpaths2peacepipes.com)
 
- **[Native Indian Tribes Index](https://web.archive.org/web/20140625072319id_/http%3A//warpaths2peacepipes.com/index.htm)**   
+ **[Native Indian Tribes Index](https://web.archive.org/web/20141112090616id_/http%3A//warpaths2peacepipes.com/index.htm)**   
  
