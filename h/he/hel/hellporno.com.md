@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hellporno.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005130149id_/http%3A//www.hellporno.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellporno.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113143126id_/http%3A//hellporno.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Effective date: 01, October, 2013.   
+Effective date: 13, November, 2014.   
 Last modified: 16 December, 2011. 
 
 #### I. General 
 
   * A. The operative parties referred to in this policy are Company and You, the User of this site. 
-    * 1\.  is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter,  shall be referred to as "Company". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms "the Site" or "Site" are used, these terms refer to the website(s) listed at the beginning of this Policy. 
+    * 1\. Anycom Publishing is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Anycom Publishing shall be referred to as "Company". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms "the Site" or "Site" are used, these terms refer to the website(s) listed at the beginning of this Policy. 
     * 2\. You, the User - As the User of this Site, this Policy will refer to the User as "You" or through any applicable second-person pronouns, such as "Yours," etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns. 
   * B. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
 
