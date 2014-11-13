@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073935id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113123353id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
 
 # Flowdock Privacy Policy
 
-Flowdock was built to make it easy to communicate and collaborate with your team. Your privacy and security are important to us. You can choose what to say and share with your members in flows, but we want you to know that no one outside of your team will be able to access that private and sensitive information.
+Flowdock was built to make it easy to communicate and collaborate with your team. Your privacy and security are important to us. You can choose what to say and share with your members in flows, but we want you to know that no one outside of your team will be able to access that information.
 
 Rally Software Development Corp. ("Rally") operates the website flowdock.com. It is Rally's policy to respect your privacy regarding any information you share or we may collect while operating our website. This document explains how we will use the information that you provide to us via the service.
 
 ### Information Gathering and Usage
 
-When you register for Flowdock we may ask for information such as your name, email address and self-chosen team or organization name. Also your PayPal account name and Flowdock-specific pre-approved payment details will be saved on PayPal billing integration. Rally uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+When you register for Flowdock we may ask for information such as your name, email address and self-chosen team or organization name. Flowdock will store your billing information and our third party payment processor will store your payment details. To provide secure credit card processing when ordering, orders placed with Flowdock are processed through a payment gateway which operates under its own privacy policy. Rally uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
