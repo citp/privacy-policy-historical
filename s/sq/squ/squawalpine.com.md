@@ -1,100 +1,93 @@
-> *The following text is extracted and transformed from the squawalpine.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawalpine.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113141500id_/http%3A//squawalpine.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Squaw Alpine Privacy Policy | Squaw Valley Hotel
 
-**Go Daddy Respects Your Privacy**
+##### Privacy Policy - Squaw Valley | Alpine Meadows
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Privacy Policy - Squaw Valley | Alpine Meadows This privacy policy for the [www.squawalpine.com](http://www.squawalpine.com/) website, operated by Squaw Valley Ski Corporation ("Squaw Valley"), describes the privacy practices for Squaw Valley (the "Privacy Policy"). The purpose of this Privacy Policy is to inform you about the types of information we gather about you, including information gathered when you visit the Squaw Valley website located at [www.squawalpine.com](http://www.squawalpine.com/), Squaw Valley's mobile site or downloadable mobile applications (collectively, the "Site"), and information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Squaw Valley strives to help visitors of the Site protect their privacy while using our Site. By using the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy does not apply to other websites which are linked to any of the Site. Please also be aware that our promotional partners, advertisers, sponsors, tenants and concessionaires accessible through the Site or at our resort and websites owned or controlled by independent third party owners of hotel, resort, or residence properties that may have the ability to book reservations through Squaw Valley, or websites not controlled or authorized by Squaw Valley may have their own privacy and data collection policies and practices. We are not responsible for any actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing personally identifiable information to them.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+##### How We Collect and Use Information
 
-**Information Collection and Use**
+We collect information in several ways by your use of the Site, as well as from forms you submit to us, personal correspondence (such as emails or letters) that you send to us and or your interaction with us at our resort. We may ask you to voluntarily provide us with personal information on this Site. When you log onto the Site, our servers may log your IP address, the URL of your request and other information that is provided in the HTTP header. When you conduct searches on the Site, we may log the search terms that you use. Squaw Valley collects this information in order to provide information about our products and services that will meet the expectations of our guests. Also, our third-party service providers may ask you voluntarily to provide personal information on their websites and may share such personal information with us, as governed by their respective privacy policies. Our use of information received from a service provider will be dictated by the service provider's privacy policies and not this Privacy Policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect two types of information: personally identifiable information and non-personally identifiable information. Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). We also may collect information that by itself typically cannot be used to identify or contact you, such as demographic information (for example, your age, profession or gender), user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Site ("Non-Personally Identifiable Information").
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The types of Personally Identifiable Information we collect may include your name, email addresses, telephone and fax numbers, credit card information, date of birth, gender, photograph, image, social media information, such as your social media usernames, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information either desirable or necessary to provide quality services to our visitors (e.g., health conditions that require special accommodations). We may also collect information about you, such as your use of our Site, travel habits, communication preferences, and aggregated data relative to your visits to Squaw Valley. If you are a parent registering your child for lessons or other services provided by Squaw Valley, we may collect information concerning your child's medical needs or health.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Squaw Valley may collect information about you so that we can provide an experience that is responsive to our guests' and visitors' needs. We may collect information as part of: (i) fulfilling reservation or information requests, (ii) purchasing products or services, including tickets, (iii) applying or registering for season passes, (iv) engaging in social networking; (v) engaging in various activities at our resort, (vi) submitting a job application, or (vii) responding to communications from us (e.g., surveys, promotional offers, contests or sweepstakes, or reservation confirmations). We endeavor to collect information only with your knowledge or (based upon this Privacy Policy) your expectation and with your permission if necessary.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+To the extent we are able to do so, we may link your Non-Personally Identifiable Information with your Personally Identifiable Information. We may also link information collected online with information we collect offline or information collected online by third parties. We may also receive information about you that is collected online by third parties, such as social networking sites, or other online services, which we may link with information we collect online or offline. Our use of any information received from third parties is governed by such third parties’ privacy policies, and not by this Privacy Policy. You may have the ability to upload information from your account on the Site to social media websites or webpages. In the event that you elect to do so, use of the uploaded information by or on the social media site will be dictated by the social media site’s privacy policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Like many other websites, the Site may use cookies to customize content specific to your interests and track your use of the Site. "Cookies" are text files that are stored on your computer and may be used to store your personal information. For example, we use "cookies" to (i) customize content specific to your interests, (ii) ensure that you do not see the same advertisement repeatedly and (iii) store your password so you do not have to re-enter it each time you use the Site. In addition to cookies, Squaw Valley may use other now known or later developed technologies to assist Squaw Valley in observing the behavior of users visiting the Site. These technologies access individual user information but the information is used only to compile aggregated statistics about the Site's usage.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+A "pixel tag" is a clear (transparent) image placed on a web page to collect information about the page view. This Site may use pixel tags to aggregate web traffic information, such as the number of unique visitors, the top paths through the site, entry pages and exit pages. Squaw Valley does not use pixel tags to collect any personal information such as your name, age, phone number, address or e-mail address from visitors and we do not maintain a database of individual browsing profiles.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+This Site uses a web analytics service (and in the future may use other similar sites or services) to better assist Squaw Valley in understanding how the Site is used. The analytics service will place cookies on your computer that will generate information that we select about your use of the Site, including your computer’s IP address. That information will be transmitted to and stored by the analytics service. The information will be used for the purpose of evaluating consumer use of the Site, compiling reports on Site activity for Squaw Valley's use, and providing other services relating to Site activity and usage. The analytics service may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the analytics service's behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note that by doing so, you may not be able to use the full functionality of the Site.
 
-**Security**
+We may use technology that provides us with information about your geographic location (“Location Information”). For example, we may scan or collect information regarding your ski pass when you ride a chairlift at our resort. This information helps us monitor ski resort activity and provide better service to you. We also may combine Location Information with other information you provide to us online or with information collected offline. We will use Location Information collected and combined in that manner in accordance with this Privacy Policy.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We will use the information we collect from you to provide goods or services which you have requested or purchased from us, including to provide you with notifications related to your activity on the Site or your use of any of the services offered on the Site (the "Services"). We may also use your personal information to send you targeted communications, and to notify you about news, events, special offers and promotions. Squaw Valley may also use third-party service providers to send and distribute e-mail and to perform other marketing and product support functions. You can opt-out of receiving marketing and promotional e-mails from Squaw Valley at any time by selecting the opt-out link included in the e-mail or by sending an email to [web@squaw.com](mailto:web@squaw.com) with “UNSUBSCRIBE” in the subject line.
 
-**Updating Your Information**
+##### Sharing Personal Information Collected on our Websites
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+From time to time we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor some sweepstakes or contests on our Site with other companies or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your personal information with our co-sponsor or the third-party sponsor. When you use a credit card to purchase goods or services, we may share your information with the credit card company and other companies involved in the authorization process. Use of shared information is subject to third parties' policies.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We rely on service providers to help us deliver products and services, such as offering products and services, providing services in connection with our websites including travel packages, communicating news and delivering promotional materials via email and direct mail, processing credit card transactions, and administering sweepstakes and surveys. Squaw Valley may provide your personal information to service providers or contractors to perform functions on its behalf, including, but not limited to, companies or individuals hired to: communicate news, deliver Squaw Valley's promotional materials via e-mail and direct mail, to develop, enhance, market or provide any of Squaw Valley's services, to process payments and to assist Squaw Valley with sending communications and performing other marketing and support functions.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+During the course of our business we may also share with third parties aggregated demographic and statistical information that is not personally identifiable. Squaw Valley may also disclose an individual's personal information to:
 
-      iii.      You may call us at: (480) 505-8800
+a person who in the reasonable judgment of Squaw Valley is seeking the information as an agent of the individual.  
+a company or individual employed by Squaw Valley to perform functions on its behalf, such as but not limited to research or data processing.  
+another company or individual for the development, enhancement, marketing or provision of any of Squaw Valley's products and services.  
+an agent used by Squaw Valley to evaluate the individual's creditworthiness or to collect the individual's account.  
+a credit reporting agency. •in situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package).  
+a public authority or agent of a public authority, if in the reasonable judgment of Squaw Valley, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information.  
+another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization.  
+a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law.  
+Squaw Valley may also be required to use or disclose your information in connection with a legal action or other proceeding, including without limitation, in response to a court order or a subpoena. This includes any actions that may be brought by Squaw Valley against you as a result of your failure to meet your obligations under any agreements you may have with us including the Terms of Use and any reservation agreements.
 
-       iv.      You may fax us at: (480) 505-8844
+Through the Site, Squaw Valley may make available areas that allow for user interaction, including blogs, forums, bulletin board services, chat areas, or other message and communications features. Use of these features may require registration or the creation of an account with Squaw Valley. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Sending Emails**
+##### How We Store Your Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Squaw Valley is committed to protecting the security of any personal information you provide. For these reasons, on the Site, certain financial information, such as credit card data, will generally be transferred over a Secured Socket Layer (SSL) connection (provided that it is supported or enabled on your browser). After you have submitted any information online to Squaw Valley, we recommend that you end your browser session before leaving your computer. In spite of these protections, any information submitted over the Internet could be intercepted or otherwise corrupted during transmission. As such, Squaw Valley cannot guarantee the security of any data submitted over the Internet. After your information reaches Squaw Valley, however, it is stored on servers (or in the case of information received from you in person or over the phone in physical storage areas) protected by procedures and technology designed to block reasonably foreseeable intrusions by unauthorized third parties. The servers are under the control of Squaw Valley at all times but may be hosted, managed or otherwise maintained by third party service providers. These third party service providers have no right to use or access this data other than at the direct request (or on behalf of) of Squaw Valley.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+##### Third Party Links
 
-**Compliance with Laws and Law Enforcement**
+The Site may list or link to third party products or services. Squaw Valley does not have any control over the quality, safety or legality of the items advertised, the truth or accuracy of the listings, the ability of suppliers to sell items or the ability of buyers to buy items. For these reasons, Squaw Valley and its affiliates cannot ensure that a buyer or supplier will actually complete a transaction. Squaw Valley will not be a party to any transactions between you and such third parties and any correspondence concerning such transactions should be conducted between you and the third party.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+##### Minors
 
-**Third Party Service Providers**
+Squaw Valley does not seek to obtain nor does it wish to receive personally identifiable information directly from minors; however, we cannot always determine the age of persons who access and use the Site. If a minor (as defined by applicable law) provides us with his/her data without parental or guardian consent, we encourage the parent or guardian to contact us to have this information removed and to unsubscribe the minor from future Squaw Valley marketing communications. If Squaw Valley learns that, despite these measures, a minor has submitted personally identifiable information to Squaw Valley through the Site, it will take reasonable measures to delete such information from its records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+##### Users from Outside the United States
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Site is a U.S. site and is governed by U.S. law. If you are located outside the United States and are accessing the Site, using the Services or providing personal information to Squaw Valley or submitting such information through the Site, please note that your personal information will be transferred, processed, and stored within the United States and may be shared in the United States, all in accordance with this Privacy Policy. The data protection laws in the United States may be different from, and may not be as comprehensive as, those in your country. By using the Site or the Services, you are consenting to the transfer of your personal information to facilities located in the United States and the collection, use, storing and sharing of your personal information in accordance with United States laws.
 
-**Supplementation of Information**
+##### Contact Us
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you would like to update or correct your information, modify your communication preferences, or if you do not want to receive marketing communications from Squaw Valley | Alpine Meadows in the future, you can contact us:
 
-**Contests/Surveys**
+  * by e-mail: [web@squaw.com](mailto:web@squaw.com)
+  * by fax: 530-581-7106
+  * by writing to us at:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+Squaw Valley  
+P.O. Box 2007  
+1960 Squaw Valley Road  
+Olympic Valley, CA 96146  
+Attention: Privacy Policy
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+##### Special Notification for California Residents
 
-**What Happens to my Personal Information if I Opt Out?**
+Individual customers who reside in California and have provided their personal information to Squaw Valley may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at one of the following addresses: [web@squaw.com](mailto:web@squaw.com) or Squaw Valley, Attn: California Privacy Request, 1960 Squaw Valley Road, Olympic Valley, CA 96146. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+##### Policy Changes
 
-**Transfer of Data Abroad**
+Squaw Valley may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our website and date stamped so that you are always aware of when the Privacy Statement was last updated. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Last Updated: September 4, 2013
