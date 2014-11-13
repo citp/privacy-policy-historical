@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015125id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113080730id_/http%3A//www.doostang.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Find top finance and consulting jobs on Doostang
 
@@ -6,7 +6,7 @@
 
 This privacy policy was last modified on October 4, 2013.
 
-We built Nova Global Inc., d/b/a Doostang ("Doostang") because we wanted to share jobs among friends. Your comfort and security are our top priority. As such, we are committed to offering a complete set of security options that we hope will make your experience the best possible. We want to provide you with the privacy tools necessary to control how and with whom you share your information.
+We built Talent Inc., d/b/a Doostang ("Doostang") because we wanted to share jobs among friends. Your comfort and security are our top priority. As such, we are committed to offering a complete set of security options that we hope will make your experience the best possible. We want to provide you with the privacy tools necessary to control how and with whom you share your information.
 
 This Privacy Policy is only in effect for any web pages, e-mail lists, collective non user-specific information and collective personal information collected on or through Doostang's website, located at www.doostang.com, as well as any online features, services, applications and/or programs offered by Doostang (collectively, the "Site"). If you have questions or ideas, please send them to [privacy@doostang.com](mailto:privacy@doostang.com)
 
@@ -96,10 +96,10 @@ This Privacy Policy is only in effect for any web pages, e-mail lists, collectiv
 
   * By using the Site, you consent to the collection and use of information by us as specified above or as we otherwise see fit unless you inform us otherwise by means of the procedure identified below. If we decide to change this Privacy Policy, we will make an effort to post those changes on this web page so that you will always be able to understand what information we collect, how we use that information and under what circumstances we may disclose that information to others. We may use comments, information or feedback that you may submit in any manner that we may choose without notice or compensation to you. 
   * If you have additional questions or comments of any kind, if you see anything on the Site that you think is inappropriate or if you would like to have any or all of your personal information withheld from third party organizations and companies and/or from third party service providers, please let us know by e-mail contact@doostang.com or by sending your comments or requests to: 
-  * Nova Global Inc., d/b/a Doostang   
-129 West 29th Street   
-5th Floor   
-New York, NY 10001 
+  * Talent Inc., d/b/a Doostang   
+254 W 31st Street   
+12th Floor   
+New York, NY 10014 
 
 Attn: Customer Care – Website Issues   
 [contact@doostang.com](mailto:contact@doostang.com)
