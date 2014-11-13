@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414012018id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113235119id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
 # Tiffany & Co. | Privacy Policy
 
@@ -62,7 +62,7 @@ We will not transfer or disclose your personal information to third parties othe
 -a purchaser or potential purchaser of our business,  
 
 
-unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20140414012018id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfUse.aspx) or [Terms of Sale ](https://web.archive.org/web/20140414012018id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfSale.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
+unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20141113235119id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfUse.aspx) or [Terms of Sale ](https://web.archive.org/web/20141113235119id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfSale.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
 
 Given that we are an international company, this process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area. Please see the section on 'Security and storage' below.
 
