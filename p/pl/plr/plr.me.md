@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515111402id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113153255id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLR.me
+# Privacy Policy
 
 PLR.me values the trust our customers place on us. This privacy statement is intended to explain what PLR.me does with your information, and what you can expect from us. If you have additional questions or would like further information on this topic, please contact us. PLR.me may update this policy from time to time. Please check the policy periodically for changes.
 
