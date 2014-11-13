@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228020302id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113061200id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WFP | United Nations World Food Programme - Fighting Hunger Worldwide
 
