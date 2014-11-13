@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehomeswap.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625004218id_/http%3A//www.lovehomeswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehomeswap.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113142839id_/http%3A//www.lovehomeswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | House Exchange | Love Home Swap
 
