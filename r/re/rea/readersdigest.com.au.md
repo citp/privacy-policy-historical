@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516041625id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113110813id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader’s Digest Australia
 
