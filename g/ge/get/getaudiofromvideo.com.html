@@ -1,8 +1,53 @@
-<!--The following is the downloaded HTML source of the getaudiofromvideo.com privacy policy that was archived on 2014-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140513184517id_/http%3A//www.getaudiofromvideo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getaudiofromvideo.com privacy policy that was archived on 2014-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141113152350id_/http%3A//www.getaudiofromvideo.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0014/5315.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" id="inspsync" src="/static/js/inspectlet.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20150523201830/http://license.voodooalerts.com/api/getlicense.php?sitekey=1LIA8X&amp;tp=false"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0014/5315.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/static/js/ga.js"></script><script async="" src="/static/js/core.js"></script><script src="/static/js/tracker.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+
+<!-- Begin GoSquared Code -->
+<script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='/static/js/tracker.js';
+  q.parentNode.insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-372563-R');
+</script>
+<!-- End GoSquared Code -->
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+	window.__insp = window.__insp || [];
+	__insp.push(['wid', 368074153]);
+	(function() {
+		function __ldinsp(){
+            var insp = document.createElement('script');
+            insp.type = 'text/javascript';
+            insp.async = true;
+            insp.id = "inspsync";
+            insp.src = "/static/js/inspectlet.js";
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+		if (window.attachEvent){
+			window.attachEvent('onload', __ldinsp);
+		}else{
+			window.addEventListener('load', __ldinsp, false);
+		}
+	})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+<!-- start Voodoo Alerts for getaudiofromvideo.com -->
+<script>
+	var _va = _va || {}; 
+	(function(d) { 
+	_va.key = '1LIA8X'; _va.starttime = (new Date()).getTime();
+	var ns = d.createElement('script'); ns.async = true;
+	ns.src = '/static/js/core.js';
+	var es = d.getElementsByTagName('script')[0]; es.parentNode.insertBefore(ns, es);
+	})(document);
+</script>
+<!-- end Voodoo Alerts for getaudiofromvideo.com -->
 
 <!--Crazy Egg start -->
 <script type="text/javascript">
@@ -13,7 +58,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <!-- Crazy Egg end -->
 
-<!-- Optimizely start -->
+<!-- Optimizely start
 <script src="//cdn.optimizely.com/js/138306781.js"></script>
 <!-- Optimizely end -->
 
@@ -74,6 +119,20 @@ function dologin(){
 	//document.forms["header_login"].submit();
 }
 
+
+function dologin_from_modal(){
+	var f = document.forms["header_modal_login"];
+	var redir = document.createElement("input");
+	redir.name = "amember_redirect_url";
+	redir.type = "hidden";
+	redir.value = document.URL;
+	f.appendChild(redir)
+	//console.log(f);
+	f.submit();
+	//document.forms["header_login"].submit();
+}
+
+
 var do_auth = function(obj, w, d){
     if (typeof(obj.status) == "undefined"){
         obj.status = false;
@@ -90,6 +149,22 @@ var do_auth = function(obj, w, d){
 		} else {
 			w.memberstatus = false;
 		}
+        mobile_html = "<div class='btn-group'>" +
+                        "<button type='button' class='btn create_account dropdown-toggle icon-caret' data-toggle='dropdown'>" +
+                          "My Account<span class='caret'></span>" +
+                        "</button>" +
+                        "<ul class='dropdown-menu' role='menu'>" +
+                           "<li>" +
+                              "<a href='https://members.getaudiofromvideo.com/member/index' data-toggle='modal' class='create_account'>" +
+                                "My Account" +
+                              "</a>" +
+                           "</li>" +
+                           "<li>" +
+                              "<a href='https://members.getaudiofromvideo.com/login/logout' data-toggle='modal' class='btn_logout' style='float:left;'>Logout</a>" +
+                           "</li>" +
+                        "</ul>" +
+                      "</div>";
+
         w.username = obj.name;
 		html += "<div class=\"member_login\">Welcome " + obj.name + "</div>";
 		html += "<a href=\"https://members.getaudiofromvideo.com/member/index\" class=\"create_account mt5\" style=\"float:left;\">My Account</a>";
@@ -98,6 +173,7 @@ var do_auth = function(obj, w, d){
 			html += "<div class=\"member_login\" style=\"color:red\">Your account membership payment is past due</div>";
 		}
 	} else {
+        mobile_html = "<button type='button' data-toggle='modal' data-target='#modalSignUp' class='btn btn-primary btn-login'>Login / Signup <span class='glyphicon glyphicon-chevron-right'></span></button>'";
 		html += "<form action=\"https://members.getaudiofromvideo.com/login\" method=\"post\" name=\"header_login\" title=\"Registration\">";
 		html += "<div class=\"member_login\"><span></span>Member Login</div>";
 		html += "<div class=\"clearfix mt5\">";
@@ -110,17 +186,24 @@ var do_auth = function(obj, w, d){
 		html += "<a href=\"https://members.getaudiofromvideo.com/signup/index\" class=\"btn_logout mt1\">Signup</a>";
 		html += "</div></form>";
 	}
-	loadhtmlintologin(html);
-	//d.getElementById("login_box").innerHTML = html;
+	loadhtmlintologin(html, mobile_html);
 };
 
 
-var loadhtmlintologin = function(html){
-	var loginarea = document.getElementById("login_box");
-	if (loginarea != null){
-		loginarea.innerHTML = html;
-	} else {
-		setTimeout(function(){loadhtmlintologin(html)}, 100);
+var loadhtmlintologin = function(html, mobile_html){
+
+    var loginarea = document.getElementById("login_box");
+    var mob_loginarea = document.getElementById("mobile_login_box");
+
+    if(mob_loginarea != null && mobile_html != undefined) {
+        mob_loginarea.innerHTML = mobile_html;
+	}
+    if (loginarea != null) {
+        loginarea.innerHTML = html;
+    }
+
+	if(mob_loginarea == null || loginarea == null || mobile_html == undefined) {
+		setTimeout(function(){loadhtmlintologin(html, mobile_html)}, 100);
 	}
 };
 
@@ -142,7 +225,7 @@ var loadhtmlintologin = function(html){
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = "/static/js/ga.js";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 /* ]]> */
@@ -156,14 +239,18 @@ var loadhtmlintologin = function(html){
 	<meta name="language" content="english">
 	<meta name="robots" content="index, follow">
 	
-	
+
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/style_10.css?v=4">
 	<link rel="stylesheet" type="text/css" href="/static/css/menu.css?v=4">
 	<link rel="stylesheet" type="text/css" href="/static/css/bundle.css?v=4">
 	<link rel="stylesheet" type="text/css" href="/static/css/main.css?v=4">
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+	<script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/js/script.js"></script>
 	<script type="text/javascript">
-		jQuery(function($) {		 
+		jQuery(function($) {
 			var Default = {
 				utils : {
 					miscellaneous : function(){
@@ -171,7 +258,7 @@ var loadhtmlintologin = function(html){
 					}
 				}
 			};		
-			Default.utils.miscellaneous();			
+			Default.utils.miscellaneous();
 		});
 	</script>
 
@@ -180,8 +267,8 @@ var loadhtmlintologin = function(html){
            
         
 	<!-- <link rel="stylesheet" type="text/css" href="/static/css/raw.css" /> -->
-	<link rel="stylesheet" media="screen and (max-width:600px)" href="/static/css/main_small_device.css?v=4">
-	<link rel="stylesheet" media="screen and (max-width:600px)" href="/static/css/menu_small_device.css?v=4">
+
+
 	<link rel="shortcut icon" href="/static/favicon.ico">
 	<style type="text/css">
 		#d_menu{/*width:852px;*/}
@@ -192,30 +279,70 @@ var loadhtmlintologin = function(html){
 
 
 
-
-</head>
+	
+<script src="https://data.gosquared.com/pv?cs=UTF-8&amp;cd=24&amp;fl=-&amp;je=0&amp;la=en-us&amp;sw=800&amp;sh=600&amp;dp=1&amp;pu=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141113152350id_%2Fhttp%3A%2F%2Fwww.getaudiofromvideo.com%2Fprivacy-policy%2F&amp;pt=Convert%20YouTube%20To%20MP3.%20YouTube%20MP3%20Converter.%20Download%20YouTube%20Videos&amp;ri=0&amp;ru=-&amp;re=1&amp;vi=2&amp;pv=2&amp;lv=1580385014&amp;vw=1366&amp;vh=768&amp;dw=1366&amp;dh=1004&amp;st=0&amp;sl=0&amp;tz=0&amp;cb=_0&amp;a=GSN-372563-R&amp;id=49455707&amp;tv=6.1.1528"></script></head>
 <body>
+    <div class="hdr_top_main hidden-xs">
+    <div class="hdr_top_main2">
+       <div class="hdr_top_inr clearfix">
+          <div class="container w-1020 p0">
+             <nav class="navbar " role="navigation">
+                <div class="navbar-header">
+                   <div class="logo"><a href="/"><img height="98px" width="360px" class="img-responsive" src="/static/img/new/get-audio-from-video.png" alt="Get Audio From Video" title="Convert YouTube To MP3. YouTube MP3 Converter. Download YouTube Videos"></a></div>
+                </div>
+                <div class="navbar-left">
+                   <div class="login_box" id="login_box"></div>
+                </div>
+             </nav>
+             <div class="clearfix"></div>
+          </div>
+       </div>
+    </div>
+</div>
+<div class="nav-mobile">
+    <div class="hdr_top_main hidden-sm hidden-md hidden-lg">
+       <div class="container w-1020 p0">
+          <div>
+             <div class="col-xs-3 hidden-sm hidden-md hidden-lg p0">
+                <div class="btn-back  no-main-page  pull-left">
+                   <a href="javascript: history.back(-1)" class="btn btn-primary"><span class="glyphicon glyphicon-chevron-left"></span> Back</a>
+                </div>
+             </div>
+             <div class="col-xs-5 hidden-sm hidden-md hidden-lg p0">
+                <div class="item-title">
+                   <h1>GetAudioFromVideo.com</h1>
+                </div>
+             </div>
+              <div class="col-xs-4 hidden-sm hidden-md hidden-lg p0">
+                <div class="navbar-collapse">
+                   <div class="pull-right " id="mobile_login_box">
 
-<div class="bodywrapper" style="min-height:100%">
-	<div id="fb-root"></div>
-	<div>
-		<div class="hdr_top_main">
-    		<div class="hdr_top_main2">
-        		<div class="hdr_top_inr clearfix">
-                	<div class="logo"><a href="/"><img src="/static/img/new/get-audio-from-video.png" alt="Get Audio From Video" title="Convert YouTube To MP3. YouTube MP3 Converter. Download YouTube Videos"></a></div>
 
-                	<div class="login_box" id="login_box">
 
-                	</div>
-            	</div>
-        	</div>
 
-    	</div>
-    	<!-- <a onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href,'welcome','location='+nonwin+',scrollbars=yes,width=435,height=500,menubar=no,toolbar=no'); return false;" href='https://getaudiofromvideo.rhinosupport.com/Widgets/Custom/CreateTicket.php' target='_blank' class="contact_us"></a> -->
-	</div>
 
-<div class="mainwrapper" style="padding-bottom:190px">
 
+
+
+
+
+
+
+
+
+
+                   </div>
+                </div>
+              </div>
+             <div class="clearfix"></div>
+          </div>
+       </div>
+    </div>
+ </div>
+
+
+    <div class="bodywrapper">
+        
 
 
 <div class="content clearfix static_pages">
@@ -249,43 +376,133 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 
 
-</div>
-</div>
-
-
-<!--FOOTER-->
-<div class="footer">
-	<div class="footer_inr">
-        <div class="ftr_lft">Copyright © 2013 GetAudioFromVideo.com</div>
-
-        <div class="ftr_rgt">
-            <div class="ftr_rgt1">
-            
-                <a href="/terms-of-service/">Terms of Service</a>
-            
-                <a href="/privacy-policy/">Privacy Policy</a>
-            
-                <a href="/about-us/">About Us</a>
-            
-                <a href="http://getaudiofromvideo.desk.com/customer/portal/emails/new">Contact Us</a>
-            
-            </div>
-            <div class="ftr_rgt2">
-            
-                <a href="/DMCA/">DMCA Compliance</a>
-            
-                <a href="http://blog.getaudiofromvideo.com/">Blog</a>
-            
-                <a href="http://getaudiofromvideo.desk.com/">Frequently Asked Questions</a>
-            
-            </div>
-        </div>
     </div>
-</div>
-<div class="clear"></div>
 
+    <!--FOOTER-->
+  <div class="footer">
+     <div class="container w-1020">
+        <div class="row pt-30">
+           <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-left">
+              <div>Copyright © 2014 GetAudioFromVideo.com</div>
+           </div>
+           <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+              <div class="pull-right">
+                 <ul class="list-unstyled ftr_rgt1">
+                    
+                        <li>
+                           <a href="/terms-of-service/">Terms of Service</a>
+                        </li>
+                    
+                        <li>
+                           <a href="/privacy-policy/">Privacy Policy</a>
+                        </li>
+                    
+                        <li>
+                           <a href="/about-us/">About Us</a>
+                        </li>
+                    
+                        <li>
+                           <a href="http://getaudiofromvideo.desk.com/customer/portal/emails/new">Contact Us</a>
+                        </li>
+                    
+                 </ul>
+                 <ul class="list-unstyled ftr_rgt2">
+                    
+                        <li>
+                            <a href="/DMCA/">DMCA Compliance</a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://getaudiofromvideo.desk.com/">Frequently Asked Questions</a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://blog.getaudiofromvideo.com">Blog</a>
+                        </li>
+                    
+                 </ul>
+              </div>
+              <div class="clearfix"></div>
+           </div>
+           <div class="clearfix"></div>
+        </div>
+     </div>
+  </div>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","b3d761313c",427791,"MlNUZUtUDEdQVE0IVgsZcERXVhZdXlkWBlgDQBhBWFIHRx9BUAROFgxFWVZCPURQUFw=",0,25,new Date().getTime()])</script>
+    <!-- Modal SignUp -->
+    <div class="modal fade" id="modalSignUp" tabindex="-1" role="dialog" aria-labelledby="modalSignUpLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+              <h4 class="modal-title text-center" id="myModalLabel">Sign in to your account</h4>
+            </div>
+            <div class="modal-body">
+               <form action="https://members.getaudiofromvideo.com/login" method="post" name="header_modal_login">
+                  <div class="form-group  has-feedback">
+                     <input type="text" class="form-control" id="login" name="amember_login" size="15" value="" placeholder="Username">
+                     <span class="required form-control-feedback">*</span>
+                  </div>
+                  <div class="form-group has-feedback">
+                     <input type="password" class="form-control" id="pass" name="amember_pass" size="15" value="" placeholder="Password">
+                     <input name="amember_redirect_url" type="hidden" value="http://dev.getaudiofromvideo.com/">
+                  </div>
+                  <div class="checkbox col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                     <label>
+                        <input type="checkbox">Keep me signed in
+                     </label>
+                  </div>
+                  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 p0">
+                     <div class="form-group pull-right">
+                        <div class="forgot-pass">
+                           <a href="" data-toggle="modal" data-target="#modalForgotPassword" id="forgotPass">Forgot your password?</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="form-group pull-left">
+                     <ul class="list-unstyled">
+<!--                        <li><button type="submit" class="btn btn-success">Login</button></li>   -->
+                         <li><a class="btn btn-success" onclick="dologin_from_modal();">Login</a></li>
+                         <li><a href="https://members.getaudiofromvideo.com/signup/index" class="btn btn-danger item-link">Signup</a></li>
+                     </ul>
+
+                  </div>
+                  <div class="clearfix"></div>
+               </form>
+            </div>
+            <div class="modal-footer"></div>
+          </div>
+        </div>
+      </div>
+    <!-- Modal ForgotPassword -->
+    <div class="modal fade" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="modalSignUpLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+              <h4 class="modal-title text-center" id="myModalLabel">Forgot your password ?</h4>
+            </div>
+            <div class="modal-body">
+               <form>
+                  <div class="form-group">
+                     <label for="email">Email</label>
+                     <input type="text" class="form-control" id="email" name="amember_email" value="">
+                  </div>
+                  <div class="form-group">
+                     <input class="btn btn-resent btn-danger" name="commit" type="submit" value="Reset Password">
+                  </div>
+                  <div class="clearfix"></div>
+
+               </form>
+            </div>
+            <div class="modal-footer"></div>
+          </div>
+        </div>
+      </div>
+    <!-- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","b3d761313c",427791,"MlNUZUtUDEdQVE0IVgsZcERXVhZdXlkWBlgDQBhSVlsWUV9DFxdQAEFFC1FaD1FBVl4E",0,2,new Date().getTime()])</script>-->
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","b3d761313c",427791,"MlNUZUtUDEdQVE0IVgsZcERXVhZdXlkWBlgDQBhBWFIHRx9BUAROFgxFWVZCPURQUFw=",0,24,new Date().getTime()])</script>
 
 
 <script type="text/javascript" async="" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
