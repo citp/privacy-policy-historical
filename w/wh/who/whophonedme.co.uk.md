@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the whophonedme.co.uk privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208014629id_/http%3A//www.whophonedme.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whophonedme.co.uk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113232214id_/http%3A//www.whophonedme.com/privacy.asp) for the most accurate reproduction.*
 
 # Who Phoned Me - Privacy Policy
 
-This privacy policy sets out how whophonedme.co.uk uses and protects any information that you give whophonedme.co.uk when you use this website.
+This privacy policy sets out how whophonedme.com uses and protects any information that you give whophonedme.com when you use this website.
 
-whophonedme.co.uk is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+whophonedme.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-whophonedme.co.uk may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.   
+whophonedme.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.   
 
 
 **What we collect**
