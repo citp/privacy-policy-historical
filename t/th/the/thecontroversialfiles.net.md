@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325024518id_/http%3A//www.thecontroversialfiles.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113201902id_/http%3A//www.thecontroversialfiles.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LIBRARY OF MOST CONTROVERSIAL FILES
 
