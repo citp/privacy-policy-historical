@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weknowaplace.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515110055id_/http%3A//www.weknowaplace.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weknowaplace.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113223832id_/http%3A//www.weknowaplace.com/Privacy-Policy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
-> ## OUR COMMITMENT TO PRIVACY
+## OUR COMMITMENT TO PRIVACY
 
 We Know A Place is deeply committed to your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure. This Privacy Policy covers WeKnowAPlace.com’s treatment of personally identifiable information that We Know A Place collects when you are on the We Know A Place web site, and when you use We Know A Place's services. We will NEVER sell or rent your name, e-mail address or personal information to any third party except to fulfill the services you requested, unless specifically authorized by you. Only authorized employees may access your information. All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation. 
 
