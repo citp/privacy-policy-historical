@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022017id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113021607id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://thewordsearch.com/ "The Word Search") [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/)
+[](http://thewordsearch.com/ "The Word Search") [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/) [Search](https://web.archive.org/search/)
 
   
 
@@ -59,3 +59,11 @@ You can also visit [here](http://www.networkadvertising.org/managing/opt_out.asp
 #### Google Ad Serving
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+#### Tapjoy
+
+From, time to time we may use the Tapjoy network to advertise our mobile apps. When running, Tapjoy tracks installs/uses of our apps. You can read Tapjoys privacy policy [here](http://info.tapjoy.com/about-tapjoy/privacy-policy/), to see what data they collect and how they use it. 
+
+#### Traffic analysis
+
+We sometimes make use of Google Analytics, a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of our site, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google's privacy policy [here](http://www.google.com/intl/en/policies/privacy/). 
