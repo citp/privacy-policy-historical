@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamroom.net privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516164901id_/http%3A//www.jamroom.net/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamroom.net privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114001233id_/http%3A//www.jamroom.net/page/1/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jamroom
 
