@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the swaygroupllc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062723id_/http%3A//swaygroupllc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaygroupllc.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113154124id_/http%3A//swaygroupllc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sway Group
-
-SWAY GROUP LLC PRIVACY STATEMENT 
+# Sway Group LLC Privacy Statement - Sway Group LLC
 
 Sway Group LLC (“Sway”) respects your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with all of the products, services, widgets and websites, including iSway, offered by Sway (“Services”). The Services are provided by Sway and may be provided by Sway on behalf of a Sway licensor or partner (“Services Partner”). By using or otherwise accessing the Services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you do not agree with this Statement, please do not use our Services. This policy applies to all websites administered by Sway, which include, but are not limited to:
 
   * http://swaygroupllc.com
   * http://www.thesitsgirls.com/
+  * http://www.bloggybootcamp.com/
+  * http://massivesway.thesitsgirls.com/
   * http://massivesway.force.com/
 
 
