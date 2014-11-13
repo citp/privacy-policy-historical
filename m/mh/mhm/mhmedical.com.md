@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhmedical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101815id_/http%3A//mhmedical.com/ss/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhmedical.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113104729id_/http%3A//mhmedical.com/ss/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 **Data Collection and Use**
 
-When you subscribe to the McGraw-Hill Medical’s online products (such as AccessMedicine, AccessAnesthesiology, AccessEmergency Medicine, AccessPediatrics, AccessPharmacy, AccessPhysiotherapy, AccessSurgery, OMMBID, Harrison's Online, and the LANGE Educational Library) or register for a trial subscription, we collect certain personal information, such as your name, contact information, and e-mail address. We use this information to process your order and manage your subscription. This information is stored in a secure database in the U.S. and access is limited to authorized persons.   
+When you subscribe to the McGraw-Hill Medical’s online products (such as ClinicalAccess, AccessMedicine, AccessAnesthesiology, AccessEmergency Medicine, AccessPediatrics, AccessPharmacy, AccessPhysiotherapy, AccessSurgery, OMMBID, Harrison's Online, and the LANGE Educational Library) or register for a trial subscription, we collect certain personal information, such as your name, contact information, and e-mail address. We use this information to process your order and manage your subscription. This information is stored in a secure database in the U.S. and access is limited to authorized persons.   
 Your e-mail address is added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. If you do not want to receive e-mail alerts, you may indicate this on your registration form; or you can change this at any time by going to the Edit My Profile section of your “My Access” account. 
 
 McGraw-Hill Medical may also make subscriber information available to other units within McGraw-Hill Education, LLC as well as to selected outside companies whose products or services we feel may be of interest to you. You can opt out of this at any time by visiting our [Opt Out form.](https://web.archive.org/public/optout.aspx)
