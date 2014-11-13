@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soderetube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043839id_/http%3A//www.soderetube.com/page.php%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soderetube.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113013634id_/http%3A//www.soderetube.com/page.php%3Fp%3D2) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
