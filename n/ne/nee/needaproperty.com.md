@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the needaproperty.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213012049id_/http%3A//www.needaproperty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needaproperty.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113184811id_/http%3A//www.needaproperty.com/privacy) for the most accurate reproduction.*
 
-# Houses & Flats To Rent & For Sale: Buy & Sell Property UK – needaproperty.com
+# Find Houses & Flats to Buy or Rent | Need A Property UK
 
 **Privacy**
 
