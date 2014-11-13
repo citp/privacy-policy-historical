@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627020422id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113060828id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PC Security
 
 ### We Respect Your Privacy
 
