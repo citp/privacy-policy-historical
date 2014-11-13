@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the experienceadvertising.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103902id_/http%3A//experienceadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceadvertising.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113063704id_/http%3A//experienceadvertising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Digital Marketing Agency - Search, Social, Affiliate, Conversion Management
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
