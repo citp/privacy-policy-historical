@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515133122id_/http%3A//blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114004302id_/http%3A//blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blipshift
 
