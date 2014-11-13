@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080555id_/http%3A//anitaborg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113160135id_/http%3A//anitaborg.org/privacy-policy) for the most accurate reproduction.*
 
 # Anita Borg Institute | Privacy Policy
 
