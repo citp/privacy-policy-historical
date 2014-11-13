@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auto-power-girl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094327id_/http%3A//www.auto-power-girl.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auto-power-girl.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113181908id_/http%3A//www.auto-power-girl.com/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
