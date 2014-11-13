@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515013234id_/http%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012805id_/http%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Maddycoupons.in
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-The website www.Maddycoupons.in (“the website”) is operated by Zintec Software Pvt. Ltd. (ZSPL). Maddycoupons (“we,” “us,” “our”) is committed to protect your (“Customer”, “User”, “You”) privacy and will only use information that has been collected from you in a lawful manner in full accordance with data protection laws applicable in India.
+The website www.Maddycoupons.in (“the website ¢‚¬ ) is operated by Zintec Software Pvt. Ltd. (ZSPL). Maddycoupons (“we,” “us,” “our”) is committed to protect your (“Customer ¢‚¬ , “User ¢‚¬ , “You ¢‚¬ ) privacy and will only use information that has been collected from you in a lawful manner in full accordance with data protection laws applicable in India.
 
 We at maddycoupons.in value your privacy. Please read this privacy policy to learn about our information gathering and dissemination practices. Please note that our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. By visiting this website you agree to be bound by the terms and conditions of this Policy. If you do not agree please do not use or access our Site.
 
@@ -20,7 +20,7 @@ If you choose to download any coupons from the website, we collect information a
 
 We collect personally identifiable information (email address, name, phone number) from you when you set up a free account with us. While you can browse some sections of our site without being a registered member, certain activities (such as downloading a coupon) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
-  1. **2.    ****Using this information:**
+  1. **2.     ****Using this information:**
 
 
 
@@ -38,7 +38,7 @@ This information is used for the aforementioned uses by Maddycoupons, group comp
 
 In case you opt-in for our newsletters, we will send you our newsletters and other marketing/promotional materials and may ask you for feedback on our services.  However, you may choose to opt out of such newsletters at any point in the future by unsubscribing from our newsletters.
 
-If we do receive your personal information, we will only use it for the purposes described in this policy, and will not disclose the gathered information outside of Maddycoupons. If you do not agree to our “Using this information” policy above, you cannot use our website. Your continued use of our website constitutes your acceptance of this Privacy Policy
+If we do receive your personal information, we will only use it for the purposes described in this policy, and will not disclose the gathered information outside of Maddycoupons. If you do not agree to our “Using this information ¢‚¬  policy above, you cannot use our website. Your continued use of our website constitutes your acceptance of this Privacy Policy
 
   1. **Sharing of personal information**
 
@@ -48,21 +48,21 @@ We may share personal information with our other corporate entities and affiliat
 
 We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-  1. **4.      ****Links to other Websites**
+  1. **4.         ****Links to other Websites**
 
 
 
-We may provide links to other websites that we do not control, these include those of our affiliate partners’ online stores. We do not assume responsibility for the privacy practices, products, services or any other content of any websites or pages that is not under our control. Zintec Software Pvt. Ltd does not bear any responsibility for any actions or policies of third-party websites. Moreover, Zintec Software Pvt Ltd. disclaims all responsibility for the subsequent use of an email address or any other personally identifiable information you have provided to an affiliate store or any other website we might link to that is not under our control.
+We may provide links to other websites that we do not control, these include those of our affiliate partners` online stores. We do not assume responsibility for the privacy practices, products, services or any other content of any websites or pages that is not under our control. Zintec Software Pvt. Ltd does not bear any responsibility for any actions or policies of third-party websites. Moreover, Zintec Software Pvt Ltd. disclaims all responsibility for the subsequent use of an email address or any other personally identifiable information you have provided to an affiliate store or any other website we might link to that is not under our control.
 
 Maddycoupons users should be aware, that content presented to them through their use of Maddycoupons.in may include but is not limited to targeted advertisements and other sponsored content. This content displayed may be protected by intellectual property rights which are owned by the sponsors or advertisers who provide that content to or for the use of Maddycoupons (or by other persons or companies on their behalf). You may not modify, sell, distribute, lease or create derivative works based on this content (either in whole or in part) unless you have been specifically told that you may do so by the licensor or the owners of that content, in a separate agreement.
 
-  1. **5.      ****Cookies & Google Analytics**
+  1. **5.         ****Cookies & Google Analytics**
 
 
 
-Maddycoupons.in uses Google Analytics, a web analytics service provided by Google. Google Analytics uses “cookies” to help us analyse how the site is used. The anonymized information generated by those cookies about the customers use of this website and current IP will be transmitted; anonymized by your browser to be stored by Google on servers in the United States and other countries. Google will use this information on our behalf for the purpose of evaluating the aggregated usage of our website, compiling reports on website activity and providing other services related to website activity and internet usage to us. The IP address collected through Google Analytics will not be associated with any other data held by Google. You may choose not to opt-in to permit use of the google cookies by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website. ****
+Maddycoupons.in uses Google Analytics, a web analytics service provided by Google. Google Analytics uses “cookies ¢‚¬  to help us analyse how the site is used. The anonymized information generated by those cookies about the customers use of this website and current IP will be transmitted; anonymized by your browser to be stored by Google on servers in the United States and other countries. Google will use this information on our behalf for the purpose of evaluating the aggregated usage of our website, compiling reports on website activity and providing other services related to website activity and internet usage to us. The IP address collected through Google Analytics will not be associated with any other data held by Google. You may choose not to opt-in to permit use of the google cookies by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website. ****
 
-  1. **6.      ****Security Precautions** ****
+  1. **6.         ****Security Precautions** ****
 
 
 
@@ -80,6 +80,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 
 
-If you have any concerns you may write to us at ________________________________________or contact us on 040-______________ on any working day from 10 AM to 7 PM
+If you have any concerns you may write to us at ________________________________________or contact us on  040-______________  on any working day from 10 AM to 7 PM
 
 By using our Website, Maddycoupons.in, you agree that you have read, understood and agreed with our Privacy Policy in its entirety, and consent to be bound by it.
