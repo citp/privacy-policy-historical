@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projectcamelotproductions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114427id_/http%3A//www.projectcamelotportal.com/component/content/article/35-project-camelot/general-information/2110-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectcamelotproductions.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113231448id_/http%3A//projectcamelotportal.com/component/content/article/35-project-camelot/general-information/2110-privacy-policy) for the most accurate reproduction.*
 
 # Project Camelot - Project Camelot
 
   * 04 May 2014 05:13 
   * Written by Kerry Cassidy 
-  * Category: [General Information](http://projectcamelotportal.com/component/content/category/35-project-camelot/general-information)
+  * Category: [General Information](http://www.projectcamelotportal.com/component/content/category/35-project-camelot/general-information)
 
 
 
@@ -64,9 +64,9 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://projectcamelotportal.com/component/content/article/35-project-camelot/general-information/1251-forum-rules>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://projectcamelotportal.com/component/content/article/35-project-camelot/general-information/1251-forum-rules](http://www.projectcamelotportal.com/component/content/article/35-project-camelot/general-information/1251-forum-rules)
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
@@ -82,8 +82,10 @@ http://projectcamelotportal.com/contact-us
 638 Lindero Canyon Road #277  
 Oak Park, CALIFORNIA 91377  
 United States  
-[kerry@projectcamelot.tv](mailto:kerry@projectcamelot.tv)
+kerry@projectcamelot.tv
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
 
 [](http://awakeandaware2013.net/pay-per-view)
+
+  **We, the Muse will include a two-day talk series with Kerry Cassidy at aMBUSH Gallery providing visitors with the choice to attend on Saturday 22 November or Sunday 23 November from 2-6pm. Tickets to these events are limited, and available for $30 at: www.projectcamelot-presentation.eventbrite.com.au**
