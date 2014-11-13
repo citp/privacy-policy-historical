@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525011409id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113095510id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
-# The San Francisco Globe
+# SF Globe - Everything Worth Seeing On the Internet
 
 **_PRIVACY POLICY_**
 
-This application (collectively, "This application" or "we"), under parent company K-Factor Media LLC, respects the privacy rights of our online users and is committed to protecting the personal information collected about or provided by you. We have adopted this Online Privacy Policy ("Privacy Policy") to guide how we store, collect, manage and use the personal information you provided in connection with the Service .
+This application (collectively, "This application" or "we"), under parent company SFG Media Group, LLC, respects the privacy rights of our online users and is committed to protecting the personal information collected about or provided by you. We have adopted this Online Privacy Policy ("Privacy Policy") to guide how we store, collect, manage and use the personal information you provided in connection with the Service .
 
 Please note that this Privacy Policy applies only to information submitted and collected by This application through use of the Service in any way whether on the Social Networking Site (as defined in the Terms of Use) or otherwise online, but does not apply to information that may be collected offline or collected through any other method including your use of any web site This application's affiliated entities may operate. Moreover, this Privacy Policy applies to the Service, but **not** to websites maintained by other companies or organizations to which we may provide links. When you link to these websites, this Privacy Policy no longer applies. We are therefore not responsible for the content or activities provided or created on such sites.
 
@@ -81,10 +81,10 @@ Since 2005, California Civil Code Section 1798.83 permits customers who are Cali
 _Ask a Question about Privacy Policy_
 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:  
-K-Factor Media LLC  
+SFG Media Group, LLC  
 Attention: Privacy Policy  
-P.O. Box 606  
-San Francisco, CA 94104-0606 
+235 Pine Street, Suite 1800  
+San Francisco, CA 94104 
 
 _Policy Regarding Children Under 13_
 
