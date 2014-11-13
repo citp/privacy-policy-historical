@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-cheapest.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327140659id_/http%3A//www.uk-cheapest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-cheapest.co.uk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113031037id_/http%3A//www.uk-cheapest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # UK Cheapest | Privacy | We respect your privacy. We look after your data
 
