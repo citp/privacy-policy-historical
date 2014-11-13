@@ -1,0 +1,513 @@
+<!--The following is the downloaded HTML source of the dashvapes.com privacy policy that was archived on 2014-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141113151532id_/http%3A//www.dashvapes.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>DashVapes - Privacy Policy</title>
+<link rel="StyleSheet" href="/css/ui.css" media="screen" type="text/css">
+<link rel="StyleSheet" href="/css/default.css" media="screen" type="text/css">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<meta name="google-site-verification" content="0hfIuvgPDP0jXnY4MxVtRfGvU2dFQ6SGgDUj1rdmN3I">
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="/logo.png">
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=237538632984574&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+$('.loginForm').submit(function() {
+	$('.loginButton').html('<img src="/images/loading.gif" style="margin-top: 10px;" />');
+	var e = $('.loginEmail').val();
+	var p = $('.loginPass').val();
+	$.post("/scripts/login.php", {email: e, password: p, rand: Math.random()*99999 }, function(data) {
+		$.trim(data);
+		if(data == 'invalid') {
+			alert('You have entered an invalid email address or password.');
+		} else if(data == 'loggedin') {
+		location.href = '/account';
+		} else if(data == 'disabled') {
+			alert('Your account has been disabled. Please contact us.');
+		}
+		$('.loginButton').html('<input type="submit" class="button" value="Login" style="margin: 0px; margin-top: 5px; margin-left: 10px; width: 75px;" />');
+	});
+
+	return false;
+});
+$('.signoutIcon').click(function(e) {
+e.preventDefault();
+$.post("/scripts/logout.php", function(data) {
+location.href = '/';
+});
+
+});
+	
+$(".quickview").click(function(e) {
+	e.preventDefault();
+	var pid = $(this).data("index");
+	var poid = $(this).data("poid");
+	$('#overlay').show().css("opacity","0.4");
+	$('#dialog').show().css("width", "800px").css("marginLeft", "-400px");
+	$('#dialog_content').load("/scripts/popup_product.php?poid="+ poid +"&pid="+ pid + "&rand="+ Math.random()*999999);
+	e.stopPropagation();
+	});
+
+$(".addReview").click(function(e) {
+	e.preventDefault();
+	var pid = $(this).data("index");
+	$('#overlay').show().css("opacity","0.4");
+	$('#dialog').show().css("width", "800px").css("marginLeft", "-400px");
+	$('#dialog_content').load("/scripts/add_review.php?pid="+ pid + "&rand="+ Math.random()*999999);
+
+	});
+$('.addcart').live("click", function() {
+	var pid = $(this).data("index");
+	var poid = $(this).data("poid");
+	var qty = $("#qty").val();
+	if(!qty) {
+		var qty = 1;
+	}
+
+	if(qty == 0) {
+		alert("Quantity must be greater than 0");
+	} else {
+	$.post("/scripts/add_to_cart.php", { pid: pid, poid: poid, qty: qty, rand: Math.random()*99999 }, function(data) {
+	$.trim(data);
+	if(data == 'max_qty') {
+		alert("There isn't enough of this product in stock, or you have the maximum amount of this item in your shopping cart already. Please try a lower quantity.");
+	} else {
+		$('#overlay').show().css("opacity","0.4");
+		$('#dialog').show().css("width", "800px").css("marginLeft", "-400px");
+		$('#dialog_content').load("/scripts/popup_cart.php?poid="+ poid +"&pid="+ pid + "&qty="+ qty +"&rand="+ Math.random()*999999);
+		$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+	}
+	});
+	}
+	});
+	
+$('.xIcon').live("click", function() {
+	var cid = $(this).data("index");
+	var c = confirm("Are you sure you want to remove this item from your shopping cart?");
+	if(c) {
+		$.post("/scripts/update_qty.php", { qty: '0', cid: cid, rand: Math.random()*9999999 }, function(data) {
+			$.trim(data);
+			if(data) {
+				$('.qty_update_'+ cid).val(data);
+				alert("There isn't enough of this product in stock, or you have the maximum amount of this item in your shopping cart already. Please try a lower quantity.");
+			} else {
+			$('#noticeMsg').html('Item has been removed').fadeIn('fast');
+			setTimeout(function() {
+			$('#noticeMsg').html('').fadeOut('fast');
+			}, 500);
+			$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+			$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
+			}
+		});
+	}
+});
+$('.qty_update').keyup(function(e)
+		{
+		    if (/\D/g.test(this.value))
+		    {
+		        // Filter non-digits from input value.
+		        this.value = this.value.replace(/\D/g, '');
+		    }
+});
+$('.cart_options').live("change", function() {
+var poid = $(this).val();
+var id = $(this).data("index");
+var oldpoid = $(this).data("old");
+$('.cart_options').data("old", poid);
+$.post("/scripts/update_cart_options.php", { poid: poid, oldpoid: oldpoid, id: id, rand: Math.random()*9999999 }, function(data) { 
+	$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+	$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
+});
+});
+$('.qty_update').live("change", function() {
+var qty = $(this).val();
+var cid = $(this).data("index");
+if(qty < 1) {
+	var c = confirm("Are you sure you want to remove this item from your shopping cart?");
+	if(c) {
+		$.post("/scripts/update_qty.php", { qty: qty, cid: cid, rand: Math.random()*9999999 }, function(data) {
+			$.trim(data);
+			if(data) {
+				$('.qty_update_'+ cid).val(data);
+				alert("Maximum quantity reached.");
+			} else {
+			$('#noticeMsg').html('Item has been removed').fadeIn('fast');
+			setTimeout(function() {
+			$('#noticeMsg').html('').fadeOut('fast');
+			}, 500);
+			$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+			$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
+			}
+		});
+	}
+} else {
+$.post("/scripts/update_qty.php", { qty: qty, cid: cid, rand: Math.random()*9999999 }, function(data) {
+	$.trim(data);
+	if(data) {
+		$('.qty_update_'+ cid).val(data);
+		alert("There isn't enough of this product in stock, or you have the maximum amount of this item in your shopping cart already. Please try a lower quantity.");
+	} else {
+	$('#noticeMsg').html('Quantity updated...').fadeIn('fast');
+	setTimeout(function() {
+	$('#noticeMsg').html('').fadeOut('fast');
+	}, 500);
+	$('#index_cart').load("/scripts/index_cart.php?rand="+ Math.random()*9999999);
+	$('.shopping_cart').load("/scripts/shopping_cart.php?rand="+Math.random()*99999);
+	}
+});
+}
+});
+setTimeout(function() { 
+	$('#overlay').show();
+	$('#dialog').show().css("width", "500px").css("marginLeft", "-250px");
+	$('#dialog_content').css("margin", "0px").css("padding", "0px").load("/scripts/over18.php?rand="+ Math.random()*999999);
+});
+
+$('.currency').click(function() {
+var val = $(this).data("index");
+$('#overlay').show();
+
+$('#noticeMsg').html('Updating currency... Please wait.').fadeIn('fast');
+$.post("/scripts/change_currency.php", { val: val, rand: Math.random()*99999 }, function(data) {
+	location.reload();
+});
+});
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46125808-1', 'dashvapes.com');
+  ga('send', 'pageview');
+
+</script>
+</head> 
+<body>
+<div style="background-color: #2c539e; text-align: center; padding: 10px; color: #fff; font-weight: bold;">We're hiring at our retail locations! <a href="/jobs" style="color: #fff; text-decoration: underline;">Click here for more info!</a></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=237538632984574&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="overlay" style="display: none;"></div>
+<div id="dialog" class="web_dialog" style="display: none;">
+<div class="web_dialog_content" id="dialog_content"></div>
+</div>
+<div id="header">
+	<div class="contain">
+		<a href="/" style="float: left; text-decoration: none"><span class="logo" style=""></span>
+				</a>
+		
+		<div style="font-size: 25px; float: left; margin-top: 63px; margin-left: 45px; font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif; color: #2654a1;">
+		<div style="margin-top: 5px;">
+		☎ &nbsp;&nbsp;905-884-DASH
+		<div style="font-size: 20px; margin-top: 2px; margin-left: 133px;">(3274)</div>
+		</div>
+		</div>
+		<div style="float: right; width: 450px;">
+				<div style="width: 450px; border: 1px solid #e2e2e2; border-top: 0px; border-radius: 0px 0px 5px 5px; border-bottom: 0px; padding: 10px; background-color: #f0f0f0; height: 20px;">
+		<span style="position: relative; top: 2px; font-size: 10px;">You are not logged in</span>
+		<a class="headerlink accountIcon" style="float: right;" href="/account">Sign in</a>
+		<a class="headerlink" style="float: right; margin-top: 2px; font-weight: bold;" href="/suggested-dosage">Suggested Strengths</a>
+		</div>
+				<div style="clear: both;"></div>
+		<div style="margin-top: 27px; float: right;">
+		<div id="index_cart"><a href="/cart" style="float: left;height: 15px;  width: 280px; padding: 10px; background-color: #fff;  line-height: 15px;">
+<span style="float: left; width: 20px; margin-top: -1px;">
+<img src="/images/cart.png">
+</span>
+<span style="float: left; width: 240px; text-align: center;margin-left: 10px;">
+Your shopping cart is empty</span>
+</a>
+<div style="float: left; height: 15px; width: 130px; padding: 10px; text-align: center; font-family: Helvetica; font-size: 14px; background-color: #2654a1; line-height: 15px; color: #fff;">
+$0.00 CAD
+
+</div></div>
+		<div style="clear: both;"></div>
+		</div>
+		<div style="height: 35px;">
+		<div style="float: left; font-size: 10px; margin-top: 3px; margin-right: 20px; cursor: pointer;">
+		<a class="currency" id="currency_cad" data-index="cad" style="font-weight: bold; color: blue;">CAD $</a>
+		<br>
+		<a class="currency" id="currency_usd" data-index="usd">USD $</a>
+		<br>
+		<a class="currency" id="currency_euro" data-index="euro">EURO €</a>
+		</div>
+		<div class="fb-like" data-href="https://www.facebook.com/dashvapes" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" style="float: left; position: relative; top: 13px;"></div>
+		<div class="accountButtons" style="margin-top: 10px;">
+		<form method="post" action="/search"> 
+		<input type="submit" value="Search" class="button" style="width: 60px; float: right; border: 0; padding: 0; padding: 5px; margin: 0px; margin-top: 10px; height: 26px; margin-right: 1px; box-shadow: 0px; font-family: Arial; border-top: 1px solid #2654a1; box-shadow: 1px 1px 1px #fff; padding-top: 0px; padding-bottom: 0px;">
+		<input type="text" placeholder="Search..." name="search" value="" class="input" style="float: right; margin: 0px; margin-top: 10px; margin-left: 0px;width: 200px;">
+		<div style="clear: both;"></div>
+		</form>
+		</div>
+		</div>
+		<div style="clear: both;"></div>
+		
+		</div>
+		<div style="clear: both;"></div>
+		
+		
+		</div>
+</div>
+<hr>
+<div id="menu" style="margin-bottom: 0px; border-radius: 0px;">
+<ul id="nav">
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 50px;"><a href="/products/starter+kits/1">STARTERS</a>	
+	<ul>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Innokin iTaste CLK"><a style="" href="/products/starter+kits/1/innokin+itaste+clk/377"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($44.99)</span> Innokin iTaste CLK</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Joyetech eRoll Starter Kit"><a style="" href="/products/starter+kits/1/joyetech+eroll+starter+kit/25"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($59.99)</span> Joyetech eRoll Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Mini Starter Kit"><a style="" href="/products/starter+kits/1/mini+starter+kit/39"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($59.99)</span> Mini Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Kanger eVod 2 Starter Kit"><a style="" href="/products/starter+kits/1/kanger+evod+2+starter+kit/294"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($59.99)</span> Kanger eVod 2 Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Kanger Emus Starter Kit"><a style="" href="/products/starter+kits/1/kanger+emus+starter+kit/439"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($59.99)</span> Kanger Emus Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Kanger EMOW Starter Kit"><a style="" href="/products/starter+kits/1/kanger+emow+starter+kit/641"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($64.99)</span> Kanger EMOW Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Joyetech eRoll-C Starter Kit"><a style="" href="/products/starter+kits/1/joyetech+eroll-c+starter+kit/650"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($69.99)</span> Joyetech eRoll-C Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Premium Starter Kit"><a style="" href="/products/starter+kits/1/premium+starter+kit/41"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($74.99)</span> Premium Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Aspire Premium Kit"><a style="" href="/products/starter+kits/1/aspire+premium+kit/628"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($84.99)</span> Aspire Premium Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="Mini Starter Kit Deluxe"><a style="" href="/products/starter+kits/1/mini+starter+kit+deluxe/40"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($109.99)</span> Mini Starter Kit Deluxe</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		
+	<li style="padding-left: 15px; width: 340px; padding-right: 15px;;" title="DashVapes Advanced Starter Kit"><a style="" href="/products/starter+kits/1/dashvapes+advanced+starter+kit/311"><span style="width: 310px;text-overflow: ellipsis; float: left; overflow: hidden; white-space: nowrap;"><span style="color: #2654a1;">($139.99)</span> DashVapes Advanced Starter Kit</span> <span style="float: right; font-family: Helvetica; font-size: 10px; color: #000;">►</span><span style="display: block; clear: both;"></span></a></li>
+		</ul>
+	</li>	
+
+	<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/devices/25">DEVICES</a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/devices/25">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/devices/25/28">Variable Wattage</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/devices/25/29">Variable Voltage</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/devices/25/30">Variable Wattage &amp; Variable Voltage</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/tanks+clearos+and+cartos/6">TANKS</a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/tanks+clearos+and+cartos/6">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/tanks+clearos+and+cartos/6/6">Cartomizers</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/tanks+clearos+and+cartos/6/7">Clearomizers</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/tanks+clearos+and+cartos/6/8">Cartomizer Tanks</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/rebuildables+and+mods/23">MODS &amp; REBUILDABLES </a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/rebuildables+and+mods/23">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/rebuildables+and+mods/23/9">Mechanical Mods</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/rebuildables+and+mods/23/10">Rebuildable Atomizers</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/rebuildables+and+mods/23/11">Rebuildable Dripping Atomizers</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/rebuildables+and+mods/23/19">Wick, Wire, Mesh &amp; Readers</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/e-juice/24">E-JUICE</a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/e-juice/24">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/alienvisions">By AlienVisions</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/boardwalk">By Boardwalk Vapor</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/bombies">By Bombies</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/dashvapes">By DashVapes</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/halcyon">By Halcyon Vapor</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/mtbakervapor">By MtBakerVapor</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/wyze">By Wyze E-Liquids</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px; background-color: #e2e2e2; height: 3px;"><a style="font-size: 10px;">&nbsp;</a></li>
+	
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/4">Fruits</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/2">Mint and Menthol</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/3">Sweets and Desserts</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/5">Tobacco Blends</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/31">Beverage</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/e-juice/24/33">Sample Packs</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/batteries+and+chargers/19">BATTERIES &amp; CHARGERS</a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/batteries+and+chargers/19">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/batteries+and+chargers/19/25">IMR Batteries</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/batteries+and+chargers/19/27">Battery Chargers</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/accessories/5">ACCESSORIES</a>
+	<ul>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/accessories/5">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/accessories/5/20">Basic Drip Tips</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/accessories/5/21">High End Drip Tips</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/accessories/5/22">Long Drip Tips</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/accessories/5/23">Cases &amp; Pouches</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/accessories/5/24">Bottles &amp; Holders</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 45px;"><a href="/products/replacement+parts/9">PARTS</a>
+	<ul style="margin-left: -145px;">
+	<li style="padding-left: 12px; padding-right: 12px; min-width: 185px; background-color: #2654a1;"><a style=" color: #fff; text-shadow: 1px 1px 1px #000;" href="/products/replacement+parts/9">VIEW ALL</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/12">Replacement Coils</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/13">Replacement Glass</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/14">Caps, Switches, Springs &amp; Magnets</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/15">Airflow, Bases, Rings &amp; Chimneys</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/16">Contacts</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/17">Tubes</a></li>
+		<li style="padding-left: 12px; padding-right: 12px; width: 185px;"><a style="font-size: 10px;" href="/products/replacement+parts/9/18">O-Rings</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/apparel/28/">APPAREL</a></li>
+	<li style="padding-left: 12px; padding-right: 12px;"><a href="/products/new_arrivals/1415891578">NEW</a></li>
+	</ul>
+
+	</div>
+<hr style="margin-bottom: 0px;">
+<div id="noticeMsg" style="width: 300px; margin-left: -150px; z-index: 9999999999;"></div>
+<div id="contain" style="background-color: #fff;">
+	<div style="width: 1024px;">
+	<div class="box">
+<div class="heading">Privacy Policy</div>
+<hr>
+<div class="heading_body" style="padding: 10px;">
+<h2>General</h2>
+<br>
+DashVapes respects the privacy of every individual who visits vapescrape (the "Website") or responds to any promotions listed on the Website. DashVapes Privacy Policy outlines the information DashVapes will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising. 
+<br><br>
+We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely. 
+<br><br>
+By using our Website you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy please do not use our Website. 
+<br><br>
+<h2>Personally Identifiable Information</h2>
+<br>
+DashVapes will not collect any Personal Information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your Personal Information collected do not submit it to us. 
+<br><br>
+If you do submit Personal Information we will store and process that information to better understand your needs, offer certain products and services in connection with our Website; communicate to you; provide customer service; provide a personalized shopping experience; prevent fraud; fulfill your orders, including delivery and billing; complete payment method processing and improve our products and services. 
+<br><br>
+Any Personally Identifiable Information submitted to use (for example: Name, Address, Phone Number, IP Address) are not shown to the public. The website administrators however do need to track this information.
+<br><br>
+We will not distribute or sell your Personal Information to any outside company for marketing or solicitation of any product not affiliated with DashVapes and your Personal Information will only be used to support your relationship with DashVapes and its partners. 
+<br><br>
+There are certain limited instances where we may disclose or transfer Personal Information other than as described above. For example, we may provide such information to appropriate authorities if we believe in good faith that the law requires it or to protect our legal rights or property. Additionally, as we continue to develop our business, we may buy or sell business assets. In such transactions, customer information is generally one of the transferred business assets. However, we are not in the business of selling customer information to others, and aside from certain exceptional circumstances, we will take appropriate measures to ensure the protection of the information you provide to us. 
+<br><br>
+<h2>Aggregating Third Party Information with Personal Information</h2>
+<br>
+We may, either through our own searches or by contact with third party providers, add publicly available information to the Personal Information you elect to provide to us. For example, if you provide your name or address, we may add your telephone number and email address to your Personal Information. We will treat any information that personally identifies you, including any such information that we add to your Personal Information as your Personal Information and subject to the terms of this Privacy Policy.
+<br><br>
+<h2>Changing my Personal Information</h2>
+<br>
+We take reasonable steps to ensure that all of your Personal Information we collect, use or disclose is accurate, complete, up to date, stored in a secure environment and accessed only be authorized personnel for permitted purposes. If your Personal Information changes, you may update your information on the Web page titled "Edit Profile". You may also contact us using the information in "Contact Us" below to review the Personal Information you provided, update your Personal Information or request that we remove your Personal Information from our records. If you request, we will use all reasonable efforts to delete your Personal Information from our existing records. 
+<br><br>
+<h2>Non-Personally, Identifiable Information Collected Automatically</h2>
+<br>
+In general, you can visit our Website and view its content while remaining anonymous by not providing any Personal Information. In some cases, we may collect information about you that is not Personal Information. Examples of this type of information include the Internet browser you are using, the type of operating system, the domain name of the website which linked you to our site, the pages you visited while you were using our Website, the domain name of the website you next go to, and your Internet Protocol address. When collected, we use non-personally identifiable information to determine the overall reaction to various sections of our Website(the length and frequency of stays at our Website and the variety of searches of our Website's database), measure the effectiveness and usefulness of various pages (how our Website is navigated, how many visitors arrive at specific pages), and to improve the flow and interconnectivity of the site. 
+<br><br>
+When you view our Website we may also store information from time to time on your computer. This information is stored in the form of "Cookies". "Cookies" allow us to tailor our Website or advertisement to better match your interests and preferences. With most Internet browsers you can block, receive a warning or erase all "Cookies" from your hard drive. Please refer to your browser instructions or help screen to learn more about these functions. If you choose not to accept "Cookies", you should be aware that you might not be able to experience the full functionality of our Website. The data on your use of our Website may be linked to the Personal Information you have chosen to share with us when you register. 
+<br><br>
+<h2>Links and Privacy</h2>
+<br>
+We may provide links to websites outside of our Website. These linked sites are outside of our control, and we are not responsible for the conduct of companies linked to our Website.
+<br><br>
+<h2>Changes to the Policy</h2>
+<br><br>
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Website of any major changes for at least 30 days following the change.
+</div>
+</div>	</div>
+</div>
+<div id="footer" style="height: auto;border-top: 6px solid #e2e2e2; padding-top: 20px; padding-bottom: 20px;">
+	<div class="contain">
+	<div class="socialIcons" style="margin-top: 5px; margin-left: 5px; float: left;">
+	<h2>Connect With Us</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<a href="https://www.facebook.com/dashvapes" target="_new"><img style="border: 0px;" src="/images/social/f_logo.png"></a>
+	<a href="https://twitter.com/dashvapes" target="_new"><img style="border: 0px;" src="/images/social/t_logo.png"></a>
+	<a href="https://plus.google.com/+DashvapesRH/" target="_new"><img style="border: 0px;" src="/images/social/g_logo.png"></a>
+	<a href="http://instagram.com/dashvapes" target="_new"><img style="border: 0px;" src="/images/social/ig_logo.png"></a>
+	<div style="clear: both; margin-top: 15px;"></div>
+	<a href="http://pinterest.com/dashvapes" target="_new"><img style="border: 0px;" src="/images/social/p_logo.png"></a>
+	<a href="http://youtube.com/user/dashvapes" target="_new"><img style="border: 0px;" src="/images/social/y_logo.png"></a>
+	<a href="http://www.yelp.com/biz/dash-vapes-richmond-hill" target="_new"><img style="border: 0px;" src="/images/social/yelp.gif"></a>
+	<a href="https://foursquare.com/v/dashvapescom/53353ed0498e7c3e8536d9fd" target="_new"><img style="border: 0px;" src="/images/social/fs.gif"></a>
+	<div style="clear: both; margin-top: 5px;"></div>
+	<a href="http://www.wackedoutecig.ca/forums/71-DashVapes-com" style="float: left; margin-top: 15px;"><img src="http://www.wackedoutecig.ca/images/linktous/linktous3.png" alt="Canada E-Cigarette Ecig Forum" width="80" border="0"></a>	
+	<a style="float: left; margin-top: 0px; display: block;" href="http://www.ectaofcanada.com/memberverify.php?name=j2XKqZ7N9emJigQBzDjy6VTR0P8QatEltt07HxKZvuQ," target="_blank"><img src="/images/ecta.gif" alt="ECTA Client Member" width="80"></a>
+	<div style="clear: both; margin-top: 15px;"></div>
+	</div>
+	
+	<div class="paymentIcons" style="float: left; margin-left: 40px; margin-top: 5px; margin-right: 5px;">
+	<h2>Contact Information</h2>
+	<hr style="margin-top: 10px; margin-bottom: 5px;">
+	<div style="font-weight: bold; font-size: 14px; color: #2654a1;"><img src="/images/phone.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Phone" title="Telephone"> (905) 884-DASH (3274)</div>
+	<div style="font-weight: bold; font-size: 14px; color: #2654a1; margin-top: 10px;"><img src="/images/fax.gif" style="position: relative; top: 8px; margin-right: 10px;" alt="Fax" title="Fax"> (905) 884-6206</div>
+	<div style="font-weight: normal; font-size: 14px; color: #2654a1;  margin-top: 10px;"><img src="/images/email.gif" style="position: relative; top: 8px; margin-right: 15px;" alt="Email" title="Email"><a style="color: #2654a1;" href="mailto:sales@dashvapes.com">sales@dashvapes.com</a></div>
+	<h2 style="margin-top: 20px;">Store Hours</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<b>Mon-Fri:</b> 11:00 AM - 8:00 PM<br>
+	<b>Sat-Sun:</b> 12:00 PM - 5:00 PM<br>
+	</div>
+	
+	<div style="float: left; margin-left: 40px; margin-top: 5px; margin-right: 5px;">
+	<h2>Information</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<ul style="margin-left: 20px;">
+	<li><a href="/contact_us" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Contact Us</a></li>
+	<li><a href="/privacy" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Privacy Policy</a></li>
+	<li><a href="/terms" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Terms &amp; Conditions</a></li>
+	<li><a href="/rewards" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">DashVapes Rewards</a></li>
+	<li><a href="/account/referrals" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Referral Program</a></li>
+	<li><a href="/jobs" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Jobs</a></li>
+	</ul>
+	<h2 style="margin-top: 20px;">Shipping &amp; Returns</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<ul style="margin-left: 20px;">
+	<li><a href="/returns" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Return Policy</a></li>
+	<li><a href="/shipping" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Shipping Information</a></li>
+	</ul>
+	</div>
+	
+	<div style="float: left; margin-left: 30px; margin-top: 5px; margin-right: 5px;">
+	<h2>My Account</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<ul style="margin-left: 20px;">
+	<li><a href="/account" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">My Account</a></li>
+	<li><a href="/account/orders" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Order Status</a></li>
+	<li><a href="/cart" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">View Cart</a></li>
+	<li><a href="/contact_us" style="display: block; font-size: 12px; margin-top: 5px; margin-left: 5px;">Return Items</a></li>
+	</ul>
+	<h2 style="margin-top: 20px;">Payment Options</h2>
+	<hr style="margin-top: 10px; margin-bottom: 10px;">
+	<img src="/images/payment/etr.gif">
+	<img src="/images/payment/visa.png">
+	<img src="/images/payment/visadebit.gif">
+	<img src="/images/payment/mc.png">
+	<img src="/images/payment/paypal.png">
+	</div>
+	
+	<div style="clear: both;"></div>
+	</div>
+	</div>
+	<div style="margin-top: 10px; width: 1024px; margin: auto; font-family: Verdana; text-align: center; margin-bottom: 10px; color: #f0f0f0; margin-top: 10px;">
+	Copyright © 2014 DashVapes Inc - All Rights Reserved  - 1285 Elgin Mills RD E #19, Richmond Hill, ON, L4S0B5, Canada
+	</div>	
+	
+<script type="text/javascript">
+var __lc = {};
+__lc.license = 3846851;
+__lc.params = [
+               { name: 'N', value: '' }
+];
+
+(function() {
+	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';    
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+
+
+</body></html>
