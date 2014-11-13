@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearculture.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513160031id_/http%3A//www.gearculture.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearculture.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012706id_/http%3A//www.gearculture.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | GearCulture
 
