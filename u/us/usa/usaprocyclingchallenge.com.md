@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaprocyclingchallenge.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627175808id_/http%3A//usaprocyclingchallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaprocyclingchallenge.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113192856id_/http%3A//www.usaprocyclingchallenge.com/privacy) for the most accurate reproduction.*
 
 # Privacy | USA Pro Challenge
 
