@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065506id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113090544id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
 
 # My Channel 95.7FM – Best Variety of the 80's, 90's, and Now – Grand Rapids Pop Radio
 
