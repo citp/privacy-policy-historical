@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-onlinecoupons.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413141726id_/http%3A//www.e-onlinecoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onlinecoupons.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113185503id_/http%3A//www.e-onlinecoupons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Coupons Promotional Discount Voucher Codes, Online Shopping Deals | EcomCoupons
+# Privacy Policy Coupons, Promotions, Discounts, Voucher Codes, Online Shopping Deals | EcomCoupons
 
 **We are committed to protecting and respecting your privacy. This policy (together with our website terms and conditions that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
