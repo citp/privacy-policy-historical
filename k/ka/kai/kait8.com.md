@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428050926id_/http%3A//www.kait8.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012153id_/http%3A//www.kait8.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KAIT-Jonesboro, AR-News, weather, sports
 
