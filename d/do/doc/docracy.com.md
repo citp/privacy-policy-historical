@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docracy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627071207id_/https%3A//www.docracy.com/65/privacy-policy-of-docracy-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docracy.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113082121id_/https%3A//www.docracy.com/65/privacy-policy-of-docracy-com) for the most accurate reproduction.*
 
 # Privacy Policy of Docracy.com
 
