@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014051511id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113083142id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-[ Home ](http://www.twenga.co.uk/ "Home") › Privacy policy
+Home › Privacy policy
 
 At Twenga we recognise that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Twenga or its subsidiaries or affiliated companies; collectively, Twenga’s “services”. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information.
 
