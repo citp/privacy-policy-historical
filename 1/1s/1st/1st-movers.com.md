@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 1st-movers.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517003518id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-movers.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113080654id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Extly.com - Joomla Extensions
-
-##  [ Privacy Policy](http://www.extly.com/privacy-policy.html)
+# Privacy Policy - Extly Extensions
 
 Extly Extensions is committed to protecting you and your personal information when you are using our services. We want our services to safe and enjoyable environments for our users. This Privacy Policy is relevant to our use of any personal information you provide to us during your visit to our site.
 
