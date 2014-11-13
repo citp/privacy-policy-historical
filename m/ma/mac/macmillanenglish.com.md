@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the macmillanenglish.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073608id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillanenglish.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012114id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
 
-# Macmillan English Privacy Policy
+# Our Privacy Policy - Macmillan English
 
-## Introduction and important notes:  
+Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website.  
 
 
-  * Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website.
-  * Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy, including our use of cookies as explained below.
-  * IMPORTANT NOTE: If you are sixteen or under, you must obtain your parent's or guardian's permission before you send us any personal data.
+Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy, including our use of cookies as explained below.  
 
+
+ **IMPORTANT NOTE:** If you are sixteen or under, you must obtain your parent's or guardian's permission before you send us any personal data.  
 
 
 ## What personal information do we collect?  
@@ -68,7 +68,7 @@ We give you the option of using a secure server whenever you make payment over t
 ## Contacts  
 
 
-This website is operated by Macmillan Publishers Limited, trading as Macmillan Education. Macmillan Publishing Limited is a company registered in England. Our registered number is 00785998. Our registered office is at:Brunel Road, Houndmills, Basingstoke, Hampshire, RG21 6XS. Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [help@macmillan.com](mailto://help@macmillan.com).  
+This website is operated by Macmillan Publishers Limited, trading as Macmillan Education. Macmillan Publishing Limited is a company registered in England. Our registered number is 00785998. Our registered office is at: Macmillan Education, Crinan Street, London, N1 9XW. Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [help@macmillan.com](mailto://help@macmillan.com).  
 
 
 ## Inaccuracies and Corrections  
