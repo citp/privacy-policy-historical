@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalowildwings.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620194711id_/http%3A//www.buffalowildwings.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalowildwings.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113011253id_/http%3A//buffalowildwings.com/en/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy & Terms and Conditions | Buffalo Wild Wings
 
