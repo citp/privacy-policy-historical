@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515022313id_/http%3A//www.businessblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115002744id_/http%3A//www.businessblueprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Blueprint
+# Privacy Policy - Business Blueprint
 
 We strive to offer you the many advantages of Internet technology and to provide you an interactive and personalised experience. We may use Personally Identifiable Information (your name, email address, street address, telephone number) subject to the terms of this Privacy Policy.
 
