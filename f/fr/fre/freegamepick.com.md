@@ -1,64 +1,143 @@
-> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629111236id_/http%3A//www.freegamepick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114202231id_/http%3A//freegamepick.net/en/privacy) for the most accurate reproduction.*
 
-# FREEGAMEPICK - Privacy Policy
+# Privacy Policy at FreeGamePick
 
-This Privacy Policy governs the manner in which FREEGAMPICK.COM collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.freegamepick.com](http://www.freegamepick.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FREEGAMPICK.COM.
+**Overview of Our Privacy Policy**
 
-**Personal identification information**
+We supply free entertainment and utility software including games software, web search software, and other additional offers via following installers InnoSetup, DownloadAdmin. Our Products may include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our "Services").
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
 
-**Non-personal identification information**
+Please read this Privacy Policy carefully so that you understand our online privacy practices regarding:
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Information we collect  
+How we use the information  
+How we share your information, if at all  
+Your choices
 
-**Web browser cookies**
+We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites' homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**How we use collected information**
+**What information do we collect?**
 
-FREEGAMPICK.COM may collect and use Users personal information for the following purposes: 
+We collect information from you when you use our site, navigate around out site, register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways:
 
-**How we protect your information**
+To personalize your experience--Your information helps us to better respond to your individual needs.  
+To improve our website--We continually strive to improve our website offerings based on the information and feedback we receive from you.  
+To provide targeted advertisements.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**Do we use cookies?**
 
-**Sharing your personal information**
+Yes. Cookies are small files that sites and service providers may transfer to your computer's hard drive through your Web browser. They enable the site and service provider systems to recognize your browser and capture and remember certain information. You can turn off cookies in your settings at any time.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Third party websites**
+We may use Cookies to provide a targeted advertising experience on and off our site.   
+**Do we disclose any information to outside parties?**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other's rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Advertising**
+**Multi-site Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We have online Behavorial Advertising on our Site.
 
-**Google Adsense**
+Advertisers and advertising networks use tracking technologies to collect information about users' computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you on and off our Site.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit http://www.networkadvertising.org/ and click on the "Consumer Opt-out" button. Companies may also be members of the Digital Advertising Alliance ("DAA") and to opt out of cookie tracking by DAA members, you may visit http://www.aboutads.info/choices/.   
+Google Adsense
 
-**Changes to this privacy policy**
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-FREEGAMPICK.COM has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Third party links**
 
-**Your acceptance of these terms**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.freegamepick.com/terms-of-use.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Opt-Out**
 
-**Contacting us**
+We currently do not send messages to or collect data from users. If at any time we do contact you, it would only be for support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please Contact Us form to contact us:
+If you would like to be removed from our system, you can reach us via email at contactus@freegamepick.net.
+
+**How Do Toolbars Affect Your Browser And Operating System?**
+
+Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar.
+
+Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, please view our Terms of Service. If you would like to reset your browser, follow the General Uninstall Instructions below.
+
+**General Uninstall Instructions:**
+
+We're sorry to see you go! If, for any reason at all, you decide you no longer want the downloaded software or offers on your computer, you can easily uninstall them at any time. The following are general instructions regarding the software uninstallation process:
+
+**For Firefox Users**  
+Go to the orange "Firefox" menu located at the top left of your Firefox browser window  
+Select "Add-ons" to open the Add-ons Manager  
+Under "Extensions" click the name of the add-on that you would like to disable or remove  
+Select "Disable" or "Remove"  
+Select the "Restart Now" link to restart Firefox  
+That's it! You will now have successfully uninstalled the software.
+
+**For Windows 7 & Vista Users**  
+Go to the "Start Menu" located at the bottom right of your screen  
+Select "Control Panel"  
+Under "Programs" click "Uninstall a Program"  
+Right click on the program you wish to remove, then click "Uninstall/Change"  
+Follow the uninstallation steps  
+That's it! You will now have successfully uninstalled the software.
+
+**For Windows XP Users**  
+Go to the "Start Menu" located at the bottom right of your screen  
+Select "Control Panel"  
+Click "Add or Remove Programs"  
+Click the program you wish to remove, then click "Remove" or "Change/Remove"  
+Follow the uninstallation steps  
+That's it! You will now have successfully uninstalled the software.
+
+**For Windows 95, 98, Me, NT, 2000, and XP Users In Classic View**  
+From the "Start Menu," select "Settings," and then "Control Panel"  
+Double-click the "Add/Remove Programs" icon  
+Select the program you wish to remove and click on the "Remove" or "Change/Remove" button  
+Follow the prompts to finish the uninstallation of the software  
+That's it! You will now have successfully uninstalled the software.
+
+*Note: After you have uninstalled the software, certain data such as folders, files, registry keys, and cookies, may remain on your computer. We recommend that you clear your cookies after uninstalling.   
+**If for any reason you are having difficulties uninstalling your software, please reach us via email at contactus@freegamepick.net.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section. 
+
+**Children's Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms & Conditions**
+
+Please also visit our "Terms of Service" section establishing the use, disclaimers, and limitations of liability governing the use of our website at Terms Of Service.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified June 1, 2014.
+
+**Contact Us**
+
+If there are any questions regarding this privacy policy you may Contact Us at:
+
+FreeGamePick 2825 E Cottonwood Pkw. #500  
+Salt Lake City, UT 84121  
+(801) 447-2333  
+contactus@freegamepick.net
