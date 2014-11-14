@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616024511id_/http%3A//www.iqpc.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114202904id_/http%3A//www.iqpc.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Business Conferences, Events & Training Seminars | Privacy Policy
 
@@ -15,10 +15,12 @@
   * [Correcting, Updating or Removing Your Personal Information](http://www.iqpc.com/PrivacyPolicy.aspx#I)
   * [Data Protection](http://www.iqpc.com/PrivacyPolicy.aspx#J)
   * [Notification of Changes](http://www.iqpc.com/PrivacyPolicy.aspx#K)
+  * [Canada’s Anti-Spam Legislation](http://www.iqpc.com/PrivacyPolicy.aspx#L)
+  * [Data Protection Policy – Germany](http://www.iqpc.com/GermanPrivacy.aspx)
 
 
 
-_Last Updated; October 23, 2012_
+_Last Updated; June 17, 2014_
 
 ##  Commitment to User Privacy
 
@@ -119,5 +121,11 @@ If you no longer wish to receive newsletters or promotional materials, you may o
 ##  Notification of Changes
 
 IQPC will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. If at any point we decide to use your information in a manner different from that stated at the time it was collected, we will let know you, by placing a prominent notice on this web site. We will use information in accordance with the privacy policy under which the information was collected.
+
+[Back to Top](http://www.iqpc.com/PrivacyPolicy.aspx#top)
+
+## Canada’s Anti-Spam Legislation
+
+IQPC has taken all reasonable steps to comply with Canada’s Anti-Spam Legislation. We only email contacts with whom we have had a business relationship with the last 2 years, and people who may have enquired about an event in the last 6 months and people who have opted in to receive our divisional newsletters. Should you receive an unsolicited email from IQPC please email [database@iqpc.com](mailto:database@iqpc.com) and we will remove your details within 48 hours.
 
 [Back to Top](http://www.iqpc.com/PrivacyPolicy.aspx#top)
