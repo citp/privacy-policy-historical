@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2014-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140103221644id_/http%3A//www.palmyrabowl.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114135056id_/http%3A//www.palmyrabowl.com/more/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
