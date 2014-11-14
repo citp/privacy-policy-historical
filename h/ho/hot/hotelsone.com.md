@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404111009id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115005838id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
 
 # HotelsOne.com - Privacy statement
 
