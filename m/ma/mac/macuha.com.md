@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228082649id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114191005id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MACUHA DOT COM
 
-  * [](http://www.lazada.com.ph/valentine-gift-guide-for-her/#Q5856C9Nt3tgC)
+  * [](http://www.macuha.com/sikreto/?sid=JA021651-MC)
 
 
 
@@ -29,7 +29,5 @@ I use outside ad companies to display ads on my site. These ads may contain cook
  **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://www.macuha.com/contact/).
 
-  * [](http://www.lazada.com.ph/shop-smartphones-under-5000/#Q5636C5K0vj0h9 "www.lazada.com")
-
-
+  * 
 
