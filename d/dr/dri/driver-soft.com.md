@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driver-soft.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208032523id_/http%3A//driver-soft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driver-soft.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114185829id_/http%3A//www.driver-soft.com/privacy.html) for the most accurate reproduction.*
 
 # Driver Genius - Privacy Statement
 
