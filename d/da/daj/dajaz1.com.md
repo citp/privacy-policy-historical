@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dajaz1.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083446id_/http%3A//dajaz1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dajaz1.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114155005id_/http%3A//dajaz1.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dajaz1
 
