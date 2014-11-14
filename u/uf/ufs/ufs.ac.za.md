@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527185353id_/http%3A//www.ufs.ac.za/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114182120id_/http%3A//www.ufs.ac.za/privacy-policy) for the most accurate reproduction.*
 
-# University of the Free State Privacy Policy
+# Privacy Policy
 
 Thank you for visiting the website of the University of the Free State (UFS). The privacy of individuals visiting our website is of the utmost importance to us. Please be sure to read this entire Privacy Statement before using or submitting information to this website. Please note that whenever you submit information via this website, you consent to the collection, use and disclosure of information in accordance with this Privacy Statement. This Privacy Statement pertains to all the official website of the UFS.
 
