@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the style.com.pk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011209id_/http%3A//www.style.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style.com.pk privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114225421id_/http%3A//www.style.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
