@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exilic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053400id_/http%3A//exilic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exilic.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114011228id_/http%3A//exilic.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
