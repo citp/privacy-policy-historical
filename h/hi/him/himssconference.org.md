@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himssconference.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074931id_/http%3A//www.himss.org/about/legal%3FnavItemNumber%3D16187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himssconference.org privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114110621id_/http%3A//www.himss.org/about/legal) for the most accurate reproduction.*
 
 # HIMSS Legal
 
