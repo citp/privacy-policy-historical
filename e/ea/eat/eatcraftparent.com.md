@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eatcraftparent.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508030740id_/http%3A//www.eatcraftparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatcraftparent.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114192836id_/http%3A//www.eatcraftparent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EAT. CRAFT. PARENT.
+# Privacy Policy - EAT.CRAFT.PARENT
 
-This Privacy Policy governs the manner in which Lilac City Momma collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://lilaccitymomma.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Lilac City Momma.
+This Privacy Policy governs the manner in which Eat.Craft.Parent collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://eatcraftparent.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Eat.Craft.Parent.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Lilac City Momma collects and uses Users personal information for the following purposes:
+Eat.Craft.Parent collects and uses Users personal information for the following purposes:
 
 **\- To administer a content, promotion, survey or other Site feature**  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
@@ -41,7 +41,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 We will make every effort to deliver prizes or have prizes delivered to winner(s). However unlikely the scenario may be; this blog and its author are not responsible for giveaway prizes that are lost in transit or damaged. This blog is also not responsible if a sponsor/company does not send prize(s). Naturally, we will communicate with said company(s) several times, and make every effort to resolve the issue.
 
-Lilac City Momma is also not responsible or liable for ANY allergic reaction, accident, or injury caused by a product that has been featured/reviewed on this blog. Always check with your doctor before using or consuming any product that may be questionable.
+Eat.Craft.Parent is also not responsible or liable for ANY allergic reaction, accident, or injury caused by a product that has been featured/reviewed on this blog. Always check with your doctor before using or consuming any product that may be questionable.
 
 **Advertising**
 
@@ -55,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-Lilac City Momma has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Eat.Craft.Parent has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -63,7 +63,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by email at: _hanan@lilaccitymomma.com_
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by email at: _hanan@eatcraftparent.com_
 
 This document was last updated on August 29, 2011  
 Privacy policy created by Generate Privacy Policy
