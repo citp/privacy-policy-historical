@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211713id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114202957id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
 
 # Privacy Policy | 599fashion.com
 
