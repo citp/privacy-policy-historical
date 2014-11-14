@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215100154id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114184459id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
