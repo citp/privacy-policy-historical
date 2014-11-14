@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514021449id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115004026id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Butterbin
+# Privacy Policy - Butterbin
 
-This privacy policy sets out how ButterBin uses and protects any information that you give us when you use this website.  
-ViralNova  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-ButterBin may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
+This privacy policy sets out how ButterBin uses and protects any information that you give us when you use this website. ButterBin is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ButterBin may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
 
 **What we collect**  
 We may ask to collect the following information:
@@ -31,7 +29,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ViralNova and/or other sites on the Internet.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ButterBin and/or other sites on the Internet.
   * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
