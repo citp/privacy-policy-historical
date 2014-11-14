@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114061220id_/http%3A//mehide.org/privacy.php) for the most accurate reproduction.*
 
 # mehide.org - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
 
@@ -17,12 +17,3 @@ The service provided on this website allows access to external, third-party webs
 Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
-
-  * [Home](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/index.php)
-  * [Edit Browser](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20131215013621id_/http%3A//www.mehide.org/tou.php)
-
-
