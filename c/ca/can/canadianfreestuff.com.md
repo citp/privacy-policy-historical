@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianfreestuff.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617061820id_/http%3A//www.canadianfreestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianfreestuff.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114085026id_/http%3A//www.canadianfreestuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadianFreeStuff.com
 
