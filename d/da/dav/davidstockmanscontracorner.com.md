@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103453id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114085118id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | David Stockman's Contra Corner
 
 ## 1\. POLICY
 
-Conyers LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of www.investingchannel.com (“the Site”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+Conyers LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of [http://www.investingchannel.com](http://www.investingchannel.com/) (“the Site”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 You acknowledge that this Privacy Policy is also a part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If at any time you find these terms and conditions unacceptable, you must immediately leave the Site and cease all use of the Site.
 
