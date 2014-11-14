@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the cnatrainingtips.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518111034id_/http%3A//cnatrainingtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnatrainingtips.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114063103id_/http%3A//cnatrainingtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-**Warning** : Illegal string offset 'keywords_time' in **/home1/shabbar/public_html/wp-content/plugins/internal_link_building.php** on line **102**
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
