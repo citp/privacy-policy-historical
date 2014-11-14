@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629075625id_/http%3A//www.ripleys.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114123040id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ripley's Believe It or Not!
 
 **Ripley Entertainment, Inc.,** together with its parent, subsidiary and affiliated companies (collectively, “Ripley”) owns and operates this website and/or mobile application (the “Site”). We recognize that you may be concerned about our treatment of the personally identifiable information (“Information”) that you provide to us on this Site.
 
@@ -9,7 +9,7 @@ that we may collect and explains how we will use your Information.
 
 You should note that when you leave this Site, whether via a link provided by Ripley or otherwise, you may enter a site owned and controlled by a third party (“Third Party Sites”). Accordingly, this policy does not apply to any information that you share on Third Party Sites. Before disclosing Information, you should verify that you know the identity of the party to whom you are making a disclosure and the privacy policy that applies to the treatment of your Information.
 
-**Information Collection and Use**
+### Information Collection and Use
 
 Ripley collects Information (such as, first and last name, e-mail address, your city, state or county of residence and your credit card information), when you use certain Ripley products or services (such as, on-line ticket purchasing, on-line posting of videos/photos, submitting a question to ask the vault, or playing games), and when you enter promotions or sweepstakes. We may also receive your Information from our business partners.
 
@@ -17,7 +17,7 @@ Ripley will use your Information (i) to enhance and personalize your experience 
 
 This Site collects your IP address to help diagnose problems with our server, to determine the frequency with which our visitors look at various parts of this Site, and to administer this Site. The IP address is also used to gather broad demographic information such as geographic distribution of our visitors and may be used to allow us to provide goods and services appropriate to your place of residence.
 
-**Information Sharing and Disclosure**
+### Information Sharing and Disclosure
 
 Ripley may share your Information with third parties when:
 
@@ -32,32 +32,32 @@ Although unlikely, in certain instances Ripley may disclose your contact informa
 
 In addition, if Ripley merges into any other entity or is otherwise involved in any business combination in which it is not the surviving company, Ripley will share your personal information with the surviving entity only if the surviving entity has agreed to comply with the terms of this policy.
 
-**Security**
+### Security
 
 Ripley has security measures in place to protect the loss, misuse or alteration of your Information under our control. Ripley uses Secure Sockets Layer (SSL) technology to encrypt Information that you transmit through us over the Internet. Once we receive your transmission, we will store all Information on secure servers behind a firewall. The Ripley management team and its engineers regularly review and update the integrity of this Site and the security of your Information. Ripley cannot, however, safeguard any data stored on your own personal computer or any public computer upon which you might elect to access this Site.
 
-**Your California Privacy Rights**
+### Your California Privacy Rights
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [webmaster@ripleys.com](mailto:webmaster@ripleys.com) or write us:
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [legal@ripleys.com](mailto:legal@ripleys.com) or write us:
 
 Ripley Entertainment Inc.  
 7576 Kingspointe Parkway, Suite 188  
 Orlando, Florida 32819  
 Attention: Webmaster
 
-**Children Under the Age of 13**
+### Children Under the Age of 13
 
-Our Site is not intended for children under the age of 13 years of age.  No one under age 13 may provide any personal information to or on the Site.  We do not knowingly collect personal information from children under 13.  If you are under 13, do not use or provide any information on this Site or on or through any of its features, register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to Ripley, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If Ripley’s learns that it has collected or received personal information from a child under 13 without verification of parental consent, Ripley will delete that information. If you believe Ripley might have any information from or about a child under 13, please contact us by e-mail to [webmaster@ripleys.com](mailto:webmaster@ripleys.com) or write us:
+Our Site is not intended for children under the age of 13 years of age.  No one under age 13 may provide any personal information to or on the Site.  We do not knowingly collect personal information from children under 13.  If you are under 13, do not use or provide any information on this Site or on or through any of its features, register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to Ripley, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If Ripley’s learns that it has collected or received personal information from a child under 13 without verification of parental consent, Ripley will delete that information. If you believe Ripley might have any information from or about a child under 13, please contact us by e-mail to [legal@ripleys.com](mailto:legal@ripleys.com) or write us:
 
 **Ripley Entertainment Inc.**  
 7576 Kingspointe Parkway, Suite 188  
 Orlando, Florida 32819  
 Attention: Webmaster
 
-**Contact Us**
+### Contact Us
 
-If you have any questions about the information that we collect on this Site, your privacy or our security measures, please contact us at [webmaster@ripleys.com](mailto:webmaster@ripleys.com). You may also write to us at the address provided above.
+If you have any questions about the information that we collect on this Site, your privacy or our security measures, please contact us at [legal@ripleys.com](mailto:legal@ripleys.com). You may also write to us at the address provided above.
 
-**Changes to this Privacy Policy**
+### Changes to this Privacy Policy
 
-Ripley may at any time revise this Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Policy to which you are bound. 
+Ripley may at any time revise this Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Policy to which you are bound.
