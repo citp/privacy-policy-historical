@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515010217id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114194208id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.*
 
-# Privacy Policy - ION Audio - Technology made simple: app accessories, portable audio, and more
+# Privacy Policy - ION Audio - Dedicated to Delivering Sound Experiences
 
 * * *
 
