@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswordtracker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082248id_/http%3A//crosswordtracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswordtracker.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114021519id_/http%3A//crosswordtracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Crossword Tracker Privacy Policy - crossword puzzle tracker
 
