@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626133537id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115005018id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT UBM MEDICA LLC
 
