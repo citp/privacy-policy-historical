@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the telegram.com privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517061146id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telegram.com privacy policy that was archived on 2014-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141114122152id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,7 +23,7 @@
 <link rel="canonical" href="http://www.telegram.com/article/99999999/NEWS/902259996/0">
 
 <link href="/includes/stylesheets/telegram.css" rel="stylesheet" type="text/css" title="Stylesheet">
-<link href="http://www.telegram.com/includes/stylesheets/navigation.css" rel="stylesheet" type="text/css" title="Stylesheet">
+<link href="/includes/stylesheets/navigation_menu.css" rel="stylesheet" type="text/css" title="Stylesheet">
 <link href="/includes/stylesheets/insidetoday_redesign.css" rel="stylesheet" type="text/css" title="Stylesheet">
 <link href="/includes/stylesheets/article.css" rel="stylesheet" type="text/css" title="Stylesheet">
 <link href="/includes/stylesheets/entertainment_stylesheet.css" rel="stylesheet" type="text/css" title="Stylesheet">
@@ -55,6 +55,7 @@
 <script type="text/javascript" src="/includes/scripts/IEFunctions.js"></script>
 <script type="text/javascript" src="/includes/scripts/DHTMLHelper.js"></script>
 <script type="text/javascript" src="/includes/scripts/AC_OETags.js"></script>
+<script type="text/javascript" src="/assets/javascript/swfobject.js"></script>
 <link rel="shortcut icon" href="http://www.telegram.com/graphics/t.ico">
 
 <script type="text/javascript">var WT_town = '';</script>
@@ -168,7 +169,7 @@ function IsNumeric(input)
 {
     return (input - 0) == input && (''+input).replace(/^\s+|\s+$/g, "").length > 0;
 }
-var WT_User_zip_TEMP = '';
+var WT_User_zip_TEMP = 'User_zipVAL';
 var WT_zip5 	= WT_User_zip_TEMP.substring(0,5);
 if(IsNumeric(WT_zip5)){var WT_User_zip = WT_zip5;}else{var WT_User_zip = '';}
 </script>
@@ -203,6 +204,7 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 })();
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
+var cookie_val=get_cookie("tgfloater"); // CHECK COOKIE FOR FLOATING AD DIV
 switch(WT_currentUserlevel){
   case 'Anonymous':
 	  var WT_reg_status = 'unregistered';
@@ -231,8 +233,8 @@ switch(WT_currentUserlevel){
   if (test == undefined){
   	test = "off";
   }  
-   var networkCode = 61381659;
-   var topLevelAdUnit = "telegram.com";
+   var networkCode = 5434;
+   var topLevelAdUnit = "wt.worcestertelegram";
    var PagePath=window.location.pathname;
    if (PagePath.substr(1,7) == "section") {  
    	var PageType="sectfront";
@@ -269,9 +271,20 @@ switch(WT_currentUserlevel){
 	 .addService(googletag.pubads())
 	 .setTargeting("adspot", "2")
 	 .setTargeting("pos", "atf");
-   googletag.defineSlot(slotName, [160,600], "div-id-for-ad_160x600")
-	 .addService(googletag.pubads())
-	 .setTargeting("pos", "btf");
+   if (load_300x250 != "off" && PageType == "Main_Index"){
+	  googletag.defineSlot(slotName, [300,250], "div-id-for-third_300x250")
+	   .addService(googletag.pubads())
+	   .setTargeting("adspot", "3")
+	   .setTargeting("pos", "btf");
+	  }
+	 googletag.defineSlot(slotName, [160,600], "div-id-for-ad_160x600")
+	   .addService(googletag.pubads())
+	   .setTargeting("pos", "btf");
+	 if (cookie_val != "off"){
+		googletag.defineSlot(slotName, [960,30], "div-id-for-ad_960x30")
+		 .addService(googletag.pubads())
+		 .setTargeting("pos", "atf");
+	 }
 	googletag.defineSlot(slotName, [728,90], "div-id-for-ad_bot-728x90")
 	 .addService(googletag.pubads())
 	 .setTargeting("pos", "btf");
@@ -298,6 +311,18 @@ switch(WT_currentUserlevel){
 <!-- END DFP HEADER AD CODE -->
 
 
+<!-- START FLOATING AD REMOVE AFTER HOLIDAYS -->
+<div id="floatdiv" style="position: fixed; width:100%; height:32px; bottom:0px; margin: 0; padding:0; background:#000; border:0px; z-index:1000; color: #000; text-align: center">
+	<div style="display:inline-block; width: 980px; height: inherit; padding: 0; margin: 0; border: 0;">
+		<div style="float: left; width: 960px; height: 30px; margin: 1px 0px 1px 0px; padding: 0; background: #efefef; vertical-align: baseline;"><div id="div-id-for-ad_960x30"><script>if (cookie_val != "off"){googletag.display("div-id-for-ad_960x30");}</script></div></div>
+    	<div style="float: right; width: 20px; height: inherit; margin: 0; padding: 0;"><a href="#" onclick="HideFloater()"><img src="/graphics/close_btn.jpg" alt="Close" width="20" height="32" hspace="0" vspace="0" border="0"></a></div>
+     </div>
+</div>
+<script type="text/javascript"><!--
+	onload=CheckFloater();
+//--></script>     
+<!-- END FLOATING AD -->
+
 <div id="wallpaper" style="display: none;">
 	<!-- start DFP --><div id="div-id-for-ad_1280x1024"><script>googletag.display("div-id-for-ad_1280x1024");</script></div><!-- end DFP -->
 </div>
@@ -320,7 +345,7 @@ function PopUpWindow(gotoURL) {open( gotoURL,"asterisk","toolbar=no,width=800,he
 </script>
 <div class="weather_1">
 <div class="weather_2"><strong>CURRENT WEATHER</strong></div>
-<div class="weather_2">63° / CLOUDY
+<div class="weather_2">32° / LSNO/FOG
 </div>
 <div class="weather_2">»  <a href="/section/weather/" class="white_link">More weather</a></div>
 <div class="weather_2">»  <a href='javascript:PopUpWindow("/static/cams/");' class="white_link">WEB CAM</a></div>
@@ -329,7 +354,7 @@ function PopUpWindow(gotoURL) {open( gotoURL,"asterisk","toolbar=no,width=800,he
 <!-- END WEATHER -->
 <div class="teaser"><!-- start DFP --><div id="div-id-for-ad_300x100"><script>googletag.display("div-id-for-ad_300x100");</script></div><!-- end DFP --></div>
 <div class="header_search">
-<div class="header_date">Today is May&nbsp;17,&nbsp;2014</div>
+<div class="header_date">Friday,&nbsp;November&nbsp;14,&nbsp;2014</div>
 <div class="header_search_section">
 <form name="search_form" method="post" action="/apps/pbcs.dll/search" onsubmit="submitQuery();"> 
 <select name="search_type">
@@ -344,250 +369,222 @@ function PopUpWindow(gotoURL) {open( gotoURL,"asterisk","toolbar=no,width=800,he
 <input type="hidden" name="SORT" value="d:h">
 <input type="hidden" name="field1" value="allfields">
 <input type="hidden" name="date_mode" value="year">
-<input type="hidden" name="daterange" value="20140416,20140517"></form></div>
+<input type="hidden" name="daterange" value="20141015,20141114"></form></div>
 </div>
 </div>
 
 
 
-<!-- Start PureCSSMenu.com MENU -->
-<ul class="pureCssMenu pureCssMenum">
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Home</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/">Home</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://mobiletg.com">Mobile</a></li>
-		
-	</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;News</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/local">Local news</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/column">Columnists</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/news01">Nation / World</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/newsrewind">News Rewind</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/courtrecords">Court Records</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/watchdog/">Watchdog</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/cityhallnotebook/">City Hall Notebook</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/unresolved/">Unresolved cases</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/dailyphotos">The Day In Pictures</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/thenandnow">Then &amp; Now</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/multimedia">Photos/Video</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/oddnews">Odd News</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/citysquare">CitySquare</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/traffic">Traffic</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/health">Health &amp; Fitness</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/corrections">Corrections</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/weather">Weather</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.socialweb.net/Clients/Telegram/index.lasso">Calendar</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://mobiletg.com">Mobile</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.facebook.com/pages/Worcester-Telegram-Gazette/26059305669" target="_blank">T&amp;G on Facebook</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://twitter.com/telegramdotcom" target="_blank">T&amp;G on Twitter</a></li>
-	</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Obituaries</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum"><li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/deaths">View obituaries</a> </li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://anytimeads.telegram.com/worcester-adportal/obits/index.html">Submit an obituary</a> </li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/static/legacy/obit_faq.html" target="popup" onclick="window.open ('','popup','width=700, height=550, scrollbars=yes')">Obituary FAQs</a></li>
-		
-	</ul>
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Opinion</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/opinion">Opinion section</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/column">Opinion Columnists</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/letters">Letters to the Editor</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/column24">David Hitch</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/donlandgren/">Don Landgren</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/asiseeit">As I See It</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/submissions/blogs_main.cfm">Blogs</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/photoblog">Photo Blog</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://comments.telegram.com/assets/article_comments_OVR/">Article comments</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.worcesterconnects.com" target="_blank">Worcester Connects</a></li>
-		
-	</ul>
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<!-- BEGIN NAVIGATION MENU -->
 
+<div class="drop" style="height:30px; background:#369;">
+<ul class="drop_menu">
 
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Sports</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports">Sports section</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/hometeam_main">Hometeam</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports_columns">Columnists</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports08">Red Sox</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports09">Patriots</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports10">Celtics</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports11">Bruins</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports15">Sharks</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/golf">Golf Guide</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/article/20120524/INTERACTIVE/120529655/">Fish Finder</a></li>
-		
-	
-		
-		
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports04">Area results</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sports05">Games today</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/sportstv">TV listings</a></li>
-	</ul>
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-	
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Business</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/business/">Business section</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/business07/">Business People</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/business22/">Business Briefs</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/business23/">What's New?</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business05/">Markets</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business08/">Consumer News</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business09/">CEO One-On-One</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business10/">Personal Technology</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business11/">Bottom Line</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business12/">Economic Driver</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business24/">Business Calendar</a></li>
-        <!-- <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business25/">Economy At A Glance</a></li> -->
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business21/">Cover Story</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business20/">Columnists</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business13/">The Motley Fool</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business14/">Small Business</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business15/">Good Deeds</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business16/">Jobs Market</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business17/">Workplace</a></li>
-        <li class="pureCssMenui"><a class="pureCssMenui" href="/section/business18/">Real Estate</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/newsletters">Newsletters</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/submissions/submit_press_release.cfm?publication_name">Submit your news</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/business02/">Submitted news</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/jobs/">Jobs</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/businessmatters">Business Matters eEdition</a></li>
-		
-	</ul>
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Living</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living">Living section</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living01">Food &amp; Wine</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/dining_entertainment/dining.cfm">Dining &amp; Entertainment</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living17">Dining Reviews</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living02">Home &amp; Garden</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living03">Fashion</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living04">Etc.</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living16">Healthy Living</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living05">Travel</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living06">Movies</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living07">Arts &amp; Theater</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living08">Books</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living09">Games &amp; Tech</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living10">Celebrities</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living11">Things To Do</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/telegramstudio">Telegram Studio</a></li>
- 		<!-- <li class="pureCssMenui"><a class="pureCssMenui" href="/section/living12">Out & About</a></li> -->
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living13">Television</a></li>
- 		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living14">Music</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living15/">Columns</a></li>
- 		<!-- 
-<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/datebook/showtimes1.cfm">Movie Listings</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/datebook/video_releases.cfm">On DVD</a></li>
- -->
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/lottery">Lottery</a></li>
-		<!-- <li class="pureCssMenui"><a class="pureCssMenui" href="/section/games">Games</a></li> -->
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/parade">Parade</a></li>
-		<!-- 
-<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/dining">Dining</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/recipe_box/recipe_box.cfm">Recipe Box</a></li>
- -->
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.socialweb.net/Clients/Telegram/index.lasso">Calendar</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.worcestermass.org/arts-culture-entertainment/arts-culture" target="_blank">Weekends in Worcester</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/comics">Comics</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.uclick.com/client/orh/sudoc">Sudoku</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.uclick.com/client/orh/fcx">Crossword</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/submissions/gonebutnotforgotten.cfm">Gone But Not Forgotten</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.tgmerchantmall.com">Merchant Mall</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/services">Services Marketplace</a></li>
-
-	</ul>
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Our Sites</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/telegramtowns/">TelegramTowns</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/hometeam_magazine">Hometeam Magazine</a></li>
-
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/coulter">The Item</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/coulter11">The Banner</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.worcesterliving.com">Worcester Living</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.massmoms.com">MassMoms.com</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/pets">Pets</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://worcestertelegram.ma.newsmemory.com/">eEdition</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/businessmatters">Business Matters eEdition</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/selfserve" target="_blank">Anytimeads.com</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.tgmerchantmall.com">Merchant Mall</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/services">Services Marketplace</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://cf.telegram.com/dining_entertainment/dining.cfm">Dining &amp; Entertainment</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/living17">Dining Reviews</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.worcesterconnects.com" target="_blank">Worcester Connects</a></li>
-		
-	</ul>
-
-
-
-	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Classifieds</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://classifieds.telegram.com">Classified ads</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://classifieds.telegram.com">Marketplace</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/advideo/">Video Marketplace</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/jobs/">Jobs</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/autos">Cars</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/homes">Real Estate</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/selfserve/">Place An Ad</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://ma.mypublicnotices.com/PublicNotice.asp?Page=SearchResults&amp;Newspaper=1732">Legal Notices</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/pets">Pets</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/celebrations/">Celebrations</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.tgmerchantmall.com">Merchant Mall</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/services">Services Marketplace</a></li>
-	</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-
-
-
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Advertise</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/advertise">Media Kit</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/selfserve/">Place An Ad</a></li>
-		
-	</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Reader Services</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-	<ul class="pureCssMenum">
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/anywhere">About us</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="https://services.bostonglobe.com/secure/wtg/index.html">Home Delivery</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="https://services.bostonglobe.com/secure/wtg/subscribe.aspx">Subscribe</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://print.coupons.com/alink.asp?go=12428rv5810" target="_blank">Coupons</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="/section/coupons/">Coupon Values</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://circulars.telegram.com">Sales Fliers</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/rewards/">T&amp;G Rewards</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/newsletters">Newsletters</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/text">Text alerts</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://worcestertelegram.ma.newsmemory.com/">eEdition</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://worcestertelegram.ma.newsmemory.com/nie.php">eEdition: Teachers</a></li>
-		<!-- <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegramreprints.com/" target="_blank">Photo reprints</a></li> -->
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegramreprints.com/" target="_blank">Reprints &amp; licensing</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="mailto:newstips@telegram.com">News tips</a></li>
-		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/contact">Contact us</a></li>
-	</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-	
-	
-<li class="pureCssMenui"><a class="pureCssMenui" href="#"><span>&nbsp;Subscribe</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table border="0"><tr><td><![endif]-->
-<ul class="pureCssMenum">
-<li class="pureCssMenui"><a class="pureCssMenui" href="https://services.bostonglobe.com/secure/wtg/subscribe.aspx">Print/Digital Bundles</a></li>
-<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.telegram.com/nolimits">Digital-only Bundles</a></li>
-</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-
-<!-- &nbsp;<p b s:!macro name=wt_login_register CacheQualifiers="Category,SectionCat"> -->
-		
-		
+<li><a href="#"><b>Home</b></a>
+<ul>
+<li><a href="/">Front Page</a></li>
+<li><a href="http://mobiletg.com">Mobile</a></li>
 </ul>
+</li>
 
-<!-- End PureCSSMenu.com MENU -->
+<li><a href="#"><b>News</b></a>
+<ul>
+<li><a href="/section/newsrewind/">News Rewind</a></li>
+<li><a href="/section/local/">Local News</a></li>
+<li><a href="/section/column/">Columnists</a></li>
+<li><a href="/section/news01/">Nation/World</a></li>
+<li><a href="/section/courtrecords/">Court Records</a></li>
+<li><a href="/section/watchdog/">Watchdog</a></li>
+<li><a href="/section/cityhallnotebook/">City Hall Notebook</a></li>
+<li><a href="/section/unresolved/">Unresolved Cases</a></li>
+<li><a href="/section/dailyphotos/">The Day In Pictures</a></li>
+<li><a href="/section/thenandnow/">Then &amp; Now</a></li>
+<li><a href="/section/multimedia/">Photos/Video</a></li>
+<li><a href="/section/oddnews/">Odd News</a></li>
+<li><a href="/section/traffic/">Traffic</a></li>
+<li><a href="/section/weather/">Weather</a></li>
+<li><a href="http://www.telegram.com/calendar/">Calendar</a></li>
+<li><a href="https://www.facebook.com/TheTelegram" target="_blank">T&amp;G on Facebook</a></li>
+<li><a href="http://twitter.com/telegramdotcom" target="_blank">T&amp;G on Twitter</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Obituaries</b></a>
+<ul>
+<li><a href="http://www.telegram.com/deaths/">View Obituaries</a></li>
+<li><a href="http://www.telegram.com/placeanobit/">Submit Obituary</a></li>
+<li><a href="http://www.telegram.com/static/legacy/obit_faq.html" target="popup" onclick="window.open ('','popup','width=700, height=550, scrollbars=yes')">Obituary FAQ</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Opinion</b></a>
+<ul>
+<li><a href="/section/opinion/">Opinion Section</a></li>
+<li><a href="/section/column/">Opinion Columnists</a></li>
+<li><a href="/section/letters/">Letters to the Editor</a></li>
+<li><a href="/section/column24/">David Hitch</a></li>
+<li><a href="/section/donlandgren/">Don Landgren</a></li>
+<li><a href="/section/asiseeit/">As I See It</a></li>
+<li><a href="http://www.telegram.com/blogs/">Blogs</a></li>
+<li><a href="/section/photoblog/">Photo Blog</a></li>
+<li><a href="http://www.telegram.com/comments/">Article Comments</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Sports</b></a>
+<ul>
+<li><a href="/section/sports/">Sports Section</a></li>
+<li><a href="/section/hometeam_main/">Hometeam</a></li>
+<li><a href="/section/sports_columns/">Columnists</a></li>
+<li><a href="/section/sports08/">Red Sox</a></li>
+<li><a href="/section/sports09/">Patriots</a></li>
+<li><a href="/section/sports10/">Celtics</a></li>
+<li><a href="/section/sports11/">Bruins</a></li>
+<li><a href="/section/sports15/">Sharks</a></li>
+<li><a href="/section/golf/">Golf Guide</a></li>
+<!-- <li><a href="http://www.telegram.com/fishfinder/">Fish Finder</a></li> -->
+<li><a href="/section/sports04/">Area Results</a></li>
+<li><a href="/section/sports05/">Games Today</a></li>
+<li><a href="/section/sportstv/">TV Listings</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Business</b></a>
+<ul>
+<li><a href="/section/business/">Business Section</a></li>
+<li><a href="/section/business07/">Business People</a></li>
+<li><a href="/section/business22/">Business Briefs</a></li>
+<li><a href="/section/business23/">What's New?</a></li>
+<li><a href="/section/business05/">Markets</a></li>
+<li><a href="/section/business08/">Consumer News</a></li>
+<li><a href="/section/business09/">CEO One-On-One</a></li>
+<li><a href="/section/business10/">Personal Technology</a></li>
+<li><a href="/section/business11/">Bottom Line</a></li>
+<li><a href="/section/business12/">Economic Driver</a></li>
+<li><a href="/section/business24/">Business Calendar</a></li>
+<li><a href="/section/business21/">Cover Story</a></li>
+<li><a href="/section/business20/">Columnists</a></li>
+<li><a href="/section/business13/">The Motley Fool</a></li>
+<li><a href="/section/business14/">Small Business</a></li>
+<li><a href="/section/business15/">Jobs Market</a></li>
+<li><a href="/section/business17/">Workplace</a></li>
+<li><a href="/section/business18/">Real Estate</a></li>
+<li><a href="http://www.telegram.com/newsletters/">Newsletters</a></li>
+<li><a href="/section/jobs/">Jobs</a></li>
+<li><a href="http://www.telegram.com/businessmatters/">Business Matters eEdition</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Living</b></a>
+<ul>
+<li><a href="/section/living/">Living Section</a></li>
+<li><a href="http://www.telegram.com/dining/">Dining &amp; Entertainment</a></li>
+<li><a href="/section/living17/">Dining Reviews</a></li>
+<li><a href="http://www.telegram.com/movies/">Movie Showtimes</a></li>
+<li><a href="/section/living11/">Things To Do</a></li>
+<li><a href="/section/living15/">Columnists</a></li>
+<li><a href="/section/lottery/">Lottery</a></li>
+<li><a href="/section/parade/">Parade</a></li>
+<li><a href="http://www.telegram.com/calendar/">Calendar</a></li>
+<li><a href="http://www.telegram.com/weekendsinworcester/" target="_blank">Weekends in Worcester</a></li>
+<li><a href="/section/comics/">Comics</a></li>
+<li><a href="http://www.telegram.com/sudoku/">Sudoku</a></li>
+<li><a href="http://www.telegram.com/crossword/">Crossword</a></li>
+<li><a href="/section/puzzles/">Puzzles</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Sites</b></a>
+<ul>
+<li><a href="/section/telegramtowns/">TelegramTowns</a></li>
+<li><a href="/section/hometeam_magazine/">Hometeam Magazine</a></li>
+<li><a href="http://www.clintonitem.com">The Item</a></li>
+<li><a href="http://www.weeklybanner.com">The Banner</a></li>
+<li><a href="http://www.worcesterliving.com">Worcester Living</a></li>
+<li><a href="http://www.massmoms.com">MassMoms</a></li>
+<li><a href="http://www.telegram.com/pets/">Pets</a></li>
+<li><a href="http://eedition.telegram.com" target="_blank">eEdition</a></li>
+<li><a href="http://www.telegram.com/businessmatters/" target="_blank">Business Matters eEdition</a></li>
+<li><a href="/section/selfserve/">Anytimeads</a></li>
+<li><a href="http://www.tgmerchantmall.com">Merchant Mall</a></li>
+<li><a href="http://www.telegram.com/services/">Services Marketplace</a></li>
+<li><a href="http://www.telegram.com/dining/">Dining &amp; Entertainment</a></li>
+<li><a href="/section/living17/">Dining Reviews</a></li>
+<li><a href="http://www.worcesterconnects.com">Worcester Connects</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Classifieds</b></a>
+<ul>
+<li><a href="http://classifieds.telegram.com">Classifieds Section</a></li>
+<li><a href="http://classifieds.telegram.com">Marketplace</a></li>
+<li><a href="/section/advideo/">Video Marketplace</a></li>
+<li><a href="/section/selfserve/">Place An Ad</a></li>
+<li><a href="http://www.telegram.com/legalnotices/" target="_blank">Legal Notices</a></li>
+<li><a href="http://www.telegram.com/pets/">Pets</a></li>
+<li><a href="/section/celebrations/">Celebrations</a></li>
+<li><a href="http://www.tgmerchantmall.com">Merchant Mall</a></li>
+<li><a href="http://www.telegram.com/services/">Services Marketplace</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Autos</b></a>
+<ul>
+<li><a href="http://www.telegram.com/autos/">Browse/Search Autos</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Jobs</b></a>
+<ul>
+<li><a href="/section/jobs/">Browse/Search Jobs</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Real Estate</b></a>
+<ul>
+<li><a href="/section/homes/">Browse/Search Real Estate</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Advertise</b></a>
+<ul>
+<li><a href="http://www.telegram.com/advertise/" target="_blank">Media Kit</a></li>
+<li><a href="/section/selfserve/">Place An Ad</a></li>
+<li><a href="http://www.telegram.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Services</b></a>
+<ul>
+<li><a href="/section/anywhere/">About Us</a></li>
+<li><a href="http://www.telegram.com/homedelivery/" target="_blank">Home Delivery</a></li>
+<li><a href="http://www.telegram.com/subscribe/" target="_blank">Subscribe</a></li>
+<li><a href="/section/coupons/">Coupon Values</a></li>
+<li><a href="http://circulars.telegram.com">Sales Flyers</a></li>
+<li><a href="http://www.telegram.com/rewards/">T&amp;G Rewards</a></li>
+<li><a href="http://www.telegram.com/newsletters/">Newsletters</a></li>
+<li><a href="http://www.telegram.com/text/">Text Alerts</a></li>
+<li><a href="http://eedition.telegram.com" target="_blank">eEdition</a></li>
+<li><a href="http://www.telegram.com/nie/" target="_blank">eEdition: Teachers</a></li>
+<li><a href="http://www.telegramreprints.com" target="_blank">Reprints &amp; Licensing</a></li>
+<li><a href="mailto:newstips@telegram.com">News Tips</a></li>
+<li><a href="http://www.telegram.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+
+<li><a href="#"><b>Subscribe</b></a>
+<ul>
+<li><a href="http://www.telegram.com/subscribe/" target="_blank">Print/Digital Bundles</a></li>
+<li><a href="http://www.telegram.com/nolimits/">Digital-Only Bundles</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+
+<!-- END NAVIGATION MENU -->
+
+<div style="clear:both;"></div>
 
 <div style="margin-top: 6px;">
   <div class="leaderboardTop">
@@ -611,25 +608,25 @@ function PopUpWindow(gotoURL) {open( gotoURL,"asterisk","toolbar=no,width=800,he
 </div>
 <div class="topjobs_1"><img src="/graphics/rightrail/tgmonster170.gif" alt="telegram.com/monster" width="170" height="73" border="0">
 <div class="topjobs_2">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149446" onclick="NewWindow('400', '500', this.href);return false"><b>LABORERS for </b>underground utility construction company. Work in Worcester. ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182977" onclick="NewWindow('400', '500', this.href);return false"><b>CDL TANK </b>Truck Driver - Worcester business has  immediate need for FT or  ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149753" onclick="NewWindow('400', '500', this.href);return false"><b>	 Drivers </b>Local Driver Needed Home Daily $50k - $55k / Yr Great Benefits ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182895" onclick="NewWindow('400', '500', this.href);return false"><b>ACTIVITY </b>AIDE &amp; CNA, Full time, Flexible hours. Experience with ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149623" onclick="NewWindow('400', '500', this.href);return false"><b> CARPENTERS </b>- Interior finish carpenters. Min. of 5 yrs. experience. ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141102&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=181564" onclick="NewWindow('400', '500', this.href);return false"><b>MEAT CUTTERS</b> Part Time and Full Time Immediate openings Experience ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140504&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=147061" onclick="NewWindow('400', '500', this.href);return false"><b>HVAC SALES PERSON</b> needed for busy HVAC company. We are seeking a ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182265" onclick="NewWindow('400', '500', this.href);return false"><b>MAINTENANCE TECHNICIAN </b>Great opportunity for an exp'd maintenance ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149975" onclick="NewWindow('400', '500', this.href);return false"><b>Radiologic Technology </b> Adjunct Faculty at Quinsigamond Community College  ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=181690" onclick="NewWindow('400', '500', this.href);return false"><b>DELI- General </b>Help. Part Time 10am-3:30pm, Mon-Sat. Stocking, Prep Work,  ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=150212" onclick="NewWindow('400', '500', this.href);return false"><b>DRIVERS - </b>Limousine service, looking for drivers for airport and local ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182009" onclick="NewWindow('400', '500', this.href);return false"><b> DRIVERS </b>NEEDED   Must have clean driving record, neat appearance, ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149830" onclick="NewWindow('400', '500', this.href);return false"><b>LABORERS - </b>Utility Contractor looking for laborers, competitive wages ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182498" onclick="NewWindow('400', '500', this.href);return false"><b> RNS </b> LPNS  Barre 27 yr / old w / trach; eves, nights &amp; wkends Leicester 28 ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149966" onclick="NewWindow('400', '500', this.href);return false"><b>DRIVER - </b>CDL CLASS A, for Tri Axle Dump, Must be able to load and unload  ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=182535" onclick="NewWindow('400', '500', this.href);return false"><b>LEGAL SECRETARY </b>General practice law firm seeking part time legal ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=149827" onclick="NewWindow('400', '500', this.href);return false"><b>MACHINIST - </b>CNC Lathe Machinist. Must be able to set-up, program, and ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=181935" onclick="NewWindow('400', '500', this.href);return false"><b> DRIVERS </b>- Class A &amp; B CDL $2,500 Sign On Bonus  Full Time Positions. ...</a>
 <hr size="1" noshade="">
-<a href="/apps/pbcs.dll/dclassifieds?Date=20140511&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=150063" onclick="NewWindow('400', '500', this.href);return false"><b>SPRINKLERFITTERS Apprentice </b>and Licensed. Immediate openings. Email ...</a>
+<a href="/apps/pbcs.dll/dclassifieds?Date=20141109&amp;Category=classifieds&amp;Class=0&amp;Type=CAT0401&amp;ArtNo=183062" onclick="NewWindow('400', '500', this.href);return false"><b> TOWN </b>OF MENDON POLICE DEPARTMENT FULL-TIME REGIONAL COMMUNICATIONS ...</a>
 <hr size="1" noshade="">
 <strong>More great jobs at<br><a href="http://www.telegram.com/monster/">telegram.com/monster</a></strong><br>
 <a href="MAILTO:classifieds@telegram.com?subject=TopJob%20Advertising"><strong>Employers Advertise Here</strong></a>
@@ -719,12 +716,12 @@ shorteners : {
 
 
 
-<span class="verdana10"><b>Friday, May 16, 2014</b></span><br><br>
+<div style="margin-bottom:-15px;"><span class="verdana10" style="color:#666666;"><b>Friday, November 14, 2014</b></span></div>
 
 
 <h1>Privacy policy</h1>
-<div class="subHeadline"></div>
-<br>
+
+
 
 
 
@@ -814,11 +811,9 @@ if(WT_rating=='99'){WT_stars="<IMG SRC='/graphics/stars/nostars.gif' BORDER=0>";
 
 
 
-
 <!--
 AccessControlIdentifier:
 -->
-
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
@@ -843,7 +838,7 @@ AccessControlIdentifier:
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!-- related content -->
 
-</p><div class="relatedContent">
+</p><div class="relatedContent" style="padding-top:7px;">
 
 
 <!-- APT -->
@@ -1063,72 +1058,68 @@ Your access to telegram.com will not be affected if you do not accept cookies se
 
 <a href="https://services.bostonglobe.com/secure/wtg/subscribe.aspx" target="_blank"><img src="/graphics/subscribeStorybot.jpg" width="293" height="105" border="0"></a><br><br>
 
-<div style="padding-bottom:5px; border-bottom: solid 1px #CCC; margin-bottom:15px;">
-<img src="/graphics/misc/facebook.png" border="0">&nbsp;<a href="http://on.fb.me/AibwT8" target="_blank"><b>"Like" the Telegram on Facebook</b></a>
+<div style="margin-bottom:15px;">
+<img src="/graphics/misc/facebook.png" border="0" width="16" height="16">&nbsp;<a href="http://on.fb.me/AibwT8" target="_blank"><b>"Like" the Telegram on Facebook</b></a>
 &nbsp;&nbsp;
-<img src="/graphics/misc/twitter.png" border="0">&nbsp;<a href="http://bit.ly/wv6T4MÓ" target="Ó_blankÓ"><b>Follow us on Twitter</b></a>
+<img src="/graphics/misc/twitter.png" border="0" width="16" height="16">&nbsp;<a href="http://bit.ly/wv6T4MÓ" target="Ó_blankÓ"><b>Follow us on Twitter</b></a>
 </div>
 
-<!-- BEGIN OUTBRAIN DINGUS -->
-<div class="OUTBRAIN" data-src="http://www.telegram.com/apps/pbcs.dll/article?AID=/99999999/NEWS/902259996" data-widget-id="AR_1" data-ob-template="telegram"></div>
-<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
-<!-- END OUTBRAIN DINGUS -->
-
-<div style="clear: both;"></div><br>
+<div style="clear: both;"></div>
 
 <!-- most read most commented sections -->
-<div style="width:750px;border-top:1px solid #ccc;padding-top:15px;">
+<div>
 
 <div style="float: left;width:240px; margin-right:15px;">
-<script src="http://www.telegram.com/assets/javascript/most_commented_on_REDESIGN.js"></script>
+<script src="/assets/javascript/most_commented_on_REDESIGN.js"></script><div class="frontpage_sectionhead_subhead" style="margin-bottom:10px;">Most Commented On Today</div><span class="Georgia12"><ol style="margin:0; padding:0; list-style-position: inside;"><li style="padding-bottom:6px;"><a href="/article/20141113/NEWS/141119958">4 Americans: How health care law affected them</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139821">Hearing on tobacco ban ends on sour note</a></li><li style="padding-bottom:6px;"><a href="/article/20141113/NEWS/311139697">Senate Democrats plan to elevate Warren to leadership team</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139805">Worcester brothers charged with downloading child porn</a></li><li style="padding-bottom:6px;"><a href="/article/20141113/NEWS/311139935">Priest convicted of raping boy at camp in 1980s</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139814">Green Hill again unleashed as possible site for Worcester dog park</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139626">Child sex assault charges against dead Worcester priest are dropped</a></li><li style="padding-bottom:6px;"><a href="/article/20141114/NEWS/311149839">Obama plans to protect up to 5 million from deportation</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139717">Northboro man assaults 2 officers over towing, police say</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133540/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139804">Rapist's death may shed light on Holly Piirainen, Molly Bish cases</a></li></ol></span>
 </div>
 
 <div style="float: left;width:240px; margin-right:15px;">
-<span class="verdana12"><strong>Articles Most Read Today</strong></span>
-<span class="Georgia12"><ol style="margin-top:0;">
+<div class="frontpage_sectionhead_subhead" style="margin-bottom:10px;">Most Read Today</div>
+<span class="Georgia12">
+<ol style="margin:0; padding:0; list-style-position: inside;">
 
-<li>
+<li style="padding-bottom:6px; margin-left: 0;">
+<a href="/article/20141113/NEWS/311139547">Obama plans to protect up to 5 million from deportation</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140516/NEWS/305169662">Bear keeps Flagg St. students inside</a></li>
-<li>
-<pbs:macro name="wt_display_flow_identifier" wt_identifier=""><a href="/article/20140516/NEWS/305169659">TelexFree owner wife had one-way ticket, $3,000 cash when stopped at airport</a></pbs:macro></li>
-<li>
+<a href="/article/20141113/COURTRECORDS/311139945/0/NEWS">Courthouse Records</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140516/NEWS/305169770">Foreclosure sign at Spencer school: Prank or political statement?</a></li>
-<li>
+<a href="/article/20141113/NEWS/311139473">Astrophysicist Tyson sells spirit of science</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140516/NEWS/305169941">Local singer Cara Brindisi releases her first CD</a></li>
-<li>
+<a href="/article/20141112/NEWS/311129570">Rapist's death may shed light on Holly Piirainen, Molly Bish cases</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140516/NEWS/305169760">Brookfield man held without bail after woman tells of threats</a></li>
-<li>
+<a href="/article/20141113/NEWS/311139626">Child sex assault charges against dead Worcester priest are dropped</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
+<a href="/article/20141113/NEWS/311139472">Canadiens 5, Bruins 1</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140515/NEWS/305159360">Foreclosure sign at Spencer school: Prank or political statement?</a></li>
-<li>
+<a href="/article/20141113/NEWS/311139515">Back from Liberia, UMass Memorial doctor will not treat patients for 21 days</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
 <img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140516/NEWS/305169763">Douglas man charged with illegal marijuana growing, guns in home</a></li>
-<li>
-<img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140515/NEWS/305159808">Southbridge hit by new arson attempts</a></li>
-<li>
-<img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140515/NEWS/305159820">Robot in training for disaster response</a></li>
-<li>
-<img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140514/NEWS/305149920">Driver's MassHealth card not allowed as evidence in trial in Milford motorcyclist's death</a></li>
+<a href="/article/20141113/NEWS/311139499">Foes of tobacco sales ban consider recall</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
+<a href="/article/20141113/NEWS/141119943">Tannehill rallies Dolphins past Bills</a></li>
+<li style="padding-bottom:6px; margin-left: 0;">
+<a href="/article/20141113/NEWS/141119948">Winter on the way</a></li>
 </ol></span>
-
-
 </div>
 
 <div style="float: right;width:240px">
-<script src="http://www.telegram.com/assets/javascript/most_emailed_articles.js"></script>
+<script src="/assets/javascript/most_emailed_articles.js"></script><div class="frontpage_sectionhead_subhead" style="margin-bottom:10px;">Most Emailed Today</div><span class="Georgia12"><ol style="margin:0; padding:0; list-style-position: inside;"><li style="padding-bottom:6px;"> <a href="/article/20141113/NEWS/311139730">Friday commute could be slick</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139695">Potpourri Group moving distribution operation out of Whitinsville</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139821">Hearing on tobacco ban ends on sour note</a></li><li style="padding-bottom:6px;"> <a href="/article/20141113/NEWS/311139547">Obama plans to protect up to 5 million from deportation</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/COLUMN01/311139946">Ex-wife says firefighter attempted to kill her</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139804">Rapist's death may shed light on Holly Piirainen, Molly Bish cases</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141114/NEWS/311149836">Former Worcester City Manager O'Brien to co-chair Baker transition team</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139618">Former Worcester City Manager O'Brien to co-chair Baker transition team</a></li><li style="padding-bottom:6px;"><img src="https://web.archive.org/web/20141114133537/http://www.telegram.com/graphics/t_bug.gif"> <a href="/article/20141113/NEWS/311139666">Jury being picked in alleged drug killing</a></li><li style="padding-bottom:6px;"> <a href="/article/20141113/NEWS/311139691">Debts canceled by bankruptcy still held over consumers' heads</a></li></ol></span>
 </div>
 
 </div>
 <!-- most read most commented section ends -->
 
+<div style="clear: both;"></div><br>
 
+<!-- BEGIN OUTBRAIN DINGUS -->
+<div class="OUTBRAIN" data-src="http://www.telegram.com/apps/pbcs.dll/article?AID=/99999999/NEWS/902259996" data-widget-id="AR_1" data-ob-template="telegram"></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+<!-- END OUTBRAIN DINGUS -->
 
 </div><!-- close ArticleWell -->
 <!-- div containing whole page ends -->
@@ -1142,7 +1133,7 @@ Your access to telegram.com will not be affected if you do not accept cookies se
 var time_created = new Date(2009,01,25,15,00,13);
 
 
-var current_time = new Date(2014,04,16,04,34,06);
+var current_time = new Date(2014,10,14,04,30,09);
 var difference = current_time.getTime() - time_created.getTime();
 var minutesOld = Math.floor(difference/1000/60);
 var hoursOld = Math.floor(difference/1000/60/60);
@@ -1187,27 +1178,26 @@ var s_prop22 = WT_User_zip;
 Miles added this commented tag 1/7/2010 to make proper value get assigned to AccessControlIdentifier:
 <span class="Georgia12"><ol style="margin-top:0;">
 
-<li>
-<img src="/graphics/t_bug.gif" border="0" width="11" height="12">
-<a href="/article/20140515/NEWS/305159820">Robot in training for disaster response</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140515/NEWS/305159281">Connecticut State Police arrest couple on heroin charges after traffic stop</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140515/NEWS/305159360">Foreclosure sign at Spencer school: Prank or political statement?</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140514/NEWS/305149920">Driver's MassHealth card not allowed as evidence in trial in Milford motorcyclist's death</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140515/NEWS/305159808">Southbridge hit by new arson attempts</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140514/NEWS/305149693">Middle school principal to become Dudley-Charlton superintendent</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140508/NEWS/305089949">Poet Melissa Newman-Evans for Dirty Gerund May 12</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140514/NEWS/305149634">Jarome Iginla introduced to Bruins-Canadiens</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140514/NEWS/305149776">WPI alum donates $40M, university's largest gift ever</a></li>
-<li>
-<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20140514/NEWS/305149905">Company saves what it can from historic Odd Fellows Home</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier=""><a href="/article/20141113/NEWS/311139547">Obama plans to protect up to 5 million from deportation</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141113/COURTRECORDS/311139945/0/NEWS">Courthouse Records</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141113/NEWS/311139473">Astrophysicist Tyson sells spirit of science</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141113/NEWS/311139626">Child sex assault charges against dead Worcester priest are dropped</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141112/NEWS/311129570">Rapist's death may shed light on Holly Piirainen, Molly Bish cases</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141113/NEWS/311139515">Back from Liberia, UMass Memorial doctor will not treat patients for 21 days</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier="GOLD"><a href="/article/20141113/NEWS/311139499">Foes of tobacco sales ban consider recall</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier=""><a href="/article/20141113/NEWS/141119948">Winter on the way</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier=""><a href="/article/20141113/NEWS/141119943">Tannehill rallies Dolphins past Bills</a></li>
+<li style="padding-bottom:6px;">
+<pbs:macro name=wt_display_flow_identifier wt_Identifier=""><a href="/article/20141113/NEWS/311139472">Canadiens steamroll Bruins</a></li>
 </ol></span>
 
 
@@ -1296,14 +1286,14 @@ Miles added this commented tag 1/7/2010 to make proper value get assigned to Acc
 
 <div class="footer_column">
 <b>NEWSLETTERS/FEEDS</b><br>
-<a href="http://www.telegram.com/newsletters/">Reader Recap</a><br>
-<a href="http://www.telegram.com/newsletters/">Breaking News Alert</a><br>
-<a href="http://www.telegram.com/newsletters/">Keyword Search News</a><br>
 <a href="http://www.telegram.com/newsletters/">Headline News</a><br>
+<a href="http://www.telegram.com/newsletters/">Reader Recap</a><br>
+<a href="http://www.telegram.com/newsletters/">Keyword Search News</a><br>
 <a href="http://www.telegram.com/newsletters/">Business @ Noon</a><br>
 <a href="/section/rss_main/">RSS feeds</a><br>
-<a href="http://www.telegram.com/newsletters/">Mobile Phone Alerts</a><br>
-<a href="http://www.telegram.com/newsletters/">The Weekend Starts NOW</a>
+<a href="http://www.telegram.com/text/">Mobile Phone Alerts</a><br>
+<a href="http://www.telegram.com/newsletters/">Weekend Starts NOW</a>
+<a href="http://www.telegram.com/newsletters/">MassMoms Newsletter</a><br>
 <br><br>
 <b>DELIVERY</b><br>
 <a href="https://services.bostonglobe.com/secure/wtg/subscribe.aspx">Place a new subscription</a><br>
@@ -1363,7 +1353,7 @@ if (year < 2000){year = year + 1900};
 document.write(year);
 // END HIDING CONTENTS -->
 </script>2020
- Worcester T&amp;G LLC</a><br><br>
+ Halifax Media Group</a><br><br>
 <a href="http://www.telegram.com/privacypolicy/">Privacy Policy</a><br>
 <a href="http://www.telegram.com/submissionspolicy/">Submissions Policy</a><br>
 <a href="https://services.bostonglobe.com/secure/wtg/subscribe.aspx">Subscription Services</a><br>
@@ -1372,8 +1362,7 @@ document.write(year);
 <a href="http://www.telegram.com/contact/">Contact us</a><br>
 <a href="http://jobsearch.local-jobs.monster.com/Telegram-__26-Gazette_6?sf=20&amp;wt.mc_n=hjnpbrowsejobsco&amp;ch=NEWSWORC">Work here</a><br>
 <a href="http://www.telegram.com/advertise/">Advertise with us</a><br>
-<a href="/article/99999999/NEWS/902259996#cookies">About our ads</a><br>
-<a href="/section/sitemap/">Site Map</a>
+<a href="/article/99999999/NEWS/902259996#cookies">About our ads</a>
 </div>
 
 
@@ -1420,4 +1409,4 @@ var _sf_async_config={uid:32679,domain:"telegram.com"};
 
 
 <!-- END FOOTER -->
-<!-- end gen_art.pbs --><!--Updated: 2014/05/17 00:09:16--></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<!-- end gen_art.pbs --><!--Updated: 2014/11/14 06:31:20--></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
