@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131802id_/http%3A//www.suncoastparts.com/category/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114123958id_/http%3A//www.suncoastparts.com/category/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Porsche Parts & Porsche Accessories - Wholesale Porsche Parts & Tequipment
+# Privacy Policy: Suncoast Porsche Parts & Accessories
 
   
 
