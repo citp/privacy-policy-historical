@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221512id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114021515id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Leftlane - Privacy Policy
 
