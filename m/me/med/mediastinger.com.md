@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediastinger.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515030256id_/http%3A//www.mediastinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediastinger.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114080633id_/http%3A//www.mediastinger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MediaStinger
+# Privacy Policy - | MediaStinger
 
-****This privacy policy (“Privacy Policy”) explains Nitruc, LLC’s (“Nitruc’s”) information-gathering and dissemination practices for MediaStinger’s website, www.mediastinger.com (the “Site”) and app (the “App”). MediaStinger is an amazing free-to-use and easy-to-use movie and video game database that serves the entertainment community with info you won’t find anywhere else. Find out whether thousands of movies and games have extra scenes (stingers) during and/or after the credits. Plus news, reviews, and trailers!
+This privacy policy (“Privacy Policy”) explains Nitruc, LLC’s (“Nitruc’s”) information-gathering and dissemination practices for MediaStinger’s website, www.mediastinger.com (the “Site”) and app (the “App”). MediaStinger is an amazing free-to-use and easy-to-use movie and video game database that serves the entertainment community with info you won’t find anywhere else. Find out whether thousands of movies and games have extra scenes (stingers) during and/or after the credits. Plus news, reviews, and trailers!
 
 MediaStinger takes your privacy rights seriously and has posted this Privacy Policy to let MediaStinger users know what information MediaStinger collects from you, why MediaStinger collects it and what MediaStinger does with it. MediaStinger’s goal is to collect and use only that information that MediaStinger thinks is necessary for MediaStinger’s legitimate business interests, such as to better understand and serve you, the MediaStinger community, to provide better service and to improve marketing of MediaStinger.
 
