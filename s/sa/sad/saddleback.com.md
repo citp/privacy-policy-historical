@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saddleback.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135019id_/https%3A//saddleback.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saddleback.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114085108id_/http%3A//saddleback.com/policies/privacy) for the most accurate reproduction.*
 
 # Saddleback Church: Privacy
 
