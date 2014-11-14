@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tt5r.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516171138id_/http%3A//free-software.tt5r.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tt5r.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114125158id_/http%3A//free-software.tt5r.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for free-software.tt5r.com
 
