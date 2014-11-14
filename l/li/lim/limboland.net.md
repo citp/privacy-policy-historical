@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the limboland.net privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131111109id_/http%3A//limboland.net/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limboland.net privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114124252id_/http%3A//www.limboland.net/html/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-Last Updated: Jan 1, 2013
+**PRIVACY POLICY**
+
+Last Updated: July 4, 2014
 
 Limbo Vision, Inc. and SEODominators.com strives to offer its visitors the  many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject  to the terms of this privacy policy.
 
@@ -38,9 +40,25 @@ Contacting Us
 Limbo Vision, Inc.  
 (DBA Limboland.net)  
 (DBA SEODominators.com)  
-(DBA InternetDominators.com)  
-3101 W Coast Hwy  
-Newport Beach, CA 92663  
+9911 mammoth Dr.  
+Huntington Beach, CA 92646  
 phone (714) 968-7697
 
-© Copyright 2013 Limbo Vision, Inc. (All rights reserved)
+john @ limboland.net  
+[http://limboland.net](http://limboland.net/)
+
+ **Changes to this Policy
+
+Limbo Vision, Inc. reserves the right to change this policy at any time.  Please check this page periodically for changes. Your continued use of  our site following the posting of changes to these terms will mean you  accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at  the time the information was collected.
+
+Governing law
+
+This policy and the use of this Site are governed by California law. If a  dispute arises under this Policy we agree to first try to resolve it  with the help of a mutually agreed-upon mediator in the following  location: Orange County, California, USA. Any costs and fees other than  attorney fees associated with the mediation will be shared equally by  each of us.
+
+If it proves impossible to arrive at a mutually  satisfactory solution through mediation, we agree to submit the dispute  to binding arbitration at the following location: Orange County,  California, USA, under the rules of the American Arbitration  Association. Judgment upon the award rendered by the arbitration may be  entered in any court with jurisdiction to do so.
+
+Limbo Vision,  Inc. is operated and administered entirely within California. This  statement and the policies outlined herein are not intended to and do  not create any contractual or other legal rights in or on behalf of any  party.
+
+**
+
+© Copyright 2014 Limbo Vision, Inc. (All rights reserved)
