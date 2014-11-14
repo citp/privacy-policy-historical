@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140603id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114114958id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.*
 
 # Create & Share Beautiful Videos, Slideshows and Photo Collages
 
