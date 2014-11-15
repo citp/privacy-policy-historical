@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517132122id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115161557id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today FM
 
