@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610063753id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115032906id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Academy of Pediatric Dentistry
 
@@ -6,7 +6,7 @@ The American Academy of Pediatric Dentistry (AAPD) respects the privacy of our m
 
 By mail:            American Academy of Pediatric Dentistry
 
-211 E. Chicago Ave., Suite 1700  
+211 E. Chicago Ave., Suite 1600  
 Chicago, IL 60611   
   
 
