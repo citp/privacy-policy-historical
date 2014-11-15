@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspworldtour.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231548id_/http%3A//www.aspworldtour.com/pages/asp-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspworldtour.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116000812id_/http%3A//www.aspworldtour.com/pages/asp-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ASP
 
