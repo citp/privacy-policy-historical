@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082138id_/http%3A//psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115085546id_/http%3A//www.psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - Psychologist World
 
@@ -110,6 +110,8 @@ Safari users:
 <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
 
 Users of other web browsers can usually find information from the manufacturer of the software, usually through the Help section of the program.
+
+This web sites uses services provided by Live Site Help. For details of cookies and privacy policies, please [click here](http://www.livesitehelp.com/support/privacy-cookies).
 
 For more information on our cookies policy, please contact us – email support details can be found on the Contact Us page.
 
