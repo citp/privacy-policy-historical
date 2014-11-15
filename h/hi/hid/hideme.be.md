@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/privacy.php) for the most accurate reproduction.*
 
 # HideMe - Free Web Proxy & Anonymous Surfing
 
-[Home](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/index.php) | [Anonymous Email](http://email.hideme.be/) | [My Ip Address](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/tips.php) | [FAQ](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/faq.php) | [Contact](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/contact.php)
+[Home](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/index.php) | [Anonymous Email](http://email.hideme.be/) | [My Ip Address](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/tips.php) | [FAQ](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/faq.php) | [Contact](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/contact.php)
 
 ## Privacy Policy
 
@@ -57,14 +57,14 @@ Although most changes are likely to be minor, HideMe may change its Privacy Poli
   * _January 3, 2011:_ Added court order
 
 
-  * [Powerstrips](http://www.powerstrip.me/)
-  * [FG Xpress](http://www.fgx-powerstrips.be/)
-  * [Home](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/index.php)
-  * [Edit Browser](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/edit-browser.php)
-  * [Cookies](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/terms.php)
-  * [FAQ](https://web.archive.org/web/20140625135422id_/http%3A//hideme.be/faq.php)
+  * [Solarstrips](http://www.solarstrips.be/)
+  * [FG Xpress](http://www.pijnpleisters.info/)
+  * [Home](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/index.php)
+  * [Edit Browser](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/edit-browser.php)
+  * [Cookies](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/terms.php)
+  * [FAQ](https://web.archive.org/web/20141115090734id_/http%3A//www.hideme.be/faq.php)
 
 
