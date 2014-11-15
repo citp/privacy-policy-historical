@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the nuffnang.com.ph privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629162425id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nuffnang.com.ph privacy policy that was archived on 2014-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141115100757id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
                                     <title>Nuffnang Philippines | The World's Leading Blog Advertising Community » Privacy Policy</title>
                     
         <!-- Meta Tags -->
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="author" content="Firdauz Artiste, Timothy Teoh, Hock Lai, Nick Tee, Keith Yeoh, Eric">
+        <meta name="author" content="Firdauz Artiste, Timothy Teoh, Hock Lai, Nick Tee, Keith Yeoh, Eric, Yuan Hooi, Edward Khor, Lai Sim">
         <meta name="copyright" content="Nuffnang Philippines, Inc.">
         <meta name="description" content="The World's Leading Blog Advertising Community">
         <meta name="keywords" content="blog, advertising, community, network, asia, malaysia, singapore, philippines, australia, interface, web2.0, webstandards, ajax">
         <meta http-equiv="Content-Encoding" content="gzip">
         <meta http-equiv="Accept-Encoding" content="gzip, deflate">
         <meta property="fb:app_id" content="157250384332904">
-        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1; user-scalable=0;">
-        
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0">
+
                 
         <!-- Retina Images -->
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
@@ -25,7 +25,7 @@
         <link rel="index" title="Nuffnang Philippines" href="http://www.nuffnang.com.ph">
         <link rel="canonical" href="http://www.nuffnang.com.ph">
                     <!-- CSS -->
-<link rel="stylesheet" href="http://eccdn1.nuffnang.com.ph/bundles/nuffnangminimalist/css/style.css?v=7" type="text/css" media="screen">
+<link rel="stylesheet" href="http://eccdn1.nuffnang.com.ph/bundles/nuffnangminimalist/css/style.css?v=17" type="text/css" media="screen">
 <link rel="stylesheet" href="http://www.nuffnang.com.ph/bundles/nuffnangminimalist/css/misc/type.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://eccdn2.nuffnang.com.ph/bundles/nuffnangminimalist/css/jquery.simplemodal.css" type="text/css" media="screen">
 
@@ -94,21 +94,22 @@
 	 
 	    $(document).ready(function(){
 	    	
-			var menuBtn = $('#mobile-menu-login');
-			var mobile_menu = $("#mobile-menu");
-			var overlay = $('.overlay');
-			var menu = $('.container-side');
-			var menu_not_dashboard = $('.container-side-not-dashboard');
+	    	var mobile_menu = $("#mobile-menu");
+			var mobile_menu_login = $('#mobile-menu-login');								
+
+			var container_side = $('.container-side');
+			var container_side_not_dashboard = $('.container-side-not-dashboard');
+
+			var overlay = $('.overlay');			
 			var main_navi = $('#main-navi');
 			var main_navi_mobile = $('#main-navi-mobile');
 			var blog_manager = $('.blog-manager');
 			var navi_bottom = $('#navi-bottom');
-			var menuStatus = false;			
-			menu.removeAttr("style");	
-			menu_not_dashboard.hide();
-			menu.hide();
+			var menuStatus = false;		
 
-	    	/** Automatically dismiss the top flashbag message in 3 seconds **/
+			var submit_ticket_container = $("#submit-ticket-container");			
+
+	    	/** Automatically dismiss the top flashbag message in 5 seconds **/
 
 		    if ( document.getElementById("topbar-message") !== undefined ){
 		    	setTimeout(function(){$("#topbar-message").fadeOut(800);}, 5000);
@@ -157,26 +158,29 @@
 			/*** Menu ***/
 
 			function slideMenu() {			
-				if ( menu.is(':hidden' ) ) {				
-					menu.show();
+				if ( container_side.is(':hidden' ) ) {				
+					container_side.show();
+					container_side.css('left', -container_side.outerWidth());
 				} 
-				if ( menu_not_dashboard.is(':hidden') ) {
-					menu_not_dashboard.show();
+				if ( container_side_not_dashboard.is(':hidden') ) {
+					container_side_not_dashboard.show();
+					container_side_not_dashboard.css('left', -container_side_not_dashboard.outerWidth());
 				}			
-				menu.animate({ left: parseInt(menu.css('left'),10) == 0 ? -menu.outerWidth() : 0 });
-				menu_not_dashboard.animate({ left: parseInt(menu_not_dashboard.css('left'),10) == 0 ? -menu_not_dashboard.outerWidth() : 0 });
-				menuStatus = !menuStatus;			
+				container_side.animate({ left: parseInt(container_side.css('left'),10) == 0 ? -container_side.outerWidth() : 0 });
+				container_side_not_dashboard.animate({ left: parseInt(container_side_not_dashboard.css('left'),10) == 0 ? -container_side_not_dashboard.outerWidth() : 0 });
+
+				menuStatus = container_side.length > 0 ? ( parseInt(container_side.css('left'),10) == 0 ? false : true ) : ( parseInt(container_side_not_dashboard.css('left'),10) == 0 ? false : true );									
 			}
 			
 			function dismissMenu() { 		
-				menu.animate({left: -1000}); 
-				menu_not_dashboard.animate({left: -1000}); 
+				container_side.animate({left: -1000}); 
+				container_side_not_dashboard.animate({left: -1000}); 
 				menuStatus = false;
 			}
 						
 			/*** Overlay ***/
 
-			function triggerOverlay() {					
+			function triggerOverlay() {						
 				if( $(window).width() <= 768 ) {
 					if (menuStatus == true ) {							
 						overlay.fadeIn( 500 );
@@ -188,34 +192,45 @@
 			
 			function dismissOverlay() {
 		       overlay.fadeOut( 500 );
+		       menuStatus = false;
 			}
 					
 			/*** Resize ***/
 
-		    function resizeCheck() {
-
+		    function resizeCheck(state) {
+		    	
 		    	var screenWidth = $(window).width();
-		    	menu.removeAttr("style");
-
+		    	
 		        if( screenWidth <= 768 ) {
 
-					dismissOverlay();					
-					menuStatus = false;
-					menu.hide();
-					main_navi.slideUp();
-					main_navi_mobile.show();					
+		        	if ( document.getElementById("mobile-menu") == null){	        		
+		        		if ( !mobileHideableAddressBar() && ( state != 'resize' ) ) {		  		        				
+		        			container_side.removeAttr("style");
+							container_side.hide();
+							dismissOverlay();										
+							menuStatus = false;							
+							main_navi_mobile.show();
+						}						
+					} else {
+						main_navi.slideUp();	
+					}																				
 
 		        }else{
-
-		        	dismissOverlay();
-		        	menu.show();
-		        	main_navi.show();
+	
+		        	if ( document.getElementById("mobile-menu") == null ){		        		        	
+		        		container_side.removeAttr("style");
+		        		container_side.show();
+		        		dismissOverlay();	
+		        		//slideMenu();	        		
+		        		container_side_not_dashboard.hide();
+		        	} else {
+		        		main_navi.show();
+		        	}			        				        
 		        	navi_bottom.show();
-		        	main_navi_mobile.hide();
-		        	menu_not_dashboard.hide();
 
 		        }
 
+		        
 		        if ( screenWidth < 580 ){
 
 		        	$("#ticketform #hdr-text").removeClass("padding-80-lr").addClass("padding-20-lr");
@@ -226,10 +241,15 @@
 		        	$("#ticketform #hdr-text").removeClass("padding-20-lr").addClass("padding-80-lr");
 		        	$("#submit-ticket-container").addClass("padding-80-lr");
 
-		        }
+		        }				    			    
 
 		    }
 			
+			function mobileHideableAddressBar(){
+				// Mobile browsers with hideable address bar						
+				return 	( navigator.userAgent.match(/Android/i) != null ) || ( navigator.userAgent.match(/iPhone/i) != null );
+			}
+
 			/*** When clicks on the "Blog Stats", "Came From", "Keywords", "Referrals" under Blog Manager ***/			
 
 		    $("#blog-stats-tab, #came-from-tab, #keywords-tab, #referrals-tab").click( function(){
@@ -254,15 +274,15 @@
 					
 			/*** For menu trigger ***/
 			               
-			menuBtn.click( function() {
+			mobile_menu_login.click( function() {				
 			   	slideMenu();				
 				triggerOverlay();
 			});
 
-			/*** When screen changes ***/
+			/*** When screen changes ***/		
 
-			$(window).resize(resizeCheck);
-			$(window).ready(resizeCheck);
+			$(window).resize(function(){ resizeCheck('resize'); });
+			$(window).ready(function(){ resizeCheck('ready') });
 
 		});
 
