@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howiesapprentice.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225184707id_/http%3A//www.howiesapprentice.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howiesapprentice.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115180539id_/http%3A//www.howiesapprentice.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Howie's Apprentice
 
