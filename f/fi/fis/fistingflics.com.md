@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fistingflics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070711id_/http%3A//fistingflics.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fistingflics.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115174027id_/http%3A//www.fistingflics.com/privacy-policy.php) for the most accurate reproduction.*
 
 # FistingFlics.com - Extreme fisting, Dildo & Object Insertions!
 
