@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the welldonestuff.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040131id_/http%3A//welldonestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welldonestuff.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115143634id_/http%3A//welldonestuff.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Well Done Stuff
+# PRIVACY POLICY - Well Done Stuff
 
-This privacy policy tells you how we use personal information collected at [www.welldonestuff.com](https://web.archive.org/web/20140625040131id_/http://welldonestuff.com/privacy-policy/www.welldonestuff.com) Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+This privacy policy tells you how we use personal information collected at [www.welldonestuff.com](https://web.archive.org/web/20141115143634id_/http://welldonestuff.com/privacy-policy/www.welldonestuff.com) Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
 **Collection of Information**  
 We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request, unless you give us permission to use it in another manner, for example, to add you to one of our mailing lists.
