@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112553id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115131245id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This post may contain affiliate links. Please read our disclosure policy [here](http://thethriftycouple.com/disclosure-policy/).
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fthethriftycouple.com%2Fprivacy-policy%2F&media=)
 
@@ -21,6 +19,3 @@ A “cookie” is a small snippet of text that is stored on your web browser.  
 ##### Collection of Personal Information
 
 When accessing our site, small bits of information such as the IP address used to access the site will be logged along with the dates and times of access may be collected.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
-
-  
- 
