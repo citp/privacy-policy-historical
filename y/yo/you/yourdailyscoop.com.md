@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608154330id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115112325id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Daily Scoop
 
