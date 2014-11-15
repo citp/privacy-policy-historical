@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614051646id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115164339id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | ACL Music Festival | Oct. 3-5 & 10-12, 2014 | Zilker Park, Austin, Texas
+# Privacy & Security | ACL Music Festival
 
 #### UPDATED: SEPTEMBER 4, 2013
 
-C3 Presents, LLC (“C3”) produces the Austin City Limits Music Festival (the “Festival”) and owns and operates the website located at [dvl.aclfestival.com](http://www.aclfestival.com/) (the “Site”). Thank you for your interest in and support of the Festival and the Site. Your privacy is very important to C3. C3 has created this Privacy + Security Policy in order to demonstrate our firm commitment to the privacy of your personal information and explain C3′s online information practices and the choices you can make about the way your information is collected and used. In collecting information, C3′s primary goal is to provide and improve its products and services.
+C3 Presents, LLC (“C3”) produces the Austin City Limits Music Festival (the “Festival”) and owns and operates the website located at [www.aclfestival.com](http://www.aclfestival.com/) (the “Site”). Thank you for your interest in and support of the Festival and the Site. Your privacy is very important to C3. C3 has created this Privacy + Security Policy in order to demonstrate our firm commitment to the privacy of your personal information and explain C3′s online information practices and the choices you can make about the way your information is collected and used. In collecting information, C3′s primary goal is to provide and improve its products and services.
 
 This Privacy Policy describes how C3 treats information that it collects and receives related to your use of the Website. This Privacy Policy applies to all information collected or submitted on the Website. This Site is not directed at children under the age of 13 and children under the age of 13 are not knowingly permitted to submit personal information on the Site. For more information about children under the age of 13 see Section 12 or [click here](https://web.archive.org/terms-conditions/#section-12).
 
