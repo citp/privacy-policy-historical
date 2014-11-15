@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329035758id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115111103id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
