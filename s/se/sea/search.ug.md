@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.ug privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727042506id_/http%3A//domains.registry.md/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.ug privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115073745id_/http%3A//domains.registry.md/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
