@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519122621id_/http%3A//www.worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115132957id_/http%3A//worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Partners and Members - Worlddatingpartners.com
 
