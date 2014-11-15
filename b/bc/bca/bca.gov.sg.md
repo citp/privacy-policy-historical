@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bca.gov.sg privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101171233id_/http%3A//www.bca.gov.sg/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bca.gov.sg privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115171304id_/http%3A//www.bca.gov.sg/privacy_statement.html) for the most accurate reproduction.*
 
 # BCA - Privacy Statement
 
