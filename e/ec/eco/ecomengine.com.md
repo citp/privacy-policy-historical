@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecomengine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083313id_/http%3A//www.ecomengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomengine.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115020310id_/http%3A//www.ecomengine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# eComEngine - Privacy Policy
 
 Your privacy is very important to eComEngine, LLC. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.
 
