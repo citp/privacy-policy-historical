@@ -1,40 +1,119 @@
-> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301062702id_/http%3A//www.watsons.com.sg/websg/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116003502id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.*
 
-# Watsons Your Personal Store
+# Privacy Policy | Watsons Singapore
 
 **Privacy Statement**
 
-**Our Pledge**  
-We are committed to safeguarding the privacy of individuals with respect to personal data. We therefore make sure that our policies and practices in relation to the collection, use, retention, transfer and access of personal data comply with the requirements of the Personal Data (Privacy) Ordinance (Chapter 486) under the laws of Hong Kong .
+**Our Pledge**
 
- **Collection of Personally Identifiable Information**  
-When you visit our web site(s), we will record your visit only and will not collect any personally identifiable information (i.e. information that is about you and identifies you) from you unless otherwise stated. Cookies used (if any) in any part of our web site will not be deployed for collecting personally identifiable information. For your information, Cookies are small computer files that can be stored in web surfers' computers for the purposes of obtaining configuration information and analysing web surfers' viewing habits. They can save you from registering again when re-visiting a web site and are commonly used to track your preferences in relation to the subject matter of the web site. You may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of your computer system), but to do so you may not be able to utilize or activate certain available functions in our web sites.
+We are committed to safeguarding your privacy and ensuring your personal data is protected. We therefore make sure that our policies and practices in relation to personal data comply with the requirements of the Personal Data Protection Act 2012 (the “Act”) under the laws of Singapore.
 
- **Types of Personally Identifiable Information Collected**  
-At times, you may be required to give your personally identifiable information including, but not limited to, your name, gender, age, identity document number, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests and favorite activities etc. Refusal to provide such information may deny you of access to certain parts of our web site, or may render us unable to handle any application or request you are making, or may otherwise defeat the objectives of your visit. If you are under the age of 18, consent from your parent or guardian is required before you give us any personally identifiable information.
+**Privacy Policy**
 
- **Use of Personally Identifiable Information Collected**  
-Specific purposes for which your personally identifiable information may be used are set out in our Personal Information Collection Statement.
+This privacy policy applies to www.watsons.com.sg (“the Site”) and to personal data collected about you by Watsons (“we”, “us” or “our”). Watsons is a member of the A. S. Watson group of companies (“ASW Group”). By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term of this policy, please do not use the Site.
 
- **Direct Marketing**  
-If you have once given us your personally identifiable information, you may receive from us or from our affiliated companies from time to time telephone calls, email and direct mailings containing promotional materials.  If you do not want to receive them, you may opt out through your profile in the website.  You may also set your preferences in case you want certain information.
+Please note that this Privacy Policy may be amended from time to time by posting the updated version here on the Site. You are advised to check it on a regular basis.
 
- **Retention of the Information**  
-In your dealings with us, we retain records of your online transactions for auditing purposes. Our general policy is to retain the information for a reasonable period. We do not offer online facilities for you to delete personal data held by us.
+**Collection of Personally Identifiable Information**
 
- **Disclosure of Information**  
-Normally, we may share your information with, or transfer it to, Cheung Kong (Holdings) Limited, Hutchison Whampoa Limited, their respective subsidiaries and affiliated companies and any company in which the same has an interest (collectively called "Cheung Kong and Hutchison Group"). For details, please refer to our Personal Information Collection Statement. If you do not want to have your information disclosed to any third party, please indicate this when you register to our website.
+When you visit the site, we will record your visit only and will not collect any personally identifiable information (i.e. information that is about you and identifies you) from you unless otherwise stated. We use cookies and similar technologies to collect data about your use of the Site. For your information, Cookies are small computer files that can be stored on your computer for the purposes of obtaining configuration information and analysing your browsing habits. They can save you from registering again when re-visiting a web site and are commonly used to track your preferences in relation to the subject matter of the web site. You may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of your computer system), but if you do so you may not be able to utilize or activate certain available functions on our Site.
 
- **Access to and Correction of Information**  
-If you want to access and/or correct your personally identifiable information which you have given us via Internet, you may change this through the website by logging-in to your personal profile. 
+**Types of Personally Identifiable Information Collected**
 
- **Security**  
-All personal data you provide to us is secured on our web site with restricted access by authorized personnel only. Our online registration process uses the SSL protocol link for data transmission so as to protect your data via encrypting it in a secure format to ensure its privacy is maintained.
+At times, you may be asked to provide your personally identifiable information (“Personal Data”)  including, but not limited to: Name, gender, age, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and favourite activities etc. in order to enjoy the services we offer. Specific purposes for which your Personal Data may be used are set out in our Personal Information Collection Statement under section 6 below, including the use of Personal Data for direct marketing. 
 
- **Enquiries**  
-Should you have any enquiries concerning our Privacy Policy Statement, please feel free to contact our Customer Services. The address is as follows:-
+**Security and Protection Your Personal Data**
 
- **Customer Services**  
-Watsons Asia
+All personal data you provide to us is secured on our website with restricted access by authorized personnel only. We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing
 
-(Please note that this Statement may be amended from time to time without prior notice. You are advised to check it on a regular basis.)
+The Site may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit.
+
+**Personal Information Collection Statement (“PICS”)**
+
+As a Watsons customer, it may be necessary for you to provide us with your Personal Data when you apply to us and / or continue to subscribe with us for a service and / or product ("Services"). If your Personal Data is incomplete or incorrect, we may not be able to provide or continue to provide the Services to you.
+
+We shall keep your Personal Data confidential at all times. Our policies and practices with respect to the collection, use, retention, disclosure, transfer, security and access of Personal Data will be in accordance with the laws of Singapore and are as set out in this PICS.
+
+In this PICS, the following terms shall have the following meaning:
+
+"Our affiliates" - means companies within Hutchison Whampoa Limited, which operate Retail Goods or Services business.
+
+"Our subsidiaries" - means all the retail and manufacturing divisions operating under A. S. Watson Group offering goods or services to consumers, including health & beauty products, food and groceries, water and beverages, wine and electronics and electrical appliances.
+
+"Retail Goods or Services" - means sales of goods or provision of services in relation to any of the following (whether through physical or online channels): food & beverages, restaurants, catering, groceries and household products, general merchandise, health & beauty, pharmaceutical products, fragrance & cosmetics, wine and liquor, cigarette and cigar, stationery, books and paper products, confectionary & toys, clothing, shoes, baby products, pets products, fashion accessories, bags & luggage, jewellery, watches, furniture, plants and accessories, sports & leisure equipment, phones & mobile devices, electronics & electrical appliances, computer software and games, fuel, motor vehicle service.
+
+You agree that all the Personal Data provided by you to us may be used and retained by us for the following purposes and for other purposes as may be agreed between you and us or required by law from time to time:
+
+  *  Providing the Services;
+  * Analyzing, verifying and / or checking your credit, payment and / or status in relation to the provision of the Services
+  * Processing any payment instructions, direct debit facilities and / or credit facilities requested by you.
+  * Enabling the daily operation of your account and / or the collection of amounts outstanding in your account in relation to the Services;
+  * Carrying out data sorting and analysis to enable us to better understand your characteristics and buying behaviour and to provide other services better tailored to your needs, and to assist us in selecting good and services that are likely to be of interest to you;
+  * Providing you with regular communications from us with details of the Services and its benefits;
+  * The normal management, operation and maintenance of the performance of the Services;
+
+
+
+·         Research for service improvement and designing new, or improving existing, Services provided by us, our subsidiaries or our affiliates to you;
+
+  *  Aggregated behavioural analysis
+  * Investigation of complaints and suspected suspicious transactions;
+  * Prevention or detection of crime;
+  * Disclosure as required by law.
+
+
+
+·         We would also like to use your Personal Data (including your name, telephone number, address and email address and other information provided to us when you register) for direct marketing to you (whether by post, email, phone, SMS or the like) in relation to:
+
+  * Offers and promotions from us;
+  * Offers and promotions offered by our subsidiaries and our affiliates;
+  * Offers and promotions from other companies within Hutchison Whampoa Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;
+  * Other offers and promotions from the third party merchants that we cooperate with to provide benefits to our customers in relation to the following types of products or services:
+
+
+
+·         Retail Goods or Services (as defined above)
+
+·         Financial, insurance, banking and credit cards;
+
+·         Transportation, travel and accommodation;
+
+·         Sports, leisure, recreation and entertainment;
+
+·         Telecommunications products and services;
+
+·         E-commerce (including trading and payment platforms and online auctions)
+
+Please note that we cannot so use your Personal Data unless we have received your consent.  
+
+
+We may disclose and transfer (whether in Singapore, or Hong Kong or other countries in which we/our subsidiaries and affiliates operate)) to our agents  or contractors under a duty of confidentiality to us who provide administrative, data processing, research and marketing, distribution, telecommunications, professional or other similar services to us and to any of our actual or proposed assignees or transferees of our rights with respect to you in connection with a merger, sale or transfer (whether of assets or shares), to use, hold, process or retain such Personal Data for the purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.
+
+**Access to and Correction of Information**
+
+You have the right to:
+
+  * Check whether we hold any of your Personal Data;
+  * Access your Personal Data held by us;
+  * Ask us to correct or update any Personal Data which is inaccurate;
+  * Ascertain our policies and practices (from time to time) in relation to Personal Data.
+  * Opt out from receiving direct marketing materials from us at any time
+
+
+
+In accordance with the Act, we have the right to charge you a reasonable fee for the processing of any Personal Data access request.  
+
+
+Nothing in this PICS shall limit your rights under the Act.
+
+Any requests in relation to the above shall be in writing (sent by post or email) to the address below. Should you have any enquiries concerning our Privacy Policy Statement, please feel free to contact our Data Protection officer:
+
+Name: Lai Mei Ling
+
+Email: meiling.lai@watsons.com.sg
+
+Contact Number: 6908 1351
+
+Address: 80 Anson Road, #10-00 Fuji Xerox Building, Singapore 079907
+
+If you want to access and/or correct your personally identifiable information which you have given us via Internet, you may change this through the website by logging-in to your personal profile. 
