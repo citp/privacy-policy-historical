@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesflood.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930191815id_/http%3A//www.gamesflood.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesflood.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115132650id_/http%3A//www.gamesflood.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - GamesFlood arcade
 
@@ -41,4 +41,4 @@ Google adsense:   
 Contact Information  
 
 
-If users have any questions or suggestions regarding our privacy policy, please contact website admin [here](https://web.archive.org/web/20130930191815id_/http%3A//www.gamesflood.com/page/%3Ca%20href=)
+If users have any questions or suggestions regarding our privacy policy, please contact website admin [here](https://web.archive.org/web/20141115132650id_/http%3A//www.gamesflood.com/page/%3Ca%20href=)
