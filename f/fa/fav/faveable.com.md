@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105506id_/http%3A//faveable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115095757id_/http%3A//faveable.com/privacy) for the most accurate reproduction.*
 
 # Faveable - The Best Men's Stuff Online. Men’s Style, Gadgets, Watches & More.
-
-* * *
 
 Thank you for using **fave** able. We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. We welcome your **questions or comments** on this policy.
 
