@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113220id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115032542id_/http%3A//fxhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FXHOME.com
 
@@ -41,5 +41,3 @@ In order to prevent unauthorised access to or disclosure of your data we use sui
 We are fully compliant with the Data Protection Act 1998.
 
 FXHOME Limited is a company registered in England and Wales with company number 04172812 and having its registered office at FXHOME Ltd, Suite 4, 27 St Giles Street, Norwich, Norfolk, UK, NR2 1JN, VAT No. GB770403942.
-
-**Telephone Number:** 00+44 (0)1603 518418
