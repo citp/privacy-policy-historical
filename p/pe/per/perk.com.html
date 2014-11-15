@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the perk.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625071755id_/http%3A//www.perk.com/perkstatic/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perk.com privacy policy that was archived on 2014-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141115080909id_/https%3A//perk.com/perkstatic/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,35 +30,35 @@
 <!-- header is only for desktop -->
 	<div class="header">
 		<iframe src="about:blank" id="startframe" style="display:none"></iframe>
-		<a href="http://perk.com/perk/start" class="perk-logo" target="_parent"></a>
+		<a href="https://www.perk.com/perk/start" class="perk-logo" target="_parent"></a>
 		<ul class="top_menu">
 
-			<li class="quick-points"><a href="http://perk.com/perk/waystoearn/more" target="_parent">Quick Points</a>
+			<li class="quick-points"><a href="https://www.perk.com/perk/waystoearn/more" target="_parent">Quick Points</a>
                 <ul>
-                    <li class="easypoints"><a href="http://perk.com/perk/waystoearn/more" target="_parent">Special Offers</a></li>
-                    <li class="tasks"><a href="http://perk.com/quickpoints/tasks" target="_parent">Tasks</a></li>
+                    <li class="easypoints"><a href="https://www.perk.com/perk/waystoearn/more" target="_parent">Special Offers</a></li>
+                    <li class="tasks"><a href="http://www.perk.com/quickpoints/tasks" target="_parent">Tasks</a></li>
                     </ul>
                 </li>
 			<li>
-				<a href="http://perk.com/perk/allstores" target="_parent">Shop</a>
+				<a href="https://www.perk.com/shop" target="_parent">Shop</a>
 				<ul>
-					<li class="coupons"><a href="http://perk.com/perk/allstores" target="_parent">Coupons &amp; Deals</a></li>
-					<li class="stores"><a href="http://perk.com/store" target="_parent">All Stores</a></li>
-					<li class="categories"><a href="http://perk.com/perk/categories" target="_parent">Categories</a></li>
+					<li class="coupons"><a href="https://www.perk.com/perk/allstores" target="_parent">Coupons &amp; Deals</a></li>
+					<li class="stores"><a href="https://www.perk.com/store" target="_parent">All Stores</a></li>
+					<li class="categories"><a href="https://www.perk.com/perk/categories" target="_parent">Categories</a></li>
 				</ul>
 			</li>
-			<li><a href="http://perk.com/watch" target="_parent">Watch</a></li>
-			<li><a href="http://perk.com/sweepstakes" target="_parent">Sweepstakes</a>
+			<li><a href="http://www.perk.com/watch" target="_parent">Watch</a></li>
+			<li><a href="http://www.perk.com/sweepstakes" target="_parent">Sweepstakes</a>
 				<ul class="sweeps">
-					<li class="sweepstakes"><a href="http://perk.com/sweepstakes" target="_parent">All Sweepstakes</a></li>
+					<li class="sweepstakes"><a href="https://www.perk.com/sweepstakes" target="_parent">All Sweepstakes</a></li>
 				</ul>
 			</li>
 			<!--
 			<li><a href="/perk/waystoearn/more#tab-5">Answer</a></li>
 			-->
-			<li><a href="http://perk.com/perk/search" target="_parent">Search</a></li>
-			<li><a href="http://perk.com/perk/refer_friends" target="_parent">Invite</a></li>
-			<li><a href="http://perk.com/perk/waystospend/all" target="_parent">Rewards</a></li>
+			<li><a href="https://www.perk.com/perk/search" target="_parent">Search</a></li>
+			<li><a href="https://www.perk.com/perk/refer_friends" target="_parent">Invite</a></li>
+			<li><a href="https://www.perk.com/perk/waystospend/all" target="_parent">Rewards</a></li>
 			<li><a href="#">Perk Apps</a>
 				<ul class="app">
 					<li class="perk_browser">Perk <span>Browser</span><span class="menu-divider"></span></li>
@@ -126,7 +126,7 @@
 						<input type="text" name="email" value="" id="sign-email" placeholder="Email">
 						<div class="signup-error" id="password-error" style="display:none;"><span></span></div>
 						<div id="password_div">
-						<input type="text" onfocus="change_fakepassword('signup');" placeholder="Password">
+						<input type="text" class="change_fakepassword" id="signup" placeholder="Password">
 						</div>
 						<div class="signup-error" id="captcha-error" style="display:none;"><span></span></div>
 												<div class="signup-error" id="form-error" style="display:none;"><span></span></div>
@@ -151,8 +151,18 @@
 						<input type="text" name="email" value="" id="login-email" placeholder="Email">
 						<div class="signup-error" id="login-password-error" style="display:none;"><span></span></div>
 						<div id="password_login_div">
-						<input type="text" onfocus="change_fakepassword('login');" placeholder="Password">
+						<input type="text" class="change_fakepassword" id="login" placeholder="Password">
 						</div>
+						<!-- Adding captcha for login form -->
+						<!--
+						<div style="margin-bottom:15px;">
+							<div id="captcha_image"></div>
+							<div id="reload_captcha">Reload</div>
+							<div class="clear"></div>
+							<div style="display:none;" id="login-captcha-error" class="signup-error"><span></span></div>
+							<input type="text" id="login-captcha" placeholder="Captcha">
+						</div>
+						-->
 						<div class="signup-error" id="login-form-error" style="display:none;"><span></span></div>
 						<input type="submit" name="Submit" value="Log In" id="signup-submit" class="green-btn btn">
 						<div class="clear"></div>
@@ -271,17 +281,24 @@
 				type: 'post',
 				cache: false,
 				data: { 
-					email: $("#ajax-login #login-email").val(), 
-					password: $("#ajax-login #login-pass").val() 
+					email: $("#ajax-login #login-email").val(),
+					password: $("#ajax-login #login-pass").val()
+					//captcha: $("#ajax-login #login-captcha").val()
+
 				},
 				beforeSend: function() {
 					$("#signup-submit").css('display','none');
 					$(".res-cont-sent").css('display','block');
 				},
 				success: function(response) {
-					// Call makeAPIAjaxCall
-					makeAPIAjaxCall(response, $("#ajax-login #login-email").val(), $("#ajax-login #login-pass").val());
-					
+
+					// reloading the captcha if response returns error
+					if (response.error == true) {
+						//reload_captcha();
+					} else {
+						// Call makeAPIAjaxCall
+						makeAPIAjaxCall(response, $("#ajax-login #login-email").val(), $("#ajax-login #login-pass").val());
+					}
 					$("#signup-submit").css('display','block');
 					$(".res-cont-sent").css('display','none');
 					if(typeof response.email_error != 'undefined' && response.email_error != null) {
@@ -298,7 +315,15 @@
 						$("#login-password-error").css('display', 'none');
 					}
 
+					/*if(typeof response.captcha_error != 'undefined' && response.captcha_error != null) {
+						$("#login-captcha-error span").html(response.captcha_error);
+						$("#login-captcha-error").css('display', 'block');
+					} else {
+						$("#login-captcha-error").css('display', 'none');
+					}*/
+
 					if(typeof response.message != 'undefined' && response.message != null) {
+						//reload_captcha();
 						$("#login-form-error span").html(response.message);
 						$("#login-form-error").css('display', 'block');
 					} else {
@@ -309,6 +334,11 @@
 
 			return false;
 		});
+
+		// reloading the captcha onclicking on reload captcha link
+		/*$('.overlay_section').on('click', '#reload_captcha', function () {
+			reload_captcha();
+		});*/
 	});
 	
 	/**
@@ -373,6 +403,7 @@
 	window.fbAsyncInit = function() {
 		FB.init({
 			appId      : "211055039020468",
+			version    : 'v2.0',
 			status     : true, // check the login status upon init?
 			cookie     : true, // set sessions cookies to allow your server to access the session?
 			xfbml      : true  // parse XFBML tags on this page?
@@ -415,7 +446,8 @@
 									data: { 
 										access_token: data.access_token, 
 										user_id: data.user_id,
-										type: 'facebook'
+										type: 'facebook',
+										fb_access_token: access_token
 									}
 								}).done(function( data, textStatus, jqXHR ) {
 									console.log('Success callback - response is ' + data + 'textStatus is ' + textStatus + ' and jqXHR is ' + JSON.stringify(jqXHR));
@@ -433,18 +465,6 @@
 						console.log("Request failed: " + textStatus + ' and error is ' + JSON.stringify(jqXHR));
 					});
 				} else if(actionType == 'login') {
-					$.ajax({
-						url : '/accounts/ajax_facebook',
-						type: 'post',
-						data : response,
-						success : function(res) {
-							if(typeof res.success != 'undefined' && res.success != null && res.success == true) {
-								// Don't do anything here.
-							}
-							callback();
-						}
-					});
-					
 					$.ajax({
 						url: window.location.protocol + "//" + "api.perk.com/oauth/token",
 						type: 'POST',
@@ -471,7 +491,8 @@
 									data: { 
 										access_token: data.access_token, 
 										user_id: data.user_id,
-										type: 'facebook'
+										type: 'facebook',
+										fb_access_token: access_token
 									}
 								}).done(function( data, textStatus, jqXHR ) {
 									console.log('Success callback - response is ' + data + 'textStatus is ' + textStatus + ' and jqXHR is ' + JSON.stringify(jqXHR));
@@ -489,21 +510,6 @@
 					}).fail(function( jqXHR, textStatus ) {
 						console.log("Request failed: " + textStatus + ' and error is ' + JSON.stringify(jqXHR));
 					});
-				} else {
-					/*
-					$.ajax({
-						url : '/accounts/ajax_facebook',
-						type: 'post',
-						data : response,
-						success : function(res) {
-							if(typeof res.success != 'undefined' && res.success != null && res.success == true) {
-								parent.postMessage({action: 'register_success'}, document.location.href);
-								document.location.href = "/perk/downloadconfirmation";
-							}
-							callback();
-						}
-					});
-					*/
 				}
 			});
 
@@ -546,10 +552,23 @@
 		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
 		if (d.getElementById(id)) {return;}
 		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		js.src = "//connect.facebook.com/en_US/sdk" + (debug ? "/debug" : "") + ".js";
 		ref.parentNode.insertBefore(js, ref);
 	}(document, /*debug*/ false));
                                                                                         
+
+	/**
+	 * Reloads the captcha image
+	 */
+	var reload_captcha = function () {
+		$.ajax({
+			url: '/accounts/create_new_captcha',
+			type: 'GET',
+			cache: false
+		}).done(function (response) {
+			$('#captcha_image').html(response.captcha);
+		});
+	}
 
 	// get invitations view in the overlay
 	function get_invitations_view() {
@@ -572,7 +591,8 @@
 		ref.parentNode.insertBefore(js, ref);
 	} (document, /*debug*/ false));
 	
-	function change_fakepassword(pass_type) {
+	$(".change_fakepassword" ).focus(function() {
+		var pass_type = $(this).attr('id');
 		if(pass_type == 'signup') {
 			$('#password_div').html('');
 			$('#password_div').html('<input type="password" name="password" id="sign-pass" placeholder="Password" />');
@@ -582,7 +602,7 @@
 			$('#password_login_div').html('<input type="password" name="password" id="login-pass" placeholder="Password" />');
 			$('#ajax-login #login-pass').focus();
 		}
-	}
+	});
 </script>
 	
 <!--header ends here-->
@@ -608,6 +628,7 @@
 										<h3>The Big Picture</h3>
 										<p>Here are the basics:</p>
 										<ul>
+											<li>By installing any app or creating a Perk account or Logging In, you acknowledge and agree to Perk collecting information on the apps installed on a your device. This information may be used to ensure that Perk is able to promote relevant apps and offers.</li>
 											<li>You do not need to provide any personally identifying information in order to use Perk, however your personal information is needed in order to participate in the Perk rewards program</li>
 											<li>We collect information about you and how you use Perk.</li>
 											<li>We use this information to make Perk better.</li>
@@ -615,6 +636,71 @@
 										</ul>
 
 										<p>Read on for details.</p>
+
+
+                                        <h3>Information We Collect</h3>
+
+                                        <ol>
+                                            <li>
+                                                You may voluntarily provide us with information, including:
+                                                <ul>
+                                                    <li>
+                                                        Your name, email address, age, profile name, profile photo, height, weight, occupation, personal interests, third party social networking service user name, and a password that you create to register to use the Service;
+                                                    </li>
+                                                    <li>
+                                                        Information you provide when you contact us (for example, regarding support or employment opportunities); and
+                                                    </li>
+                                                    <li>
+                                                        Any other information you voluntarily provide us with in registering and using the Service.
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                We automatically collect other information about you, including:
+                                                <ul>
+                                                    <li>
+                                                        An identifier that is unique to the device on which you install the App and some device identifiers may be persistent device identifiers, as well as certain software and hardware information about your device;
+                                                    </li>
+                                                    <li>
+                                                        Your Internet Protocol (IP) address;
+                                                    </li>
+                                                    <li>
+                                                        Domain name of your Internet service provider;
+                                                    </li>
+                                                    <li>
+                                                        Your geographic location;
+                                                    </li>
+                                                    <li>
+                                                        The Service pages that you visit and the date and time of your visits; and
+                                                    </li>
+                                                    <li>
+                                                        Aggregated information that cannot be used to specifically identify you when you visit or use the Service.
+                                                    </li>
+                                                    <li>
+                                                        Prior to your installation of the App, we may have already collected information about the other apps that you have used via our Advertising Partners or other Third Parties.
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                We may collect information about you from:
+                                                <ul>
+                                                    <li>third party social networking services;</li>
+                                                    <li>commercially available sources;</li>
+                                                    <li>our affiliates; and</li>
+                                                    <li>our third party business partners.</li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                We may combine any of the information we collect from or about you and use it in the manner described in this Privacy Policy.
+                                            </li>
+                                            <li>
+                                                We may supplement any of the information we collect from or about you with other information.
+                                            </li>
+                                        </ol>
+
+                                        <p>&nbsp;</p>
+
+
 										<h3>PLEASE READ THIS CAREFULLY</h3>
 										<p>Perk is pleased to release this beta version of our product. The beta release provides an opportunity for you to try Perk earlier than the general public and provide valuable feedback that will help us make Perk better. Your direct feedback and comments are valuable, especially when combined with information automatically gathered about how you use Perk. To that end, Perk collects key information that helps us improve the product and to deliver the Perk rewards service. Some of this information may be personally identifiable information about you (e.g., your email address, login on Facebook, sites you visit). We may also collect personally identifiable information about you in ways that don’t involve Perk products and services – for instance, if you send us an email with your phone number in it. We also collect information about your use of Perk and the configuration of your system. While this information is collected anonymously (no personally identifiable information is associated with it in our database), it may still be possible to associate the collected information with you (e.g., through heuristics or in combination with third-party data about you). However, it is our policy not to make such associations, and to make it difficult to determine such associations.</p>
 
@@ -710,8 +796,8 @@
 							<div class="tab-area">
 								<ul class="tabset">
 									<li><a href="/"><span>Home</span></a></li>
-									<li><a href="/perkstatic/about"><span>About</span></a></li>
-									<li><a href="http://perk.com/ads"><span>Advertise with us</span></a></li>
+									<li><a href="/about"><span>About</span></a></li>
+									<li><a href="https://www.perk.com/ads"><span>Advertise with us</span></a></li>
 									<li><a href="http://support.perk.com/anonymous_requests/new"><span>Contact</span></a></li>
 									<li><a href="/perkstatic/partner"><span>Partner with us</span></a></li>
 									<li><a href="http://support.perk.com/home"><span>Help Center</span></a></li>
@@ -730,12 +816,13 @@
 
 <div id="footer">
     <ul class="footer-nav">
-        <li><a href="/perkstatic/about">About</a></li>
+        <li><a href="/about">About</a></li>
         <li><a href="http://blog.perk.com/" target="_blank">Blog</a></li>
         <li><a href="http://support.perk.com/anonymous_requests/new">Contact</a></li>
         <li><a href="http://support.perk.com/home">Help Center</a></li>
-        <li><a href="http://perk.com/ads">Advertise with us</a></li>
+        <li><a href="https://www.perk.com/ads">Advertise with us</a></li>
         <li><a href="/perkstatic/partner">Partner with us</a></li>
+        <li><a href="http://www.jobscore.com/jobs/perk/">Careers</a></li>
         <li><a href="/perkstatic/privacy">Privacy Policy</a></li>
         <li><a href="/perkstatic/terms">Terms &amp; Conditions</a></li>
         <li><a href="http://giving.perk.com" target="_blank">giving.perk.com</a></li>
