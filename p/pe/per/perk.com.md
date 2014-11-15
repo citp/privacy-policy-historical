@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071755id_/http%3A//www.perk.com/perkstatic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perk.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115080909id_/https%3A//perk.com/perkstatic/privacy) for the most accurate reproduction.*
 
 # Perk
 
@@ -8,6 +8,7 @@ Your privacy is important to us. Perk provides this Privacy Policy to inform you
 
 Here are the basics:
 
+  * By installing any app or creating a Perk account or Logging In, you acknowledge and agree to Perk collecting information on the apps installed on a your device. This information may be used to ensure that Perk is able to promote relevant apps and offers.
   * You do not need to provide any personally identifying information in order to use Perk, however your personal information is needed in order to participate in the Perk rewards program
   * We collect information about you and how you use Perk.
   * We use this information to make Perk better.
@@ -16,6 +17,30 @@ Here are the basics:
 
 
 Read on for details.
+
+### Information We Collect
+
+  1. You may voluntarily provide us with information, including: 
+    * Your name, email address, age, profile name, profile photo, height, weight, occupation, personal interests, third party social networking service user name, and a password that you create to register to use the Service; 
+    * Information you provide when you contact us (for example, regarding support or employment opportunities); and 
+    * Any other information you voluntarily provide us with in registering and using the Service. 
+  2. We automatically collect other information about you, including: 
+    * An identifier that is unique to the device on which you install the App and some device identifiers may be persistent device identifiers, as well as certain software and hardware information about your device; 
+    * Your Internet Protocol (IP) address; 
+    * Domain name of your Internet service provider; 
+    * Your geographic location; 
+    * The Service pages that you visit and the date and time of your visits; and 
+    * Aggregated information that cannot be used to specifically identify you when you visit or use the Service. 
+    * Prior to your installation of the App, we may have already collected information about the other apps that you have used via our Advertising Partners or other Third Parties. 
+  3. We may collect information about you from: 
+    * third party social networking services;
+    * commercially available sources;
+    * our affiliates; and
+    * our third party business partners.
+  4. We may combine any of the information we collect from or about you and use it in the manner described in this Privacy Policy. 
+  5. We may supplement any of the information we collect from or about you with other information. 
+
+
 
 ### PLEASE READ THIS CAREFULLY
 
