@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517112457id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115014439id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Gazette of the Republic of the Philippines
 
@@ -43,11 +43,3 @@ San Miguel, Manila
 
 Tel. No.: +632 736 0719; Fax No.: +632 735 6167  
 Email: feedback@pcdspo.gov.ph
-
-## Stay up to date with your government.
-
-Subscribe to Daylight, a weekly newsletter that features good news about the Philippines and Filipinos.
-
-After signing up, you will receive a confirmation email that you will need to click through to confirm your subscription.
-
-×
