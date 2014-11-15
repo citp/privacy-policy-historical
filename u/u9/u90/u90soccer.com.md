@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u90soccer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062703id_/http%3A//u90soccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u90soccer.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115125440id_/http%3A//u90soccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ Our newsletters and special offers are sent only to customers who granted Upper 
 
  **Store Ratings and Reviews**
 
-We might also invite our customers via email to rate their experience at U90soccer.com, through independent third parties such as Bizrate.com, ResellerRatings.com or Trustpilot.com. Participation is optional.
+We might also invite our customers via email to rate their experience at U90soccer.com, through independent third parties such as Bizrate.com, ResellerRatings.com or Trustpilot.com. Participation is optional. Some of the ratings and reviews might be displayed at U90soccer.com
 
  **Opting-out**
 
