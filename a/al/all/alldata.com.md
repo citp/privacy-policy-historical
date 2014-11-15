@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209210232id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116000659id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALLDATA
 
@@ -28,7 +28,7 @@ You may opt out of receiving Act-On cookies at:
 
 **Contact Us**
 
-By using this site, you agree to the terms of the ALLDATA Online Privacy Policy. If you do not agree to these terms, please do not use this site. ALLDATA is not responsible for the content or privacy practices of non-ALLDATA web sites to which [alldata.com](https://web.archive.org/) or any other ALLDATA web site may link.
+By using this site, you agree to the terms of the ALLDATA Online Privacy Policy. If you do not agree to these terms, please do not use this site. ALLDATA is not responsible for the content or privacy practices of non-ALLDATA web sites to which [alldata.com](http://www.alldata.com/) or any other ALLDATA web site may link.
 
 Copyright © 1996-2013 ALLDATA LLC. All rights reserved.
 
