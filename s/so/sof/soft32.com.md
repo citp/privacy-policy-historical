@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808075314id_/http%3A//www.soft32.com/legal/privacy/%3Frel%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115065016id_/http%3A//legal.soft32.com/info/privacy%3Fkey%3D524fce44917ec5fd6051d87abc1539190e60d02e%26rel%3Dlegal) for the most accurate reproduction.*
 
-# Privacy Policy
+# ITNT
 
 This website collects some Personal Data of its Users.
 
