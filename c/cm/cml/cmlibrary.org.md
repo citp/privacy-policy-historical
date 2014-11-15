@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065004id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115143536id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
 
 # CMLibrary: About Us: Privacy Policy
 
-HOLIDAY HOURS Independence Day - All libraries will close Friday, July 4. [Learn more](http://www.cmlibrary.org/locations/closings.asp)  
-Help us better serve you by completing this short Library customer satisfaction survey [Learn more](https://www.surveymonkey.com/s/cmlibrary14)  
 | [](https://web.archive.org/) |   
 ---|---  
   
@@ -30,9 +28,9 @@ The Library is committed to protecting the privacy of visitors to its web sites.
 
 **Related Documents:**
 
-  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20140625065004id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
-  * [Internet Use Policy](https://web.archive.org/web/20140625065004id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
-  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20140625065004id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
+  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20141115143536id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
+  * [Internet Use Policy](https://web.archive.org/web/20141115143536id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
+  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20141115143536id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
 
   
   
