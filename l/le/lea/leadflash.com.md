@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820110835id_/https%3A//www.leadflash.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115232325id_/https%3A//www.leadflash.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Best Affiliate Marketing Network - LeadFlash.com Affiliate Program.
+
+## The web is social and so are we. Be sure to like, link, or follow!
+
+* * *
+
+  * [Affiliates](https://web.archive.org/affiliate.aspx)
+  * [Buy Leads](https://web.archive.org/BuyLeads.aspx)
+  * [Login](https://web.archive.org/login.aspx)
+  * [](https://web.archive.org/)
+  * [About](https://web.archive.org/meettheteam.aspx)
+    * [About Us](https://web.archive.org/meettheteam.aspx)
+    * [Careers](https://web.archive.org/Careers.aspx)
+  * [News](https://web.archive.org/news.aspx)
+  * [Contact](https://web.archive.org/Contact.aspx)
+
+
 
 This Privacy Policy ("Policy") applies to the LeadFlash.com web site. It tells users ("you" or "applicant") of the web site and the services provided therein about the information collected by LeadFlash.com and how LeadFlash.com uses and shares this information.   
 The LeadFlash.com web site is operated by LeadFlash, LLC. 
@@ -29,7 +45,7 @@ We use the personally-identifiable information you provide to us through this si
 
 We may review and use your financial information and your social security number to match you with participating lenders in our auto loan network or other third party lenders with whom we have a business relationship. We may also review your financial information and social security number to verify your identify and protect against possible fraudulent transaction.
 
-###  Sharing Your Personally-Identifiable Information
+### Sharing Your Personally-Identifiable Information
 
 LeadFlash.com may share your personally-identifiable information (including, without limitation, your financial account information and social security number) with lenders participating in our auto loan network and other third party lenders with whom we have a business relationship. These third party lenders may use your personally-identifiable information to offer you an auto loan or to communicate with you about other business or marketing offers. In addition, we may share your personally identifiable information (not including your financial account information and social security number) with unaffiliated third party marketers and list managers with whom we have a business relationship.
 
@@ -55,7 +71,7 @@ Our web site is not intended for use by children under the age of 13. We do not 
 
 LeadFlash.com has put in place physical, procedural, and technological security measures to help prevent unauthorized access to and improper use of the information we collect online. For example, only authorized employees and authorized third parties are permitted to access personally-identifiable information, and they may do so only for permitted business functions. No web site or Internet network can be completely secure. Although we take steps to secure your information, we do not guarantee, and you should not expect, that your personal information, searches, or other communications will always remain secure.
 
-###  Accessing Your Personally-Identifiable Information
+### Accessing Your Personally-Identifiable Information
 
 If you would like to review and/or request changes to the personally identifiable information that we have collected about you through your use of the LeadFlash.com web site, please contact us by writing or sending email to the addresses below. 
 
