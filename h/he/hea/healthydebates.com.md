@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthydebates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045154id_/http%3A//healthydebates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthydebates.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116092126id_/http%3A//healthydebates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Healthy Debates
+# Privacy Policy - HD.COM
 
 **What information do we collect?**
 
