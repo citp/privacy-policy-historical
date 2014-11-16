@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327203301id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116081700id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NEJM Journal Watch
 
-#####  Last updated: January 1, 2014 
+#####  Last updated: October 1, 2014 
 
 ## Principles Governing This Site
 
@@ -67,8 +67,8 @@ When you submit personal information via the NEJM Journal Watch website, your in
 Once you have created an identity or paid account on our site, you can update your personal information at any time. You may also choose to stop receiving offer information from us about content or services. You can do this in several ways:
 
   * Change your preferences directly on the ["Update My Information"](https://secure.jwatch.org/userprofile/myaccount) page.
-  * Send an e-mail message to [jwatch@mms.org](mailto:jwatch@mms.org). Please include your e-mail address in the body of your message.
-  * Contact our Customer Services Department at (800) 843-6356 or (781) 893-3800, extension 5515 (outside the U.S.A.), or Customer Services, NEJM Journal Watch, 860 Winter Street, Waltham, MA 02451-1413, U.S.A.
+  * Send an e-mail message to [jwatch@mms.org](mailto:jwatch@mms.org) (U.S. & Canada) or [jwatchIntl@mms.org](mailto:jwatchIntl@mms.org) (outside U.S. & Canada). Please include your e-mail address in the body of your message.
+  * Contact Customer Service and Fulfillment Monday through Friday 8am – 4pm EST, at [800-843-6356](tel:800-843-6356) (U.S. & Canada), [+1-781-434-7888](tel:781-434-7888) (outside U.S. & Canada), or by secure fax +1-781-893-0413. Write to us at Customer Service and Fulfilment, NEJM Journal Watch, 860 Winter Street, Waltham, MA 02451-1413, U.S.A. 
 
   
 
