@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111256id_/http%3A//wickedweasel.com/en-us/pages/4-privacy-statement-website-about-wicked-weasel) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134106id_/http%3A//wickedweasel.com/en/pages/4-privacy-statement-website-about-wicked-weasel) for the most accurate reproduction.*
 
-# Privacy Statement | Wicked Weasel
+# Privacy Statement - Wicked Weasel
 
 ## Introduction
 
