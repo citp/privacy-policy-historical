@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the clicknetwork.tv privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625211901id_/http%3A//www.clicknetwork.tv/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clicknetwork.tv privacy policy that was archived on 2014-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116023550id_/http%3A//www.clicknetwork.tv/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="csstransforms csstransforms3d csstransitions"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
     <title>clicknetwork.tv</title>
     
 
@@ -16,13 +16,15 @@
 <link rel="apple-touch-icon" sizes="72x72" href="img/micon-72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="img/micon-144.png">
 
-<link href="/css/all.bundle?v=3L6jtr9L32R3PgutqPxR4gi7rlio_zB27aM2ZgQNmtE1" rel="stylesheet">
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=onLoadCallback"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/preload.bundle?v=c_nii4x8xy_x3LtCQqcm5K0lPkeMJKWLIQZ8dzRY2S41"></script>
+<link href="/css/all.bundle?v=K9hruqstu7LaEZXwWsMWyFLklQT8XJyIW_QDN41wyJw1" rel="stylesheet">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=onLoadCallback"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/preload.bundle?v=ldzOtKdg8BnEk90MJqxMM-6E_k4RS9bFPFCHwyyT1iA1"></script>
+
 
 <script>
     CN.init({
         baseUrl: '/',
         videoID: 0,
+        authenticated: false,
     });
 </script>
 
@@ -228,7 +230,7 @@
             <p class="contact-submit">
                 <button type="submit" class="submit" id="contact-submit">Login</button>
             </p>
-            <p class="get_password switch_to_recover"><a>Forget Password</a></p>
+            <p class="get_password switch_to_recover"><a>Forgot Password</a></p>
         </form>
         <form action="/api/get_password.aspx" method="post" class="contact-form hide" id="recover-form">
             <h1>Get password</h1>
@@ -251,11 +253,36 @@
 </div>
 
 
+<div class="md-modal md-effect-1" id="modal-appbanner" data-md-off="closeAppBanner">
+    <div class="md-content ask_popup">
+
+        <p class="note_ask" id="appBannerMsg">We noticed you’re visiting on your iPhone</p>
+        <p>Would you like to download the</p>
+        <h1>clicknetwork app?</h1>
+        <p><a href="#" class="storeBtn" target="_blank"><img src="img/appico.png" alt="logo"></a></p>
+        <a data-md-close="gotoStore" href="#" class="submit storeBtn" target="_blank">Download the App</a>
+        <a data-md-close="" class="close_ask">No Thanks</a>
+
+        
+
+    </div>
+</div>
+
+<script>
+    function gotoStore(e) {
+        window.open($(this).attr('href'), '_self');
+    }
+</script>
+
+<a href="#" class="md-trigger hide" data-modal="modal-appbanner" id="appbannerTrigger"></a>
+
 <div class="md-overlay"></div>
 
 
 
-<script src="/js/all.bundle?v=82pat4tFFapbgvJwZmHEtPL4iDC6Tg12NbAM5JIMFQ41"></script>
+
+
+<script src="/js/all.bundle?v=daB6422YuRRM86uC_HSxX9ZjCJ6IfBr29SD6fM3XxU81"></script>
 
 
 <script type="text/javascript">
