@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkandgrowrichaudios.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627082936id_/http%3A//www.thinkandgrowrichaudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkandgrowrichaudios.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116014502id_/http%3A//www.growrichaudios.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy « www.GrowRichAudios.com
 
 **What information do we collect?**
 
@@ -70,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://ThinkAndGrowRichAudios.com/toc
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://GrowRichAudios.com/toc
 
 **Your Consent**
 
@@ -84,9 +84,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.ThinkAndGrowRichAudios.com
+http://www.GrowRichAudios.com
 
-358 W 170 N  
+147 N 200 E  
 Blackfoot, Idaho 83221  
 USA  
 paulmhutchings@gmail.com  
