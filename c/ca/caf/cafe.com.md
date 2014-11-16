@@ -1,73 +1,159 @@
-> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102152513id_/http%3A//www.cafe.com/BottomLinks/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116053914id_/http%3A//www.cafe.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Cafe.com
+# Privacy Policy - Cafe
 
- |  Your privacy is important, so Cafe.com, SA ("Cafe.com") has created the following policy ("Privacy Policy" or "Policy") to inform you about the type of information we gather about you when you visit our website located at <http://www.cafe.com/> (the "Site") and use our services, and how we may use that information and if and when we disclose it to third parties.
+We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to data and information collected through cafe.com, the affiliated network of websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by Some Spider, LLC (collectively “Some Spider” or “we,” “us,” or “our”); all apps published by Some Spider; and all other interactive features, services, and communications provided by Some Spider (“Service” or “Services”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Some Spider. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your use of this Service, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
-This Privacy Policy explains Cafe.com's data collection and use practices generally and in connection with advertising and content and any related services offered on the Site (collectively, the "Services"). The Policy applies to the Site and to any other online or offline Cafe.com websites, including websites owned and controlled by Cafe.com.
+ **Please be advised that the practices described in this Privacy Policy apply only to information gathered online through our Service. It does not apply to information that you may submit to us offline or by companies or organizations to which we may link or who may link to us.**
 
-The terms "you," "your," and "yours" refer to the visitor, customer and/or purchaser utilizing our Site. The terms “Cafe.com”, "Cafe", "we," "us," and "our" refer to Cafe.com and its subsidiaries and affiliates. This Privacy Policy is governed by our Terms of Use located at <http://www.cafe.com/BottomLinks/TOU.aspx>. Please read these documents prior to using our Site and/or any of the Services we offer. By using this Site and/or our Services, you consent to the data practices prescribed in this Policy. We may make changes to this Privacy Policy by posting an updated version on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
+ **By using our Service, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Service. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Service following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments.**
 
-WHAT INFORMATION IS COLLECTED? 
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at legal@somespider.com.
 
-Personal Information  
-"Personally Identifiable Information" is any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an e-mail address, phone number or other contact information, whether at work or at home. Cafe.com may request Personally Identifiable Information from you when you register to use our Site and Services and at various other locations on our Site, such as in online stores, message boards, personal pages, blogs and surveys. If you do not want your Personally Identifiable Information collected, please do not submit it to us. In certain areas, you may choose to allow other Cafe.com users to see the registration information you provide. In such cases, we will notify you during the registration process and allow you to determine the information you wish to be displayed. When you do provide us with Personally Identifiable Information, we may use that information to better understand your needs and how we can improve our products and Services (as described in more detail below).If we ever send you information by e-mail concerning new products or Services that you did not expressly request, we will provide you with the opportunity to opt-out of receiving future notices.
+ **What Information About Me Is Collected and Stored?**
 
-Non-Personal Information  
-Non-personally identifiable information ("Non-Personal Information") is information that, by itself, cannot be used to identify or contact you. Examples of this type of information include the type of Internet browser or computer operating system you use, demographic information (your age, gender, income, education, profession, zip code, etc.), the date and time you visited our Site, the pages you accessed, the name of the website from which you linked to our Site and other anonymous data involving your use of our Site. We use this information to analyze trends and gather broad demographic information for aggregate use. For example, we collect information regarding your hardware configuration, including but not limited to OS version, type of coding for video, processor, memory size, explorer version, video card type and sound card type, so that we can confirm that the videogames are being installed in accordance with our End User License Agreement accessible at <http://www.cafe.com/BottomLinks/EULA.aspx> and to communicate you about updates or changes in policies and changes to our Services. This information is not linked to any Personally Identifiable Information.
+We collect two basic types of information from you in conjunction with your use of the Service: personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you register on the Service, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes, among other things, your name, e-mail address, telephone number, postal address, and contact information. Non-personal information includes information that does not personally identify you, but it may include tracking and usage information about your location, demographics, use of the Service and the Internet.
 
-HOW IS SUCH INFORMATION USED? 
+As a general matter, you can browse the Service without submitting your personal information to us.  However, there are a number of circumstances in which you may supply us with your personal information.  The following lists the most common ways in which we may collect your personal information.
 
-We gather the information discussed above for purposes of providing and improving our Services. Personally Identifiable Information is used in order to register you as a user of the Site and Services, to set up your payment for the Services and to give us a sense of who our customers are and what are customers are looking for from our Site, Services and products. In addition, we may use your Personally Identifiable Information to keep you up to date on the latest product announcements, news, special offers, to notify the winners of contests and sweepstakes we may offer, to keep track of scores on game leaderboards and for communicating other information we think you would like to hear about. We may also use that information to contact you, for example, as part of an optional questionnaire in order to help us better understand the needs and preferences of our customers (e.g., videogame use, videogame preferences and videogame purchasing practices). In the event we receive a copyright and/or trademark infringement notice or other notice of any legal claim relating to content provided by you, we may share your contact information with the parties involved in the applicable dispute. We may also share your e-mail address with third party e-mail carriers who assist us with sending e-mails to our customers. Subsidiaries and controlled affiliates are not viewed as third parties for the purpose of data transfers, and hence personal information may be shared within those subsidiaries and affiliates without obtaining additional consent.We keep track of Non-Personal Information such as the type and number of videogames you download and play to help us track sales, downloads, etc. and may use such information, as well as aggregate data regarding your age, gender, occupation, education level, geographic location, computer equipment data and online and videogame interests, activities and practices, to provide general audience preference information to game publishers as part of our effort to provide you with the best possible products and Services. Cafe.com also automatically receives and records information on our server logs from your browser, including your IP address, cookie information and the page you request. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features.
+• Registration for an account on the Service
 
-Online Store  
-If you make a purchase on our Site, we may collect information related to your purchase, such as payment type and billing address. This information may be shared with third parties, such as third party financial institutions and their vendors, who provide payment services. We may also use the information you provide to send you important announcements and updates regarding our Site, products, Services and any other information that we think may be of interest to you. However, you may opt-out from receiving future mailings by contacting us at support@cafegames.zendesk.com [Please note that this e-mail address is not intended for and will not respond to customer inquiries; rather, customer inquiries should made on our contact page located at []() or:  
-Cafe.com, SA  
-43 rue d'Aboukir  
-75002 Paris  
-France  
-Attn: Thibault Viort
+• Profile information that You provide for Your user profile 
 
-IS THE INFORMATION SHARED OR DISCLOSED? 
+• Sign up to receive alerts or other information via email from Some Spider.
 
-Safeguarding your information is important to us, and we are not in the business of selling that information to others. Cafe.com shares your Personally Identifiable Information and Non-Personal Information only as described in this Policy. Cafe.com reserves the right to share some of the information you provide with third parties. For example, from time to time, Cafe.com may disclose the information it collects to third parties it hires to assist it in serving you (e.g., fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, providing customer service).Though we make every effort to preserve your privacy, Cafe.com may disclose Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to:  
-(1) conform to the edicts of the law or comply with a current judicial proceeding, court order or legal process;  
-(2) protect and defend the rights or property of Cafe.com; or   
-(3) protect the personal safety of users of Cafe.com, its websites or the public.  
-In the event Cafe.com should ever file for bankruptcy, merge with another company or have all or substantially all of its assets acquired by a third party, we may sell or otherwise transfer the information you provide to us on this Site to a successor in interest or other third party or share your Personally Identifiable Information with any company with whom we merge as part of the transaction. If we sell our business, we will attempt to ensure that requests made of us regarding e-mail communications will be honored.
+• Service related communications, e.g. account verification; technical notification
 
-ACCESS AND CHOICE.
+• Participation in communities, chat rooms and comment threads, other fora, and other interactive services like creating a collection of stories on the Service
 
-You may update, correct, or amend your personal information by sending a registered letter to the web-publishing company at the address listed below or by sending an e-mail to [support@cafegames.zendesk.com](mailto:support@cafegames.zendesk.com). Please note that this e-mail address is not intended for and will not respond to customer inquiries; rather, customer inquiries should made on our contact page located at [](). Please be aware that this Privacy Policy and the choices you make on this Site will not necessarily apply to Personally Identifiable Information you may have provided to Cafe.com in the context of other, separately operated, Cafe.com products or Services. When contacting Cafe.com to change your information, please make sure to specify whether you would like to change your information for all Cafe.com products and Services, or only the information that you supplied when registering to use this Site.
+• Submission of content or other data and information on any part of the Service that permits it
 
-THE SECURITY OF YOUR INFORMATION. 
+• Any other place on the Service where you knowingly volunteer personal information
 
-Cafe.com protects the security of your payment and financial information during transmission by using Secure Sockets Layer (SSL) software which encrypts the information you enter. In addition, access to customer data is restricted to Cafe.com employees with permission to access customer data for business and customer support purposes. Your e-mail address may be shared with third party e-mail carriers who assist us in sending e-mails from Cafe.com to our customers. To protect against credit card fraud, Cafe.com does not maintain credit card numbers on its system. Despite these practices, no security measures are completely fail-safe or impervious to circumvention. Your communications with us will travel through third party networks and we assume no responsibility for the security of such networks. Further, we are not responsible for events beyond our control, including without limitation, failure of security measures, the malicious acts or willful misconduct of hackers or any other person.
+In addition, when you interact with the Service, we may collect certain information that does not identify you individually and our servers may automatically keep an activity log of your use of our Service (“Non-Personal Information”). Generally, we collect and store the following categories of Non-Personal Information:
 
-INTERNATIONAL TRANSFERS. 
+• Non-identifiable demographic data such as age, gender, and five digit zip code as part of collecting personal information
 
-Cafe.com abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+• Device information about your computer, browser, mobile device, or other device that you use to access the Service.  This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
 
-COPPA COMPLIANCE. 
+• Analytics and usage information about your use of the Service.  
 
-Cafe.com complies with the Children's Online Privacy Protection Act of 1998 ("COPPA"). COPPA protects the personal information of children under the age of 13. This applies to individually identifiable information about a child that is collected online, such as full name, home address, e-mail address, telephone number or any other information that would allow someone to identify or contact the child. COPPA also covers other types of information—for example, hobbies, interests and information collected through cookies or other types of tracking mechanisms—when they are tied to individually identifiable information. It is important for you to understand this law; we encourage you to read more about COPPA.
+• Additional “traffic data” and log files such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.
 
-Note to Parents:  
-Cafe.com is committed to providing a safe, secure, and fun online experience for children who visit our Site. We are dedicated to safeguarding any personal information collected online and ensuring that COPPA rules are being followed in conjunction with all other activities conducted on our Site, helping parents and children have a positive experience on the Internet. Children can use the Site and view content without any Personally Identifiable Information being collected. However, in some areas of the Site, it is necessary to collect Personally Identifiable Information from children so that they can participate in an activity or download a videogame. Consistent with COPPA, we do not knowingly request or accept Personally Identifiable Information from children under the age of 13 without prior verifiable parental consent. In addition, Cafe.com will not condition a child's participation in an activity on the child providing more information than is reasonably necessary for the activity. A printable consent form is built into the registration process to help us secure parental consent and can also be obtained [here](http://www.cafe.com/BottomLinks/Cafe.com_parental_consent_form_v1.0.pdf). Parents will always have access to all personal information we have about their children. If your child has registered using a false age, please notify us and we will immediately close the account and nullify all Personally Identifiable Information collected from the child. Parents can revoke their consent and ask that information about their children be deleted from the Site by contacting us at [support@cafegames.zendesk.com](mailto:support@cafegames.zendesk.com) explaining that you want to deactivate your child's account. Parents may obtain any Personally Identifiable Information collected from their child by sending an e-mail to [support@cafegames.zendesk.com](mailto:support@cafegames.zendesk.com) requesting the Personally Identifiable Information. Cafe.com will obtain verifiable parental consent for the collection, use or disclosure of Personally Identifiable Information from a child.
+• Other information regarding your use of the Service.
 
-COOKIES.
+ **Collection of Your Source IP Address**
 
-Cookies are small text files stored by your browser in your computer when you visit our Site. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store Non-Personal Information, such as what websites, pages, or advertisements your browser has accessed. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize you when you return to our Site and avoid repetitive requests for the same information—saving you time and enhancing your experience. We mostly use "session cookies" that are automatically deleted several months after a visit to our Site. Cookies from our Site cannot be read by other websites as they tie automatically to Cafe.com's domain name. You have control over cookies. Most Internet browsers can be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or "help" screen to learn more about these functions.Please note that other companies that place advertising on our Site may collect information about you through the use of cookies when you view or click on their advertising or content. Due to the way the Internet technically operates, we cannot control, and make no representations about, the collection or use of this information by such third parties.
+We collect and store your device’s source IP address which may disclose the location of your device at the time you access the Service.  We may also collect and store other location information about you and associated with your account.
 
-CONTACTING Cafe.com. 
+ **Collection of Personal Information From or Through Social Media Sites or Using Your Social Media Login**
 
-If you have any questions or suggestions regarding our Privacy Policy or if you have submitted information through our Site and would like access to such information or to have that information corrected, please contact us by e-mail at [support@cafegames.zendesk.com](mailto:support@cafegames.zendesk.com) or by postal mail at:
+When you interact with any Some Spider page or account on a social media platform, such as Facebook, Twitter, Google+, Reddit, Instagram, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms.
 
-Cafe.com, SA  
-43 rue d'Aboukir  
-75002 Paris  
-France
+ **Collection of Personal and Non-Personal Information From Other Sources**
 
-and we will respond to you promptly.
+We also may collect and store information about you that we receive from other sources (including by us from our offline interactions with you) to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Service.
 
-Amended as of January 1st, 2008. V1.0
+ **Use of Cookies, HTML5 LocalStorage, and Unique URLs**
+
+Like many websites, we use “cookies”, which are small text files that are stored on your computer or equipment and HTML5 LocalStorage, which allows a website to store and retrieve data on your computer and equipment, when you visit certain online pages that record your preferences and actions. We may also use cookies and local storage to monitor traffic, improve the Sites and make it easier and/or relevant for your use.  We use both “session” cookies and “persistent” cookies.  We use cookies and local storage for the other purposes set out below: 
+
+• We use cookies and/or local storage to remind us who you are and to find your account information in our database when you access a service so you do not need to log in at every visit. This helps us to provide you with service tailored to your specific needs and interests. A cookie or other technology is created when you visit the site. 
+
+• We use cookies and/or local storage to determine the browser you use so the site can be designed to work properly with the most common versions of different browsers. 
+
+• Advertisers that place ads on the Sites may use cookies and/or local storage. 
+
+• We use cookies and/or local storage to estimate our audience size. Your browser is given a unique cookie or other technology that helps us determine whether yours is a repeat visit or a first visit. 
+
+• We use cookies and/or local storage to help personalize the Service for you.
+
+You have the ability to accept or decline cookies through your browser. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed.  For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
+
+We also use unique website URLs to track your use of the Services and how you share information you find on the Services.  We may link this information with your email address.  We use this information to help us improve the Services and the type of content we make available on the Services.
+
+Some Spider works with a variety of advertisers, advertising networks, advertising servers and analytics companies. These parties use various technologies, and technologies from third-party companies, to collect data in order to send and serve relevant advertising to users. These technologies may include the placement of cookies or web beacons, the use of HTML5 LocalStorage, the use of unique or non-unique non-personal identifiers and other technologies. These technologies may be used to track user behavior and serve you more relevant advertising. This relevant advertising may appear on our Sites or other websites that you visit. This privacy policy does not cover the use of various technologies by advertisers, advertising networks, advertising servers, and analytics companies. These companies may also obtain information from services you use from other companies, including without limitation, other websites, mobile websites, mobile downloadable applications, and downloadable applications, and combine that information with information they obtain through these third party technologies on our Services. You should be aware that Some Spider does not have control over these third party technologies or the information contained in them. You should be aware that if you choose to opt out through other sites, this does not opt you out of being served advertising. The ads will just not be targeted to you by any party from which you have opted out. You can also opt out of future information collection from our Services by ceasing use of the Service.
+
+ **Is Personal Information Collected From Children?**
+
+Some Spider does not knowingly collect personal identifiable information from children under 16 years of age. If you are under 16 years of age you should not provide personally identifiable information to Some Spider without providing us with consent from your parents. If Some Spider discovers that a child under the age of 16 has provided Some Spider with personally identifiable information and we do not have parental consent, Some Spider will immediately delete that child’s information from the Service. 
+
+ **How Do We Use Your Information?**
+
+We use the information we learn from you to help us personalize and continually improve your experience on the Service.  We may use your Personal and Non-Personal Information in the following ways:
+
+• Upload your content to our Service as you request
+
+• Communicate with you about your account (including service related announcements) and send you information about features and enhancements on our Service 
+
+• Communicate with you about changes to our policies
+
+• Communicate with you about your collection or stories or your comment to a community
+
+• Personalize content and experiences on our Service, including providing you reports, recommendations and feedback based on your preferences
+
+• Optimize or improve our products, services and operations
+
+• Detect, investigate, and prevent activities that may violate our policies or be illegal
+
+• Perform statistical, demographic, and marketing analyses of users of the Service 
+
+ **Use of Your Location Information**
+
+Specifically, we use your location information to:
+
+• Optimize or improve our products, services and operations
+
+• Detect, investigate, and prevent activities that may violate our policies or be illegal
+
+• Perform statistical, demographic, and marketing analyses of users of the Service
+
+ **Combination of Your Personal Information**
+
+We use the information from one portion of the Sites on other portions of Sites in our network of Sites or in reports and analysis, all of which are owned and operated by Some Spider, and we may combine information gathered from multiple portions of the Sites into a single customer record or analysis or report.  
+
+ **Who Do We Provide Your Information To?**
+
+Except as disclosed in this Privacy Policy, we do not disclose information about your personal information collected online to any companies not part of Some Spider or its subsidiaries or related entities.  In no event will we sell or rent your personal information as part of a customer list or similar transaction.
+
+ **Business Partners and Third Parties**
+
+We may share your personal information with our business partners or co-marketers from time to time.  Although our treatment of your personal information is governed by this Privacy Policy, the business partner or third party’s treatment of your personal information will be governed by the business partner or third party’s privacy policy.  
+
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, email and communication management, storage, content management tools, analytics, customer service, etc.  These entities have access to the personal information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that personal information.  They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Service. 
+
+We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Service; (b) protect and defend our rights or property, the Service or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Service or the public.  This includes exchanging information with other companies and organizations for fraud protection.
+
+ **Some-Spider E-mail Communications**
+
+E-mail communications sent from Some Spider or through Some Spider are designed to make your Some Spider experience more efficient.  By participating in the Services, you specifically agree to accept and consent to receiving e-mail communications initiated from Some Spider or through Some Spider. If you do not wish to receive any of our e-mail communications, please do not use the Services.
+
+ **What Steps Are Taken To Keep Personal Information Secure?**
+
+We are concerned about ensuring the security of your personal information.  We exercise care in providing secure transmission of your information from your device to our servers.  Personal information collected by our Service are stored in secure operating environments that are not available to the public.  Our security procedures mean that we may occasionally request proof of identity before we disclose your personal information to you.  Please understand, however, that while we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.  
+
+ **How Can We Transfer Your Personal Information?**
+
+Your information collected through the Service may be stored and processed in the United States or any other country in which Some Spider, its affiliates or service providers maintain facilities.  Some Spider, its affiliates, or service providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.  If you are located in the United States or other regions with laws governing data collection and use that may differ from US law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.  By registering for and using the Service you consent to the transfer of information to the US or to any other country in which Some Spider, its affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.  
+
+ **How Long Do We Keep Your Information?**
+
+Following termination or deactivation of your account, Some Spider, its affiliates, or its service providers may retain information (including your profile information) and user content for a commercially reasonable time for backup, archival, and/or audit purposes.  If you have any questions about termination or deactivation of your account, please contact us directly at legal@somespider.com. 
+
+ **What Happens When I Link To or From Another Website?**
+
+This Service may contain links to other websites operated by third parties. Please be advised that the practices described in this Privacy Policy for Some Spider do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites.  
+
+This Service is published in the United States. We attempt to protect the personal information of all users of our Service and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Some Spider services, but our Service is located and targeted to United States citizens and our policies are directed at compliance with those laws.  If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to Some Spider.  
+
+We may change our ownership or corporate organization while providing the Service.  We may also sell certain assets associated with the Service.  As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged.  Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.  Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+As our Service continues to develop, we may add new services and features to our Service. In the event that these additions affect our Privacy Policy, this document will be updated appropriately.  We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  We do, however, recommend that you read this Privacy Policy each time you use our Service in case you missed our notice of changes to the Privacy Policy.  We will not, however, materially change our policies and practices to make them less protective of personal information we have previously collected from you without your express consent.
+
+ **How Do I Opt-Out or Correct Information About Me**
+
+You may always opt-out of receiving future e-mail messages and newsletters from Some Spider.  To opt-out, you can send us a message at legal@somespider.com.  Please note, however, that you generally cannot opt-out of Service related announcements, e.g. if the Service is temporarily suspended or if delivery of a product or service is delayed.
+
+ **Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits customers of Some Spider who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@somespider.com.  These Services will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information).  If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes.
