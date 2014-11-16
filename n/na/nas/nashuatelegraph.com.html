@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nashuatelegraph.com privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517114143id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nashuatelegraph.com privacy policy that was archived on 2014-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116023650id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 <title>Nashuatelegraph.com: Privacy Policy</title>
@@ -50,6 +50,15 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script>
 
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.pubads().set("adsense_background_color", "FFFFFF");
+});  
+</script>
+
+
+
 <!-- FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/AdTargeting.csp -->
 
 
@@ -61,10 +70,12 @@ googletag.cmd.push(function() {
 });
 </script>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/AdTargeting.csp, took .000147 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/AdTargeting.csp, took .000092 -->
 
 
 <!-- FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/defineSlots.csp -->
+
+
 
 <script type="text/javascript">
   googletag.cmd.push(function() {
@@ -78,7 +89,6 @@ googletag.cmd.push(function() {
   googletag.defineSlot('/1009026/CMSv2_Middle4_300x250', [300, 250], 'div-gpt-ad-1386185863048-2').addService(googletag.pubads());
   googletag.defineSlot('/1009026/CMSv2_Bottom_728x90', [728, 90], 'div-gpt-ad-1386185863048-0').addService(googletag.pubads());
   googletag.defineSlot('/1009026/CMSv2_x94_0x0', [1, 1], 'div-gpt-ad-1386354682535-3').addService(googletag.pubads());
-  googletag.defineSlot('/1009026/CMSv2_x40_234x60', [234, 60], 'div-gpt-ad-1386354682535-2').addService(googletag.pubads());  //obit
   
   googletag.defineSlot('/1009026/CMSv2_Right_300x600', [300, 600], 'div-gpt-ad-1386606449897-0')
     .addService(googletag.pubads())
@@ -88,9 +98,8 @@ googletag.cmd.push(function() {
   googletag.enableServices();
   });
 </script>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/defineSlots.csp, took .002102 -->
 
-
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/defineSlots.csp, took .00191 -->
 
 
 
@@ -133,10 +142,10 @@ googletag.cmd.push(function() {
   }
 </script>
 
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/analytics.csp, took .001336 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/analytics.csp, took .001398 -->
 
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/heads/head.csp, took .005057 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/heads/head.csp, took .004956 -->
 
 </head>
 <body>
@@ -159,9 +168,9 @@ googletag.cmd.push(function() {
 
 
 <div id="todaysdate">
-Saturday, May 17, 2014
+Saturday, November 15, 2014
 </div>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/TodaysDate.csp, took .00116 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/TodaysDate.csp, took .001369 -->
 
 
   <div id="search">
@@ -193,7 +202,7 @@ Saturday, May 17, 2014
     <gcse:searchbox-only></gcse:searchbox-only>
   </div>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/topSearchBar.csp, took .000123 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/topSearchBar.csp, took .000171 -->
 
   </div>
  	
@@ -203,13 +212,13 @@ Saturday, May 17, 2014
   
 
 
-  
+
+
 
    
   
     
       My Account&nbsp;
-      
       <a class="subscribe" href="https://home.nashuatelegraph.com/clickshare/authenticateUserSubscription.do?CSProduct=nashua&amp;CSTargetURL=http://nashuatelegraph.com/privacypolicy/">Subscribe</a> |
       <a id="login" href="https://home.nashuatelegraph.com/clickshare/authenticateUserSubscription.do?CSProduct=nashua&amp;CSTargetURL=http://nashuatelegraph.com/privacypolicy/">Login</a>
     
@@ -221,6 +230,11 @@ Saturday, May 17, 2014
    jQuery("#CSLogOut").click(function(){
         eraseCookie("CSDisqus");
         eraseCookie("CSLoggedIn");
+        // 20140521 laa - add deletion of CSLast
+        var cslast = getCookie("CSLast");
+        if ( cslast != "" ) {
+          eraseCookie("CSLast");
+        }
         window.location = "https://home.nashuatelegraph.com/clickshare/logout.do?CSTargetURL=http://nashuatelegraph.com"
     });
     
@@ -240,8 +254,17 @@ Saturday, May 17, 2014
 		createCookie(name,"",-1);
 	}
 
+  function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+      var c = ca[i].trim();
+      if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+    }
+    return "";
+  }
 </script>
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/signIn.csp, took .000112 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/signIn.csp, took .000163 -->
 
   
 <!-- FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/weather.csp -->
@@ -263,9 +286,9 @@ Saturday, May 17, 2014
   <div id="raw">
     
 <!-- FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/WeatherGovProxy.csp -->
-Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:40:01
+Nashua;24.0;http://forecast.weather.gov/images/wtf/small/nskc.png;2014-11-15 21:35:41
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/WeatherGovProxy.csp, took .041856 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/WeatherGovProxy.csp, took .048132 -->
 
   </div>
   <div id="weatherbug"></div>
@@ -293,7 +316,7 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
   </div>
 
 
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/weather.csp, took .043422 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/weather.csp, took .049672 -->
 
 
   
@@ -310,7 +333,7 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
   </script>
 </div>
 
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/topAd.csp, took .001043 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/topAd.csp, took .001026 -->
 
     </div>
   </section>
@@ -337,7 +360,7 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
 <!-- FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/navRemap.csp -->
 
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/navRemap.csp, took .000081 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/navRemap.csp, took .000069 -->
 
 
 <script type="text/javascript">
@@ -362,7 +385,6 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
         <li data-rel="Weather"><a href="/Weather">Weather</a></li>
         <li><a href="http://www.nashuatelegraph.com/obituaries/">Obituaries</a></li>
         <li data-rel="Videos"><a href="/videos">Videos</a></li>
-        <!--<li><a href="http://www.nashuatelegraph.com/csp/cms/sites/telephotographers/home/index.csp">Photos</a></li>-->
 				<li><a href="http://nashuatelegraph.mycapture.com">Photos</a></li>        
         <li><a href="http://directory.nh.com/nashua+nh.z.html">Business Directory</a></li>
         <li><a href="/mediakit/">Advertise</a></li>
@@ -377,6 +399,7 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
         <li data-rel="WorldNation"><a href="http://nashuatelegraph.com/newsworldnation/">World/Nation</a></li>
         <li data-rel="Obituaries"><a href="/obituaries/">Obituaries</a></li>
         <li data-rel="Politics"><a href="/news/politics">Politics</a></li>
+        <li data-rel="PolitiFact"><a href="http://politifactnh.com">PolitiFact</a></li>
         <li data-rel="Crime"><a href="/Crime/">Crime</a></li>
         <li data-rel="ColumnistsAll"><a href="/Columnists/">Columnists</a></li>
         <li data-rel="GraniteGeek"><a href="/GraniteGeek/">Granite Geek</a></li>
@@ -431,7 +454,6 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
         <li data-rel="Perspectives"><a href="/Opinion/Perspectives/">National Columns</a></li>
         <li data-rel="Commentary"><a href="/Opinion/Commentary/">Local Commentary</a></li>
         <li data-rel="EditorialBoard"><a href="/csp/cms/sites/Telegraph/Opinion/EditorialBoard/index.csp">Editorial Board</a></li>
-        <!--<li data-rel="LiveOpinion"><a href="/Opinion/LiveOpinion/">Live Opinion</a></li>-->
         <li data-rel="EditBoardInterviews"><a href="/topics/editorial-board&amp;wide=1">Editorial Board Interviews</a></li>
       </ul>
     </li>
@@ -479,7 +501,6 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
         <li><a href="http://tele.adqic.com/">Place a Classified Ad</a></li>
         <li data-rel="Classi"><a href="/classifieds/">Classified Ads</a></li>
         <li data-rel="TopJobs"><a href="/topjobs/">Top Jobs</a></li>
-        <!--<li><a href="http://www.gethomesnh.com/">Homes</a></li>-->
         <li data-rel="Homes"><a href="/classifieds/featuredrealestate/">Homes</a></li>
         <li data-rel="Cars"><a href="/cars">Cars</a></li>
         <li data-rel="Shopping"><a href="/shopping/">Local Shopping</a></li>
@@ -501,19 +522,18 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
         <li><a href="https://home.nashuatelegraph.com/clickshare/myhome.do?CSTargetURL=http://nashuatelegraph.com">Subscriber Services</a></li>
         <li data-rel="Contact"><a href="/Contact/">Contact</a></li>
         <li data-rel="Mobile"><a href="/iPad/">Mobile apps</a></li>
-        <!--<li data-rel="About"><a href="#(gPublication.getPublicationPath())#/About/index.csp">About Us</a></li>-->
       </ul>
     </li>
   </ul>
 </div>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/navMenu.csp, took .002609 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/navMenu.csp, took .002319 -->
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/nav2.csp, took .003141 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/nav2.csp, took .002808 -->
 
   </nav>
 
 </header>
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/header.csp, took .050072 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/header.csp, took .056495 -->
 
   <div class="unfloat"></div>
 
@@ -614,7 +634,7 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
     Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about The Telegraph Online's privacy policy, please feel free to email us at <a href="mailto:privacy@nh.com">privacy@nh.com</a> or call (603) 594-6458 and speak to our new media manager. </font></p>
     <br><br>
   <h2 class="tag"></h2>
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/static/content/PrivacyPolicy.csp, took .005726 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/static/content/PrivacyPolicy.csp, took .001955 -->
 
 
 			
@@ -626,6 +646,8 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
       
         
 <!-- FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/Adstack.csp -->
+
+
 
 
 
@@ -709,51 +731,6 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
 
 
 
-  <tr>
-    <td colspan="2">
-      
-<!-- FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ConnectWithUs.csp -->
-
-<div id="connect-us">
- <div class="inset">
- <h2>Connect With Us</h2>
- <ul>
-  
-   <li><a href="/newstip/">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/email_14.gif" alt="email">
-    &nbsp;News tip</a>
-   </li>
-   <li><a href="mailto:news@nashuatelegraph.com">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/email_14.gif" alt="email">
-    &nbsp;Email reporters and editors</a>
-   </li>
-   <li><a href="http://www.facebook.com/TheTelegraph">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/facebook_14.jpg" alt="facebook">
-     &nbsp;Facebook</a>
-   </li>
-  
-   
-   <li><a href="http://twitter.com/NashuaTelegraph">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/twitter_14.gif" alt="twitter">
-		 &nbsp;Twitter</a>
-   </li>
-  
-   <li><a href="http://www.nashuatelegraph.com/newsletteremail">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/newsletter_16.jpg" alt="newsletter">
-     &nbsp;Sign up for newsletters</a>
-   </li>
-   <li><a href="http://feeds.nashuatelegraph.com/news/breaking">
-     <img src="/csp/cms/sites/Telegraph/assets/images/icons/rss-small.gif" alt="rss">
-     &nbsp;Breaking news RSS feed</a>
-   </li>
- </ul> 
- </div>
-</div>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ConnectWithUs.csp, took .000206 -->
-
-    </td>
-  </tr>
-
 
 
 
@@ -775,24 +752,33 @@ Nashua;63.0;http://forecast.weather.gov/images/wtf/small/nra.png;2014-05-17 07:4
   text-align: center;
   width: 100%;
  }
- div.widget101 { background-color:#EAE8E8; border:thin solid ##EAE8E8; margin-bottom: 20px; padding:6px 6px 20px 6px; width: 288px; }
+ div.widget101 { background-color:#EAE8E8; border:thin solid ##EAE8E8; margin-bottom: 20px; padding:0 6px 4px 6px; width: 288px; }
  div.widget101  p {
   color: #222;
   font-size: 12px;
   line-height:16px;
   margin:4px 0 6px 4px;
  }
+ div.widget101 > div.topjobs { margin-top:-14px; }
  div.widget101 a:link    {color:#222;}
  div.widget101 a:visited {color:#666;}
  div.widget101 a:hover   {color:#aaa;}
  div.widget101 a:active  {color:#222;} 
 </style>
+<script src="/csp/cms/sites/Telegraph/assets/scripts/jquery-shuffle.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function() {
   var arr = jQuery('div.topjobs > p');
   //if (arr.length == 0) { jQuery('div.topjobs').hide(); }
+  if (arr.length > 1) {
+    arr.shuffle();
+  }
   arr = jQuery('div.topprops > p');
   if (arr.length == 0) { jQuery('div.topprops').hide(); }
+  if (arr.length > 1) {
+    arr.shuffle();
+  }
+  jQuery('div.topprops > p:gt(3)').hide();  // make only top 4 visible
 });
 </script>
 
@@ -821,36 +807,14 @@ jQuery(document).ready(function() {
 
 
 <p>
-  <a href="/classifieds/topjobs/1036539-486/taaccct3-grant-project-manager.html">
+  <a href="/classifieds/topjobs/1042309-486/catholic-medical-center.html">
   
-    TAACCCT3 GRANT PROJECT MANAGER
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .001018 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/topjobs/1036538-486/school-bus-drivers-1000-cdl-bonus.html">
-  
-    SCHOOL BUS DRIVERS $1000 CDL BONUS*
+    Catholic Medical Center
   
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000618 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000787 -->
 
 		
 	
@@ -872,7 +836,7 @@ jQuery(document).ready(function() {
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000692 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000681 -->
 
 		
 	
@@ -894,12 +858,12 @@ jQuery(document).ready(function() {
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .00066 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000637 -->
 
 		
 	
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/includes/sql/getClassifieds.csp?subCategoryId=877754&hits=10&summary=/templates/stories/summary/ClassifiedsSummary2.csp, took .006217 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/includes/sql/getClassifieds.csp?subCategoryId=877754&hits=10&summary=/templates/stories/summary/ClassifiedsSummary2.csp, took .004555 -->
 
   </div>
   
@@ -921,6 +885,94 @@ jQuery(document).ready(function() {
 
 
 <p>
+  <a href="/classifieds/featuredrealestate/1024809-486/forest-ridge.html">
+  
+    Forest Ridge
+  
+  </a>
+</p>
+
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000739 -->
+
+		
+	
+
+
+	
+
+			
+		
+			
+<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
+
+
+<p>
+  <a href="/classifieds/featuredrealestate/1039892-486/nashua-office-park.html">
+  
+    Nashua Office Park
+  
+  </a>
+</p>
+
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000632 -->
+
+		
+	
+
+
+	
+
+			
+		
+			
+<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
+
+
+<p>
+  <a href="/classifieds/featuredrealestate/1039890-486/nashua-technology-park.html">
+  
+    Nashua Technology Park
+  
+  </a>
+</p>
+
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000614 -->
+
+		
+	
+
+
+	
+
+			
+		
+			
+<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
+
+
+<p>
+  <a href="/classifieds/featuredrealestate/1038098-486/tara-commons.html">
+  
+    Tara Commons
+  
+  </a>
+</p>
+
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000629 -->
+
+		
+	
+
+
+	
+
+			
+		
+			
+<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
+
+
+<p>
   <a href="/classifieds/featuredrealestate/1024804-486/woodlands-at-nashua.html">
   
     Woodlands at Nashua
@@ -928,51 +980,7 @@ jQuery(document).ready(function() {
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .00077 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/featuredrealestate/1024767-486/pine-hill-gardens.html">
-  
-    Pine Hill Gardens
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000661 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/featuredrealestate/1024808-486/oakwood-square.html">
-  
-    Oakwood Square
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000594 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000641 -->
 
 		
 	
@@ -994,73 +1002,7 @@ jQuery(document).ready(function() {
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000607 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/featuredrealestate/1024806-486/windsor-terrace-townhomes.html">
-  
-    Windsor Terrace Townhomes
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000614 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/featuredrealestate/1024809-486/forest-ridge.html">
-  
-    Forest Ridge
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000647 -->
-
-		
-	
-
-
-	
-
-			
-		
-			
-<!-- FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp -->
-
-
-<p>
-  <a href="/classifieds/featuredrealestate/1024807-486/kensington-apartments.html">
-  
-    Kensington Apartments
-  
-  </a>
-</p>
-
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000635 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000588 -->
 
 		
 	
@@ -1082,16 +1024,16 @@ jQuery(document).ready(function() {
   </a>
 </p>
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .00067 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/templates/stories/summary/ClassifiedsSummary2.csp, took .000628 -->
 
 		
 	
 
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/includes/sql/getClassifieds.csp?subCategoryId=877755&hits=20&summary=/templates/stories/summary/ClassifiedsSummary2.csp, took .009896 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/includes/sql/getClassifieds.csp?subCategoryId=877755&hits=20&summary=/templates/stories/summary/ClassifiedsSummary2.csp, took .008956 -->
 
   </div>
 </div>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/TopClassifieds.csp, took .018001 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/ads/TopClassifieds.csp, took .015461 -->
 
     </td>
   </tr>
@@ -1130,7 +1072,7 @@ jQuery(document).ready(function() {
   </tr>
 
 </tbody></table>
-<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/Adstack.csp, took .018771 -->
+<!--/FileInclude:Normal, /csp/cms/sites/Telegraph/assets/html5/includes/ads/Adstack.csp, took .015969 -->
 
       
       
@@ -1198,13 +1140,15 @@ jQuery(document).ready(function() {
       <div class="bottomcolumn bottomcolumnright">
         <h3>Connect With Us</h3>
         <ul class="borderedlist ">
+          <li><a href="/newstip/">News tip</a></li>
+          <li><a href="mailto:news@nashuatelegraph.com">Email reporters and edtiors</a></li>
           <li><a href="http://www.facebook.com/TheTelegraph">Facebook</a></li>
           <li><a href="http://twitter.com/NashuaTelegraph">Twitter</a></li>
           <li><a href="http://www.nashuatelegraph.com/opinion/submitaletter/266635-233/submit-a-letter.html">Submit letters</a></li>
-          <!--<li><a href="#(gPublication.getPublicationPath())#/About/index.csp">About Us</a></li>-->
           <li><a href="/Contact/">Contact Information</a></li>
           <li><a href="/mediakit/">Advertising Information</a></li>
           <li><a href="http://nashuatelegraph.nh.newsmemory.com/nie.php">NIE</a></li>
+   				<li><a href="http://www.nashuatelegraph.com/newsletteremail">Sign up for newsletters</a></li>
           <li><a href="https://home.nashuatelegraph.com/clickshare/subscriptionCenter.do">Subscription Information</a></li>
           <li><a href="http://www.nashuatelegraph.com/privacypolicy/">Privacy Policy/User Agreement</a></li>
         </ul>
@@ -1218,11 +1162,13 @@ jQuery(document).ready(function() {
     </div>
   </footer>
 </div>
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/footer.csp, took .001483 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/footer.csp, took .001441 -->
 
 
 </div><!-- main -->
 
+ 
+  
 
 
 
@@ -1254,7 +1200,7 @@ jQuery(document).ready(function() {
   </script>
   <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
 
-<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/bottomScripts.csp, took .001087 -->
+<!--/FileInclude:Cached, /csp/cms/sites/Telegraph/assets/html5/includes/bottomScripts.csp, took .000995 -->
 
 
 
