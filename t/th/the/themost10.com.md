@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615043122id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022547id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Most 10 Of Everything
+# » Privacy Policy
 
 ### Privacy
 
