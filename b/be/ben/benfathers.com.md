@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benfathers.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516105037id_/http%3A//www.benfathers.com/contact-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benfathers.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116171226id_/http%3A//www.benfathers.com/contact-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ben Fathers
 
