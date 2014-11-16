@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearshoreamericas.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517030236id_/http%3A//www.nearshoreamericas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearshoreamericas.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116025612id_/http%3A//www.nearshoreamericas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nearshore Americas | The New Axis of Outsourcing
 
