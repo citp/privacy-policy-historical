@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaspeaks.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040039id_/http%3A//indiaspeaks.net//templates/consumer_egg/index87f6.html%3Foption%3Dcom_content%26view%3Darticle%26id%3D61%26Itemid%3D68) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaspeaks.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116090753id_/http%3A//indiaspeaks.net//templates/consumer_egg/index87f6.html%3Foption%3Dcom_content%26view%3Darticle%26id%3D61%26Itemid%3D68) for the most accurate reproduction.*
 
 # Privacy
 
