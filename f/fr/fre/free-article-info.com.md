@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-article-info.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331131914id_/http%3A//free-article-info.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-article-info.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116095416id_/http%3A//www.free-article-info.com/privacy.html) for the most accurate reproduction.*
 
 # free-article-info.com | FREE Information and Articles on All Topics and Subjects
 
