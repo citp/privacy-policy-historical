@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623141429id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116091617id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # UnityPoint Health | Privacy Policy
 
-## Collecting and Using Personal Information
+## Notice of Privacy Practices
+
+The [Notice of Privacy Practices](https://web.archive.org/filesimages/Privacy/Notice_of_Privacy_Practices_Corporate.pdf) describes how medical information about you may be used and disclosed and how you can get access to this information.
+
+## Online Privacy Practice
+
+### Collecting and Using Personal Information
 
 Welcome to the UnityPoint Health website. We appreciate your interest in us! When you visit and navigate our sites and when you communicate with us via our website, we will not collect personal information about you unless you provide us that information voluntarily. If you provide personal information to us voluntarily via our website, we will not sell, license or transmit that information outside of UnityPoint Health and affiliated vendors/contractors who are involved in administering or providing services for fulfillment of your specific information requests (newsletters and e-health information). We will disclose information in compliance with applicable laws and regulations and will require recipients to protect the information and use it only for the purpose provided. 
 
@@ -44,11 +50,15 @@ From time to time our website may provide links to other websites, not owned or 
 
 ## Changes to This Statement 
 
-UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.   
+UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
+
+  
 
 
-Iowa Health System  
+Privacy Officer  
+UnityPoint Health  
 1776 West Lakes Parkway  
+Suite 400  
 West Des Moines, Iowa 50266
 
-(515) 241-6161
+(515) 241-4652
