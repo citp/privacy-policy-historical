@@ -1,28 +1,48 @@
-<!--The following is the downloaded HTML source of the arenamate.net privacy policy that was archived on 2014-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140514135700id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arenamate.net privacy policy that was archived on 2014-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116022758id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<title>Privacy Policy // arenamate.net - Your WoW MoP S15 PvP Guide</title>
+<title>Privacy Policy // arenamate.net - Your WoW MoP S15 PvP Hub</title>
 <meta charset="utf-8">
-<meta name="description" content="World of Warcraft Mists of Pandaria Season 15 PvP Statistics, Title Cutoffs, Graphs, Conquest Points Calculator and Player Activity Tracking for US and EU">
-<meta name="keywords" content="World of Warcraft, WoW, Mists of Pandaria, MoP, Patch 5.4, Players versus Player, PvP, Arena, Rated Battlegrounds, RBGs, Season 15, S15, Statistics, Graphs, Title Cutoffs, Conquest Points Calculator, Recent Player Activity, 2v2, 3v3, 5v5, RBG, Classes, Races, Factions, Realms, Arena Titles, RBG Titles, Rank 1, Gladiator, Duelist, Rival, Challenger, Hero of the Alliance, Hero of the Horde">
+<meta name="description" content="World of Warcraft Mists of Pandaria Season 15 PvP Statistics, Title Cutoffs, Graphs, Conquest Points Calculator and Player Activity Tracking for US and EU Servers.">
+<meta name="keywords" content="World of Warcraft, WoW, Mists of Pandaria, MoP, Patch 5.4, Player versus Player, PvP, Arena, Rated Battlegrounds, RBGs, Season 15, S15, Statistics, Graphs, Title Cutoffs, Conquest Points Calculator, Recent Player Activity, 2v2, 3v3, 5v5, RBG, Classes, Races, Factions, Realms, Arena Titles, RBG Titles, Rank 1, Gladiator, Duelist, Rival, Challenger, Hero of the Alliance, Hero of the Horde">
 <meta name="viewport" content="width=device-width, initial-scale=0.25, maximum-scale=1.0">
 <link rel="canonical" href="http://www.arenamate.net/privacy_policy.html">
 <link rel="shortcut icon" type="image/x-icon" href="http://static.arenamate.net/img/favicon.ico?version=2.0">
 <link href="http://static.arenamate.net/css/bootstrap.min.mod.css?version=3.1.9" rel="stylesheet" type="text/css">
 <link href="http://static.arenamate.net/css/darkstrap-v0.9.0.css?version=4.3.5" rel="stylesheet" type="text/css">
-<link href="http://static.arenamate.net/css/jquery-ui-autocomplete.min.css?version=1.1" rel="stylesheet" type="text/css">
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.arenamate.net/js/head.min.js?version=1.1"></script>
+<link href="http://static.arenamate.net/css/jquery-ui-autocomplete.min.css?version=2.2.3" rel="stylesheet" type="text/css">
+<!-- <link href="http://static.arenamate.net/css/font-awesome.min.css?version=4.1.0" rel="stylesheet" type="text/css" /> -->
+
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.arenamate.net/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="http://static.arenamate.net/js/jquery-ui-1.10.4.custom.min.js"></script>
+<script type="text/javascript" src="http://static.arenamate.net/js/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="http://static.arenamate.net/js/stupidtable.min.js"></script>
+<script type="text/javascript" src="http://static.arenamate.net/js/bootstrap.min.js"></script>
+
+<link href="http://fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script type="text/javascript">
-	head.js("http://static.arenamate.net/js/jquery-1.11.0.min.js", "http://static.arenamate.net/js/jquery-ui-autocomplete.min.js", "http://static.arenamate.net/js/stupidtable.min.js", "http://static.arenamate.net/js/bootstrap.min.js", "http://static.wowhead.com/widgets/power.js");
-	head.ready(function() {
+	$(function() {
+		$("#slider-rating").slider({
+			min : 0,
+			max : 3200,
+			value : 0,
+			step : 100,
+			slide : function(event, ui) {
+				$(".filter-rating").val(ui.value);
+				$(".slider-rating-value").text(ui.value + "+");
+			}
+		});
+		$(".filter-rating").val($("#slider-rating").slider("value"));
+		$(".slider-rating-value").text($("#slider-rating").slider("value") + "+");
 		$("#results-table").stupidtable();
 		$(".region-selection").change(function() {
 			$(".realm-selection").val("");
 		});
 		$(".realm-selection").change(function() {
 			var selected = $(":selected", this);
-			$(".region-selection option[value='" + selected.closest("optgroup").attr("label") + "']").attr("selected", true);
+			$(".region-selection[value='" + selected.closest("optgroup").attr("label") + "']").attr("checked", true);
 		});
 		if ($("[rel=tooltip]").length) {
 			$("[rel=tooltip]").tooltip();
@@ -48,14 +68,8 @@
 			},
 			autoFocus : true
 		});
-		var wowhead_tooltips = {
-			"colorlinks" : true,
-			"iconizelinks" : true,
-			"renamelinks" : true
-		};
 	});
 </script>
-
 
 <script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -71,7 +85,6 @@
 		s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
 	<div class="navbar navbar-fixed-top">
@@ -79,36 +92,40 @@
 			<div class="container-nav">
 				<ul class="nav">
 					<li><a href="/"><i class="icon-home icon-white"></i></a></li>
-					<li class="divider-vertical">
-					</li><li><a href="/recent_player_activity.html">Recent Player Activity</a></li>
-					<li class="divider-vertical">
-					</li><li><a href="/arena_rbg_title_cutoffs.html">Title Cutoffs</a></li>
-					<li><a href="https://blazingboost.com/en/services" target="_blank" onclick="_gaq.push(['_trackEvent', 'BlazingBoost', 'Button-Top', 'Clicked',, false]);">
-							<button class="btn btn-warning btn-nav" title="Get Boosted | BlazingBoost">
-								<strong>GET BOOSTED</strong>
-							</button>
-					</a></li>
-					<li class="divider-vertical">
-					</li><li><a href="/conquest_points_calculator.html">Conquest Points Calculator</a></li>
-					<li class="divider-vertical">
-					</li><li><a href="/representation_graphs.html">Graphs</a></li>
-					<li class="divider-vertical">
-					</li><li>
+					<li><a href="/arena_rbg_title_cutoffs.html">Title Cutoffs</a></li>
+					<li><a href="/recent_player_activity.html">Player Activity</a></li>
+					<li><a href="/representation_graphs.html">Representation Graphs</a></li>
+					<li><a href="/conquest_points_calculator.html">Conquest Points Calculator</a></li>
+					
+						
+							<li><a href="https://blazingboost.com/en/services" target="_blank" onclick="_gaq.push(['_trackEvent', 'BlazingBoost', 'Button-Top', 'Clicked',, false]);">
+									<button class="btn btn-warning btn-nav" title="Get Boosted | BlazingBoost">
+										<strong>GET BOOSTED</strong>
+									</button>
+							</a></li>
+						
+					
+					<li>
 						<form class="navbar-form pull-left" action="/search_players.html" method="get" style="padding: 0 15px">
-							<input type="text" id="searchPlayerNames" name="name" value="" placeholder="Search Players ..." class="span2">
+							<input type="text" id="searchPlayerNames" name="name" value="" placeholder="Search Players ..." class="span2" maxlength="100">
 							<button type="submit" class="btn btn-primary">
 								<i class="icon-search icon-white"></i>
 							</button>
 						</form>
 					</li>
+					
 				</ul>
 			</div>
 		</div>
 	</div>
 	<div id="banners">
 		<div class="row-fluid">
-			<div class="span12" style="text-align: center; min-height: 91px">
-				<a href="https://blazingboost.com/en/services" target="_blank" onclick="_gaq.push(['_trackEvent', 'BlazingBoost', 'Banner-Top', 'Clicked',, false]);"><img src="http://static.arenamate.net/img/bb_banner_top_animated.gif" width="728" height="91" alt="Get Boosted | BlazingBoost" title="Get Boosted | BlazingBoost"></a>
+			<div class="span12" style="text-align: center; height: 91px; overflow: hidden">
+				
+					
+						<a href="https://blazingboost.com/en/services" target="_blank" onclick="_gaq.push(['_trackEvent', 'BlazingBoost', 'Banner-Top', 'Clicked',, false]);"><img src="http://static.arenamate.net/img/bb_banner_top_animated.gif" width="728" height="91" alt="Get Boosted | BlazingBoost" title="Get Boosted | BlazingBoost"></a>
+					
+				
 				
 					<div id="banner-top-right"></div>
 					
@@ -134,26 +151,24 @@
 			</div>
 		</div>
 	</div>
-	<div class="container">
-		<div class="row-fluid">
-			<div class="span7">
-				<div class="row-fluid">
-					<div class="span6">
-						<a href="/"><span id="am-logo" title="arenamate.net - Your WoW MoP S15 PvP Guide"></span></a>
+	<div class="container-outer">
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span7">
+					<div class="row-fluid">
+						<div class="span6">
+							<a href="/"><span id="am-logo" title="arenamate.net - Your WoW MoP S15 PvP Hub"></span></a>
+						</div>
+						<div class="span6" style="padding: 30px 0 0 20px">Your WoW MoP S15 PvP Hub</div>
 					</div>
-					<div class="span6" style="padding: 30px 0 0 20px">Your WoW MoP S15 PvP Guide</div>
 				</div>
-			</div>
-			<div class="span5" style="text-align: right">
-				<div class="row-fluid">
-					<div class="span12">
-						<div class="row-fluid">
-							<div class="span7" style="text-align: right">
-								
-							</div>
-							<div class="span5">
-								<a href="https://twitter.com/arenamate" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @arenamate</a>
-								<script>
+				<div class="span5" style="text-align: right">
+					<div class="row-fluid">
+						<div class="span12">
+							<div class="row-fluid">
+								<div class="span12">
+									<a href="https://twitter.com/arenamate" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @arenamate</a>
+									<script>
 									!function(d, s, id) {
 										var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
 										if (!d.getElementById(id)) {
@@ -164,32 +179,32 @@
 										}
 									}(document, 'script', 'twitter-wjs');
 								</script>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="row-fluid">
-					<div class="span12">
-						<small>Last Update: <strong>
-									May 14, 2014 6:00:00 AM (PST)
-									
-								</strong></small>
+					<div class="row-fluid">
+						<div class="span12">
+							<small>Last Update: <strong>
+										Oct 14, 2014 4:00:00 PM (PST)
+										
+									</strong></small>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		
 			
-		
-		<div class="row-fluid">
-			<div class="span12">
-				<ul class="breadcrumb">
-					<li><a href="/"><i class="icon-home icon-white"></i></a> <span class="divider">/</span></li>
-					<li class="active">Privacy Policy</li>
-				</ul>
+				
+			
+			<div class="row-fluid">
+				<div class="span12">
+					<ul class="breadcrumb">
+						<li><a href="/"><i class="icon-home icon-white"></i></a> <span class="divider">/</span></li>
+						<li class="active">Privacy Policy</li>
+					</ul>
+				</div>
 			</div>
-		</div>
-		<div class="row-fluid">
+			<div class="row-fluid">
 			<div class="span12">
 				<div class="row-fluid">
 					<div class="span8">
@@ -204,7 +219,7 @@
 				<p>We do use cookies, which are text files placed on your computer, to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
 				<p>We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
 				<p>&nbsp;</p>
-				<h5>DoubleClick DART cookies</h5>
+				<h5>DoubleClick DART Cookies</h5>
 				<p>We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting").</p>
 				<p>The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.</p>
 				<p>You can opt-out of this ad serving on all sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx" target="_blank">http://www.doubleclick.com/privacy/dart_adserving.aspx</a>.</p>
@@ -220,39 +235,37 @@
 			</div>
 		</div>
 	
-		<hr>
-		<div class="row-fluid">
-			<div class="span6">
-				<ul>
-					<li><a href="/privacy_policy.html">Privacy Policy</a></li>
-					<li><a href="#"><span id="__ml">JavaScript?</span></a></li>
-				</ul>
-			</div>
-			<div class="span6 transparent" style="text-align: right">
-				<p>
-					<small>Like this page? Consider making a small donation to show your support!</small>
-				</p>
-				<form class="form-inline" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-					<input type="hidden" name="charset" value="utf-8"><input type="hidden" name="business" value="contact@arenamate.net"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="Support Donation // arenamate.net"><input type="text" name="amount" class="span2" value="0.99" autocomplete="off"> <select name="currency_code" class="span2"><option value="USD">USD</option>
-						<option value="EUR">EUR</option></select> <input type="text" maxlength="200" class="span4" name="item_name" placeholder="Leave a Note ..." autocomplete="off">
-					<button type="submit" class="btn btn-primary" title="PayPal - The safer, easier way to pay online">
-						<i class="icon-star icon-white"></i> Donate
-					</button>
-				</form>
-			</div>
-		</div>
-		
+			<hr>
 			<div class="row-fluid">
-				<div id="banner-content-bottom">
-					<!-- Horizontal Content Bottom -->
-					<ins class="adsbygoogle" style="display: inline-block; width: 728px; height: 90px" data-ad-client="ca-pub-0267367714589158" data-ad-slot="7733643580"></ins>
-					<script>
-						(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-					<span class="ad-text">Advertisement</span>
+				<div class="span6">
+					<ul>
+						<li><a href="/privacy_policy.html">Privacy Policy</a></li>
+						<li><a href="#"><span id="__ml">JavaScript?</span></a></li>
+					</ul>
+				</div>
+				<div class="span6" style="text-align: right">
+					<form class="form-inline" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+						<input type="hidden" name="charset" value="utf-8"><input type="hidden" name="business" value="contact@arenamate.net"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="Support Donation // arenamate.net"><input type="text" name="amount" class="span2" maxlength="100" value="0.99" autocomplete="off"> <select name="currency_code" class="span2"><option value="USD">USD</option>
+							<option value="EUR">EUR</option></select>
+						<button type="submit" class="btn btn-primary" title="PayPal - The safer, easier way to pay online">
+							<i class="icon-thumbs-up icon-white"></i> Donate
+						</button>
+					</form>
 				</div>
 			</div>
-		
+			
+				<div class="row-fluid">
+					<div id="banner-content-bottom">
+						<!-- Horizontal Content Bottom -->
+						<ins class="adsbygoogle" style="display: inline-block; width: 728px; height: 90px" data-ad-client="ca-pub-0267367714589158" data-ad-slot="7733643580"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+						<span class="ad-text">Advertisement</span>
+					</div>
+				</div>
+			
+		</div>
 	</div>
 	<div>&nbsp;</div>
 	<div class="row-fluid" style="text-align: center">
