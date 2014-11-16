@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidrooting.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516090002id_/http%3A//www.androidrooting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidrooting.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116024534id_/http%3A//www.androidrooting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,4 +39,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Disclaimer
 
- **All the tutorials and download links are collected from internet and various sources. We are not responsible for any damage in your device. Here we are putting our best to collect and publish accurate articles. So, Follow the tutorials at your own risk.**
+All the tutorials and download links are collected from internet and various sources. We are not responsible for any damage in your device. Here we are putting our best to collect and publish accurate articles. So, Follow the tutorials at your own risk.
