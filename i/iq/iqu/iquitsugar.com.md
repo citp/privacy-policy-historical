@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120146id_/http%3A//www.iquitsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134055id_/http%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
 
-# I Quit Sugar Privacy Policy » I Quit Sugar
+# I Quit Sugar Privacy Policy - I Quit Sugar
 
 * **Introduction**
 
@@ -32,7 +32,7 @@ Additionally, we may give your information to law enforcement if we are compelle
 
 * **Accessing, Editing, and Removing Your Information**
 
-You will not be able to access any information submitted to our Site. However, if you have any questions or wish to review, change, or delete any of your information submitted, please contact us at [info@iquitsugar.com](mailto:info@iquitsuagr.com). Additionally, if you wish to opt out of our data collection practices or would like us to remove any of your information, please contact us at [info@iquitsugar.com](mailto:info@iquitsuagr.com). After you have you have submitted information to us, please be aware that we may keep inaccessible copies of your information for a commercially reasonable period of time. 
+You will not be able to access any information submitted to our Site. However, if you have any questions or wish to review, change, or delete any of your information submitted, please contact us at [info@iquitsugar.com](mailto:info@iquitsugar.com). Additionally, if you wish to opt out of our data collection practices or would like us to remove any of your information, please contact us at [info@iquitsugar.com](mailto:info@iquitsugar.com). After you have you have submitted information to us, please be aware that we may keep inaccessible copies of your information for a commercially reasonable period of time. 
 
 * **Cookies and Tracking**
 
@@ -57,7 +57,7 @@ You agree that we may disclose your information to authorities if compelled to b
 
 * **Commercial and Non-Commercial Communications**
 
-If you decide to provide us with your contact information, you waive all rights to file complaints concerning unsolicited emails from us, since you have agreed to such communication. However, you may unsubscribe from certain communications by notifying IQS that you no longer wish to receive these solicitations, we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law. If you wish to opt out of certain communications, please contact us at [info@iquitsugar.com](mailto:info@iquitsuagr.com). 
+If you decide to provide us with your contact information, you waive all rights to file complaints concerning unsolicited emails from us, since you have agreed to such communication. However, you may unsubscribe from certain communications by notifying IQS that you no longer wish to receive these solicitations, we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law. If you wish to opt out of certain communications, please contact us at [info@iquitsugar.com](mailto:info@iquitsugar.com). 
 
 * **Third Parties**
 
@@ -71,7 +71,7 @@ We take reasonable attempts to protect your information. However, as this is the
 
 * **Your Australian Privacy Rights**
 
-IQS intends to comply with 1988 Privacy Act of Australia. If you are an Australian citizen you may wish to ask us additional questions regarding the information we collect. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at [info@iquitsuagr.com](mailto:info@iquitsuagr.com) with any questions. 
+IQS intends to comply with 1988 Privacy Act of Australia. If you are an Australian citizen you may wish to ask us additional questions regarding the information we collect. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at [info@iquitsugar.com](mailto:info@iquitsugar.com) with any questions. 
 
 * **Age Compliance**
 
@@ -83,4 +83,4 @@ Your information may be transferred to – and maintained on – computers locat
 
 * **Amendments**
 
-Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at [info@iquitsugar.com](mailto:info@iquitsuagr.com). 
+Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at [info@iquitsugar.com](mailto:info@iquitsugar.com). 
