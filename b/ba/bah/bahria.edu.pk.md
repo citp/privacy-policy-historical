@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahria.edu.pk privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516090345id_/http%3A//www.bahria.edu.pk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahria.edu.pk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116044718id_/http%3A//www.bahria.edu.pk/privacy-statement) for the most accurate reproduction.*
 
 # Bahria University » Privacy Statement
 
