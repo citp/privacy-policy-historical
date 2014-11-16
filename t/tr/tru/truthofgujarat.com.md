@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truthofgujarat.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517213126id_/http%3A//www.truthofgujarat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthofgujarat.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116113117id_/http%3A//www.truthofgujarat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Truth Of Gujarat
+# Privacy Policy - Truth Of Gujarat
 
 At www.truthofgujarat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by www.truthofgujarat.com and how it is used. 
 
@@ -13,6 +13,3 @@ www.truthofgujarat.com does use cookies to store information about visitors pref
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pratik@truthofgujarat.com.
-
-  
-
