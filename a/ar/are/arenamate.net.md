@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514135700id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022758id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy // arenamate.net - Your WoW MoP S15 PvP Guide
+# Privacy Policy // arenamate.net - Your WoW MoP S15 PvP Hub
 
-Your WoW MoP S15 PvP Guide
-
-Last Update: **May 14, 2014 6:00:00 AM (PST)**
+Last Update: **Oct 14, 2014 4:00:00 PM (PST)**
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit arenamate.net, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -18,7 +16,7 @@ We do use cookies, which are text files placed on your computer, to store inform
 
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-##### DoubleClick DART cookies
+##### DoubleClick DART Cookies
 
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting").
 
@@ -41,5 +39,3 @@ Google will use this information on behalf of the operator of this website for t
 The IP address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
 You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
-
-Like this page? Consider making a small donation to show your support!
