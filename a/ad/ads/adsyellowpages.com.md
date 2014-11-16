@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsyellowpages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625203749id_/http%3A//www.adsyellowpages.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsyellowpages.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133905id_/http%3A//www.adsyellowpages.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Ads Yellow Pages
 
