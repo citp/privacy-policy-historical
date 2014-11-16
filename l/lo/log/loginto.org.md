@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627121715id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134006id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [agencyspy.com Login](https://web.archive.org/agencyspy.com-login)
-  * [adthe.fm Login](https://web.archive.org/adthe.fm-login)
-  * [aha-plakate.de Login](https://web.archive.org/aha-plakate.de-login)
-  * [5950.com Login](https://web.archive.org/5950.com-login)
-  * [adsa.co.uk Login](https://web.archive.org/adsa.co.uk-login)
-  * [diariodopoder.com.br Login](https://web.archive.org/diariodopoder.com.br-login)
-  * [ari.ru Login](https://web.archive.org/ari.ru-login)
-  * [simplypsychology.org Login](https://web.archive.org/simplypsychology.org-login)
-  * [odloty.pl Login](https://web.archive.org/odloty.pl-login)
-  * [allshop.es Login](https://web.archive.org/allshop.es-login)
+  * [seniormatch.com Login](https://web.archive.org/seniormatch.com-login)
+  * [fifththirdlogin.com Login](https://web.archive.org/fifththirdlogin.com-login)
+  * [chi-login.com Login](https://web.archive.org/chi-login.com-login)
+  * [chase-online-login.com Login](https://web.archive.org/chase-online-login.com-login)
+  * [staplesrewards.com Login](https://web.archive.org/staplesrewards.com-login)
+  * [daskapital.nl Login](https://web.archive.org/daskapital.nl-login)
+  * [appleuser.com Login](https://web.archive.org/appleuser.com-login)
+  * [scpo.cn Login](https://web.archive.org/scpo.cn-login)
+  * [domain Login](https://web.archive.org/domain-login)
+  * [tvyo.com Login](https://web.archive.org/tvyo.com-login)
 
 
