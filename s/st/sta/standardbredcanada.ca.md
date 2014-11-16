@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061044id_/http%3A//standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116045806id_/http%3A//www.standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
 
 # Privacy Agreement | Standardbred Canada
 
