@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517114143id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116023650id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
