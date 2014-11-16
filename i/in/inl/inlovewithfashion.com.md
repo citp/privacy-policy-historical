@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113192501id_/http%3A//www.inlovewithfashion.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116163100id_/http%3A//www.inlovewithfashion.com/pages/Privacy-Notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
