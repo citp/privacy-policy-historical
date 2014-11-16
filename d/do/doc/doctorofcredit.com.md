@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628104032id_/http%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133900id_/http%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Doctor Of Credit
 
