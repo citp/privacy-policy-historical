@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518101115id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022608id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions, Themes and Mods
 
@@ -41,3 +41,15 @@ When visiting ThemesAndMods.com, visitors agree to the Terms of Service as menti
  **Contacting Us:**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [contact form](http://www.themesandmods.com/contact/ "Contact Us").
+
+#### About
+
+We are dedicated to provide best collection of feature rich ready made website designs and extensions for various content management systems and ecommerce solutions. We do our best to keep the site fresh and updated with the latest designs. Around 8000 designs have been added to our collection so far. Keep watching for more updates. And, please do support us by purchasing your favorite templates and plugins through our website.
+
+#### Sign up for our email newsletters
+
+#### Follow Us
+
+[](http://www.themesandmods.com/go/rt_joomla/)
+
+© 2014, Themes & Mods
