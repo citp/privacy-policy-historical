@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133426id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116135524id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ Spam in any form will not be accepted and will be deleted immediately.
 
 **Copyrights**
 
-Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please contact us at our email address: mayur@webtrickz.com
+Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please contact us at our email address: mayur[at]webtrickz[dot]com
