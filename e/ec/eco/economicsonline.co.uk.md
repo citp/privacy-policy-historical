@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184645id_/http%3A//economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116074711id_/http%3A//www.economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20140626184645id_/http%3A//economicsonline.co.uk/Terms_of_use.html) statement
+* * *
+
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20141116074711id_/http%3A//www.economicsonline.co.uk/Terms_of_use.html) statement
 
 **  (1)           What information do we collect?**
 
@@ -34,6 +36,8 @@ Most browsers allow you to refuse to accept cookies.  For example, in Internet 
 
 ** ** **(3)            Using your personal data**
 
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+
  We may use your personal information to:
 
  (a)          administer the website;
@@ -63,6 +67,8 @@ We will not without your express consent provide your personal information to an
 All our website financial transactions are handled through our payment services provider, Paypal.  You should only provide your personal information to Paypal after reviewing the Paypal privacy policy, available at www.paypal.com.  We will share information with  Paypal only to the extent necessary for the purposes of processing payments you make via our website.
 
 ** ** **(4)            Disclosures**
+
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
  In addition, we may disclose information about you: 
 
