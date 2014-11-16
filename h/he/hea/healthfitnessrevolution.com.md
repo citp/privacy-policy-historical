@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthfitnessrevolution.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006161510id_/http%3A//healthfitnessrevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfitnessrevolution.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116011855id_/http%3A//healthfitnessrevolution.com/privacy-policy) for the most accurate reproduction.*
 
-# | Privacy Policy | Health Fitness RevolutionHealth Fitness Revolution
+# Privacy Policy -
 
 ****  
 Effective Date: March 1, 2013
