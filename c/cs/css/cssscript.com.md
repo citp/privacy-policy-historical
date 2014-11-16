@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssscript.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517013252id_/http%3A//www.cssscript.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssscript.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116171607id_/http%3A//www.cssscript.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSS Script
 
