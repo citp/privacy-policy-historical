@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124247id_/http%3A//www.klinkk.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134533id_/http%3A//www.klinkk.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Klinkk
 
@@ -28,5 +28,3 @@ Your privacy is highly important to us. As with any website, we collect certain 
 ## Your Choice of Opting Out
 
   We may send your mass announcement emails or site news from time to time. If you do not want to receive emails from us, you can easily unsubscribe by clicking on the “Unsubscribe” link which will be present at the end of every email we send. Please however note that some communication is highly essential since these will include important information about any changes in the site, your account and other information regarding your submissions or your profile.   **If for any reason, you want to delete your account at Klinkk, please  [contact us](http://klinkk.com/blog/contact/).**
-
-* * *
