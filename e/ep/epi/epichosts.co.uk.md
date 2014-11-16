@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605072137id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116090010id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # EpicHosts - UK's #1 Budget Host :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and more!
 
@@ -79,6 +79,8 @@ Our security method is trusted with a DDoS mitigation and protection feature, re
 The FTP Server is maintained by FileZilla, a highly secured and very lightweight server. For best use and compatibility, we recommend the FileZilla Client to connect to our FTP.
 
 The VPSes we host are unmanaged, unless the Managed VPS addon is purchased alongside with the VPS. Removal of the 'Terrum' account on your VPS, if applicable, is also a breach of our terms and can cause a suspension of your VPS. We require access to VPSes to perform security updates, network changes and other necessary changes that are either requested by the customer or our ISP.
+
+All interactive chat web applications are strictly prohibited on our web hosting plans. This includes but is not limited to chat applications written in PHP, Perl, CGI, Python, Ruby, etc. in addition to IRC or IRC bots. Any web application that provides 'real-time' chat is not permitted. Shoutboxes, chatboxes, live chat/live help (such as but not limited to LiveZilla) and other web based chat programs are prohibited. Such terms are due to the heavy resource they put on the shared hosting and would easily go over any fair usage limits. Such applications will automatically be blocked by our servers if detected, and a possible suspension of service if found to be bypassing these automated detections.
 
 #### Refunds
 
