@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091712id_/http%3A//www.eurocircuits.com/index.php/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133601id_/http%3A//www.eurocircuits.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy statement | Eurocircuits
+# Eurocircuits - Privacy Statement
 
 Eurocircuits is committed to protecting your privacy and ensuring you have a positive experience on our website. This  
 policy outlines our personal information handling practices for both online and offline data. If you give us personal   
