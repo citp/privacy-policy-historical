@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618083621id_/http%3A//www.pcci.edu/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134511id_/http%3A//www.pcci.edu/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy :: Pensacola Christian College
+# Privacy Policy · Pensacola Christian College
 
 PCCI.edu is operated by Pensacola Christian College, Inc. (“PCC”).
 
