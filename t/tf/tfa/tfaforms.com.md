@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502220025id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116220417id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
