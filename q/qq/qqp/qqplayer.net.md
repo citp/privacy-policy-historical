@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qqplayer.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112135id_/http%3A//qqplayer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqplayer.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133601id_/http%3A//qqplayer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QQPlayer
 
