@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adpasar.sg privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630034618id_/http%3A//adpasar.sg/cgi-bin/auction/auction.cgi%3Faction%3DPrivacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adpasar.sg privacy policy that was archived on 2014-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116044203id_/http%3A//adpasar.sg/cgi-bin/auction/auction.cgi%3Faction%3DPrivacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Online Shopping Singapore - Shopping site for cheap second hand items &amp; garage sale discounts locally.</title>
@@ -23,7 +23,7 @@
 <link rel="shortcut icon" href="/favicon.ico?v=3" type="image/x-icon">
 <link rel="icon" href="/favicon.ico?v=3" type="image/x-icon">
 
-
+<link href="https://fonts.googleapis.com/css?family=Aclonica" rel="stylesheet" type="text/css">
 
 
 
@@ -50,6 +50,31 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
+<script type="text/javascript" src="/auction/extra/lib/timeago/timeago.js"></script>
+
+<script type="text/javascript">
+jQuery.timeago.settings.strings = {
+  prefixAgo: null,
+  prefixFromNow: "End in",
+  suffixAgo: "ago",
+  suffixFromNow: "",
+  seconds: "< 1 min",
+  minute: "1 min",
+  minutes: "%d mins",
+  hour: "1 hour",
+  hours: "%d hours",
+  day: "1 day",
+  days: "%d days",
+  month: "1 month",
+  months: "%d months",
+  year: "1 year",
+  years: "%d years",
+  wordSeparator: " ",
+  numbers: []
+};
+</script>
+
+<script type="text/javascript" src="/auction/extra/lib/jquery.blockUI/jquery.blockUI.js"></script>
 
 <script type="text/javascript" src="/auction/extra/lib/jquery.cookie/jquery.cookie.js"></script>
 
@@ -86,7 +111,10 @@
 
 
 
-<script type="text/javascript" src="/auction/extra/lib/c4/c4_core/c4_core.js?v=57"></script>
+<script type="text/javascript" src="/auction/extra/lib/c4/c4_core/c4_core.js?v=58"></script>
+<script type="text/javascript" src="/auction/extra/lib/c4/c4_core/c4_ap.js?v=3"></script>
+<script type="text/javascript" src="/auction/extra/lib/c4/c4_core/c4_bulkedit.js?v=4"></script>
+<script type="text/javascript" src="/auction/extra/lib/c4/c4_core/c4_main.js?v=26"></script>
 
 
 
@@ -95,7 +123,7 @@
 <link rel="home" title="Home" href="http://www.adpasar.sg">
 
 
-<link rel="stylesheet" type="text/css" href="/auction/extra/css/global.css?v=26">
+<link rel="stylesheet" type="text/css" href="/auction/extra/css/global.css?v=37">
 
 <link rel="stylesheet" type="text/css" href="/auction/extra/css/anylinkdropdownmenu/anylinkdropdownmenu.css?v=2">
 
@@ -214,6 +242,10 @@ window.onload=function(){
 </script> 
 
 
+<script id="returnedJsonData" type="application/json">
+{"watch":{"total":0,"list":[]},"bookmark":{"total":0,"list":[]}}
+</script>
+
 
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
@@ -248,15 +280,37 @@ _atrk_opts = { atrk_acct:"g7l9g1agwt00Ue", domain:"adpasar.sg",dynamic: true};
 	border:1px solid lightgrey;
 	border-bottom:0px solid;
 	cursor:pointer;
-	color:red;
+	color:#888888;
 	font-face:arial;
 	font-weight:bold;
 	font-size:12pt;
+	width:180px;
 }
 
-.TopNavMenu:hover{
-	background:#FFE0B3;
+:hover.TopNavMenu{
+	background-color:#F8F8F8;
+	color:#666666;
 }
+
+.TopNavMenuHotButton{
+	cursor:pointer;
+	position:absolute;
+	margin:0px;
+	top:-5px;
+	left:0px;
+	width:100%;
+	height:40px;
+	background-color:#E85C41;
+	align:center;
+	text-align:center;
+}
+
+:hover.TopNavMenuHotButton{
+	background-color:red;
+
+}
+
+
 
 .TopNavMenuDiv ul
 {
@@ -321,7 +375,7 @@ border-top:1px solid lightgrey;
 
 .TopNavMenuDivHelp a
 {
-	width: 120px;
+	width: 150px;
 }
 
 .TopNavMenuDivMyCute4ever a
@@ -329,7 +383,46 @@ border-top:1px solid lightgrey;
 	width: 100px;
 }
 
+
+
+
+.bottom-transparent-bar-overlay{
+	display:none;position:fixed;top:auto;left:0px;right:0px;bottom:0px;height:25px;background-color:white;border-top:1px solid grey;z-index:10;
+}
+.bottom-transparent-bar-left{
+	display:none;position:fixed;top:auto;left:0px;right:auto;bottom:0px;vertical-align:bottom;z-index:10;margin-left:5px;
+}
+.bottom-transparent-bar-right{
+	display:none;position:fixed;top:auto;left:auto;right:0px;bottom:0px;vertical-align:bottom;z-index:10;margin-right:5px;
+}
+.bottom-transparent-bar-button{
+	display:inline-block;
+	background-color:white;
+	border:1px solid grey;
+	border-bottom:0px;
+	cursor:pointer;
+	vertical-align:bottom;
+	height:25px;
+	padding:5px 10px 0px 10px;
+	font-family:arial;
+	font-size:12pt;
+	font-weight:bold;	
+	color: #666666;
+	letter-spacing:-1px;
+}
+:hover.bottom-transparent-bar-button{
+	background-color:#EFEFEF;
+	height:30px;
+}
+
+
+
 </style>
+
+
+
+
+
 
 
 
@@ -349,7 +442,7 @@ border-top:1px solid lightgrey;
 				<div style="display:table-cell;text-align:left;vertical-align:top;"><left>
 					<div style="display:block;position:relative;">
 					<div style="position:absolute;">
-						<img src="/auction/extra/images/buy_sell_149x105.png" style="width:85px;height:60px;top:10px;" alt="adpasar buy sell">						
+						<img src="/auction/extra/images/buy_sell_149x105.png" style="width:64px;height:45px;top:10px;" alt="adpasar buy sell">						
 					</div>
 					</div>
 				</left></div>
@@ -368,7 +461,7 @@ border-top:1px solid lightgrey;
 	</td> 
 	
 	
-	<td align="right" style="white-space:nowrap;"><div style="display:inline-block; margin:0px 30px 0px 0px;vertical-align:middle;"><img src="/auction/extra/images/online_pasar_in_singapore_383x23.png" style="width:333px;height:20px;"></div><div style="display:inline-block;"><a href="https://adpasar.sg/account" style="display:inline-block;cursor:pointer;"><span style="color:#666666;font-face:arial;font-size:10pt;font-weight:bold;">Sign in</span></a> <div style="display:inline-block;margin:0px 0px 0px 50x;padding:2px 10px 2px 10px;"><font size="2" color="#AAAAAA">or</font></div><button onclick="window.location.href='https://adpasar.sg/register'" class="ui-corner-all" style="display:inline-block;white-space:nowrap;height:30px;border: 0px solid grey; padding:2px 10px 2px 10px;margin:0px;margin-right:2px;background-color:#E85C41;cursor:pointer;"><span style="color:white;font-face:arial;font-size:10pt;font-weight:normal;">Register Free</span></button></div></td>
+	<td align="right" style="white-space:nowrap;"><div style="display:inline-block; margin:0px 100px 0px 0px;vertical-align:middle;"><span style="text-shadow:3px 3px 3px rgba(194, 194, 194, 0.57);font-size:25px;color: white;font-family:Aclonica;">Online Pasar in Singapore </span></div><div style="display:inline-block;"><a href="https://adpasar.sg/account" style="display:inline-block;cursor:pointer;"><span style="color:#666666;font-face:arial;font-size:10pt;font-weight:bold;">Sign in</span></a> <div style="display:inline-block;margin:0px 0px 0px 50x;padding:2px 10px 2px 10px;"><font size="2" color="#AAAAAA">or</font></div><button onclick="window.location.href='https://adpasar.sg/register'" class="ui-corner-all hover-highlight" style="display:inline-block;white-space:nowrap;height:30px;border: 0px solid grey; padding:2px 10px 2px 10px;margin:0px;margin-right:2px;background-color:#E85C41;cursor:pointer;"><span style="color:white;font-face:arial;font-size:10pt;font-weight:normal;">Register Free</span></button></div></td>
 	
 	</tr></tbody></table>
 
@@ -381,31 +474,7 @@ border-top:1px solid lightgrey;
 
 
 	<!-- Define drop down menu -->
-	
-	<script type="text/javascript">
-	function navbar_mouseover(obj)
-	{
-	
-	obj.style.background='#FFD99F';
-	obj.style.color='white';
-	
-	btnObj = document.getElementById('categoryDropdownButton');
-	//btnObj.style.border="1px solid #FF0000";
-	btnObj.style.border="1px solid orange";
-	
-	}
-	
-	function navbar_mouseout(obj)
-	{
-	obj.style.background='';
-	obj.style.color='';
-	
-	btnObj = document.getElementById('categoryDropdownButton');
-	btnObj.style.border="1px solid transparent";
-	}
-	</script>
-	
-	
+
 	<div id="TopNavBar" class="static-scroll" style="width:100%;margin:0px;padding:0px;z-index:10;align:center;">
 	
 	
@@ -415,9 +484,9 @@ border-top:1px solid lightgrey;
 					<img border="0" src="/auction/extra/images/home_grey_32x32_n.png" style="width:25px;height:25px;">
 				</div>
 				
-				<div id="TopNavMenuCategory" class="TopNavMenu" data-menu="Category" style="border-right:0px solid;">
-						<img style="display:inline-block;width:20px; height:20px;vertical-align:middle;margin-top:-5px;" src="/auction/extra/images/shopping_bag_yellow_64x64_n.png" id="TopNavMenuCategoryImage" alt="Online shopping for all auction categories">
-						All Categories
+				<div id="TopNavMenuCategory" class="TopNavMenu" data-menu="Category" style="border-right:0px solid;">						
+						Shopping
+						
 						
 						<div class="TopNavMenuDiv shadow-2  ui-corner-bottom" data-menu="Category" style="padding:0px;border:1px solid #C0C0C0; display:none;position:absolute; background-color:#FFFFFF; left:0px; top:0px; margin-right:0px; margin-bottom:0px">
 						<div style="padding:0px;margin:0px;width:600px;">
@@ -436,7 +505,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">253</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">198</span>
 		</td>
 
 	</tr>
@@ -447,7 +516,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">179</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">162</span>
 		</td>
 
 	</tr>
@@ -458,7 +527,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">8165</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">8110</span>
 		</td>
 
 	</tr>
@@ -469,7 +538,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">655</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">624</span>
 		</td>
 
 	</tr>
@@ -480,7 +549,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1833</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1583</span>
 		</td>
 
 	</tr>
@@ -491,7 +560,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">248</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">223</span>
 		</td>
 
 	</tr>
@@ -502,7 +571,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">11644</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">9941</span>
 		</td>
 
 	</tr>
@@ -513,7 +582,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">157</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">146</span>
 		</td>
 
 	</tr>
@@ -524,7 +593,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">2439</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">2119</span>
 		</td>
 
 	</tr>
@@ -535,7 +604,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1464</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1303</span>
 		</td>
 
 	</tr>
@@ -546,7 +615,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">900</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">838</span>
 		</td>
 
 	</tr>
@@ -557,7 +626,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">182</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">121</span>
 		</td>
 
 	</tr>
@@ -568,7 +637,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1553</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1493</span>
 		</td>
 
 	</tr>
@@ -579,7 +648,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">274</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">253</span>
 		</td>
 
 	</tr>
@@ -590,7 +659,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">3746</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">3563</span>
 		</td>
 
 	</tr>
@@ -601,7 +670,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">2373</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">2191</span>
 		</td>
 
 	</tr>
@@ -612,7 +681,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1540</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1569</span>
 		</td>
 
 	</tr>
@@ -623,7 +692,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1873</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1707</span>
 		</td>
 
 	</tr>
@@ -634,7 +703,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">679</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">642</span>
 		</td>
 
 	</tr>
@@ -645,7 +714,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">182</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">177</span>
 		</td>
 
 	</tr>
@@ -656,7 +725,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">174</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">163</span>
 		</td>
 
 	</tr>
@@ -667,7 +736,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">40</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">30</span>
 		</td>
 
 	</tr>
@@ -678,7 +747,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">536</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">512</span>
 		</td>
 
 	</tr>
@@ -689,7 +758,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">103</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">105</span>
 		</td>
 
 	</tr>
@@ -700,7 +769,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">4056</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">3572</span>
 		</td>
 
 	</tr>
@@ -711,7 +780,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">196</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">159</span>
 		</td>
 
 	</tr>
@@ -722,7 +791,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1570</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">1473</span>
 		</td>
 
 	</tr>
@@ -733,7 +802,7 @@ border-top:1px solid lightgrey;
 		</td>
 
 		<td nowrap="nowrap" style="text-align:right;">
-			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">4045</span>
+			<span style="color:#777777;font-family:arial;font-weight:normal;margin:0;padding;0;display:inline;font-size:11pt;letter-spacing:-1px;">4196</span>
 		</td>
 
 	</tr>
@@ -750,15 +819,25 @@ border-top:1px solid lightgrey;
 						
 				</div>
 				
-				<div class="TopNavMenu" data-menu="Sell" style="width:230px;border:0px solid;vertical-align:top;text-align:left;">
-					<div style="position:relative;padding:0px;margin:0px;">
-						<button type="button" style="cursor:pointer;outline:none;-moz-outline:none;position:absolute;margin:0px;padding:0px 15px 0px 15px;top:-5px;left:0px;width:230px;height:40px;border:0px solid;background-color:red;">
-							<span style="margin:0px;;padding:0px;font-size:9pt;color:white;font-weight:bold;font-family:arial">100% FREE</span>
-							<table style="padding:0px;margin:0px;margin-top:-8px;" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;padding-right:5px;"><font style="color:white;font-family:arial;font-size: 18pt"><b>+</b></font></td>
-							<td style="padding:0px;"><b><font color="white" size="4">Add 
-							your own listing</font></b></td>
-							</tr></tbody></table>
-						</button>
+				<div class="TopNavMenu" data-menu="Sell" style="border:0px solid;vertical-align:top;">
+				
+					<div style="position:relative;">
+					
+						<div class="TopNavMenuHotButton">
+						
+							<div style="margin:0px;margin-top:3px;padding:0px;font-size:9pt;color:white;font-weight:bold;font-family:arial;">100% FREE</div>
+							
+							<div style="display:inline-block;margin:0px;margin-top:-3px;">
+								<div style="display:table;">
+									<div style="display:table-cell;padding-right:10px;vertical-align:middle;"><font style="color:white;font-size:13pt;font-weight:bold;">+</font></div>
+									<div style="display:table-cell"><font style="color:white;font-weight:bold;font-size:13pt;vertical-align:middle;">Start Selling</font></div>
+								</div>
+							</div>
+		
+	
+							
+						</div>
+						
 					</div>
 					
 															
@@ -810,7 +889,7 @@ border-top:1px solid lightgrey;
 
 				</div>
 				
-				<div class="TopNavMenu" id="TopNavMenuMyAccount" data-menu="MyCute4ever" style="border-left:0px solid;width:150px;">
+				<div class="TopNavMenu" id="TopNavMenuMyAccount" data-menu="MyCute4ever" style="border-left:1px solid transparent;">
 					Account
 					
 										
@@ -873,9 +952,11 @@ border-top:1px solid lightgrey;
 
 				</div>
 				
-
+				<div id="TopNavMenuFilterBookmark" class="TopNavMenu" data-menu="FilterBookmark" onclick="location.href='http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Browse&amp;FilterBookmark=1&amp;Layout=gallery'" style="width:50px;">				
+					<div class="c4-bookmark-status-icon"><div class="c4-total-bookmark" style="padding-top:5px;" onclick="window.location.href='http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Browse&amp;FilterBookmark=1&amp;Layout=gallery'"></div></div>
+				</div>
 				
-				<div class="TopNavMenu" onclick="window.location.href='http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Members'" style="width:150px;">									
+				<div class="TopNavMenu" onclick="window.location.href='http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Members'">									
 					Find Members
 				</div>
 				
@@ -883,9 +964,9 @@ border-top:1px solid lightgrey;
 					Invite
 				</div>
 				
-				<div class="TopNavMenu" data-menu="Help" style="width:150px;">									
+				<div class="TopNavMenu" data-menu="Help">									
 					Help
-					<div class="TopNavMenuDiv TopNavMenuDivHelp shadow-2 ui-corner-bottom" data-menu="Help" style="padding:0px;margin:0px;border:1px solid #C0C0C0; display:none;position:absolute; background-color:#FFFFFF;" align="left">	
+					<div class="TopNavMenuDiv TopNavMenuDivHelp shadow-2 ui-corner-bottom" data-menu="Help" style="padding:0px;margin:0px;border:1px solid #C0C0C0; display:none;position:absolute; background-color:#FFFFFF;width:180px;" align="left">	
 						<ul>
 						<li><a href="http://adpasar.sg/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=FAQ">adPasar FAQ</a></li>
 						<li><hr></li>
@@ -902,7 +983,7 @@ border-top:1px solid lightgrey;
 			
 		
 
-		<div style="height:0px;border-top:3px solid red;"></div>
+		<div style="height:0px;border-top:1px solid grey;"></div>
 	
 	
 	</div>
@@ -914,29 +995,108 @@ border-top:1px solid lightgrey;
 
 
 
+<div class="bottom-transparent-bar-overlay shadow-1 c4-pattern-grey" id="bottom-transparent-bar-overlay">
+</div>
 
-
-
-
+<div class="bottom-transparent-bar-left" id="bottom-transparent-bar-left">
 	
-	
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+&nbsp;	
 
-<!--Popup Category Begin-->
+</div>
+
+
+<div class="bottom-transparent-bar-right" id="bottom-transparent-bar-right">
+
+	<div class="bottom-transparent-bar-button" style="margin-right:50px;height:35px;background-color:transparent;border:0px solid;">
+	
+		&nbsp;	
+		
+	</div>
+	
+	<div class="bottom-transparent-bar-button ui-corner-top shadow-1" id="bottom-transparent-bar-bookmark" onclick="window.location.href='http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Browse&amp;FilterBookmark=1&amp;Layout=gallery'">
+		
+		
+			<div style="display:table;">
+				<div style="display:table-cell;padding-right:10px;vertical-align:middle;">
+					<span style="color:#333333;font-weight:normal;">my bookmarks</span>
+				</div>
+				<div style="display:table-cell;vertical-align:middle;">
+					<div class="c4-bookmark-status-icon"><div class="c4-total-bookmark" style="padding-top:5px;"></div></div>
+				</div>
+			</div>
+			
+	</div>
+	
+			
+	<div class="bottom-transparent-bar-button ui-corner-top x-shadow-1" style="margin-right:150px;padding-left:15px;padding-right:15px;" onclick="window.location.href='https://adpasar.sg/cgi-bin/auction/auction.cgi?action=Sell&amp;Defaults=1&amp;Cat_ID=0&amp;CatA_ID='">
+		<div style="display:inline-block;">
+			<div style="display:table;">
+				<div style="display:table-cell;padding-right:10px;vertical-align:middle;"><font style="color:#333333;">+</font></div>
+				<div style="display:table-cell"><font style="color:#333333;vertical-align:middle;">sell something</font></div>
+			</div>
+		</div>
+	</div>
+	<div class="bottom-transparent-bar-button ui-corner-top shadow-1" id="bottom-transparent-bar-home" onclick="window.location.href='http://adpasar.sg'">
+	<img src="/auction/extra/images/home_grey_32x32_n.png" style="width:20px;height:20px;margin:0px;">
+	</div>
+	<div class="bottom-transparent-bar-button ui-corner-top shadow-1" id="bottom-transparent-bar-feedback" style="background-color:red;" onclick="window.location.href='/submit_feedback'">
+	<font style="font-family:arial;color:white;font-size:12pt;"><b>feedback ?</b></font>
+	</div>
+</div>
+
+
+
+
+
+
+
 <script type="text/javascript">
 
-function catdropdownbtn_set(obj,status)
-{
+
+$(document).ready(function(){
+
+
+	$('.TopNavMenu').each(function(e){
+		
+			
+		var hoverTimeout;
+		var hoverDiv = this;
+		
+		$(hoverDiv).hover(function(){
+			clearTimeout(hoverTimeout);
+			hoverTimeout = setTimeout(function(){
+				$(hoverDiv).data('c4_topNavMenu').showPop();
+	        }, 50);
+		},function(){
+			clearTimeout(hoverTimeout);
+			hoverTimeout = setTimeout(function(){
+				$(hoverDiv).data('c4_topNavMenu').hidePop();
+	        }, 50);        
+			
+		});	
+	
+		$(hoverDiv).click(function(){
+			clearTimeout(hoverTimeout);
+			$(hoverDiv).data('c4_topNavMenu').togglePop();
+	
+		});
+	
+	
+	});	
+
+
+	if(!C4_Is_Mobile()) {
+		  $('#bottom-transparent-bar-overlay').slideDown(0,function(){
+			  $('#bottom-transparent-bar-right').slideDown(250);
+			  $('#bottom-transparent-bar-left').slideDown(250);
+		  });	  
+	}
+
+
+
+});
+
+function catdropdownbtn_set(obj,status){
 	
 	if(status==0)
 	{
@@ -952,215 +1112,9 @@ function catdropdownbtn_set(obj,status)
 
 
 
-$(document).ready(function(){
-
-
-
-$('html').click(function(e){
-
-	var obj,topNavMenu;
-	
-	obj=$(e.target).closest('.TopNavMenu, .TopNavMenuDiv')[0];
-	if(obj){
-		topNavMenu=$(obj).data('c4_topNavMenu');
-	}
-	
-	if(!topNavMenu){
-		TopNavMenuClass.hideAll();
-	}
-	
-
-
-});
-
-
-
-$('html').hover(function(e){
-
-	var obj,topNavMenu;
-	
-	obj=$(e.target).closest('.TopNavMenu, .TopNavMenuDiv')[0];
-	if(obj){
-		topNavMenu=$(obj).data('c4_topNavMenu');
-	}
-	
-	if(!topNavMenu){
-		TopNavMenuClass.hideAll();
-	}
-	
-
-});
-
-
-
-
-
-
-
-   
-
-   
-$(function() { 
-
-
-	if(screen.width < 640 || screen.height < 640) {
-		return;
-	}
-	
-	$.event.add(window, "scroll", function() {		
-		TopNavMenuClass.hideAll();
-
-
-	});		
-			
-	$.event.add(window, "resize", function() {
-		TopNavMenuClass.hideAll();
-	});
-	
-	
-
-});
-
-
-
-
-
-
-/*
-$('#allCategoriesMenuBox').find('*').each(function(index) {
-
-	$(this).click(function(e){
-		alert(e.target.id);
-	});
-});
-*/
-
-
-$('.TopNavMenu').each(function(e){
-	
-/*	
-	$(this).click(function(){
-		var obj;
-		var menuObj=$(this);
-		$(this).data('c4_topNavMenu').togglePop();		
-	});
-*/
-	
-	
-	
-	$(this).hover(function(){
-		$(this).data('c4_topNavMenu').showPop();
-	},function(){
-		$(this).data('c4_topNavMenu').hidePop();
-	});
-	
-
-
-
-
-});
-
-
-
-
-
-$(document).keydown(function(e) {
-  if (e.keyCode == 27) { // esc
-		TopNavMenuClass.hideAll();
-  }
-  
-});
-
-
-
-
-
-
-
-
-
-
-if(!(navigator.appVersion.indexOf("MSIE 6.")!=-1 || navigator.appVersion.indexOf("MSIE 7.")!=-1 || navigator.appVersion.indexOf("MSIE 8.")!=-1)){
-//$('#TopNavMenuCategoryImage').css({ opacity: 0.5 },0);
-$('#TopNavMenuCategory').hover(
-    function() {    
-			$('#TopNavMenuCategoryImage').animate({ opacity: 1 },150);
-			$('#TopNavMenuCategoryImage').animate({ opacity: 0.3 },150);
-			$('#TopNavMenuCategoryImage').animate({ opacity: 1 },150);
-
-
-    },
-    function() {
-    	 $('#TopNavMenuCategoryImage').stop().animate({ opacity: 1 },400);
-    }
-);
-}
-
-
-
-
-
-
-
-});
-
-
-
-
 </script>
 
 
-
-<!--Popup Category End-->
-
-
-
-
-<div id="bottom-transparent-bar-overlay" class="c4-opacity-75 shadow-1" style="display:none;position:fixed;top:auto;left:0px;right:0px;bottom:0px;height:35px;background-color:white;border-top:1px solid grey;z-index:10;">
-</div>
-
-<div id="bottom-transparent-bar-left" style="display:none;position:fixed;top:auto;left:0px;right:auto;bottom:0px;vertical-align:bottom;z-index:10;margin-left:5px;">
-	<div style="display:inline-block;vertical-align:bottom;height:25px;padding:5px;padding-bottom:0px;">
-	<span style="display:none;font-family:arial;font-size:12pt;color:red;font-weight:bold;">Merry Christmas &amp; Happy New Year 2014 !</span>
-	</div>
-</div>
-
-
-<div id="bottom-transparent-bar-right" style="display:none;position:fixed;top:auto;left:auto;right:0px;bottom:0px;vertical-align:bottom;z-index:10;margin-right:5px;">
-	<div id="bottom-transparent-bar-home" class="ui-corner-top shadow-1" style="display:inline-block;background-color:white;border:1px solid grey;border-bottom:0px;cursor:pointer;vertical-align:bottom;height:25px;padding:5px;padding-bottom:0px;" onclick="bottomTransparentBarHome();">
-	<img src="/auction/extra/images/home_grey_32x32_n.png" style="width:20px;height:20px;margin:0px;">
-	</div>
-	<div id="bottom-transparent-bar-feedback" class="ui-corner-top shadow-1" style="display:inline-block;background-color:red;border:1px solid grey;border-bottom:0px;cursor:pointer;vertical-align:bottom;height:25px;padding:5px;padding-bottom:0px;" onclick="bottomTransparentBarFeedback();">
-	<font style="font-family:arial;color:white;font-size:12pt;"><b>feedback</b></font>
-	</div>
-</div>
-
-
-
-<script>
-
-$(document).ready(function(){
-	if(!C4_Is_Mobile()) {
-		  $('#bottom-transparent-bar-overlay').slideDown(0,function(){
-			  $('#bottom-transparent-bar-right').slideDown(250);
-			  $('#bottom-transparent-bar-left').slideDown(250);
-		  });	  
-	}
-});
-
-function bottomTransparentBarHome(){
-	$('#bottom-transparent-bar-home').slideUp(500,function(){
-		window.location.href='http://adpasar.sg';
-	});
-}
-
-function bottomTransparentBarFeedback(){
-	$('#bottom-transparent-bar-feedback').slideUp(500,function(){
-		window.location.href='/submit_feedback';
-	});
-}
-
-</script>
 </div>
 <!--ended:c4-layout-top-->
 
@@ -1172,7 +1126,7 @@ function bottomTransparentBarFeedback(){
 <table border="0" align="CENTER" valign="MIDDLE" width="100%" cellspacing="1" cellpadding="2">
 <tbody><tr><td width="100%" align="CENTER">
 
-<div align="center">    <center>    <table border="0" cellpadding="2" cellspacing="0" width="600">  <tbody><tr>  <td>  <p align="center">  <b><font color="#808080" face="Arial" size="3">  	<br>  	Privacy Policy<br>  	</font></b><br><br></p></td>  </tr>  <tr>  <td>  <p align="justify">  	  		<font face="Arial" size="2" color="#808080">adpasar privacy policy and practices are detailed below, and we ask you to  read them thoroughly. We are  constantly improving the tools you can use to manage the data that you  provide to us. Please refer to this page from time to time to see these  new features.<br>  <br>  </font>  </p></td>  </tr>  <tr>  <td><b>  		  	<font face="Arial" size="3" color="#FF934A">  Coverage</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  		<font size="2" face="Arial" color="#808080">    				<br>  						This policy applies to this site only and our affiliates have their own privacy policy statements, which we  encourage you to read whenever you visit   		their sites. When we talk about  "adpasar" or "we" in this policy, we  are referring to Company and its majority-owned or majority-controlled  subsidiaries.<br>  <br>  </font></p>  </td>  </tr>  <tr>  <td><b>  		  				<font face="Arial" size="3" color="#FF934A">  Helpful  Definitions</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  		<font size="2" face="Arial" color="#808080">    				<br>  				Personally identifiable information is information such as your name,  birth date, e-mail address or mailing address that can be used to  uniquely identify you.<br>  <br>  Anonymous Information is not personally identifiable information.  Anonymous information is information about how you use our site (such as  places visited and search queries performed). Anonymous information also  includes the domain names and/or I.P.   				addresses (as explained in greater detail below) of browsers   				that visit our site, time of day the site was visited, and other   				non-personally identifiable information. Anonymous information   				is information that is not tied to any individual, but helps to   				characterize the usage pattern.<br>  <br>  The next sections tell how and when   				we         collects anonymous information and personally identifiable information.<br>  <br>  </font></p>  </td>  </tr>  <tr>  <td><b>  		  				<font face="Arial" size="3" color="#FF934A">  Collection  and Use of Personally Identifiable Information</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  		<font face="Arial" size="2" color="#808080">  <u>  				<br>  				Signing up as member</u><br>  <br>  We want to assure you that you can visit our site and use many of our  services without telling us who you are or revealing any personally  identifiable information about yourself to us. <b><i>It is only during  registration to become a registered user will you be asked to provide us  with personally identifiable information.</i></b><br>  <br>  Although   				many of our services do not require any form of customer  registration, we do require registration for the use of certain services,    				such as participating in the online auction. During this registration process we require  you to complete certain fields, offer optional fields for you to complete,  and ask you to select a user name and password. For example, we ask for  contact information (such as first and last name, email address, and   				postal  code). We use this contact information in  several ways: </font>  </p><ul>  <li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to welcome  you to the adpasar           Network </font>  </p></li><li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to send  communications from us about new features and services available  through adpasar           &nbsp;</font></p></li><li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to display  advertisements on your screen that closely match your interests </font>  </p></li><li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to provide a  first and last name on messages sent from your adpasar   email account </font>  </p></li><li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to share  your information with select sponsors and partners who work with  adpasar, only if you allow us to do so (as we explain  below) </font>  </p></li><li>  <p align="justify">  			<font face="Arial" size="2" color="#808080">to allow our  sponsors and partners to communicate with you, but only if you tell us  you want to receive these communications about their services and  offers</font></p></li>  </ul>  <p align="justify">  		  				<font face="Arial" size="2" color="#808080">We will remember   				your preferences indicated to us during registration and we will   				respect them at all time. If you already are a registered user   				and would like to review or change the choices you have made,   				you will be able to do so under the account setting.<br>  </font>  </p><p align="justify">  		<font face="Arial" color="#808080"><u><font size="2">Contests,  Etc.</font></u><font size="2"><br>  <br>  From time to time, we may run contests on our site in which we ask  participants for contact information, such as their email address(es). If  you participate in contests, your contact information will be used  to reach you in connection with the contests. We may also use  the collected contact information to send you information about   				our services, as well as offers tailored to your interests by   				our advertisers and sponsors. You may choose to opt-out of receiving such mailings at  the time of registration for the contest, or afterwards.</font></font></p>    		<font face="Arial" color="#808080" size="2">  <br>  </font>  </td>  </tr>  <tr>    	<td height="21">  <b>  		  			<font size="3" face="Arial" color="#FF934A">  Sharing  Limited Contact Information   				Between Users</font></b></td>  </tr>  <tr>  <td>    		  		<font size="2" face="Arial" color="#808080">  				<br>  				To ensure smooth transactions between   		our members, it is adpasar's policy for members to provide a   		valid contact information on file at our system at all time. In the   		event that your primary contact information is outdated or invalid, or   		you have failed to respond to member's request to complete a   		transaction,   				or in such cases deemed appropriate by us, we may provide your contact number to   				member from the other side who have entered into a purchase contract with you via our   		system.</font><p>  		  				<font face="Arial" size="2" color="#808080">Please be assured   				that only minimum contact information is involved (ie. phone number)   				in this scenario in order to re-establish communication between you and   				the other member so that outstanding contract can be executed   				successfully.</font></p>  		<p>  		<font face="Arial" color="#808080" size="2">&nbsp;</font></p></td>  </tr>  <tr>  <td>  <p align="justify"><b>  		  				<font size="3" face="Arial" color="#FF934A">  Sharing  Personally Identifiable Information with Third Parties</font></b></p>  </td>  </tr>  <tr>  <td>  <p align="justify">  		<font size="2" face="Arial" color="#808080">  				<br>  				To deliver advertising to you  that most closely matches your interests, we share your personal  information with carefully selected companies with whom we have  relationships and trust.   				Our partners who receive information from us have the right to   				use the data we provide them (sometimes, in connection with   				other information they may have gathered about you), but are   				generally prohibited from sharing this information with other   				companies or people. <br>  <br>  <b>PLEASE NOTE:</b> In certain special cases, we may disclose your  personally identifiable information when we have reason to believe that  disclosing this information is necessary to identify, contact or bring  legal action against someone who may be causing injury to you, or  otherwise injuring or interfering with   				our rights,  property or operations, other adpasar           users, or  anyone else who could be harmed by such activities. We may also disclose  your personally identifiable information when we believe the law requires  it, or in response to any demand by law enforcement authorities in  connection with a criminal investigation, or civil or administrative  authorities in connection with a pending civil case or administrative  investigation.<br>  <br>  </font></p>  </td>  </tr>  <tr>  <td>  <p align="justify"><b>  		  				<font size="3" face="Arial" color="#FF934A">  Anonymous  Information</font></b></p>  </td>  </tr>  <tr>  <td>  <p align="justify">  		<font size="2" face="Arial" color="#808080">    				<br>  				When you use our site, we collect anonymous information, even if you have  not registered with   				us. We use this information to  personalize your experience at our site, show you more relevant  advertising messages, and generally to improve our services. We share this  anonymous information with selected advertisers and partners, in order to  deliver to you more relevant advertising messages.<br>  				<br>  				We will not share any anonymous information about your use on   				our site if that information is or will be linked to your   				personally identifiable information unless we have given you   				notice as described above and you have given us authorization to   				do so.<br>  <br>  </font></p>  </td>  </tr>  <tr>  <td>  		<font face="Arial" color="#808080" size="2">&nbsp;</font></td>  </tr>  <tr>  <td><b>  		  			<font size="3" face="Arial" color="#FF934A">  Use  of IP Addresses</font></b></td>  </tr>  <tr>  <td>  		<font size="2" face="Arial" color="#808080">    				<br>  				An Internet protocol (I.P.) address is a set of numbers that is  automatically assigned to your computer whenever you log on to your  internet service provider or through your company's local area network  (LAN) or wide area network (WAN). Web servers - the powerful computers  that provide web pages for viewing - automatically identify your computer  by the IP address assigned to it during your session online.<br>    				<br>  				We may collect I.P.   	addresses for purposes of system administration, to report anonymous user   	information to our advertisers (as explained above), to bring more relevant   	and better services to you, and to audit the use of our site.</font><p>  	  		<font size="2" face="Arial" color="#808080">  We can and will use I.P.  addresses to identify users of our site when we feel it is necessary to  enforce compliance with our site's terms of use or terms of service, or to  protect our service, site, or other users.<br>  <br>  <b>PLEASE NOTE:</b> Under certain circumstances, I.P. addresses and/or  domain names may be linked to personally identifiable information, when  said information is stored in databases managed by Internet registrars or  registries.<br>  <br>  </font></p></td>  </tr>  <tr>  <td>  		<b>  		  				<font size="3" face="Arial" color="#FF934A">  Keyword Search &amp; Browsing of Results</font></b></td>  </tr>  <tr>  <td>  		<font size="2" face="Arial" color="#808080">    				<br>  				Certain advertisers have paid for the right to display advertisements on  search results pages corresponding to certain words. For instance, a  particular resistor manufacturer may want its advertisement to be  displayed when users search for its resistor.   		Other than this, there may also be others creative ways offered to our   		advertisers as well.<br>  		<br>  		To provide a better advertising features, we have the right to control   		how the browsing &amp; search results are displayed, organized, and in any   		sequence deemed fit to us. <br>  <br>  </font></td>  </tr>  <tr>  <td><b>  		  				<font size="3" face="Arial" color="#FF934A">  Third-Party  Relationships</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  		<font face="Arial">    				<font color="#808080" size="2">  				<br>  				In order to provide you with news and features that match your interests,  adpasar           has relationships with many of the best  media and services companies   				in the market. You can recognize these  sites by the joint branding of adpasar           and such  companies. For example, if you see a logo in the upper-right corner of the  page that says 'Powered by   				adpasar', you will know you are on a co-branded  Web page. If you ever have any questions about whether certain  information, content or services pertain to us, or are "powered  by" one of our partners, please contact us   				to verify.<br>  <br>  Whenever you provide registration   				information on certain co-branded Web pages or for certain   				services provided in conjunction with third party partners, you   				should make every effort to read the privacy policies provided   				by or in association with such third parties, and make an   				informed decision on your own whether or not to continue   				utilizing the services based upon the privacy policies posted on   				these co-branded Web pages, at your own discretion.<br>  <br>  In addition to finding co-branded Web pages, you will find direct links on  adpasar           to the sites offered by third parties.  Some of these sites are authorized to use the adpasar     				brand and/or logo. Again, you  should read these third party privacy policies, and make an informed  decision on your own as to whether or not to continue based upon these  sites' privacy practices, at your own discretion. No third-party sites are  covered by this Privacy Policy.<br>  <br>  <b>VERY IMPORTANT:</b> If you feel that a site using the adpasar   brand and/or logo has not posted an acceptable privacy policy, or is not  following the privacy policy it has posted, please   				inform us promptly.  We will forward complaints to the appropriate third parties to ensure that your concerns are adequately handled. Of course,  if any of these third party companies does not have a privacy policy that  is acceptable to you, you should refrain from providing information until  your concerns have been satisfactorily addressed.</font><font color="#808080" size="2"><br>    		</font>  </font></p>  <br></td>  </tr>  <tr>  <td><b>  		  	<font size="3" face="Arial" color="#FF934A">  Security</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  	  				<br>  				<font size="2" face="Arial" color="#808080">  We operate secure   				data networks protected by industry standard technology that   				includes but not limited to firewall, password protection and   				encrypted channel for our services. We have security measures in place to protect against the loss,  misuse and alteration of   				the data under our control.<br>  <br>  Only authorized employees have access to the information you provide us.  For example, we impose strict rules on adpasar   employees who have access either to the databases that store user  information or to the servers that host our services. While we cannot  guarantee that loss, misuse or alteration to data will not occur, we make  every effort (such as the use of employee passwords and non-disclosure  agreements) to prevent such unfortunate occurrences.<br>  <br>  <br>  </font></p>  </td>  </tr>  <tr>  <td><b>  		  	<font size="3" face="Arial" color="#FF934A">  Contacting  Us</font></b></td>  </tr>  <tr>  <td>  <p align="justify">  		  		<font color="#808080" size="2" face="Arial"><br>  		If you have questions about this privacy policy or the practices of this  site, please contact   		us by using the online contact form.<br>  		<br>  		<br>  </font></p>  </td>  </tr>  </tbody></table></center>  </div>
+<div align="center"><center><table border="0" cellpadding="2" cellspacing="0" width="600"><tbody><tr><td><p align="center"><b><font color="#808080" face="Arial" size="3"><br>Privacy Policy<br></font></b><br><br></p></td></tr><tr><td><p align="justify"><font face="Arial" size="2" color="#808080"><b>adpasar</b> privacy policy are detailed below, and we ask you to read them thoroughly. We are constantly improving the tools   	&amp; services you can use to better manage information that you provide to us.   	Kindly refer to this policy document from time to time to get updated.<br><br></font></p></td></tr><tr><td><b><font face="Arial" size="3" color="#FF934A">  		Policy Coverage</font></b></td></tr><tr><td><p align="justify"><font size="2" face="Arial" color="#808080"><br>This policy applies to this site only and our   		partners &amp; affiliates have their own privacy policy statements, which we encourage you to read whenever you visit   		&amp; use their sites or services. When we talk about "adpasar" or "we" in this policy, we are referring to   		this site itself as well as the company that wholly own and run the   		site.<br><br></font></p></td></tr><tr><td><b>  				<font face="Arial" size="3" color="#FF934A">Useful Definitions</font></b></td></tr><tr><td><p align="justify"><font size="2" face="Arial" color="#808080"><br>Personally identifiable information is information such as your name, birth date, e-mail address,   				mailing address or some other details that can potentially be used to uniquely identify you   				as an individual.<br><br>Anonymous Information is not personally identifiable information. Anonymous information is information about how you use   				or iterate with our site (such as sections or pages visited and search   				keywords used when searching). Anonymous information may includes the domain names and/or I.P. addresses (as explained in greater detail below) of browsers that visit our site, time of day the site was visited, and other non-personally identifiable information. Anonymous information is information that is not   				directly linked to a specific individual, but helps to characterize the usage pattern   				and improve our services.<br><br>The next sections will   				elaborate on how we collects and make use of anonymous information and personally identifiable information.<br><br></font></p></td></tr><tr><td><b><font face="Arial" size="3" color="#FF934A">Collection and Usage of Personally Identifiable Information</font></b></td></tr><tr><td><p align="justify"><font face="Arial" size="2" color="#808080"><u><br>Signing up as   			new member</u><br><br>Firstly, we want to assure you that you can visit our site and use many of our   			available services without informing who you are or revealing any personally identifiable information about yourself to us. <b><i>It is only during registration to become a   			member will you be requested to provide us with personally identifiable information.</i></b><br><br>  			While most of our tools &amp; services do not require any form of   			account registration, we do require registration for the use of certain   			critical services, such as participating in the online auction,   			making purchase, or submitting new listings. During this sign up process we require you to   			fill up certain fields, offer optional fields for you to complete, and   			request you to choose a desire user name and password for your own   			protection. For example, we may ask for contact information (such as   			full name, email address, and postal code). We will manage and use this contact   			details in several ways: </font></p><ul><li><p align="justify"><font face="Arial" size="2" color="#808080">to welcome you   				as new member to our community &amp; marketplace </font></p></li><li><p align="justify"><font face="Arial" size="2" color="#808080">to   				keep you updated about new features and services available through adpasar&nbsp;</font></p></li><li><p align="justify"><font face="Arial" size="2" color="#808080">to display advertisements on   				certain pages when they match your interests </font></p></li><li><p align="justify"><font face="Arial" size="2" color="#808080">to   				personalize greeting using your name on messages we deliver to   				you </font></p></li><li><p align="justify"><font face="Arial" size="2" color="#808080">to share   				limited details within the close circle of our affiliates and   				partners</font></p></li></ul>  			<p align="justify"><font face="Arial" size="2" color="#808080">We will   			save your settings or preferences indicated to us during sign up and   			whatever changes that you make thereafter. We promise to respect   			your preference indicated to us at all time.</font></p><p align="justify"><font face="Arial" color="#808080"><u><font size="2">  			Lucky draw &amp; Contests</font></u><font size="2"><br><br>To bring you   			more benefit by using our site, we may from time to time organize contests on our site in which we   			require participants to provide certain contact information, such as their email   			addresses and mailing addresses). If you participate in these events, your contact information will be used to reach you in connection with the   			events and the prize to be won. We may also use the collected contact information to send you information about our services, as well as offers tailored to your interests by our   			affiliates, premium advertisers and sponsors. You may choose to opt-out of receiving such mailings at   			at any time.</font></font></p><font face="Arial" color="#808080" size="2"><br></font></td></tr><tr><td height="21"><b><font size="3" face="Arial" color="#FF934A">Sharing Limited Contact Information Between Users</font></b></td></tr><tr><td><font size="2" face="Arial" color="#808080"><br>To ensure smooth transactions between our members, it is adpasar  			's policy for members to supply us with a valid contact information at all time.   			It is also very important for you to be responsive and follow up on   			the trading transactions done on our site. In the event that your primary contact information is outdated or invalid, or you have failed to respond to member's request to complete a transaction, or in such cases deemed appropriate by us, we may   			release your secondary contact detail such as phone number to the member   			who has entered into a trade transaction with you via our system.</font><p><font face="Arial" size="2" color="#808080">Please be assured that only minimum contact information is   			required (ie. phone number) in this scenario in order to re-establish communication between you and the other member so that   			pending transaction can be resumed.</font></p><p><font face="Arial" color="#808080" size="2">&nbsp;</font></p></td></tr><tr><td><p align="justify"><b><font size="3" face="Arial" color="#FF934A">Sharing Personally Identifiable Information with   				3rd Parties</font></b></p></td></tr><tr><td><p align="justify"><font size="2" face="Arial" color="#808080"><br>To deliver advertising   				&amp; promotion to you that most closely matches your interests, we share your personal information with carefully selected companies with whom we have relationships and trust. Our partners   				and affiliates who receive information from us have the right to use the data we provide them (sometimes, in connection with other   				details they may already have gathered about you), but are generally prohibited from sharing this information with other companies or people   				externally. <br>  	<br><b>PLEASE ALSO NOTE:</b> In certain special cases   				&amp; scenarios, we may have to disclose your personally identifiable information when we have   				strong reason to believe that disclosing this piece of information is   				necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with our rights, property,   				personnel, services or operations, or to other adpasar users, or anyone else who could be harmed by such activities. We may also disclose your personally identifiable information when we believe the law requires it, or in response to demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a civil case or investigation.<br>  	<br></font></p></td></tr><tr><td><p align="justify"><b><font size="3" face="Arial" color="#FF934A">Anonymous Information</font></b></p></td></tr><tr><td><p align="justify"><font size="2" face="Arial" color="#808080"><br>When you   			visit or use the services on our site, our system will collect anonymous information, even if you have not registered with us. We use this information to personalize your experience at our site, show you more relevant advertising   			&amp; promotional messages, and generally to improve our services in   			future. We share this anonymous information with selected advertisers and partners,   			including our technology partners in order to deliver to you a   			relevant advertisements and a more pleasant service experience.<br><br>  			We will not share any anonymous information about your use on our   			site if that information is or will be linked to your personally   			identifiable information unless you have given us authorization to do so.<br><br></font></p></td></tr><tr><td><font face="Arial" color="#808080" size="2">&nbsp;</font></td></tr><tr><td><b><font size="3" face="Arial" color="#FF934A">  			The use of IP Address</font></b></td></tr><tr><td><font size="2" face="Arial" color="#808080"><br>  				An IP address is a set of numbers that is assigned to your   				devices whenever you connect to Internet via your internet service provider.   				Our web servers - the computers that serve you the web pages for viewing, automatically identify your computer by the IP address during your session online   				with us.<br><br>We may collect IP addresses for purposes of system administration, to report anonymous user information to our advertisers (as explained above), to bring more relevant and better services to you, and to   				secure the use of our site.</font><p><font size="2" face="Arial" color="#808080">We   				may use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's   				policy, or to protect our service, site, or other users.<br><br></font></p></td></tr><tr><td><b><font size="3" face="Arial" color="#FF934A">Keyword Search &amp; Browsing of Results</font></b></td></tr><tr><td><font size="2" face="Arial" color="#808080"><br>Certain advertisers   			or sponsors have paid for the right to display advertisements on search results pages corresponding to certain words. For instance, a particular manufacturer may want its advertisement to be displayed when users search for   			keywords that closely match its products. Other than this, there may also be others   			common or creative method of advertising offered to our advertisers as well.<br><br>To provide a better advertising features   			&amp; services to our advertisers, we have the right to control how the browsing &amp; search results are displayed, organized, and in any sequence deemed fit to us.   			We will also serve advertisements on the listings that you have   			submitted through us via our platform.<br><br></font></td></tr><tr><td><b><font size="3" face="Arial" color="#FF934A">Third-Party Relationships</font></b></td></tr><tr><td><p align="justify"><font color="#808080" size="2" face="Arial"><br>In order to provide you with   			the most updated news and features that match your interests, adpasar has   			established long term relationships with many of the best media and services companies in the market   			both locally and abroad. You can therefore recognize these sites by the joint branding of adpasar and such companies. For example, if you see a logo in the upper-right corner of the page that says 'Powered by   	adpasar', you will know you are on a co-branded Web page   			on our partner sites. If you ever have any questions about whether certain information, content or services pertain to us, or are "powered by" one of our partners, please contact us to verify.<br><br>Whenever you   			supply registration information on certain co-branded Web pages or for certain services provided in conjunction with third party partners,   			we strongly advise you to carefully read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these co-branded Web pages, at your own discretion.<br><br>In addition to finding co-branded Web pages, you   			may also find direct links on adpasar to the sites offered by third parties. Some of these sites are authorized to use   			our brand and/or logo. Again, you should make every effort to   			carefully read these third party privacy policies, and make an informed decision on your own as to whether or not to continue   			using their sites based upon these sites' privacy practices, at your own discretion.   			It is important to note that no third-party sites are covered by this Privacy Policy.<br><br><b>VERY IMPORTANT:</b> If you   			ever feel that a site using the adpasar brand and/or logo has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please inform us promptly. We will forward complaints to the appropriate third parties to ensure that your concerns are adequately handled. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from providing information until your concerns have been satisfactorily addressed.<br></font></p><br></td></tr><tr><td><b><font face="Arial" color="#FF934A">Log files</font></b></td></tr><tr><td><p align="justify"><br><font size="2" face="Arial" color="#808080">Like many other Web sites, adpasar makes use of log files   			to capture usage information. The information collected inside the log files includes internet protocol ( IP ) addresses,   			name &amp; type of browser, Internet Service Provider ( ISP ), date/time, referring/exit pages, and clicks   			count to analyze trends, administer the site, track movement around the site, and gather demographic   			details. IP addresses, and other such information are not linked to any information that is personally identifiable.<br><br><br></font></p></td></tr><tr><td><b><font face="Arial" color="#FF934A">Cookies &amp; Web beacons</font></b></td></tr><tr><td><p align="justify"><br><font size="2" face="Arial" color="#808080">adpasar does use   			browser cookies to collect &amp; store information about visitors preferences, record user-specific information on which pages the user access or visit, customize   			web content based on visitors browser type or other information that the visitor   			supplies via their internet browser.<br><br><br></font></p></td></tr><tr><td><b><font face="Arial" color="#FF934A">DoubleClick DART Cookie</font></b></td></tr><tr><td><p align="justify"><br>  			<font face="Arial" size="2" color="#808080">Google, as a third party vendor, uses cookies to serve ads on adpasar.<br>  			<br>  			Google's use of the DART cookie enables it to serve ads to your users based on their visit to adpasar and other sites on the Internet.<br>  			<br>  			Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </font></p><p><font face="Arial" size="2" color="#808080">Some of our advertising partners   			&amp; affiliates may use browser cookies and web beacons on our site. Our   			valued advertising partners include: <br><br>Google Adsense<br></font></p><p><font face="Arial" size="2" color="#808080">These third-party ad servers or ad networks use   			advertising technology to serve advertisements and links that appear   			or adpasar send directly to your browsers. They automatically receive your   			device IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </font></p><p><font face="Arial" size="2" color="#808080">adpasar has no access to or control over these   			browser cookies that are used by these third-party advertisers. </font></p><p><font face="Arial" size="2" color="#808080">  			We encourage you to consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices   			or advertising features. adpasar's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </font></p><p><font face="Arial" size="2" color="#808080">If you wish to disable cookies, you may do so through your individual browser options   			on your device. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  			<b>Important:</b> Disabling cookies on your browser may cause some   			or all of our services to stop working. <br><br><br></font></p></td></tr><tr><td><b><font size="3" face="Arial" color="#FF934A">Security</font></b></td></tr><tr><td><p align="justify"><br><font size="2" face="Arial" color="#808080">We operate   		a secure data networks and servers hosted in data centers that are protected by industry standard technology that includes but not limited to firewall, password protection and encrypted channel for our services. We have   		standard security measures in place to actively protect against the loss, misuse and alteration of the data under our control.<br><br>  		We have SOP (Standard Operating Procedure) that govern our daily   		operations where only authorized employees have access to the information you provide us. For example, we impose strict rules on adpasar employees who have access either to the databases that store user information or to the   		physical servers that host our services. While we cannot fully guarantee that loss, misuse or alteration to data will not occur, we   		promise to make every effort (such as the use of employee passwords and non-disclosure agreements) to prevent such unfortunate occurrences.<br><br><br></font></p></td></tr><tr><td><b><font size="3" face="Arial" color="#FF934A">Contacting Us</font></b></td></tr><tr><td><p align="justify"><font color="#808080" size="2" face="Arial"><br>If you have questions about this privacy policy or the practices of this site,   		feel free to contact our helpdesk by using our online contact form on   		the site itself.<br><br><br></font></p></td></tr></tbody></table></center></div>
 
 </td>
 </tr>
@@ -1191,16 +1145,16 @@ function bottomTransparentBarFeedback(){
 
 
 
-<div align="center" style="height:30px;margin:0px;margin-top:50px;padding:0px;"><font style="color:#555555;font-family:trebuchet,trebuchet ms;font-size:13pt;"><div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">5</div>
+<div align="center" style="height:30px;margin:0px;margin-top:50px;padding:0px;"><font style="color:#555555;font-family:trebuchet,trebuchet ms;font-size:13pt;"><div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">4</div>
+<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">7</div>
 <div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">1</div>
-<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">0</div>
-<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">5</div>
-<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">9</div>
+<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">7</div>
+<div class="shadow ui-corner-all gradient" style="display:inline-block;font-family:arial;font-size:28px;background-color:white;border:0px solid grey;width:20px;margin:0px;padding:5px;padding-top:2px;padding-bottom:0px;">3</div>
 </font></div>
 
-<div align="center" style="margin:0px;padding:0px;background-color:#444444;border-top:1px solid lightgrey;width:100%;padding:5px 0px 5px 0px;">
+<div align="center" style="margin:0px;padding:0px;background-color:#444444;border-top:1px solid #444444;width:100%;padding:5px 0px 5px 0px;">
 	<div align="center" style="margin:0px;padding:5px;width:960px; height:22px">
-	<font face="Calibri" color="#FFFFFF" style="font-size:16pt;">amazing deals in <span style="color:#FFFFFF">Singapore</span> &amp; more ...</font>
+	<font style="font-family:Aclonica;color:#FFFFFF;font-size:18pt;">amazing deals in <span style="color:#FFFFFF">Singapore</span> &amp; more ...</font>
 	</div>
 </div>
 
@@ -1239,18 +1193,18 @@ function bottomTransparentBarFeedback(){
 	<span style="font-family: calibri;font-size:13pt;">
 	<font color="#FFFFFF"><b>Quick Guide</b></font><br>
 	<br>
-	<div class="ui-corner-all" style="background-color:#E8E8E8;padding:10px;">
+	<div class="ui-corner-all" style="background-color2:#E8E8E8;padding:10px;">
 	<a href="http://adpasar.sg/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=FAQ"><font color="#808080">F A Q</font></a><br>
 	<a href="http://adpasar.sg/help"><font color="#808080">Help topics</font></a><br>
 	<a href="/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=HowToBid"><font color="#808080">How to buy</font></a><br>
 	<a href="/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=HowToSell"><font color="#808080">How to sell</font></a><br>
 	<br>
-	<a href="/online-shopping-singapore.html" title="adpasar online shopping in Singapore"><font color="#808080">Learn more</font></a>
-	</div>
-	</span>
+	<a href="/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=HowItWork"><font color="#808080">Learn more</font>
+	</a></div><a href="/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=HowItWork">
+	</a></span><a href="/cgi-bin/auction/auction.cgi?action=GetHelp&amp;Page=HowItWork">
 	
 	
-	</td>
+	</a></td>
 	
 	
 	
@@ -1258,7 +1212,7 @@ function bottomTransparentBarFeedback(){
 	
 	<span style="font-family: calibri;font-size:13pt;">
 	<font color="#FFFFFF"><b>General</b></font><br><br>
-	<div class="ui-corner-all" style="background-color:#E8E8E8;padding:10px;">
+	<div class="ui-corner-all" style="background-color2:#E8E8E8;padding:10px;">
 	<a href="http://adpasar.sg/cgi-bin/auction/auction.cgi?action=About_Us"><font color="#808080">About</font></a><br>
 	<a href="http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Copyright"><font color="#808080">Copyright</font></a><br>
 	<a href="http://adpasar.sg/cgi-bin/auction/auction.cgi?action=Privacy_Policy"><font color="#808080">Privacy</font></a><br>
@@ -1272,12 +1226,29 @@ function bottomTransparentBarFeedback(){
 	
 	<td style="padding-left:10px;;vertical-align:top;width:35%;">
 	
-	<b>
-	<font face="Calibri" color="white" style="font-size:13pt;">www.adpasar.sg</font></b>
-	<br>
-	<br>
-	<br>
+
 	
+		<div style="display:table;">
+		
+			<div style="display:table-cell;vertical-align:bottom;padding-right:15px;">
+											
+				<div style="font-family:Aclonica;font-size:13pt;color:#FFA851;letter-spacing:-1px">
+					A community to Buy &amp; Sell anything under the SUN
+				</div>
+									
+			</div>
+			
+			<div style="display:table-cell;vertical-align:middle;">
+				<img src="/auction/extra/images/sun_orange_184x184.png" style="width:35px;height:35px;">
+			</div>
+		
+		</div>	
+
+
+
+
+	<br>
+
 	
 	
 	<font color="#AAAAAA" size="2">ADPASAR<font face="Times New Roman">™</font>, CUTE4EVER<font face="Times New Roman">®</font>, graphics, logos, scripts, designs, and other service names are the trademarks and copyright of 
