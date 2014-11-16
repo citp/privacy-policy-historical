@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storyofstuff.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110106id_/http%3A//storyofstuff.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyofstuff.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116171227id_/http%3A//storyofstuff.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Story Of Stuff
+# Privacy Policy | The Story of Stuff Project
 
 The Story of Stuff Project is committed to protecting the privacy of visitors to our site, the members of our Community and donors to the Project. The Story of Stuff Project is the sole owner of the information collected on this site.
 
