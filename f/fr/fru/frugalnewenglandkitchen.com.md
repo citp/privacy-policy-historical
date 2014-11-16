@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517033511id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116041030id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frugal New England Kitchen
 
