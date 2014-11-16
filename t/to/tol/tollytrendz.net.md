@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tollytrendz.net privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517053425id_/http%3A//www.tollytrendz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollytrendz.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022549id_/http%3A//www.tollytrendz.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Tollywood Updates Telugu Movie Reviews | Telugu Movie News
+# Privacy policy -
 
 This Privacy Policy governs the manner in which tollytrendz collects, uses, maintains and discloses information collected from users (each, a “User”) of the tollytrendz.net website (“Site”). This privacy policy applies to the Site and all products and services offered by tollytrendz.
 
@@ -20,16 +20,18 @@ How we use collected information
 
 tollytrendz may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
-We may use feedback you provide to improve our products and services.  
-\- To share your information with third parties  
-We may share or sell information with third parties for marketing or other purposes.  
-\- To send periodic emails  
+  * To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site  
+We may use feedback you provide to improve our products and services.
+  * To share your information with third parties  
+We may share or sell information with third parties for marketing or other purposes.
+  * To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+
 
 How we protect your information
 
