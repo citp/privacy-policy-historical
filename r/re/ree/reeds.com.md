@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512100620id_/http%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116094222id_/http%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | REEDS Jewelers
 
-**Last updated on: April 11, 2014**
+**Last updated on: November 11, 2014**
 
 Your privacy is important to us. To best serve your shopping needs, we strive to provide products, services, and offers of value to you. We are able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. REEDS Jewelers has procedures in place to ensure that your personal information is handled in a safe, secure, and responsible manner. 
 
@@ -31,7 +31,9 @@ REEDS Jewelers, Inc. and our brands which include but are not limited to stores 
   * Is it safe to click on Links to Other Websites and Services?
   * Does REEDS Jewelers recognize “Browser Do Not Track Signals”?
   * Whom do I contact if I have additional questions or concerns about this policy?
+  * What happens to my information if REEDS is sold?
   * Will the REEDS Jewelers Privacy Policy ever change?
+  * How can I opt-out of 3rd party tracking?
 
 
 
@@ -49,6 +51,7 @@ REEDS Jewelers collects information you provide to us to serve your needs. Some 
 
   * Registering for “My Account”, Wish List or Product Review account on our website; 
   * Requesting that merchandise be sent to you or others, make purchases or returns with us, place an order with us online, via phone, mail, email or fax, or request an e-receipt; 
+  * Personal information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip), e-mail address, telephone number, etc.; 
   * Fulfilling orders you place and delivering packages; 
   * Requesting a catalog or other content and communications from us 
   * Subscribing to REEDS.com or other REEDS Jewelers owned or operated websites, email or other communications from us or managing your preferences with us; 
@@ -89,7 +92,7 @@ REEDS Jewelers may use the information collected as follows:
 
 
 
-See third-party advertising below. 
+REEDS Jewelers may supply the third party firm with just the personal information necessary for this partner to deliver an offer, product or service to you. If you would like more information about this practice and to know your choices for not having this information used by third-party service providers, please visit:[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). Or you learn how to opt-out of 3rd party tracking by going to our section: How can I opt-out of 3rd party tracking?
 
 ### What Information Does REEDS Jewelers Share with Others?
 
@@ -206,7 +209,7 @@ Websites owned or operated by REEDS Jewelers Inc., may include links to other In
 
 ###  Does REEDS Jewelers Recognize Browser Do Not Track Signals?
 
-Although our websites currently do not have a mechanism to recognize the various web browser Do Not Track signals, we do offer our customers choices to manage their preferences that are provided in the previous sections above. To learn more about browser tracking signals and Do Not Track, please visit :<http://www.allaboutdnt.org/>
+Our websites honors Do Not Track signals for the post popular web browsers; however it is possible that a web browser may make a modification, update or release which would cause this functionality to fail on our website. To learn more about browser tracking signals and Do Not Track, please visit: <http://www.allaboutdnt.org/>
 
 ### Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
 
@@ -214,6 +217,14 @@ If you have any questions or concerns about REEDS Jewelers privacy policy, pleas
 
 For more information on privacy in general, please visit the US Federal Trade Commission's site on Privacy Initiatives at <http://www.ftc.gov/privacy/index.html> or the Electronic Privacy Information Center, <http://www.epic.org/>, a public interest research center clearinghouse for privacy issues. 
 
+### What happens to my information if REEDS is sold?
+
+REEDS Jewelers is a family owned Jeweler and we are proud to have served our customers for over sixty years and it is our hope to continue to serve our customers for generations to come. However in the event that REEDS Jewelers is sold in part or in whole any customer information owned by Reeds Jewelers may be transferred with the transfer of ownership. 
+
 ### Will the REEDS Jewelers Privacy Policy Ever Change?
 
 Yes. This policy may be modified from time to time. You are encouraged to review this policy on a monthly basis. 
+
+### How can I Opt-out of 3rd party tracking??
+
+REEDS Jewelers respects our visitors desire for privacy and we understand that some visitors may not wish to have their information shared with 3rd parties, for these customers we offer the option to Opt-out of 3rd party tracking, you can Opt-out of 3rd party tracking by “check the box” below named “Opt-out of 3rd party tracking”. To learn more about 3rd party tracking you can read the section entitled:Third-Party Advertising Partners.California residents who wish to learn more about their rights concerning 3rd party tracking should read the “Shine the Light” law (CA Civil Code 1798.8). 
