@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infomash.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071032id_/http%3A//infomash.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomash.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117151718id_/http%3A//infomash.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Infomash
 
