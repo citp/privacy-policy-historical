@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074052id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117083631id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Photodoto
+# Privacy Policy - PhotodotoPhotodoto
 
-This Privacy Policy governs the manner in which Photodoto collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://photodoto.com](http://photodoto.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Photodoto.
+This Privacy Policy governs the manner in which Photodoto collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://photodoto.com](http://photodoto.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Photodoto.
 
 **Personal identification information**
 
@@ -14,15 +14,15 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **DoubleClick DART Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on http://photodoto.com.  
-Google's use of the DART cookie enables it to serve ads to users based on their visit to http://photodoto.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://photodoto.com and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Commission Junction  
 Clickbank  
@@ -32,9 +32,9 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 http://photodoto.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://photodoto.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://photodoto.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
 **How we use collected information**
 
@@ -59,7 +59,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
@@ -67,7 +67,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
