@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223727id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117130503id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.appbackr.com
 
-Effective on August 15, 2010 
+Effective on August 16, 2010 
 
 This privacy statement describes how appbackr inc. collects and uses the personal information you provide on our Web site: [www.appbackr.com ](https://www.appbackr.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
