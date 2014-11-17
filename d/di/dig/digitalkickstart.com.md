@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102357id_/http%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117042831id_/http%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalKickstart™
 
@@ -109,5 +109,5 @@ Attn: Privacy Policy Officer
 Raleigh, NC, 27616  
 Email:  compliance.officer-at-digitalkickstart.com  
 Telephone: 919-339-1667  
-–  
+—  
 Material Modifications Since November 22nd, 2013:  none.
