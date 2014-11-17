@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072215id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117020912id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
 
 # Channel Pages Privacy Policy
 
@@ -26,7 +26,7 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide may be used to send you information and updates pertaining to your use of Channel Pages, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, please contact us to request removal.. 
+Note: If at any time you would like to unsubscribe from receiving future emails, please contact us to request removal. 
 
 ### How do we protect your information?
 
@@ -40,7 +40,7 @@ We use cookies to understand and save your preferences for future visits, keep t
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless you trigger such action (such as sending a message to another part through Channel Pages). Personally identifiable information does not include your YouTube channel name or various social network identities. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless you trigger such action (such as sending a message to another party through Channel Pages). Personally identifiable information does not include your YouTube channel name or various social network identities. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses. 
 
 ### Third party links
 
