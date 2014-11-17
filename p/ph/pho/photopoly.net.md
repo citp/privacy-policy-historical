@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photopoly.net privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515074427id_/http%3A//www.photopoly.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopoly.net privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117224308id_/http%3A//www.photopoly.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - photopoly
+# Privacy policy | photopoly
 
 Your privacy is critically important to us. At Photopoly we have a few fundamental principles:
 
