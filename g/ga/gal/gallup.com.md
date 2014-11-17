@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040729id_/http%3A//www.gallup.com/shared/922/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117091014id_/http%3A//www.gallup.com/shared/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
