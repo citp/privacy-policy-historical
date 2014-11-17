@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511045655id_/http%3A//www.massmutual.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117075135id_/http%3A//www.massmutual.com/legal) for the most accurate reproduction.*
 
 # Privacy & Legal/Notice
 
-**_UPDATED AS OF: December 20, 2013_**
+**_UPDATED AS OF: October 30, 2014_**
 
   
 
@@ -30,7 +30,7 @@ _Device Identifier._ We automatically collect your IP address or other unique id
 
 _Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation, to perform analytics, and personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server.
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, or prevent tracking activities, please refer to your browser’s tools or help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, or prevent tracking activities, please refer to your browser’s tools or help menu or other instructions related to your browser. Because an industry-standard Do-Not-Track protocol has not yet been established, our information collection practices on our Platforms will continue to operate as described in this online privacy notice regardless of any “Do Not Track” signals that may be sent by certain browsers. However, you may refuse to accept cookies in order to prevent tracking activities. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
 **2\. HOW WE USE THE INFORMATION WE COLLECT**
 
