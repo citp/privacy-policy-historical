@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221132918id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117122841id_/http%3A//www.quantumjumping.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
