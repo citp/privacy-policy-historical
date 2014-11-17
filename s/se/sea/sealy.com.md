@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062055id_/http%3A//www.sealy.com/privacy-and-regulations.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117094459id_/http%3A//www.sealy.com/privacy-and-regulations.html) for the most accurate reproduction.*
 
 # Privacy Regulations | Our Company | Sealy
 
@@ -36,9 +36,11 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 
 As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Sealy, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
+Tempur Sealy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tempur Sealy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tempur Sealy's certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+
 ### Protection of Sealy, Inc., and Others
 
-We release personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms of Use](http://sealy.com/terms-and-conditions.html) and other agreements; or protect the rights, property, or safety of Sealy, Inc., our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We release personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms of Use](http://www.sealy.com/terms-and-conditions.html) and other agreements; or protect the rights, property, or safety of Sealy, Inc., our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 ### With Your Consent
 
@@ -50,11 +52,11 @@ As discussed above, you can always choose not to provide information.
 
 ### Terms of Use, Policies, and Revisions
 
-If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](http://sealy.com/terms-and-conditions.html), including limitations on damages, arbitration of disputes and application of the law of the state of North Carolina. This Policy and the [Terms of Use](http://sealy.com/terms-and-conditions.html) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](http://www.sealy.com/terms-and-conditions.html), including limitations on damages, arbitration of disputes and application of the law of the state of North Carolina. This Policy and the [Terms of Use](http://www.sealy.com/terms-and-conditions.html) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
 ### Related Practices and Information
 
-[Terms of Use](http://sealy.com/terms-and-conditions.html)
+[Terms of Use](http://www.sealy.com/terms-and-conditions.html)
 
 ### Information You Give Us
 
