@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517053626id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117224933id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
 
-## Privacy Policy
+## Privacy Policy - current as at 1 July 2014
 
 We are bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) (Privacy Act). We are also bound by Division 3 of Part IIIA of the Privacy Act, which regulates the handling of credit information, credit eligibility information and related information by credit providers.
 
@@ -56,7 +56,7 @@ Some information is created through our internal processes, like credit eligibil
 
 **3\. Use**
 
-We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may include:
+We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may vary depending on which products and services you have applied for and which member of the Beyond Bank Group of companies you are dealing with. This may include:
 
   * assessing and processing your application for the products and services we offer
   * executing your instructions
@@ -111,7 +111,7 @@ Organisations we may disclose your personal information to include:
   * credit reporting bodies, including disclosing that you are in default under a credit agreement or commit a serious credit infringement, if that is the case
   * lenders' mortgage insurers, where relevant to credit we have provided
   * debt collecting agencies, if you have not repaid a loan as required
-  * state or territory authorities that give assistance to facilitate the provision of home loans to individuals
+  * state or territory authorities, or PEXA (the national electronic property exchange), that give assistance to facilitate the provision of home loans to individuals
   * certain entities that have bought or otherwise obtained an interest in your credit product, or that are considering doing so, and their professional advisors
   * if required or authorised by law, to government and regulatory authorities (e.g. the Australian Taxation Office; disclosure to the Courts under subpoena; and disclosure to our auditors, and regulators such as APRA, ASIC and AUSTRAC),
   * if in the public interest to do so (e.g. if a crime, fraud, or misdeed is committed or is suspected, disclosure to a law enforcement body may be justified);
@@ -124,7 +124,11 @@ However, we will not sell any of your personal information to any other organisa
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information. 
 
+Disclosure outside of Australia:
+
 We may disclose your personal information overseas where you choose to make an international transfer. The countries we may disclose your personal information to are those to which you make a transfer. However, if we do disclose this information outside Australia, we will do so on the basis that the information will be used only for the purposes set out in this Privacy Policy.
+
+From time to time we may use service providers or other third parties who operate or hold data oustide of Australia, which may result in your personal information being stored overseas. These parties are selected specifically to assist in enabling us to provide products or services to you, in particular information technology solutions. At present our arrangements include providers based in the United States of America. Where this occurs we will ensure that appropriate data handling and security arrangements are in place to protect your data.
 
 **5\. Sensitive information**
 
@@ -218,6 +222,8 @@ When you click on a Beyond Bank Australia advertisement, that appears on another
 In addition, we also use the following companies to collect information on how you use our website:
 
   * Google analytics and Google Tag Manager– ('tracking companies').
+  * Crazy Egg
+  * Optimizely
 
 
 
@@ -225,12 +231,18 @@ These tracking companies also use cookies to collect information similar to that
 
 The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. We use those analyses to measure advertising effectiveness and relative consumer interest in the various areas of our website. As a general rule, no personal information is collected by the companies in this process. If, however, any information is automatically collected, these companies are required under their arrangements with us to maintain the privacy and confidentiality of that personal information.
 
+We utilise Crazy Egg software to create heat maps of our website pages. Heat maps are an aggregation of the data as to which parts of our website people view and what links they click on. This information can be used to optimise the information we provide via our website and how we link pages, with the aim of creating a better experience for visitors. The software does not collect personal information about you but does create a cookie that allows the software to detect if you are a first time or return visitor. Crazy Egg provides their own Privacy Policy which can be viewed at <https://www.crazyegg.com/privacy>. If you do not wish for your access to our website to be recorded you can opt out. Information on how to opt out is available by visiting <https://www.crazyegg.com/opt-out>
+
+We use Optimizely to test changes to the design or format of website pages. It allows us to constantly test and improve our website based on visitor responses. The software does not collect personal information but uses a unique identifier assigned by the Beyond Bank cookie.  
+
 We may disclose the information collected by a company, in an aggregate form only, to third parties including advertisers or potential advertisers.
 
 You can access the Privacy Statements from the Companies here:
 
   * Google analytics (<http://www.google.com/analytics/> )
   * Tag Manager ( <http://www.google.com/tagmanager/>)
+  * Crazy Egg (<https://www.crazyegg.com/privacy>)
+  * Optimizely (<https://www.optimizely.com/privacy>)
 
 
 
@@ -282,7 +294,7 @@ GPO Box 1430 Adelaide SA 5001
 In the first instance all privacy queries or complaints are handled by our Customer Advocate Officer  
 Address: GPO Box 1430, Adelaide SA 5001  
 Telephone: 13 25 85  
-Email: contactus@beyondbank.com.au
+Email: [contactus@beyondbank.com.au](mailto:contactus@beyondbank.com.au)
 
 **15\. Disclaimer**
 
