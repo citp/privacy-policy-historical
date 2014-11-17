@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techsideline.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507092917id_/http%3A//virginiatech.sportswar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsideline.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117074317id_/http%3A//virginiatech.sportswar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TechSideline.com
 
 TechSideline.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers TechSideline.com’s treatment of personal information that TechSideline.com gathers when you are on the TechSideline.com website and when you use TechSideline.com services. This policy does not apply to the practices of third parties that TechSideline.com does not own or control, or to individuals that TechSideline.com does not employ or manage.
 
- **Information Collected by TechSideline.com**
+**Information Collected by TechSideline.com**
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our TechSideline.com users:
 
@@ -18,11 +18,13 @@ We only collect personal information that is relevant to the purpose of our webs
 
 
 
- **E-mail Communications**
+**E-mail Communications**
 
-TechSideline.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. TechSideline.com may send out e-mails with TechSideline.com-related news, products, offers, surveys or promotions.
+TechSideline.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below.
 
- **Cookies**
+TechSideline.com may send out e-mails with TechSideline.com-related news, products, offers, surveys or promotions. To opt out of these emails, make sure you’re logged into the site, click the “Account” link in the header, and uncheck the appropriate box in the “Newsletter Subscriptions” area.
+
+**Cookies**
 
   * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. TechSideline.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
   * The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of TechSideline.com’s coolest features.
@@ -30,7 +32,7 @@ TechSideline.com is very concerned about your privacy and we will never provide 
 
 
 
- **Sharing Your Information**
+**Sharing Your Information**
 
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
@@ -42,22 +44,22 @@ Rest assured that we neither rent nor sell your personal information to anyone a
 
 
 
- **Advertising**
+**Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
- **Children Under 18 Years of Age**
+**Children Under 18 Years of Age**
 
 You must be 13 years and older to register to use the TechSideline.com website. As a result, TechSideline.com does not specifically collect information about children. If we learn that TechSideline.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using TechSideline.com or sending information about themselves or anyone else over the Internet.
 
- **Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
 TechSideline.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the TechSideline.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
- **Conditions of Use**
+**Conditions of Use**
 
 If you decide to visit TechSideline.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
- **Effective Date of this Privacy Policy**
+**Effective Date of this Privacy Policy**
 
 This Privacy Policy is effective as of March 1, 2011.
