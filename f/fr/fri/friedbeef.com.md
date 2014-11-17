@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friedbeef.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519002330id_/http%3A//www.friedbeef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friedbeef.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117030006id_/http%3A//www.friedbeef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Friedbeef’s Tech
 
