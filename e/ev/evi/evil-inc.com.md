@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evil-inc.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033857id_/http%3A//evil-inc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evil-inc.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117020920id_/http%3A//evil-inc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Evil Inc
+# Privacy Policy - Evil Inc
 
 We do not sell or share any personal information with other companies or any third parties. Below, we would like to detail what information we use, and how we use it.
 
