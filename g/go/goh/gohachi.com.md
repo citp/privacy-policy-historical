@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327022956id_/http%3A//gohachi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117055614id_/http%3A//www.gohachi.com/privacy) for the most accurate reproduction.*
 
-# "HACHI | privacy"
+# HACHI | privacy
 
 Your privacy is a serious matter and we want you to feel comfortable using [www.gohachi.com](https://web.archive.org/) ("Hachi"), a website owned by Hachi Labs, Inc., or its successors or assigns ("we" or "our" or "us"). Please read this privacy policy (the "Privacy Policy") to learn more about how we access, use, store and treat your personally-identifiable information in conjunction with the Hachi service. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. 
 
