@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518235419id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117014847id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
 
 # 
 
@@ -29,4 +29,4 @@ We do not share any personal data with any 3rd part organisation or institution,
 
 
 External websites   
-This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have linked to external sites, a different privacy policiy may apply.
+This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have linked to external sites, a different privacy policy may apply.
