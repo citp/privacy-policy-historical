@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stackla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082956id_/http%3A//stackla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackla.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071601id_/http%3A//stackla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stackla - social media aggregatorStackla – social media aggregator
+# Privacy Policy | Stackla
 
 PLEASE READ THE FOLLOWING TERMS AND POLICIES CAREFULLY. WHEN YOU USE STACKLA, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE POLICIES, TERMS, AND CONDITIONS SET FORTH HEREIN.
 
