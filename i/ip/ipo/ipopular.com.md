@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipopular.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226135246id_/http%3A//www.ipopular.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipopular.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117040706id_/http%3A//www.ipopular.com/privacy) for the most accurate reproduction.*
 
 # iPopular :: It's the I that makes you popular.
 
