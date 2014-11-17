@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the bit-invest.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117053544id_/http%3A//www.bit-invest.com/privacy.php%3Fref%3D%3B) for the most accurate reproduction.*
+
+# Bit-Invest.com | Ultimate Investment Solutions
+
+#### Our Privacy Policy
+
+You agree that all information, communications, materials coming from **BITInvest** are unsolicited and must be kept private, confidential and protected from any disclosure. Moreover, the information, communications and materials contained herein are not to be regarded as an offer, or a solicitation for investments in any jurisdiction which deems non-public offers or solicitations unlawful, nor to any person to whom it will be unlawful to make such offer or solicitation. 
+
+Like most commercial website owners, we may also use what is known as "cookie" technology. A "cookie" is an element of data that a website can send to your browser when you link to that website. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the website is able to recognize repeat users, track usage patterns and better serve you when you return to that site. For example, a cookie can be used to store your preferences for certain kinds of information or to store a password so that you do not have to input it every time you visit our Site. The cookie does not extract other personal information about you, such as your name and address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a website is about to deposit a cookie file. In addition, we may use cookies and/or devices called "web beacons" provided by our ad serving technology vendor to help manage our online advertising. The information collected via this ad serving technology is not personally identifiable. 
+
+All the data giving by a member to **BITInvest** will be only privately used and not disclosed to any third parties. **BITInvest** is not responsible or liable for any loss of data. 
