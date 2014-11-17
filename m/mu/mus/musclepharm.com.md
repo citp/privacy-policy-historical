@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclepharm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115926id_/http%3A//musclepharm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclepharm.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071517id_/http%3A//www.musclepharm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MusclePharm®
 
