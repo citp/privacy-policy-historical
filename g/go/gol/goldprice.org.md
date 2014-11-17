@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldprice.org privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228075030id_/http%3A//www.goldprice.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldprice.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117091602id_/http%3A//goldprice.org/privacy-policy.html) for the most accurate reproduction.*
 
 # GOLDPRICE.ORG Privacy Policy
 
