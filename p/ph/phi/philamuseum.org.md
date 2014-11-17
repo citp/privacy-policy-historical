@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141738id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117174808id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policies
 
@@ -36,7 +36,12 @@ You may set your browser to refuse cookies. If you so choose, you may still gain
 
 If you use the My Museum's "Share My Gallery" feature , your friend's email address will not be retained on our Website or used in any way by the Museum. 
 
-In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. Users may opt out of Google’s use of cookies by visiting the [Google advertising Privacy and Terms](http://www.google.com/policies/technologies/ads/) page. 
+In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. 
+
+  * Google’s tracking [Google advertising Privacy and Terms](http://www.google.com/policies/technologies/ads/).
+  * OwnerIQ tracking [OwnerIQ Privacy and Terms](http://owneriq.com/privacy-policy).
+
+
 
 **Sending Us Personal Information**  
 If you send us personal information—by submitting an e-mail, completing an online form or survey, requesting materials or information, ordering merchandise or Museum tickets, making a donation or signing up for membership—we will use this information to respond to your inquiry or request. We may also use it to contact you to provide information about other Museum activities, programs, membership and fundraising opportunities, products and special events that may interest you. You may opt-out of having your information used by the Museum for these purposes, or you may update your contact information anytime, by contacting us via the following e-mail or postal mail addresses: 
