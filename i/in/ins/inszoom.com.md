@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inszoom.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519114458id_/http%3A//www.inszoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inszoom.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117220804id_/http%3A//www.inszoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | inszoom
 
@@ -47,21 +47,11 @@ We reserve the right to disclose your personally identifiable information as req
 **North America**  
 (Headquarters)  
 INSZoom.com Inc.  
-6111 Bollinger Canyon Road, Suite 555  
+2603 Camino Ramon, Suite 375  
 San Ramon, California 94583
 
 T : 925 244 0600  
 F : 925 244 1012
-
-**Europe**  
-INSZoom.com, Inc.  
-Devlin House  
-36 Saint George St.,Mayfair  
-London W1S 2FW  
-United Kingdom
-
-T : 44 203 002 7816  
-F : 44 203 004 1619 
 
 **Asia**  
 (Technology and Development Center)  
