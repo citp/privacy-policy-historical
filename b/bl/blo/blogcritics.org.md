@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcritics.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050848id_/http%3A//blogcritics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcritics.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117151813id_/http%3A//blogcritics.org/privacy-policy) for the most accurate reproduction.*
 
 # Blogcritics Privacy Policy | Blogcritics
 
@@ -105,3 +105,5 @@ This Privacy Statement is a living document. We will modify this document as we 
 **Contact Us**
 
 If you have any questions or suggestions regarding our privacy policy please contact us at blogcritics1@gmail.com.
+
+[Powered by Sidelines](http://sidelinesapp.com/)
