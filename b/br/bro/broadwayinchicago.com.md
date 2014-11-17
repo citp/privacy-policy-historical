@@ -1,100 +1,74 @@
-> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117074951id_/http%3A//broadwayinchicago.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy - Broadway in Chicago
+# Privacy Notice | Broadway in Chicago
 
-[](http://www.broadwayinchicago.com/)  
-  
-|    
-[](http://www.broadwayinchicago.com/bestseats)
+Thank you for visiting broadwayinchicago.com. Broadway In Chicago (“We”, “Us”, or “Our”) respects the privacy of Our customers and the users of Our website. We want to provide you with explicit information on how We collect, use, share and retain information whenever you purchase tickets to Broadway In Chicago Shows, telephone or fax Us inquiries, become a member in the Broadway In Chicago Club, sign up to receive email notifications from or about Us, visit and provide information in a public forum, or visit Our website. By visiting broadwayinchicago.com, you are accepting the practices described in this Privacy Policy.
 
-[](http://www.broadwayinchicago.com/seasontickets.php)
+We may change this Privacy Policy. We will notify you of any material changes to this Privacy Policy by emailing you at the last email address you provided us or by posting a notice on Our website at broadwayinchicago.com for a reasonable period of time after such changes are made that this Privacy Policy has been updated. We will also change the “Last Modified” date at the top of this Privacy Policy. Where required by applicable law, We will obtain your consent. You should periodically review this Privacy Policy. Use of broadwayinchicago.com by you following such notification and/or consent constitutes your acceptance of the Privacy Policy as modified.
 
-[](http://www.broadwayinchicago.com/specialevents.php)
+The Information We Collect.  
+We collect information about Our customers and users of Our websites in various ways, such as your voluntary submissions, including when you purchase tickets through Us or Our business partner Ticketmaster, by registration of your information to create a membership account or receive information from Us, by visiting Our social networking sites, and through cookies and other tracking technologies. When you purchase tickets through Ticketmaster, you can opt-out of the sharing of this information.
 
-[](http://www.broadwayinchicago.com/specialoffers.php)
+We do have an email sign-up on our website, but the information provided is maintained on the Ticketmaster website ([Email Newsletter Signup](http://broadwayinchicago.com/email-newsletter/ "Email Newsletter Signup")) and is covered by Ticketmaster’s Privacy Policy and Terms of Use. To stop receiving promotional emails, follow the instructions in any promotional message you receive from us. Requests will be processed within 10 business days.
 
-[](http://www.broadwayinchicago.com/social.php)
+We do have an mobile sign-up on our website, but the information provided is maintained on the MobileStorm website ([Mobile Alerts](http://broadwayinchicago.com/tickets/mobile-alerts/ "Mobile Alerts")) and is covered by MobileStorm’s Privacy Policy and Terms of Use.
 
-|  |   
----  
-  
-**Broadway In Chicago Privacy Notice  
-**
+We also collect information from Our business partners and Nederlander, Our parent company. We may also provide information to Nederlander. If We do collect your information from Our business partners or through other sweepstakes and/or contests, We only do so after you have opted-in to receive additional information from Us. We do not purchase information about You.
 
-  
-Thank you for visiting broadwayinchicago.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used at this website, or through ticket sales to Broadway In Chicago Shows, telephone or fax inquiries, or your membership in the Broadway In Chicago Club. 
+We may combine the information We receive from Our business partners with information that We have obtained about you. The type of information We collect is described in more detail below.
 
-  
-**Information Collection  
-**When you visit our website or purchase tickets to Broadway In Chicago Shows, inquire about information by telephone or fax or become a member of the Broadway In Chicago Club, we may request that you provide us with certain personally identifiable information, such as name, address, e-mail address, telephone and fax number and credit card information (for purchases). 
+• Personally Identifiable Information  
+When you visit Our website, purchase tickets to Broadway In Chicago Shows, inquire about information by telephone or fax, become a member of the Broadway In Chicago Club, or request information about or from Us, We and/or Our business partners may request that you provide certain personally identifiable information, which refers to information that tells Us specifically who you are. This information may include your name, phone and fax number, email address, postal address or credit card information (for purchases), and possibly information relating to certain support or customer service issues. We may also collect and keep information regarding your preferred seat locations, show preferences and specific needs.
 
-At Broadway In Chicago, you also can submit information about other people.  For example, if you order a gift online or by mail, fax or telephone and want it sent directly to the recipient, you will be asked to submit the recipient's name and address.  The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+• Non-Personally Identifiable Information  
+We may also collect certain non-personally identifiable information when you visit many of Our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g. Windows 2000 or Mac OS) and the domain name of your internet service provider (e.g., America Online, Earthlink).
 
-In addition, we may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+• Aggregate Information  
+We also collect general, non-personal, statistical information about the use of Our websites such as how many visitors visit specific pages, how long they stay on that page, and which hyperlinks, if any, they click on. This information represents a generic overview of Our users’ collective viewing habits and allows Us to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. We collect this information through the use of online tracking technologies including but not limited to “pixels” and “cookies”. Cookies are small text files a website uses to recognize repeat users, facilitate the user’s ongoing access to the website and facilitate the use of the website. Cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. If you wish to disable these cookies, the “help” portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of Our website.
 
-  
-**Use of Information  
-**We use the information you provide about yourself and others to fulfill requests for, and to offer, our products, programs, and services (e.g., Broadway in Chicago Club membership, our e-Bulletin sign-up, or information on special events), to send them your gifts or other products, and to respond to inquiries about our offerings (e.g., questions about tickets and shows).  We also use this information to communicate with you and others, such as to notify winners of our contests or drawings, or to contact you about your account with us.  We may also share this information with our partners, sponsors and affiliates, including Nederlander Producing Organization and other related theatre organizations. 
+• Tracking Data  
+We also work with third-party service providers that also collect data on Our behalf. Those service providers utilize a retargeting pixel or similar technology, which is placed on Our website. The retargeting pixel fires whenever you visit Our site, and drops a cookie on your browser. This allows Our service providers to anonymously associate the browser to a random ID number in Our service providers’ databases, and ultimately serve Broadway In Chicago advertisements to you while you browse the rest of the web. Our service providers are able to access the ad inventory on the rest of the web via their integrations and partnerships with ad exchanges and networks. Our contract with our service providers does not allow the service provider to share first-party data with third-parties. If you are concerned about behaviorally targeted advertising cookies, you can visit this page to opt out.
 
-We may also use the information we collect to enable you and others to receive information from us and unrelated third parties about other products, programs, or services that we believe may be of interest. 
+• Public Forums  
+We may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums. The forums may not have a restricted audience. If you provide personal information when you visit these forums, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party.
 
-We may, on occasion, supplement information we receive online with information from other sources to assist us in evaluating and improving our website and online products, programs, and services, to determine your preferences so that we can tailor our website, products, programs and services. 
+How We Use This Information.  
+We, and our business partner Ticketmaster, use the information you provide about yourself to confirm and process sales transactions, to contact you with questions or communications about your order, to contact you with changes to performance times or performance cancellations, to offer and promote Our products, programs, and services (e.g., Broadway In Chicago Club membership, Our e-mail sign-up, and information on special events), and to respond to inquiries about Our offerings (e.g., questions about tickets and shows). We also use this information to communicate with you and others, such as to notify winners of Our contests or drawings, or to contact you about your account with us.
 
-We may use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+We may also use the information We collect through service providers, including tracking data, to enable you to receive information about Our products, programs, or services that We believe may be of interest to you. While We may provide your information to a service provider so that you can receive this information, We do not share your personal information with these service providers.
 
-  
-**Disclosures to Third Parties  
-**Agents and contractors to whom we provide access to personally identifiable information are required to protect this information in a manner that is consistent with this privacy notice by, for example, not using the information for any purpose other than to carry out the services they are performing for us. 
+We may also use the non-personally identifiable information that We collect to allow certain service providers to analyze and provide us and Our affiliate theaters with statistical information about Our customers, including their geographical locations. Our service provider does not sell or share this information with any third-parties.
 
-We may disclose specific contact information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of Broadway In Chicago or its affiliates or other visitors to our website or users of sources of entertainment provided by Broadway In Chicago.  Also, your contact information may be passed on to a third party in the event of a transfer of ownership or assets, merger, or a bankruptcy, of Broadway In Chicago.
+How We Share This Information.  
+Except as otherwise described in this policy, We do not sell, rent or trade with third parties any personal information you provide us. We may share your personal information with third parties if one of the following conditions is true:
 
-  
-**Collection of Information by Third Parties and Sponsors  
-**Our site contains links to other sites (e.g., ticket vendor sites) whose information practices may be different than ours.  Visitors should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
+You allow Us to share your personal information;  
+The disclosure is permitted and/or required by relevant law or is necessary to cooperate with law enforcement.  
+The disclosures is necessary to protect the interests or safety of Broadway In Chicago or its affiliates, or other visitors to Our website, or users of sources of entertainment provided by Broadway In Chicago;  
+The disclosure is reasonably related to the sale or other disposition of all or part of Our business or assets;  
+The information to be disclosed is publicly available;  
+The party to whom the disclosure is made controls, is controlled by, or is under common control with Us;  
+The disclosure is reasonably necessary for the establishment or maintenance of legal claims;  
+The disclosure is to persons or entities who provide and perform services for Us, provided the disclosure is consistent with the purpose for which the personal information was obtained; or  
+The disclosure is necessary for fraud prevention, detection, and mitigation purposes.
 
-We sometimes may provide content that is sponsored by or co-branded with identified third parties.  By virtue of these relationships, the third parties may obtain personally identifiable information that visitors submit to us or directly to such third parties to participate in the website activity.  We have no control over these third parties’ use of this information.  Such third parties may include, for example, automobile manufacturers, banks, theatrical producers, or other parties whose names appear in connection with the theatres.  If you want to lean more about a third party’s privacy policy, or you do not want to receive communications from a particular third party, or you have other questions, instructions or concerns to which you would like a third party to respond, then you must contact that third party directly.
+Your Choices.  
+As set forth in more detail above, We may use information We obtain about you to enhance Our ability to market to you products or services that may be of interest of you. If you prefer not to receive marketing information from Us, click [here](mailto:privacynotice@broadwayinchicago.com) to unsubscribe or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.
 
-  
-**Your Choices  
-**We may, on occasion, combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.  If you prefer not to receive marketing information from this site, click here to unsubscribe or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602. 
+As set forth above, We may share your information with service providers for various reasons, including serving you advertisements, on Our behalf across the internet. If you would like to request that We not share your information for these purposes, please e-mail privacynotice@broadwayinchicago.com or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.
 
-We may share personally identifiable information with companies whose practices are not covered by this privacy notice (e.g., other marketers, retailers, and non-profit organizations, such as, for example, automobile manufacturers, banks and theatrical producers) that want to market products or services to you.  If you would like to request that we not share your information for these purposes, or to opt-out of third-party sharing, please e mail [privacynotice@broadwayinchicago.com](mailto:privacynotice@broadwayinchicago.com) or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.
+Children’s privacy.  
+We do not intend Our websites to be used by individuals under the age of 18 without the supervision of a parent or guardian 18 years of age or older. We rely upon parents or guardians 18 years of age or older to determine if Our websites are appropriate for the viewing, access, or participation by such individuals under the age of 18. If an individual under the age of 18 uses Our websites, such individual may do so only under the supervision of a parent or guardian 18 years of age or older.
 
-  
-**Cookies  
-**Like most websites, our website uses cookies to help it keep track of your purchases and other activity and enhance your experience with our website.  We also use cookies to deliver content specific to your interests and to facilitate the retrieval of conformation so you do not have to re-enter it each time you visit our website.  On our website, others may place or read cookies on your browser as well.  If you wish to disable these cookies, the “help” portion of the toolbar on most browsers will tell you how.  However, if you set your browser to disable cookies, you may not be able to access certain areas or features of our website.
+We do not seek or knowingly collect personally identifiable information about children under 13 years of age. If We become aware that We have unknowingly collected information from a child under the age of 13, We will make commercially reasonable efforts to delete such information from Our database.
 
-  
-**Security  
-**We have put in place appropriate safeguards to help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+Other Websites.  
+Our websites may contain links to other sites operated by third parties. We do not control such other sites and are not responsible for their content or for their privacy policies. Our inclusion of such links does not imply any endorsement of the material on such sites or of their owners or operators except as specifically disclosed by us. Any information submitted by you directly to these third parties is subject to that third party’s privacy policy.
 
-  
-**Changes in Our Privacy Practices  
-**If we decide to substantially change this Privacy Policy, the changes will be posted on this site so that you are aware of the information we collect, how we use it and under what circumstances we disclose it.  Please check this page regularly to keep up-to-date. 
+Notice to California Residents.  
+California Civil Code Section 1798.83 permits California residents to request information regarding the disclosure of their personal information to third parties for third parties’ direct marketing purposes. If you are a California resident and you want to make a request, please contact privacynotice@broadwayinchicago.com or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.
 
-  
-**Contact Us  
-**If you have any questions or concerns about our privacy notice or its implementation, you may contact us at [privacynotice@broadwayinchicago.com](mailto:privacynotice@broadwayinchicago.com), or write to us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.  
-  
-  
-| 
+How To Contact Us  
+All requests, questions or concerns about your personal information or this Privacy Policy, please contact Our Privacy Policy Officer by mail or email at the following:
 
-[Employment](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/employment.php)
-
-| 
-
-[Technical](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/technical.php)
-
-| 
-
-[Privacy Notice](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/privacy.php)
-
-| 
-
-[Site Map](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/sitemap.php)
-
-| 
-
-[Contact Us](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/theatreinfo_contact.php)  
-  
----|---|---|---|---
+privacynotice@broadwayinchicago.com or write to Us at 17 N. State Street, Suite 810, Chicago, Illinois 60602.
