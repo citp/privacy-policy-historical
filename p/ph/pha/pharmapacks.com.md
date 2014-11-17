@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627021652id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117154345id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
