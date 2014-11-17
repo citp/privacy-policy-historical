@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjoyonline.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602112158id_/http%3A//www.myjoyonline.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjoyonline.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117014407id_/http%3A//myjoyonline.com/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Myjoyonline.com | Joy 99.7 FM
 
