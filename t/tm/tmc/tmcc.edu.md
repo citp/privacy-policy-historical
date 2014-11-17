@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055900id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117041910id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
@@ -6,7 +6,7 @@ Truckee Meadows Community College policy respects the privacy of all website vis
 
 #### TMCC Privacy Notice
 
-In accordance with institutional policy and the U.S. Family Education Rights and Privacy Act of 1974 (FERPA), Truckee Meadows Community College vigorously protects the privacy of student education records. The institution does not release private records of individual students, such as grades and class schedules, without prior written consent of the student.
+In accordance with institutional policy and the [U.S. Family Education Rights and Privacy Act of 1974 (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html), Truckee Meadows Community College vigorously protects the privacy of student education records. The institution does not release private records of individual students, such as grades and class schedules, without prior written consent of the student.
 
 As permitted under federal law, the sole exception to the above practice is the release of "directory" information considered to be public in nature and not generally deemed to be an invasion of privacy. At Truckee Meadows Community College, the following categories are defined as "directory" information: student name, address, telephone number, semesters of enrollment, full-time/part-time status, degree(s) awarded, emphasis field(s) and date(s) of graduation.
 
