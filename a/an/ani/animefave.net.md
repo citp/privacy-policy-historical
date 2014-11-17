@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animefave.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621202241id_/http%3A//www.animefave.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animefave.net privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117151104id_/http%3A//www.animefave.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anime Fave
+# Privacy Policy |
 
 ## Introduction
 
