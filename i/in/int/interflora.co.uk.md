@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310230619id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071652id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
@@ -9,7 +9,7 @@ Security & Privacy \- Privacy Policy
 
 The website at www.interflora.co.uk (the " **Website** ") is owned by Interflora British Unit (" **we/us** "). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website is Interflora British Unit. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you. 
 
-This policy (together with our [Terms and Conditions](https://web.archive.org/page.xml?page_name=help_terms) and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following policy carefully to understand our views and practices regarding your personal information and how we will treat it, including what type of information is collected and tracked on the Website, how the information is used, and with whom the information is shared. 
+This policy (together with our [Terms and Conditions](https://web.archive.org/content/help-terms-and-conditions/) and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following policy carefully to understand our views and practices regarding your personal information and how we will treat it, including what type of information is collected and tracked on the Website, how the information is used, and with whom the information is shared. 
 
 The Information we Collect 
 
@@ -41,7 +41,7 @@ The personal information you provide on the Website will be used, amongst other 
 In addition to circumstances set out elsewhere in this privacy policy, we may also disclose the personal information provided by you or collected from you to any member of our group of companies. We will only share relevant information with these parties. All such providers are obliged to respect the confidentiality of this personal information. We may also disclose this personal information to third parties: 
 
   * If Interflora British Unit or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
-  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/page.xml?page_name=help_terms) and other agreements; or to protect the rights, property, or safety of Interflora British Unit, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/content/help-terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Interflora British Unit, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and
   * For marketing purposes, as described in more detail under "Direct Marketing" below. 
 
 
