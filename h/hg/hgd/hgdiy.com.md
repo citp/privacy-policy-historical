@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hgdiy.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519025432id_/http%3A//hgdiy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgdiy.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117145005id_/http%3A//hgdiy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home & Garden Do It Yourself
 
