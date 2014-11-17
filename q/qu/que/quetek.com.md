@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071758id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117094724id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,8 +16,8 @@ E-mail:  [help@quetek.com](mailto:help@quetek.com)
 
 | Surface mailing address: |     |  QueTek Consulting Corporation  
 Attention: Customer Service Team  
-2650 Fountain View Drive  
-Suite 122  
+2640 Fountain View Drive  
+Suite 213  
 Houston, Texas 77057  
 USA   
 ---|---|---  
