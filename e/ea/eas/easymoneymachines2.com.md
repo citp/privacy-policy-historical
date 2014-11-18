@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easymoneymachines2.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325090539id_/http%3A//easymoneymachines2.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymoneymachines2.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118104622id_/http%3A//easymoneymachines2.com/nmi/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
