@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the timberland.co.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220115035id_/http%3A//www.timberlandflooring.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.co.uk privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Timberland
 
-#### What does our privacy policy tell you?
+In this privacy policy, the terms "we", "us" and "our" all refer to Timberland in partnership with Anglian Windows Ltd and its parent and subsidiary companies. The terms "you" and "your" refer to any user of any services and products described or sold by us whether or not they are sold via this website.
 
-Our privacy policy aims to tell you what information we collect about you, why, how we store it, what we will use it for and what options you have for determining its retention and use. 
+We are committed to protecting your privacy. We use the information we collect about you to assist in the conclusion of transactions and to keep you updated of our products and services to enhance your enjoyment of the use of our site. Please read on for more details about our privacy policy.
 
-#### 1\. How do we gather information about you and what is it?
+###### What does our privacy policy tell you?
+
+Our privacy policy aims to tell you what information we collect about you, why, how we store it, what we will use it for and what options you have for determining its retention and use.
+
+###### 1\. How do we gather information about you and what is it?
 
 Information provided by you on registration:
 
@@ -31,9 +35,9 @@ We may occasionally run contests , in which entrants may be required to provide 
 
 Your communications to us:
 
-We may retain emails, text messages and letters sent to us. 
+We may retain emails, text messages and letters sent to us.
 
-#### 2\. How do we use this information?
+###### 2\. How do we use this information?
 
 Contact and billing information provided by you:
 
@@ -61,9 +65,9 @@ We may use any information you provide to us to contact you when necessary (with
 
 Your communications to us:
 
-Emails, letters, phone calls and text messages may be used for testimonial purposes on our website and for the purposes of our records, but will be withdrawn within a reasonable period if we are requested to do so; see the delete/deactivate section below. 
+Emails, letters, phone calls and text messages may be used for testimonial purposes on our website and for the purposes of our records, but will be withdrawn within a reasonable period if we are requested to do so; see the delete/deactivate section below.
 
-#### 3\. Sharing of information
+###### 3\. Sharing of information
 
 How do we share information:
 
@@ -79,41 +83,40 @@ We may store your data on servers that are located outside the UK.
 
 We are the controller of the personal data we gather about you. Your data will be held and processed by us in accordance with our obligations under the UK's data protection legislation - specifically, the Data Protection Act 1998 - either in the UK or in other countries where we are legitimately permitted to do so. 
 
-Disclosure for legal reasons: We may disclose your personal data if we are either compelled to do so by law, or in response to a valid and legal request by a law enforcement or governmental authority. 
+Disclosure for legal reasons: We may disclose your personal data if we are either compelled to do so by law, or in response to a valid and legal request by a law enforcement or governmental authority.
 
-#### 4\. Security
+###### 4\. Security
 
 We are committed to the security of customer information.
 
-We have security measures in place to protect our customer database and access to this database is restricted internally. 
+We have security measures in place to protect our customer database and access to this database is restricted internally.
 
-#### 5\. What delist/deactivate choices do you have?
+###### 5\. What delist/deactivate choices do you have?
 
 We provide the following opportunities for letting us know that, for example, you do not want in future to receive email or written correspondence from us:
 
 You can send an email to [unsubscribe@timberland.co.uk](mailto:unsubscribe@timberland.co.uk)
 
-You can send mail to the postal address in the "Contact us" section of our website. Removal requests will be made within 10 working days of their receipt. 
+You can send mail to the postal address in the "Contact us" section of our website. Removal requests will be made within 10 working days of their receipt.
 
-#### 6\. Changing or updating your data
+###### 6\. Changing or updating your data
 
 We provide the following options for changing and updating information you have previously provided to us:
 
 You can email us at [info@timberland.co.uk](mailto:info@timberland.co.uk)
 
-You can send mail to the postal address in the "[Contact us](https://web.archive.org/web/20121220115035id_/http%3A//www.timberlandflooring.co.uk/contact-us.aspx)" section of our website.
+You can send mail to the postal address in the "[Contact us](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/contact-us.aspx)" section of our website.
 
-Change and removal requests will be made within 10 working days of their receipt. 
+Change and removal requests will be made within 10 working days of their receipt.
 
-#### 7\. Contacting us
+###### 7\. Contacting us
 
-You can use the postal address in the "[Contact us](https://web.archive.org/web/20121220115035id_/http%3A//www.timberlandflooring.co.uk/contact-us.aspx)" section of our website if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+You can use the postal address in the "[Contact us](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/contact-us.aspx)" section of our website if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information.
 
-#### 8\. Retention of your data
+###### 8\. Retention of your data
 
-We will retain your personal information only as long as is necessary for the purposes to which you consent under this Privacy Policy, and then we will delete it from our systems. 
+We will retain your personal information only as long as is necessary for the purposes to which you consent under this Privacy Policy, and then we will delete it from our systems.
 
-#### 9\. Links to third party sites
+###### 9\. Links to third party sites
 
-Our website may contain links to other web sites. Although we try to chose our partners carefully, we are not responsible for the privacy practices, or the content, of those web sites.   
-
+Our website may contain links to other web sites. Although we try to chose our partners carefully, we are not responsible for the privacy practices, or the content, of those web sites.
