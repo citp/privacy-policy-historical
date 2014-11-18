@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604122714id_/http%3A//www.lingq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182745id_/http%3A//www.lingq.com/privacy) for the most accurate reproduction.*
 
 # LingQ Privacy Policy
 
@@ -13,6 +13,9 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
   * When you register for LingQ we ask for information such as your name, country, email address, and credit card information. Members who sign up for the free account are not required to enter a credit card.
   * LingQ uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+
+
+  * LingQ may use analytics to analyze your activity data on the site to help us track and optimize our functionality.
 
 
   * LingQ may use remarketing to register that you have visited the site and then advertise LingQ to you through third party vendors, such as Google, on other sites on the internet. These third party vendors use cookies to serve ads based on your past visits to LingQ.
