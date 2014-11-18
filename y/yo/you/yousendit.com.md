@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013611id_/http%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118013727id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Hightail
 
-### Last updated July 12, 2013
+### Last updated October 23, 2014
 
-Thanks for being part of Hightail. Your privacy is very important to us and we take it very seriously. This Privacy Policy describes how your personal information is collected, used, disclosed and protected by Hightail when using our Services. By using our Services, you acknowledge that you understand this policy, so please read it carefully.
-
-The right column features short explanations of parts of this Privacy Policy, which should help with your review of this Privacy Policy.
+Thanks for being part of Hightail. Your privacy is very important to us and we take it very seriously. This Privacy Policy applies to https://www.hightail.com and all associated applications, owned and operated by Hightail, Inc. and/or affiliates thereof (“Hightail”). It describes how your personal information is collected, used, disclosed and protected by Hightail when using our Services. By using our Services, you acknowledge that you understand this policy, so please read it carefully.
 
 You should also read our [Terms of Service](https://web.archive.org/aboutus/legal/terms-of-service "Terms of Service").
 
 [](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=f2b78e0c-0d8e-48f9-8b77-846044bb0202 "TRUSTe European Safe Harbor certification")
 
-### We know that legalese is hard, even for a lawyer. So, to make things a bit more human, we'll be giving you the quick notes version of each section.
+### We know that legalese can be painful. To help you review this policy, we’ve added quick summaries of each section here.
 
 ### Quick links to any section you may want to visit quickly
 
-## 1\. A Few Definitions
+## 1\. A few definitions
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#definitions)
 
@@ -30,7 +28,7 @@ You should also read our [Terms of Service](https://web.archive.org/aboutus/lega
 
 **User Files:** The digital files that you and others may create, upload, download, store, or send using our Services.
 
-**We/Our/Us/Hightail:** Refers to Hightail, Inc. (formerly YouSendIt, Inc.)
+**We/Our/Us/Hightail:** Refers to Hightail, Inc. (formerly YouSendIt, Inc.) and/or affiliates thereof.
 
 **You/Your:** Refers to you, or the company or entity you represent.
 
@@ -42,27 +40,33 @@ Back to Top
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#certification)
 
-Hightail has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements located at <http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html> including transparency, accountability and choice regarding the collection and use of your Personal Information.
+Hightail has received TRUSTe's Privacy Seal signifying [<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>] that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification does not cover Personal Information collected through downloadable software.
+The TRUSTe program covers only information that is collected through this Web site, www.hightail.com and our mobile applications and does not cover information that may be collected through downloadable software. 
 
-Hightail complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Hightail has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Email Privacy at Hightail"). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/> request.
+
+Hightail’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System.
+
+To learn more about the APEC CBPR system, please visit <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
+
+Hightail also complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Hightail has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 To learn more about the Safe Harbor program, and to view Hightail's certification, please visit <http://www.export.gov/safeharbor/>.
 
 Back to Top
 
-### We have global privacy certifications, including TRUSTe and Safe Harbor.
+### We have global privacy certifications, including TRUSTe, APEC CBPR and Safe Harbor.
 
-## 3\. Information Collected by Hightail
+## 3\. Information collected by Hightail
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#collect)
 
 Our main goals in collecting and processing information are to provide and improve the Services, to administer your subscription and to provide excellent user experiences. Below are the types and categories of information that we collect. Hightail does not share information about you with third parties except as provided in this Privacy Policy.
 
-### Information helps us improve our Services.
+### Information helps us improve our services.
 
-#### Information Provided by You
+#### Information provided by you
 
 When you register to use our Services, we ask for Personal Information. Personal Information may include, but is not limited to, name, phone number, credit card or other billing information, email address and postal addresses. All other information that you provide or that we collect is Non-Identifying Information.
 
@@ -92,9 +96,9 @@ If you have been added to a user's Hightail address book and no longer wish to h
 
 ### When you share files, we send your recipients an email. That's all we use their contact information for. Our apps will access your device's address book to make it easier for you to add recipients.
 
-#### User Postings and Testimonials on Our Website
+#### User postings and testimonials on our website
 
-Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at support@hightail.com. In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
+Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20141118013727id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
 
 We post Hightail user testimonials on our website, which may contain Personal Information such as the user's name. We obtain user consent prior to posting of any such testimonial. If you wish to request the removal of your testimonial you may contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email").
 
@@ -102,35 +106,49 @@ We post Hightail user testimonials on our website, which may contain Personal In
 
 ### We will ask your permission before using your name or testimonial in our promotional material.
 
-#### Cookies & Other Technologies
+#### Cookies and other technologies
 
 Like many websites, we use cookies, web beacons, pixel tags or similar means to collect information. These technologies allow us to personalize and improve your experience on our website, to record your preferences, and to save your ID and password for future visits to our website.
 
 A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. Web beacons and pixel tags are electronic images, often a single pixel, that are ordinarily not visible to users and may be associated with cookies on a user's hard drive. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting cookies from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of our website or all the functionality of our other Services.
 
-### Mmmm… cookies. Like everyone else, we use cookies to save your account preferences and better understand how people use our Services
-
-Third party advertising partners may use cookies or similar means to collect Non-Identifying Information about your activities on this website and other websites to provide you targeted advertising on other websites you visit based upon your interests. Hightail does not have access to or control of any cookies that its advertisers may store in your browser and this Privacy Policy does not apply to the use of cookies or similar means by advertisers.
-
-We partner with third party ad networks to manage our advertising on other web sites. Our ad network partners use cookies or similar means to collect Non-Identifying Information about your activities on our website and other websites to provide you targeted advertising on other websites you visit based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of the use of your information for such purposes by the certain ad networks included in TRUSTe's "Trusted Ads Opt-out Manager" list by [clicking here](http://preferences.truste.com/ "Preferences"). Please note that according to TRUSTe, using its Trusted Ads Opt-Out Manager does not opt you out of being served advertising and you will continue to receive generic ads.
+### Mmmm… cookies. Like everyone else, we use cookies to save your account preferences and better understand how people use our Services.
 
 Hightail mobile apps and other software you install on your devices store registration and session information in encrypted files locally on the device where the application is installed. This behavior is similar to cookies but is specific to the device. To remove these data files, you can uninstall the application.
 
-### Advertisers may also use cookies to show you more relevant ads
+#### Push notifications
 
-#### Our Policy Toward Children
+We may send you push notifications from time-to-time in order to update you about any application events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device or application level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
-Our Services are not aimed at people under 18 and we do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email"). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+### If you use our mobile or desktop apps, we may send you occasional push notifications about updates or promotions. 
 
-### If your child has provided us with Personal Information without your consent, contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email")
+#### Social connectors
 
-#### Information Collected by Third Parties
+You can log in to our site using sign-in services such as Facebook Connect or other OpenID providers. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+You can import contacts from services like Gmail and Yahoo Mail also using OpenID social connectors. Your imported contact lists will only be used to make future communications to those individuals more convenient. 
+
+### If you log in to Hightail using Open ID social connectors, you can permit us to use certain personal information in order to improve your experience. 
+
+#### Our policy toward children
+
+Our Services are not aimed at people under 18 and we do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information, he or she should contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email"). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+#### Information collected by third parties
+
+We employ a variety of third party partners such as advertising, tracking utilities, affiliates and service providers that may use cookies or similar means described above to collect Non-Identifying Information about your activities on this website and other websites to help us optimize your experience, improve our services and provide you targeted advertising on other websites you visit based upon your interests. Hightail does not have access to or control of any cookies that third parties may store in your browser and this Privacy Policy does not apply to the use of cookies or similar means by third parties. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
+We partner with third party ad networks to manage our advertising on other web sites. Our ad network partners use cookies or similar means to collect Non-Identifying Information about your activities on our website and other websites to provide you targeted advertising on other websites you visit based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of the use of your information for such purposes by the certain ad networks included in TRUSTe's "Trusted Ads Opt-out Manager" list by [clicking here](href: http://preferences-mgr.truste.com/ "truste preferences"). Please note that according to TRUSTe, using its Trusted Ads Opt-Out Manager does not opt you out of being served advertising and you will continue to receive generic ads.
+
+### Third parties services, including advertisers, may use cookies or similar technology to improve your experience or show you more relevant ads.
 
 Our Services include features such as links to other websites, login via Facebook Connect, the Facebook Like button, or other features hosted by third parties. These features may collect information from you and/or may set a cookie to enable the feature to function properly.
 
 Your interaction with these features is governed by the privacy policy of the company providing them. Links and advertisements displayed on our site are not an endorsement, authorization or representation of our affiliation with that third party, nor are they an endorsement of its privacy or information security policies or practices.
 
-Back to Top
+#### Social media widgets
+
+Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features and Widgets are governed by the privacy policy of the company providing it. 
 
 ### Anything to do with third parties like Facebook is covered by the third parties' privacy policies. And just because someone advertises with us, it doesn't mean we endorse them.
 
@@ -144,7 +162,7 @@ We may disclose Non-Identifying Information to third parties for industry analys
 
 ### Aside from using your information to provide our Services, we may use it for purposes, like analyzing and enhancing our Services. Sometimes, anonymous information is given to third parties.
 
-#### Marketing and Communications Preferences
+#### Marketing and communications preferences
 
 We also use your Personal Information to contact you with Hightail newsletters, marketing or promotional materials and other information that may be of interest to you.
 
@@ -154,33 +172,33 @@ We will comply with your request as soon as reasonably practical. We will contin
 
 ### We will send you newsletters, marketing and other material using your contact information. You can opt-out at any time.
 
-#### Service Providers
+#### Service providers
 
 We may employ third-party companies and individuals to facilitate our Services, to provide the Services on our behalf and to perform website-related services ("Service Providers"). The types of Service Providers we use include, without limitation, service providers that provide the following types of services: email delivery, credit card transactions, accounting, account verification, customer relationship management, marketing, webcasting, website maintenance, database management, web analytics and web and live chat hosting. Our Service Providers have access to your Personal Information only to perform these tasks on our behalf, and they are obligated not to disclose or use it for any other purpose.
 
 ### Certain third parties help us provide our Services and, if required, they will have limited access to your information.
 
-#### International Transfer
+#### International transfer
 
 Personal Information and Non-Identifying Information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.
 
 If you are located outside the United States, you should be aware that Hightail transfers Personal Information and Non-Identifying Information to the United States and processes it there. Your use of our Services represents your agreement to such transfer.
 
-### We store your personal information on computers in the United States, so only U.S. privacy laws apply.
+### We store your personal information on computers in the United States, so only US privacy laws apply.
 
-#### Compliance with Laws and Law Enforcement
+#### Compliance with laws and law enforcement
 
 Hightail cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you and your User Files to government or law enforcement officials or private parties as we believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect the property and rights of Hightail or a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. Hightail employees or representatives may access, but not view the contents of, your User Files when acting on behalf of Hightail as described in this paragraph.
 
-#### Business Transfers
+### We will cooperate with legal authorities as we believe necessary or appropriate. Hightail employees will never view the contents of your User Files.
+
+#### Business transfers
 
 Hightail may sell, transfer, or otherwise share some or all of its business or assets, including your Personal Information and Non-Identifying Information in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-### We will cooperate with legal authorities as we believe necessary or appropriate. Hightail employees will never view the contents of your User Files.
-
 ### If Hightail is sold or otherwise changes its business status, we'll notify you that we are transferring your information.
 
-#### Enterprise Accounts
+#### Enterprise accounts
 
 If you used an email address owned by your employer to create an individual Hightail Account and your employer adds you to an enterprise account your employer has with us, your email address and certain information concerning past and ongoing use of your individual account may become accessible to the administrator of that enterprise account. This includes:
 
@@ -195,13 +213,13 @@ However, information with respect to User Files that have been deleted because t
 
 ### Basically, consider registering for Hightail with a personal email address if you intend using it for non-work matters.
 
-#### Retention and Deletion of Your Information
+#### Retention and deletion of your information
 
 User Files will be stored on our systems according to the user preferences you set for the file, if any, or according to the default parameters as defined by the Services and Account plan you are using if no user preferences are set. Users may delete User Files from our servers via the website or Hightail mobile apps or other client software they may have installed. There may be some latency until the User File is actually deleted from our servers.
 
-You may review, update or correct the Personal Information in your Account registration profile ("Account Information") by logging into your account on our website and changing your user preferences.
+You may review, update, delete or correct the Personal Information in your Account registration profile ("Account Information") by logging into your account on our website and changing your user preferences.
 
-Hightail may retain your Account Information and information about transactions relating to User Files indefinitely as required by law or for legitimate business purposes, regardless of whether your account is still active.
+Hightail may retain your Account Information and information about transactions relating to User Files as necessary to comply with our legal obligations or for legitimate business purposes, regardless of whether your account is still active.
 
 If you wish to deactivate your Account or request that we no longer use your Personal Information, contact us at [optout@hightail.com](mailto:optout@hightail.com "Optout Email") or [support@hightail.com](mailto:support@hightail.com "Support Email"). We will respond to all requests within 30 days.
 
@@ -209,7 +227,7 @@ Back to Top
 
 ### We retain your personal information and files as long as you want us to, or as long as required by law.
 
-## 5\. Information Security
+## 5\. Information security
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#security)
 
@@ -223,13 +241,13 @@ Back to Top
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#contact)
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email") or at: Privacy Matters c/o Hightail, Inc., 1919 South Bascom Avenue, 3rd floor, Campbell, California 95008.
+If you have any questions about this Privacy Policy, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email") or at: Privacy Matters c/o Hightail, Inc., 1919 South Bascom Avenue, 6th floor, Campbell, California 95008.
 
 Back to Top
 
 ### We're happy to talk.
 
-## 7\. Changes to This Privacy Policy
+## 7\. Changes to this Privacy Policy
 
 ## [](http://www.hightail.com/aboutus/legal/privacy#change)
 
