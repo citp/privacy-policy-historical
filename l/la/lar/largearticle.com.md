@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the largearticle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065135id_/http%3A//largearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largearticle.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118040604id_/http%3A//largearticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Large Article » Privacy Policy
 
   * [Home](http://largearticle.com/)
   * [Author TOS](http://largearticle.com/author-tos/)
-  * [Contact Us](http://largearticle.com/contact-us/)
-  * [How to submit an article?](http://largearticle.com/how-to-submit-an-article/)
+  * [Contact Us](http://largearticle.com/contact-us-3/)
+  * [How to submit an article](http://largearticle.com/how-to-submit-an-article/)
   * [Optimization Tips & FAQ](http://largearticle.com/optimization-tips-faq/)
   * [Privacy Policy](http://largearticle.com/privacy-policy/)
   * [Why Submit Articles?](http://largearticle.com/why-submit-articles/)
@@ -31,9 +31,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information
 
 Largearticle may collect and use Users personal information for the following purposes:  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.  
 How we protect your information
 
@@ -61,3 +61,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Large article
 
 http://largearticle.com
+
+[ ](http://pizza.asvinstech.in/?p=13)
