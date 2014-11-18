@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sephora.ru privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401084159id_/http%3A//www.sephora.com/contentStore/mediaContentTemplateNoNav.jsp%3FmediaId%3D12300066) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sephora.ru privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118185158id_/http%3A//www.sephora.com/contentStore/mediaContentTemplateNoNav.jsp%3FmediaId%3D12300066) for the most accurate reproduction.*
 
 # Privacy Policy | Sephora
 
