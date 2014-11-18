@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabongworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094014id_/http%3A//www.jabongworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabongworld.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182831id_/http%3A//www.jabongworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ JabongWorld.com views protection of your privacy as a very important community p
 
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-We would love to have your comments/suggestions at **_sales@jabongworld.com_**
+We would love to have your comments/suggestions at **_care@jabongworld.com_**
 
 **DATA THAT WE COLLECT**
 
@@ -64,4 +64,4 @@ We have copyright over this Privacy Policy. Use by third parties, even by way of
 
 **CUSTOMER TESTIMONIALS AND REVIEWS**
 
-We may post your testimonials and reviews on our Website which may or may not contain personally identifiable information. We may ask for your consent via email prior to posting the testimonial to post your name along with your testimonial. If you would like to request to have your testimonial or review removed from our site you may do so my contacting us at **_sales@jabongworld.com_**
+We may post your testimonials and reviews on our Website which may or may not contain personally identifiable information. We may ask for your consent via email prior to posting the testimonial to post your name along with your testimonial. If you would like to request to have your testimonial or review removed from our site you may do so my contacting us at **_care@jabongworld.com_**
