@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044543id_/http%3A//ordermotion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118202024id_/http%3A//ordermotion.com/privacy-policy) for the most accurate reproduction.*
 
 # Order Management Technology and Services - OrderMotion Privacy Policy
 
@@ -82,4 +82,4 @@ OrderMotion Inc. participates in the EU and Swiss Safe Harbor Privacy Framework 
 
 [](https://privacy.truste.com/privacy-seal/OrderMotion-Inc/validation?rid=aea77b85-bb30-40ed-b9db-790d97f0e54d "TRUSTe European Safe Harbor certification")
 
-(C) Copyright 2013, OrderMotion Inc. All Rights Reserved 
+(C) Copyright 2014, OrderMotion Inc. All Rights Reserved 
