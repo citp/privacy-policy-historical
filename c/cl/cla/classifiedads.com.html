@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the classifiedads.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628042434id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classifiedads.com privacy policy that was archived on 2014-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141118032001id_/https%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <meta name="viewport" content="initial-scale=1.0, width=device-width, user-scalable=yes">
-<link rel="stylesheet" type="text/css" media="screen" href="//static.classifiedads.com/css-100-fullqy.css">
+<link rel="stylesheet" type="text/css" href="//static.classifiedads.com/_/jquery.dropdown.css">
+<link rel="stylesheet" type="text/css" media="screen" href="//static.classifiedads.com/css-109-default.css">
 <link href="https://plus.google.com/106529230961225226639" rel="publisher">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//static.classifiedads.com/apple-touch-icon-144x144-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//static.classifiedads.com/apple-touch-icon-114x114-precomposed.png">
@@ -13,14 +14,13 @@
 <link rel="apple-touch-icon-precomposed" href="//static.classifiedads.com/apple-touch-icon-precomposed.png">
 <link rel="shortcut icon" type="image/x-icon" href="//static.classifiedads.com/_/classifiedads.ico">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="//static.classifiedads.com/codecache/100/cache.js"></script>
+<!-- script src='//static.classifiedads.com/_/touche.min.js'></script -->
+<script src="//static.classifiedads.com/codecache/109/cache.js"></script>
 <script type="text/javascript">if (typeof jQuery == 'undefined'){document.write(unescape("%3Cscript src='//static.classifiedads.com/_/jquery-1.7.2.min.js' type ='text/javascript'%3E%3C/script%3E"));}</script><script src="//static.classifiedads.com/_/jquery-1.7.2.min.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
 <script type="text/javascript" src="//static.classifiedads.com/_/html5shiv.js"></script>
 <script type="text/javascript" src="//static.classifiedads.com/_/respond.min.js"></script>
 <![endif]-->
-<script src="//static.classifiedads.com/_/jquery.dropdown.js"></script>
-<link type="text/css" rel="stylesheet" href="//static.classifiedads.com/_/jquery.dropdown.css">
 <script>var _sf_startpt=(new Date()).getTime()</script>
 <link rel="canonical" href="//www.classifiedads.com/info.php?privacy">
 <link href="//www.classifiedads.com/search.rss?keywords=&amp;cid=242" type="application/rss+xml" rel="alternate" title="ClassifiedAds.com RSS Feed">
@@ -30,27 +30,71 @@ _gaq.push(['_setAccount', 'UA-22868591-1']);
 _gaq.push(['_trackPageview']);
 (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
 </script>
+<script src="//static.classifiedads.com/_/jquery.dropdown.js"></script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="" style="">
 
 
 <div id="logobar" style="min-height:38px;">
- <div class="titlebar flowcon">
-  <div style="float:left;width:241px;">
-   <a href="//www.classifiedads.com/" title="Classified Ads" tabindex="1">
-    <img src="//static.classifiedads.com/_/logo-blue-241x30.gif" alt="Classified Ads" style="border:0;display:block;width:241px;height:30px;">
-   </a>
-  </div>
-  <div class="titleend">
+ <div class="titlebar">
+  <a class="logo" href="//www.classifiedads.com/" title="Classified Ads" tabindex="1">
+   <img src="//static.classifiedads.com/_/logo-blue-241x30.gif" alt="Privacy Policy" style="border:0;display:block;width:241px;height:30px;">
+  </a>
+  <div class="titleend "><div>
    <a rel="nofollow" href="//www.classifiedads.com/login.php" tabindex="1">Log in</a>
-         <a class="nomob" rel="nofollow" href="//www.classifiedads.com/info.php?help" tabindex="1">Help</a>
+         <a rel="nofollow" href="//www.classifiedads.com/info.php?help" tabindex="1">Help</a>
    <a rel="nofollow" href="//www.classifiedads.com/post.php" tabindex="1">Post an ad<span class="nomob"> (free)</span></a>
-  </div>
+     </div></div>
  </div>
  <div class="clearer"></div>
 </div>
+<div id="mobindicator"></div>
 <div id="kingwide">
 <div id="king" class="flowcon" style="">
+
+<script>
+$(function() {
+  var $titleend = $('.titleend');
+  var $mobmenu = $('.titleend div');
+
+  var evname = 'click';
+  if( 'ontouchend' in window )
+    evname = 'touchend';
+
+  var menuopen = function(e) {
+    if( $mobmenu.is(':visible') ) {
+      $titleend.removeClass('mobmenuopen');
+      $mobmenu.hide();
+    } else {
+      $titleend.addClass('mobmenuopen');
+      $mobmenu.show();
+      $.fn.dropdown('hide'); // hide the OTHER dropdowns
+    }
+
+    e.stopPropagation();
+    $titleend.one('click', menuopen);
+  };
+
+  $titleend.one('click', menuopen);
+
+  $('.titleend div').on('click touchend', function(e) {
+    e.stopPropagation();
+  });
+
+  $('html').on(evname, function(e) {
+    if( ! $('#mobindicator').is(':visible') )
+      return;
+
+    if( $mobmenu.is(':visible') ) {
+      $titleend.removeClass('mobmenuopen');
+      $mobmenu.hide();
+      e.preventDefault();
+      e.stopPropagation();
+      return false;
+    }
+  });
+});
+</script>
 <style>
 div.info li {margin:5px 0 5px 40px;list-style-type:disc;}
 div.info h1, div.info p {margin:10px 0;}
@@ -96,16 +140,17 @@ div.info h1, div.info p {margin:10px 0;}
 
 <div class="foot">
  <div class="footnav">
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/login.php">Log in</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/info.php?about">About</a>
+    <a class="basementcat " rel="nofollow" href="//www.classifiedads.com/login.php">Log in</a>
+  <a class="basementcat nomob" rel="nofollow" href="//www.classifiedads.com/info.php?about">About</a>
   <a class="basementcat" href="//www.classifiedads.com/earth-r0.html">Locations</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/info.php?terms">Terms of Use</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/info.php?privacy">Privacy</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/info.php?help">Help</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/feedback.php">Contact</a>
-  <a class="basementcat" rel="nofollow" href="//www.classifiedads.com/info.php?careers">Careers</a>
-  <a onclick="$.ajax('//www.classifiedads.com/ajaxlog.php?blog')" class="basementcat" rel="nofollow" href="//blog.classifiedads.com" target="_blank">Blog</a>
-      </div>
+  <a class="basementcat mobonly" rel="nofollow" href="//www.classifiedads.com/info.php">More information</a>
+  <a class="basementcat nomob" rel="nofollow" href="//www.classifiedads.com/info.php?terms">Terms of Use</a>
+  <a class="basementcat nomob" rel="nofollow" href="//www.classifiedads.com/info.php?privacy">Privacy</a>
+  <a class="basementcat nomob" rel="nofollow" href="//www.classifiedads.com/info.php?help">Help</a>
+  <a class="basementcat nomob feedback" rel="nofollow" href="//www.classifiedads.com/feedback.php">Contact</a>
+  <a class="basementcat nomob" rel="nofollow" href="//www.classifiedads.com/info.php?careers">Careers</a>
+  <a onclick="$.ajax('//www.classifiedads.com/ajaxlog.php?blog')" class="basementcat nomob" rel="nofollow" href="//blog.classifiedads.com" target="_blank">Blog</a>
+   </div>
  <div class="copy">© 2014 <a href="//www.classifiedads.com/">ClassifiedAds.com</a>, Inc. All rights reserved.</div>
  <div class="clearer"></div>
  <div style="line-height:1px;visibility:hidden;">_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</div>
