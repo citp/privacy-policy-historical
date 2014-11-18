@@ -1,65 +1,61 @@
-> *The following text is extracted and transformed from the write.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629001856id_/http%3A//www.write.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the write.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118185934id_/http%3A//www.write.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Write.com
 
-### What personal information is collected by Write.com? 
+Last updated: December 2, 2013
 
-The only time we collect personal information is when you opt to fill out the registration form to join Write.com, sign up to receive any Write.com newsletters or fill out any forms on Write.com. If you choose, your time spent on our website may stay anonymous. However, if it is appropriate, your name and/or email address is requested any time you register on our site. 
+Write.com, a division of CrowdSource knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy and by visiting the Write.com Site, you are accepting the practices described in this Privacy Policy. Capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the [Terms of Service](https://web.archive.org/terms-of-service).
 
-### How is personal information used by Write.com? 
+### What Personal Information About Users Does Write.com Gather?
 
-The personal information collected by Write.com is only used in ways that relates to your experience on our website. For example, the following includes ways in which we might utilize your personal information: 
+The information we learn from users helps us personalize and continually improve your experience with Write.com, the Sites and the Services. Here are the types of information we gather:
 
-  * To build a custom, personalized experience for your time spent on our website
-
-By obtaining some personal information, we are better equipped to respond to and meet your individual needs.
-
-  * To make improvements to our website and the overall experience we provide through it
-
-We take both information you provide and feedback you give to make changes as necessary as we strive to offer the best interactive experience for our users. 
-
-  * To provide exemplary customer service that strives for continuous improvement. 
+  * **Information You Give Us** : We receive and store any information you enter on the Sites or through the Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing the Services, improving the Sites, and communicating with you.
+  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
 
 
 
-With your personal information, we can better respond to the inquiries and requests you make. In addition, it also allows us to provide a better overall customer service experience that addresses your specific needs.
+### What About Cookies?
 
-  * To manage any Write.com contests or promotions
-  * To enhance site features for our users as well as provide surveys
-  * To use periodic emails when contacting you is necessary
-
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization.
+  * The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of the Write.com Site’s features.
 
 
-Sending important information directly to you, responding to any requests made and questions asked are a few of the ways in which we use the email address you supply to us. In addition, this email address is to respond to any inquiries you make. 
 
-### How does Write.com keep your information safe? 
+### Does Write.com Share the Information It Receives?
 
-We utilize extensive security protocols to ensure any personal information you provide is secure. This includes information as you enter it, submit it or access it.
+Information about our users is an important part of our business, and we are not in the business of selling, sharing, or leasing it to others. We share user information only as described below and with subsidiaries that Write.com controls.
 
-### Does Write.com utilize cookies to obtain and store data? 
+  * **With Your Consent** : By accepting the [Write.com Terms of Service](https://web.archive.org/terms-of-service), you expressly consent to our use of your information as outlined in this Privacy Policy.
+  * **Agents** : We employ other companies and individuals to perform functions on our behalf. Examples include analyzing data, processing payments, and providing customer service. They have access to information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the user consents otherwise). Also, in the event that Write.com or substantially all of its assets are acquired, user information will of course be one of the transferred assets.
+  * **Protection of Write.com and Others** : We may release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms of Services](https://web.archive.org/terms-of-service), or other agreements; or protect the rights, property, or safety of Write.com, our Users, or others. This includes (1) exchanging information with other companies and organizations for fraud protection and credit risk reduction; and (2) if you are a provider of a Service on the Write.com Site, we may release your name and address to requesters for whom you provide Services so that those requestors can comply with tax and other legal obligations they might have. Obviously, however, **this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Policy**.
 
-Yes, we do utilize cookies to provide a better user experience. Cookies are essentially small bits of data stored in a file (including your Write.com assessment answers). When you authorize or permit it, this data is sent to your hard drive by Write.com through whatever internet browser you are using. The sending of this data allows sites to recognize when you are visiting a specific website, capture data and retain relevant information, such as your name, email address, etc.
 
-We use cookies for several reasons. It allows us to examine and save personal preferences to improve your experience on future visits with a more personalized user experience. We also use cookies to gather aggregate information regarding the number of visitors to our site and users interaction with our site. This allows us to provide improved site experiences and applicable tools as we strive to improve our site. 
 
-### Does Write.com share you information with third parties?
+### How Does Write.com Protect Information About Me?
 
-No, we never share your personal information. Any information you provide is never sold, traded or transferred to a third party. This includes any information that can identify you. 
+  * We work to protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts information you input.
+  * We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security or procedural measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
 
-Information that cannot identify you is considered visitor information that is non-personally identifiable. This information may be supplied for marketing purposes, advertising purposes or other uses deemed necessary. Any of this information shared with third parties cannot in any way identify you. 
 
-### Adherence to the Children’s Online Privacy Protections Act
 
-We maintain strict compliance and adhere to the guidelines and restrictions of COPPA, the Children’s Online Privacy Protection Act. Information and data from anyone younger than 13 years of age is never collected. The Write.com website, its products and its services are geared to those individuals who are above the age of 13. 
+### What Choices and Access Do I Have?
 
-### Online Privacy Policy Does Not Apply Offline 
+    * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the Write.com Sites and/or Services.
 
-Our privacy policy pertains only to that information we collect through the use of our website, its features and associated contests, inquiries and promotions. Any information or data collection offline does not fall under the stipulations outlined in this privacy policy.
 
-### Terms and Conditions 
 
-You can visit our ‘Terms of Use’ at [http://www.write.com/terms-of-use](http://www.write.com/terms-of-use/). This section outlines and establishes the liability that governs your use of our website, including the use of, disclaimers and limitations of said liability. 
+### Links to Third-Party Sites
 
-### Informed Consent 
+Our Sites and Services may contain links to Third-Party Sites. This Policy does not apply to Third-Party Sites and any information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the privacy and security practices and policies of any sites that are linked to from the Sites or through the Services. We encourage you to learn about the privacy and security practices and policies of Third-Party Sites before providing them with personal information.
 
-The use of our website constitutes your acceptance to adhering to our online privacy policy. 
+### Participation Agreement, Notices, and Revisions
+
+If you choose to visit the Write.com Site or participate in the Services, your visit and any dispute over privacy is subject to this Privacy Policy and our [Write.com Terms of Service](https://web.archive.org/terms-of-service), including limitations on liability, indemnification, and the arbitration of disputes.
+
+### Handling of Inquiries, General Concerns and Complaints
+
+If you have any concern about privacy at Write.com, please [contact us](http://www.write.com/contact/) with a thorough description, and we will try to resolve it. Pursuant to this Privacy Policy and the [Terms of Service](https://web.archive.org/terms-of-service), you agree not to pursue Write.com through any means, including regulatory agencies, courts, or the media, until and unless Write.com has had a minimum of 30 days to respond to the initial communication and while Write.com and you are conducting a dialogue about the matter.
+
+Our business changes constantly, and our Privacy Policy and the [Terms of Service](https://web.archive.org/terms-of-service), will also change. We may e-mail periodic reminders of our notices and conditions, but you should check the Write.com Sites frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
