@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114856id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118033802id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Fleshjack - Sex Toys and Adult Toys for Gay Men
 
@@ -10,7 +10,8 @@ THIS PRIVACY POLICY SET FORTH BELOW (THE “PRIVACY POLICY”) HEREBY INCORPORAT
   
 
 
-  1. _Automatically Collected Information_
+  1. _Automatically Collected Information_  
+
 
 When You access the Site, we may send one or more cookies to Your computer. A cookie is a small text file containing a string of alphanumeric characters that a website stores on Your computer that Your browser provides to a website each time You access the website. Use of cookies is very common on the Internet. We use these cookies to identify prior Users and track usage of the Site. We do not use cookies to personally identify Users of the Site. You can remove these cookies and modify Your browser’s settings to accept all cookies, reject all cookies, or notify You when a cookie is sent. Please review Your web browser’s “Help” file to learn the proper way to modify Your cookie settings. 
 
