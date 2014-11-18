@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microchipdirect.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428101159id_/http%3A//www.microchip.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microchipdirect.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118230338id_/http%3A//www.microchip.com/privacypolicy) for the most accurate reproduction.*
 
 # Legal - | Microchip Technology Inc.
 
