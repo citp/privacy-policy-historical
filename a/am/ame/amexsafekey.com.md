@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225080628id_/https%3A//www.americanexpress.com/uk/content/internet-privacy-statement.html%3Finav%3Dgb_legalfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118054515id_/https%3A//www.americanexpress.com/uk/content/internet-privacy-statement.html%3Finav%3Dgb_legalfooter_privacy) for the most accurate reproduction.*
 
 # American Express UK - Personal - Privacy Statement
 
