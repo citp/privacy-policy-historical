@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125713id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118185057id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
 
 # Histats.com Counter ,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional and free!!
 
@@ -70,13 +70,6 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 Additional Information Regarding Online Privacy Can Be Found At: [ http://www.privacyalliance.org/](http://www.privacyalliance.org/)  
 [ http://www.bbbonline.org](http://www.bbbonline.org/)  
 [ http://www.truste.org/](http://www.truste.org/)
-
-**Third Parties - AudienceRate - data Analysis** [](http://www.histats.com/pdf/AudienceRatePolicyHistats.pdf)  
-While Histats and Wisecode SRL have full control of the data analysis , tracking code and the technical cookie, and can assure that provided code doesn't harm your visitors or interfere with your website browsing experience, only where this is allowed in compliance with your local laws, we allow a partner company to help us in tracking some data (new histats interesting features and probably an audiencerate provided dashboard will be available soon thanks to that ) and to manage independently anonymous tracked data, they keep data private but processed anonymous and detached behavioural data can be used on international markets.  
-We does not gather, retain , exchange or store any data from/to these third party partners. We has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Us that any and all data collected on their behalf is non-Personal Information and in accordance with your current local laws. 
-
-_We do not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users._   
-The acceptance of this Third Party section is not obligatory, if not accepted data will not be tracked or processed outside of Histats servers but you may lose access to some new audience analysis features that need this acceptance to work 
 
 **Histats.com is a part of**  
 Wisecode SRL  
