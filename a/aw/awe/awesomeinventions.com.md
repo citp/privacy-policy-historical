@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeinventions.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091054id_/http%3A//www.awesomeinventions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeinventions.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118025811id_/http%3A//www.awesomeinventions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Awesome Inventions
 
@@ -6,6 +6,7 @@
 
 **What information do we collect?**
 
+  
 We collect information from you when you Subscribe to our sign up form. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
@@ -14,9 +15,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-  
-; To send periodic emails  
-
+; To send periodic emails
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -30,7 +29,8 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Do we use cookies?**
+**Do we use cookies?**  
+ 
 
 We may use a small cookie which will be stored on your computer. A cookie is a small file that keeps a record of your visit to the site and makes your browse time a lot faster in the future, however any external site you may visit through one of the links provided on our site may use cookies too, in which case we have no control over and you will need to read their privacy policy for more information.
 
@@ -60,14 +60,14 @@ By using our site, you consent to our [privacy policy](http://www.awesomeinventi
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.   
-  
-**Contacting Us**  
-  
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.awesomeinventions.com/contact-us/  
-](http://www.awesomeinventions.com/contact-us/)  
+[http://www.awesomeinventions.com/contact-us/](http://www.awesomeinventions.com/contact-us/)
+
 Awesome Inventions  
 Box No 6186  
 LONDON  
