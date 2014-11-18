@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025092135id_/http%3A//www.morganstanleyindividual.com/customerservice/mssbms_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118165510id_/http%3A//www.morganstanleyindividual.com/customerservice/mssbms_privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -165,4 +165,8 @@ choices. If you have accounts or relationships with our affiliates,
            In response to a California law, if your account has a California home address, your personal information will not be disclosed to
            nonaffiliated third parties except as permitted by applicable California law, and we will limit sharing such personal information with
            our affiliates to comply with California privacy laws that apply to us.
-© 2013 Morgan Stanley Smith Barney LLC. Member SIPC.                                                                                         CS 7653303 08/13
+           Do Not Track Policy
+           We do not engage in the collection of personal information about your online activities over time and across third-party Web sites or
+           online services and do not allow third parties to collect personal information about your online activities over time and across third-
+           party Web sites when you use our online services. We do not respond to Web browser “do not track signals.”
+© 2014 Morgan Stanley Smith Barney LLC. Member SIPC.                    Effective Date: January 1, 2014                                       CS 7783795 01/14
