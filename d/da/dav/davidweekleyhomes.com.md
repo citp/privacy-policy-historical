@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118071955id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118035357id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - David Weekley Homes
+# Privacy Policy | David Weekley Homes
 
 Since 1976, David Weekley Homes has developed relationships with our Customers based on enhancing the lives of our Customers and acting with the utmost integrity. We're aware of the confidence you demonstrate when you provide us with personal information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We will treat your information with the same integrity and sensitivity that we have displayed throughout our company's history.
 
