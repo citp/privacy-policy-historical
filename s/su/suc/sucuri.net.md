@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041041id_/http%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118033649id_/https%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sucuri Security
 
 ### What information do we collect?
 
