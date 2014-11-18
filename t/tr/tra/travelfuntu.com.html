@@ -1,0 +1,486 @@
+<!--The following is the downloaded HTML source of the travelfuntu.com privacy policy that was archived on 2014-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141118194922id_/http%3A//www.travelfuntu.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Travelfuntu</title><link type="text/css" rel="stylesheet" href="http://www.travelfuntu.com/css/style.css">
+<script type="text/javascript" src="http://www.travelfuntu.com/js/jquery.min.js"></script>
+<link rel="stylesheet" href="http://www.travelfuntu.com/woothemes-FlexSlider-f0e9b4c/flexslider.css" type="text/css" media="screen">
+<script defer="" src="http://www.travelfuntu.com/woothemes-FlexSlider-f0e9b4c/jquery.flexslider.js"></script>
+ <!-- CALENDAR -->
+<link rel="stylesheet" href="http://www.travelfuntu.com/css/jquery-ui.css">
+<script src="http://www.travelfuntu.com/js/jquery-1.10.2.js"></script>
+<script src="http://www.travelfuntu.com/js/jquery-ui.js"></script>
+ <!-- VALIDATION -->
+<!--script type="text/javascript" src="../script.js"></script>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../styles.css"-->
+<script type="text/javascript" src="http://www.travelfuntu.com/js/jquery.validate.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap-3.1.1.min.css" type="text/css">
+<link rel="stylesheet" href="css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="js/bootstrap-2.3.2.min.js"></script>
+<script type="text/javascript" src="js/bootstrap-multiselect.js"></script>
+
+<script>
+
+var nav = $('#nav');
+nav.find('ul.dropdown').hide();
+nav.find('.menu a').removeClass("open");
+
+$(document).bind('click', function(e) {
+    var target = $( e.target );
+    if ( target.closest('#nav').length < 1) {
+        nav.find('ul.dropdown').hide();
+		nav.find('.menu a').removeClass("open");
+        return;
+    }
+    if ( target.parent().is('li.menu') ) {
+        var li = target.closest('li.menu');
+        li.siblings().find('ul.dropdown').hide();
+		li.siblings().find('a').removeClass("open");
+        li.find('ul.dropdown').toggle();
+		li.find('a').toggleClass("open");
+        e.preventDefault();
+    }
+})
+</script>
+<!--script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script-->
+<style>
+.red{
+	color:red;
+}
+</style>
+
+
+
+<script type="text/javascript">
+
+/* $(function(){
+
+  SyntaxHighlighter.all();
+
+}); */
+
+$(window).load(function(){
+
+  $('.flexslider').flexslider({
+
+	animation: "slide",
+
+	start: function(slider){
+
+	  $('body').removeClass('loading');
+
+	}
+
+  });
+
+});
+
+function get_sub_location(travel_location_id)
+{
+	tli=travel_location_id.split("~");
+	if(tli[0]=='101'){
+		document.getElementById('sub_location_1').style.display="block";
+	}else
+	{
+		document.getElementById('sub_location_1').style.display="none";
+		document.getElementById('travel_sub_location1').style.display="none";
+	}
+	//$('#sublocation').multiselect('refresh');
+	$.ajax({
+		type:'POST',
+		data:'func=get_sub_location&travel_location_id='+tli[0],
+		url:'ajax.php',
+		success:function(response){
+			var result = response.toString();
+			result = result.trim();
+			if(result==''){
+				$('#travel_sub_location1').hide();
+			 }else{
+				//$('#travel_sub_location1').show();
+				//$('#sublocation').html(response).multiselect('refresh');
+				//$("#sublocation").multiselect('destroy');
+				//$('#sublocation').multiselect('refresh');
+				$('#travel_sub_location1').html(response);
+				//$('#sublocation').html(response);
+				//$('#sublocation').multiselect.("refresh");
+			}
+		}
+	});
+}
+
+$(function() {	
+		$( "#datepicker" ).datepicker();
+}); 
+
+
+
+
+
+/**
+  * Basic jQuery Validation Form Demo Code
+  * Copyright Sam Deering 2012
+  * Licence: http://www.jquery4u.com/license/
+  */
+(function($,W,D)
+{
+    var JQUERY4U = {};
+
+    JQUERY4U.UTIL =
+    {
+        setupFormValidation: function()
+        {
+            //form validation rules
+            $("#inquiry-form").validate({
+                rules: {
+					tour_period_id: "required",
+                    name: "required",
+					email: {
+                        required: true,
+                        email: true
+                    },
+					mobile: {
+                        required: true,
+                        number: true,
+						minlength:10,
+						maxlength:10
+                    },
+					adults: "required",					
+					travel_date: {
+                        required: true,
+                        date: true,
+					}
+                },
+                messages: {
+					tour_period_id: "Please select tour ",
+                    name: "Please enter your name",
+					email: "Please enter a valid email address",
+					mobile: "Please enter a valid mobile",
+					adults: "Please select number of adults",
+					travel_date: "Please enter a valid date",
+                },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+            });
+			
+			
+			 $("#register-form").validate({
+                rules: {
+					contact_person: "required",
+					company_name: "required",
+					email: {
+                        required: true,
+                        email: true
+                    },
+					mobile1: {
+                        required: true,
+                        number: true,
+						minlength:10,
+						maxlength:10
+                    },
+					password: {
+                        required: true,
+                        minlength: 6,
+					},
+					travel_date: {
+                        required: true,
+                        date: true,
+					},
+					business_type_id: "required",
+					company_description: {
+                        required: true,
+                        minlength: 100,
+					},
+                },
+                messages: {
+                    contact_person: "Please enter your name",
+                    company_name: "Please enter company name",
+					email: "Please enter a valid email address",
+					mobile1: "Please enter a valid mobile",
+					password: {
+							required: "Please enter password",
+							minlength: "Password must be at least 6 chars long"
+						},
+					travel_date: "Please enter a valid date",
+					business_type_id: "Please select business type",
+					company_description: {
+							required: "Please enter company description",
+							minlength: "Please enter minimum 100 chars long",
+						},
+                },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+            });
+			
+			$(document).ready(function() {
+				//$("#sublocation").dropdownchecklist( {icon: {}, width: 150 } );   
+				$('#subscribe').click(function(){
+					$("#subscribe-form").validate({
+					  rules: {
+									  subscribe_email: {
+											required: true,email:true
+										}
+									},
+									messages: {
+										subscribe_email: "Please enter a valid email"
+									   
+									},
+									submitHandler: function(form) {
+						var dataString = 'email='+ $('#subscribe_email').val()+'&subscribe=0';
+						var msg='';
+						$.ajax({
+							type: "POST",
+							url: "subsribe.php",
+							data: dataString,
+							success: function(response) {
+								if(response==1)
+									msg = "Congratulations!!!You have subscribed successfully.";
+								else if(response==0)
+									msg = "You are already subscribed.";
+								$('#subs_form').html("<div id='message' style='font-size:11px;'></div>");
+								$('#message').html(msg);
+								$('#subscribe_email').val('');
+								setTimeout(function() {
+								$("#message").hide('blind', {}, 500)
+								}, 5000);
+							}
+						});
+									}
+					});
+				});
+				 
+			});
+			
+			
+        }
+    }
+
+    //when the dom has loaded setup form validation rules
+    $(D).ready(function($) {
+        JQUERY4U.UTIL.setupFormValidation();
+    });
+
+})(jQuery, window, document);
+
+
+
+
+
+/* $(document).ready(function() {
+	$("#sublocation").dropdownchecklist( {icon: {}, width: 150 } );           
+	$("#s2").dropdownchecklist( {icon: {}, width: 150 } );           
+}); */
+
+/* function validate_subscribe()
+{
+	var email = document.getElementById('subscribe_email').value;
+	alert(email);
+	return false;
+} */
+
+
+jQuery(document).ready(function(){
+	jQuery("#sub_location_1").bind('click',function(){
+		$('#travel_sub_location1').show();
+	});
+});
+
+function getvalue(a,b){
+	if(document.getElementById(b).checked){
+	if(jQuery("#sub_location_1").val()==""){
+		jQuery("#sub_location_1").val(a);
+	}
+	else{
+		currentvalue=jQuery("#sub_location_1").val();
+		jQuery("#sub_location_1").val(currentvalue+","+a);
+	}
+	}
+	else{
+	totalsublocation=document.getElementsByClassName("abc").length;
+	document.getElementById("sub_location_1").value="";
+		for(i=1;i<=totalsublocation;i++){
+			if(document.getElementById(i).checked){
+			if(jQuery("#sub_location_1").val()==""){
+				jQuery("#sub_location_1").val(document.getElementById(i).value);
+			}
+			else{
+				currentvalue=jQuery("#sub_location_1").val();
+				jQuery("#sub_location_1").val(currentvalue+","+document.getElementById(i).value);
+			}
+			}
+		}
+	}
+}
+
+function get_value(){
+	document.getElementById("travel_sub_location1").style="display:none";
+}
+</script>
+
+
+</head>
+
+<body>
+<div class="header">
+<div class="page">
+	<div class="logo">
+    <a href="http://www.travelfuntu.com"><img src="http://www.travelfuntu.com/images/logo.jpg" style="margin-bottom:15px;"></a>
+    </div>
+    <div class="top_menu">
+    <!--<ul id="nav">
+    <li class="menu"><a href="#">Account <span class="icon"> </span></a>
+    <ul class="dropdown">
+    	<li><a href="#"> Sign In </a></li>
+        <li><a href="http://www.travelfuntu.com/agents/signup.php">  Create an Account </a></li>	
+    </ul>
+    </li>
+<li class="menu"><a href="#">Manage Trips <span class="icon"></span></a>
+<ul class="dropdown">
+    	<li><a href="#">  Itineraries  </a></li>
+        <li><a href="#">   Travelers' Tools  </a></li>	
+    </ul>
+</li>
+<li class="menu"><a href="#">Support <span class="icon"></span></a>
+<ul class="dropdown">
+    	<li><a href="#">   Customer Support  </a></li>
+        <li><a href="#">    Feedback   </a></li>	
+    </ul>
+</li>
+    </ul> -->
+	<!--<ul class="facebook" style="margin-top:15px;">
+				<li><a href="#"><img src="http://www.travelfuntu.com/images/face.png" /></a></li>
+				<li> <a href="#"><img src="http://www.travelfuntu.com/images/twitter.png" /></a></li>
+				<li><a href="#"> <img src="http://www.travelfuntu.com/images/you.png" /></a></li>
+				<li> <a href="#"><img src="http://www.travelfuntu.com/images/in.png" /></a></li>
+			</ul> -->
+    </div>
+    <div class="clear"></div>
+    <div class="menu">
+    <ul>
+	<li><a href="http://www.travelfuntu.com">Home </a></li>
+	<li><a href="http://www.travelfuntu.com/about-us.php">About Us </a></li>
+	<li><a href="http://www.travelfuntu.com/blog/" target="_blank"> Blog </a></li>
+	<!--li><a href="http://www.travelfuntu.com/services.php">Services </a></li-->
+	<!--<li><a href="http://www.travelfuntu.com/career.php">Careers</a></li> -->
+	<li><a href="http://www.travelfuntu.com/contact-us.php">Contact Us </a></li>
+    <!--li class="active"><a href="#">Home</a></li>
+    <li><a href="#">Hotels</a></li>
+    <li><a href="#">Flights </a></li>
+    <li><a href="#">Expedia </a></li>
+    <li><a href="#">Holidays </a></li>
+    <li><a href="#">Bus </a></li>
+    <li><a href="#">Car Hire</a></li>
+    <li><a href="#">Holiday Activities</a></li>
+    <li><a href="#">Last Minute Deals</a></li>
+    <li><a href="#">Weekend Getaways</a></li>
+    <li><a href="#">Visa Assistance</a></li-->
+    </ul>
+    </div>
+    </div>
+</div><div class="page">
+
+<!--<div class="left">
+	
+
+<div class="howto">
+
+<div class="float_left m-l15 w311">
+
+      <h1 class="font-index">How we Help you</h1>
+
+      <div class="how-we-work"> <span style=" background: url(http://travelfuntu.com/images/save_time.png) no-repeat;">  <b>Save Time</b><br>
+        No need to surf Multiple Sites for packages, quotes, travel plans </span> <span style="background: url(http://travelfuntu.com/images/multiple_option.png) no-repeat;"> <b>Multiple Options</b><br>
+        Get Multiple Itineraries &amp; Personalised Suggestions from our Travel Specialists </span> <span style="background: url(http://travelfuntu.com/images/save_money.png) no-repeat;"> <b>Save Money</b><br>
+        Compare, Negotiate and Choose the best from multiple options </span> <span style="background: url(http://travelfuntu.com/images/trusted_network.png) no-repeat;"> <b>Trusted Network</b><br>
+        Network of 1000+ Reliable &amp; Authentic Travel Specialists </span> </div>
+
+    </div>
+
+</div>
+
+</div> -->
+
+
+<div class="inner_content" style=" width:100%;">
+
+<h2>Privacy Policy</h2><br>
+<img src="images/privacy-policy.png" style="width:1325px; height:300px;"><br><br>
+<div class="clear"></div>
+
+<p><span style="font-size:16px;font-weight:bold;text-decoration:underline;">Privacy Policy</span></p>
+<p>We have developed a privacy policy to keep you informed of what personally identifiable information ("PII") we may collect from you, what this information will be used for, with whom such information will be shared, and the security procedures we have implemented to protect your privacy. PII includes information that can be linked to a specific individual, such as name, address, phone number or email address</p>
+
+<p><span style="font-size:16px;font-weight:bold;text-decoration:underline;">Security of Your Personal Information</span></p>
+<p>We recognize the importance of security for all PII associated with our customers and use reasonable measures consistent with industry practices to protect PII under our control. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we will use reasonable efforts to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us. In order to protect the information stored in our systems, we have implemented security measures, including data encryption technology and firewalls.</p>
+
+<p><span style="font-size:16px;font-weight:bold;text-decoration:underline;">Third-Party Links</span></p>
+<p>The Web site may contain links to web sites operated and maintained by third parties over whom we have no control. The information practices of those Web sites are not covered by this privacy policy. Any information you provide to third-party Web sites or that we provide in relation to travel reservations you made will be governed under the terms of each such Web site's privacy policy. Please note that when you click on one of these links, you are entering another Web site, and we have no responsibility or liability whatsoever for the content, actions, or policies of such third-party Web sites. We encourage you to read the privacy policies of all third-party Web sites that link to the Web site, because such privacy policies may be materially different from this privacy policy.</p>
+
+</div>
+
+
+<div class="clear"></div>
+</div>
+<style>
+.footer_link a{
+	color:#FFF;
+}
+</style>
+<div class="footer">
+	<ul class="footer_link">
+		<li><p>&nbsp;</p>
+			<ul>
+				<li><a href="http://www.travelfuntu.com/about-us.php">About Us</a></li>
+				<!--li> <a href="/team.php">Travelfuntu Team</a></li-->
+				<!--li><a href="http://www.travelfuntu.com/career.php"> Careers</a></li-->	
+				<li><a href="http://www.travelfuntu.com/privacy-policy.php"> Privacy Policy</a></li>	
+				<li><a href="http://www.travelfuntu.com/tc.php"> Terms &amp; Conditions</a></li>
+				<li><a href="#"> &nbsp;</a></li>		
+			</ul>
+		</li>
+
+		<li><p>&nbsp;</p>
+			<ul>
+				<li><a href="http://www.travelfuntu.com/blog" target="_blank"> Travelfuntu Blog</a></li>	
+				<li><a href="http://www.travelfuntu.com/guide.php"> Travel Guide</a></li>	
+				<!--li><a href="http://www.travelfuntu.com/corporate-travel.php"> Corporate Travel</a></li-->	
+			</ul>
+		</li>
+
+
+		<li><p>&nbsp;</p>
+			<ul>
+				<li><a href="http://www.travelfuntu.com/contact-us.php"> Contact Us</a></li>	
+				<li><a href="http://www.travelfuntu.com/advertise.php"> Advertise With Us</a></li>	
+				<!--li><a href="http://www.travelfuntu.com/partner.php"> Partner With Us</a></li-->	
+			</ul>
+		</li>
+
+
+		<li><p>&nbsp;</p>
+			<ul>
+				<!--li><a href="http://www.travelfuntu.com/media.php"> Media</a></li>	
+				<li><a href="http://www.travelfuntu.com/channel-partner.php"> Become Channel Partner</a></li>	
+				<li><a href="http://www.travelfuntu.com/services.php"> Services</a></li-->	
+			</ul>
+		</li>
+
+
+		<li><!--<p>Follow Us</p> --><p>&nbsp;</p>
+			<!--<ul class="facebook">
+				<li><a href="#"><img src="http://www.travelfuntu.com/images/face.png" /></a></li>
+				<li> <a href="#"><img src="http://www.travelfuntu.com/images/twitter.png" /></a></li>
+				<li><a href="#"> <img src="http://www.travelfuntu.com/images/you.png" /></a></li>
+				<li> <a href="#"><img src="http://www.travelfuntu.com/images/in.png" /></a></li>
+			</ul> -->
+		</li>
+	</ul>
+</div>
+<div class="copy">
+© 2014  travelfuntu.com. All Rights Reserved.
+</div>
+</body></html>
