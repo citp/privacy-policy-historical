@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unrestrict.li privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112821id_/http%3A//unrestrict.li/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrestrict.li privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005558id_/http%3A//unrestrict.li/privacy_policy) for the most accurate reproduction.*
 
-# Unrestrict.li | Privacy Policy | Unrestricting your links!
+# Unrestrict.li | Privacybeleid | Onbeperkt downloaden!
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
