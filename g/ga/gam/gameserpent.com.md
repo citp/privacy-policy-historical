@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054625id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119034435id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
 
 # Games GameSerpent.com
 
