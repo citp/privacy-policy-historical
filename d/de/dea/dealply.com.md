@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealply.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627214615id_/http%3A//www.dealply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealply.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119074144id_/http%3A//www.dealply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DealPly
 
