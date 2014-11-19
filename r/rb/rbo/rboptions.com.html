@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the rboptions.com privacy policy that was archived on 2014-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603012853id_/http%3A//www.rboptions.com/content.php%3Fid%3D1068) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rboptions.com privacy policy that was archived on 2014-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141119235652id_/http%3A//www.rboptions.com/content.php%3Fid%3D1068) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-		<title>PRIVACY POLICY - RBOptions</title>
+		<title>PRIVACY POLICY</title>
 		<meta name="description" content="">
 		
 		<base href="http://www.rboptions.com/">
-		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/placeholder.js"></script>
 		<script type="text/javascript" src="js/select2.js"></script>
 		<script language="javascript" type="text/javascript" src="js/global.js"></script>
 		<link href="./css/select2.css" rel="stylesheet" type="text/css">
 		<!-- script language="javascript" type="text/javascript" src="js/jquery.js"></script -->
-		<link href="css/style.php" rel="stylesheet" type="text/css">
+		<link href="css/style.php?1" rel="stylesheet" type="text/css">
 <script>
   (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -30,65 +30,7 @@
 
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<script type="text/javascript" src="http://spotplatform.rboptions.com/SpotOptionPlugin.js"></script>
-		<script type="text/javascript">
-			var startTime = (new Date()).valueOf();
-			SO.load({
-				lang : 'en',
-				cookieOptions : {
-					domain : '.rboptions.com'
-					},
-				packages : {
-					
-					Clock : {},
-					Balance : {}
-					},
-					googleFonts: {
-						families: ['Roboto+Condensed:400,300,700:latin,latin-ext,cyrillic']
-					}
-				});
-		var endTime = '';
-		var uid = '0';
-		$(document).bind('spotoptionPlugin.ready', function() {
 		
-			
-			
-				if (SO.model.Customer.getCustomerId() != uid) {
-					if (SO.model.Customer.getCustomerId() > 0) SO.model.Customer.logout();
-					if (uid > 0) location.href = "users.php?act=logout&force=1";
-					}
-			
-			
-			endTime = (new Date()).valueOf(); 
-			console.log("Start: " + startTime + " End: " + endTime );
-			var mytime = endTime - startTime;
-			console.log("Loading time: " + mytime);
-			
-			
-				$(".directionControl").click(function() {
-					$(".applyCancel").trigger('click');
-					});
-			
-			
-			$("#assetTypeFilters_hotAssets_binary").text('Hot Assets');
-			$(".payoutPresentage .title").text('Position Form Payout Percentage');
-			$(".payoutPresentage .title").css("text-align","center");
-			
-			});
-			 
-		$(document).bind(SO.getSettings('events').internalLoginByAuth, function(jq, options) {
-			parseMyAuth(options);
-			});
-		
-		function ReplaceNumberWithCommas(yourNumber) {
-			var n= yourNumber.toString().split(".");
-			n[0] = n[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-			return n.join(".");
-			}
-		$(document).bind('spotoptionSession.expired', function() {
-			console.log("Logged Out!");
-			});
-        </script>
 		
 	<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=45898839"></script></head>
 	<body dir="ltr">
@@ -104,7 +46,7 @@
 
 
 
-<div class="top_site">
+<div class="top_site" style="height:95px">
 	<div class="container">
 		<div class="logo left"><a href=""><img border="0" src="files/banners/1388395724b24El.png" width="226" height="51" alt="Rboptions"></a></div>
 		
@@ -113,12 +55,13 @@
 		<form action="users.php" method="post" onsubmit="return check_login()">
 			<input type="hidden" name="act" value="check">
 			<input type="hidden" name="GOplatform" value="1">
-			<div class="input_small left"><input type="text" id="email_top" name="email" placeholder="email" autocomplete="off"></div>
+			<div class="input_small left"><input type="text" id="email_top" name="email" placeholder="Email" autocomplete="off"></div>
 			<div class="input_small left"><input type="password" id="password_top" name="password" autocomplete="off" placeholder="Password"></div>
 			<div class="left"><input type="submit" class="small_login_btn" value=""></div>
 			<div class="actions left"><a href="OpenAccount">New User?</a> | <a href="ForgotPassword">Forgot password</a></div>
 		</form>
 	</div>
+	<div class="language">Choose your language: <img src="images/eng.png"> | <a href="lang.php?lng=GER"><img src="images/ger.png"></a></div>
 </div>
 
 	</div>
@@ -132,7 +75,7 @@
 		</div>
 				
 		<div class="menu left">
-			<div class="left"><div class="btn_div" rel="33" onclick="location.href='users.php?act=form';" style="width:129px; height:33px; background:url('files/btns/1386486941d41Qv.png') top center no-repeat;"></div></div>
+			<div class="left"><div class="btn_div" rel="33" onclick="location.href='users.php?act=form';" style="width:129px; height:33px; background:url('files/btns/1408364438h38EP.png') top center no-repeat;"></div></div>
 				<div class="menu_item left">
 					<a href="?trade=1">TRADE</a>
 					
@@ -199,8 +142,8 @@
 		<div class="sidebar_banner margin_bottom_10"><div class="btn_div" rel="56" onclick="location.href='users.php?act=form';" style="width:214px; height:56px; background:url('files/btns/1386486833D33LL.png') top center no-repeat;"></div></div>
 	
 	<div class="clear"></div>
-	<div class="sidebar_banner margin_bottom_10 call_us_banner"><span class="inner_phone">CALL US 1-647-930-0904</span></div>
-	<div class="sidebar_banner margin_bottom_10"><div class="sidebar_banner margin_bottom_10"><a href="javascript:void(0);" rel="noFollow" onclick="window.open('https://server.iad.liveperson.net/hc/45898839/?cmd=file&amp;file=visitorWantsToChat&amp;site=45898839', 'brokerChat', 'width=300, height=300'); return false;"><img src="files/banners/1399447120D20Lp.png" alt="" border="0"></a></div><div class="sidebar_banner margin_bottom_10"><a href="https://play.google.com/store/apps/details?id=com.spotoption.android.rboptions" rel="noFollow" target="_self"><img src="files/banners/1389081348g48Zn.png" alt="" border="0"></a></div><div class="sidebar_banner margin_bottom_10"><a href="javascript:void(0);" rel="noFollow" onclick="platformReview();"><img src="files/banners/1385300275n75Wk.png" alt="" border="0"></a></div>
+	<div class="sidebar_banner margin_bottom_10 call_us_banner"><span class="inner_phone">CALL US +1-647-846-8231</span></div>
+	<div class="sidebar_banner margin_bottom_10"><div class="sidebar_banner margin_bottom_10"><a href="javascript:void(0);" rel="noFollow" onclick="window.open('https://server.iad.liveperson.net/hc/45898839/?cmd=file&amp;file=visitorWantsToChat&amp;site=45898839', 'brokerChat', 'width=300, height=300'); return false;"><img src="files/banners/1412452535w35Lk.png" alt="" border="0"></a></div><div class="sidebar_banner margin_bottom_10"><a href="http://www.rboptions-nfp.com/" rel="noFollow" target="_self"><img src="" alt="" border="0"></a></div><div class="sidebar_banner margin_bottom_10"><a href="http://www.rboptions-mobile.com/" rel="noFollow" target="_blank"><img src="files/banners/1416318221w21Gi.png" alt="" border="0"></a></div><div class="sidebar_banner margin_bottom_10"><a href="https://www.facebook.com/RBOptions" rel="noFollow" target="_blank"><img src="files/banners/1412605388s88Ne.png" alt="" border="0"></a></div>
 	</div>
 	<div class="sidebar_phones margin_bottom_10">
 		<!--<a href=""><img src="images/email_btn.png" alt="" border="0" /></a>
@@ -213,28 +156,21 @@
 	<strong>RBOptions does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction With the company and afterwards, as required by law.</strong></p>
 <ol>
 	<li>
-		When clients register with RBOptions they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. this information is collected in-line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity.<br>
-		 </li>
+		When clients register with RBOptions they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. this information is collected in-line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity.</li>
 	<li>
-		Our clients undertake to supply us with true, d and accurate information about their identity. furthermore they are required to state categorically that they register and trade on their own behalf and that they are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever. it is important to keep us informed about your personal data as soon as something important changes, so your profile will always be up to date, and as required under any law.<br>
-		 </li>
+		Our clients undertake to supply us with true, and accurate information about their identity. Furthermore they are required to state categorically that they register and trade on their own behalf and that they are not seeking at any time to act in any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever. It is important to keep us informed about your personal data as soon as something important changes, so your profile will always be up to date, and as required under any law.</li>
 	<li>
-		 We share information with the associated firms and other persons processing your personal information, or with banks and clearing houses in order to deliver the products you need for the best binary options trading.<br>
-		 </li>
+		We share information with the associated firms and other persons processing your personal information, or with banks and clearing houses in order to deliver the products you need for the best binary options trading.</li>
 	<li>
-		RBOptions’s data collection procedures include the collection of client’s freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which client’s interact with the RBOptions website. these tools for gathering client’s information are employed for the purpose of ensuring the customer’s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer’s confidentiality and security. the foregoing notwithstanding, RBOptions is entitled to gather and use any statistical, usability and analytics information at its sole discretion.<br>
-		 </li>
+		RBOptions’s data collection procedures include the collection of clients' freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which clients interact with the RBOptions website. These tools for gathering clients' information are employed for the purpose of ensuring the customer’s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer’s confidentiality and security. The foregoing notwithstanding, RBOptions is entitled to gather and use any statistical, usability and analytics information at its sole discretion.</li>
 	<li>
-		RBOptions will never disclose any private or otherwise confidential information with regards to our clients and former clients to third parties, without the express consent of our clients, except in such specific cases in which disclosure is a requirement (a) under law or court order, (b) to credit reference and fraud prevention agencies; (c) national and international enforcement bodies and courts when they require this kind of information, as laws and regulations demand; (d) to defend RBOptions against any claim by you or by third parties; or (e) is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.<br>
-		 </li>
+		RBOptions will never disclose any private or otherwise confidential information with regards to our clients and former clients to third parties, without the express consent of our clients, except in such specific cases in which disclosure is a requirement (a) under law or court order, (b) to credit reference and fraud prevention agencies; (c) national and international enforcement bodies and courts when they require this kind of information, as laws and regulations demand; (d) to defend RBOptions against any claim by you or by third parties; or (e) is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.</li>
 	<li>
-		By registering with RBOptions and through the voluntary interaction they undertake with RBOptions’s products and services the client confirms and agrees that they consent to the use of all or part of the information they supply concerning their RBOptions trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. all interactions the customer undertakes with the company will be stored by the company for the purposes of record and as such may be employed by the company, including in such cases that disputes arise between clients and RBOptions.<br>
-		 </li>
+		By registering with RBOptions and through the voluntary interaction they undertake with RBOptions’s products and services, the client confirms and agrees that they consent to the use of all or part of the information they supply concerning their RBOptions trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the company will be stored by the company for the purposes of record and as such may be employed by the company, including in such cases that disputes arise between clients and RBOptions.</li>
 	<li>
-		RBOptions ensures the confidentiality of its clients' personal information including the implementation of data protection procedures. RBOptions ensures that its data protection policy is regularly d in order to ensure that client’s confidential information is continually safeguarded.<br>
-		 </li>
+		RBOptions ensures the confidentiality of its clients' personal information including the implementation of data protection procedures. RBOptions ensures that its data protection policy is regularly reviewed in order to ensure that client’s confidential information is continually safeguarded.</li>
 	<li>
-		From time to time RBOptions may contact clients, including by phone or email for the purpose of offering them further information about RBOptions services and products, binary options trading or financial market trading. in addition the company may, on occasion, seek to contact clients, including by phone or by email, for the purpose of informing them of promotional offers provided by RBOptions for the client. clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with RBOptions. any person wishing to opt out of further contact with RBOptions at any time whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company be made.</li>
+		From time to time RBOptions may contact clients, including by phone or email, for the purpose of offering them further information about RBOptions services and products, binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, including by phone or by email, for the purpose of informing them of promotional offers provided by RBOptions for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with RBOptions. Any person wishing to opt out of further contact with RBOptions at any time whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company be made.</li>
 </ol>
 <p>
 	<strong>RBOptions.com has established an information security team responsible to:</strong><br>
@@ -242,7 +178,7 @@
 	<strong>b. </strong>Using Secure Sockets Layer (SSL) certification.</p>
 <p>
 	<br>
-	<strong>If you have any question please contact to our support@rboptions.com</strong></p>
+	<strong>If you have any question please contact to our cs@rboptions.com</strong></p>
 <br></div>
 					</div>
 					
@@ -281,16 +217,12 @@
 						<div class="group_title">Market</div><a href="http://rboptions.com/article.php?act=cat" rel="noFollow"><img src="images/right_white_arrow.png" alt="" border="0"> Daily Market Reviews</a><a href="assetindex.php"><img src="images/right_white_arrow.png" alt="" border="0"> Asset Index</a><a href="content.php?id=1065"><img src="images/right_white_arrow.png" alt="" border="0"> Economic Calendar</a><a href="content.php?id=1066"><img src="images/right_white_arrow.png" alt="" border="0"> Fibonacci Calculator</a>
 					</div>
 					<div class="one_group left">
-						<div class="group_title">Contact</div><a href="contact.php"><img src="images/right_white_arrow.png" alt="" border="0"> Contact Us</a><a href="contact.php?tab=team"><img src="images/right_white_arrow.png" alt="" border="0"> Trading Team</a><a href="contact.php?tab=news"><img src="images/right_white_arrow.png" alt="" border="0"> In the News</a><a href="contact.php?tab=why"><img src="images/right_white_arrow.png" alt="" border="0"> Why RBoptions</a><a href="http://partners.rboptions.com/" rel="noFollow"><img src="images/right_white_arrow.png" alt="" border="0"> Affiliates, IBs&amp; Partners</a>
+						<div class="group_title">Contact</div><a href="contact.php"><img src="images/right_white_arrow.png" alt="" border="0"> Contact Us</a><a href="contact.php?tab=team"><img src="images/right_white_arrow.png" alt="" border="0"> Trading Team</a><a href="contact.php?tab=news"><img src="images/right_white_arrow.png" alt="" border="0"> In the News</a><a href="contact.php?tab=why"><img src="images/right_white_arrow.png" alt="" border="0"> Why RBoptions</a><a href="http://partners.rboptions.com/" rel="noFollow"><img src="images/right_white_arrow.png" alt="" border="0"> Affiliates, IBs &amp; Partners</a>
 					</div>
 				<div class="clear"></div>
 			</div>
 			<div class="footer_text" style="text-align:justify;"><p>
-	HIGH RISK INVESTMENT WARNING: Trading Binary Options is highly speculative, carries a level of risk and may not be suitable for all investors. You may earn up to a maximum of 88% per trade but also at risk to lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all of the risks associated with trading Binary Options and should read the site and user <a style="color:#ffffff; font-weight:bold;" href="http://www.rboptions.com/content.php?id=1039" rel="noFollow">Terms &amp; Conditions</a> prior to trading with RBoptions. RBoptions will never reveal your personal information to any third party other than in circumstances required by governing law.</p>
-<p>
-	 </p>
-<div>
-	 </div>
+	HIGH RISK INVESTMENT WARNING: Trading Binary Options is highly speculative, carries a level of risk and may not be suitable for all investors. You may earn up to a maximum of 88% per trade but also at risk to lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all of the risks associated with trading Binary Options and should read the site and user <a href="http://www.rboptions.com/content.php?id=1039" rel="noFollow" style="color:#ffffff; font-weight:bold;">Terms &amp; Conditions</a> prior to trading with RBoptions. RBoptions will never reveal your personal information to any third party other than in circumstances required by governing law. The site is owned by Zulutoys Limited in Marshall Islands. Clearning Services for Middle East: Zulutoys LTD, Address: 145-157 St. John Street, EC1V4PW , London, UK. Clearing services Rest of The World: Gendibo LTD UK compnay number 8527798, 788-790 Finchley Road, London UK NW11 7TJ. Copyright <span style="font-family: arial, sans-serif; font-size: 16px; line-height: 19.2000007629395px;">© </span><span style="font-family: arial, sans-serif; line-height: 19.2000007629395px;">2014. All rights reserved.</span></p>
 </div>
 		</div>
 	</div>
@@ -299,7 +231,7 @@
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
