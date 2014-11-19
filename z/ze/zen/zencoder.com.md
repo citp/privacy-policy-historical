@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112002id_/http%3A//zencoder.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005333id_/http%3A//zencoder.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Brightcove Zencoder
 
 ## Privacy Policy
 
