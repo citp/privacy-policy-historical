@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165504id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119230334id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on Tone Deaf
+# Privacy Policy - Tone Deaf
 
 **Website Visitors**  
 Like most website operators, ToneDeaf.com.au collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ToneDeaf.com.au’s purpose in collecting non-personally identifying information is to better understand how ToneDeaf.com.au’s visitors use its website. From time to time, ToneDeaf.com.au may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
