@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228165730id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119134526id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
