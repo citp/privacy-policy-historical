@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064833id_/http%3A//www.yourezlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005407id_/http%3A//yourezlist.com/privacy.php) for the most accurate reproduction.*
 
 # Your EZ List! Viral List Builder | Instant Commissions | Free Traffic
 
-[](http://yourezlist.com/bannerclick.php?code=4e5ead035b1efcaa1260bb6d7dc41bd0)  
+[](http://yourezlist.com/bannerclick.php?code=0820059bbd47e4c9449d3582bc670770)  
 
 
 Your EZ List Privacy Policy
