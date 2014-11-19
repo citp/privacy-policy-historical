@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521004857id_/http%3A//www.craftbeer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119233209id_/http%3A//www.craftbeer.com/privacy-policy) for the most accurate reproduction.*
 
-# CraftBeer.com | Privacy Policy
+# Privacy Policy | CraftBeer.com
 
 The following discloses the information gathering and dissemination practices for this website: www.CraftBeer.com.
 
@@ -34,4 +34,4 @@ For all privacy and policy questions in regards to this website, please contact 
 
 Though this site can and may contain links to non-CraftBeer.com sites, the Brewers Association is not responsible for the privacy practices or the content of these websites.
 
-### Policy efective date: Dec. 1, 2012.
+### Policy effective date: Dec. 1, 2012.
