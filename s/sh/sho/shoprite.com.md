@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610132203id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005922id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
 
-# ShopRite Privacy Policy » ShopRite
+# ShopRite Privacy Policy - ShopRite
 
 This Privacy Policy is a part of the Terms & Conditions of this website (the “Website”) which are binding on all Website users and participants in the ShopRite® Price Plus® Club. The ShopRite®, ShopRite Partners in Caring®, Price Rite®, and Wakefern Food Corp. websites are operated by MyWebGrocer on behalf of Wakefern Food Corp. (“Wakefern”). Please review MyWebGrocer’s privacy policy posted at [********http://www.shoprite.com/mywebgrocer-privacy-policy/********](http://www.shoprite.com/mywebgrocer-privacy-policy/) to understand how your information is collected and used by MyWebGrocer on our sites. Please also review the privacy policy of Third Solutions LLC, which maintains and operates the digital receipts service available to ShopRite® Price Plus® Club participants at [**https://shoprite.myreceipts.com**](https://shoprite.myreceipts.com/)
 
