@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.uk.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225835id_/http%3A//www.search123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.uk.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005438id_/http%3A//www.search123.com/privacy) for the most accurate reproduction.*
 
 # Search123 | Privacy Policy
 
@@ -50,7 +50,7 @@ We may change the Privacy Policy at any time by posting the revised Privacy Poli
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at or you can send correspondence to us at the following address: Search 123, 182 Upper Richmond Road, Putney, London, SW15 2 SH, United Kingdom.
+If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at or you can send correspondence to us at the following address: Search 123, Hill Place House, 55a High Street, Wimbledon, London SW19 5BA, United Kingdom.
 
 back to top
 
@@ -136,7 +136,7 @@ The purpose of this cookie policy is to inform you about the types of cookies we
 
 ### Why do we use cookies?
 
-Cookies allow the server to recognise you when you revisit. Websites are able to read and write these files, allowing them to store things like personalisation details or user preferences. They are widely used in order to make websites work, or work more efficiently, as well as to provide business and marketing information to the owners of the site. Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. Cookies are also used for statistical purposes to track how many individual unique users we have and how often they visit our websites and to generate statistical cookies to track advertising impressions and conversions. There is further information if you click here:[www.youronlinechoices.eu](https://web.archive.org/web/20140630225835id_/http://www.search123.com/privacy/www.youronlinechoices.eu). We will use the data that we collect through our use of these cookies to ensure that you see relevant and useful adverts when you visit our Web site and/or use our services. 
+Cookies allow the server to recognise you when you revisit. Websites are able to read and write these files, allowing them to store things like personalisation details or user preferences. They are widely used in order to make websites work, or work more efficiently, as well as to provide business and marketing information to the owners of the site. Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. Cookies are also used for statistical purposes to track how many individual unique users we have and how often they visit our websites and to generate statistical cookies to track advertising impressions and conversions. There is further information if you click here:[www.youronlinechoices.eu](https://web.archive.org/web/20141120005438id_/http://www.search123.com/privacy/www.youronlinechoices.eu). We will use the data that we collect through our use of these cookies to ensure that you see relevant and useful adverts when you visit our Web site and/or use our services. 
 
 ## Our Cookies Policy
 
@@ -227,14 +227,14 @@ Please consult your documentation or online help files.
 
 ### Further information about cookies
 
-If you would like to learn more about cookies please visit [www.aboutcookies.org](https://web.archive.org/web/20140630225835id_/http://www.search123.com/privacy/www.aboutcookies.org). 
+If you would like to learn more about cookies please visit [www.aboutcookies.org](https://web.archive.org/web/20141120005438id_/http://www.search123.com/privacy/www.aboutcookies.org). 
 
 ### Useful links
 
 If you would like to find out more, you may find the following links useful: 
 
-  * The IAB has provided the following website:[youronlinechoices.eu](https://web.archive.org/web/20140630225835id_/http://www.search123.com/privacy/youronlinechoices.eu)
-  * For more detailed information about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20140630225835id_/http://www.search123.com/privacy/www.allaboutcookies.org)
+  * The IAB has provided the following website:[youronlinechoices.eu](https://web.archive.org/web/20141120005438id_/http://www.search123.com/privacy/youronlinechoices.eu)
+  * For more detailed information about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20141120005438id_/http://www.search123.com/privacy/www.allaboutcookies.org)
 
 
 
@@ -326,6 +326,6 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 ### Contacting Search123
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy.uk@search123.com](mailto:privacy.uk@search123.com) or you can send correspondence to the following address: Jayne Taberner, Country Manager, Search 123, 182 Upper Richmond Road, Putney, London, SW15 2 SH, United Kingdom. .
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy.uk@search123.com](mailto:privacy.uk@search123.com) or you can send correspondence to the following address: Jayne Taberner, Country Manager, Search 123, Search 123, Hill Place House, 55a High Street, Wimbledon, London SW19 5BA, United Kingdom.
 
 back to top
