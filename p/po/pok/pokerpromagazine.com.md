@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerpromagazine.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503143241id_/http%3A//pokerpromagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpromagazine.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119215748id_/http%3A//pokerpromagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Poker Policy-Poker Pro magazine | Poker Pro Magazine
 
