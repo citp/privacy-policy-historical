@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124220849id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120004921id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTV
 
