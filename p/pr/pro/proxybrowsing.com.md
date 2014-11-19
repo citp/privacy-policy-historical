@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxybrowsing.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519111407id_/http%3A//www.proxybrowsing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxybrowsing.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119010237id_/http%3A//www.proxybrowsing.com/privacy.php) for the most accurate reproduction.*
 
 # Proxy Browsing - Anonymous Web Browser
 
