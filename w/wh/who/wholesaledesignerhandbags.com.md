@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210091947id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119011307id_/http%3A//www.wholesaledesignerhandbags.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WholesaleDesignerHandbags.com
+# Privacy Policy - Wholesale Designer Handbags
 
-|   
 ---  
-|    
----  
-   
 | 1. | 
 
-**Introduction** : WholesaleDesignerHandbags.com (" **this website** ") is operated by WholesaleDesignerHandbags.com (" **we** ", " **us** ", " **our** "). We respect the privacy of our website users (" **you** ", " **your** "). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.  
+**Introduction** : WholesaleDesignerHandbags.com (“ **this website** “) is operated by WholesaleDesignerHandbags.com (“ **we** “, “ **us** “, “ **our** “). We respect the privacy of our website users (“ **you** “, “ **your** “). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.  
   
 ---|---  
 | 2. | 
 
-**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20140210091947id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20140210091947id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
+**Terms of use** : Your use of this website is governed by our [terms of use](http://www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](http://www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
   
 ---|---  
 | 3. | 
@@ -26,56 +22,55 @@ Collecting your personal information: We may collect personal information from y
 
 **A utomated collection**: When you visit this website, we may use automated tools and methods (such as cookies, sessions, and usage monitoring software) to collect certain information about your visit, including (without limitation):  
   
-  
 ---|---  
-  |  | a. |   | 
+|  | a. |  | 
 
 the internet protocol address and domain name used by your computer to connect to the Internet;  
   
 ---|---|---  
-b. |   | 
+b. |  | 
 
 the operating system and the browser your computer uses, and any search engine or inbound hyperlink used to reach this website;  
   
-c. |   | 
+c. |  | 
 
 the date, time, and duration of your visit; and  
   
-d. |   | 
+d. |  | 
 
 the pages viewed by you.  
   
-  | 
+| 
 
 This information will be used in aggregate form to analyse how this website is being used (for example: to analyse usage patterns in order to improve this website). Except as set out in this privacy policy, we will not disclose any such information except in aggregate form.  
   
 | 5. | 
 
-**Cookies** : This website may use cookies and sessions to provide you with certain services or functionality. Cookies and sessions may be used to identify you as an individual user of this website. We use this technology to, amongst other things:   
+**Cookies** : This website may use cookies and sessions to provide you with certain services or functionality. Cookies and sessions may be used to identify you as an individual user of this website. We use this technology to, amongst other things:  
   
 ---|---  
-  |  | a. |   | 
+|  | a. |  | 
 
 personalise your visits to this website;  
   
 ---|---|---  
-b. |   | 
+b. |  | 
 
 eliminate the need for you to repeatedly enter the same information;  
   
-c. |   | 
+c. |  | 
 
 enable us to improve the content, reliability and functionality of this website;  
   
-d. |   | 
+d. |  | 
 
 evaluate the effectiveness of the advertising on this website; and  
   
-e. |   | 
+e. |  | 
 
 track website usage patterns.  
   
-  | 
+| 
 
 Accepting a cookie will not give us access to any data on your computer other than the data stored in the cookie. Although you may configure your web browser to not accept cookies, you may experience a loss of functionality as a result.  
   
@@ -89,33 +84,32 @@ Accepting a cookie will not give us access to any data on your computer other th
 **U se**: We may use your personal information to:  
   
 ---|---  
-  |  | a. |   | 
+|  | a. |  | 
 
 provide you with services and information that you have requested;  
   
 ---|---|---  
-b. |   | 
+b. |  | 
 
 provide you with important notices and information about this website and our services;  
   
-c. |   | 
+c. |  | 
 
 provide you with other information (including promotional material, news, and event information) where you agree to receive such information;  
   
-d. |   | 
+d. |  | 
 
 verify your identity and to assist you if you forget your username or password;  
   
-e. |   | 
+e. |  | 
 
 improve or update this website and our products;  
   
-  
-f. |   | 
+f. |  | 
 
-respond to your enquiries and communicate with you; and   
+respond to your enquiries and communicate with you; and  
   
-g. |   | 
+g. |  | 
 
 personalise this website in accordance with your preferences.  
   
@@ -124,29 +118,28 @@ personalise this website in accordance with your preferences.
 **Other use and disclosure** : We will not sell, rent, or lease your personal information to third parties. We may disclose your personal information to our professional advisors, contractors, business associates, related companies, and others who have agreed to treat your personal information in accordance with this privacy policy. We will not otherwise use or disclose your personal information except:  
   
 ---|---  
-  |  | a. |   | 
+|  | a. |  | 
 
 for any purpose set out in clause 6;  
   
 ---|---|---  
-b. |   | 
+b. |  | 
 
 where you have otherwise authorised us to do so;  
   
-c. |   | 
+c. |  | 
 
 where we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure;  
   
-d. |   | 
+d. |  | 
 
 where we believe that such use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions;  
   
-e. |   | 
+e. |  | 
 
-where we believe that such use or disclosure is reasonably necessary to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of us, our users, or others; or   
+where we believe that such use or disclosure is reasonably necessary to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of us, our users, or others; or  
   
-  
-f. |   | 
+f. |  | 
 
 as otherwise required or permitted by law.  
   
@@ -162,23 +155,23 @@ as otherwise required or permitted by law.
 ---|---  
 | 11. | 
 
-**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20140210091947id_/http%3A//www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
+**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](http://www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
   
 ---|---  
-  |  | a. |   | 
+|  | a. |  | 
 
 we may ask you to put your request in writing;  
   
 ---|---|---  
-b. |   | 
+b. |  | 
 
-in some circumstances permitted by law, we may not provide such information to you (and we may not be able to require our contractors provide such information to you);   
+in some circumstances permitted by law, we may not provide such information to you (and we may not be able to require our contractors provide such information to you);  
   
-c. |   | 
+c. |  | 
 
 we decide not to correct or provide you with access to your personal information, we will give you our reasons for our decision;  
   
-d. |   | 
+d. |  | 
 
 where we provide the requested information or carry out the requested correction (or where we attach to that information a statement of any correction sought but not made), we may require you to pay a reasonable fee determined by us.  
   
@@ -186,20 +179,4 @@ where we provide the requested information or carry out the requested correction
 
 **Changes to our privacy policy** : We reserve the right to change this privacy policy from time to time by publishing the revised privacy policy on our website. If you continue to use this website or if you provide any personal information after we post changes to this privacy policy, this will deemed your conclusive acceptance of any such changes.  
   
----|---  
-   
-|   
----  
-|    
----  
-  
-WholesaleDesignerHandbags.com is not an authorized dealer or agent of Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton®. Also, WholesaleDesignerHandbags.com is in no way affiliated with Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® and these brands are the registered trademarks of their respective companies. All references to Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® are for identification purposes only.  
-  
-   
-| WholesaleDesignerHandbags.com  
-2602 Portland Ave   
-Minneapolis, MN 55407 |   | Directory Contents & Website Contents Copyright 2003-2012 WholesaleDesignerHandbags.com.  
-All rights reserved. No part of this Website may be distributed or reproduced  
-without express written consent of the Author. |   |   
----|---|---|---|---  
- 
+---|---
