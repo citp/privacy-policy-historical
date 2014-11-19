@@ -1,146 +1,53 @@
-> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611073245id_/http%3A//www.bmibaby.com/bmibaby/about_us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119040714id_/http%3A//www.bmiregional.com/en/bottom-menu/website-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookies | bmibaby.com
+# Flights across the UK and Europe with bmi regional - Privacy Policy
 
-All personal information held by bmibaby in the UK is governed by the UK Data Protection Act. Any changes to this privacy policy will be updated on this page.
+All personal information held by bmi regional in the UK is governed by the UK Data Protection Act.  Any changes to this privacy policy will be updated on this page.
 
-What personal Information is used by bmibaby and why?
+## Security
 
-On various pages of our website you have the option to provide us with personal information, all of which is kept securely. We require this information in order to complete your flight booking, and it is possible that such information may be processed outside of Europe.
+To ensure the highest standards of security, the booking system used by bmi regional, encrypts information using the industry standard Secure Sockets Layer protocol (SSL). Consequently, bookings can only be made where customers use Mozilla Firefox 1 and above, Internet Explorer 5.5 and above, or any Web browser which supports SSL.The use of SSL allows all personal information, such as your credit card number, to be encrypted as it travels from your computer to the booking system used by bmi regional. Once received, the information is unencrypted and processed in the same way as a credit card transaction placed via the telephone. At no time is your credit card number stored on our website, or in our online database - it is passed straight back to our secure servers, where it only exists as part of the record of your transaction.
 
-Special offers
+All booking profile information on our website is held on a secure server. Once your PIN number has been entered, all data is encrypted and it is not possible for an unauthorised user to access. Most browsers will notify you when you have established a secure connection. If you are not sure about this, consult the help section of your browser. If your browser does not support SSL, bmi regional recommends that you update to the latest version.
 
-On various pages of our site you have the option of providing us with your email address. This information is securely stored on our network, and is used to e-mail special offers and promotions directly to you. We also allow you to enter specific personal information including your name, mailing address, and frequency of travel with bmibaby. This specific information is used to improve the level of service and functionality available online. This information may be shared with companies within the British Midland Group PLC.  
+## What personal information is used by bmi regional and why?
 
+On various pages of our website, you have the option to provide us with personal information, all of which is kept securely.
 
-You can change your personal details or withdraw from our mailing list online by [clicking here](https://web.archive.org/bmibaby/why_bmibaby/email/unsubscribe.aspx "Unsubscribe") or in writing to: bmibaby customer relations, PO Box 737, Donington Hall, Castle Donington, Derby DE74 2SB.  
+We require specific information from you in order to process an airline booking.  This information will be used for the purposes of providing you with air transport services.  It is possible that such information may be processed outside of Europe.
 
+## Direct Marketing and Special Offers
 
-Links to other websites  
+On various pages of our site we offer you the opportunity to receive information about products, promotions and special offers which we think may interest you. Information provided is securely stored on our network, and is primarily used to email special offers, news and promotions directly to you.  We also allow you to enter specific personal information, including your name, mailing address, etc.  This specific information is used to improve the level of service and functionality available online.  This information may be shared with companies within the British Midland Regional Ltd, or with designated market research companies carrying out research on behalf of British Midland Regional Ltd.
 
+If you have signed up for marketing communications online, we will communicate with you as a registered customer. 
 
-For your convenience and information the bmibaby website provides links to other websites. bmibaby would like to make you aware that these sites may have different security and privacy policies and that we have no control over and take no responsibility for any information contained in these sites.
+You can change your personal details or withdraw from our mailing list by contacting website administration at bmi regional, Aberdeen Airport, Wellshead Drive, Dyce, Aberdeen AB21 7EU.
 
-Copyright
+## Links to Other Websites
 
-Copyright material appears on the site which is our or our Licensor’s property. Do not copy anything on the site without our prior e-mailed or written consent from bmibaby. Except as expressly stated on this website we do not give permission for you to republish, alter, transmit or otherwise copy any material on the site, but you may download information on the site for your own personal use. Except as otherwise expressly permitted under copyright law, no copying, redistribution, retransmission, publication or commercial exploitation of the downloaded material will be permitted without our express permission and that of the copyright owner. All bmibaby branded logos on this site are registered trademarks. You may not use them without our permission.
+For your convenience and information, the bmi regional website provides links to other websites. bmi regional would like to make you aware that these sites may have different security and privacy policies, which we have no control over.  We take no responsibility for any information submitted to these sites.
 
-Cookie information for the website
+## Use of Cookies
 
-Browser or tracking 'cookies' are text files that are stored on your computer. Cookies help us monitor what sections of the website you visit so that we can keep improving our service in accordance with user preferences. Our cookies don't hold any personal or confidential information about you.
+A cookie is a small executable file or txt file that is stored on your PC or mobile device. It is generated by a web server and placed on your machine for future access.
 
-We also use a clear image ‘gif’ on our email to track the results of the email campaign. If you wish to turn off this tracking for future emails, you can do so by turning off the images in the email itself.
+Certain bmi regional activities such as advertising and research implement the use of cookies. This means that bmi regional may compile statistics about users, information requests, traffic patterns and any other related site information to reputable third parties. However, bmi regional will not provide any information of this nature to any third party that could identify you as an individual.
 
-We use two types of cookies on bmibaby.com:
+## Customs and Immigration Authorities
 
-  * First Party – These cookies are set by bmibaby.com
-  * Third Party – These cookies are set by the advertising suppliers, website optimisation supplier, and lead call supplier used by bmibaby.
+bmi regional and other airlines are obliged by new laws introduced in the US and other countries, to give border control agencies access to passenger data. Accordingly, any information we hold about you and your travel arrangements may be disclosed to the customs, immigration and law enforcement authorities of any country in your itinerary.
 
+In addition, new laws in the US and other countries, require bmi regional and other airlines,  to collect 'Advance Passenger Information' (passport and associated information) for all passengers, prior to travel to or from those countries.  bmi regional is required to provide this information to the relevant customs and immigration authorities.
 
+## Copyright
 
-For further independent information about cookies please visit: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Copyright material appears on the site which is our or our Licensor's property. Do not copy anything on the site without our prior emailed or written consent. Except as expressly stated on this website we do not give permission for you to republish, alter, transmit or otherwise copy any material on the site, but you may download information on the site for your own personal use. Except as otherwise expressly permitted under copyright law, no copying, redistribution, retransmission, publication or commercial exploitation of the downloaded material will be permitted without our express permission and that of the copyright owner. All bmi regional branded logos on this site are our trade marks. You may not use them without our permission.
 
-First Party
+## Customer Surveys
 
-We use a web analytics tool to allow us to gather data to analyse how users are interacting with our website and to make enhancements to the user experience.
+We may pass on your details to nominated market research companies, solely for the purpose of carrying out research on behalf of bmi regional. This research is intended to assist us in improving the service we offer our customers. No personal information will be used for marketing purposes.
 
-Cookie Name/s | Issuer | Purpose  
----|---|---  
-  
-S1
+## Air Carriers Banned in the EU
 
-C1
-
-ns_session
-
-ns_cookietest
-
-ns_order_id
-
-| comScore | Cookies used to create a unique anonymous identifier for visitors to our website to enable us to identify how users interact with bmibaby.com  
-  
-Third Party
-
-We use online advertising suppliers to serve our adverts across the internet on other websites. In order to measure the success of the adverts we use third party cookies on some parts of the website. These cookies are normally permanent.
-
-Cookie Name/s | Issuer | Purpose  
----|---|---  
-  
-ipinfo
-
-lbh
-
-clid
-
-sglst
-
-rdrlst
-
-acs 
-
-| Media6Degrees | Tracking cookies that provide anonymous data to the advertising supplier to analyse the user's browsing behaviour for marketing purposes.  
-  
-tuuid
-
-pxl
-
-| FlashTalking | Cookies used for serving online advertisements based on your location.  
-  
-synced
-
-s
-
-tuuid
-
-id
-
-| DoubleClick | Cookies used for serving advertisement creative for the different online marketing channels.  
-  
-AA002
-
-MUID
-
-| MSN/Atlas | Tracking cookies that provide anonymous data to the advertising supplier to analyse the user's browsing behavious for marketing purposes.  
-  
-ug
-
-JSESSIONID
-
-| Specific Media | Tracking cookies that provide anonymous data to the advertising supplier to analyse the user's browsing behaviour for marketing purposes.  
-  
-bh
-
-uid
-
-C2
-
-ASCID
-
-| Ad.com/AOL | Tracking cookies that provide anonymous data to the advertising supplier to analyse the user's browsing behaviour for marketing purposes.  
-ACID | Ad.com/AOL | A cookie that tracks if you opt out from being served advertisements by AOL.  
-PREF | Google | A cookie is to track how visitors arrive to bmibaby.com from Google.  
-  
-We use a multivariate testing company to allow us to optimise the content on the website and enhance the user experience. We use cookies in order to serve the variations in content.
-
-mmcore.tst | Maxymiser | This cookie is used to test if a browser accepts cookies to allow the website optimisation tool to operate correctly.  
----|---|---  
-mmid | Maxymiser | This cookie is set for backward compatibility with previous versions of the website optimisation software.  
-  
-mmcore.srv
-
-mmcore.pd
-
-| Maxymiser | These two cookies are used to store anonymous identifiers.  They enable the website optimisation platform to remember a visitor and to server them with the appropriate content while ensuring a fast load of the web page.  
-  
-We use a lead generation company to allow us to assist customers who are unable to complete the booking themselves. We use cookies to capture the relevant information for the booking.
-
-fujswc_data
-
-fujswc_test
-
-fujswc
-
-| Leadcall | Used to capture details of flight bookings in order to provide telephone assistance to customers unable to complete the booking themselves.  
----|---|---  
-  
-Our site needs to store and access anonymous data through your browser to enhance your user experience however if you would like to change your cookie settings you can do so here.
+Following the preparation by the European Commission of a list of air carriers subject to an operating ban within the European Union, all air carriers operating in the European Union are required to bring passengers' attention to the list on their websites. In compliance with this formality, the current list and further related information can be found on the [European Commission website](http://ec.europa.eu/index_en.htm "European Commission"). We would like to reassure our passengers that the publication of this list is simply a formality and that any contract of carriage you enter into with us will not involve a flight with a carrier on the banned list.
