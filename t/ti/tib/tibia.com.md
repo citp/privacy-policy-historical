@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524030131id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005625id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Tibia - Free Multiplayer Online Role Playing Game - Support
 
@@ -28,7 +28,6 @@ CipSoft GmbH, Prüfeninger Straße 20, 93049 Regensburg, Germany (referred to he
   8. In so far as the transfer of data to third parties is not explicitly allowed by law, especially by the German BDSG, CipSoft
     * passes on personal data, to the extent that is necessary, to law enforcement and supervisory authorities for the purpose of preventing dangers to the national or public security as well as for the prosecution of criminal offences.
     * passes on the name, address and, to the extent that is necessary in individual cases, further personal data of users to its partner companies, for example for the purpose of handling payment transactions or to provide other services in the framework of the users' service agreement with CipSoft.
-    * passes on IP addresses, data about requested web pages and other related usage data to third party services, for example Google Analytics, for traffic and log analysis to compile anonymous statistical surveys on the use of CipSoft's online services. Those third parties may use cookies to improve the accuracy and usefulness of their analysis.
 Third parties may possibly be based in countries outside of the European Union, but they are bound to protect personal data to the same extent as CipSoft. CipSoft will not, aside from the aforementioned cases, pass on personal data to third parties, and solely employees of CipSoft have access to personal data in order to fulfil the tasks specified above.
   
 
