@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141830id_/http%3A//iwebchk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005442id_/http%3A//iwebchk.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Comprehensive Website Review and Analysis
-
-Plese provide valid website address. For example: mywebsite.com.
 
 ### Privacy Policy
 
