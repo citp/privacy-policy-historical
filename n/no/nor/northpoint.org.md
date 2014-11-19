@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503053102id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119231948id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
 
 # North Point Ministries
 
