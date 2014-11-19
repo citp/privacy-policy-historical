@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619225123id_/http%3A//nts.org.pk/MISC/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005332id_/http%3A//www.nts.org.pk/privacy.php) for the most accurate reproduction.*
 
-# Privacy
+# .:NTS™:.
 
 NTS is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
@@ -11,6 +11,3 @@ However, you may choose to allow us for delivery of information to third parties
 This would imply that you as a candidate hereby consent to processing of information about Candidate by NTS and associated companies in connection with the operation of the Program, the Exam(s) and test you have or wish to take. Such processing may include disclosure to third parties, such as your employer and disclosure to or within NTS or its associated organizations and institutions. Such processing may include transfer of information outside Pakistan.
 
 Candidate shall be responsible to ensure that such information is accurate and current. NTS shall have no responsibility for incorrect information provided by NTS to third parties in response to a proper request by a third party to verify a test. The above conditions are valid for one or more tests or any correspondence between you and NTS in any form.
-
-  
-
