@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620122150id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005233id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions by TextLocal Privacy Policy
 
