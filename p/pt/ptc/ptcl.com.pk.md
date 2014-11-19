@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230040041id_/http%3A//www.ptcl.com.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005426id_/http%3A//www.ptcl.com.pk/Home/PageDetail%3FItemId%3D94%26linkId%3D43%26linkId%3D42) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 This Privacy Policy for PTCL Website (www.ptcl.com.pk) is to be read and used in connection with the Terms & Conditions which are also published on this website.
 
@@ -15,8 +13,6 @@ Please note that PTCL may amend this policy from time to time without prior noti
 Whenever a User visits PTCL Website, the server used by PTCL Web Host will make a record of User IP Address, the date and time of User visit, the type of Internet Browser User uses and the URL of any web site which referred User to PTCL Website. Unless otherwise stated Cookies used (if any) in any part of PTCL web site will not be deployed for collecting personally identifiable information.
 
 As General information, Cookies are small computer files that can be stored in web surfers' computers for the purposes of obtaining configuration information and analyzing web surfers' viewing habits. User may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of User computer system). Therefore, User may not be able to utilize or activate certain available functions in PTCL Website.
-
-#### 
 
 Direct Marketing/Market Research
 
