@@ -1,92 +1,104 @@
-> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512075353id_/http%3A//www.showpo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119033146id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SHOWPO Fashion Online Shopping
 
-This privacy policy sets out how SHOWPO uses and protects any information that you give SHOWPO when you use this website. SHOWPO is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SHOWPO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+We recognise and value the protection of your personal information and have implemented the following Privacy Policy to inform you on how we will collect, store and use your personal information.
 
-## What we collect
+Our Privacy Policy fully complies with the obligations as stipulated in the Privacy Act 1988 (Cth), which represents the industry’s best practice.
 
-We may collect the following information:
+## Personal information collected
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+SHOWPO does not sell, share or trade customers personal information collected online with third parties.
 
+Personal information collected online will only be disclosed within our company for internal use only.
 
+## Collection of Personal Information
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+When you create a SHOWPO account the personal information we collect may include your:
 
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-## Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-## How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@showpo.com
+  * \- Name
+  * \- Delivery Address
+  * \- Billing Address
+  * \- Email Address
+  * \- Telephone Number
+  * \- Mobile Number
+  * \- Date of Birth
+  * \- Gender
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+  
+The personal information we collect from you will be used in some or all of the following ways:
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Suite 402, 72 Pitt St, Sydney, NSW 2000, Australia.
+  * \- To deliver the products you have purchased from SHOWPO
+  * \- To update you on the delivery of the product and for customer support purposes
+  * \- To provide you with relevant product information
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## List of cookies we collect
 
-The table below lists the cookies we collect and what information they store.
+  
+However, under no circumstances will we request or collect any information from you that may disclose your:
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+  * \- Political, religious or philosophical beliefs or affiliations
+  * \- Health and sexuality
+  * \- Racial or ethnic origin
+  * \- Criminal convictions
+
+
+
+When you register as a user on our website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at anytime by using the unsubscribe function within the electronic marketing material. We may also conduct surveys or market research and may seek other information from you on a periodic basis. These surveys will provide us with information that allows improvement in the types and quality of services offered to you, and the manner in which those services are offered to you.  
+ 
+
+## Updating Your Personal Information
+
+You can update your personal information anytime by accessing your account on SHOWPO website.
+
+## Security of Your Personal Information
+
+SHOWPO ensures that all information collected will be safely and securely stored.
+
+We protect your personal information by:
+
+  * \- Restricting access to personal information
+  * \- Maintaining technology products to prevent unauthorised computer access
+  * \- Securely destroying your personal information when it's no longer needed for our record retention purposes
+
+
+
+  
+SHOWPO uses 128 - bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard.
+
+## Disclosure of Personal Information
+
+We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from SHOWPO website.
+
+In exceptional circumstances SHOWPO may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes.
+
+SHOWPO is committed to complying with the Privacy Act and the National Privacy principles.
+
+## About Breaches of Privacy
+
+If you believe that your privacy has been breached by Show Pony please contact us at info@showpo.com and we will resolve the issue.
+
+## Collection of Computer Data
+
+When you visit SHOWPO, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:
+
+  * \- Your computer's IP address
+  * \- Browser type
+  * \- Webpage you were visiting before you came to our site
+  * \- The pages with in Show Pony you visit
+  * \- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics.
+
+
+
+  
+This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
+
+## Changes to the Privacy Policy
+
+SHOWPO reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site.
+
+## Complaints about breaches of privacy
+
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at info@showpo.com
