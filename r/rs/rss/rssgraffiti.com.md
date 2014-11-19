@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330052641id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005645id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
 
 # Privacy Policy | RSS Graffiti | Easy Facebook Automation
 
 ## [Privacy Policy](http://www.rssgraffiti.com/?page_id=2081364812)
 
-THIS PRIVACY POLICY, AS AMENDED FROM TIME TO TIME (“Policy”), GOVERNS THE INFORMATION WE COLLECT ABOUT YOU WHEN YOU ACCESS THE DEMANDMEDIA.COM WEBSITE (the “SITE”). IF YOU DO NOT AGREE TO THIS POLICY, DO NOT USE THE SITE.
+THIS PRIVACY POLICY, AS AMENDED FROM TIME TO TIME (“Policy”), GOVERNS THE INFORMATION WE COLLECT ABOUT YOU WHEN YOU ACCESS THE SCRIBBLELIVE.COM WEBSITE (the “SITE”). IF YOU DO NOT AGREE TO THIS POLICY, DO NOT USE THE SITE.
 
-THIS POLICY IS PART OF AND INCORPORATED INTO THE SITE [TERMS OF USE](http://www.demandmedia.com/terms-of-use/) (collectively, the “Terms”).
+THIS POLICY IS PART OF AND INCORPORATED INTO THE SITE [TERMS OF USE](http://www.scribblelive.com/legal/) (collectively, the “Terms”).
 
 BY PROVIDING PERSONAL INFORMATION OR OTHER INFORMATION TO US OR BY USING OUR SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY. ****
 
@@ -36,13 +36,13 @@ The information collected by third party cookies is subject to the privacy polic
 
 **3.** **OUR USE AND RETENTION OF YOUR INFORMATION** **.**
 
-**A.** Use of Personal Information.  We use personal information that you submit to us for such purposes as responding to your requests; monitoring and providing the Site; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the[Terms](http://www.demandmedia.com/terms-of-use/).
+**A.** Use of Personal Information.  We use personal information that you submit to us for such purposes as responding to your requests; monitoring and providing the Site; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the[Terms](http://www.scribblelive.com/legal/).
 
 **B.** Use of Other Information. We use other information about our users for purposes such as measuring the number of visitors to sections of our Site, making the Site more useful to visitors and delivering targeted advertising and non-advertising content.  We use IP addresses to analyze trends, administer the Site, track a user’s movement, and gather broad demographic information for aggregate, non-personally identifiable use.
 
 **C.** Retention of Information.  We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information.
 
-**4.** **OUR SHARING OF INFORMATION**.  Demand Media shares information with third parties, but only as described in this Section 4.
+**4.** **OUR SHARING OF INFORMATION**. Scribble Technologies shares information with third parties, but only as described in this Section 4.
 
 **A.** Advertisers and Others.  We share non-personally identifiable information with advertisers, site providers, and other persons with whom we conduct business.  Conversely, these advertisers, site providers, and other persons may share with us information about you that they have independently developed or acquired.
 
@@ -74,21 +74,21 @@ The information collected by third party cookies is subject to the privacy polic
 
 **8.** **CONDITIONS OF USE, NOTICES, AND REVISIONS** **.**
 
-**A.** Privacy Concerns.  Your use of the Site and any dispute over privacy is subject to the[Terms](http://www.demandmedia.com/terms-of-use/). If you have any concern about privacy at Demand Media, please send us a thorough description to [legal@demandmedia.com](mailto:legal@demandmedia.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+**A.** Privacy Concerns.  Your use of the Site and any dispute over privacy is subject to the[Terms](http://www.scribblelive.com/legal/). If you have any concern about privacy at Scribble Technologies, please send us a thorough description to [support@scribblelive.com](mailto:support@scribblelive.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
 
 **B.** Notice Required by Law.   In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us.
 
 **C.** Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see Section 9) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
 
-**9.** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.** For customer site matters (including questions relating to this Policy), you may email us at[legal@demandmedia.com](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033.
+**9.** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.** For customer site matters (including questions relating to this Policy), you may email us at[support@scribblelive.com](mailto:support@scribblelive.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033.
 
 **10.** **FOR EUROPEAN UNION CITIZENS** **.**
 
-In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should contact: [legal@demandmedia.com](mailto:legal@demandmedia.com)
+In compliance with the Safe Harbor Principles, Scribble Technoloiges, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should contact: [support@scribblelive.com](mailto:support@scribblelive.com)
 
 The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Demand Media, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., you may contact:
+Scribble Technologies, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Scribble Technoloiges, Inc., you may contact:
 
 Council of Better Business Bureaus, Inc.  
 BBB EU Safe Harbor  
@@ -98,4 +98,4 @@ Phone: 703-276-0100
 Web: [www.us.bbb.org](http://www.us.bbb.org/)  
 Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
-Copyright © 2010. Demand Media, Inc.
+Copyright © 2014. Scribble Technologies, Inc.
