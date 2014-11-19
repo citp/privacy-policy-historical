@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521001330id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119222244id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Best Poems
 
@@ -23,14 +23,14 @@ As with most other websites, we collect and use the data contained in log files.
 We do use cookies to store information, such as your personal preferences when you visit our site. We also use third party advertisements on best-poems.net to support our educational non-profit website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York poetry publishers ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing forums ads to someone who frequents forums sites).
 
 **DOUBLECLICK DART COOKIES**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about How to Publish you poems, you may see Poetry Publishers advertisements when viewing a non-related site, such as on a site about music). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about How to Publish you poems, you may see Poetry Publishers advertisements when viewing a non-related site, such as on a site about music). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into your account.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **USE OF INFORMATION THAT WE COLLECT**  
-In general, we use the information collected on our Website to help us understand who uses our Website, to improve our Website. On occasion, we may send you information on new offerings regarding poetry publishing opportunities or upcoming events. However, if you do not wish to receive E-mailed marketing messages from us, please let us know by sending an E-mail to [staff@best-poems.net](mailto:staff@best-poems.net) or writing us using the contact form in our Contact Page. 
+In general, we use the information collected on our Website to help us understand who uses our Website, to improve our Website. On occasion, we may send you information on new offerings regarding poetry publishing opportunities or upcoming events. However, if you do not wish to receive E-mailed marketing messages from us, please let us know by sending an E-mail to staff@best-poems.net or writing us using the contact form in our Contact Page. 
 
 **WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES**  
 Except as set forth in this Privacy Policy, we will not disclose any information we gather from you on our Website.  
@@ -54,7 +54,9 @@ If we decide to change this Privacy Policy, we will post those changes on our We
 
 **CONTACT REGARDING PRIVACY QUESTIONS**  
 If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our editorial staff in any of the following ways:  
+
+
 E-mail our Staff  
-[staff@best-poems.net](mailto:staff@best-poems.net)
+staff@best-poems.net 
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
