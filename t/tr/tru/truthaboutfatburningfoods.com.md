@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520025023id_/http%3A//www.truthaboutfatburningfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153449id_/http%3A//truthaboutfatburningfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,17 +75,17 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 2013/05/02
+This policy was last modified on 2014/09/16
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-_The Truth About Fat Burning Foods_
+_N &G Média inc._
 
-410 rue Florence app.8
+4001 rue Elsa-Triolet unit 403
 
-Sherbrooke, QC, J1H2J7
+Laval, Québec, Canada, H7P0K2
 
-_support (at) TheTruthAboutFatBurningFoods.com  
+_support (at) NickPineault.com  
 _
