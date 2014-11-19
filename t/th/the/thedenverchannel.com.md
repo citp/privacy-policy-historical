@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110047id_/http%3A//www.thedenverchannel.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005517id_/http%3A//www.thedenverchannel.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 7NEWS Denver TheDenverChannel.com
 
