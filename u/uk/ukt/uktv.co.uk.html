@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the uktv.co.uk privacy policy that was archived on 2013-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124220849id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uktv.co.uk privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120004921id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
-
     <meta charset="utf-8">
 
     <title>
@@ -11,13 +10,14 @@
         
     </title>
 
-
     
         <meta name="description" property="og:description" content="Learn more about the UKTV privacy policy.">
         <meta name="keywords" content="privacy-policy,network">
-        <meta property="og:image" content="http://uktv.thirdlight.com/pf.tlx?7Sj7I-7oNQY0">
+        <meta property="og:image" content="http://res.cloudinary.com/uktv/image/upload/v1414166010/gxms3ajive1cehm9jymm.jpg">
         <meta property="og:title" content="Privacy Policy | UKTV">
         <meta property="og:url" content="http://network.uktv.co.uk/article/privacy-policy/">
+        
+       <meta name="google-site-verification" content="0M95EzmrXkGGITbuA3aER5tLr-oYqnqlAlml-SJFyWs">
     
 
     
@@ -28,16 +28,20 @@
         <meta name="twitter:creator" content="@UKTV">
         <meta name="twitter:title" content="Privacy Policy">
         <meta name="twitter:description" content="Learn more about the UKTV privacy policy.">
-        <meta name="twitter:image" content="http://res.cloudinary.com/uktv/image/upload/q_80/v1383817482/ruex2nlqkfng71mjws8l.jpg">
+        <meta name="twitter:image" content="http://res.cloudinary.com/uktv/image/upload/q_80/v1414166010/gxms3ajive1cehm9jymm.jpg">
     
 
     
     
+        
+    
 
-    <!-- Facebook -->
-    <meta property="fb:app_id" content="217408361717713">
+    
+        <meta property="fb:app_id" content="220731151407495">
+    
+    
+    <meta name="googlebot" content="NOODP">
 
-    <!-- Viewport Tag - stops mobile browsers scaling the page -->
     <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
 
     <link rel="icon" type="image/png" href="/static/img/favicon.ico">
@@ -51,7 +55,9 @@
 
     
 
-    <link rel="stylesheet" href="/static/CACHE/css/2b51db6d0c97.css" type="text/css">
+    <link rel="stylesheet" href="/static/CACHE/css/6b0d7ebc3a84.css" type="text/css">
+
+    <link rel="stylesheet" href="/static/CACHE/css/f709f1129b24.css" type="text/css">
 
     
     
@@ -65,69 +71,91 @@
         <link rel="stylesheet" href="/static/css/ie/ie7.css" type="text/css"/>
     <![endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://adm.fwmrm.net/p/uktv_display/LinkTag2.js"></script><script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
-
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://adm.fwmrm.net/p/uktv_display/LinkTag2.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
     <script src="/static/js/jquery_1.7.1.min.js" type="text/javascript"></script>
     <script src="/static/js/libraries-plugins/modernizr.js" type="text/javascript"></script>
 
     
-    
+        
 <script type="text/javascript">
 
     var UKCMS = UKCMS || {};
 
     UKCMS = {
         user_status: '',
+        //user_status: 'vod-ready',
 
-        // Site settings from our Django site configs
         SETTINGS: {
-            site: 'network'
+            site: 'network',
+            site_name: 'UKTV',
+            itunes_app_url: '',
+            days_left_threshold: 3,
+            is_play_portal: 'false',
+            primetime_start: parseInt('19', 10)
         },
-        // URLS for use in AJAX requests
+
         CLIENT: {
+            theBody: $('body'),
             initialViewportWidth: $(window).width(),
-            viewportWidth: $(window).width()
+            viewportWidth: $(window).width(),
+            is_iPad: /iPad/i.test(navigator.userAgent),
+            is_iOS: navigator.userAgent.indexOf('iPad') > -1 || navigator.userAgent.indexOf('iPhone') > -1 || navigator.userAgent.indexOf('iPod') > -1
         },
+
         URLS: {
             newsletter_signup: '/myuktv/newsletter-signup',
             program_detail: '/tv-guide/detail/0', // 0 is a placeholder for the listing ID
             login: '/cas/login/',
             logout: '/cas/logout/',
-            user_profile: '/myprofile/'
+            user_profile: '/myprofile/',
+            vod_maxi_player: '/video/maxi-player/'
         },
-        // Random Themes for use in 'js/random-themes.js'
+
         RANDOM_THEMES: {
-            isEnabled: true,
+            isEnabled: true,                  // Random Themes for use in 'js/random-themes.js'
             usesSameBGGradient: false,        // does each random theme bg have its own gradient too?
             excludeByBodyClass: [],           // pages to exclude from random themes, targeted by body class
             numberOfThemes: 1                 // must correspond with number of images
         },
-        // VOD
-        VOD: {}
+
+        VOD: {
+            current_video_data: {},           // info about currently selected VoD video as data object - set in vod.js
+            use_maxi_player: false,           // use the full screen HTML5 player for tablets? (set for iPad below)
+            promo_opts: {
+                'staff_pick': 'Staff Pick',
+                'premier': 'See it first',
+                'celeb_pick': 'Celeb Pick'
+            }
+        }
     };
+
+
+    // use the VoD maxi player if the user is on an iPad
+
+    UKCMS.VOD.use_maxi_player = UKCMS.CLIENT.is_iPad;
 
 </script>
 
 <script type="text/javascript" src="/static/js/site-variables.js"></script>
 
 
-    <!-- IE support for media queries & CSS selectors -->
     <!--[if lt IE 9]>
         <script src="/static/js/ie-fixes/respond.js"></script>
-
     <![endif]-->
 
-    <!-- compression seems to break these -->
+    
     <script src="/static/js/imaging.js"></script>
 
-    <script type="text/javascript" src="/static/CACHE/js/e44322a6a5bb.js"></script>
+    <script type="text/javascript" src="/static/CACHE/js/d91a1d126d0f.js"></script>
 
     
 
 
     
 
+    <!--[if lt IE 9]>
     <script src="/static/js/ie-fixes/ie-selector-fix.js"></script>
+    <![endif]-->
 
     <script src="/static/js/ios-ipad-iphone/ios-orientation-change-fix.js"></script>
 
@@ -135,7 +163,20 @@
     
     
     
-<script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netid=1065&amp;cookieName=cto2_channel4&amp;rnd=23558822656&amp;varName=crtg_content" async=""></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
+
+	
+    <script>
+	var _prum = [['id', '52e0f859abe53db074000000'],
+	             ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+	    var s = document.getElementsByTagName('script')[0]
+	      , p = document.createElement('script');
+	    p.async = 'async';
+	    p.src = '//rum-static.pingdom.net/prum.min.js';
+	    s.parentNode.insertBefore(p, s);
+	})();
+</script>
+<script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netid=1065&amp;cookieName=cto2_channel4&amp;rnd=16179024170&amp;varName=crtg_content" async=""></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
 .fb_invisible{display:none}
 .fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
 .fb_reset > div{overflow:hidden}
@@ -235,15 +276,14 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
 .fbpluginrecommendationsbarright{right:10px}</style></head>
 
 
-<body class="network  single-page article-detail   privacy-policy  " itemscope="" itemtype="http://schema.org/WebPage">
+<body class="network   single-page article-detail   privacy-policy  " itemscope="" itemtype="http://schema.org/WebPage">
 
-    
-    <div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20130928192431/http://connect.facebook.net/en_US/all.js" async="" id="facebook_js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=27#channel=f1e55ae39f0fdb&amp;channel_path=%2Fweb%2F20131124220849id_%2Fhttp%3A%2F%2Fnetwork.uktv.co.uk%2Farticle%2Fprivacy-policy%2F%3Ffb_xd_fragment%23xd_sig%3Dfed7e8e8619e44%26&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+    <div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20130928192431/http://connect.facebook.net/en_US/all.js" async="" id="facebook_js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=27#channel=f2378bc080ddef8&amp;channel_path=%2Fweb%2F20141120004921id_%2Fhttp%3A%2F%2Fnetwork.uktv.co.uk%2Farticle%2Fprivacy-policy%2F%3Ffb_xd_fragment%23xd_sig%3Df397d8bfbd19d28%26&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
     <div id="fb-root"></div>
 <!--Some facebook code requires the fb-root div -->
 <script src="/static/js/facebook.js" type="text/javascript"></script>
 <script>
-    facebookAppId = '217408361717713';
+    facebookAppId = '220731151407495';
     facebookDefaultScope = ["email", "user_about_me", "user_birthday", "user_website"];
     staticUrl = '/static/';
     function facebookJSLoaded(){
@@ -352,10 +392,10 @@ versaTag.conditionalParams = {
         u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);
         (d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"/><'+'/p>');
     };
-    sitestat("//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=");
+    sitestat("//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=VERSA1");
     // ]]>
 </script>
-<noscript><p><img src="//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=" height="1" width="1" alt="*"/></p></noscript>
+<noscript><p><img src="//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=VERSA1" height="1" width="1" alt="*"/></p></noscript>
 <!-- End CMC -->
 
 <!-- Assign click tracking code to any annotated links
@@ -369,7 +409,7 @@ versaTag.conditionalParams = {
 
 <script type="text/javascript">
     function galleryPageView(){
-        sitestat("//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=");
+        sitestat("//uk.sitestat.com/uktv/network-site/s?name=article.privacy-policy&uktv_campaign=VERSA1");
     }
 </script>
 
@@ -438,10 +478,15 @@ versaTag.conditionalParams = {
 
             
 
+            
+            
+
+            
             <a id="menu-btn" class="expand-menu" href="#" title="Open the main menu"><span class="text">Main Menu</span><i class="icon icon-menu"></i><span class="clear-float"></span></a>
+
         </div><!-- /.nav-wrap -->
 
-        <!-- Generate the Main Menu -->
+        
         
 <nav id="main-nav" class="site-nav" role="navigation" aria-label="Primary Menu">
     <ul>
@@ -476,16 +521,25 @@ versaTag.conditionalParams = {
             </a>
         </li>
         
+        <li>
+            <a href="http://network.uktv.co.uk/competitions/" title="">
+            Competitions
+            </a>
+        </li>
+        
     </ul>
 </nav>
 
 
 
         
+        
             
                 
                     
+                        
 
+                    
                 
             
         
@@ -495,9 +549,129 @@ versaTag.conditionalParams = {
 </div><!-- /nav-bar -->
 </div><!-- /nav-placeholder -->
 
+
+
+<!--
+
+    Predictive Search Results Templates
+    -----------------------------------
+    This template is used by the predictive search Javascript to display search results as the user types,
+    the Javascript & CSS can be found in `predictive_search.js` and `predictive-search.less`
+
+ -->
+
+<script type="text/template" id="play_search_result_template">
+    <div class="pred-results <%= data.non_sticky_css_class %>">
+        <div class="pred-results-container">
+
+            <a id="pred-results-close" class="pred-results-close" href="#" title="Close these search results"><i class="icon icon-close"></i></a>
+
+
+            <% if (data.results) { %>
+
+                <ul class="results-list">
+                    <% _.each( data.results, function( item ){ %>
+                        <li class="play-pred-item">
+                            <a href="<%= item.link %>">
+                                <span class="title"><i class="icon <% if (item.is_collection) { %>icon-collection<% } else { %>icon-vod<% } %>"></i> <%= item.title %></span>
+                                <span class="arrow"><span class="num-ep"><%= item.ep_count %></span> <i class="icon icon-right"></i></span>
+                            </a>
+                        </li>
+                    <% }); %>
+                </ul>
+
+            <% } %>
+
+            <% if (data.no_search) { %>
+                <h1 class="no-results-title">What do you fancy watching?</h1>
+            <% } %>
+
+            <% if (data.no_results) { %>
+                <h1 class="no-results-title">No results found for <span><%= data.query %></span></h1>
+                <p class="no-results-text">We used everything but the metal detector, <br />but it’s just not here&hellip;</p>
+            <% } %>
+
+        </div>
+    </div>
+</script>
+
+
+<script type="text/template" id="search_result_template">
+    <div class="pred-results page-element <%= data.non_sticky_css_class %>">
+
+        <a href="#"></a>
+
+        <div class="container">
+
+            <a id="pred-results-close" class="pred-results-close" href="#" title="Close these search results"><i class="icon icon-close"></i></a>
+
+            <div class="row">
+                <div class="span6">
+                    <h3 class="title pred-search-title">Shows</h3>
+                    <% _.each( data.brands, function( item ){ %>
+                        <div class="pred-item-img">
+                            <a href="<%= item.link %>" title="<%= item.title %>" class="img-zoom result-img">
+                                <img src="<%= item.t_thumb %>" />
+                            </a>
+                            <h5 class="teaser-title">
+
+                                <% if (item.vod_link) { %>
+                                    <i class="icon-vod small icon"></i>
+                                <% } else { %>
+                                    <i class="icon-brandpage small icon"></i>
+                                <% } %>
+
+                                <% if (item.vod_link) { %>
+                                    <a href="<%= item.vod_link %>" title="<%= item.title %>"><%= item.title %></a>
+                                <% } else { %>
+                                    <a href="<%= item.link %>" title="<%= item.title %>"><%= item.title %></a>
+                                <% } %>
+                            </h5>
+
+                            <span class="clear-float"></span>
+                        </div>
+
+                    <% }); %>
+
+                </div>
+                <div class="span6">
+                    <hr class="keyline"  />
+
+                    <h3 class="title pred-search-title">Other Categories</h3>
+
+                    <% if (data.other_results.length === 0) { %>
+                        <div class="pred-item">
+                            <p class="teaser-text">No more results found</p>
+                        </div>
+                    <% } %>
+
+                    <% _.each( data.other_results, function(item,index){ %>
+
+                        <!-- add div.col around first 4 results and div.col2 around the rest (for two col layout on large screens) -->
+                        <% if (item.index === 0) { %><div class="col1"><% } %>
+                        <% if (item.index === 4) { %></div><div class="col2"> <% } %>
+
+                        <div class="pred-item">
+                            <h5 class="teaser-title"><i class="icon-<%= item.c_type %> small icon"></i> <a href="<%= item.link %>"><%= item.title %></a></h5>
+                        </div>
+
+                        <% if (item.index === (data.other_results.length - 1)) { %> </div> <% } %>
+
+                    <% }); %>
+                </div>
+            </div><!-- /.row -->
+        </div>
+
+        <div class="show-all">
+            <nav class="btn-holder show-more center">
+                <a class="show-more-btn" href="<%= data.show_all_query %>" title="See all search results">Show all</a>
+            </nav>
+        </div>
+
+    </div>
+</script>
     
 
-    <!-- Total Wrapper: wraps all content in a multi-purpose wrapping element -->
     <div id="total-wrapper">
         
 
@@ -585,7 +759,7 @@ versaTag.conditionalParams = {
 
     <ul class="">
         
-        <li class="facebook"><div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana" fb-xfbml-state="rendered"><span style="height: 21px; width: 450px;"><iframe id="f1937f98388c59c" name="ffe06e74f2d678" scrolling="no" title="Like this content on Facebook." class="fb_ltr" src="https://www.facebook.com/plugins/like.php?api_key=217408361717713&amp;channel_url=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D27%23cb%3Df2b90872241a4c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1e55ae39f0fdb%26relation%3Dparent.parent&amp;colorscheme=light&amp;extended_social_context=false&amp;font=verdana&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131124220849id_%2Fhttp%3A%2F%2Fnetwork.uktv.co.uk%2Farticle%2Fprivacy-policy%2F&amp;layout=button_count&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450" style="border: none; overflow: hidden; height: 21px; width: 450px;"></iframe></span></div></li>
+        <li class="facebook"><div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana" fb-xfbml-state="rendered"><span style="height: 21px; width: 450px;"><iframe id="f2200f9fedca69c" name="f1d87942fd2da1" scrolling="no" title="Like this content on Facebook." class="fb_ltr" src="https://www.facebook.com/plugins/like.php?api_key=220731151407495&amp;channel_url=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D27%23cb%3Df1b6af8f1af5ac%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff2378bc080ddef8%26relation%3Dparent.parent&amp;colorscheme=light&amp;extended_social_context=false&amp;font=verdana&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141120004921id_%2Fhttp%3A%2F%2Fnetwork.uktv.co.uk%2Farticle%2Fprivacy-policy%2F&amp;layout=button_count&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450" style="border: none; overflow: hidden; height: 21px; width: 450px;"></iframe></span></div></li>
         <li class="twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a></li>
         <li class="gplus"><div class="g-plusone" data-size="medium"></div></li>
     </ul>
@@ -687,6 +861,8 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
                     
                     
 
+                    
+
                 </div><!-- /main-content -->
 
         </main><!-- /main WAI-ARIA container-->
@@ -705,6 +881,7 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
             
 
             
+                
                 
             
 
@@ -737,15 +914,15 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
     
     <nav class="all-site-links-big " id="">
         <ul class="channel-logos-70x70 simple-layout clearfix">
-            <li class="logo gold"><a href="http://goldtv.co.uk" title="Gold">Gold</a></li>
-            <li class="logo dave"><a href="http://joindave.co.uk" title="Dave">Dave</a></li>
             <li class="logo watch"><a href="http://watchchannel.co.uk" title="Watch">Watch</a></li>
+            <li class="logo dave"><a href="http://joindave.co.uk" title="Dave">Dave</a></li>
             <li class="logo alibi"><a href="http://alibitv.co.uk" title="Alibi">Alibi</a></li>
-            <li class="logo yesterday"><a href="http://yesterdaytv.co.uk" title="Yesterday">Yesterday</a></li>
+            <li class="logo gold"><a href="http://goldtv.co.uk" title="Gold">Gold</a></li>
             <li class="logo eden"><a href="http://edentv.co.uk" title="Eden">Eden</a></li>
             <li class="logo drama"><a href="http://dramachannel.tv" title="Drama">Drama</a></li>
-            <li class="logo food"><a href="http://goodfoodchannel.co.uk" title="Good Food">Good Food</a></li>
             <li class="logo really"><a href="http://reallytv.co.uk" title="Really">Really</a></li>
+            <li class="logo food"><a href="http://goodfoodchannel.co.uk" title="Good Food">Good Food</a></li>
+            <li class="logo yesterday"><a href="http://yesterdaytv.co.uk" title="Yesterday">Yesterday</a></li>
             <li class="logo home"><a href="http://lovehome.co.uk" title="Home">Home</a></li>
             
         </ul>
@@ -753,7 +930,7 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
 </aside>
 
 
-<footer id="static-footer" role="contentinfo">
+<footer id="static-footer" role="contentinfo" class="margin-bottom">
 
     <!-- static footer contents will go here -->
     
@@ -791,6 +968,12 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
                     </a>
                 </li>
             
+                <li>
+                    <a href="http://network.uktv.co.uk/competitions/" title="Competitions">
+                        Competitions
+                    </a>
+                </li>
+            
         </ul>
     </nav>
 
@@ -817,7 +1000,7 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
                     <a href="http://network.uktv.co.uk/article/help/" target="_blank">Help</a>
                 </li>
                 <li>
-                    <a href="http://uktv.co.uk" target="_blank">UKTV corporate site</a>
+                    <a href="http://corporate.uktv.co.uk" target="_blank">UKTV corporate site</a>
                 </li>
                 <li>
                     <a href="http://network.uktv.co.uk/article/parental-guidance/" target="_blank">Parental Guidance</a>
@@ -838,7 +1021,11 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
     
 
     
-        <footer id="site-footer">
+        
+
+
+
+<footer id="site-footer">
 
     <section class="footer-bar clearfix">
 
@@ -859,9 +1046,12 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
             </ul>
         </div>
 
-        
+		
+			
 
-        
+		
+
+		
 
         
         
@@ -871,6 +1061,7 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
     </section>
 
 </footer>
+
 
     
 
@@ -885,7 +1076,7 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
             network_id : "174057",
             profile : "g_js",
             other_global_params : "csid=network/article",
-            key_values :  ""
+            key_values :  "uktvid=VERSA1"
         };
 
         var e = function(){
@@ -910,19 +1101,21 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
     {
         return{
 
-            network_id : "174057", // Live
+            //network_id : "174057", // Live
+            networkId : 174057,
             siteSectionNetworkId:174057,
             videoAssetNetworkId:174057,
             fw_server:"http://2a7e7.v.fwmrm.net/ad/p/1",
             amLocation_js: "http://adm.fwmrm.net/p/c4_brightcove_live/AdManager.js",
-            cb_profile_js: "c4_brightcovehtml5_test",
+            //cb_profile_js: "c4_brightcovehtml5_test",
+            cb_profile_js: "c4_brightcovehtml5_live",
             assetIdField: "housenum",
             siteSection:"network/article",
             autoplay:false,
             
                 amLocation:"http://adm.fwmrm.net/p/uktv_short_live/AdManager.swf",
             
-            fw_keyvalues: ""
+            fw_keyvalues: "uktvid=VERSA1"
         };
     }
 
@@ -948,12 +1141,19 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
     
     <script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1623692-23']);
-    _gaq.push(['_setCustomVar', 1, 'is_logged', 'False', 2]);
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1623692-23');
+    // Is logged in dimension
+    ga('set', 'dimension1', 'False');
+    // Ad Campaign IDs dimension
+    ga('set', 'dimension7', 'VERSA1')
 
     
-        _gaq.push(['_trackPageview']);
+        ga('send', 'pageview');
     
 
     
@@ -971,20 +1171,14 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
         });
     }
 
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
     // Manual google analytics page view call
     function gPageView(){
-        _gaq.push(['_trackPageview']);
+        ga('send', 'pageview');
     }
 
     $(document).ready(function () {
         $("a[uktv\\:track-link-group]").click(function(e){
-            _gaq.push(['_trackEvent', 'ClickTrack', $(this).attr('uktv:track-link-group'), $(this).attr('uktv:track-link-name')]);
+            ga('send', 'event', 'ClickTrack', $(this).attr('uktv:track-link-group'), $(this).attr('uktv:track-link-name'));
         })
     });
 
@@ -992,13 +1186,15 @@ Post:   UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH</p>
 
     
     
+    
+    
+    
 
-    
-    
     
 
     
     <script src="/static/js/twitter-bootstrap/tab.js"></script>
+
 
 
 
