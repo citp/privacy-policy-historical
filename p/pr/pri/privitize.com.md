@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privitize.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616080644id_/http%3A//privitize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privitize.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119194205id_/http%3A//privitize.com/privacy) for the most accurate reproduction.*
 
 # Privitize VPN - Privacy Policy
 
