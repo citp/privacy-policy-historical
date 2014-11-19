@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makingdifferent.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123539id_/http%3A//www.makingdifferent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingdifferent.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119031614id_/http%3A//www.makingdifferent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Making Different
+# Privacy Policy - Making Different
 
 Every blogger looks forward for the privacy policy for its blog that manages the blog and collects, uses, maintains and discloses the information collected from the users, and in the makingdifferent.com privacy policy is applied to the site, the products and the services offered by my site that is makingdifferent.com. On this blog you will find many types of privacy policy like that of personal, Non-personal, web browser cookie, a collection of information and its protection, advertisement and much more. So lets have a look on each of the policy one by one by which you can share best experience with my amazing blog makingdifferent.com.
 
