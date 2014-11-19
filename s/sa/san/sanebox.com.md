@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065449id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005714id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
 # SaneBox Privacy Policy
 
@@ -68,6 +68,6 @@ SaneBox, Inc.
 Boston MA 02116  
 
 
-or by leaving us a note: [http://support.sanebox.com](http://support.sanebox.com/)
+or by leaving us a note: [http://support.sanebox.com](https://support.sanebox.com/requests/anonymous/new)
 
 [](http://www.etrust.org/cert/897569.html)
