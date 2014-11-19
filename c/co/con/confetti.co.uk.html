@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the confetti.co.uk privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626151654id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the confetti.co.uk privacy policy that was archived on 2014-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141119230253id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
+
     <meta charset="UTF-8">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-language" content="en-gb">
@@ -62,7 +63,7 @@
     });
     </script>
 
-    <link rel="stylesheet" href="http://www.confetti.co.uk/blog/wp-content/themes/Confetti_Blog-2012/style.css?v=3" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.confetti.co.uk/blog/wp-content/themes/Confetti_Blog-2012/style.css?v=4" type="text/css" media="screen">
     <link rel="pingback" href="http://www.confetti.co.uk/blog/xmlrpc.php">
         
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
@@ -81,7 +82,7 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.confetti.co.uk/blog/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.confetti.co.uk/blog/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://www.confetti.co.uk/?p=4595">
-
+    
 </head>
 
 <!--[if lt IE 7 ]> <body class="phpbb ltr ie6"> <![endif]-->
@@ -93,149 +94,234 @@
 <!--<![endif]-->
 
 
-<div id="leaderboard">
-    <!-- Confetti_Leaderboard -->
-    <div id="leaderboard-unit" style="width:728px; height:90px;">
-    <script type="text/javascript">
-    googletag.cmd.push(function() { googletag.display('leaderboard-unit'); });
-    </script>
+<script>
+    $(function () {
+        $("#go_button").on('click', function (e) {
+            var $form = $('#search form'),
+                $select = $("#search_select option:selected"),
+                $searchBox = $("#search_textbox_uk"),
+                searchTerm = $searchBox.val(),
+                action, method, name, serialization;
+
+            e.preventDefault();
+
+            if (searchTerm === '') {
+                alert('Please enter a search term');
+            } else {
+                action = $select.data('action');
+                method = $select.data('method');
+                name = $select.data('name');
+
+                $form.prop('action', action).prop('method', method);
+
+                if (method === 'post') {
+                    $form.submit();
+                } else if (method === 'get') {
+                    $searchBox.prop('name', name);
+                    serialization = $form.serialize();
+
+                    if (name === 'search') {
+                        serialization = serialization.replace('search=', '');
+                        action = action.replace('[term]', serialization);
+                        window.location = action;
+                    } else {
+                        $form.submit();
+                    }
+
+                    //console.log(serialization);
+                }
+            }
+        });
+
+        function shopSearch(searchTerm) {
+
+        }
+    });
+</script>
+
+<div id="header_outer_container">
+    <div id="leaderboard-unit">
+        <script type="text/javascript">
+            googletag.cmd.push(function() {
+                googletag.display('leaderboard-unit');
+            });
+        </script>
+    </div>
+
+    <div id="user_links">
+    </div>
+
+    <div id="header">
+        <div id="header_container">
+            <div id="logo">
+                <a href="http://www.confetti.co.uk">
+                    <img src="http://assets.confetti.co.uk/img/ui/confetti-logo3.gif" alt="Confetti.co.uk" width="166" height="73">&nbsp;
+                </a>
+            </div>
+            <div id="search">
+                <form action="http://www.confetti.co.uk/shop/search_forward" method="post">
+                    <input type="text" id="search_textbox_uk" name="search">
+                    <select id="search_select" class="nav_small">
+                        <option value="shop" data-method="post" data-name="search" data-action="http://www.confetti.co.uk/shop/search_forward">
+                            Shop
+                        </option>
+                        <option value="suppliers" data-method="get" data-name="search" data-action="http://directory.confetti.co.uk/keyword/[term]/">
+                            Suppliers
+                        </option>
+                        <option value="articles" data-method="get" data-name="s" data-action="http://www.confetti.co.uk/search/">
+                            Articles
+                        </option>
+                    </select>
+                    <input id="go_button" type="image" src="http://cdn3.wsstatic.com/partners/confetti/header/search6248b22cd9d290303280d2afba590356.gif">
+                </form>
+            </div>
+
+            <ul id="menu">
+                <li><a href="http://www.confetti.co.uk/">Home</a></li>
+                <li class="dropdown">
+                    <a href="http://www.confetti.co.uk/shop/">Shop</a>
+                    <div class="submenu">
+                        <div class="content">
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-invitations-rsvp/wedding-invitations">Invitations</a></li>
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-stationery/wedding-stationery-collections">Stationery Collections</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-favours/all">Favours</a></li>
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/wedding-centrepieces">Centrepieces</a></li>
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-cake-toppers/all">Cake Toppers</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/disposable-wedding-cameras?icp=HomeShopeMenu&amp;icn=Cameras">Disposable Cameras</a></li>
+                                <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/wedding-table-decorations">Table Decorations</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/shop/">Shop all store...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="#">Venues &amp; Suppliers</a>
+                    <div class="submenu">
+                        <div class="content" style="width:80%">
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/">Wedding Suppliers</a></li>
+                                <li><a href="http://directory.confetti.co.uk/wedding-venues/">Wedding Venues</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/late-availability-venues/">Late Availability Venues</a></li>
+                                <li><a href="http://directory.confetti.co.uk/wedding-photographers/">Wedding Photographers</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/entertainment/">Entertainment</a></li>
+                                <li><a href="http://directory.confetti.co.uk/wedding-flowers/">Wedding Florists</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/honeymoons/">Honeymoons</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="http://www.confetti.co.uk/wedding-events/">Wedding Fairs</a></li>
+                <li class="dropdown">
+                    <a href="#">Dresses &amp; Styles</a>
+                    <div class="submenu">
+                        <div class="content" style="width:77%;">
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/bridalwear-stockists/">Bridalwear Stockists</a></li>
+                                <li><a href="http://directory.confetti.co.uk/fashion/wedding-dresses/">Wedding Dresses</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/fashion/bridesmaid-dresses/">Bridesmaid Dresses</a></li>
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/mother-of-the-bride">Mother of the Bride</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://directory.confetti.co.uk/fashion/menswear/">Menswear</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="http://www.confetti.co.uk/wedding-inspiration">Inspiration &amp; Articles</a>
+                    <div class="submenu">
+                        <div class="content">
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/all-articles/">Articles</a></li>
+                                <li><a href="http://www.confetti.co.uk/inspiration/mood-boards/">Mood Boards</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/bridalwear/">Bridalwear</a></li>
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/cakes">Wedding Cakes</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/flowers">Flowers &amp; Bouquets</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/hen-and-stag">Hen &amp; Stag</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="http://www.confetti.co.uk/organising-planning/">Planning</a>
+                    <div class="submenu">
+                        <div class="content" style="width:70%;">
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/roles-duties/">Roles &amp; Duties</a></li>
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/gift-lists">Gift Lists</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/speeches/">Speeches</a></li>
+                                <li><a href="http://www.confetti.co.uk/wedding-ceremonies/">The Ceremony</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/wedding-receptions/">The Reception</a></li>
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/weddings-abroad">Weddings Abroad</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/wedding-inspiration/honeymoons">Honeymoons</a></li>
+                                <li><a href="http://namechange.confetti.co.uk/">Confetti name change Kit</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="http://www.confetti.co.uk/real-weddings/">Real Weddings</a></li>
+                <li class="dropdown">
+                    <a href="http://www.confetti.co.uk/member/">Members</a>
+                    <div class="submenu">
+                        <div class="content">
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/member/">My Confetti</a></li>
+                                <li><a href="http://forums.confetti.co.uk/">Brides' Forums</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/competitions/">Free Competitions</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://tools.confetti.co.uk/">Free Planning Tool</a></li>
+                            </ul>
+                            <ul class="col">
+                                <li><a href="http://www.confetti.co.uk/ask-kate/">Ask kate</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </div>
 </div>
+
+
+
 <div id="container" class="clearfix">
-  <header>
-    <a href="http://www.confetti.co.uk">
-      <img src="//image.confetti.co.uk/ui/confetti-logo2.png" alt="Confetti.co.uk" id="logo" width="187" height="90">
-    </a>
-    <div id="header-right">
-      <div>
-        <div id="social-header" class="gallery-layout">
-          <div class="facebook item">
-            <a href="http://www.facebook.com/confettiwedding/" target="_blank">Facebook.</a>
-          </div>
-          <div class="twitter item">
-            <a href="https://twitter.com/ConfettiWedding/" target="_blank">Twitter.</a>
-          </div>
-          <div class="pinterest item">
-            <a href="http://pinterest.com/confettiwedding/" target="_blank">Pinterest.</a>
-          </div>
-        </div>
-        &nbsp;
-        <div id="topline">
-          <noscript>
-            <iframe width="100%" scrolling="no" height="25" frameborder="0" src="//www.confetti.co.uk/usercontrolpanel.php">
-            </iframe>
-          </noscript>
-        </div>
-      </div>
-      <div id="bag">
-        <a href="http://www.confetti.co.uk/shop/cart" class="newbtn small tertiary arrow">
-          <img src="//image.confetti.co.uk/UI/icons/bag.png" alt="" width="15" height="19">
-          My Shopping Basket
-        </a>
-      </div>
-      <form id="search">
-        <div class="group">
-          <input type="text" class="text" name="search" placeholder="Enter keyword(s)">
-          <select>
-            <option data-action="" data-method="" data-inputname="">Choose section</option>
-            <option data-action="//www.confetti.co.uk/shop/search_forward" data-method="post" data-inputname="search">Shop</option>
-            <option data-action="http://directory.confetti.co.uk/search/" data-method="post" data-inputname="keyword">Suppliers</option>
-			      <option data-action="http://www.confetti.co.uk/search/" data-method="get" data-inputname="s">Articles</option>
-          </select>
-          <input type="submit" value="search" class="newbtn small secondary arrow">
-        </div>
-      </form>
-    </div>
-    <nav>
-      <ul id="mainmenu">
-        <li id="homemenu">
-          <a href="http://www.confetti.co.uk/">home</a>
-        </li>
-        <li id="shopmenu">
-          <a href="http://www.confetti.co.uk/shop/">ONLINE SHOP</a>
-          <ul>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-invitations-rsvp/wedding-invitations">Invitations</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-stationery/wedding-stationery-collections">Stationery Collections</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-favours/all">Favours</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/wedding-centrepieces">Centrepieces</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-cake-toppers/all">Cake Toppers</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/disposable-wedding-cameras?icp=HomeShopeMenu&amp;icn=Cameras">Disposable Cameras</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/wedding-reception-accessories/wedding-table-decorations">Table Decorations</a></li>
-            <li><a href="http://www.confetti.co.uk/shop/" style="float: right;">...shop all Wedding Store</a></li>
-          </ul>
-        </li>
-        <li>
-          <a>venues &amp; suppliers</a>
-          <ul>
-            <li><a href="http://directory.confetti.co.uk">Wedding Directory</a></li>
-            <li><a href="http://directory.confetti.co.uk/wedding-venues/">Wedding Venues</a></li>
-            <li><a href="http://directory.confetti.co.uk/late-availability-venues/">Late Availability Venues</a></li>
-            <li><a href="http://directory.confetti.co.uk/wedding-photographers/">Wedding Photographers</a></li>
-            <li><a href="http://directory.confetti.co.uk/entertainment/">Entertainment</a></li>
-            <li><a href="http://directory.confetti.co.uk/wedding-flowers/">Wedding Florists</a></li>
-            <li><a href="http://directory.confetti.co.uk/honeymoons/">Honeymoons</a></li>
-          </ul>
-        </li>
-        <li><a href="http://www.confetti.co.uk/wedding-events/">wedding fairs</a></li>
-        <li>
-          <a>dresses &amp; style</a>
-          <ul>
-            <li><a href="http://directory.confetti.co.uk/bridalwear-stockists/">Bridalwear Stockists</a></li>
-            <li><a href="http://directory.confetti.co.uk/fashion/wedding-dresses/">Wedding Dresses</a></li>
-            <li><a href="http://directory.confetti.co.uk/fashion/bridesmaid-dresses/">Bridesmaid Dresses</a></li>
-            <!--li><a href="http://directory.confetti.co.uk/fashion/flower-girls/">Flower Girls</a></li-->
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/mother-of-the-bride">Mother of the Bride</a></li>
-            <li><a href="http://directory.confetti.co.uk/fashion/menswear/">Menswear</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="http://www.confetti.co.uk/wedding-inspiration">inspiration &amp; articles</a>
-          <ul>
-            <li><a href="http://www.confetti.co.uk/all-articles/">Articles</a></li>
-            <li><a href="http://www.confetti.co.uk/inspiration/mood-boards/">Mood Boards</a></li>
-            <li><a href="http://www.confetti.co.uk/bridalwear/">Bridalwear</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/cakes">Wedding Cakes</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/flowers">Flowers &amp; Bouquets</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/hen-and-stag">Hen &amp; Stag</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="http://www.confetti.co.uk/organising-planning/">planning</a>
-          <ul>
-            <li><a href="http://www.confetti.co.uk/roles-duties/">Roles &amp; Duties</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/gift-lists">Gift Lists</a></li>
-            <li><a href="http://www.confetti.co.uk/speeches/">Speeches</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-ceremonies/">The Ceremony</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-receptions/">The Reception</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/weddings-abroad">Weddings Abroad</a></li>
-            <li><a href="http://www.confetti.co.uk/wedding-inspiration/honeymoons">Honeymoons</a></li>
-            <!--li><a href="http://www.confetti.co.uk/category/view/8160-0-Before___after.do">Before &amp; After</a></li-->
-            <!--li><a href="http://www.confetti.co.uk/category/view/8939-0-Health___Beauty.do">Health &amp; Beauty</a></li-->
-            <!--li><a href="http://www.confetti.co.uk/category/view/8162-0-Fashion___Jewellery.do">Fashion &amp; Jewellery</a></li-->
-            <li><a href="http://namechange.confetti.co.uk">Confetti Name Change Kit</a></li>
-          </ul>
-        </li>
-        <li><a href="http://www.confetti.co.uk/real-weddings/">real weddings</a></li>
-        <li>
-          <a href="http://www.confetti.co.uk/member/">members</a>
-          <ul>
-            <li><a href="http://www.confetti.co.uk/member/">My Confetti</a></li>
-            <li><a href="http://forums.confetti.co.uk/">Brides' Forums</a></li>
-            <li><a href="http://www.confetti.co.uk/competitions/">Free Competitions</a></li>
-            <li><a href="http://tools.confetti.co.uk/">Free Planning Tools</a></li>
-            <li><a href="http://www.confetti.co.uk/ask-kate/">Ask Kate</a></li>
-          </ul>
-        </li>
-      </ul>
-    </nav>
-  </header>
     <div id="highlights-container">
 
         <div id="bodySideBar" class="gradient padded">
 
             <div class="menu">
                 <h4>Information</h4>
-                <ol><li><a href="http://www.confetti.co.uk/information/affiliate-programme/">Affiliate Programme</a></li><li><a href="http://www.confetti.co.uk/information/newsletter/">Newsletter</a></li><li><a href="http://www.confetti.co.uk/information/acceptable-use-policy/">Acceptable Use Policy</a></li><li><a href="http://www.confetti.co.uk/information/confetti-badges/">Get Your Confetti Badge Here!</a></li><li><a href="http://www.confetti.co.uk/information/advertising/">Advertising</a></li><li><a href="http://www.confetti.co.uk/information/vacancies/">Vacancies</a></li><li><a href="http://www.confetti.co.uk/information/commercial-information/">Commercial Information</a></li><li><a href="http://www.confetti.co.uk/information/win-a-wedding-at-a-marriott-hotel-country-club/">Win a Wedding at a Marriott Hotel &amp; Country Club</a></li><li><a href="http://www.confetti.co.uk/information/competition-terms-conditions/">Competition Terms and Conditions</a></li><li><a href="http://www.confetti.co.uk/information/press-office/">Press Office</a></li><li><a href="http://www.confetti.co.uk/information/privacy-policy/">Privacy Policy</a></li><li><a href="http://www.confetti.co.uk/information/reviews-and-testimonials/">Reviews and Testimonials</a></li><li><a href="http://www.confetti.co.uk/information/terms-and-conditions/">Terms and Conditions</a></li></ol>            </div>
+                <ol><li><a href="http://www.confetti.co.uk/information/affiliate-programme/">Affiliate Programme</a></li><li><a href="http://www.confetti.co.uk/information/newsletter/">Newsletter</a></li><li><a href="http://www.confetti.co.uk/information/acceptable-use-policy/">Acceptable Use Policy</a></li><li><a href="http://www.confetti.co.uk/information/confetti-badges/">Get Your Confetti Badge Here!</a></li><li><a href="http://www.confetti.co.uk/information/advertising/">Advertising</a></li><li><a href="http://www.confetti.co.uk/information/vacancies/">Jobs</a></li><li><a href="http://www.confetti.co.uk/information/commercial-information/">Commercial Information</a></li><li><a href="http://www.confetti.co.uk/information/win-a-wedding-at-a-marriott-hotel-country-club/">Win a Wedding at a Marriott Hotel &amp; Country Club</a></li><li><a href="http://www.confetti.co.uk/information/competition-terms-conditions/">Competition Terms and Conditions</a></li><li><a href="http://www.confetti.co.uk/information/press-office/">Press Office</a></li><li><a href="http://www.confetti.co.uk/information/privacy-policy/">Privacy Policy</a></li><li><a href="http://www.confetti.co.uk/information/reviews-and-testimonials/">Reviews and Testimonials</a></li><li><a href="http://www.confetti.co.uk/information/terms-and-conditions/">Terms and Conditions</a></li></ol>            </div>
         </div>
 
         <div id="blogcontent3col">
@@ -253,7 +339,7 @@
 <li>people who call us</li>
 <li>vistors or customers who send us reviews, compliments or complaints</li>
 <li>people who use our services, e.g. use our forums, planning tools or subscribe to our newsletters</li>
-<li>people who enter any of our <a title="competitions" href="http://www.confetti.co.uk/competitions">competitions</a></li>
+<li>people who enter any of our competitions</li>
 <li>job applicants and our current and former employees</li>
 </ul>
 <p>If we collect your personal information for any of these reasons, we may share your email address with registered Confetti suppliers from time to time.</p>
@@ -296,7 +382,7 @@
 <p><strong>Purpose</strong>: This cookie helps to keep track of any choices you make when customising stationery on our website.</p>
 <h4>Forum System</h4>
 <p><strong>Names</strong>: phpbb3_qjonx_u, phpbb3_qjonx_k, phpbb3_qjonx_sid</p>
-<p><strong>Purpose</strong>: These cookies are used internally by the forum system that the <a title="Confetti forum" href="http://forums.confetti.co.uk/">Confetti forum</a> runs on.</p>
+<p><strong>Purpose</strong>: These cookies are used internally by the forum system that the Confetti forum runs on.</p>
 <h4>User Login</h4>
 <p><strong>Names</strong>: WelcomeToConfetti, ASPConfetti, ASPConfettiOld, at, appNameAuth</p>
 <p><strong>Purpose</strong>: These cookies allow users to login to the website and to maintain this logged in status across the various systems that the website comprises.</p>
@@ -340,6 +426,8 @@ Gorse Street<br>
 Oldham<br>
 Lancashire<br>
 OL9 9RJ</p>
+
+
                         <br style="clear:both;float:none; line-height:1px;">
 
 						                                                </div>
@@ -424,7 +512,8 @@ OL9 9RJ</p>
     </div>
     <script type="text/javascript" src="http://www.confetti.co.uk/blog/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
     <br style="clear:both; float:none;">
-        
+    
+    
     <footer>
       <div id="footerlinks">
         <div class="foot-info-cols">
@@ -500,8 +589,8 @@ OL9 9RJ</p>
       <a href="#registration-popup" class="fancybox-hiddenlink"></a>
       <div id="registration-popup">
         <h2>Join Our Bridal Club</h2>
-        <h3>...for a chance to win your wedding worth <span style="color: #699; font-size: 20px;">£40,000</span></h3>
-        <!--h3>...and start receiving exclusive discounts</h3-->
+        <!--h3>...LAST DAY to win a <span style="color: #699; font-size: 20px;">£40,000</span> wedding!</h3-->
+        <h3>...and start receiving exclusive discounts</h3>
         <br>
         <form class="formatted" id="register" method="post" action="http://www.confetti.co.uk/member/register?q=1">
 
@@ -672,7 +761,7 @@ OL9 9RJ</p>
       </div>
     </div>
 
-    <script src="//assets.confetti.co.uk/js/script.min.js?v22"></script>
+    <script src="//assets.confetti.co.uk/js/script.min.js?014016efbbd109f5d34a16a80ab37a50"></script>
 
     <script>confetti.popupPromo('#registration-popup', 'reg');</script>
 
@@ -686,5 +775,6 @@ OL9 9RJ</p>
     </script>
     </div>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5411c5260b598e45"></script>
 
 </body></html>
