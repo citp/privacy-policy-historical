@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the youthkiawaaz.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083627id_/http%3A//www.youthkiawaaz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthkiawaaz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005736id_/http%3A//www.youthkiawaaz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youth Ki Awaaz
-
-[](http://bit.ly/Pml81y)
 
 The privacy of our visitors to YouthKiAwaaz.com is important to us. At YKA, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use/visit YouthKiAwaaz.com, and how we safeguard your information. We never sell your personal information to third parties.
 
