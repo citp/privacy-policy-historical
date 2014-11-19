@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the igigi.com privacy policy that was archived on 2014-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521003819id_/https%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/%3Flinkid%3Dbottommenu) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igigi.com privacy policy that was archived on 2014-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141119225738id_/http%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/%3Flinkid%3Dbottommenu) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html lang="en-us"><head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIPU1NXGwEGVlNUAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 
 <link rel="canonical" href="http://www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/">
 
@@ -9,39 +12,43 @@
 
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIPU1NXGwEGVlNUAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,o,a,u){return s?s-=1:n("err",[u||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)}),o.on("internal-error",function(t){n("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);return i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1),n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,p=e(d);if(p&&(r.rxSize=p),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){a.emit("internal-error",e)}};for(var p=0;u>p;p++)n.addEventListener(s[p],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=c.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,u=s(arguments),d=this,p=n&&n(u,d)||{}}catch(f){i([f,"",[u,d,r],p])}o(e+"start",[u,d,r],p);try{return a=t.apply(d,u)}catch(c){throw o(e+"err",[u,d,c],p),c}finally{o(e+"end",[u,d,a],p)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,u="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,u?a+r:r,o,a,t))}function o(t,e,n){try{a.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{a.emit("internal-error",t)}catch(e){}}var a=t(1),s=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
-
-<meta name="description" content="Exclusive designer plus size clothing in sizes 12-32, including evening, wedding and casual dresses. We ship internationally!">
-
+<meta name="keywords" content="Privacy Policy, IGIGI">
+<meta name="description" content="Privacy Policy. Learn about what information we collect from our customers, how we use it and how we protect the information provided at IGIGI.com.">
 
 
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://i.statigi.com/i/igigi.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://i.statigi.com/i/igigi.ico" type="image/x-icon">
+
+<!-- Favicon -->
+<!--<link rel="icon" href="" type="image/x-icon" />-->
+<link rel="favicon" href="http://i.statigi.com/i/igigi.ico" type="image/x-icon">
+
+<!-- Stylesheets -->
+<!--<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400italic' rel='stylesheet' type='text/css'>-->
+<link href="http://i.statigi.com/c/1/normalize.css?ver=4" rel="stylesheet" type="text/css">
+<link href="http://i.statigi.com/c/1/common.css?ver=18" rel="stylesheet" type="text/css">
+<link href="http://i.statigi.com/c/1/styles.css?ver=22" rel="stylesheet" type="text/css">
+<link href="http://i.statigi.com/c/1/my-account.css?ver=5" rel="stylesheet" type="text/css">
+
+<!-- JavaScript -->
+
+<!-- Embed fonts from typekit -->
+<script type="text/javascript" src="//use.typekit.net/uoc8ahf.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript" src="http://i.statigi.com/js/_main/jquery.min.js?ver=2"></script>
+<script type="text/javascript" src="http://i.statigi.com/js/_main/cookies.min.js?ver=1"></script>
+<script type="text/javascript" src="http://www.igigi.com/skin/frontend/enterprise/igigi/js/countdowntimer/countdowntimer.js"></script>
+<script type="text/javascript" src="http://i.statigi.com/js/_main/scripts.js?ver=12"></script>
+
+    <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+
+<script type="text/javascript" src="http://i.statigi.com/js/_main/modules.js?ver=3"></script>
 
 
-
-
-<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-
-
-<link href="http://i.statigi.com/c/1/a197.css" rel="stylesheet" type="text/css">
-
-
-<!--[if lte IE 6]><link href="http://i.statigi.com/c/fie_1.css" rel="stylesheet" type="text/css" /><![endif]-->
-<!--[if lte IE 6]><script type="text/javascript" src="http://i.statigi.com/js/iepngfix_tilebg.js"></script><![endif]-->
-<!--[if IE 7]> <style> .col_main_wrapper .aside {  margin-right:-190px; padding-left:10px; }</style><![endif]-->
-
-<script type="text/javascript" src="http://i.statigi.com/js/1/a29.js"></script>
-
-<script type="text/javascript" src="http://i.statigi.com/js/catalogevent.js"></script>
-
-
-
-
-
-
+<!--[if lte IE 6]>
+    <script type="text/javascript" src="http://i.statigi.com/js/iepngfix_tilebg.js"></script>
+<![endif]-->
 
 
 <script type="text/javascript">
@@ -60,38 +67,10 @@
    
    
    _a1as.push(["track"]);
-</script>  
+</script>
   
   
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <script type="text/javascript" src="http://i.statigi.com/js/sticky.js"></script>
@@ -129,6 +108,8 @@ function toggleBlock(id) {
 
 
 
+<div id="big_wrapper">
+
 
 <div id="fader"></div>
 <div id="popuper"></div>
@@ -139,411 +120,341 @@ function toggleBlock(id) {
 
 
 
+<!-- Sign up for newsletter -->
 
+            <div class="popup" style="display: none;" id="signup"></div>
+        
 
+<!-- Header top -->
+<div class="header-top">
+    <div class="clearfix inner">
 
+        <div class="f-left">
+            <!-- Promo list -->
+            <ul class="clearfix top-items promo-items">
+                                <li class="first">
+                    <a href="http://www.igigi.com/igigicms/referafriend">
+                        <i></i>Get $20 Credit
+                    </a>
 
+                    <!--<div class="popup-sign-in popup-invite" style="display: none;">
+                        <h2>INVITE A FRIEND<br/>AND GET A $15 CREDIT</h2>
+                        <form action="">
+                            <fieldset>
+                                <label>Enter Email Address:</label>
+                                <input type="text">
+                            </fieldset>
+                            <button class="button"><span>INVITE</span></button>
+                        </form>
+                    </div>-->
 
+                </li>
+                                                <li class="second">
+                    <a onclick="enlargeNL('signup'); return false;"><i></i>Get 15% Off</a>
+                </li>
+                            </ul>
 
+        </div>
 
+        <div class="f-right">
+            <!-- Shipping, log in, bag, search -->
+            <ul class="clearfix top-items links-items">
 
-<div class=" block-header ">
+                
+                
+                    <!--<li class="zero">
+                                                    <strong class="user-name">Hello, !</strong>
+                                            </li>-->
+                    <li class="first">
+                        <a id="id-inter-popup-show">Shipping to<i data-country_flag="world"></i></a>
+                    </li>
+                    <li class="second">
 
+                                                    <a id="toggleSignIn"><i></i>Log In</a>
+                        
+                        <!-- Sign in form, Register form, Forgot pass form -->
+                        
+<!-- Sign In form -->
+<div id="id-popup-signin" class="dropdown-item sign-in-form">
 
-	<div class="address-popup">
-		<div class="close"><span></span></div>
-		<h2>Contact us</h2>
-		
-				
-		<p>
-		<strong>Phone</strong>
-		(877) 597-8953 (US)<br>
-		(415) 692-5639 (Worldwide)
-		</p>
-		<p>
-		<strong>Fax</strong>
-		(415) 962-0638
-		</p>
-		<p>
-		<strong>Email</strong>
-		<a href="mailto:service@igigi.com">service@igigi.com</a>
-		</p>
-		<p>
-		<strong>Mail</strong>
-		IGIGI Customer Care<br>
-		267 8th Street<br>
-		San Francisco, CA 94103
-		</p>
-		<p>
-		Customer Care Hours<br>
-		8am - 5pm PST M-F
-		</p>
-				
-		
-		<p>
-		closed on weekends and
-		<a href="http://www.igigi.com/cms/inside-igigi/customer-service/?linkid=bottommenu">selected holidays</a>
-		</p>
-	</div>
+    <div class="baskervilleItalic">Your Account</div>
 
+    <form id="form-signin22" method="post" class="form">
+        <input type="hidden" name="login-type" value="ajaxpopup">
 
-    	
-	
-<style>
-    .t-popup {
-        display: none;
-        left: 50%;
-        position: absolute;
-        top: 50%;
-        padding: 10px;
-        z-index: 100;
-        background: none repeat scroll 0 0 #FFFFFF;
+        <div class="row">
+            <input type="text" id="popup-login22" name="login[username]" class="frm-el required-entry validate-email" placeholder="Email Address">
+        </div>
 
-</style>
-<div id="rotate">
+        <div class="row">
+            <input type="password" id="popup-pass22" name="login[password]" class="frm-el required-entry validate-password" placeholder="Password">
+        </div>
 
+        <div class="clearfix row">
+            <div id="id-signin11" class="f-right forgot-pass">
+                Forgot Your Password?
+            </div>
+        </div>
 
+        <input id="signin-after-invite" type="hidden" name="signin-after-invite" value="0">
 
-                        <div style="cursor: pointer" id="promo-popup-open-6"><div class="invite" style="">We ship to over 70 countries! <span id="id-inter-popup-show">More Details</span></div></div>
-            
+        <button id="button-signin22" class="button" onclick="return false;">
+            <span id="span-signin22">Log In</span>
+        </button>
 
-                        <div style="cursor: pointer" id="promo-popup-open-7"><div class="invite" style=""><div onclick="showInviteBigPopup();">Invite a friend and get a $15 credit</div></div></div>
+        
+            <hr class="line-black">
+
+            <div class="baskervilleItalic">New User?</div>
+
+            <p class="info">
+                Create an account to take advantage of the benefits that make shopping faster and easier.
+            </p>
+
+            <div id="id-signin22" class="create-account">
+                <button class="button brown-btn">
+                    Get Started
+                </button>
             </div>
 
-	
-		
-	
-	    		
-	
-	<div class="logo">
-	
-	    
-	    <a href="http://www.igigi.com/"></a>
-		  
-		  
-	    		
-				
-				<h1>SEXY DESIGNER PLUS SIZE CLOTHING</h1>
-		
-    </div>
+            <hr class="line-grey">
 
-    
-	
-	
-	<!--{MY_HEADER_LINKS_706f85d5498d65c8d5237731380f6839}-->
-    	<ul class="header-links">
-		<li>
-		
-				</li><li><a id="id-signin" href="#">Sign In</a></li> 
-				<li class="delimiter">|</li>
-		<li><a id="customer-care" href="#">Customer Service</a></li>
-		
-		
-		<li class="delimiter">|</li>
-				<li class="bag ">
-		    <a style="cursor: pointer;">Your Bag</a>
-			<span class="count" id="cart-qty"></span>
-		</li>
-	</ul>
-    
-<!--/{MY_HEADER_LINKS_706f85d5498d65c8d5237731380f6839}-->	
-		
-	
-	
-	
-	<div class="search-block">
-			<form id="search_mini_form" action="http://www.igigi.com/catalogsearch/result/" method="get">
-			    <input id="search" name="q" class="input searh-inp-closed" type="text" value="" onblur="if(this.value == '')this.value='Search IGIGI...';" onfocus="if(this.value=='Search IGIGI...')this.value='';">
-			    <a class="b-search b-btn close">Search</a>
-			</form>
-				</div>
-
-	
-	<div id="id-popup-signin" class="popup-sign-in sign-in" style="display: none">
-		<div class="close"><span></span></div>
-		<h2>SIGN IN TO YOUR ACCOUNT</h2>
-		<p>If you have an account with us,
-			please enter your e-mail address
-			and password.
-		</p>
-
-		<form id="form-signin22" method="post">
-		    <input type="hidden" name="login-type" value="ajaxpopup">
-			
-			<fieldset>
-				<label>Email Address:</label>
-				<input id="popup-login22" name="login[username]" type="text" class="required-entry validate-email">
-			</fieldset>
-			<fieldset>
-				<label>Password:</label>
-				<input id="popup-pass22" name="login[password]" type="password" class="required-entry validate-password">
-			</fieldset>
-			<fieldset>
-				<p class="pass-sensitive">Your password is cAsE SeNsiTiVe.</p>
-			</fieldset>
-			
-			<input id="signin-after-invite" type="hidden" name="signin-after-invite" value="0">
-			<button id="button-signin22" style="cursor: pointer;" class="button" onclick="return false;"><span id="span-signin22">SIGN IN</span></button>
-            			
-			<div id="id-signin11" class="forgot-pass">
-				<p>Forgot Your Password?</p>
-			</div>
-
-						<div id="id-signin22" class="create-account">
-				<button style="cursor: pointer;" class="button"><span>CREATE ACCOUNT</span></button>
-				<label>New User?</label>
-			</div>
-			
-			<div id="id-signin33" class="wholesale-login"><a href="http://wholesale.igigi.com/">For Wholesale Login, click here.</a></div>
-						
-		</form>
-	</div>
+            <div id="id-signin33" class="info wholesale-login">
+                For Wholesale Login, <a href="http://wholesale.igigi.com/">click here.</a>
+            </div>
+            </form>
+</div>
 	
 	
 
 	
-	<div class="popup-sign-in create-account-popup" style="display: none">
-        <div class="close"><span></span></div>
-		<h2>CREATE NEW ACCOUNT</h2>
-		<p>Take advantage of our features
-			that are available to our registered
-			customers only!
-		</p>
+<div class="dropdown-item register-form">
 
-		<form id="form-register22" method="post">
-			<fieldset>
-				<label>First Name:</label>
-				<input type="text" name="firstname" class="input-text required-entry">
-			</fieldset>
-			<fieldset>
-				<label>Last Name:</label>
-				<input type="text" name="lastname" class="input-text required-entry">
-			</fieldset>
-			<fieldset>
-				<label>Email Address:</label>
-				<input type="text" name="email" class="input-text validate-email required-entry">
-			</fieldset>
-			<fieldset>
-				<label>Password:</label>
-				<input type="password" name="password" class="input-text required-entry validate-password">
-			</fieldset>
-			<fieldset>
-				<label>Confirm Password:</label>
-				<input type="password" name="confirmation" class="input-text required-entry validate-password">
-			</fieldset>
+    <div class="baskervilleItalic">Create new account</div>
 
-			<button id="button-register22" class="button" onclick="return false;" style="cursor: pointer;"><span id="span-register22">CREATE ACCOUNT</span></button>
+    <p class="info">Take advantage of our features that are available to our registered customers only!</p>
+
+    <form class="form" id="form-register22" method="post">
+        <div class="row">
+            <input type="text" name="firstname" class="input-text frm-el required-entry" placeholder="First Name">
+        </div>
+
+        <div class="row">
+            <input type="text" name="lastname" class="input-text frm-el required-entry" placeholder="Last Name">
+        </div>
+
+        <div class="row">
+            <input type="text" name="email" class="input-text frm-el alidate-email required-entry" placeholder="Email Address">
+        </div>
+
+        <div class="row">
+            <input type="password" name="password" class="input-text frm-el required-entry validate-password" placeholder="Password">
+        </div>
+
+        <div class="row">
+            <input type="password" name="confirmation" class="input-text frm-el required-entry validate-password" placeholder="Confirm Password">
+        </div>
+
+        <div class="row">
+            <button id="button-register22" class="button" onclick="return false;"><span id="span-register22">Create Account</span></button>
             <div class="validation-advice" id="advice-popup-register"></div>
+        </div>
 
-			<div class="subscribe-checkbox">
-				<input type="checkbox" name="is_subscribed" id="subscribe-news">
-				<label for="subscribe-news">Send me e-mail updates<br>
-					from IGIGI. We do not<br>
-					share or sell personal info.</label>
-			</div>
+        <div class="row subscribe-checkbox">
+            <input type="checkbox" name="is_subscribed" id="subscribe-news">
+            <label for="subscribe-news">Send me e-mail updates from IGIGI. We do not share or sell personal info.</label>
+        </div>
 
-		</form>
-	</div>
-
-	
-		<div class="popup-sign-in forgot-password" style="display: none">
-		<div class="close"><span></span></div>
-		<h2>FORGOT YOUR PASSWORD?</h2>
-		<p>Please enter your email below and
-			we'll send you a new password.
-		</p>
-
-		<form id="form-submit-fpass" method="post">
-			<fieldset>
-				<label>Email Address:</label>
-				<input type="text" name="email" class="input-text required-entry validate-email">
-			</fieldset>
-
-			<button id="button-submit-fpass" class="button" onclick="return false;" style="cursor: pointer;"><span id="span-submit-forgotpass">Submit</span></button>
-		    <div class="validation-advice" id="advice-popup-fpass"></div>
-		</form>
-	</div>
+    </form>
+</div>
 
 	
+	
+<div class="dropdown-item forgot-pass-form">
 
+    <div class="baskervilleItalic">Forgot your password?</div>
 
+    <p class="info">Please enter your email below and we'll send you a new password.</p>
+
+    <form class="form" id="form-submit-fpass" method="post">
+        <div class="row">
+            <!--<label>Email Address:</label>-->
+            <input type="text" name="email" class="input-text frm-el required-entry validate-email" placeholder="Email address">
+        </div>
+
+        <div class="row">
+            <button id="button-submit-fpass" class="button" onclick="return false;">
+                <span id="span-submit-forgotpass">Submit</span>
+            </button>
+            <div class="validation-advice" id="advice-popup-fpass"></div>
+        </div>
+    </form>
+</div>
 
 	
 
 
 
-    <div class="popup-sign-in popup-my-account">
-		<div class="close"><span></span></div>
-        <ul>		
-            <li><a href="/customer/account/edit">Settings</a></li>
-            <li><a href="/sales/order/history">Orders</a></li>
-            
-						<li><a href="/igigicms/refferal">Invites</a></li>
-						
-            <li><a href="/giftcard/customer">Store Credit</a></li>
-            <li><a href="/review/customer">Reviews</a></li>
-            <li><a href="/wishlist">Wish List</a></li>
-            <li><a href="/customer/account/logout">Log Out</a></li>
-        </ul>
-    </div>
 	
+                        <div class="dropdown-item my-account-items">
+                            <ul>
+                                <li><a href="/customer/account/edit">Settings</a></li>
+                                <li><a href="/sales/order/history">Orders</a></li>
 
-	<div class="popup-sign-in popup-invite" style="display: none">
-		<h2>INVITE A FRIEND<br>AND GET A $15 CREDIT</h2>
-		<form action="">
-			<fieldset>
-				<label>Enter Email Address:</label>
-				<input type="text">
-			</fieldset>
-			<button class="button"><span>INVITE</span></button>
-		</form>
-	</div>
+                                                                    <li><a href="/igigicms/refferal">Invites</a></li>
+                                
+                                <li><a href="/storecreditpro/">Store Credit</a></li>
+                                <li><a href="/review/customer">Reviews</a></li>
+                                <li><a href="/wishlist">Wish List</a></li>
+                                <li><a href="/customer/account/logout">Log Out</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="third">
+                                                <a id="toggleCart"> <!-- class="" -->
+                            <i></i>Bag
+                            <span class="count" id="cart-qty">(0)</span>
+                        </a>
 
+                        <!-- Cart -->
+                        
+
+<div id="topCartContent" class="dropdown-item shopping-bag">
+	
+	
+	            <div class="baskervilleItalic">Hey, Love</div>
+	    <p class="baskervilleItalic no-items">You have no items in your shopping bag.</p>
+	    
 		
-
-	
-    <!--{CART_SIDEBAR_d79c40e123708f77543b764a6c1ab7bf}-->
-
-
-
-
-
-<div id="topCartContent" class="shopping-bag " style="display: none;">
-	<div class="close"><span></span></div>
-	<h2>YOUR SHOPPING BAG</h2>
-	
-			    You have no items in your shopping cart.
-			
 </div>
 
 
 
-<!--/{CART_SIDEBAR_d79c40e123708f77543b764a6c1ab7bf}-->	
+                    </li>
+                
+                <li class="fourth">
+                    <i id="toggleSearch"></i>
+                    <!-- Search form -->
+                    
+                    <div class="dropdown-item search-block">
+                        <form id="search_mini_form" action="http://www.igigi.com/catalogsearch/result/" method="get">
+                            <a class="b-search b-btn close">Search</a>
+                            <!--<input id="search" name="q" class="input " type="text" value=""  onblur="if(this.value == '')this.value='Search IGIGI...';" onfocus="if(this.value=='Search IGIGI...')this.value='';" />-->
 
-</div>
+                            <input type="text" id="search" name="q" class="input search-el searh-inp-closed" value="" placeholder="Type to search and press enter...">
+                            <i class="close"></i>
+                        </form>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div><!-- END .header-top -->
+<header class="block-header">
+
+    <div class="clearfix inner">
+
+        <!-- Logo -->
+        <div class="f-left c-logo">
+                        <h2 class="visuallyhidden">IGIGI</h2>
+            <a href="http://www.igigi.com/" class="logo">
+                <!--<img src="" alt="IGIGI">-->
+            </a>
+            <h4 class="site-description">
+                SEXY DESIGNER PLUS SIZE CLOTHING            </h4>
+        </div>
+
+        <!-- Main menu -->
+        <nav class="f-right top-navigation">
+	<ul class="clearfix main-menu">
+		<li>
+			<a href="http://www.igigi.com/plus-size-new-arrivals/?linkid=topmenu">WHAT'S NEW</a>
+		</li>
+		<li>
+			<a href="http://www.igigi.com/plus-size-dresses/?linkid=topmenu">DRESSES</a>
+			<div class="sub-menu "><div class="inner">
 
 
+<ul>						<li><a href="http://www.igigi.com/plus-size-dresses/?linkid=topmenu" title="Plus Size Dresses">All Dresses</a></li>
+						<li><a href="http://www.igigi.com/plus-size-dresses/plus-size-day-dress/?linkid=topmenu" title="Plus Size Day Dresses">Day</a></li>
+						<li><a href="http://www.igigi.com/plus-size-dresses/plus-size-work-dress/?linkid=topmenu" title="Plus Size Work Dresses">Work</a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/plus-size-dresses/plus-size-maxi-dress" title="Plus Size Maxi Dresses">Maxi</a></li>
+						<li><a href="http://www.igigi.com/plus-size-dresses/plus-size-fit-and-flare" title="Plus Size Fit and Flare Dresses">Fit and Flare</a></li>
+						<li><a href="http://www.igigi.com/plus-size-dresses/plus-size-evening-dress/?linkid=topmenu" title="Plus Size Evening Dresses">Cocktail + Evening </a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/plus-size-dresses/wedding-dresses/?linkid=topmenu" title="Plus Size Wedding Dresses and Gowns">Wedding</a></li>
+</ul>
+			</div></div>
+		</li>
+		<li>
+			<a href="http://www.igigi.com/plus-size-separates/?linkid=topmenu">SEPARATES</a>
+			<div class="sub-menu "><div class="inner">
 
 
-<div class="top-navigation">
-	<ul>
-		<li>
-			<a>WHAT'S NEW</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/plus-size-new-arrivals/?linkid=topmenu" title="Plus Size New Arrivals">Just In</a></li>
-						<li><a href="/the-escape-artist" title="The Escape Artist | Summer 2014">The Escape Artist | Summer 2014</a></li>
-						<li><a href="/back-in-action/" title="">IGIGI Best Sellers</a></li>
-					</ul>
-			</div>
+<ul>						<li><a href="http://www.igigi.com/plus-size-separates/?linkid=topmenu" title="Plus Size Separates">All Separates</a></li>
+						<li><a href="http://www.igigi.com/plus-size-separates/plus-size-tops" title="Plus Size Tops">Tops</a></li>
+						<li><a href="http://www.igigi.com/plus-size-separates/jackets-outerwear" title="Plus Size Outerwear">Jackets + Outerwear</a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/plus-size-separates/plus-size-skirts" title="Plus Size Skirts">Skirts</a></li>
+						<li><a href="http://www.igigi.com/plus-size-separates/plus-size-pants" title="Plus Size Pants">Pants</a></li>
+</ul>
+			</div></div>
 		</li>
 		<li>
-			<a>DRESSES</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/plus-size-dresses/?linkid=topmenu" title="Plus Size All Dresses">All Dresses</a></li>
-						<li><a href="/plus-size-dresses/plus-size-day-dress/?linkid=topmenu" title="">Day</a></li>
-						<li><a href="/plus-size-dresses/plus-size-work-dress/?linkid=topmenu" title="">Work</a></li>
-						<li><a href="/plus-size-dresses/plus-size-maxi-dress" title="Plus-Size Maxi Dresses">Maxi</a></li>
-						<li><a href="/plus-size-dresses/plus-size-cocktail-dress/?linkid=topmenu" title="">Cocktail</a></li>
-						<li><a href="/plus-size-dresses/plus-size-evening-dress/?linkid=topmenu" title="">Evening </a></li>
-						<li><a href="/plus-size-dresses/wedding-dresses/?linkid=topmenu" title="">Wedding</a></li>
-					</ul>
-			</div>
+			<a href="http://www.igigi.com/plus-size-accessories/?linkid=topmenu">ACCESSORIES</a>
+			<div class="sub-menu "><div class="inner">
+
+
+<ul>						<li><a href="http://www.igigi.com/plus-size-accessories/?linkid=topmenu" title="Plus Size Accesories">All Accessories</a></li>
+						<li><a href="http://www.igigi.com/plus-size-accessories/plus-size-jewelry/?linkid=topmenu" title="Plus Size Jewelry ">Jewelry</a></li>
+						<li><a href="http://www.igigi.com/plus-size-accessories/plus-size-bags/?linkid=topmenu" title="Bags">Bags</a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/plus-size-accessories/plus-size-scarves-and-belts/?linkid=topmenu" title="Plus Size Scarves &amp; Belts">Scarves &amp; Belts</a></li>
+						<li><a href="http://www.igigi.com/plus-size-accessories/plus-size-shapewear/?linkid=topmenu" title="Plus Size Shapewear">Shapewear</a></li>
+</ul>
+			</div></div>
 		</li>
 		<li>
-			<a>SEPARATES</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/plus-size-separates/?linkid=topmenu" title="">All Separates</a></li>
-						<li><a href="/plus-size-separates/plus-size-tops" title="">Tops</a></li>
-						<li><a href="/plus-size-separates/plus-size-bottoms" title="">Bottoms</a></li>
-					</ul>
-			</div>
+			<a href="http://www.igigi.com/plus-size-wedding-party/">TRENDS</a>
+			<div class="sub-menu "><div class="inner">
+
+
+<ul>						<li><a href="http://www.igigi.com/back-in-action//?linkid=topmenu" title="IGIGI Plus Size Best Sellers">Best Sellers</a></li>
+						<li><a href="http://www.igigi.com/holiday-pattern-play" title="Holiday Pattern Play | IGIGI Holiday 2014">Holiday Pattern Play</a></li>
+						<li><a href="http://www.igigi.com/plus-size-luxe-elegance" title="Luxe Elegance | Pre Holiday 2014">Luxe Elegance </a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/plus-size-cocktail-hour/" title="Plus Size Cocktail Hour">Cocktail Hour</a></li>
+						<li><a href="http://www.igigi.com/work-wear-collection/" title="Plus Size Work Wear">Wear To Work</a></li>
+						<li><a href="http://www.igigi.com/dresses-under-100" title="Plus Size Dresses Under $100">Dresses Under $100</a></li>
+</ul><ul>						<li><a href="http://www.igigi.com/cms/lookbook" title="Look Book">Look Book</a></li>
+</ul>
+			</div></div>
 		</li>
 		<li>
-			<a>ACCESSORIES</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/plus-size-accessories/?linkid=topmenu" title="">All Accessories</a></li>
-						<li><a href="/plus-size-accessories/plus-size-jewelry/?linkid=topmenu" title="">Jewelry</a></li>
-						<li><a href="/plus-size-accessories/plus-size-bags/?linkid=topmenu" title="">Bags</a></li>
-						<li><a href="/plus-size-accessories/plus-size-scarves-and-belts/?linkid=topmenu" title="">Scarves &amp; Belts</a></li>
-						<li><a href="/plus-size-accessories/plus-size-shapewear/?linkid=topmenu" title="">Shapewear</a></li>
-					</ul>
-			</div>
+			<a href="http://www.igigi.com/plus-size-sale/">SALE</a>
+			<div class="sub-menu "><div class="inner">
+
+
+<ul>						<li><a href="http://www.igigi.com/plus-size-sale/" title="Plus Size Sale Items">All Sale</a></li>
+						<li><a href="http://www.igigi.com/plus-size-final-cut/" title="Plus Size Sale ">Final Cut </a></li>
+</ul>
+			</div></div>
 		</li>
 		<li>
-			<a>TRENDS</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/coral-reef" title="Coral Reef">Coral Reef</a></li>
-						<li><a href="/dresses-under-100" title="Dresses Under $100">Dresses Under $100</a></li>
-						<li><a href="/work-wear-collection/" title="Wear To Work">Wear To Work</a></li>
-						<li><a href="/day-to-night/" title="Day to Night">Day to Night</a></li>
-						<li><a href="/plus-size-wedding-party" title="Wedding Party">Wedding Party</a></li>
-					</ul>
-			</div>
+			<a href="http://www.igigi.com/igigiscustom/shape/landing/?linkid=topmenu">SHAPESTYLIST</a>
 		</li>
 		<li>
-			<a>SALE</a>
-			<div class="arrow-sub ">
-				<span></span>
-					<ul>
-						<li><a href="/plus-size-sale/" title="">All Sale</a></li>
-						<li><a href="/plus-size-sale/new-markdowns" title="">new markdowns</a></li>
-						<li><a href="/plus-size-sale/separates" title="">Separates </a></li>
-						<li><a href="/plus-size-sale/day-dresses" title="">Day Dresses</a></li>
-						<li><a href="/plus-size-sale/evening-dresses" title="">Evening Dresses</a></li>
-						<li><a href="/plus-size-sale/accessories" title="">Accessories</a></li>
-						<li><a href="/plus-size-final-cut/" title="">Final Cut </a></li>
-					</ul>
-			</div>
+			<a href="http://www.igigi.com/cms/cclanding/?linkid=topmenu">CURVE CONNECTION</a>
 		</li>
-		<li class="grey">
-			<a href="/igigiscustom/shape/landing/?linkid=topmenu">SHAPESTYLIST</a>
-		</li>
-		<li class="grey">
-			<a href="/cms/cclanding/?linkid=topmenu1">CURVE CONNECTION</a>
-		</li>
-		<li class="grey">
-			<a href="/blog/">THE BLOG</a>
+		<li>
+			<a href="http://www.igigi.com/blog/">THE BLOG</a>
 		</li>
 	</ul>
-</div>
-<!--{OLDBROWSER_NOTIFICATION2_c1a81d167755f69fa2412418b7b69cea}-->
-<!--/{OLDBROWSER_NOTIFICATION2_c1a81d167755f69fa2412418b7b69cea}-->
+</nav>
+    </div>
+</header> <!-- END .block-header -->
 
-<!--{POPUPA_SCRIPT_5f39cf06853a6ed75d8fb38c4f35e1cb}--><script type="text/javascript">if(window.location.hash == "#showNL"){ enlargeNL('signup'); }</script><!--/{POPUPA_SCRIPT_5f39cf06853a6ed75d8fb38c4f35e1cb}-->
-
-
-<div class="popup" style="display: none; top: 232px; left: 290.5px;" id="signup"></div>
+<!-- Get $15 credit popup -->
 
 
-<script type="text/javascript">
-    //jQuery( window ).load(function(){
-    //
-    jQuery(document).ready(function(){
-        //jQuery('.top-navigation > ul > li').last().addClass('last');
-        jQuery('.top-navigation > ul ').find("li:last").addClass('last');
-    });
-</script>
 
-<!--[if IE 9]>
-
-    <style type="text/css">
-        .top-navigation > ul li.last {
-            float: right;
-            padding-left: 0;
-            padding-right: 0;
-        }
-    </style>
-<![endif]-->
 
 <div id="container">
 
@@ -575,38 +486,38 @@ function toggleBlock(id) {
 
 
             
-        <!--{CORE_MESSAGES_d58a7d5c7df4649d195d686868770d51}--><!--/{CORE_MESSAGES_d58a7d5c7df4649d195d686868770d51}-->         
-<div id="customer_service" class="content_wrapper inside_igigi">
-	<h1>Privacy Policy</h1>
-	<div id="follow">Follow IGIGI on:
-		<a class="yb_icon" href="http://www.youtube.com/user/IgigiTV">&nbsp;</a>
-		<a class="fb_icon" href="http://www.facebook.com/pages/IGIGI/164691925388?ref=s">&nbsp;</a>
-		<a class="tw_icon" href="http://twitter.com/IGIGI">&nbsp;</a>
-	</div>
-			<div class="three_column">
-				<div class="left_column">
-			<div id="menu_inside">
-				<ul>
-<li>
-<a href="/cms/inside-igigi/customer-service/">Customer Care</a></li>
-<li>
-<a href="/cms/inside-igigi/customer-service/frequently-asked-questions/">FAQ</a></li>
-<li>
-<a href="/cms/inside-igigi/customer-service/shipping-delivery/">Shipping &amp; Delivery</a></li>
-<li>
-<a href="/cms/inside-igigi/customer-service/fit-measurement-guidelines/">Fit &amp; Measurement Guidelines</a></li>
-<li>
-<a href="/cms/inside-igigi/customer-service/returns-exchanges/">Returns</a></li>
-<li>
-<a href="/cms/inside-igigi/customer-service/as-you-shop/">As You Shop</a></li>
-<li class="current">
-<a href="/cms/inside-igigi/customer-service/privacy-policy/">Privacy &amp; Security</a></li>
-</ul>
+                
+        <div id="customer_service" class="content_wrapper c-my-account">
+            <!--<h1></h1>-->
 
-							</div>
-		</div>
-							<div class="middle_column">
-					<div id="quick_links_right" class="auto_scroll">
+                        <div class="clearfix three_column">
+    
+
+    <div class="left_column my-account-sidebar">
+        <div id="menu_inside" class="c-my-account-menu">
+                    <ul class="my-account-menu">
+            <li>
+                <a href="/cms/inside-igigi/customer-service/">Customer Care</a></li>
+            <li>
+                <a href="/cms/inside-igigi/customer-service/frequently-asked-questions/">FAQ</a></li>
+            <li>
+                <a href="/cms/inside-igigi/customer-service/shipping-delivery/">Shipping &amp; Delivery</a></li>
+            <li>
+                <a href="/cms/inside-igigi/customer-service/fit-measurement-guidelines/">Fit &amp; Measurement
+                    Guidelines</a></li>
+            <li>
+                <a href="/cms/inside-igigi/customer-service/returns-exchanges/">Returns</a></li>
+            <li>
+                <a href="/cms/inside-igigi/customer-service/as-you-shop/">As You Shop</a></li>
+            <li class="current">
+                <a href="/cms/inside-igigi/customer-service/privacy-policy/">Privacy &amp; Security</a></li>
+        </ul>
+
+                        </div>
+    </div>
+
+            <div class="middle_column my-account-content full-width">
+                                <div id="quick_links_right" class="auto_scroll">
 <h3>Security &amp; Technical Matters Quick Links</h3>
 <ul class="csc-menu csc-menu-3">
 <li class="csc-section"><a href="#c274">Privacy Policy &gt;</a></li>
@@ -686,203 +597,232 @@ function toggleBlock(id) {
 </div>
 <div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol" style="width: 250px;"> <dt><img src="http://www.igigi.com/media/cms/ie_block_popup.gif" border="0" alt="" width="250" height="283"> </dt> <dd class="csc-textpic-caption">Select Tools -&gt; Internet Options -&gt; Privacy, click Pop-Up Blocker Settings button <br> </dd> </dl> <dl class="csc-textpic-image csc-textpic-lastcol" style="width: 200px;"> <dt><img src="http://www.igigi.com/media/cms/ie_block2.gif" border="0" alt="" width="200" height="256"> </dt> <dd class="csc-textpic-caption">Add www.igigi.com to allowed sites </dd> </dl></div>
 </div>
-<div id="back_to_top" style="text-align: justify;"><a href="#top">Back to top</a></div>		</div>	
-</div>
-</div>
-        
-        <div class="clearfloat"></div> 
+<div id="back_to_top" style="text-align: justify;"><a href="#top">Back to top</a></div>            </div>
+                    </div>
+    </div>
+            
+        <div class="clear"></div>
+
 <div class="please-wait-js" id="ngc-please-wait" style="display:none; z-index: 10000;">
 	<img class="v-middle" alt="please wait..." src="http://i.statigi.com/i/trans-ajax-loader.gif">
 </div>
 
 
-	  
-<div class="footer">
-	
+<div class="footer inner">
+
 		
 			<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=6473" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-		
-	<ul>
-	    
-				<li class="shop sta">
-		<h2>Shop</h2>
-		<div class="col">
-			<ul>
-				<li class="section first">
-				<strong>
-					<a href="//www.igigi.com/plus-size-new-arrivals/?linkid=bottommenu">Just In</a></strong></li>
-				<li class="section">
-				<strong>
-					<a href="//www.igigi.com/plus-size-dresses/?linkid=bottommenu">Plus Size Dresses</a></strong></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-dresses/plus-size-evening-dress/?linkid=bottommenu">Plus Size Evening Dresses</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-dresses/plus-size-cocktail-dress/?linkid=bottommenu">Plus Size Cocktail Dresses</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-dresses/wedding-dresses/?linkid=bottommenu">Plus Size Wedding Dresses</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-dresses/plus-size-work-dress/?linkid=bottommenu">Plus Size Work Dresses</a></li>
-								<li>
-				<a href="//www.igigi.com/plus-size-dresses/plus-size-day-dress/?linkid=bottommenu">Plus Size Day Dresses</a></li>
-				<li class="section">
-				<strong>
-					<a href="//www.igigi.com/plus-size-separates/?linkid=bottommenu">Plus Size Separates</a></strong></li>
-			</ul>
-		</div>
-		<div class="col null">
-			<ul>
-				<li class="section first">
-				<strong>
-					<a href="//www.igigi.com/plus-size-accessories/?linkid=bottommenu">Accessories</a></strong></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-accessories/plus-size-jewelry/?linkid=bottommenu">Jewelry</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-accessories/plus-size-scarves-and-belts/?linkid=bottommenu">Scarves &amp; Belts</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-accessories/plus-size-bags/?linkid=bottommenu">Bags</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-accessories/plus-size-shapewear/?linkid=bottommenu">Shapewear</a></li>
-				<li class="section">
-				<strong>
-					<a href="//www.igigi.com/plus-size-sale/?linkid=bottommenu">Sale</a></strong></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-sale/?linkid=bottommenu">Sale Rack</a></li>
-				<li>
-				<a href="//www.igigi.com/plus-size-final-cut/?linkid=bottommenu">Final Cut</a></li>
-			</ul>
-		</div>
-		</li>
-		<li class="more">
-		<h2>
-			Learn
-		</h2>
-		<ul>
-			<li class="section first">
-			<a href="//www.igigi.com/cms/inside-igigi/new-inside-igigi/?linkid=bottommenu">About Us
-			</a>
-			</li>
-			<li class="section first">
-			<a href="//www.igigi.com/cms/inside-igigi/sobre-igigi/?linkid=bottommenu">Acerca the IGIGI
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/ustorelocator/location/map/?linkid=bottommenu">Find a Store
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/plus-size-new-arrivals/igigi-online-gift-card.html">Gift Cards
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/cms/inside-igigi/customer-service/fit-measurement-guidelines/">Shape Stylist/Size Chart
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/cms/inside-igigi/customer-service/shipping-delivery/?linkid=bottommenu">Shipping Info
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/cms/inside-igigi/customer-service/returns-exchanges/?linkid=bottommenu">Returns Policy
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/?linkid=bottommenu">Privacy Policy
-			</a>
-			</li>
-			<li>
-			<a href="//www.igigi.com/cms/infographic?linkid=bottommenu">IGIGI Infographic Archive
-			</a>
-			</li>
-            
-            <li class="section">
-			<a href="http://wholesale.igigi.com/">Wholesale
-			</a>
-			</li>
-            
-			<li class="section">
-			<a href="//www.igigi.com/affiliate-program/?linkid=bottommenu">Affiliates
-			</a>
-			</li>
-		</ul>
-		</li>
-		<li class="customer_care">
-			<h2>
-				Assistance	
-			</h2>
-			<ul>
-				<li class="section first">
-				  Customer Care<br>
-				  1-877-597-8953 (domestic)<br>
-				  1-415-692-5639 (intl.)<br>
-				  Hours: 8AM - 5PM PST M-F <br><br>
-				  
-				  Corporate Headquarters<br> 
-                  1-415-692-5658<br>
-                  Hours: 8AM - 5PM PST M-F
-				</li>
-				<li class="section">
-				<a href="//www.igigi.com/cms/inside-igigi/customer-service/?linkid=bottommenu">Customer Care
-				</a>
-				</li>
-				<li>
-				<a href="//www.igigi.com/cms/inside-igigi/customer-service/contact-us/?linkid=bottommenu">Contact Us
-				</a>
-				</li>
-				<li class="section">
-				<a href="//www.igigi.com/customer/account/?linkid=bottommenu">Your Account
-				</a>
-				</li>
-			</ul>
-		</li>
-		<li class="about">
-		<h2>Connect</h2>
-		
-		<div class="subscribe-news">
-			<form>
-				<label for="subscribe-email">FOR FASHION AND SALE NEWS,</label>
-				<input type="text" id="subscribe-email" value="Enter e-mail address" onblur="" onclick="enlargeNL('signup'); return false;">
-				<button onclick="return false;"></button>
-			</form>
-		</div>
+	
+    <!-- Footer menu -->
+    <div class="press">
+    <div class="as-seen-in">As seen in</div>
+    <ul>
+        <li><a class="instyle" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#instyle"></a></li>
+        <li><a class="lucky" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#lucky"></a></li>
+        <li><a class="glamour" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#glamour"></a></li>
+        <li><a class="marie-claire" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#marie-claire"></a></li>
+        <li><a class="oprah" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#oprah"></a></li>
+        <li><a class="style-watch" href="http://www.igigi.com/cms/inside-igigi/as-seen-in/#style-watch"></a></li>
+    </ul>
+</div>
 
-		<div class="social" style="float:none;margin-left:0;">
-			<div class="fb-like" data-href="https://www.facebook.com/IGIGISTYLE" data-send="false" data-layout="button_count" data-width="140" data-show-faces="true" style="margin-top:6px;padding-left:0px;display:block;height:32px;float:left;"></div>
-			<a href="http://pinterest.com/IGIGI/" class="pinit_icon" target="_blank">Pinit</a>
-			<a href="http://www.facebook.com/IGIGISTYLE" class="fb_icon" target="_blank">Facebook</a>
-			<a href="http://twitter.com/IGIGI" class="tw_icon" target="_blank">Twitter</a>
-			<a href="http://www.youtube.com/user/IgigiTV" class="yb_icon" target="_blank">Youtube</a>
-				
-			<div class="clearfix"></div>
-		</div>
-		<a href="//www.igigi.com/cms/inside-igigi/new-inside-igigi/?linkid=bottommenu">More about Plus Size Fashion &amp; IGIGI</a>
-		
-	
-	    		
-		
-		
-		<p>
-			IGIGI specializes in sexy and sophisticated plus size fashion with an emphasis on formal wear, wedding gowns, other types of dresses as well as separates. We believe that words like "ample," "opulent," "curvaceous," and "voluptuous" should be mainstays in the fashion dictionary. It is important to accentuate and celebrate the beauty and sensuality of the female figure rather than cover it up with piles of fabric. You ARE beautiful!
-								</p>
-		<div class="copy">
-			© IGIGI 2012
-			<br>267 8th Street, San Francisco, CA 94103 USA 1.415.692.5658
-		</div>
-		</li>
-	</ul>
-	
-	
-	
-	<div class="trust_us_block">
-		<a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/clothing-retail/igigi-in-san-francisco-ca-308193#bbblogo">
-					</a>
-		
-				
-		<div class="payment-carts"></div>
-		
+<div class="social">
+    <!--<div class="fb-like" data-href="https://www.facebook.com/IGIGISTYLE" data-send="false" data-layout="button_count" data-width="140" data-show-faces="true"></div>-->
+    <a href="http://www.facebook.com/IGIGISTYLE" class="fb_icon" target="_blank">Facebook</a>
+    <a href="http://twitter.com/IGIGI" class="tw_icon" target="_blank">Twitter</a>
+    <a href="http://pinterest.com/IGIGI/" class="pinit_icon" target="_blank">Pinit</a>
+    <a href="http://www.youtube.com/user/IgigiTV" class="yb_icon" target="_blank">Youtube</a>
+    <a href="https://plus.google.com/+Igigistyle/" rel="publisher" class="gplus_icon" target="_blank">Youtube</a>
+</div>
+
+<ul class="clearfix footer-links">
+    <li class="shop sta">
+        <div class="footer-title">Shop</div>
+        <div class="col">
+            <ul>
+                <li class="section first">
+                    <strong>
+                        <a href="http://www.igigi.com/plus-size-new-arrivals/?linkid=bottommenu">Just In</a></strong></li>
+                <li class="section">
+                    <strong>
+                        <a href="http://www.igigi.com/plus-size-dresses/?linkid=bottommenu">Plus Size Dresses</a></strong></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-dresses/plus-size-evening-dress/?linkid=bottommenu">Plus Size Evening Dresses</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-dresses/plus-size-cocktail-dress/?linkid=bottommenu">Plus Size Cocktail Dresses</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-dresses/wedding-dresses/?linkid=bottommenu">Plus Size Wedding Dresses</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-dresses/plus-size-work-dress/?linkid=bottommenu">Plus Size Work Dresses</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-dresses/plus-size-day-dress/?linkid=bottommenu">Plus Size Day Dresses</a></li>
+                <li class="section">
+                    <strong>
+                        <a href="http://www.igigi.com/plus-size-separates/?linkid=bottommenu">Plus Size Separates</a></strong></li>
+            </ul>
+        </div>
+        <div class="col null">
+            <ul>
+                <li class="section first">
+                    <strong>
+                        <a href="http://www.igigi.com/plus-size-accessories/?linkid=bottommenu">Accessories</a></strong></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-accessories/plus-size-jewelry/?linkid=bottommenu">Jewelry</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-accessories/plus-size-scarves-and-belts/?linkid=bottommenu">Scarves &amp; Belts</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-accessories/plus-size-bags/?linkid=bottommenu">Bags</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-accessories/plus-size-shapewear/?linkid=bottommenu">Shapewear</a></li>
+                <li class="section">
+                    <strong>
+                        <a href="http://www.igigi.com/plus-size-sale/?linkid=bottommenu">Sale</a></strong></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-sale/?linkid=bottommenu">Sale Rack</a></li>
+                <li>
+                    <a href="http://www.igigi.com/plus-size-final-cut/?linkid=bottommenu">Final Cut</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="more learn">
+        <div class="footer-title">
+            Learn
+        </div>
+        <ul>
+            <li class="section first">
+                <strong>
+                    <a href="http://www.igigi.com/cms/inside-igigi/new-inside-igigi/?linkid=bottommenu">About Us</a>
+                </strong>
+            </li>
+            <li class="section first">
+                <a href="http://www.igigi.com/cms/inside-igigi/sobre-igigi/?linkid=bottommenu">Sobre IGIGI</a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/ustorelocator/location/map/?linkid=bottommenu">Find a Store
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/plus-size-new-arrivals/igigi-online-gift-card.html">Gift Cards
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/fit-measurement-guidelines/">Shape Stylist/Size Chart
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/shipping-delivery/?linkid=bottommenu">Shipping Info
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/returns-exchanges/?linkid=bottommenu">Returns Policy
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/?linkid=bottommenu">Privacy Policy
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/infographic?linkid=bottommenu">IGIGI Infographic Archive
+                </a>
+            </li>
+
+            <li class="section">
+                <a href="http://wholesale.igigi.com/">Wholesale</a>
+            </li>
+
+            <li>
+                <a href="http://www.igigi.com/affiliate-program/?linkid=bottommenu">Affiliates</a>
+            </li>
+        </ul>
+    </li>
+    <li class="customer_care assistance">
+        <div class="footer-title">
+            Assistance
+        </div>
+        <ul>
+            <li class="section first">
+                <strong>Customer Care</strong><br>
+                1-877-597-8953 (domestic)<br>
+                1-415-692-5639 (intl.)<br>
+                Hours: 8AM - 5PM PST M-F <br><br>
+
+                <strong>Corporate Headquarters</strong><br>
+                1-415-692-5658<br>
+                Hours: 8AM - 5PM PST M-F
+            </li>
+            <li class="section">
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/?linkid=bottommenu">Customer Care
+                </a>
+            </li>
+            <li>
+                <a href="http://www.igigi.com/cms/inside-igigi/customer-service/contact-us/?linkid=bottommenu">Contact Us
+                </a>
+            </li>
+            <li class="section">
+                <a href="http://www.igigi.com/customer/account/?linkid=bottommenu">Your Account
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li class="about newsletter">
+        <div class="footer-title">Newsletter</div>
+
+        <div class="subscribe-news">
+            <div class="baskervilleItalic">Sign up to get the latest on sales, new releases &amp; more.</div>
+            <form>
+                <!--<label for="subscribe-email">FOR FASHION AND SALE NEWS,</label>-->
+                <input type="text" id="subscribe-email" onclick="enlargeNL('signup'); return false;" placeholder="Enter email for fashion and sale news">
+                <button onclick="return false;"></button>
+            </form>
+            <p class="baskervilleItalic">
+                Get 15% off your next purchase when you sign up.
+            </p>
+        </div>
+    </li>
+</ul>
+
+<!--[if lte IE 9]>
+<script>
+    jQuery('#subscribe-email').focus(function() {
+        var input = jQuery(this);
+        if (input.val() == input.attr('placeholder')) {
+            input.val('');
+            input.removeClass('placeholder');
+        }
+    }).blur(function() {
+            var input = jQuery(this);
+            if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                input.addClass('placeholder');
+                input.val(input.attr('placeholder'));
+            }
+        }).blur();
+    jQuery('#subscribe-email').parents('form').submit(function() {
+        jQuery(this).find('#subscribe-email').each(function() {
+            var input = jQuery(this);
+            if (input.val() == input.attr('placeholder')) {
+                input.val('');
+            }
+        })
+    });
+</script>
+-->
+
+    <!-- What Is IGIGI? -->
+    <div class="about-igigi">
+        IGIGI specializes in sexy plus size dresses for woman  with an emphasis on plus size formal wear, wedding gowns, other types of plus size dresses as well as separates. We believe that words like "ample," "opulent," "curvaceous," and "voluptuous" should be mainstays in the fashion dictionary. It is important to accentuate and celebrate the beauty and sensuality of the female figure rather than cover it up with piles of fabric. You ARE beautiful!
+						    </div>
+
+    <!-- Copyright -->
+    <div class="copy">
+        © IGIGI 2014        <br>267 8th Street, San Francisco, CA 94103 USA 1.415.692.5658
     </div>
 	
-		
+	<div class="trust_us_block">
+		<a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/clothing-retail/igigi-in-san-francisco-ca-308193#bbblogo"></a>
+		<div class="payment-carts"></div>
+    </div>
 	
+</div>
 </div>
 </div>
 <script type="text/javascript">
@@ -934,9 +874,7 @@ function toggleBlock(id) {
 
 
 
-<style>
- .popup-sale p.p-sale2 {color: #666666; font: 12px arial,trebuchet ms,helvetica, sans-serif;}
-</style>
+
 <div class="popup popup-sale" id="popup-sale2233" style="display: none; width: 450px; height: 150px;">								
 	<div class="title" style="text-align: center;">Evening Dresses 20% Off Now!</div>
 	<div class="close">
@@ -958,9 +896,6 @@ function toggleBlock(id) {
 </div>
 
 
-<style>
- .popup-sale p.p-sale2 {color: #666666; font: 12px arial,trebuchet ms,helvetica, sans-serif;}
-</style>
 <div class="popup popup-sale" id="popup-sale22" style="display: none; width: 450px; height: 150px;">								
 	<div class="title" style="text-align: center;">FREE SHIPPING DAY 2013!</div>
 	<div class="close">
@@ -975,8 +910,6 @@ function toggleBlock(id) {
 		</p>
 	</div>
 </div>
-
-
 
 <div class="popup popup-sale" id="popup-sale24" style="display: none; width: 450px; height: 195px;">								
 	<div class="title" style="text-align: center;">NYE Sale: Save Up to 80% now!</div>
@@ -1018,10 +951,10 @@ function toggleBlock(id) {
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"30a011d876","applicationID":"2622673","transactionName":"M1BTZ0cAWEIFUBFbCgoacFBBCFlfS1oCWwINVlxAGghYVQFLSlwKNlpER1A=","queueTime":0,"applicationTime":3500,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-400.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"30a011d876","applicationID":"2622673","transactionName":"M1BTZ0cAWEIFUBFbCgoacFBBCFlfS1oCWwINVlxAGghYVQFLSlwKNlpER1A=","queueTime":0,"applicationTime":1547,"atts":"HxdQEQ8aS0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
 
 
 
-<script src="https://js-agent.newrelic.com/nr-400.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
