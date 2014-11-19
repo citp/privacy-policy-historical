@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsphonehub.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114627id_/http%3A//windowsphonehub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsphonehub.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005444id_/http%3A//windowsphonehub.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WindowsPhoneHub - Windows Phone 8 Games & Apps XAP Downloads
+# Privacy Policy - WindowsPhoneHub - Windows Phone Games & Apps Xap Downloads
 
 **Privacy Policy**
 
