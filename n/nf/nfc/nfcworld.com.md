@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521161836id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119041106id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy • NFC World+
+# Privacy policy • NFC World+
 
 This page explains how SJB Research uses the information you give to us, and the ways in which we protect your privacy.
 
@@ -28,7 +28,7 @@ Your use of this website constitutes your acceptance of this use of cookies and 
 
 Log files allow us to record visitors’ use of the site. They enable us to make changes to the layout of the site and to the information in it, based on the way that visitors move around it.
 
-We also use [Google Analytics](http://www.google.com/analytics/), [Clicky](http://clicky.com/) and [Woopra](http://www.woopra.com/) to gather anonymised aggregate data for this purpose and we do not gather or make use of any personal information from which individuals can be identified.
+We also use [Google Analytics](http://www.google.com/analytics/), [Clicky Web Analytics](http://clicky.com/100689611), [Alexa](http://www.alexa.com/) and [Quantcast](https://www.quantcast.com/) to gather anonymised aggregate data for this purpose and we do not gather or make use of any personal information from which individuals can be identified.
 
 ### Mailing lists
 
@@ -44,15 +44,15 @@ We use a specialist third-party service provider to administer our mailing lists
 
 We will use your personal information to send you updates from the mailing lists that you have joined. The information you provide may be used by SJB Research to communicate with you. We may add your personal information to other internal databases if you go on to interact with us in other ways, for example by downloading a white paper, applying for a trial subscription or becoming a customer. Your email address will not be shared with third parties (other than our contracted mailing list service provider solely for the purpose of administering the list).
 
-### White papers and other downloads
+### The NFC World+ Knowledge Centre
 
 #### What data do we collect?
 
-In partnership with our advertisers we may offer valuable information products in the form of downloadable white papers, webinars, and other materials. These products are offered on the understanding that we may collect personal information from you as part of a registration process before you download, view, participate or otherwise take advantage of them. The personal information we collect typically includes your email address, organisation and job title along with general demographic information including your industry sector and country.
+In partnership with our commercial partners we may offer valuable information products in the form of downloadable white papers, webinars, and other resources. These resources are offered on the understanding that we may collect personal information from you as part of a registration process before you download, view, participate or otherwise take advantage of them. The personal information we collect typically includes your email address, organisation and job title along with general demographic information including your industry sector and country.
 
 #### For what purpose do we intend to use your personal information?
 
-The information you provide may be shared with the advertising partner which sponsors the information product you have chosen to download. The information you provide may be used by SJB Research or the advertising partner to communicate with you. If, in the future, you choose to download further information products, the information you provide may also be shared with the advertising partners which sponsor those products.
+The information you provide may be shared with the commercial partner which sponsors the information resource you have chosen to access. The information you provide may be used by SJB Research or the commercial partner to communicate with you. If, in the future, you choose to access further resources, the information you provide may also be shared with the commercial partners which sponsor those resources.
 
 ### Links to external sites
 
@@ -63,3 +63,5 @@ We do not pass on any personal information you have given us to any other websit
 ### Changes to this privacy policy
 
 If this privacy policy changes we will publish an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+
+ _Last updated 24 September 2014._
