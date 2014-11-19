@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornearn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105947id_/http%3A//pornearn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornearn.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005010id_/http%3A//pornearn.com/privacy.php) for the most accurate reproduction.*
 
-# Porn Earn - Adult Advertising Network, Shorten XXX Links, Blind Clicks, Pop Ups, Adult Ad Aggregator!
+# Porn Earn - Privacy Policy
 
 _This statement was last updated May 23, 2014._
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 8\. Contacting Us 
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20140625105947id_/http%3A//pornearn.com/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20141120005010id_/http%3A//pornearn.com/contact.php). 
