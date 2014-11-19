@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528011755id_/http%3A//www.trugreen.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2014-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141119021202id_/http%3A//www.trugreen.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="no-js"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,15 +22,16 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/img/apple-touch-icon-144x144.png">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="/Content/css/combined?v=Xz5WQFbrdgPNx6ccX4HVY6Lt-8G4W3CZGyFM1GZNB4M1" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="/Content/css/combined?v=IlertreLQ28-1-ltSefhYpxqOGu4-bzpOs9-MM2yrGw1" rel="stylesheet">
 
+    <link rel="stylesheet" type="text/css" href="/Content/themes/trugreen/jquery-ui-1.10.1.custom.css">
     <script src="//tags.tiqcdn.com/utag/servicemaster/trugreen/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/Content/foresee/foresee-alive.js"></script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
         var baseUrl = "/";
         var isFranchise = false;
-        var isServiceable = true;
+        var isServiceable = false;
         var hasAddress = false;
         var productsInCart = new Array();
         var refresh = false;
@@ -50,6 +51,8 @@
         <![endif]-->
     <!--[if IE 8]> 
         <link rel="stylesheet" type="text/css" href="/Content/css/ie8.css" />
+        <script src="/Content/js/html5shiv.min.js"></script>       
+        <script src="/Content/js/respond.js"></script>
         <![endif]-->
     <!--[if IE]> 
         <link rel="stylesheet" type="text/css" href="/Content/css/main_ie.css" />
@@ -58,10 +61,19 @@
     <script src="/content/js/respond.js" type="text/javascript"></script>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
     
 
 </head>
 <body>
+    <script src="/Content/js/combined?v=nWrXaQviQBoOwPLXIBQfugK1n50rdMnOmfjBr7Tv5lU1"></script>
+
+    <script src="/Content/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/Content/js/jquery.cookie.js" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+        <script src="/Content/js/jquery.placeholder.js" type="text/javascript"></script>
+    <![endif]-->
+    
     <script type="text/javascript">
         (function (a, b, c, d) {
             a = '//tags.tiqcdn.com/utag/servicemaster/trugreen/prod/utag.js';
@@ -78,22 +90,21 @@
         <ul class="normal middle clearfix" style="-webkit-transform: translate3d(0,0,0)">
             <li class="section-location clearfix">
                 <section>
-                    <section class="info" data-state="VA">
+                    <section class="info" data-state="">
                         <h3 class="local-for">
                             <img class="leaf" src="/content/img/localized-header/Leaf.png">
-                                 Local for: <span>Ashburn,
-                                    VA</span>
+                                 Local for: No service in this area
                         </h3>
                         <h3 class="zip-code" id="state-selector-tab">
-                            Your ZIP: <span id="headerZipCode" class="zip-number">20147</span><span class="change-zip"><a class="zip">Change</a></span></h3>
+                            Your ZIP: <span id="headerZipCode" class="zip-number"></span><span class="change-zip"><a class="zip">Change</a></span></h3>
                     </section>
-                    <img class="state" src="/content/img/states/white/VA.png">
+                    <img class="state" src="/content/img/states/white/.png">
                 </section>
                 <section class="zip-prompt">
                     <section class="arrow">
                     </section>
                     <div class="content">
-                        Hi! Your ZIP appears to be <strong>20147</strong><br>
+                        Hi! Your ZIP appears to be <strong></strong><br>
                         If this is incorrect, please click "change" above to
                         <br>
                         help us provide info tailored to your area.
@@ -126,8 +137,7 @@
             <li class="manage-account clearfix"><span class="icon"></span>
                 <section class="options">
                     <div>
-                        <a class="login-link" href="#">Manage Account<br>
-                            &nbsp;&amp; Pay Bills</a>
+                        <a class="login-link" href="/manage-my-account/login">Manage Account<br>&nbsp;&amp; Pay Bills</a>
                     </div>
                 </section>
             </li>
@@ -135,15 +145,15 @@
         <ul id="fixed-header" class="stick middle clearfix">
             <li class="section-location">
                 <section>
-                <img class="logo" src="/content/img/localized-header/logo-stick-header.png">
-                loves <span>Ashburn, VA</span>
+                <img class="logo" src="/content/img/localized-header/logo-stick-header.png"><span id="lovesState">
+                loves <span>, </span></span>
                 <a class="zip" href="#fixed-header">Change</a>                
                 </section>
                 <section class="zip-prompt">
                     <section class="arrow">
                     </section>
                     <div class="content">
-                        Hi! Your ZIP appears to be <strong>20147</strong><br>
+                        Hi! Your ZIP appears to be <strong></strong><br>
                         If this is incorrect, please click "change" above to
                         <br>
                         help us provide info tailored to your area.
@@ -171,9 +181,8 @@
             <li class="manage-account clearfix"><span class="icon"></span>
                 <section class="options">
                     <div>
-                        <a class="login-link" href="#fixed-header">Manage Account
-                            <br>
-                            &nbsp;&amp; Pay Bills</a>
+                            <a class="login-link" href="/manage-my-account/login">Manage Account<br>&nbsp;&amp; Pay Bills</a>
+
                     </div>
                 </section>
             </li>
@@ -184,7 +193,8 @@
                     <form>
                     <span id="span-confirm-desktop">Confirm your ZIP:</span> <span id="span-confirm-mobile">
                         Confirm ZIP:</span>
-                    <input type="text" placeholder="Enter ZIP code" id="zipCode">
+                    <input type="text" placeholder="Enter ZIP code" id="zipCode" name="zipCode">
+                        <input type="hidden" name="confirmOnNonServiceable" value="1">
                     <input type="submit" value="Update">
                     <span class="zip-edit-message"></span><a href="#" class="zip-edit-close" id="zip-edit-close">
                     </a>
@@ -197,14 +207,14 @@
         </section>
         <section class="middle" style="position: relative;">
             <section id="loginBox">
-                <form method="post" action="https://myaccount.trugreen.com/Account/Login" class="tg-fields" id="loginForm">
+                <form method="post" action="https://www.trugreen.com/manage-my-account/Account/Login" class="tg-fields" id="loginForm">
                 <section class="sectionh4">
                 Login to my account</section>
                 <input type="text" placeholder="Username" name="login">
                 <input type="password" placeholder="Password" name="pass">
                 <section class="row-fluid">
                     <section class="span6">
-                        <a href="https://myaccount.trugreen.com/account/reset" class="loginForgot">
+                        <a href="https://www.trugreen.com/manage-my-account/account/reset" class="loginForgot">
                             Forgot password?</a>
                     </section>
                     <section class="span6">
@@ -213,7 +223,7 @@
                     </section>
                 </section>
                 <section class="register">
-                    <a href="https://myaccount.trugreen.com/account/register">
+                    <a href="https://www.trugreen.com/manage-my-account/account/register">
                         <i class="ico-right-gray-arrow"></i>Register free</a>
                 </section>
                 </form>
@@ -235,12 +245,19 @@
     <section class="middle" id="logo-header">
         <a href="/" id="logo">
             <img src="/Content/img/logo.png" alt="TruGreen" title="View home" width="182" height="55">
-            </a><span class="state">loves Virginia</span>
-            <a id="linkCommercial" href="http://www.trugreencommercial.com">Switch to Commercial</a>
+            </a><span class="state">loves </span>
+            <a id="linkCommercial" href="http://www.trugreencommercial.com">Switch to Commercial</a><br>
+            <section class="search-header-section">
+                <input type="text" class="search-input" id="tipssearch1" name="tipssearch" placeholder="What are you looking for?">
+                <section class="mobile">
+                    <input type="text" class="search-input-mobile" id="tipssearch1-mobile" name="tipssearch" placeholder="What are you looking for?"><input id="btn-search-mobile" class="search-button-mobile" type="button" value="Search">
+                </section>
+            </section>
     </section>
     <section class="mobile-nav-hideable-section" style="display: none;">
         <section id="search-get-a-quote">
         </section>
+
         <section class="row-fluid btn-block-row mobile">
             <section class="span12">
                 <a class="btn-block orange" href="tel:866.369.9539">
@@ -252,18 +269,22 @@
             <ul class="clearfix middle">
                 <li><a id="home" href="/">
                     <i class="ico-nav ico-home"></i>home</a></li>
+                <li><a id="myaccount" href="/manage-my-account" data-nav="manage-my-account">
+                    <i class="ico-nav ico-leaf"></i>my account</a></li>
                 <li><a id="whyTruGreen" href="/why-choose-trugreen" data-nav="why-trugreen">
                     <i class="ico-nav ico-leaf"></i>why trugreen?</a></li>
                 <li><a id="services" href="/products-and-services" data-nav="plans-services">
-                    <i class="ico-nav ico-grass"></i>Ashburn's
+                    <i class="ico-nav ico-grass"></i><span id="megaMenuCityName">'s</span>
                     plans and services</a></li>
                 
                 <li><a id="lawncarecentral" href="/learning-center" data-nav="learning-center">
                     <i class="ico-nav ico-micro"></i>lawn care central</a></li>
                 <li class="last-tablet"><a id="customerSupport" href="/customer-support" data-nav="customer-support">
                     <i class="ico-nav ico-user"></i>customer support</a></li>
-                <li class="mobile"><a href="https://myaccount.trugreen.com"><i class="ico-nav ico-padlock">
-                </i>manage my account &nbsp;&amp; pay bills</a></li>
+                <li class="mobile">
+                        <a href="/manage-my-account/login"><i class="ico-nav ico-padlock">
+                            </i>manage my account &nbsp;&amp; pay bills</a>
+                </li>
             </ul>
             <a href="#" id="main-nav-toggle" class="mobile">Menu</a>
         </nav>
@@ -287,10 +308,100 @@
         </section>
     </section>
 </header>
-<section style="display: none;">
+<section id="modalZipConfirmation" style="display: none;">
     <section id="nonserviceableZip">
-        <section class="sectionh3">
-            We do not currently service your area</section>
+        <section id="NonServiceablezipFormSection">
+            <section>
+                <i class="ico ico-warning"></i>
+                <h1>
+                    We're sorry</h1>
+                <h3>
+                   we currently do not service your zip code.
+                </h3>
+                <h4 id="checkAvailability">
+                    Check availability in another area.</h4>
+                <section class="provide-instructions">
+            Please enter a new ZIP code below.
+    </section>
+                <form action="/siteservices/setzipcode" method="post" id="NoServiceablezipModalForm">
+                <input type="text" placeholder="ZIP code" name="zipCode" id="modalZipCodeNonService">
+                <a id="setZipButtonNonService" class="btn-orange">Submit</a>
+                <span class="zip-edit-spinner"></span>
+                <div id="zipDialogMessage" style="display: none;">
+                </div>
+                </form>
+            </section>
+            <section id="NonServiceableFooter">
+                <section id="NonServiceableFooterMain">
+                    <i class="ico ico-warning"></i>
+                    <h2>
+                        We may still be able to help.</h2>
+                    <div id="zipModalText">
+                        The more you know about your lawn, the better you can help it. Our videos and blogs are filled 
+                        with insights from years of experience helping all sorts of lawns and landscape grow healthy and strong.
+                    </div>
+                </section>
+                <section class="row-fluid footerlinks">
+                    <section class="span6">
+                        <section class="footerlinksitems clearfix">
+                        <a class="ribbons" href="http://www.trugreen.com/learning-center/youtube-videos">
+                            <i class="ico-banner ico-orange-videos" style="left: 55px;position: absolute;top: 0;"> </i>
+                            Watch
+                        </a>
+                            <h4 style="/*margin-left: 52px;*/ position: relative;">Videos</h4>
+                        </section>
+                    </section>
+                    <section class="span6">
+                        <section class="footerlinksitems clearifx">
+                        <a class="ribbons" href="http://www.trugreen.com/blog">
+                            <i class="ico-banner ico-orange-blog" style="left: 58px;position: absolute;top: 0;"> </i>
+                            Visit
+                        </a>
+                            <h4>Trugreen blog</h4>
+                        </section>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+
+    <section id="zipDialog">
+       
+        <section id="zipFormSection">
+            <h2 id="zipDialog-HeaderText">please, confirm your zip code</h2>
+            <p id="zipDialog-Text">we are having difficulty associated your zip code with a local Trugreen branch.</p>
+            <form id="zipDialogForm" class="green-highlight tg-fields">
+                <input type="text" name="zipCode" style="margin:0; color: silver;" id="zipCodeConfirmModal" placeholder="ZIP code">
+                <input type="submit" id="setZipButton" class="btn-tg btn-orange btn-go" style="border: 0; width:50px; height:40px;" value="Go">
+                <input type="hidden" name="confirmOnNonServiceable" value="0">
+            </form>
+            <div id="zipDialogMessage2" style="display: none;">
+                
+            </div>
+            <div id="zipDialogMessage3" style="padding-top: 6px;">
+                <input type="button" id="noThanksButton" class="btn-tg btn-orange" style="border: 0; width: 120px; height:40px;" value="No, Thanks">
+            </div>
+            <img src="/Content/img/logo-2.png" class="logo">
+        </section>
+    </section>
+    
+</section>
+
+<section style="display: none;" id="modal-temporary-container">
+    <section id="pay-outstanding-balance-modal">
+        <section class="row-fluid">
+            <h2>please pay outstanding balance before you Pre-Pay</h2>
+            <section class="stack-on-mobile">
+                <p>Our records indicate that your account currently has an outstanding invoice. In order to qualify for the Pre-Pay discount, please first pay all outstanding balances in full. To pay your balance online today, please click ‘proceed’</p>
+                <p>If you have questions about your account or to pre-pay by phone please call 1-800-TRUGREEN.</p>
+                <div id="CancelContainer" style="width: 50%; display: inline-block; float: left;"><a href="#" class="link-cancel-pay-outstanding-balance">Cancel</a></div>
+                <div id="StopContainer" style="width: 50%; display: inline-block; float: right; text-align: right;">
+                    <form id="frmOneTimePayment-header" action="/Account/OneTimePayment" method="post">
+                        <a href="#" class="btn-tg btn-orange btn-go" style="width: 100px;" onclick="$(this).closest('form').submit();">Proceed</a>
+                    </form>
+                </div>
+            </section>
+        </section>
     </section>
 </section>
     
@@ -449,10 +560,6 @@
     </section>
 
 </section>
-    <script src="/Content/js/combined?v=pSM6e1wqdcLm35-GRYtRMN1_mxyt2txHagZi2HFzvtw1"></script>
-
-    <script src="/Content/js/bootstrap.min.js" type="text/javascript"></script>
-    
     <footer>
     <section class="row-fluid middle">
         <section class="span9">
@@ -721,7 +828,7 @@
             </section>
 
             <section id="schedule-section" class="controls-row new" style="margin-top: 20px; display: none;">
-                <input class="span6" id="CallbackDate" name="CallbackDate" placeholder="Choose Date" type="text" value="5/27/2014 12:00:00 AM">
+                <input class="span6" id="CallbackDate" name="CallbackDate" placeholder="Choose Date" type="text" value="11/18/2014 12:00:00 AM">
                 <select id="schedule-time-option" class="span6" name="CallbackTime">
                     <option class="schedule-time-option-value" value="">Select time for callback</option>
                     <option class="schedule-time-option-value" value="8">Early (after 8:00 AM)</option>
@@ -789,6 +896,15 @@
 </script>
 
 </section>
+    <script type="text/javascript">
+        var noServiceMode = document.cookie.replace(/(?:(?:^|.*;\s*)isInNoServiceMode\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+        if (noServiceMode != "true") {
+            TG_Show_Modal("#zipDialog", 600, 300, "Welcome to TruGreen.com", "To ensure you have access to local seasonal information, area alerts and product information for your city, please enter your <strong>ZIP code</strong> below.");
+            $("#zipCodeConfirmModal").val(zipEntered);
+            $("#top-nav .zip-prompt").hide();
+            $("#top-nav .state").hide();
+        }
+    </script>
  
      
      
@@ -797,6 +913,7 @@
         includeGa('', isServiceable, isCurrentCustomer, isLoggedIn, isMobileSite, isPricingFormat, '', '');
     </script>
 
+    <a href="https://plus.google.com/+trugreen" rel="publisher"></a>
 
 
 </body></html>
