@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521153123id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119040715id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy...
 
