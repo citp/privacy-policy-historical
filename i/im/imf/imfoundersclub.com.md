@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imfoundersclub.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017202900id_/http%3A//www.imfoundersclub.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfoundersclub.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119014726id_/http%3A//www.imfoundersclub.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | IM Founders Club
 
