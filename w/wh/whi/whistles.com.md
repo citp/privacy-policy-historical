@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whistles.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606160740id_/http%3A//www.whistles.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistles.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005301id_/http%3A//www.whistles.com/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy | WHISTLES
 
 **Whistles believe purchasing goods online should be as secure as shopping in-store and we strive to achieve this. Additionally, we respect your privacy rights and protect all online visitor personal information.**
 
-Your privacy is taken very seriously. We work hard to ensure that Whistles only use your information in the ways that you have agreed. Our privacy statement explains what information we collect on our website, how and when it is collected, what we use it for and how we will use it in the future. If you have any further questions relating to this statement please contact us at [enquiries@whistles.co.uk](mailto:enquiries@whistles.co.uk). If you are under 18, we require that you inform a guardian or parent regarding Whistles privacy policy before ordering online.
+Your privacy is taken very seriously. We work hard to ensure that Whistles only use your information in the ways that you have agreed. Our privacy statement explains what information we collect on our website, how and when it is collected, what we use it for and how we will use it in the future. If you have any further questions relating to this statement please contact us at [enquiries@whistles.com](mailto:enquiries@whistles.com). If you are under 18, we require that you inform a guardian or parent regarding Whistles privacy policy before ordering online.
 
 We have made every effort to display the colours and descriptions of our products that appear online as accurately as possible. However, screens can vary in the way they display colour and may not accurately reflect the look of the product on delivery.
 
@@ -16,7 +16,7 @@ Prices are inclusive of VAT. Goods are subject to availability.
 
 We will only send you marketing messages, such as items and promotions that match your profile, if you choose to receive them from us or the third parties we think you may be interested in hearing from. If you decide that you no longer wish to receive emails from www.whistles.com, you can unsubscribe at any time by clicking here and selecting "unsubscribe". We promise your details will never be sold to an unconnected third party for marketing purposes.
 
-Our privacy statement may change and therefore you should review it regularly. We will of course notify you of any updates where we are required to do so. If you have any questions relating to this statement, please email us at [enquiries@whistles.co.uk](mailto:enquiries@whistles.co.uk).
+Our privacy statement may change and therefore you should review it regularly. We will of course notify you of any updates where we are required to do so. If you have any questions relating to this statement, please email us at [enquiries@whistles.com](mailto:enquiries@whistles.com).
 
 ## Website security
 
@@ -48,4 +48,4 @@ Any information you deem incorrect can be updated at any time by clicking here a
 
 We will not pass your information to any third parties outside of Whistles Ltd, except where required to do so as a part of the sale, disposal or transfer of our business, in whole or in part.
 
-Should you wish to gain a copy of the personal information we hold on you (for which we may charge a small fee) please call us on +44 (0) 845 899 1222 or email us at [enquiries@whistles.co.uk](mailto:enquiries@whistles.co.uk).
+Should you wish to gain a copy of the personal information we hold on you (for which we may charge a small fee) please call us on +44 (0)20 7391 0923 or email us at [enquiries@whistles.com](mailto:enquiries@whistles.com).
