@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004211id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119211748id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # EzyDVD - Australia's first and largest online DVD and Blu-ray store
 
