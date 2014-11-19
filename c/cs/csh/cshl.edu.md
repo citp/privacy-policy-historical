@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622190415id_/https%3A//www.cshl.edu/Contact-Us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119230238id_/http%3A//www.cshl.edu/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Cold Spring Harbor Laboratory | Privacy Policy
+# CSHLPrivacy Policy | About Us
 
-****CSHL is a research and educational institution. The Laboratory has research programs focusing on cancer, neurobiology and plant genetics and a broad educational mission, including the recently established Watson School of Biological Sciences. We invite you to explore our Website.
+CSHL is a research and educational institution. The Laboratory has research programs focusing on cancer, neurobiology and plant genetics and a broad educational mission, including the recently established Watson School of Biological Sciences. We invite you to explore our Website.
 
 **Information Collection and Use**   
 Cold Spring Harbor Laboratory is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Cold Spring Harbor Laboratory collects information from our users at several different points on our website.
@@ -22,4 +22,4 @@ Community communication features such the Memory Baord are at the heart of the c
 We strongly recommend that users take extra care to use discretion when disclosing information online in chat rooms or forums. In the future, CSHL will be adding new components to the site in order to further safeguard visitors' information.
 
 **How to Contact Us for Corrections/Updates**  
-We use e-mail links located on the "[Contact Us](http://www.cshl.edu/Contact-Us/contact-public-affairs)" page to allow you to contact us directly with any questions or comments. We read every message sent in and try to reply promptly to every one. We then either file your comments to improve on our site, features, and programs, or review and discard the messages.
+We use e-mail links located on the "[Contact Us](http://www.cshl.edu/about-us/contact-public-affairshtml)" page to allow you to contact us directly with any questions or comments. We read every message sent in and try to reply promptly to every one. We then either file your comments to improve on our site, features, and programs, or review and discard the messages.
