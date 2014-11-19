@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083159id_/http%3A//weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153149id_/http%3A//weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Weekly World News | Privacy Policy
 
