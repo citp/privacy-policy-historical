@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301121646id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005141id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
-Last Updated: March 29, 2011
+Last Updated: March 17, 2014
 
-Generally SymptomFind.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII").
+Generally SymptomFind.com ("Site," “SymptomFind.com,” "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII").
 
-SymptomFind.com is owned by ValueClick Brands, Inc. (a division of ValueClick, Inc.). For SymptomFind.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+SymptomFind.com is operated by IAC Search & Media Brands, Inc. (“IACSAM Brands”). For SymptomFind.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 ###### What does this Privacy Policy cover?
 
@@ -16,9 +16,9 @@ Please be aware that, as part of the service provided by this Site, we may provi
 
 ###### What information does SymptomFind.com collect and how is it used? Does SymptomFind.com disclose information to third parties?
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of ValueClick Brands, Inc. (a division of ValueClick, Inc.).
+We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with subsidiaries or affiliates of IACSAM Brands (“IACSAM Brands Entities”) and with third parties.
 
-**(a) Traffic or Clickstream Data ("Clickstream Data").** Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and ValueClick Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and ValueClick Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or ValueClick Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
+**(a) Traffic or Clickstream Data ("Clickstream Data").** Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and IACSAM Brands Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and IACSAM Brands Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or IACSAM Brands Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
 
 **(b) Non-Personally Identifiable Information.** As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
 
@@ -42,9 +42,9 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows:
 
-  * SymptomFind.com
-  * PO Box 168
-  * Monrovia, CA 91017
-  * E-Mail: [contact us](https://web.archive.org/web/20140301121646id_/http%3A//www.symptomfind.com/contact.html)
+  * IAC Search & Media Brands, Inc.
+  * 555 12th Street, Suite 500
+  * Oakland, CA 94607
+  * E-Mail: [contact us](https://web.archive.org/web/20141120005141id_/http%3A//www.symptomfind.com/contact.html)
 
 
