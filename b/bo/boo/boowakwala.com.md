@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boowakwala.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191915id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boowakwala.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055713id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen.com Privacy policy
 
@@ -40,11 +40,11 @@ UpToTen makes every effort to ensure that it complies with all relevant laws and
   * ~~~~First name and surname,
   * The ages of the children in their charge
   * Their age 
-  * This information is required in order to benefit� from free and unlimited access to the UpToTen services : UpToTen Kids and UpToTen Parents. 
+  * This information is required in order to benefit from free and unlimited access to the UpToTen services : UpToTen Kids and UpToTen Parents. 
 
 
 
-The� holder of an UpToTen User Account is responsible for the children s/he subscribes to the Boowa & Kwala Club and for those s/he allows to enter the site using his/her account. 
+The holder of an UpToTen User Account is responsible for the children s/he subscribes to the Boowa & Kwala Club and for those s/he allows to enter the site using his/her account. 
 
 Each e-mail submission implicitly implies a subscription to the UpToTen newsletter. However, each newsletter offers the possibility to unsubscribe
 
@@ -56,9 +56,9 @@ Parents / legal guardians have the right of access to all personally identifiabl
 
 UpToTen can use this information for awarding prizes, checking the participants' compliance with regulations, publication or replying (all usage of this type will be clearly indicated and explained to visitors as and when they are asked to provide information), for internal use such as assessing the level of interest of the various site modules for visitors to enable UpToTen to provide the best possible personalized service. In the event of UpToTen wishing to display information provided by visitors publicly on the site, the visitors in question will be warned beforehand and will have the possibility of refusal.
 
-You will find your � UpToTen User Account � in the � UpToTen Parents � section
+You will find your « UpToTen User Account » in the « UpToTen Parents » section
 
-The � UpToTen Parents � section will also be your hub of contact with the UpToTen team and the UpToTen community at large.
+The « UpToTen Parents » section will also be your hub of contact with the UpToTen team and the UpToTen community at large.
 
 You will : 
 
@@ -150,7 +150,7 @@ Cookies are data elements that are stored on your hard drive. Cookies allow you 
 
 PLEASE NOTE THAT WE NEVER SAVE PASSWORDS, CREDIT CARD NUMBERS OR OTHER SENSITIVE INFORMATION IN COOKIES. 
 
-Cookies are very widely used and are hugely beneficial to you. Most Internet sites use them extensively. By indicating how a user navigates through the site, cookies can help us to identify those parts of the site work best and those that work least well. Most updates and improvements are based on information from Cookies. Most importantly, Cookies allow you to access UpToTen without identifying yourself every time� 
+Cookies are very widely used and are hugely beneficial to you. Most Internet sites use them extensively. By indicating how a user navigates through the site, cookies can help us to identify those parts of the site work best and those that work least well. Most updates and improvements are based on information from Cookies. Most importantly, Cookies allow you to access UpToTen without identifying yourself every time. 
 
 Please note the following :
 
@@ -168,7 +168,7 @@ Use of UpToTen e-commerce applications are subject to the policies and terms and
 
 All credit card information is collected directly by our bank on their own secure servers. This ensures maximum security and peace of mind for our users. 
 
-All the information sent and received at the time of payment are encrypted using 128 bit encryption technology (the strongest commercially available today). The encryption keys are provided by Verisign([http://www.verisign.com](http://www.verisign.com/)), the world leader in this field.�
+All the information sent and received at the time of payment are encrypted using 128 bit encryption technology (the strongest commercially available today). The encryption keys are provided by Verisign([http://www.verisign.com](http://www.verisign.com/)), the world leader in this field.
 
 In the future we may call upon outside contractors to process and fulfill orders made from the UpToTen Store. In this case, UpToTen will choose only trusted, reliable partners with a household name. They will then be responsible for adhering to our own privacy and security policies. 
 
@@ -184,29 +184,26 @@ General Conditions that apply to our privacy policy
 
 Although UpToTen follows and complies with the Children's Online Privacy Protection Act, the regulations promulgated thereunder and the currently applicable European laws concerning children on the Internet, this does not guarantee safety or that the relevant person is a child or a parent or legal guardian, and UpToTen does not guarantee the actual identities claimed by its users. Also, we do not guarantee that your children will not voluntarily release personal information about themselves or about you or their friends or other acquaintances on our site or on sites that they visit or link to from our site. It is very important that parents understand the features, uses and potential risks of using UpToTen.com. That's why we advise all users to practice safe computing and urge parents to advise their children not to give out any personally identifiable information without their consent. 
 
-UpToTen is not immune from the possibility of acts of piracy. UpToTen can therefore not be held responsible for any pirated content within its pages. We guarantee, however, that we employ the strictest controls and security measure to ensure that acts of piracy do not occur. 
+UpToTen is not immune from the possibility of acts of piracy. UpToTen can therefore not be held responsible for any pirated content within its pages. We guarantee, however, that we employ the strictest controls and security measure to ensure that acts of piracy do not occur.
 
-UpToTen makes no guarantees, warranties or representations that you or your child will be absolutely safe or insulated from inappropriate content or behavior and we do not guarantee, warrant or represent that a child will not try to circumvent, or be successful in circumventing, the features on our site. Furthermore, UpToTen does not assume any obligations, liability, or responsibilities associated with such behavior or associated with the obligations of parental supervision. 
+UpToTen makes no guarantees, warranties or representations that you or your child will be absolutely safe or insulated from inappropriate content or behavior and we do not guarantee, warrant or represent that a child will not try to circumvent, or be successful in circumventing, the features on our site. Furthermore, UpToTen does not assume any obligations, liability, or responsibilities associated with such behavior or associated with the obligations of parental supervision.
 
 UpToTen reserves the right to change the information, features, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Privacy Policy will be posted on the UpToTen site. Please check these terms periodically for changes. At the top of the policy we indicate the date of the last update. The continued use of the UpToTen web site following the posting of changes to these terms will mean you accept such changes, and any off-line consent provided under COPPA will be deemed to apply to the revised policies and new or modified features. However, in the event there is a material change in our data collection, use or disclosure practices, we will obtain a new consent.
 
-These contractual conditions shall be analyzed and governed by the laws of MAURITIUS without regard to its conflict of law provisions. If any of the terms of these conditions are found to be illegal, invalid or void for any reason it shall be considered severable and shall not affect the validity or application of the other provisions. 
+These contractual conditions shall be analyzed and governed by the laws of MAURITIUS without regard to its conflict of law provisions. If any of the terms of these conditions are found to be illegal, invalid or void for any reason it shall be considered severable and shall not affect the validity or application of the other provisions.
 
 Thank you for being concerned with kids' privacy and safety issues and for taking the time to read this Privacy Policy. We hope that you and your children enjoy UpToTen.com. If you have any questions or comments, please feel free to contact us. 
 
-We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don�t hesitate to contact us at 
+We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don't hesitate to contact us at [steve@uptoten.com](mailto:steve@uptoten.com)
 
-� UpToTen. All rights reserved 
-
-\- UpToTen - 6th Floor, Nirmal House, Sir William Newton Street, Port Louis, MAURITIUS. 
-
-Tel: (230) 483 6119 
+UpToTen, Astor Court, Port Louis, Mauritius  
+Tel: (230) 213 68 37   
+© UpToTen. All rights reserved
 
 UpToTen reserves the right, at all times, to modify or to renew its privacy policy.   
   
 | 
 
-All logos, illustrations, music, characters © UpToTen.  
-UpToTen •• 6th Floor, Nirmal House, Sir William Newton Street,   
-Port Louis, Mauritius. Fax: 230 483 5948   
-Email :
+[Contact us](http://www.uptoten.com/contact_us.php)
+
+™, ® , © 1999 -  UpToTen All rights reserved.
