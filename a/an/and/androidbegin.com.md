@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidbegin.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406135615id_/http%3A//www.androidbegin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidbegin.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231425id_/http%3A//www.androidbegin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidBegin
 
