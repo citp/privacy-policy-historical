@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101428id_/https%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132010id_/http%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
 
 # Credit Report, Credit Reference, Credit Check - checkmyfile
 
@@ -16,7 +16,7 @@ You may **opt out** or opt back in to receive our monthly emails at any time. Ev
 
 ## Cookies
 
-We use a minimal number of cookies to support your use of the checkmyfile website. We classify these as being either **Strictly Necessary** , **Performance** or **Referral** cookies. More information is available below - you can change your settings by clicking the Privacy & Cookies link at the top of the page.
+We use a minimal number of cookies to support your use of the checkmyfile website. We classify these as being **Strictly Necessary** , **Performance** , **Referral** or **Advertising** cookies. More information is available below - you can change your settings by clicking the Privacy & Cookies link at the top of the page.
 
 #### Strictly Necessary Cookie Examples
 
@@ -75,6 +75,26 @@ OMG
 These cookies are set by OMG, a market leading UK based affiliate marketing company to record a referral to our website from one of many hundreds of websites who promote our services. No personal information is recorded in these cookies, merely the data required to validate the referral at the checkout.  
     
 View the [OMG Privacy & Cookies Policy](http://uk.omgpm.com/privacy.aspx).
+
+#### Advertising Cookie Examples
+
+These enable us to remind you about our services when you visit other websites that share a similar audience to ours.
+
+Cookie Name
+
+Provider
+
+Purpose
+
+Various
+
+Google, AdRoll
+
+Advertising cookies enable us to re-advertise our services online to you when you visit websites that show our display advertisements generated via Google Adwords, AdRoll or similar ('Third Party Vendors'. These Third Party Vendors use cookies to serve ads based on your past visits to our website. You can opt out of all such advertising by visiting the Network Advertising Initiative opt-out page.  
+    
+View the [Google Privacy & Cookies Policy](http://www.google.co.uk/intl/en/policies/)  
+    
+View the [AdRoll Privacy Policy](https://www.adroll.com/about/privacy)
 
 ## Privacy Practices
 
