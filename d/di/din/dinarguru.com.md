@@ -1,33 +1,103 @@
-> *The following text is extracted and transformed from the dinarguru.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618184430id_/http%3A//www.dinarguru.com/privacy-policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinarguru.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045457id_/http%3A//www.dinarguru.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Dinar Guru
+# privacy policy - Dinar Guru
 
-www..DinarGuru.com (Dinar Guru) PRIVACY POLICY
+**Privacy Policy  **
 
-Please read very carefully:   
-We only contacts individuals who specifically request we do or if they sign up to receive our free newsletters or purchase a product. We collect personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you. 
-
-How we use this information?   
-The info we collect is used for internal marketing purposes only. We do not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes. 
-
-Contact Us Dinar Guru 4640 S. Carrollton Ave New Orleans LA 70119 Call 504-272-2221 Email blanchebonet2010@gmail.com-  
+DinarGuru.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.  
   
-Dinar Guru is committed to protecting your privacy. Dinar Guru collects no personal information about who visits our site. Dinar Guru uses a traffic service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site's visitors.  Dinar Guru uses an outside OPT-IN email service which is totally optional to join.
+“You or your” means you as a participant in or as a user of the DinarGuru.com website.  “We” or “Our” or “US” means DinarGuru.com.  “Our Site” means DinarGuru.com.   
+  
+All information transmitted, printed or otherwise submitted to DinarGuru.com via this website shall be deemed to be the property of DinarGuru.com and Dinarguru.com shall be free to use such information for any lawful purpose as detailed herein.  
+  
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.  
+  
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.  
+  
+**Section 1: Collected Information**  
+We automatically collect and/or track the following:  
+  
 
-Demographic data: 
 
-We use third-party advertising companies to serve ads when you visit our Web site, this includes Google ads. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
+  3. information, user specific or aggregate, on what pages our visitors access; and
+  4. E-mail addresses of visitors that communicate with DinarGuru.com via e-mail.
 
-We can see hostnames of our visitors through out 3rd party statistics provider. In other words, if you are in New York and you use earthlink, we may see that this person visited our site: 833.235.new-york.earthlink.net - but in no way does that tell us who you are. Other information we may see includes what we stated above - screen resolution, browser type, domains, countries, etc., but we repeat - in no way does this identify any sort of personal information about you. We do not know who you are unless you tell us. 
 
-Will Dinar Guru disclose the information it collects? 
 
-Dinar Guru may eventually disclose the aforementioned GENERAL information about visitors (how many visitors, what countries are they from, etc)- information that does NOT identify who you are. We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. 
+**Section 2: Use of Data Collected**  
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Facebook.com, twitter and others), and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails, display and native advertising or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.  
+  
+**Section 3: Disclosure of Data to Third Parties**  
+  
+If you choose to provide personal information, it will be used for the following purposes:  
+  
 
-About Our Advertisers and Affiliates: 
 
-Dinar Guru works with third parties that serves ads to this site. To find out more about how Google AdSense manages the privacy of information in conjunction with serving ads on this site, please go to www. **google**.com/ **adsense**.
+  1. considering you for a DinarGuru.com product;
+  2. as required by law; and
+  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-Your consent: 
 
-By using our Web site, you consent to the collection and use of this information by DinarGuru.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. But, now and forever we put your privacy first before any other concerns. We do not sell our list of email addresses from this site. We respect the privacy of our visitors.
+
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: blanchebonet2010ATgmailDOTcom (Please replace “AT”with @ and “DOT” with . )  
+  
+**Section 5: We Do Not Intend to Collect Data from Children**  
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DinarGuru.com. No part of DinarGuru.com’s web site is structured to attract anyone under the age of 18.  
+  
+**Section 6: Our Right to Contact You**  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.  
+  
+**Section 7: Our Right to Change**  
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.  
+  
+**Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: blanchebonet2010ATgmailDOTcom (Please replace “AT”with @ and “DOT” with . )  
+  
+**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**  
+  
+DinarGuru.com is dedicated to ensuring compliance with the “Can-Spam Act”, Which took effect January 1, 2004. You may receive email from DinarGuru.com in the following circumstances:  
+  
+
+
+  1. Acknowledging your application has been received and requesting additional action
+  2. Requests for additional information to support your current application
+  3. Response to your inquiries regarding the status of your transactional requests
+  4. Thanking you for your valued business
+  5. Advertisements for our products, services, changes in services, new product availability
+  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+
+
+
+To ensure compliance with the Can-Spam Act, DinarGuru.com has implemented the following guidelines for email delivery:  
+  
+
+
+  1. All emails sent to you by DinarGuru.com will clearly identify DinarGuru.com and/or Blanche Bonet as the sender. 
+  2. Any email from DinarGuru.com will include the ability to unsubscribe from future email messages.
+  3. Unsubscribing will ensure the customer is removed from ALL lists at DinarGuru.com; this excludes customer service emails regarding the processing and status of a current product.
+  4. All emails sent to you directly by DinarGuru.com include valid postal address information in the footer.
+  5. All third party marketing partners are required to comply with the Can-Spam Act.
+  6. Emails sent to you directly by DinarGuru.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+
+
+
+**Section 10: Information for ISPs**  
+Web site: DinarGuru.com  
+Email Address: blanchebonet2010ATgmailDOTcom (Please replace “AT”with @ and “DOT” with . )  
+  
+DinarGuru.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns you may have regarding our email policies. DinarGuru.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer or member information, and it is not our policy or desire to send unsolicited email.  If we obtain email addresses and personal information from third parties that follow the same set of policies. DinarGuru.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.  
+  
+From time to time, DinarGuru.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,  
+  
+
+
+  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
+  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
+  3. that DinarGuru.com has the right to send marketing offers to the individuals.
+
+
+
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DinarGuru.com. If you have additional questions or wish to discuss this matter further, please contact us at: blanchebonet2010ATgmailDOTcom (Please replace “AT”with @ and “DOT” with . )
