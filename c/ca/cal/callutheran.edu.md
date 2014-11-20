@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callutheran.edu privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322020218id_/http%3A//www.callutheran.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callutheran.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084508id_/http%3A//www.callutheran.edu/about/privacy.php) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
