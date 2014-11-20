@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213112249id_/http%3A//www.gameduell.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175639id_/http%3A//www.gameduell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
-## Privacy Policy
+**GameDuell is committed to Your privacy**
 
-##### Gameduell is committed to Your privacy
+We value Your patronage and respect Your privacy rights. As part of the normal operation of Our services, We collect and, in some cases, may disclose information about You. We have created the following Privacy Policy to let You know what information We collect when You visit Our Website, why We collect it, and how it is used. This Privacy Policy applies to all information that You provide to GameDuell, Inc. ("Us," "We," or "Our") and that We maintain electronically, whether You provide the information through Our Website located at www.gameduell.com (the "Website"), or through other means. Additionally, this Privacy Policy applies to any Personal Information (defined below) obtained from Your use of the Website. This Privacy Policy does not apply to any information that You may provide to third parties; for example, other sites linked to this Website. You should contact such third parties directly to determine their respective privacy policies. 
 
-We value Your patronage and respect Your privacy rights. As part of the normal operation of Our services, We collect and, in some cases, may disclose information about You. We have created the following Privacy Policy to let You know what information We collect when You visit Our Website, why We collect it, and how it is used. This Privacy Policy applies to all information that You provide to GameDuell, Inc. ("Us," "We," or "Our") and that We maintain electronically, whether You provide the information through Our Website located at www.gameduell.com (the "Website"), or through other means. Additionally, this Privacy Policy applies to any Personal Information (defined below) obtained from Your use of the Website. This Privacy Policy does not apply to any information that You may provide to third parties; for example, other sites linked to this Website. You should contact such third parties directly to determine their respective privacy policies.
-
-This Privacy Policy is governed by Our Terms and Conditions. GameDuell reserves the right to change this Privacy Policy. In such an event, GameDuell will send You an email containing the revised terms or a notification containing a link to where the revised terms can be viewed on the Website at least two (2) weeks before they go into effect. GameDuell may also send notice of the revisions to You using the GameDuell messaging service. If You do not expressly object to the validity of the new terms and conditions via e-mail within this two (2) week period, then the newly revised Privacy Policy will be considered agreed upon. If You reject the newly revised Privacy Policy, then GameDuell may terminate its relationship with You. If You believe We have not adhered to this Privacy Policy or if You have any other questions regarding this Privacy Policy, please contact Us at [privacypolicy@gameduell.com](mailto:privacypolicy@gameduell.com).
+This Privacy Policy is governed by Our Terms and Conditions. GameDuell reserves the right to change this Privacy Policy. In such an event, GameDuell will send You an email containing the revised terms or a notification containing a link to where the revised terms can be viewed on the Website at least two (2) weeks before they go into effect. GameDuell may also send notice of the revisions to You using the GameDuell messaging service. If You do not expressly object to the validity of the new terms and conditions via e-mail within this two (2) week period, then the newly revised Privacy Policy will be considered agreed upon. If You reject the newly revised Privacy Policy, then GameDuell may terminate its relationship with You. If You believe We have not adhered to this Privacy Policy or if You have any other questions regarding this Privacy Policy, please contact Us at **privacypolicy@gameduell.com**.
 
 ### 1\. Special note about children
 
@@ -16,25 +14,37 @@ This Website is targeted primarily for use by adults. We do not currently market
 
 ### 2\. What personal information do we collect from You and why?
 
-We collect and maintain a variety of Personal Information about You to enable Us to provide You with the best service. "Personal Information" is information about You by which You may be identified. We currently collect Personal Information through e-mail and the various online inquiry forms on the Website. The Personal Information We collect and maintain about You includes:
+We collect and maintain a variety of Personal Information about You to enable Us to provide You with the best service. "Personal Information" is information about You by which You may be identified. We currently collect Personal Information through e-mail and the various online inquiry forms on the Website. The Personal Information We collect and maintain about You includes: 
 
   * Your name, Your phone number (mobile and/or home), address (street and e-mail), date of birth, and ID or passport number (when applicable), and gender; and 
+
+
   * Your bank information (when applicable).
 
 
 
-We only collect Personal Information that You voluntarily provide to Us or voluntarily provide to Our Partners (defined below) who share that information with Us. We also use Your Personal Information for other things that may include, but are not limited to, the following:
+We only collect Personal Information that You voluntarily provide to Us or voluntarily provide to Our Partners (defined below) who share that information with Us. We also use Your Personal Information for other things that may include, but are not limited to, the following: 
 
   * Contacting You  
 We use Your Personal Information to communicate with You in the event We have any questions with regard to any online inquiry You may have or if, in accord with Our Terms and Conditions, We need to contact you. We may also contact You to tell You about products and services provided by Our Partners, other affiliates, and other third party organizations.
+
+
   * Interactions  
 Each time You interact with Our Website, the details of Your interaction are collected and retained by Us.
+
+
   * Correspondence  
 We intend to retain any correspondence, including facsimiles, mail and e-mails, set to Us. We also may retain correspondence such as customer service e-mails from Us to You, and photocopy of Your ID or Passport (when applicable). We may delete such records over time.
+
+
   * Use of IP Address  
 IP addresses are numbers that are automatically assigned to Your computer, and, if associated with other individually identifiable information, could be considered personal information. Your user IP address information is used only for Our internal tracking and marketing purposes.
+
+
   * Use of Cookies  
 In order for Us to provide You with the best possible service on Our Website, Your browser must accept cookies, as they are essential for site administration and security. We do not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier. 
+
+
   * Google Analytics 
 
 In order to provide the best possible service for our users, we use "cookies" which enable us to analyse user behaviour. We currently use the tracking and analysis technology from "Google Analytics."
@@ -43,7 +53,7 @@ The analysis is conducted **partially anonymously** so that exact conclusions ab
 
 The compiled data cannot be used to personally identify users of our website. The data is exclusively used for the purpose of optimising our offer. An additional use or transmission of the data to a third party does not occur at any time.
 
-Through the use of this website you have declared yourself in agreement with the use of data collected from you in the manner described above and for the previously mentioned purpose. You can, of course, revoke this anonymous analysis of your surfing behaviour at any time by sending a mail to [revoke-consent@gameduell.com](mailto:revoke-consent@gameduell.com).
+Through the use of this website you have declared yourself in agreement with the use of data collected from you in the manner described above and for the previously mentioned purpose. You can, of course, revoke this anonymous analysis of your surfing behaviour at any time by sending a mail to **revoke-consent@gameduell.com**.
 
 Details Concerning the Use of Google Analytics:
 
@@ -59,14 +69,19 @@ In addition, you can prevent the compilation generated by the cookie, and the us
 
 You can find more information [here](http://tools.google.com/dlpage/gaoptout?hl=en-US) and [here](http://www.google.com/analytics/learn/privacy.html) (general information regarding "Google" Analytics and data protection).
 
-  * Details of Webtrekk GmbH services:  
+
+
+  * Details of Webtrekk GmbH services:
+
 Using services provided by Webtrekk GmbH, Hannoversche Str. 19, 10115 Berlin, we can collect and use data relating to the usage of our website. This helps us improve our products and services. When you use the website, information sent by your browser is collected and analyzed. This is done by means of the cookie technology and pixels tags that are integrated into every website. 
 
 Data collected in this way are used to generate **anonymous user profiles without identifiers**. These form the basis for our web statistics. 
 
 You can **block** collection and use of data by Webtrekk GmbH at any time by clicking [here](http://www.webtrekk.com/en/index/dataprivacy/cookieoptout.html). Clicking on this link will set an opt-out cookie on your data carrier which is valid for 5 years. Please note that if you clear all cookies from your computer this opt-out cookie will also be deleted. This means that you will need to replace the opt-out cookie if you wish to continue to refuse anonymous data collection by Webtrekk. 
 
-The opt-out cookie must be set separately on each browser and computer. If you visit our website using several computers or different browsers you will need to activate the opt-out cookie on each of those browsers and computers. 
+The opt-out cookie must be set separately on each browser and computer. If you visit our website using several computers or different browsers you will need to activate the opt-out cookie on each of those browsers and computers.
+
+
 
   * "Social Plugins" are used to improve the customization of our offer for each respective user.
 
@@ -103,17 +118,19 @@ We offer secure Web pages to collect certain kinds of user information and We st
 
 ### 7\. How long we keep user information
 
-We generally keep user data on Our server or in Our archives for as long as We reasonably need it. We may alter this practice according to changing requirements. For example, We may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
+We generally keep user data on Our server or in Our archives for as long as We reasonably need it. We may alter this practice according to changing requirements. For example, We may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. 
 
 Data management requests are administered in an orderly manner to the extent feasible and within Our direct control. Please note that We have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, Our general data retention policy applies.
 
 ### 8\. Personal choice in the disclosure of Your information
 
-If You do not want Us to share Your Personal Information with Our Partners for marketing purposes, or if You do not want to receive certain communications and offers from Us You can "opt out" of such sharing, communications and offers by calling Us at +49 (0)30 288 768 246 or email Us at [privacypolicy@gameduell.com](mailto:privacypolicy@gameduell.com), or write Us at:
+If You do not want Us to share Your Personal Information with Our Partners for marketing purposes, or if You do not want to receive certain communications and offers from Us You can "opt out" of such sharing, communications and offers by calling Us at +49 (0)30 288 768 246 or email Us at **privacypolicy@gameduell.com** , or write Us at: 
 
-GameDuell INC  
-703 Market St., Ste. 350  
-San Francisco CA 94110
+GameDuell INC 
+
+207 Powell St., Ste. 200 
+
+San Francisco CA 94102
 
 ### 9\. Changes to this privacy policy
 
@@ -121,12 +138,13 @@ By Using this Website, You agree to this Privacy Policy. We reserve the right to
 
 ### 10\. If You have a privacy question
 
-If You have a privacy question about this Website, please email:  
-Customer Service at [service@gameduell.com](mailto:service@gameduell.com)
+If You have a privacy question about this Website, please email: 
+
+Customer Service at **service@gameduell.com**
 
 Or write to:  
 GameDuell INC  
 703 Market St., Ste. 350  
-San Francisco CA 94110
+San Francisco CA 94110 
 
 **Date Last Modified: July 04, 2013.**
