@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071449id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170019id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
 
 # Reallusion Privacy Policy - 2d & 3d real-time animation
 
