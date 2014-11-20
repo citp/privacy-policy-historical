@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspan.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141627id_/http%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspan.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205121id_/http%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | C-SPAN.org
 
@@ -13,6 +13,8 @@ This policy applies to all the other sites that can be reached from www.c-span.o
 Personally Identifying Information ("Personal Data") is any information that can be used to identify a specific individual. It includes information such as your name, email address, home address, photograph, and phone number. We do not collect Personal Data from you unless you volunteer it. For example, when you create a MyC-SPAN account you are asked for an email address, a username, and your first and last name. You may also choose to provide a photograph and some background information. If you use the "add to my calendar" feature of MyC-SPAN account, you will make certain program choices linked to you. All of this is Personal Data that we retain.
 
 Our agents and contractors who have access to your Personal Data are required by us to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing on our behalf. 
+
+When you verify your cable or satellite subscription to get online access to the live streams of C-SPAN, C-SPAN2 and C-SPAN3 you are also providing Personal Data to your cable company, satellite company or other distributor. Your distributor may use your Personal Data for its own purposes as described in its privacy policy.
 
 ### Our Use of Your Personal Data:
 
