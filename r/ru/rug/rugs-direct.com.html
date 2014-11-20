@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625104535id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120203630id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
     <!-- Sidecar main JS script -->
@@ -24,15 +24,11 @@
     <!-- commenting out canonical refs until Drew Fixes. GLC 5/6/2014 
     ViewData[RugsDirect.Data.Constants.ViewData.CANONICAL] -->
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link rel="stylesheet" href="//www.gstatic.com/commercesearch/sayt/commerce_sayt.css" type="text/css" media="screen"><link rel="stylesheet" href="/Content/commerce_sayt.css" type="text/css" media="screen">
-    <script src="//www.google.com/jsapi" type="text/javascript"></script>
-    <script src="//www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
-
-    
-            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=020">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=028">
     
 
-        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=020"></script>
+        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=028"></script>
 
     
 
@@ -192,6 +188,40 @@
 	    }
           
     </script>
+<link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.6.css"><link rel="stylesheet" type="text/css" href="//rugs-direct.resultspage.com/rac/sli-rac.css">
+<script type="text/javascript">
+    function returnSizeKey(keyword) {
+        sizes = keyword.replace(/\s/g, '').replace('by', 'x').replace(/foot|feet/gi, '\'').replace(/inches|inch/gi, '"').toLowerCase().split('x');
+
+        if (sizes[1] == undefined || isNaN(parseInt(sizes[0])) || isNaN(parseInt(sizes[1])))
+            return;
+
+        width = sizes[0].split('\'');
+        num1 = parseInt(width[0]) * (width[0].indexOf('"') > -1 ? 1 : 12);
+        if (width[1] != undefined && !isNaN(parseInt(width[1])))
+            num1 += parseInt(width[1]);
+
+        length = sizes[1].split('\'');
+        num2 = parseInt(length[0]) * (length[0].indexOf('"') > -1 ? 1 : 12);
+        if (length[1] != undefined && !isNaN(parseInt(length[1])))
+            num2 += parseInt(length[1]);
+
+        return num1 < num2 ? num1 + 'x' + num2 : num2 + 'x' + num1;
+    } 
+
+
+
+    function ajaxsearchsubmit(form) {
+        var search = encodeURIComponent(form.w.value);
+        if (search == "" || search == null)
+            return false;
+        document.activeElement.blur();
+        sizeKey = returnSizeKey(form.w.value);
+        window.location = "http://shop.rugs-direct.com/search#w=" + search + (sizeKey == undefined ? '' : "&sizekey=" + sizeKey);
+        return false;
+    } 
+
+</script>
 
     
     <style type="text/css">
@@ -271,7 +301,7 @@ http://www.omniture.com -->
 
         if (a.id == "Nav_Accessories") {
             $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrowwhite.png");
-        } 
+        }
     }
     function highlightOff(a) {
         a.style.background = "#F1F6F9";
@@ -281,43 +311,37 @@ http://www.omniture.com -->
             a.style.color = "#296784";
         }
 
-        
+
         if (a.id == "Nav_Accessories") {
             $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrow.png");
-        } 
+        }
     }
 </script>
 <div class="navBarTop">
     <div id="CategoryWatcher" style="display: none;">
         </div>
+ 
     <ul>
-        <li id="Nav_arearugs" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Area-Rugs'" style="width: 95px;" alt="Rugs Home" title="Rugs Home">Rugs</li>
-        <!-- <li id="Nav_arearugs" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)"
-            onclick="window.location = '/Shop/Navigate/arearugs'" style="width: 66px;">Rugs</li> -->
-        <li id="Nav_luxury" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Luxury-Area-Rugs'" style="width: 133px;" alt="Luxury Rugs" title="Luxury Rugs">Luxury Rugs</li>
-        <li id="Nav_specialbuys" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys'" style="width: 130px;" alt="Special Buys" title="Special Buys">Special
-            Buys</li>
-        <li id="Nav_pre-cutpad" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pre-cutpad'" style="width: 113px;" alt="Rug Pads" title="Rug Pads">Rug Pads</li>
-        <li id="Nav_whatsnew" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys/sale_percent~1/12/1/~11-4294866445_1'" style="width: 163px;" alt="One-of-a-Kind Rugs" title="One-of-a-Kind Rugs">
-            One-of-a-Kind Rugs</li>
-
-        <li id="Nav_Accessories" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" style="width: 163px;" alt="Accessories" title="Accessories">
-            Accessories 
-            <img id="dropdownarrow" src="/Content/Images/nav/nav_downarrow.png">
-
+        <li id="Li1" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Area-Rugs+e/'" style="width: 95px;" alt="Rugs Home" title="Rugs Home">Rugs</li>
+        <li id="Li2" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Luxury-Area-Rugs'" style="width: 133px;" alt="Luxury Rugs" title="Luxury Rugs">Luxury Rugs</li>
+        <li id="Li3" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Special-Buys+e/'" style="width: 130px;" alt="Special Buys" title="Special Buys">Special Buys</li>
+        <li id="Li4" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/PreCut-Pad+e/'" style="width: 113px;" alt="Rug Pads" title="Rug Pads">Rug Pads</li>
+        <li id="Li5" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/One-of-a-Kind-Rugs+e/'" style="width: 163px;" alt="One-of-a-Kind Rugs" title="One-of-a-Kind Rugs">One-of-a-Kind
+            Rugs</li>
+        <li id="Li6" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" style="width: 163px;" alt="Accessories" title="Accessories">Accessories
+            <img id="Img1" src="/Content/Images/nav/nav_downarrow.png">
             <ul>
-                <li id="Nav_framedart" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/framedart'" alt="Art" title="Art">Art</li>
-                <li id="Nav_furniture" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/furniture'" alt="Furniture" title="Furniture">Furniture</li>
-                <li id="Nav_pillow" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pillow'" alt="Pillows" title="Pillows">Pillows</li>
+                <li id="Li7" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://www.rugs-direct.com/Shop/Navigate/framedart'" alt="Art" title="Art">Art</li>
+                <li id="Li8" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Furniture+e/'" alt="Furniture" title="Furniture">
+                    Furniture</li>
+                <li id="Li9" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Pillows+e/'" alt="Pillows" title="Pillows">
+                    Pillows</li>
             </ul>
-
         </li>
-
-
-
-        <li id="Nav_outlet" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/outlet'" style="width: 157px; color: Red; border-right: none;" alt="Clearance Outlet" title="Clearance Outlet">
-            Clearance Outlet</li>
+        <li id="Li10" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Clearance+e/'" style="width: 157px; color: Red;
+            border-right: none;" alt="Clearance Outlet" title="Clearance Outlet">Clearance Outlet</li>
     </ul>
+
 </div>
 
                                                 <div class="product">
@@ -477,7 +501,7 @@ We suggest that you review our privacy policy periodically, as we may update it 
 
             
                     <address class="phone">
-                    <abbr>Order toll-free:</abbr>
+                    <abbr>Order toll free:</abbr>
                     888-464-1447
                     </address>
                 
@@ -637,27 +661,15 @@ We suggest that you review our privacy policy periodically, as we may update it 
 
                 <div id="header_middle_middle">
                     <!-- search box starts here -->
-                    <form id="searchbox" name="searchbox" action="http://www.rugs-direct.com/Shop/Navigate/" method="get">
-                    <fieldset style="text-align: right;">
-                        <div id="searchSuggestionsWrapper">
-                            <div id="searchWrapper">
-                                <div style="display: inline; float: right;">
-                                    <div style="display: inline; float: right;">
-                                        <input type="submit" class="btn-search" id="btn-search" name="btn-search">
-                                    </div>
 
-                                    <div style="display: inline; float: right;">
-                                        <input type="text" class="txt-search" value="Search by rug style, color, name or description here." onfocus="ClearField(this);" id="searchterm" name="searchterm">
-                                    </div>
+ 
+               <form name="searchform" action="http://shop.rugs-direct.com/search" method="get" onsubmit="return ajaxsearchsubmit(this);">
+                <input id="sli_search_view" type="hidden" name="view" value="grid">
+                <input class="txt-search" name="w" value="" placeholder="Search by rug style, color, name or description here" onfocus="this.value=''" id="sli_search_1" autocomplete="off">
+                <input class="btn-search" type="submit" value="search">
+</form>
 
-                                </div>
-                                <!--<input type="hidden" id="searchcategory" name="id" value="AreaRugs" />-->
-                                <div id="suggestionsWrapper">
-                                </div>
-                            </div>
-                        </div>
-                    </fieldset>
-                    </form>
+
                     <!-- search box ends here -->
                 </div>
 
@@ -719,9 +731,6 @@ We suggest that you review our privacy policy periodically, as we may update it 
 
 
 
-      //SAYT DISABLED 
-            try {console.log('SAYT object was null, presumably it was disabled by Google.');} catch (e) {}
-        
 </script>
         <!-- footer -->
         
@@ -754,6 +763,7 @@ We suggest that you review our privacy policy periodically, as we may update it 
                 <li><a href="http://www.rugs-direct.com/Content/StoreLocations">
                     Store Locations</a></li>
                 <li><a href="/blog" target="_blank">Trend Center</a></li>
+                <li><a href="http://shop.rugs-direct.com">Popular Searches</a></li>
                 
             </ul>
         </div>
@@ -849,9 +859,10 @@ We suggest that you review our privacy policy periodically, as we may update it 
     <!-- Begin Criteo Tracker Implementation -->
 
     
-
-
+     
     <!-- End Criteo Tracker Implementation -->
+
+
 
     
     </div>
@@ -879,6 +890,7 @@ We suggest that you review our privacy policy periodically, as we may update it 
             <label id="messaging_text"></label>
         </div>
     </div>
+<script type="text/javascript" src="//rugs-direct.resultspage.com/rac/sli-rac.config.js"></script>
 
 
 </body></html>
