@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619075824id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084218id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Sydney
 
@@ -47,4 +47,6 @@ We will use all reasonable endeavours to keep your personal information in a sec
 We may at any time vary the terms of this Privacy Statement. You should check this Privacy Statement regularly so that you are aware of any variations made to this Privacy Statement. You will be deemed to have consented to such variations by your continued use of the Site following such changes being made.
 
 **10\. Contacting us**  
-If you wish to access your personal information, have a complaint as you believe your privacy has been breached or wish to update your details, please contact our Privacy Officer at [privacy@au.timeout.com](mailto:privacy@au.timeout.com) **© Print & Digital Publishing Pty Ltd 2007.**
+If you wish to access your personal information, have a complaint as you believe your privacy has been breached or wish to update your details, please contact our Privacy Officer at [privacy@au.timeout.com](mailto:privacy@au.timeout.com)
+
+© Print & Digital Publishing Pty Ltd 2007
