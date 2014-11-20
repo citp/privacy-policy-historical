@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolt.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134133id_/http%3A//revolt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolt.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112357id_/http%3A//revolt.tv/privacy) for the most accurate reproduction.*
 
 # REVOLT | Website Privacy Policy
 
@@ -60,5 +60,3 @@ Please note that information submitted to the Sites via a "contact us" or other 
 Residents of California are entitled to the following specific consumer rights information: you may contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by mail at: 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone at (916) 445-1254.  Their website is located at: http://www.dca.ca.gov.  
 **L.          _Connectivity_**.  You are responsible for obtaining and maintaining all Devices and other equipment and software, and all internet service provider, mobile service, and other services needed for your access to and use of the Service and you will be responsible for all charges related to them.  
 **_©2013 Revolt TV._** _All Rights Reserved._
-
-You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your experience.
