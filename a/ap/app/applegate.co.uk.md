@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022255id_/http%3A//www.applegate.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104942id_/http%3A//www.applegate.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,8 +74,7 @@ We may disclose your personal information to third parties:
 
 **YOUR RIGHTS**
 
-You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by contacting Us at enquiries@applegate.co.uk.  
-
+You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by contacting Us at enquiriesapplegate.co.uk.
 
 The Site may, from time to time, contain links to and from the websites of Our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -89,4 +88,4 @@ Any changes We may make to Our privacy policy in the future will be posted on th
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to enquiries@applegate.co.uk
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to enquiriesapplegate.co.uk
