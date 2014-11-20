@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041102id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131109id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# OCLC Privacy policy
+
+Respecting your rights while staying in touch
 
 ## OCLC ONLINE COMPUTER LIBRARY CENTER, INC.
 
@@ -111,9 +113,3 @@ If you have any questions regarding our policies, please contact [privacy@oclc.o
 >  Customer Service, ATTN: Privacy  
 >  6565 Kilgour Place  
 >  Dublin, Ohio 43017-3395
-
-* * *
-
-[Copyright ©](https://web.archive.org/worldcat/community/copyright.en.html) 2001-2013 OCLC. All rights reserved.  |  [Privacy Policy](https://web.archive.org/worldcat/community/privacy.en.html)  |  [Terms and Conditions](https://web.archive.org/worldcat/community/terms.en.html)
-
-WorldCat is provided by [OCLC Online Computer Library Center, Inc.](https://web.archive.org/home.en.html) on behalf of its member libraries.
