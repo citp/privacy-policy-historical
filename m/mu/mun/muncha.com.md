@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607024930id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115918id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts and money to Nepal, Online shopping Nepal, gifts in Nepal: Muncha.com
 
@@ -10,11 +10,11 @@ Shop By Cities
 
 Select **“City”** that you want to shop for or have your order delivered to. What is this?
 
-|  | 
+|   | 
 
-In order to make it easier for you, now you can select the city you want to order for through the drop down menu. All the products that come up are eligible for delivery to that city. 
+In order to make it easier for you, now you can select the city you want to order for through the drop down menu. All the products that come up are eligible for delivery to that city.
 
-We have also established branches in these cities in order to facilitate your orders as well as to handle exchanges and customer service issues. Product variety has also been highly enhanced and continue to increase every day.   
+We have also established branches in these cities in order to facilitate your orders as well as to handle exchanges and customer service issues. Product variety has also been highly enhanced and continue to increase every day.  
   
 ---|---  
   
@@ -32,7 +32,9 @@ Security
 Our site is well secured   
 by GoDaddy.com   
 for using online transactions.   
-More Details 
+
+
+More Details
 
 | 
 
@@ -52,7 +54,7 @@ Muncha Money Transfer Service gives you fast and easy, safe and legal way to sen
 
 You can choose any of the links below for the money transfer service:
 
-  * [USA](http://www.money.muncha.com/) Here, you can use Internet Check or ACH (Automated Clearing House)
+  * [USA](https://muncha.machpay.com/?campaign=shoppingTop) Here, you can use Internet Check or ACH (Automated Clearing House)
 
 
 
@@ -82,18 +84,57 @@ iPay (www.iPay.com.np), a service of Muncha.com, is an online payment gateway fo
   
 ---|---|---|---|---|---|---  
   
-YOU ARE IN THE **KATHMANDU/LALITPUR/BHAKTAPUR** PAGE OF MUNCHA.COM  
-All the products that come up are deliverable to Kathmandu/Lalitpur/Bhaktapur.  
-If you want to order for a different city, select that city through the drop down below. 
+You are in shop for **BIRGUNJ**  
 
-**I WANT TO SHOP FOR** |  |  What is this?
+**Birgunj** »Jeetpur »Kalaiya »Parsa and others near by Birgunj...  
+If you want to order for a different city, then city change the city.
 
-In order to make it easier for you, now you can select the city you want to order for through the drop down menu. All the products that come up are eligible for delivery to that city. 
+  Change City
 
-We have also established branches in these cities in order to facilitate your orders as well as to handle exchanges and customer service issues. Product variety has also been highly enhanced and continue to increase every day.   
-  
----|---|---  
-  
+Select the city from below where you want to shop for:
+
+  * Surkhet
+  * Buddha Path
+  * Dailekh
+
+
+
+  * Bhairahawa
+  * Lumbini
+  * Kapilvastu
+
+
+
+  * Lekhnath
+  * Khairenitar
+  * Byas
+
+
+
+  * Bhedatar Chowk
+  * Dharan Industrial Area
+  * Bhanu Chowk
+
+
+
+  * Simara
+  * Bhimpheri
+  * Manahari
+
+
+
+  * Mahendranagar Bazaar
+  * Bhimdatta
+  * Dhangadi
+
+
+
+  * Kohalpur
+  * Khujara
+  * Belaheri
+
+
+
 SEARCH:  |  Currency:   
 ---|---  
   
@@ -196,8 +237,6 @@ Where,
 
 
 
-* During Return of products (within 7 Days) listed in Clothing, Shoes and Accessories and Services category refund amount will we deposited into recipient’s iPay account in [www.iPay.com.np](https://www.ipay.com.np/) (Payment Gateway) after deduction of 3%.
-
 Exchange policies are also applied to all the products listed in Muncha.com if they are faulty and not fit for purpose.
 
 For Exchange, please contact following department with the proof of purchase: 
@@ -227,34 +266,32 @@ By using this site, you imply to agree to the terms and conditions of the Privac
   
  
 
-Healthcare Technologies was incorporated with an objective to deliver qualitative medical products and services to the health professionals & public in Nepal. We are a group of young & experienced professionals with core interests in the health care sector with focused efforts in specialized areas. 
-
-We have been in the health care sector in different forms and areas. We are into imports and distribution of Medical & Surgical Equipments, All type of medical recording papers, Personal Healthcare products & related products.
-
-SPRINGWOOD apparels conforms to the highest quality standard in the industry with fabrics imported from some of the finest mills abroad, its patterns and fits are generated by Surya Nepal’s computerized design development cell taking special care to incorporate body shapes and sizes of Nepalese consumers. The manufacturing is done under close supervision of Surya Nepal’s quality assurance team consisting of highly qualified and trained garment engineers and quality inspectors. 
-
-Moni’s Creations Deals in homemade chocolates in tempting flavors: crunchy almond, cool mint, lustrous peanut butter and alluring coffee. Also Stained Glass, Glass Painting, Corporate Gift, trousseau packaging, Bead work and Candles. You can choose from our interesting combinations mostly packaged in beautiful Nepali paper box. 
-
-The Blue Himalayan Craft Nepal established in 2007 in Kathmandu city. We are Nepali felt exporter in Nepal, the leading manufacturer and exporter of felt bags, felt shoes, felt purses, wholesale felt shoes, felt balls, felt beads, felt crochet flowers, felt bags, wool ladies shoulder bags, felt tote bags, felt gift bags, felt accessories & jewelers, felt flowers, felt febric, felt rope, felt puppets, felt finger puppets, felt dolls, felt merino wool top, felt key chains, felt hairbands, felt broochs, felt hair clips, felt cushion cover, felt animal design shoe, wool felt bangles, wool felt ear rings, felt crafts tiger shoes, nepal felt crafts, felt needle case, felt wallets, felt slippers, felt baby shoes, felt purses, felt balls mat, felt fruits, felt necklace, felt accessories and felt ball mat from Nepal. 
-
-U.F.O. The Clothing Store had a humble beginning with a single store established in February 1996 in Ranjana, Kathmandu. The first store opened with an exclusive collection of stylish clothes and shoes for Youngsters. Since then it has grown up as a leading Clothing chain in Nepal. The continued success of U.F.O.’s unique and innovative shopping concept has provided the company with an outstanding record of achievement in a comparatively short period of time. 
-
-Shokolade, takes great pride in being one of Nepal’s few manufacturers of the finest homemade chocolates. Our products are supplied to local bakeries and companies who require chocolates for gifting purposes. Initiated in 2012, Shokolade is well known as a reliable business partner and manufacturer for the supply of chocolate products. 
-
-Nepal Wool House, has established itself as a brand name offers mens & women’s fashion wear, formal wear & summer collection at wholesale prices. 
-
 iDream Professionals Pvt. Ltd. was established on May 2007 by a team of highly experienced IT professionals with an aim to provide prompt and quality service to its customers. We focus on total customer satisfaction and deliver genuine products as per their requirement. 
 
-An exclusive showroom of Sarees and Salwar Suit. It deals in a variety of fashionable ladies wear according to the present needs. Being a successful outlet in its place is dealing in High quality product. 
+**Cosmetica Pvt. Ltd**. is our maiden venture in the organized retail segment. As the name itself implies, **Cosmetica** is a Multi-Brand Cosmetics Retail Chain dealing in well known inter-national brands of Color Cosmetics, Body Care products and Fragrances including Perfumes and Deodorants’. 
 
-Mytrip2nepal.com is established under license from Ministry of Tourism, Government of Nepal and affiliated with Nepal Association of Travel & Tours Agents. We offer Cultural, Adventure, Religious & MICE tours in Nepal. Beside Nepal we also provide tour packages for Tibet & Bhutan. Mytrip2nepal is established with vision to empower the Foreign and Nepalese travelers with comprehensive choices and instant bookings, in order to make informed travel decisions. We aim to offer a range of best-value products and services along with cutting-edge technology and dedicated round-the-clock customer support. We have highly experienced professional on travel field to offer what best Nepal can offer as a destination. To provide quality travel experience with personal care we have our own vehicles from latest model cars to luxury coaches all driven by experienced and trained drivers. We have our operation department with experience staffs who will monitor the daily movement for smooth operation. We provide quality language guides for sightseeing tours and all are university graduates and guiding license holder issued from Ministry of Culture & Tourism. Our Quality Check department collects feedback regularly from clients to ensure the high level of satisfaction when travelling in our area.
+Foot Fetish is Nepal’s first Exclusive Reflexology and Wellness Center. It has been successfully catering to its satisfied patrons for the last seven years. 
+
+Gini & Jony, founded by Lakhani brothers in 1980, is an Indian kid’s fashion brand. Since its inception, it has won admirers and accolades both in India and abroad. Throughout its 30 years of experience, Gini & Jony brand has laid foundation to kid’s fashion that is par with the rest of the world and innovation that has revolutionized the kids clothing line in India ever since. Gini & Jony clothing combines cutting-edge design with superior fabrics to deliver an experience like no other kids wear brand. Gini and Jony brand manufacture kids wear that includes garments such as Gini & Jony t-shirts, pants, shorts, skirts and other kids wear garments.
+
+Imperial Trade Link is the only exclusive importers & distributors of one of the finest writing Instruments “Sheaffer” in Nepal since decades. It provides a wide range to cater every need as per the customer’s requirement. The range carries Ball Point pens, Roller Pens, Fountain Pens, Calligraphy Pens & other Pen accessories… The unique feature of Sheaffer is the sheaffer “NIB” known for its fine writing & craftsmanship. 
+
+Welcome 12 seasons. The big idea behind 12 seasons is to create an ever changing atmosphere for your home and office. Now you can subscribe artworks including photographs and photographed paintings on a monthly basis, and your walls would never look the same. We have a huge collection of original artworks from Nepalese photographers and artists that can be seen at our website www dot twelve seasons dot net (12seasons.net). 
+
+If we want to give some gift to anyone we must think that our gift should be memorable up to future in their life. Keep in mind in this statement we have established THE REAL GIFT POINT for providing real service. The Real Gift Point produced 100% handmade bamboo’s products. In the current market context importance of handcraft bamboo’s products increased day by day. We are committed to make many more attractive bamboos’s product and provide better service up to local national and foreign market. 
+
+Party supplier is newly opened store which supply party items mainly the theme based party. Party supplier imports the high quality theme based materials which can be used for different occasion like birthday party, baby shower, bachelors party, and many more... 
+
+Hatemalo Nepali Handicraft is established and aimed to support women who need help for themselves and for their family. Many of the women are unemployed and illiterate; they can’t feed their child properly in a daily basis. We are growing the employment opportunities to them and by selling their handmade products we are growing the number of woman. 
+
+**Reliable Tech.** was established in 2003. It is located in Pulchowk, Lalitpur. Main business of Reliable Tech is Power backup, IT, machinery tools and all kind of general office supplies. 
 
 [ ](http://www.shop.muncha.com/Content.aspx?SHOW=HOW_TO_ORDER)
 
 |    
   
 For 24-7 Customer Service, Call:  
-1-859-215-0093 (USA)     1-888-357-6348 (USA, toll free)     44 0207 078 7349 (UK)     61-(02)-8310-4158 (Australia)     33 (0)1 7666 0612 (France)     977-1-5539414, 5535757 
+1-859-215-0093 (USA)     1-888-357-6348 (USA, toll free)     44 0207 078 7349 (UK)     61-(02)-8310-4158 (Australia)     977-1-5535757, 5539414 
 
 Copyright © 2000-2014 Muncha Internet Ventures  
 [About Us](http://www.shop.muncha.com/Content.aspx?SHOW=ABOUT_US) • 
