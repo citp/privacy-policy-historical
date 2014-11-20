@@ -1,31 +1,11 @@
-> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818164044id_/http%3A//imgcentral.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120063047id_/http%3A//imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy | Tattoo and Piercing Gallery
+# imgcentral » More Information » Privacy Policy
 
-Privacy Policy for www.imgcentral.com
+When you sign up for an account with imgcentral, we collect personal information from you including your email address and a password. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email
+We may also collect the URL from which you linked into our site, your IP address, and your browser type and version. All of which are collected in an anonymous manner without being linked to any of your personal information. 
 
-At www.imgcentral.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.imgcentral.com and how it is used.
+User privacy is something we take very seriously at imgcentral. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of imgcentral. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-Log Files  
-Like many other Web sites, www.imgcentral.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-Cookies and Web Beacons  
-www.imgcentral.com does not use cookies.
-
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.imgcentral.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.imgcentral.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.imgcentral.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.imgcentral.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.imgcentral.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+If you have any question, please do not hesitate to contact us at admin@imgcentral.com 
