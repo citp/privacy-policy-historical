@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madvapes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233333id_/http%3A//www.madvapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madvapes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131938id_/http%3A//www.madvapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://members.trust-guard.com/disputesystem/). 
+If at anytime you have a case that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://members.trust-guard.com/disputesystem/). 
 
 Respectfully, 
 
