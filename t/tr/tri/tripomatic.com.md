@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525041906id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044842id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ We value your privacy and only collect personal information that is essential to
 
 ## Scope
 
-This privacy policy governs your use of the software applications Tripomatic Trip Planner app, Tripomatic website and Tripomatic Destination Guides apps. These are further referred to as "Tripomatic". For a complete list of applications governed by this privacy policy, consult <https://itunes.apple.com/us/artist/two-bits-s.r.o./id519058036>, [https://play.google.com/store/apps/developer?id=Tripomatic&hl=en](https://play.google.com/store/apps/developer?id=Tripomatic&hl=en), <http://appworld.blackberry.com/webstore/vendor/84286/> and [http://www.tripomatic.com](http://www.tripomatic.com/). 
+This privacy policy governs your use of the software applications Tripomatic Trip Planner app, Tripomatic website and Tripomatic Destination Guides apps. These are further referred to as "Tripomatic". For a complete list of applications governed by this privacy policy, consult <https://itunes.apple.com/us/artist/tripomatic-s.r.o./id519058036>, [https://play.google.com/store/apps/developer?id=Tripomatic&hl=en](https://play.google.com/store/apps/developer?id=Tripomatic&hl=en), <http://appworld.blackberry.com/webstore/vendor/84286/> and [http://www.tripomatic.com](http://www.tripomatic.com/). 
 
 ## User Provided Information
 
@@ -68,7 +68,7 @@ We may disclose User Provided and Automatically Collected Information:
   * as required by law, such as to comply with a subpoena, or similar legal process;
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
   * with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement;
-  * if two bits s.r.o. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+  * if Tripomatic s.r.o. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
 
 
@@ -112,13 +112,13 @@ Tripomatic treats all private information in compliance with Czech legislation, 
 
 If you have any questions regarding privacy while using Tripomatic, or have questions about our practices, please contact us via email at [support@tripomatic.com](mailto:support@tripomatic.com) or contact us in writing: 
 
-two bits s.r.o.  
-Belohorska 89  
-63600 Brno  
+Tripomatic s.r.o.  
+Za Parkem 631/14  
+621 00 Brno  
 Czech Republic / EU 
 
 ## Thanks to...
 
 This privacy policy is based on an awesome template provided by docracy.com <https://www.docracy.com/6016/mobile-privacy-policy>
 
-Last updated: March 27, 2014
+Last updated: July 01, 2014
