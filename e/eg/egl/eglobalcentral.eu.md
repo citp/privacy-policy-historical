@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309063733id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131937id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us. This privacy statement provides information about the personal information that eglobal central collects, and the ways in which eglobal central uses that personal information. 
+Your privacy is important to us. This privacy statement provides information about the personal information that eGlobal Central collects, and the ways in which eGlobal Central uses that personal information. 
 
 **Personal information collection**
 
-eglobal central may collect and use the following kinds of personal information:
+eGlobal Central may collect and use the following kinds of personal information:
 
 \- information about your use of this website (including to process the order and to deliver the goods ordered);
 
@@ -20,7 +20,7 @@ eglobal central may collect and use the following kinds of personal information:
 
 **Using personal information**
 
-eglobal central may use your personal information to
+eGlobal Central may use your personal information to
 
 \- administer this website;
 
@@ -42,20 +42,20 @@ eglobal central may use your personal information to
 
 **Securing your data**
 
-eglobal central will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+eGlobal Central will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-eglobal central will store all the personal information you provide on its secure servers. Information relating to electronic transactions entered into via this website will be protected by encryption technology.
+eGlobal Central will store all the personal information you provide on its secure servers. Information relating to electronic transactions entered into via this website will be protected by encryption technology.
 
 **Updating this statement**
 
-eglobal central may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes. 
+eGlobal Central may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes. 
 
 **Contact information**
 
 https://eglobalcentral.eu
 
 Privacy Policy Supervisor  
-eglobal central  
+eGlobal Central  
 P.O. Box 80800  
 Cheung Sha Wan Post Office  
 Hong Kong
