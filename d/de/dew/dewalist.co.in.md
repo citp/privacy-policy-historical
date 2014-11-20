@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514025710id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050113id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
 
-# Indian Free Classified Ads Online | Community Classifieds | Dewalist
+# Indian Free Classified Ads Online | Community Classifieds | DewaList
 
 **Privacy Policy**
 
