@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204005548id_/http%3A//freepostcodelottery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055302id_/http%3A//freepostcodelottery.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy » Free Postcode Lottery
+# Free Postcode Lottery » Privacy policy
 
 ## Privacy Policy
 
