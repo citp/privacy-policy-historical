@@ -1,63 +1,191 @@
-> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518094644id_/http%3A//www.anzscosearch.com/anzscosearch-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120090310id_/https%3A//www.anzscosearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.anzscosearch.com
+# Privacy Policy | ANZSCOsearch
 
-**WWW.ANZSCOSEARCH.COM  
-**
+##### 1\. Introduction
 
-## **PRIVACY POLICY**
+1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
 
-Welcome to www.anzscosearch.com (the "Site").
+1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.anzscosearch.com (collectively, "Services") ("Authorized Customers").
+##### 2\. Credit
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+2.1 This document was created using a template from [SEQ Legal](http://www.seqlegal.com/) (http://www.seqlegal.com).
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+##### 3\. Collecting personal information
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+3.1 We may collect, store and use the following kinds of personal information:
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+(b) information that you provide to us when registering with our website (including your email address);
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by www.anzscosearch.com is securely stored and is not accessible to third parties or employees of www.anzscosearch.com except for use as indicated above.
+(c) information that you provide when completing your profile on our website (including your name, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details);
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [admin@anzscosearch.com](mailto:admin@anzscosearch.com)
+(d) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+(e) information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use);
 
-**How does www.anzscosearch.com use login information?**  
-www.anzscosearch.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+(f) information that you post to our website for publication on the internet (including your user name, your profile pictures and the content of your posts);
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-www.anzscosearch.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+(g) information contained in or relating to any communications that you send to us or send through our website (including the communication content and meta data associated with the communication);
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+(h) any other personal information that you choose to send to us; and
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [admin@anzscosearch.com](mailto:admin@anzscosearch.com)
+(i) _provide details of other personal information collected_.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [admin@anzscosearch.com](mailto:admin@anzscosearch.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+3.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+##### 4\. Using your personal information
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+4.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
+
+4.2 We may use your personal information to:
+
+(a) administer our website and business;
+
+(b) personalise our website for you;
+
+(c) enable your use of the services available on our website;
+
+(d) send you goods purchased through our website;
+
+(e) supply to you services purchased through our website;
+
+(f) send statements, invoices and payment reminders to you, and collect payments from you;
+
+(g) send you non-marketing commercial communications;
+
+(h) send you email notifications that you have specifically requested;
+
+(i) send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
+
+(j) send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+
+(k) provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information);
+
+(l) deal with enquiries and complaints made by or about you relating to our website;
+
+(m) keep our website secure and prevent fraud;
+
+(n) verify compliance with the terms and conditions governing the use of our website (including monitoring private messages sent through our website private messaging service);
+
+4.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+
+4.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
+
+4.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party’s direct marketing.
+
+##### 5\. Disclosing personal information
+
+5.1 We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this policy.
+
+5.2 We may disclose your personal information:
+
+(a) to the extent that we are required to do so by law;
+
+(b) in connection with any ongoing or prospective legal proceedings;
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+
+5.4 Except as provided in this policy, we will not provide your personal information to third parties.
+
+##### 6\. International data transfers
+
+6.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
+
+6.2 You expressly agree to the transfers of personal information described in this Section 6.
+
+##### 7\. Retaining personal information
+
+7.1 This Section 7 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
+
+7.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+7.3 Notwithstanding the other provisions of this Section 7, we will retain documents (including electronic documents) containing personal data:
+
+(a) to the extent that we are required to do so by law;
+
+(b) if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+
+##### 8\. Security of your personal information
+
+8.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+8.2 We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+
+8.3 All electronic financial transactions entered into through our website will be protected by encryption technology.
+
+8.4 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+8.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
+
+##### 9\. Amendments
+
+9.1 We may update this policy from time to time by publishing a new version on our website.
+
+9.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+##### 10\. Your rights
+
+10.1 You may instruct us to provide you with any personal information we hold about you.
+
+10.2 We may withhold personal information that you request to the extent permitted by law.
+
+10.3 You may instruct us at any time not to process your personal information for marketing purposes.
+
+10.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+
+##### 11\. Third party websites
+
+11.1 Our website includes hyperlinks to, and details of, third party websites.
+
+11.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+
+##### 12\. Updating information
+
+12.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
+
+##### 13\. Cookies
+
+13.1 Our website uses cookies.
+
+13.2 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+13.3 Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+13.4 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+13.5 We use both session and persistent cookies on our website.
+
+13.6 Most browsers allow you to refuse to accept cookies; for example:
+
+(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools”, “Internet Options”, “Privacy” and then “Advanced”;
+
+(b) in Firefox (version 24) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+
+(c) in Chrome (version 29), you can block all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.
+
+13.7 Blocking all cookies will have a negative impact upon the usability of many websites.
+
+13.8 If you block cookies, you will not be able to use all the features on our website.
+
+13.9 You can delete cookies already stored on your computer; for example:
+
+(a) in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);
+
+(b) in Firefox (version 24), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and
+
+(c) in Chrome (version 29), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data”.
+
+13.10 Deleting cookies will have a negative impact on the usability of many websites.
+
+##### 14\. Data protection registration
+
+14.1 We are registered as a data controller with the UK Information Commissioner’s Office.
+
+##### 15\. Our details
+
+15.1 You can contact us by using our website contact form.
