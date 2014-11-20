@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627122037id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203658id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Hobbycraft are committed to protecting your privacy online. Here we explain how 
 
 You can find all other information about our website in our [Terms and Conditions](http://www.hobbycraft.co.uk/pages/termsandconditions "Terms and Conditions") and [Frequently Asked Questions (FAQs)](http://www.hobbycraft.co.uk/pages/faq "Frequently Asked Questions \(FAQs\)").
 
-## What data we collect
+## What data we collect 
 
 Your personal data will be used to to provide the information, goods and services offered through our website to you, for billing and order fulfilment.
 
@@ -19,25 +19,20 @@ We collect personal information through the use of [cookies](http://www.hobbycra
 
 
 
-We also monitor who uses our website. For example, we may collect information about you like the type of internet browser you use, the website from which you have come to ours and your IP address (the unique address which identifies your computer on the internet). This lets us improve our website.
+We also monitor who uses our website. For example, we may collect information about you like the type of internet browser you use, the website from which you have come to ours and your IP address (the unique address which identifiesyour computer on the internet). This lets us improve our website.
 
 ## Privacy promise
 
-Hobbycraft know how important it is to keep your personal information (for example your email address), safe and secure online. When you give us any personal information, we will not pass it on to anybody else.
+Hobbycraft know how important it is to keep your personal information (for example your email address), safe and secure online. When you give us your personal information, we only share your details with our couriers so that they can deliver your parcel. We only send them the data that they need and we make sure that they keep your personal information safe and secure. The Information we send to them is your name, address, phone number and email. We will not pass your details on to anybody else.
 
 We promise that :
 
-  * We will never pass your personal details on to anyone else, or for any reason.
+  * We will never pass your personal details on to anyone else, or for any reason, other than our couriers for delivery.
   * Any information that we collect from you is held legally.
 
 
 
-We use some of your personal information to process your order and other companies help us with this. We only send them the data that they need and we make sure that they keep your personal information safe and secure.
-
 ## Security
-
-  
-
 
 ### Account security
 
