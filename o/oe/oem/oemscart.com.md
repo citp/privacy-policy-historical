@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the oemscart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095321id_/http%3A//www.oemscart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemscart.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094243id_/http%3A//www.oemscart.com/privacy-policy) for the most accurate reproduction.*
 
-# Oems Cart - Privacy Policy
+# Oems Cart
 
-#### **Privacy Policy :**
+[Home](https://web.archive.org/) __ Privacy Policy
+
+### Privacy Policy
 
 Oemscart ("we" or "us") consider protection of your privacy and personal information with great regard. We have framed the privacy policy to inform you about oemscart practices. By visiting and using the oemscart services or registering with the oemscart and creating an account, you acknowledge that you accept the practices and policies outlined in this privacy policy ("Privacy Policy").
 
