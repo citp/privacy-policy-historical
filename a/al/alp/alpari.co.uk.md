@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320023436id_/http%3A//www.alpari.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202053id_/http%3A//www.alpari.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alpari UK
 
@@ -53,5 +53,3 @@ The Data Protection Act gives you various rights about your Personal Data, such 
 ### Queries
 
 If you have privacy questions which are not answered by this Privacy Policy or any other concerns about how we use your personal data, please write to us ([info@alpari.co.uk](mailto:info@alpari.co.uk)) or contact us [+44 20 7426 2900](tel:442074262900) (Mon-Fri 07:00-22:00 UK time).
-
-**Risk warning** : Forex, spread bets and CFDs are high risk and losses can exceed your investment. 
