@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141103id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131644id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Jet2.com
 
@@ -60,7 +60,7 @@ We may disclose personal information as part of due legal process and as otherwi
 
 **9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
 
-**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. For our full cookies policy, please see [www.jet2.com/new/cookies](http://www.jet2.com/new/cookies)
+**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. For our full cookies policy, please see [www.jet2.com/cookies](http://www.jet2.com/cookies)
 
 ### Accessing your information
 
