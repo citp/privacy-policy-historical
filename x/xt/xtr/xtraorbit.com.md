@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145951id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120080559id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, Perfect Money, PayPal, Payza, Egopay and Credit Cards Payments Accepted.
 
@@ -69,13 +69,14 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
 [ ](http://www.xtraorbit.com/core/about/quotes.php)  
 ---  
 |   
-I'm yet to see a web hosting company with a nice and down to earth way of responding to customers or clients like you.
+I would like to say that hosting or any business succeeds or fails because of communication and attention to client's needs.
 
-I apprecite your level of response and how you responded.   
+XtraOrbit, even in a different time zone always responds quickly to any request, ICQ, email, SMS this is a genuine sign of their desire to be a long term successful business.   
   
 |    
-**Sesan Abayomi**  
-Nigeria  
+**Mark Herpel**  
+Gold-Pages.Net  
+Republica De Panama  
   
   
   
