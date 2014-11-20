@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registerdomain.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065938id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerdomain.co.za privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120223833id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Register Domain
 
@@ -6,17 +6,17 @@ Your privacy is very important to us, below explains the information we collect 
 
 #### Your Information
 
-When you sign up for any of our services we will ask you to provide contact information for your convenience as well as legal reasons. This will include name, home address, e-mail addresses and payment details (credit or debit card and PayPal). If you need support our staff may need to know information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, ip address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient web site for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by Equifax. This helps prevent eavesdropping on our website, just look for the padlock.
+When you sign up for any of our services we will ask you to provide contact information for your convenience as well as legal reasons. This will include name, home address, email addresses and payment details (credit or debit card and PayPal). If you need support our staff may need to know certain information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, IP address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient website for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by Equifax. This helps prevent eavesdropping on our website, just look for the padlock.
 
 #### How Your Information Is Used
 
 We will use your personal identifiable information in the following ways.
 
 \- For payment purposes and to provide convenient and targeted support.   
-\- To contact you and announce special offers, general announcements and news. Please note you can opt out of receiving these emails at anytime by following the instructions at the bottom of the e-mail.   
+\- To contact you and announce special offers, general announcements and news. Please note you can opt out of receiving these emails at any time by following the instructions at the bottom of the email.   
 \- To improve our service and the marketing of our service. This could include using your demographic location to improve targeting of our website and customise your visit.
 
-We will NEVER provide your personally identifiable information to any persons other than A law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to miss use this information.
+We will NEVER provide your personally identifiable information to any persons other than a law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to missuse this information.
 
 We do not under any circumstances apart from the above give away or sell your information to any third parties.
 
@@ -24,11 +24,11 @@ Your personal information is safe with us, your information is safely encrypted 
 
 #### Cookies
 
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers 'help' file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers 'help' file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
 
 #### Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service. We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically. We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out from receiving any further notification from your member profile page. We do not share this information with outside parties.
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service. We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically. We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out from receiving any further notification from your member profile page. We do not share this information with outside parties.
 
 #### Surveys
 
@@ -40,11 +40,11 @@ When we receive email, we use return email addresses to reply with the informati
 
 #### Newsletter
 
-We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
+We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain a lot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
 
 #### Information Sharing and Disclosure
 
-We collect information from our website visitors using Google Analytics. We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
+We collect information from our website visitors using Google Analytics. We use this information to improve our website and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
 
 #### Personally Identifiable Information
 
@@ -56,11 +56,11 @@ You can access all your personally identifiable information that we collect by l
 
 #### Specific Terms and Conditions
 
-Register Domain considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of Register Domain. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that Register Domain do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
+Register Domain considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of Register Domain. By using the service you agree that technical processing of email communications are and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that Register Domain do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libellous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
 
 #### Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
 #### Security
 
@@ -68,7 +68,7 @@ The security of your personal information is important to us. We follow generall
 
 #### Links To Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by Register Domain. Please be aware that we, Register Domain are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+This website contains links to other sites that are not owned or controlled by Register Domain. Please be aware that we, Register Domain are not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
 
 #### Changes To This Privacy Statement
 
