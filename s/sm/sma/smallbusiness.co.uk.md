@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605191519id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202522id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -16,29 +16,29 @@ We are committed to protecting and respecting your privacy online while providin
 
 Please note that this policy only applies to websites of the Vitesse Media Plc group and not to the websites of other organisations to which we provide links. We cannot accept responsibility for how other sites collect and use your personal data and you should check their privacy policies for details.
 
-###  What personal information we collect about you and your use of this website?
+### What personal information we collect about you and your use of this website?
 
 We collect personal information including your name, email address, payment details and user profile information where applicable through our site registration and via our order and registration forms. Where the information is compulsory, in order to enable us to provide a service to you, this is clearly marked on the forms and within the registration. In other cases the provision of information is voluntary but, if given, will help us to provide you with better or more personalised service.
 
-###  How do we use cookies?
+### How do we use cookies?
 
 A cookie is a small piece of information which is stored on your computer’s hard drive by your browser. We use cookies to give you access to the sites and collect information about your use of the sites for certain purposes outlined in this policy. These purposes **do not** include targeting or advertising based on your personal details, or the way you use the site.
 
 The International Chamber of Commerce (ICC) has released guidelines on how different types of cookies must be used, and the consent that must be obtained. Further details of our policy in relation to each type of cookie are below.
 
-###  Category 1: strictly necessary cookies
+### Category 1: strictly necessary cookies
 
 These cookies enable services you have specifically asked for. We use these cookies for purposes such as allowing you to access secure areas of the website.
 
-###  Category 2: performance cookies
+### Category 2: performance cookies
 
 These cookies collect anonymous information on the pages visited. They do not collect information that identifies you as a visitor to our website. We only use this information to improve how our website works and not to target you with advertising. We may use these cookies to assess the effectiveness of pay-per-click affiliate advertising, but we do not use them to pass your personal information to advertisers or to target you for advertising.
 
-###  Category 3: functionality cookies
+### Category 3: functionality cookies
 
 These cookies remember choices you make (such as your user name, language or the region you are in) to provide enhanced, more personal features. We use these cookies to remember changes you have made to text size and other parts of web pages you can customise.
 
-###  Category 4: targeting cookies or advertising cookies
+### Category 4: targeting cookies or advertising cookies
 
 These cookies are used to deliver adverts more relevant to you and your interests. **We do not use these cookies on our websites.**
 
@@ -95,7 +95,7 @@ We may log the IP addresses and browser types of visitors to the site to help us
 **Contact details:** If you have any queries or concerns about this statement, please contact us at:
 
 Vitesse Media Plc  
-Octavia House, 50 Banner Street, London, EC1Y 8ST  
+14 Bonhill Street, Shoreditch, EC2A 4BX  
 Tel: 020 7250 7010 Fax: 020 7250 7011.  
 [Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
 
