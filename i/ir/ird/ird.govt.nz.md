@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610000817id_/https%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111909id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
@@ -23,7 +23,3 @@ Find out about the information that may be transferred weekly from the Ministry 
 ##### [Your obligation to provide information](https://web.archive.org/about-this-site/privacy/privacy-act.html)
 
 Meeting your obligations means giving accurate and timely information to Inland Revenue. We ask you for this to ensure that we correctly assess your liabilities and entitlements under the Acts which apply to you. We also ask you for your contact details so that we can send you forms or returns that you may need.
-
-  
-  
-
