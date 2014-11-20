@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617080438id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131442id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
 
 # Adslot's Privacy Policy | Adslot
 
