@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231245id_/https%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204941id_/http%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy justairticket,
 
