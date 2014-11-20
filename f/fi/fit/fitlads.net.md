@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fitlads.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100357id_/http%3A//www.fitlads.net/homepage/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitlads.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131809id_/http%3A//help.fitlads.net/article/37-privacy-policy) for the most accurate reproduction.*
 
-# Fitlads :: Privacy Policy
-
-  
-
+# Privacy Policy - Fitlads Help
 
 The following is our Privacy policy. Please note it is liable to change without prior notice.
 
@@ -14,7 +11,7 @@ We are registered under the Data Protection Act. Our registration number is [Z96
 Fitlads complies with the eight principles of the Data Protection Act, which ensure that personal information is:
 
   1. Fairly and lawfully processed
-  2. Processed for limited purposes 
+  2. Processed for limited purposes
   3. Adequate, relevant and not excesive
   4. Accurate and up to date
   5. Not kept for longer than is necessary
@@ -45,7 +42,7 @@ We use Google Analytics to analyse the use of this website. Google Analytics gen
 
 We may disclose information about you to any of our employees insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose information about you: 
+In addition, we may disclose information about you:
 
   * To the extent that we are required to do so by law;
   * In connection with any legal proceedings or prospective legal proceedings;
@@ -53,6 +50,10 @@ In addition, we may disclose information about you:
 
 
 
-Except as provided in this privacy policy, we will not provide your information to third parties. 
+Except as provided in this privacy policy, we will not provide your information to third parties.
 
-[Click here to return to Fitlads](https://web.archive.org/)
+__
+
+Still need help? Contact Us [Contact Us](https://web.archive.org/contact)
+
+Last updated on December 12, 2013
