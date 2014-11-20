@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114746id_/http%3A//www.draxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111717id_/http%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » DrAxe.com
+# Privacy Policy - DrAxe.com
 
 **Privacy Policy for** draxe.com
 
@@ -27,6 +27,8 @@ In operating the Site, Company may include newsletters, online commenting areas,
 (a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
 (b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
+
+2.4 Merchant will ensure that at all times during the term of this agreement, Merchant has a clearly labeled and easily accessible privacy policy in place relating to the Site(s) and that this privacy policy: (i) clearly discloses to End Users that third parties may be placing and reading cookies on End Users’ browsers, or using web beacons or similar technologies to collect information in connection with the Google Trusted Stores program; and (ii) includes information about End Users’ options for cookie management.
 
 3\. USE AND SHARING OF INFORMATION
 
