@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunderland.ac.uk privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623080443id_/http%3A//www.sunderland.ac.uk/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunderland.ac.uk privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120110629id_/http%3A//www.sunderland.ac.uk/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy &amp; Cookies</title>
@@ -25,7 +25,7 @@
 <!--[if IE 9]>
 <link rel="stylesheet" href="http://www.sunderland.ac.uk/images/responsive/css/ie9.css">
 <![endif]-->
-<!--[if !IE]><!--><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/2991.js?438997" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>  
+<!--[if !IE]><!--><script async="" src="//www.google-analytics.com/analytics.js"></script><script>  
 if (/*@cc_on!@*/false) {  
     document.documentElement.className+=' ie10';  
 }  
@@ -43,10 +43,9 @@ if (/*@cc_on!@*/false) {
 
 <script language="javascript" src="http://www.sunderland.ac.uk/images/AC_RunActiveContent.js" type="text/javascript"></script>
 
-<script language="javascript" src="http://www.sunderland.ac.uk/videoPlayer.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.sunderland.ac.uk/images/swfobject.js" type="text/javascript"></script>
+
   
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.sunderland.ac.uk/images/js/jquery-1.11.1.min.js"></script>
   
 <script type="text/javascript" src="http://www.sunderland.ac.uk/images/js/fancybox2/source/jquery.fancybox.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.sunderland.ac.uk/images/js/fancybox2/source/jquery.fancybox.css" media="screen">
@@ -214,31 +213,7 @@ if (/*@cc_on!@*/false) {
   ga('send', 'pageview');
 </script>
 
-<script type="text/javascript">
-/* Attach tracking to all download & external links */
-function _gaLt(event){
-    var el = event.srcElement || event.target;
-    /* Loop up the tree through parent elements if clicked element is not a link (eg: an image in a link) */
-    while(el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
-        el = el.parentNode;
-    if(el && el.href){
-        if(el.href.indexOf(location.host) == -1){ /* external link */
-         ga('send', 'event', 'Outgoing Links', el.href, document.location.pathname + document.location.search,  {'nonInteraction': 1});
-            /* if target not set delay opening of window by 0.5s to allow tracking */
-            if(!el.target || el.target.match(/^_(self|parent|top)$/i)){
-                setTimeout(function(){
-                    document.location.href = el.href;
-                }.bind(el),500);
-                /* Prevent standard click */
-                event.preventDefault ? event.preventDefault() : event.returnValue = !1;
-            }
-        }
-    }
-}
-/* Attach the event to all clicks in the document */
-var d = document;
-d.addEventListener ? d.addEventListener("click",_gaLt,!1) : d.attachEvent && d.attachEvent("onclick",_gaLt);
-</script>
+
 <!-- end of analytics -->
   
   
@@ -304,7 +279,7 @@ $(function(){
 });
 </script>
 </head>
-<body onload="checkVidRequest()">
+<body>
 
 <div id="header" class="container">
 
@@ -378,7 +353,7 @@ $(function(){
         <div class="t"><div class="b"><div class="l"><div class="r">
         <div class="bl"><div class="br"><div class="tl"><div class="tr">
 
-<!-- navigation object : V4 Welcome left navigation --><ul><li><a href="/">Home</a></li><li><a href="/ug/">Undergraduate study</a></li><li><a href="/pg/">Postgraduate study</a></li><li><a href="/short/">Short courses and CPD</a></li><li><a href="/whychoosesunderland/">Why choose Sunderland</a></li><li><a href="/fees/">Fees and funding</a></li><li><a href="/studentlife/">Student life</a></li><li><a href="/city/">City of Sunderland</a></li><li><a href="/international/">International</a></li><li><a href="/university/">About the University</a></li><li><a href="/research/">Research</a></li><li><a href="/business/">Services for employers</a></li><li><a href="/londoncampus/">London Campus</a></li><li><a href="/futures/">Sunderland Futures</a></li></ul>
+<!-- navigation object : V4 Welcome left navigation --><ul><li><a href="/">Home</a></li><li><a href="/ug/">Undergraduate study</a></li><li><a href="/pg/">Postgraduate study</a></li><li><a href="/short/">Short courses and CPD</a></li><li><a href="/whychoosesunderland/">Why choose Sunderland</a></li><li><a href="/fees/">Fees and funding</a></li><li><a href="/studentlife/">Student life</a></li><li><a href="/city/">City of Sunderland</a></li><li><a href="/international/">International</a></li><li><a href="/university/">About the University</a></li><li><a href="/research/">Research</a></li><li><a href="/business/">Services for employers</a></li><li><a href="/futures/">Sunderland Futures</a></li><li><a href="/utc/">University Technical College</a></li></ul>
 
                     </div></div></div></div>
                     </div></div></div></div>
@@ -534,17 +509,19 @@ div.ad a img {
 </style>
 
 <div class="ad">
-  <a href="http://www.sunderland.ac.uk/opendays/" title="Open days and visits."><img src="http://www.sunderland.ac.uk/images/OpenDaysgraphic[1].png" alt="Open days and visits"></a>
-  <p class="adBlurb">Open day on Tuesday 19th August 2014 from 9:30am-4:00pm. &nbsp;<a href="http://www.sunderland.ac.uk/ug/opendays/">More...</a></p>
-  <p class="adBlurb">Open day on Saturday 4th October 2014 from 9:30am-4:00pm. &nbsp;<a href="http://www.sunderland.ac.uk/ug/opendays/">More...</a></p>
+  <a href="http://www.sunderland.ac.uk/ug/opendays/" title="Open days and visits."><img src="http://www.sunderland.ac.uk/images/OpenDaysgraphic[1].png" alt="Open days and visits"></a>
+  <p class="adBlurb">Open day on Saturday 6th June 2015 from 9:30am-4:00pm. &nbsp;<a href="http://www.sunderland.ac.uk/ug/opendays/openday/index.php?odid=209">More...</a></p>
+  <p class="adBlurb">Open day on Tuesday 18th August 2015 from 9:30am-4:00pm. &nbsp;<a href="http://www.sunderland.ac.uk/ug/opendays/openday/index.php?odid=210">More...</a></p>
 </div>
 <!--start page asset-->
 <a name="d.en.44813"></a>
-<a href="https://sunderland.hobsons.co.uk/emtinterestpage.aspx?ip=student16" title="Order a prospectus"><img src="/images/order-prospectus.png" alt="Order a prospectus" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌
+<a href="http://www.sunderland.ac.uk/enqrequestform/" title="Order a prospectus"><img src="/images/order-prospectus.png" alt="Order a prospectus" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌
 <!--end page asset--><!--start page asset-->
 <a name="d.en.41930"></a>
-<p><a href="http://www.sunderland.ac.uk/londoncampus/" title="London Campus"><img src="/images/London Campus_Ad_PS_198x115px_301013-1.jpg" alt="London Campus" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌</p>
-<p><a href="http://livesonline.sunderland.ac.uk/" title="Lives Online"><img src="/images/Lives Online3-Advert_115x198px_281013-1.jpg" alt="Lives Online" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌</p>
+<a href="http://livesonline.sunderland.ac.uk/" title="Lives Online"><img src="/images/Lives Online3-Advert_115x198px_281013-1.jpg" alt="Lives Online" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌
+<!--end page asset--><!--start page asset-->
+<a name="d.en.68413"></a>
+<a href="http://www.sunderland.ac.uk/londoncampus/" title="London Campus"><img src="/images/London Campus_Ad_PS_198x115px_301013-1.jpg" alt="London Campus" style="width : 198px; height : 115px; border : ; padding : ; margin : ; float : ;"></a>‌
 <!--end page asset--></div>
 <!--end of rhs content-->
 
@@ -574,7 +551,7 @@ div.ad a img {
 <ul class="links">
 <li><a href="http://www.sunderland.ac.uk/ug/" onclick="javascript: pageTracker._trackPageview ('/outbound/footer/coursefinder');" target="_self">Course Finder</a></li>
 <li><a href="http://www.sunderland.ac.uk/ug/subjectareas/" onclick="javascript: pageTracker._trackPageview ('/outbound/footer/subject-areas');" target="_self">Subject areas</a></li>
-<li><a href="https://sunderland.hobsons.co.uk/emtinterestpage.aspx?ip=student16" onclick="javascript: pageTracker._trackPageview ('/outbound/footer/prospectus');" target="_self">Order a prospectus</a></li>
+<li><a href="http://www.sunderland.ac.uk/enqrequestform/" onclick="javascript: pageTracker._trackPageview ('/outbound/footer/prospectus');" title="Order a prospectus">Order a prospectus</a></li>
 <li><a href="http://www.sunderland.ac.uk/opendays/" onclick="javascript: pageTracker._trackPageview ('/outbound/footer/opendays');">Open days</a></li>
 <li><a href="http://www.sunderland.ac.uk/ug/feesandfunding/sunderlandscholarships/ ">Scholarships</a></li>
 <li><a href="http://www.sunderland.ac.uk/studentlife/termdates/"> Term dates</a></li>
@@ -606,12 +583,6 @@ div.ad a img {
 <h2>Contact details</h2>
 <p><strong>Switchboard:</strong> <br>+44 (0)191 515 2000<br> <strong>Course helpline:</strong> <br>+44 (0)191 515 3000<br> <a href="mailto:student.helpline@sunderland.ac.uk">student.helpline@sunderland.ac.uk</a><br> <a href="/social/">Facebook, Twitter, Youtube</a></p>
 </div>
-<script type="text/javascript">// <![CDATA[
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/2991.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-// ]]></script>
 <!--end page asset-->
 </div><div>
 
@@ -637,7 +608,24 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 </div>
 
-
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1003249317;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003249317/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
