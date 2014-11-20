@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404223128id_/http%3A//www.free-ebooks.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110839id_/http%3A//www.free-ebooks.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Paradise Publishing, Inc.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.free-ebooks.net or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
+**Paradise Publishers, Inc.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.free-ebooks.net or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
 This Privacy Notice is incorporated into and is subject to the Company Terms of Service. Your use of the Websites and any personal information you provide on the Websites remains subject to the terms of this Privacy Notice and our Terms of Service.
 
