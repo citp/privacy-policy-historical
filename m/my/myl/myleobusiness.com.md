@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myleobusiness.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134819id_/http%3A//myleobusiness.com/R2/R2_PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleobusiness.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112223id_/http%3A//www.myleobusiness.com/R2/R2_PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - LEO
 
