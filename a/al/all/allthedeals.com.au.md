@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064058id_/http%3A//www.allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131943id_/http%3A//allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.allthedeals.com.au]() website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
+This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.allthedeals.com.au]() website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
 
 **Personal identification information**
 
@@ -31,7 +31,7 @@ The email address Users provide will only be used to respond to their inquiries,
 
 
 
- **How we protect your information**
+**How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -57,7 +57,7 @@ All The Deals PTY LTD has the discretion to update this privacy policy at any ti
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -66,4 +66,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.allthedeals.com.au]()  
 info@allthedeals.com.au
 
-This document was last updated on 28th May, 2013
+This document was last updated on 27th October, 2014
