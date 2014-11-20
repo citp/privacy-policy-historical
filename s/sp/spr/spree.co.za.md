@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spree.co.za privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503072903id_/http%3A//www.spree.co.za/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spree.co.za privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084408id_/http%3A//www.spree.co.za/en/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - spree.co.za
 
 spree.co.za has to take all reasonable steps to protect your personal information. For the ends of this clause, ""personal information"" is defined according to the details in the Promotion of Access to Information Act, number 2 of 2000 (PAIA). This information can be downloaded from: <http://us-cdn.creamermedia.co.za/assets/articles/attachments/03569_promofaccestoinfoact2.pdf>   
 spree.co.za is authorised to gather, store and use the following of your information:   
