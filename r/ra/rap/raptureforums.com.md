@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptureforums.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523201105id_/http%3A//www.raptureforums.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptureforums.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084659id_/http%3A//www.raptureforums.com/privacy.cfm) for the most accurate reproduction.*
 
 # Rapture Forums - Privacy Policy
 
