@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bmi.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626031417id_/http%3A//www.bmi.com/legal/entry/533244) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmi.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120164532id_/http%3A//www.bmi.com/legal/entry/533244) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# 
 	article: http://ogp.me/ns/article#">
@@ -16,9 +16,25 @@
 
 <meta property="og:site_name" content="BMI.com">
 
+
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="canonical" href="http://www.bmi.com/legal/entry/privacy_policy">
 <link rel="icon" type="image/ico" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/images/cardinal_app/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/cardinal_app/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/cardinal_app/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/cardinal_app/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/cardinal_app/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/cardinal_app/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/cardinal_app/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/cardinal_app/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/images/cardinal_app/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/images/cardinal_app/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/images/cardinal_app/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/images/cardinal_app/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/images/cardinal_app/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#ed2627">
+<meta name="msapplication-TileImage" content="/images/cardinal_app/mstile-144x144.png">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.bmi.com/bmicom/">
 
 <!--[if lte IE 8]>
@@ -28,9 +44,12 @@
 <!-- LOAD STYLE SHEETS -->
 <link rel="stylesheet" href="/cardinal_css/bootstrap.css">
 <link rel="stylesheet" href="/cardinal_css/custom.css">
+<link rel="stylesheet" href="/cardinal_css/search.css">
 <link rel="stylesheet" href="/cardinal_css/nivoslider/themes/default/default.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/cardinal_css/flexslider.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 
+<link rel="stylesheet" href="/cardinal_css/jquery-ui-1.9.2.custom.css">
 
 
 <!--[if lte IE 8]>
@@ -43,6 +62,10 @@
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/cardinal_js/respond.js"></script>
+
+
+
+
 
 <!-- GA Tracking Start -->
 <script type="text/javascript">
@@ -70,11 +93,17 @@
 <!-- NAVIGATION STARTS -->
 
 <div id="search-box-mobile" class="visible-phone">
-  <form action="/results/" autocomplete="off">
-	<!-- START GOOGLE SEARCH -->
-	<input type="hidden" name="cref" value="/google_search/cse.xml">
-	<input type="hidden" name="cof" value="FORID:9">
-	<input type="text" name="q" required="" class="input-google" value="Search Site"> <br> <a href="http://repertoire.bmi.com/startpage.asp">or Search BMI Repertoire</a>
+
+	<form class="gsc-search-box" method="post" action="http://www.bmi.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="164">
+<input type="hidden" name="RP" value="search/results">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+	<input type="text" class="input-google gcs-autocomplete" name="keywords" placeholder="Search Site">
+	<br> <a href="http://repertoire.bmi.com/startpage.asp">or Search BMI Repertoire</a>
 </form>
   <a href="#" id="close-search-mobile">Close</a>
 </div>
@@ -100,17 +129,22 @@
 					<li class="linav"><a href="#loginModal" role="button" data-toggle="modal"><div class="navtextblock"><span class="navtext">Login</span></div></a></li>
 					<li><img src="/images/cardinal_app/divide.jpg" alt=""></li>
 					<li class="search">
-												
-						<form id="new_top_searchform" action="/results/" class="form-search navpad pull-right dropdown" autocomplete="off">
-							<!-- START GOOGLE SEARCH -->
-							<input type="hidden" name="cref" value="/google_search/cse.xml">
-							<input type="hidden" name="cof" value="FORID:9">
-							<input type="text" name="q" required="" class="input-google" value="Search Site or Repertoire">
-							<input type="submit" class="submit-google" value="">
-							
+
+						<form id="new_top_searchform" class="form-search navpad pull-right dropdown" method="post" action="http://www.bmi.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="164">
+<input type="hidden" name="RP" value="search/results">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+							<input type="text" class="input-google gcs-autocomplete" name="keywords" placeholder="Search Site or Repertoire">
+							<button type="submit" class="submit-google"></button>
+							<div class="gsc-clear-button" title="clear results">&nbsp;</div>
+
 							<ul class="searchform_menu">
 								<li>
-									<label class="radio" for="siteSearch">Search this site <strong class="stylize">or:</strong></label>
+									<span class="radio">Search this site <strong class="stylize">or:</strong></span>
 								</li>
 								<li class="pullup">
 									<a href="http://repertoire.bmi.com/" class="repertoire-block">
@@ -122,7 +156,7 @@
 								</li>
 							</ul>
 						</form>
-						
+
 					</li>
 					<li class="head-socmed">
 						<span class="item-socmed">
@@ -172,17 +206,20 @@
 				<li class="linav"><a href="#loginModal" role="button" data-toggle="modal"><div class="navtextblock"><span class="navtext">Login</span></div></a></li>
 				<li><img src="/images/cardinal_app/divide.jpg" alt=""></li>
 				<li class="search">
-				
-					<form id="new_top_searchform2" action="/results/" class="form-search navpad pull-right dropdown" autocomplete="off">
-						<!-- START GOOGLE SEARCH -->
-						<input type="hidden" name="cref" value="/google_search/cse.xml">
-						<input type="hidden" name="cof" value="FORID:9">
-						<input type="text" name="q" required="" class="input-google" value="Search">
-						<input type="submit" class="submit-google" value="">
-						
+
+					<form id="new_top_searchform2" class="form-search navpad pull-right dropdown" method="post" action="http://www.bmi.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="164">
+<input type="hidden" name="RP" value="search/results">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+						<input type="text" class="input-google gcs-autocomplete" name="keywords">
+
 						<ul class="searchform_menu">
 							<li>
-								<label class="radio" for="siteSearch2">Search this site <strong class="stylize">or:</strong></label>
+								<span class="radio">Search this site <strong class="stylize">or:</strong></span>
 							</li>
 							<li class="pullup">
 								<a href="http://repertoire.bmi.com/" class="repertoire-block">
@@ -193,7 +230,7 @@
 								</a>
 							</li>
 						</ul>
-					</form>
+						</form>
 				</li>
 				<li class="head-socmed">
 					<span class="item-socmed">
@@ -243,11 +280,13 @@
 					<ul class="subtext unstyled inline">
 						<li><a href="/press">Press Room</a></li>
 						<li><a href="/about/#ourrole">Our Role</a></li>
-						<li><a href="/about/#heritage">Heritage</a></li>
-						<li><a href="/about/#poweredbybmi">Powered by BMI</a></li>
+						<li><a href="/about/#leadership_module">Leadership</a></li>
+						<li><a href="/about/#poweredbybmi">Powered By</a></li>
 						<li><a href="/about/#aboutinternational">International</a></li>
-						<li><a href="/about/#diversity">Diversity</a></li>
+						<li><a href="/about/#inclusion">Inclusion</a></li>
+						<li><a href="/about/#heritage">Heritage</a></li>
 						<li><a href="/about/#contactus">Contact Us</a></li>
+						<li><a href="/about/#campaign">Campaign</a></li>
 					</ul>
 				</li>
 				<li class="linav nohover" data-target="creators">
@@ -294,9 +333,12 @@
 					</a>
 					<span class="phone-menu-arrow"></span>
 					<ul class="subtext unstyled inline">
-						<li><a href="/advocacy/#tabs_initatives">Initiatives</a></li>
-						<li><a href="/advocacy/#advocacy_recent">Activities</a></li>
-						<li><a href="/advocacy/#tabs_advocacy">Take Action</a></li>
+						<li><a href="/advocacy/#modadvocacy_execs_detail">Downloads</a></li>
+						<li><a href="/advocacy/#advocacy_bmiceo">Testimony</a></li>
+						<li><a href="/advocacy/#advocacy_bmihastag_new">Social</a></li>
+						<li><a href="/advocacy/#slideshow_advocacy">Highlights</a></li>
+						<li><a href="/advocacy/#advocacy_recent">News</a></li>
+						<li><a href="/advocacy/#tabs_advocacy">More Info</a></li>
 					</ul>
 				</li>
 				<li class="linav nohover">
@@ -315,19 +357,23 @@
 		<div class="subcategories hoversubcategories" data-target="about">
 			<div class="row">
 				<ul class="subtext unstyled inline">
-					<li><a href="/press">Press Room</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#ourrole">Our Role</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#heritage">Heritage</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#poweredbybmi">Powered by BMI</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#aboutinternational">International</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#diversity">Diversity</a></li>
-					<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/about/#contactus">Contact Us</a></li>
+		          <li><a href="/press">Press Room</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#ourrole">Our Role</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#leadership_module" class="">Leadership</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>		
+		          <li><a href="/about/#poweredbybmi" class="">Powered By</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#aboutinternational" class="">International</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#inclusion" class="">Inclusion</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#heritage">Heritage</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#contactus">Contact</a></li>
+		          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		          <li><a href="/about/#campaign">Campaign</a></li>
 				</ul>
 			</div>
 		</div> <!-- .subcategories -->
@@ -381,11 +427,17 @@
 		<div class="subcategories hoversubcategories" data-target="advocacy">
 			<div class="row">
 				<ul class="subtext unstyled inline">
-          <li><a href="/advocacy/#tabs_initatives">Initiatives</a></li>
-          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-					<li><a href="/advocacy/#advocacy_recent">Activities</a></li>
-          <li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
-          <li><a href="/advocacy/#tabs_advocacy">Take Action</a></li>
+		<li><a href="/advocacy/#modadvocacy_execs_detail" class="">Downloads</a></li>
+		<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		<li><a href="/advocacy/#advocacy_bmiceo" class="">Testimony</a></li>
+		<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		<li><a href="/advocacy/#advocacy_bmihastag_new" class="">Social</a></li>
+		<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		<li><a href="/advocacy/#slideshow_advocacy" class="">Highlights</a></li>
+		<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		<li><a href="/advocacy/#advocacy_recent" class="">News</a></li>
+		<li><img src="/images/cardinal_app/divider2.jpg" alt="Divider"></li>
+		<li><a href="/advocacy/#tabs_advocacy" class="">More Info</a></li>
 				</ul>
 			</div>
 		</div> <!-- .subcategories -->
@@ -401,10 +453,14 @@
 
 <!-- JQUERY JS -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="/cardinal_js/jquery-ui-1.9.2.min.js"></script>
 
-<!-- MEDIA PLAYER --> 
+<!-- Search JS -->
+<script src="/cardinal_js/search.js"></script>
+
+<!-- MEDIA PLAYER -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js"></script>
-<script src="http://w.sharethis.com/button/buttons.js"></script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
 <script>stLight.options({publisher: "5dd426b3-e4c8-4713-b04d-67d9918fd66a", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
 <script src="/cardinal_js/player.js"></script>
 <script>
@@ -416,54 +472,28 @@
 
 
 <script>
- 
+
 	$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').blur(function() {
-		
+
 		var me = $(this);
-		
+
 		window.setTimeout(function() {
-				
+
 			me.next().removeClass('active');
 		    $('#new_top_searchform .searchform_menu, #new_top_searchform2 .searchform_menu').fadeOut();
-		
+
 		}, 500);
-		
-		
-		if($(this).val() == '') {
-			if($(window).outerWidth() < 1024) {$(this).val('Search');} else {
-				$(this).val('Search Site or Repertoire');
-			}
-		}
-		
 	});
+
+	if ($.browser.msie  && parseInt($.browser.version, 10) === 8) {
+		$('.head-socmed').css('width', '100px');
+		$('.head-socmed .socmed-submenu').css('right', '20px');
+	}
 
 	$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').focus(function() {
 		$(this).next().addClass('active');
 	    $('#new_top_searchform .searchform_menu, #new_top_searchform2 .searchform_menu').fadeIn();
-	    
-	    if($(this).val() == 'Search Site or Repertoire' || $(this).val() == 'Search') {$(this).val('');}
-	    
 	});
-	
-	if($(window).outerWidth() <= 1024) {
-		$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').val('Search');
-	} else {
-		$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').val('Search Site or Repertoire');
-	}
-	
-	$(window).resize(function() {
-		if($(window).outerWidth() <= 1024) {
-			$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').val('Search');
-		} else {
-			$('#new_top_searchform .input-google, #new_top_searchform2 .input-google').val('Search Site or Repertoire');
-		}
-	});
-
-
-	if ($.browser.msie  && parseInt($.browser.version, 10) === 8) {
-		$('.head-socmed').css('width', '100px'); 
-		$('.head-socmed .socmed-submenu').css('right', '20px');
-	} 
 
 
 	if ($.browser.msie  && parseInt($.browser.version, 10) === 7) {
@@ -589,18 +619,7 @@
 
 <h2 id="who">Who We Are</h2>
 
-<p>Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Atlanta, London, Los Angeles, Nashville, Miami and Puerto Rico. We can be reached by e-mail at <a href="mailto:webmaster@bmi.com"><span id="eeEncEmail_qr8LMlLrs9"><a href="mailto:webmaster@bmi.com">webmaster@bmi.com</a></span><script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-var output = '';
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 105';l[9]=' 109';l[10]=' 98';l[11]=' 64';l[12]=' 114';l[13]=' 101';l[14]=' 116';l[15]=' 115';l[16]=' 97';l[17]=' 109';l[18]=' 98';l[19]=' 101';l[20]=' 119';l[21]='>';l[22]='\"';l[23]=' 109';l[24]=' 111';l[25]=' 99';l[26]=' 46';l[27]=' 105';l[28]=' 109';l[29]=' 98';l[30]=' 64';l[31]=' 114';l[32]=' 101';l[33]=' 116';l[34]=' 115';l[35]=' 97';l[36]=' 109';l[37]=' 98';l[38]=' 101';l[39]=' 119';l[40]=':';l[41]='o';l[42]='t';l[43]='l';l[44]='i';l[45]='a';l[46]='m';l[47]='\"';l[48]='=';l[49]='f';l[50]='e';l[51]='r';l[52]='h';l[53]='a ';l[54]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
-else output += unescape(l[i]);
-}
-document.getElementById('eeEncEmail_qr8LMlLrs9').innerHTML = output;
-//]]>
-</script></a>, or by telephone at (212) 220-3000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.</p>
+<p>Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Atlanta, London, Los Angeles, Nashville, Miami and Puerto Rico. We can be reached by e-mail at <span data-eeencemail_bktuhfwzca="1"><a href="mailto:webmaster@bmi.com">webmaster@bmi.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119','>','\"',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_BkTuHFWzcA'))el[j].innerHTML = out;/*]]>*/</script>, or by telephone at (212) 220-3000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.</p>
 
 <h2 id="what">What We Collect and How We Use It</h2>
 
@@ -619,18 +638,7 @@ document.getElementById('eeEncEmail_qr8LMlLrs9').innerHTML = output;
 <p>BMI will provide visitors with the ability to register to receive electronic newsletters and other materials. These are opt-in services, which means you can choose whether you want to receive the material, and you can always change your mind. BMI will use whatever personally identifiable information you do provide, such as name and e-mail address, solely for purposes of distributing the materials. We may also use aggregated information, such as the number of songwriters who opted-in. We do not presently share personally identifiable information with third parties.</p>
 
 <!--
-BMI may also provide visitors with the ability to purchase merchandise through the BMI Store and customers may be asked to provide information sufficient to process the order such as name, mailing address, and credit card number. Orders are processed through Yahoo! Store. Credit card information is encrypted while it is transferred over the Internet. Any such personally identifiable information can be modified at your request by forwarding an email to <a href="mailto:store@bmi.com"><span id='eeEncEmail_BGb0JXbTmr'>.(JavaScript must be enabled to view this email address)</span><script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-var output = '';
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 105';l[9]=' 109';l[10]=' 98';l[11]=' 64';l[12]=' 101';l[13]=' 114';l[14]=' 111';l[15]=' 116';l[16]=' 115';l[17]='>';l[18]='\"';l[19]=' 109';l[20]=' 111';l[21]=' 99';l[22]=' 46';l[23]=' 105';l[24]=' 109';l[25]=' 98';l[26]=' 64';l[27]=' 101';l[28]=' 114';l[29]=' 111';l[30]=' 116';l[31]=' 115';l[32]=':';l[33]='o';l[34]='t';l[35]='l';l[36]='i';l[37]='a';l[38]='m';l[39]='\"';l[40]='=';l[41]='f';l[42]='e';l[43]='r';l[44]='h';l[45]='a ';l[46]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
-else output += unescape(l[i]);
-}
-document.getElementById('eeEncEmail_BGb0JXbTmr').innerHTML = output;
-//]]>
-</script></a> or calling the Special Projects Department at 615-401-2000. 
+BMI may also provide visitors with the ability to purchase merchandise through the BMI Store and customers may be asked to provide information sufficient to process the order such as name, mailing address, and credit card number. Orders are processed through Yahoo! Store. Credit card information is encrypted while it is transferred over the Internet. Any such personally identifiable information can be modified at your request by forwarding an email to <span data-eeEncEmail_vVJPvoCokE='1'>.(JavaScript must be enabled to view this email address)</span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 101',' 114',' 111',' 116',' 115','>','\"',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 101',' 114',' 111',' 116',' 115',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_vVJPvoCokE'))el[j].innerHTML = out;/*]]>*/</script> or calling the Special Projects Department at 615-401-2000. 
 
 BMI does not presently share any personally identifiable information provided through the BMI Store with third parties other than as described above without first obtaining your permission.
 -->
@@ -639,44 +647,22 @@ BMI does not presently share any personally identifiable information provided th
 
 <p>BMI also has several business-to-business applications on the website and will likely continue to develop more in the future. These services often require users to disclose information in connection with the transaction.</p>
 
-<h2 id="digital">BMI’s Digital Licensing Center</h2><p>
-BMI’s Digital Licensing Center provides Internet websites with the ability to obtain a BMI Website Music Performance Agreement through the website. Customers will need to enter information about themselves, their business and about their website(s). They may also choose to provide a credit card for payment purposes. All information provided to BMI through the Digital Licensing Center is encrypted while it is transferred over the Internet and is stored on an internal BMI computer which is not accessible to the public. Access to credit card information is further restricted to those BMI employees who are responsible for processing the license. Any such personally identifiable information can be modified at your request by forwarding an e-mail to <a href="mailto:weblicensing@bmi.com"><span id="eeEncEmail_FgdriIeNSr"><a href="mailto:weblicensing@bmi.com">weblicensing@bmi.com</a></span><script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-var output = '';
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 105';l[9]=' 109';l[10]=' 98';l[11]=' 64';l[12]=' 103';l[13]=' 110';l[14]=' 105';l[15]=' 115';l[16]=' 110';l[17]=' 101';l[18]=' 99';l[19]=' 105';l[20]=' 108';l[21]=' 98';l[22]=' 101';l[23]=' 119';l[24]='>';l[25]='\"';l[26]=' 109';l[27]=' 111';l[28]=' 99';l[29]=' 46';l[30]=' 105';l[31]=' 109';l[32]=' 98';l[33]=' 64';l[34]=' 103';l[35]=' 110';l[36]=' 105';l[37]=' 115';l[38]=' 110';l[39]=' 101';l[40]=' 99';l[41]=' 105';l[42]=' 108';l[43]=' 98';l[44]=' 101';l[45]=' 119';l[46]=':';l[47]='o';l[48]='t';l[49]='l';l[50]='i';l[51]='a';l[52]='m';l[53]='\"';l[54]='=';l[55]='f';l[56]='e';l[57]='r';l[58]='h';l[59]='a ';l[60]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
-else output += unescape(l[i]);
-}
-document.getElementById('eeEncEmail_FgdriIeNSr').innerHTML = output;
-//]]>
-</script></a> or calling the Internet License Department at (212) 220-3000.</p>
+<h2 id="digital">BMI’s Digital Licensing Center</h2>
+<p>BMI’s Digital Licensing Center provides Internet websites with the ability to obtain a BMI Website Music Performance Agreement through the website. Customers will need to enter information about themselves, their business and about their website(s). They may also choose to provide a credit card for payment purposes. All information provided to BMI through the Digital Licensing Center is encrypted while it is transferred over the Internet and is stored on an internal BMI computer which is not accessible to the public. Access to credit card information is further restricted to those BMI employees who are responsible for processing the license. Any such personally identifiable information can be modified at your request by forwarding an e-mail to <span data-eeencemail_hdbwvclczf="1"><a href="mailto:weblicensing@bmi.com">weblicensing@bmi.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 103',' 110',' 105',' 115',' 110',' 101',' 99',' 105',' 108',' 98',' 101',' 119','>','\"',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 103',' 110',' 105',' 115',' 110',' 101',' 99',' 105',' 108',' 98',' 101',' 119',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_hdBwvClczF'))el[j].innerHTML = out;/*]]>*/</script> or calling the Internet License Department at (212) 220-3000.</p>
 
 <p>BMI will use this information to generate the appropriate electronic license. In addition, BMI may use the information for internal development purposes in order to improve the system. We may ask you whether you need to obtain additional licenses from third parties, and if so, whether you would like BMI to facilitate the process by forwarding your name and contacting information to the appropriate third party. We will always disclose the identity of the third party prior to sharing any information. Finally, BMI may use aggregated information about the use of the Digital Licensing Center, such as the number of licenses executed, and the type of customers using the service to promote the success of the service.</p>
 
 <p>BMI does not presently share any personally identifiable information provided through the Digital Licensing Center with third parties other than as described above without first obtaining your permission.</p>
 
-<h2 id="electronic">Electronic Music Use Reporting</h2><p>
-BMI’s Electronic Music Use Reporting System provides BMI’s radio station customers with the ability to file playlist information through the website. Radio Station customers will need to enter personally identifiable information about themselves, and additional information about their station and about the music they play. All information provided to BMI through the Electronic Music Use Reporting System is stored on an internal BMI computer which is not accessible to the public. Any personally identifiable information can be modified at your request by forwarding an e-mail to <a href="mailto:playlists@bmi.com"><span id="eeEncEmail_RPSma22Ye4"><a href="mailto:playlists@bmi.com">playlists@bmi.com</a></span><script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-var output = '';
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 105';l[9]=' 109';l[10]=' 98';l[11]=' 64';l[12]=' 115';l[13]=' 116';l[14]=' 115';l[15]=' 105';l[16]=' 108';l[17]=' 121';l[18]=' 97';l[19]=' 108';l[20]=' 112';l[21]='>';l[22]='\"';l[23]=' 109';l[24]=' 111';l[25]=' 99';l[26]=' 46';l[27]=' 105';l[28]=' 109';l[29]=' 98';l[30]=' 64';l[31]=' 115';l[32]=' 116';l[33]=' 115';l[34]=' 105';l[35]=' 108';l[36]=' 121';l[37]=' 97';l[38]=' 108';l[39]=' 112';l[40]=':';l[41]='o';l[42]='t';l[43]='l';l[44]='i';l[45]='a';l[46]='m';l[47]='\"';l[48]='=';l[49]='f';l[50]='e';l[51]='r';l[52]='h';l[53]='a ';l[54]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
-else output += unescape(l[i]);
-}
-document.getElementById('eeEncEmail_RPSma22Ye4').innerHTML = output;
-//]]>
-</script></a> or calling the Logging Department at 615-401-2000.</p>
+<h2 id="electronic">Electronic Music Use Reporting</h2>
+<p>BMI’s Electronic Music Use Reporting System provides BMI’s radio station customers with the ability to file playlist information through the website. Radio Station customers will need to enter personally identifiable information about themselves, and additional information about their station and about the music they play. All information provided to BMI through the Electronic Music Use Reporting System is stored on an internal BMI computer which is not accessible to the public. Any personally identifiable information can be modified at your request by forwarding an e-mail to <span data-eeencemail_dzdwymbdqn="1"><a href="mailto:playlists@bmi.com">playlists@bmi.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 115',' 116',' 115',' 105',' 108',' 121',' 97',' 108',' 112','>','\"',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 115',' 116',' 115',' 105',' 108',' 121',' 97',' 108',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_DzdWYMBDQn'))el[j].innerHTML = out;/*]]>*/</script> or calling the Logging Department at 615-401-2000.</p>
 
 <p>BMI will use this information to distribute royalties to BMI-affiliated writers and publishers. In addition, BMI may use the information for internal market share analysis, for external negotiations, and for other purposes. BMI may also use aggregated information for marketing and promotional purposes.</p>
 
 <p>BMI does not presently share any personally identifiable information provided through the Electronic Music Use Reporting system with third parties without first obtaining your permission.</p>
 
-<h2 id="online">Online Works Registration</h2><p>
-BMI’s Online Services section provides our affiliated songwriters, composers and music publishers with the ability to register songs electronically. BMI affiliates will need to enter specific information about themselves and about their musical work(s). All information provided to BMI through the Online Services is stored on an internal BMI computer which is not accessible to the public. Any such personally identifiable can be modified at your request as set forth in the instructions provided in Online Services section.</p>
+<h2 id="online">Online Works Registration</h2>
+<p>BMI’s Online Services section provides our affiliated songwriters, composers and music publishers with the ability to register songs electronically. BMI affiliates will need to enter specific information about themselves and about their musical work(s). All information provided to BMI through the Online Services is stored on an internal BMI computer which is not accessible to the public. Any such personally identifiable can be modified at your request as set forth in the instructions provided in Online Services section.</p>
 
 <p>BMI will use this information to register the musical work, and may share such registration information with other organizations, such as foreign performing rights organizations, as necessary in furtherance of our representation of the musical work. BMI will post some of the information, including song title, writer name(s) and publisher name(s) in the searchable song title database. In addition, BMI may use the information for internal development purposes in order to improve the system. BMI may ask you whether you would like BMI to facilitate the process of registering your work with other third parties. We will always disclose the identity of the third party prior to sharing any information. Finally, BMI may use aggregated information about the use of the Online Services, such as the number of registrations received, to promote the success of the service.</p>
 
@@ -702,19 +688,7 @@ BMI’s Online Services section provides our affiliated songwriters, composers a
 
 <h2 id="questions">Questions or Comments</h2>
 
-<p>If you have any additional questions or comments with respect to the security of our website, please send an e-mail to <a href="mailto:webmaster@bmi.com"><span id="eeEncEmail_PKGEaSg1sz"><a href="mailto:webmaster@bmi.com">webmaster@bmi.com</a></span><script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-var output = '';
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 105';l[9]=' 109';l[10]=' 98';l[11]=' 64';l[12]=' 114';l[13]=' 101';l[14]=' 116';l[15]=' 115';l[16]=' 97';l[17]=' 109';l[18]=' 98';l[19]=' 101';l[20]=' 119';l[21]='>';l[22]='\"';l[23]=' 109';l[24]=' 111';l[25]=' 99';l[26]=' 46';l[27]=' 105';l[28]=' 109';l[29]=' 98';l[30]=' 64';l[31]=' 114';l[32]=' 101';l[33]=' 116';l[34]=' 115';l[35]=' 97';l[36]=' 109';l[37]=' 98';l[38]=' 101';l[39]=' 119';l[40]=':';l[41]='o';l[42]='t';l[43]='l';l[44]='i';l[45]='a';l[46]='m';l[47]='\"';l[48]='=';l[49]='f';l[50]='e';l[51]='r';l[52]='h';l[53]='a ';l[54]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
-else output += unescape(l[i]);
-}
-document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
-//]]>
-</script></a>, or call (212) 220-3000.
-</p>
+<p>If you have any additional questions or comments with respect to the security of our website, please send an e-mail to <span data-eeencemail_iucgdycsnz="1"><a href="mailto:webmaster@bmi.com">webmaster@bmi.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119','>','\"',' 109',' 111',' 99',' 46',' 105',' 109',' 98',' 64',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_iUcgdycsnz'))el[j].innerHTML = out;/*]]>*/</script>, or call (212) 220-3000.</p>
 </div>
 <!-- PRIMARY end -->
 
@@ -777,15 +751,15 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 			</div>
 			<div class="span2">
 					<div class="footertitles">
-					<h4><a href="/innovation_center">Innovation <span class="hidden-tablet">Center</span></a></h4>
+					<h4><a href="/services">Services</a></h4>
 					</div>
 					<div class="listcontainer">
 					<ul>
 					 <li><a href="/live">BMI Live</a></li>
-					 <li><a href="/innovation_center#bmimobile">BMI Mobile for iOS</a></li>
-					 <li><a href="/innovation_center#bmimobile">BMI Mobile for Android</a></li>
-					 <li><a href="/innovation_center#bmiols">BMI Online Services</a></li>
-					 <li><a href="/campaign">Powered by BMI</a></li>
+					 <li><a href="/services#bmimobile">BMI Mobile for iOS</a></li>
+					 <li><a href="/services#bmimobile">BMI Mobile for Android</a></li>
+					 <li><a href="/services#bmiols">BMI Online Services</a></li>
+					 <li><a href="/licensing">Music Licensing</a></li>
 					</ul>
 					</div>
 			</div>
@@ -798,7 +772,7 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 				<li><a href="/licensing">Need a License?</a></li>
 				<li><a href="/licensinglogin">Manage Account</a></li>
 				<li><a href="/licensing/entry/types_of_copyrights">Types of Copyright</a></li>
-				<li><a href="/newmedia">New Media</a></li>
+				<li><a href="/newmedia">Digital Licensing</a></li>
 				</ul>
 				</div>
 			</div>
@@ -827,7 +801,7 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 					<li><a href="/contact">Contact</a></li>
 					<li><a href="/press">Press Room</a></li>
 					<li><a href="/sitemap">Sitemap</a></li>
-					<li><a href="/jobs">Careers at BMI</a></li>
+					<li><a href="/jobs">Jobs at BMI</a></li>
 					<li><a href="/international">International</a></li>
 					<li><a href="/advocacy">Advocacy</a></li>
 				</ul>
@@ -839,7 +813,7 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 				<h4 class="hidden-tablet hidden-phone"><a href="/">Broadcast Music, Inc.</a></h4>
 				</div>
 				<div class="listcontainer">
-					<p>BMI represents more than 600,000 songwriters, composers, and publishers with more than 8.5 million  works.</p>
+					<p>BMI represents more than 650,000 songwriters, composers, and publishers with more than 8.5 million works.</p>
 				</div>
 				</div>
 		</div>
@@ -853,7 +827,7 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 					<li><a href="/jobs">Jobs</a></li>
 				</ul>
 				<div class="listcontainer">
-					<p>BMI represents more than 600,000 songwriters, composers, and publishers with more than 8.5 million  works.</p>
+					<p>BMI represents more than 650,000 songwriters, composers, and publishers with more than 8.5 million works.</p>
 				</div>
 			</div>
 			</div>
@@ -861,11 +835,10 @@ document.getElementById('eeEncEmail_PKGEaSg1sz').innerHTML = output;
 
 			<div class="row">
 			<div class="span12">
-			<div class="footermark center">POWERED BY BMI © 1994-2014 BMI <span id="blockme">• <a href="/legal/entry/533243/#questions">Terms of Use</a> • <a href="/legal/entry/533244">Privacy Policy</a> • <a href="/rss">RSS</a> •</span> BMI®, BMI.com® and Broadcast Music, Inc.® are registered trademarks of Broadcast Music, Inc.</div>
+			<div class="footermark center">Copyright 1994-2014 ©, Broadcast Music, Inc.® unless otherwise specified. BMI®, BMI.com® and Broadcast Music, Inc.® are registered trademarks of Broadcast Music, Inc. <span id="blockme">• <a href="/legal/entry/533243/#questions">Terms of Use</a> • <a href="/legal/entry/533244">Privacy Policy</a> • <a href="/rss">RSS</a></span> </div>
 			</div>
 			</div>
 	</div>
-	
 </footer>
 
 
@@ -881,28 +854,29 @@ $(document).ready(function(){
 		var GA_event_label = $(this).attr('data-title');
 		_gaq.push(['_trackEvent', 'Modal', 'Login Modal', GA_event_label ]);
 	});
-	
+
 	// Join Modal
 	$("#myModaljoin a, #myModaljoin button").click(function() {
 		// track this as a GA event
 		var GA_event_label = $(this).attr('data-title');
 		_gaq.push(['_trackEvent', 'Modal', 'Join Modal', GA_event_label ]);
 	});
-	
+
 });
 </script>
 
 
 
+
+
+
 <!-- LOGIN MODAL -->
-
-
 <div id="loginModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true" data-backdrop="static">
   <button class="btn btn-danger-modal btn-flat" type="button" data-dismiss="modal" data-title="Close">CLOSE</button>
   <div class="modal-body center">
     <h3 id="loginModalLabel">Please Enter Your Information Below</h3>
-    <form name="loginform" method="post" action="https://applications.bmi.com/Security/Login.aspx">
-      <fieldset>
+        <form name="loginform" method="post" action="https://applications.bmi.com/Security/Login.aspx">
+          <fieldset>
         <input type="text" name="username" size="20" maxlength="20" placeholder="Username" value="" required="required" class="logintext"><br class="clearfix">
         <input type="password" name="password" size="20" placeholder="Password" value="" required="required">
         <input type="hidden" name="disclaimer" value="true">
@@ -962,14 +936,14 @@ $(document).ready(function(){
   <div class="modal-body center">
     <h3 id="myModaljoinLabel"><strong>Join BMI</strong></h3>
     <p>Join the more than 600,000 top songwriters, composers and music publishers who have chosen BMI to ensure they get paid when their music gets played.</p>
-    <span class="textincrease">It's free for songwriters and takes about 5 minutes to complete.</span><br><br>
+    <span class="textincrease">It's <strong>free</strong> for songwriters and takes about 5 minutes to complete.</span><br><br>
 
     <h3>I am a Songwriter or Composer</h3>
-<a href="https://applications.bmi.com/writeraffiliation/joinen.aspx" class="btn btn-success btn-join btn-flat" target="_parent" data-title="Join Writer">Click Here to Join Online</a>
-    
+<a href="/joinwriter" class="btn btn-success btn-join btn-flat" target="_parent" data-title="Join Writer">Click Here to Join Online</a>
+
     
     <h3>I am a Publisher</h3>
-    <a href="https://applications.bmi.com/writeraffiliation/KitEN.aspx" class="btn btn-success btn-join btn-flat" target="_parent" data-title="Join Publisher">Download Application</a>
+    <a href="/joinpublisher" class="btn btn-success btn-join btn-flat" target="_parent" data-title="Join Publisher">Download Application</a>
 
     <h3>I am a Classical Composer</h3>
     <a href="/join/composer" target="_parent" class="btn btn-success btn-join btn-flat" data-title="Join Classical">Learn More about Joining BMI</a>
@@ -980,25 +954,15 @@ $(document).ready(function(){
 <!-- PRESS LOGIN MODAL -->
 <div id="myModalpresslogin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalpressloginLabel" aria-hidden="true" data-backdrop="static">
 <button class="btn btn-danger-modal btn-flat" type="button" data-dismiss="modal">CLOSE</button>
-<!--
-	<div class="modal-header">
-		<div class="close-x"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button></div>
-	 	<div class="modlogo">
-	 		<img src="/images/cardinal_app/logo.png" alt="BMI">
-	 		<h3 class="modalheadingjoin" id="myModalpressloginLabel">Login to the Press Room</h3>
-	 	</div>
-	</div>
--->
 	<div class="modal-body">
-		
 				<p id="myModalpressloginLabel">This section of bmi.com is for members of the press who wish to download releases, photos and the BMI corporate press kit materials.</p>
 		<p class="clearfix"><strong>Members</strong>, please login:</p>
 		<form method="post" action="http://www.bmi.com/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="acbc21138208e0809f47c893357618ad9a926a6e">
 <input type="hidden" name="ACT" value="9">
 <input type="hidden" name="RET" value="press/index">
 <input type="hidden" name="site_id" value="1">
+<input type="hidden" name="csrf_token" value="26c913f7003551142fbe79eddd5f05edf03c4fdc">
 </div>
 
 
@@ -1007,12 +971,7 @@ $(document).ready(function(){
 		<label>Password</label> <input type="password" name="password" value="" class="input textfield plainform"><br>
 		<input type="submit" name="submit" value="Submit" class="btn btn-success btn-flat">
 		</form>
-		<p><strong>Forgot your password?</strong> <a href="#myModalpassword" role="button" data-toggle="modal" target="_self">Get instructions on resetting</a> your password.</p>
-		<p><strong>Not a member?</strong> <a href="http://www.bmi.com/press/register/">Register for access</a> to photos.</p>
-		
-		
-				
-	</div>
+			</div>
 </div>
 
 
@@ -1090,8 +1049,8 @@ $(document).ready(function(){
 		href = $(this).attr("href");
 		// If href is set, points to an Anchor, and the Anchor is not simply #.  Exclude our news filters which are handled specially.
 		if(
-			href 
-			&& href.indexOf("#") != -1 
+			href
+			&& href.indexOf("#") != -1
 			&& href.indexOf("#") != href.length - 1
 			&& href.indexOf("#filter") < 0
 			) {_gaq.push(['_trackPageview', location.pathname + location.search + href]);}
@@ -1107,12 +1066,12 @@ if (typeof jQuery != 'undefined') {
     var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
     var baseHref = '';
     if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
- 
+
     jQuery('a').on('click', function(event) {
       var el = jQuery(this);
       var track = true;
       var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
-      var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+      var isThisDomain = document.URL.match("results") || href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
       if (!href.match(/^javascript:/i)) {
         var elEv = []; elEv.value=0, elEv.non_i=false;
         if (href.match(/^mailto\:/i)) {
@@ -1142,7 +1101,7 @@ if (typeof jQuery != 'undefined') {
           elEv.loc = href;
         }
         else track = false;
- 
+
         if (track) {
           _gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
           if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
