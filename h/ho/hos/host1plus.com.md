@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the host1plus.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606143906id_/http%3A//www.host1plus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host1plus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205200id_/http%3A//www.host1plus.com/privacy-policy) for the most accurate reproduction.*
 
 # HOST1PLUS Privacy Policy
 
