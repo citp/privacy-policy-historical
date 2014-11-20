@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winautomation.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213165531id_/http%3A//www.winautomation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winautomation.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120062959id_/http%3A//www.winautomation.com/privacy) for the most accurate reproduction.*
 
-# WinAutomation Privacy Policy
+# Softomotive Privacy Policy - WinAutomation
 
 #### Preamble
 
@@ -12,7 +12,7 @@
 
 #### Collection of your Personal Information
 
-3\. In principle access to the information available on or via the Website does not require any personal data to be supplied by the user. 'Personal data' means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her identity.
+3\. In principle access to the information available on or via the Website does not require any personal data to be supplied by the user. ‘Personal data’ means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her identity.
 
 4\. However, in order to use certain online services, including but not limited to communication forms, newsletter, public message boards, interactive and social networking areas, online shop, you may be asked to supply some information about yourself, including but not limited to first and last name, postal address, e-mail address, telephone number.
 
