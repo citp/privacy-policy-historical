@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611180232id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124319id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
 
 # Union First Market Bank - Support - Disclosures & Terms of Use - Privacy Policy
-
-## Privacy at Union First Market Bank
 
 Union respects the private nature of the personal financial information we collect.  Union takes appropriate precautions to restrict access to this nonpublic personal information about you to only those employees who need to know that information in order to provide products or services to you.
 
@@ -24,7 +22,7 @@ As a reminder:
 
 
 
-Read the [Union First Market Bank Privacy Policy](https://web.archive.org/home/fiFiles/static/documents/Privacy_Notice.pdf).
+Read the [Union Privacy Policy](https://web.archive.org/home/fiFiles/static/documents/Privacy_Notice.pdf).
 
 Read the [Union Mortgage Group, Inc. Privacy Policy](https://web.archive.org/home/fiFiles/static/documents/Privacy_Notice_\(UMG\).pdf). 
 
