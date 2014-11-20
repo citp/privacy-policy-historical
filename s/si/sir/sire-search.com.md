@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409040907id_/http%3A//www.sire-search.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055855id_/http%3A//sire-search.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | SIRE Life Sciences | Recruitment & Executive Search Consultancy
+# Privacy Policy - SIRE Life Sciences
 
 SIRE Life Sciences online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience. We will ensure that the information you submit to us via our website at [www.sire-search.com](http://www.sire-search.com/) remains private, and is only used for the purposes set out in this policy.
 
-**How do we use the information we collect?**  
+ **How do we use the information we collect?**  
 Your personal details, including your name, e-mail address and CV, are held and used by us for the following purposes:
 
-* Matching your coded details with job vacancies, to assist us in finding you the position that most suits you.
-* Keeping you informed of SIRE Life Sciences services, news and wider developments in your chosen field.
-* Compiling the salaries and other surveys of our candidates.
+  * Matching your coded details with job vacancies, to assist us in finding you the position that most suits you.
+  * Keeping you informed of SIRE Life Sciences services, news and wider developments in your chosen field.
+  * Compiling the salaries and other surveys of our candidates.
+
+
 
 **Curriculum Vitae**  
 We give you the option of submitting your CV via the SIRE Life Sciences website. You can do this either to apply for a specific advertised job or by clicking on our ‘Register your CV’ button. Although your CV will be stored online, it will only be accessible by SIRE Life Sciences consultants, working both inside and outside the European Union. Your CV will also be e-mailed directly to our recruitment consultants who review your details and enter them into our databank. This databank, including the information relating to you, can be accessed by any of our consultants working in other offices of the SIRE Group, both inside and outside the European Union. You can update your CV at any time, simply by following the same procedure to submit a new CV. Your old CV will automatically be replaced.
