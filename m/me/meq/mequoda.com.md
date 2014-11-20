@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mequoda.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630150731id_/http%3A//www.mequoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mequoda.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000909id_/http%3A//www.mequoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Mequoda Privacy Policy - Mequoda Daily
 
