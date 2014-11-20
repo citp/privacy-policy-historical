@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellnessmama.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104825id_/http%3A//wellnessmama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessmama.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132745id_/http%3A//wellnessmama.com/privacy) for the most accurate reproduction.*
 
 # Wellness Mama Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy policy applies to all personal information given and received. I de
 
 Wellness Mama gathers personal information about you (name and email address) when you sign up for my newsletter. Also, your browser gives me your IP address and cookie information.
 
-## What I do with this information:
+## What I do with this information
 
 I do this to personalize your experience – nothing more, nothing less. This information allows me to talk to you, improve service to you, and provide strictly anonymous reporting to other clients.
 
