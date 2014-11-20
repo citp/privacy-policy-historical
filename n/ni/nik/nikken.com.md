@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119115521id_/http%3A//www.nikken.com/esuite/corp/policy-and-procedure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105154id_/http%3A//www.nikken.com/esuite/corp/policy-and-procedure) for the most accurate reproduction.*
 
 # Nikken - The Official Site of Nikken Products
 
@@ -47,7 +47,7 @@ Payment by card is secure under the above system. We do not retain credit card d
 
 ### General
 
-1\. You have the right to enquire about the personal data that we keep about you, upon receipt of a written request and payment of a fee. Please write to us at Nikken Inc., 52 Discovery, Irvine CA 92618.
+1\. You have the right to enquire about the personal data that we keep about you, upon receipt of a written request and payment of a fee. Please write to us at Nikken Inc., 2 Corporate Park, Suite 100, Irvine, CA 92606.
 
 2\. If you are concerned that any of the information we hold regarding you is incorrect or you have a general inquiry in connection with our privacy policy, please contact us via phone (949) 789-2000 or email dist-rel@nikken.com or write to us at the above address.
 
