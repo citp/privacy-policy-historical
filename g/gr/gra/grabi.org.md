@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grabi.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194641id_/http%3A//www.grabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabi.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120043927id_/http%3A//www.grabi.org/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# PRIVACY POLICY | GRABI
 
 GRABI.ORG Privacy Policy
 
