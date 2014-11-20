@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the probtemplates.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303114057id_/http%3A//www.probtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probtemplates.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194224id_/http%3A//www.probtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Blogger Templates | Probtemplates
+# Privacy Policy | Blogger Templates | Probtemplates
 
 ##  [Privacy Policy](http://www.probtemplates.com/p/privacy-policy.html)
 
