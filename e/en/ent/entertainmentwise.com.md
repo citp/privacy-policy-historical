@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003804id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110759id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
 
-# Privacy Policy | EntertainmentWise
-
-By [Entertainmentwise](https://web.archive.org/search/Entertainmentwise/Contributor) On August 9, 2003 
+# Privacy Policy
 
 **This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.entertainmentwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means **Entertainmentwise.** The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
@@ -42,3 +40,5 @@ You may notify Us of any updates, amendments and corrections to previously colle
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
 
 Any site that you may connect to from here is not covered by this Privacy Policy.
+
+[comments powered by ](http://disqus.com/)
