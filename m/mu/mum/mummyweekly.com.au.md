@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mummyweekly.com.au privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409101627id_/http%3A//www.mummyweekly.com.au/privacyterms-of-use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mummyweekly.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105046id_/http%3A//www.mummyweekly.com.au/privacyterms-of-use.html) for the most accurate reproduction.*
 
-# Privacy/Terms of Use - Mummy Weekly
+# Mummy Weekly Privacy and Terms OF Use - Mummy Weekly
 
 **Mummy Weekly Privacy Policy and Terms of Use**  
 Mummy Weekly strives to make your experience with us a positive one. To help us achieve this, we have outlined our terms and conditions for those visiting the site. This document outlines Mummy Weekly's expected behaviour of those visiting to help ensure a good experience for all.
