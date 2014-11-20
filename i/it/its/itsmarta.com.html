@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625131736id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120174512id_/http%3A//itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MARTA - Metropolitan Atlanta Rapid Transit Authority</title>
@@ -12,10 +12,10 @@
 <!--<link rel="stylesheet" href="../BOD_images/engine/css/vlightbox.css" type="text/css" />
 		<style type="text/css">#vlightbox a#vlb{display:none}</style>
 		
-		
+
 <link rel="stylesheet" href="../BOD_images/engine/css/visuallightbox.css" type="text/css" media="screen" />
 <script src="../BOD_images/engine/js/jquery.min.js" type="text/javascript"></script> -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="CalendarControl1.js" language="javascript" type="text/javascript"></script></head><body style="background-image:url(images/sitebackground/day.jpg);" onload="writeTimeDate();"><iframe id="CalendarControlIFrame" src="javascript:false;" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="CalendarControl1.js" language="javascript" type="text/javascript"></script></head><body style="background-image:url(images/sitebackground/IMGP7726-peachtree-center3.jpg);" onload="writeTimeDate();"><iframe id="CalendarControlIFrame" src="javascript:false;" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div>
 <link href="trip_planner.css" rel="stylesheet" type="text/css"> 
 <link href="Workarea/csslib/search.css" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
@@ -210,17 +210,17 @@ function writeTimeDate(){
 				
 				if (event == 'TripPlan')
 				{	
-					if (form.Start.value=='')
+					if (form.StartDetail.value=='')
 					{
 						vError += 'Please enter a From location\n';
 					}
 					
-					if (form.End.value=='') 
+					if (form.EndDetail.value=='') 
 					{
 						vError += 'Please enter a To location\n';
 					}
 				
-					if (form.End.value==form.Start.value) 
+					if (form.EndDetail.value==form.StartDetail.value) 
 					{
 						vError += 'The locations are the same\n';
 					}
@@ -250,7 +250,7 @@ function writeTimeDate(){
 						form.id = "TripPlan";
 						form.action=url;
 						form.method = "post";
-						document.getElementById("Date").value = document.getElementById("DateTP").value;
+						document.getElementById("Date").value = document.getElementById("Date").value;
 //						document.getElementById("HourDropDown").value = document.getElementById("HourDropDown1").value;
 //						document.getElementById("MinuteDropDown").value = document.getElementById("MinuteDropDown1").value;
 						}
@@ -258,7 +258,7 @@ function writeTimeDate(){
 						{
 						form.name = "TripPlan2";
 						form.id = "TripPlan2";
-						form.action= url + "?.a=iScheduleLookup";
+						form.action= url + "?.a=iHeadwaySheet";
 						form.method = "post";
 						document.getElementById("Date").value = document.getElementById("DateSchedule").value;
 //						document.getElementById("HourDropDown").value = document.getElementById("HourDropDown1").value;
@@ -586,6 +586,8 @@ var site_value = getQuerystring('s');
 	</script> 
 <!-- Browser Detection End-->	
 
+<meta name="google-translate-customization" content="359cc32abd044e8e-88d154219a0af849-gdb2414bb0128a490-10">
+
 
 <!-- Google Analytics -->
 <script type="text/javascript">
@@ -611,8 +613,8 @@ pageTracker._trackPageview();
 <!--end of Advertising -->
 
 <br>
-<form name="aspnetForm" method="post" action="/tplGeneral.aspx?id=3429" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWAmYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZGSrBbFubpPdRW6/v8JAllZ9j7yMew==">
+<form name="aspnetForm" method="post" action="tplGeneral.aspx?id=3429" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWAmYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZGRKe6kH1DYZPpL3FTqeyzSIRdMwgw==">
 
 <link rel="stylesheet" type="text/css" href="/WorkArea/csslib/global.css">
 
@@ -628,18 +630,21 @@ pageTracker._trackPageview();
            <a href="Search.aspx">Search</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="marta-mobile/mobile-default.aspx">Mobile Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="textver/privacy-disclaimers.aspx" id="ctl00_lnkTextOnly">Text 
                Only Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Contact-us.aspx">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Sitemap.aspx">Site 
                Map</a>&nbsp;&nbsp;&nbsp;<br><br>
-              <img src="images/social-icons/social-bar-larger2.png" alt="image" width="225" height="35" usemap="#Map" border="0">
-<map name="Map" id="Map">
-  <area shape="rect" coords="0,1,27,29" href="http://www.facebook.com/pages/MARTA/64214098113?v=wall" target="_blank" alt="MARTA Facebook">
-  <area shape="rect" coords="31,1,58,29" href="http://www.youtube.com/user/itsmartanews?feature=mhum" target="_blank" alt="MARTA YouTube page">
-  <area shape="rect" coords="62,1,92,29" href="http://www.flickr.com/photos/79400803@N03/sets/" target="_blank" alt="MARTA Flickr Page">
-  <area shape="rect" coords="123,-1,149,30" href="https://twitter.com/CEOMARTA" target="_blank" alt="MARTA CEO Twitter Page">
-  <area shape="rect" coords="161,-9,185,28" href="https://twitter.com/MARTASERVICE" target="_blank" alt="MARTA twitter Service page">
-  <area shape="rect" coords="94,1,119,27" href="http://www.pinterest.com/MARTATRANSIT/" target="_blank" alt="MARTA Pinterest site">
-  <area shape="rect" coords="198,2,223,28" href="https://vine.co/u/1020071287386787840" target="_blank" alt="Vine">
-</map>
-			   
-            </div>
+               <table width="255" border="0" cellspacing="1" cellpadding="1">
+                 <tbody><tr>
+                 <td><a href="http://www.facebook.com/pages/MARTA/64214098113?v=wall"><img src="images/social-icons/new/facebook.png" alt="MARTA Facebook" width="30" height="30" border="0"></a></td>
+                 <td><a href="https://twitter.com/MARTASERVICE"><img src="images/social-icons/new/twitter.png" alt="click for more information" width="30" height="30" border="0"></a></td>
+                 
+                   <td><a href="https://twitter.com/CEOMARTA"><img src="images/social-icons/new/twitter.png" alt="MARTA CEO Twitter" width="30" height="30" border="0"></a></td>
+                   
+                   <td><a href="http://www.youtube.com/user/itsmartanews?feature=mhum"><img src="images/social-icons/new/youtube.png" alt="MARTA YouTube" width="30" height="30" border="0"></a></td>
+                   <td><a href="http://www.flickr.com/photos/79400803@N03/sets/"><img src="images/social-icons/new/flickr.png" alt="MARTA Flickr" width="30" height="30" border="0"></a></td>
+                   <td><a href="http://instagram.com/marta_explorer"><img src="images/social-icons/new/instagram.png" alt="MARTA Instagram" width="30" height="30" border="0"></a></td>
+                   <td><a href="http://www.pinterest.com/MARTATRANSIT/"><img src="images/social-icons/new/pinterest.png" alt="MARTA Pinterest" width="30" height="30" border="0"></a></td>
+                   <td><a href="http://www.martaalerts.com/Logon.aspx"><img src="images/social-icons/new/alert.png" alt="Sign-up for alerts" width="30" height="30" border="0"></a></td>
+                  </tr>
+               </tbody></table>
+           </div>
            
           </td>
           </tr></tbody></table>
@@ -825,16 +830,26 @@ src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
                            </tr>
                            <tr>
                              <td valign="top">
-                            <table width="19%" border="0" align="center" cellpadding="0" cellspacing="0">
-                                 <tbody><tr>
-                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=es');"><img alt="Spanish" border="1" height="11" hspace="2" src="images/flags/es.gif" width="20"></a> </td>
-                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=fr');"><img alt="French" border="1" height="11" hspace="2" src="images/flags/fr.gif" width="20"></a></td>
-                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=ja');"><img alt="Japanese" border="1" height="11" hspace="2" src="images/flags/ja.gif" width="20"></a></td>
-                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=zh-CN');"><img alt="Chinese" border="1" height="11" hspace="2" src="images/flags/zh.gif" width="20"></a></td>
-                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=ko');"><img alt="Korean" border="1" height="11" hspace="2" src="images/flags/ko.gif" width="20"></a></td>
-                                   <td bordercolor="#333333" width="47"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=de');"><img alt="German" border="1" height="11" hspace="2" src="images/flags/de.gif" width="20"></a></td>
+
+<!-- new google translate code -->
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,es,fr,ja,ko,ru,vi,zh-CN', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, gaTrack: true, gaId: 'UA-2986671-4'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- end of google translate code -->
+
+                            <!--<table width="19%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                 <tr>
+                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=es');"><img alt="Spanish" border="1" height="11" hspace="2" src="images/flags/es.gif" width="20" /></a> </td>
+                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=fr');"><img alt="French" border="1" height="11" hspace="2" src="images/flags/fr.gif" width="20" /></a></td>
+                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=ja');"><img alt="Japanese" border="1" height="11" hspace="2" src="images/flags/ja.gif" width="20" /></a></td>
+                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=zh-CN');"><img alt="Chinese" border="1" height="11" hspace="2" src="images/flags/zh.gif" width="20" /></a></td>
+                                   <td bordercolor="#333333" width="36"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=ko');"><img alt="Korean" border="1" height="11" hspace="2" src="images/flags/ko.gif" width="20" /></a></td>
+                                   <td bordercolor="#333333" width="47"><a href="#" onclick="javascript:window.open('http://translate.google.com/translate?u=http://www.itsmarta.com&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=de');"><img alt="German" border="1" height="11" hspace="2" src="images/flags/de.gif" width="20" /></a></td>
                                  </tr>
-                             </tbody></table></td>
+                             </table> --></td>
                              <td valign="top" style="width: 425px"><div align="center">
                                  <p>Copyright ©2009 MARTA. All Rights Reserved.</p>
                                <!-- Beginning of SYSTRANLinks -->
@@ -901,6 +916,8 @@ src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
   })();
 
 </script>
+
+
 
 
 
