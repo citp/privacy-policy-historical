@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163421id_/http%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110005id_/http%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.*
 
 # Dialog » Privacy Policy
 
