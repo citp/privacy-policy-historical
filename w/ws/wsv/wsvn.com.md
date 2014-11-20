@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302044648id_/http%3A//www.wsvn.com/story/22932881/wsvncom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164153id_/http%3A//www.wsvn.com/story/22932881/wsvncom-privacy-policy) for the most accurate reproduction.*
 
-# WSVN.COM PRIVACY POLICY - WSVN-TV - 7NEWS Miam Ft. Lauderdale News, Weather, Deco
+# WSVN.COM PRIVACY POLICY - WSVN-TV - 7NEWS Miami Ft. Lauderdale News, Weather, Deco
 
 This Privacy Policy describes the types of information collected from you, what we do with it, and with whom we share it for this website www.wsvn.com. (Site). This Privacy Policy applies only to information collected by or through the Site. It does not apply to information obtained by other means. Your privacy is important to us. It is your responsibility to carefully review this Privacy Policy before providing any information through this Site, especially personal information. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at webmaster@wsvn.com or write to us at WSVN-TV, 1401-79th Street Causeway, Miami, FL 33141, ATT: Webmaster, WSVN.com.
 
