@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601191645id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060503id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Hyperspin Website Monitoring, Web Server Monitoring Service
-
-## Privacy Statement
+# Privacy Statement - Hyperspin
 
 Hyperspin.com collects information from our users for a number of reasons, the chief one being to better understand our users and their needs.
 
