@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531132505id_/http%3A//www.economistgroup.com/results_and_governance/governance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065348id_/http%3A//www.economistgroup.com/results_and_governance/governance/privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -84,7 +84,7 @@ Further information on the use of cookies can be found at: [www.cookiecentral.co
 
 The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
-To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://www.doubleclick.com/privacy/index.aspx>. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
+To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://www.sailthru.com/legal/#privacy>. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
 
 ### Advertisements
 
@@ -106,9 +106,9 @@ Occasionally we share your details with other companies who are managing data fo
 
 As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
 
-### Children under 13
+### Individuals under 16
 
-The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
+The Economist Group does not intentionally or knowingly process personal information from individuals under the age of 16. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details or applicable data as defined by law have been collected.
 
 ### Changes to this statement
 
