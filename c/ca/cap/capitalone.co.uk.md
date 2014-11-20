@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.co.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529022549id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110208id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Information | Capital One
 
@@ -55,4 +55,4 @@ For more information about our commitment to security and for tips about what yo
 You have a right under the Data Protection Act 1998 upon written request and payment of a fee, to have a copy of the personal data we hold about you. If you would like to receive a copy of the personal data we hold about you please write to us at the address shown in [contact us](https://web.archive.org/support/contact-us.jsf).
 
 **Opting out of receiving Marketing Material**  
-You have a right under the Data Protection Act 1988 to ask us not to process your personal data or pass it to third parties for marketing purposes. If you do not want to receive marketing material from us or third parties please write to us at the address shown in [contact us](https://web.archive.org/support/contact-us.jsf).
+You have a right under the Data Protection Act 1998 to ask us not to process your personal data or pass it to third parties for marketing purposes. If you do not want to receive marketing material from us or third parties please write to us at the address shown in [contact us](https://web.archive.org/support/contact-us.jsf).
