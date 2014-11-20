@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213003656id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132850id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
 
 # Security and Privacy at GemSelect
 
