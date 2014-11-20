@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bayrozgar.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625175743id_/http%3A//www.bayrozgar.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bayrozgar.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121000812id_/http%3A//www.bayrozgar.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -13,474 +13,15 @@
 <div align="center">
   <div id="main" align="left">
     <!-- logo -->
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://www.bayrozgar.com/JavaScript/apply_job.js" type="text/javascript" language="javascript"></script>
-<script type="text/javascript" language="javascript" src="http://www.bayrozgar.com/cv_wizard/js/ajaxupload.3.5.js"></script>
+   
 
-<script type="text/javascript">
-<!-- fb conectivity script-->
-var fb_user_id = '';
 
 
-window.fbAsyncInit = function() {
 
-/* Initialize FB */
 
-FB.init({
 
-//appId : '207878732561267',	 /* App ID of the App registered in FB - https://developers.facebook.com/apps/ */
-//appId : '660064410701951', // hellodunya
-appId : '1422676264644300', // sir aaamir
- 
 
-
-
-
-//channelUrl : '//www.yoursite.com/fbsdk-channel.aspx',	
-//channelUrl : '//www.grafixtreme.com/sdk/FB/index.php',	 
-channelUrl : '//www.bayrozgar.com/dev/signin2.php',	 
-
-
-/* Channel File - required to resolve potential cross-domain communication between this domain and FB */
-
-status : true,	 /* Check login status of the user accessing the webpage this code is on */
-
-cookie : true,	 /* Enable cookies to allow the server to access the session */
-
-xfbml : true,	 /* Parse XFBML tags present within the webpage such as "fb:login-button" */
-
-oauth	 : true	 /* oAuth is required now */
-
-});
-
-/* Capture Events */
-
-var tmp_userID = '', tmp_signedRequest = '', tmp_expiresIn = '', tmp_accessToken = '';
-
-FB.Event.subscribe('auth.login', function(response) {
-
-
-
-
-/*
-
-Log the user in with the button click "fb:login-button" on your webpage when FB detects they are not logged into FB already OR the user has not authorized (or "authenticated") the "App" (your webpage)
-
-Request permissions to access email, etc which are not available by default - http://developers.facebook.com/docs/reference/api/user/
-
-*/
-
-if (response.authResponse) { 
-
-
-tmp_accessToken = response.authResponse.accessToken;
-	
-
-userLoggedIn();  }
-
-}, {scope: 'email,user_birthday,user_location,user_education_history,user_website,publish_stream,photo_upload'});
-
-FB.Event.subscribe('auth.logout', function(response) {
-
-/* Some action to perform when the user logs out via the "fb:login-button" displaying "Facebook Logout" on your webpage */
-
-userLoggedOut();
-
-});
-
-FB.getLoginStatus(function(response) {
-
-/* This is executed on load of the "App" (your webpage) in the event the user has already logged into FB */
-
-if (response.status === 'not_authorized') {
-
-/* The user has already logged into FB but not authorized the "App" (your webpage) */
-
-}
-
-else if (response.status === 'connected') {
-
-/* The user has logged into FB and authorized the "App" (your webpage) to get their user information */
-
-
-	
-	
-//postToWallUsingFBApi()
-
- 
-
-
-//alert('sadia');
-
-
-tmp_userID = response.authResponse.userID;
-
-tmp_signedRequest = response.authResponse.signedRequest;
-
-tmp_expiresIn = response.authResponse.expiresIn;
-
-
-processUserInformation();
-
-
-//window.location="welcome.php";
-
-}
-
-else { /* The user has not yet logged into FB */ }
-
-}, {scope: 'email,user_birthday,user_location,user_education_history,user_website,publish_stream,photo_upload'});
-
-
-
-/* Handle Events */
-
-function userLoggedIn() {
-
-
-
-/* Triggered after user successfully logs into Facebook with their account from the "App" (your webpage) */
-
-/* Forward to "processUserInformation()" unless something unique needs to be done */
-
-processUserInformation();
-
-}
-
-function userLoggedOut() {
-
-/* User has initiated a logout from Facebook using the "fb:login-button" button from the "App" (your webpage) */
-
-}
-
-function processUserInformation() {
-
-/* Get the user's information to put into the webpage since the user is logged into FB and authorized the "App" (your webpage) */
-
-FB.api('/me', function(response) {
-
-
-	
-	//alert(tmp_accessToken)
-
-if(fb_user_id=='' )
-{ 
-
-
-
-	$.ajax(
-		{
-			url: "http://www.bayrozgar.com/fb_script.php",
-			type: "post",
-			dataType: "html",
-			data:{	
-					ACTION:'save_record',
-					resp:response
-				},
-			error: function(){
-			},
-			beforeSend: function(){
-			},
-			complete: function(){
-			},			
-			success: function( data ){
-			//alert(data)
-				if(data!='3')
-				{ 
-				
-				var dataarr= data.split(",");
-				
-				// alert(dataarr[1])
-				if(dataarr[0]==0)
-				{ //alert(tmp_accessToken)
-			
-				FB.api("/photos?access_token="+tmp_accessToken, 'post', { message: 'http://www.bayrozgar.com/: Jobs in Pakistan, Jobs in Middle East, Jobs in lahore, karachi and dubai. Employment and career opportunities to hunt international jobs. Free Job website. The directory of jobs, employment and career', url: 'https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/q71/s720x720/1619653_694010250643997_1384007027_n.jpg'}, function(response2) {
-					//alert(rawData(response2))
-
- console.log(response2);
-       
-
-                 
-    });
-				}
-
-	 
-				window.location=dataarr[1];
-				}
-				else{ alert("Invalid Account information")}
-				
-					
-			}
-		}							
-		);
-
-}
-//alert(response);
-
-
-
-
-/*
-
-Put the data into the form in the webpage
-
-NOTES: Although "user_birthday" is requested, the returned field is just "birthday" with a value like "09/23/1993"
-
-Although "user_location" is requested, the returned scope is the object "location" with fields "name" and "id"; "name" would have a value like "Boggs, California"
-
-*/
-
-//alert(rawData(response)); /* Uncomment in order to see what data is available for the "App" (your webpage) to access */
-
-
-            
-
-document.getElementById('fb_fname').value = wSpaceFilter(response.first_name);
-
-document.getElementById('fb_link').value = wSpaceFilter(response.link);
-
-document.getElementById('fb_lname').value = wSpaceFilter(response.last_name);
-
-document.getElementById('fb_session_id').value = wSpaceFilter(response.id);
-
-//document.getElementById('email_fb').value = wSpaceFilter(response.email_fb);
-
-
-document.getElementById('Gender').value = response.gender;
-
-if (response.email) { document.getElementById('email_fb').value = response.email; }
-
-if (response.birthday) { document.getElementById('Birthday').value = response.birthday; }
-var userCity = '', userState = '';
-
-if (response.location) {
-
-if (response.location.name.indexOf(',') > -1) { userCity = wSpaceFilter(response.location.name.split(',')[0]); userState = wSpaceFilter(response.location.name.split(',')[1]); }
-
-else { userCity = wSpaceFilter(response.location.name); }
-
-}
-
-if (response.education) {
-	
-	
-
-var eDataObject 		= response.education;
-var edu_arr_count		= eDataObject.length -1;
-var educationObject 	= eDataObject[edu_arr_count]	
-	
-	//alert(rawData(educationObject))
-	
-	for (var hseducation in educationObject) {
-		
-
-		
-			if(hseducation=='school'){  var school_name = educationObject[hseducation].name ;}
-			if(hseducation=='type'){ var type_name = educationObject[hseducation];  }
-			if(hseducation=='classes'){ 
-				hsclass = educationObject[hseducation].length -1;
-				var class_name=educationObject[hseducation][hsclass].name;
-			  }
-			
-		
-	}
-	
-	
- 
- 
- 
-	
-document.getElementById('HsName').value =  school_name ;
-document.getElementById('eName').value  = class_name
-
-}
-
-
-
-
-if(response.work){
-
-	var expDataObject 	= response.work;
-	var work_arr_count	= expDataObject.length -1;
-	var employerObject 	= expDataObject[work_arr_count]
-
-	for (var hsemployer in employerObject) {
-		
-		if(hsemployer=='employer'){ var comp_name = employerObject[hsemployer].name;  }
-		
-			if(hsemployer=='position'){   
-			
-			var posit_name = employerObject[hsemployer].name;
-			
-			}
-			
-			if(hsemployer=='description'){   
-			
-			var description_name = employerObject[hsemployer];
-			
-			}
-			
-			if(hsemployer=='start_date'){   
-			
-			var start_date_name = employerObject[hsemployer];
-			
-			}
-			if(hsemployer=='end_date'){  
-			var end_date_name = employerObject[hsemployer];
-			}
-			
-			 
-			 
-		
-			//alert(employerObject[hsemployer])
-			
-		
-		
-	}
-
-}
-
-
-
-     document.getElementById('company_txt').value =  comp_name
-	 document.getElementById('positin_txt').value =	 posit_name
-     document.getElementById('work_descr_txt').value = description_name
-	 document.getElementById('start_date_txt').value =	 start_date_name
-	document.getElementById('end_date_txt').value =	 end_date_name
-				
-				
-
-document.getElementById('City').value = userCity;
-
-document.getElementById('State').value = userState;
-/* Pull high school name and education */
-
-
-//document.getElementById('fbform').submit();
-
-
-});
-
-
-
-
-
-
-//window.location="welcome.php";
-
-}
-
-
-function wSpaceFilter(data) {
-
-/* Remove leading, trailing whitespace, more than one whitespace and line breaks within the string */
-
-data = data.replace(/(^\s*)|(\s*$)/gi, "").replace(/\s{2,}/gi, " ").replace(/(\r\n|\n|\r)/gm, " ");
-
-return(data);
-
-}
-
-function rawData(dataObject) {
-
-/* Quick testing, show what is available for access */
-
-var data = '';
-
-for (var pair in dataObject) {
-
-if (typeof dataObject[pair] === 'object') { data = data + pair + ' ->' + '\n'; }
-
-else { data = data + pair + ' : ' + dataObject[pair] + '\n'; }
-
-try {
-
-var sDataObject = dataObject[pair];
-
-if (typeof sDataObject === 'object') {
-
-for (var sPair in sDataObject) {
-
-if (typeof sDataObject[sPair] === 'object') { data = data + ' ' + sPair + ' -->' + '\n'; }
-
-else { data = data + ' ' + sPair + ' : ' + sDataObject[sPair] + '\n'; }
-
-var cDataObject = sDataObject[sPair];
-
-if (typeof cDataObject === 'object') {
-
-for (var cPair in cDataObject) {
-
-if (typeof cDataObject[cPair] === 'object') { data = data + ' ' + cPair + ' --->' + '\n'; }
-
-else { data = data + ' ' + cPair + ' : ' + cDataObject[cPair] + '\n'; }
-
-var nDataObject = cDataObject[cPair];
-
-if (typeof nDataObject === 'object') {
-
-for (nPair in nDataObject) {
-
-if (typeof nDataObject[nPair] === 'object') { data = data + ' ' + nPair + ' ---->' + '\n'; }
-
-else { data = data + ' ' + nPair + ' : ' + nDataObject[nPair] + '\n'; }
-
-}
-
-}
-
-}
-
-}
-
-}
-
-}
-
-}
-
-catch(error_sPair) { /* Show error if needed */ }
-
-}
-
-return(data);
-
-}
-
-};
-
-
-
-/* Load the SDK Asynchronously */
-
-(function(d) {
-
-var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-
-if (d.getElementById(id)) { return; }
-
-js = d.createElement('script'); js.id = id; js.async = true;
-
-js.src = "//connect.facebook.net/en_US/all.js";
-
-ref.parentNode.insertBefore(js, ref);
-
-}(document));
-
-
-
-<!--  endfb conectivity script-->
-
-</script>
-
-<div id="fb-root" style="display:none"></div> 
-
-
-
-
-
-
-
-<!--<style type="text/css">
+<style type="text/css">
 
 
 
@@ -492,7 +33,7 @@ div > div#fixme { position: fixed; }
 
 
 
-</style>-->
+</style>
 
 
 
@@ -504,7 +45,7 @@ div > div#fixme { position: fixed; }
 
 
 
-<!--<div id="fixme"><a id="zoom31" href="http://www.bayrozgar.com/feedback.php"><img src="http://www.bayrozgar.com/images/feedback.gif" border="0" alt="Feed Back" /></a> </div>-->
+<div id="fixme"><a id="zoom31" href="http://www.bayrozgar.com/feedback.php"><img src="http://www.bayrozgar.com/images/feedback.gif" border="0" alt="Feed Back"></a> </div>
 
 
 
@@ -516,7 +57,7 @@ div > div#fixme { position: fixed; }
 
 
 
-	    <div class="rel"><a href="http://www.bayrozgar.com/"><img title="Jobs in Pakistan" src="http://www.bayrozgar.com/images/logo.jpg" alt="Jobs in Pakistan"></a>
+	    <div class="rel"><a href="http://www.bayrozgar.com/"><img title="Jobs in Pakistan" src="http://www.bayrozgar.com/images/logo.jpg" alt="Bayrozgar.com LOGO"></a>
 
 		 
 
@@ -587,7 +128,7 @@ div > div#fixme { position: fixed; }
 
 <div>
 
-<div class="menu_left" style="width:513px;">
+<div class="menu_left" style="width:545px;">
 
 
 
@@ -620,7 +161,6 @@ div > div#fixme { position: fixed; }
 
 
         </div>
-        <div style="float:left; margin-top:8px;"> <a href="http://www.bayrozgar.com/feedback.php" class="feedbacktab">Feedback</a></div>
 
 		<div class="new_grenn_login_side">
 
@@ -884,7 +424,7 @@ Information Technologies (IT) / Software Jobs </a></li>
         <div class="clear"></div>
 		</div>
       </div>
-   <script type="text/javascript">
+   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37585465-1']);
