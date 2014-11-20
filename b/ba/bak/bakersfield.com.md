@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624234811id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164431id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
 
 # Bakersfield.com - Privacy Policy
 
@@ -73,9 +73,9 @@ Yahoo! is a member of the [Network Advertising Initiative](http://www.networkadv
 
 This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. For example, credit-card information provided by a visitor is made available only to bonded billing personnel or technical staff responsible for server security.
 
-### Newsletters and alerts
+### Newsletters and Alerts
 
-Bakersfield.com offers a variety of opt-in e-mail newsletters or text-message alerts. When subscribing, visitors are asked to submit information such as name, e-mail address or phone number, and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to [www.bakersfield.com/newsletters](http://www.bakersfield.com/newsletters). To remove your personally identifiable information from our databases, send e-mail to [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) explaining your request. To unsubscribe from individual text-message alert lists (such as news alerts or weekend events), reply “Stop” to the most recent alert received. This will unsubscribe you from ALL text-message alerts from Bakersfield.com or our affiliate mobile site [661411.com](http://661411.com/). If you subscribe to multiple alerts lists and would like to unsubscribe from only one (such as Breaking News or the daily weather forecast), text “stop last” to be unsubscribed ONLY from the list you most recently received an alert from. Or you can visit [www.bakersfield.com/mobile](http://www.bakersfield.com/mobile) and log in with your phone number to easily manage and modify all your alerts.
+Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address or phone number, and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, click on the unsubscribe link at the bottom of the newsletter. To remove your personally identifiable information from our databases, send e-mail to [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) explaining your request.
 
 ### Orders
 
