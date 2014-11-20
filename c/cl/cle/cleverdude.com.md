@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214201911id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120235357id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Clever Dude Personal Finance and Money
 
