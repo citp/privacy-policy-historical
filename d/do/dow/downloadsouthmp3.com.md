@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsouthmp3.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084200id_/http%3A//www.downloadsouthmp3.se/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsouthmp3.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003648id_/http%3A//www.downloadsouthmp3.se/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download South MP3
 
