@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330173654id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060529id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=54)
+[](https://web.archive.org/Resources/Detail?ID=100)
 
-[](https://web.archive.org/Resources/Detail?ID=243)
+[](https://web.archive.org/Resources/Detail?ID=605)
 
-James A. Blanco
+Chris Sajnog
 
-[](https://web.archive.org/Resources/Detail?ID=488)
+[](https://web.archive.org/Resources/Detail?ID=593)
 
-Gerald M. Aronoff, MD, Wayne Evans, PhD
+Bonny J. Forrest, JD, PhD
 
 ### Our Commitment To Privacy
 
