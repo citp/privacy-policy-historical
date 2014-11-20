@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609233522id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120232149id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Statement: Randy Cassingham's Weird News
 
@@ -7,7 +7,8 @@
 
 ### First Things First: Your Privacy
 
-We not only **_will not_** provide your e-mail address to _any_ advertiser, we actually work rather hard to keep it secret. Your address will _not_ be provided to anyone who is not an employee of _This is True._
+We not only **_will not_** provide your e-mail address to _any_ advertiser, we actually work rather hard to keep it secret. Your address will _not_ be provided to anyone who is not an employee of _This is True_ unless we have your permission or are required to do so by law.  
+
 
 We further protect your privacy and e-mail security in general by requiring that new subscribers "confirm" or "verify" their subscription request. This prevents people from harassing others by subscribing them to something they may not want. When you subscribe, we send a message asking you to confirm your subscription. You _must_ click the link in this message before your subscription will be activated. Of course, you may always cancel (or "unsubscribe") at any time: there is a link at the bottom of _every issue_ to make it easy ([details](http://www.thisistrue.com/change.html)).
 
