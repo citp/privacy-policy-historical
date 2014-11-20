@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myaadhaarcard.in privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022804id_/http%3A//www.myaadhaarcard.in/%3Fpage_id%3D846) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaadhaarcard.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094648id_/http%3A//www.myaadhaarcard.in/%3Fpage_id%3D846) for the most accurate reproduction.*
 
 # Privacy Policy | My Aadhaar Card
 
