@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123351id_/http%3A//www.clickorlando.com/Privacy-Policy/2694030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131756id_/http%3A//www.clickorlando.com/Privacy-Policy/2694030) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -51,3 +51,51 @@ We may also use any personally identifiable information you provide for marketin
  _What about messages sent to me at my wireless email address:_ If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
 
  **What about cookies and tracking pixels?**
+
+We use technologies such as cookies and tracking pixels to collect information from and/or about you, and we do so, for example, to enhance the information we have about your preferences, to store some of your Site settings and to learn about your visits. A cookie is a piece of information that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie allows us to determine that a visit has occurred within the Site, as well as which pages were viewed. You can decide if and how your computer will accept cookies by configuring your preferences option within your Web browser. If you choose to decline cookies, however, some of the functionality of the Site may be impaired.
+
+We also may use "tracking pixels" (aka "clear GIFs" or "pixel tags") or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.
+
+Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).
+
+ **What about _Third-Party Advertisers_?**
+
+We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.
+
+If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at <http://www.networkadvertising.org/consumer/>.
+
+ **What information is collected from children under the age of 13?**
+
+This Site is not directed at children under the age of 13. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.
+
+ **How do we aim to protect personally identifiable information collected on this Site?**
+
+While we will endeavor to protect the security and integrity of any personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on systems controlled by us or third parties on our behalf, will be absolutely safe from intrusion by others, such as hackers. If you contact us by e-mail or a "contact us" or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+If we believe that the security of any user's personal information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as the means of such notification.
+
+ **How can you access and edit your personally identifiable information?**
+
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](http://www.clickorlando.com/emailnewsletters/index.html) (if applicable).
+
+ **What Web sites does this Privacy Policy cover?**
+
+When you are on the Site, you may have the opportunity to visit, or link to, other sites, including other sites operated by subsidiaries or affiliates of us, or by unaffiliated third parties. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. You should review these sites' privacy policies regarding any information that they may collect about you at their sites. We do not accept any responsibility or liability for the privacy practices of such "third party" sites and your use of such sites is at your own risk.
+
+ **What if I am a non-U.S. user?**
+
+If you are located outside of the United States, please note that the information you provide to us will be collected, maintained, processed and transferred in and to the United States and other countries and territories. By using this Site, you consent thereto. You also consent to the adjudication of any disputes arising in connection with this Site in the federal and state courts of, and in accordance with the laws of, the state of Florida.
+
+ **What happens to your information if there is a corporate change of control?**
+
+In the event that WKMG, any entity of WKMG, or a significant portion of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on the Site may be one of the transferred assets.
+
+ **What about changes to this Privacy Policy?**
+
+We reserve the right, in our sole discretion, to modify, alter or otherwise update this Privacy Policy at any time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.
+
+ **How can you ask questions or contact us?**
+
+If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@grahammedia.com).
+
+ **Effective: June 15, 2010**
