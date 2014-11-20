@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404050226id_/http%3A//www.roberthalf.com/officeteam/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044728id_/http%3A//www.roberthalf.com/officeteam/PrivacyPolicy) for the most accurate reproduction.*
 
-# OfficeTeam - Privacy Policy
+# Privacy Policy | OfficeTeam
 
 Officeteam Website Privacy Policy  
 ---  
