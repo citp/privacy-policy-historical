@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsbiggestchat.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127053111id_/http%3A//www.worldsbiggestchat.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbiggestchat.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120150903id_/http%3A//chat.lycos.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Noesis Chat - Worldsbiggestchat - The coolest free chat in the world!
+# Privacy Policy
 
 ### What information do we collect?
 
@@ -29,7 +29,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ### How do we protect your information? 
 
-Noesis Systems Ltd works with secure data networks protected by both industry-standard firewalls and by passwords. We use security measures in order to guarantee that your details are protected against loss, changes or misuse. 
+The Chat works with secure data networks protected by both industry-standard firewalls and by passwords. We use security measures in order to guarantee that your details are protected against loss, changes or misuse. 
 
 Only selected employees have access to the information you send to us. Those employees who come into contact with your personal details are bound in writing before starting their activities to observe the confidentiality of data. We do everything we possibly can, in organisational and technical terms, to protect your details.
 
@@ -53,7 +53,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.worldsbiggestchat.com/terms.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [/terms.aspx](https://web.archive.org/terms.aspx)
 
 ### Your Consent 
 
