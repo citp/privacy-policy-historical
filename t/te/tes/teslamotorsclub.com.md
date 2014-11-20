@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslamotorsclub.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091021id_/http%3A//www.teslamotorsclub.com/showthread.php/18250-Privacy-Policy%3Fp%3D370273%26viewfull%3D1%23post370273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslamotorsclub.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094456id_/http%3A//www.teslamotorsclub.com/showthread.php/18250-Privacy-Policy%3Fp%3D370273%26viewfull%3D1%23post370273) for the most accurate reproduction.*
 
 # Privacy Policy
 
