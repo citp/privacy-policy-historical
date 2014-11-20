@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurujobalert.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003915id_/http%3A//www.gurujobalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurujobalert.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131031id_/http%3A//www.gurujobalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guru Job Alert : Recruitment 2014 Notifications Admit cards Results
 
