@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093426id_/http%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104924id_/http%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | DiscoverOrg- IT Org Charts, IT Sales Leads
 
