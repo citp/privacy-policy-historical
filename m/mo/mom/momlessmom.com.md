@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momlessmom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122106id_/http%3A//momlessmom.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momlessmom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124020id_/http%3A//momlessmom.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Parenting | Life Style | Reviews
 
@@ -12,11 +12,11 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
  Any of the information we collect from you may be used in one of the following ways:
 
-1\.  To personalize your experience - your information helps us to better respond to your individual needs.
+1\.  To personalize your experience – your information helps us to better respond to your individual needs.
 
  2\.  To improve our website -we continually strive to improve our website offerings based on the information and feedback we  receive from you
 
-3\. To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs
+3\. To improve customer service – your information helps us to more effectively respond to your customer service requests and support needs
 
  4\. To administer a contest, promotion, survey or other site feature
 
