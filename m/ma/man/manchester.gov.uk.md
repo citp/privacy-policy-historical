@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235223id_/http%3A//www.manchester.gov.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110821id_/http%3A//www.manchester.gov.uk/cookies) for the most accurate reproduction.*
 
 # Website privacy statement | Website privacy statement | Manchester City Council
 
@@ -30,7 +30,13 @@ We may occasionally request proof of identity before we give you personal inform
 
 Please protect against unauthorised access to your passwords and to your computer or mobile device. You should always log out of secure sites – especially when you use a shared computer. 
 
-We aim to have a secure and reliable website, and use appropriate security technology to protect any sensitive personal data we process about you. But your use of the internet, and this website, is entirely at your own risk. We have no responsibility or liability for the security of personal information transmitted over the internet. 
+We aim to have a secure and reliable website, and use appropriate security technology to protect any sensitive personal data we process about you. But your use of the internet, and this website, is entirely at your own risk. We have no responsibility or liability for the security of personal information transmitted over the internet.
+
+We sometimes send emails that include personal and private information. The only person who should see an email like this is the person it’s meant for. 
+
+So we give the email an extra level of security. It’s called an ‘encrypted’ email. 
+
+To read an encrypted email from us, you first need to set up an account through ‘Egress’ – a specialist organisation used by lots of councils, government departments and private companies to keep information secure. [See how to read a secure email from us](http://www.manchester.gov.uk/info/200031/data_protection_and_freedom_of_information/6563/how_to_read_a_secure_email_from_us).
 
 ### Other organisations
 
