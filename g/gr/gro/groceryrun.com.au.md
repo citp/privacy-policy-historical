@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622124834id_/http%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120142109id_/http%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
 
 # Groceries online | Online Grocery Store | GroceryRun.com.au
 
