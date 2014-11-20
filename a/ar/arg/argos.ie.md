@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620111418id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174710id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Argos - www.argos.ie
 
