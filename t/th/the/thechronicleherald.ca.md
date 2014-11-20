@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095651id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115512id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chronicle Herald
+
+  * Introduction
+  * Customer Personal Information Defined
+  * Ten principles of Fair Information Practices
+  * Use of Personal Information
+  * Disclosure of Personal Information
+  * Retention of Personal Information
+  * Destruction of Personal Information
+  * Access to Personal Information
+  * Collection and Use of Cookies
+
+
 
 ###  Introduction
 
@@ -175,3 +187,17 @@ The customer shall be provided with the name, title and address of the person ac
 All complaints shall be investigated and the customer will be advised of the outcome. If a complaint is justified, The Chronicle Herald shall take appropriate steps to resolve the complaint including but not limited to amendment of The Chronicle Heralds policies and procedures.
 
 In the event the complaint is not resolved to the customer's satisfaction, the customer may have recourse to additional remedies through the Office of the Privacy Commissioner of Canada, 112 Kent Street, Place de Ville, Tower B, 3rd Floor, Ottawa, Ontario, K1A 1H3, or toll-free at 1.800.282.1376, [www.privcom.gc.ca](http://www.privcom.gc.ca/).
+
+###  Collection and Use of Cookies
+
+A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to the user's web browser from a website's computers and is stored on the user's computer's hard drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.
+
+The Chronicle Herald may use cookies to:
+
+  * improve the operation and performance of the thechronicleherald.ca and to make thechronicleherald.ca easier and more convenient to use. For example, cookies help The Chronicle Herald to provide more personalized services by recalling user preferences on subsequent visits (e.g. relevant advertising). Cookies also allow The Chronicle Herald to save passwords and preferences for a user so that the user will not have to re-enter them on the next visit to a thechronicleherald.ca;
+  * measure aggregate user traffic and demographic statistics related to The Chronicle Herald and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps The Chronicle Herald to better understand when to update, change or offer new services and provides The Chronicle Herald with details as to the performance of Third Party advertisements and content. This information may be reported, in aggregate form only, to The Chronicle Herald’s current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports;
+  * display advertisements. The Chronicle Herald and Third Party advertising providers may use cookies when serving advertisements on thechronicleherald.ca. Anonymous data based on cookies and user IP Addresses may be used to deliver advertisements that are likely to be of interest to the applicable users ("Interest-based Advertising"). In some cases, advertisements from Third Party advertisers are delivered to users (in conjunction with The Chronicle Herald) by such Third Party advertisers, or by separately contracted advertising providers on their behalf, and not by The Chronicle Herald; as such, the Third-party advertisers' use of cookies is subject to their own privacy policies, not that of The Chronicle Herald, and users should consult the privacy policies of such Third Party advertisers.
+
+
+
+Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her browser either to notify the user when the user has received a cookie, or to refuse to accept cookies. The user should understand that while The Chronicle Herald does not require a user to use cookies, certain aspects of thechronicleherald.ca will not function properly if a user sets his/her browser to not accept cookies. To opt-out of Interest Based advertising by Lotame Solutions Inc., a Third Party provider of services to The Chronicle Herald, [click here.](http://www.lotame.com/opt-out-preference-manager)
