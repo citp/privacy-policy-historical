@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the picreel.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526181541id_/http%3A//www.picreel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picreel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131605id_/http%3A//www.picreel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picreel.com
+
+## Privacy Policy
 
 Picreel Privacy Policy
 
