@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socividz.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531081953id_/http%3A//socividz.com/privicypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socividz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060354id_/http%3A//socividz.com/privicypolicy.html) for the most accurate reproduction.*
 
-# SociVidz JV
+# SociVidz
 
 **PRIVACY POLICY**
 
@@ -34,7 +34,9 @@ SociVidz.com does not knowingly collect or solicit Personally Identifiable Infor
 
 Changes to this Policy
 
-SociVidz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.  
+SociVidz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+  
 Disclaimer - Compensation and Affiliate
 
 The purpose of this section is to establish any compensatory affiliation with numerous companies whose products are being promoted on this site.
@@ -55,7 +57,9 @@ Since these factors differ according to individuals, we cannot guarantee your su
 
 Materials in the product and on our website may contain information that includes or is based upon forward-looking statements within the meaning of the Securities Litigation Reform Act of 1995. Forward-Looking Statements give our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. Such Forward Looking Statements use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” and other such words and terms of similar meaning in connection with a description of potential earnings or financial performance. Your Results May Vary from ours and those of anyone else who is, or will be using these products, techniques, and/or services.
 
-Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential not actual earnings expected. Many factors will be important in determining your actual results and no guarantees are made, expressed or implied that you will achieve results similar to ours or anybody else’s. In fact no guarantees are made that you will achieve any results from our ideas and techniques in our material at all. All materials on this site are © copyrighted by SociVidz.com. No part of this may be copied, or changed in any format, sold, or used in any way, online or offline, other than what is outlined within this site, under any circumstances without express permission from SociVidz.com  
+Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential not actual earnings expected. Many factors will be important in determining your actual results and no guarantees are made, expressed or implied that you will achieve results similar to ours or anybody else’s. In fact no guarantees are made that you will achieve any results from our ideas and techniques in our material at all. All materials on this site are © copyrighted by SociVidz.com. No part of this may be copied, or changed in any format, sold, or used in any way, online or offline, other than what is outlined within this site, under any circumstances without express permission from SociVidz.com
+
+  
 DMCA Disclaimer
 
 SociVidz.com respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please follow our Notice and Procedures for Making Claims of Copyright Infringement below.
