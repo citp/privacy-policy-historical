@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121307id_/http%3A//www.americanfidelity.com/about-afa/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120172023id_/http%3A//www.americanfidelity.com/about-afa/privacy-policy.aspx) for the most accurate reproduction.*
 
 # American Fidelity Assurance Company: Privacy Policy
 
