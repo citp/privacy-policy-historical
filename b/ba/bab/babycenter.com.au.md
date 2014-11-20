@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612200634id_/http%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045134id_/http%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BabyCenter
 
@@ -24,7 +24,7 @@ Some areas of this site may ask you to submit personally identifiable informatio
 
 As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies. 
 
-This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalize offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please click here. 
+This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalize offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please click [here](https://web.archive.org/e1001111/passive-information-collection). 
 
 ## Use and Disclosure of Information
 
@@ -38,7 +38,7 @@ If you provide personally identifiable information to this site, we may combine 
 
 One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.doubleclick.net/us/about_doubleclick/privacy). 
 
-BabyCenter also contracts with an analytics company, to measure: how visitors use our site, which offers visitors find of interest, and other visitor activities. To do this, BabyCenter uses cookies and "Internet tags" (beacons) provided by a analytics company. The types of information we collect include: pages you have visited, purchases you have made, and paths taken through the site. By supplementing our records with such information, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. While the analytics company logs information coming from our site, BabyCenter retains full ownership of data stored by the analytics company, and controls how that data may and may not be used. If you do not want to have your information collected by the analytics company as described herein, you can "opt-out" of the analytical tool by clicking [here](http://www.omniture.com/privacy/optout.html). 
+BabyCenter also contracts with an analytics company, to measure: how visitors use our site, which offers visitors find of interest, and other visitor activities. To do this, BabyCenter uses cookies and "Internet tags" (beacons) provided by a analytics company. The types of information we collect include: pages you have visited, purchases you have made, and paths taken through the site. By supplementing our records with such information, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. While the analytics company logs information coming from our site, BabyCenter retains full ownership of data stored by the analytics company, and controls how that data may and may not be used. If you do not want to have your information collected by the analytics company as described herein, you can "opt-out" of the analytical tool by clicking [here](http://www.adobe.com/privacy/opt-out.html#4). 
 
 (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 
@@ -62,7 +62,7 @@ This site takes reasonable steps to protect personally identifiable information 
 
 This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit. 
 
-BabyCenter Australia frequently provides links to articles and other web pages at BabyCentre UK. BabyCentre UK is also owned and operated by BabyCenter, L.L.C. Please read the [BabyCenter UK privacy policy](http://www.babycentre.co.uk/link.jhtml?site=au&id=7814) for more information. 
+BabyCenter Australia frequently provides links to articles and other web pages at BabyCentre UK. BabyCentre UK is also owned and operated by BabyCenter, L.L.C. Please read the [BabyCenter UK privacy policy](http://www.babycentre.co.uk/e7814) for more information. 
 
 ## How to Contact Us
 
@@ -88,3 +88,5 @@ U.S.A.
 ## Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on September 20, 2005. 
+
+Last reviewed: September 2014
