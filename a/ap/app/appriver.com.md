@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306122435id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164312id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
@@ -193,7 +193,7 @@ _Consent_
 
 ## VI. Email Information:
 
-We may use and disclose your Email Information as foll ows:
+We may use and disclose your Email Information as follows:
 
 A. 
 
