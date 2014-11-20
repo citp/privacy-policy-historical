@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the yourinvestmentpropertymag.com.au privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630203745id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourinvestmentpropertymag.com.au privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120131758id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><title>
-	Privacy | Your Investment Property
+	Privacy | Your Investment Property Australia
 </title>
-        <link href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.min.css" rel="stylesheet">
-        <link href="/styles/default.css" rel="stylesheet">
+        <link href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.min.css" rel="stylesheet">
+        <link href="/styles/default.min.css?v=AQxnEhATdRD85vQ2z8cMmElOny4crAu-yDc-3lJ5cpM1" rel="stylesheet">
 
         <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico">
         <link href="https://plus.google.com/+YourinvestmentpropertymagAu" rel="publisher">
         <script type="text/javascript" async="" src="//c.supert.ag/key-media/your-investment-prop/supertag-async.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/5896.js?438995" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LBVB"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-        <script src="//code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
-        <script src="/scripts/address.js"></script>
-<link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - News" href="/rss/news/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Investment Strategies" href="/rss/investment-strategies/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Market Report" href="/rss/market-reports/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Top Suburb" href="/rss/top-suburbs/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Q&amp;A" href="/rss/property-investment-qna/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Videos" href="/rss/video/">
+        <script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+        <script src="/scripts/address.min.js?v=Yu8Ue96HsGFbdiusVvhdRdrT9vPXVnMjyrDNGenhMyQ1"></script>
+<link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - News" href="/rss/news/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Investment Strategies" href="/rss/investment-strategies/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Success Stories" href="/rss/success-stories/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Market Report" href="/rss/market-reports/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Top Suburb" href="/rss/top-suburbs/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Q&amp;A" href="/rss/property-investment-qna/"><link rel="alternate" type="application/rss+xml" title="Your Investment Property RSS - Videos" href="/rss/video/">
     <script>
         window.___gcfg = { lang: 'en-GB' };
 
@@ -23,11 +23,11 @@
         })();
     </script>
     
-    <link href="/styles/subhome.css" rel="stylesheet">
+    <link href="/styles/subhome.min.css?v=0khSb1bmm30Q98AARgSC3vawPONxkVxK3VroCQMjRt41" rel="stylesheet">
 
-    <link href="/styles/sub.css" rel="stylesheet">
+    <link href="/styles/sub.min.css?v=BAU2f53MPyTFsD3BfCvQfg0YHCec7BO72Zx-nvQ-Bi01" rel="stylesheet">
 
-    <script src="/scripts/fontsize.js"></script>
+    <script src="/scripts/fontsize.min.js?v=hk1g8GnXPHkOXBj9VhqRLmc_orRWCONg9YFjQq6fLKU1"></script>
 
 
     <script>
@@ -62,18 +62,36 @@
                                              {
                                                 if(!event.isEmpty)
                                                 {
-                                                    if ($.cookie('MainModalFreeDownload') != '1' && 0 != '1') {
-                                                        $('.popup_wrapper.freedownload').center().show();
-                                                        $('.overlay, .btn_close').show();
+                                                   if(!location.pathname.startsWith('/top-suburbs/'))
+                                                    {
+                                                        if ($.cookie('MainModalFreeDownload') != '1' && 0 != '1') {
+                                                            $('.popup_wrapper.freedownload').BannerCenter().show();
+                                                            $('.overlay, .btn_close').show();
 
-                                                        $('.overlay, .btn_close').click(function () {
-                                                            $.cookie('MainModalFreeDownload', '1', { expires: 14, secure: false, path: '/' });
+                                                            $('.overlay, .btn_close').click(function () {
+                                                                $.cookie('MainModalFreeDownload', '1', { expires: 14, secure: false, path: '/' });
+                                                                $('.overlay').hide();
+                                                                $('.popup_wrapper.freedownload').hide();
+                                                            });
+                                                        }else{
                                                             $('.overlay').hide();
                                                             $('.popup_wrapper.freedownload').hide();
-                                                        });
-                                                    }else{
-                                                        $('.overlay').hide();
-                                                        $('.popup_wrapper.freedownload').hide();
+                                                        }
+                                                    }else
+                                                    {
+                                                        if ($.cookie('MainModalFreeDownload_Topsuburbs') != '1' && 0 != '1') {
+                                                            $('.popup_wrapper.freedownload').BannerCenter().show();
+                                                            $('.overlay, .btn_close').show();
+
+                                                            $('.overlay, .btn_close').click(function () {
+                                                                $.cookie('MainModalFreeDownload_Topsuburbs', '1', { expires: 1, secure: false, path: '/' });
+                                                                $('.overlay').hide();
+                                                                $('.popup_wrapper.freedownload').hide();
+                                                            });
+                                                        }else{
+                                                            $('.overlay').hide();
+                                                            $('.popup_wrapper.freedownload').hide();
+                                                        }
                                                     }
                                                  }
                                              }
@@ -81,7 +99,13 @@
                                             googletag.enableServices();
                                           });
 
-                                        jQuery.fn.center = function () {
+                                        if (typeof String.prototype.startsWith != 'function') {
+                                          String.prototype.startsWith = function (str){
+                                            return this.indexOf(str) == 0;
+                                          };
+                                        }
+
+                                        jQuery.fn.BannerCenter = function () {
                                             this.css('position', 'absolute');
                                             this.css('z-index', '50000');
                                             this.css('width', '660');
@@ -109,12 +133,12 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <!-- End Google Tag Manager -->
     <form method="post" action="/privacy/" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="eS7U5v1cd7sP/oXlFvmp7t7LWsEDONycxNgULLIt3jkFT1wOWwv6IkvbwFbRVZA22Ixju9DCq2lrQzpbOWZWnSaF2FDudMTBjRd9TCJwI5mrga56uTUVzyq/hfSFKqAM4RmImNyoFSbv5s/kjDRUf++4YR1XKrjmbYfAOnPpBQ1P+XsKUy3+dEUdSV8iFDW+4v+rjtm11px9en5RL0a8lzxJwvuzDT0MqxNZT+0jWEOSXd9uIxf2W7qlPNl9M56/xOGrNn/yIHT1uoryy/N5zFrQQBzB6snWFIsHaas/l21cGCojC9tfYlvClm29JeZx0iSSQHHE5wNkEzUK1gL7egYs0tD9YgVYIN5sngtdL7QZXcZHCZLsXGeZwkbR9WpeYmDoeqT7vZDPnyQ6EqUwYS28goxYyw5cFkAnm/zdp+e3U5x4eBV12qutEeC1QCDl2FxCmyiu8k5dQp6fZpqeyRml9plz873HwtGwXPt0PpWfbG47RNXKzNtMyP8qLexApHcZbhTnUPS5H3lmanHQ3RVETOFgSS3xFnCR3OKTVUNOTzTem2LymAhaS6KEuqQwsa5i1sKf1KbsiqkwLmdHej0UGYpVN9oCOytC0V0v2dir0jiPyEwLDqlrWjlxxlmJNf3JAg53OM61x2NEBXS+EmCqLjKsbsreiZAXBemJIP29HwwkooYEWLdrcanFnXD8S6Gv5A==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="B74ezGtEaIKI6aMM6jaKA+YIH+PKTeZ8EaMX6diA3iH7ITHnZ9djDzALpkilMtaTfxL0uoxXPHRv7jrwKZ85JqVXBOyo0wBradMCpJw5FyhDwhEZSC1tnMZZ5x/x+d8o6huJKdAQ8GEY2boNsK0uDLd9wNNjxQaRu+itKPjjPVO7Olur45UJZdprk+qPGroO4HQLLf3RJifpcDVQpbFSlR7+Ux63hUrqobSza/NxIMCtPXdeTLCyqkpSWVHFvER8VpbtTsQMOpUom9F6D4rXE4g0YtE8KTA9Hh/2Y6lcRnDA+m44kH5Ka4hDQHh+bElSDRmzFyiTkaop+2Hnu9uKl5FUS7c/IfWhylAmMloumN4mFTAFHfMVH9Q8B57BsYSOn0oZozqN1B/iaGagKxfqJ9jFzhC7WFz99mUX6GCZZAJOaznHkswu54V9LeRpqgHKlWOx3dWuy0FX5lFP9R2zEaiOzmHPzk/uW8j4pFy5ZQxk0IlDgAKfJGPM83qZX93RNfrwvbiKKmEy3Ls0iofze9JbCCd1CPmuFE9iot4sFqr/ZU0AZ41U39Kroesvnwg0UJPCC/czj1sye97WsTuYj7tM1RRPoUHaAj/h4MPTHgZsu2mz97zfw54cGf+dzQfoEaEzrXwjWsdBZWAKKaLhzzZGwhFFA6ME3C0NhoN9zgtrekrXNH1bxRubezk4lojl7ED7tQ==">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="xnOEieFAU5qyyYU1fVWdwk87x853Lz8yuAMDp+2dwcO8wJFsD6qN2opiK36uKMK44LrQf8oUZsiL1yc3+vjCh6Z5rUJ2UhjmMU5h6+5cCXccyOgY4ia/PfpLdt9zqZWnFNlb3FByfGrahSw5sOd88xRL4j855DnlF4/RYMHKE8dwwc6J">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="R2qJWXhlFRlSwuxtxJT4hcsSwrsszyl02UIeOI2vjs5qClyzrxA4meGPA8baNcEarLRVAefE8dehHVjn8qmUpOmjXxjFRooTMKAWJZuUVf5QgYlz7bGq/KZUqaqNvif5XeQrj3eoilmRKcLOFt5qvXuH/72tiwThWA1imwD7V6yujbqQ">
 </div>
     
     <div id="wrapper">
@@ -134,7 +158,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 </div>
                 </div>
                 <div class="img_thisissue">
-                    <img src="/files/image/keymedia.com.au/Publication/YIP84.jpg" alt="this issue">
+                    <img src="/files/image/keymedia.com.au/Publication/YIP89.jpg" alt="this issue">
                     <div class="theme_container">
                         <div class="theme">
                             Hot spots, market news and<br>
@@ -290,7 +314,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             
         </div>
         <div id="container">
-            <script src="/scripts/jquery.cookie.js"></script>
+            <script src="/scripts/jquery.cookie.min.js?v=twRY9-SNJ78OVr2STmKX2VNFCTfWZVX3LF7j4a2LcBQ1"></script>
 
 <div class="overlay">
 </div>
@@ -379,7 +403,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <div id="ContentPlaceHolder1_FreeSuburbReports1_Panel1" class="search_box">
 	
         <div class="title">
-            Free suburb reports<a href="/top-suburbs/">View all suburbs</a></div>
+            Free suburb reports<a href="/top-suburbs/">View all suburbs</a>
+        </div>
         <div class="error_outer">
             
             
@@ -411,7 +436,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                         <img src="/images/socialicon_reddit.png" alt="reddit"></a>
                     <g:plusone annotation="none"></g:plusone>
                 </div>
-                <script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e716ace0a0dd983"></script>
+                <script src="//s7.addthis.com/js/300/addthis_widget.js"></script>
                 <div id="fb-root">
                 </div>
                 <script>                    (function (d, s, id) {
@@ -437,35 +462,34 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             
                     <li>
                         <div class="news_title">
-                            <a href="/forum/looking-to-start-out-179639.aspx">
-                                Looking to start out</a>
+                            <a href="/forum/the-dos-and-donts-of-smsf-3592.aspx">
+                                The do's and don'ts of SMSF</a>
                         </div>
-                        <p>
-                            Hi, Im 30yrs old, dont own a home, currently on the high income tax bracket and  ...
-                            <a href="/forum/looking-to-start-out-179639.aspx" class="readmore">
+                        
+                        <p>A very timely article!  I am an SMSF auditor and see trustees with the best of i ...
+                            <a href="/forum/the-dos-and-donts-of-smsf-3592.aspx" class="readmore">
                                 read more</a>
                     </p></li>
                 
                     <li>
                         <div class="news_title">
-                            <a href="/forum/best-bet-for-queensland-investment-181545.aspx">
-                                Best bet for Queensland investment?</a>
+                            <a href="/forum/website-selling-ocean-view-homes-for-3000-3591.aspx">
+                                Website selling ‘ocean view homes’ for $ ...</a>
                         </div>
-                        <p>
-                            Hello,
-We are looking to invest in our first ever property..so doing it with tr ...
-                            <a href="/forum/best-bet-for-queensland-investment-181545.aspx" class="readmore">
+                        
+                        <p>I don't really understand the point of this campaign? Is it supposed to make us  ...
+                            <a href="/forum/website-selling-ocean-view-homes-for-3000-3591.aspx" class="readmore">
                                 read more</a>
                     </p></li>
                 
                     <li>
                         <div class="news_title">
-                            <a href="/forum/1st-investment-property-i-need-help-179046.aspx">
-                                1st investment property i need help</a>
+                            <a href="/forum/the-dark-side-of-property-investing-2939.aspx">
+                                The dark side of property investing</a>
                         </div>
-                        <p>
-                            Hello im 22 years old and am wanting to buy my first investment property. I curr ...
-                            <a href="/forum/1st-investment-property-i-need-help-179046.aspx" class="readmore">
+                        
+                        <p>Anyone interested in more information on Kevin Young (previously known as Kevin  ...
+                            <a href="/forum/the-dark-side-of-property-investing-2939.aspx" class="readmore">
                                 read more</a>
                     </p></li>
                 
@@ -489,16 +513,10 @@ We are looking to invest in our first ever property..so doing it with tr ...
             <ul>
                 
             <li>
-                <a href="http://www.allianz.com.au/landlord-insurance/ " target="_blank" rel="nofollow">
+                <a href="http://tracker.keymedia.com.au/?id=128&amp;url=http://www.allianz.com.au/landlord-insurance/ " target="_blank" rel="nofollow">
                     <img src="/files/image/Allianz_logo20x20.JPG" alt="Allianz Landlord Insurance"></a> 
-                <a href="http://www.allianz.com.au/landlord-insurance/ " target="_blank" rel="nofollow">
+                <a href="http://tracker.keymedia.com.au/?id=128&amp;url=http://www.allianz.com.au/landlord-insurance/ " target="_blank" rel="nofollow">
                     Allianz Landlord Insurance</a> </li>
-        
-            <li>
-                <a href="http://www.homebuyershow.com.au/sydney/visitor " target="_blank" rel="nofollow">
-                    <img src="/files/image/hb-orange.jpg" alt="FREE Tickets. Code = YIP"></a> 
-                <a href="http://www.homebuyershow.com.au/sydney/visitor " target="_blank" rel="nofollow">
-                    FREE Tickets. Code = YIP</a> </li>
         
             </ul>
         
@@ -525,15 +543,15 @@ We are looking to invest in our first ever property..so doing it with tr ...
         <div class="top3suburb">
             
                     <ul>
-                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_0"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_0" href="/top-suburbs/qld-4852-mission-beach.aspx"><span class="suburb">MISSION BEACH(U)</span><span class="state">QLD</span><span class="rate growup">24.68 %</span> </a></li>
+                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_0"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_0" href="/top-suburbs/nsw-2020-mascot.aspx"><span class="suburb">MASCOT(U)</span><span class="state">NSW</span><span class="rate growup">29.86 %</span> </a></li>
                 
-                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_1"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_1" href="/top-suburbs/vic-3956-venus-bay.aspx"><span class="suburb">VENUS BAY(H)</span><span class="state">VIC</span><span class="rate growup">19.10 %</span> </a></li>
+                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_1"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_1" href="/top-suburbs/vic-3956-venus-bay.aspx"><span class="suburb">VENUS BAY(H)</span><span class="state">VIC</span><span class="rate growup">18.83 %</span> </a></li>
                 
-                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_2"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_2" href="/top-suburbs/nsw-2257-killcare.aspx"><span class="suburb">KILLCARE(H)</span><span class="state">NSW</span><span class="rate growup">15.60 %</span> </a></li>
+                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_2"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_2" href="/top-suburbs/vic-3996-inverloch.aspx"><span class="suburb">INVERLOCH(U)</span><span class="state">VIC</span><span class="rate growup">18.20 %</span> </a></li>
                 
-                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_3"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_3" href="/top-suburbs/nt-0832-johnston.aspx"><span class="suburb">JOHNSTON(H)</span><span class="state">NT</span><span class="rate growup">15.38 %</span> </a></li>
+                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_3"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_3" href="/top-suburbs/nsw-2257-killcare.aspx"><span class="suburb">KILLCARE(H)</span><span class="state">NSW</span><span class="rate growup">15.06 %</span> </a></li>
                 
-                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_4"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_4" href="/top-suburbs/sa-5276-robe.aspx"><span class="suburb">ROBE(H)</span><span class="state">SA</span><span class="rate growup">13.47 %</span> </a></li>
+                    <li id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_Li1_4"><a id="ContentPlaceHolder1_TopSuburbLinks_lvHotSurburb_hlSuburb_4" href="/top-suburbs/sa-5276-robe.aspx"><span class="suburb">ROBE(H)</span><span class="state">SA</span><span class="rate growup">13.36 %</span> </a></li>
                 </ul>
                 
             <span>By rental yield</span>
@@ -596,6 +614,9 @@ We are looking to invest in our first ever property..so doing it with tr ...
                             <li><a href="http://www.keymedia.com.au/" target="_blank">
                                 Key Media</a></li>
                         
+                            <li><a href="http://www.yourmortgage.com.au/calculators/" target="_blank">
+                                Your Mortgage Calculator</a></li>
+                        
                             <li><a href="http://www.canadianrealestatemagazine.ca/" target="_blank">
                                 Canadian Real Estate Wealth</a></li>
                         
@@ -604,9 +625,6 @@ We are looking to invest in our first ever property..so doing it with tr ...
                         
                             <li><a href="http://www.yourmortgage.com.au/" target="_blank">
                                 Your Mortgage</a></li>
-                        
-                            <li><a href="http://www.yourmortgage.com.au/calculators/" target="_blank">
-                                Your Mortgage Calculator</a></li>
                         
                 </ul>
                 <span class="copyright">Copyright © 1996-2014
