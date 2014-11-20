@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142419id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132740id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
