@@ -1,54 +1,60 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604181110id_/http%3A//www.whitman.edu/pieces/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120113735id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Website Privacy Policy | Whitman College
 
-Whitman College respects the privacy of prospective students, parents, current students, faculty, staff, alumni, and other individuals who use our web site. This statement addresses collection, use, security of, and access to information that may be obtained through use of www.whitman.edu. This notice covers the following topics: 
+## Scope
 
-  * Web privacy advocates at Whitman
-  * Information collection and use
-  * Cookies
-  * Log files
-  * Sharing
-  * Links
-  * Surveys
-  * Security
-  * Correcting or updating personal information
-  * How to contact us with questions or comments
+This Website Privacy Policy applies to all public web pages on Whitman College's website at www.whitman.edu.
+
+## Purpose
+
+Whitman College created this policy as part of its commitment to maintain the privacy of users of the Whitman College's website. The policy has two purposes:
+
+  1. To inform users and Whitman's content creators about Whitman Colleges' privacy guidelines.
+  2. To notify users about the terms and conditions governing use of the Whitman College website.
 
 
 
-**Web privacy advocates**  
-Whitman College is dedicated to fair information practices on this internet site and periodically reviews and revises its privacy practices. If you have questions or concerns about this privacy statement or Whitman's privacy practices, please contact the [Office of Communication](mailto:communication@whitman.edu). 
+## Online Surveys and Other Information Provided by the User
 
-**Information collection and use**  
-Whitman College is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Information may be collected for admission application deposits, online admission applications, address updates, bookstore ordering information, online gifts to the college, topical surveys, and for other uses relevant to the College and its constituencies.
+While viewing pages on www.whitman.edu, a user may choose to provide information to help Whitman College serve that user's needs or conduct research. Person(s) responsible for creating forms that collect personal information should clearly state the extent to which the information a user provides will be shared. Aggregate data from forms may be shared with external third parties in ways that do not compromise privacy.
 
-**Cookies**  
-A cookie is a piece of information placed on the user's hard drive by a web site containing information about the user or the user's selections on a web page. Unlike many commercial sites, usage of a cookie on our web site is in no way linked to any personally identifiable information after you leave our site. Once users close their browsers, the cookie simply terminates. By setting a cookie on our site, the user does not have to log in a password more than once, thereby saving time while on our site. Users may set cookie security levels to accept or reject cookies by configuring their browser software appropriately. 
+## Rules on Sharing of Information
 
-**Log files**  
-We use internet protocol (IP) addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. (An IP address is a 32-bit number that identifies each sender or receiver of information and is sent in packets across the Internet. See [Wikipedia](http://en.wikipedia.org/wiki/Ip_address) for further information.) IP addresses are not linked to personally identifiable information. Certain addresses are also provided access to campus-only intranet materials. 
+Whitman College uses www.whitman.edu for business purposes and is committed to ensuring the privacy of personal information. Use of the site is subject to all applicable state and federal laws and Whitman College policies. It is Whitman College's usual practice not to share any personal information entered into web forms (e.g. email addresses, names, phone numbers, etc.) with those outside Whitman College. However, when circumstances arise for the need to share information, Whitman College may share:
 
-**Sharing of information**  
-We use outside shipping companies to deliver bookstore orders, and credit card processing companies to bill users for goods and services. 
+  * as authorized by law,
+  * as permitted under Whitman College's policies,
+  * if clearly stated on a web page that information the user enters will be shared and the user indicates consent by providing the information,
+  * if consent is otherwise given
 
-**Links**  
-This web site contains links to other sites. Please be aware that Whitman College is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the whitman.edu web site. 
 
-**Surveys**  
-From time to time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to provide this information. Information requested may include contact information (such as name and address), demographic information (such as zip code, age level), in addition to other information collection relevant to the College and its academic programs.
 
-**Security**  
-This web site uses a variety of precautions to protect our users' information. When users submit sensitive information via the web site, that information is protected both online and off-line.
+## Rules for Individuals under Thirteen Years of Age
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or Whitman ID), that information is encrypted when using the hypertext secure server mode (https). While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, when you are just "surfing." To learn more about SSL, read [Verisign's Overview of SSL](http://www.verisign.com/clientauth/kit/details.html#sslover). 
+Whitman College is committed to complying fully with the Children's Online Privacy Protection Act. Accordingly, any user of the Whitman College Web that is under the age of thirteen may not provide Whitman College with personal information, and Whitman College will not use any such information in its database or other data collection activities. Users under the age of thirteen and their parents or guardians are cautioned that the collection of personal information volunteered by unauthorized children online or by e-mail will be treated the same as information given by an adult until Whitman College becomes aware that the user is under the age of thirteen and such information may be subject to public access.
 
-While we use secure socket layer encryption (SSL) to protect sensitive information online, we also protect user-information off-line. Our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a bookstore service representative) are granted access to personally identifiable information. Additionally, the servers that store personally identifiable information are kept in a secure environment.
+## Information Whitman College Gathers
 
-If you have any questions about the security at our web site, you can send an email to [webteam@whitman.edu](mailto:webteam@whitman.edu).
+Whitman College gathers information about computers or devices used to access www.whitman.edu and about general activity on the site such as the following:
 
-**Correcting or updating personal information**  
-If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
+  * Internet address of computer or device
+  * Type of browser or other client application used
+  * The operating system of the computer or device
+  * Web pages requested
+  * Referring pages
+  * Time spent on the site
 
-**How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/content/communications/web/contact) or through the [Office of Communication](mailto:communication@whitman.edu). 
+
+
+Summary reports containing this information may be shared with website content managers and other Whitman College employees. Whitman College uses this information in aggregate to understand what pages are popular and how users are navigating to and within the site.
+
+## Cookies and Login Security
+
+Cookies are small pieces of data stored by a browser on a computer. Cookies are often used to retain information about preferences and pages a user has visited. You can disable cookies, remove cookies from your hard drive, and refuse to accept cookies.
+
+Whitman College makes use of demographic information gathered through Google Analytics, through the use of their Demographics & Interests reports, to gain a deeper understanding of the visitors to the website so we can cater content to them while also tracking our success at reaching new visitors.  In addition, as you browse Whitman College's website, advertising cookies may be placed on your computer so that we can understand what you are interested in.  Our display advertising partners then enable us to present you with [retargeting advertising](http://en.wikipedia.org/wiki/Behavioral_retargeting) on other sites based on your previous interaction with our website. The techniques our partners employ do not use personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of targeted advertising.
+
+## Questions
+
+If you have questions about this privacy notice or believes that your personal information has been released without consent, please send an email to [itso@whitman.edu](mailto:itso@whitman.edu).
