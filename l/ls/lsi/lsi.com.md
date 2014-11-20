@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsi.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133236id_/http%3A//www.lsi.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsi.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003534id_/http%3A//www.lsi.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,9 +34,9 @@ Cookies are small text files that are placed on your computer by websites that y
 
 The table below explains the cookies we use and why.
 
-​
+​ 
 
-Cookie  | Name  | Purpose  | More information   
+| Cookie  | Name  | Purpose  | More information   
 ---|---|---|---  
 Google® Analytics  | _utma  
 _utmb  
