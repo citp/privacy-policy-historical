@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122443id_/http%3A//www.softsurroundingsoutlet.com/FAQ/Customer_Care/Privacy_Policy_%26_Terms_of_Use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115335id_/http%3A//www.softsurroundingsoutlet.com/FAQ/Customer_Care/Privacy_Policy_%26_Terms_of_Use) for the most accurate reproduction.*
 
 # Soft Surroundings - Customer Care - Privacy Policy & Terms Of Use'
 
@@ -15,7 +15,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 **Information We Collect**  
 We may collect the following information: first and last name, street address, city, telephone number, e-mail address and, when necessary, credit card information, when you: 
@@ -57,7 +57,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
@@ -69,7 +69,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundingsoutlet.com/FAQ/E-mail/Unsubscribe_from_E-mail/) or contact us at:
 
@@ -78,7 +78,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
@@ -87,7 +87,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If you continue to receive our communications, please contact us again and we will make every effort to correct the situation.
 
@@ -116,7 +116,7 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
 
 A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.
 
@@ -139,4 +139,4 @@ Soft Surroundings
 St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[e-mail us](http://www.softsurroundingsoutlet.com/EmailUs/)
+[e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
