@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130432id_/http%3A//www.teamusa.org/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094400id_/http%3A//www.teamusa.org/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | USOC Official Website
+
+For a better browsing experience please switch your browser out of compatability mode. 
 
 **THE UNITED STATES OLYMPIC COMMITTEE'S PRIVACY POLICY** The USOC has created this Privacy Policy to disclose our online information practices and the choices you can make about the way your personal information is collected and used at the Site. This Privacy Policy is incorporated into, and a part of, the [Terms of Use Agreement](https://web.archive.org/Footer/Terms-and-Conditions) for the Site (the "Agreement"). Capitalized terms used herein without definition shall have the meanings assigned to such terms in the Agreement. 
 
