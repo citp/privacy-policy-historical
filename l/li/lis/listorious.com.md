@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043539id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164123id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
-# Muck Rack - Privacy Policy
+# Privacy Policy
 
-The Muck Rack and Muck Rack Pro services, including (without limitation) all websites, mobile applications and other interactive properties through which the service is delivered (collectively, the "Service") are owned, operated and distributed by Sawhorse Media, LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Sawhorse" or "we" and through similar words such as "us," "our," etc.).  By accessing any part of the service, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF OUR TERMS OF SERVICE  [(the "TERMS OF SERVICE")](https://web.archive.org/terms). **If you do not agree to any of these terms, YOU SHOULD not use the Service.** This Privacy Policy applies to all users, including both users who are simply viewing content available via the Service and users who have subscribed for services and/or are contributors of content via the Service.
+The Muck Rack and Muck Rack Pro services, including (without limitation) all websites, mobile applications and other interactive properties through which the service is delivered (collectively, the "Service") are owned, operated and distributed by Sawhorse Media, LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Sawhorse" or "we" and through similar words such as "us," "our," etc.).  By accessing any part of the service, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF OUR TERMS OF SERVICE  [(the "TERMS OF SERVICE")](https://web.archive.org/terms). **If you do not agree to any of these terms, YOU SHOULD not use the Service.** This Privacy Policy applies to all users, including both users who are simply viewing content available via the Service and users who have subscribed for services and/or are contributors of content via the Service. 
 
 We may, at our sole discretion, modify this Privacy Policy at any time.  By accessing the Service at any time after such modifications, you are agreeing to such modifications.  This Privacy Policy was last modified as of September 9, 2011.
 
@@ -61,4 +61,4 @@ California Civil Code Section 1798.83 permits users of the Service who are Calif
 
 Sawhorse Privacy Rights  
 560 Broadway, Suite 201  
-New York, New York 10012
+New York, New York 10012 
