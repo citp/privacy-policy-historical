@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511105648id_/http%3A//www.newsmaker.com.au/pages/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180706id_/http%3A//www.newsmaker.com.au/pages/6/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
