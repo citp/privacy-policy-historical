@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062149id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094605id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy
 
@@ -36,8 +36,11 @@ Welcome to LeadCapturePageSystem.com.  Throughout this privacy policy we will r
   * **Services Providers.**   We may employ third parties to assist us in providing and improving the products and services we offer.  If these third parties receive non-public, personal information about you, they will be obligated not to disclose or use it for any purpose other than to perform tasks on our behalf.
   * **Business Transfers.**   LCPS may sell, transfer or otherwise share some or all of its assets, including the information identified in this Privacy Policy, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-  
 
+
+## Sharing System Data with 3rd Parties
+
+LCPS will not share your system data with 3rd parties outside of compliance with laws and law enforcement.
 
 ## Cookies & Other Technologies
 
