@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the nu.edu privacy policy that was archived on 2014-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617163335id_/http%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nu.edu privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120055432id_/http%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        
+		<title>Privacy Policy for National University | National University</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="imagetoolbar" content="false">
         <meta name="MSSmartTagsPreventParsing" content="true">
-        <meta name="robots" content="index">
         <meta name="copyright" content="Copyright 2014 National University System, All Rights Reserved">
         <meta name="author" content="Kristan Borghi">
         <meta name="author" content="Jeff Lien">
         <meta name="author" content="Yi Zhang">
-        
-		<meta name="description" content="National University is strongly committed to protecting the privacy of its user community. Learn how by reading our website privacy policy today."> <title>Privacy Policy for National University | National University</title>
+		
+		
+		<meta name="robots" content="index">
+		<meta name="description" content="National University is strongly committed to protecting the privacy of its user community. Learn how by reading our website privacy policy today."> 
 		<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
     	<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
         <link rel="stylesheet" href="http://www.nu.edu/assets/css/screen.css" type="text/css" media="screen" charset="utf-8">
@@ -29,6 +32,7 @@
         <script src="http://www.nu.edu/assets/js/scriptaculous/scriptaculous.js?load=effects" type="text/javascript"></script>
         <script src="http://www.nu.edu/assets/js/nusystem.js" type="text/javascript"></script>
         <script src="http://www.nu.edu/assets/js/browserdetect.js" type="text/javascript"></script>
+        <script src="http://www.nu.edu/assets/js/placeholders.js" type="text/javascript"></script>
         
 		
       <!--[if lt IE 6]>
@@ -78,13 +82,9 @@
 								
 								<li><a href="http://www.cityu.edu/" title="City University of Seattle" onclick="javascript:trackPageview('/outbound/City University of Seattle');"><strong>City University of Seattle</strong><br>Accredited doctoral, master’s, bachelor’s, and associate’s degree programs delivered onsite and online from a private nonprofit university.</a></li>
 								
-								<li><a href="http://www.nui.nusystem.org" title="National University International" onclick="javascript:trackPageview('/outbound/National University International');"><strong>National University International</strong><br>Online education and language programs for students around the globe.</a></li>
-								
 								<li><a href="http://www.nuvhs.org" title="National University Virtual High School" onclick="javascript:trackPageview('/outbound/National University Virtual High School');"><strong>National University Virtual High School</strong><br>Accredited online high school courses in a flexible, student-centered format.</a></li>
 								
 								<li><a href="http://ahs.nusystem.org" title="National University Academy" onclick="javascript:trackPageview('/outbound/National University Academy');"><strong>National University Academy</strong><br>A tuition-free public charter school offering a dynamic, innovative learning environment.</a></li>
-								
-								<li><a href="http://www.spectrumpacific.com" title="Spectrum Pacific Learning" onclick="javascript:trackPageview('/outbound/Spectrum Pacific Learning');"><strong>Spectrum Pacific Learning</strong><br>Customized, premier online learning solutions for organizations of all sizes.</a></li>
 								
 								<li><a href="http://www.westmedcollege.edu" title="WestMed College" onclick="javascript:trackPageview('/outbound/WestMed College');"><strong>WestMed College</strong><br>Accessible, affordable education for careers in allied health.</a></li>
 								
@@ -114,7 +114,7 @@
 					<div id="masthead_wrapper">
 						<div class="container">
 							<a href="/" title="National University Homepage"><img id="logo" src="http://www.nu.edu/assets/img/NU/logo.png" alt="National University Homepage"></a>
-                            <a id="callout" href="http://www.nu.edu/Contact.cfm" title="START HERE"><span id="start_here">START HERE</span></a><span id="callout_text">get more information today</span>
+                            
 								<!--[if lt IE 7]>
 									<script type="text/javascript" charset="utf-8">
 										nu.prototype.imgAlpha($('logo'));
@@ -207,6 +207,68 @@
                         
                         
 
+<script type="text/javascript">
+function getEmail(){
+	var s = document.getElementById('shortform_email').value;
+	setTimeout(function() { 
+    	if(document.getElementById('shortform_email').value == s){ // Check the value searched is the latest one or not. This will help in making the ajax call work when client stops writing.
+			var http = new XMLHttpRequest();
+		    var url = "components/bindProgram.cfc";
+		    var params = "method=getUserEmail";
+		        params += "&userEmail=" + document.getElementById('shortform_email').value;
+		        params += "&userFirstname=" + document.getElementById('shortform_firstName').value;
+				params += "&userLastname=" + document.getElementById('shortform_lastName').value;
+				params += "&userZipcode=" + document.getElementById('shortform_zip').value;
+				params += "&httpReferer=" + document.getElementById('shortform_httpReferer').value;
+			http.open("POST", url, true);
+		    //Send the proper header information along with the request
+		    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+		    http.setRequestHeader("Content-length", params.length);
+		    http.setRequestHeader("Connection", "close");
+		    http.onreadystatechange = function() {
+		        if(http.readyState == 4 && http.status == 200) {
+		            //document.getElementById('data').value = http.responseText;
+		        }
+		    }
+		    http.send(params);
+    	}
+	}, 2000); // 2 sec delay to check.
+}
+</script>
+
+<div class="module module_shortFormNew">
+	<h2 id="shortFormNew"><span id="requestInformation">Request Information</span></h2>
+	<form name="contactShortForm" action="http://www.nu.edu/Contact.cfm" method="post" onsubmit="return validateShortForm()">
+		<input type="text" class="text" id="shortform_firstName" name="firstName" placeholder="First Name" onkeyup="this.placeholder=''" onblur="this.placeholder='First Name'" title="First Name">
+		<input type="text" class="text" id="shortform_lastName" name="lastName" placeholder="Last Name" onkeyup="this.placeholder=''" onblur="this.placeholder='Last Name'" title="Last Name">
+		<input type="text" class="text" id="shortform_email" name="email" placeholder="E-mail" onkeyup="this.placeholder=''; getEmail();" onblur="this.placeholder='E-mail'" title="E-mail">
+		<input type="text" class="text" id="shortform_zip" name="zip" placeholder="Zip Code" onkeyup="this.placeholder=''; getEmail();" onblur="this.placeholder='Zip Code'" title="Zip Code">
+		<input type="hidden" value="/refresh/NU/preview/page.cfm" id="shortform_httpReferer" name="shortform_httpReferer" title="referer">
+		<input id="nextNew" name="shortform" type="image" src="http://www.nu.edu/assets/img/NU/Contact-Us-Next.gif" class="submit" value="" title="Next">
+		<input type="text" style="display: none;" name="utm_source" id="utm_source" value="">	
+		<input type="text" style="display: none;" name="utm_medium" id="utm_medium" value="">
+		<input type="text" style="display: none;" name="utm_term" id="utm_term" value="">
+		<input type="text" style="display: none;" name="utm_content" id="utm_content" value="">
+		<input type="text" style="display: none;" name="utm_campaign" id="utm_campaign" value="">
+		<input type="text" style="display: none;" name="track" id="track" value="">
+	</form>
+</div>
+
+<script type="text/javascript">
+	function getParameterByName(name) {
+	    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+	    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+	        results = regex.exec(location.search);
+	    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+	}
+	
+	document.getElementById('utm_source').value = getParameterByName('utm_source');
+	document.getElementById('utm_medium').value = getParameterByName('utm_medium');
+	document.getElementById('utm_term').value = getParameterByName('utm_term');
+	document.getElementById('utm_content').value = getParameterByName('utm_content');
+	document.getElementById('utm_campaign').value = getParameterByName('utm_campaign');
+	document.getElementById('track').value = getParameterByName('track');
+</script>
 
 <script src="/assets/js/locations.js" type="text/javascript"></script>
 
@@ -217,7 +279,7 @@
     	
 		<li><a href="https://ep.soar.cci.nu.edu/psp/nuse9prd/EMPLOYEE/PSFT_NUSS9PRD/c/NU_SELF_SERVICE.NU_OA_REGISTRATION.GBL" target="_blank" title="Apply Online" onclick="javascript:trackPageview('/Admissions/ApplySoarApplication');">Apply Online</a></li>
         
-		<li><a href="/Contact.cfm" title="Request Information">Request Information</a></li>
+		
 		
 		<li><a href="/ContactList.html" title="Contact Us">Contact Us</a></li>
         <li><a href="/OurPrograms/Graduation/Commencement.html" title="Commencement">Commencement</a></li>
