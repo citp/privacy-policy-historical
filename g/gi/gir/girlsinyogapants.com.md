@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514030416id_/http%3A//www.girlsinyogapants.com/%3Fp%3D263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231054id_/http%3A//www.girlsinyogapants.com/%3Fp%3D263) for the most accurate reproduction.*
 
 # Privacy Policy | Girls In Yoga Pants
-
-## Privacy Policy
 
 Tim Brown LLC (“Tim Brown”) provides www.girlsinyogapants.com (the “Website”) and related services for your personal non-commercial use only and subject to your compliance with this Privacy Statement and Tim Brown’s Terms of Use Agreement (collectively the “Agreement”).  Please read this Agreement carefully before using this Website.  Your use of this Website constitutes your acceptance to be bound by this Agreement without limitation, qualification or change.  If at any time you do not accept all the terms and conditions of this Agreement, you must immediately discontinue use of this Website.  This Agreement sets forth Tim Brown’s policies with respect to its operation of this Website.
 
