@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedayfatloss.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050531id_/http%3A//www.onedayfatloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedayfatloss.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110017id_/http%3A//onedayfatloss.com/privacy-policy) for the most accurate reproduction.*
 
 # The ONE Day Diet - Privacy Policy
 
@@ -89,8 +89,8 @@ This policy was last modified on 03/12/12
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.onedayfatloss.com  
-14603 East Moncrieff Place, Ste 100  
-Aurora, CO 80011  
+111 Congress Ave; Suite 400  
+Austin, TX 78701  
 USA  
 support@OneDayFatLoss.com  
 1-800-766-5086
