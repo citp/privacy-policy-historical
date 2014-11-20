@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043546id_/http%3A//mom.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000723id_/http%3A//mom.me/privacy-policy) for the most accurate reproduction.*
 
-# mom.me
+# Pregnancy, Parenting, Lifestyle, Beauty: Tips & Advice | mom.me
 
 BermanBraun Interactive, LLC d/b/a Whalerock Industries – Privacy Policy
 
@@ -129,28 +129,30 @@ Copyright © 2014. BermanBraun Interactive, LLC d/b/a Whalerock Industries. All 
 
 stay in the knowfollow mom.me
 
-  *   * [Follow](https://twitter.com/momdotme)
+  * [](http://facebook.com/momdotme)
+  * [](https://twitter.com/momdotme)[Follow](https://twitter.com/momdotme)
   * [](http://pinterest.com/momdotme/)
   * [subscribe](https://web.archive.org/auth/signup/)
+  * [follow us](http://gplus.to/momdotme)
   * [follow us](http://instagram.com/momdotme/)
 
 from our partnersfrom:
 
-  * [The Best Guacamole Recipes](http://www.kitchendaily.com/read/best-guacamole-recipes)
-  * [8 Essential Cooking Hacks](http://www.kitchendaily.com/read/8-essential-cooking-hacks)
-  * [A Special Giveaway! (Plus, 12 Easy Dinners for Any Night)](http://www.kitchendaily.com/read/special-giveaway-plus-12-easy-dinners-any-night)
+  * [Cake Artist Recreates Michelangelo's Masterpiece](http://www.kitchendaily.com/read/cake-artist-recreates-michelangelos-masterpiece)
+  * [Olive Garden is Crowdsourcing Its Next Menu Item](http://www.kitchendaily.com/read/olive-garden-crowdsourcing-its-next-menu-item)
+  * [The World is Running Out of Chocolate](http://www.kitchendaily.com/read/world-running-out-chocolate)
 
 from: 
 
-  * [The trend report: Overalls are back in a big way](http://www.stylelist.com/view/trend-report-overalls-back/)
-  * [Major sale alert: Must-haves from the Shopbop sale](http://www.stylelist.com/view/major-sale-alert-shopbop-sale/)
-  * [Juicy Couture is closing all U.S. stores](http://www.stylelist.com/view/juicy-couture-closing-doors-for-good/)
+  * [Top 9 at 9: The ladies of The Hunger Games strike again and more!](http://www.stylelist.com/read/top-9-at-9-the-ladies-of-the-hunger-games-strike-again-and-more/)
+  * [Your solution to help reverse the signs of aging](http://www.stylelist.com/read/your-solution-to-stop-and-reverse-the-signs-of-aging/)
+  * [Shop TOMS for Target for a holiday gift that gives back](http://www.stylelist.com/view/toms-target-holiday-her/)
 
 from:
 
-  * [20 Adorable Outfits For Baby's Homecoming](http://feedproxy.google.com/~r/lilsugar/~3/Ql6l6Hd9txs/Outfits-Newborns-Wear-Home-From-Hospital-4501971)
-  * [Kristen Bell Is Expecting Baby No. 2!](http://feedproxy.google.com/~r/lilsugar/~3/LZL6vAlUmZ0/Kristen-Bell-Pregnant-Style-27034026)
-  * [41 Outdoor Activities to Get Kids Out of the House This Summer](http://feedproxy.google.com/~r/lilsugar/~3/xhWt6UhkY0U/Outdoor-Activities-Kids-Summer-30688762)
+  * [Should You Stay Facebook Friends With Your Ex's Family?](http://feedproxy.google.com/~r/lilsugar/~3/tqO0Ww0QSJs/Facebook-Friends-Ex-Family-36126317)
+  * [12 Parenting Choices Where You Just Can't Win](http://feedproxy.google.com/~r/lilsugar/~3/GeJ_ovrAGVA/Parents-Just-Cant-Win-36123509)
+  * [One Family Proves That Thanksgiving Is "All About That Baste"](http://feedproxy.google.com/~r/lilsugar/~3/AzUc4UpwHbs/Thanksgiving-All-About-Bass-Cover-36127004)
 
 from:
 
