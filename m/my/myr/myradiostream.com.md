@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073225id_/http%3A//myradiostream.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094612id_/http%3A//myradiostream.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Bell Online Ltd
+# MyRadioStream - Privacy and Cookies
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
