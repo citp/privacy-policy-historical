@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130400id_/http%3A//wantedwants.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061000id_/http%3A//wantedwants.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
