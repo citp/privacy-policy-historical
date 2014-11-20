@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140720id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204803id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # helpingwithmath.com - Privacy Policy
 
@@ -10,6 +10,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads based on your visit to HelpingWithMath.com and other sites on the Internet. 
+  * We analyse anonymous data regarding age and gender to help us better tailor resources to our audience.
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
   * Google's Interest-based advertising or 3rd-party anonymous audience data (such as age, gender and interests) is collected on this site using Google Analytics. This data is used by HelpingWithMath.com to help identify the best way to update and improve the site. It is not used for any other purpose. 
 
@@ -17,4 +18,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If we keep your email address we will not use it for any purpose other than that which we specifically tell you. We will not pass your email address to any other person or company without your permission.
 
-If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20140527140720id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
+If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](http://www.helpingwithmath.com/about_us/where.htm)
