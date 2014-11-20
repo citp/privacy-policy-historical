@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112955id_/http%3A//bayareamommy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105109id_/http%3A//bayareamommy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bay Area Mommy
 
+  
+
+
 **Collecting information**  
-We collect information from you when you subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.  
-****
+We collect information from you when you subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
 **Using information  
 **Any of the information we collect from you may be used to administer a contest, promotion, survey or other site feature, and to send periodic emails. The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
@@ -42,6 +44,10 @@ http://BayAreaMommy.net
 
 1580 Meadow Ridge Cir  
 San Jose, CA 95131  
-alice@bayareamommy.com
+alice@bayareamommy.net
 
-This policy is powered by Trust Guard, [PCI compliance scans](http://www.trust-guard.com/PCI-Compliance-s/65.htm)[follow](http://bayareamommy.net/privacy-policy/# "Toggle link-love \(currently "follow"\). Only admins see this.").
+This policy is powered by Trust Guard, [PCI compliance scans](http://www.trust-guard.com/PCI-Compliance-s/65.htm)[follow](http://www.bayareamommy.net/privacy-policy/# "Toggle link-love \(currently "follow"\). Only admins see this.").
+
+  
+  
+
