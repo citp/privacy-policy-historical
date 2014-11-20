@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510204527id_/http%3A//www.crookedtongues.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124336id_/http%3A//www.crookedtongues.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
