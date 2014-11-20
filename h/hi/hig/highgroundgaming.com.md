@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highgroundgaming.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508213546id_/http%3A//www.highgroundgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highgroundgaming.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212605id_/http%3A//www.highgroundgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | High Ground Gaming
 
@@ -22,13 +22,17 @@ highgroundgaming.com does use cookies to store information about visitors prefe
 
 highgroundgaming.com is a participant in the [Amazon](http://www.amazon.com/) Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amazon.com/).
 
- **DoubleClick DART Cookie**
+ **The DoubleClick Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on highgroundgaming.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to highgroundgaming.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –[ http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/ "Google Policies").
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to www.highgroundgaming.com.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visits to www.highgroundgaming.com sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, users can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…  
+
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
+
+Google Adsense  
 [Amazon](http://www.amazon.com/) Associates
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on highgroundgaming.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
