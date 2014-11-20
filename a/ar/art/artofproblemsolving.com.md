@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161557id_/http%3A//www.artofproblemsolving.com/Company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210952id_/http%3A//www.artofproblemsolving.com/Company/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -47,8 +47,8 @@ We collect certain information from a customer who is purchasing a product and/o
 If you have any questions about this privacy statement or the practices of this site, you can contact us by email: [privacy@artofproblemsolving.com](mailto:privacy@artofproblemsolving.com) or by mail at: 
 
 AoPS Incorporated  
-P.O. Box 2185  
-Alpine, CA 91903-2185  
+10865 Rancho Bernardo Rd Ste 100  
+San Diego, CA 92127-2102  
 
 
 ## Disclaimer of other sites' practices
@@ -89,7 +89,7 @@ The federal Children's Online Privacy Protection Act (COPPA) requires that we in
 Questions or comments about this policy, or requests pursuant to item #2(b) above, may be sent to: 
 
 AoPS Incorporated  
-PO Box 2185  
-Alpine, CA 91903-2185  
-(619) 659-1612  
+10865 Rancho Bernardo Rd Ste 100  
+San Diego, CA 92127-2102  
+(858) 675-4555  
 privacy@artofproblemsolving.com 
