@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeonanime.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628151412id_/http%3A//eyeonanime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeonanime.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130425id_/http%3A//eyeonanime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Watch Anime Online Free | Anime Episodes, Movies and OVAs
 
@@ -47,3 +47,5 @@ By using our site, you consent to our privacy policy.
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+\- See more at: http://eyeonanime.com/privacy-policy/
