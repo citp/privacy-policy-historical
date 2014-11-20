@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629220443id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175017id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -43,7 +43,7 @@ The personal data record created through your registration with this web site ca
 
 #### Opt-Out Procedures
 
-You may always opt-out of receiving future marketing communications from Papyrus by either (a) clicking the “Unsubscribe” link at the bottom of the email message, or (b) making a request through customer service. If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. 
+You may always opt-out of receiving future marketing communications from Papyrus by either (a) clicking the “Unsubscribe” link at the bottom of the email message, (b) visiting our [Email Unsubscribe](http://www.papyrusonline.com/email-unsubscribe-ppy) page and submitting your email address there, or (c) making a request through customer service. If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. 
 
 #### Use of Cookies
 
@@ -74,5 +74,3 @@ We reserve the right to change, modify, or amend this policy at any time. If ame
 #### Your Feedback
 
 If you have questions concerning this privacy policy or the practices of these sites, you may contact us at: [customerservice[at]papyrusonline.com](http://www.papyrusonline.com/customer-services)
-
-Back to top Λ
