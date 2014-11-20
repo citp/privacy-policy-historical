@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083853id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131216id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
 
-# Privacy — Homestead and Survival
+# Privacy Policy | Homestead & Survival
 
 This privacy policy sets out how Homestead-And-Survival.com uses and protects any information that you provide when you use this website.
 
@@ -43,6 +43,8 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+Third Party Cookies – Third parties may be placing and reading cookies on your browser, or using web beacons to collect information as a result of ad serving on Homestead-and-Survival.
+
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
@@ -53,10 +55,8 @@ In some instances when we link to other websites, we may be rewarded with an aff
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-*  
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-*  
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at hulamooreviews@gmail.com
+* whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at hulamooreviews@gmail.com
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
