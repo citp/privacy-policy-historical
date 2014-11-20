@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044448id_/http%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131436id_/http%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of FIFA U Team Website
 
@@ -18,7 +18,7 @@ Like most websites, we collect and use information contained in records: your IP
 
 This site may use cookies to store information, such as your personal preferences when you visit us. If you do not wish to receive cookies, you may prevent them from installing on your hard disk by changing the security settings of your browser.
 
-During your visit to our site, you could watch advertisements provided by third-party advertising companies. They may use information in order to provide advertisements about products and services of their choice. These data do not include the name, address, e-mail or phone number.
+During your visit to our site, you may watch advertisements provided by third-party advertising companies. They may use information in order to provide advertisements about products and services of their choice. These data do not include the name, address, e-mail or phone number.
 
 Google is one of the providers of advertising content. This company uses the DART cookie in order to display ads to users based on their visit to this or another site on the Internet. To disable this cookie, please read the Privacy Policy of Google ads.
 
