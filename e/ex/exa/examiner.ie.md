@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223135id_/http%3A//www.irishexaminer.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060615id_/http%3A//www.irishexaminer.com/info/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Irish Examiner
+# Privacy Policy| Irish Examiner
 
 ## Privacy Policy
 
