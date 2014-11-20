@@ -1,180 +1,93 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629173107id_/http%3A//www.mdx.ac.uk/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174737id_/http%3A//www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies
+# Web privacy and cookies | Middlesex University London
 
-At several points in this site, you can submit personal information. The information that you give us will be treated in accordance to the Data Protection principles outlined in the Data Protection Act 1998.
+_General_
 
-##  **Data protection**
+This policy explains what information we gather when you visit the University's central web site, and explains how that information is used.
 
-Middlesex University is required by law to comply with the Data Protection Act, 1998 (the 1998 Act).  To comply with the law, information is collected and used fairly, stored safely and not disclosed to any other person unlawfully. To do this Middlesex University complies with the Data Protection Principles which are set out in the 1998 Act. In summary these state that personal data shall be:
+It is important for you to appreciate that the central web site provides extensive links to other independent sites, both within the University and elsewhere. This policy applies only to direct accesses to the central web site - URLs starting <http://www.mdx.ac.uk/> You will need to consult the appropriate information on other sites for information on their policies.
 
-  * processed fairly and lawfully and shall not be processed unless certain conditions are met.
-  * obtained for specified and lawful purposes and not further processed in a manner incompatible with that purpose.
-  * adequate, relevant and not excessive.
-  * accurate and where necessary up to date.
-  * kept for no longer than necessary.
-  * processed in accordance with data subjects' rights.
-  * protected by appropriate security.
-  * not transferred without adequate protection. The University is committed to ensuring that current employees comply with this Act regarding the confidentiality of any personal data held by the University, in whatever medium.
+ _Data collected_
 
+In common with most web sites, this site automatically logs certain information about every request made of it (see below for more details). This information is used for system administration, for bug tracking, and for producing usage statistics.
 
+We may collect and process the following data about you:
 
-The site carries information that is already publicly available, such as organisational structures, membership and responsibilities of governing bodies and committees, staff contacts list, photographs of key staff, list of students to whom awards have been made or are likely to be made by the University. Wherever necessary, permissions have been sought before publication of material.  Information that is already publicly available is exempt from the 1998 Act. It is the policy of Middlesex University to make public as much information about the University as possible.
+Information that you provide by filling in forms provided on this website for a specific purpose. By supplying this information you are consenting to the University holding and using it for the purposes for which it was provided.
 
-## Images
+If you contact us, we may keep a record of that correspondence.
 
-The images on this site are either covered by our own copyright or, where the copyright holder is another person or organisation, have been specifically cleared for our our use by the owner.  When we take pictures of individuals on University grounds and involved in University activities for publication on this site or in other media and the individuals are clearly identifiable, we seek written consent from the individual concerned for the use of their image in University materials.  If you are in an image on this site and have not consented to its use and would prefer it to be removed, please [contact the online marketing manager](mailto:j.blackburn@mdx.ac.uk "email Joanna Blackburn").
+ _Logged data_
 
-## Cookies
+The following data is automatically collected for each request:
 
-Cookies are text files which contain data which are downloaded to your device when you visit a website.
+  * The name or network address of the computer making the request. Note that under some (but not all) circumstances it may be possible to infer from this the identity of the person making the request. Note also that the data recorded may be that of a web proxy rather than that of the originating client
+  * The date and time of connection
+  * The HTTP request, which contains the identification of the document requested
+  * The status code of the request (success or failure etc.)
+  * The number of data bytes sent in response
+  * The contents of the HTTP Referrer header supplied by the browser
+  * The content of the HTTP User-Agent header supplied by the browser
 
-Cookies cannot look into your computer and obtain information about you or your family or read any material kept on your hard drive and, unless you have logged onto an authenticated page, cookies cannot be used to identify who you are.
 
-Cookies do not in any way compromise the security of your computer.
 
-Middlesex University’s website uses cookies to make continuous improvements to the website. None of the information gathered through Google Analytics can be traced to an individual - we do not know who you are as a unique user, merely that there are a certain number of people using this site. The cookie only relates to what goes on in this site and the information cannot be used for marketing on an individual basis.
+Logging of additional data may be enabled temporarily from time to time for specific purposes.
 
-This website uses the following cookies:
+In addition, the computers on which the web site is hosted keep records of attempts (authorised and unauthorised) to use them for purposes other than access to the web server. This data typically includes:
 
- **Type**
+  * the date and time of the attempt,
+  * the service to which access was attempted,
+  * the name or network address of the computer making the connection,
+  * and may include details of what was done or was attempted to be done.
 
-| 
 
- **Name**
 
-| 
+#### Disclosure and uses of personal information
 
- **Purpose**
+We use information held about you in the following ways:
 
-| 
+  * to ensure that content from our website is presented in the most effective manner for you and for your computer or device by gathering aggregate information about our users using it to analyse the effectiveness and popularity of this website
+  * to allow you to participate in interactive features of our service, when you choose to do so.
 
- **Information**  
-  
----|---|---|---  
-  
-Session Cookies
 
-| | 
 
-These are temporary cookies that remain in the cookie file of your computer until you close your browser (at which point they are deleted).
+We may disclose your personal information to third parties in the following circumstances:
 
-|   
-  
-sIFR
+  * if we have obtained your consent to do so
+  * when we are required or authorised by law, court order, regulatory or governmental authority to disclose your personal data
+  * if required to protect the rights, property or safety of Middlesex University, its members or others.
 
-| 
 
-sifrFetch
 
-| 
+Relevant subsets of this data may be passed to computer security teams as part of investigations of computer misuse involving this site or other computing equipment in the University.
 
-This cookie is required for the technology used to replace fonts used throughout [www.mdx.ac.uk](http://www.mdx.ac.uk/ "Opens in a new window") The cookie determines if the user is visiting the site for the first time and pre-fetches the flash movies.
+In addition, this site uses Google Analytics to help us analyse site usage and to improve it. To support this, selected information about your interaction with the site is sent to Google for them to analyse on our behalf. For more information about Google Analytics see [http://www.google.com/analytics/](http://www.google.com/analytics).
 
-This cookie is deleted when you leave the Mdx website.
+ _  Links to other websites_
 
-|   
-  
-Google Analytics and MDX Play
+This website contains links to and from third-party sites. This policy only covers use of cookies on this site. You should consult privacy and cookie policies on third-party sites before you submit and personal data. Middlesex University is not responsible for any cookies that may be set by third party websites that are linked to from pages on [www.mdx.ac.uk](http://www.mdx.ac.uk/).
 
-| 
+ _Access to personal data_
 
-_utma   
-_utmb   
-_utmc   
-_utmz
+For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of data collected by this site is Middlesex University, and the point of contact for subject access requests is the ** ** University Data Protection Officer [DPA-Officer@mdx.ac.uk](mailto:DPA-Officer@mdx.ac.uk)
 
-| 
+  **Images**
 
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site and to continually enhance visitor experience. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+The images on this site are covered by our own copyright or, in cases where the original copyright holder is another person or organisation, we've been given their permission to use it.
 
-| 
+We always seek written permission when taking and using photos of people, who are clearly identifiable, on our grounds and involved in our activities. We may use these photos on our website, in our publications or in other materials.
 
-[Read the overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Opens in a new window")  
-  
-AddThis
+If you're in an image on our website, you haven't given us permission to use it and would like it removed, please [contact us](mailto:webadmin@mdx.ac.uk).
 
-| 
+ **Cookies**
 
-uid   
-uvc   
-uit   
-sc
+ _Cookies_
 
-| 
+This website uses cookies, which are small pieces of information that are issued to your computer or other internet-enabled device when you visit the website. Cookies are stored by your browser and hard drive and are used to distinguish you from other visitors to the site.
 
-These cookies receive information such as which web page you came from, which type of browser you are using, and your general geographic location. When you and others use AddThis tools to share content, they aggregate data about what pages are shared, when, and how.
+For more details about cookies, how to disable them and the cookies we use (including Google Analytics cookies), there is a separate cookie policy for pages with URLs starting <http://www.mdx.ac.uk/>.
 
-| 
+Our website uses these [cookies](http://www.mdx.ac.uk/about-us/policies/web-privacy-and-cookies/privacy-policy-chart "Cookie information"). 
 
-[Read the overview of privacy & data practices](http://www.addthis.com/privacy#.Tt82IrL7j-4 "Opens in a new window")  
-  
-Google Maps
-
-| 
-
-PREF   
-NID
-
-| 
-
-These are used by Google to track how many people are using their Maps, which appear on our Location pages.
-
-| 
-
-[Click here for an overview of privacy at Google](http://www.google.com/intl/en/privacy/privacy-policy.html "Opens in a new window")  
-  
-MDX Play
-
-| 
-
-mdx_session   
-lu   
-p   
-c_   
-user   
-xs   
-presence   
-act
-
-| 
-
-These session cookies are used to validate form submission to stop Cross Site Request Forgery (CSRF) - Confirmation/error message carried between pages during user interaction with the website.
-
-These cookies are set by the embedded Facebook content on the About Us page. Without these Cookies a user would not be able to view this embedded content.
-
-|   
-  
-### Cookies outside of mdx.ac.uk domain
-
-| 
-
-Name
-
-| 
-
-Purpose
-
-| 
-
-Information  
-  
----|---|---|---  
-  
-DoubleClick by Google
-
-| 
-
-id
-
-| 
-
-When you are accessing the web through a digital device, Google uses cookies to improve your online experience, and track ad response rates to improve the effectiveness of online advertising on external websites.
-
-| 
-
-[Read the overview of advertising and privacy at Google](http://www.google.com/privacy/ads/ "Opens in a new window")  
-  
-The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file.
-
-Please visit [All About Cookies](http://www.allaboutcookies.org/manage-cookies/ "Opens in a new window") to discover how to disable and delete cookies.
+The web browsers of most computers are set up to accept cookies. You can enable your web browser to disable cookies or prompt you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file. Please visit the[ Information Commissioner's Office](http://ico.org.uk/) website to find out how to disable and delete cookies.
