@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527214034id_/http%3A//www.smartsurvey.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120185615id_/http%3A//www.smartsurvey.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | SmartSurvey
 
 **SmartSurvey** (Smartline International Limited) is committed to protect and respect your privacy.
 
-This privacy policy applies to [www.smartsurvey.co.uk](https://web.archive.org/web/20140527214034id_/http://www.smartsurvey.co.uk/www.smartsurvey.co.uk "SmartSurvey") owned and operated by Smartline International Limited. Our privacy policy describes how we capture and use the personal information and data that we collect about visitors to our website.
+This privacy policy applies to [www.smartsurvey.co.uk](https://web.archive.org/web/20141120185615id_/http://www.smartsurvey.co.uk/www.smartsurvey.co.uk "SmartSurvey") owned and operated by Smartline International Limited. Our privacy policy describes how we capture and use the personal information and data that we collect about visitors to our website.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.smartsurvey.co.uk you are accepting and consenting to the practices described in this policy.
 
