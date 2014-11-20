@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivintsolar.com privacy policy that was archived on 2014-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140313091112id_/http%3A//www.vivintsolar.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivintsolar.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120131207id_/http%3A//www.vivintsolar.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -8,11 +8,98 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="google-site-verification" content="wNf_ujpUcJ94Nshk6zSGkGzSgCfHEgUIy44Wa-LidrU">
+    <meta name="bitly-verification" content="a2dea2a042e9">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-    <title></title> 
+    <title>Vivint Solar Home Solar : Privacy Policy</title> 
     
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-FD7H"></script><script type="text/javascript" language="javascript" src="http://m.vivint.com/en/mobile-js-head"></script>     
-    <script type="text/javascript" language="javascript" src="//account.vivint.com/get_customer_info?callback=setTargeting"></script>
+    
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WNXQCL"></script><script type="text/javascript" language="javascript">
+  /*
+    This Script tests if there is a customer cookie. 
+    If there is, it will place a script in the head 
+    that calls out to get_customer_info API and sets the data as tntpv.
+    
+    Also, it sets two session cookies used by the Optimization team: originalReferralURL (document.referrer) & entryURL (location.href on first page)
+
+    tntpv -> Test & Target Profile Variable - Used in the cookies to 
+    distinguish between prospects and customers.
+    tntp  -> Is set via the 'get_customer_info' url
+  
+  	*/
+  var tntpv;
+  
+  function setTargeting(data){
+    tntpv = data;
+  }
+  
+  function createCookiesObject () {
+    var cookies = document.cookie ? document.cookie.split(';') : [];
+    cookieObject = {}
+    
+    if (typeof String.prototype.trim !== 'function') {
+      String.prototype.trim = function () {
+        return this.replace(/^\s+|\s+$/g, '');
+      }
+    }
+    
+    
+    for (var i=0; cookies.length > i; i++) {
+      var cookie   = cookies[i].split('='),
+          key      = cookie[0].trim(),
+          value    = cookie[1];
+      
+      cookieObject[key] = value;
+    };
+    return cookieObject;
+  };
+  
+  function setCookie (name, value, expirationDays) {
+    var expiration = new Date();
+    expiration.setTime(expiration.getTime() + (expirationDays || 0)*1000*60*60*24); //multiply by 0 not undefined
+    
+    expiration = (!expirationDays) ? '' : 'expires=' + expiration.toUTCString();
+    
+    document.cookie = name + '=' + value + ';' + expiration + '; path=/';
+  }    
+  
+  function hasCookie (key) {
+    var cookies = createCookiesObject();
+    
+    return (cookies[key]);
+  };
+  
+  function appendScript(src) {
+    var script = document.createElement('script');
+    
+    script.src = src;
+    document.head.appendChild(script);
+  }
+  
+  // If customer cookie exists we want to add a script and call the setTargeting function.
+  // If no customer cookie exists don't waste time calling the function.
+  function defineTNTPVifCustomer () {
+    if (hasCookie('customer')) {
+      var src = 'https://account.vivint.com/get_customer_info?callback=setTargeting'
+      appendScript(src);
+    }
+  };
+  
+  defineTNTPVifCustomer();
+  
+  // Used to track the referring URL and parameters
+  if (!hasCookie('originalReferralURL')) { 
+    setCookie('originalReferralURL', document.referrer || 'Direct'); 
+  }
+  
+  // Used to track the first URL the customer visits anywhere on vivint's website.
+  if (!hasCookie('entryURL')) { 
+    setCookie('entryURL', location.href); 
+  } 
+</script>
+    
+    <script type="text/javascript" language="javascript" src="http://m.vivint.com/mobile-js-head"></script>
+    
+    
 	<script type="text/javascript">
       
       $(document).ready(function() {
@@ -156,33 +243,20 @@
       .button
       {
 		display: block;
-        background-color: #f68900;
-        background: -webkit-linear-gradient(bottom, #ea7500, #ff9600);
-        background: -moz-linear-gradient(bottom, #ea7500, #ff9600);
-        background: -ms-linear-gradient(bottom, #ea7500, #ff9600);
-        background: -o-linear-gradient(bottom, #ea7500, #ff9600);
+        background-color: #FF8200;
         padding: 15px 30px;
         color: #fff;
         font-family: "Avenir LT W01 95 Black";
         font-size: 14px;
         text-transform: uppercase;
         text-decoration: none;
-        border-radius: 5px;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
+        border-radius: 0px;
       }
       .button:hover
       {
-        background-color: #ff9600;
-        background: -webkit-linear-gradient(bottom, #ff9600, #ea7500);
-        background: -moz-linear-gradient(bottom, #ff9600, #ea7500);
-        background: -ms-linear-gradient(bottom, #ff9600, #ea7500);
-        background: -o-linear-gradient(bottom, #ff9600, #ea7500);
+        background-color: #ff6724;
         text-decoration: none;
       }
-      .fancybox-skin{
-  		overflow: hidden;
-  	  }
       .shadow-top
       {
         background: url(http://images.cdn.aws.vivint.com/global/solar/main/shdw-top.png) no-repeat top center;
@@ -204,6 +278,11 @@
       
       
       /* fancy box */
+      
+      
+      .fancybox-skin{
+  		overflow: hidden;
+  	  }
   .fancybox-wrap,
   .fancybox-skin,
   .fancybox-outer,
@@ -412,23 +491,50 @@
     background: #000;
     background: rgba(0, 0, 0, 0.8); }
       
+    .subtle_form {
+  position: relative;
+}
+.subtle_form .invalid-form-message{
+  position: absolute;
+  background-color: white;
+  padding: 5px 5px 9px 5px;
+  border: 1px solid rgb(107, 107, 107);;
+  max-width: 140px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(107, 107, 107);
+}
+.subtle_form .invalid-form-message span {
+  display: block;
+  border: 1px solid red;
+  color: red;
+  margin: 4px auto 9px;
+  width: 15px;
+  font-weight: 400;
+  border-radius: 11px;
+  padding: 2px 2px 2px 2px;
+  text-align: center;
+  text-indent: 1px;
+}  
+      
     </style>
   </head>
   <body id="" class="">
     
     <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-FD7H"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                                                          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                                })(window,document,'script','dataLayer','GTM-FD7H');</script>
-    <!-- End Google Tag Manager --> 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNXQCL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNXQCL');</script>
+<!-- End Google Tag Manager -->
     
     <div class="page">
       
-      <style>
+      
+<style>
 .mini-top-nav
 {
   height: 30px;
@@ -465,16 +571,16 @@
 
 <div class="mini-top-nav">
   <div class="mini-top-nav-pad">
-    <span class="hide-mobile"><img src="//assets.cdn.aws.vivint.com/global/solar/main/header/blue-mini.png">
-    <a href="http://www.vivint.com/en/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mininavbar-vivint"><span class="hide-mobile">Click Here to</span> Visit Vivint.com</a>
+    <a href="http://www.vivint.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mininavbar-vivint" rel="nofollow"><span class="hide-mobile">Click Here to</span> Visit Vivint.com</a>
     &nbsp; | &nbsp; 
-    <a href="/en/support" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mininavbar-support">Support</a>
+    <a href="/support" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mininavbar-support">Support</a>
     &nbsp; | &nbsp; 
     <a href="http://account.vivintsolar.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mininavbar-login">Customer Login</a>
-  		</span></div>
-	</div>
+  </div>
+</div>
       
-      <style>
+      
+<style>
   header {
 	height: 60px;
 	background: #f7f7f7;
@@ -775,23 +881,24 @@ header #call a {
 </style>
 
 <header>
-  <a href="/en/" id="home-link" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-home"><img id="logo" src="//images.cdn.aws.vivint.com/global/solar/main/header/solar-logo-r2.png"></a>
+  <div itemscope="" itemtype="http://schema.org/Organization">
+    <a itemprop="url" href="http://www.vivintsolar.com/" id="home-link" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-home"><img id="logo" src="//images.cdn.aws.vivint.com/global/solar/main/header/vivint-solar-logo.png" title="Vivint Solar Logo" alt="Vivint Solar Corporate Logo"></a>
 	<nav id="nav" class="top-nav">
 		<ul>
 			<li>
 				<a href="/how-it-works" class="long-nav-text-small" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-how-it-works">HOW IT WORKS</a>
         <ul>
-          <li><a href="/en/how-it-works#traditional-power" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-traditional">Traditional Power</a></li>
-          <li><a href="/en/how-it-works#solar-power" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-solar-power">Solar Power</a></li>
-          <li><a href="/en/how-it-works#the-process" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-process">The Process</a></li>
+          <li><a href="/how-it-works#traditional-power" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-traditional">Traditional Power</a></li>
+          <li><a href="/how-it-works#solar-power" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-solar-power">Solar Energy</a></li>
+          <li><a href="/how-it-works#the-process" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-process">The Process</a></li>
         </ul>
 			</li>
 			<li>
 				<a href="/go-solar" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-go-solar">GO SOLAR</a>
         <ul>
-          <li><a href="/en/go-solar#save-money" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-save-money">Save Money</a></li>
-          <li><a href="/en/go-solar#provider" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-provider">Choose Your Provider</a></li>
-          <li><a href="/en/go-solar#go-green" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-go-green">Go Green</a></li>
+          <li><a href="/go-solar#save-money" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-save-money">Save Money</a></li>
+          <li><a href="/go-solar#provider" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-provider">Choose Your Provider</a></li>
+          <li><a href="/go-solar#go-green" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-go-green">Go Green</a></li>
         </ul>
 			</li>
       <li>
@@ -800,10 +907,11 @@ header #call a {
       <li>
         <a href="/company" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-company">COMPANY</a>
         <ul>
-          <li><a href="/en/company#newsroom" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-newsroom">Newsroom</a></li>
-          <li><a href="/en/company#about" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-about">About</a></li>
-          <li><a href="/en/company#leadership" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-leadership">Leadership</a></li>
-          <li><a href="/en/company#coverage" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-coverage">Coverage</a></li>
+          <li><a href="/company#newsroom" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-newsroom">Newsroom</a></li>
+          <li><a href="/company#about" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-about">About</a></li>
+          <li><a href="/company#leadership" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-leadership">Leadership</a></li>
+          <li><a href="/company#coverage" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="header-coverage">Coverage</a></li>
+          <li><a href="http://investors.vivintsolar.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="investor-relations">Investor relations</a></li>
         </ul>
       </li>
 		</ul>
@@ -815,7 +923,7 @@ header #call a {
 	</div>
 
 	
-		<a id="login-container" href="#globalModalForm" class="fancybox" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-support">&gt; Request a quote</a>
+		<a id="login-container" href="#globalModalForm" class="fancybox" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-support" onclick="dataLayer.push({'event': ‘solar14flrq'});"> Get a Free Quote</a>
 	
 </div>
 
@@ -831,6 +939,7 @@ header #call a {
 							</div>
 						</div>
 					</div>
+  </div>
 
 </header>
 <div id="header-offset"></div>
@@ -1105,7 +1214,7 @@ p {
                     <h4><strong>ONLINE PRIVACY POLICY ONLY</strong></h4>
                         <p>This online privacy policy applies only to information collected through our Site and not to information collected offline. </p>
                     <h4><strong>TERMS AND CONDITIONS OF USE</strong></h4>
-                    <p>Please also visit our Terms and Conditions of Use establishing the use, disclaimers, and limitations of liability governing the use of our Site at <a href="/en/terms-of-use"> http://www.vivintsolar.com/en/terms-of-use</a></p>
+                    <p>Please also visit our Terms and Conditions of Use establishing the use, disclaimers, and limitations of liability governing the use of our Site at <a href="/terms-of-use"> http://www.vivintsolar.com/terms-of-use</a></p>
                     <h4><strong>YOUR CONSENT</strong></h4>
                     <p>By using our Site, you consent to our online privacy policy. </p>
                     <h4><strong>CHANGES TO OUR PRIVACY POLICY</strong></h4>
@@ -1125,7 +1234,8 @@ p {
 </div>
 
       
-      <style>	
+      
+<style>	
 	.bottom-banner-pad
 	{
 		padding: 10px 0px;
@@ -1193,7 +1303,8 @@ p {
 
 
       
-      <style>
+      
+<style>
   footer
 	{		
 		background: #454545;
@@ -1447,13 +1558,19 @@ p {
 				
               	<div class="footer-email-sub">
                   <div class="footer-title">Email Subscription:</div>
-                  <form name="vivint.com_subscribe" action="https://s2984.t.eloqua.com/e/f2" id="form38" method="post" class="email-subscribe-form">
-                      <input value="vivint.com_subscribe" type="hidden" name="elqFormName">
-                      <input value="2984" type="hidden" name="elqSiteId">
-                      <input name="elqCampaignId" type="hidden">
-                      <input type="email" name="emailAddress" placeholder="Enter Email" required="">
-                      <input type="submit" class="footer-button" value="Subscribe">
-                  </form>
+                  <form name="vivint.com_subscribe" action="/form/capture" id="form38" class="email-subscribe-form subtle_form" method="post">						
+						<input type="email" name="FaasSubmission[faasub_email]" placeholder="Enter Email" required="">
+
+						<input id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="1b9e4f4fe100a2a84a1b85f87c6d2d001cc59483" type="hidden">
+						<input class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="115431" type="hidden">
+						<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="b061ee90f896f71af59df372230a8c17f3be4fba">
+						<input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
+						<input type="hidden" class="faasub_form_action" name="FaasSubmission[faasub_form_action]" value="subscribe">
+						<input type="hidden" class="faasub_thank_you_url" name="FaasSubmission[faasub_thank_you_url]" value="/thank-you">
+						<input type="hidden" class="faasub_custom_txt_2" name="FaasSubmission[faasub_custom_txt_2]">
+
+						<input type="submit" class="footer-button" value="Subscribe">
+					</form>
                 </div>	
 			</div>
 			
@@ -1461,24 +1578,25 @@ p {
 				<h2>Company:</h2>
 				<div class="dotted-hr"></div>
               
-              	<ul class="nav-group-9 parent-id-0"><li><a href="/en/company#about">About Us</a></li><li><a href="http://www.vivint.com/en/company/verify-rep" target="_blank">Verify Rep</a></li><li><a href="http://www.vivint.com/en/company/licenses" target="_blank">Licenses</a></li><li><a href="/en/contact-us">Contact Us</a></li><li><a href="/en/company#coverage">Service Areas</a></li><li><a href="/en/customer-stories">Customer Stories</a></li><li><a href="http://vivint.silkroad.com/epostings/index.cfm?fuseaction=app.welcome&amp;category_id=3353&amp;company_id=16132&amp;version=1&amp;startflag=1&amp;parent=Vivint%20Solar&amp;levelid1=3353" target="_blank">Careers</a></li><li><a href="/en/company#leadership">Leadership</a></li><li><a href="/en/company#newsroom">Newsroom</a></li><li><a href="http://www.vivint.com/en/company/gives-back" target="_blank">Vivint Gives Back</a></li></ul>
+              	<ul class="nav-group-9 parent-id-0"><li><a href="/company#about">About Us</a></li><li><a href="http://www.vivint.com/en/company/verify-rep" target="_blank">Verify Rep</a></li><li><a href="http://www.vivint.com/en/company/licenses" target="_blank">Licenses</a></li><li><a href="/contact-us">Contact Us</a></li><li><a href="/company#coverage">Service Areas</a></li><li><a href="/customer-stories">Customer Stories</a></li><li><a href="http://vivint.silkroad.com/epostings/index.cfm?fuseaction=app.welcome&amp;category_id=3353&amp;company_id=16132&amp;version=1&amp;startflag=1&amp;parent=Vivint%20Solar&amp;levelid1=3353" target="_blank">Careers</a></li><li><a href="/company#leadership">Leadership</a></li><li><a href="/company#newsroom">Newsroom</a></li><li><a href="http://www.vivint.com/en/company/gives-back" target="_blank">Vivint Gives Back</a></li></ul>
 				
 				<div class="dotted-hr"></div>
 				<ul class="locations">
 					<li>
 						<img src="//images.cdn.aws.vivint.com/global/solar/footer/location-drop.png">
 						<div class="footer-title">Main office</div>
-						4931 North
-						300 West<br>
-						Provo, UT
-						84604<br>
+						3301 North <br>
+						Thanksgiving Way<br>
+                        Suite 500<br>
+						Lehi, UT
+						84043<br>
 						t: <a href="tel:801.377.9111">801.377.9111</a><br>
 						f: <a href="tel:801.377.4116">801.377.4116</a><br>
 					</li>
 					<li>
 						<img src="//images.cdn.aws.vivint.com/global/solar/footer/location-drop.png">
 						<div class="footer-title">Regional Locations</div>
-						<a href="/en/contact-us" class="orange-link" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-locations">click here</a> to view all locations
+						<a href="/contact-us" class="orange-link" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-locations">click here</a> to view all locations
 					</li>
 				</ul>				
 			</div>
@@ -1499,27 +1617,28 @@ p {
 				</div><!-- /facebook-box -->
 				<div class="footer-social-links">
 					<div class="footer-social-head">Follow us on:</div>	
-                    <a href="http://neighborhood.vivint.com/" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-neighborhood.jpg"></a>
 					<a href="https://twitter.com/VivintSolar" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-twitter.jpg"></a>
 					<a href="https://www.facebook.com/VivintSolar" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-facebook.jpg"></a>                  
 					<a href="http://www.linkedin.com/company/vivint-solar" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-linkedin.jpg"></a>
-					<a href="http://www.youtube.com/vivinthome" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-youtube.jpg"></a>
-					<a href="http://www.pinterest.com/vivint/" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-pinterest.jpg"></a>
-					<a href="https://plus.google.com/+vivint/posts" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-googlePlus.jpg"></a>				
+					<a href="http://www.youtube.com/user/VivintSolar" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-youtube.jpg"></a>
+					<a href="https://plus.google.com/115861606122134074254/posts" rel="publisher" target="_blank"><img src="//images.cdn.aws.vivint.com/global/solar/footer/icon-social-googlePlus.jpg"></a>				
 				</div><!-- /footer-social-links -->
 			</div><!-- /footer-right -->
 			
 			<div class="footer-copyright">
-              Copyright © 2014 Vivint Solar, Inc. All rights reserved. License Numbers: CA: C46-973756, CT: HIC-0634382, CO: EC-0100200 DC: HIC-420213000052, DC: ECC-903277, HI: C13-CT-32026, MA: HIC-170848, MD: HIC-130385, NJ: HIC-13VH06589300, NY: SFK CO 51228-H, OR: CCB-196558, OR: BCD-CLR28, PA: HIC-089970, AZ: ROC288627, UT: S200/S202-8694003-5501<br><br>
-				<a href="http://www.vivintsolar.com/en/terms-of-use" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-terms">Terms of use</a>         
-				<a href="http://www.vivintsolar.com/en/privacy-policy" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-privacy">Privacy Policy</a>
+              Copyright © 2014 Vivint Solar, Inc. All rights reserved. License Numbers: CA: C46-973756, CT: HIC-0634382, ELC0189635-1, CO: EC-0100200 DC: HIC-420213000052, DC: ECC-903277, HI: C13-CT-32026, C13-CT-33444, MA: HIC-170848, MD: HIC-130385, NJ: HIC-13VH06589300, NY: SFK CO 51228-H, NY WCH Co 26664-H14, OR: CCB-196558, OR: BCD-CLR28, PA: HIC-089970, AZ: ROC288627, UT: S200/S202-8694003-5501<br><br>
+				<a href="http://www.vivintsolar.com/terms-of-use" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-terms">Terms of use</a>         
+				<a href="http://www.vivintsolar.com/privacy-policy" data-eventcategory="navigation" data-eventaction="click" data-eventlabel="footer-privacy">Privacy Policy</a>
 			</div>	<!-- /footer-copyright -->
 		</div><!-- /content -->
 	</footer>
+
+
       
     </div><!-- /.page  -->
     
-    <style>
+    
+<style>
   #globalModalForm
   {
     width: 240px;
@@ -1560,7 +1679,9 @@ p {
 
 <div id="globalModalForm" style="display:none;" title="Contact Vivint Solar">
   <h3>Get a free quote now</h3>
-  <style>
+  
+
+<style>
 form.subtle_form {
   font-family: 'Avenir LT W01 55 Roman';
   font-size: 11px;
@@ -1631,21 +1752,23 @@ form.subtle_form .i_submit:hover {
 </style>
 
 <div class="subtle_form_result ">
-  <div class="subtle_form_message hidden" data-done-path="278" path="278"></div>
-<form action="/form/capture" method="post" class="subtle_form ">
-	<input type="text" class="i_text faasub_name_first" name="FaasSubmission[faasub_name_first]" placeholder="First Name" data-pp-field="pp_fname" value="First Name" required=""> 
-	<input type="text" class="i_text faasub_name_last" name="FaasSubmission[faasub_name_last]" placeholder="Last Name" data-pp-field="pp_lname" value="Last Name" required=""> 
-	<input type="tel" class="i_text faasub_phone" maxlength="10" title="Enter your phone number. Please no dashes or spaces." name="FaasSubmission[faasub_phone]" placeholder="Phone" data-pp-field="pp_phone" value="Phone" required=""> 
-	<input type="tel" class="i_text faasub_postal" maxlength="8" name="FaasSubmission[faasub_postal]" placeholder="Zip" data-pp-field="pp_zip" value="Zip" required="">
-	<input type="email" class="i_text faasub_email" name="FaasSubmission[faasub_email]" placeholder="Email" data-pp-field="pp_email" value="Email" required="">  
+  <div class="subtle_form_message hidden" data-done-path="form/thank-you/solar" path="form/thank-you/solar"></div>
+<form action="/form/capture" method="post" class="subtle_form " novalidate="">
+	<input type="text" class="i_text faasub_name_first" name="FaasSubmission[faasub_name_first]" placeholder="First Name" data-pp-field="pp_fname" required=""> 
+	<input type="text" class="i_text faasub_name_last" name="FaasSubmission[faasub_name_last]" placeholder="Last Name" data-pp-field="pp_lname" required=""> 
+	<input type="tel" class="i_text faasub_phone" title="Enter your phone number. Please no dashes or spaces." name="FaasSubmission[faasub_phone]" placeholder="Phone" data-pp-field="pp_phone" required=""> 
+	<input type="tel" class="i_text faasub_postal" name="FaasSubmission[faasub_postal]" placeholder="Zip" data-pp-field="pp_zip" required="">
+	<input type="email" class="i_text faasub_email" name="FaasSubmission[faasub_email]" placeholder="Email" data-pp-field="pp_email" required="">  
   
   <p class="submit-text">By clicking this button, you consent for Vivint Solar to use automated technology to contact you at the number provided. This consent is not required to make a purchase from us.</p>  
   
-  <input type="submit" class="i_submit" name="Submit" value="Request Quote">
-	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="e43e169b5bc08b84635ef9b919a103a5839ffebc">
+  <input type="submit" class="i_submit" name="Submit" value="Request Quote
+" data-eventcategory="form" data-eventaction="click" data-eventlabel="form-submit">
+	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="1b9e4f4fe100a2a84a1b85f87c6d2d001cc59483">
 	<input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
 	<input type="hidden" class="faasub_send_to_elq" name="FaasSubmission[faasub_send_to_elq]" value="1">
-    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="34873">
+    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="34873
+">
 	<input type="hidden" class="faasub_elq_efid" name="FaasSubmission[faasub_elq_efid]" value="sSContactUs">
 	<input type="hidden" class="faasub_elq_esid" name="FaasSubmission[faasub_elq_esid]" value="2984">
 	<input type="hidden" class="faasub_elq_ecid" name="FaasSubmission[faasub_elq_ecid]" value="0">
@@ -1655,12 +1778,11 @@ form.subtle_form .i_submit:hover {
 </form>
 </div>
 
-
 <p class="formSecureTxt hideafter">We don't share your information.</p>  
 </div>
     
-    <script src="http://m.vivint.com/en/mobile-js-foot"></script>
+    <script src="http://m.vivint.com/mobile-js-foot"></script>
     <noscript><img src="//vivint.d1.sc.omtrdc.net/b/ss/vivintprod/1/H.24.1--NS/0" height="1" width="1" border="0" alt="" /></noscript>
-    
+
   
 </body></html>
