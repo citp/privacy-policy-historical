@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiancamsex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133211id_/http%3A//asiancamsex.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjM3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancamsex.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104913id_/http%3A//www.asiancamsex.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjM3LjM3LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Privacy Policy
 
