@@ -1,34 +1,38 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132139id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130823id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on Minecraft Multiplayer
+# Privacy Policy - Politique de Confidentialité
 
-We collect only the following informations from the use of " **Minecraft Multiplayer** ". We never sell your personal informations to third parties. If you have any questions or concerns regarding our privacy policy, please contact us at: [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
+__Lire la Version Française
 
-**Last Revision: March 08th, 2014**
+We collect only the following information for the use of " **Minecraft-mp.com** ". We never sell your personal information to third parties. If you have any questions or concerns regarding our privacy policy, please contact us at: [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
+
+**Last Revision: September 13th, 2014**
 
 ## What we collect
 
 ### User information
 
-When you register on " **Minecraft Multiplayer** ", you must provide us a nickname and a valid email address. We only use these informations for notices, warnings, internal newsletters, password retrieval and account activation.
+When you register on " **Minecraft-mp.com** ", you must provide us a nickname and a valid email address. We only use these information for notices, warnings, internal newsletters, password retrieval and account activation.
 
 **Your information will never be shared with any 3rd parties.**
 
 ### Server information
 
-When you register a server on " **Minecraft Multiplayer** ", we collect all informations you provide us with. By registering your server, you accept that we publicly publish some informations, like your server's IP address, server port...
+When you register a server on " **Minecraft-mp.com** ", we collect all information you provide us with. By registering your server, you accept that we publicly publish some information, like your server's IP address, server port...
 
 ### Access information
 
-Like many other Web sites, we make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, type of operation system, Internet Service Provider (ISP), date/time, referring/exit pages....
+Like many other websites, we make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, type of operating system, Internet Service Provider (ISP), date/time, referring/exit pages....
 
- _IP addresses and other such informations are not linked to any other informations that are personally identifiable_
+ _IP addresses and other such information are not linked to any other information that are personally identifiable_
 
 .
 
 ### Cookies
 
-" **Minecraft Multiplayer** " only use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Minecraft Multiplayer** ".
+" **Minecraft-mp.com** " use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Minecraft-mp.com** ".
+
+" **Minecraft-mp.com** " use cookies to detect and fight vote cheating. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to vote on " **Minecraft-mp.com** ". 
 
 ## Links to other websites
 
@@ -40,4 +44,48 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 ## Other Terms
 
-" **Minecraft Multiplayer** " reserves the right to change the Privacy Policy at anytime with or without notice.
+" **Minecraft-mp.com** " reserves the right to change the Privacy Policy at anytime with or without notice.
+
+__Read English Version
+
+Nous collectons les informations suivantes uniquement pour l'usage des services de " **Minecraft-mp.com** ". Nous nous ne céderons jamais vos informations personnelles à des tiers. Si vous avez des questions à propos de notre politique de confidentialité, vous pouvez nous contacter à : [admin@minecraft-mp.com](mailto:admin@minecraft-mp.com)
+
+**Dernière révision: 13 Septembre 2014**
+
+## Informations que nous collectons
+
+### Informations utilisateur
+
+Lorsque vous vous enregistrez sur " **Minecraft-mp.com** ", vous devez fournir un nom d'utilisateur ainsi qu'une adresse email valide. Nous utilisons uniquement ces informations pour les notifications, alertes, lettres d'information interne, réinitialisation de mot de passe et activation de compte.
+
+**Vos informations ne seront jamais partagées ou cédées à un tiers.**
+
+### Informations serveur
+
+Lorsque vous vous enregistrez un serveur sur " **Minecraft-mp.com** ", nous collectons toutes les informations que vous fournissez. En enregistrant votre serveur, vous acceptez que nous publions certaines informations, comme l'adresse IP de votre serveur, le numéro de port...
+
+### Informations d'accès
+
+Comme beaucoup de sites Internet, nous utilisons des fichiers d'historique. Les informations des fichiers d'historique inclues l'adresse IP, le type de navigateur, le type de système d'exploitation, le fournisseur d'accès Internet, la date et heure, les pages référentes...
+
+ _L'adresse IP et les autres informations ne sont pas liées à d'autre informations personnellement identifiable_
+
+.
+
+### Cookies
+
+" **Minecraft-mp.com** " utilise les cookies pour stocker les informations de session de votre compte. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de vous connecter sur " **Minecraft-mp.com** ".
+
+" **Minecraft-mp.com** " utilise les cookies pour détecter et combattre la triche au sein de notre système de vote. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de voter sur " **Minecraft-mp.com** ".
+
+## Liens vers d'autres sites
+
+Notre site Internet peut contenir des liens vers d'autres sites Internet. Cependant, une fois que vous utilisez ces liens pour quitter notre site Internet, vous devez comprendre que nous n'avons aucun contrôle sur les autres sites. Donc nous ne sommes plus responsable de la protection et de la confidentialité des informations que vous allez fournir en visitant ces sites. Vous devez faire attention et consulter la politique de confidentialité qui s'applique au site Internet en question.
+
+## Entreprises de publicités tierces
+
+Nous faisons appel à des entreprises de publicités tierces pour l'affichage de publicités lors de votre visite sur notre site Internet. Ces entreprises peuvent utiliser des informations (qui n'incluent en aucun cas votre nom, adresse ou numéro de téléphone) à propos de votre visite sur ce site et d'autres sites pour vous fournir des publicités ciblées sur des produits ou services. Si vous voulez plus d'informations sur ces pratiques et connaître les possibilités pour ne pas avoir ces informations utilisées par ces entreprises, cliquez [ici](http://www.networkadvertising.org/).
+
+## Modifications
+
+" **Minecraft-mp.com** " se réserve le droit de modifier sa politique de confidentialité à tout moment avec ou sans message d'avertissement.
