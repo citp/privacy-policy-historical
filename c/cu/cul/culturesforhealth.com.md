@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063135id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194036id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cultures for Health Privacy Policy | Customer Privacy
 
 This Application collects some Personal Data from its Users. Your privacy is important to us. We will not share your information with any third party except as required by law or as necessary to complete an order placed by you with us and conduct normal business operations (see below). Please feel free to call or [email us](mailto:customersupport@culturesforhealth.com?subject=Customer%20Support "Privacy Policy Inquiry") with any questions regarding our privacy policy.
 
