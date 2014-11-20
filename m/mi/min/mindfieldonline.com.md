@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100237id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131459id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
 ### Privacy Policy
 
-**Effective On 05/14/2014**
+**Effective On 09/04/2014**
 
 [](http://privacy.truste.com/privacy-seal/McMillion-Research/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe online privacy certification")
+
+This privacy policy applies to [http://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [http://mindfieldline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com]().
 
@@ -38,7 +40,7 @@ To use this website, first complete the registration form and create a user name
 
 You have the option to provide demographic information (such as income level, gender and zip code). We encourage you to submit this information since omission of this information may hinder your being eligible to participate in certain surveys.
 
-McMillion Research is the sole owner of the information collected on MindField Online. McMillion Research collects personally identifiable information from our users at several different points on our website. We do not provide contact information to third parties without notifying you prior to sharing the information.
+McMillion Research is the sole owner of the information collected on MindField Online. McMillion Research collects personally identifiable information from our users at several different points on our website.
 
 **Surveys**
 
@@ -46,7 +48,7 @@ We provide you the opportunity to participate in multiple surveys on our site. W
 
 **Facebook**
 
-Information obtained via Facebook integration is the sole property of McMillion Research as long as the member chooses to associate the information. The member has complete control within the Facebook application of what information is shared and integration with MindField Online. This information is not required for MindField Online membership. All privacy statements, policies, and business related actions with information obtained via Facebook fall under the same distinctions as the remainder of this privacy policy, in full and in part.
+Information obtained via Facebook integration is the sole property of McMillion Research as long as the member chooses to associate the information. The member has complete control within the Facebook application of what information is shared and integration with MindField Online. This information is not required for MindField Online membership. All privacy statements, policies, and business related actions with information obtained via Facebook fall under the same distinctions as the remainder of this privacy policy, in full and in part. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 **Referral System**
 
@@ -78,7 +80,7 @@ As a data collection facility, we share aggregated demographic information about
 
 **Personally Identifiable Information**
 
-We do not share, sell, or rent personally identifiable information with third parties without first providing you notice. Such information is needed for online focus groups and recruitments. If personal information is required, you will be notified before you participate. Your continued participation in the study after this notification acknowledges that you agree to the sharing of your personal information.
+We do not share, sell, or rent personally identifiable information with third parties only in the ways that are described in this privacy policy without first providing you notice. Such information is needed for online focus groups and recruitments. If personal information is required, you will be notified before you participate. Your continued participation in the study after this notification acknowledges that you agree to the sharing of your personal information.
 
 **Service Providers**
 
@@ -98,21 +100,15 @@ If you no longer wish to participate in our surveys and receive survey invitatio
 
 ## Log Files
 
-On our website, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
-
-We may need to link this automatically collected data to personally identifiable information for purposes such as investigating cases of fraud or misuse of the website.
-
-The use of cookies by our affiliates is not covered by our privacy policy. We do not have access or control over these cookies. Our affiliates use session ID and persistent cookies to make it easier for you to navigate our site 
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
 ## Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We currently use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We use cookies to remember users' settings and for authentication purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. Additionally, some cookies are used to help include you in specific client surveys. You can also reject these but it would keep you from receiving those special opportunities.
 
-We currently use session ID cookies only. We use session cookies to make it easier for you to navigate our site and maintain your session so you don't have to login repeatedly. A session ID cookie expires when you close your browser. We also use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. We use these to help us in tracking which studies you have participated in. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. For more information about cookies, and how they are used can be found here: <http://www.microsoft.com/info/cookies.mspx>
+## Tracking Technology
+
+Technologies such as: cookies, beacons, tags and scripts are used by McMillion Research and our marketing research partners, affiliates, and online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 ## Social Media Widgets
 
