@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2014-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620200319id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120045414id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	
@@ -8,7 +8,7 @@
 			<!-- Construct canonical URL -->
 <link rel="canonical" href="http://www.amtrak.com/privacy-policy">
 
-<title>Amtrak - Plan - Policies - Privacy Policy</title>
+<title>Amtrak - Policies - Privacy Policy</title>
 
 
 <meta name="robots" content="index,follow">
@@ -36,6 +36,7 @@
 <script src="http://www.amtrak.com/css/basic_booking.js" type="text/javascript"></script>
 <script src="http://www.amtrak.com/css/ib_front_page.js" type="text/javascript"></script>
 <script src="http://www.amtrak.com/css/mptoggle.js" type="text/javascript"></script>
+
 
 <script src="/css/jquery-1.7.2.min.js"></script>
  <script> jQuery.noConflict(); </script>
@@ -289,18 +290,56 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 				
 
 		<script language="JavaScript" src="/css/lib.js" type="text/javascript"></script>
+
 	</head>
 	<body>
-	<!--  <div id="body_wrapper"> -->
-	<!-- Begin HTML for Interior Template --><!-- Begin Header HTML for Interior Template --><!-- Begin HTML for Top Navigation --><!-- mp_trans_disable_start -->
+	
+<script src="http://cimage.adobe.com/amtrak/s_code_amtrak.js" type="text/javascript"></script>
 <script type="text/javascript">
- 
+
+
+
+if (cmslogg == "true" ) {
+
+var aurl = document.location.search;
+if (aurl.indexOf("asctev=true") !== -1) {
+s.events="event4";
+}
+
+s.eVar20="Logged in";
+s.eVar14=cmsfavorg;
+s.eVar15=cmsfavdest;
+s.eVar16=agrmember;
+s.eVar17=grcagrmember;
+s.eVar18=agrpts;
+
+} else {
+
+s.eVar20="Logged Out";
+}
+var s_code=s.t();if(s_code)document.write(s_code)
+
+</script>
+
+
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><img src="http://amtrak.d1.sc.omtrdc.net/b/ss/amtrakmain/1/H.25.5--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+	
+	
+
+	<!-- Begin HTML for Interior Template --><!-- Begin Header HTML for Interior Template --><!-- Begin HTML for Top Navigation --><!-- mp_trans_disable_start -->
+
+<script type="text/javascript">
 function switchLanguage(lang) {
     MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
     MP.switchLanguage(MP.UrlLang==lang?'en':lang);
     return false;
 }
 </script>
+
 <!-- mp_trans_disable_end -->	
 <div id="top_nav_wrapper" class="hp_top_wrapper"> 
 <div id="top_nav_left_cover">&nbsp;</div>
@@ -325,32 +364,99 @@ display:none;
 			              <a href="http://assistive.usablenet.com/tt/www.amtrak.com">Amtrak.com Low Vision Web Site</a>
             		</div>
 			
-			
-			<div id="language_select_wrapper" class="lang_selector">
-				<img src="/images/en/topnav/world_map.gif" alt="" class="language_img">
+			<div style="float:left;">	
 				
-				
-				<form id="language_select_wrapper">
-									<select name="language_select" option="language_select" id="language_select" onchange="language_select_2(this.form.language_select)">
-										<option value="#">English</option>
-										<option value="es">Español</option>
-										<option value="de">Deutsch</option>
-										<option value="fr">Français</option>
-										<option value="zs">中文</option>
-									</select>
-				
-				</form>
-				
-				
-				
-			</div>
-		 <!-- mp_trans_remove_start --> 
+				<!-- mp_trans_remove_start --> 
+				<script>
+				function askTextField()
+								{
+									if(document.getElementById('txtQuestion').value == '') {
+										document.getElementById('txtQuestion').value = "Ask me a question";
+									}	
+								}
+								function askTextFieldFocus()
+								{
+									if(document.getElementById('txtQuestion').value == "Ask me a question") {
+										document.getElementById('txtQuestion').value = "";
+									}	
+								}
 
-<div class="imgjulie"> <a class="button" href="javascript:NITAgent.showAgentWithGlobalWelcomeMessage();"><img id="askjulie" src="/images/en/topnav/Ask-Julie-GLP.gif" alt="I'm Julie, your virtual assistant. If you need help finding something, just ask me."></a></div>
+				</script>
+				<style>
 
+				.askjulie_input {
+				    left: 75px;
+				    position: absolute;
+				    top: 40px;
+				    width: 172px;
+				}
+				.askjulietext {
+				    color: #1375B3;
+				    height: 14px;
+				    width: 125px;
+				}
+				#imgtext{
+				 width: 248px !important;
+				 display: block;
+				}
+				.askbutton{
+				float:right;
+				padding-right:4px;
+				padding-top: 4px;
+				}
+				</style>
+				
+				<div id="imgtext" class="imgjulie"> 
+				<div id="askjulie">
+					<img src="/images/en/topnav/Ask-Julie-GLP.gif" alt="I'm Julie, your virtual assistant. If you need help finding something, just ask me.">
+					<div class="askjulie_input">
+										
+					<input class="askjulietext" type="text" onkeypress="handleAskEnter(event)" onblur="askTextField()" onfocus="askTextFieldFocus()" value="Ask me a question" name="txtQuestion" id="txtQuestion">
+					
+					<a class="askbutton button" href="javascript:NITAgent.showAgentWithQuestion(document.getElementById('txtQuestion').value);"><img id="askbutton" src="/images/en/topnav/btn_ask.png" alt="ask me"></a></div>
+				</div>
+				</div>
+				
+				<script>
+				function handleAskEnter(e) {
+				
+				if (e.keyCode == 13 || e.which == 13) {
+				
+				launchjuliewindow();
+				}
+				}
+				function launchjuliewindow(){
+				var input = document.getElementById('txtQuestion').value;
+				NITAgent.showAgentWithQuestion(input);
+				}
+				</script>
 
+				<!-- mp_trans_remove_end -->	
+						<div id="language_select_wrapper" class="lang_selector">
+							<img src="/images/en/topnav/world_map.gif" alt="" class="language_img">
+							
+							
+							<form id="language_select_wrapper">
+												<select name="language_select" option="language_select" id="language_select" onchange="language_select_2(this.form.language_select)">
+													<option value="#">English</option>
+													<option value="es">Español</option>
+													<option value="de">Deutsch</option>
+													<option value="fr">Français</option>
+													<option value="zs">中文</option>
+												</select>
+							
+							</form>
+							
+							
+							
+						</div>
+					 <!-- mp_trans_add
 
-<!-- mp_trans_remove_end --><!-- mp_trans_add
+<style>
+.lang_selector {
+    float: left;
+}
+</style>
 	<div id="nav_link_wrapper">
 			
 						<a href="/contact-us">Contact Us</a> <span class="topnav_pipe">|</span> 	
@@ -366,6 +472,9 @@ display:none;
 
 		
 	
+					 
+			</div>
+
 			<div class="clear_both">&nbsp;</div>
 			
 				<div id="button_wrapper">
@@ -434,8 +543,8 @@ display:none;
 	<a href="http://www.amtrak.com/west-train-routes">
 	West
 	</a></li><li>
-	<a href="http://www.amtrak.com/interactive-route-atlas">
-	Interactive Route Atlas
+	<a href="http://www.amtrak.com/virginia">
+	Take the Train to Virginia
 	</a></li><li>
 	<a href="http://www.amtrak.com/route-guides">
 	Downloadable Route Guides
@@ -469,7 +578,7 @@ display:none;
 	Regional Rail Tour Packages
 	</a></li><li>
 	<a href="http://www.amtrak.com/all-inclusive-train-vacation-packages">
-	Amtrak Vacations
+	Train Vacation Packages and Deals
 	</a></li><li>
 	<a href="http://www.amtrak.com/subscribe-and-save-with-amtrak-emails">
 	Subscribe and Save 
@@ -479,8 +588,8 @@ display:none;
 						
 		                <li>
 		                    
-			                	<a href="http://www.amtrak.com/train-travel-plan"><img src="/images/en/topnav/btn_Plan-on.gif" alt="Plan"></a>
-			                	<div class="dynlist"><ul><li class="ie6_first_child">
+			                	<a href="http://www.amtrak.com/train-travel-plan"><img src="/images/en/topnav/btn_Plan-off.gif" alt="Plan"></a>
+			                <div class="dynlist"><ul><li class="ie6_first_child">
 	<a href="http://www.amtrak.com/planning-booking">
 	Planning &amp; Booking
 	</a></li><li>
@@ -493,18 +602,11 @@ display:none;
 	<a href="http://www.amtrak.com/accessible-travel-services">
 	Accessible Travel Services
 	</a></li><li>
-	<a href="http://www.amtrak.com/policies">
-	Policies
-	</a></li><li>
 	<a href="http://www.amtrak.com/tickets-id-safety-security">
 	Tickets, ID, Safety &amp; Security
 	</a></li><li>
 	<a href="http://www.amtrak.com/travel-green-with-amtrak">
 	Travel Green with Amtrak
-	</a></li>
-	<li class="ie6_last_child">
-	<a href="http://www.amtrak.com/all-inclusive-train-vacation-packages">
-	Amtrak Vacations
 	</a></li></ul></div>
 				            											
 						</li>
@@ -745,16 +847,30 @@ addFormSubmitEvent(forms[i]);
 <div id="ff_sub_tabbar" class="show_section">
 <div class="active" id="ff_sub_tabbar_bookatrip">Book<span onclick="show_ff_sub_tab('bookatrip');"></span></div>
 <div id="ff_sub_tabbar_redeem">Redeem<span onclick="show_ff_sub_tab('redeem');"></span></div>
-<div id="ff_sub_tabbar_otherdiscounts">Discounts<span onclick="show_ff_sub_tab('otherdiscounts');"></span></div>
+<div id="ff_sub_tabbar_traveloptions">Travel Options<span onclick="show_ff_sub_tab('traveloptions');"></span></div>
 </div>
+
+
+
+
+
+
+
 
 
 <div id="farefinder_tabbody_tickets" class="farefinder_tabbody ff_active">
 <div id="ada_link" class="subdiv">
-<label for="ff_ada_link"><a href="/itd/amtrak/ada">Passengers with a Disability</a></label>
+<label for="ff_ada_link"><a href="javascript:show_adainfo(this)" onclick="javascript:show_adainfo(this)">Passengers with a Disability</a></label>
+<div id="ada_linktext" class="ada_linktext">
+<a class="button ada_infoclose" href="javascript:close_adainfo();"><img src="/images/en/btn_closeWindow.png" alt="Close"></a>
+<p>To make a reservation for a passenger with a disability, select Passenger with Disability (PWD) from the passenger type selection menu  below.</p>
+</div>
+<span id="ada_linktext_before"></span>
+<span id="ada_linktext_after"></span>
 </div>
 <form name="form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.AmtrakRailFareFinderPageHandler">
 <input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="farefamilies">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/@ff_tab_selected" value="bookatrip">
 <h2>Tickets</h2>
 
 <div id="ff_tickets_tt_cities_subdiv" class="subdiv level6">
@@ -781,7 +897,7 @@ addFormSubmitEvent(forms[i]);
 <div class="ff_date_wrapper">
 <label for="tickets_dep_date">Departs</label>
 
-<input class="wdfDate" onfocus="dateChangedTimer(1)" type="text" size="22" id="wdfdate1" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(1,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<input class="wdfDate" onfocus="dateChangedTimer(1)" type="text" size="22" id="wdfdate1" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(1,1)" value="Wed, Nov 19, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
 <!--
 document.write('<a class="calLink noloading" id="calLink1">&nbsp;</a>');//-->
 </script><a class="calLink noloading" id="calLink1">&nbsp;</a>
@@ -802,223 +918,6 @@ document.write('<a class="calLink noloading" id="calLink1">&nbsp;</a>');//-->
 document.write('<a class="calLink noloading" id="calLink2">&nbsp;</a>');//-->
 </script><a class="calLink noloading" id="calLink2">&nbsp;</a>
 <br><div id="calContainer2" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime2"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(2);setTripTypeIfReturnDateSelected(false)" id="wdftime2" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
-
-
-</div>
-</div>
-
-</div>
-<div id="ff_tickets_passengers_subdiv" class="subdiv level1">
-<div id="tickets_passengers">
-
-
-
-<div id="ff_adults_wrapper">
-<label style="line-height:1.1;" for="ff_adults"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Adult','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Adults</a><br> (13-61)</label>
-<select id="adults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="0">0</option><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
-</div>
-
-<div id="ff_seniors_wrapper">
-<label style="line-height:1.1;" for="ff_seniors"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Senior','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Seniors</a><br> (62+)</label>
-<select id="seniors" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Senior']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
-</div>
-
-
-
-
-<div id="ff_kids_wrapper">
-<label style="line-height:1.1;" for="ff_kids"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Child','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Children</a><br> (2-12)</label>
-<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('infants').options[document.getElementById('infants').selectedIndex].value, 'child_popup')" id="children" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Child']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
-</div>
-<div id="ff_infants_wrapper">
-<label style="line-height:1.1;" for="ff_infants"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Infant','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Infants</a><br> (under 2)</label>
-<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('children').options[document.getElementById('children').selectedIndex].value, 'child_popup')" id="infants" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Infant']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
-</div>
-</div>
-<br>
-
-
-
-<div id="child_popup" class="info_childpopup_ff hide_section">Children and infants must travel with an adult who is at least 18 years or older.</div>
-
-
-</div>
-
-<div id="ff_submit_button" class="subdiv">
-
-
-<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.farefamilies.AmtrakRailFareFamiliesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" onclick="javascript:return preFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]')" src="/images/en/btn_ff_findTrains.gif" border="0">
-
-
-</div>
-
-<div id="ff_promocode" class="subdiv">
-<label for="disc_promocode_text"><span class="bold_text">Promotion Code</span> </label>
-<div><input type="hidden" name="xwdf_promoCode" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/couponRequirements/coupon/code"><input type="text" size="5" id="ff_book_promoCode" maxlength="4" name="wdf_promoCode"></div>
-</div>
-
-<div class="clear_both"></div>
-
-
-</form>
-</div>
-
-
-
-
-
-<div id="farefinder_tabbody_redeem" class="farefinder_tabbody">
-<h2>Redeem Points</h2>
-<form name="ff_redeem_form" action="https://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.redeem.PresAmtrakRailRedeemFindATicketReqsPageHandler">
-<div id="ff_redeem_step_1" class="subdiv">
-<div id="ff_member_wrapper">
-
-
-
-
-
-
-
-<div class="form_line_wrapper first">
-<label for="ff_membernumber">Member Number</label>
-<span class="form_entry">
-<input type="text" id="ff_membernumber" maxlength="10" name="/sessionWorkflow/profileWorkflow/schemeAccount/membershipNumber">
-</span>
-</div>
-<div class="form_line_wrapper">
-<label for="ff_memberpassword">Member Password</label>
-<span class="form_entry">
-<input type="password" id="ff_memberpassword" maxlength="29" name="/sessionWorkflow/profileWorkflow/schemeAccount/@password">
-</span>
-</div>
-<br class="clear_both">
-
-
-
-</div>
-</div>
-<div id="ff_tickets_redeem_cities_subdiv" class="subdiv">
-
-<div id="tickets_dep_city" class="ff_city_wrapper">
-<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect" value="departTime">
-<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="redeem">
-<label for="agrdeparts">From</label>
-<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input class="text" type="text" id="agrdeparts" name="wdf_origin">
-<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrdeparts'; openStationList();">Find a Station</a></span></p>
-</div>
-<div id="tickets_arr_city" class="ff_city_wrapper level3">
-<label for="agrarrives">To</label>
-<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input class="text" type="text" id="agrarrives" name="wdf_destination">
-<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrarrives'; openStationList();">Find a Station</a></span></p>
-</div>
-<div id="redeem_from_auto" class="autocomplete level5" style="display:none"></div>
-<div id="redeem_to_auto" class="autocomplete level5" style="display:none"></div>
-
-</div>
-<div id="ff_redeem_dep_date_subdiv" class="subdiv">
-<div id="redeem_dep_date_time">
-<div class="ff_date_wrapper">
-<label for="wdfdate15">Departs</label>
-
-<input class="wdfDate" onfocus="dateChangedTimer(15)" type="text" size="22" id="wdfdate15" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(15,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
-<!--
-document.write('<a class="calLink noloading" id="calLink15">&nbsp;</a>');//-->
-</script><a class="calLink noloading" id="calLink15">&nbsp;</a>
-<br><div id="calContainer15" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftimenull"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(15);setTripTypeIfReturnDateSelected(false)" id="wdftime15" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
-
-
-</div>
-</div>
-</div>
-<div id="ff_redeem_passengers_subdiv" class="subdiv">
-<div id="redeem_passengers">
-<div id="ff_submit_button">
-<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.redeem.PresAmtrakRailRedeemSearchRequestHandler" onclick="javascript:return preRedeemSubmitActions('The following information is needed to process your request:')" src="/images/en/btn_ff_findTrains.gif" border="0">
-</div>
-<div id="passenger_wrapper">
-<label for="redeemadults">Passengers</label><br> (Max. of 8)
-</div>
-<div id="ff_redeem_passenger_select_wrapper">
-<select id="redeemadults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
-</div>
-</div>
-<br>
-<p><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;help=agrFindTicket','help','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Learn more</a> about redeeming points online for Amtrak travel.</p>
-</div>
-<br class="clear_both">
-</form>
-</div>
-<script language="JavaScript" type="text/javascript">
-<!--
-if( $('ff_sub_tabbar_bookatrip').hasClassName("active") ){
-show_ff_sub_tab('bookatrip');
-} else if( $('ff_sub_tabbar_redeem').hasClassName("active") ){
-show_ff_sub_tab('redeem');
-} else if( $('ff_sub_tabbar_otherdiscounts').hasClassName("active") ){
-show_ff_sub_tab('otherdiscounts');
-}
-//-->
-</script>
-
-
-
-
-
-
-<div id="farefinder_tabbody_otherdiscounts" class="farefinder_tabbody">
-<div id="ada_link" class="subdiv">
-<label for="ff_ada_link"><a href="/itd/amtrak/ada">Passengers with a Disability</a></label>
-</div>
-<form name="form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.AmtrakRailFareFinderPageHandler">
-<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="farefamilies">
-<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/@ff_tab_selected" value="otherdiscounts">
-<h2>Tickets</h2>
-
-<div id="ff_tickets_tt_cities_subdiv" class="subdiv level6">
-<div id="tickets_trip_type"><p>
-<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="oneway" name="wdf_TripType" value="OneWay" onclick="javascript:discountsBlankReturnDate()" checked="checked">&nbsp;<label for="oneway">One-Way</label>
-<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="othreturn" name="wdf_TripType" value="Return" onclick="javascript:setDiscountsReturnDate()">&nbsp;<label for="return">Round-Trip</label>
-<a href="/itd/amtrak/ComplexRail">Multi-City</a> &gt;</p>
-</div>
-<div id="tickets_dep_city" class="ff_city_wrapper">
-<label for="discountsdeparts">From</label>
-<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input type="text" autocomplete="off" id="discountsdeparts" maxlength="150" name="wdf_origin">
-<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='discountsdeparts'; openStationList();">Find a Station</a></span></p>
-</div>
-<div id="tickets_arr_city" class="ff_city_wrapper level3">
-<label for="discountsarrives">To</label>
-<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input type="text" autocomplete="off" id="discountsarrives" maxlength="150" name="wdf_destination">
-<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='discountsarrives'; openStationList();">Find a Station</a></span></p>
-</div>
-<div id="discounts_from_auto" class="autocomplete level5" style="display:none"></div>
-<div id="discounts_to_auto" class="autocomplete level5" style="display:none"></div>
-</div>
-<div id="ff_tickets_dep_ret_date_subdiv" class="subdiv level3" style="position:static;">
-<div id="discounts_dep_date_time" class="level5">
-<div class="ff_date_wrapper">
-<label for="wdfdate16">Departs</label>
-
-<input class="wdfDate" onfocus="dateChangedTimer(16)" type="text" size="22" id="wdfdate16" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(16,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
-<!--
-document.write('<a class="calLink noloading" id="calLink16">&nbsp;</a>');//-->
-</script><a class="calLink noloading" id="calLink16">&nbsp;</a>
-<br><div id="calContainer16" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime16"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(16);setTripTypeIfReturnDateSelected(false)" id="wdftime16" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
-
-
-</div>
-</div>
-
-
-<div id="discounts_ret_date_time" class="hide_section level4">
-<div class="ff_date_wrapper">
-
-<label for="wdfdate17">Returns</label>
-
-<input class="wdfDate" onfocus="dateChangedTimer(17)" type="text" size="22" id="wdfdate17" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departDate.date" onblur="dateChangedComplete(17,1)" readonly="readonly"><script language="JavaScript" type="text/javascript">
-<!--
-document.write('<a class="calLink noloading" id="calLink17">&nbsp;</a>');//-->
-</script><a class="calLink noloading" id="calLink17">&nbsp;</a>
-<br><div id="calContainer17" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime17"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(17);setTripTypeIfReturnDateSelected(false)" id="wdftime17" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
 
 
 </div>
@@ -1057,21 +956,52 @@ document.write('<a class="calLink noloading" id="calLink17">&nbsp;</a>');//-->
 <div id="oth_child_popup" class="info_childpopup_ff hide_section">Children and infants must travel with an adult who is at least 18 years or older.</div>
 
 
+
+<div class="subdiv unaccompaniedminor_link"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;ibsref=unaccompaniedMinor_FareFinder','ibsref','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Children 13-15 traveling alone</a></div>
+<style>
+.info_childpopup_ff {
+margin-bottom: 10px;
+}
+.unaccompaniedminor_link{
+font-size:11px;
+padding-bottom:5px;
+}
+</style>
+
 </div>
 
 <div id="ff_submit_button" class="subdiv">
 
 
-<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.farefamilies.AmtrakRailFareFamiliesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" onclick="javascript:return (preDiscountsFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]') &amp;&amp; validatePassDiscountSelect() )" src="/images/en/btn_ff_findTrains.gif" border="0">
+<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.farefamilies.AmtrakRailFareFamiliesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" onclick="javascript:return ( preFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]'))" src="/images/en/btn_ff_findTrains.gif" border="0">
 
 </div>
 
 <div id="ff_promocode" class="subdiv oth_promocode">
-<label for="disc_promocode_text"><span class="bold_text">Promotion Code</span> </label>
-<div>
-<input type="hidden" name="xwdf_promoCode" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/couponRequirements/coupon/code"><input type="text" size="5" id="ff_disc_promoCode" maxlength="4" name="wdf_promoCode">
+<input type="hidden" name="xwdf_promoCode" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/couponRequirements/coupon/code"><input onfocus="focuspromotext();" type="text" size="15" id="ff_disc_promoCode" maxlength="10" name="wdf_promoCode" onblur="blurpromotext();">
 </div>
-</div>
+<script>
+var promocode = 'Promo Code';
+function blurpromotext(){
+if(document.getElementById('ff_disc_promoCode').value == '') {
+document.getElementById('ff_disc_promoCode').value = promocode;
+}
+}
+function focuspromotext(){
+if(document.getElementById('ff_disc_promoCode').value == promocode) {
+document.getElementById('ff_disc_promoCode').value = "";
+}
+}
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Element.observe(window, 'load', function(){
+if(document.getElementById('ff_disc_promoCode').value == '') {
+document.getElementById('ff_disc_promoCode').value = promocode;
+}
+});
+//]]>
+</script>
 
 <div class="clear_both"></div>
 
@@ -1102,8 +1032,6 @@ if( $('ff_sub_tabbar_bookatrip').hasClassName("active") ){
 show_ff_sub_tab('bookatrip');
 } else if( $('ff_sub_tabbar_redeem').hasClassName("active") ){
 show_ff_sub_tab('redeem');
-} else if( $('ff_sub_tabbar_otherdiscounts').hasClassName("active") ){
-show_ff_sub_tab('otherdiscounts');
 }
 function discounttype(passtype) {
 var totaladults = jQuery('#oth_adults').val();
@@ -1120,8 +1048,8 @@ var k=0;
 if ( totaladperson != 0 ){
 for ( var i=0; i<totaladperson; i++) {
 count++;
-var adultopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior'>Senior</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
-var senopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior' selected='selected'>Senior</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
+var adultopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior'>Senior</option><option value='ADAPaxType_Adult'>Passenger with Disability (PWD)</option><option value='ADAPaxType_Companion'>Companion (Book with PWD)</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
+var senopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior' selected='selected'>Senior</option><option value='ADAPaxType_Adult'>Passenger with Disability (PWD)</option><option value='ADAPaxType_Companion'>Companion (Book with PWD)</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
 var adtlabel="Adult";
 if (jQuery('#adult_select'+i).val()) {
 var curadtval = "value='"+jQuery('#adult_select'+i).val()+"'";
@@ -1185,7 +1113,7 @@ dischtml += '<div id ="pass'+count+'" class="'+adtlabel+'"><div class="ff_disc_p
 if ( totalchilds != 0) {
 for ( var i=0; i<totalchilds; i++) {
 count++;
-var childopts= "<option value='Default'>Select</option><option value='Child'>Child (Ages 2-12)</option><option value='AAA Child'>AAA Child (Ages 2-12)</option><option value='Military Child'>Military Child (Ages 2-12)</option>";
+var childopts= "<option value='Default'>Select</option><option value='Child'>Child (Ages 2-12)</option><option value='ADAPaxType_Child'>Passenger with Disability (PWD)</option><option value='AAA Child'>AAA Child (Ages 2-12)</option><option value='Military Child'>Military Child (Ages 2-12)</option>";
 if (jQuery('#child_select'+i).val()) {
 var curchival = "value='"+jQuery('#child_select'+i).val()+"'";
 var newchival = "value='"+jQuery('#child_select'+i).val()+"' selected='selected'";
@@ -1262,8 +1190,167 @@ document.getElementById(newlabel).innerHTML =res;
 }
 }
 }
+function show_adainfo(faq)
+{
+if (document.getElementById("ada_linktext") != undefined)
+document.getElementById("ada_linktext").style.display = 'block';
+document.getElementById("ada_linktext_before").style.display = 'block';
+document.getElementById("ada_linktext_after").style.display = 'block';
+}
+function close_adainfo()
+{
+if (document.getElementById("ada_linktext") != undefined)
+document.getElementById("ada_linktext").style.display = 'none';
+document.getElementById("ada_linktext_before").style.display = 'none';
+document.getElementById("ada_linktext_after").style.display = 'none';
+}
+function closeAlertBox() {
+var $j = jQuery.noConflict();
+$j(".ui-dialog-content").dialog("close");
+}
+</script>
+<style>
+.disc_passenger_select {
+margin-top:2px;
+margin-left:0px;
+}
+</style>
+
+
+
+
+
+
+
+
+
+<div id="farefinder_tabbody_redeem" class="farefinder_tabbody">
+<h2>Redeem Points</h2>
+<form name="ff_redeem_form" action="https://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.redeem.PresAmtrakRailRedeemFindATicketReqsPageHandler">
+<div id="ff_redeem_step_1" class="subdiv">
+<div id="ff_member_wrapper">
+
+
+
+
+
+
+
+<div class="form_line_wrapper first">
+<label for="ff_membernumber">Member Number</label>
+<span class="form_entry">
+<input type="text" id="ff_membernumber" maxlength="10" name="/sessionWorkflow/profileWorkflow/schemeAccount/membershipNumber">
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="ff_memberpassword">Member Password</label>
+<span class="form_entry">
+<input type="password" id="ff_memberpassword" maxlength="29" name="/sessionWorkflow/profileWorkflow/schemeAccount/@password">
+</span>
+</div>
+<br class="clear_both">
+
+
+
+</div>
+</div>
+<div id="ff_tickets_redeem_cities_subdiv" class="subdiv">
+
+<div id="tickets_dep_city" class="ff_city_wrapper">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect" value="departTime">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="redeem">
+<label for="agrdeparts">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input class="text" type="text" id="agrdeparts" name="wdf_origin">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrdeparts'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="tickets_arr_city" class="ff_city_wrapper level3">
+<label for="agrarrives">To</label>
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input class="text" type="text" id="agrarrives" name="wdf_destination">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrarrives'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="redeem_from_auto" class="autocomplete level5" style="display:none"></div>
+<div id="redeem_to_auto" class="autocomplete level5" style="display:none"></div>
+
+</div>
+<div id="ff_redeem_dep_date_subdiv" class="subdiv">
+<div id="redeem_dep_date_time">
+<div class="ff_date_wrapper">
+<label for="wdfdate15">Departs</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(15)" type="text" size="22" id="wdfdate15" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(15,1)" value="Wed, Nov 19, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink15">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink15">&nbsp;</a>
+<br><div id="calContainer15" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftimenull"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(15);setTripTypeIfReturnDateSelected(false)" id="wdftime15" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+</div>
+<div id="ff_redeem_passengers_subdiv" class="subdiv">
+<div id="redeem_passengers">
+<div id="ff_submit_button">
+<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.redeem.PresAmtrakRailRedeemSearchRequestHandler" onclick="javascript:return preRedeemSubmitActions('The following information is needed to process your request:')" src="/images/en/btn_ff_findTrains.gif" border="0">
+</div>
+<div id="passenger_wrapper">
+<label for="redeemadults">Passengers</label><br> (Max. of 8)
+</div>
+<div id="ff_redeem_passenger_select_wrapper">
+<select id="redeemadults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+</div>
+<br>
+<p><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;help=agrFindTicket','help','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Learn more</a> about redeeming points online for Amtrak travel.</p>
+</div>
+<br class="clear_both">
+</form>
+</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+if( $('ff_sub_tabbar_bookatrip').hasClassName("active") ){
+show_ff_sub_tab('bookatrip');
+} else if( $('ff_sub_tabbar_redeem').hasClassName("active") ){
+show_ff_sub_tab('redeem');
+}
+//-->
 </script>
 
+
+
+<div id="farefinder_tabbody_traveloptions" class="farefinder_tabbody">
+<div class="cmstraveloptions" id="cmstraveloptions">
+<p><a class="button" href="/rail-deals-every-week-25-off-amtrak-fares-across-the-us"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288596252&amp;ssbinary=true" alt="Start Saving with SmartFares - New Deals Every Week">
+
+</a><br>
+<a class="button" href="http://tickets.amtrak.com/itd/amtrak/autotrain"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288596551&amp;ssbinary=true" alt="Make a Reservation on the Auto Train">
+
+</a><br>
+<a class="button" href="http://tickets.amtrak.com/itd/amtrak/multiride"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288591884&amp;ssbinary=true" alt="Buy Multi-Ride Tickets">
+
+</a><br>
+<a class="button" href="http://tickets.amtrak.com/itd/amtrak/selectpass"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288591915&amp;ssbinary=true" alt="Buy a USA Rail Pass">
+
+</a><br>
+<a class="button" href="/hotels-cars-travel-insurance-and-more"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288591946&amp;ssbinary=true" alt="Complete Your Trip with Hotels, Cars, Travel Insurance and More">
+
+</a><br>
+<a class="button" href="http://tickets.amtrak.com/itd/amtrak/grouptravel"> 
+
+<img src="http://www.amtrak.com/servlet/Satellite?blobcol=urldata&amp;blobheader=image%2Fgif&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1249288591983&amp;ssbinary=true" alt="Make a Group Travel Request">
+
+</a></p>
+</div>
+</div>
 
 <div id="farefinder_tabbody_status" class="farefinder_tabbody">
 
@@ -1277,7 +1364,7 @@ Date:
 </label>
 <span class="form_entry">
 
-<input class="wdfDate" onfocus="dateChangedTimer(10)" type="text" size="22" id="wdfdate10" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(10,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<input class="wdfDate" onfocus="dateChangedTimer(10)" type="text" size="22" id="wdfdate10" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(10,1)" value="Wed, Nov 19, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
 <!--
 document.write('<a class="calLink noloading" id="calLink10">&nbsp;</a>');//-->
 </script><a class="calLink noloading" id="calLink10">&nbsp;</a>
@@ -1384,7 +1471,7 @@ Time
 <div class="ff_date_wrapper">
 <label for="schedules_dep_date">Depart</label>
 
-<input class="wdfDate" onfocus="dateChangedTimer(5)" type="text" size="22" id="wdfdate5" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(5,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<input class="wdfDate" onfocus="dateChangedTimer(5)" type="text" size="22" id="wdfdate5" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(5,1)" value="Wed, Nov 19, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
 <!--
 document.write('<a class="calLink noloading" id="calLink5">&nbsp;</a>');//-->
 </script><a class="calLink noloading" id="calLink5">&nbsp;</a>
@@ -1471,6 +1558,7 @@ var stationslist = [
 'Aberdeen, MD (ABE)',
 'Absecon - NJ Transit Station, NJ (ABN)',
 'Adelanto, CA (ADE)',
+'Alanson - Bus Stop, MI (ALA)',
 'Albany, OR (ALY)',
 'Albany-Rensselaer, NY (ALB)',
 'Albion, MI (ALI)',
@@ -1531,9 +1619,10 @@ var stationslist = [
 'Berlin - Ocean Pines, MD (OCP)',
 'Berlin, NH (BIN)',
 'Big Rapids, MI (BGP)',
+'Billings - Bus Station, MT (BLG)',
+'Biloxi - Bus Station, MS (BIG)',
 'Bingen-White Salmon, WA (BNG)',
 'Birmingham, AL (BHM)',
-'Birmingham, MI (BMM)',
 'Blacksburg - Virginia Tech Bus Stop, VA (BLK)',
 'Bloomington-Normal, IL (BNL)',
 'Boise, ID (BOI)',
@@ -1541,15 +1630,16 @@ var stationslist = [
 'Boston - North Station Maine Service, MA (BON)',
 'Boston - South Station, MA (BOS)',
 'Boston - Route 128 / Westwood, MA (RTE)',
+'Bozeman - Bus Station, MT (BOZ)',
 'Bradenton, FL (BDT)',
 'Brattleboro, VT (BRA)',
+'Brent - Bus Stop, AL (BRR)',
 'Brewster, WA (BWW)',
 'Bridgeport, CT (BRP)',
 'Brookhaven, MS (BRH)',
 'Brookings - Bus Stop, OR (BKO)',
 'Browning, MT (BRO)',
 'Brunswick, ME (BRK)',
-'Brunswick - Bowdoin College, ME (BWC)',
 'Bryan, OH (BYN)',
 'Buellton, CA (BUL)',
 'Buffalo - Exchange St., NY (BFX)',
@@ -1558,12 +1648,13 @@ var stationslist = [
 'Burke - Burke Centre, VA (BCV)',
 'Burlington, IA (BRL)',
 'Burlington, NC (BNC)',
-'Burlington, VT (ESX)',
 'Burns, OR (BNS)',
+'Butte - Bus Station, MT (BUT)',
 'Cabazon - Bus Stop, CA (CBZ)',
 'Cadillac, MI (CLC)',
 'Camarillo, CA (CML)',
 'Cambridge, MD (CDE)',
+'Camden - Bus Stop, AL (CMD)',
 'Camden, SC (CAM)',
 'Camden-Rockport, ME (CDN)',
 'Camp Verde, AZ (CVD)',
@@ -1607,6 +1698,7 @@ var stationslist = [
 'Colfax, WA (CFX)',
 'Colorado Springs, CO (COS)',
 'Columbia, SC (CLB)',
+'Columbus - Bus Station, OH (COL)',
 'Columbus, WI (CBS)',
 'Colville - Bus Stop, WA (CVL)',
 'Concord, NH (CNH)',
@@ -1628,6 +1720,7 @@ var stationslist = [
 'Cumberland, MD (CUM)',
 'Cut Bank, MT (CUT)',
 'Dade City, FL (DDE)',
+'Dallas - Bus Station, TX (DAG)',
 'Dallas, TX (DAL)',
 'Damariscotta, ME (DAM)',
 'Danville, IL (DVI)',
@@ -1656,7 +1749,7 @@ var stationslist = [
 'Downingtown, PA (DOW)',
 'Du Quoin, IL (DQN)',
 'Dublin-Pleasanton, CA (DBP)',
-'Duluth - Greyhound Bus Station, MN (DUL)',
+'Duluth - Bus Depot, MN (DUL)',
 'Duluth - U of Minn Bus Stop, MN (DUU)',
 'Dunkirk, NY (DUK)',
 'Dunsmuir, CA (DUN)',
@@ -1673,6 +1766,7 @@ var stationslist = [
 'Edmonds, WA (EDM)',
 'Effingham, IL (EFG)',
 'Egg Harbor City - NJ Transit Station, NJ (EGH)',
+'El Paso - Bus Station, TX (ELB)',
 'El Paso, TX (ELP)',
 'El Portal, CA (EPL)',
 'El Segundo - Bus Stop, CA (ESG)',
@@ -1689,6 +1783,7 @@ var stationslist = [
 'Erie, PA (ERI)',
 'Escanaba - Bus Stop, MI (EMI)',
 'Essex, MT (ESM)',
+'Essex Junction, VT (ESX)',
 'Eugene - Bus Station, OR (EUB)',
 'Eugene, OR (EUG)',
 'Eugene - University of Oregon Bus Stop, OR (EUO)',
@@ -1743,6 +1838,7 @@ var stationslist = [
 'Gilroy, CA (GLY)',
 'Glasgow, MT (GGW)',
 'Glendale, CA (GDL)',
+'Glendive - Bus Stop, MT (GLD)',
 'Glenview, IL (GLN)',
 'Glenwood Springs, CO (GSC)',
 'Gold Hill - Bus Stop, OR (GHL)',
@@ -1768,8 +1864,10 @@ var stationslist = [
 'Greenville, SC (GRV)',
 'Greenwood, MS (GWD)',
 'Grimsby, ON (GMS)',
+'Grove Hill - Bus Stop, AL (GVH)',
 'Grover Beach, CA (GVB)',
 'Guadalupe-Santa Maria, CA (GUA)',
+'Gulfport - Bus Stop, MS (GUG)',
 'Hagerstown - Bus Stop, MD (HAG)',
 'Hamlet, NC (HAM)',
 'Hammond, LA (HMD)',
@@ -1784,6 +1882,7 @@ var stationslist = [
 'Hastings, NE (HAS)',
 'Hatch, NM (HCH)',
 'Hattiesburg, MS (HBG)',
+'Hattiesburg - Bus Stop, MS (HBI)',
 'Havelock - Bus Stop, NC (HVL)',
 'Haverhill, MA (HHL)',
 'Havre, MT (HAV)',
@@ -1815,6 +1914,7 @@ var stationslist = [
 'Indianapolis, IN (IND)',
 'Indio, CA (IDO)',
 'Irvine, CA (IRV)',
+'Jackson - Bus Stop, AL (JAA)',
 'Jackson, MI (JXN)',
 'Jackson, MS (JAN)',
 'Jacksonville, FL (JAX)',
@@ -1866,6 +1966,7 @@ var stationslist = [
 'Lancaster, CA (LCS)',
 'Lancaster, PA (LNC)',
 'Lapeer, MI (LPE)',
+'Las Cruces - Bus Stop, NM (LCR)',
 'Las Vegas, NM (LSV)',
 'Las Vegas - Airport Bus, NV (LAS)',
 'Las Vegas - Bus Service, NV (LVS)',
@@ -1896,6 +1997,7 @@ var stationslist = [
 'Littleton, NH (LTL)',
 'Livermore - Transit Center ACE Station, CA (LIV)',
 'Livermore - Vasco Rd ACE Station, CA (VAS)',
+'Livingston - Bus Stop, MT (LVG)',
 'Lodi, CA (LOD)',
 'Lompoc, CA (LOM)',
 'Long Beach, CA (LBC)',
@@ -1910,7 +2012,7 @@ var stationslist = [
 'Mackinaw City, MI (MAK)',
 'Macomb, IL (MAC)',
 'Madera, CA (MDR)',
-'Madison - UW Memorial Union, WI (MSN)',
+'Madison - University of Wisconsin Bus Stop, WI (MSN)',
 'Madison - Madison - South, WI (SMD)',
 'Malta, MT (MAL)',
 'Malvern, AR (MVN)',
@@ -1922,6 +2024,7 @@ var stationslist = [
 'Manton - Bus Station, MI (MTO)',
 'Maricopa, AZ (MRC)',
 'Marinette - Bus Stop, WI (MWI)',
+'Marion - Bus Stop, AL (MAA)',
 'Mariposa - Midtown Bus Stop, CA (MRM)',
 'Mariposa, CA (MRP)',
 'Marquette - Bus Stop, MI (MQT)',
@@ -1943,15 +2046,19 @@ var stationslist = [
 'Merced, CA (MCD)',
 'Meriden, CT (MDN)',
 'Meridian, MS (MEI)',
+'Mesquite - Bus Station, TX (MSQ)',
 'Metropark-Iselin, NJ (MET)',
 'Miami, FL (MIA)',
 'Michigan City, IN (MCI)',
 'Middletown, PA (MID)',
 'Midpines, CA (MDP)',
+'Miles City - Bus Stop, MT (MLS)',
 'Milwaukee - Airport, WI (MKA)',
 'Milwaukee, WI (MKE)',
 'Mineola, TX (MIN)',
 'Minot, ND (MOT)',
+'Missoula - Greyhound Station, MT (MLA)',
+'Mobile - Bus Station, AL (MOG)',
 'Modesto, CA (MOD)',
 'Mojave, CA (MOJ)',
 'Moline, IL (MLI)',
@@ -1962,6 +2069,7 @@ var stationslist = [
 'Monterey - Marriot, CA (MYM)',
 'Monterey - Travelodge, CA (MYT)',
 'Monterey Bay - Monterey Bay Aquarium, CA (MYA)',
+'Montgomery - Bus Station, AL (MGM)',
 'Montgomery, WV (MNG)',
 'Montpelier-Barre, VT (MPR)',
 'Montreal, QC (MTR)',
@@ -1971,10 +2079,10 @@ var stationslist = [
 'Morgan Hill, CA (MHC)',
 'Moscow, ID (MOC)',
 'Moses Lake, WA (MLK)',
-'Mosinee - Bus Stop, WI (MSI)',
 'Mount Joy, PA (MJY)',
 'Mount Pleasant, IA (MTP)',
 'Mount Vernon, WA (MVW)',
+'Mt. Vernon - Bus Stop, AL (MTV)',
 'Mystic, CT (MYS)',
 'Nacogdoches, TX (NCG)',
 'Nampa, ID (NAM)',
@@ -2194,11 +2302,14 @@ var stationslist = [
 'Sebring, FL (SBG)',
 'Sedalia, MO (SED)',
 'Sedona - Sedona Ctr Uptown Bus Stop, AZ (SDC)',
+'Selma - Bus Station, AL (SLA)',
 'Selma-Smithfield, NC (SSM)',
 'Shawano - Bus Stop, WI (SHW)',
 'Sheboygan - Bus Stop, WI (SHB)',
 'Shelby, MT (SBY)',
-'Shreveport, LA (SHR)',
+'Shreveport - Bus Station, LA (SHG)',
+'Shreveport - Airport Bus Stop, LA (SHR)',
+'Sidney - Bus Stop, MT (SIY)',
 'Simi Valley, CA (SIM)',
 'Sisters - Bus Stop, OR (STO)',
 'Skykomish - Bus Stop (Eastbound), WA (SKE)',
@@ -2258,6 +2369,7 @@ var stationslist = [
 'Texarkana, AR (TXA)',
 'The Dalles, OR (THD)',
 'The Villages - Bus Stop, FL (TVF)',
+'Thomasville - Bus Stop, AL (THM)',
 'Thurmond, WV (THN)',
 'Ticonderoga, NY (FTC)',
 'Tilton, NH (TLT)',
@@ -2281,6 +2393,7 @@ var stationslist = [
 'Tusayan, AZ (TSY)',
 'Tuscaloosa, AL (TCL)',
 'Twin Falls, ID (TFI)',
+'Tyler - Bus Station, TX (TYL)',
 'Tyrone, PA (TYR)',
 'Ukiah, CA (UKH)',
 'Utica, NY (UCA)',
@@ -2399,24 +2512,6 @@ fullSearch: false
 }
 );
 new AmtrakAutocompleter.Local('agrarrives','redeem_to_auto',stationslist, {
-choices: 100,
-paramName: "_destination",
-minChars: 2,
-frequency: 0.5,
-partialSearch: false,
-fullSearch: false
-}
-);
-new AmtrakAutocompleter.Local('discountsdeparts','discounts_from_auto', stationslist, {
-choices: 100,
-paramName: "_origin",
-minChars: 2,
-frequency: 0.5,
-partialSearch: false,
-fullSearch: false
-}
-);
-new AmtrakAutocompleter.Local('discountsarrives','discounts_to_auto',stationslist, {
 choices: 100,
 paramName: "_destination",
 minChars: 2,
@@ -2617,6 +2712,10 @@ return fieldList;
 function checkValidCouponCode(id){
 var errorMsg='';
 var newCouponCode = document.getElementById(id).value;
+if(newCouponCode == "Promo Code") {
+document.getElementById('ff_disc_promoCode').value = "";
+newCouponCode= ""
+}
 newCouponCode = trim(newCouponCode);
 if(newCouponCode == '')
 return true;
@@ -2837,7 +2936,7 @@ function updateDateState(){
 <script language="JavaScript" type="text/javascript">
 <!--
 var booking_min_date = new Date();
-var booking_max_date = new Date(2015, 4, 21);
+var booking_max_date = new Date(2015, 9, 20);
 function calConfig(itdUniqueId, cal, minDate, maxDate) {
 cal.cfg.setProperty("close", true);
 cal.cfg.setProperty("iframe", true);
@@ -2868,7 +2967,7 @@ var returnDaysAhead = 1;
 <script language="JavaScript" type="text/javascript">
 <!--
 var itd_cal1 = new YAHOO.widget.Calendar("itd_cal1", "calContainer1");
-calConfig("1", itd_cal1, new Date(), new Date(2015, 4, 21));
+calConfig("1", itd_cal1, new Date(), new Date(2015, 9, 20));
 //-->
 </script>
 <script language="JavaScript" type="text/javascript">
@@ -2929,37 +3028,25 @@ function timeChanged() {
 <script language="JavaScript" type="text/javascript">
 <!--
 var itd_cal2 = new YAHOO.widget.Calendar("itd_cal2", "calContainer2");
-calConfig("2", itd_cal2, new Date(), new Date(2015, 4, 21));
+calConfig("2", itd_cal2, new Date(), new Date(2015, 9, 20));
 //-->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!--
 var itd_cal15 = new YAHOO.widget.Calendar("itd_cal15", "calContainer15");
-calConfig("15", itd_cal15, new Date(), new Date(2015, 4, 21));
-//-->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-var itd_cal16 = new YAHOO.widget.Calendar("itd_cal16", "calContainer16");
-calConfig("16", itd_cal16, new Date(), new Date(2015, 4, 21));
-//-->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-var itd_cal17 = new YAHOO.widget.Calendar("itd_cal17", "calContainer17");
-calConfig("17", itd_cal17, new Date(), new Date(2015, 4, 21));
+calConfig("15", itd_cal15, new Date(), new Date(2015, 9, 20));
 //-->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!--
 var itd_cal10 = new YAHOO.widget.Calendar("itd_cal10", "calContainer10");
-calConfig("10", itd_cal10, new Date(2014, 5, 15), new Date(2014, 5, 25));
+calConfig("10", itd_cal10, new Date(2014, 10, 14), new Date(2014, 10, 24));
 //-->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!--
 var itd_cal5 = new YAHOO.widget.Calendar("itd_cal5", "calContainer5");
-calConfig("5", itd_cal5, new Date(), new Date(2015, 4, 21));
+calConfig("5", itd_cal5, new Date(), new Date(2015, 9, 20));
 //-->
 </script>
 
@@ -3052,14 +3139,6 @@ function checklogin(){
  var cookieValue = getCookie("LoginCookie");
    if(cookieValue != null) {
    
-   $('ff_sub_tabbar_bookatrip').removeClassName('active');
-   
-   $('farefinder_tabbody_tickets').removeClassName('ff_active');
-      
-   $('ff_sub_tabbar_otherdiscounts').addClassName('active');
-   
-   $('farefinder_tabbody_otherdiscounts').addClassName('ff_active');  
-   
    var iijsval = getCookie("iijs");
    
    if(iijsval != null && iijsval != undefined) {
@@ -3092,121 +3171,56 @@ function checklogin(){
            });  
        //]]> 
      </script>	
-
+<style>
+.info_childpopup_ff {
+    margin-bottom: 5px;
+}
+.unaccompaniedminor_link {
+    padding-top: 5px;
+}
+</style>
 <!-- -->
 		<div id="subnav_menu">
 		
 		
-											<img src="http://www.amtrak.com/css/images/cms/sub_browseTopic.gif" alt="Browse by Topic">
-										
-						<ul>
-					<li><a href="/planning-booking">Planning &amp; Booking</a>
-
-				</li>
-			<li><a href="/at-the-station">At the Station</a>
-
-				</li>
-			<li><a href="/onboard">Onboard</a>
-
-				</li>
-			<li><a href="/accessible-travel-services">Accessible Travel Services</a>
-
-				</li>
-			<li class="highlighted highlightedparent">
-								<a href="/policies">Policies</a>
-							<ul>
+									<img src="http://www.amtrak.com/css/images/cms/sub_browseTopic.gif" alt="Browse by Topic">
 						
-
-							<li><a href="/baggage-policy">Baggage Policy &amp; Service</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/refund-and-exchange-policy">Refund and Exchange Policy</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/terms-of-transportation">Terms of Transportation</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/service-animals-and-pet-policy">Service Animals and Pet Policy</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/photography-video-recording-policy">Photography &amp; Video Recording</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/smoking-policy">Smoking Policy</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/unaccompanied-minors-policy">Unaccompanied Minors</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/firearms-in-checked-baggage">Firearms in Checked Baggage</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-
-							<li><a href="/first-amendment-policy">First Amendment Policy</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							<li class="highlighted">Privacy Policy</li>
-
-							<li><a href="/non-discrimination-policy">Non-Discrimination Policy</a>
-
-							<ul>
-							
-							</ul>
-							</li>
-							
-						</ul>
-					
+						
+						
+						
+						<ul>
+					<li><a href="/baggage-policy">Baggage Policy &amp; Service</a>
 
 				</li>
-			<li><a href="/tickets-id-safety-security">Tickets, ID, Safety &amp; Security</a>
+			<li><a href="/refund-and-exchange-policy">Refund and Exchange Policy</a>
 
 				</li>
-			<li><a href="/travel-green-with-amtrak">Travel Green with Amtrak</a>
+			<li><a href="/terms-of-transportation">Terms of Transportation</a>
 
 				</li>
-			<li><a href="/all-inclusive-train-vacation-packages">Amtrak Vacations</a>
+			<li><a href="/service-animals-and-pet-policy">Service Animals and Pet Policy</a>
+
+				</li>
+			<li><a href="/photography-video-recording-policy">Photography &amp; Video Recording</a>
+
+				</li>
+			<li><a href="/smoking-policy">Smoking Policy</a>
+
+				</li>
+			<li><a href="/unaccompanied-minors-policy">Unaccompanied Minors</a>
+
+				</li>
+			<li><a href="/firearms-in-checked-baggage">Firearms in Checked Baggage</a>
+
+				</li>
+			<li><a href="/first-amendment-policy">First Amendment Policy</a>
+
+				</li>
+			
+								<li class="highlighted">Privacy Policy
+
+				</li>
+			<li><a href="/non-discrimination-policy">Non-Discrimination Policy</a>
 
 				</li>
 			
@@ -3269,7 +3283,7 @@ border-radius: 10px 10px 0px 0px
 
 #toolbar div.centered {
 	display: block;
-	left: 50%;
+	left: 58%;
 	position: absolute;
 	width: 830px;
 	margin-left: -405px;
@@ -3359,8 +3373,8 @@ width:54px;
     overflow: hidden;
     padding-top: 2px;
     position: relative;
-    width: 46px;
     height:20px;
+    margin-left: 20px;
 
 }
 
@@ -3369,6 +3383,11 @@ div.centered {
     left: 28%;
     position: absolute;
     width: 850px;
+}
+.topgplus{
+    float: right;
+    padding-right: 20px;
+    padding-top: 3px;
 }
 </style>
 
@@ -3474,7 +3493,7 @@ div.centered {
 </script>
 
 
-			<div id="page_tools_by_breadcrumbs" class="page_tools" style="width:325px;">
+			<div id="page_tools_by_breadcrumbs" class="page_tools">
 		<!--Email URL --><!--ThisBlobURL-->
 		
 		
@@ -3484,10 +3503,6 @@ div.centered {
 			<div class="page_toolbox">
 		
 		
-		
-			
-			<a href="javascript:openWin('/servlet/ContentServer?pagename=am/EmailPopup&amp;atype=Page&amp;aid=1241267362239&amp;articlepage=am/Layout',680,600)" onclick="_gaq.push(['_trackEvent', 'Tool Buttons Menu', 'Email', 'Email Button Click',0,true]);" class="button"><img src="/css/images/tool_emailIconLg.gif" alt="Email this page" class="toolbox_email"></a>
-								
 		
 					<a href="javascript:doZoom('100')" class="button"><img src="/css/images/tool_textSizeIcon_small.gif" alt="Change text size small" class="toolbox_textsize"></a><a href="javascript:doZoom('120')" class="button"><img src="/css/images/tool_textSizeIcon_medium.gif" alt="Change text size medium" class="toolbox_textsize"></a><a href="javascript:doZoom('135')" class="button"><img src="/css/images/tool_textSizeIcon_large.gif" alt="Change text size large" class="toolbox_textlarge"></a>
 				
@@ -3509,7 +3524,7 @@ div.centered {
 						
 						</div>		
 		
-				<div id="fb_disp" class="afb_icon"><fb:like href="" send="false" layout="button_count" width="50" show_faces="false" font="verdana"></fb:like><script type="text/javascript">_ga.trackFacebook();</script></div>
+				<div id="fb_disp" class="afb_icon"><fb:like layout="button" action="like" show_faces="false" share="false"></fb:like><script type="text/javascript">_ga.trackFacebook();</script></div>
 				
 				<div class="topgplus"><g:plusone size="medium" annotation="none"></g:plusone></div>
 				
@@ -3569,21 +3584,10 @@ div.centered {
 
 					        <div class="share_footer" style="padding-top:7px"><a href="http://pinterest.com/Amtraktravels/" target="_blank"><img src="http://passets-lt.pinterest.com/images/about/buttons/small-p-button.png" width="16" height="16" alt="Follow Me on Pinterest"></a></div>							
 						
-											<div class="share_footer" style="padding-top:8px;padding-bottom:6px;"><img src="/css/images/tool_emailIconLg.gif" alt="Email" style="margin-right:10px;vertical-align: middle;"><a href="javascript:openWin('/servlet/ContentServer?pagename=am/EmailPopup&amp;atype=Page&amp;aid=1241267362239&amp;articlepage=am/Layout',680,600)">Email</a></div>	
-											
-		
-					<div class="share_footer" id="ws_link"><a href="/whistle-stop/home?utm_source=Btmtool&amp;utm_medium=amtrak.com%2B&amp;utm_content=WSIcon&amp;utm_campaign=WS" class="button" target="_blank"> 
-
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249240035993&amp;blobheader=image%2Fgif" alt="">
-
-</a><a href="/whistle-stop/home?utm_source=Btmtool&amp;utm_medium=amtrak.com%2B&amp;utm_content=WSText&amp;utm_campaign=WS" target="_blank">Share Your Rail Tale</a></div>	
-											
-											
-							
 		
 					<div class="share_footer" id="ss_link"><a class="button" href="/subscribe-and-save-with-amtrak-emails?utm_source=Btmtool&amp;utm_medium=amtrak.com&amp;utm_content=SubnSaveIcon&amp;utm_campaign=SubnSave&amp;WT.mc_t=FtrIcon_SS&amp;WT.mc_n=SSpage&amp;WT.mc_r=365"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249240015637&amp;blobheader=image%2Fgif" alt="Subscribe to Amtrak E-mails and Save">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249240015637&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Subscribe to Amtrak E-mails and Save">
 
 </a><a href="/subscribe-and-save-with-amtrak-emails?utm_source=Btmtool&amp;utm_medium=amtrak.com&amp;utm_content=SubnSaveText&amp;utm_campaign=SubnSave&amp;WT.mc_t=FtrText_SS&amp;WT.mc_n=SSpage&amp;WT.mc_r=365">Subscribe and Save</a></div>	
 							
@@ -3832,7 +3836,7 @@ div.centered {
 	}
 	
 	#page_tools_by_breadcrumbs {
-	    margin-bottom: 4px; 
+	    margin-bottom: 3px; 
 }
 
 .page_toolbox{
@@ -3883,9 +3887,7 @@ z-index: 100;
 
 
 					<div class="breadcrumbs">
-					<a href="/train-travel-plan">Plan</a>
-								<span class="gt">&gt;</span>
-							<a href="/policies">Policies</a>
+					<a href="/policies">Policies</a>
 	
 	
 					</div>
@@ -4122,72 +4124,64 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
    				
 							<div class="topslot4">
 							
-							<div class="footer_block1"><p> 
+									<div class="footer_block1"><p> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252862672&amp;blobheader=image%2Fgif" alt="Connect with Us">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249252862672&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Connect with Us">
 
 </p>
 <p class="marginbtm0"><a class="button" target="_blank" href="http://www.facebook.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304640&amp;blobheader=image%2Fgif" alt="Amtrak on Facebook">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249272304640&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak on Facebook">
 
 </a> <a class="button" target="_blank" href="http://www.twitter.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304692&amp;blobheader=image%2Fgif" alt="Follow Amtrak on Twitter ">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249272304692&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Follow Amtrak on Twitter ">
 
 </a> <a class="button" target="_blank" href="http://www.instagram.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249267572922&amp;blobheader=image%2Fgif" alt="Amtrak on Instagram">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249267572922&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak on Instagram">
+
+</a> <a class="button" target="_blank" href="http://www.linkedin.com/company/amtrak"> 
+
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249281507455&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak on LinkedIn">
 
 </a> <a target="_blank" style="text-decoration: none" href="https://plus.google.com/113087815240989591382"><img alt="Google+" style="border-bottom: 0px; border-left: 0px; width: 16px; height: 16px; border-top: 0px; border-right: 0px" src="//ssl.gstatic.com/images/icons/gplus-16.png"></a><a class="button" target="_blank" href="http://www.youtube.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304736&amp;blobheader=image%2Fgif" alt="Watch Amtrak on YouTube">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249272304736&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Watch Amtrak on YouTube">
 
 </a> <a class="button" target="_blank" href="http://pinterest.com/amtraktravels/"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249249041970&amp;blobheader=image%2Fgif" alt="Amtrak on Pinterest">
-
-</a> <a class="button" target="_blank" href="/whistle-stop/home"> 
-
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249236814362&amp;blobheader=image%2Fgif" alt="Amtrak Whistle Stop ">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249249041970&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak on Pinterest">
 
 </a> <a class="button" href="/rss"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252838888&amp;blobheader=image%2Fgif" alt="Get Amtrak RSS Feeds">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249252838888&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Get Amtrak RSS Feeds">
 
 </a></p>
 <div></div>
-<p></p></div>
+<p></p></div>	</div>	
+														
 							
-							
-							
-							</div>					
-						
 							<div class="topslot4">
 								
-							
-								<div class="footer_block"><p class="marginbtm0"><a href="http://trip.amtrak.com/hotel_searches/new?utm_source=footer&amp;utm_medium=weblink&amp;utm_campaign=spring_2013" class="button" target="_blank"> 
+														
+									<div class="footer_block"><p class="marginbtm0"><a href="/all-inclusive-train-vacation-packages" class="button"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249256615550&amp;blobheader=image%2Fgif" alt="Hotels, rental cars, things to do and more">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249252838780&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak Vacations">
 
-</a></p></div>
+</a></p></div>	</div>
 								
-							
-							</div>					
-						
 							<div class="topslot4">
 								
-							
-								<div class="footer_block"><p class="marginbtm0"><a href="https://amtrakguestrewards.com/home/index/?utm_source=Amtrak&amp;utm_medium=FooterImage&amp;utm_term=JoinToday&amp;utm_content=EarnFreeTravelFast&amp;utm_campaign=AmtrakFooter" target="_blank" class="button"> 
+														
+									<div class="footer_block"><p class="marginbtm0"><a href="https://amtrakguestrewards.com/home/index/?utm_source=Amtrak&amp;utm_medium=FooterImage&amp;utm_term=JoinToday&amp;utm_content=EarnFreeTravelFast&amp;utm_campaign=AmtrakFooter" target="_blank" class="button"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252931560&amp;blobheader=image%2Fgif" alt="Amtrak Guest Rewards">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249252931560&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="Amtrak Guest Rewards">
 
-</a></p></div>
+</a></p></div>	</div>
 								
-							
-							</div>					
 						
-						<div class="topslot4">
+							<div class="topslot4">
 							<div id="subscribe_program_content" class="subscribe_footer">
 								<img src="/css/images/subscribeAndSave_interior.gif" alt="Subscribe and Save">
 								<div class="form_line">
@@ -4204,6 +4198,8 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 							
 							</div>
 						</div>
+
+						
 				
 				
    				
@@ -4211,8 +4207,8 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
    				
    				</div>
 	</div> 
-   				
-   			
+	
+	
  		 	 <div id="internal_footer_bottom">
  		 	 <div id="internal_bottomfooter"> 	
  		 	 
@@ -4221,33 +4217,32 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 							
 							<div class="footer_block_bottom btmfirst"><p class="footerfont"><!-- mp_trans_disable_start -->©2014 National Railroad Passenger Corporation<!-- mp_trans_disable_end --></p>
 <ul>
+    <li><a href="/service-alerts-and-notices">Service Disruptions</a></li>
     <li>
 					<a href="/contact-us">Contact Us</a>
 			</li>
     <li><a href="/servlet/ContentServer?c=Page&amp;pagename=am/Page/AdvancedSearch&amp;cid=1237748590271">Search</a></li>
-    <li>
-				<a href="/change-amtrak-for-low-vision-and-screen-readers">Change for Low Vision</a>
-		</li>
+    <li><a href="http://assistive.usablenet.com/tt/www.amtrak.com/home">Change for Low Vision</a></li>
 </ul>
 <p class="marginbtm0"><a class="button" onclick="return switchLanguage('en')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445226&amp;blobheader=image%2Fgif" alt="View Amtrak.com in English">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249280445226&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="View Amtrak.com in English">
 
 </a> <a class="button" onclick="return switchLanguage('es')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445346&amp;blobheader=image%2Fgif" alt="View Amtrak.com in Spanish">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249280445346&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="View Amtrak.com in Spanish">
 
 </a> <a class="button" onclick="return switchLanguage('de')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445381&amp;blobheader=image%2Fgif" alt="View Amtrak.com in German">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249280445381&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="View Amtrak.com in German">
 
 </a> <a class="button" onclick="return switchLanguage('fr')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445301&amp;blobheader=image%2Fgif" alt="View Amtrak.com in French">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249280445301&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="View Amtrak.com in French">
 
 </a> <a class="button" onclick="return switchLanguage('zs')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445206&amp;blobheader=image%2Fgif" alt="View Amtrak.com in Chinese">
+<img src="/servlet/BlobServer?blobkey=id&amp;blobwhere=1249280445206&amp;blobheader=image%2Fgif&amp;blobcol=urldata&amp;blobtable=MungoBlobs" alt="View Amtrak.com in Chinese">
 
 </a></p>	</div>
 															
@@ -4373,9 +4368,9 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 <script type="text/javascript">
 //<![CDATA[
 var _tag=new WebTrends();
-var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy";
+var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Policies;Privacy+Policy";
 	var iSiteWiseCName = "Amtrak";
-	var iSiteWiseEDt = "2014/06/20 15:07:34";
+	var iSiteWiseEDt = "2014/11/19 06:29:22";
 
 	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
 		defSiteWiseParams+="&WT.cg_s=Root";
@@ -4403,7 +4398,7 @@ _tag.dcsCollect();
 //]]>
 </script>
 <noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" SRC="http://statse.webtrendslive.com/dcsn42u4k11e5hyzziz7zntl5_1j8l/njs.gif?dcsuri=/nojavascript&WT.js=No&DCS.dcscfg=1&WT.tv=9.3.0&WT.dcssip=www.amtrak.com&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy"/></div>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" SRC="http://statse.webtrendslive.com/dcsn42u4k11e5hyzziz7zntl5_1j8l/njs.gif?dcsuri=/nojavascript&WT.js=No&DCS.dcscfg=1&WT.tv=9.3.0&WT.dcssip=www.amtrak.com&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Policies;Privacy+Policy"/></div>
 </noscript>
 
 
@@ -4431,9 +4426,10 @@ _tag.dcsCollect();
 
            }); 
        //]]>
-     </script><!-- mp_trans_remove_end -->
-     
+     </script><!-- mp_trans_remove_end -->     
 <script src="http://cimage.adobe.com/amtrak/mbox_amtrak_v2.js" type="text/javascript"></script>	
+
+
 <script>var promopage =1;</script>
 
 
@@ -4444,113 +4440,7 @@ _tag.dcsCollect();
 
 </script>
 
-<!-- END WEB TRENDS -->
-
-
-
-
-<script>
-
-var sloggedin = cmslogg;
-var sdepart = cmsfavorg;
-var sarrive = cmsfavdest;
-var sagrmem = agrmember;
-var sssoenabled = grcagrmember ; 
-var sagrpnts = agrpts;
-var propvar = null;
-
-
-function getProp(){
-
-  for (var i=0; i<promopage; i++) {
-  
-  	var promslot = document.getElementsByClassName('mboxDefault')[i];
-	
-	var promourl = promslot.getElementsByTagName('a')[0];
-	 
-	if (promourl != null && promourl != undefined) {
-	var url = String(promourl);
-	var n=url.indexOf("icid"); 
-	if (n != -1) {
-	  url = url.substring(n+5)
-	  var propparam = url.split("&");
-	  
-	  if (propvar == null || propvar == '') {
-		propvar = propparam[0];
-	} else {
-		propvar += ","+propparam[0];
-	}
-
-
-	}
-	
-	}
-  }
-  
-  
-  
-}
-
-</script>
-
-
-<script>
-
-
-function getPromoParamsNew() {
-jQuery.getScript('http://cimage.adobe.com/amtrak/s_code_amtrak.js'); 
-setTimeout("getPromoParams()",1000); 
-
-}
-
-function getPromoParams() {
-
-
-
-
-
-getProp();
-s.prop1= propvar;
-if (sloggedin == "true" ) {
-
-var aurl = document.location.search;
-if (aurl.indexOf("asctev=true") !== -1) {
-s.events="event4";
-}
-
-s.eVar20="Logged in";
-s.eVar14=sdepart;
-s.eVar15=sarrive;
-s.eVar16=sagrmem;
-s.eVar17=sssoenabled;
-s.eVar18=sagrpnts;
-
-} else {
-
-s.eVar20="Logged Out";
-}
-var s_code=s.t();if(s_code)document.write(s_code)
-}
-</script>
-
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript><img src="http://amtrak.d1.sc.omtrdc.net/b/ss/amtrakmain/1/H.25.5--NS/0" height="1" width="1" border="0" alt="" /></noscript>
-
-
-<script type="text/javascript"> 
-          //<![CDATA[ 
-             Element.observe(window, 'load', function(){  
-                  getPromoParamsNew(); 
- 
-           });  
-       //]]> 
-     </script>
-     
- 
-
-<!--END WEB TRENDS -->
+<!-- END WEB TRENDS --><!--END WEB TRENDS -->
 		
 	
 
