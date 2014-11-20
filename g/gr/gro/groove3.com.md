@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606112428id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230621id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Privacy statement
 
