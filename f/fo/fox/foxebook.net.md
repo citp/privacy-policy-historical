@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxebook.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044029id_/http%3A//www.foxebook.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxebook.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055836id_/http%3A//www.foxebook.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox eBook
 
@@ -20,9 +20,9 @@ Foxebook.net is a participant in the Amazon Services LLC Associates Program, an 
 
 **DoubleClick DART Cookie**
 
-\- Google, as a third party vendor, uses cookies to serve ads on www.foxebook.net.  
-\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.foxebook.net and other sites on the Internet.  
-\- Visitors can opt out from DART cookie by checking out Google and content network privacy policy through – [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/technologies/ads/)
+– Google, as a third party vendor, uses cookies to serve ads on www.foxebook.net.  
+– Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.foxebook.net and other sites on the Internet.  
+– Visitors can opt out from DART cookie by checking out Google and content network privacy policy through – [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/technologies/ads/)
 
 **Cookies & 3rd Party Advertisements**
 
