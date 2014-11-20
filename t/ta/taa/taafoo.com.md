@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210132500id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105417id_/http%3A//taafoo.com/info/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.taafoo.com - Get it!, Love it!, ...Stay hooked! - Celebrities, Musicians, Actors, Comedians, CEOs, Brands
+# Privacy -taafoo.com - Online Shopping | Buy Clothes, Shoes, Watches, Accessories n More
 
-Sign up to our Newsletter and Get the best deals in your inbox. Remember, taafoo.com Saves You Good Money! 
+SHOP FASHION at WHOLESALE PRICES.
 
-First Name:  
+Just sign up below for a FREE & EXCLUSIVE MEMBERSHIP and access our close-to Wholesale prices available to **our exclusive members.** It's a great way to look Good and Save Money at the same time.
+
+|   
+---|---  
   
-  
-Email Address:  
-  
-  
-
-
 Please add "Newsletters@taafoo.com" to your contacts list to ensure delivery.
 
 Privacy Policy
@@ -103,5 +100,3 @@ As we update and expand our Services, we reserve the right to modify this privac
 Contact Information
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at customercare@taafoo.com. 
-
-* * *
