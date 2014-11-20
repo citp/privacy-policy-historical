@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createforless.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003747id_/http%3A//www.createforless.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createforless.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202110id_/http%3A//www.createforless.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- CreateForLess
 
@@ -41,6 +41,11 @@ From time-to-time we may request information from the users of the Site via surv
 
 **Cookies**  
 You may have heard of the term "cookies". Cookies are routinely used by most, if not all, E- commerce merchants, including CreateForLess. A cookie is a piece of data stored on a user's hard drive through the Web browser program containing information about the user which enables us to track and personalize the Site to enhance your experience. For instance, by setting a cookie on our Site, we can provide you with storage of items in your shopping cart between visits. However, if a user rejects the cookie, they may still use our Site although we will be unable to provide our users with the personalized shopping experience we can offer using the cookie data. CreateForLess does not use cookies, or other nonconsensual methods, to take personally identifiable or online contact information about specific users. If you have any questions about our use of cookies, please contact us at [info@CreateForLess.com](mailto:info@CreateForLess.com).
+
+**Google Advertising  
+** In order to ensure this website is advertised to the right people, CreateForLess uses Google Advertising Services to only reach out to those that would be interested in our site. This includes location information, interests, and other identifiers. CreateForLess does not acquire any contact information or indentifying information.
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example placing items in a shopping cart without purchasing. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the CreateForLess website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
 **Special Offers, Account Updates and Opting Out**  
 CreateForLess occasionally sends our customers and the users of the Site announcements and updates, which contain important information about the Site and service offerings which we believe to be of value to our customers and users. In order to do this, we may enhance or merge the information we collect on the Site with data from third parties for purposes of marketing products or services to our customers and users.
