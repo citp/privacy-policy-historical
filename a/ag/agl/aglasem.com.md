@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aglasem.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120645id_/http%3A//aglasem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aglasem.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044626id_/http%3A//aglasem.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aglasem
+# Privacy Policy - Aglasem
 
 This Privacy Policy governs the manner in which AglaSem EduTech Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://aglasem.com](http://aglasem.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AglaSem EduTech Pvt. Ltd..
 
@@ -70,8 +70,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [AglaSem EduTech Pvt. Ltd.](http://aglasem.com/)  
 [http://aglasem.com](http://aglasem.com/)  
-1119 Pearls Omaxe, Netaji Subhash Place, Delhi – 110034  
-911143466000  
+811, GD ITL Tower, Netaji Subhash Place, Delhi – 110034  
+91-11-43466000  
 admin@aglasem.com
 
-This document was last updated on August 09, 2013
+This document was last updated on July 09, 2014
