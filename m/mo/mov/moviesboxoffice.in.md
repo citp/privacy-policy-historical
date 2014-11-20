@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moviesboxoffice.in privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403191054id_/http%3A//moviesboxoffice.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesboxoffice.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050642id_/http%3A//moviesboxoffice.in/privacy-policy-4) for the most accurate reproduction.*
 
 # AdSense Privacy Policy | MoviesBoxOffice
+
+<!– privacy-policy –>
 
 **MoviesBoxOffice** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
