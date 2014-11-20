@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213601id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110138id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Members WordPress Membership Site Plugin Wordpress Membership Plugin
 
@@ -89,7 +89,5 @@ http://www.magicmembers.com
 Pittsburgh, PA 15217  
 USA  
 info@magicmembers.com
-
-#### Incoming search terms:
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.magicmembers.com%2Fprivacy-policy%2F&media=)
