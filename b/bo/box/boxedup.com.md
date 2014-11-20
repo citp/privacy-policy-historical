@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024430id_/http%3A//boxedup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130720id_/http%3A//www.boxedup.com/privacy) for the most accurate reproduction.*
 
 # boxedup |
 
