@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619101906id_/http%3A//www.eastbayexpress.com/oakland/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003322id_/http%3A//www.eastbayexpress.com/oakland/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | East Bay Express
 
@@ -58,4 +58,4 @@ In the event of a sale of the _East Bay Express_ or a sale of substantially all 
 
 ### More Questions? Updates and Changes to Your Information.
 
-If you have any questions about this privacy policy, e-mail them to our editors, Kathleen Richards and Robert Gammon, and be sure to indicate the specific site you're visiting and the nature of your question or concern. You can find a link to their e-mail address by going to the "Contact Us" section of the web site and clicking the "Contact a specific staff member" link. If your personally identifiable information changes, you may correct and/or update it by clicking the "Your Profile" link at the bottom of any page on the web site.
+If you have any questions about this privacy policy, e-mail them to editor Robert Gammon, and be sure to indicate the specific site you're visiting and the nature of your question or concern. You can find a link to their e-mail address by going to the "Contact Us" section of the web site and clicking the "Contact a specific staff member" link. If your personally identifiable information changes, you may correct and/or update it by clicking the "Your Profile" link at the bottom of any page on the web site.
