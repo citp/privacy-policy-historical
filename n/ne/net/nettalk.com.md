@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nettalk.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823060626id_/http%3A//www.nettalk.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettalk.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000029id_/http%3A//www.nettalk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | netTALK.com, INC.
+# Privacy Policy - netTALK
 
 netTALK.COM, INC. ("netTALK") is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from netTALK ("Customers") and from visitors to our Web sites and from potential customers who have communicated, made contact, or interacted with netTALK ("Visitors"), both in connection with online and offline services and products offered by netTALK.
 
@@ -10,15 +10,15 @@ netTALK shall collect personally identifiable information, including but not lim
 
 **Anti-Spyware Policy**
 
-netTALK believes that Spyware is a threat to consumer privacy and a consumer's experience online. Therefore, we forbid any netTALK employee, agent, partner, affiliate, or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of netTALK. Spyware refers to any executable software application that is installed on a user's personal computer and covertly gathers and transmits PII through the user's Internet connection without the knowledge or consent of the user. Cookies and Web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any netTALK employee, agent, partner, or affiliate on netTALK's behalf will not be tolerated and will be considered grounds for dismissal, contract termination, and/or loss of payment.
+netTALK believes that Spyware is a threat to consumer privacy and a consumer’s experience online. Therefore, we forbid any netTALK employee, agent, partner, affiliate, or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of netTALK. Spyware refers to any executable software application that is installed on a user’s personal computer and covertly gathers and transmits PII through the user’s Internet connection without the knowledge or consent of the user. Cookies and Web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any netTALK employee, agent, partner, or affiliate on netTALK’s behalf will not be tolerated and will be considered grounds for dismissal, contract termination, and/or loss of payment.
 
 **Use of Information**
 
-netTALK will use PII (1) to market products and services to Customers and Visitors that netTALK believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist netTALK in the marketing and provision of such services and products to netTALK, Customers, or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from netTALK. netTALK only works with partners whom we believe maintain high standards with respect to privacy and consumer rights. netTALK may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [_Terms of Service_](https://web.archive.org/terms-of-service), as required by courts or administrative agencies or in connection with a sale, merger, or reorganization of netTALK's business. Non-PII may be shared with any number of third parties by netTALK.
+netTALK will use PII (1) to market products and services to Customers and Visitors that netTALK believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist netTALK in the marketing and provision of such services and products to netTALK, Customers, or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from netTALK. netTALK only works with partners whom we believe maintain high standards with respect to privacy and consumer rights. netTALK may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [_Terms of Service_](https://web.archive.org/terms-of-service), as required by courts or administrative agencies or in connection with a sale, merger, or reorganization of netTALK’s business. Non-PII may be shared with any number of third parties by netTALK.
 
 **CPNI**
 
-In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name, and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade, or share your CPNI, including your calling records outside of netTALK's family of companies or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network, services, and other customers.
+In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name, and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade, or share your CPNI, including your calling records outside of netTALK’s family of companies or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network, services, and other customers.
 
 **Security**
 
@@ -34,13 +34,13 @@ You should be aware that any PII which you voluntarily include and transmit thro
 
 Subject to certain security requirements, netTALK will do its best to honor requests from Customers for account information, for example, name, address, company, or billing information. The Customer is responsible for ensuring that the information on file with netTALK is current and accurate.
 
-**Children's Privacy Policy**
+**Children’s Privacy Policy**
 
 netTALK does not sell products or services for purchase by children. netTALK does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to netTALK, [_report this to us_](https://web.archive.org/contact). 
 
 **netTALK Spam Policy**
 
-netTALK has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing netTALK privileges such as loss of referral credits and even loss of a customer's account. If you receive spam and want to report it to netTALK, please forward the email you have received to webmaster@nettalk.com. 
+netTALK has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing netTALK privileges such as loss of referral credits and even loss of a customer’s account. If you receive spam and want to report it to netTALK, please forward the email you have received to webmaster@nettalk.com. 
 
 **Third Party Web Sites and Services**
 
@@ -50,7 +50,7 @@ Our service may contain links to other Web sites and services not maintained by 
 
 If you do not want your PII used by netTALK for any direct marketing purposes, then you may opt-out of such disclosures by calling us at **1-305-621-1200**.
 
-However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since netTALK must use a Customer's PII in order to provide them with netTALK services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
+However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since netTALK must use a Customer’s PII in order to provide them with netTALK services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
 
 **Changes to policy**
 
@@ -58,7 +58,7 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 **Terms of Service**
 
-For Customers, this Privacy Policy is subject to the netTALK Terms of Service or other agreements between you and netTALK. If you are a Customer, please refer to the Terms of Service or such other agreements regarding certain rights and limitations with respect to your use of netTALK's services.
+For Customers, this Privacy Policy is subject to the netTALK Terms of Service or other agreements between you and netTALK. If you are a Customer, please refer to the Terms of Service or such other agreements regarding certain rights and limitations with respect to your use of netTALK’s services.
 
 **United States of America**
 
