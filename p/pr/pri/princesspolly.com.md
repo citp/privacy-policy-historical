@@ -1,40 +1,73 @@
-> *The following text is extracted and transformed from the princesspolly.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725005427id_/http%3A//www.princesspolly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princesspolly.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164106id_/http%3A//www.princesspolly.com/help-faq/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Your Privacy
 
-This Privacy Policy provides information on how Princess Polly & POLLY100 manages personal information collected; including personal information collected through their website at [http://www.princesspolly.com.au/](https://web.archive.org/)
+Princess Polly E-Boutique recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 (Cth) and we will ensure that we fulfil our obligations under that Act.
 
-Princess Polly realises the importance of ensuring that personal information held by the company is treated confidentially and is committed to ensuring that all personal information is only collected, disclosed, used and stored in accordance with the National Privacy Principles set out under the federal Privacy Act 1988.
+We also recognise that you may have concerns about our collection of your personal information via our website, which is located at [www.princesspolly.com.au](http://www.princesspolly.com.au/) (the  **Website** ) and how we may use that information.
 
-## What is 'personal information'?
+We have implemented this Privacy Policy in order to inform you about how we will collect, store, use your personal information and under what circumstances we may disclose your personal information.
 
-'Personal Information' is information or an opinion (including information or an opinion forming part of a database) whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion
+**Information we collect from you**
 
-## Use and disclosure of personal information
+From time to time, we may ask you to supply personal information such as your name, address, date of birth, telephone number or e-mail address. However, under no circumstances will we request or collect any information from you that may disclose your:
 
-Any personal information that we collect will only be used and disclosed for the purpose for which it has been provided to us.
-
-Personal information may need to be disclosed to external service providers engaged by Princess Polly in order for those service providers to fulfil their service obligations to the firm.  For example:
-
-  * IT service providers who assist in managing Princess Polly's servers and networks may need to access client data in order to maintain the servers and networks; 
-
+  * political, religious or philosophical beliefs or affiliations;
+  * health and sexuality;
+  * racial or ethnic origin; or
+  * criminal convictions.
 
 
-Where personal information is disclosed to an external party, Princess Polly will take steps to ensure that the external party treats such information confidentially and in accordance with the federal Privacy Act 1988.
 
-## Email Communications
+We may also conduct surveys or market research and may seek other information from you on a periodic basis. These surveys will provide us with information that allows improvement in the types and quality of services offered to you, and the manner in which those services are offered to you.
 
-If you have registered through our website to receive email communications from us, we may use your contact details to send you newsletters, marketing emails or invitations to Princess Polly seminars or events, which may be of interest to you. However, you may at any time opt out of receiving such materials by visiting www.nationalsalesacademy.com.au/unsubscribe. Upon receiving such a request, Princess Polly will remove your contact details from our distribution lists.
+**Personal information via the Website**
 
-Accessing and Correcting Personal Information  
-You may request us to provide you with access to personal information we hold about you. We will process all requests for access to personal information in accordance with the National Privacy Principles.  In most cases, we will provide you with access to your personal information. However, we may refuse access in certain situations as listed in the National Privacy Principles. If we refuse to give you access, we will provide you with reasons for our refusal.
+Most commercial websites use ‘cookies’, which are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using the Website easier by storing information about your preferences on the Website. This allows the Website to be tailored to you for any of your return visits. Cookies will not identify you personally.
 
-If any personal information we hold about you is not accurate, complete or up to date,  please let us know and in most cases, we will use all reasonable efforts to update the information..
+If you would prefer not to receive cookies, you can alter your security settings on your web browser to disable cookies or to warn you when cookies are being used. However, by disabling the cookie function in your web browser you may impede your ability to use parts of the Website.
 
-## Personal information security
+**Your option not to provide your personal information**
 
-Princess Polly is committed to keeping secure the data you provide to us and we will take all reasonable precautions to protect your personally identifiable information from loss, misuse or alteration.
+Providing us with your personal information is absolutely optional, and whenever it is optional for you to provide us with your personal information, we will make this clear to you. When you provide us with your personal information, you are consenting to our storage, use and disclosure of that information as outlined in this Privacy Policy.
 
-## Changes to our privacy policy
+We may from time to time run competitions or offer additional benefits to you and we may ask you to provide us with your personal details for these purposes. Providing us with this information is absolutely optional to you. However, if you do not provide your personal information to us we may not be able to contact you or give you access to the additional benefits.
 
-From time to time it may be necessary for us to revise our privacy policy. We reserve the right to change our privacy policy at any time without prior notice.  We will notify you of the changes by posting an updated version of the policy on our website.
+You may opt out of these additional communications at any time and can do so by emailing us.
+
+**Use and disclosure of your personal information**
+
+Your personal information, including your e-mail address, will be used for the following primary purposes:
+
+  1. to process and finalise orders made via the Website;
+  2. to ensure the proper functioning of the Website; and
+  3. to assist Princess Polly with our marketing, planning, product development and research requirements.
+
+
+
+We will not use or disclose (or permit the use or disclosure of) personal information that could be used to identify an individual member in any circumstances except:
+
+  * to ensure the proper functioning of our business and the Website
+  * to communicate promotional offers and special events to you;
+  * where the law requires us, or authorises us to do so; or
+  * where you have given express consent to us for a prescribed purpose.
+
+
+
+We will not sell, distribute, rent, licence, disclose, share or pass your personal information onto any third parties, other than those who are contracted to us to keep the information confidential whether subject to a statute or a scheme which imposes similar restrictions to the National Privacy Principles contained in the Privacy Act 1988 (Cth) regarding the handling of personal information.
+
+We will take all reasonable steps to ensure that all information collected from you is accurate, up to date, complete and stored in a secure environment and accessed only by our authorised personnel.
+
+Please note that no information transmitted over the Internet can be guaranteed to be 100% secure. However, we will endeavour to protect your personal information as best as possible but we cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk.
+
+**Unsubscribing from our e-mail database**
+
+To unsubscribe from our e-mail database, please send an e-mail to[eshop@princesspolly.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eshop@princesspolly.com.au) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
+
+**Accessing, correcting and updating your information**
+
+You have the right to access the information that you provide to us.
+
+If you wish to access, modify or remove any personal information that you have provided to us, please contact our Privacy Officer at [eshop@princesspolly.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eshop@princesspolly.com.au).
+
+We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website[www.privacy.gov.au](http://www.privacy.gov.au/).
