@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the grandparker.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081624id_/http%3A//grandparker.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandparker.me privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231250id_/http%3A//www.grandparker.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Grand Parker Casino - Play and Win Grand Prizes
-
-Call Toll Free  
-1-877-362-3215
-
-## Privacy
 
 Grand Parker and its subsidiaries respect and protect all players’ privacy. The following statement discloses the information gathered by Grand Parker Casino.
 
