@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521045302id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPoilcy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131426id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPoilcy) for the most accurate reproduction.*
 
 # Fragomen global corporate immigration law | Privacy Policies
 
