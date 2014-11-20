@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603165616id_/http%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133136id_/http%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
 
 # T Shirt Help
 
@@ -9,11 +9,9 @@
   * [Privacy Policy](http://www.designbyhumans.com/help/policies/privacy/)
   * [Glossary](http://www.designbyhumans.com/help/glossary/)
   * [Available Colors](http://www.designbyhumans.com/help/available-colors/)
-  * [Redeem a Gift Card](http://www.designbyhumans.com/profile)
+  * [Redeem a Gift Card](https://web.archive.org/redeem-gift-voucher/)
 
 
-
-## WEBSITE PRIVACY POLICY EFFECTIVE DATE: February 21, 2012
 
 1\. INTRODUCTION. DBH Worldwide, LLC ("us," "we," "Company," or "DBH") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site") at www.designbyhumans.com and the services provided through the Site (the "Services"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
