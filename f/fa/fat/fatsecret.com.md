@@ -1,74 +1,51 @@
-> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114855id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003512id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  |  **11 October 2011**  
+**22 August 2014**  
 
 
-  1. **About FatSecret.com**
+  1. **FatSecret**
 
-FatSecret.com is an online diet, nutrition and weight loss community service that allows members to set up unique user profiles, create their own and follow diets and to contribute information and content to help people achieve their diet, nutrition and weight goals.  FatSecret members can view each others' profiles, communicate with other members on the service, share information, post comments and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and view performance outcomes and other activities. FatSecret members can change their profile information at any time and can control how other members and the service communicates with them. 
+This Privacy Policy applies to all of the products and services offered by Secret Industries Pty Ltd (trading as FatSecret) including through its [websites](https://web.archive.org/Default.aspx?pa=sites) and [mobile applications](https://web.archive.org/connected) (all together "FatSecret"). FatSecret is an online diet, nutrition and weight loss community service that allows users to set up unique user profiles, track their activity, food and weight and contribute information and content to help people achieve their diet, nutrition and weight goals. 
 
-FatSecret.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at [ privacy@fatsecret.com](mailto:privacy@fatsecret.com). 
+You should not use FatSecret if you do not agree to the terms of this Privacy Policy. Your continued use of FatSecret represents your consent to the terms of this Privacy Policy. If you have any questions concerning this Privacy Policy, please email us at [privacy@FatSecret.com](mailto:privacy@fatsecret.com). 
 
-  2. **Information Collection and Use by FatSecret.com**
+At FatSecret, we understand the importance of protecting the privacy of our users’ personally identifiable information and we take appropriate steps to protect the personally identifiable information of our users. The purpose of this Privacy Policy is to explain what information we collect from our users when they interact with FatSecret, including what personally identifiable information and non-personally identifiable information we collect, how use that information, with whom we share that information and what steps we take to protect that information. FatSecret is hosted in the United States and if you are accessing FatSecret from outside the United States, please be advised that you are transferring information to the United States. Your continued use of FatSecret represents your consent to this transfer of information. 
 
-FatSecret.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the FatSecret.com service. FatSecret.com also collects other profile data including but not limited to: gender, age, current and goal weight in order to assist users achieve their diet, nutrition and weight goals by using the contributions of members to benefit the broader community. 
+  2. **Information Collection and Use by FatSecret**
 
-FatSecret.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+FatSecret users are required to register before they can use FatSecret services. During registration FatSecret collects certain personally identifiable information which is information which personally identifies users, such as name and email address. 
 
-  User Profile information including members' pictures, user names and weight are displayed to people in order to facilitate user interaction in the FatSecret.com community. Email addresses are used for the purposes of inviting new friends to join FatSecret, to add users to members' interested members networks, and to send notifications related to the service. With the exception of inviting friends, adding interested members, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on FatSecret.com with each other through the FatSecret.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, FatSecret.com allows users to search for other members using first and last name and email address. 
+FatSecret also collects certain information that does not personally identify users. This non-personally identifiable information includes certain demographic information we collect about users such as age, gender, postal code, current and goal weight. FatSecret does not knowingly collect personal information from children under 13 and if we learn that we have collected such information FatSecret takes steps to delete the information as soon as possible. 
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive certain email of this type by changing their "notification" setting in the user "Account" page. 
+FatSecret tracks the ways that users interact with FatSecret and will collect information regarding such interaction. The information FatSecret may collect when users interact with FatSecret includes, IP address, ISP, browser type, operating system, language, profile information, foods and exercise tracked and general user activity on FatSecret. 
 
-From time to time, FatSecret.com or a partner, may sponsor a promotion, sweepstake or contest on FatSecret.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
+FatSecret does not share any personally identifiable information with any third-parties without user’s permission. However, FatSecret may share information (both personally identifiable information and non-personally identifiable information) if FatSecret is required to do so by applicable law or if FatSecret has a good faith belief that sharing information is necessary to comply with applicable law. 
 
-  3. **Invitations and Other Communications to Non-members**
+FatSecret may from time to time share non-personally identifiable information with our affiliates and advertisers and other third-parties. FatSecret may also use your information to personalize FatSecret services and improve the operation and functionality of FatSecret. 
 
-FatSecret members can invite friends to join the service by sending invitation emails via our automated invitation system. FatSecret.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations FatSecret.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from FatSecret.com may contact FatSecret.com to request the removal of their information from our database. 
+  3. **Information Tracking**
 
-You may prevent FatSecret.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to [privacy@fatsecret.com](mailto:privacy@fatsecret.com). Please note that the email must come from the account you wish to block. 
+FatSecret and any of our other advertisements or email messages may contain "cookies" and other technologies such as pixel tags. These technologies help FatSecret better customize our service to users and to facilitate and measure the effectiveness of advertisements or messages. FatSecret does not link the information stored in cookies to any personally identifiable information submitted. Furthermore, most browsers allow users to disable cookies. 
 
-  4. **Use of Cookies**
+  4. **Information Security**
 
-FatSecret.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from FatSecret.com in order to use most functions on the site. Please note that FatSecret allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the FatSecret Privacy Policy. 
+FatSecret takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of user personal data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. 
+
+FatSecret restricts access to user personal information to our employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
   5. **Links**
 
-FatSecret.com contains links to sites. FatSecret.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on FatSecret.com. 
+FatSecret may contains links to other sites. FatSecret is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This privacy policy only governs information collected on FatSecret. 
 
-  6. **Chat Rooms, Message Boards and Public Forums**
+  6. **Updating or Removing Information and Email Opt-out**
 
-Please be aware that whenever you voluntarily post public information to Message Boards, or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. 
+FatSecret users may modify or remove any of their personal information at any time by logging into their account. All notification emails and FatSecret messages include instructions for opting-out of those communications in the future. 
 
-  7. **Correcting/Updating or Removing Information**
+  7. **Contacting FatSecret**
 
-FatSecret.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Preferences and Account. 
-
-  8. **Email Choice/Opt-out**
-
-Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account'. Users who do not wish to receive FatSecret.com newsletters may choose not to by selecting 'Do not send me FatSecret newsletters' in the user profile 'Account'. All notification emails and FatSecret.com newsletters also include the above instructions for opting-out of those communications in the future. 
-
-  9. **Third Party Advertising**
-
-Ads appearing on this Web site may be delivered to users by FatSecret.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by FatSecret.com and does not cover the use of cookies by any advertisers. 
-
-  10. **Security**
-
-FatSecret.com member accounts are secured by member-created passwords FatSecret.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on FatSecret.com, please contact us a at [ privacy@fatsecret.com](mailto:privacy@fatsecret.com)
-
-  11. **Sharing and Disclosure of Information FatSecret.com Collects**
-
-Except as otherwise described in this privacy statement, FatSecret will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by FatSecret.com, whether or not a response is required by applicable law; (2) to enforce the FatSecret.com Terms & Conditions or to protect our rights; or (3) to protect the safety of members of the public and users of the service. FatSecret reserves the right to transfer personal information to a successor-in-interest that acquires rights to that information as a result of the sale of FatSecret or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below. 
-
-  12. **Changes in Our Privacy Policy**
-
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days. 
-
-  13. **Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: at [ privacy@fatsecret.com](mailto:privacy@fatsecret.com)   
- 
+If you have any questions about this privacy statement or FatSecret please contact us at: [privacy@FatSecret.com](mailto:privacy@fatsecret.com). 
 
 
-|  
+
