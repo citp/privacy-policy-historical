@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desireview.tv privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005355id_/http%3A//www.desireview.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desireview.tv privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003441id_/http%3A//www.desireview.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Desi Review
 
