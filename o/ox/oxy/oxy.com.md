@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153222id_/http%3A//oxy.com/Information/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170519id_/http%3A//www.oxy.com/Information/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Oxy | Privacy Policy
 
@@ -39,4 +39,4 @@ This Privacy Statement is effective as of July 1, 2004. The Privacy Statement is
 
 Identity Theft and Scams
 
-**Unfortunately, identity theft and other financial scams are prevalent. It is unlikely that Oxy or any of its subsidiaries or agents would solicit you for personal financial information. If you suspect that an e-mail, phone call or letter asking you for personal information, money or temporary employment may be fraudulent and Oxy's name is used in connection with that solicitation, or if you believe that your personal information has been compromised by Oxy or any of its subsidiaries or agents, please contact the Oxy**[ **Webmaster**](mailto:information@oxy.com "Webmaster") **or call (310) 208-8800.**
+**Unfortunately, identity theft and other financial scams are prevalent. It is unlikely that Oxy or any of its subsidiaries or agents would solicit you for personal financial information. If you suspect that an e-mail, phone call or letter asking you for personal information, money or temporary employment may be fraudulent and Oxy's name is used in connection with that solicitation, or if you believe that your personal information has been compromised by Oxy or any of its subsidiaries or agents, please contact the Oxy**[ **Webmaster**](mailto:information@oxy.com "Webmaster") **or call (713) 215-7000.**
