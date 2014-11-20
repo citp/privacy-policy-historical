@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwarstemple.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208025227id_/http%3A//guildwarstemple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwarstemple.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094616id_/http%3A//guildwarstemple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guild Wars Temple
 
