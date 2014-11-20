@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digidesign.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230012917id_/http%3A//www.avid.com/US/about-avid/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidesign.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044849id_/http%3A//www.avid.com/US/about-avid/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Avid | Privacy Policy Statement
 
-##### Last Updated: March 20, 2009
+##### Last Updated: November 18, 2010
 
 Avid Technology, Inc. has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Avid when you visit our websites. In a few cases, Avid’s other websites may contain additional privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites.
 
@@ -40,7 +40,7 @@ Avid aggregates information provided by you to create anonymous statistical and 
 
 Avid does not sell to third parties information you have submitted to this site that identifies you personally.
 
-On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service.
+On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service.
 
 #### Declining Information
 
@@ -98,9 +98,9 @@ If and when Avid makes changes to this site, Avid may have to update this Privac
 
 Typically you accept to receive communications when you submit information to the site. If you wish to remove your information from the site registration database and no longer receive future communications or use any services, you may do so through any of the methods described below. Please note that it may take us a reasonable amount of time to process your request.
 
-  1. The Profile section of this site may permit you to change a previous selection and decline to receive further communications, or to delete your registration. 
-  2. A particular service may have an Administration section that allows you to change any previous selections for that service. 
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections. 
+  1. The Profile section of this site may permit you to change a previous selection and decline to receive further communications, or to delete your registration.
+  2. A particular service may have an Administration section that allows you to change any previous selections for that service.
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
 
 
 
@@ -108,9 +108,9 @@ Typically you accept to receive communications when you submit information to th
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. The Profile section of this site may permit a registered user to change or modify information previously provided. 
-  2. A particular service may have an Administration section that allows you to change or modify information you previously provided for that service. 
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections. 
+  1. The Profile section of this site may permit a registered user to change or modify information previously provided.
+  2. A particular service may have an Administration section that allows you to change or modify information you previously provided for that service.
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
 
 
 
@@ -128,7 +128,7 @@ U.S.A
 
 #### NOTICE TO EUROPEAN USERS
 
-Please note that the information you enter on the site or otherwise provide to Avid Technology, or its subsidiaries or divisions, may be transferred outside of the European Economic Area, for purposes of processing, by Avid Technology, Inc. a company located in Tewksbury, Massachusetts, U.S.A., or its subsidiaries or Avid's subsidiaries or divisions, or authorized partners, located worldwide, in order to provide this site and its services to you. You are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31)
+Please note that the information you enter on the site or otherwise provide to Avid Technology, or its subsidiaries or divisions, may be transferred outside of the European Economic Area, for purposes of processing, by Avid Technology, Inc. a company located in Burlington, Massachusetts, U.S.A., or its subsidiaries or Avid's subsidiaries or divisions, or authorized partners, located worldwide, in order to provide this site and its services to you. You are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31)
 
 Article 26 of the European Union's Data Directive allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection.
 
