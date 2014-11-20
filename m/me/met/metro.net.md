@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626191250id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164059id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Site Information | Privacy Policy
 
@@ -33,9 +33,7 @@ Metro tracks activity and site function on its web site in the form of log files
 
 **Last Revised**
 
-Friday January 24, 2014
+Wednesday September 17, 2014
 
   
 
-
-For viewing MS Word, Powerpoint, and Excel documents - Download [Adobe Acrobat Reader](http://get.adobe.com/reader/?promoid=BUIGO) (free) or use [Google Docs Reader](https://docs.google.com/viewer) (online)
