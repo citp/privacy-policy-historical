@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507063313id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131914id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | - Bloggers Ideas- Bloggers Ideas
+# Privacy Policy - Bloggers IdeasBloggers Ideas
 
 This privacy policy sets out how “Bloggersideas.com” uses and protects any information that you give “Bloggersideas.com” when you use this website.  
 “Bloggersideas.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
