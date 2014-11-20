@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522124906id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120113336id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Information supplied by you when you register and submit data to Mass Audubon eB
 
 Mass Audubon has appropriate, industry-standard security measures in place in our physical facilities to protect against the loss or misuse of information that you have provided or that we have collected from you on our website. The information is only distributed to relevant staff members (e.g. membership staff, program registrars) based on the nature of the inquiry.
 
-When you use a credit card to order services through our website, the credit card information is transmitted over the internet using industry-standard SSL encryption. We use outside credit card processing companies to process online credit card transactions for dues payments, donations, goods, and services. These companies are compliant with the Payment Card Industry Data Security Standard ([PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml)) and the Payment Application Data Security Standard ([PA-DSS](https://www.pcisecuritystandards.org/security_standards/pa_dss.shtml)). , and do not use personally identifiable information for any secondary purposes.
+When you use a credit card to order services through our website, the credit card information is transmitted over the internet using industry-standard SSL encryption. We use outside credit card processing companies to process online credit card transactions for dues payments, donations, goods, and services. These companies are compliant with the Payment Card Industry Data Security Standard ([PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml)) and the Payment Application Data Security Standard ([PA-DSS](https://www.pcisecuritystandards.org/security_standards/pa_dss.shtml)), and do not use personally identifiable information for any secondary purposes.
 
 Mass Audubon uses outside vendors for mailings, updating address information, and other purposes. In each case, we verify that member information is handled securely and treated confidentially.
 
