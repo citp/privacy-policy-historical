@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grownupsmag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112731id_/http%3A//grownupsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupsmag.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084628id_/http%3A//grownupsmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Grown Ups Magazine
+# Privacy Policy - Grown Ups Magazine
 
 Your privacy is important to us, and we are committed to protecting your personal information. Here in this policy we are letting you know about all the ways we could use your information, so you can make an informed choice regarding whether you will visit this website.
 
@@ -17,6 +17,9 @@ We may use cookies to help us compile aggregate data about site traffic and site
 We will not trade, share, or sell your information to any other company, except for specific third parties who assist us in taking care of you (such as the email hosting service above). These third parties all agree to keep your information confidential. We will also release your information as required by law and if necessary to protect our legal rights and/or to comply with a judicial proceeding or court order.
 
 We do not collect any information from anyone under 13 years of age. This website, products and services are not directed to people who are under 13 years of age.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. To   
+opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices "Opt Out").  
 
 By using this site, you consent to the terms of this privacy policy.
 
