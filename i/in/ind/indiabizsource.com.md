@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabizsource.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515021709id_/http%3A//www.indiabizsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabizsource.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122832id_/http%3A//www.indiabizsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Company Privacy Policy - indiabizsource.com
 
