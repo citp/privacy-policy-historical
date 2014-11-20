@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525215621id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094758id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
 
 # www.3ix.org - 3iX Networks - Privacy Policy - Our commitment to protect your privacy
 
@@ -7,6 +7,8 @@
 > 3iX seeks to provide the best possible service to its customers and website owners.
 > 
 > We understand how important it is to protect your personal information. This document sets out our privacy policy commitment in respect of personal information that you may provide to us.
+> 
+> We do not store credit card details nor do we share customer financial details with any 3rd parties.
 > 
 > Our Privacy Policy ensures your right to privacy as we recognise that any personal information we may collect about you will only be used for the purposes indicated in our policy. It is important to us that you are confident that any personal information we collect from you or is received by us, will be treated with appropriate respect ensuring protection of your personal information.
 > 
@@ -85,8 +87,7 @@
 > 
 > Due to the nature of our services, we may hold or store your data on our servers. This can be in the form of email messages, attachments, files, or databases. We will not reveal such data to any third party, unless required by the applicable law. We may transfer your data for backup and disaster recovery purposes. Such copies will be treated with the same confidentiality as its originals.
 > 
-> Due to the nature of the shared hosting service, you should be aware and acknowledge that your data on our shared hosting service, can potentially be accessed by other customers.  
-> 
+> Due to the nature of the shared hosting service, you should be aware and acknowledge that your data on our shared hosting service, can potentially be accessed by other customers.
 > 
 > **Further Information**
 > 
@@ -108,4 +109,4 @@
 > 
 > [Service Guarantee](https://web.archive.org/service_guarantee_policy.php)
 > 
-> [Terms of Service](https://web.archive.org/terms_of_service.php)
+> [Terms of Service](https://web.archive.org/policies_tos_agreements.php#tos)
