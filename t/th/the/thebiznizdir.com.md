@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122194511id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130721id_/http%3A//www.bizexposed.com/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - thebiznizdir.com
+# Privacy Policy - bizexposed.com
 
 Privacy Policy 
 
-We recognize that your privacy is important and at thebiznizdir.com we keep all your personal information secret. We never share your personal information with any third party.
+We recognize that your privacy is important and at bizexposed.com we keep all your personal information secret. We never share your personal information with any third party.
 
 ### Information we collect and how we use them:
 
@@ -14,7 +14,7 @@ This site provides forms for you to get listed with and contact us. Information 
 
 Logfiles:
 
-When you use thebiznizdir.com, information that your browser sends whenever you visit a website are recorded. This may include the browser type, internet protocol address, date and time of visit, web request, and the referring site if you got here from another website.
+When you use bizexposed.com, information that your browser sends whenever you visit a website are recorded. This may include the browser type, internet protocol address, date and time of visit, web request, and the referring site if you got here from another website.
 
 Cookies and Web Beacons:
 
