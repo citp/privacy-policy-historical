@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the latintimes.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111401id_/http%3A//www.latintimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latintimes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110151id_/http%3A//www.latintimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This policy was last updated on March 3, 2014_
+_This policy was last updated on July 16, 2014_
 
 **INTRODUCTION:**   
 This Privacy Policy describes how IBT Media Inc. and its affiliated United States subsidiaries (collectively, "Company," "us" or "we") may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on its Web sites and other applications.
@@ -105,7 +105,7 @@ If you have any questions, comments or concerns about our Privacy Policy or the 
 
 **Your California Privacy Rights**
 
-Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [newsweek@emailcustomerservice.com](mailto:newsweek@emailcustomerservice.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [support@newsweek.com](mailto:support@newsweek.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
 **SAFE HARBOR PRIVACY PRINCIPLES**
 
