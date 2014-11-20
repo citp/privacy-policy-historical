@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529210337id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212531id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - University of Bradford
 
-## Revision date: 29 January 2013
+## Revision date: 5 August 2014
 
 This privacy policy sets out how University of Bradford uses and protects any information that you give the University of Bradford when you use this website.
 
@@ -95,7 +95,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+whenever you are asked to fill in a form on the website, or other hard copy form, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
 if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web-team@bradford.ac.uk](mailto:web-team@bradford.ac.uk "Email the Web Team.")
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
@@ -106,6 +106,15 @@ Data Protection Officer
 University of Bradford  
 Bradford  
 BD7 1DP
+
+## Third-party access
+
+Your personal data may be forwarded to third parties in connection with the purposes outlined elsewhere in this statement, to be used on behalf of the University of Bradford. These organisations will only use your personal on behlalf of the University of Bradford, in accordance with their own Data Protection or Privacy policies and the terms of agreement with the University of Bradford. Organisations currently carrying out work on behalf of the University include 11Ten and Hobsons.
+
+  * [11Ten Data Protection Policy (Word doc, 40KB)](https://web.archive.org/about/media/universityofbradford/allfiles/documents/11ten-DP-policy.doc)
+  * [Hobsons Information Security Program (PDF, 217KB)](https://web.archive.org/about/media/universityofbradford/allfiles/documents/Hobsons-Information-Security-Program.pdf)
+
+
 
 ## Bulk emails
 
