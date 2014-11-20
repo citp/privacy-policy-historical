@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filecore.co.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112709id_/http%3A//filecore.co.nz/pages/pps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecore.co.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060223id_/http%3A//filecore.co.nz/pages/pps.html) for the most accurate reproduction.*
 
-# Filecore : : Free File Sharing and Online Storage.
+# Filecore | Free File and Video Sharing.
 
 ## Privacy Policy
 
