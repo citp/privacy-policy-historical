@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dabidoo.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331141101id_/http%3A//www.dabidoo.com/privacy-policy-for-www-dabidoo-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabidoo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120128id_/http%3A//www.dabidoo.com/privacy-policy-for-www-dabidoo-com) for the most accurate reproduction.*
 
 # Privacy Policy for www.Dabidoo.com
 
@@ -26,3 +26,5 @@ www.Dabidoo.com  has no access to or control over these cookies that are used b
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Dabidoo.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+Dabidoo.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to <http://www.networkadvertising.org/managing/opt_out.asp>.
