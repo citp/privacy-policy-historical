@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestiffcollar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091243id_/http%3A//www.thestiffcollar.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestiffcollar.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164309id_/http%3A//www.thestiffcollar.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
