@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquiddota.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515142322id_/http%3A//www.liquiddota.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquiddota.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060515id_/http%3A//www.liquiddota.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
