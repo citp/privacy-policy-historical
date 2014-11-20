@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsplazza.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630010455id_/http%3A//jobsplazza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsplazza.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110107id_/http%3A//jobsplazza.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs Plazza
+# Privacy Policy - Jobs Plazza
 
 Other than any other aspects we are much more concerned about the privacy policy as it would make a major difference in the building a relationship between us and our visitors. So we are always in a ready to go mode when it comes to answer our visitor about the privacy policy and terms and conditions too. So, here are the rules for our privacy policy and make sure that you go through it before using this website.
 
