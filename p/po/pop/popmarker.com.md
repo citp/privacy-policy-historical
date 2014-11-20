@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmarker.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503234622id_/http%3A//www.popmarker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmarker.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120040545id_/http%3A//www.popmarker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,11 +40,7 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them.
 
-Consumers can access this information by visiting us at [http://www.PopMarker.com/signup](http://www.popmarker.com/signup/).
-
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-Consumers can have this information corrected by visiting us at[http://www.PopMarker.com/signup](http://www.popmarker.com/signup).
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
