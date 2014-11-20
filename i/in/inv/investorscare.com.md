@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorscare.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620084624id_/http%3A//info.firstgiving.com/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorscare.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164405id_/http%3A//info.firstgiving.com/general-privacy) for the most accurate reproduction.*
 
 # Privacy and Security on FirstGiving
 
@@ -38,10 +38,6 @@ Although unlikely, FirstGiving may be forced by law to provide personally identi
   9. ## Acceptance of our Privacy Policy
 
 Use of the FirstGiving website and associated services implies acceptance of this Privacy Policy. If you are not satisfied with any aspect of it please do not continue to use the website and services. This policy may change from time to time and you are deemed to have accepted the current version each time you use FirstGiving.com or any site powered by us.
-  10. ## Safe Harbor
-
-With respect to personal information that it receives from the European Union (EU), FirstGiving abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU. For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>. Because FirstGiving and it's parent company, Giving Limited, comply with the Safe Harbor Principles, FirstGiving transfers of such data from EU countries to the United States meet the adequacy requirements of the EU Data Protection Directive.
-
 
 
 
