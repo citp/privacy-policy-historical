@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news360.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090526id_/http%3A//news360.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news360.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050639id_/http%3A//news360.com/privacy) for the most accurate reproduction.*
 
 # News360: Your personalized news reader app | Contacts
 
@@ -13,7 +13,7 @@ We aim to keep our privacy policy simple & understandable. Our main goals when t
 
 Here is our complete privacy policy:
 
-This privacy policy applies to all products created by News360 Ltd.
+This privacy policy applies to all products created by News360 Inc.
 
 ### Information that we collect and how we use it
 
@@ -26,6 +26,7 @@ We may collect the following types of information:
   * User communications - when you send us email or other communications, we may keep your communications on file in order to respond to you and improve our products per your feedback.
   * Location data - News360 provides local news as part of its services. This means that we have to discover and process your coordinates, or coordinates of the city you explicitly specified in the settings of the app. If you do not use the local news feature, we do not collect your coordinates.
   * Unique device identifier - When you use any of the News360 apps, we use the UDID of your device to give you persistent settings and service - this number usually cannot be used to identify your person and is not connected to your personal information, other than the information you explicitly provide to us.
+  * Advertising identifier - On some mobile platforms, News360 uses the advertiser identifier instead of the UDID, for example on Android, we use the [Android Advertising ID.](http://developer.android.com/google/play-services/id.html) This is used for usage statistics, analytics and to serve promote stories. 
 
 
 
