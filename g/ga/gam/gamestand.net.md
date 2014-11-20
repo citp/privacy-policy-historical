@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestand.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612074133id_/http%3A//gamestand.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestand.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120223408id_/http%3A//gamestand.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - gamestand.net
 
