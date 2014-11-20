@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075927id_/http%3A//www.collages.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175316id_/http%3A//www.collages.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Collages.net - Helping Photographers Profit
 
-Collages.net®, recognizes and respects the importance of maintaining the privacy of our photographers, color labs, event guests and other customers, who are all considered registered members (“Members”) and users and has therefore established this Privacy Policy. Below we describe why we gather information from you, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at Collages.net (the “Web Site”). The Web Site is owned by Collages.net, Inc. (the “Company”). By visiting Collages.net, you are accepting the practices described in this privacy notice and agree to receive our current privacy policies through our web site. 
+Collages.net®, recognizes and respects the importance of maintaining the privacy of our photographers, color labs, event guests and other customers, who are all considered registered members (“Members”) and users and has therefore established this Privacy Policy. Below we describe why we gather information from you, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at Collages.net (the “Web Site”). The Web Site is owned by Collages, LLC. (the “Company”). By visiting Collages.net, you are accepting the practices described in this privacy notice and agree to receive our current privacy policies through our web site. 
 
 **Note:** You must be 18 years or older to register as a member or use Collages.net®. 
 
@@ -96,11 +96,10 @@ If you prefer not to have us provide personal information about you to third par
 
   1. Writing to us at: 
 
-Collages.net, Inc.  
+Collages, LLC  
 ATTN: Customer Service  
-444 Oxford Valley Rd  
-Suite 230  
-Langhorne, PA 19047
+8906 E. 67th Street  
+Raytown, MO 64133
 
   2. Emailing us at: [customerservice@collages.net](mailto:customerservice@collages.net)
 
