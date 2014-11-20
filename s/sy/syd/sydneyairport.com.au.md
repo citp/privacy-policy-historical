@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328170833id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122414id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Sydney Airport
 
@@ -211,7 +211,7 @@ CCTV significantly increases the ability to monitor areas of the airport and aim
 
 
 
-For further information, view the [CCTV Fact Sheet](https://web.archive.org/~/media/Files/Corporate/About%20Us/Fact%20Sheets/Sydney-Airport-CCTV-Fact-Sheet.pdf).  Any other inquiries can be directed via e-mail to [customer.experience@syd.com.au](mailto:customer.experience@syd.com.au?subject=CCTV%20Enquiry) or by phone on 02 9667 9111.
+For further information, view the [CCTV Fact Sheet](https://web.archive.org/~/media/Files/Corporate/About%20Us/Fact%20Sheets/Sydney-Airport-CCTV-Fact-Sheet-20Oct2014.pdf).  Any other inquiries can be directed via e-mail to [privacy@syd.com.au](mailto:privacy@syd.com.au)[](mailto:customer.experience@syd.com.au?subject=CCTV%20Enquiry) or by phone on 02 9667 9111.
 
 ### Complaints 
 
