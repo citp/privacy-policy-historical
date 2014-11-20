@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606120324id_/http%3A//www.rover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065606id_/http%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy | Rover.com: Dog Boarding Marketplace
+# Privacy Policy | Rover.com Dog Boarding
 
 Updated March 28, 2014 [Previous versions: April 20, 2012; July 21, 2011; November 14th, 2011].
 
