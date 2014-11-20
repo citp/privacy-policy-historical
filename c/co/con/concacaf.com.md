@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concacaf.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221705id_/http%3A//www.concacaf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concacaf.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110318id_/http%3A//www.concacaf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,8 +20,8 @@ You must be at least 13 years old to register with us. Please do not provide any
 
 **Cookies and Analysis Tools**
 
-  * We may also use cookies and other technologies to optimise your experience on the Website. Cookies can be used to recognise users when they return and may help us to customise the Website for you based on your preferences.
-  * We control how the data collected from our cookies and other technologies may and may not be used. If you do not want to help us to learn how to improve our Website, products, offers and marketing strategy, you can "opt-out" of our ability to analyse such data and disable cookies by modifying the settings in your browser. Please note that this might affect some functionality on the Website. For more information about cookies and how to disable them, please go to www.networkadvertising.org.
+  * We may also use cookies and other technologies to optimize your experience on the Website. Cookies can be used to recognize users when they return and may help us to customize the Website for you based on your preferences.
+  * We control how the data collected from our cookies and other technologies may and may not be used. If you do not want to help us to learn how to improve our Website, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data and disable cookies by modifying the settings in your browser. Please note that this might affect some functionality on the Website. For more information about cookies and how to disable them, please go to www.networkadvertising.org.
   * Third-party advertisers on the Website may use cookies and other technologies in their advertisements for statistical purposes; we have no control over cookies placed by third parties.
 
 
@@ -40,7 +40,7 @@ All the information we collect via our Website, or through correspondence with y
 
   * managing the Website and access to it so that it is presented in the most effective way for you and your computer;
   * dealing with orders and accounts for the supply of our goods and services;
-  * planning and managing CONCACAF's business activities, including analysing users' preferences
+  * planning and managing CONCACAF's business activities, including analyzing users' preferences
   * promoting CONCACAF's events, broadcasts and sponsors;
   * research;
   * providing you with information about the products and services we offer (subject to your preferences where possible);
@@ -60,22 +60,22 @@ As described above data may be shared within CONCACAF and with its broadcasters,
 
 
 
-We may also share anonymised, aggregated data, such as access statistics, with third parties such as advertisers. This will not involve the identification of individuals.
+We may also share anonymized, aggregated data, such as access statistics, with third parties such as advertisers. This will not involve the identification of individuals.
 
 **How we communicate with you and how you can opt-out from receiving future communications or from our sharing personal data about you**
 
 We may use the information we collect to contact you by post, email and telephone (including automated calls, by SMS text messages and other multimedia electronic messages such as picture messaging) so as to communicate information to you about products, services, offers and other news.
 
-We will not send you unsolicited premium rate sms messages (which are sms messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details. You will be given the opportunity to opt-out of receiving such marketing information at the point when your details are collected. All promotional information from us will come with instructions on how to opt-out from receiving further information in the future.
+We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details. You will be given the opportunity to opt-out of receiving such marketing information at the point when your details are collected. All promotional information from us will come with instructions on how to opt-out from receiving further information in the future.
 
-If you would prefer to no longer receive marketing-related e-mail messages from us or if you would prefer that we not share personal data about you with any of our sponsors, promoters, broadcasters, joint venture partners or other associated entities, you may opt-out of receiving messages from us or from our future sharing of information about you by following the "unsubscribe" instructions in the latest such message you have received. We will endeavour to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove personal data about you from the databases of any third party with which we have already shared personal data about you (i.e., to which we have already provided personal data about you as of the date that we implement your opt-out request).If you wish to cease receiving marketing-related e-mails from such third parties, please contact such party directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails.
+If you would prefer to no longer receive marketing-related e-mail messages from us or if you would prefer that we not share personal data about you with any of our sponsors, promoters, broadcasters, joint venture partners or other associated entities, you may opt-out of receiving messages from us or from our future sharing of information about you by following the "unsubscribe" instructions in the latest such message you have received. We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove personal data about you from the databases of any third party with which we have already shared personal data about you (i.e., to which we have already provided personal data about you as of the date that we implement your opt-out request).If you wish to cease receiving marketing-related e-mails from such third parties, please contact such party directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails.
 
 **Data over the Internet and other websites**
 
-The Internet is a global network and, therefore, there are times when data about you travels globally and may not always be completely secure. If you provide us with data over the Internet, this will be at your own risk. By using the Website, you agree and authorise us to process data in this way. However, please be assured that we use commercially reasonable procedures and security features to prevent unauthorised access to data about you.
+The Internet is a global network and, therefore, there are times when data about you travels globally and may not always be completely secure. If you provide us with data over the Internet, this will be at your own risk. By using the Website, you agree and authorize us to process data in this way. However, please be assured that we use commercially reasonable procedures and security features to prevent unauthorized access to data about you.
 
 Where the Website contains links to third-party websites, please note that these have been included for convenience only. Neither CONCACAF nor any of its associated entities controls the content of any linked site and any personal data collected by such sites will be subject to the privacy policy of the third party operating that site. Please read any such third party's policy carefully before providing any personal data on such websites.
 
 **Further Information**
 
-If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please write to CONCACAF, Website Privacy Administrator; 725 Fifth Avenue, 17th Floor; New York, NY 10022.To see all of the information we have about you, and to correct any inaccuracies or change your options in relation to the information you wish to receive, please write to CONCACAF, Website Privacy Administrator; 725 Fifth Avenue, 17th Floor; New York, NY 10022.You may send questions and communications regarding personal data and our privacy policy to CONCACAF, Website Privacy Administrator; 725 Fifth Avenue, 17th Floor; New York, NY 10022.
+If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please write to CONCACAF, Website Privacy Administrator; 1000 5th Street, Suite 400; Miami Beach, FL 33139.To see all of the information we have about you, and to correct any inaccuracies or change your options in relation to the information you wish to receive, please write to CONCACAF, Website Privacy Administrator; 1000 5th Street, Suite 400; Miami Beach, FL 33139.You may send questions and communications regarding personal data and our privacy policy to CONCACAF, Website Privacy Administrator; 1000 5th Street, Suite 400; Miami Beach, FL 33139.
