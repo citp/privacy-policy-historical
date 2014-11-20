@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aimclearblog.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602122342id_/http%3A//www.aimclearblog.com/aimclear-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimclearblog.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132109id_/http%3A//www.aimclearblog.com/aimclear-privacy-policy) for the most accurate reproduction.*
 
-# aimClear Privacy Policy | aimClear® Blog
+# aimClear Privacy Policy - aimClear® Blog
 
 This Privacy Policy applies to the website you are currently viewing and informs you what information is collected and used on this website and your rights to access, see and use information on the website. By visiting or using aimClear’s website, you consent to the data collection and use practices described in this policy. The mere act of visiting the website, even without reading the subject legal document, will be viewed as acceptance of the terms contained in that document.
 
