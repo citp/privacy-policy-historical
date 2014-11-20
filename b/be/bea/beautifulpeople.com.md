@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautifulpeople.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065555id_/http%3A//www.beautifulpeople.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulpeople.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060800id_/http%3A//www.beautifulpeople.com/privacypolicy) for the most accurate reproduction.*
 
-# BeautifulPeopleBeautifulPeople - Privacy Policy
+# BeautifulPeople - Privacy Policy
 
 **This Privacy Policy applies to all users of BeautifulPeople and all its subsidiary online businesses including but not limited to BeautifulPeople.com, BeautifulPeopleGay.com, BeautifulWomenOnly.com, Hereinafter collectively BeautifulPeople**
 
