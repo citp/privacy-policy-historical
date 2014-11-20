@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216061002id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060951id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
 
-# Soft Surroundings - Customer Care - Privacy Policy & Terms of Use
+# Soft Surroundings
 
 ## Privacy Policy & Terms of Use
 
@@ -71,7 +71,7 @@ Phone: 1-800-240-7076
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundings.com/emailUs.php)
 
-If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundings.com/page.php?file=faq&faqId=49) or contact us at:
+If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundings.com/FAQ/E-mail/Unsubscribe_from_E-mail/) or contact us at:
 
 Soft Surroundings   
 1100 N Lindbergh Blvd   
@@ -98,7 +98,7 @@ If you set your browser to refuse cookies, please call us at 1-800-240-7076 to p
 
 We also use cookies and pixel tags (tiny graphic images) to tell us what parts of our website you have visited. Pixel tags also enable us to send you e-mail in a format you can read and let us know when you have opened an e-mail message from us.
 
-We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, [click here.](http://usucmweb.dotomi.com/2322/optout.html)
+We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, [click here.](http://networkadvertising.org/managing/opt_out.asp)
 
 We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
 
@@ -123,7 +123,7 @@ A limited amount of purchase information also may be available to you. To protec
 **Security**  
 It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
 
-When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](http://www.softsurroundings.com/page.php?file=faq&faqId=7) for details.
+When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](http://www.softsurroundings.com/FAQ/Ordering/Secure_Online_Shopping/) for details.
 
 **Privacy of Children on Our Website**  
 Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
@@ -140,5 +140,3 @@ St. Louis, MO 63132
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundings.com/emailUs.php)
-
-To choose not to have this information used by our third-party advertising partner, [click here.](http://usucmweb.dotomi.com/2322/optout.html)
