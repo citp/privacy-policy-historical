@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051955id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060339id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy - Powered By PHPFox
+# Privacy Policy
 
 **Our Privacy Policy  
 **   
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Script Techs website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the ScriptTechs website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name   
 Address   
@@ -32,6 +32,10 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
+**Other Parties**
+
+There are many members of our community that offer services and help. Our privacy policy is in regards to ScriptTechs and not to private third parties that are members of our community. Before releasing any information to them, please check with their privacy policies. 
+
 **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
@@ -43,6 +47,10 @@ Protecting the privacy of the very young is especially important. For that reaso
 **How You Can Access Or Correct Your Information**
 
 You can access all your personally identifiable information that we collect online and maintain by going to your account settings and privacy settings. 
+
+**Site Usage Information**
+
+Similar to other commercial web sites, our web site utilizes a standard technology called "cookies" and web server logs to collect information about how our web site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed and time spent at our web site. 
 
 **How To Contact Us**
 
