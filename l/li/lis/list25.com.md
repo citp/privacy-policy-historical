@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110952id_/http%3A//list25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060859id_/http%3A//list25.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » List25
+# Privacy Policy - List25
 
 Your privacy is very important to us. At List25 we have a few fundamental principles that we follow:
 
