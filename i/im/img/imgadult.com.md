@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329041258id_/http%3A//www.imgadult.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120193608id_/http%3A//www.imgadult.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy - Free Adult Image Hosting | ImgAdult
 
