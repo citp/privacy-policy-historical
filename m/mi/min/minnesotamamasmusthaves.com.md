@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040213id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120193837id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Must Have Mom
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Email \-- **0** Flares ×
 
 At www.musthavemom.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.musthavemom.com and how it is used.
 
@@ -20,4 +22,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sarah@musthavemom.com.
 
-[ ](https://www.linksalpha.com/social/mobile)
+If you enjoyed this post, please consider leaving a comment, sharing on Pinterest, Facebook, Twitter or [subscribing to the RSS feed](http://musthavemom.com/feed "Syndicate this site using RSS") to have future articles delivered to your feed reader. You can also subscribe via email on the right sidebar!
+  *[RSS]: Really Simple Syndication
