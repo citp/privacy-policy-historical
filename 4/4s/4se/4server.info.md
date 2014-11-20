@@ -1,48 +1,38 @@
-> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045118id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131420id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | www.4server.info
+# Privacy Policy | 4server.info
 
-[Home](http://www.4server.info/) | [ Premium ++ ](http://www.4server.info/new/) | [Copy Code ](http://www.4server.info/code/) | [Advertising](http://www.4server.info/advertise/) | [Contact Us](http://www.4server.info/contact-us/)
-
-  
-
-
-## easy way to download file without waiting and wasting time
-
-_get 50% off on stable host by using coupon code 4server_
-
-Privacy Policy for http://www.4server.info 
+Privacy Policy for http://4server.info 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at neo7team@gmail.com. 
 
-At http://www.4server.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.4server.info and how it is used. 
+At http://4server.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://4server.info and how it is used. 
 
 **Log Files**  
-Like many other Web sites, http://www.4server.info makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, http://4server.info makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-http://www.4server.info does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+http://4server.info does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DoubleClick DART Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on http://www.4server.info.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.4server.info and other sites on the Internet.   
+.:: Google, as a third party vendor, uses cookies to serve ads on http://4server.info.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://4server.info and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
-Chitika 
+yllix 
 
 Smaato 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.4server.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://4server.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-http://www.4server.info has no access to or control over these cookies that are used by third-party advertisers. 
+http://4server.info has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.4server.info's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://4server.info's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-[ ](http://www.4server.info/advertise/)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)
+[ ](http://www.4server.info/advertise/)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)   
 
-[cairo dock 301tar](http://4server.info/download/4shared.com/archive/vaYWhEie/cairo-dock-301tar.htm "Download cairo dock 301tar 4server.info") [ 01 kh anwar zahid walimatul u](http://4server.info/download/shared.com/mp3/wbMh9Wm-/-01_kh_anwar_zahid_walimatul_u.html "Download  01 kh anwar zahid walimatul u 4server.info") [samurai shodown](http://4server.info/download/4shared.com/file/zUe3tkFM/samurai_shodown.html "Download samurai shodown 4server.info") [upin ipin kawan kawan boria](http://4server.info/download/4shared.com/mp3/TSmmnZNTba/upin_ipin__kawan_kawan_-_boria.html "Download upin ipin  kawan kawan   boria 4server.info") [Raciocnio Lgico Aula 01 vdeo 0](http://4server.info/download/4shared.com/video/jJcMScqj/Raciocnio_Lgico_Aula_01_vdeo_0.html "Download Raciocnio Lgico Aula 01 vdeo 0 4server.info")
