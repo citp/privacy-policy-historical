@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airtickets.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032143id_/http%3A//www.airtickets.com/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtickets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110430id_/http%3A//www.airtickets.com/security-privacy-policy) for the most accurate reproduction.*
 
-# Flights, Cheap Flights, Airline Tickets, Vacation - airtickets.com
+# Flights, Airline Tickets, Travel - airtickets.com
 
 **airtickets.com®** in collaboration with GeoTrust, aims on the security of your personal data. The application **is certified and based on international standards** which allow a safe registration of your personal data. 
 
