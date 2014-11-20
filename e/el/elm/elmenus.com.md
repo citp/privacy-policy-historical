@@ -1,55 +1,52 @@
-> *The following text is extracted and transformed from the elmenus.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506071330id_/http%3A//www.elmenus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elmenus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060057id_/http%3A//www.elmenus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - elmenus.com
+# elmenus Privacy Policy
 
-**Effective on December 1** **st** **,   2010** **.**
+elmenus, SAE ("elmenus") knows that you take your privacy seriously. We do, too. 
 
-This Privacy Statement (" **Statement** ") describes the personal information we collect through our websites and mobile applications (the " **Site** "), and how we collect and use it.  The terms " **we** ", " **us** ", and " **Elmenus.com** " refer to Elmenus.com.
+This Privacy Policy covers elmenus' treatment of personally identifiable information ("Personal Information") and other data that elmenus gathers when you are accessing elmenus' Service.
 
-##  **1.**    **Information We Collect and How We Use It**
+### What Personal Information Does elmenus Collect?
 
-_Account information._ We ask for and store information about you when you create an account on the Site, such as your name, email address, and signup location. You can also import your account information from a third party to make the Elmenus.com registration process easier. We use your email address to send you updates, provide services to  you in connection with the Site. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you.
+  * Personal Information You Provide to Us: We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, use information regarding your use of our Service, and browser information. We automatically receive your location when you use the Service. We use various technologies to determine location, such as location services of the applicable operating system or browser and sensor data from your device that may, for example, provide information on nearby Wi-Fi- access points and cell towers. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Service, improving the content of the Service, customizing the advertising and content you and your friends see, and communicating with you about specials and new features.
+  * Information Collected Automatically: When you use the Service, elmenus automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information Unless otherwise stated in this Privacy Policy, elmenus only uses this data in aggregate form. We may provide aggregate information to our partners about how our users, collectively, use our Service, so that our partners may also understand how often people use their services and our Service.
 
-_Public content._ You can contribute to the Site in a number of different ways, including writing reviews. We may store these contributions (your " **Public Content** "), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
 
-_Inviting friends._ You can invite your friends to join the Site by providing their contact information, or by entering your log-in credentials to import your address book from other sites. We may store and use your friends' contact information to invite them to join and connect with you on the Site. Your friends will always have the opportunity to opt-out of receiving further emails from us.
 
-_Third party services._ We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Site. 
+### Determining and Sharing Location
 
-_Activity and log data._ We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, the phone numbers and names of businesses that you call through the Site, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the  aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
+elmenus deals with location, so in order to work, elmenus needs to know your location. Whenever you open and use/interact with the elmenus app on your mobile device or go to elmenus.com, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the elmenus experience to your current location (i.e., we’ll show you a list of nearby restaurants, photos and food). This information is NOT shared with others. 
 
-_Cookies._ We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. " **Cookies** " refer to small pieces of information that a website sends to your computer's hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly or at all. Our cookies are linked to your information, such as your name, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Site. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Site, such as where you came from, which pages you visited within the Site, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
+#### elmenus Features
 
-_Feedback._ You should feel free to give us feedback, register a complaint, or ask questions about the Site. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
+The elmenus service includes several features that may allow you to share your information with others. Please review them carefully. Please remember that if you choose to provide personal information using certain features of the Service, that information may be available to the wider elmenus community, or may be published on the elmenus website.
 
-_Administration._ We may use the information described above for routine administrative purposes, such as investigating abuses on the Site, responding to user inquiries and enforcing and applying our Terms of Service and Statement.
+### Use of cookies and similar technology
 
-##  **2.**    **Transfer of Information**
+We use technologies like cookies on our website, in our emails, and identifiers supplied by app platform companies within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. By continuing to use our Service through your computer or mobile device, you consent to our use of cookies in accordance with this Privacy Policy.
 
-_Public Content._ If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms. We may ask them to credit you as the source of these contributions by including your account name and profile photo.
+We may work with advertisers or other partners and advertising service providers to serve ads or services to computers, mobile phones or other devices, which may use a cookie, pixel or other similar technology placed by elmenus or the third party (although we would not share any other information that identifies you with an advertiser). This Privacy Policy covers the use of cookies by elmenus and its service providers and does not cover the use of cookies by any advertisers.
 
-_Third party service providers._ We may use third parties to provide technical and customer support, perform tracking and reporting functions, conduct quality assurance testing, perform payment processing and provide other services in connection with the Site. We may share information about you with them so that they can perform the services they are required to perform, but they are not permitted to use your personal information other than to provide the services requested by you.
+### Is my personal information secure?
 
-_Aggregate information._ We may share non-personal information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
+Your elmenus account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately, and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-_Investigations._ We reserve the right to investigate abuses on the Site, and enforce and apply our Terms of Service and Statement. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Statement; (c) comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
+elmenus endeavors to safeguard user information to ensure that user account information is kept private. However, elmenus cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-##  **3.**    **Managing Your Information**
+The Service may contain links to other sites. elmenus is not responsible for the privacy policies and/or practices on other sites. When linking to another site, you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Service.
 
-We provide a number of tools to manage the use of your information on the Site. You may receive weekly newsletter communications from us. However, despite any requests to close your account or your indicated email preferences, we may still need to contact you as required by law or on legal matters, for example to inform you of any updates to our Terms of Service or this Statement.
+### What Personal Information Can I Access?
 
-##  **4.**    **Links**
+elmenus allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information and ensuring that it is accurate and complete. You can access this information on the elmenus website by visiting the user settings page. This list will change as our Service changes.
 
-The Site may contain links to third party websites with which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+  * Password
+  * Phone number
+  * Email address
+  * Other User profile information (for example, default city, profile picture)
+  * Usage information (for example: photos, reviews, dish likes)
 
-##  **5.**    **Our Policy ****Towards** **Children**
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please  [contact us](https://web.archive.org/ContactUs.aspx). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
-##  **6.**    **Security**
+### What If I Have Questions Or Concerns?
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-##  **7.**    **Modifications to this Statement**
-
-We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and will always be located  here.
+If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: info@elmenus.com We will make every effort to resolve your concerns.
