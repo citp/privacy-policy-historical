@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090430id_/http%3A//www.krcrtv.com/Privacy-Policy/-/14285892/14191068/-/3m0f4vz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084517id_/http%3A//www.krcrtv.com/Privacy-Policy/14191068) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -29,8 +29,7 @@ We collect information through technology, such as cookies, Flash cookies and We
 
 Please visit <http://www.allaboutcookies.org/manage-cookies/> for further information, including how to disable cookies.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>   
-
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp> 
 
  **The Way We Use Information**
 
@@ -85,14 +84,14 @@ We provide you the ability to exercise certain controls and choices regarding ou
 
   * Requesting access to the personal information we hold about you and that we amend or delete it and request third parties with whom we have shared the information do the same.
 
-  * Exercising your controls and choices, or requesting access to your personal information, by visiting KRCRTV.com, contacting [svatz@bontencalifornia.com](mailto:svatz@bontencalifornia.com), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [svatz@bontencalifornia.com](mailto:svatz@bontencalifornia.com).
+  * Exercising your controls and choices, or requesting access to your personal information, by visiting KRCRTV.com, contacting [nhauser@bontencalifornia.com](mailto:nhauser@bontencalifornia.com), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [nhauser@bontencalifornia.com](mailto:nhauser@bontencalifornia.com).
 
 
 
 
  **How to Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at (530) 722-6416 or send us an email at [svatz@bontencalifornia.com](mailto:svatz@bontencalifornia.com).
+Should you have other questions or concerns about these privacy policies, please call us at (530) 722-6416 or send us an email at [nhauser@bontencalifornia.com](mailto:nhauser@bontencalifornia.com).
 
 From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain consent.
 
