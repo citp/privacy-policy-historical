@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170145id_/http%3A//www.midwestsupplies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132810id_/http%3A//www.midwestsupplies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Midwest Supplies
 
@@ -69,7 +69,7 @@ If you choose to visit midwestsupplies.com or interact with Midwest Supplies in 
 **If there are any questions regarding this privacy policy you may contact us using the information below.**
 
 Midwest Supplies  
-1955 County Road C2  
+2221 Highway 36 West  
 St. Paul, Minnesota 55113  
 Toll free: 1-888-449-2739   
 Local: 952-562-5300  
