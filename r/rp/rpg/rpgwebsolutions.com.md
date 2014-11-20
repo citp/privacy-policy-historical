@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527195140id_/http%3A//rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194433id_/http%3A//www.rpgwebsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy & Terms – RPGIS
 
-[](https://web.archive.org/web/20140527195140id_/http%3A//rpgwebsolutions.com/default.html)
+[](https://web.archive.org/web/20141120194433id_/http%3A//www.rpgwebsolutions.com/default.html)
 
-+91-0-98102-36266  
-011-26138669
+Sales +91-9810236266  
+Support +91-9810236211
+
+[Home](https://web.archive.org/web/20141120194433id_/http%3A//www.rpgwebsolutions.com/default.html "website Designing Company") >> privacy policy
 
 Privacy Policy
 
