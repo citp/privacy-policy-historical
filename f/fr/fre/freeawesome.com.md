@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009110138id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120125418id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.*
 
 # Free Awesome - Privacy Policy
 
 **Policy Last Revised: July 3, 2012.**
 
-The following sets forth the policies for the collection and use of personally identifiable information ("Information") by AVCOM, LLC dba FreeAwesome ("FreeAwesome") in connection with its operation of its Web site located at http://www.freeawesome.com (the "Site"), and supersedes any previous statement of such policies. FreeAwesome know that users' personal information is important to them, and that it is important that FreeAwesome respect that importance and treat that information responsibly. FreeAwesome has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with FreeAwesome in connection with the information collection and use. FreeAwesome takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
+The following sets forth the policies for the collection and use of personally identifiable information ("Information") by MGT Studios, Inc. dba FreeAwesome ("FreeAwesome") in connection with its operation of its Web site located at http://www.freeawesome.com (the "Site"), and supersedes any previous statement of such policies. FreeAwesome know that users' personal information is important to them, and that it is important that FreeAwesome respect that importance and treat that information responsibly. FreeAwesome has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with FreeAwesome in connection with the information collection and use. FreeAwesome takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
 **Collection of Information.**
 
@@ -72,7 +72,7 @@ All users who provide their Information to FreeAwesome may modify and correct su
 
 **Your California Privacy Rights.**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of FreeAwesome who are California residents to request certain information regarding FreeAwesome's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: FreeAwesome, PO Box 375, Morganville, NJ 07751-0375.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of FreeAwesome who are California residents to request certain information regarding FreeAwesome's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: FreeAwesome, 500 Mamaroneck Ave, Suite 204, Harrison, NY 10528.
 
 **Changes to this Privacy Policy.**
 
