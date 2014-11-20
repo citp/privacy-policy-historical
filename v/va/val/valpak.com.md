@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024130id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120043258id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
 
-# Free Printable Coupons, Local Deals and Online Promo Codes - Valpak.com
+# Free Printable Coupons and Online Promo Codes - Valpak.com
 
 Effective on 7/22/2013
 
@@ -97,7 +97,7 @@ Valpak.com does not knowingly collect information from children under the age of
 
 ### 6\. How We Protect Personal Information
 
-We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.).
+We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com).
 
 ### 7\. Updates to Our Privacy Policy
 
@@ -110,14 +110,14 @@ Valpak.com gives our members the option of deactivating from our service so as n
 To change your profile and preferences or deactivate your participation in the service, you may:
 
   * Visit the "Your Profile" section of Valpak.com and change your current status.
-  * Send an e-mail to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.) and request to unsubscribe.
+  * Send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com) and request to unsubscribe.
   * Write to Valpak.com, 8605 Largo Lakes Drive, Largo, Florida 33773 attn: Customer Service.
   * Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.
 
 
 
-Note: It may take up to 48 hours for us to process your request and any e-mail communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
+Note: It may take up to 48 hours for us to process your request and any email communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
 
 ### 9\. Comments
 
-We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com.)
+We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com)
