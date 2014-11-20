@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629151157id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111853id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy - PTZtv - Scenic Webcam Solutions
+# PTZtv - Scenic Webcam Solutions - Privacy
 
 **What information do we collect?**
 
-  
 You may visit our sites anonymously and are not required to register or sign-in.
 
 If you choose to fill out and submit a contact or "wave request" form, you may be asked to enter your name, e-mail address or phone number.  
@@ -39,6 +38,8 @@ We use your IP address to perform IP geolocation at the country of origin level.
 
 Cookies are small files that a site or its service provider transfer to your computer's hard drive through your web browser (if you allow) that enable the sites or service providers systems to recognize your browser and capture and remember certain information.
 
+ 
+
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our sites.
 
 Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our sites and/or other sites on the Internet.
@@ -55,6 +56,10 @@ We do not place or use PTZtv cookies on any of our webcam websites.
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Email Policy**
+
+We comply with the federal CAN-SPAM Act. You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
 
 **Third party links**
 
@@ -80,6 +85,6 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on **May 21st, 2013**
+This policy was last modified on **August  11th, 2014**
 
 If you have further questions, please contact us by email to [info@ptztv.com](mailto:info@ptztv.com)
