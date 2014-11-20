@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515141618id_/http%3A//www.citizensinformation.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202442id_/http%3A//www.citizensinformation.ie/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -24,7 +24,7 @@ We may collect the following information from each user of this site:
 
 Any personal information you provide will be used only for the purpose supplied. If you make a request for a form, the details supplied will be passed to the Department or Agency responsible. Queries submitted are handled by the Citizens Information Board. Your details will be deleted from the system after a set period of time. Any other information collected, is used only for analysing usage patterns, in order to guide us in improving the site.
 
-Citizens Information will neither make attempts to identify individual visitors, nor associate the technical details listed above with any individual. It is our policy never to disclose such technical information in respect of individual website visitors to any third party unless obliged to disclose such information by a rule of law. The technical information will be used only by only for statistical and other administrative purposes.
+Citizens Information will neither make attempts to identify individual visitors, nor associate the technical details listed above with any individual. The technical information will be used only for statistical and other administrative purposes.
 
 You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 - 2003.
 
@@ -38,7 +38,7 @@ Citizensinformation.ie uses cookies in a number of places.
   * The website sets a cookie when you view or use the 'Contact us' form. This cookie does not contain any personal information, but is used to help prevent a security attack called 'cross-site referral'.
   * A cookie is also set to allow the text-resizing and high-contrast buttons to work.
   * A number of cookies are set to allow some checklist functionality to work.
-  * If you access citizensinformation.ie with most mobile phones, you will be asked if you would prefer to view the mobile version of the website. A cookie is set to record if you access the site with a mobile phone or with a desktop browser. 
+  * If you accessed citizensinformation.ie with most mobile phones prior to mid-June 2014, you would have been asked if you preferred to view the mobile version of the website. A cookie was set to record if you accessed the site with a mobile phone or with a desktop browser.
   * This website uses Google Custom Search to provide the site's search functionality. Google may set cookies when you use the search function. You can find Google's privacy policy here: [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/).
   * Cookies from Google may also be set when Google Maps are displayed on this website.
 
