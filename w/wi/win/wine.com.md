@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627151831id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132629id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
@@ -28,6 +28,8 @@ If you feel that our company is not abiding by its posted privacy policy, please
 Wine.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way that varies from what is disclosed in this statement. Wine.com collects information from our users at several different areas on our site.
 
 You may receive information regarding new features, services and special offers we think you'll find valuable. We may also share information with carefully selected business partners. These businesses may use the information we share to provide valuable opportunities and offers. If you'd like to opt out of future mailings from Wine.com, Inc., follow the procedure outlined in the Choice/Opt-out section below. When we present you with the opportunity to receive marketing opportunities from our business partners we will not automatically subscribe you for these promotions, rather we will provide you with the opportunity to opt-in to these third party marketing programs.
+
+However, if you subscribe to the Wine.com Whole Foods quarterly Wine Club you will be automatically opted-in to receive information regarding features, services and special offers available from Whole Foods. You can opt-out of the mailings at anytime.
 
 You may also access the personally identifiable you have submitted to Wine.com by selecting “Your Account” and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at [privacy@wine.com](mailto:privacy@wine.com). For users of the Community section of Wine.com, please see "Writing Reviews/Community" section below.
 
@@ -135,4 +137,4 @@ Wine.com, Inc.
 114 Sansome Street, 3rd Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on July 23, 2013.
+The Privacy Notice posted on this site was updated on November 1, 2014.
