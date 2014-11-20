@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonlaptops.co.uk privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515053639id_/http%3A//www.saveonlaptops.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonlaptops.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115528id_/http%3A//www.saveonlaptops.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Save on Laptops Privacy Policy
 
