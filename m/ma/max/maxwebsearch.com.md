@@ -1,96 +1,171 @@
-> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605001819id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225140id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**MAXWEBSEARCH PRIVACY POLICY**
+Privacy Policy
 
-**MAY CHANGE FROM TIME TO TIME**
+_(Effective December 18, 2013)_
 
-**PLEASE CHECK BACK FREQUENTLY FOR UPDATES**
+**Privacy Policy**
 
-**Effective as of April 27, 2012**
+**Last Updated On: December 18, 2013  
+**  
+At MaxWebSearch.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the MWS (“MWS”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our MWS mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by MaxWebSearch.(collectively the “Services”).
 
-MaxWebSearch has established this Privacy Policy to disclose our information gathering and dissemination practices for the [maxwebsearch.com](http://maxwebsearch.com/) website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our “Services” include [maxwebsearch.com](http://maxwebsearch.com/), the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized.  References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are.  By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-By using our Services, you are consenting to the terms of this Privacy Policy.  If you do not agree to be bound by this Privacy Policy, you should not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly.  Please check this page periodically for updates.  If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website.  Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
-This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services.  Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties.  We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party’s privacy policy may apply. 
+**1.          What information do we collect about you? **
 
-**1.              ****Collection of Information**
+We explain below the main ways that we collect and process information about you.
 
-MaxWebSearch does not, generally, track or maintain personally identifiable information about consumers that use our Services. The only personally-identifiable information collected through the use of our Services is gathered upon your contacting us so that we may respond to your questions or comments.  When you use or interact with our Services, we may collect certain anonymous information that is not sufficient to permit someone to identify you by name, email address, mailing address, telephone number, social security number, driver’s license or other government-issued identification.  The anonymous information we may have access to, obtain, retain and use may include: 
+**_Information You Provide To Us_** **:**
 
-  * Information about your use of our Services, such as the frequency with which you use them, how you use and interact with them, when you visit them, and your responses to the offerings and advertisements made available to you through them, among other things; and 
-  * Information of a technical nature that may be gathered or received when you use the Services, including, without limitation, the following: 
-    * The type of browser you are using when using our Services, including your browser’s “user agent” (e.g., Internet Explorer, Safari, and other browsers); 
-    * Your means of connecting to the Internet (e.g., connection speed through broadband or narrowband access); 
-    * Your operating system type, whether Windows 7, Mac OS, and CPU type (for example, Pentium);
-    * Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use;
-    * Any information that may be gathered regarding your geographic location and the domain name of your Internet service provider (ISP); and/or
-    * Diagnostic information which describes how our Services are operating on your system.
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password.  You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
 
+You may also provide personal information to us, if you choose to:
 
-
-All of the foregoing information is collectively referred to hereinafter as “Anonymous Information”.  We may also supplement Anonymous Information with additional information from other third parties in some cases.  Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services. 
-
-**2. Use of Information**
-
-(a) Anonymous Information is used to (i) operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things, (ii) research and analyze your use of the Services, and (iii) present you with offers for other products, offerings, programs, features and/or services that may be of interest to you. 
-
-We will not share your Anonymous Information with third parties unless: 
-
-  * You have given us your prior consent to disclose such information; 
-  * The third party is our parent, subsidiary, or an affiliated company owned by our parent company. 
-  * We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); 
-  * Such information is needed by a company that works for us in providing you with our Services, in which case they will only get that portion of your Anonymous Information they need to help us deliver our Services and they will only be allowed to use that portion of your Anonymous Information when we request it and pursuant to our instructions; and 
+  * sign up to receive our “Question of the Day” or any similar service or request to receive certain other communications from us;
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);
+  * contact us about employment opportunities posted to the Services; or
+  * otherwise use the Services in a manner that you have requested.
 
 
 
-(b) We note above, but it is worth reiterating here, that your Anonymous Information, as well as other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services. 
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services.   Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network.  For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public.  You should be careful about revealing any sensitive details about yourself. 
 
-(c) In the event that ownership of all or a portion of the Services currently provided by MaxWebSearch were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information may be transferred as well. 
+**_Information We Collect When You Use The Services_** **:**
 
-**3. Web Beacons and Cookies **
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
-(a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service’s offerings; to present, measure and research the effectiveness of our Service’s offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services.  In addition, third party advertisers on our site might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general.  We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser. 
+(1)       IP address of your computer
 
-(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page.  A cookie is a small text file transferred from MaxWebSearch to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously.  You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. 
+(2)        Unique mobile device identifier
 
-**4. Username and Password **
+(3)        Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
 
-You are responsible for keeping any password you use for third party services that are integrated with and/or accessed from the Services confidential and secret. As such and for other important security reasons, we urge you to keep any such password secure and safe at all times. By using our Services, you acknowledge that you and you alone are responsible for the security of any username and password. 
+(4)        Your preferences and settings (time zone, language, etc.)
 
-**5. We Are Committed to Security **
+(5)        Internet provider or mobile carrier name
 
-MaxWebSearch stores Anonymous Information in a database on MaxWebSearch computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under MaxWebSearch's control.  Notwithstanding such measures, MaxWebSearch cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+(6)        The URL of the last webpage you visited before visiting the Website
 
-**6. General Internet Hazards **
+(7)        Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
 
-Any time you receive files over the Internet from third parties, regardless of the application used, whether MaxWebSearch, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is.  You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted.  MaxWebSearch does not encrypt your communications through the Services.  Further, your communications made through MaxWebSearch may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet.  As such, MaxWebSearch cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
+(8)    If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).  Please see the section “Mobile Device Location Information” below for further information.
 
-**7. European Union Members - International Transfer of Data **
+(9)    If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
 
-Our Services are international in scope.  By using the Services you consent to your Anonymous Information and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
+**2.          How do we use the information we collect?**
 
-**8. Children **
+We use the information we collect from and about you for a variety of purposes, including to:
 
-Our Services are intended for a general audience, and children under the age of thirteen are not permitted to use the Services.  We do not intentionally solicit or collect personal information from anyone under the age of 13.  If you believe that we might have any information from or about a child under age 13, please contact us through our contact form at: [http://maxwebsearch.com/contact.](http://maxwebsearch.com/contact) We strongly recommend that minors between the ages of 13 and 18 ask their parents’ permission before sending information about themselves to anyone over the Internet or receiving any information from persons unknown to them. 
+  * verify your eligibility for our Services;
+  * respond to your queries with the best possible answers and search results;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+  * administer our Services, diagnose technical problems and otherwise manage our business;
+  * distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel;
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences.  Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
+  * send you questions from other users that you may be able to answer if you have registered with our Services;
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and
+  * perform functions as otherwise described at the time of collection.
 
-**9. Changes to this Privacy Policy **
 
-MaxWebSearch Change may update this Privacy Policy from time to time in its sole discretion, as reflected in the “Effective as of” date above. As such, you should review this Privacy Policy frequently. 
 
-**10. Who We Are **
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
-Any references made in this Privacy Policy to “us”, “we”, “our” and/or “MaxWebSearch” shall be deemed to have been made to MIVA AK, Inc., as well as any company that controls MIVA AK, Inc., directly or indirectly, and any other subsidiary of that controlling company.
+**3.          How do we share the information we collect?**
 
-**11. More Information**
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent.  We will share your information in the following ways:
 
-For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org.  In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf.  We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+  * **_Companies within the MWS:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company.  _ _
+  * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. **  **
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **_Advertisers and advertising networks:_**  Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services.  They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-If you have questions about this Privacy Policy, please contact us through our contact form at <http://maxwebsearch.com/contact> or write to us at:
 
-MaxWebSearch  
-Attn: Privacy and Compliance Group  
-21301 S Tamiami Trail, Suite 320 #108  
-Estero, FL 33928
+
+**4.          Cookies and Online Advertising:**
+
+**Cookies.**   We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.
+
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf.  Cookies have a lot of jobs.  For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings.  We use third party cookies for functionality, performance / analytics, advertising and social media purposes.  Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.  To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
+
+**How To Control Or Delete Cookies :  
+**Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones MWS uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677)
+. 
+
+
+[Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.](http://support.apple.com/kb/HT1677)
+
+[Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.](http://support.apple.com/kb/HT1677)
+
+**[Online Behavioral Advertising and Mobile.   Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site.  They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.  You may opt-out of receiving targeted online advertising from advertising networks that is delivered on MaxWebSearch.com and other websites by visiting the following websites:](http://support.apple.com/kb/HT1677)**
+
+  * [Network Advertising Initiative (http://www.networkadvertising.org/)](http://support.apple.com/kb/HT1677)
+  * [Digital Advertising Alliance (http://www.aboutads.info/consumers)](http://www.networkadvertising.org/)
+
+
+
+[Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.](http://www.aboutads.info/consumers)
+
+[If you are using an MWS mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.](http://www.aboutads.info/consumers)
+
+[If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device:  http://oo.apple.com.  If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON.  If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s Ads Preferences page from a browser on your device and make your choices there.  We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.](http://www.aboutads.info/consumers)
+
+**[Mobile Device Location Information.   When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded.  Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you.  We keep this data for no longer than is reasonably necessary for providing our services.  If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature.  If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:](http://www.google.com/ads/preferences/)**
+
+  * [If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.](http://www.google.com/ads/preferences/)
+  * [If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.](http://www.google.com/ads/preferences/)
+  * [If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.](http://www.google.com/ads/preferences/)
+
+
+
+**[5.          Reviewing, changing or deleting information](http://www.google.com/ads/preferences/)**
+
+[If you would like to review, change or delete personal information we have collected from you, please contact the MWS Privacy Officer:](http://www.google.com/ads/preferences/)
+
+[MaxWebSearch  
+21301 S Tamiami Trail   
+Suite 320 #108  
+Estero, FL 33928](http://www.google.com/ads/preferences/)
+
+**[Do Not Track.   Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.](http://www.google.com/ads/preferences/)**
+
+[We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.](http://www.google.com/ads/preferences/)
+
+**[6.          How do we keep the information we collect secure? ](http://www.google.com/ads/preferences/)**
+
+[We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage.  We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs.  However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.](http://www.google.com/ads/preferences/)
+
+**[7.          How long do we keep the information we collect?](http://www.google.com/ads/preferences/)**
+
+[We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request.  We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.](http://www.google.com/ads/preferences/)
+
+**[8.          Children under 13](http://www.google.com/ads/preferences/)**
+
+[The Services are not intended for users under the age of 13.  We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.](http://www.google.com/ads/preferences/)
+
+**[9.          Consent to Transfer of Information ](http://www.google.com/ads/preferences/)**
+
+[If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S.  By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.](http://www.google.com/ads/preferences/)
+
+**[10.        U.S.-EU Safe Harbor Notice](http://www.google.com/ads/preferences/)**
+
+[The MaxWebSearch.com Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.](http://www.google.com/ads/preferences/)
+
+[MaxWebSearch.com has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.](http://www.google.com/ads/preferences/)
+
+[To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/.](http://www.google.com/ads/preferences/)
