@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viaworld.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115108id_/http%3A//www.viaworld.in/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viaworld.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050423id_/http%3A//viaworld.in/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Via
 
