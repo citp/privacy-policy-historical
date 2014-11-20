@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixgold.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514122748id_/http%3A//matrixgold.com/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgold.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120052020id_/http%3A//matrixgold.com/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
 
 # Matrix Gold Bitcoin Cycler
 
