@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514215054id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010149id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice StickerGiant
 
@@ -65,3 +65,5 @@ This Policy is governed by Colorado law, excluding conflicts of law principles. 
 ## IF YOU HAVE A PRIVACY QUESTION
 
 If you have a privacy question about our site, please write: StickerGiant.com, Attn: Privacy Policy, POB 301 Hygiene, CO 80533
+
+[test link](http://www.stickergiant.com/coupons?c=sgbs&ag=sgbsc&kw={KeyWord:default})
