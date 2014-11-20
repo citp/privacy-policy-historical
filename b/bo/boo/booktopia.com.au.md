@@ -1,42 +1,176 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407163920id_/http%3A//booktopia.com.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120037id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
-# Globalise Interactive Solutions
+# Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
-| 
+### Privacy Policy
 
-Globalise Pty Ltd Privacy Policy
+Booktopia Pty Ltd ("Booktopia") respects your right to privacy and is committed to protecting your personal information. This Privacy Policy outlines how Booktopia Pty Ltd collects, uses and manages your personal information.
 
-## Privacy policy
+We respect the importance of your privacy and that you have a right to make your own choices about how your personal information is collected and used. We acknowledge that when you provide your personal information, you do so trusting Booktopia Pty Ltd and unless you directly give Booktopia Pty Ltd consent to do otherwise, Booktopia Pty Ltd will only collect and use your personal information in accordance with this Privacy Policy.
 
-Globalise Pty Ltd ("Globalise") is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of Globalise websites anonymously, you may be required to provide personal information to gain access to some of our content and services, particularly our products KUIconnect! and KUIcontact!   
-This privacy policy covers information regarding accessing our websites, as well as usage of Globalise's products. 
+#### Collecting information about you
 
-### How we collect and use personal information
+Except as stated in this Privacy Policy, Booktopia Pty Ltd will not collect or use your personal information without your consent. Booktopia Pty Ltd collects your personal information when you:
 
-When required, registering for membership on www.globalise.com.au and subscribing to usage of our products gives you access to information and features. Information required may be your name, e-mail address, country, and ZIP/postal code. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, and special offers from us. If you would rather not receive these e-mail notifications, you can simply indicate that preference to us by email or other. We do not use your personal information outside of our business in any way - either with Partners or Third Parties. We do use your information for statistical analysis purposes to assist us with our marketing and service levels, and product support. Information collected during registration and usage of Globalise' products is stored on secure servers and is protected as below. 
-
-### Protecting KUIconnect! and KUIcontact! information
+  * provide us your personal information and contact details;
+  * order or purchase Booktopia products and/or services
+  * enter your personal information on the Booktopia website or other Booktopia-owned properties;
+  * participate in a Booktopia competition;
+  * nteract with us through social media (including Facebook and Twitter);
+  * register on the Booktopia website/s
+  * contact us; we may also keep a record of that contact.
+  * We will only collect additional personal information with your consent.
 
   
-Information you provide to us when ordering products are kept confidential and secure as per this policy. All operator and customer session information, including conversation transcripts, are protected and secured. All session and transcript information is made available in a secure fashion to the purchaser (being the individual or company that is the registered user of the product), and remains the property of the purchaser. 
-
-### How we protect your personal information
-
-All personal data you enter on www.globalise.com.au and into our products is stored securely. We have firewall and intrusion detection mechanisms in place to minimize the impact of attack. In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. We send you only the e-mail you have approved in your account information or on your subscription sign-up page.   
 
 
-### How we use "cookies"
+#### Booktopia Pty Ltd use of cookies
 
-As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, www.globalise.com.au uses cookies to identify visitors. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit. 
+Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. Booktopia Pty Ltd uses cookies to make your use of our website and services as convenient as possible, such as by customising your web browser's access so that you can maintain your wishlist and shopping cart when you next visit the Booktopia Pty Ltd website. Cookies also enable Booktopia Pty Ltd to offer products and services for you on a more personalised basis.
 
-### What we provide to third parties
+Booktopia Pty Ltd uses web analytics tools, testing and other software that use cookies to improve your online experience, including the display of more relevant ads on other websites, based on your activities on your visits to the Booktopia website. If you do not wish to receive any cookies you may set your browser to refuse cookies, however not all the functionality of the Booktopia website may operate as expected.
 
-While www.globalise.com.au does not provide any third-party access to your personal information except to facilitate your own attempts to register with our partners or receive offers from select partners as mentioned elsewhere in this policy, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member unless that member has given us permission to share that information. 
+#### Using and disclosing your personal information
 
-### Obtaining your consent
+Booktopia Pty Ltd's purpose in collecting your personal information is to provide you with:
 
-By using our Web site, you give Globalise permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at www.globalise.com.au, you authorize Globalise to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. As a registered member, you give Globalise and our agents permission to send you e-mails related to the subscription e-mail services to which you subscribe. If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law. Any changes to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+  * the ability for you and Booktopia to complete or progress your order or transaction with us
+  * information that interests you
+  * information about events; and
+  * special offers that are relevant to you
 
-### Tell us what you think
 
-Globalise welcomes your questions and comments about our privacy policy. Please send e-mail to [enquiries@globalise.com.au](mailto:enquiries@globalise.com.au)
+
+Booktopia Pty Ltd will not use or disclose any of your personal information without your consent, unless:
+
+  * required by law;
+  * Booktopia Pty Ltd believes it necessary to fulfil the above purposes or otherwise to provide you with services or products which you have requested; or
+  * to protect the rights, property or personal safety of other users of the website, any member of the public or of Booktopia Pty Ltd.
+
+
+
+In seeking to give you the most worthwhile experience in using the Booktopia website, your personal information may be used to send you advertisements about products and services that we think you are likely to be interested in.
+
+Booktopia does not disclose your personal information to advertisers, or any overseas entity. In order to operate the Booktopia website, fulfil the purposes set out above or otherwise deliver products or services, Booktopia will not otherwise disclose your personal information to other companies or third parties without your explicit consent.
+
+#### When Booktopia Pty Ltd will contact you
+
+When you complete a purchase with Booktopia, you are presented with a comprehensive way to manage what marketing communications you wish to receive - if any - from Booktopia. Similarly, when you create an account or subscribe to Booktopia's newsletters, your preferences can be managed by you in their entirety.
+
+Types of communications you may receive
+
+  * updated information about the Booktopia website;
+  * information about our products and services which may interest you; and
+  * other information about upcoming events - such as discount promotions which may interest you.
+  * Any communication enabled in the newsletter preferences area in your account
+
+
+
+If you are receiving promotional information about Booktopia Pty Ltd and do not wish to receive this information any longer, you may remove your name from our list by visiting the Booktopia website and updating your newsletter preferences in your account. Please allow up to 3 business days for this request to be processed.
+
+#### You can access the information Booktopia Pty Ltd keeps about you
+
+If at any time you want to know what personal information Booktopia Pty Ltd holds about you, you can log into your Account and view the information you gave us. If you have further questions, you can contact us by phone.
+
+#### Changing and updating the information Booktopia Pty Ltd has about you
+
+If at any time you wish to change your personal information that is inaccurate or out of date, please contact our Customer Service team through your Message Center in your account, or by contacting our Customer Service team by phone and we will amend your personal information accordingly, or advise you how you can do this yourself within your account.
+
+#### Deleting the information Booktopia Pty Ltd has about you or stopping any further advertising material
+
+If you wish to have your personal information deleted, please let Booktopia know by contacting our customer service team, and we will take all reasonable steps to delete such information unless it must be kept for legal reasons. If you do not wish to receive further advertising, marketing or promotional information from Booktopia, please log into your account and change your newsletter preferences, or by clicking the Unsubscribe link that is on every marketing or promotional email that Booktopia sends to you.
+
+#### Storage and security of your personal information
+
+Booktopia Pty Ltd will do everything reasonable and in its' power to keep secure the personal information which Booktopia Pty Ltd holds about you. Access to this information is restricted only to Booktopia Pty Ltd employees who have specific authorisation. Booktopia Pty Ltd also continually endeavours to improve security safeguards using the most stringent, industry-accepted online security and internal processes. That said, Booktopia will not be held responsible for events arising from unauthorised access to your personal information, but will do everything in our power to prevent it as a responsible, high-profile, Australian online retailer.
+
+#### What to do if you have a problem or question
+
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling 1300 187 187.
+
+#### Future changes
+
+Booktopia Pty Ltd is committed to being Australia's #1 online bookstore. This means that Booktopia Pty Ltd's business will continue to evolve and improve as new products, services and features are introduced. Accordingly, Booktopia Pty Ltd will review and update its policies as required. Booktopia Pty Ltd reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on the Booktopia Pty Ltd website.
+
+This amended Privacy Policy will apply whether or not Booktopia Pty Ltd has provided you specific notice of any changes or updates.
+
+^ back to top
+
+### Pricing Policy
+
+All prices are listed in Australian dollars and are inclusive of GST. If placing an order from outside Australia you will be charged in your own currency at the conversion rate of your credit card company.
+
+All prices on the Booktopia website are for orders placed via the website only. Orders placed by phone, fax (only for orders not with a Booktopia order number), in person at our office or by mail order will be charged the full RRP prices quoted on the website plus a $10 non-refundable administration fee as they will need to be hand processed by Booktopia staff.
+
+All orders are subject to price and availability confirmation. If we cannot supply the product for the originally advertised price then Booktopia will do one of two things.
+
+If the increase in price is marginal then Booktopia will absorb the increase and proceed with the order and adjust the price on the website after processing your order.
+
+If the price is significantly more then we will not proceed until we have consulted with the customer via the message centre in your Booktopia account and outlined the options. The customer will not be charged for that item until Booktopia has been given confirmation to proceed with the new price. You have 48 hours to respond to the options given to you. If you respond after this time frame, you will be asked to place a new order through the website. If there are other titles on the order that are readily available then they will be automatically ordered, regardless of what percentage of the order they make up.
+
+Booktopia are not obligated to sell a title at the listed price if we are not able to source it from our supplier at the time of ordering as prices may have changed in the interim. In all instances you will be contacted via the message centre in your Booktopia account if there is a change of price and Booktopia will endeavour to find an alternative edition for the same price or discuss the possibility of purchasing the same title at the new price.
+
+We reserve the right to correct any printing errors.
+
+^ back to top
+
+### Cover Images
+
+The images on our website are intended as a guide only. As Booktopia does not keep every title in stock on site we are unable to guarantee the cover image that arrives from the supplier, will be that listed on the site. Publishers can have various cover designs for one ISBN so images can change without notification.
+
+### Secure Shopping
+
+Booktopia encrypts all personal information submitted to our server via industry-standard SSL.
+
+### Returns Policy
+
+We understand that from time-to-time you may need to return an item to us.
+
+**Before returning any items please contact Booktopia Customer Service Team to discuss your reason for requiring a return and organise an approval to return an item to Booktopia.**
+
+Before contacting Booktopia regarding a return please understand the following terms of business:
+
+  1. Booktopia will not pay for postage if you are returning an item because you have changed your mind, or made a mistake in your ordering.
+  2. If you have changed your mind, or made a mistake, we require notification within 2 business days of the recorded delivery date.
+  3. If you received a faulty or damaged item, we require notification within 2 business days of the recorded delivery date.
+  4. If the item you received is not what you ordered, we require notification within 5 business days of the recorded delivery date.
+  5. Booktopia is NOT obligated to offer a store credit for products that are returned damaged to our Distribution Centre or never arrive. The Booktopia Distribution Centre address is: Unit E1, 3-29 Birnie Avenue, Lidcombe, NSW 2141. To qualify for a credit an item must be returned in perfect condition ready to be resold. Failure to package a returning item properly will undoubtedly result in no store credit and the product will be returned to the customer.
+  6. A store credit issued for a return will be for the value of the returned item only. A store credit for a specific item does not cover the cost of postage.
+
+
+
+For queries on Magazine Subscriptions please refer to [Magazine Frequently Asked Questions](https://web.archive.org/helpCentre.ep?p=magazines&o=faq).
+
+^ back to top
+
+### DVD & Blu-ray Returns
+
+I have changed my mind or I made a mistake with my order
+
+We are happy to **exchange** any unopened (still shrink-wrapped) DVD or Blu-ray within 14 days, provided the goods are returned in PRISTINE condition. 
+
+Booktopia will not pay for postage if you are returning an item because you have changed your mind, or made a mistake in your ordering.
+
+Booktopia will provide instructions for returning the item. If the product is damaged upon receipt in our warehouse, we are unable to accept the return and the item will be mailed back to you.
+
+The item I ordered arrived damaged
+
+Booktopia does pack every parcel with care to ensure it arrives at its destination in the same condition it left our warehouse. Unfortunately a small percentage of packages do arrive damaged due to mishandling by Australia Post employees and contractors as part of their standard parcel delivery program. As Australia Post offers Booktopia customers the most cost-effective and comprehensive delivery program we acknowledge that some parcels may arrive damaged and require replacing. 
+
+If your item was damaged between leaving our warehouse and arriving at your delivery address, you must message Booktopia with your order number and the condition of your item/s within 2 days of the recorded delivery date.
+
+Booktopia will replace the DVD or Blu-ray, depending on availability once the original disc is received back. Booktopia will provide instructions for returning the item. Refunds will not be processed unless a replacement cannot be provided. 
+
+The item I ordered arrived faulty or didn't work as intended
+
+If your item is found to be faulty, you must message Booktopia with your order number and the fault or problem of your item/s within 2 days of the recorded delivery date. 
+
+Booktopia will replace the DVD or Blu-ray, depending on availability once the original disc is received back. Booktopia will provide instructions for returning the item. Refunds will not be processed unless a replacement cannot be provided. 
+
+The item I received is not the item I ordered
+
+If you receive an item that is not what you ordered, you must message Booktopia with your order number and the missing title and received title within 2 days of the recorded delivery date. 
+
+Booktopia will replace the DVD or Blu-ray, depending on availability once the original disc is received back. Booktopia will provide instructions for returning the item. Refunds will not be processed unless a replacement cannot be provided. 
+
+^ back to top
