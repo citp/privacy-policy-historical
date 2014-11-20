@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154221id_/http%3A//www.holtrenfrew.com/en/holt/content/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174919id_/http%3A//www.holtrenfrew.com/en/holt/content/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holt Renfrew
 
