@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123606id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131608id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -45,7 +45,7 @@ Newsletters are sent only to users who choose to provide us with their email add
 
 We collect aggregate information regarding open rates, page views, and generated sales from our HTML email newsletters. Aggregate information does not personally identify individuals.
 
-**Opting Out** If you wish to have any of your personal information removed from our database, or if you no longer want us to send any further communications to you, please send an e-mail to info@Eartheasy.com.
+**Opting Out** If you wish to have any of your personal information removed from our database, or if you no longer want us to send any further communications to you, please send an e-mail to info@eartheasy.com.
 
 ## Links
 
