@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617070533id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003249id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Calendarpedia.com
 
@@ -29,8 +29,6 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 Calendarpedia.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-Calendarpedia.com is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
-
 Compensation received is in the form of a commission for the sale of products. When you click through from this website to an advertiser's website and purchase something within a specified time frame we may get a small commission.
 
 **Children's Online Privacy Protection Act**  
@@ -48,7 +46,7 @@ We provide this privacy policy as a statement to you of our commitment to protec
 **Updates and Effective Date**  
 Calendarpedia.com may occasionally change or update this Privacy Policy. Any changes will be noted on this page. We therefore advise that you check this page periodically to ensure that you accept any changes or updates.
 
-This Privacy Policy was last updated in May 2014.
+This Privacy Policy was last updated in October 2014.
 
 **Agreeing to this Privacy Policy**  
 If you do not agree to Calendarpedia.com's Privacy Policy as set out on this page, please do not use this site or any services offered by this site.
