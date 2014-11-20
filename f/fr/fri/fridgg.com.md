@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridgg.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208014901id_/http%3A//fridgg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridgg.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120095020id_/http%3A//fridgg.com/privacy) for the most accurate reproduction.*
 
 # Fridgg • Privacy Policy
 
