@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121319id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112259id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy > QuoteMedia
 
@@ -10,6 +10,7 @@
   4. **1.4** QuoteMedia cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are. Most browsers are set to accept cookies. You can set yours to refuse cookies, or to alert you when cookies are being sent. If you do so please note that some part of our site may not function properly.
   5. **1.5** We may provide information to other partners about how our members use QuoteMedia. We do this to provide you the best Web experience possible and to improve the site in general.
   6. **1.6** Our site's registration forms require contact information (like name and email address) and demographic information (like zip code, age, and income level). We will not disclose your personal information to any third party advertisers unless we are compelled by law or, in our sole discretion, whenever we believe an emergency, illegal activity or some other reasonable basis exists for notifying or providing such information to the appropriate authorities. We reserve the right, directly or through our designated marketing agents, to distribute promotional materials to you for QuoteMedia products or for products of our marketing partners. Such promotions will be for products believed to be of interest to our user base. Your personal information shall remain in the possession of QuoteMedia or its designated marketing agent at all times. We sometimes aggregate information about our users and you agree we can use and make such statistical information available to others, as long as we don't identify you personally. QuoteMedia gives users the option to opt out or discontinue promotional communications from (a) within promotional emails, and/or (b) within the registration area of each QuoteMedia website or web based application. In addition, to stop receiving special announcements from QuoteMedia, users can email unsubscribe@quotemedia.com and type UNSUBSCRIBE in the subject line.
+  7. **1.7** Your personal information may be stored and/or processed or otherwise used by or on behalf of QuoteMedia both inside the United States and Canada. Your personal information may be processed and stored in a country that has laws that are different from those in your jurisdiction, and where the government (e.g. the United States or Canada) may be able to obtain disclosure of your personal information under their local laws.
 
 
 
@@ -42,4 +43,4 @@ By using the QuoteMedia site you signify your acceptance of our Privacy Policy a
 
 ### 8\. REVISION
 
-Last revision date: Jan 15, 2003
+Last revision date: September 9, 2014
