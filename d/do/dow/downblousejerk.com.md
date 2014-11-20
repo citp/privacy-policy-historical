@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downblousejerk.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520084334id_/http%3A//www.downblousejerk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downblousejerk.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194208id_/http%3A//www.downblousejerk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Downblouse Jerk
 
