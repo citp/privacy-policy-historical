@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630174009id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084650id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Contact By Phone:**
 
-Call our hotline on 1300 132 151 between 9am and 5pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 9101 9971
+Call our hotline on 1300 132 151 between 8:30am and 5:30pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 9101 9971
 
 **Contact By Mail:**
 
