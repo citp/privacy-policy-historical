@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213045039id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050221id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mintel.com
 
-##### Privacy Policy for Mintel Group Ltd
+Privacy Policy for Mintel Group Ltd
 
 **Introduction**  
 This policy covers Mintel Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
@@ -70,4 +70,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 ---  
 email: | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
 postal address: | Mintel Group Ltd, 11 Pilgrim Street, London, EC4V 6RN, UK  
-website url: | [www.mintel.com](http://www.mintel.com/)
+website url: | [www.mintel.com](http://www.mintel.com/)  
+  
+﻿
