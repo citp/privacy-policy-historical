@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogto.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628101531id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogto.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120055145id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="no-js"><!--<![endif]--><head>
     
@@ -7,8 +7,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-        <meta name="viewport" content="width=1022">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
+
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="google-site-verification" content="OnajU0JqaR7GbNn36tIGLItHoCVGBMuABazvl0YTfjY">
     <title>Privacy</title>
@@ -63,17 +63,34 @@
       c15:""
     });
     </script>
+    <script type="text/javascript">
+        
+        if (window.location.hash && window.location.hash == '#_=_') {
+            if (window.history && history.pushState) {
+                window.history.pushState("", document.title, window.location.pathname);
+            } else {
+                // Prevent scrolling by storing the page's current scroll offset
+                var scroll = {
+                    top: document.body.scrollTop,
+                    left: document.body.scrollLeft
+                };
+                window.location.hash = '';
+                // Restore the scroll offset, should be flicker free
+                document.body.scrollTop = scroll.top;
+                document.body.scrollLeft = scroll.left;
+            }
+        }
+    </script>
     <noscript>
     <img src="http://b.scorecardresearch.com/p?c1=2&c2=7517117&c3=&c4=&c5=&c6=&c15=&cj=1"/>
     </noscript>
     <!-- End comScore Tag -->
     
 
-
     
     
     
-        <link rel="stylesheet" href="http://s3.amazonaws.com/btoimageupload/static/new_media/dist/screen.min.css?time=1518">
+        <link rel="stylesheet" href="http://s3.amazonaws.com/btoimageupload/static/new_media/dist/screen.min.css?time=1520">
     
     
 
@@ -90,12 +107,12 @@
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     
     
-        <script type="text/javascript" src="http://s3.amazonaws.com/btoimageupload/static/new_media/dist/scripts.min.js?=1518"></script>
+        <script type="text/javascript" src="http://s3.amazonaws.com/btoimageupload/static/new_media/dist/scripts.min.js?=1520"></script>
     
         <script type="text/javascript">
             var googleSearchIframeName = "results_015265533849369648843:pblj_nwyidq";
             var googleSearchFormName = "searchbox_015265533849369648843:pblj_nwyidq";
-            var googleSearchFrameWidth = 600;
+            var googleSearchFrameWidth = 1000;
             var googleSearchFrameHeight = 100;
             var googleSearchFrameborder = 0;
             var googleSearchDomain = "www.google.com";
@@ -154,13 +171,31 @@
 
 
 
+
+
+
+    <div class="promotebanners">
+        <div class="promotebanners__frame">
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+
+
+
+
     
 <header>
 <div class="search-frame clearfix">
     <div class="controls">
         <form name="search" id="search-form" action="http://www.blogto.com/googlesearch.php" style="display: inline">
             <input type="hidden" name="cx" value="015265533849369648843:pblj_nwyidq">
-            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="cof" value="FORID:11;NB:1">
             <input name="q" type="text" value="" class="searchbox" placeholder="Search for articles, events, reviews and more...">
         </form>
     </div>
@@ -227,22 +262,58 @@
 
 <li class="search"><a href="javascript:void(0);" style="color: white"></a></li>
 <li class="profile">
-    <a href="/accounts/activity/">
-        
+    <a href="/accounts/activity/" id="profile-avatar">
+
+
+
+
+
+
+
     </a>
     <div id="profile-menu" class="menu-popout menu-profile logged-out">
-        <section class="clearfix">
-            
-                <div class="menu-block tab-container myactivity formatted">
-                    <!-- Login Button Start -->
-                    <p>Sign up for a blogTO account to create to-do lists, mark favourites, save articles and other special features.</p>
-                    <a id="fb-login" class="_facebook-login" href="/profiles/facebook-login/?next=/privacy/"></a>
-                    <p class="_facebook-assurance"><i>We'll never post to Facebook without your permission</i></p>
-                    <p class="terms-of-service">By signing up, I accept the <a href="http://www.blogto.com/privacy/">privacy policy</a> and <a href="http://www.blogto.com/termsofservice/">terms of service</a>.</p>
-                    <!-- Login Button End -->
-                    <iframe src="http://www.facebook.com/plugins/facepile.php?app_id=100616073343311" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; max-height:70px;" allowtransparency="true"></iframe>
+        <section class="clearfix" id="authenticated-profile-menu">
+            <div class="menu-block auth-menu-block nav-col nav-col-span2 hide">
+                <div class="info-item">
+                    <h2>My Activity</h2>
+                    <ul>
+                        <li><a href="/accounts/activity/">Activity Feed</a></li>
+                        <li><a href="/accounts/todos/">To-Dos</a></li>
+                        <li><a href="/accounts/favourites/">Favourite Places</a></li>
+                        <li><a href="/accounts/check-in/">Check-In History</a></li>
+                        <li><a href="/accounts/events/">Events</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/accounts/ratings/">Rated Places</a></li>
+                        <li><a href="/accounts/articles/">Saved Articles</a></li>
+                        <li><a href="/accounts/streams/">Streams</a></li>
+                        <li><a href="/accounts/photos/">Photos</a></li>
+                    </ul>
                 </div>
-            
+            </div>
+            <div class="menu-block auth-menu-block nav-col hide">
+                <div class="info-item">
+                    <h2>My Account</h2>
+                    <ul>
+                        <li><a href="/accounts/dashboard/">Profile</a></li>
+                        <li><a href="/accounts/settings/">Settings</a></li>
+                        
+                        <li><a href="/accounts/notifications/">Notifications</a></li>
+                        <li><a href="/profiles/logout/?next=/privacy/">Logout</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="menu-block tab-container myactivity formatted" id="anonymous-profile-template">
+                <!-- Login Button Start -->
+                <p>Sign up for a blogTO account to create to-do lists, mark favourites, save articles and other special features.</p>
+                <a id="fb-login" class="_facebook-login" href="/profiles/facebook-login/?next=/privacy/"></a>
+                <p class="_facebook-assurance"><i>We'll never post to Facebook without your permission</i></p>
+                <p class="terms-of-service">By signing up, I accept the <a href="http://www.blogto.com/privacy/">privacy policy</a> and <a href="http://www.blogto.com/termsofservice/">terms of service</a>.</p>
+                <!-- Login Button End -->
+                <iframe src="http://www.facebook.com/plugins/facepile.php?app_id=100616073343311" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; max-height:70px;" allowtransparency="true"></iframe>
+            </div>
+
         </section>
     </div>
 </li>
@@ -276,7 +347,6 @@
 
 
 <section id="wrapper">
-
     <div id="body-ad-wrapper">
         
             <div id="left-body-ad">
@@ -288,8 +358,9 @@
 
     
         
-            
+    
 
+        
         
 
         
@@ -299,50 +370,42 @@
             <section class="formatted">
                 <b>If You Only Have 5 Seconds Read This:</b><p>blogTO will not give out your information to any third parties. Period.</p><b>Otherwise, Read the blogTO Privacy Statement</b><p>This statement covers the site www.blogto.com ("blogTO"). Please read this statement carefully. Your use of blogTO indicates your agreement to abide by the Terms in effect.</p><b>Information Collection</b><p>blogTO is the sole owner of the information collected on www.blogto.com. blogTO may collect information from our users at several different points on our web site.</p><b>Comments</b><p>In order to enhance their use of this web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. blogTO will not pass this information to any other organization.</p><b>Cookies</b><p>We may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p><p>Some of our advertisers may also use cookies on our site. However, blogTO has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.</p><b>Third Party Advertising</b><p>The ads appearing on this web site are delivered by different services including but not limited to Google. Information about users' visits to this site, such as number of times they have viewed an ad (but not name, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies,&nbsp;<a href="http://www.google.com/privacy.html">please click here</a>&nbsp;.</p><b>Log Files</b><p>Like most standard web sites, we maintain log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p><b>Legal Disclaimer</b><p>Though we make every effort to preserve user privacy, blogTO may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.</p><b>Business Transitions</b><p>In the event blogTO goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p><b>Links</b><p>The blogTO web site contains links to other sites. Please be aware that we, blogTO, are not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by blogTO.</p><b>Notification of Changes</b><p>Whenever blogTO changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><b>Contact Information</b><p>If you have any questions or suggestions regarding our privacy policy, please contact us at info [at] blogto.com</p>
 
+
             </section>
         </section>
     </section>
 
 
+    
+    
+    
+    
         
             
-                <div class="_lightbox lightbox-onboarding" id="authention-overlay">
-                    <div class="lightbox-outer"></div>
-                    <div class="lightbox-frame">
-                        <h1>Create a blogTO account</h1>
-                        <div class="dismiss hasicon icon-left icon-sm icon-sm-smx-white close">Close</div>
-                        <section class="clearfix">
-
-                            <div class="why-blogto formatted caption"><p>Create a free blogTO account to take advantage of a number of useful features including:</p></div>
-
-                            <table class="formatted"><tbody><tr>
-                                <td>
-                                    <ul class="benefits">
-                                        <li><a>Keep track of your favourite places</a></li>
-                                        <li><a>Create a to-do list of places you want to visit</a></li>
-                                        <li><a>Rate local businesses</a></li>
-                                        <li><a>Save articles to read later</a></li>
-                                        <li><a>Upload photos to streams and local businesses</a></li>
-                                        <li><a>Weigh in on the looks in our style section</a></li>
-                                    </ul>
-                                </td>
-                                <td>
-                                    <div class="signup formatted">
-                                        <a class="_fblogin" href="/profiles/facebook-login/?next=/privacy/"></a>
-                                        <p>By clicking Sign In you confirm you accept our <a href="http://www.blogto.com/termsofservice/">Terms of service</a></p>
-                                        <iframe src="http://www.facebook.com/plugins/facepile.php?app_id=100616073343311" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; max-height:70px;" allowtransparency="true"></iframe>
-                                    </div>
-                                </td>
-                            </tr></tbody></table>
-                        </section>
+            <div class="_lightbox lightbox-onboarding" id="authention-overlay-template">
+                <div class="lightbox-outer"></div>
+                <div class="lightbox-frame">
+                    <h1>Login</h1>
+                    <div class="dismiss simpleicon icon-md icon-left icon-md-xwhite close"></div>
+                    <div class="login-content formatted">
+                        <!-- Login Button Start -->
+                        <p>Sign up for a blogTO account to comment, create to-do lists, mark favourites, save articles, upload photos and other special features.</p>
+                        <a id="fb-login" class="_facebook-login" href="/profiles/facebook-login/?next=/privacy/"></a>
+                        <p class="_facebook-assurance"><i>We'll never post to Facebook without your permission</i></p>
+                        <p class="terms-of-service">By signing up, I accept the <a href="http://www.blogto.com/privacy/" target="_blank">privacy policy</a> and <a href="http://www.blogto.com/termsofservice/" target="_blank">terms of service</a>.</p>
+                        <!-- Login Button End -->
+                        <iframe src="http://www.facebook.com/plugins/facepile.php?app_id=100616073343311" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; max-height:70px;" allowtransparency="true"></iframe>
                     </div>
                 </div>
+            </div>
+            
+
             
         
-
     
-
-
+    
+        <div id="auth-profile-notifications"></div>
+    
 </section>
 
     
@@ -395,11 +458,11 @@
                             <div class="options clearfix">
                                 <div class="clearfix">
                                         <input id="id_news" name="news" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-topstories">Top Stories</label>
-                                        <input id="id_contests" name="contests" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-contestalerts">Contest</label>
+                                        <input id="id_contests" name="contests" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-contestalerts">Contests</label>
                                 </div>
                                 <div class="clearfix">
                                         <input id="id_events" name="events" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-eventpicks">Events</label>
-                                        <input id="id_events" name="events" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-eventpicks">Photo Challenges</label>
+                                        <input id="id_events" name="photo_challenge_alerts" type="checkbox" checked="checked" class="uniform"><label for="lightbox-newsletter-photochallengealerts">Photo Challenges</label>
                                 </div>
                             </div>
                             <div class="signup-field">
@@ -499,6 +562,7 @@
         e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
         document.body.appendChild(e);
       }
+      var oldonload = window.onload;
       window.onload = (typeof window.onload != 'function') ?
          loadChartbeat : function() { oldonload(); loadChartbeat(); };
     })();
@@ -508,24 +572,32 @@
 
 <script type="text/javascript">
     is_authenticated = false;
-    $(function () {
+    user_authorization = false;
+    function initNewsletterForm(formSelector) {
         var url = "/accounts/newsletter/subscribe/";
-        var form = $('#newsletter-subscribe-form');
+        var form = $(formSelector);
         var error_text = '<ul class="errorlist"><li>Enter a valid e-mail address.</li></ul>';
         var success_template = "<span class='success'>Thank you. You're all signed up for blogTO email awesomeness.</span>";
 
         form.find('input._input-styled').keydown(function () {
 
             if (window.event.keyCode == 13 ) {
-                submit_form();
+                if (!form.find('.ui-btn').hasClass("disabled")) {
+                    submit_form();
+                }
+                form.find('.ui-btn').addClass("disabled");
                 return false;
+            }else{
+                form.find('.ui-btn').removeClass("disabled");
             }
 
         });
 
         form.find('.ui-btn').click(function () {
-
-            submit_form();
+            if (!$(this).hasClass("disabled")){
+                submit_form();
+            }
+            $(this).addClass("disabled");
             return false;
 
         });
@@ -544,6 +616,11 @@
                             form.find('input._input-styled').val('');
                         }, 2200);
                         form.find("#id_email").val("");
+                        if (form.data("is-notification")){
+                            setTimeout(function(){
+                                form.closest(".lightbox-frame").find(".close").trigger("click");
+                            }, 300)
+                        }
                     } else if (data.errors) {
                         form.find('.ui-btn').after(error_text);
                     }
@@ -554,14 +631,15 @@
                 });
 
         }
-
-
-
-
+    }
+    $(function () {
+        initNewsletterForm('#newsletter-subscribe-form');
     });
     function open_share_popup(share_url){
         window.open(share_url, "", "width=650,height=400,resizable=yes,scrollbars=yes");
     }
+
+
 </script>
 <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
 <!-- start twitter button snippet -->
@@ -570,9 +648,7 @@
 <!-- start gplus button snippet -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!-- end gplus button snippet -->
-<!-- start pinterest pinit button snippet -->
-<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
-<!-- end pinterest pinit button snippet -->
+
 
 
 
