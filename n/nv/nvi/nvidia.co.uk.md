@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630063212id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122450id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy | NVIDIA UK
 
-**This policy was last updated on April 2, 2014.**
+**This policy was last updated on July 15,2014.**
 
 NVIDIA ("Nvidia," "we" or "us") is committed to respecting your privacy. This Privacy Policy applies to our world-wide family of NVIDIA-owned websites, mobile apps and products including www.nvidia.com, www.slizone.com, 3DVision Live, GeForce.com, GTC, TegraZone.com, and shield.nvidia.com as we as to our mobile apps and internet-connected devices (collectively, our "Services").
 
@@ -58,11 +58,9 @@ Any Personal Information we collect may be shared with NVIDIA's corporate affili
 
 We may, from time to time, share your Personal Information with third party business partners, vendors, affiliates, and other service providers that perform services on our behalf, in order to carry out their work for us, which may include identifying and serving targeted advertisements, e-commerce, content or service fulfillment, website operations, email communications management, customer service, analytics, manufacturing, integration, delivery, support, payment, and servicing processes. NVIDIA's policy is to prohibit these companies from using your Personal Information for any purpose other than to provide the services expressly requested by NVIDIA.
 
-We may share your Personal Information with business partners who offer a service jointly with us, for example, when running a co-sponsored contest or promotion, or offering a co-branded product or service. 
+In the event of a reorganization, merger or sale of some or all of the company’s assets, we may transfer personally identifiable information to a third party in connection with the transaction. If NVIDIA or its assets are acquired by another company, NVIDIA will request that the acquiring company assumes the obligations of this Online Privacy Policy and Kids Privacy Policy.
 
-NVIDIA may sell or buy assets from or to other companies. Personal information may be one of the transferred business assets, and would likely be one of the transferred assets in the event that NVIDIA or some of its assets were acquired. If NVIDIA or its assets are acquired by another company, NVIDIA will request that the acquiring company assumes the obligations of this Online Privacy Policy and Kids Privacy Policy.
-
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on NVIDIA; or (b) to protect and defend the rights or property of NVIDIA or users of our website.
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to comply with relevant laws or to respond to subpoenas or warrants served on NVIDIA.
 
 NVIDIA may "de-personalize" Personal Information by removing personally identifiable characteristics, such as name and email address, and aggregate data for use in surveys or other business purposes. NVIDIA may then use and/or share this de-personalized information with third parties.
 
