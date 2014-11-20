@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175255id_/http%3A//www.discountwatchstore.com/Privacy-Policy_ep_40-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175129id_/http%3A//www.discountwatchstore.com/Privacy-Policy_ep_40-1.html) for the most accurate reproduction.*
 
-# Static
+# Privacy Policy
 
   
 Last updated 7/30/2008
