@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224061012id_/http%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115732id_/http%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Ulule
 
@@ -18,4 +18,4 @@ The only nominatives infos that we transfer to a third party, punctually and if 
 
 This is our commitment. We're a stickler for your privacy. Would you have a question, an inquiry, something on your mind, don't hesitate to mail us at : [privacy@ulule.com](mailto:privacy@ulule.com).
 
-Then, if you'd rather use good old fashionned paper mail, you can write us here : Ulule, Privacy Service, 24 rue de l'Est, 75020 Paris. We'll answer you briefly.
+Then, if you'd rather use good old fashionned paper mail, you can write us here : Ulule, Privacy Service, 8 rue Saint-Fiacre, 75002 Paris. We'll answer you briefly.
