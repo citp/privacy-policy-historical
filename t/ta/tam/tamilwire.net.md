@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilwire.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083724id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilwire.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003539id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tamil Movies Portal (TamilWire.net)
 
