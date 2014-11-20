@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the military1.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404161522id_/http%3A//www.military1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005507id_/http%3A//www.military1.com/privacy-policy) for the most accurate reproduction.*
 
 # Military1 - Privacy Policy
 
 This Web site is owned and operated by:
 
-The Praetorian Group  
+Praetorian Digital  
 200 Green St., Suite 200  
 San Francisco, CA 94111
 
@@ -115,12 +115,11 @@ Knowing that you use certain services or features may help us to offer you bette
 
 **Data Retention**
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting the Praetorian Group below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Unsubscribing and opting out of personally identifiable information**
 
-Your username may be displayed when submitting member comments to any video on Military1. Your email address will only be used for us to send you materials that you have subscribed to in the past.  
-We provide you the opportunity to &lsquot;opt-out&rsquot; of having your personally identifiable information used for certain purposes when we ask for this information
+Your username may be displayed when submitting member comments to any video on Military1. Your email address will only be used for us to send you materials that you have subscribed to in the past. We provide you the opportunity to opt-out; of having your personally identifiable information used for certain purposes when we ask for this information
 
 If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication or by emailing [support@Military1.com](mailto:support@Military1.com).
 
