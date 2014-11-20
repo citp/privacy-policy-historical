@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055120id_/http%3A//booktrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105046id_/http%3A//booktrib.com/privacy-policy) for the most accurate reproduction.*
 
-# BookTrib » Privacy Policy
+# Privacy Policy – BookTrib
 
 Effective Date: February, 10, 2011
 
