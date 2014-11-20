@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nisamerica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071259id_/http%3A//nisamerica.com/index.php%3Fnav%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nisamerica.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133212id_/http%3A//www.nisamerica.com/index.php%3Fnav%3Dpp) for the most accurate reproduction.*
 
 # NIS America, Inc. - Privacy Policy
 
