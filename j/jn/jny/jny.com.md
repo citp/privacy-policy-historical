@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214101233id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204717id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Jones New York: Privacy Policy
 
