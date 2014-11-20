@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040527id_/http%3A//whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181424id_/https%3A//www.whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
 
 # Whois API, LLC Privacy Policy
-
-##  Whois API, LLC Privacy Policy
 
 **What information do we collect?**
 
