@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarterasp.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208072644id_/http%3A//www.smarterasp.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterasp.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010632id_/http%3A//www.smarterasp.net/privacy) for the most accurate reproduction.*
 
-# SmarterASP.net - Unlimited ASP.NET Web Hosting
+# SmarterASP.net - Privacy policy
 
 SmarterASP.net is committed to protect our customer's privacy. This Privacy Policy sets forth our privacy practices with regard to the information that we collect when you interact with our website and services. By accessing SmarterASP.net website and services, you consent to the information collection and use described within. 
 
