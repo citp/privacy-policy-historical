@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the smtp2go.com privacy policy that was archived on 2014-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617193535id_/http%3A//www.smtp2go.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smtp2go.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120010241id_/http%3A//www.smtp2go.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="modern js no-touch rgba backgroundsize borderradius textshadow opacity cssgradients csstransitions svg inlinesvg" lang="en"><!--<![endif]--><head>
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/293297054.js"></script>
+	<script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/52e0e163-a45f-401f-b0b2-93e4b98e1a3c.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/293297054.js"></script>
 		<meta charset="utf-8">
 
 		<!-- Set the viewport width to device width for mobile -->
@@ -375,7 +375,8 @@ Our Web site also includes Social Media Features, such as the Facebook button, T
   	        <li>© 2014 SMTP2GO.</li>
   	        <li><a href="/privacy">Privacy Policy</a></li>
   	        <li><a href="/terms">Terms of Service</a></li>
-  	        <li class="twitter"><a class="fc-webicon twitter small" href="https://twitter.com/smtp2go/">Twitter</a></li>
+                  <li><a href="http://smtp2gostatus.com/" target="_blank">Status</a></li>
+  	        <li class="twitter"><a target="_blank" class="fc-webicon twitter small" href="https://twitter.com/smtp2go/">Twitter</a></li>
   	      </ul>
   	    </div>
   	  </section>
@@ -397,27 +398,39 @@ Our Web site also includes Social Media Features, such as the Facebook button, T
 			<script type="text/javascript" src="/javascripts/mffoundation.js"></script>
 		<script type="text/javascript" src="/javascripts/app.js"></script>
 		<script type="text/javascript" src="https://www.smtpcorp.com/myaccount/can_log_in.js"></script>
-	 <script type="text/javascript" src="http://www.snapengage.com/snapengage-name.js"></script>
-	<script type="text/javascript">
-		SnapABug.init('52e0e163-a45f-401f-b0b2-93e4b98e1a3c');
-		SnapABug.getAgentStatusAsync(
-				function(online)
-				{
-					var o=online;
-					$(document).ready(function ()
+<script type="text/javascript">
+	(function() {
+		var se = document.createElement('script'); se.type = 'text/javascript';
+		se.async = true;
+		se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/52e0e163-a45f-401f-b0b2-93e4b98e1a3c.js';
+		var done = false;
+		se.onload = se.onreadystatechange = function() {
+			if(!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete'))
+			{
+				done = true;
+				/* Place your SnapEngage JS API code below */
+				SnapABug.getAgentStatusAsync(
+						function(online)
 						{
- 								 if (o) {
-								$('body').addClass('snapengage-is-online')
-							} else {
-								$('body').addClass('snapengage-is-offline')
-							}
-						});
-				}
-			);
-	</script>
+							var o=online;
+							$(document).ready(function ()
+								{
+	 								 if (o) {
+										$('body').addClass('snapengage-is-online')
+									} else {
+										$('body').addClass('snapengage-is-offline')
+									}
+								});
+						}
+					);
 
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+
+			}
+		};
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(se, s);
+	})();
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1062165901;
