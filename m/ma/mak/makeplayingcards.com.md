@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215045147id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132855id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,9 +23,13 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
-### MPC® Playing Cards 
+### We're on Kickstarter
 
-_Gold foil stamped box - Limited Ed._
+The new Impressions decks by MPC using our new high gloss production method. Contact us for details.
+
+[](https://www.kickstarter.com/projects/makeplayingcards/impressions-playing-cards?ref=card)
+
+* * *
 
 ### Payment methods
 
