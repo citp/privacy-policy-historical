@@ -1,52 +1,16 @@
-> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094605id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124448id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
 
-# Privacy Policy | Evolution Slimming
+# Privacy Policy at Evolution Slimming
 
-Next Dispatch In
+## This privacy policy sets out how Evolution Slimming uses and protects any information that you give Evolution Slimming when you use this website.
 
-\-----
-
-Fast UK Delivery  
-  
-Royal Mail 1-2 Days  
-Free Delivery Available
-
-* Same Day Dispatch
-* Plain Packaging
-
-Why Order From Us?
-
-* UK Made GMP Products
-* A Genuine UK Company
-* No Repeat Charges
-* Press Reviewed Products
-
-Latest Videos  
-**Raspberry Ketone Plus**  
-What do raspberry ketones work? Fitness expert Lisa Lynn shows us how.
-
-[](http://www.evolution-slimming.com/store/weight-loss-detox/fat-burners/raspberry-ketones/raspberry-ketone-plus/prod_325.html)  
-Our 100% Pure Acai Berry has been reviewed by the Sunday Express magazine.
-
-[](http://www.evolution-slimming.com/store/health-beauty/antioxidants/acai-berry/pure-acai-berry/100-pure-acai-berry-700mg/prod_166.html#video)
-
-Easy Mobile Ordering
-
-* Place an order
-* Check order status
-
-| 
-
-## This privacy policy sets out how Evolution Slimming Ltd uses and protects any information that you give Evolution Slimming Ltd when you use this website.
-
-### What we collect
+### What information we collect
 
 #### We may collect the following information:
 
-  * name and title
-  * contact information including email address
-  * demographic information such as postcode
-  * other information relevant to customer surveys and/or offers
+  * First name, surname and title
+  * Contact information such as telephone number & email address
+  * Demographic information such as address, IP address & postcode
 
 
 
@@ -54,15 +18,25 @@ Easy Mobile Ordering
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Placing, processing and dispatching your order(s). 
-  * Internal record keeping. 
-  * Analyse demographic and geographical location data to further better our products and services or create user pseudonyms for analytic analysis via Google Analytics using cookies.
-  * Provide you with website sharing services and social network connectors such as Facebook, Twitter and Reddit via AddThis plugins using cookies.
+  * Placing, processing and dispatching your order(s).
+  * Internal record keeping 
+  * Analyse demographic and geographical location data via Google Analytics using cookies.
+  * Provide you with website sharing services and social network connectors
   * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes.
-  * We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We may periodically send promotional emails about new products & special offers  
 
+  * From time to time, we may also use your information to contact you for market research purposes
+  * We may use the information to customise the website according to your interests
+
+
+
+#### Email marketing services
+
+From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons.
+
+To stop receiving from marketing emails, you can [**click here**](http://www.evolution-slimming.com/store/index.php?_a=newsletter) to manage your marketing preferences & [**click here**](http://www.evolution-slimming.com/store/index.php?_a=unsubscribe) to unsubscribe from marketing emails.
+
+You may also follow the ' **Unsubscribe** ' link in the footer of marketing emails to unsubscribe from them directly.  
 
 
 ### How you can move or block cookie use at any time
@@ -103,23 +77,57 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-|  [ ](https://www.trustedshops.co.uk/buyerrating/info_X8C0D7582BA427C5A28D37674FE7C65BB.html "Buyer Ratings for Evolution Slimming")
+#### Contact information
 
-We're Trusted  
+Evolution Slimming Ltd,   
+Canterbury Innovation Centre,  
+University Road, Canterbury,  
+Kent, CT2 7FG,  
+United Kingdom.
+
+Email: enquiries@evolution-slimming.com
+
+Telephone: 0845 459 2540
+
+Website: www.Evolution-Slimming.com
+
+  
+[
+
+We're Trusted
+
 Evolution Slimming is a certified online shop with **Trusted Shops Buyer Protection**
 
-[](https://www.trustedshops.co.uk/shop/certificate.php?shop_id=X8C0D7582BA427C5A28D37674FE7C65BB)
+](https://www.trustedshops.co.uk/shop/certificate.php?shop_id=X8C0D7582BA427C5A28D37674FE7C65BB)
 
-[](https://monitor12.sucuri.net/verify.php?r=2c4076a9fd634cab0e37a86b03d7ea6f29f219400c)
+30 Day
 
-30 Day  
-Money Back Promise
+Money Back Promise.  
+Excellent Customer  
+Services and we guarantee  
+satisfaction.
 
-100% Safe & Secure  
-Secure Payments  
+[
+
+100% Safe & Secure
+
+Secure Payments secured by HTTPS or PayPal Checkout & Bank Transfer
+
+](https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.evolution-slimming.com)   
+[
+
+Royal Mail   
+1-2 Days Free Delivery Available, Same Day Dispatch & Plain Packaging 
+
+](http://www.evolution-slimming.com/store/delivery/info_4.html)
+
+We're Approved
+
+Evolution Slimming products are made in a GMP & FDA approved facility. 
+
+We're Mobile
+
+Check your order status. Read product reviews - all from your mobile device. 
+
   
-  
-or PayPal Checkout  
-  
-  
----|---|---
+
