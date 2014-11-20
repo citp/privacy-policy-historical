@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221123id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205014id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
 
 # BDO United States - Safe Harbor Data Privacy Statement
 
