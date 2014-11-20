@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirzaslist.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504083717id_/http%3A//mirzaslist.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirzaslist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050330id_/http%3A//mirzaslist.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy,Buy and Sell Classified Ads,Online Classified Advertising
 
