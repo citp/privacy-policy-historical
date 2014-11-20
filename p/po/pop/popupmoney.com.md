@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popupmoney.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054645id_/http%3A//www1.aim4media.com/en/about_us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popupmoney.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122916id_/http%3A//www1.aim4media.com/en/about_us/privacy-policy) for the most accurate reproduction.*
 
 # Aim4Media - Leads the Way
 
@@ -30,6 +30,8 @@ The data is used to create profiles of users. With this profiles we are able sho
 You are able to let your web browser refuse every cookie (see your browser’s help function). This, however, may ensure that you can’t use all the features of a website. It is also an option to opt-out from us collecting data. This does not mean you will not see advertisements anymore. You will still see advertisements, but they will not match your interests anymore. If you do not want to receive matching advertisements from us, you can opt-out. 
 
 [Opt-out link](http://ads.aim4media.com/opt.php)
+
+Aim4Media is making use of the Appnexus platform to serve its advertisements. Simply click on the link below in order to opt-out yourself: <http://www.networkadvertising.org/choices/>
 
 |   
   
