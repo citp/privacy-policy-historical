@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imghoney.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061003id_/http%3A//imghoney.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imghoney.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061112id_/http%3A//imghoney.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImgHoney » More Information » Privacy Policy
 
