@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507010324id_/http%3A//www.galls.com/Pages/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094859id_/http%3A//www.galls.com/Pages/PRIVACY) for the most accurate reproduction.*
 
 # Your Privacy and Security is Important to Us at Galls
 
