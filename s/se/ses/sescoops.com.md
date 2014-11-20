@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601201359id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120185851id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEScoops
+# Privacy Policy - SEScoops
 
 SEScoops.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
