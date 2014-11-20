@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101732id_/http%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065650id_/http%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGameMom
 
@@ -31,6 +31,10 @@ iGameMom reserves the right to delete any comments that it deems not beneficial
 **RSS and Email Subscriptions**
 
 This website records information about how people access our RSS feeds, but does not collect any personal identifiable information from or about our RSS subscribers. This website’s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this website’s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
+
+**Advertising**
+
+This website uses third-party advertising companies to serve ads when you visit this Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **External Links**
 
