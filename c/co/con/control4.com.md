@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173409id_/http%3A//control4.com/legal%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105031id_/http%3A//www.control4.com/legal%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Control4
 
