@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171931id_/http%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094529id_/http%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Daily giveaways and discounts | SharewareOnSale
 
