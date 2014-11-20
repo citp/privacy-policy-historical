@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509232104id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122322id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Makeup.com « Apply Daily
 
 **Privacy and Cookie Notice**
 
@@ -133,7 +133,7 @@ Attn:    Makeup.com Consumer Relations
 New York NY 10017
 
 Re:       Makeup.com  Privacy Policy and Cookie Notice  
-Telephone: 877-296-0075[](http://www.makeup.com/wp-admin/post.php?post=25&action=edit# "Call: 877-296-0075")[](http://staging.makeup.com/wp-admin/post.php?post=25&action=edit# "Call: 877-296-0075")
+Telephone: 877-296-0075
 
 Or send us an e-mail with your request [here](http://www.makeup.com/contact-us/).
 
