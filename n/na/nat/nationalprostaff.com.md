@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalprostaff.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627001036id_/http%3A//nationalprostaff.com/content/3/PRIVACY%2BPOLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalprostaff.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164044id_/http%3A//nationalprostaff.com/content/3/privacy-policy) for the most accurate reproduction.*
 
 # NationalProStaff.com
 
