@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaincoleta.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053410id_/http%3A//domainsigma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaincoleta.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132731id_/http%3A//domainsigma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainSigma
 
