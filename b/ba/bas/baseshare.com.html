@@ -1,0 +1,660 @@
+<!--The following is the downloaded HTML source of the baseshare.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120204437id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="/assets/a9d51592/css/zocial.css">
+<title>BaseShare - Privacy Policy</title>
+<link href="http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/css/bs_style.css">
+<link rel="stylesheet" type="text/css" href="/css/player.css">
+<link rel="stylesheet" type="text/css" href="/css/jquery.datetimepicker.css">
+<link href="/font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
+<script src="/js/countdown/countdown.js"></script>
+<script src="/js/jquery.datetimepicker.js"></script>
+<script src="/jquery.sharrre.js"></script> <link rel="icon" type="image/png" href="/baseshare-robot.png">
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+ 
+<link rel="stylesheet" type="text/css" href="/bootstrap.css">
+<script type="text/javascript" src="/bootstrap.js"></script>
+<script type="text/javascript">
+
+        $(document).ready(function() {
+
+            $.get("http://baseshare.com/googlepluscount.php", function(result) {
+                $('#gplus_count').html(result);
+                $('#gplus_count2').html(result);
+            });
+
+            $('#overlay').append($('.share_box'));
+
+        });
+
+
+    </script>
+<style>body{background:#082e30 url(/images/background.jpg) center 65px no-repeat fixed;background-size:cover;margin:0 auto;min-width:970px;}.caroussel .thumb img{width:130px;}</style>
+<script type="text/javascript">
+
+        $(document).ready(function() {
+            $("#profileinner").click(function() {
+                $('#profilepopdown').show();
+            });
+            $("#setting").click(function() {
+                $('#settingdropdown').show();
+            });
+            $("#uploadinner").click(function() {
+                $('#uploaddropdown').show();
+            });
+
+            $( "#loginwith a" ).click(function(e) {
+                if($('#agree').prop('checked') == false) {
+                    e.preventDefault();
+                    alert("Please accept the Terms and Conditions and Privacy Policy first.")
+                }
+            });
+
+            $( "#create" ).click(function(e) {
+                if($('#agree').prop('checked') == false) {
+                    e.preventDefault();
+                    alert("Please accept the Terms and Conditions and Privacy Policy first.")
+                }
+            });
+        });
+
+        $(document).mouseup(function (e)
+        {
+            var container1 = $("#profilepopdown");
+
+            if (!container1.is(e.target) // if the target of the click isn't the container...
+                && container1.has(e.target).length === 0) // ... nor a descendant of the container
+            {
+                container1.hide();
+            }
+            var container2 = $("#settingdropdown");
+
+            if (!container2.is(e.target) // if the target of the click isn't the container...
+                && container1.has(e.target).length === 0) // ... nor a descendant of the container
+            {
+                container2.hide();
+            }
+            var container3 = $("#uploaddropdown");
+
+            if (!container3.is(e.target) // if the target of the click isn't the container...
+                && container3.has(e.target).length === 0) // ... nor a descendant of the container
+            {
+                container3.hide();
+            }
+        });
+
+
+
+    </script>
+</head>
+<body>
+<div class="header">
+<ul class="headerleft">
+<li id="logo_main"><a href="/"><img src="/images/logo.png"></a></li>
+<li class="headerblock dividor_right_black"><p class="dividor_right_grey"><a href="/songs/trending">Trending</a></p></li>
+<li class="searchbar dividor_left_grey">
+<form class="searchtop" action="/search/query" method="get">
+<input type="text" name="q" placeholder="Search">
+<a onclick="$('.searchtop').submit();" href="#"><i class="fa fa-search"></i></a>
+</form>
+</li>
+</ul>
+<ul class="headerright">
+<li class=""><a href="#" style="font-size: 14px; color: #0099ff" onclick="$( &quot;#overlay&quot; ).show(); $( &quot;#login&quot; ).show();">Sign In</a></li>
+<li style="font-size: 14px; padding-top: 1px;">&nbsp;or&nbsp;</li>
+<li class="" style="margin-right: 10px;"><p class="topbtn"><a href="#" onclick="$( &quot;#overlay&quot; ).show(); $( &quot;#register&quot; ).show();" style="background-color: #82be0f; color: white;">Sign Up</a></p></li>
+ <li class="dividor_left_grey dividor_right_black topplayer"><div class="dividor_right_grey playertop">
+<div id="jp_container_top">
+<div class="p_above">
+<ul>
+<li id="leftbtn"><a href="#"><i class="fa fa-step-backward" onclick="window['previous_'+window.currentSong]();"></i></a></li>
+<li id="rightbtn"><a href="#"><i class="fa fa-step-forward" onclick="window['next_'+window.currentSong]();"></i></a></li>
+<li class="songname"></li>
+</ul>
+<script>
+                    $(document).ready(function() {
+                        $('.vctrlbtn').draggable({
+                            containment: "parent",
+                            drag: function(event, ui) {
+                            }
+                        });
+                    });
+                </script>
+<div class="volume_control">
+<a class="speaker" href="#"><i class="fa fa-volume-up"></i></a>
+<div class="volumectrl" style="z-index: 10;">
+<div class="volumebar jp-volume-bar">
+<div class="volume_subbar jp-volume-bar-value"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="jplayer_top" class="jp-jplayer"></div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+<script>
+            $(document).ready(function() {
+
+                $("#jplayer_top").jPlayer({
+                    swfPath: "/js/"
+                    , supplied: "mp3"
+                    , preload: 'none'
+                    , smoothPlayBar: 'true'
+                    , solution: 'html, flash',
+                    cssSelectorAncestor: "#jp_container_top",
+                    pause: function() {
+                        $(this).jPlayer("pauseOthers");
+                    },
+                });
+
+            });
+
+
+        </script>
+</div></li> 
+<li class="dividor_left_grey dividor_right_grey topicons topsetting"><p class="dividor_right_black" id="setting"><a href="#" class="dividor_right_grey"><i class="fa fa-cog"></i> <i class="fa fa-caret-down"></i></a></p><div class="twobuttons" id="settingdropdown"><a href="/site/contact">Contact</a><a href="/site/advertise">Advertise</a><a href="/site/copyright">DMCA &amp; Copyright</a><a href="/site/page/view/privacy">Privacy Policy</a><a href="/site/page/view/tos">Terms Of Service</a></div></li>
+</ul>
+</div>
+<div class="content ">
+<div class="hor_ad">
+<div class="horizontal_top"><script>var ACE_AR = {Site: '923284', Size: '728090'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div> </div>
+<div class="promo_banner">
+<p class="smalllogo"><img src="/images/logo_onbanner.png"></p>
+<div class="promo">
+<p class="greenroundicon"><img src="/images/icon_cloudupload.png"></p>
+<div class="promo_msg">
+<h3><a href="#" onclick="$( &quot;#overlay&quot; ).show(); $( &quot;#register&quot; ).show();">UPLOAD YOUR SONGS, MIXTAPES &amp; ALBUMS FOR FREE</a> </h3>
+<h4>Create Your <span class="greentext">FREE</span> Account Now To Start Sharing With No Limits</h4>
+</div>
+</div>
+<div class="promo promo2">
+<p class="greenroundicon"><img src="/images/icon_fans.png"></p>
+<div class="promo_msg">
+<h3><a href="/songs/trending">DISCOVER THE BEST NEW SONGS &amp; ARTISTS</a></h3>
+<h4>Check Out Our <span class="greentext">TRENDING</span> Page To Hear New Music First</h4>
+</div>
+</div>
+</div>
+<div class="content_left ">
+<div id="content">
+<div class="plaintext">
+<h1>Privacy Policy</h1>
+<p>The BaseShare Privacy Policy, in conjunction with the Terms Of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the BaseShare website and are referred to as the "Agreement" throughout.</p>
+<p>BaseShare may modify the Agreement which will become effective immediately upon posting on the website. Your use of the website and any related services ("Services") indicates your acceptance of the Agreement.</p>
+<p>Any Content uploaded by you to BaseShare becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.</p>
+<h2>Internet Protocol (IP) Addresses and Cookies</h2>
+<p>BaseShare uses IP addresses to measure, analyze, and identify usage and trends, administer the website and collect information for its databases.</p>
+<p>A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided BaseShare. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created an account. Cookies also can enable BaseShare to track and target your interests to enhance your experience on our website.</p>
+<h2>User Information</h2>
+<p>You may review, alter or delete personal information or account information on your Account page.</p>
+<p>We have the right to reference and refer to usage of, and relationship with, the Customer or the Customer's company, which may be determined by the domain used in the registered email account. No press releases shall be made without the written consent of the Customer.</p>
+<p>We will not rent, sell or share your personal information with third parties. We may disclose your personal information or any of its log file information when required by United States of America (“USA”) law or in the good-faith belief that such actions are necessary to comply with a legal process served on us, protect and defend the rights or property of BaseShare or its users, identify persons who may be violating the law, the legal notice, or the rights of third parties, and cooperate with lawful investigations of destructive activities.</p>
+<p>Third-party websites, services, or advertising linked to BaseShare are not covered by this Privacy Policy. These websites or services may collect personally or non-personally identifiable information about you and place a cookie on your browser. BaseShare is not responsible for the privacy practices of the third-party websites, advertisers, or companies. You are solely responsible for safeguarding and protecting the secrecy of your password.</p>
+<p>BaseShare is not responsible if you volunteer personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.</p>
+<h2>General</h2>
+<p>If you are not a resident of the USA, you understand and agree that BaseShare stores and processes your information on computers located in the USA, any by providing any data to BaseShare, you consent to the transfer of such information to the USA.</p>
+<p>In the event that BaseShare is acquired or merged with a third party company or organization, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws affecting creditors' rights, it is possible that BaseShare and its officers, owners, employees, agents, information providers and licensors may not be able to control how your personal information is treated, transferred or used.</p>
+<p>Although we intend to protect your personal information within our power, BaseShare cannot ensure, warrant, or guarantee the security of any information you add to BaseShare.com and you do so at your own risk.</p>
+<p>Please use our Contact form to report any violations</p>
+<p>May 29, 2014</p>
+</div></div> 
+</div>
+<div class="content_right">
+ 
+<div class="class1 follow">
+<a title="" data-original-title="" href="#" class="class2" data-clone=".facebook_box_follow" data-placement="bottom"><i class="fa fa-facebook" style="color:#45619D"></i> +<span class="facebook_count sharrre" data-url="http://www.facebook.com/realbaseshare">...</span></a>
+<a title="" data-original-title="" href="#" class="class2" data-clone=".twitter_box_follow" data-placement="bottom"><i class="fa fa-twitter" style="color:#65B1DF"></i> +<span class="twitter_follow_count sharrre" data-url="baseshare">...</span></a>
+<a target="_blank" href="https://plus.google.com/113467380591355103910" rel="publisher" title="" data-original-title="" class="class2" data-clone=".googleplus_box_follow" data-placement="bottom"><i class="fa fa-google-plus" style="color:#DF5138"></i>
++<span class="googleplus_count sharrre" data-url="https://plus.google.com/113467380591355103910"><span>...</span></span></a>
+</div>
+<div style="display: none;">
+<div class="facebook_box_follow share_style2 sharrre" data-url="http://www.facebook.com/realbaseshare"><a class="box" href="#"><div class="count" href="#">...</div><div class="share"><i class="fa fa-facebook"></i> Like</div></a></div>
+<div class="twitter_box_follow share_style2 sharrre" data-url="baseshare"><a class="box" href="#"><div class="count" href="#">...</div><div class="share"><i class="fa fa-twitter"></i> Follow</div></a></div>
+<div class="googleplus_box_follow share_style2 sharrre" data-url="https://plus.google.com/113467380591355103910"><a class="box" href="#"><div class="count" href="#"><span>...</span></div><div class="share"><i class="fa fa-google-plus"></i> +1</div></a></div>
+</div>
+<style>.follow_us{border-top:none!important;}.class1 .class2:hover,.class2:hover span{color:#00CCFF;}</style>
+<script>
+    $('.class2').popover({
+// 	'placement': function (tip, element) {
+// 		var offset = $(element).offset();
+// 		height = $(document).outerHeight();
+// 		width = $(document).outerWidth();
+// 		vert = 0.5 * height - offset.top;
+// 		vertPlacement = vert > 0 ? 'bottom' : 'top';
+// 		horiz = 0.5 * width - offset.left;
+// 		horizPlacement = horiz > 0 ? 'right' : 'left';
+// 		placement = Math.abs(horiz) > Math.abs(vert) ?  horizPlacement : vertPlacement;
+// 		return placement;
+// 	},
+//	'placement': 'bottom',
+        'html': 'true',
+        'trigger':'manual',
+        'animation': false,
+        'content': function() {
+            return $($(this).data('clone')).first().clone(true);
+        }
+    });
+
+    var insidePopover=false;
+
+    $('.class1').on('mouseenter', '.popover', function() {
+        insidePopover=true;
+    });
+
+    $('.class1').on('mouseleave', '.popover', function() {
+        insidePopover=false;
+        $('.class1 .class2').popover('hide');
+    });
+
+    $('.class1').on('mouseenter', '.class2', function() {
+        $('.class1 .class2').popover('hide');
+
+        var dom = $(this);
+        $(dom).popover('show');
+
+        //copy url button
+//		clip.glue( $(".popover button#my-button") );
+    });
+
+    $('.class1').on('mouseleave', '.class2', function() {
+        var dom = $(this);
+        setTimeout(function() {
+            if (!insidePopover) $(dom).popover('hide');
+        }, 200);
+    });
+
+    //		, urlCurl: '/static/js/sharrre/sharrre.php'
+
+</script>
+ 
+<script>
+$('.twitter_box').sharrre({
+    share: {
+        twitter: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-twitter"></i> <span style="position:relative;left:-2px;">Tweet</span></div></a>',
+    text: document.title,
+    enableHover: false,
+    enableTracking: true,
+    buttons: { twitter: {via: 'DigitalDripped RT!'}},
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('twitter');
+    }
+});
+
+$('.twitter_box_clean').sharrre({
+    share: {
+        twitter: true
+    },
+    buttons: { twitter: {count: 'vertical', via: 'DigitalDripped RT!'}},
+// 	buttons: {
+// 		twitter: {count: 'vertical'},
+//   },
+    text: document.title,
+    enableHover: false,
+    enableCounter: false,
+    enableTracking: true
+});
+
+$('.facebook_box').sharrre({
+    share: {
+        facebook: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-facebook"></i> Like</div></a>',
+    text: document.title,
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('facebook');
+    }
+});
+
+$('.facebook_box_clean').sharrre({
+    share: {
+        facebook: true
+    },
+    buttons: {
+        facebook: {layout: 'box_count'}
+    },
+    text: document.title,
+    // 	template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-facebook"></i> Like</div></a>',
+    enableHover: false,
+    enableCounter: false,
+    enableTracking: true
+});
+
+/*$('.googleplus_box').sharrre({
+ share: {
+ googlePlus: true
+ },
+ template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-google-plus"></i> +1</div></a>',
+ text: document.title,
+ enableHover: false,
+ enableTracking: true,
+ click: function(api, options){
+ api.simulateClick();
+ api.openPopup('googlePlus');
+ },
+ urlCurl: '/static/js/sharrre/sharrre.php'
+ });
+
+ $('.googleplus_box_clean').sharrre({
+ share: {
+ googlePlus: true
+ },
+ buttons: {
+ googlePlus: {size: 'tall', annotation:'bubble'}
+ },
+ text: document.title,
+ enableHover: false,
+ enableCounter: false,
+ enableTracking: true
+ });*/
+
+$('.pin_box').sharrre({
+    share: {
+        pinterest: true
+    },
+    buttons: {
+        pinterest: {media: ''}
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="icon-pinterest"></i> Pin it!</div></a>',
+    text: document.title,
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('pinterest');
+    }
+});
+
+$('.digg_box').sharrre({
+    share: {
+        pinterest: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="icon-digg"></i> Digg</div></a>',
+    text: document.title,
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('digg');
+    }
+});
+
+$('.linkedin_box').sharrre({
+    share: {
+        linkedin: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="icon-stubmleupon"></i> Linkedin</div></a>',
+    text: document.title,
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('linkedin');
+    }
+});
+
+// count
+$('.twitter_count').sharrre({
+    share: {
+        twitter: true
+    },
+    template: '{total}',
+    enableHover: false,
+    enableTracking: false
+});
+
+$('.twitter_follow_count').sharrre({
+    share: {
+        twitter_follow: true
+    },
+    template: '{total}',
+    enableHover: false,
+    enableTracking: false,
+	 urlCurl: '/sharrre.php'
+});
+
+$('.facebook_count').sharrre({
+    share: {
+        facebook: true
+    },
+    template: '{total}',
+    enableHover: false,
+    enableTracking: false
+});
+
+ $('.googleplus_count').sharrre({
+ share: {
+ googlePlus: true
+ },
+ template: '{total}',
+ enableHover: false,
+ enableTracking: true,
+ urlCurl: '/sharrre.php'
+ });
+
+
+// follow
+
+// $('.twitter_follow_box_clean').sharrre({
+// 	share: {
+// 		twitter_follow: true
+// 	},
+// 	buttons: {
+//     twitter_follow: {count: 'vertical'}
+//   },
+//   enableHover: false,
+//   enableCounter: false,
+//   enableTracking: true
+// });
+
+// $('.twitter_follow_box').sharrre({
+// 	share: {
+// 		twitter_follow: true
+// 	},
+// 	template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-twitter"></i> Tweet</div></a>',
+// 	enableHover: false,
+// 	enableTracking: true,
+// 	buttons: { twitter: {count: 'vertical', via: 'DigitalDripped RT!'}},
+// 	click: function(api, options){
+// 		api.simulateClick();
+// 		api.openPopup('twitter');
+// 	}
+// });
+
+
+
+$('.facebook_box_follow').sharrre({
+    share: {
+        facebook: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-facebook"></i> Like</div></a>',
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('facebook_follow');
+    }
+});
+
+
+
+$('.twitter_box_follow').sharrre({
+    share: {
+        twitter_follow: true
+    },
+    template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="fa fa-twitter"></i> Follow</div></a>',
+    enableHover: false,
+    enableTracking: true,
+    click: function(api, options){
+        api.simulateClick();
+        api.openPopup('twitter_follow');
+    },
+		urlCurl: '/sharrre.php'
+});
+
+
+ $('.googleplus_box_follow').sharrre({
+	share: {
+		googlePlus: true
+	},
+	template: '<a class="box" href="#"><div class="count" href="#">{total}</div><div class="share"><i class="icon-google-plus"></i> +1</div></a>',
+	enableHover: false,
+	enableTracking: true,
+	click: function(api, options){
+		api.simulateClick();
+		api.openPopup('googlePlus');
+	},
+	urlCurl: '/sharrre.php'
+ });
+
+
+
+
+
+
+
+
+
+
+
+</script>
+<style type="text/css">.share_style2.sharrre{}.share_style2.sharrre a:hover{text-decoration:none;}.share_style2.sharrre .count{color:#525b67;display:block;font-size:16px;font-weight:normal;line-height:35px;height:35px;position:relative;text-align:center;width:57px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;border:1px solid #b2c6cc;background:#fbfbfb;}.share_style2.sharrre .count:before,.sharrre .count:after{content:'';display:block;position:absolute;left:49%;width:0;height:0;}.share_style2.sharrre .count:before{border:solid 7px transparent;border-top-color:#b2c6cc;margin-left:-7px;bottom:-14px;}.share_style2.sharrre .count:after{border:solid 6px transparent;margin-left:-6px;bottom:-12px;border-top-color:#fbfbfb;}.share_style2.sharrre .share{color:#FFFFFF;display:block;font-size:11px;font-weight:300;height:22px;line-height:22px;margin-top:8px;padding:0;text-align:center;text-decoration:none;width:57px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;}.share_style2.sharrre .share i{font-size:14px;padding:0 2px;}.share_style2.twitter_box .share,.share_style2.twitter_box_follow .share{border:1px solid #00AEE7;background:#00AEE7;}.share_style2.twitter_box:hover .share,.share_style2.twitter_box_follow:hover .share{background:#00BBEA;}.share_style2.facebook_box .share,.share_style2.facebook_box_follow .share{border:1px solid #415FAA;background:#415FAA;}.share_style2.facebook_box:hover .share,.share_style2.facebook_box_follow:hover .share{background:#1A45A8;}.share_style2.googleplus_box .share{border:1px solid #eee;background:white;color:#DD4B38;}.share_style2.googleplus_box:hover .share{background:#eee;}.share_style2.googleplus_box_follow .share{border:1px solid #6d6d6d;background:#6d6d6d;}.share_style2.googleplus_box_follow:hover .share{background:#6B6060;}</style>
+<div class="side_ad">
+<div class="side_1"><script>var ACE_AR = {Site: '919310', Size: '300250'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div> </div>
+<div style="padding-top: 20px;"></div>
+<div class="side_ad">
+<div class="side_2"><script>var ACE_AR = {Site: '919310', Size: '300250'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div> </div>
+<div class="thisweek">
+<div class="topthisweek">
+<h2>This Week's <span class="greentext">Top 5</span></h2>
+<a href="http://digitaldripped.com/"><img src="/images/poweredby.png"></a>
+</div>
+<div class="weeksong">
+<p class="weekthumb"><a href="http://digitaldripped.com/s/Ty-Dolla-ign-Stand-For.20989"><img src="http://digitaldripped.com/media/?thumb_64?/artist/tystnd.jpg"></a></p>
+<div class="weeksonginfo">
+<p>Ty Dolla $ign</p>
+<p><a href="http://digitaldripped.com/s/Ty-Dolla-ign-Stand-For.20989">Stand For</a></p>
+</div>
+</div>
+<div class="weeksong">
+<p class="weekthumb"><a href="http://digitaldripped.com/s/Lil-Boosie-Like-A-Man.21005"><img src="http://digitaldripped.com/media/?thumb_64?/artist/bsiemn.jpg"></a></p>
+<div class="weeksonginfo">
+<p>Lil Boosie ft. Rich Homie Quan</p>
+<p><a href="http://digitaldripped.com/s/Lil-Boosie-Like-A-Man.21005">Like A Man</a></p>
+</div>
+</div>
+<div class="weeksong">
+<p class="weekthumb"><a href="http://digitaldripped.com/s/Meek-Mill-FYM.20372"><img src="http://digitaldripped.com/media/?thumb_64?/artist/mkfck.PNG"></a></p>
+<div class="weeksonginfo">
+<p>Meek Mill ft. Lil Boosie</p>
+<p><a href="http://digitaldripped.com/s/Meek-Mill-FYM.20372">FYM</a></p>
+</div>
+</div>
+<div class="weeksong">
+<p class="weekthumb"><a href="http://digitaldripped.com/s/Big-Sean-Kingpin-Prod-By-RL-Grime.20889"><img src="http://digitaldripped.com/media/?thumb_64?/artist/rkng.PNG"></a></p>
+<div class="weeksonginfo">
+<p>Big Sean</p>
+<p><a href="http://digitaldripped.com/s/Big-Sean-Kingpin-Prod-By-RL-Grime.20889">Kingpin (Prod By RL Grime)</a></p>
+</div>
+</div>
+<div class="weeksong">
+<p class="weekthumb"><a href="http://digitaldripped.com/s/Chris-Brown-Love-Me-No-More.21013"><img src="http://digitaldripped.com/media/?thumb_64?/artist/chrslve.PNG"></a></p>
+<div class="weeksonginfo">
+<p>Chris Brown ft. Kid Ink</p>
+<p><a href="http://digitaldripped.com/s/Chris-Brown-Love-Me-No-More.21013">Love Me No More</a></p>
+</div>
+</div>
+<a href="http://digitaldripped.com/topsongs" class="btn_view">
+View More Top Songs
+</a>
+</div>
+<div class="side_ad">
+<div class="side_3"><script>var ACE_AR = {Site: '919310', Size: '300250'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div> </div>
+</div>
+<div class="pxline"></div>
+</div>
+<div class="overlay" style="display: none;" id="overlay">
+<div class="whitewindow login_reg">
+<form id="register" style="display: none;" method="post" action="/user/registration">
+<div class="title">
+<h2><a onclick="$( &quot;#login&quot; ).show(); $( &quot;#register&quot; ).hide();" href="#">Login</a></h2>
+<h2 class="current_title">Register</h2>
+</div>
+<div class="loginform">
+<div class="formrow">
+<p><label for="email">Username<span class="red">*</span></label></p>
+<p><input type="text" id="username" placeholder="Username" name="RegistrationForm[username]"></p>
+</div>
+<div class="formrow">
+<p><label for="email">Email<span class="red">*</span></label></p>
+<p><input type="text" id="email" placeholder="Email" name="RegistrationForm[email]"></p>
+</div>
+<div class="formrow">
+<p><label for="password">Password<span class="red">*</span></label></p>
+<p><input type="password" id="password" placeholder="Password" name="RegistrationForm[password]"></p>
+<p class="disclaimer">Password must be at least 6 characters</p>
+</div>
+<div class="formrow">
+<p><label for="password">Confirm Password<span class="red">*</span></label></p>
+<p><input type="password" id="password" placeholder="Confirm Password" name="RegistrationForm[verifyPassword]"></p>
+</div>
+<div class="formrow">
+<input type="checkbox" id="agree"> I agree with: <a href="/site/page/view/tos">Terms of Service</a><br><a href="/site/page/view/privacy">Privacy Policy</a>
+</div>
+</div>
+<div class="login_bottom">
+<input type="submit" id="create" class="btn_view" value="Create Account">
+<div class="loginwith" id="loginwith">
+<span>Register with</span>
+<a href="/site/oauth/provider/Facebook"><i class="fa fa-facebook"></i></a>
+<a href="/site/oauth/provider/Google"><i class="fa fa-google-plus"></i></a>
+</div>
+</div>
+</form>
+<form id="login" style="display: none;" method="post" action="/user/login">
+<div class="title">
+<h2 class="current_title">Login</h2>
+<h2><a onclick="$( &quot;#login&quot; ).hide(); $( &quot;#register&quot; ).show();" href="#">Register</a></h2>
+</div>
+<div class="loginform">
+<div class="formrow">
+<p><label for="email">Username or email<span class="red">*</span></label></p>
+<p><input type="text" id="email" placeholder="Email" name="UserLogin[username]"></p>
+</div>
+<div class="formrow">
+<p><label for="password">Password<span class="red">*</span></label></p>
+<p><input type="password" id="password" placeholder="Password" name="UserLogin[password]"></p>
+</div>
+<div class="formrow remember">
+<input type="checkbox" id="remember" name="UserLogin[rememberMe]" value="1"> <label for="remember">Remember Me</label>
+<a href="/user/recovery">Forgot Password?</a>
+</div>
+</div>
+<div class="login_bottom">
+<input type="submit" class="btn_view" value="Login">
+<div class="loginwith">
+<span>Login with</span>
+<a href="/site/oauth/provider/Facebook"><i class="fa fa-facebook"></i></a>
+<a href="/site/oauth/provider/Google"><i class="fa fa-google-plus"></i></a>
+</div>
+</div>
+</form>
+<i class="fa fa-times" onclick="$( &quot;#overlay&quot; ).hide(); $( &quot;#register&quot; ).hide(); $( &quot;#login&quot; ).hide();"></i>
+</div>
+
+
+</div></body></html>
