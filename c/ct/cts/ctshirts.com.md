@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502041724id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181336id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Charles Tyrwhitt
 
@@ -6,7 +6,7 @@ Charles Tyrwhitt LLP ("We") are committed to protecting and respecting your priv
 
 This policy (together with our terms of use [terms and conditions](https://web.archive.org/Terms-and-condition?cnt=terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is [Wheeler Higgins Limited] of 13 Silver Road, London W12 7RR.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is [Wheeler Higgins Limited] of Cottons Centre, Cottons Lane, London, SE1 2QG.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
@@ -14,6 +14,7 @@ We may collect and process the following data about you:
 
   * Information that you provide by filling in forms on the website www.ctshirts.com (Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with the Website.
   * If you contact us, we may keep a record of that correspondence.
+  * If you telephone us, we may keep a recording of that call for training purposes.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through the Website and of the fulfilment of your orders.
   * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
