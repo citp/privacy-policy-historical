@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611132646id_/http%3A//www.heathrowairport.com/about-us/help/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122825id_/http%3A//www.heathrowairport.com/about-us/help/privacy-notice) for the most accurate reproduction.*
 
 # Heathrow: Corporate site | Privacy notice
 
