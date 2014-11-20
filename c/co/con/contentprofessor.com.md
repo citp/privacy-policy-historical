@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentprofessor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044801id_/http%3A//contentprofessor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentprofessor.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132926id_/http%3A//contentprofessor.com/privacy.html) for the most accurate reproduction.*
 
 # Content Professor - Better Articles. Better Results.
 
