@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hulkusa.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221095011id_/http%3A//www.hulkusa.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkusa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135258id_/http%3A//www.hulkusaa.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Hulk USA Home of News
 
 What information do we collect?  
-wwhdtv is use different tracking tools to track visitors information. We are using Google Analytics and Ice Rocket Tracker to track visitors information including IP address, Operating System and Web browser etc. We guaranteed you that we do not sharing this sensitive information with any third party. We collect this data just to increase our sites performance so that we can serve you in a better way.  
+hulkusa.com is use different tracking tools to track visitors information. We are using Google Analytics and Ice Rocket Tracker to track visitors information including IP address, Operating System and Web browser etc. We guaranteed you that we do not sharing this sensitive information with any third party. We collect this data just to increase our sites performance so that we can serve you in a better way.  
 We collect information from you when you register as subscribe to our newsletter.  
 Do we use cookies?  
 Google, as a third party vendor, uses cookies to serve ads on your site.  
