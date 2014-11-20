@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630064656id_/http%3A//www.rome2rio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133207id_/http%3A//www.rome2rio.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
