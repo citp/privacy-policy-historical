@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095942id_/http%3A//influitive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205655id_/http%3A//influitive.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Influitive
 
@@ -53,13 +53,13 @@ You have the right to ask whether we hold any personal information about you, to
 **Toronto**  
 191 Niagara Street  
 Toronto, ON M5V 1C9  
-[Google Map](https://www.google.ca/maps/place/191+Niagara+St/@43.642263,-79.4070327,17z/data=!3m1!4b1!4m2!3m1!1s0x882b34e1de0f068b:0x1569e3faadcdae55) **Palo Alto**  
-101 University Avenue, #210  
-Palo Alto, CA 94301  
-[Google Map](https://www.google.ca/maps/preview?q=101+University+Avenue,+%23210+Palo+Alto,+CA+94301&ie=UTF-8&hq=&hnear=0x808fbb374db7251f:0x7038e9295bc20dcd,101+University+Ave+%23210,+Palo+Alto,+CA+94301,+USA&gl=ca&ei=sjWkU7nDL8GryATT1oLQCg&ved=0CB0Q8gEwAA) **Boston - Marketing and Sales Office**  
-711 Atlantic Ave  
+[Google Map](https://www.google.ca/maps/place/191+Niagara+St/@43.642263,-79.4070327,17z/data=!3m1!4b1!4m2!3m1!1s0x882b34e1de0f068b:0x1569e3faadcdae55) **Menlo Park**  
+68 Willow Road, Suite 165  
+Menlo Park, CA 94025  
+[Google Map](https://www.google.ca/maps/place/68+Willow+Rd+%23165,+Menlo+Park,+CA+94025,+USA/@37.4522341,-122.1662128,17z/data=!3m1!4b1!4m2!3m1!1s0x808fbb48d8771a0f:0x201fbda789a95fa6) **Boston - Marketing and Sales Office**  
+75 Kneeland St, 15th Floor  
 Boston, MA 02111  
-[Google Map](https://www.google.ca/maps/preview?q=711+Atlantic+Ave+Boston,+MA+02111&ie=UTF-8&hq=&hnear=0x89e37a78b971f20f:0x4dd87906def6ebca,711+Atlantic+Ave,+Boston,+MA+02111,+USA&gl=ca&ei=EjakU4HlI8-myASi-oDABA&ved=0CB0Q8gEwAA)
+[Google Map](https://www.google.ca/maps/preview?ie=UTF-8&fb=1&gl=ca&sll=42.3503851,-71.0606479&sspn=0.0243583,0.0439463&q=75+Kneeland+St,+Boston,+MA+02111,+USA&ei=NqgNVLenJ-eK8QH5iYCwDw&ved=0CB4Q8gEwAA)
 
 #### Get in touch to learn more
 
