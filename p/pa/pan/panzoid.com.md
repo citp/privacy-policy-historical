@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627185700id_/http%3A//panzoid.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094918id_/http%3A//www.panzoid.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Panzoid
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or fill out a form. 
+We collect information from you when you register on our site, fill out a form, or use one of our online tools. 
 
-When registering on our site, as appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously. 
+When registering on our site or sending feedback, as appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously. 
+
+When using our online tools, occasionally data may be sent to Panzoid about your usage experience. 
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-To send periodic emails 
-
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. 
+
+Information sent about the use of our tools is solely for the purposes of improving your experience and will never be used to identify you. 
 
 **Do we use cookies?**
 
@@ -64,4 +66,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 2/12/2012 
+This policy was last modified on 7/10/2014 
