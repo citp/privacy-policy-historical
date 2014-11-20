@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the officialemailmarketing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044351id_/http%3A//www.officialemailmarketing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialemailmarketing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000651id_/http%3A//www.officialemailmarketing.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy
 
-**Privacy Policy**  
+## Privacy Policy
+
+  
 www.OfficialEmailMarketing.com is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site; you can be assured that it will only be used to support your relationship with www.OfficialEmailMarketing.com (owned by Official Internet Marketing). This privacy policy is intended for all users of www. OfficialEmailMarketing.com. While at the moment we may or may not be collecting your personal information, we still want to inform you of what we will do with this information in the future. Therefore, some of these terms won't currently be applicable, but we will abide by these terms when a particular term does become valid.   
 By visiting this web site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services. 
 
