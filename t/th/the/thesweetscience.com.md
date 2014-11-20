@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522165318id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120052505id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,24 +69,26 @@ This document was last updated on March 20, 2014
 
 ### Latest Articles
 
-[](http://www.thesweetscience.com/news/tss-press-releases/18637-hbo2-and-hbo-latino-will-air-fights-may-31)
+[](http://www.thesweetscience.com/news/articles-frontpage/19785-malignaggi-qpacquiao-algieri-is-a-tough-fight-to-callq)
 
-[](http://www.thesweetscience.com/news/articles/18635-news-on-gamache-talks-nielsen-gingras-velasquez-dargans-next)
+[](http://www.thesweetscience.com/news/articles/19784-a-look-at-melissa-hernandez-layla-mccarter-iii)
 
-[](http://www.thesweetscience.com/news/articles/18634-hbo-going-to-london-for-froch-groves-ii-on-may-31)
+[](http://www.thesweetscience.com/news/tss-press-releases/19783-cleverly-bellew-to-run-on-awe)
 
-[](http://www.thesweetscience.com/news/articles/18633-big-charles-martin-remains-undefeated-at-sugar-ray-benefit)
+[](http://www.thesweetscience.com/news/tss-press-releases/19782-qsunnysideq-to-premiere-at-shadow-box-film-fest)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/18632-patrick-hyland-signs-with-dibella-fights-july-23-in-nyc)
+[](http://www.thesweetscience.com/news/tss-press-releases/19781-manny-mocks-floyd-in-new-foot-locker-spot)
 
-[](http://www.thesweetscience.com/news/articles/18631-adonisqi-have-the-power-to-end-this-fight-quicklyq)
+[](http://www.thesweetscience.com/news/articles-frontpage/19780-chris-algieri-is-charismatic-and-tough-but-is-he-a-ppv-fighter)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/18630-adonis-stevenson-vs-andrzej-fonfara-weigh-in-)
+[](http://www.thesweetscience.com/news/articles/19779-billy-wright-49-year-old-heavyweight-fights-on)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/18629-sergio-martinez-hopes-there-is-still-gain-to-all-his-pain)
+[](http://www.thesweetscience.com/news/articles/19778-three-days-till-fight-night-pacquiao-vs-algieri)
 
-[](http://www.thesweetscience.com/news/articles/18628-dibellas-dan-ohta-ntetu-a-medina-fight-this-weekend)
+[](http://www.thesweetscience.com/news/articles-frontpage/19776-emanuel-steward-protege-tony-harrison-can-still-hear-mannys-call-for-kos)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/18627-final-forums-rossy-and-visinia-get-wins-)
+[](http://www.thesweetscience.com/news/boxing-predictions/19777-boxing-odds-mcdonnell-vs-chacon-for-wba-world-bantamweight-title-on-november-22)
 
 #### Latest Videos on [BoxingChannel.tv](http://www.boxingchannel.tv/)
+
+Prediction:
