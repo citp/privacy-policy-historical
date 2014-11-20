@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140750id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120073640id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
 
 # Customer Support: Privacy Security at The Home Depot
 
