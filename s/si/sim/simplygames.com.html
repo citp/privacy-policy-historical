@@ -1,307 +1,479 @@
-<!--The following is the downloaded HTML source of the simplygames.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628163206id_/http%3A//www.simplygames.com/cnt/aboutus/3%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplygames.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120045002id_/http%3A//www.simplygames.com/terms-conditions%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>About SimplyGames | Terms &amp; Conditions | SimplyGames </title>
-<meta name="description" content="Originally launched in 1998, SimplyGames is one of the longest-established online retailers of video games. In 2009 
-we were voted in the top 5 of UK online video game retailers. We despatch thousands of orders every week.">
-<meta name="keywords" content="SimplyGames, Simply Games, Games Consoles, PS3 Games, Xbox 360 Games, Wii Games, Nintendo Games, DS 
-Games, PC Games, 3DS Games">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Copyright" content="SimplyGames 2014">
-<meta name="Language" content="en">
-<meta name="ROBOTS" content="NOODP">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.simplygames.com/min/?f=/css-js/js.js,/css-js/jquery.min.1.7.2.js,/css-js/jquery.autocomplete.js,/css-js/global_js.js&amp;v=061212"></script>
-<link rel="stylesheet" href="http://www.simplygames.com/min/?f=/css-js/styles110112_http.css&amp;v=23062014" type="text/css">
-<link rel="stylesheet" href="http://www.simplygames.com/min/?f=/css-js/product_css.css&amp;v=140813" type="text/css">
-
-<base href="http://www.simplygames.com">
-<!--[if IE 7]>
-<script type='text/javascript' src='http://www.simplygames.com/min/?f=/css-js/ie7.js'></script>
-<![endif]-->
-
-<script type="text/javascript">
-
-	/* AJAX SEARCH */
-
-	$(function(){
-			   
-		$('#query').click(showsearch).keyup(showsearch);
-		
-		function showsearch(){
-			
-			if($('#query').val() != ''){
-		
-				//setup before functions
-				var typingTimer;                //timer identifier
-				var doneTypingInterval = 500;  //time in ms
-			
-				$('#loading_gif').hide();
-				
-				$("ul#search_results").empty();
-				$('ul#search_results').append('<li>Searching...</li>');
-				$('ul#search_results').fadeIn(200);
-				$('#loading_gif').show();				
-		
-				// START TIMER FOR DELAY IN TYPING
-				clearTimeout(typingTimer);
-				if ($('#myInput').val) {
-					typingTimer = setTimeout(doneTyping, doneTypingInterval);
-				}			
-				
-				function doneTyping (){
-		
-					/* SERIALIZE FORM DATA */
-					var post = $('#search_form').serialize(); 
-					
-					$.post('http://www.simplygames.com/ajax.php?page=live_search&rand=' + Math.random(), post ,function(data) {
-						
-						$('#loading_gif').hide();
-						$("ul#search_results").empty();
-						$('ul#search_results').append(data);
-					
-					});
-		
-				}
-			
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=1200, initial-scale=0.6, maximum-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2">
+  <title>Terms and Conditions/Privacy Policy | SimplyGames</title>
+  <meta name="description" content="SimplyGames are one of the leading online suppliers of PS4, Xbox One, PS3, Xbox 360, Nintendo Wii, Nintendo DS, PC Games, Consoles and Accessories at the best prices.">
+  <link href="/min/?f=/css/front/bootstrap.css,/css/front/maincss.css,/js/fancybox/source/jquery.fancybox.css&amp;v=39" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/min/?f=/js/front/jquery.min.js,/js/front/bootstrap.min.js,/js/front/custom.js&amp;v=4"></script>
+	<style type="text/css">
+		@media (min-width: 1025px){
+			body {
+				background: url('/images/backgrounds/XboneACBundle_BG_Games.jpg?v=2') no-repeat fixed center top;
 			}
-			
 		}
+		@media only screen and (max-width: 1024px) {
+			body {
+				background: url('/images/backgrounds/XboneACBundle_BG_Games.jpg?v=2') no-repeat center center fixed; 
+			}
+		}
+		
+    </style>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		/* HIDE LIST ON MOUSE OUT */
-		
-		$('ul#search_results').hover(function(){
-		
-			$('ul#search_results').show();
-		
-		}, function(){
-			
-			$('ul#search_results').delay(200).fadeOut(200,function(){
-																   
-				$("ul#search_results").empty();
-				$('#loading_gif').hide();
-				
-			});
-			
-		});	
-	
-	});	
-    
+  ga('create', 'UA-26666735-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
-
 </head>
-<body><div class="account_bar">
-	<div class="center">
-    	<ul class="left_list">
-        	<li><a href="http://www.simplygames.com/" class="first">Home</a></li>
-            <li><a href="http://www.simplygames.com/cnt/aboutus/3" title="About SimplyGames">About Us</a></li>
-            <!--<li><a href="http://www.simplygames.com/cnt/help/5" title="Help/FAQ's">Help/FAQ's</a></li>
-            <li><a href="http://www.simplygames.com/cnt/contactus/2" title="Contact SimplyGames">Contact Us</a></li>-->
-            <li><a href="http://www.simplygames.com/faqs-help/" title="Help/FAQ's">Help/FAQ's/Contact Us</a></li>
-            <li><a href="http://www.simplygames.com/cnt/Simply_Games_Cookies/21" title="We Use Cookies">Cookie Use</a></li>
-        </ul>
-        <ul class="right_list">
-        	<li><a href="https://www.simplygames.com/account/sign-in/aHR0cDovL3d3dy5zaW1wbHlnYW1lcy5jb20vY250L2Fib3V0dXMvMw==" title="Sign In To SimplyGames" class="last">Sign In</a></li>
-<li><a href="https://www.simplygames.com/account/register/" title="Create An Account For SimplyGames">Create An Account</a></li>
-
-<li><a href="https://www.simplygames.com/basket" title="My Basket"><span style="color: #ff8a00;">My Basket</span> <span style="color: #FFFFFF; padding-right: 5px;">(0)</span> <span style="color: #FFFFFF;">£0.00</span></a></li>
-<li><a href="https://www.simplygames.com/basket" title="My Basket" style="padding-right: 0px; width: 26px;"><img src="http://www.simplygames.com/images/redesign/layout/shopping_cart.png" style="padding: 8px 0px 0px 0px;"></a></li>
-
-        </ul>
-        <div class="clear"></div>
-    </div><!-- /center -->
-</div><!-- /account_bar -->
-<!-- SIDE PROMOS START -->
-<a href="http://www.simplygames.com/search.php?k=sniper+elite+3&amp;pc=All" class="promo_left"></a>
-<a href="http://www.simplygames.com/search.php?k=sniper+elite+3&amp;pc=All" class="promo_right"></a>
-<!-- SIDE PROMOS END -->
-<div id="wrapper"><div class="header_wrap">
-    <div class="header" style="margin-top: 10px; position:relative; padding-top: 0px; height: 150px;">
-    	<!--<img src="/images/redesign/christmas_lights.gif" border="0" style="position: relative; margin-left: -19px;" />-->
-        <a href="http://www.simplygames.com/" title="SimplyGames" class="simplygames_logo"></a>
-        <div class="search_area">
-            <form name="search" method="get" action="http://www.simplygames.com/search.php" id="search_form">
-                <div class="keywords">
-                    <ul id="search_results">
-                    </ul>
-                	<img src="http://www.simplygames.com/images/redesign/layout/ajax-loader.gif" border="0" id="loading_gif">
-                    <input type="text" name="k" value="Search for?" class="srct" id="query" autocomplete="off">
+<body>
+    <a href="http://www.simplygames.com/p/xbox-one-console-with-assassins-creed-bundle-xbox-one?ref=simplygames_side_promo" class="promo_left hidden-xs"></a>
+    <a href="http://www.simplygames.com/p/xbox-one-console-with-assassins-creed-bundle-xbox-one?ref=simplygames_side_promo" class="promo_right hidden-xs"></a>
+    <div id="topnav" class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a href="http://www.simplygames.com" title="PS4, Xbox One, PS3, Xbox 360, PC Games, Consoles and Accessories | SimplyGames"><img src="/css/front/img/ui/logo.png" alt="SimplyGames" class="img-responsive"></a>
                 </div>
-                <input type="hidden" name="pc" class="srcd" value="All">
-                <input type="submit" value="Search" class="search_button">
-            </form>
-        </div><!-- /search_area -->
-    </div><!-- /header -->
-    <ul id="main_menu">
-        <li class="home"><a href="http://www.simplygames.com/" title="SimplyGames Home"><img src="http://www.simplygames.com/images/redesign/layout/home_icon.png" border="0"></a></li>
-        <li><a href="http://www.simplygames.com/pf/PS4/" class="parent_link" title="PlayStation 4 Games, Bundles, Consoles and Accessories">PS4</a>
-        	<ul>
-                <li><a href="http://www.simplygames.com/comingsoon/PS4/" title="Pre-Order PS4 Games, Upcoming releases.">PS4 Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/PS4/" title="PS4 Chart">PS4 Chart</a></li>
-                <li><a href="http://www.simplygames.com/consoles/PS4/" title="PS4 Consoles">PS4 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/accessories/PS4/" title="PS4 Accessories">PS4 Accessories</a></li>
-                <!--<li><a href='http://www.simplygames.com/price/PS4/0-20' title="PS4 Under &pound;20">PS4 Under &pound;20</a></li>-->
-                <li><a href="http://www.simplygames.com/A-Z/PS4/A/" title="PS4 A-Z Directory">PS4 A-Z Directory</a></li>
-                <li><a href="http://www.simplygames.com/src/PS4/" title="All PS4 Games">All PS4 Games</a></li>
-            </ul>
-        </li>          
-        <li><a href="http://www.simplygames.com/pf/Xbox_One/" class="parent_link" title="Xbox One Games, Bundles, Consoles and Accessories">Xbox One</a>
-             <ul>
-                <li><a href="http://www.simplygames.com/comingsoon/Xbox_One/" title="Pre-Order Xbox One Games, Upcoming Releases.">Xbox One Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/Xbox_One/" title="Xbox One Chart">Xbox One Chart</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Xbox_One/" title="Xbox One Consoles">Xbox One Consoles</a></li>
-                <li><a href="http://www.simplygames.com/accessories/Xbox_One/" title="Xbox One Accessories">Xbox One Accessories</a></li>                       
-                <!--<li><a href='http://www.simplygames.com/price/Xbox_One/0-15' title="Xbox One Under &pound;15">Xbox One Under &pound;15</a></li>-->
-                <li><a href="http://www.simplygames.com/A-Z/Xbox_One/A/" title="Xbox One A-Z Directory">Xbox One A-Z Directory</a></li>
-                <li><a href="http://www.simplygames.com/src/Xbox_One/" title="All Xbox One Games">All Xbox One Games</a></li>
-            </ul>
-        </li>   
-        <li><a href="http://www.simplygames.com/pf/PS3/" class="parent_link" title="PS3 Games, Bundles, Consoles and Accessories">PS3</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/comingsoon/PS3/" title="Pre-Order PS3 Games, Upcoming releases.">PS3 Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/PS3/" title="PS3 Chart">PS3 Chart</a></li>
-                <li><a href="http://www.simplygames.com/consoles/PS3/" title="PS3 Consoles">PS3 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/accessories/PS3/" title="PS3 Accessories">PS3 Accessories</a></li>
-                <li><a href="http://www.simplygames.com/src/PS3/playstation+move" title="Playstation Move">Playstation Move</a></li>
-                <li><a href="http://www.simplygames.com/price/PS3/0-20" title="PS3 Under £20">PS3 Under £20</a></li>
-                <li><a href="http://www.simplygames.com/A-Z/PS3/A/" title="PS3 A-Z Directory">PS3 A-Z Directory</a></li>
-                <li><a href="http://www.simplygames.com/src/PS3/" title="All PS3 Games">All PS3 Games</a></li>
-            </ul>
-        </li>      
-        <li><a href="http://www.simplygames.com/pf/Xbox_360/" class="parent_link" title="Xbox 360 Games, Bundles, Consoles and Accessories">Xbox 360</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/comingsoon/Xbox_360/" title="Pre-Order Xbox 360 Games, Upcoming Releases.">Xbox 360 Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/Xbox_360/" title="Xbox 360 Chart">Xbox 360 Chart</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Xbox_360/" title="Xbox 360 Consoles">Xbox 360 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/accessories/Xbox_360/" title="Xbox 360 Accessories">Xbox 360 Accessories</a></li>       
-                <li><a href="http://www.simplygames.com/src/Xbox_360/Kinect" title="Xbox 360 Kinect">Xbox 360 Kinect</a></li>                          
-                <li><a href="http://www.simplygames.com/price/Xbox_360/0-15" title="Xbox 360 Under £15">Xbox 360 Under £15</a></li>
-                <li><a href="http://www.simplygames.com/A-Z/Xbox_360/A/" title="Xbox 360 A-Z Directory">Xbox 360 A-Z Directory</a></li>
-                <li><a href="http://www.simplygames.com/src/Xbox_360/" title="All Xbox 360 Games">All Xbox 360 Games</a></li>
-            </ul>
-        </li>
- 
-        <li><a href="http://www.simplygames.com/pf/PC/" class="parent_link" title="PC Games, Bundles, Consoles and Accessories">PC</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/comingsoon/PC/" title="PC Pre-Order, Upcoming Releases">PC Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/PC/" title="PC Chart">PC Chart</a></li>
-                <li><a href="http://www.simplygames.com/accessories/PC/" title="PC Accessories">PC Accessories</a></li>
-                <li><a href="http://www.simplygames.com/A-Z/PC/A/" title="PC A-Z Directory">PC A-Z Directory</a></li>
-                <li><a href="http://www.simplygames.com/src/PC/" title="All PC Games">All PC Games</a></li>
-            </ul>
-        </li>
-        <li><a href="http://www.simplygames.com/pf/PS_Vita/" class="parent_link" title="PS Vita Games, Bundles, Consoles and Accessories">PS Vita</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/comingsoon/PS_Vita/" title="Pre-Order PS Vita Games, Upcoming Releases.">PS Vita Pre-Order's</a></li>
-                <li><a href="http://www.simplygames.com/Chart/PS_Vita/" title="PS Vita Chart">PS Vita Chart</a></li>
-                <li><a href="http://www.simplygames.com/consoles/PS_Vita/" title="PS Vita Consoles">PS Vita Consoles</a></li>
-            </ul>
-        </li>
-        <li><a href="http://www.simplygames.com/search.php?k=nintendo&amp;pc=All" class="parent_link" title="Nintendo Wii U, DS / DSi, 3DS Games, Bundles, Consoles and Accessories">Nintendo</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/pf/Nintendo_Wii_U/" class="parent_link" title="Nintendo Wii U Games, Bundles, Consoles and Accessories">Nintendo Wii U</a></li>
-                <li><a href="http://www.simplygames.com/pf/Nintendo_DS/" class="parent_link" title="Nintendo DS / DSi Games, Bundles, Consoles and Accessories">Nintendo DS / DSi</a></li>
-                <li><a href="http://www.simplygames.com/pf/nintendo-3ds/" class="parent_link" title="Nintendo 3DS Games, Bundles, Consoles and Accessories">Nintendo 3DS</a></li>
-            </ul>
-        </li>
-        <li><a href="http://www.simplygames.com/consoles/All/" class="parent_link" title="All Games Consoles">Consoles</a>
-            <ul>
-                <li><a href="http://www.simplygames.com/consoles/PS3/" title="PS3 Consoles">PS3 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/PS4/" title="PS4 Consoles">PS4 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Xbox_360/" title="Xbox 360 Consoles">Xbox 360 Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Xbox_One/" title="Xbox One Consoles">Xbox One Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/PSP/" title="PSP Consoles">PSP Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Nintendo_Wii/" title="Nintendo Wii Consoles">Nintendo Wii Consoles</a></li>
-                <li><a href="http://www.simplygames.com/consoles/Nintendo_DS/" title="DS &amp; DSi Consoles">DS &amp; DSi Consoles</a></li>
-            </ul>
-        </li>
-        <li class="downloads"><a href="http://www.simplycdkeys.com?ref=simplygames" title="SimplyCDKeys Home"><img src="/images/download_icon_menu.png" border="0">Digital</a></li>
-        <li class="social"><a href="https://twitter.com/simplygames" target="_blank" title="Follow us on twitter!"><img src="http://www.simplygames.com/images/redesign/layout/twitter_logo.png" border="0"></a></li>
-        <li class="social"><a href="http://www.facebook.com/pages/SimplyGamescom/328550597551" target="_blank" title="Follow us on facebook!"><img src="http://www.simplygames.com/images/redesign/layout/facebook_logo.png" border="0"></a></li>
-    </ul><!-- #main_menu -->    
+                <div class="col-sm-5 hidden-xs">
+                    <form class="navbar-form" role="search" action="http://www.simplygames.com/search" enctype="multipart/form-data">
+                        <div class="input-group input-group-lg">
+                            <input type="text" name="keywords" class="form-control" placeholder="Search" value="">
+                            <div class="input-group-btn">
+                                <button class="btn btn-warning" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="pull-right topmenu navbar-inverse">
+                    <ul class="nav navbar-nav">
+                        <li class="hidden-xs">
+                            <!--<form action="/terms-conditions" method="post" enctype="multipart/form-data" id="currency_change">
+	<input type="hidden" name="action" value="change_currency" />
+    <select name="currency" id="currency_select" class="select formatxt">
+    	<option value="GBP" selected="selected">GBP</option><option value="EUR">EUR</option>
+    </select>
+</form>-->
+                        </li>
+                        <li>
+                        <a href="https://www.simplygames.com/basket" class="glyphicon basketbutton glyphicon-shopping-cart pull-left hidden-xs"><span class="badge basketcounter">0</span></a>
+                        </li>
+                        <li><a class="hidden-xs topnavtxt" href="https://www.simplygames.com/account/checkout">Checkout</a></li>
+                        <li><a class="hidden-xs topnavtxt" href="https://www.simplygames.com/account/sign-in?redirect=L3Rlcm1zLWNvbmRpdGlvbnM=">Sign In</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+
+    <!--Basket Modal // Hidden from DOM with aria -->
+    <div class="modal fade" id="basketmodal" tabindex="-1" role="dialog" aria-labelledby="basketmodalLabel" aria-hidden="true">
+        <div class="modal-dialog dialogxtra">
+            <div class="modal-content">
+                <div class="modal-header formatxt">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" id="basketmodalLabel">Added to Basket!!</h4>
+                </div>
+                <div class="modal-body modal-body-wrap formatxt">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <a href="/test">
+                            <img src="" class="boxart-modal img-responsive product_image_pop" width="70">
+                            </a>
+                        </div>
+                        <div class="col-sm-8">
+                            <h4 class="product_name_pop"></h4>
+                            <h4 class="modalprice"></h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Continue Shopping</button>
+                    <a href="https://www.simplygames.com/basket" class="btn btn-success">View Basket</a>
+                    <a href="https://www.simplygames.com/account/checkout" class="btn btn-success">Checkout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/.Basket Modal End -->
     
-</div><!-- header_wrap -->
-<!--<g:plusone size="medium"></g:plusone>-->    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="tbl_main"><tbody><tr><td width="165" valign="top">
-    <img src="http://www.simplygames.com/images/new/main/menu_categories.jpg" alt="Categories" width="165" height="29"><div class="mpan_l"><div class="pad6 bold"><a href="http://www.simplygames.com/pf/PS4/" title="PlayStation 4">PlayStation 4</a><br><a href="http://www.simplygames.com/pf/PS3/" title="PlayStation 3">PlayStation 3</a><br><a href="http://www.simplygames.com/pf/PSP/" title="Sony PSP">Sony PSP</a><br><a href="http://www.simplygames.com/pf/PS_Vita/" title="Playstation Vita">Playstation Vita</a><br><a href="http://www.simplygames.com/pf/Nintendo_Wii/" title="Nintendo Wii">Nintendo Wii</a><br><a href="http://www.simplygames.com/pf/Nintendo_Wii_U/" title="Nintendo Wii U">Nintendo Wii U</a><br><a href="http://www.simplygames.com/pf/Nintendo_DS/" title="Nintendo DS">Nintendo DS</a><br><a href="http://www.simplygames.com/pf/nintendo-3ds/" title="Nintendo 3DS">Nintendo 3DS</a><br><a href="http://www.simplygames.com/pf/Xbox_360/" title="Microsoft Xbox 360">Microsoft Xbox 360</a><br><a href="http://www.simplygames.com/pf/Xbox_One/" title="Microsoft Xbox One">Microsoft Xbox One</a><br><a href="http://www.simplygames.com/pf/PC/" title="PC">PC</a><br></div></div><img src="http://www.simplygames.com/images/new/main/menu_browse.jpg" alt="Browse" width="165" height="29"><br><div class="mpan_l2"><div class="pad6 bold"><a href="http://www.simplygames.com/consoles/All/" title="Games Consoles">Games Consoles</a><br><a href="http://www.simplygames.com/Chart/All/" title="Games Chart">Games Chart</a><br><a href="http://www.simplygames.com/HotDeals/All/" title="Hot Game Deals">Hot Game Deals</a><br><a href="http://www.simplygames.com/comingsoon/All/" title="Console and PC Games Coming Soon">Coming Soon</a><br><a href="http://www.simplygames.com/accessories/All/" title="Accessories For All Console Formats">Accessories</a><br></div></div><a href="http://www.simplygames.com/cnt/contactus/2"><img src="http://www.simplygames.com/images/new/main/helpline_no_phone.jpg" width="165" height="91" alt="Email Customer Services" class="banm"></a><br><a href="http://twitter.com/SimplyGames" title="Follow Simply Games On Twitter" class="twitter" target="_blank"></a><a href="http://www.facebook.com/pages/SimplyGamescom/328550597551" title="Follow Simply Games On Facebook" class="facebook" target="_blank"></a><a href="http://www.reviewcentre.com/reviews84062.html" target="_blank"><img src="http://www.simplygames.com/images/review_centre.jpg" alt="Simply Games has an excellent Review Centre Rating" style="margin-bottom: 8px; margin-top: 5px;"></a><a href="http://www.simplygames.com/search.php?k=watch+dogs&amp;pc=All" title="Pre-order Watch Dogs From Only £34.85!!"><img src="http://www.simplygames.com/images/tn/watchdogs-39.85-from.jpg" width="165" height="165" alt="Pre-order Watch Dogs From Only £34.85!!" class="banm"></a><img src="http://www.simplygames.com/images/new/main/menu_recently_viewed.jpg" alt="Recently Viewed" width="165" height="29"><div class="mpan_l2"><div class="pad6 bold"><table><tbody><tr><td valign="top"><b>1</b></td><td><b><a href="http://www.simplygames.com/info/20289/Plants-Vs-Zombies-Garden-Warfare-Xbox-360" title="Plants Vs Zombies Garden Warfare (Xbox 360) @ £22.85">Plants Vs Zombies Garden Warfare (Xbox 360)</a></b><a href="http://www.simplygames.com/info/20289/Plants-Vs-Zombies-Garden-Warfare-Xbox-360" title="Plants Vs Zombies Garden Warfare (Xbox 360) @ £22.85"><br>@ <b style="color: #017D2B;">£22.85</b></a></td></tr></tbody></table></div></div>    
-    </td><td valign="top" style="padding: 0 5px">
-    <img src="http://www.simplygames.com/images/t2/About_Us_new.gif" width="660" height="29" alt="About Us"><div class="centpanelntb"><div class="pad6"><div class="pad6"><span class="p" style="font-size: 10pt; font-weight: bold; ">About SimplyGames</span><span style="FONT-SIZE: 10pt"></span> 
-<div>&nbsp;</div>
-<div>Originally launched in 1998, SimplyGames is one of the longest-established online retailers of video games. In 2009 we were voted in the&nbsp;top 5 of UK online video game retailers. We despatch thousands of orders every week and have hundreds of thousands of satisfied customers. SimplyGames has won acclaim with customers and suppliers alike and&nbsp;in&nbsp;2008 and we were given a glowing report in 'Web User' Magazine with&nbsp;a 4/5 rating. Simply Games&nbsp;is a leader in its field&nbsp;and at the heart of everything is our&nbsp;focus on value and customer service.</div>
-<div>&nbsp;</div>
-<div>Rest assured -&nbsp;Simply Games Limited is a well established online retailer, with an excellent and well-earned reputation. </div>
-<div>&nbsp;</div>
-<div><span style="font-weight: bold; "><a name="terms"></a>Terms &amp; Conditions of your Contract with SimplyGames</span></div>
-<p><span style="font-size: 8pt; font-weight: bold; ">Orders</span></p>
-<div>All orders are subject to acceptance and product availability. Product pricing is correct at the time of entering the information. However, we reserve the right to change prices without prior notice. For Delivery and Returns details, please see our <a href="http://www.simplygames.com/cnt/help/5">Help</a> section.</div>
-<div>
-<p><span style="font-weight: bold; ">NEW! - International Orders</span></p>
-<p>We now ship software AND CONSOLES to a wide range of International Countries. For details and charges, please see our <a href="http://www.simplygames.com/cnt/help/5">Help</a> section. </p></div>
-<p><span style="font-weight: bold; ">Availability of Goods </span></p>
-<p>All 'In Stock' items are usually despatched within 24 hours and&nbsp;orders placed before 3pm are&nbsp;despatched the same day. In the unlikely event that they are temporarily unavailable, every effort is made to get the product sourced. In any event, we do not charge your credit card until the date your order is despatched out to you. </p>
-<p><span style="font-weight: bold; ">Your Undertakings and Warranties</span></p>
-<p>You warrant that the information given on your order form is complete and accurate. Losses caused as a direct result of inaccurate information provided (e.g. inaccurate address) remain your responsibility and risk. Please complete orders carefully!</p>
-<p><span style="font-weight: bold; ">Acknowledgement of Order</span></p>
-<p>When you have completed the order, your details will be confirmed as part of the payment process prior to despatch. This confirmation will state what the products are, the cost (including VAT and any P&amp;P) and delivery and invoice details. If your order has been unsuccessful, you will be made aware of the reason why and possible explanations. Please note that when you place an order, SimplyGames will acknowledge it, but reserve the right to notify you if the price has been incorrectly featured, and amend the charge to you accordingly. Should you not wish to proceed with the transaction at the new price your order will be cancelled and you will incur no charge.</p>
-<p><span style="font-weight: bold; ">Payment </span></p>
-<p>All credit and debit card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. We reserve the right to cancel any order.</p>
-<p><span style="font-weight: bold; ">Returns</span></p>
-<div>Your statutory rights as a consumer are not affected if, for any reason, you wish to return a product bought from SimplyGames. Please see the full <a href="http://www.simplygames.com/cnt/help/5#returns-policy">Returns Policy </a>for more information. For information on your right to cancel <a href="http://www.simplygames.com/cnt/help/5#returns-policy">click here</a>.</div>
-<div>&nbsp;</div>
-<div>
-<p><span style="font-weight: bold; ">Copyright </span></p>
-<p>All rights, including copyright, in the content of these SimplyGames web pages are owned or controlled for these purposes by Simply Games Limited (registered number 5086506). In accessing Simply Games web pages, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store (in any medium), transmit, show or play in public, adapt or change in any way the content of these SimplyGames web pages for any other purpose whatsoever without the prior written permission of Simply Games Limited.</p>
-<p><span style="font-weight: bold; ">Validity </span></p>
-<p>By ordering a product you accept these terms and conditions. The terms and conditions are subject to change at any time, and it is your responsibility to check these terms and conditions regularly before ordering products in case there are any changes. </p></div>
-<p><span style="font-weight: bold; ">Force Majeure </span></p>
-<p>SimplyGames shall have no liability to you for any failure to deliver goods you have ordered or any delay in doing so or for any damage or defect to goods delivered that is caused by any event or circumstance beyond its reasonable control.</p>
-<p><span style="font-weight: bold; ">Limitation of Liability </span></p>
-<p>Subject to any relevant consumer protection legislation, including our obligation under the Consumer Protection (Distance Selling) Regulations to give you a refund, if we do not perform the contract within 30 days or other agreed timescale our liability for any breach of these terms and conditions shall be limited to the value of the goods ordered by you in the relevant transaction, and in certain circumstances the postage cost.</p>
-<p><span style="font-weight: bold; ">Safe Shopping - Secure Guarantee</span></p>
-<p>SimplyGames places great importance on maintaining securely the information that you provide. For this reason, we use advanced Internet security system to safeguard your data. All the data that you send to us, is encrypted and converted into code before it is transmitted across the Internet. Therefore in the extremely unlikely event that the data should be intercepted, it would be in encrypted format and extremely difficult to decipher. PLEASE NOTE - We do NOT store your credit card data at any stage.</p>
-<p><span style="font-weight: bold; ">Invalidity of Terms and Conditions</span></p>
-<p>If for any reason part of these terms and conditions is unenforceable; the validity of the remaining terms and conditions shall not be affected. </p>
-<p><span style="font-weight: bold; ">Governing Law and Jurisdiction </span></p>
-<p>Contracts between you and SimplyGames shall be governed by English Law, and you and SimplyGames submit to the exclusive jurisdiction of the English courts.</p>
-<p><span style="font-weight: bold; "><a name="privacy"></a>Privacy Policy</span></p>
-<p>We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. SimplyGames may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted on this Website. Except as required by law, modifications to this Privacy Policy shall not affect SimplyGames treatment of data collected prior to the effective date of the Policy change. We collect information from you for a number of reasons. Firstly in order to process your order, we collect your name, email address, postal address and credit card details. Then, to make your visit more rewarding and useful, we may monitor spending patterns and your use of the store via cookies. Please see the information below on cookies.</p>
-<p><span style="font-weight: bold; ">Cookies </span></p>
-<p>These are small pieces of information that are stored by the browser on your computer's hard drive. Our cookies do not in themselves recognise the individual user but will recognise the computer you are using so that we know when you are returning to SimplyGames. Most browsers will automatically accept cookies, but you can change the settings on your browser to prevent this happening. </p>
-<p><span style="font-weight: bold; ">Receiving emails from SimplyGames</span></p>
-<p>From time to time, we like to contact our customers with special offers or news of relevant forthcoming events, such as new releases. By agreeing to our terms and conditions, you agree to receive such emails from SimplyGames. You can ‘Unsubscribe’ from these newsletters at any time by undoing the Tick Box with the Newsletter section of My Account.</p>
-<p><span style="font-weight: bold; ">Disclosing Information to Others</span></p>
-<div>SimplyGames will never sell or share your personal information with third parties unless it is required to fulfill your order or to fulfill another function, which you have consented to. Should we employ other companies to perform functions on our behalf (including fulfilling orders, analysing data, sending e-mails and postal mail), we will ensure that they only use such information under our direction and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the EU. If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the Data Protection Act. </div>
-<div>&nbsp;</div>
-<div><span style="font-weight: bold; ">Fraud Protection Systems</span></div>
-<div><span style="font-weight: bold; "></span>&nbsp;</div>
-<div>To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998</div>
-<p><span style="font-weight: bold; ">Accuracy and Access to Personal Information </span></p>
-<p>You can check that the information which we are holding is accurate by accessing your account online. If you are registered, click on 'My account’ at the top of the screen, enter your email address and password to log on and view your details. Also, even if you have consented to receive marketing information from us you, can request that we do not contact you with further information by e-mailing our Customer Services Team</p>
-<p>SimplyGames’ extensive range of electronic gaming products, it is important that you can navigate the Website as easily as possible. The site is divided into main browsing categories, clearly seen on the navigation bar at the top of the site. These will remain in view throughout your shopping experience. Click on any of these and you will go straight to the main console format areas. Choosing one of these options will take you directly through to the main game categories, enabling extremely easy access to the product level, where individual products are listed complete with a small image and a description. If you are interested in the particular product you can click through for a full description and extra information on the product page. </p></div></div>    </div></td><td width="165" valign="top">	
-    <a href="http://www.simplygames.com/consoles/Xbox_One/" title=""><img src="http://www.simplygames.com/images/features-right/xbox_one_165x165_4.jpg" width="165" height="165" alt="" class="banm"></a><a href="http://www.simplygames.com/pf/PS4/" title="Playstation 4 Coming Soon!!"><img src="http://www.simplygames.com/images/features-right/ps4_165x165_2.jpg" width="165" height="165" alt="Playstation 4 Coming Soon!!" class="banm"></a><img src="http://www.simplygames.com/images/new/main/menu_best_sellers.jpg" alt=" Best Sellers" width="165" height="29"><div class="mpan_l2"><table class="mpan_l_tbl" cellspacing="0" cellpadding="3"><tbody><tr><td valign="top" class="lnum">1.</td><td><b><a href="http://www.simplygames.com/info/20460/Sniper-Elite-3-Xbox-One" title="Sniper Elite 3">Sniper Elite 3 (Xbox One)</a></b></td></tr><tr><td valign="top" class="lnum">2.</td><td><b><a href="http://www.simplygames.com/info/20022/Minecraft-Xbox-360" title="Minecraft">Minecraft (Xbox 360)</a></b></td></tr><tr><td valign="top" class="lnum">3.</td><td><b><a href="http://www.simplygames.com/info/20115/EA-Sports-UFC-PS4" title="EA Sports UFC">EA Sports UFC (PS4)</a></b></td></tr><tr><td valign="top" class="lnum">4.</td><td><b><a href="http://www.simplygames.com/info/18745/Sony-PS3-Official-DualShock-3-Wireless-Controller-White-PS3" title="Sony PS3 Official DualShock 3 Wireless Controller (White)">Sony PS3 Official DualShock 3 Wireless Controller (White) (PS3)</a></b></td></tr><tr><td valign="top" class="lnum">5.</td><td><b><a href="http://www.simplygames.com/info/20116/EA-Sports-UFC-Xbox-One" title="EA Sports UFC">EA Sports UFC (Xbox One)</a></b></td></tr><tr><td valign="top" class="lnum">6.</td><td><b><a href="http://www.simplygames.com/info/20415/Murdered-Soul-Suspect-Xbox-One" title="Murdered Soul Suspect">Murdered Soul Suspect (Xbox One)</a></b></td></tr><tr><td valign="top" class="lnum">7.</td><td><b><a href="http://www.simplygames.com/info/20015/FIFA-14-Xbox-One" title="FIFA 14">FIFA 14 (Xbox One)</a></b></td></tr><tr><td valign="top" class="lnum">8.</td><td><b><a href="http://www.simplygames.com/info/20037/Wolfenstein-The-New-Order-PS4" title="Wolfenstein The New Order">Wolfenstein The New Order (PS4)</a></b></td></tr><tr><td valign="top" class="lnum">9.</td><td><b><a href="http://www.simplygames.com/info/20036/Wolfenstein-The-New-Order-Xbox-One" title="Wolfenstein The New Order">Wolfenstein The New Order (Xbox One)</a></b></td></tr><tr><td valign="top" class="lnum">10.</td><td><b><a href="http://www.simplygames.com/info/20268/Xbox-One-Dual-Battery-Pack-Orb-Xbox-One" title="Xbox One Dual Battery Pack (Orb)">Xbox One Dual Battery Pack (Orb) (Xbox One)</a></b></td></tr></tbody></table><div class="pad3" align="center"><a href="/Chart/all/">More Best Sellers</a></div></div>						<img src="http://www.simplygames.com/images/new/main/secure_shopping.jpg" width="165" height="51" alt="100% Secure Shopping With Simply Games"><div class="mpan_l2" align="center"><div align="center"><script language="JavaScript" type="text/javascript" src="https://smarticon.geotrust.com/si.js"></script></div><br><a href="http://www.sagepay.com" class="lgo_c_cards" title="SagePay Secure Credit Card Payments" target="_blank"></a><a href="http://www.paypal.com" class="lgo_paypal" title="Pay SimplyGames With PayPal" target="_blank"></a><a href="http://www.simplygames.com/cnt/google_checkout/14/" class="lgo_google" title="Google Checkout"></a>		
-    </div></td></tr></tbody></table>        
-<div class="row_fw_c">
-	<p align="center">
-    	<br><br>© 2014 Simply Games Limited. 
-        	<a href="http://www.simplygames.com/cnt/aboutus/3#terms" title="">Terms</a>.
-            <a href="http://www.simplygames.com/cnt/aboutus/3#privacy" title="">Privacy Statement</a>.
-			 Company No: 05086506            <br>Registered Address: 78 Tenter Road, Moulton Park Industrial Estate, Northampton, England, NN3 6AX.<br><br>
-			            <a href="http://www.simplygames.com/pf/PS4/" title="PS4 Consoles, Games, Accessories">Sony Playstation 4 (PS4)</a> | 
-            <a href="http://www.simplygames.com/pf/Xbox_One/" title="Microsoft Xbox One Consoles, Games, Accessories">Microsoft Xbox One</a> | 
-            <a href="http://www.simplygames.com/pf/PS3/" title="PS3 Consoles, Games, Accessories">Sony Playstation 3 (PS3)</a> | 
-            <a href="http://www.simplygames.com/pf/PSP/" title="Sony PSP Consoles, Games, Accessories">Sony PSP</a> | 
-            <a href="http://www.simplygames.com/pf/Xbox_360/" title="Xbox 360 Consoles, Games, Accessories">Microsoft Xbox 360</a> | 
-            <a href="http://www.simplygames.com/pf/PC/" title="PC Games, Accessories">PC</a>
-            <br><a href="http://www.simplygames.com/a-zall/" title="All Format A-Z">All Format A-Z</a> | 
-            <a href="http://www.simplygames.com/comingsoon/All/" title="All Format Coming Soon">All Format Coming Soon</a> | 
-						<a href="http://www.simplygames.com/sitemap" title="Sitemap">Sitemap</a>
-            <br>
-	</p>
-</div>
-<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-26666735-1']);_gaq.push(['_trackPageview']);
-(function(){
-var ga = document.createElement('script');ga.type='text/javascript';ga.async=true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script></div>
-</body></html>
+    
+    
+    <div class="container">
+    	
+        <div class="row marketing marginbot hidden-sm hidden-md hidden-lg">
+            <div class="col-sm-12">
+                <form class="form" role="search" action="http://www.simplygames.com/search" enctype="multipart/form-data">
+                    <div class="input-group input-group-lg">
+                        <input type="text" name="keywords" class="form-control" placeholder="Search" value="">
+                        <div class="input-group-btn">
+                            <button class="btn btn-warning" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div><!-- /MOBILE SEARCH BAR -->
+        <div id="mainnav" class="navbar navbar-simply mainnav" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navlink">
+                        <li><a href="/" class="glyphicon glyphicon-home"></a></li><li class="dropdown">
+<a href="/ps4" title="PlayStation 4">PS4<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/ps4/games?filter=top-sellers" title="Top Selling PS4 Games">Top Sellers</a></li>
+        <li><a href="/ps4/games?filter=pre-orders" title="PS4 Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/ps4/consoles" title="PS4 Consoles">Consoles</a></li>
+        <li><a href="/ps4/accessories" title="PS4 Accessories">Accessories</a></li>
+        <li><a href="http://www.simplycdkeys.com/playstation-games" title="PlayStation 4 Game Downloads">Game Downloads</a></li>
+        <li><a href="http://www.simplycdkeys.com/playstation-network" title="PlayStation Network">PlayStation Network</a></li>
+    </ul>
+</li><li class="dropdown">
+<a href="/xbox-one" title="Xbox One">Xbox One<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/xbox-one/games?filter=top-sellers" title="Top Selling Xbox One Games">Top Sellers</a></li>
+        <li><a href="/xbox-one/games?filter=pre-orders" title="Xbox One Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/xbox-one/consoles" title="Xbox One Consoles">Consoles</a></li>
+        <li><a href="/xbox-one/accessories" title="Xbox One Accessories">Accessories</a></li>
+        <li><a href="http://www.simplycdkeys.com/xbox-games" title="Xbox One Game Downloads">Game Downloads</a></li>
+        <li><a href="http://www.simplycdkeys.com/xbox-live" title="Xbox Live">Xbox Live</a></li>
+    </ul>
+</li><li class="dropdown">
+<a href="/ps3" title="PlayStation 3">PS3<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/ps3/games?filter=pre-orders" title="PS3 Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/ps3/games?filter=top-sellers" title="All PS3 Games">All Games</a></li>
+        <li><a href="/ps3/consoles" title="PS3 Consoles">Consoles</a></li>
+        <li><a href="/ps3/accessories" title="PS3 Accessories">Accessories</a></li>
+    </ul>
+</li><li class="dropdown">
+<a href="/xbox-360" title="Xbox 360">Xbox 360<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/xbox-360/games?filter=pre-orders" title="Xbox 360 Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/xbox-360/games?filter=top-sellers" title="All Xbox 360 Games">All Games</a></li>
+        <li><a href="/xbox-360/consoles" title="Xbox 360 Consoles">Consoles</a></li>
+        <li><a href="/xbox-360/accessories" title="Xbox 360 Accessories">Accessories</a></li>
+    </ul>
+</li><li class="dropdown">
+<a href="/pc" title="PC Games, Consoles and Accessories">PC<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/pc/games?filter=pre-orders" title="PC Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/pc/games?filter=top-sellers" title="All PC Games">All Games</a></li>
+        <li><a href="/pc/accessories" title="PC Accessories">Accessories</a></li>
+    </ul>
+</li><li class="dropdown">
+<a href="/ps-vita" title="PlayStation Vita">PS Vita<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    	<li><a href="/ps-vita/games?filter=pre-orders" title="PS Vita Pre-Orders">Pre-Orders</a></li>
+        <li><a href="/ps-vita/games?filter=top-sellers" title="All PS Vita Games">All Games</a></li>
+        <li><a href="/ps-vita/consoles" title="PS Vita Consoles">Consoles</a></li>
+        <li><a href="/ps-vita/accessories" title="PS Vita Accessories">Accessories</a></li>
+    </ul>
+</li><li class="dropdown">
+<a title="Other">Nintendo<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+        <li><a href="/nintendo-wii-u" title="Nintendo Wii U Games, Consoles and Accessories">Nintendo Wii U</a></li>
+        <li><a href="/nintendo-3ds" title="Nintendo Wii 3DS Games, Consoles and Accessories">Nintendo 3DS</a></li>
+        <li><a href="/nintendo-ds" title="Nintendo Wii DS Games, Consoles and Accessories">Nintendo DS</a></li>
+        <li><a href="/nintendo-wii" title="Nintendo Wii Games, Consoles and Accessories">Nintendo Wii</a></li>
+    </ul>
+</li>
+                        <li><a class="navlink navdeals" href="http://deals.simplygames.com/">Deals</a></li>
+                        <li class="dropdown">
+                        <a class="navlink navtxt" href="http://www.simplycdkeys.com/">Digital<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="http://www.simplycdkeys.com/steam" title="Steam Keys">Steam Keys</a></li>
+                                <li><a href="http://www.simplycdkeys.com/origin" title="Origin Keys">Origin Keys</a></li>
+                                <li><a href="http://www.simplycdkeys.com/battlenet" title="Battle.Net Keys">Battle.Net Keys</a></li>
+                                <li><a href="http://www.simplycdkeys.com/xbox-live" title="Xbox Live">Xbox Live</a></li>
+                                <li><a href="http://www.simplycdkeys.com/xbox-games" title="Xbox Live">Xbox Games</a></li>
+                                <li><a href="http://www.simplycdkeys.com/playstation-network" title="PlayStation Network">PlayStation Network</a></li>
+                            	<li><a href="http://www.simplycdkeys.com/playstation-games" title="PlayStation Game Downloads">PlayStation Games</a></li>
+                            </ul>
+                        </li>
+                        <li class="socialmedia">
+                            <button type="button" class="btn btn-social socialiconmenu btn-facebook fa fa-facebook hidden-xs"></button>
+                            <button type="button" class="btn btn-social socialiconmenu btn-twitter fa fa-twitter hidden-xs"></button>
+                        </li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container-fluid -->
+        </div><!--/.mainnav -->  
+        <div class="row marketing marginbot hidden-sm hidden-md hidden-lg">
+            <div class="col-sm-12">
+                <a class="btn btn-success btn-xl btn-block" href="http://deals.simplygames.com"><h4>Today's Deals</h4></a>
+            </div>
+        </div><!-- /MOBILE CHECKOUT BUTTON -->        
+		        <div class="row marketing marginbot hidden-sm hidden-md hidden-lg">
+            <div class="col-sm-12">
+                <a class="btn btn-warning btn-xl btn-block" href="https://www.simplygames.com/account/sign-in?redirect=Lw=="><h4>Sign In</h4></a>
+            </div>
+        </div> <!--/MOBILE CHECKOUT BUTTON --> 
+        <div class="row marketing">
+          <div class="col-sm-8">
+            <div class="panel panel-default">
+              <div class="panel-body formatxt">
+              <h3>About SimplyGames</h3>
+ 
+              <p>Originally launched in 1998, SimplyGames is one of the longest-established online retailers of video games. In 2009 we were voted in the top 5 of UK online video game retailers. We despatch thousands of orders every week and have hundreds of thousands of satisfied customers. SimplyGames has won acclaim with customers and suppliers alike and in 2008 and we were given a glowing report in 'Web User' Magazine with a 4/5 rating. Simply Games is a leader in its field and at the heart of everything is our focus on value and customer service.</p>
+ 
+              <p>Rest assured - Simply Games Limited is a well established online retailer, with an excellent and well-earned reputation.</p> 
+ 
+              <h3>Terms &amp; Conditions of your Contract with SimplyGames</h3>
+              <h4>Orders</h4>
+
+              <p>All orders are subject to acceptance and product availability. Product pricing is correct at the time of entering the information. However, we reserve the right to change prices without prior notice. For Delivery and Returns details, please see our Help section.</p>
+              <h4>NEW! - International Orders</h4>
+
+              <p>We now ship software AND CONSOLES to a wide range of International Countries. For details and charges, please see our Help section.</p>
+
+              <h4>Availability of Goods</h4>
+
+              <p>All 'In Stock' items are usually despatched within 24 hours and orders placed before 3pm are despatched the same day. In the unlikely event that they are temporarily unavailable, every effort is made to get the product sourced. In any event, we do not charge your credit card until the date your order is despatched out to you.</p>
+
+              <h4>Your Undertakings and Warranties</h4>
+
+              <p>You warrant that the information given on your order form is complete and accurate. Losses caused as a direct result of inaccurate information provided (e.g. inaccurate address) remain your responsibility and risk. Please complete orders carefully!</p>
+
+              <h4>Acknowledgement of Order</h4>
+
+              <p>When you have completed the order, your details will be confirmed as part of the payment process prior to despatch. This confirmation will state what the products are, the cost (including VAT and any P&amp;P) and delivery and invoice details. If your order has been unsuccessful, you will be made aware of the reason why and possible explanations. Please note that when you place an order, SimplyGames will acknowledge it, but reserve the right to notify you if the price has been incorrectly featured, and amend the charge to you accordingly. Should you not wish to proceed with the transaction at the new price your order will be cancelled and you will incur no charge.</p>
+
+              <h4>Payment</h4>
+
+              <p>All credit and debit card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. We reserve the right to cancel any order.</p>
+
+              <h4>Returns</h4>
+
+              <p>Your statutory rights as a consumer are not affected if, for any reason, you wish to return a product bought from SimplyGames. Please see the full Returns Policy for more information. For information on your right to cancel click here.</p>
+ 
+              <h4>Copyright</h4>
+
+              <p>All rights, including copyright, in the content of these SimplyGames web pages are owned or controlled for these purposes by Simply Games Limited (registered number 5086506). In accessing Simply Games web pages, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store (in any medium), transmit, show or play in public, adapt or change in any way the content of these SimplyGames web pages for any other purpose whatsoever without the prior written permission of Simply Games Limited.</p>
+
+              <h4>Validity</h4>
+
+              <p>By ordering a product you accept these terms and conditions. The terms and conditions are subject to change at any time, and it is your responsibility to check these terms and conditions regularly before ordering products in case there are any changes.</p>
+
+              <h4>Force Majeure</h4>
+
+              <p>SimplyGames shall have no liability to you for any failure to deliver goods you have ordered or any delay in doing so or for any damage or defect to goods delivered that is caused by any event or circumstance beyond its reasonable control.</p>
+
+              <h4>Limitation of Liability</h4>
+
+              <p>Subject to any relevant consumer protection legislation, including our obligation under the Consumer Protection (Distance Selling) Regulations to give you a refund, if we do not perform the contract within 30 days or other agreed timescale our liability for any breach of these terms and conditions shall be limited to the value of the goods ordered by you in the relevant transaction, and in certain circumstances the postage cost.</p>
+
+              <h4>Safe Shopping - Secure Guarantee</h4>
+
+              <p>SimplyGames places great importance on maintaining securely the information that you provide. For this reason, we use advanced Internet security system to safeguard your data. All the data that you send to us, is encrypted and converted into code before it is transmitted across the Internet. Therefore in the extremely unlikely event that the data should be intercepted, it would be in encrypted format and extremely difficult to decipher. PLEASE NOTE - We do NOT store your credit card data at any stage.</p>
+
+              <h4>Invalidity of Terms and Conditions</h4>
+
+              <p>If for any reason part of these terms and conditions is unenforceable; the validity of the remaining terms and conditions shall not be affected.</p>
+
+              <h4>Governing Law and Jurisdiction</h4>
+
+              <p>Contracts between you and SimplyGames shall be governed by English Law, and you and SimplyGames submit to the exclusive jurisdiction of the English courts.</p>
+
+              <h3 id="privacy">Privacy Policy</h3>
+
+              <p>We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. SimplyGames may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted on this Website. Except as required by law, modifications to this Privacy Policy shall not affect SimplyGames treatment of data collected prior to the effective date of the Policy change. We collect information from you for a number of reasons. Firstly in order to process your order, we collect your name, email address, postal address and credit card details. Then, to make your visit more rewarding and useful, we may monitor spending patterns and your use of the store via cookies. Please see the information below on cookies.</p>
+
+              <h4>Cookies</h4>
+
+              <p>These are small pieces of information that are stored by the browser on your computer's hard drive. Our cookies do not in themselves recognise the individual user but will recognise the computer you are using so that we know when you are returning to SimplyGames. Most browsers will automatically accept cookies, but you can change the settings on your browser to prevent this happening.</p>
+
+              <h4>Receiving emails from SimplyGames</h4>
+
+              <p>From time to time, we like to contact our customers with special offers or news of relevant forthcoming events, such as new releases. By agreeing to our terms and conditions, you agree to receive such emails from SimplyGames. You can 'Unsubscribe' from these newsletters at any time by undoing the Tick Box with the Newsletter section of My Account.</p>
+
+              <h4>Disclosing Information to Others</h4>
+
+              <p>SimplyGames will never sell or share your personal information with third parties unless it is required to fulfill your order or to fulfill another function, which you have consented to. Should we employ other companies to perform functions on our behalf (including fulfilling orders, analysing data, sending e-mails and postal mail), we will ensure that they only use such information under our direction and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the EU. If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the Data Protection Act.</p>
+ 
+              <h4>Fraud Protection Systems</h4>
+ 
+              <p>To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998</p>
+              <h4>Accuracy and Access to Personal Information</h4>
+
+              <p>You can check that the information which we are holding is accurate by accessing your account online. If you are registered, click on 'My account’ at the top of the screen, enter your email address and password to log on and view your details. Also, even if you have consented to receive marketing information from us you, can request that we do not contact you with further information by e-mailing our Customer Services Team</p>
+
+              <p>SimplyGames extensive range of electronic gaming products, it is important that you can navigate the Website as easily as possible. The site is divided into main browsing categories, clearly seen on the navigation bar at the top of the site. These will remain in view throughout your shopping experience. Click on any of these and you will go straight to the main console format areas. Choosing one of these options will take you directly through to the main game categories, enabling extremely easy access to the product level, where individual products are listed complete with a small image and a description. If you are interested in the particular product you can click through for a full description and extra information on the product page.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-4">
+            			<div class="panel panel-primary payment">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Secure Payment Methods</h3>
+                </div>
+                <img class="paypad img-responsive" src="/css/front/img/ui/payment-side.jpg" alt="Secure Payment Methods">
+            </div>
+
+            			<div class="panel panel-primary review">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Customer Reviews</h3>
+                </div>
+                <a href="http://www.trustpilot.co.uk/review/www.simplygames.com" target="_blank"><img class="img-responsive" src="/css/front/img/ui/trustpilot-banner.jpg" alt="Customer Reviews"></a>
+            </div>
+
+          </div>
+        </div>
+    </div><!--/.container main -->
+    <div class="footer">
+        <div class="container">
+            <div class=" col-sm-6">
+                <p title="Call our Customer Services Phone Line" class="pnumber">Customer Services: 0845 034 9646</p>
+<p class="ptagline">Open 9am-5pm UK Time Monday to Friday, excludes bank holidays.</p>
+                <div class="col-sm-4">
+                    <h4>Company</h4>
+                    <p class="footerlinks"><a title="SimplyGames Affiliate Program" href="/affiliates">Affiliates</a></p>
+                </div>
+                <div class="col-sm-4">
+                    <h4>Help</h4>
+                    <p class="footerlinks"><a title="Frequently Asked Questions / Contact Us" href="/faqs-help">FAQ / Contact</a></p>
+                    <p class="footerlinks"><a title="Cookies" href="/cookies">Cookies</a></p>
+                    <p class="footerlinks"><a title="Sitemap" href="/sitemap">Sitemap</a></p>
+                </div>
+                <div class="col-sm-4">
+                    <h4>Social Media</h4>
+                    <a href="https://www.facebook.com/pages/SimplyGamescom/328550597551" title="Like us on Facebook" target="_blank"><i class="btn btn-social btn-facebook socialiconbot fa fa-facebook fa-2x"></i></a>
+                    <a href="https://twitter.com/simplygames" title="Follow us on Twitter" target="_blank"><i class="btn btn-social btn-twitter socialiconbot fa fa-twitter fa-2x"></i></a>
+                    <a href="https://www.youtube.com/user/simplygamescom" title="Subscribe to us on Youtube" target="_blank"><i class="btn btn-social btn-youtube socialiconbot fa fa-youtube fa-2x"></i></a>
+                </div>
+            </div>
+            
+            <div class="col-sm-3 footerlinks">
+                © <strong>Simply Games Limited 2014<br></strong> 
+                <a title="Our Terms and Conditions" href="/terms-conditions">Terms</a><br> 
+                <a title="Our Privacy Policy" href="/terms-conditions#privacy">Privacy Policy</a><br> 
+                Company No. 05086506
+                <br>
+                <br>
+                <address>
+                <strong>Registered Address<br></strong>
+                78 Tenter Road,<br>
+                Moulton Park Industrial Estate,<br>
+                Northampton,<br>
+                England,<br>
+                NN3 6AX
+                </address>
+            </div>
+            <div class="col-sm-3">
+                <div class="row mcv2014">
+                    <img src="/css/front/img/ui/mcv_2014.jpg" alt="..." title="Winners MCV Awards 2014 &quot;Best Independent Retailer Online&quot;">
+                </div>
+                <div class="row mcv2013">
+                    <img src="/css/front/img/ui/mcv_2013.jpg" alt="..." title="Winners MCV Awards 2013 &quot;Best Independent Retailer Online&quot;">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    
+        // CALL BASKET COUNTER ON PAGE LOAD
+        basket_count();
+    
+        // RESIZE BASKET FOR MOBILE ON PAGE LOAD
+        window_resize();	
+    
+        // DROPDOWN MENU
+        $(function(){
+        
+            $('.dropdown').hover(function() {
+        
+        $(this).addClass('open');
+        
+        }, function() {
+        
+            $(this).removeClass('open');
+        
+        });
+        
+        $('.openbasket').show();
+    
+        // CURRENCY CHANGE
+        $('#currency_select').on('change',function(){
+        
+            $('#currency_change').submit();
+        
+        });
+        
+        // ADD ITEM TO BASKET
+        $('.add_to_basket').on('click',function(){
+        
+            var product_stock_id = $(this).attr('rel');
+        
+            $.post('/ajax/add-basket-item', { product_stock_id : product_stock_id, token : "c22eb96b08dd8d84249e63986647973f" }, function(data){
+								
+				var product = data;
+	
+				$('#basketmodal .product_name_pop').html(product.product_name);
+				$('#basketmodal .modalprice').html(product.product_price);				
+				$('#basketmodal img.product_image_pop').attr('src', product.product_image);
+				
+				// SHOW SUCCESS MESSAGE
+				$('#basketmodal').modal('show');
+				
+				setTimeout(function(){
+				
+					$('#basketmodal').modal('hide');
+				
+					$('#basketmodal .product_name_pop').html('');
+					$('#basketmodal .modalprice').html('');				
+					$('#basketmodal img.product_image_pop').attr('src', '');
+				
+				}, 8000);					
+				
+				// CALL BASKET COUNTER
+				basket_count();
+            
+            });
+        
+        });
+		
+		// FACEBOOK BUTTON
+		$('.btn-facebook').on('click',function(){
+        
+			window.open('https://www.facebook.com/pages/SimplyGamescom/328550597551','_blank');
+        
+        });
+		
+		// TWITTER BUTTON
+    	$('.btn-twitter').on('click',function(){
+        
+        	window.open('https://twitter.com/SimplyGames','_blank');
+		
+        });
+	
+    });
+	
+    </script>
+    <script src="https://www.dwin1.com/1559.js" type="text/javascript" defer="defer"></script>
+    
+
+<!-- This page was generated in 0.1760 seconds --> 
+<!-- Using 1.39 mb of memory --></body></html>
