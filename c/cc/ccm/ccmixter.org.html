@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101619id_/http%3A//www.ccmixter.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccmixter.org privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120104922id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en" lang="en"><head> 
 
@@ -22,12 +22,29 @@ var user_name =  null;
 </script>
 
 
-<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20140617013147.js"></script>
-<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20140617013147.css"><script type="text/javascript">var a=new Date,b=a.getUTCHours();if(0==a.getUTCMonth()&&2012==a.getUTCFullYear()&&((18==a.getUTCDate()&&13<=b)||(19==a.getUTCDate()&&0>=b)))window.location="http://sopastrike.com/strike";</script>
-    
+<script type="text/javascript" src="http://ccmixter.org/content/media_skin_20141117221215.js"></script>
+<link rel="stylesheet" type="text/css" title="Default Style" href="http://ccmixter.org/content/media_skin_20141117221215.css">    
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript">
+	var $j = jQuery.noConflict();
+  	$j( document ).ready(LoadCCPlusBlock);
+  	function LoadCCPlusBlock()
+  	{
+		if (!$j("div.taglinks").length){return;}
+  		if ($j("div.taglinks").html().indexOf("ccplus") > -1)
+  		{
+  			var NavURL = "http://tunetrack.net/license/" + window.location.host + window.location.pathname;
+  			var AppendString = '<div class="box"><h2>CCPlus Licensing</h2><p>Like this song? Click <a href="' + NavURL + '">here to license this media</a> for commercial use.</p></div>';
+  			//get existing license box
+  			var lBox = $j('#license_info').parent().html();
+  			$j('#license_info').parent().html(lBox + AppendString);
+  		}
+  		
+  	}
+  </script>
 </head><body>
 
-        <div id="beta_message" style="position:absolute;"><a href="http://ccmixter.org/thread/3132#198952">BIG Fest</a> - <a href="http://ccmixter.org/playlist/browse/16733">pells</a>, <a href="http://ccmixter.org/playlist/browse/16734">samples</a> &amp; <a href="http://ccmixter.org/playlist/browse/16735">remixes</a> + <a href="http://ccmixter.org/ccmixter-big-summer-music-fest">MORE</a></div>
+        <div id="beta_message" style="position:absolute;"><a href="http://ccmixter.org/mixup/fall-2014">Best Secret Mixter EVER</a></div>
     
 <div class="hide">
   <a href="#content">skip</a>
@@ -41,7 +58,6 @@ var user_name =  null;
     <!-- not logged in -->
         <span class="med_color">Not logged in</span>
         <a class="light_color" href="http://ccmixter.org/login">Log In</a>
-                    <a class="light_color" id="cc_openid_enabled" href="http://ccmixter.org/login/openid"><div>OpenID Enabled</div></a>
             </div>
 
     <div id="header_search"><img id="header_search_img" height="50" width="70" src="http://ccmixter.org/ccskins/commons/images/find.png">
@@ -143,24 +159,52 @@ at <a href="http://dig.ccmixter.org" style="font-weight:bold;text-decoration:und
 
         </div>
             <div class="menu_group">        
+          
+<p>Support ccMixter</p>
+<ul><li>
+<a href="http://tunetrack.net/ccmixter/join/"><img src="http://tunetrack.net/media/images/layout/tunetrack.gif" alt="Support ccMixter"></a>
+</li></ul>
+        </div>
+            <div class="menu_group">        
           <p>Editors' Picks</p>
 <ul>
-   <li><a href="http://ccmixter.org/files/airtone/46385" class="cc_file_link">byTheRiver</a></li>
-   <li><a href="http://ccmixter.org/files/panumoon/46383" class="cc_file_link">When U Went A...</a></li>
-   <li><a href="http://ccmixter.org/files/speck/46371" class="cc_file_link">Ari's Dada Lo...</a></li>
-   <li><a href="http://ccmixter.org/files/SackJo22/46365" class="cc_file_link">Now We Are On...</a></li>
-   <li><a href="http://ccmixter.org/files/copperhead/46336" class="cc_file_link">A Little Lovi...</a></li>
+   <li><a href="http://ccmixter.org/files/hansatom/48175" class="cc_file_link">Fine Print (o...</a></li>
+   <li><a href="http://ccmixter.org/files/teru/48170" class="cc_file_link">My Audio Wake...</a></li>
+   <li><a href="http://ccmixter.org/files/victor/48169" class="cc_file_link">My Klean Secr...</a></li>
+   <li><a href="http://ccmixter.org/files/SackJo22/48168" class="cc_file_link">We are Connec...</a></li>
+   <li><a href="http://ccmixter.org/files/casimps1/48164" class="cc_file_link">Just You Wait</a></li>
 <li><a href="http://ccmixter.org/editorial/picks" class="cc_more_menu_link">More picks...</a></li>
+</ul>        </div>
+            <div class="menu_group">        
+          <p>New Uploads</p>
+<ul>
+   <li><a href="http://ccmixter.org/files/Shelflife/48226" class="cc_file_link">The Cat with ...</a></li>
+   <li><a href="http://ccmixter.org/files/Pitx/48225" class="cc_file_link">A Reason To S...</a></li>
+   <li><a href="http://ccmixter.org/files/Robbero/48224" class="cc_file_link">Dismember</a></li>
+   <li><a href="http://ccmixter.org/files/speck/48222" class="cc_file_link">Drippin' Javo...</a></li>
+   <li><a href="http://ccmixter.org/files/unreal_dm/48220" class="cc_file_link">Cm110</a></li>
+<li><a href="http://ccmixter.org/files" class="cc_more_menu_link">More new uploads</a></li>
+</ul>        </div>
+            <div class="menu_group">        
+          
+<p>Highest Rated</p>
+<ul>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/snowflake/48115">One Sound</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/victor/48169">My Klean S...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/admiralbob77/48119">Shadows in...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/SackJo22/48168">We are Con...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/doxent/48111">Velvet Gre...</a></li>
+  <li><a class="cc_file_link" href="http://ccmixter.org/files/romancito/48121">Mushishi</a></li>
 </ul>        </div>
             <div class="menu_group">        
           
 <p>Podcasts</p>
 <ul>
+<li><a href="http://ccmixter.org/podcast?topic=the-mixin-kitchen-49" class="topic_link">The Mixin' Kitchen ...</a></li>
+<li><a href="http://ccmixter.org/podcast?topic=the-mixin-kitchen-49" class="topic_link">The Mixin' Kitchen ...</a></li>
+<li><a href="http://ccmixter.org/podcast?topic=the-mixin-kitchen-49" class="topic_link">The Mixin' Kitchen ...</a></li>
 <li><a href="http://ccmixter.org/podcast?topic=mmtmmp-26-secret-sky-secret-mixter-sampler" class="topic_link">MMTMMP 26 Secret Sk...</a></li>
 <li><a href="http://ccmixter.org/podcast?topic=mmtmmp-25-star-gazing-in-the-moonlight" class="topic_link">MMTMMP 25 Star Gazi...</a></li>
-<li><a href="http://ccmixter.org/podcast?topic=mmtmmp-23-majestically-mellow-musical-moments" class="topic_link">MMTMMP 23 Majestica...</a></li>
-<li><a href="http://ccmixter.org/podcast?topic=mmtmmp-24-mad-summer-nights-secret-mixter-round-up" class="topic_link">MMTMMP 24 Mad Summe...</a></li>
-<li><a href="http://ccmixter.org/podcast?topic=mmtmmp-22-eclectic-collection" class="topic_link">MMTMMP 22 Eclectic ...</a></li>
 </ul>
 
         </div>
@@ -170,38 +214,17 @@ at <a href="http://dig.ccmixter.org" style="font-weight:bold;text-decoration:und
           
 <p>Recent Reviewers</p>
 <ul>
-<li><a href="http://ccmixter.org/reviews/copperhead/46390#200630">unreal_dm</a></li>
-<li><a href="http://ccmixter.org/reviews/Shelflife/46389#200629">Javolenus</a></li>
-<li><a href="http://ccmixter.org/reviews/copperhead/46336#200628">TheDICE</a></li>
-<li><a href="http://ccmixter.org/reviews/airtone/46385#200626">copperhead</a></li>
-<li><a href="http://ccmixter.org/reviews/Reiswerk/46384#200622">CiggiBurns</a></li>
-<li><a href="http://ccmixter.org/reviews/NiGiD/46374#200618">keytronic</a></li>
-<li><a href="http://ccmixter.org/reviews/airtone/46385#200610">Speck</a></li>
+<li><a href="http://ccmixter.org/reviews/Keytronic/48135#210993">Shelflife</a></li>
+<li><a href="http://ccmixter.org/reviews/unreal_dm/48220#210982">Admiral Bob</a></li>
+<li><a href="http://ccmixter.org/reviews/duckett/48206#210980">annabloom</a></li>
+<li><a href="http://ccmixter.org/reviews/romancito/48121#210974">essesq</a></li>
+<li><a href="http://ccmixter.org/reviews/VJ_Memes/48129#210968">TheJoe</a></li>
+<li><a href="http://ccmixter.org/reviews/Pitx/48225#210962">Javolenus</a></li>
+<li><a href="http://ccmixter.org/reviews/mcjackinthebox/48117#210960">Scomber</a></li>
 <li><a href="http://ccmixter.org/reviews" class="cc_more_menu_link">More reviews...</a></li>
 </ul>        </div>
             <div class="menu_group">        
                   </div>
-            <div class="menu_group">        
-          
-<p>Artists' Spotlight</p>
-<ul>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=dokashiteru" class="topic_link">DoKashiteru</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=brad-sucks" class="topic_link">Brad Sucks</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=robert-nunnally" class="topic_link">Robert Nunnally</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=shannon-hurley" class="topic_link">Shannon Hurley</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=frank-carter-iii" class="topic_link">Frank Carter III</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=calendar-girl" class="topic_link">Calendar Girl</a></li>
-<li><a href="http://ccmixter.org/artist-spotlight-q-a?topic=trifonic" class="topic_link">Trifonic</a></li>
-</ul>
-
-        </div>
-            <div class="menu_group">        
-          
-<p>Support ccMixter</p>
-<ul><li>
-<a href="http://tunetrack.net/ccmixter/join/"><img src="http://tunetrack.net/media/images/layout/tunetrack.gif" alt="Support ccMixter"></a>
-</li></ul>
-        </div>
     </div>
 
 <div id="footer" class="med_light_bg">
@@ -230,7 +253,7 @@ urchinTracker();
 
 </p><div class="hide" style="font-size:1px;">
 
-<a href="/emails/indexe.php?index=1992750194" rel="nofollow" id="__cnt_st">&nbsp;</a>
+<a href="/emails/indexe.php?index=48244381" rel="nofollow" id="__cnt_st">&nbsp;</a>
 
 </div>
 
