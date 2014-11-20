@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbadtoystore.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091416id_/http%3A//www.bigbadtoystore.com/bbts/content.aspx%3Fcontent%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbadtoystore.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094650id_/http%3A//www.bigbadtoystore.com/bbts/content.aspx%3Fcontent%3D5) for the most accurate reproduction.*
 
 # BigBadToyStore.com
 
