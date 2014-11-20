@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-web-ads.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213231124id_/http%3A//www.hot-web-ads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-web-ads.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105248id_/http%3A//www.hot-web-ads.com/info/privacy.php) for the most accurate reproduction.*
 
 # Hot-Web-Ads.com - Privacy Policy
 
