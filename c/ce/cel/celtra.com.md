@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730201117id_/http%3A//www.celtra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231448id_/http%3A//www.celtra.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Rich media mobile advertising - Celtra
+# Privacy Policy - Mobile Display Advertising - Celtra
 
 ### General
 
@@ -39,10 +39,9 @@ The Web Site is not intended for children under 13 years of age. You must be at 
 If you have any questions regarding the Privacy Policy or our policies regarding the collection, use and/or disclosure of your PII, you may contact us as indicated below:
 
 Celtra, Inc.  
-Cambridge Innovation Center  
-One Broadway 14th Floor  
-Cambridge, MA 02142
+545 Boylston Street, 11th Floor  
+Boston, MA 02116
 
 Privacy@Celtra.com
 
-© 2013 Celtra, Inc. All rights reserved.
+© 2014 Celtra, Inc. All rights reserved.
