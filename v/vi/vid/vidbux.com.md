@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612064106id_/http%3A//www.vidbux.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170539id_/http%3A//vidbux.to/pages/privacy.html) for the most accurate reproduction.*
 
 # VidBux - Upload Videos, Make Profit
 
@@ -61,4 +61,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-http://www.vidbux.com/privacy.html 
+http://www.vidbux.to/privacy.html 
