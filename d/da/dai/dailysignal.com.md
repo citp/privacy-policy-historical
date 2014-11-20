@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysignal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040319id_/http%3A//dailysignal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysignal.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112359id_/http%3A//dailysignal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Daily Signal
+# Privacy Policy - Daily Signal
 
 ## The Daily Signal’s Privacy Policy
 
