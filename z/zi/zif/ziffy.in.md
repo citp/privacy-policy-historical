@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133758id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202108id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toll Free Numbers In India – Ziffy
 
