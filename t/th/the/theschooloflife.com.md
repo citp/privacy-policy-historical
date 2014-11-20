@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606092736id_/http%3A//www.theschooloflife.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230917id_/http%3A//www.theschooloflife.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,6 +30,6 @@ This website uses cookies. You can choose not to accept cookies, but this may pr
 
 ## General
 
-If you wish to find out what data we hold for you, or to have it amended or removed from our database and website, or if you have any questions about this privacy policy, you can contact [info@theschooloflife.com](mailto:info@theschooloflife.com) at any time and we will do so. We may charge a fee for data subject requests.
+If you wish to find out what data we hold for you, or to have it amended or removed from our database and website, or if you have any questions about this privacy policy, you can contact [shop@theschooloflife.com](mailto:shop@theschooloflife.com) at any time and we will do so. We may charge a fee for data subject requests.
 
 We reserve the right to change this policy at any time. However, we will not change the way we use your personal information without telling you in advance and giving you the chance to opt out of or prevent the new use of your information.
