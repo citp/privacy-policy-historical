@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405032722id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225937id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
 
-# Download Drivers - Automatic Driver Updates With the World's Leading Device Drivers Website
+# Privacy Policy - Drivers.com
 
 This privacy notice discloses the privacy practices for http://www.drivers.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
