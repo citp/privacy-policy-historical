@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsus.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142225id_/http%3A//www.humanesociety.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsus.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110146id_/http%3A//www.humanesociety.org/privacy.html%3Fcredit%3Dweb_globalfooter) for the most accurate reproduction.*
 
 # Privacy Policy : The Humane Society of the United States
 
-January 21, 2014 
+August 29, 2014
 
 The Humane Society of the United States (The HSUS) is committed to your right to privacy and to keeping your personal information private. You can visit The Humane Society of the United States web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you.
 
@@ -21,7 +21,7 @@ humanesociety.org also collects certain other information that cannot identify y
 
 The HSUS uses cookies in order to make the results available for your on-site searches. Cookies are not used for any other reason on this site. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. The HSUS does not match any information gathered by cookies with personal information you may have voluntarily submitted to The HSUS.
 
-The HSUS uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
+The HSUS uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. The HSUS also uses Google Analytics Demographics and Interest Reporting.
 
 The HSUS and other third-party vendors, including Google, use first-party and third-party cookies together to inform and serve ads based on a visitor’s past visits to our website.
 
