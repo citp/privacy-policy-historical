@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keephd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061906id_/http%3A//keephd.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keephd.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105243id_/http%3A//keephd.com/about/privacy) for the most accurate reproduction.*
 
 # Download Youtube videos | KeepHD
 
