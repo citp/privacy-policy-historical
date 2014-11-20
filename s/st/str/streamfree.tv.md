@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132933id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203807id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » 2014 Roku | ChromeCast Channels
+# Privacy Policy - 2014 Roku | ChromeCast | FireTV | Nexus Player
 
 ## **Privacy Policy for www.streamfree.tv**
 
