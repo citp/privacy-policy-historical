@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521021611id_/http%3A//www.phing.com/privacy-policy-22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120155955id_/http%3A//www.phing.com/privacy-policy-22) for the most accurate reproduction.*
 
 # Privacy Policy - pHing.com Classifieds
-
-_Last updated on 31 st July 2008._
 
 pHing has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
@@ -32,9 +30,11 @@ This site allows discussions to be made between its users. Please remember that 
 
   7. ### Privacy Options
 
-Our site provides registered users the opportunity to opt-out of receiving promotional/marketing information from us. Check the Options page under My Account.
+Our site provides registered users the opportunity to opt-out of receiving promotional/marketing information from us and our partners. Opt-out instructions will be provided at the end of all marketing materials.
 
 
 
 
-If you have any questions about this privacy statement or the practices of this site, feel free to [contact us](http://www.phing.com/contact).
+If you have any questions about this privacy statement or the practices of this site, feel free to [contact us](https://web.archive.org/web/20141120155955id_/http%3A//contact).
+
+_Last updated on 30 July 2014._
