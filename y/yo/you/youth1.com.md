@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628095931id_/http%3A//youth1.com/index.php/privacy-satement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010510id_/http%3A//youth1.com/privacy-satement) for the most accurate reproduction.*
 
-# Privacy Satement - Youth 1
+# Privacy Satement | Youth1
 
-##  Privacy Satement 
+  
+
 
 ### DATE OF LAST REVISION: APRIL 17TH, 2014
 
@@ -33,7 +34,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ### Choice/Opt-Out Of Promotional and Marketing Communications
 
-We provide you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preferences on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions in each newsletter or communication or by emailing us at [info@youth1.com](mailto:info@youth1.com) and writing "Opt-Out" in the subject line. Some of our services, such as our community, forums and directory services, require registered participants to receive system announcements, invoices or other official communications from Youth1. Users of these services must receive these important notifications as a condition of service.
+We provide you the opportunity to âopt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preferences on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions in each newsletter or communication or by emailing us at [info@youth1.com](mailto:info@youth1.com) and writing "Opt-Out" in the subject line. Some of our services, such as our community, forums and directory services, require registered participants to receive system announcements, invoices or other official communications from Youth1. Users of these services must receive these important notifications as a condition of service.
 
 ### Security
 
@@ -41,7 +42,7 @@ The security of your personal information is important to us. Whenever we need t
 
 ### Forums, Community and Groups
 
-If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](http://www.youth1.com/index.php/terms-of-service) Please review the [Terms of Service](http://www.youth1.com/index.php/terms-of-service) during registration.
+If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](https://web.archive.org/terms-service) Please review the [Terms of Service](https://web.archive.org/terms-service) during registration.
 
 ### Business Transitions
 
