@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604093323id_/http%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inprnt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003444id_/http%3A//www.inprnt.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - INPRNT
+# Privacy Policy
 
 Privacy Policy
 
