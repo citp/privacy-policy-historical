@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630013952id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231358id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Digimarc Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.
-
 This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-Copyright ©2013 Digimarc Corporation  
-PRIVACY POLICY LAST UPDATED: April 16, 2012
-
-## Personal Information
+PRIVACY POLICY LAST UPDATED: April 16, 2012
 
 ### Personal information we collect
 
@@ -45,7 +40,7 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
-  * to our affiliates [www.digimarc.com/affiliates](https://web.archive.org/company/affiliates) to provide you with such services. Digimarc Corporation is the party responsible for the management of the jointly-used Personal Information.
+  * to our affiliates to provide you with such services. Digimarc Corporation is the party responsible for the management of the jointly-used Personal Information.
   * to our third party business partners to provide certain watermarking services.
   * to our third party service providers who provide services such as website hosting, data analysis, infrastructure provision, IT services, customer service, email delivery services, auditing services and other similar services to enable them to provide services.
   * to third parties sponsors of sweepstakes, contests and similar promotions.
@@ -54,8 +49,6 @@ Your Personal Information may be disclosed:
   * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
-
-## Other Information
 
 ### Other information we collect
 
@@ -90,15 +83,13 @@ Please note that we may use and disclose Other Information for any purpose, exce
 
 In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-## Third Party Sites
+### Third Party Sites
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
-## Security
+### Security
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_” section below.
-
-## Choices and Access
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
 ### Your choices regarding our use and disclosure of your Personal Information
 
@@ -123,29 +114,29 @@ ATTN: Privacy Officer
 
 In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
 
-## Retention Period
+### Retention Period
 
 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-## Use of Site by Minors
+### Use of Site by Minors
 
 The Site is not directed to individuals under the age of fourteen (14), and we request that these individuals do not provide Personal Information through the Site.
 
-## Cross-Border Transfer
+### Cross-Border Transfer
 
 Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
 
-## Sensitive Information
+### Sensitive Information
 
 We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security Number, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-## Updates to this Privacy Policy
+### Updates to this Privacy Policy
 
 We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-## Contacting Us
+### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us by email at moc.cramigid@ycavirp, or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com), or please write to the following address:
 
 Digimarc Corporation  
 9405 SW Gemini Drive  
