@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viperial.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122942id_/http%3A//www.viperial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viperial.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010332id_/http%3A//www.viperial.com/privacy) for the most accurate reproduction.*
 
 # // Download Free New Mp3s, Albums, Mixtapes Daily - Hip-Hop, Rap, R&B, Pop, Grime & More..
 
