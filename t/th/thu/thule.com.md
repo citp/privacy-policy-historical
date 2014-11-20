@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628222147id_/https%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105317id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy - Thule
 
@@ -10,7 +10,7 @@ In order to respond to your questions or fulfill your requests or provide you wi
 
 Under the Swedish Personal Data Act (PuL) you have rights of access and rectification in relation to your personal information. Such rights will be adhered to by Thule Group as far as possible to fulfill all of our legal obligations. 
 
-If you don't want to receive any further e-mail communication from Thule Group, please go to [My account](https://web.archive.org/en-us/global/my-account/login) and change your settings there. 
+If you don't want to receive any further e-mail communication from Thule Group, please go to [My account](https://web.archive.org/en-us/us/my-account/login) and change your settings there. 
 
 **Does THULE GROUP disclose the stored information to third parties?**  
 Thule Group will only store personal information as required to meet legal and regulatory requirements or as needed to provide personalized services to you.
