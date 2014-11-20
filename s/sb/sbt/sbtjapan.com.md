@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044715id_/http%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044524id_/http%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Japanese Used Cars Exporter, Dealer, Trader, Auction | SBT JAPAN
 
-Privacy Policy
-
-Overview of Our Privacy Policy
+### Overview of Our Privacy Policy
 
 SBT Co., Ltd. (“SBT”) places great importance on respecting the personal rights of all visitors to its websites and users of its services.SBT protects personal data obtained from its customers in the process of business activities in accordance with the following Basic Policy, recognizing that personal information is an important asset of each customer and also an important asset for SBT.
 
-Basic Policy
+  
+
+
+### Basic Policy
 
   * SBT properly protects personal information on its customers and its employees by assigning a person in charge of protection and management of personal information.
   * SBT collects, uses, and provides personal information within a limited necessary range of business operation and reply to inquiries in an appropriate manner.
@@ -20,7 +21,7 @@ Basic Policy
 
 
 
-Intended use of Personal Information
+### Intended use of Personal Information
 
 **SBT intends to use personal information on customers for the following purposes:**
 
@@ -31,9 +32,10 @@ Intended use of Personal Information
   * Provision of membership services
   * Execution of contracts
 
+  
 
 
-Provision of Personal Information
+### Provision of Personal Information
 
 **SBT does not disclose customers' personal information to any third party except in the following cases.**
 
@@ -43,9 +45,10 @@ Provision of Personal Information
   * In the cases where SBT consigns the handling of personal information to a third party within the scope necessary to accomplish the purpose of use
   * In the cases where another entity succeeds to the business of SBT due to a merger, corporate separation, transfer of business or otherwise
 
+  
 
 
-Procedures for Requests for Disclosure
+### Procedures for Requests for Disclosure
 
 **SBT complies with the following requests from customers concerning the customer's personal information stored by SBT:**
 
@@ -53,11 +56,17 @@ Procedures for Requests for Disclosure
 
 Please contact at [hr@sbtjapan.com](mailto:hr@sbtjapan.com) for details of request procedures.
 
-Inquiries Concerning Personal Information
+  
+
+
+### Inquiries Concerning Personal Information
 
 **Customers can direct inquiries or complaints concerning their personal information at**[hr@sbtjapan.com](mailto:hr@sbtjapan.com)
 
-Notice regarding websites of SBT
+  
+
+
+### Notice regarding websites of SBT
 
 **Use of Cookies and Web Beacons**
 
@@ -67,14 +76,18 @@ SBT uses cookies and web beacons to provide better services on its websites. For
 
 SBT disclaims any responsibility for the security of customers' personal information used on third parties' websites that are linked from SBT websites. Please confirm the privacy policies of the linked websites of third parties.
 
-Information on important changes and notices
+  
+
+
+### Information on important changes and notices
 
 When important changes and notices on personal information arise, SBT will notify them of the customers via its websites.
 
-Revisions
+  
+
+
+### Revisions
 
 SBT may revise the Privacy Policy to better protect customers' personal information and to comply with changes in the applicable laws and regulations.
 
 **Revised: January 8, 2014**
-
-Copyright 2014 SBT CO., LTD. All Rights Reserved. JST:13:47
