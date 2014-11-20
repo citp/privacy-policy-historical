@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063525id_/http%3A//www.hul.co.in/resource/cookiepolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060704id_/http%3A//www.hul.co.in/resource/cookiepolicy/index.aspx) for the most accurate reproduction.*
 
-# Cookie policy
+# Cookie policy | Information | India
 
 **Last Updated: May 2012**
 
@@ -82,7 +82,7 @@ We may use these cookies to remember websites you have visited and we may share 
 
 | 
 
-Most types of these cookies track consumers via their [IP address](http://www.techterms.com/definition/ipaddress) so may collect some personal identifiable information. For more information about these cookies, including the information they collect and how this is used, see the Targeting / Advertising section below.  
+Most types of these cookies track consumers via their [IP address(Link opens in a new window)](http://www.techterms.com/definition/ipaddress "Link opens in a new window") so may collect some personal identifiable information. For more information about these cookies, including the information they collect and how this is used, see the Targeting / Advertising section below.  
   
 ### Do we use third party cookies?
 
@@ -134,16 +134,16 @@ Persistent, session and third party.
 
 | 
 
-Unilever uses the following [Analytics Cookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) & [Web Beacons](http://www.allaboutcookies.org/faqs/beacons.html)
+Unilever uses the following [Analytics Cookies(Link opens in a new window)](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies "Link opens in a new window") & [Web Beacons(Link opens in a new window)](http://www.allaboutcookies.org/faqs/beacons.html "Link opens in a new window")
 
-  1.  **Unica:** For more [information about how Unica works click here](http://www.ghostery.com/apps/unica)
-  2.  **Google Analytics:** For more [information about Google Analytics click here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
-  3.  **Web Trends:** For more [information about Web Trends click here](http://webtrends.com/privacy-policy/)
-  4.  **Omniture / Site Catalyst:** For more [information about Omniture and Site Catalyst click here](http://www.omniture.com/en/privacy/policy)
-  5.  **YouTube Tracking:** For [more information about YouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
-  6.  **pixel.quantserve.com (third party cookies):** For [more information about quantserve click here](http://info.evidon.com/companies/quantcast)
-  7.  **Gemius:** For more [information about Gemius click here](http://www.ghostery.com/apps/gemius)
-  8.  **Wordpress Stats:** For more [information about Wordpress Stats](http://www.ghostery.com/apps/wordpress_stats)
+  1.  **Unica:** For more [information about how Unica works click here(Link opens in a new window)](http://www.ghostery.com/apps/unica "Link opens in a new window")
+  2.  **Google Analytics:** For more [information about Google Analytics click here(Link opens in a new window)](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies "Link opens in a new window")
+  3.  **Web Trends:** For more [information about Web Trends click here(Link opens in a new window)](http://webtrends.com/privacy-policy/ "Link opens in a new window")
+  4.  **Omniture / Site Catalyst:** For more [information about Omniture and Site Catalyst click here(Link opens in a new window)](http://www.omniture.com/en/privacy/policy "Link opens in a new window")
+  5.  **YouTube Tracking:** For [more information about YouTube click here(Link opens in a new window)](http://www.google.co.uk/intl/en/policies/privacy/ "Link opens in a new window")
+  6.  **pixel.quantserve.com (third party cookies):** For [more information about quantserve click here(Link opens in a new window)](http://info.evidon.com/companies/quantcast "Link opens in a new window")
+  7.  **Gemius:** For more [information about Gemius click here(Link opens in a new window)](http://www.ghostery.com/apps/gemius "Link opens in a new window")
+  8.  **Wordpress Stats:** For more [information about Wordpress Stats(Link opens in a new window)](http://www.ghostery.com/apps/wordpress_stats "Link opens in a new window")
 
   
   
@@ -161,17 +161,17 @@ Third Party.
 
 | 
 
- **Add This:** For more [information about Add This click here](http://www.ghostery.com/apps/addthis)
+ **Add This:** For more [information about Add This click here(Link opens in a new window)](http://www.ghostery.com/apps/addthis "Link opens in a new window")
 
- **Facebook:** For more [information about Facebook Connect click here](http://www.ghostery.com/apps/facebook_connect) and for [more information about Facebook social plug-ins click here](http://www.ghostery.com/apps/facebook_social_plugins)
+ **Facebook:** For more [information about Facebook Connect click here(Link opens in a new window)](http://www.ghostery.com/apps/facebook_connect "Link opens in a new window") and for [more information about Facebook social plug-ins click here(Link opens in a new window)](http://www.ghostery.com/apps/facebook_social_plugins "Link opens in a new window")
 
- **Twitter:** For more [information about Twitter Buttons click here](http://www.ghostery.com/apps/twitter_button) and more [information about Twitter Badge click here](http://www.ghostery.com/apps/twitter_badge)
+ **Twitter:** For more [information about Twitter Buttons click here(Link opens in a new window)](http://www.ghostery.com/apps/twitter_button "Link opens in a new window") and more [information about Twitter Badge click here(Link opens in a new window)](http://www.ghostery.com/apps/twitter_badge "Link opens in a new window")
 
- **YouTube:** For more [information aboutYouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
+ **YouTube:** For more [information aboutYouTube click here(Link opens in a new window)](http://www.google.co.uk/intl/en/policies/privacy/ "Link opens in a new window")
 
- **LinkedIn:** For more [information about LinkedIn click here](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)  
+ **LinkedIn:** For more [information about LinkedIn click here(Link opens in a new window)](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv "Link opens in a new window")  
   
-Careers Portal| Remembers your preferences, login details and jobs you are interested in for current and future visits.| Third Party.|  **Oracle:** For more [information about Oracle click here](http://www.oracle.com/us/legal/privacy/index.html)  
+Careers Portal| Remembers your preferences, login details and jobs you are interested in for current and future visits.| Third Party.|  **Oracle:** For more [information about Oracle click here(Link opens in a new window)](http://www.oracle.com/us/legal/privacy/index.html "Link opens in a new window")  
   
  **TARGETING/ADVERTISING**  
   
@@ -187,27 +187,27 @@ Persistent, session and third party.
 
 | 
 
- **360tag.com:** For more [information about 360tag.com click here](http://www.360tag.com/)
+ **360tag.com:** For more [information about 360tag.com click here(Link opens in a new window)](http://www.360tag.com/ "Link opens in a new window")
 
- **admeta.com:** For more [information about admeta.com click here](http://www.admeta.com/?p=for-advertisers/ad-tracking)
+ **admeta.com:** For more [information about admeta.com click here(Link opens in a new window)](http://www.admeta.com/?p=for-advertisers/ad-tracking "Link opens in a new window")
 
- **adnxs.com:** For more [information about adnxs.com click here](http://www.appnexus.com/platform-policy)
+ **adnxs.com:** For more [information about adnxs.com click here(Link opens in a new window)](http://www.appnexus.com/platform-policy "Link opens in a new window")
 
- **doubleclick.net:** For [more information about doubleclick.net click here](http://www.ghostery.com/apps/doubleclick)
+ **doubleclick.net:** For [more information about doubleclick.net click here(Link opens in a new window)](http://www.ghostery.com/apps/doubleclick "Link opens in a new window")
 
- **mathtag.com:** For more [information about mathtag.com click here](http://www.mediamath.com/privacy/)
+ **mathtag.com:** For more [information about mathtag.com click here(Link opens in a new window)](http://www.mediamath.com/privacy/ "Link opens in a new window")
 
- **media6degrees.com:** For more [information about media6degrees.com click here](http://www.ghostery.com/apps/media6degrees)
+ **media6degrees.com:** For more [information about media6degrees.com click here(Link opens in a new window)](http://www.media6degrees.com/ "Link opens in a new window")
 
- **Nielsen NetRatings Site Census:** For more information about Nielsen [NetRatings Census](http://www.ghostery.com/apps/netratings_sitecensus) click here
+ **Nielsen NetRatings Site Census:** For more information about Nielsen [NetRatings Census(Link opens in a new window)](http://www.ghostery.com/apps/netratings_sitecensus "Link opens in a new window") click here
 
- **quisma.com:** For more [information about quisma click here](http://www.ghostery.com/apps/quisma)
+ **quisma.com:** For more [information about quisma click here(Link opens in a new window)](http://www.ghostery.com/apps/quisma "Link opens in a new window")
 
- **specificclick.net:** For more [information about](http://www.ghostery.com/apps/specificclick)[specificclick.net click here](http://www.ghostery.com/apps/specificclick)
+ **specificclick.net:** For more [information about(Link opens in a new window)](http://www.ghostery.com/apps/specificclick "Link opens in a new window")[specificclick.net click here(Link opens in a new window)](http://www.ghostery.com/apps/specificclick "Link opens in a new window")
 
- **undertone.com:** For more [information about Undertone.com click here](http://undertone.com/en-gb/privacy)
+ **undertone.com:** For more [information about Undertone.com click here(Link opens in a new window)](http://undertone.com/privacy "Link opens in a new window")
 
- **weborama.fr:** For more [information about weborama.fr click here](http://weborama.com/2/page-en-confidentialite.html)  
+ **weborama.fr:** For more [information about weborama.fr click here(Link opens in a new window)](http://weborama.com/2/page-en-confidentialite.html "Link opens in a new window")  
   
  **MISCELLANEOUS**  
   
@@ -223,17 +223,17 @@ Persistent, session and third party.
 
 | 
 
- **YouTube:** For more [information about YouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
+ **YouTube:** For more [information about YouTube click here(Link opens in a new window)](http://www.google.co.uk/intl/en/policies/privacy/ "Link opens in a new window")
 
- **pushexp.com:** For more [information about pushexp.com click here](http://www.pushentertainment.com/info/privacyterms.html)
+ **pushexp.com:** For more [information about pushexp.com click here(Link opens in a new window)](http://www.pushentertainment.com/info/privacyterms.html "Link opens in a new window")
 
- **telemetryverification.net:**  For more [information about telemetryverification.net click here](http://www.telemetryverification.net/)  
+ **telemetryverification.net:**  For more [information about telemetryverification.net click here(Link opens in a new window)](http://www.telemetryverification.net/ "Link opens in a new window")  
   
 Beacons Domains
 
 | 
 
-Web beacons Support various different parts of functionality on Unilever websites. Web beacons (also known as web bugs / pixel tags/clear GIFs) monitor the behaviour of visitors on websites and can provide information such what users do on websites and user [IP addresses](http://www.techterms.com/definition/ipaddress) to third party companies.
+Web beacons Support various different parts of functionality on Unilever websites. Web beacons (also known as web bugs / pixel tags/clear GIFs) monitor the behaviour of visitors on websites and can provide information such what users do on websites and user [IP addresses(Link opens in a new window)](http://www.techterms.com/definition/ipaddress "Link opens in a new window") to third party companies.
 
 | 
 
@@ -247,8 +247,8 @@ We use a number of different beacons across Unilever websites, we have provided 
 
  **Used on Unilever sites such as:**
 
-  * [comfortpure.co.uk](http://comfortpure.co.uk/ "Comfort")
-  * [marmite.co.uk](http://marmite.co.uk/ "Marmite")
+  * [comfortpure.co.uk(Link opens in a new window)](http://comfortpure.co.uk/ "Link opens in a new window")
+  * [marmite.co.uk(Link opens in a new window)](http://marmite.co.uk/ "Link opens in a new window")
 
 
 
@@ -256,7 +256,7 @@ We use a number of different beacons across Unilever websites, we have provided 
 
  **Used on Unilever sites such as:**
 
-  * [nexttopmodel.tresemme.co.uk](http://nexttopmodel.tresemme.co.uk/ "Tresemme")
+  * [nexttopmodel.tresemme.co.uk(Link opens in a new window)](http://nexttopmodel.tresemme.co.uk/ "Link opens in a new window")
 
   
   
@@ -272,6 +272,6 @@ Persistent, session and third party.
 
 | 
 
- **maps.google.com:**  [For more information about maps.google.com click here](http://support.google.com/maps/bin/answer.py?hl=en&answer=153807)
+ **maps.google.com:**  [For more information about maps.google.com click here(Link opens in a new window)](http://support.google.com/maps/bin/answer.py?hl=en&answer=153807 "Link opens in a new window")
 
- **JSESSIONID:**  [For more information about JESSIONID click here](http://en.wikipedia.org/wiki/Session_ID)
+ **JSESSIONID:**  [For more information about JESSIONID click here(Link opens in a new window)](http://en.wikipedia.org/wiki/Session_ID "Link opens in a new window")
