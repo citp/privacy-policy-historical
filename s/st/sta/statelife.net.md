@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelife.net privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506233624id_/http%3A//www.statelife.net/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelife.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120183443id_/http%3A//statelife.net/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Statelife.net | We Do Straight Business
 
