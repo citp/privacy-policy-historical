@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216084251id_/http%3A//www.marinemax.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194213id_/http%3A//www.marinemax.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # MarineMax Privacy Policy
 
@@ -84,10 +84,10 @@ Under California law, California residents who have an established business rela
 
 For additional information or to contact us regarding this website, MarineMax Inc. can be contacted at the following address:
 
-MarineMax Inc.  
-18167 US Hwy. 19 N.  
-Suite 300  
-Clearwater, FL 33764 
+MarineMax, Inc.  
+2600 McCormick Dr.  
+Suite 200  
+Clearwater, FL 33759
 
 Or via phone at (727) 531-1700
 
