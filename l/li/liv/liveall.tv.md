@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveall.tv privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610132202id_/http%3A//liveall.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveall.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105413id_/http%3A//liveall.tv/privacy) for the most accurate reproduction.*
 
 # Liveall.tv - Privacy Policy
 
