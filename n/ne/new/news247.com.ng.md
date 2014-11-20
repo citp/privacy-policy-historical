@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news247.com.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045209id_/http%3A//www.news247.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news247.com.ng privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which news247.com.ng collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.news247.com.ng](https://web.archive.org/web/20140625045209id_/http%3A//www.news247.com.ng/www.news247.com.ng) website ("Site"). This privacy policy applies to the Site and all products and services offered by news247.com.ng.
+This Privacy Policy governs the manner in which news247.com.ng collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng) website ("Site"). This privacy policy applies to the Site and all products and services offered by news247.com.ng.
 
 **Personal identification information**
 
@@ -56,8 +56,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[news247.com.ng](https://web.archive.org/web/20140625045209id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
-[www.news247.com.ng](https://web.archive.org/web/20140625045209id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
+[news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
+[www.news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
 tony3433@gmail.com
 
 This document was last updated on November 07, 2013
