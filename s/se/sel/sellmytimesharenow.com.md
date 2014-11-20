@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615034530id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194034id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ SMTN's Privacy Policy applies only to our own Web Site. While other web sites ma
 
 In general, SMTN uses the information we receive from you, whether personal, demographic, or technical, primarily to deliver Services and to operate and create a positive user experience on the Web Site. The information we collect includes:
 
-**Your Personal Information.** In some areas of our Web Site, you may be asked to provide "Personal Information," meaning any information that is unique to you, including identifying information such as your name, address, e-mail address, telephone number, and your credit card information if you are reserving a Timeshare or purchasing any of our Services. We may use your Personal Information to communicate with you by e-mail or other methods, to seek your input regarding products and services, to refer your inquiry to similar or identical property advertisers, and to inform you of new opportunities or promotional offers. By choosing to provide us with Personal Information, you are consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement.
+**Your Personal Information.** In some areas of our Web Site, you may be asked to provide "Personal Information," meaning any information that is unique to you, including identifying information such as your name, address, e-mail address, telephone number, and your credit card information if you are reserving a Timeshare or purchasing any of our Services. We may use your Personal Information to communicate with you by e-mail or other methods, to seek your input regarding products and services, to refer your inquiry to similar or identical property advertisers, and to inform you of new opportunities or promotional offers. By submitting your information to us, you consent that all calls to or from us may be recorded. By choosing to provide us with Personal Information, you are consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement.
 
 In some areas of the Web Site, such as in Ads, users of the Web Site (such as yourself) provide the content that they would like to post. Our policy in these situations is to refuse to post Personal Information; however, we cannot be responsible for Personal Information or other identifying information that you may choose to include in your Ad.
 
@@ -64,7 +64,7 @@ Please remember that Personal Information that you choose to post in public area
 
 ## Accessing and Editing of Your Information
 
-You may review, correct, update or change your SMTN account, profile or account information at any time. You may also opt out of receiving mailings and certain other information from SMTN. Any changes may be made by contacting our Customer Care staff at customercar[at]sellmytimesharenow.com or 877-815-4227 (please ask for "Customer Care"). To protect your privacy and security, we will employ measures to verify your identity before granting access or making changes to your personally-identifying information.
+You may review, correct, update or change your SMTN account, profile or account information at any time. You may also opt out of receiving mailings and certain other information from SMTN. Any changes may be made by contacting our Customer Care staff at customercare[at]sellmytimesharenow.com or 877-815-4227 (please ask for "Customer Care"). To protect your privacy and security, we will employ measures to verify your identity before granting access or making changes to your personally-identifying information.
 
 All the information we gather about you is retained indefinitely. Of course, at your request we will remove your Ad from our online database at any time, and will keep only an archival copy of it which is not accessible on the Internet.
 
@@ -78,4 +78,4 @@ Please note that we may modify this Privacy Statement from time to time, with or
 
 If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to its terms, please feel free to email us at customercare[at]sellmytimesharenow.com or 877-815-4227 (please ask for "Customer Care"). We will do our best to promptly answer your question or resolve your problem.
 
-Privacy Policy effective March 22, 2013.
+Privacy Policy effective 2014.
