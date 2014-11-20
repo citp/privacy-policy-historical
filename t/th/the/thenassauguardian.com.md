@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312013317id_/http%3A//www.thenassauguardian.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D118%26Itemid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120051845id_/http%3A//www.thenassauguardian.com/privacy-policy) for the most accurate reproduction.*
 
-# The Nassau Guardian
-
-**LEGAL PRIVACY POLICY for www.thenassauguardian.com**
+# The Nassau Guardian Online Privacy Policy
 
 The Nassau Guardian (1844) Ltd. respects the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site.
 
