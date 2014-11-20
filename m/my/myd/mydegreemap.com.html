@@ -1,0 +1,771 @@
+<!--The following is the downloaded HTML source of the mydegreemap.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120230559id_/http%3A//www.mydegreemap.com/privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Privacy Policy</title>
+<link rel="icon" type="image/png" href="http://www.mydegreemap.com/mydgreemap.ico">
+<meta name="description" content="Privacy Policy Description">
+<meta name="keywords" content="Privacy Policy">
+<link href="http://www.mydegreemap.com/css/style.css" rel="stylesheet" type="text/css">
+<!--<link href="http://www.mydegreemap.com/css/alertify.core.css" rel="stylesheet" type="text/css">
+<link href="http://www.mydegreemap.com/css/alertify.default.css" rel="stylesheet" type="text/css">-->
+<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-53489582-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+ 
+ 
+
+ 
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+ 
+(function() {
+var elem = document.createElement('script');
+
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+
+elem.async = true;
+
+elem.type = "text/javascript";
+
+var scpt = document.getElementsByTagName('script')[0];
+
+scpt.parentNode.insertBefore(elem, scpt);
+
+})();
+
+ 
+
+_qevents.push({
+
+qacct:"p-sVdszzQV9ckbA"
+
+});
+
+</script>
+
+ 
+
+<noscript>
+
+<div style="display:none;">
+
+<img src="//pixel.quantserve.com/pixel/p-sVdszzQV9ckbA.gif" border="0" height="1" width="1" alt="Quantcast"/>
+
+</div>
+
+</noscript>
+
+<!-- End Quantcast tag -->
+	 
+<!--[if IE 9]>
+<style>
+.header .header_right .menu ul li a{padding-right:14px;}
+</style>
+<![endif]-->
+<!--[if IE 8]>
+<style>
+.content .c_right .school_logo a.left1{background:url("../images/left_arrow.png") no-repeat scroll 2px center rgba(0, 0, 0, 0)}
+.footer ul li{width:148px}
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<style>
+.footer ul li{width:148px}
+</style>
+<![endif]-->
+<script>
+function seldegree(id)
+{
+	if(id=="")
+	{
+		alertify.alert('Please Select Career Area');
+	 }
+	 else
+	 {
+		  var xmlhttp;
+		  if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+					document.getElementById('program').innerHTML=xmlhttp.responseText;
+					//alert(xmlhttp.responseText);
+    			}
+  			}
+			xmlhttp.open("GET","http://www.mydegreemap.com/seldegree.php?degree="+id,true);
+			xmlhttp.send();
+	 }
+}
+function selsubject(id)
+{
+	if(id=="")
+	{
+		alertify.alert('Please Select Career Area');
+	 }
+	 else
+	 {
+		  var xmlhttp;
+		  if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+					document.getElementById('dsubject').innerHTML=xmlhttp.responseText;
+					//alert(xmlhttp.responseText);
+    			}
+  			}
+			xmlhttp.open("GET","http://www.mydegreemap.com/selsubject.php?program="+id,true);
+			xmlhttp.send();
+	 }
+}
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#FindCollege').submit(function() {
+		if($('#degree').val() == "")
+		{
+			alertify.alert('Please Choose Degree Level');
+			$('#degree').focus();
+			return false;
+		}
+		 if( $('#program').val() == "")
+		 {
+			alertify.alert('Please Select Category');
+			$('#program').focus();
+			return false;
+		}
+		if( $('#dsubject').val() == "" )
+		{
+			alertify.alert('Please Select Subject');
+			$('#degree').focus();
+			return false;
+		}
+		var degree = $('#degree').val();
+		var program = $('#program').val();
+		var dsubject = $('#dsubject').val();
+		if(degree == "" ){ degree=null; }
+		if(program == "" ){ program=null; }
+		if(dsubject == "" ){ dsubject=null; }
+		var str= 'http://www.mydegreemap.com';
+		if(degree != null && program != null && dsubject != null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject;
+		}
+		
+		
+		
+     	return false;
+    });
+});
+
+$(document).ready(function() {
+    $('#FindCollege1').submit(function() {
+		if($('#degree').val() == "")
+		{
+			alertify.alert('Please Choose Degree Level');
+			$('#degree').focus();
+			return false;
+		}
+		 if( $('#program').val() == "")
+		 {
+			alertify.alert('Please Select Category');
+			$('#program').focus();
+			return false;
+		}
+		if( $('#dsubject').val() == "" )
+		{
+			alertify.alert('Please Select Subject');
+			$('#degree').focus();
+			return false;
+		}
+		var degree = $('#degree').val();
+		var program = $('#program').val();
+		var dsubject = $('#dsubject').val();
+		if(degree == "" ){ degree=null; }
+		if(program == "" ){ program=null; }
+		if(dsubject == "" ){ dsubject=null; }
+		var str= 'http://www.mydegreemap.com';
+		if(degree != null && program != null && dsubject != null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject;
+		}
+		
+		
+		
+     	return false;
+    });
+});
+
+
+</script>
+</head>
+<body>
+<div class="heade_top">
+<div class="wrapper">
+<ul>
+       <li> <a href="http://www.mydegreemap.com/about-us.html" title="About Us" class=" ">
+        About Us        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/affiliates.php" title="Affiliates" class=" ">
+        Affiliates        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/advertise.php" title="Advertise" class=" ">
+        Advertise        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/privacypolicy.html" title="Privacy Policy" class="fsel ">
+        Privacy Policy        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/sitemap.php" title="Sitemap" class=" ">
+        Sitemap        </a> </li>
+      </ul>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="content-bg">
+  <div class="header">
+    <div class="logo"> <a href="http://www.mydegreemap.com" title="logo">
+            <img src="http://www.mydegreemap.com/Logo/logo.jpg?1416524759" alt="My Degree Map" title="My Degree Map" width="202" height="101">
+            </a> </div>
+   <div class="header_right">
+
+      <div class="menu">
+      <ul>
+                <li><a href="http://www.mydegreemap.com/degrees.php" class=" menu-last" title="Degree ">
+        Degree        </a> 
+                                                <ul>
+                                        <li>
+ <a href="http://www.mydegreemap.com/associate-degree" title="Associate Degree">
+          Associate Degree          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/bachelor-degree" title="Bachelor Degree">
+          Bachelor Degree          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/master-degree" title="Master Degree ">
+          Master Degree           </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/doctrate-degree" title="Doctrate Degree ">
+          Doctrate Degree           </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/certificate-programs" title="Certificate Programs">
+          Certificate Programs          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/mba-degree" title="MBA Degree">
+          MBA Degree          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/degree-complation" title="Degree Completion">
+          Degree Completion          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/post-baccalaureate-programs" title="Post-Baccalaureate Programs">
+          Post-Baccalaureate Programs          </a></li>
+
+		                      <li>
+ <a href="http://www.mydegreemap.com/post-graduate-courses" title="Post-Graduate Courses">
+          Post-Graduate Courses          </a></li>
+
+		  </ul>                                                                                       </li>
+                <li><a href="http://www.mydegreemap.com/degreesubjects.php" class=" " title="Degree Subjects ">
+        Degree Subjects        </a> 
+                                                                     <ul>
+                    <li> <a href="http://www.mydegreemap.com/art-design" title="Art and Design">
+          Art and Design          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/business" title="Business ">
+          Business           </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/education" title="Education Degrees ">
+          Education Degrees           </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/culinary-services" title="Culinary Degree">
+          Culinary Degree          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/health-medical" title="Healthcare / Nursing">
+          Healthcare / Nursing          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/liberal-art-humanities" title="Liberal Arts &amp; Humanities">
+          Liberal Arts &amp; Humanities          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/nursing" title="Nursing">
+          Nursing          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/engineering " title="Engineering ">
+          Engineering           </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/hospitality-management" title="Hospitality Management">
+          Hospitality Management          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/human-services" title="Human Resources">
+          Human Resources          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/science-math" title="Science &amp; Math">
+          Science &amp; Math          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/technology-it" title="Technology / IT">
+          Technology / IT          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/law-criminal-justice" title="Law &amp; Criminal Justice">
+          Law &amp; Criminal Justice          </a></li>
+
+		  </ul>                                                                  </li>
+                <li><a href="http://www.mydegreemap.com/training&amp;certificates.php" class=" " title="Training &amp; Certificates ">
+        Training &amp; Certificates        </a> 
+                                                                                           <ul>
+                    <li> <a href="http://www.mydegreemap.com/certificate/admin-assist.html" title="  Admin. Assistant">
+            Admin. Assistant          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/bridal.html" title="Bridal Consultant">
+          Bridal Consultant          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/carpenter.html" title="Carpenter/Construction">
+          Carpenter/Construction          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/culinary.html" title="Culinary">
+          Culinary          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/technician.html" title="HVAC Technician">
+          HVAC Technician          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/landscaper.html" title="Landscaper">
+          Landscaper          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/mechanic.html" title="Mechanic">
+          Mechanic          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/online-ged.html" title="Online GED">
+          Online GED          </a></li>
+
+		  <li> <a href="http://www.mydegreemap.com/certificate/plumber.html" title="Plumber">
+          Plumber          </a></li>
+
+		  </ul>                                            </li>
+                <li><a href="http://www.mydegreemap.com/onlineeducation.php" class=" " title="My Education Online ">
+        My Education Online        </a> 
+                                                                                                                  <ul>
+                    <li>  <a href="http://www.mydegreemap.com/education/find-college.html" title="  Find colleges">
+            Find colleges          </a></li>
+
+		  <li>  <a href="http://www.mydegreemap.com/education/earn-more.html" title="Earn more Money">
+          Earn more Money          </a></li>
+
+		  <li>  <a href="http://www.mydegreemap.com/education/find-your-passion.html" title="Find your passion">
+          Find your passion          </a></li>
+
+		  <li>  <a href="http://www.mydegreemap.com/education/guide.html" title="Guide to Online Education">
+          Guide to Online Education          </a></li>
+
+		  <li>  <a href="http://www.mydegreemap.com/education/omline-vs-traditional.html" title="Online vs. Traditional ">
+          Online vs. Traditional           </a></li>
+
+		  <li>  <a href="http://www.mydegreemap.com/education/prove-yourself.html" title="Prove yourself">
+          Prove yourself          </a></li>
+
+		  </ul>                     </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+<div class="content">
+
+  <div class="wrapper">
+     <div class="c_left">
+
+      
+		<div class="find_degree1">
+<h3>Quick Degree Finder</h3>
+      <form id="FindCollege1" name="FindCollege1">
+        <select name="degree" id="degree" onchange="seldegree(this.value)">
+          <option value="">Choose Degree Level</option>
+
+                                      <option value="associate-degree">Associate Degree</option>
+                                      <option value="bachelor-degree">Bachelor Degree</option>
+                                      <option value="master-degree">Master Degree </option>
+                                      <option value="doctrate-degree">Doctrate Degree </option>
+                                      <option value="certificate-programs">Certificate Programs</option>
+                                      <option value="mba-degree">MBA Degree</option>
+                                      <option value="degree-complation">Degree Completion</option>
+                                      <option value="post-baccalaureate-programs">Post-Baccalaureate Programs</option>
+                                      <option value="post-graduate-courses">Post-Graduate Courses</option>
+                </select>
+        <select name="program" id="program" onchange="selsubject(this.value)">
+          <option value="">Choose Degree Program</option>
+        </select>
+        <select name="dsubject" id="dsubject">
+          <option value="">Choose Degree Subject</option>
+        </select>
+        <input type="text" name="zip" id="zip" value="" placeholder="Zipcode" maxlength="5">        <p><!--Choose Military Educations--></p>
+        <div class="btn">
+          <input type="submit" name="Find My Degree" value="Find My Degree" title="Find My Degree">
+        </div>
+        </form>
+      </div>      
+      <div class="find_degree find_degree_1">
+      <h2>Degree Information</h2>
+        <ul>
+        
+          						 <li><a class="" href="http://www.mydegreemap.com/art-design" title="Art and Design">Art and Design</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/business" title="Business ">Business </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/education" title="Education Degrees ">Education Degrees </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/culinary-services" title="Culinary Degree">Culinary Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/health-medical" title="Healthcare / Nursing">Healthcare / Nursing</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/liberal-art-humanities" title="Liberal Arts &amp; Humanities">Liberal Arts &amp; Humanities</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/nursing" title="Nursing">Nursing</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/engineering " title="Engineering ">Engineering </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/hospitality-management" title="Hospitality Management">Hospitality Management</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/human-services" title="Human Resources">Human Resources</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/science-math" title="Science &amp; Math">Science &amp; Math</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/technology-it" title="Technology / IT">Technology / IT</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/law-criminal-justice" title="Law &amp; Criminal Justice">Law &amp; Criminal Justice</a></li> 
+					          </ul>
+      </div>
+      <div class="banner_class">
+<div class="slideshow1">
+
+</div>
+</div>      
+      <div class="find_degree find_degree_1">
+      <h2>Search by Degree Level</h2>
+        <ul>
+        
+           						 <li><a class="" href="http://www.mydegreemap.com/associate-degree" title="Associate Degree">Associate Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/bachelor-degree" title="Bachelor Degree">Bachelor Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/master-degree" title="Master Degree ">Master Degree </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/mba-degree" title="MBA Degree">MBA Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/certificate-programs" title="Certificate Programs">Certificate Programs</a></li> 
+					          </ul>
+      </div>
+             <div class="banner_class">
+<div class="slideshow1">
+
+</div>
+</div>     
+      <div class="find_degree find_degree_1">
+       <h2>Degree by degree level</h2>
+        <ul>
+          						 <li><a class="" href="http://www.mydegreemap.com/associate-degree" title="Associate Degree">Associate Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/bachelor-degree" title="Bachelor Degree">Bachelor Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/master-degree" title="Master Degree ">Master Degree </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/doctrate-degree" title="Doctrate Degree ">Doctrate Degree </a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/mba-degree" title="MBA Degree">MBA Degree</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/degree-complation" title="Degree Completion">Degree Completion</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/certificate-programs" title="Certificate Programs">Certificate Programs</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/post-baccalaureate-programs" title="Post-Baccalaureate Programs">Post-Baccalaureate Programs</a></li> 
+					  						 <li><a class="" href="http://www.mydegreemap.com/post-graduate-courses" title="Post-Graduate Courses">Post-Graduate Courses</a></li> 
+					          </ul>
+      </div>
+    </div>  <div class="banner-section inner-banner">
+ <div class="banner"> <div class="top-border"></div>
+  
+               <img src="http://www.mydegreemap.com/images/find-degree-inner.png" title="banner" alt="banner" class="bannerimg">
+                <img src="http://www.mydegreemap.com/HomeBanner/Banner_47.jpg?1416524759" title="Search" alt="Search" width="742" height="156">
+               
+            <div class="inner_banner">
+            <div class="inner_banner2">
+			<h1>Privacy Policy</h1>
+			</div>
+            <div class="inner_banner1">
+            </div>  
+            </div>
+             
+                  
+</div>
+      </div>	  <div class="c_right">
+       
+    <h3>
+      Privacy Policy    </h3>
+    <div class="degree_block inner_degree">
+       <p>Online Education respects your privacy. Your personal financial information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented. We are committed to protecting your privacy and to leveraging sophisticated technology to provide our visitors with the most secure online experience</p>
+<p>For any questions about our Privacy and Security Policy or if there is anything we can do to assist you, please don't hesitate to contact us.</p>
+<p><strong>Personal Information:</strong> Your personal information is important to us. Any personal information you share with Online Education, including your name, mailing address, phone number, email address or any other personal information will be stored securely and encrypted so that a third party cannot capture, read or access that information while it is transmitted between your computer, Online Education and shared with any service providers helping provide you with competitive quotes. We may also share personal information with other third parties to administer our business or to provide related services and as otherwise permitted or required by law. Our privacy practices will always comply with applicable Federal and State laws.</p>
+<p><strong>Links to Other Websites:</strong> Our site contains links to other websites and DegreeGuideOnline.com is not responsible for the privacy practices or content of these third-party websites. You should always read the privacy statements of these linked sites as their privacy policy may differ substantially from ours. Please make note that when you click on one of these links you will be directed to another website</p>
+<p><strong>Cookies:</strong> Cookies are small text files saved on your computer's hard drive while your browser is running. Online Education will not to use cookies to track, collect, or store your personal information. However, we may use cookies to help make it easier for returning users to complete one of our insurance quote forms. If you would not like to accept cookies, you can easily change your browser settings to prevent cookies from being stored and still visit Online Education.</p>
+<p><strong>Tracking Pixels:</strong> Some pages on Online Education may contain electronic images known as tracking pixels or single-pixel GIFs. These pixels may collect certain types of non-personally identifiable information, such as a visitor's cookie number, time and date of a page view, the visitor's referring URL and a description of the pages they visit. The information collected using these pixels does not identify individual users.</p>
+<p>Online Education is committed to the security of your financial and personal information. Our servers and data processing operations are in a secure environment protecting your account information from being accessed by third parties.</p>
+<p>Notification of Changes: Online Education may edit this privacy and security policy from time to time. When we make any substantial changes we will notify you by posting a prominent notice in our privacy policy or on our home page. You will always be able to opt out. To opt out, please contact us.</p> 
+    </div>
+    </div>
+ 
+  
+  </div>
+</div>
+</div>
+</div>
+<div class="footer">
+  <div class="wrapper">
+    <ul>
+      <li class="no_bg">
+        <h3>Site Information</h3>
+      </li>
+            <li> <a href="http://www.mydegreemap.com/faq.html" title="FAQ" class="">
+        FAQ        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/about-us.html" title="About Us" class="">
+        About Us        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/affiliates.php" title="Affiliates" class="">
+        Affiliates        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/advertise.php" title="Advertise" class="">
+        Advertise        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/privacypolicy.html" title="Privacy Policy" class="fsel">
+        Privacy Policy        </a> </li>
+            <li> <a href="http://www.mydegreemap.com/sitemap.php" title="Sitemap" class="">
+        Sitemap        </a> </li>
+          </ul>
+    <ul style="width:157px;">
+      <li class="no_bg">
+        <h3>Top Online Colleges</h3>
+      </li>
+                  <li> <a href="http://www2.itt-tech.edu/mission/index.cfm?code=" title="ITT Technical Institute">
+        ITT Technical Institute        </a></li>
+                        <li> <a href="http://www.mydegreemap.com/school/westchester" title="The College of Westchester">
+        The College of Westchester        </a></li>
+                        <li> <a href="http://www.mydegreemap.com/school/Mildred" title="Mildred Elley">
+        Mildred Elley        </a></li>
+                        <li> <a href="http://www.mydegreemap.com/school/brandman" title="Brandman University">
+        Brandman University        </a></li>
+                        <li> <a href="http://www.mydegreemap.com/school/Averett" title="Averett University">
+        Averett University        </a></li>
+                  <!--<li><a href="#" title="University of Phoenix">University of Phoenix</a></li>
+      <li><a href="#" title="Kaplan University">Kaplan University</a></li>
+      <li><a href="#" title="Ashford University">Ashford University</a></li>-->
+    </ul>
+    <a href="http://www.mydegreemap.com" title="My Degree Map"><img src="http://www.mydegreemap.com/images/bottom_logo.png" alt="My Degree Map" title="My Degree Map"></a> </div>
+  <div class="footer_text">
+    <p>
+    </p><p>
+      © 2014 mydegreemap.com All Rights Reserved.    </p>
+  </div>
+  <div class="f_right">
+    <p></p>
+  </div>
+</div>
+
+
+<!-- slider -->
+<script type="text/javascript" src="http://www.mydegreemap.com/js/validate_form.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/alertify.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/alertify.min.js"></script>
+<script src="http://www.mydegreemap.com/js/jquery.js" type="text/javascript"></script>
+<!--<script type="text/javascript" src="http://www.mydegreemap.com/js/easing.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/jcarousellite.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/feature_slider.js"></script>-->
+<!-- slider -->
+<script src="http://www.mydegreemap.com/js/degree.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/jquery-1.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/global.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/jcarousellite_1.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+        /* featured listings slider */
+
+        // ]]>
+       
+        jQuery(document).ready(function ($) {
+            $('.slider').jCarouselLite({
+                btnNext: '.next1',
+                btnPrev: '.prev1',
+                visible: 4,
+                hoverPause: true,
+                auto: 4000,
+                speed: 4000,
+                easing: 'easeOutQuint' // for different types of easing, see easing.js
+            });
+        });
+     
+
+    </script> 
+<!-- Script -->
+<!-- Script -->
+<!--<script type="text/javascript">
+    function change() {
+        var select = document.getElementById("slct");
+        var divv = document.getElementById("container");
+        var value = select.value;
+		if (value == "") 
+		{
+			toAppend = ""; divv.innerHTML=toAppend; return;
+		}
+        if (value == "Contact Us")
+		 {
+            toAppend = "<table cellspacing='5' cellpadding='5'><tr><td><strong>Phone :</strong></td><td><input type='text' name='phone' id='phone' ></td></tr></table>"; divv.innerHTML=toAppend; return;
+         }
+        if (value == "Website Feedback") 
+		{
+            toAppend = "";divv.innerHTML = toAppend;  return;
+        }
+        if (value = "Affiliate Program - Partnerships")
+		{
+            toAppend = "<table cellspecing='5' cellpadding='5'><tr><td><strong>Phone :</strong></td><td><input type='text' name='phone' id='phone' ></td></tr><tr><td><strong>Website :</strong></td><td><input name='web' id='web' type='text' /></td></tr><tr><td><strong>Address :</strong></td><td><textarea name='address' id='address' cols='5' rows='5' ></textarea></td></tr><tr><td><strong>Trafic Stats:</strong></td><td><input name='trafic' id='trafic' type='text' /></td></tr></table>";divv.innerHTML = toAppend; return;
+
+        }
+			
+     }
+     </script>-->
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+     <script>
+
+function check_dd() {
+    if(document.getElementById('department').value == "Contact Us") {
+        document.getElementById('Contact Us').style.display = 'block';
+        document.getElementById('Website Feedback').style.display = 'none';
+        document.getElementById('Affiliate Program / Partnerships').style.display = 'none';		
+        document.getElementById('Jobs / Employment').style.display = 'none';
+    }
+ else if(document.getElementById('department').value == "Website Feedback"){
+        document.getElementById('Website Feedback').style.display = 'block';
+	    document.getElementById('Contact Us').style.display = 'none';
+        document.getElementById('Affiliate Program / Partnerships').style.display = 'none';		
+        document.getElementById('Jobs / Employment').style.display = 'none';       
+
+    }
+ else if(document.getElementById('department').value == "Affiliate Program / Partnerships"){
+        document.getElementById('Affiliate Program / Partnerships').style.display = 'block';
+        document.getElementById('Contact Us').style.display = 'none';
+        document.getElementById('Website Feedback').style.display = 'none';
+        document.getElementById('Jobs / Employment').style.display = 'none';				
+
+    }
+ else if(document.getElementById('department').value == "Jobs / Employment"){
+        document.getElementById('Jobs / Employment').style.display = 'block';
+        document.getElementById('Contact Us').style.display = 'none';
+        document.getElementById('Website Feedback').style.display = 'none';
+        document.getElementById('Affiliate Program / Partnerships').style.display = 'none';				
+
+    }
+else if(document.getElementById('department').value == ""){
+        document.getElementById('Jobs / Employment').style.display = 'none';
+        document.getElementById('Contact Us').style.display = 'none';
+        document.getElementById('Website Feedback').style.display = 'none';
+        document.getElementById('Affiliate Program / Partnerships').style.display = 'none';				
+
+    }	
+}
+
+</script>
+
+
+<script type="text/javascript" src="http://www.mydegreemap.com/js/alertify.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/alertify.min.js"></script>
+<script type="text/javascript" src="http://www.mydegreemap.com/js/validate_form.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#FindCollege').submit(function() {
+		if($('#degree').val() == "")
+		{
+			alertify.alert('Please Choose Degree Level');
+			$('#degree').focus();
+			return false;
+		}
+		 if( $('#program').val() == "")
+		 {
+			alertify.alert('Please Select Category');
+			$('#program').focus();
+			return false;
+		}
+		if( $('#dsubject').val() == "" )
+		{
+			alertify.alert('Please Select Subject');
+			$('#degree').focus();
+			return false;
+		}
+		var degree = $('#degree').val();
+		var program = $('#program').val();
+		var dsubject = $('#dsubject').val();
+		var zip = $('#zip').val();
+		if(degree == "" ){ degree=null; }
+		if(program == "" ){ program=null; }
+		if(dsubject == "" ){ dsubject=null; }
+		if(zip == "" ){ zip=null; }
+		var str= 'http://www.mydegreemap.com';
+		if(degree != null && program != null && dsubject != null &&  zip == null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject;
+		}
+		else if(degree != null && program != null && dsubject != null &&  zip != null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject + '-in-' + zip;
+		}
+		
+		
+		
+     	return false;
+    });
+});
+
+$(document).ready(function() {
+    $('#FindCollege1').submit(function() {
+		if($('#degree').val() == "")
+		{
+			alertify.alert('Please Choose Degree Level');
+			$('#degree').focus();
+			return false;
+		}
+		 if( $('#program').val() == "")
+		 {
+			alertify.alert('Please Select Category');
+			$('#program').focus();
+			return false;
+		}
+		if( $('#dsubject').val() == "" )
+		{
+			alertify.alert('Please Select Subject');
+			$('#degree').focus();
+			return false;
+		}
+		var degree = $('#degree').val();
+		var program = $('#program').val();
+		var dsubject = $('#dsubject').val();
+		var zip = $('#zip').val();
+		if(degree == "" ){ degree=null; }
+		if(program == "" ){ program=null; }
+		if(dsubject == "" ){ dsubject=null; }
+		if(zip == "" ){ zip=null; }
+		var str= 'http://www.mydegreemap.com';
+		if(degree != null && program != null && dsubject != null &&  zip == null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject;
+		}
+		else if(degree != null && program != null && dsubject != null &&  zip != null)
+		{
+			window.location.href = str + '/' + degree + '-in-' + program + '-in-' + dsubject + '-in-' + zip;
+		}
+		
+		
+		
+     	return false;
+    });
+});
+
+
+</script></body></html>
