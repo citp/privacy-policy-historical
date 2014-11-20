@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208013854id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034719id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Want to stay on top of all the space news? Follow [**@universetoday**](https://twitter.com/#!/universetoday) on Twitter
 
 Universe Today is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
 
