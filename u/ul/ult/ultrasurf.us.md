@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103841id_/http%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005621id_/http%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
 
 # Ultrareach - Privacy Policy
 
@@ -64,7 +64,7 @@ UltraReach Internet Corporation has the discretion to occasionally update this p
 
   5. **CONTACTING US**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us: [info9@ultrasurf.us](mailto:info9@ultrasurf.us)
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us: info89 @ ultrasurf.us
 
 
 
