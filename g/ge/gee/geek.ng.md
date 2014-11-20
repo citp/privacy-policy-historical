@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geek.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050242id_/http%3A//geek.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.ng privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111951id_/http%3A//geek.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Geek NG
 
-f you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin(at)capriofiles(.)com.  
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin(at)capriofiles(.)com.  
 At Geek.NG, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Geek.NG and how it is used.
 
  **Log Files**
