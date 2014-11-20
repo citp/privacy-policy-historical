@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumgfs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132402id_/http%3A//premiumgfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumgfs.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045442id_/http%3A//premiumgfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
