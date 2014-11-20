@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalbloggingtips.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506030700id_/http%3A//www.universalbloggingtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalbloggingtips.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120125452id_/http%3A//www.universalbloggingtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Universal Blogging Tips
 
@@ -20,11 +20,11 @@ How we use collected information
 
 Universal Blogging Tips may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 How we protect your information
@@ -53,15 +53,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.universalbloggingtips.com/contact-us/ "contact us") at:
 
 ashishnikhil9@gmail.com
 
 This document was last updated on January 14, 2014
-
-Nikhil Ganotra is the Owner and Editor of [Universal Blogging Tips ](http://universalbloggingtips.com/) is a Passionate Blogger from India. He loves to read and write about Blogging tips [SEO ](http://http//www.universalbloggingtips.com/category/learn-seo/),digital marketing and related topics. You can also catch him on [Google + ](https://plus.google.com/u/0/+nikhilganotra/)
-
-[](http://www.universalbloggingtips.com/)
-
-  
-
