@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wedmegood.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302192152id_/http%3A//wedmegood.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedmegood.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170125id_/http%3A//www.wedmegood.com/privacy) for the most accurate reproduction.*
 
-# ~Indian Wedding Website: Wed Me Good | Indian Wedding Ideas & Vendors Online | Bridal Lehenga Photos
+# Indian Wedding Website : Wed Me Good | Indian Wedding Ideas & Vendors Online | Bridal Lehenga Photos
 
-## Privacy Policy
+### Privacy Policy
 
-### Our management has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.
+#### Our management has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.
 
 The terms "We, Wedmegood, Us" refer to Wedmegood.com and the terms "You, Your" refer to a user of Wedmegood.com. 
 
-In the course of providing wedding planning and other related services, we collect certain information from you.
+In the course of our business of helping our viewers plan their wedding, we collect certain information from you.
 
 In the course of registering for and availing various services we provide from time to time through our website : **Wedmegood,** you may be required to give your Name, address, Email address, phone number.
 
