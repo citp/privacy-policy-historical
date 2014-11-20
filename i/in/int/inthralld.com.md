@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inthralld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075522id_/http%3A//inthralld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthralld.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120193723id_/http%3A//inthralld.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Inthralld
 
 **1\. INTRODUCTION**
 
-1.1. PURPOSE OF POLICY. Freshcom Media LLC, db@FreshcomMedia.com, HiConsumption.com, and Inthralld.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+1.1. PURPOSE OF POLICY. Inthralld, db@ Inthralld.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN
 
@@ -42,7 +42,7 @@ In operating the Site, Company may include registration, online surveys, and oth
 
 (d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through its websites. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer. We may send registered users an email notifying them of the acquisition of Freshcom Media LLC or FreshcomMedia.com or any of its affiliate sites by another company, but are not obligated to do so.
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through its websites. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer. We may send registered users an email notifying them of the acquisition of Inthralld.com or any of its affiliate sites by another company, but are not obligated to do so.
 
 (f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6.1 below.
 
@@ -67,8 +67,8 @@ Ian Rebello
 Freshcom Media LLC  
 11956 Bernardo Plaza Dr. #140  
 San Diego, CA, 92128  
-FreshcomPolicy [at] gmail (dot) com
+Inthralld [at] gmail (dot) com
 
 6.2. UPDATES AND CHANGES
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Freshcom Media may send registered users an email notifying them of any changes to this Policy, but is not obligated to do so. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Inthralld may send registered users an email notifying them of any changes to this Policy, but is not obligated to do so. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms
