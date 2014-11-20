@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623130713id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210855id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
@@ -11,7 +11,7 @@ We collect information from you when you register on our site, subscribe to our 
 We may collect non-personal identification information about users whenever they interact with our site. Non-personal identification information may include the browser name, the type of computer and technical information about users means of connection to our site, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Do we use cookies?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. users may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the site may not function properly.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Users may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the site may not function properly.
 
 **What do we use your information for?**  
 Any of the information FirstShowing.net collects from a user may be used in one of the following ways:  
@@ -38,7 +38,7 @@ Some of our advertising partners may use cookies on our site. Our advertising pa
 <http://www.google.com/doubleclick/>  
 <http://affiliates.sideshowtoy.com/>  
 <http://affiliate-program.amazon.com/>  
-[http://studybreakmedia.com/](http://www.studybreakmedia.com/)
+<http://www.lijit.com/>
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
@@ -61,4 +61,4 @@ First Showing LLC
 (719) 964-5995  
 [movies@firstshowing.net](mailto:movies@firstshowing.net)
 
-_This document was last updated on February 10th, 2013_.
+_This document was last updated on June 24th, 2014_.
