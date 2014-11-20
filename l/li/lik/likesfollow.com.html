@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the likesfollow.com privacy policy that was archived on 2014-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602042930id_/http%3A//www.likesfollow.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likesfollow.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120210832id_/http%3A//www.likesfollow.net/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -143,7 +143,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6db3f2', end
 <li style="list-style:none; width:20px; height: 20px;  background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 0% 100%; float: left;"><div style="list-style:none; width:20px; height: 20px; background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 0% 0%; float: right; display:none;"></div></li>
   
     
-<li style="list-style:none; width:20px; height: 20px; background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 0% 100%; float: left;"><div style="list-style:none; width:60%; height: 20px; background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 100% 0%; float: right;"></div></li>
+<li style="list-style:none; width:20px; height: 20px; background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 0% 100%; float: left;"><div style="list-style:none; width:66%; height: 20px; background-image:url(http://www.css.likesfollow.com/images/starrating.gif); background-repeat: no-repeat; background-position: 100% 0%; float: right;"></div></li>
     
             
     </ul>
@@ -196,7 +196,7 @@ $(document).ready(function(){
 
 </div>
 
-<p style="font-family:Arial, Helvetica, sans-serif; color:#777; font-size: 1em; line-height: 20px; margin-right: 30px;">Rating: <span id="star_rating_avarage">4.41</span>/5 (<span id="star_rating_count">892</span> votes cast)
+<p style="font-family:Arial, Helvetica, sans-serif; color:#777; font-size: 1em; line-height: 20px; margin-right: 30px;">Rating: <span id="star_rating_avarage">4.35</span>/5 (<span id="star_rating_count">931</span> votes cast)
 </p>
 
 </div>
@@ -339,17 +339,70 @@ function reload_rating(){
 <p>You can feel free to contact  us through our support center regarding any question, additional information,  comments and requests. We are always at your service.</p>
 <p>&nbsp;</p>
 </div><div class="clearer"></div>
-	<div id="footer">
-	<div class="footermenu" style="float:inherit;"> <a href="contact.php"><font color="white">Contact Us</font></a>  -  <a href="prem.php"><font color="white">Become Premium</font></a> - <a href="terms.php"><font color="white"><b>Terms &amp; Conditions</b></font></a> -  <a href="privacy.php"><font color="yellow"><b>Privacy Policy</b></font></a> - <a href="buy.php"><font color="yellow"><b>Buy Points</b></font></a> - <a href="chat.php"><font color="yellow"><b>Live Chat</b></font></a></div>
-	<div style="float:right;" id="google_translate_element"></div><script type="text/javascript">
+<script type="text/javascript">
+        var AddHitsMade = 0;
+        var AddHitsMade1 = 0;
+        var LikersStart = 0;
+        var LikersStart1 = 0;
+        var LastReg24 = 0;
+        var UsersOnline = 0;
+        var UsersOnline1 = 200;
+        setTimeout("DisplayHintCounter();", 120);
+        function DisplayHintCounter() {
+            var randd = Math.floor((Math.random() * 1000) + 1);
+            if (randd > 300) {
+                AddHitsMade = AddHitsMade + 1;
+            }
+            if (randd > 994) {
+                LikersStart = LikersStart + 1;
+            }
+            if (randd > 960) {
+                UsersOnline1 = UsersOnline1 + 1;
+            }
+            if (randd < 39) {
+                UsersOnline1 = UsersOnline1 - 1;
+            }
+            AddHitsMade1 = 21602848 + AddHitsMade;
+            LikersStart1 = 115720 + LikersStart;
+            LastReg24 = 543 + LikersStart;
+            UsersOnline = 2024 + UsersOnline1;
+            $("#HintHits").html("<div class='bannerMid'><div class='bannerMidInner'><div class='raise'><p><span>" + numberWithCommas(AddHitsMade1) + "</span> &nbsp;&nbsp;Hits/likes delivered</br><br/><br/><b>Total Users:</b><span>" + numberWithCommas(LikersStart1) + "</span> &nbsp;&nbsp; Members and Increasing </p> </div></div></div><div class='bannerBot'><div class='bannerBotInner'><div class='statistic'><p><span>" + numberWithCommas(LastReg24) + "</span> &nbsp; Members joined in the last 24 hours!</p></div><div class='statistic' id='online'><p><span>" + numberWithCommas(UsersOnline) + "</span> &nbsp; Online!</p></div></div></div>");
+            setTimeout("DisplayHintCounter();", 70);
+        }
+        function numberWithCommas(x) {
+            x = x.toString();
+            var pattern = /(-?¥d+)(¥d{3})/;
+            while (pattern.test(x))
+                x = x.replace(pattern, "$1,$2");
+            return x;
+        }
+
+function OpenPage(mysite){
+	document.location.href=mysite;
+	}
+</script>
+    <div id="footer">
+	<div class="footermenu" style="float:inherit;"> <a href="http://www.likesfollow.net/contact.php"><font color="white">Contact Us</font></a>  -  <a href="http://www.likesfollow.net/prem.php"><font color="white">Become Premium</font></a> - <a href="http://www.likesfollow.net/terms.php"><font color="white"><b>Terms &amp; Conditions</b></font></a> -  <a href="http://www.likesfollow.net/privacy.php"><font color="yellow"><b>Privacy Policy</b></font></a> - <a href="http://www.likesfollow.net/buy.php"><font color="yellow"><b>Buy Points</b></font></a> - <a href="http://www.likesfollow.net/contact.php"><font color="yellow"><b>Live Chat</b></font></a></div>
+
+
+
+
+
+<div class="clearer"></div>
+
+<div id="_publisher13" itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" class="copy" style="float: none; margin-top: 15px;">likesfollow.Net © 2013-2014 All rights reserved </div>
+
+<div style="float:left;" id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
 
-<div class="copy" style="float: none; margin-top: 23px;">likesfollow.Net © 2013-2014 All rights reserved </div>
+<div class="copy1" style="float:right; color: #fff; font-size:8px;">Designed by <a style=" color: #fff; " target="_blank" id="_publisher13" itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" href="http://www.facebook.com/uneebs">Uneeb </a></div>
 
-	</div>
+
+	
+</div>
 
 
 </div></body></html>
