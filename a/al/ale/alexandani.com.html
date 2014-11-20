@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the alexandani.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626234519id_/http%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alexandani.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120132904id_/http%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="//tags.tiqcdn.com/utag/alexandani/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4CU19aGwECXFZSAAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<!--{PAGE_HEAD_f62b2fc2216e32b40a6f173dc0f561d2}--><!--{PAGE_HEAD_f62b2fc2216e32b40a6f173dc0f561d2}--><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Alex and Ani</title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="//tags.tiqcdn.com/utag/alexandani/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4CU19aGwECXFZSAAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<title>Privacy Policy</title>
 <meta name="description" content="Alex and Ani designs and creates bangle bracelets, necklaces, earrings and rings that adorn the body, enlighten the mind, and empower the spirit.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.alexandani.com/media/favicon/default/favicon_2.png" type="image/x-icon">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
+<!--{HEAD_RESPONSIVE_1409d1d00c3e088af18c6ee59231cbca}-->    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/css/responsive.css">
+<!--/{HEAD_RESPONSIVE_1409d1d00c3e088af18c6ee59231cbca}-->
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -20,41 +21,52 @@
 //]]>
 </script>
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="//fast.fonts.com/cssapi/6276aa56-a76d-4e21-8ed8-b5c8eeeda470.css">
-<link type="text/css" rel="stylesheet" href="//www.alexandani.com/skin/frontend/enterprise/responsive/fonts/aa_fonts/aa_font.css">
-<link rel="stylesheet" type="text/css" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/css.65/responsive.css" media="all">
-<script type="text/javascript" src="http://www.alexandani.com/js.65/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/varien/js.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/varien/form.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/varien/product.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/js.65/varien/configurable.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.65/scripts.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/vendor/jquery.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/icheck.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/vendor/custom.modernizr.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/foundation/foundation.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/foundation/foundation.forms.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/foundation/foundation.orbit.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/jquery.zoom-min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/unveil.min.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/swipe.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.65/responsive.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.65/enterprise/catalogevent.js"></script>
-<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.65/enterprise/wishlist.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/fonts/aa_fonts/aa_font.css">
+<link rel="stylesheet" type="text/css" href="http://www.alexandani.com/skin/frontend/enterprise/responsive/css.80/iwd/opc/opc.css" media="all">
+<script type="text/javascript" src="http://www.alexandani.com/js.80/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/varien/js.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/varien/form.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/varien/product.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/varien/configurable.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/jquery.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/icheck.min.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/custom.modernizr.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/foundation/foundation.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/foundation/foundation.forms.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/foundation/foundation.orbit.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/jquery.zoom-min.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/jquery.unveil.min.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/swipe.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/pushy.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/vendor/bxslider.min.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mirasvit/core/underscore.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mirasvit/core/backbone.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mirasvit/code/banner/tabbed.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/js.80/mirasvit/code/banner/carousel.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.80/scripts.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/js.80/responsive.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.80/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/enterprise/default/js.80/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/global.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/catalog.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/product.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/cart.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/checkout.js"></script>
+<script type="text/javascript" src="http://www.alexandani.com/skin/frontend/base/default/js.80/adobeanalytics/bootstrap.js"></script>
 <!--[if lt IE 9]>
-	<link rel="stylesheet" type="text/css" href="/skin/frontend/enterprise/responsive/css/responsive.css" />
-	<script type="text/javascript" src="/skin/frontend/enterprise/responsive/js/respond.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/skin/frontend/enterprise/responsive/css/responsive.css" />
+    <script type="text/javascript" src="/skin/frontend/enterprise/responsive/js/respond.min.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -69,9 +81,18 @@ Mage.Cookies.domain   = '.www.alexandani.com';
 optionalZipCountries = [];
 //]]>
 </script>
+    <!-- BEGIN: Adobe DTM Data Layer -->
+    <script type="text/javascript">
+        var digitalData = {"page":{"category":{"pageType":"aa:us:privacy-policy","subCategory1":"aa:us:privacy-policy","subCategory2":"aa:us:privacy-policy","primaryCategory":"aa:us:privacy-policy"},"pageInfo":{"pageName":"aa:us:privacy-policy"}},"user":[{"profile":[{"profileInfo":{"type":"anonymous"}}]}]};
+    </script>
+    <!-- END: Adobe DTM Data Layer -->
+
+    <!-- BEGIN: Adobe DTM satelliteLib -->
+    <script src="//assets.adobedtm.com/e131e1dd1b8f53e227909aa7fcb90bef215c3c4a/satelliteLib-de9376aacfd470ae7fc3788be91b9b903ad1097c.js"></script>
+    <!-- END: Adobe DTM satelliteLib -->
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><!--/{PAGE_HEAD_f62b2fc2216e32b40a6f173dc0f561d2}--><!--/{PAGE_HEAD_f62b2fc2216e32b40a6f173dc0f561d2}--></head>
+        //]]></script></head>
 <body class=" cms-page-view cms-privacy-policy">
 <!-- BEGIN: Google Trusted Store -->
 <script type="text/javascript">
@@ -126,16 +147,20 @@ optionalZipCountries = [];
         <div id="header-panel-wrap">
             
 
-<div id="header-signup-form" class="row" style="display:none;">
+<!--{HEADER_SIGNUP_FORM_6f6f267b6437c1e83bc9e0ea3902e6be}--><div id="header-signup-form" class="row" style="display:none;">
     <form class="large-9 columns" action="https://www.alexandani.com/customer/account/loginPost/" method="post">
         <div class="signup-title">
             <h1>Sign in to your account</h1>
         </div>
         <div class="input-fields">
-            <input id="hs-email" type="text" placeholder="Email Address">
-            <input id="hs-pass" type="password" placeholder="Password">
+            <input style="display:none" type="text" name="usernameaf">
+            <input style="display:none" type="password" name="passwordaf">
+            <input name="form_key" type="hidden" value="jShI8d0AIq0FDBpG">
+            <input id="hs-email" name="login[username]" type="text" placeholder="Email Address">
+            <input id="hs-pass" name="login[password]" type="password" placeholder="Password" autocomplete="off">
+            <input type="hidden" name="referer" value="aHR0cDovL3d3dy5hbGV4YW5kYW5pLmNvbS9wcml2YWN5LXBvbGljeS8,">
         </div>
-        <button type="button" class="button action-btn" onclick="login_ajax();" name="send" id="sign-in-button"><span><span>Sign in</span></span></button>
+        <button type="button" class="button action-btn" name="send" id="sign-in-button"><span><span>Sign In</span></span></button>
         <div class="clear"></div>
         <div>
             <a class="forgot-pass" href="https://www.alexandani.com/customer/account/forgotpassword/">I forgot my password :(</a>
@@ -143,43 +168,43 @@ optionalZipCountries = [];
     </form>
     <div class="large-3 columns">
         <div class="signup-title">
-            <h1>New here?</h1>
+            <h1>New Here?</h1>
         </div>
         <button type="button" class="button action-btn" name="send" id="send2"><span><span>Create An Account</span></span></button>
     </div>
-</div>
-
-
+</div><!--/{HEADER_SIGNUP_FORM_6f6f267b6437c1e83bc9e0ea3902e6be}-->
 <div class="header-create-form large-12" style="display:none;">
     <div class="signup-title">
         <h1>Register</h1>
     </div>
 
     <form action="https://www.alexandani.com/customer/account/createpost/" method="post" id="regis-form">
+                <input style="display:none" type="text" name="usernameaf">
+        <input style="display:none" type="password" name="passwordaf">
         <div class="form-list personal-info large-3 columns">
             <div class="input-box large-12 columns">
-                <input type="text" id="firstname" name="firstname" value="" title="firstname" class="input-text required-entry short" placeholder="First Name">
+                <input type="text" id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry short" placeholder="First Name">
             </div>
             <div class="input-box large-12 columns">
-                <input type="text" id="lastname" name="lastname" value="" title="lastname" class="input-text required-entry short" placeholder="Last Name">
+                <input type="text" id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry short" placeholder="Last Name">
             </div>
         </div>
 
         <div class="form-list email-confirm large-3 columns">
             <div class="input-box large-12 columns">
-                <input type="text" name="email" id="email_address" value="" title="Email Address" class="input-text validate-email required-entry long" placeholder="Email Address">
+                <input type="text" name="email" id="email_address" value="" title="Email Address" class="input-text validate-email required-entry long" placeholder="Email Address" autocomplete="off">
             </div>
             <div class="input-box large-12 columns">
-                <input type="text" name="email_verify" id="email_address_verify" value="" title="Verify Email Address" class="input-text validate-email required-entry long" placeholder="Verify Email Address">
+                <input type="text" name="email_verify" id="email_address_verify" value="" title="Verify Email Address" class="input-text validate-email required-entry long" placeholder="Verify Email Address" autocomplete="off">
             </div>
         </div>
 
         <div class="form-list password-confirm large-3 columns">
             <div class="input-box">
-                <input type="password" name="password" id="password" title="Password" class="input-text required-entry validate-password long" placeholder="Password">
+                <input type="password" value="" name="password" id="password-header" title="Password" class="input-text required-entry validate-password long" placeholder="Password" autocomplete="off">
             </div>
             <div class="input-box">
-                <input type="password" name="confirmation" title="Confirm Password" id="confirmation" class="input-text required-entry validate-cpassword long" placeholder="Confirm Password">
+                <input type="password" value="" name="confirmation" title="Confirm Password" id="confirmation-header" class="input-text required-entry validate-cpassword long" placeholder="Password" autocomplete="off">
             </div>
         </div>
         <div class="t_fieldset control large-3 columns">
@@ -220,7 +245,7 @@ optionalZipCountries = [];
         jQuery("#newsletter-validate-header #newsletter").keypress(function(e){
         var evt = e || window.event;
         var keyPress = evt.which || evt.keyCode;
-        if(keyPress == 13 || keyPress == 13){//Enter key pressed
+        if(keyPress == 13 || keyPress == 13){ //Enter key pressed
             newsletter_header('newsletter-validate-header');
         }
         });
@@ -237,24 +262,21 @@ optionalZipCountries = [];
     <div class="header">
         <div class="quick-access">
             <div class="row large-12">
-                
+                <!--{CART_SIDEBAR_4d7339fb86d7ba9cebce49a9cac06e9a}-->
 <div class="top-cart">
         <div class="block-title no-items">
-        <strong id="cartHeader">Shopping Bag </strong>
+        <strong id="cartHeader">Bag </strong>
     </div>
     <div id="topCartContent" class="block-content" style="display:none">
         <div class="inner-wrapper">                            <p class="block-subtitle hide">
                 <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
                 Recently added item(s)            </p>
-            <!-- -->
-             <p class="cart-empty">
-                Your shopping bag is empty.
-            </p>
+            <p class="cart-empty">
+                Your shopping bag is empty.            </p>
             <div class="empty-cart-inner">
                 <img src="http://www.alexandani.com/skin/frontend/enterprise/responsive/images/empty-bag.jpg">
-                <a class="cta button" id="mini-cart-close">keep shopping</a>
+                <a class="cta button" id="mini-cart-close" onclick="Enterprise.TopCart.hideCart()">keep shopping</a>
             </div>
-            <!-- -->
             <!--
             <p class="cart-empty">
                 You have no items in your shopping cart.            </p>
@@ -267,9 +289,9 @@ optionalZipCountries = [];
     // Enterprise.TopCart.showCart(7);
 </script>
 </div>
-                <!--{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->
+<!--/{CART_SIDEBAR_4d7339fb86d7ba9cebce49a9cac06e9a}-->                <!--{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->
 <div id="free-shipping">
-    Free Ground Shipping Over $100</div>
+    FREE SHIPPING OVER $100</div>
 
 <div id="global-nav-links">
 				<li class="hide li-welcom li-show"><span class="welcome"></span></li>
@@ -277,13 +299,14 @@ optionalZipCountries = [];
 			<li class="hide li-show"><a class="customer_link sign-out" name="http://www.alexandani.com/customer/account/logout/">Sign Out</a></li>
 			<li class="li-sign-in"><a class="customer_link_toggle sign-in">Sign In</a></li>
 	</div>
-<!--/{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->                <a style="color:#fff;" href="/international-faqs">International Shipping Update</a>
-                <div class="clear"></div>
+<!--/{CUSTOMER_NAME_9adbb30cdb5ffa806f1b10bc9a61cdd9}-->                <a style="color:#FFF;margin-right:25px;" href="/faqs">FAQs</a>
+<a style="color:#FFF;margin-right:25px;" href="/contact-us">Contact Us</a>
+<a style="color:#FFF;margin-right:25px;" href="https://www.alexandani.com/sales/order/guest/">Order Status</a>
+<a style="color:#FFF;margin-right:5px;" href="/locations">Find Store</a>                <div class="clear"></div>
             </div>
         </div>
     </div>
     
-
 <div id="nav-wrap" class="hide-for-small">
 
   <div class="top_nav wrapper hide-for-small">
@@ -298,23 +321,26 @@ optionalZipCountries = [];
       </div>
 
       <ul class="top_nav_links left-items">
-        <li class="shop" name="shop">
+                <li class="top_nav_new" name="top_nav_new">
+          <p>what's new</p>
+        </li>
+                <li class="top_nav_shop" name="top_nav_shop">
           <p>shop</p>
         </li>
-        <li class="gift" name="gift">
+        <li class="top_nav_gift" name="top_nav_gift">
           <p>gifts</p>
         </li>
       </ul>
 
       <ul class="top_nav_links right-items">
-        <li class="about" name="about">
+        <li class="top_nav_about" name="top_nav_about">
           <p>about</p>
         </li>
-        <li class="exp" name="exp">
+        <li class="top_nav_exp" name="top_nav_exp">
           <p>experience</p>
         </li>
-        <li class="search" name="search">
-          <p class="search-icon">search</p>
+        <li class="top_nav_search" name="top_nav_search">
+          <p>search</p><div class="search-icon"></div>
         </li>
       </ul>
 
@@ -324,10 +350,42 @@ optionalZipCountries = [];
 
   <div class="top-cat-container hide" style="display: none;">
     <div class="wrapper row">
-      <ul class="shop nav-cat hide row" style="display: none;">
 
-                      
+            <ul class="top_nav_new nav-cat link-list hide row" style="display: none;">
         <li>
+  <a href="http://www.alexandani.com/2014-precious-providence-collection-look-book">
+    <img src="/media/wysiwyg/top-nav/providence_new_nav.jpg">
+    <p class="cat_name">SHOP<br>LOOKBOOK</p>
+  </a>
+</li>
+<li>
+  <a href="http://www.alexandani.com/new-arrivals.html">
+    <img src="/media/wysiwyg/top-nav/new_arrivals_v5.jpg">
+    <p class="cat_name">NEW<br>ARRIVALS</p>
+  </a>
+</li>
+<li>
+  <a href="/winter-2014-nights-mosaic-collection-look-book">
+    <img src="/media/wysiwyg/top-nav/nights_new_nav.jpg">
+    <p class="cat_name">SHOP<br>LOOKBOOK</p>
+  </a>
+</li>
+<li>
+  <a href="/november-2014-bangle-of-the-month.html">
+    <img src="/media/wysiwyg/top-nav/nov_bom_new_nav.jpg">
+    <p class="cat_name">BANGLE OF<br>THE MONTH</p>
+  </a>
+</li>
+<li>
+  <a href="/2014-monopoly-collection-look-book">
+    <img src="/media/wysiwyg/top-nav/monopoly_new.jpg">
+    <p class="cat_name">SHOP<br>LOOKBOOK</p>
+  </a>
+</li>
+      </ul>
+      
+      <ul class="top_nav_shop nav-cat hide row" style="display: none;">
+              <li>
           <div class="category">
             <a href="http://www.alexandani.com/bangles.html">
               <img src="http://www.alexandani.com/media/catalog/category/AA_nav_bangles.jpg" alt="bangles" title="bangles">
@@ -335,9 +393,7 @@ optionalZipCountries = [];
             </a>
           </div>
         </li>
-
-                              
-        <li>
+                      <li>
           <div class="category">
             <a href="http://www.alexandani.com/necklaces.html">
               <img src="http://www.alexandani.com/media/catalog/category/nav_necklace.jpg" alt="necklaces" title="necklaces">
@@ -345,9 +401,7 @@ optionalZipCountries = [];
             </a>
           </div>
         </li>
-
-                              
-        <li>
+                      <li>
           <div class="category">
             <a href="http://www.alexandani.com/earrings.html">
               <img src="http://www.alexandani.com/media/catalog/category/nav_earrings_3.jpg" alt="earrings" title="earrings">
@@ -355,9 +409,7 @@ optionalZipCountries = [];
             </a>
           </div>
         </li>
-
-                              
-        <li>
+                      <li>
           <div class="category">
             <a href="http://www.alexandani.com/rings.html">
               <img src="http://www.alexandani.com/media/catalog/category/AA_nav_expandable_rings.png" alt="rings" title="rings">
@@ -365,9 +417,15 @@ optionalZipCountries = [];
             </a>
           </div>
         </li>
-
-                              
-        <li>
+                      <li>
+          <div class="category">
+            <a href="http://www.alexandani.com/handbags-1.html">
+              <img src="http://www.alexandani.com/media/catalog/category/gabriel_collection_2.jpg" alt="Handbags" title="Handbags">
+              <p class="cat_name">Handbags</p>
+            </a>
+          </div>
+        </li>
+                      <li>
           <div class="category">
             <a href="http://www.alexandani.com/collections.html">
               <img src="http://www.alexandani.com/media/catalog/category/nav_collection.jpg" alt="collections" title="collections">
@@ -375,10 +433,9 @@ optionalZipCountries = [];
             </a>
           </div>
         </li>
+                          </ul>
 
-                    </ul>
-
-      <ul class="gift nav-cat link-list hide row" style="display: none;">
+      <ul class="top_nav_gift nav-cat link-list hide row" style="display: none;">
                 <li>
             <div class="category">
               <a href="http://www.alexandani.com/gifts/for-her.html">
@@ -405,7 +462,7 @@ optionalZipCountries = [];
           </li>
                         </ul>
 
-            <ul class="about nav-cat link-list hide row" style="display: none;">
+      <ul class="top_nav_about nav-cat link-list hide row" style="display: none;">
          <li>
           <a href="http://www.alexandani.com/our-story">
             <img src="/media/wysiwyg/top-nav/our-story/carolyn-topnav.jpg">
@@ -420,20 +477,19 @@ optionalZipCountries = [];
         </li>
         <li>
           <a href="http://www.alexandani.com/charity-by-design/">
-            <img src="http://cdn.alexandani.com/media/wysiwyg/top-nav/about/cbd_summer_nav_v2.jpg">
+            <img src="/media/wysiwyg/top-nav/about/cbd_summer_nav_v2.jpg">
             <p class="cat_name">charity by design</p>
           </a>
         </li>
         <li>
           <a href="http://www.alexandani.com/vintage-sixty-six/">
-            <img src="http://cdn.alexandani.com/media/wysiwyg/top-nav/about/natural_wonders_v4.jpg">
+            <img src="/media/wysiwyg/top-nav/about/natural_wonders_v4.jpg">
             <p class="cat_name">vintage sixty-six</p>
           </a>
         </li>
       </ul>
 
-
-            <ul class="exp nav-cat link-list hide" style="display: none;">
+      <ul class="top_nav_exp nav-cat link-list hide" style="display: none;">
           <li>
           <a href="http://www.alexandani.com/locations/">
             <img src="/media/wysiwyg/top-nav/about/Southampton.JPG">
@@ -455,19 +511,17 @@ optionalZipCountries = [];
             <li>
         <a href="http://www.alexandani.com/press/index/">
           <img src=" /media/wysiwyg/top-nav/experience/wmagazine_pressnavcopy.jpg">
-          </a><p class="cat_name"><a href="http://www.alexandani.com/press/index/">press worthy</a>
-          
-             </p></li></ul>
-      <div class="nav-cat search-form-container search hide" style="display: none;">
+          <p class="cat_name">press worthy</p></a>
+</li>
+             </ul>
+      <div class="nav-cat search-form-container top_nav_search hide" style="display: none;">
         <form id="search_mini_form" action="/catalogsearch/result/" method="get">
           <div class="form-search">
             <input id="search" type="text" name="q" value="Have something in mind? Just type it..." class="input-text" maxlength="128" onclick="this.value=='Have something in mind? Just type it...'?this.value='':''" onblur="this.value==''?this.value='Have something in mind? Just type it...':''" autocomplete="off">
-            <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
             <div id="hit" class="hide">HIT ENTER</div>
             <script type="text/javascript">
               //<![CDATA[
                   var searchForm = new Varien.searchForm('search_mini_form', 'search');
-                  searchForm.initAutocomplete('/catalogsearch/ajax/suggest/', 'search_autocomplete');
               //]]>
             </script>
           </div>
@@ -478,73 +532,74 @@ optionalZipCountries = [];
 </div>
 </div>
 
-
 <div class="header-container hide-for-medium-up small">
-
-<script>
-
-/*! Pushy - v0.9.1 - 2013-9-16
-* Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
-* https://github.com/christophery/pushy/
-* by Christopher Yee */
-
-jQuery( document ).ready(function( $ ) {
-
-/*! Sidr - v1.2.1 - 2013-11-06
- * https://github.com/artberri/sidr
- * Copyright (c) 2013 Alberto Varela; Licensed MIT */
-(function(e){var t=!1,i=!1,n={isUrl:function(e){var t=RegExp("^(https?:\\/\\/)?((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|((\\d{1,3}\\.){3}\\d{1,3}))(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*(\\?[;&a-z\\d%_.~+=-]*)?(\\#[-a-z\\d_]*)?$","i");return t.test(e)?!0:!1},loadContent:function(e,t){e.html(t)},addPrefix:function(e){var t=e.attr("id"),i=e.attr("class");"string"==typeof t&&""!==t&&e.attr("id",t.replace(/([A-Za-z0-9_.\-]+)/g,"sidr-id-$1")),"string"==typeof i&&""!==i&&"sidr-inner"!==i&&e.attr("class",i.replace(/([A-Za-z0-9_.\-]+)/g,"sidr-class-$1")),e.removeAttr("style")},execute:function(n,s,a){"function"==typeof s?(a=s,s="sidr"):s||(s="sidr");var r,d,l,c=e("#"+s),u=e(c.data("body")),f=e("html"),p=c.outerWidth(!0),g=c.data("speed"),h=c.data("side"),m=c.data("displace"),v=c.data("onOpen"),y=c.data("onClose"),x="sidr"===s?"sidr-open":"sidr-open "+s+"-open";if("open"===n||"toggle"===n&&!c.is(":visible")){if(c.is(":visible")||t)return;if(i!==!1)return o.close(i,function(){o.open(s)}),void 0;t=!0,"left"===h?(r={left:p+"px"},d={left:"0px"}):(r={right:p+"px"},d={right:"0px"}),u.is("body")&&(l=f.scrollTop(),f.css("overflow-x","hidden").scrollTop(l)),m?u.addClass("sidr-animating").css({width:u.width(),position:"absolute"}).animate(r,g,function(){e(this).addClass(x)}):setTimeout(function(){e(this).addClass(x)},g),c.css("display","block").animate(d,g,function(){t=!1,i=s,"function"==typeof a&&a(s),u.removeClass("sidr-animating")}),v()}else{if(!c.is(":visible")||t)return;t=!0,"left"===h?(r={left:0},d={left:"-"+p+"px"}):(r={right:0},d={right:"-"+p+"px"}),u.is("body")&&(l=f.scrollTop(),f.removeAttr("style").scrollTop(l)),u.addClass("sidr-animating").animate(r,g).removeClass(x),c.animate(d,g,function(){c.removeAttr("style").hide(),u.removeAttr("style"),e("html").removeAttr("style"),t=!1,i=!1,"function"==typeof a&&a(s),u.removeClass("sidr-animating")}),y()}}},o={open:function(e,t){n.execute("open",e,t)},close:function(e,t){n.execute("close",e,t)},toggle:function(e,t){n.execute("toggle",e,t)},toogle:function(e,t){n.execute("toggle",e,t)}};e.sidr=function(t){return o[t]?o[t].apply(this,Array.prototype.slice.call(arguments,1)):"function"!=typeof t&&"string"!=typeof t&&t?(e.error("Method "+t+" does not exist on jQuery.sidr"),void 0):o.toggle.apply(this,arguments)},e.fn.sidr=function(t){var i=e.extend({name:"sidr",speed:200,side:"left",source:null,renaming:!0,body:"body",displace:!0,onOpen:function(){},onClose:function(){}},t),s=i.name,a=e("#"+s);if(0===a.length&&(a=e("<div />").attr("id",s).appendTo(e("body"))),a.addClass("sidr").addClass(i.side).data({speed:i.speed,side:i.side,body:i.body,displace:i.displace,onOpen:i.onOpen,onClose:i.onClose}),"function"==typeof i.source){var r=i.source(s);n.loadContent(a,r)}else if("string"==typeof i.source&&n.isUrl(i.source))e.get(i.source,function(e){n.loadContent(a,e)});else if("string"==typeof i.source){var d="",l=i.source.split(",");if(e.each(l,function(t,i){d+='<div class="sidr-inner">'+e(i).html()+"</div>"}),i.renaming){var c=e("<div />").html(d);c.find("*").each(function(t,i){var o=e(i);n.addPrefix(o)}),d=c.html()}n.loadContent(a,d)}else null!==i.source&&e.error("Invalid Sidr Source");return this.each(function(){var t=e(this),i=t.data("sidr");i||(t.data("sidr",s),"ontouchstart"in document.documentElement?(t.bind("touchstart",function(e){e.originalEvent.touches[0],this.touched=e.timeStamp}),t.bind("touchend",function(e){var t=Math.abs(e.timeStamp-this.touched);200>t&&(e.preventDefault(),o.toggle(s))})):t.click(function(e){e.preventDefault(),o.toggle(s)}))})}})(jQuery);
-
-});
-</script>
-
-
 <div id="sticky-header">
     <a href="/checkout/cart/" class="sticky-nav-right"><span class="m-nav-icon icon-shopping-bag"></span></a>
     <a id="simple-menu" class="sticky-nav-left" href="#sidr"><span class="m-nav-icon icon-menu"></span></a>
     <a class="sticky-logo" href="/"><img src="/skin/frontend/enterprise/responsive/images/alex-and-ani-logo.png"></a>
 </div>
 <div id="sidr">
-    <!-- Your content -->
     <ul>
-
         <li class="search-block">
-
             <form id="search_mini_form_mobile" action="/catalogsearch/result/" method="get">
-              <div class="form-search">
-                <div id="mobile-search-field">
-                <input id="search_mobile" type="text" name="q" value="SEARCH..." class="input-text" maxlength="128" onclick="this.value=='SEARCH...'?this.value='':''" onblur="this.value==''?this.value='SEARCH...':''" autocomplete="off" \="">
-            </div>
-            <div id="mobile-search-icon">
-                <span onclick="document.getElementById('search_mini_form_mobile').submit();" class="m-nav-icon icon-search"></span>
-            </div>
-            <div class="clear"></div>
-                <script type="text/javascript">
-                      //<![CDATA[
-                      var searchForm = new Varien.searchForm('search_mini_form_mobile', 'search_mobile');
-                      //]]>
-                      </script>
-                  </div>
-              </form>
-              <div class="mobile-nav-seperator">Menu</div>
-          </li>
-
-
+                <div class="form-search">
+                    <div id="mobile-search-field">
+                        <input id="search_mobile" type="text" name="q" value="SEARCH..." class="input-text" maxlength="128" onclick="this.value=='SEARCH...'?this.value='':''" onblur="this.value==''?this.value='SEARCH...':''" autocomplete="off" \="">
+                    </div>
+                    <div id="mobile-search-icon">
+                        <span onclick="document.getElementById('search_mini_form_mobile').submit();" class="m-nav-icon icon-search"></span>
+                    </div>
+                    <div class="clear"></div>
+                    <script type="text/javascript">
+                    //<![CDATA[
+                    var searchForm = new Varien.searchForm('search_mini_form_mobile', 'search_mobile');
+                    //]]>
+                    </script>
+                </div>
+            </form>
+            <div class="mobile-nav-seperator">Menu</div>
+        </li>
             <li class="link"><a class="my-account" href="/customer/account/login/"><span class="m-nav-icon icon-user"></span>My Account </a></li>
-    
-        <li class="link"><a href="/checkout/cart/"><span class="m-nav-icon icon-shopping-bag"></span>
-                    </a><a class="shopping-bag" href="http://www.alexandani.com/checkout/cart/">Shopping Bag </a>
+            <li class="link"><a href="/checkout/cart/"><span class="m-nav-icon icon-shopping-bag"></span><!--{CART_SIDEBAR_4120c155bcbfd40a468b8b382055c4b2}-->
+                    </a><a class="shopping-bag" href="http://www.alexandani.com/checkout/cart/">Bag </a>
 
-</li>
+<!--/{CART_SIDEBAR_4120c155bcbfd40a468b8b382055c4b2}--></li>
         <li class="link"><a href="/locations"><span class="m-nav-icon icon-gps-location"></span>Find a Store</a></li>
         <li class="mobile-nav-seperator">Shop</li>
-        
-    <li class="link"><a href="http://www.alexandani.com/bangles.html/"><span class="m-nav-icon icon-bangle"></span>bangles</a></li><li class="link"><a href="http://www.alexandani.com/necklaces.html/"><span class="m-nav-icon icon-necklace"></span>necklaces</a></li><li class="link"><a href="http://www.alexandani.com/earrings.html/"><span class="m-nav-icon icon-earring"></span>earrings</a></li><li class="link"><a href="http://www.alexandani.com/rings.html/"><span class="m-nav-icon icon-ring"></span>rings</a></li><li class="link"><a href="http://www.alexandani.com/collections.html/"><span class="m-nav-icon icon-bangle"></span>collections</a></li>
+            <li class="link">
+        <a href="http://www.alexandani.com/bangles.html">
+            <span class="m-nav-icon icon-bangle"></span> bangles        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/necklaces.html">
+            <span class="m-nav-icon icon-necklace"></span> necklaces        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/earrings.html">
+            <span class="m-nav-icon icon-earring"></span> earrings        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/rings.html">
+            <span class="m-nav-icon icon-ring"></span> rings        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/handbags-1.html">
+            <span class="m-nav-icon icon-bangle"></span> Handbags        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/collections.html">
+            <span class="m-nav-icon icon-bangle"></span> collections        </a>
+    </li>
+    <li class="link">
+        <a href="http://www.alexandani.com/november-2014-bangle-of-the-month.html">
+            <span class="m-nav-icon icon-bangle"></span> November 2014 Bangle of the Month        </a>
+    </li>
 
     </ul>
 </div>
 
-<script>
+<script type="text/javascript">
+//<![CDATA[
 jQuery( document ).ready(function( $ ) {
 
     if( !$(".header-container.hide-for-small").is(":visible")) {
@@ -616,15 +671,12 @@ jQuery( document ).ready(function( $ ) {
     });
 
 });
-
+//]]>
 </script>
-
-
-
 
 </div>
 
-                <div class="breadcrumbs row">
+        <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->        <!--{PAGE_BREADCRUMBS_61c52cf540b5e4fc6ed73df72984f09c}--><div class="breadcrumbs row">
     <ul>
                     <li class="home">
                             <a href="http://www.alexandani.com/" title="Go to Home Page">Home</a>
@@ -635,9 +687,9 @@ jQuery( document ).ready(function( $ ) {
                                     </li>
             </ul>
 </div>
-        <div class="main col1-layout">
+<!--/{PAGE_BREADCRUMBS_61c52cf540b5e4fc6ed73df72984f09c}-->        <div class="main col1-layout">
             <div class="col-main">
-                <div class="std"><div id="static-cms-page">
+                <div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><div id="static-cms-page">
 	<div class="col-left sidebar">
 <div class="block block-account">
 <div class="block-title">
@@ -762,7 +814,7 @@ To be sure your connection is secure, look at the bottom status bar of your brow
         </div>
                 
 <div class="footer-image">
-  <img class="footer-img" alt="footer-img" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/images/madeinamericawithlove.png">
+  <img class="footer-img" alt="footer-img" src="http://www.alexandani.com/skin/frontend/enterprise/responsive/images/AA_13_StarHeart.png">
 </div>
 
 
@@ -810,6 +862,8 @@ To be sure your connection is secure, look at the bottom status bar of your brow
           <li class="columns large-5 small-1"><a href="http://www.linkedin.com/company/alexandani" target="_blank"><span class="m-nav-icon icon-social-linkedin"></span><span class="social-link-text">LinkedIn</span></a></li>
 
 <li class="columns large-5 small-1"><a href="https://vine.co/alexandani" target="_blank"><span class="m-nav-icon icon-social-vine"></span><span class="social-link-text">Vine</span></a></li>
+
+<li class="columns large-5 small-1"><a href="http://wanelo.com/alexandani" target="_blank"><span class="m-nav-icon icon-social-wanelo"></span><span class="social-link-text">Wanelo</span></a></li>
 
         </ul>          <!--
         <ul id='footer-social' class="columns large-3 small-12 push-6">
@@ -905,7 +959,7 @@ To be sure your connection is secure, look at the bottom status bar of your brow
           <li><a href="http://www.alexandani.com/product-care/">Product Care</a></li>
           <li><a href="http://www.alexandani.com/shipping-and-returns/">Shipping &amp; Returns</a></li>
           <li><a href="http://www.alexandani.com/contact-us/">Contact Us</a></li>
-          <li><a href="http://www.alexandani.com/virtual-gift-cards.html/">Gift Cards</a></li>
+          <li><a href="http://www.alexandani.com/virtual-gift-cards.html/">E-Gift Cards</a></li>
         </ul>          <!--
         <ul class="columns large-3 small-12 pull-6">
           <li class="toggler">
@@ -923,15 +977,19 @@ To be sure your connection is secure, look at the bottom status bar of your brow
       </div>
       <div class="clear"></div>
       <div class="bottom-footer">
-        <address>© 2014 Alex and Ani</address>
-        <a class="energy">Made with Positive Energy</a>
-        <!--{RESPONSIVE_SWITCH_332532060d16fe3213672ca5ba0bdf52}--> <a class="response-switch" href="/responsive/set/index/state/false">View Desktop Site</a> 
+        <address>© 2014 Alex and Ani, LLC</address>
+        <a class="energy">ENERGY</a>
+        <!--{RESPONSIVE_SWITCH_332532060d16fe3213672ca5ba0bdf52}-->    <a class="response-switch" href="http://www.alexandani.com/responsive/set/index/state/false/">View Desktop Site</a>
+
 <!--/{RESPONSIVE_SWITCH_332532060d16fe3213672ca5ba0bdf52}-->        <div class="clear"></div>
       </div>
 
     </div>
 </div>
 <img style="width:0px;height:0px;" width="1" height="1" src="/skin/frontend/enterprise/responsive/images/waiting_animation.gif">
+        <!--{WISHLISTS_0a62920bc25654f05711578c0018ac7f}--><!--/{WISHLISTS_0a62920bc25654f05711578c0018ac7f}-->    <!-- BEGIN: Adobe DTM Call -->
+    <script type="text/javascript">if(typeof window.__satellite=='object')__satellite.pageBottom()</script>
+    <!-- END: Adobe DTM Call -->
         
 <!-- popup styles -->
 <style type="text/css">
@@ -1146,6 +1204,6 @@ jQuery(document).ready(function(){
 </script>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ddb2f37630","applicationID":"2287077","transactionName":"YVUDYkIEChAEUEdfXVgfIFVEDAsNSkNSUVdVUQJeVUoWBhRGVkVGGUATWVMAFxA=","queueTime":0,"applicationTime":267,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ddb2f37630","applicationID":"2287077","transactionName":"YVUDYkIEChAEUEdfXVgfIFVEDAsNSlBeRR1GUQZTHxMNBhI=","queueTime":0,"applicationTime":446,"ttGuid":"","agentToken":"","atts":"TRIAFAoeGR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
