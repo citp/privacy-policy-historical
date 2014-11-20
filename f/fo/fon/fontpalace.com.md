@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontpalace.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628212014id_/http%3A//www.fontpalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontpalace.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094434id_/http%3A//www.fontpalace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free fonts download for Windows and Mac - FontPalace.com
 
