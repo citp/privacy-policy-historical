@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326142102id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203848id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 55Places.com
 
