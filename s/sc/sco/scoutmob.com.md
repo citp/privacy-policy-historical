@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082201id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120043932id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
 
 # inspired goods by independent makers | handmade jewelry | t-shirts | unique gifts - Scoutmob Shoppe
 
