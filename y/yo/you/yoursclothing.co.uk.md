@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219150431id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225819id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
