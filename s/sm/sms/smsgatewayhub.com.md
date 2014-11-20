@@ -1,93 +1,62 @@
-> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511021630id_/http%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120190246id_/http%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SMSGATEWAYHUB
+# Privacy Policy
 
-SMSGATEWAYHUB provides a hard and fast promise to all of our clients and business partners that any and all information stored within the SMSGATEWAYHUB infrastructure is fully secure and handled in accordance with all relevant acts 100% of the time. We understand and appreciate that you trust us to handle your information in the same way that we trust our suppliers to handle ours, and with this trust comes great responsibility. We take this extremely seriously!
+**Privacy Policy**
 
-The security and Privacy of all information includes all personal and business related information which SMSGATEWAYHUB has detailed during the cause of doing business with you. SMSGATEWAYHUB will act in the best interest of you – our customers – at all times, and we are 100% committed to ensuring the privacy and security of your information.
+This Privacy Policy applies to all of the Services offered by the Company through the Site. Company may from time to time modify this Privacy Policy to reflect the current practices and policies employed by the Company for your data.
 
-Yours sincerely,
+If you have any questions about this Privacy Policy, please feel free to contact us at
 
-Gulpreet Singh Arora  
-MD, SMSGATEWAYHUB 
+SMSGATEWAYHUB Technologies Resourses Pvt Ltd.  
+109, Royal Ratan Building  
+7 MG Road, Indore  
+Madhya Pradesh- 452001, India
 
-### The data is yours
+Tel:   +91.731.6450666  
+Mobile:   +919009402256  
+Email: [support@smsgatewayhub.com](https://web.archive.org/web/20141120190246id_/http%3A//www.smsgatewayhub.com/support@smsgatewayhub.com)
 
-This is not news to anybody but we like to be clear and make sure everyone knows what is going on. The information you provide to SMSGATEWAYHUB is yours and it is our policy not to use, share, sell or rent this information in any way.
+**Information we collect:**  
+We may collect your Personally identifiable information, financial details (e.g., credit card no., login IDs/ user names for using third party payment services), technical details, content transmitted through the Service, etc. You are required to provide these details at the time of registering at the Site, or at the time of making any payments for purchasing the Company’s Service, or at the time you access the Site.
 
-Having said that, we may use the collected personal information and other information we collect about your use of the service to improve the quality of the service we provide for you.
+**How we use the collected information:**  
+We use your personally identifiable information and financial to:
 
-We may also be required to transmit or share your personal information with our third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the service. This may require that your personal information be transferred from its current location to the offices and servers of SMSGATEWAYHUB and the authorised third parties referred to here.
-
-### What information do we collect?
-
-For the sake of transparency, below is a list of the information we require from all our customers, which we use to help us deliver the personalised service we know you enjoy from us.
-
-  1. Name and contact details (email address, postal address, telephone and fax numbers)
-  2. Credit card details (credit card number, expiry date, CSV number, and the name on the card)
-
-
-
-### …and how do we collect it?
-
-  1. Via our website (www.smsgatewayhub.com)
-
-
-
-Conversations with you over the phone ( **07316450666** )
-
-  1. Email conversations with our team (support@smsgatewayhub.com)
-  2. Traditional snail mail (Ug-19 Johri Palace near TI Mall MG Road, Indore – Madhya Pradesh)
+  * Identify you as a user of Company’s Services;
+  * Provide access to the Services;
+  * Provide regular updates to you about new features and promotions associated with the Services;
+  * Provide updates related to any other service offered by the Company and its affiliates;
+  * Facilitate payment transactions you conclude through the Site at third party payment service providers;
+  * Share it with third party service providers required for provision of Company’s Services;
+  * Improve security infrastructure, Company employs to protect your information.
 
 
 
-Although SMSGATEWAYHUB owns the software, code, databases and all rights to the SMSGATEWAYHUB applications, you retain all rights to your data. (What’s ours is ours and what’s yours is yours)
+We use any technical information provided by you to:
 
-### Security of your information
-
-SMSGATEWAYHUB will take all reasonable steps to protect your information from misuse and loss from any unauthorised access, modifications and disclosure.  We have purposely built all of our applications and internal management systems with the aim of preventing any of your information from being disclosed by any unauthorised means.
-
-As hard as we try to ensure 100% security, there are inherent risks associated with using the internet.  In order to access and change any of your private account information or for our team members to provide you with these details over the phone, you will be required to identify your account via the individual account name.
-
-### Message content storage
-
-SMSGATEWAYHUB stores the content of all the messages sent by our users.  We treat the content of your messages as privately and securely as all other information and it is not accessible by any other users or SMSGATEWAYHUB team members without prior consent of the account administrator.
-
-### We’ll grant you access to your data
-
-On request, SMSGATEWAYHUB will provide the administrator of your account with a full export of the organisation’s data in a common file format determined by SMSGATEWAYHUB. The organisation’s data may be permanently deleted by SMSGATEWAYHUB 90 days after you stop paying to use our services, or at the administrator’s request.
-
-### We don’t store credit card details
-
-When you register for our service, we ask for information such as your name, company name, e-mail  address and mobile number.  You are not required to enter your credit card information until you decide to purchase prepaid SMS. SMSGATEWAYHUB uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information other than for the sole purpose of credit card processing on SMSGATEWAYHUB behalf.
-
-### We monitor our systems
-
-SMSGATEWAYHUB will never ever access the details of any transaction entered and stored in our system or system usage history for a specific identifiable user, except when granted permission by the user to assist with resolution of a system issue or error. SMSGATEWAYHUB may access non-identifying and aggregated usage information about our customers, in order to better understand you are using our services. We do this so that we can improve our system design and, where appropriate, have the system prompt users with suggestions on ways to improve their own use of the system.
-
-### Disclosure
-
-In line with this privacy and security policy SMSGATEWAYHUB continues to treat all of your information as strictly confidential and private.  We may, however, need to disclose information under the following circumstances:
-
-  1. You have consented disclosure
-  2. It is essential in order for a third party to provide services to us (eg. credit card merchant)
-  3. We are required by a law enforcement agency, government agency, court or external advisor
-  4. SMSGATEWAYHUB is permitted by law or in the interest of public safety
+  * To store a small text based files, called Cookies, to improve the quality of our service, including for storing user preferences, improving the Service and tracking user trends.
+  * When you access the Site, Company’s servers automatically record information that your browser sends to the Server.
 
 
 
-### You can opt out of any email communications
+We use your contents transmitted through the Service to:
 
-SMSGATEWAYHUB sends out billing information, product information, service updates and regular customer newsletters to our registered users via email.  We will include clear and simple instructions describing how you can opt out and be removed from the mailing list where appropriate.  SMSGATEWAYHUB will ensure you are instantly removed from our mailing lists.
+  * Provide access to the Service;
+  * Comply with any regulatory directions and orders;
 
-###  Please remember to check the privacy policy of any third party website links
 
-The SMSGATEWAYHUB website may contain links to other websites for your own reference. We don’t take responsibility for the privacy or content of these websites. Please make sure you check their privacy policies before using other applications.
 
-### Your consent
+**Third party Sites**  
+This Privacy Policy applies only to Company’s services. Company has no control over any third party Sites or links that may be available at the Site. You are, therefore, advised to check the privacy policy applicable to such third party Sites before You share any of your information with them.
 
-By continuing to use our service and by providing SMSGATEWAYHUB with information, you consent to the collection, use and disclosure of your information in the manner described above in this policy and security document and any subsequent amendments.
+If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-### Updates from time to time
+**Security**  
+Company employs appropriate security measures to protect any information that you may provide. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. However, Company does not claim that such security measures may be sufficient due to inherent nature and security risks associated with information transmitted through internet.
 
-SMSGATEWAYHUB reserves the right to make changes to this policy at any time. We will post our changes on the website and highlight the changes we have made so you are always aware of where you stand.
+**Disclosure**  
+Apart for disclosing your information to a third party service provider, Company may share your information with security agencies in case it is required to comply with any court order or governmental direction. Company may also disclose your information to enforce the Terms or to prevent any breach of Terms.
+
+**Accessing your data  **  
+You may access, modify and remove your personal information by accessing your use account at the Site. Company may ask for your identity proof to verify your antecedents to prevent any unauthorized disclosure or misuse of data.
