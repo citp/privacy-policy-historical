@@ -1,63 +1,107 @@
-> *The following text is extracted and transformed from the tamiltwist.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209210232id_/http%3A//www.tamiltwist.com/2010/02/tamiltwist-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094608id_/http%3A//www.tamiltwist.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
-# Tamiltwist Privacy Policy ~ Watch High Quality Tamil Movies Online
+# Privacy Policy | Your Tamil Entertainment Online
 
-##  **Effective Sep, 2010**
+**_Privacy Policy_**
 
-[www.tamiltwist.com](http://www.tamiltwist.com/) welcomes you. We value your privacy, and want you to know what information we collect and what we do with it.  
-From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
+[TAMILTWIST] (“We”) are committed to protecting and respecting your privacy.  
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following
 
-###  Information Collected by Tamiltwist.com
+carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our
 
-tamiltwist.com has areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.
+website and recognise the importance of keeping that information secure and letting you know what we will do with it.  
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is [TAMILTWIST] of [www.tamiltwist.com].  
+This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control
 
-###  Information Provided to Tamiltwist.com
+over that policy or the terms of the website and you should check their policy before continuing to access the site.  
+INFORMATION WE MAY COLLECT FROM YOU  
+We may collect and process the following data about you:  
+• Information that you provide by filling in forms on our site [TAMILTWIST] (our site). This includes information provided at the time of registering to
 
-tamiltwist.com features certain areas where we ask you to provide information to us.
+use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.  
+• If you contact us, we may keep a record of that correspondence.  
+• Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other
 
-###  Registration:
+communication data, whether this is required for our own purposes or otherwise and the resources that you access.  
+IP ADDRESSES AND COOKIES  
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and
 
-You may register with us to use some of our member only features on our site. We may also offer the option for you to register with us or sign up for our mailing list without having to use any other product or service. During registration, you provide your “contact information” (which identifies you and how we can contact you, such as your name and email address) as well as certain demographic information (which describes certain information about you, such as your country of residence). You may be asked to enter an e-mail address and password. We may also ask you to provide additional information about your music preferences, so that we can cater to those preferences.
+to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual
 
-###  Communications from Us and Mailing Lists:
+and we will not collect personal information in this way.  
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain
 
-In order to keep our members informed about the operation of our services, we will send e-mails and announcements that are needed for the proper functioning and administration of our site and subscription service. For additional information about our site, services and offers, we give our members the option of joining our mailing list. We also allow you to choose whether to receive mails from partners and sponsors that we think will be of interest to you. Each marketing e-mail from us will come with instructions on how to unsubscribe from our mailing list.
+information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable
 
-###  Communications with Us:
+us:  
+• To estimate our audience size and usage pattern.  
+• To store information about your preferences, and so allow us to customise our site according to your individual interests.  
+• To speed up your searches.  
+• To recognise you when you return to our site.  
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting
 
-We have features where you can submit information to us (such as when contacting us with a question or problem related to the service). We will retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies
 
-###  Interactive Features:
+when you log on to our site.  
+WHERE WE STORE YOUR PERSONAL DATA  
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by
 
-We also may offer interactive features, such as message boards, Comment section, etc. Note that all personal information you send or post via such features becomes public information, and we are not responsible for any information you choose to make public (including any online identifier, such as an email address, instant messenger name or member name). We may store such information in an aggregate form but we will not file or retain such information on a personal basis. We may monitor such traffic via electronic software or personnel but only to check for obscenity, defamation or other types of abusive language, which we reserve the right to remove at any time.  
-Surveys:  
-We may occasionally ask members to participate in surveys. Such surveys will be voluntary. They are intended to improve your member experience and any information you provide we may associate with your member name for future use. Any personal information collected will be used only by us unless we specify otherwise, although we may share aggregate survey result information with others.
+staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the
 
-###  Automatic Data Collection:  
-Cookies:
+processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We
 
-We use a software technology called “cookies” for several purposes, depending on the type of cookie employed. Within  tamiltwist.com, we use what are commonly called “session” cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called “persistent” cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be pre populated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in.
+will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have
 
-###  Others:
+chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a
 
-In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do sometimes collect/capture other data such as a member’s searches (such as their search criteria and results). For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration.
+password with anyone.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot
 
-###  Third Party Advertising & Third Party Cookies:
+guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+procedures and security features to try to prevent unauthorised access.  
+USES MADE OF THE INFORMATION  
+We use information held about you in the following ways:  
+• To ensure that content from our site is presented in the most effective manner for you and for your computer.  
+• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be
 
-###  With whom we share your information:
+contacted for such purposes.  
+• To carry out our obligations arising from any contracts entered into between you and us.  
+• To allow you to participate in interactive features of our service, when you choose to do so.  
+• To notify you about changes to our service.  
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest
 
-We do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency’s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. We may share (provide and receive) with others certain aggregate service information, which is not personally identifiable. This information may include usage and demographic data, but it will not include personal information (such as your email address). We may use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes.
+to you and we or they may contact you about these by [post or telephone].  
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the
 
-###  Links:
+form on which we collect your data.  
+DISCLOSURE OF YOUR INFORMATION  
+We may disclose your personal information to third parties:  
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such
 
-We may display links to other sites within  tamiltwist.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.
+business or assets.  
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, our customers, or others. This includes
 
-###  Downloads:
+exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
+YOUR RIGHTS  
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to
 
-We do link to other web sites which might support downloads. We are not responsible for the downloadable materials that are present in these websites. We are also not responsible for the legalities and privacy policy binding the downloadable materials of these websites. We are also not responsible for the legalities and privacy policy binding these downloads in the websites that our visitors refer to in our forums and discussions. Downloads referred to in this privacy policy can be videos, images, software, games and any application files.  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>  
-» Google, as a third party vendor, uses cookies to serve ads on our site.  
-» Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-» Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such
+
+processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at
+
+[[ **http://www.tamiltwist.com/2014/01/contact-us/**](http://www.tamiltwist.com/2014/01/contact-us/)].  
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these
+
+websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check
+
+these policies before you submit any personal data to these websites.  
+ACCESS TO INFORMATION  
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.  
+CHANGES TO OUR PRIVACY POLICY  
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise
+
+that you check this page regularly to keep up to date with any necessary changes.  
+CONTACT  
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [<http://www.tamiltwist.com/2014/01/contact-us/>].
