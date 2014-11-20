@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329094140id_/http%3A//www.wsc.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060639id_/http%3A//www.wsc.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # When Saturday Comes - Privacy & cookies
 
