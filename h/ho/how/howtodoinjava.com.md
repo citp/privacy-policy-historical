@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtodoinjava.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121702id_/http%3A//howtodoinjava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtodoinjava.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212525id_/http%3A//howtodoinjava.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | How To Do In Java
+# Privacy policy - How To Do In Java
 
 **What information do we collect?**
 
