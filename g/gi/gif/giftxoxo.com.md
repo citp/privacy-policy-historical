@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630132225id_/http%3A//www.giftxoxo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122414id_/http%3A//www.giftxoxo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Giftxoxo.com
+# Privacy Policy, personal information details | Giftxoxo.com
 
 We value the trust you place in Giftxoxo.com. That's why we insist upon the highest standards for your secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-1\. By visiting this Website you agree to be bound by the Privacy Policy read with Terms and Conditions of Giftxoxo.com. If you do not agree please do not use or access our Website.  
-2\. By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. We will only keep your information for as long as we are either required by law or as is relevant for the purposes for which it was collected.This Privacy Policy is incorporated into and subject to the Terms and Conditions of Giftxoxo.com.
+1.By visiting this Website you agree to be bound by the Privacy Policy read with Terms and Conditions of Giftxoxo.com. If you do not agree please do not use or access our Website.  
+2\. By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. We will only keep your information for as long as we are either required by law or as is relevant for the purposes for which it was collected. This Privacy Policy is incorporated into and subject to the Terms and Conditions of Giftxoxo.com.
 
 **Note** : Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
 ###  Collection of Personally Identifiable Information
 
-Giftxoxo keeps a track of your information to offer you the best possible gifting experience. Before completing your gifting process we collect personally identifiable information (i.e. email address, name, phone number, etc.) from you when you set up an account with Giftxoxo.com. While you can browse some sections of our Site without being a registered member, certain activities do require registration. You can see, review and change your personal information through the Application. Further, we or our associate companies may use your email address to notify you about new services or special promotional programs, or send you offers or information based on your previous orders and interests. Emails are sent only to Giftxoxo members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us, if you wish to stop receiving these emails. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs. If you have any valuable suggestion, please feel free to e-mail us on [cs@Giftxoxo.com](mailto:cs@giftxoxo.com)
+Giftxoxo keeps a track of your information to offer you the best possible gifting experience. Before completing your gifting process we collect personally identifiable information (i.e. email address, name, phone number, etc.) from you when you set up an account with Giftxoxo.com. While you can browse some sections of our Site without being a registered member, certain activities do require registration. You can see, review and change your personal information through the Application. Further, we or our associate companies may use your email address to notify you about new services or special promotional programs, or send you offers or information based on your previous orders and interests. Emails are sent only to Giftxoxo members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us, if you wish to stop receiving these emails. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs. If you have any valuable suggestion, please feel free to e-mail us on cs@Giftxoxo.com
 
 ###  Use of Demographic and Profile Data
 
@@ -23,9 +23,7 @@ We may pass your name and address on to a third party in order to make delivery 
 
 Your actual order details may be stored with us and you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
 
-We shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the site.
-
-Under no circumstances we do rent, trade or share your personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.
+We shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your Information is one of our most important assets. We store and process your Information on computers that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the site.
 
 ###  Cookies
 
@@ -55,7 +53,7 @@ By submitting data to us or our agent or while using the Site, you personally gi
 
 We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
-This Privacy Policy can change at any time to include / exclude clauses and Giftxoxo.com does not bear any responsibility for updating Users on the same.
+his Privacy Policy can change at any time to include / exclude clauses and Giftxoxo.com does not bear any responsibility for updating Users on the same.
 
 ###  Choice/Opt-Out
 
@@ -67,4 +65,4 @@ We use third-party advertising companies to serve ads when you visit our Site. T
 
 ###  Questions
 
-If there are any queries with in regard to the Private Policies mentioned hereinabove, the same can be directed to the following address: [cs@Giftxoxo.com](mailto:cs@giftxoxo.com)
+If there are any queries with in regard to the Privacy Policies mentioned hereinabove, the same can be directed to the following address: cs@Giftxoxo.com
