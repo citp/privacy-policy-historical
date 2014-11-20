@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619074557id_/http%3A//www.nhscareers.nhs.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163808id_/http%3A//www.nhscareers.nhs.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NHS Careers
 
@@ -22,7 +22,7 @@ If you provide feedback on our website we will only use it to develop and improv
 
 ### Statement coverage
 
-This privacy statement only covers the NHS Careers website at . It does not cover links within this site to other websites.
+This privacy statement only covers the NHS Careers website. It does not cover links within this site to other websites.
 
 ### Security
 
