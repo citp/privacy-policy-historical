@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030153id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170103id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -64,7 +64,7 @@ If you are no longer interested in receiving our mail communications, instructio
 
 ## Telemarketing
 
-Although you may have registered your telephone number on a do not call list, certain exemptions (for example, for communicating with established customers) may allow us to contact you via telephone. However, to ensure our customer’s preferences are honored, we also maintain our own internal "Do Not Call" list.  If you would like to opt-out of receiving telemarketing sales calls from us regarding new products and services or upcoming events by adding your telephone number to our internal Do Not Call list, please call in the United States at [1-888-528-7155](livecall:1-888-528-7155).
+Although you may have registered your telephone number on a do not call list, certain exemptions (for example, for communicating with established customers) may allow us to contact you via telephone. However, to ensure our customer’s preferences are honored, we also maintain our own internal "Do Not Call" list.  If you would like to opt-out of receiving telemarketing sales calls from us regarding new products and services or upcoming events by adding your telephone number to our internal Do Not Call list, please call the United Arab Emirates at [00-971-44262000](livecall:00-971-44262000).
 
 ## How do I Correct or Update my Information
 
@@ -76,15 +76,10 @@ We reserve the right to revise this Privacy Policy at any time without notice. 
 
 ## How to Contact Us
 
-If you have any questions regarding this Privacy Policy, please contact us at our postal address:
+If you have any complaints or questions regarding this Privacy Policy, please email us at [info@atlantisthepalm.com](mailto:info@atlantisthepalm.com) or write to us at:
 
-> 1000 South Pine Island Road  
-> Plantation, Florida 33324  
-> United States of America  
-> 
-
-If you do not want to receive e-mail from us in the future, please let us know by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155). If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155), or by replying to the address provided on such mailings.
-
-Upon request we provide Site visitors with access to all information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155), or by writing to us at the address provided above.
-
-If you feel that this Site is not following its stated policy, please contact the Web Administrator at the corporate office in the United States by calling us at [954-809-2000](livecall:954-809-2000).
+> Customer Services  
+> Atlantis The Palm Limited  
+> Crescent Road  
+> The Palm, PO Box 211222  
+> Dubai, UAE 
