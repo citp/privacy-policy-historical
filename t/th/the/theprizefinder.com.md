@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105309id_/http%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045425id_/http%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Prize Finder
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the “Act”), the Data Contro
 
 ## Information we may collect from you
 
-ThePrizeFinder.com is keen to ensure that the principals of our opt-in when your data is collected are clearly explained. The information you volunteer to ThePrizeFinder.com and that Accolade holds about you, will be shared and used to appropriately target offers and marketing communication from ThePrizeFinder.com, from our clients, from our selected third party partners and from Accolade and its other brands. Marketing communication may be through email, mailing, telemarketing, SMS/MMS and door-to-door canvassing, depending on which contact channel information you have volunteered. You may also receive marketing calls via automated voice broadcast over the telephone. Some questions on our Registration Form are specific to our named sponsors, and by expressing a positive interest in their brand or products you are also agreeing to contact from them. By volunteering your phone number you are agreeing to telephone contact by these named sponsors. You may subsequently need to contact these named sponsor brands directly if in the future you decide to opt-out of further communication from these brands.
+ThePrizeFinder.com is keen to ensure that the principals of our opt-in when your data is collected are clearly explained. The information you volunteer to ThePrizeFinder.com and that Accolade holds about you, will be shared and used to appropriately target offers and marketing communication from ThePrizeFinder.com, from our clients, from our selected third party partners and from Accolade and its other brands. Marketing communication may be through email, mailing, telemarketing and SMS/MMS, depending on which contact channel information you have volunteered. You may also receive marketing calls via automated voice broadcast over the telephone. Some questions on our Registration Form are specific to our named sponsors, and by expressing a positive interest in their brand or products you are also agreeing to contact from them. By volunteering your phone number you are agreeing to telephone contact by these named sponsors. You may subsequently need to contact these named sponsor brands directly if in the future you decide to opt-out of further communication from these brands.
 
   * By filling in forms on our site [www.ThePrizeFinder.com](http://www.theprizefinder.com/ "www.ThePrizeFinder.com") (“our site”). We may collect and process the following data about you. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services.
   * Your data may be used for analytical purposes. Your data may also be used in conjunction with data we may have received from other sources in order to improve personalised and targeted communications, and we may share information with other companies for the same reason.
@@ -75,11 +75,9 @@ We use information held about you in the following ways:
 
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-If you are an existing customer, we will contact you by e-mail, phone, post or SMS with information about goods and services similar to those which were the subject of a previous sale to you.
+By registering on ThePrizeFinder you are agreeing that ThePrizeFinder and carefully selected third parties can contact you by e-mail, phone, post or SMS with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data the order form or registration form.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please contact our Data Compliance Department.
 
 ## Disclosure of your information
 
@@ -97,7 +95,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 Accolade Publishing Limited  
 Compliance Department  
-3rd Floor  
+Ground Floor  
 64 Clarendon Road  
 Watford  
 WD17 1DA
@@ -135,7 +133,7 @@ For further information please write to:
 
 Accolade Publishing Limited  
 Compliance Department  
-3rd Floor  
+Ground Floor  
 64 Clarendon Road  
 Watford  
 WD17 1DA
