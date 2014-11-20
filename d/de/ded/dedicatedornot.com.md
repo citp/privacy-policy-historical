@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113902id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045122id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [pohon.org](http://pohon.org.dedicatedornot.com/)
-  2. [112.14.25.1](http://112.14.25.1.dedicatedornot.com/)
-  3. [forarwebb.lulea.se](http://forarwebb.lulea.se.dedicatedornot.com/)
-  4. [ryse.me](http://ryse.me.dedicatedornot.com/)
-  5. [knoxagsales.com](http://knoxagsales.com.dedicatedornot.com/)
-  6. [yanne.ws](http://yanne.ws.dedicatedornot.com/)
+  1. [sr-kosmetik.ch](http://sr-kosmetik.ch.dedicatedornot.com/)
+  2. [www.chayanguose.com](http://www.chayanguose.com.dedicatedornot.com/)
+  3. [coastsr.co.uk](http://coastsr.co.uk.dedicatedornot.com/)
+  4. [www.138marine.co.za](http://www.138marine.co.za.dedicatedornot.com/)
+  5. [biocura.com.vn](http://biocura.com.vn.dedicatedornot.com/)
+  6. [110.50.201.212](http://110.50.201.212.dedicatedornot.com/)
 
 
