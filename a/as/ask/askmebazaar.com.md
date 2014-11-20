@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the askmebazaar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040138id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmebazaar.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050041id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Online Shopping India, Search and Buy Product Deals for Cheap Price. Open Shops Online for Free
 
 This document is published in accordance with the provisions of Rule 4(1) of the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 which requires the publishing of a privacy policy for handling of or dealing in personal information including sensitive personal data or information. 
 
-Getit Stores, Getit bazaar is a brand name of Getit Stores Private Limited, a company incorporated under the provisions of the (Indian) Companies Act, 1956, having its registered office at 8B, Bahadur Shah Zafar Marg, 1st Floor, ITO, New Delhi -110002 (hereinafter referred to as **"Getit Stores"** **"we"** **"us"** or **"our"** ). 
+Getit Stores, AskMeBazaar is a brand name of Getit Stores Private Limited, a company incorporated under the provisions of the (Indian) Companies Act, 1956, having its registered office at 8B, Bahadur Shah Zafar Marg, 1st Floor, ITO, New Delhi -110002 (hereinafter referred to as **"Getit Stores"** **"we"** **"us"** or **"our"** ). 
 
-Any reference to "you" or "your" in this privacy policy (" **Privacy Policy** "), means you as a user of our site [http://www.getitBazaar.com](http://www.getitbazaar.com/)) (" **Site** "), or any other portal as may be lauched by Getit Stores  including you availing any of our online services available on the Site such as buying and selling of merchandise/tangible products (" **Products** "), as a seller and/or buyer (" **User** "), advertising and such other services as may be included and modified from time to time (together referred to as " **Services** "). 
+Any reference to "you" or "your" in this privacy policy (" **Privacy Policy** "), means you as a user of our site [http://www.AskMeBazaar.com](http://www.askmebazaar.com/)) (" **Site** "), or any other portal as may be lauched by Getit Stores  including you availing any of our online services available on the Site such as buying and selling of merchandise/tangible products (" **Products** "), as a seller and/or buyer (" **User** "), advertising and such other services as may be included and modified from time to time (together referred to as " **Services** "). 
 
-As a User, your access to and use of the Site is conditional upon your acceptance of and continued compliance with this Privacy Policy. By using the Site, you agree to be bound by this Privacy Policy and all rules, guidelines, policies, terms and conditions applicable to a Service and/or Indirect Service being provided by Getit Stores (" **Policies** "), as may be modified by Getit Storesfrom time to time, unconditionally and at all times and further agree and confirm that you consent to providing Getit Stores information about yourself for the purpose set out below and you understand that such collection, storage and handling is lawful, necessary and permissible under applicable laws.
+As a User, your access to and use of the Site is conditional upon your acceptance of and continued compliance with this Privacy Policy. By using the Site, you agree to be bound by this Privacy Policy and all rules, guidelines, policies, terms and conditions applicable to a Service and/or Indirect Service being provided by Getit Stores (" **Policies** "), as may be modified by Getit Stores from time to time, unconditionally and at all times and further agree and confirm that you consent to providing Getit Stores information about yourself for the purpose set out below and you understand that such collection, storage and handling is lawful, necessary and permissible under applicable laws.
 
 Each capitalized term not defined but used in this Privacy Policy shall have the same meaning as ascribed to such term in the Terms and Conditions _(defined below)_. ****
 
@@ -142,7 +142,7 @@ We reserve the right, in our sole discretion, to change, modify, add or delete p
 
 **13.               ****Contact details**
 
-Thank you for reading our Privacy Policy and thank you for choosing our Site as your reliable source of news and views on the internet.  If you have any questions about anything contained in the Privacy Policy, you can email us with any questions, queries or complaints at [[help@Getit Stores.com](mailto:help@getitbazaar.com)]. ****
+Thank you for reading our Privacy Policy and thank you for choosing our Site as your reliable source of news and views on the internet.  If you have any questions about anything contained in the Privacy Policy, you can email us with any questions, queries or complaints at [[help@AskMeBazaar.com](mailto:help@askmebazaar.com)]. ****
 
 **14.               ****Disputes**
 
