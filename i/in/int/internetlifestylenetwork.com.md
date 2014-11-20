@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetlifestylenetwork.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060207id_/http%3A//internetlifestylenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetlifestylenetwork.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115609id_/http%3A//internetlifestylenetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Lifestyle NetworkInternet Lifestyle Network
+# Privacy Policy - Internet Lifestyle Network
 
 This site (the “Site”) is owned by Internet Lifestyle Network, LLC, a Florida limited liability company (“us,” “we,” or “Company”). We created this Privacy Policy (“Privacy Policy”) to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
@@ -12,11 +12,13 @@ Our Site provides a range of products and services for you to use in connection 
 
 ### How your Personal Information is Used
 
-We use Personal Information in the following ways: 1) to enable you to use our Site and Marketing Tools; 2) to contact you about our Site, Marketing Tools, and other related products and services in which we think you may be interested; and 3) to customize and tailor your experience on our Site.
+We use Personal Information in the following ways: 1) to enable you to use our Site and Marketing Tools; 2) to contact you about our Site, Marketing Tools, and other related products and services in which we think you may be interested; 3) to update our network, members, community about any malicious or fraudulent activities related to the account; and 4) to customize and tailor your experience on our Site.
 
 We do not sell, license, transfer, and/or share the billing information we collect from you, other than for billing purposes. We use an unaffiliated, credit card processing company to process your payments. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use your personally identifiable information for any other purposes. We use the Transaction Data we collect to enable users to conduct marketing campaigns, test and analyze results, create campaign-related marketing materials, and to calculate commissions. We also collect and analyze non-personally identifiable Transaction Data and the associated IP address to help us improve our Site and Marketing Tools.
 
 Additionally, the registered member that referred you to our Site is able to view your email address. Registered members can also display the name and telephone number for the person who referred them to our Site, as well as the following information about members of their team (i.e. referrals who become registered users of our Site): name, telephone number, login name, and email address.
+
+We reserve the right to share personal information if we believe it will protect the network, members, and community from malicious or fraudulent activities.
 
 You may choose not to provide us with any Personal Information. In such an event, you will not be able to access and use our Site, Marketing Tools, or some of the services it provides.
 
