@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclub.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060515id_/http%3A//sclub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclub.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120144937id_/http%3A//sclub.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sclub.in :-
 
