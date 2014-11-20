@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132553id_/http%3A//www.burningman.com/index/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningman.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131549id_/http%3A//www.burningman.com/index/privacy_policy.html) for the most accurate reproduction.*
 
 # Burning Man :: Privacy Policy
 
