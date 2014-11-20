@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513220130id_/http%3A//www.bodymedia.com/support/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132559id_/http%3A//www.bodymedia.com/support/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # BodyMedia // Privacy Policy
 
 BodyMedia® is committed to the privacy and security of your personal information. The following privacy policy describes the information we collect and how we use it. By using this site you consent to our privacy policy.
 
 Like many web sites, we gather information about how visitors use our web site. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us.
-
-## TRUSTe
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=101) BodyMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@bodymedia.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
 
 ## Information you give us
 
@@ -146,7 +142,7 @@ If you choose to self report your data (log your food, enter your weight, etc.),
 
 BodyMedia reserves the right to modify this privacy policy at any time, and at its sole discretion, and will provide prominent notice to users through posting an updated privacy policy on our homepage and on the site. Please review this site to be informed of any material changes to the privacy policy. The 'Last Updated' date at the bottom of this page will be updated after changes occur to the privacy policy.
 
-Last updated: September 17, 2013
+Last updated: May 27, 2014
 
 BodyMedia, Inc.  
 One Gateway Center  
