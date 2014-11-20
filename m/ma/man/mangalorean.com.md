@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangalorean.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152147id_/http%3A//www.mangalorean.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangalorean.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164443id_/http%3A//www.mangalorean.com/privacy.php) for the most accurate reproduction.*
 
 # Mangalorean.com - Mangalore News Articles, Classifieds to Around the World
 
