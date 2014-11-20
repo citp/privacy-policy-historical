@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211012037id_/http%3A//www.lasership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181106id_/http%3A//www.lasership.com/privacy) for the most accurate reproduction.*
 
 # LaserShip, Last Mile Delivery! - Privacy
 
@@ -60,4 +60,4 @@ In certain areas LaserShip may use industry-standard SSL-encryption to protect d
 
 LaserShip may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your LaserShip account or by placing a prominent notice on our site.
 
-If you have any questions or concerns about this Policy, please [click here](http://www.lasership.com/contact-us/feedback-form) to send us a message.[](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy60781%20=%20'support'%20+%20'@';%20addy60781%20=%20addy60781%20+%20'LaserShip'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy60781%20+%20'\\'%3E'\);%20document.write\(addy60781\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
+If you have any questions or concerns about this Policy, please [click here](http://www.lasership.com/contact-us/feedback-form) to send us a message.[This email address is being protected from spambots. You need JavaScript enabled to view it.">](mailto:%3Cspan%20id=)
