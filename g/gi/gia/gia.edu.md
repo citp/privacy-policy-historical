@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512213706id_/http%3A//www.gia.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105421id_/http%3A//www.gia.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated 9/28/2012
+Last updated 9/02/2014
 
 Gemological Institute of America, Inc. (“GIA”) respects your privacy. GIA provides this website privacy policy to inform you of our privacy practices with respect to the collection and use of information that might personally identify you (e.g., your name, email address, mailing address, phone number, purchase history and credit card information) (referred to herein as “Personal Information”). Through our website, located at http://www.gia.edu (this “Site”), we collect, store and use your Personal Information only for stated purposes, such as to support your needs and enhance our relationship with you. We do not sell your Personal Information. We may share it with other organizations, but only after you have given your consent. At any time, you may contact GIA with any of your privacy questions or concerns. You may also ask at any time to see, correct, or delete the Personal Information you have given us. By using this Site, you consent to the following terms. Should you not agree with or accept the terms of this Privacy Policy, do not utilize this Site.
 
@@ -47,6 +47,8 @@ For your convenience, GIA may provide links to certain third party websites or r
 ###  COOKIES
 
 To facilitate your use of the Site, GIA uses “cookies.” A cookie is a small amount of data that GIA’s servers transfer to your browser and that only GIA’s servers can read. When you log onto our Site, the cookie file captures your username, unique session identifier number and other session data to enable you to traverse through the Site’s various screens without having to authenticate yourself at each new screen.
+
+Additionally, some GIA Websites and Applications may use the Demographics and Interest reporting feature for Google Analytics for Display Advertising. The data provided by this service (such as age, gender, and interests) is used to better understand visitors to these Websites and may be used to customize our advertising and content to match our users’ interest. You may opt-out of Google Analytics for Display Advertising by visiting [Ad Settings](https://www.google.com/settings/ads) or by visiting the Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web
 
 ###  CHILDREN’S PRIVACY (AGE 12 AND UNDER)
 
