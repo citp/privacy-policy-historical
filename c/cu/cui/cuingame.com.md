@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052323id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135317id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Diablo 3 powerleveling, FIFA 14 Coins, Astral Diamonds, GW2 gold, FFXIV gil, SWTOR credits
+# FIFA 15 Coins , FIFA Coins , Ultimate Team FUT 15 coins
 
 **                                                                                    Privacy Policy**
 
