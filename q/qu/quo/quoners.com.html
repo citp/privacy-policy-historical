@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625050937id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120055335id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -29,7 +29,6 @@
 			'VIDEOTUTORIAL.CREATE_ACCOUNT' : 'Create account',
 			'VIDEOTUTORIAL.CREATE_DEBATE' : 'Create Poll',
 			'QUESTIONARY.GO_TO_FIRST_DEBATE' : 'Go to first Debate'
-			
 	};
 
 	var autoPromo = new Array();
@@ -113,6 +112,7 @@
 
 
 
+
 <div id="header">
     <div id="headContent">
         <div id="logo" class="tip"><a href="/"><img src="/cdn/img/logo.png" alt="LogoQuoners"></a></div>
@@ -123,16 +123,13 @@
 			
             
             
-            
-
                 <li id="headerTabDebates"><a id="headerTabDebatesText" href="/debates">Opinion polls</a></li>
                 <li id="headerTabLaws"><a id="headerTabLawsText" href="/laws">Laws</a></li>
-
             </ul>
         </div>
+        <div class="SSNNMenu"><a href="https://www.facebook.com/Quoners" target="_blank"><img src="/cdn/img/icons/login-facebook.png" style="width: 53px;"></a> &nbsp; <a href="https://plus.google.com/+Quoners" target="_blank"><img src="/cdn/img/icons/login-google.png" style="width: 53px;"></a> &nbsp; <a href="https://twitter.com/Quoners" target="_blank"><img src="/cdn/img/icons/twitter-header.png" style="width: 53px;"></a></div>
         <div class="loginArea">
-        	<div id="loginAndNotificationsArea">
-        		
+        	<div id="loginAndNotificationsArea" style="overflow: hidden">
 
 
 
@@ -148,20 +145,18 @@
     
         
         
-            <p><a href="/login">Log in or Sign Up</a></p>
+            <p><a href="/login?afterLoginDestination=/user/myActivityEcho">Log in or Sign Up</a></p>
         
     
-
-            </div>
+</div>
             <div class="clear"></div>
             <div class="search">
-                <ul>
-					<li style="display: none" id="configurationIconLI"><div id="configurationIcon" class="tip" onclick="configurationMenu()"><img src="/cdn/img/icons/big_settings.png" alt="settings" class="opacity40"></div></li>
-                    <li><div id="searchButton" class="tip" onclick="viewSearch();"><img src="/cdn/img/icons/big_search.png" alt="search" class="opacity40"></div></li>
-                    <li><div id="tagCloudIcon" class="tip"><img src="/cdn/img/icons/big_tagcloud.png" alt="tagcloud" class="opacity40"></div></li>
-                    <li><div id="LanguageSelectorIcon" class="tip" onclick="placeLanguageMenu()"><img src="/cdn/img/icons/big_langs.png" alt="Language selector" class="opacity40"></div></li>
-                </ul>
+					<div id="configurationIcon" class="headerIcon tip" onclick="configurationMenu()"><img src="/cdn/img/icons/big_settings.png" alt="settings" class="opacity40"></div>
+                    <div id="searchButton" class="headerIcon tip" onclick="viewSearch();"><img src="/cdn/img/icons/big_search.png" alt="search" class="opacity40"></div>
             </div>
+            
+            
+            
             <div id="searcher" class="modalHeader" title="view">
                 <form action="/debates/search" id="searchDebatesForm">
                     <div onclick="$('#searchDebatesForm').submit()" class="mainOptionButton" style="cursor: pointer;">Search</div>
@@ -169,27 +164,28 @@
                 </form>
             </div>
         </div>
-            <!-- end include headerContent -->
-    </div>
+    </div> <!-- end include headContent -->
     
     <div id="languageMenu" class="modalHeader">
         <ul id="languagesUL">
             <li><a href="javascript:changeLocale('es')" class="">Español</a></li>
-            <li><a href="javascript:changeLocale('en')" class="languageSelected">English</a></li>
+            <li><a href="javascript:changeLocale('en')" class="">English</a></li>
             <li><a href="javascript:changeLocale('it')" class="">Italiano</a></li>
         </ul>
     </div>
     <div id="settingsMenu" class="modalHeader">
         <ul>
-            <li><a href="/debates/myDebates">My Polls</a></li>
-            <li><a href="/user/myAccount">My Account</a></li>
+            <li class="languagesIcon tip" id="LanguageSelectorIcon"><a href="#" onclick="placeLanguageMenu()">Idiomas / Languages</a></li>
+            <li class="tagCloudIcon" id="tagCloudIcon"><a href="#">Tags cloud</a></li>
+            <li class="myAccountIcon"><a href="/user/myAccount">My Account</a></li>
+            <li class="myEchoIcon"><a href="/user/myActivityEcho">My activity echo</a></li>
+
             <li><a href="/create/debate">Create poll</a></li>
             <li class="exit"><a href="/logout">Logout</a></li>
         </ul>
     </div>
-
-
 </div>
+<div class="topSeparator"></div>
 <div id="tagCloud">
     <!-- include tagCloud -->
     <div id="tag_clouds" class="jqcloud" style="width:780px; height:280px; margin:auto; text-align:center; display:block;">
@@ -214,7 +210,7 @@ function viewSearch(){
         $('#searcher').slideUp('fast');
         $('#searchButton img').removeClass('opacity100').addClass('opacity40');
     }else{
-    	hideMenus();
+    	hideMenus(true);
         $('#searcher').slideDown('fast');
         $('#searchButton img').removeClass('opacity40').addClass('opacity100');
         $('#searchCriteria').focus();
@@ -226,13 +222,26 @@ function viewSearch(){
 function placeLanguageMenu(){
 	if ($('#languageMenu').is(':visible')){
         $('#languageMenu').slideUp('fast');
-        $('#LanguageSelectorIcon img').removeClass('opacity100').addClass('opacity40');
+        //$('#LanguageSelectorIcon img').removeClass('opacity100').addClass('opacity40');
     }else{
     	hideMenus();
         $('#languageMenu').slideDown('fast');
-        $('#LanguageSelectorIcon img').removeClass('opacity40').addClass('opacity100');
+        //$('#LanguageSelectorIcon img').removeClass('opacity40').addClass('opacity100');
     }
 }
+
+function hideMenus(hideLanguages){
+	$('#settingsMenu').slideUp('fast');
+	$('#configurationIcon img').removeClass('opacity100').addClass('opacity40');
+  	if (hideLanguages){
+		$('#languageMenu').slideUp('fast');
+		$('#LanguageSelectorIcon img').removeClass('opacity100').addClass('opacity40');
+	}
+	$('#searcher').slideUp('fast');
+	$('#searchButton img').removeClass('opacity100').addClass('opacity40');
+ 
+ }
+
 
 function configurationMenu(){
     if ($('#settingsMenu').is(':visible')){
@@ -257,6 +266,7 @@ function changeLocale(locale){
 	document.location=href+(separator+'loc='+locale);
 }
 
+
 $(function() {
 	enableTagsCloudButtons();
 	
@@ -274,14 +284,6 @@ $(function() {
 
 });
     
-function hideMenus(){
-	$('#settingsMenu').slideUp('fast');
-	$('#configurationIcon img').removeClass('opacity100').addClass('opacity40');
-	$('#languageMenu').slideUp('fast');
-	$('#LanguageSelectorIcon img').removeClass('opacity100').addClass('opacity40');
-	$('#searcher').slideUp('fast');
-	$('#searchButton img').removeClass('opacity100').addClass('opacity40');
-}
 
 
 
@@ -289,7 +291,7 @@ function hideMenus(){
 /**** hide modal layers on onclick document */
 
 $(document).click(function() {
-    hideMenus();
+    hideMenus(true);
 });
 
 $('#configurationIcon').click(function(e) {
@@ -304,6 +306,9 @@ $('#searchButton').click(function(e) {
 $('#searchCriteria').click(function(e) {
     e.stopPropagation();
 });
+
+
+
 
 </script>
 
@@ -537,6 +542,8 @@ $('#searchCriteria').click(function(e) {
 	</div>
 </div>
 
+
+
             <!-- end include footer -->
         </div>
     <div id="top"><a href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'slow');">Jump to the top</a></div>
@@ -561,6 +568,12 @@ $('#searchCriteria').click(function(e) {
 
 
 
+
+
+<div id="reducedUserProfileDialog">
+
+</div>
+
 <div id="noMoreResults" style="display:none"><p><img src="/cdn/img/icons/bigAlert.png" alt="alert">
 	<br>Ooops! No more polls…create yours! <a href="/create/debate">create yours</a>.
 </p></div>
@@ -570,13 +583,14 @@ $('#searchCriteria').click(function(e) {
 $(function() {
 	
     $("#qonWhyLogin").on('click',function(){
-   	$(".qonWhyLoginText").slideToggle();
-   });
+   		$(".qonWhyLoginText").slideToggle();
+	});
 
     $("#postActionDialog").dialog({ autoOpen: false, modal: true, resizable: false, width: 550, title:'Thanks for voting', 
 		beforeClose: function(event, ui){
 			$(this).html("");
-	} });
+		} 
+    });
 	
 
 	$("#videoTutorial").dialog({ autoOpen: false, modal: true, resizable: false, width: 550, height: 450, title:'videoTutorial', 
@@ -586,6 +600,8 @@ $(function() {
 	var loginHeight=615;
 	
 	loginHeight=475;
+	
+	
 	
 	$("#loginDialog").dialog({ autoOpen: false, modal: true, resizable: false, width: 550,  title:'login' });
 	
@@ -606,6 +622,30 @@ $(function() {
 		$('#scope').val("email");
 		$('#qon_loginForm').submit();
 		});
+
+	//handlers for the dialog of converting anon into users
+	$("#convertAnonDialog").dialog({ autoOpen: false, modal: true, resizable: false, width: 550,  title:'Convert into a registered user' });
+	
+    $('#convertIntoRegisteredButton').button().on("click",function() { 
+    	qonWindow = window.open("/signup", "_blank");
+    });
+    $('#convertIntoRegisteredWithFacebookButton').button().on("click",function() { 
+		$('#qon_convertAnonForm').attr("action","/signin/facebook");
+		$('#qon_convertAnonForm').attr("target","externalLogin");
+		$('#scopeAnonConvert').val("email");
+		$('#qon_convertAnonForm').submit();
+    });
+    $('#convertIntoRegisteredWithGoogleButton').button().on("click",function() { 
+		$('#qon_convertAnonForm').attr("action","/signin/google");
+		$('#qon_convertAnonForm').attr("target","externalLogin");
+		$('#scopeAnonConvert').val("https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo#email");
+		$('#qon_convertAnonForm').submit();
+    });
+	$('#loginForAnonConvert').button().click(function(){
+		ajaxLogin($('#qon_j_usernameAnonConvert').val(),$('#qon_j_passwordAnonConvert').val());
+		});
+
+	
 });	
 
 preLoginAnon = function (){
@@ -648,10 +688,10 @@ preLoginAnon = function (){
 			
 			<form method="POST" id="qon_loginForm">
 				<label for="qon_j_username" class="qon_loginLabel">Email:</label>
-				<input type="text" id="qon_j_username" name="j_username" value="">
+				<input type="text" class="loginField" id="qon_j_username" name="j_username" value="">
 				<div class="break"></div>
 				<label for="qon_j_password" class="qon_loginLabel">Password:</label>
-				<input type="password" id="qon_j_password" name="j_password">
+				<input type="password" class="loginField" id="qon_j_password" name="j_password">
 				<div class="break"></div>
 				<input type="hidden" name="scope" id="scope" value="">
 				
@@ -661,4 +701,31 @@ preLoginAnon = function (){
 			</form>
 		</div>	 
 	 
+</div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable" tabindex="-1" role="dialog" aria-describedby="convertAnonDialog" aria-labelledby="ui-id-4" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-4" class="ui-dialog-title">Convert into a registered user</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="convertAnonDialog" style="" class="ui-dialog-content ui-widget-content">
+			<h1>You are an anonymous user.</h1>
+			<p>To complete this action, you must register:</p>
+<!-- 
+Become a registered user. Create an account with your nickname and confirm your email.
+           	<p>But you can convert yourself into a registered user. You can assign all votes and arguments from this anonymous user to the user you sign up with. It is easy. We will ask you for a nickname and a valid email and we will send a confirmation email to your inbox.</p>
+ -->           	
+           	<button class="mainOptionButton ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button" id="convertIntoRegisteredWithFacebookButton" role="button" aria-disabled="false"><span class="ui-button-text">Register with your <b>Facebook</b> account</span></button>
+           	<button class="mainOptionButton ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button" id="convertIntoRegisteredWithGoogleButton" role="button" aria-disabled="false"><span class="ui-button-text">Register with your <b>Google</b> account</span></button>
+           	<div class="break"></div>
+           	or <b><a href="/signup">Sign Up</a></b> to create your own account in Quoners
+           	<div class="break"></div>
+           	or if you already have an account in Quoners, use it:<br>
+           	<div class="break"></div>
+           	<form method="POST" id="qon_convertAnonForm">
+				<label for="qon_j_usernameAnonConvert" class="qon_loginLabel">Email:</label>
+				<input type="text" class="loginField" id="qon_j_usernameAnonConvert" name="j_username" value="">
+				<div class="break"></div>
+				<label for="qon_j_passwordAnonConvert" class="qon_loginLabel">Password:</label>
+				<input type="password" class="loginField" id="qon_j_passwordAnonConvert" name="j_password">
+				<div class="break"></div>
+				<input type="hidden" name="scope" id="scopeAnonConvert" value="">
+				
+				<button id="loginForAnonConvert" title="Login using your Quoners account" name="login" type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Log in</span></button>
+				<div class="break"></div>
+				
+			</form>
 </div></div><div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
