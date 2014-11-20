@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608104142id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122841id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
 
 # Marshalls - Privacy
 
