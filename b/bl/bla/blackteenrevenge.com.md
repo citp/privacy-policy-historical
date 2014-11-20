@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124041448id_/http%3A//blackteenrevenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194416id_/http%3A//blackteenierevenge.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
-**BLACKTEENREVENGE.COM**  
+**BLACKTEENIEREVENGE.COM**  
 
 
 **PRIVACY POLICY STATEMENT**  
@@ -31,6 +31,18 @@ We employ the latest and best techniques available for protecting its systems fr
 Spam Policy
 
 We do not condone the use of spam and the sending of unsolicited materials in any form, nor do we control other websites involvement and/or practices in this area.
+
+Disclosure of Information 
+
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system. 
+
+Opt-In Email Offers 
+
+By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third-party services. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber's personal information and data may be disclosed to third-party services. 
+
+Email Opt-In and User Communication 
+
+The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site. The subscriber may opt-out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site www.mailgo2.com 
 
 * * *
 
