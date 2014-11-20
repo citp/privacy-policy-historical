@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clubmonaco.ca privacy policy that was archived on 2014-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521204210id_/http%3A//www.clubmonaco.ca/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clubmonaco.ca privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120112019id_/http%3A//www.clubmonaco.ca/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns#">
 
@@ -66,12 +66,16 @@
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	
+
+	<link rel="stylesheet" href="http://fonts.ralphlauren.com/cm-com/fonts.css">
+
+	
 	<link rel="canonical" href="http://www.clubmonaco.ca/helpdesk/index.jsp">
 	
 
 
 
-    <link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/min-cat/site-css.xml.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/min-cat/site-css.xml.min.css">
 
 
 
@@ -82,12 +86,11 @@
 	
 	
 	
+
 	
+
 	
-   
-	
-	
-<!--[if lt IE 9]><link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/css/ie.css" /><![endif]-->
+	<!--[if lt IE 9]><link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/css/ie.css" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/css/ie8.css" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/css/ie7.css" /><![endif]-->
 <!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="http://www.clubmonaco.ca/css/ie6.css" /><![endif]-->
@@ -101,18 +104,20 @@
     </script>
 	
 <script type="text/javascript" src="http://www.clubmonaco.ca/js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript">var $j = jQuery.noConflict();</script>
+<script type="text/javascript" src="http://www.clubmonaco.ca/js/underscore-min.js"></script>
+<script type="text/javascript">var $j = jQuery.noConflict(); var $u = _.noConflict(); </script>
 
 
 
-    <script type="text/javascript" src="http://www.clubmonaco.ca/min-cat/site-head-js.xml.min.js"></script>
+
+		<script type="text/javascript" src="http://www.clubmonaco.ca/min-cat/site-head-js.xml.min.js"></script>
 
 
 
 
 	
 	
-		
+	
 
 
 
@@ -149,15 +154,18 @@ function sendXtraFlashParam() {
 }
 </script>
 
+
 	
 	
 	
 </head>
-<body id="helpdesk" class="en help">
+
+
+<body id="helpdesk" class="en regular help">
 
 
 
-<!-- You are running on slcprd1_srm_slcprdapp21_5 -->
+<!-- You are running on lvsprd1_srm_lvsprdapp21_8 -->
 <!-- pageId: helpdesk -->
 
 
@@ -182,267 +190,3078 @@ function sendXtraFlashParam() {
 			</div>
 		</div>
 	</div>
+
 	
 	
 	
 
-<div class="wrapper chain">
-	
 
 
 	
 
-
-<div id="header" class="en_CA">
-	<div class="header-ln1">
-		
-		
-			<span class="header-promo">FREE SHIPPING ON ORDERS OVER $150 <a href="/promo/index.jsp?id=12754376">Details</a></span>
-		
-	</div>
-	
-	
-	
-	<div class="header-ln2">
-		<div class="admin-controls-top">
-			<div class="join-welcome">
-				<span id="hi_username">Hi, <span>there</span>!</span>
-				<a href="/headersignup/index.jsp" class="join-the-club">Join the Club</a>
-			</div>
-			<div class="sign-in-my-account">
-				<span id="my_account_btn">My Account <img src="/images/header-dropdown-arrow.png" alt="drop down arrow"></span>
-				<span id="signin_btn" class="cursor_pointer">Sign In <img src="/images/header-dropdown-arrow.png" alt="drop down arrow"></span>	
-			</div>
-		</div>
-		<div class="admin-controls-bottom">
-			<div id="country_switch_btn" class="country_switch">Canada</div>
-			<span class="divider">|</span>
-			<div class="shopping_bag">
-				<a id="shoppingBag" title="My Shopping Bag" href="/cart/shoppingcart.jsp?ab=global_shoppingbag">
-					Shopping Bag (<span id="cartItemCount"><!-- populated with js -->0</span>) <img src="/images/header-cart.png" alt="cart">
+<!-- used to detect if page accessed via back button -->
+<input id="reloadValue" type="hidden" name="reloadValue" value="">
+<div id="sticky-header">
+	<div id="top">
+		<div id="top-left-links-wrapper">
+			<div id="top-left-links">
+				<a href="/cart/shoppingcart.jsp?ab=global_shoppingbag" id="shoppingBag">
+					<span id="bag-icon"> </span>
+					Your Bag <span id="cartItemCount"><!-- populated with js -->(0)</span> <span class="arrow"> </span>
 				</a>
+
+				<div id="my-account-wrapper" class="register">
+					<a href="javascript:void(0)" id="my-account">
+						<span id="my-account-logged">My Account</span><span id="my-account-register">Sign In</span>	<span class="arrow"> </span>
+					</a>
+					<div id="account-dialogs">
+						<div id="my-account-dialog" class="left-links-dialog">
+							<div class="greeting">
+								Hello
+								<span></span>
+							</div>
+							<a class="close" href="javascript:void(0)"><span>Close</span></a>
+							<a href="/secure/clubmcpreferences.jsp?ab=global_preferences" class="link">Profile Settings</a>
+							<a href="/secure/orderhistory.jsp?ab=global_orderhistory" class="link">Order History</a>
+							<a href="/wishlist/view.jsp?ab=global_viewwishlist" class="link">Wish List</a>
+							<a href="/j_logout?ntp=&amp;logoutSuccessUrl=%2flogout.jsp" class="l1 link sign-out-link">Sign Out</a>
+						</div>
+						<div id="register-dialog" class="left-links-dialog">
+							<a class="close" href="javascript:void(0)"><span>Close</span></a>
+							<iframe id="signin-frame" width="292" src="" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="backgroundColor: transparent"></iframe>
+
+						</div>
+					</div>
+				</div>
+				<!-- my account flyout -->
+
+				<span class="separator"></span>
+
+				<div id="country-wrapper">
+					<a href="javascript:void(0)" id="country">
+						CA <span class="arrow"> </span>
+					</a>
+
+					<div id="country-switch-dialog" class="left-links-dialog">
+						<div class="greeting">Select your country</div>
+						<a class="close" href="javascript:void(0)"><span>Close</span></a>
+						<a href="#" class="l1 link us CA-selected">
+							United States
+						</a>
+						<a href="#" class="link canada CA-selected">
+							Canada
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
+		<div id="header-logo">
+			<a href="/home/index.jsp?ab=global_home" id="sticky-logo" title="Club Monaco">Club Monaco</a>
+		</div>
+
+		<div id="search">
+			<form id="sticky-header-search-frm" class="search" method="get" action="/search/index.jsp">
+				<input type="text" size="15" class="search-field-inp" name="keywords" id="search-box" onblur="if(this.value=='') this.value='Search'" onfocus="if(this.value=='Search')this.value=''" title="Search" value="Search">
+				<a href="javascript:void(0)" onclick="document.getElementById('sticky-header-search-frm').submit();" title="Search">&nbsp;</a>
+		  		<input type="hidden" id="search-box-default" value="Search">
+			</form>
+		</div>
 	</div>
+
+	<div id="main-nav">
+        
+		<a class="bookend left">&nbsp;</a><span class="menuLinks"><a href="/category/index.jsp?categoryId=44080506&amp;ab=global_newarrivals" class="flyout-44080506  with-flyout">New Arrivals <span class="menu-arrow"> </span></a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/category/index.jsp?categoryId=12249921&amp;ab=global_women" class="flyout-12249921  with-flyout">Women <span class="menu-arrow"> </span></a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/category/index.jsp?categoryId=12266410&amp;ab=global_men" class="flyout-12266410  with-flyout">Men <span class="menu-arrow"> </span></a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/category/index.jsp?categoryId=51253406&amp;ab=global_thegiftguide" class="flyout-51253406  ">The Gift Guide </a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/family/index.jsp?categoryId=45122866&amp;ab=global_campaign" class="flyout-45122866  ">Campaign </a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/category/index.jsp?categoryId=12266412&amp;ab=global_sale" class="flyout-12266412  with-flyout">Sale <span class="menu-arrow"> </span></a><span class="borderBtt"></span></span><span class="menuLinks"><a href="/category/index.jsp?categoryId=12266411&amp;ab=global_cultureclub" class="flyout-12266411  ">Culture Club </a><span class="borderBtt"></span></span><a class="bookend right">&nbsp;</a>
+	</div>
+
 	
-	
-	<div class="header-2n1">
-		<a href="/home/index.jsp?ab=global_home" id="logo" title="Club Monaco">Club Monaco</a>
+	<div id="global-spot-1" style="display: none;">
 		
-			<ul id="header_menus">
-				
-					
-						
-						
-						
-							
-								
-							
-						
-							
-						
-							
-						
-							
-						
-							
-						
-							
-						
-						
-						
-						
-							
-							
-								<li id="navId-12249921" class="women ">
-									<a href="/category/index.jsp?categoryId=12249921&amp;ab=global_women" class="">Women</a>
-								</li>
-							
-						
-					
-				
-					
-						
-						
-						
-							
-						
-							
-								
-							
-						
-							
-						
-							
-						
-							
-						
-							
-						
-						
-						
-						
-							
-							
-								<li id="navId-12266410" class="men ">
-									<a href="/category/index.jsp?categoryId=12266410&amp;ab=global_men" class="">Men</a>
-								</li>
-							
-						
-					
-				
-					
-						
-						
-						
-							
-						
-							
-						
-							
-								
-							
-						
-							
-						
-							
-						
-							
-						
-						
-						
-						
-							
-							
-								<li id="navId-34848206" class="beach ">
-									<a href="/category/index.jsp?categoryId=34848206&amp;ab=global_beachboutique" class="">Beach Boutique</a>
-								</li>
-							
-						
-					
-				
-					
-						
-						
-						
-							
-						
-							
-						
-							
-						
-							
-						
-							
-								
-							
-						
-							
-						
-						
-						
-						
-							
-							
-								<li id="navId-12266411" class="club ">
-									<a href="/category/index.jsp?categoryId=12266411&amp;ab=global_cultureclub" class="">Culture Club</a>
-								</li>
-							
-						
-					
-				
-					
-						
-						
-						
-							
-						
-							
-						
-							
-						
-							
-						
-							
-						
-							
-								
-							
-						
-						
-						
-						
-							
-							
-								<li id="navId-12266412" class="sale ">
-									<a href="/category/index.jsp?categoryId=12266412&amp;ab=global_sale" class="">Sale</a>
-								</li>
-							
-						
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-			</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+	
 		
-	</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
 	
-	<div class="header-2n2">
-		<form id="header-search-frm" class="search" method="get" action="/search/index.jsp">
-			<input type="text" size="15" class="search-field-inp" name="keywords" id="search-box" onblur="if(this.value=='') this.value='Search'" onfocus="if(this.value=='Search')this.value=''" title="Search" value="Search">
-		  <div id="submit-search"></div><input type="hidden" id="search-box-default" value="Search">
-			<input type="submit" class="submit-search" name="submit-search" title="Search">
-		</form>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  1549101   -->
+<!-- === Page Name:  CMCA_FO_OOHSALE_112014   -->
+<!-- === Page URI:  /WEB-INF/views/cms/include/cmca-header-promo_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  1242728   -->
+<!-- === Campaign Name:  CMCA_FO_OOHSALE_112014   -->
+<!-- === Campaign Tracking Code:  CMCA_FO_OOHSALE_1120   -->
+<!-- === Campaign Start Time:  2014-11-18 04:45:00.0   -->
+<!-- === Campaign End Time:  2014-11-24 04:45:00.0   -->
+<!-- === -->
+<!-- ================================================================================= -->
+<!-- =========================== Request info ========================== -->
+<!-- === Request URI:  /cmca/WEB-INF/views/helpdesk/helpdeskPanel.jsp   -->
+<!-- === Include URI:  /cmca/WEB-INF/views/cms/include/cmca-header-promo_1.jsp   -->
+<!-- ================================================================================= -->
+<!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  2404275   -->
+<!-- === Widget Name:  cm_header_promo_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {cm_header_promo_1=2404275}   -->
+<!-- ================================================================================= -->
+<div id="cm_header_promo_1" style="width:960px;border:0px;overflow:hidden;">
+
+
+<div><iframe frameborder="0" scrolling="no" src="http://www.clubmonaco.com/graphics/media/polo/cm_campaigns/en-ca/Q42014/flyout/newArrivals/11-1-2014/index.html" height="305" width="525"></iframe></div><div><iframe frameborder="0" scrolling="no" src="http://www.clubmonaco.com/graphics/media/polo/cm_campaigns/en-ca/Q42014/flyout/womens/11-1-2014/index.html" height="320" width="300"></iframe></div><div><iframe frameborder="0" scrolling="no" src="http://www.clubmonaco.com/graphics/media/polo/cm_campaigns/en-ca/Q42014/flyout/mens/11-1-2014" height="300" width="300"></iframe></div><div><iframe frameborder="0" scrolling="no" src="http://www.clubmonaco.com/graphics/media/polo/cm_campaigns/en-ca/Q42014/flyout/sale/11-18-2014/index.html" height="300" width="300"></iframe></div></div><!-- END CMS SLOT -->
+
 	</div>
+
+	<div id="promo-spots">
+		<div id="global-spot-2">
+		 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
-	<div class="clear"></div>
-</div><!-- header end -->
+	
 
-<div id="signin_dialog" class="rlcm_pop">
-	<iframe id="signin-frame" width="220" src="" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
+
+
+
+
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+
+body #sticky-header #promo-spots {
+	display: block;
+}
+</style>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  1549113   -->
+<!-- === Page Name:  CMCA_PB_OOHSALE_112014   -->
+<!-- === Page URI:  /WEB-INF/views/cms/include/cmca-header-promo_2.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  1242748   -->
+<!-- === Campaign Name:  CMCA_PB_OOHSALE_112014   -->
+<!-- === Campaign Tracking Code:  CMCA_PB_OOHSALE_1120   -->
+<!-- === Campaign Start Time:  2014-11-18 04:45:00.0   -->
+<!-- === Campaign End Time:  2014-11-24 04:45:00.0   -->
+<!-- === -->
+<!-- ================================================================================= -->
+<!-- =========================== Request info ========================== -->
+<!-- === Request URI:  /cmca/WEB-INF/views/helpdesk/helpdeskPanel.jsp   -->
+<!-- === Include URI:  /cmca/WEB-INF/views/cms/include/cmca-header-promo_2.jsp   -->
+<!-- ================================================================================= -->
+<!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  2404199   -->
+<!-- === Widget Name:  cm_header_promo_2   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {cm_header_promo_2=2404199}   -->
+<!-- ================================================================================= -->
+<div id="cm_header_promo_2" style="width:960px;border:0px;overflow:hidden;">
+
+
+
+<span style="color:#cd0000; font-size: 12px; letter-spacing: 1px; font-family: 'Proxima N W01SC Bold', Helvetica, sans-serif;">extra 30% off sale + 50% off clearance! &nbsp;&nbsp;</span> <span style="font-size: 13px; font-family: Helvetica;">Online only with code OOHSALE. &nbsp;&nbsp;&nbsp;</span> <span onclick="shopNow();" onmouseover="this.style.cursor='pointer'" style="font-size: 12px; font-family: Helvetica; text-decoration: underline;">Shop Now</span>&nbsp;&nbsp;&nbsp;
+<script type="text/javascript"> function shopNow() { window.open('http://www.clubmonaco.ca/category/index.jsp?categoryId=12266412', '_self'); } </script>
+</div><!-- END CMS SLOT -->
+
+<script>
+	jQuery('#cm_header_promo_2').width('100%');
+	// ACo
+	// Removed the css and now setting the height dynamically. Prevents changing the css everytime something on the header changes
+	// and it's more accurate
+
+	function setStickyHeaderHeight(){
+		var stickyHeader = jQuery('#sticky-header');
+
+		var height = stickyHeader.height();
+
+		jQuery('#sticky-header-block').height(height);
+	}
+
+	var limitSetStickyHeaderHeight = 0;
+
+	function setStickyHeaderHeightTimeout(){
+
+		if(jQuery('body').hasClass('browserDetected')){
+			setStickyHeaderHeight();
+		}
+		else {
+			if(typeof console != undefined){
+				console.log('browserDetected not present');
+			}
+			if(limitSetStickyHeaderHeight++ < 5){
+				setTimeout(setStickyHeaderHeightTimeout, 1000);
+			}
+		}
+	}
+
+	jQuery(document).ready(function() {
+		setStickyHeaderHeightTimeout();
+	});
+
+</script>
+
+		</div>
+	</div>
+
+	<div id="flyout-nav-wrap">
+		<div id="flyout-nav">
+			
+
+
+
+
+
+
+	
+		
+			<div id="flyout-44080506" class="flyout-header-menu">
+				
+				
+				<div class="cols">
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="thelatestforwomen" rel="thelatestforwomen">the latest for women</h3>
+		<h3 class="duplicate-ie8" rel="thelatestforwomen">the latest for women</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23316186" rel="redir:p+cp=44080506.12266413.23316186|p+ab=ln__thelatestforwomen_newarrivals">
+														New Arrivals</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/category/index.jsp?categoryId=52327466" rel="redir:p+cp=44080506.12266413.52327466|p+ab=ln__thelatestforwomen_giftsforher">
+														Gifts for Her </a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=52455646" rel="redir:p+cp=44080506.12266413.52455646|p+ab=ln__thelatestforwomen_thepartyshop">
+														The Party Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16296346" rel="redir:p+cp=44080506.12266413.16296346|p+ab=ln__thelatestforwomen_thecoatshop">
+														The Coat Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=24061666" rel="redir:p+cp=44080506.12266413.24061666|p+ab=ln__thelatestforwomen_collection">
+														Collection</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=46599616" rel="redir:p+cp=44080506.12266413.46599616|p+ab=ln__thelatestforwomen_thepieces">
+														The Pieces</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="thelatestformen" rel="thelatestformen">the latest for men</h3>
+		<h3 class="duplicate-ie8" rel="thelatestformen">the latest for men</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=45122856" rel="redir:p+cp=44080506.12280843.45122856|p+ab=ln__thelatestformen_newarrivals">
+														New Arrivals</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/category/index.jsp?categoryId=52327476" rel="redir:p+cp=44080506.12280843.52327476|p+ab=ln__thelatestformen_giftsforhim">
+														Gifts for Him</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=52455646" rel="redir:p+cp=44080506.12280843.52455646|p+ab=ln__thelatestformen_thepartyshop">
+														The Party Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770908" rel="redir:p+cp=44080506.12280843.12770908|p+ab=ln__thelatestformen_theouterwearshop">
+														The Outerwear Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=48642196" rel="redir:p+cp=44080506.12280843.48642196|p+ab=ln__thelatestformen_mrporter">
+														MR PORTER</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+				</div>
+				<div class="featured-col" style="width: 50%"></div>
+			</div>
+		
+	
+		
+			<div id="flyout-12249921" class="flyout-header-menu">
+				
+				
+				<div class="cols">
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="clothing" rel="clothing">clothing</h3>
+		<h3 class="duplicate-ie8" rel="clothing">clothing</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16296346" rel="redir:p+cp=12249921.12266416.16296346|p+ab=ln__clothing_coatsandtrenches">
+														Coats and Trenches</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454898" rel="redir:p+cp=12249921.12266416.12454898|p+ab=ln__clothing_jacketsandvests">
+														Jackets and Vests</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454893" rel="redir:p+cp=12249921.12266416.12454893|p+ab=ln__clothing_dresses">
+														Dresses</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774066" rel="redir:p+cp=12249921.12266416.12774066|p+ab=ln__clothing_sweaters">
+														Sweaters</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454895" rel="redir:p+cp=12249921.12266416.12454895|p+ab=ln__clothing_skirts">
+														Skirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454890" rel="redir:p+cp=12249921.12266416.12454890|p+ab=ln__clothing_knitsandtees">
+														Knits and Tees</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454891" rel="redir:p+cp=12249921.12266416.12454891|p+ab=ln__clothing_shirts">
+														Shirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454899" rel="redir:p+cp=12249921.12266416.12454899|p+ab=ln__clothing_pants">
+														Pants</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=20396686" rel="redir:p+cp=12249921.12266416.20396686|p+ab=ln__clothing_jeans">
+														Jeans</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=34345246" rel="redir:p+cp=12249921.12266416.34345246|p+ab=ln__clothing_jumpers">
+														Jumpers</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=24996726" rel="redir:p+cp=12249921.12266416.24996726|p+ab=ln__clothing_shorts">
+														Shorts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12880319" rel="redir:p+cp=12249921.12266416.12880319|p+ab=ln__clothing_swim">
+														Swim </a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="accessories" rel="accessories">accessories</h3>
+		<h3 class="duplicate-ie8" rel="accessories">accessories</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23316476" rel="redir:p+cp=12249921.12266417.23316476|p+ab=ln__accessories_shoes">
+														Shoes</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774124" rel="redir:p+cp=12249921.12266417.12774124|p+ab=ln__accessories_scarvesandwraps">
+														Scarves and Wraps </a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774143" rel="redir:p+cp=12249921.12266417.12774143|p+ab=ln__accessories_hats">
+														Hats</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=15247066" rel="redir:p+cp=12249921.12266417.15247066|p+ab=ln__accessories_gloves">
+														Gloves</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774101" rel="redir:p+cp=12249921.12266417.12774101|p+ab=ln__accessories_jewelry">
+														Jewelry</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774142" rel="redir:p+cp=12249921.12266417.12774142|p+ab=ln__accessories_handbags">
+														Handbags</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=17340856" rel="redir:p+cp=12249921.12266417.17340856|p+ab=ln__accessories_hosiery">
+														Hosiery</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774135" rel="redir:p+cp=12249921.12266417.12774135|p+ab=ln__accessories_belts">
+														Belts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774133" rel="redir:p+cp=12249921.12266417.12774133|p+ab=ln__accessories_sunglasses">
+														Sunglasses</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=31864306" rel="redir:p+cp=12249921.12266417.31864306|p+ab=ln__accessories_home">
+														Home</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774147" rel="redir:p+cp=12249921.12266417.12774147|p+ab=ln__accessories_booksandstationery">
+														Books and Stationery</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="shops" rel="shops">shops</h3>
+		<h3 class="duplicate-ie8" rel="shops">shops</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23316186" rel="redir:p+cp=12249921.12266415.23316186|p+ab=ln__shops_newarrivals">
+														New Arrivals</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=52455646" rel="redir:p+cp=12249921.12266415.52455646|p+ab=ln__shops_thepartyshop">
+														The Party Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/category/index.jsp?categoryId=52327466" rel="redir:p+cp=12249921.12266415.52327466|p+ab=ln__shops_giftsforher">
+														Gifts for Her </a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16296346" rel="redir:p+cp=12249921.12266415.16296346|p+ab=ln__shops_thecoatshop">
+														The Coat Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=51009356" rel="redir:p+cp=12249921.12266415.51009356|p+ab=ln__shops_thewinteraccessoriesshop">
+														 The Winter Accessories Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=17666416" rel="redir:p+cp=12249921.12266415.17666416|p+ab=ln__shops_thecashmereshop">
+														The Cashmere Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=52454546" rel="redir:p+cp=12249921.12266415.52454546|p+ab=ln__shops_theweekendshop">
+														The Weekend Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=24061676" rel="redir:p+cp=12249921.12266415.24061676|p+ab=ln__shops_theofficeshop">
+														The Office Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=45782536" rel="redir:p+cp=12249921.12266415.45782536|p+ab=ln__shops_sweaterdressing">
+														Sweater Dressing</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=24061666" rel="redir:p+cp=12249921.12266415.24061666|p+ab=ln__shops_collection">
+														Collection</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12665570" rel="redir:p+cp=12249921.12266415.12665570|p+ab=ln__shops_brandswelove">
+														Brands We Love</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+				</div>
+				<div class="featured-col" style="width: 25%"></div>
+			</div>
+		
+	
+		
+			<div id="flyout-12266410" class="flyout-header-menu">
+				
+				
+				<div class="cols">
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="clothing" rel="clothing">clothing</h3>
+		<h3 class="duplicate-ie8" rel="clothing">clothing</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770908" rel="redir:p+cp=12266410.12280856.12770908|p+ab=ln__clothing_outerwear">
+														Outerwear</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770913" rel="redir:p+cp=12266410.12280856.12770913|p+ab=ln__clothing_sweaters">
+														Sweaters</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770911" rel="redir:p+cp=12266410.12280856.12770911|p+ab=ln__clothing_casualshirts">
+														Casual Shirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770912" rel="redir:p+cp=12266410.12280856.12770912|p+ab=ln__clothing_dressshirts">
+														Dress Shirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774236" rel="redir:p+cp=12266410.12280856.12774236|p+ab=ln__clothing_activewear">
+														Activewear</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12454881" rel="redir:p+cp=12266410.12280856.12454881|p+ab=ln__clothing_pants">
+														Pants</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=19749936" rel="redir:p+cp=12266410.12280856.19749936|p+ab=ln__clothing_chinos">
+														Chinos</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16290706" rel="redir:p+cp=12266410.12280856.16290706|p+ab=ln__clothing_suits">
+														Suits</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12770914" rel="redir:p+cp=12266410.12280856.12770914|p+ab=ln__clothing_blazers">
+														Blazers</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=19775076" rel="redir:p+cp=12266410.12280856.19775076|p+ab=ln__clothing_teesandpoloshirts">
+														Tees and Polo Shirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=50747236" rel="redir:p+cp=12266410.12280856.50747236|p+ab=ln__clothing_shortsandswim">
+														Shorts and Swim</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="accessories" rel="accessories">accessories</h3>
+		<h3 class="duplicate-ie8" rel="accessories">accessories</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23316536" rel="redir:p+cp=12266410.12280881.23316536|p+ab=ln__accessories_shoes">
+														Shoes</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16290816" rel="redir:p+cp=12266410.12280881.16290816|p+ab=ln__accessories_hats,glovesandscarves">
+														Hats, Gloves and Scarves</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=29336746" rel="redir:p+cp=12266410.12280881.29336746|p+ab=ln__accessories_jewelryandwatches">
+														Jewelry and Watches</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16291356" rel="redir:p+cp=12266410.12280881.16291356|p+ab=ln__accessories_smallaccessories">
+														Small Accessories</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774160" rel="redir:p+cp=12266410.12280881.12774160|p+ab=ln__accessories_tiesandpocketsquares">
+														Ties and Pocket Squares</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774171" rel="redir:p+cp=12266410.12280881.12774171|p+ab=ln__accessories_bags">
+														Bags</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=15388346" rel="redir:p+cp=12266410.12280881.15388346|p+ab=ln__accessories_socks">
+														Socks</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12907010" rel="redir:p+cp=12266410.12280881.12907010|p+ab=ln__accessories_belts">
+														Belts </a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=29336756" rel="redir:p+cp=12266410.12280881.29336756|p+ab=ln__accessories_grooming">
+														Grooming</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774161" rel="redir:p+cp=12266410.12280881.12774161|p+ab=ln__accessories_sunglasses">
+														Sunglasses</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12774174" rel="redir:p+cp=12266410.12280881.12774174|p+ab=ln__accessories_booksandstationery">
+														Books and Stationery</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="shops" rel="shops">shops</h3>
+		<h3 class="duplicate-ie8" rel="shops">shops</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=45122856" rel="redir:p+cp=12266410.12280850.45122856|p+ab=ln__shops_newarrivals">
+														New Arrivals</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/category/index.jsp?categoryId=52327476" rel="redir:p+cp=12266410.12280850.52327476|p+ab=ln__shops_giftsforhim">
+														Gifts for Him</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=52455646" rel="redir:p+cp=12266410.12280850.52455646|p+ab=ln__shops_thepartyshop">
+														The Party Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=46528946" rel="redir:p+cp=12266410.12280850.46528946|p+ab=ln__shops_theouterwearshop">
+														The Outerwear Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=29086326" rel="redir:p+cp=12266410.12280850.29086326|p+ab=ln__shops_thecashmereshop">
+														The Cashmere Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=50675686" rel="redir:p+cp=12266410.12280850.50675686|p+ab=ln__shops_theweekendshop">
+														The Weekend Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=50138336" rel="redir:p+cp=12266410.12280850.50138336|p+ab=ln__shops_thegetawayshop">
+														The Getaway Shop</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=12665581" rel="redir:p+cp=12266410.12280850.12665581|p+ab=ln__shops_brandswelove">
+														Brands We Love</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=30785296" rel="redir:p+cp=12266410.12280850.30785296|p+ab=ln__shops_madeintheu.s.a.">
+														Made in the U.S.A.</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=45782516" rel="redir:p+cp=12266410.12280850.45782516|p+ab=ln__shops_allenedmonds">
+														Allen Edmonds</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=51009506" rel="redir:p+cp=12266410.12280850.51009506|p+ab=ln__shops_hats,glovesandscarves">
+														Hats, Gloves and Scarves</a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+				</div>
+				<div class="featured-col" style="width: 25%"></div>
+			</div>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<div id="flyout-12266412" class="flyout-header-menu">
+				
+				
+				<div class="cols">
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="womenssale" rel="womenssale">women's sale</h3>
+		<h3 class="duplicate-ie8" rel="womenssale">women's sale</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13002358" rel="redir:p+cp=12266412.12280899.13002358|p+ab=ln__women'ssale_justadded">
+														Just Added</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030075" rel="redir:p+cp=12266412.12280899.13030075|p+ab=ln__women'ssale_shirts">
+														Shirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030060" rel="redir:p+cp=12266412.12280899.13030060|p+ab=ln__women'ssale_sweaters">
+														Sweaters</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030077" rel="redir:p+cp=12266412.12280899.13030077|p+ab=ln__women'ssale_knitsandtees">
+														Knits and Tees</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030071" rel="redir:p+cp=12266412.12280899.13030071|p+ab=ln__women'ssale_dresses">
+														Dresses</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030070" rel="redir:p+cp=12266412.12280899.13030070|p+ab=ln__women'ssale_pantsandskirts">
+														Pants and Skirts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=16739316" rel="redir:p+cp=12266412.12280899.16739316|p+ab=ln__women'ssale_coatsandjackets">
+														Coats and Jackets</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23885506" rel="redir:p+cp=12266412.12280899.23885506|p+ab=ln__women'ssale_swim">
+														Swim</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=33227546" rel="redir:p+cp=12266412.12280899.33227546|p+ab=ln__women'ssale_shoes">
+														Shoes</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030068" rel="redir:p+cp=12266412.12280899.13030068|p+ab=ln__women'ssale_accessories">
+														Accessories</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030073" rel="redir:p+cp=12266412.12280899.13030073|p+ab=ln__women'ssale_allsaleandclearance">
+														<span class="clearance">All Sale and Clearance</span></a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="menssale" rel="menssale">men's sale</h3>
+		<h3 class="duplicate-ie8" rel="menssale">men's sale</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13002337" rel="redir:p+cp=12266412.12280920.13002337|p+ab=ln__men'ssale_justadded">
+														Just Added</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030069" rel="redir:p+cp=12266412.12280920.13030069|p+ab=ln__men'ssale_sweaters,shirts,andtees">
+														Sweaters, Shirts, and Tees</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030062" rel="redir:p+cp=12266412.12280920.13030062|p+ab=ln__men'ssale_outerwear">
+														Outerwear</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13030064" rel="redir:p+cp=12266412.12280920.13030064|p+ab=ln__men'ssale_pantsandshorts">
+														Pants and Shorts</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=23886556" rel="redir:p+cp=12266412.12280920.23886556|p+ab=ln__men'ssale_shoesandaccessories">
+														Shoes and Accessories</a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=13048221" rel="redir:p+cp=12266412.12280920.13048221|p+ab=ln__men'ssale_allsaleandclearance">
+														<span class="clearance">All Sale and Clearance</span></a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+						
+							
+							<div class="col">
+
+								
+								
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<h3 class="clearance" rel="clearance">clearance</h3>
+		<h3 class="duplicate-ie8" rel="clearance">clearance</h3>
+	
+
+
+								
+
+									
+									<ul class="leftnav-group test">
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=28509246" rel="redir:p+cp=12266412.49791036.28509246|p+ab=ln__clearance_women'sclearance">
+														<span class="clearance">Women's Clearance</span></a></li>
+												
+											
+										
+											
+
+
+
+
+
+
+
+
+
+
+
+											
+											
+
+											
+												
+												
+													<li><a href="/family/index.jsp?categoryId=28509176" rel="redir:p+cp=12266412.49791036.28509176|p+ab=ln__clearance_men'sclearance">
+														<span class="clearance">Men's Clearance</span></a></li>
+												
+											
+										
+									</ul>
+								
+						</div>
+						
+					
+				</div>
+				<div class="featured-col" style="width: 25%"></div>
+			</div>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+
+		</div>
+		<img id="dropshadow-menu" src="../images/dropshadow.png">
+	</div>
+
 </div>
 
-<div id="my_account_dialog" class="rlcm_pop">
-	<a href="/j_logout?ntp=&amp;logoutSuccessUrl=%2flogout.jsp" class="l1 link">Sign Out</a>
-	<a href="/secure/clubmcpreferences.jsp?ab=global_preferences" class="link">Your Profile Settings</a>
-	<a href="/secure/orderhistory.jsp?ab=global_orderhistory" class="link">Your Order History</a>
-	<a href="/wishlist/view.jsp?ab=global_viewwishlist" class="link">Your Wish List</a>
-</div>
+<div id="sticky-header-block"></div>
 
-<div id="country_switch_dialog" class="rlcm_pop">
-	<a href="#" class="l1 link us">Shop United States</a>
-	<a href="#" class="link canada">Shop Canada</a>
-</div>
+
+<div class="wrapper chain" id="wrapper-chain">
 
 	
 	
 
 	<div id="content-wrap">
-	
+
 		
 		
-		
+
 			
 			
-			
+
 			
 			
 				<div id="main-container" class="Top1col">
@@ -456,7 +3275,7 @@ function sendXtraFlashParam() {
 	
 	
 <ul class="breadcrumbs page-path">
-	<li><a href="/home/index.jsp">Home</a> / </li>
+	<li><a href="/home/index.jsp">Home</a>/</li>
 	
 		
 		
@@ -470,6 +3289,7 @@ function sendXtraFlashParam() {
 		
 	
 </ul>
+
 	<div class="inner helpdesk">
 		
 
@@ -700,18 +3520,19 @@ New York, NY 10022
 </div>
 						</div>
 					</div>
+					
 				</div>
 			
-			
+
 			
 		
-		
+
 	</div><!-- end content-wrap -->
 
 	
 	
 	
-	
+</div>
 
 
 
@@ -815,54 +3636,27 @@ New York, NY 10022
 
 
 
-<div id="footer" class="chain cmca">
-	<div class="footer-column col1">
-		<h4>Customer Assistance</h4>
-		<ul>
-			<li><a href="/helpdesk/index.jsp?ab=footer_customerassistance">Customer Assistance</a></li>
-			<li><a href="/helpdesk/contactCSR/index.jsp?display=store&amp;subdisplay=contact&amp;ab=footer_emailus">Email Us</a></li>
-			<li><a href="/helpdesk/index.jsp?display=payment&amp;subdisplay=checkout&amp;ab=footer_payment#credit">Payment Methods</a></li>
-			
-				<li><a href="/giftcard/index.jsp">Gift Cards</a></li>
-			
-			<li class="phone">Tel 1-888-733-6504</li>
-		</ul>
-	</div>
-	<div class="footer-column col2">
-		<h4>Shipping Information</h4>
- 		<ul>
-			<li><a href="/orderlogin.jsp?ab=footer_ordertracking">Track My Orders</a></li>
-			
-			<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods&amp;ab=footer_shiprates">Shipping Rates</a></li>
-			<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=returns&amp;ab=footer_returns">Returns &amp; Exchanges</a></li>
-		</ul>
-	</div>
-	<div class="footer-column col3">
-		<h4>About Us</h4>
-		<ul>
-			<li><a href="/category/index.jsp?categoryId=12746754&amp;ab=footer_aboutcm">About Club Monaco</a></li>
-			<li><a href="/category/index.jsp?categoryId=12719741&amp;ab=footer_storelocator">Store Locator</a></li>
-			<li><a href="/category/index.jsp?categoryId=12724042&amp;ab=footer_student">Student Discount</a></li>
-			<li><a href="/category/index.jsp?categoryId=12746760&amp;ab=footer_press">Press Room</a></li>
-			<li><a href="/category/index.jsp?categoryId=13158374&amp;ab=footer_careers">Careers</a></li>
-		</ul>
-	</div>
-	<div class="footer-column col4">
-		<div class="footer-signup">
-			
-			
+
+
+<div id="footer-red">
+	<div id="footer-wrap">
+		<div class="footer-column-red col1-red">
+			<div class="footer-signup">
 				
+				
+					
 <script type="text/javascript">
 function validateFooterSignup() {
-	
+
 	// clear any existing errors
-	jQuery(".footer-signup .error").css("display", "none");
-	jQuery(".footer-signup #sign-up-box").removeClass("fieldError");
-		
+	//jQuery("#join-error").css("display", "none");
+	jQuery("#join-error").removeClass("show")
+	jQuery("#sign-up-box").removeClass("fieldError");
+
 	var fs = document.emailSignupFooter;
-	
+
 	if (ess.isValidEmail(fs.emailAddress.value)) {
-		
+
 		var formData = {
 			"emailAddress": fs.emailAddress.value,
 			"contest": "CMCA_FOOTER_CAP",
@@ -881,7 +3675,7 @@ function validateFooterSignup() {
 				fs.emailAddress.title = "EMAIL SENT... THANK YOU!";
 			}
 		});
-		
+
 		try {
 			var pageTracker = _gat._getTracker(ess.googleAccountId);
 			if(/\/home/.match(window.location.pathname)) {
@@ -915,16 +3709,17 @@ function validateFooterSignup() {
 			}
 
 			pageTracker._trackPageview();
-			
+
 		} catch(err) {}
 
 	} else {
 		// display errors
-		jQuery(".footer-signup .error").css("display", "block");
-		jQuery(".footer-signup #sign-up-box").addClass("fieldError");
+		//jQuery("#join-error").css("display", "block");
+		jQuery("#join-error").addClass("show");
+		jQuery("#sign-up-box").addClass("fieldError");
 	}
 };
-jQuery(document).ready(function() {
+jQuery(document).ready(function() {//if(RegExp('show' + '=' + '(.+?)(&|$)').exec(location.search) == null) {jQuery('#side-nav').addClass('hidden');jQuery('#recent-history #side-nav, .search #content2 #side-nav').removeClass('hidden');}//For development purposes, please delete
 	jQuery("#sign-up-box").bind("keydown", function(e) {
 		if (e.keyCode == 13) {
 			e.preventDefault();
@@ -936,41 +3731,69 @@ jQuery(document).ready(function() {
 });
 </script>
 <h4>Join the Club</h4>
-<p class="sign-up">Sign me up to receive emails on new product arrivals, special offers and exclusive events from Club Monaco.</p>
-<form action="/footersignup/index.jsp" method="post" name="emailSignupFooter">
-	<input type="text" class="email" maxlength="150" name="emailAddress" id="sign-up-box" title="Your Email" value="Your Email">
-	<a href="javascript:void(0)" class="button" onclick="validateFooterSignup()">Subscribe Now</a>
-	<div class="error">Please enter a valid email address.</div>
+
+	<div class="footer-share">
+		<a href="http://www.facebook.com/clubmonaco" target="_blank"><div id="facebook" class="miniiconfacebook icons"></div></a>
+		<a href="http://www.pinterest.com/clubmonaco" target="_blank"><div id="pinterest" class="miniiconpinterest icons"></div></a>
+		<a href="http://www.twitter.com/clubmonaco" target="_twitter"><div id="twitter" class="miniicontwitter icons"></div></a>
+		<a href="http://clubmonaco.tumblr.com" target="_tumblr"><div id="tumblr" class="miniicontumblr icons"></div></a>
+		<a href="http://www.instagram.com/clubmonaco" target="_youtube"><div id="instagram" class="miniiconinstagram icons"></div></a>
+	</div>
+
+<form id="join-form" action="/footersignup/index.jsp" method="post" name="emailSignupFooter">
+<input onfocus="javascript:if (this.value=='Email address')this.value=''" onblur="javascript:if (this.value=='')this.value='Email address'" type="text" class="" maxlength="150" name="emailAddress" id="sign-up-box" value="Email address">
+	<a href="javascript:void(0)" class="join" onclick="validateFooterSignup()">Join</a>
+	<div id="join-error" class="error">Please enter a valid email address.</div>
 </form>
-<p><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=restrictions&amp;ab=footer_privacypolicy#policies" class="privacy">Privacy Notice</a></p>
+<p class="sign-up">Sign me up to receive emails on new product arrivals, special offers and exclusive events.</p>
 
-	<p>To unsubscribe, <a href="/helpdesk/contactCSR/index.jsp?display=store&amp;subdisplay=contact">contact us</a>.</p>
 
-			
-		</div>
-		
-			<div class="footer-share">
-				<a href="http://www.facebook.com/clubmonaco" target="_blank"><div id="facebook" class="miniiconfacebook icons"></div></a>
-				<a href="http://www.twitter.com/clubmonaco" target="_twitter"><div id="twitter" class="miniicontwitter icons"></div></a>
-				<a href="http://clubmonaco.tumblr.com" target="_tumblr"><div id="tumblr" class="miniicontumblr icons"></div></a>
-				<a href="http://www.youtube.com/clubmonaco" target="_youtube"><div id="youtube" class="miniiconyoutube icons"></div></a>
-				
-					<div class="line"></div>
-					<span class="fb-like3">
-						
-						<iframe class="fb-like" src="http://www.facebook.com/plugins/like.php?href=https%3a%2f%2fwww.facebook.com%2fclubmonaco&amp;layout=button_count&amp;width=150&amp;show-faces=false&amp;stream=false&amp;header=true&amp;font=verdana&amp;send=false" frameborder="0"></iframe>
-					</span>
+	<p class="opt-out">To opt-out from our email messages at any time, <a href="/helpdesk/contactCSR/index.jsp?display=store&amp;subdisplay=contact">contact us</a>.</p>
 
 				
 			</div>
-		
+
+		</div>
+		<div class="footer-column-red col2-red">
+		<h4>Customer Assistance</h4>
+		<ul>
+			<li><a href="/helpdesk/index.jsp?ab=footer_customerassistance">Customer Assistance</a></li>
+			<li><a href="/helpdesk/contactCSR/index.jsp?display=store&amp;subdisplay=contact&amp;ab=footer_emailus">Email Us</a></li>
+			<li><a href="/helpdesk/index.jsp?display=payment&amp;subdisplay=checkout&amp;ab=footer_payment#credit">Payment Methods</a></li>
+			
+				<li><a href="/giftcard/index.jsp">Gift Cards</a></li>
+			
+			<li class="phone">Tel 1-888-733-6504</li>
+		</ul>
 	</div>
+		<div class="footer-column-red col3-red">
+		<h4>Shipping</h4>
+ 		<ul>
+			<li><a href="/orderlogin.jsp?ab=footer_ordertracking">Track My Orders</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods&amp;ab=footer_shiprates">Shipping Rates</a></li>
+			<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=returns&amp;ab=footer_returns">Returns &amp; Exchanges</a></li>
+		</ul>
+	</div>
+		<div class="footer-column-red col4-red">
+		<h4>About Us</h4>
+		<ul>
+			<li><a href="/category/index.jsp?categoryId=12746754&amp;ab=footer_aboutcm">About Club Monaco</a></li>
+			<li><a href="/category/index.jsp?categoryId=12719741&amp;ab=footer_storelocator">Store Locator</a></li>
+			<li><a href="/category/index.jsp?categoryId=12724042&amp;ab=footer_student">Student Discount</a></li>
+			<li><a href="/category/index.jsp?categoryId=12746760&amp;ab=footer_press">Press Room</a></li>
+			<li><a href="/category/index.jsp?categoryId=13158374&amp;ab=footer_careers">Careers</a></li>
+                
+		</ul>
+	</div>
+
 	<ul id="bottomlinks">
+			<li><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_copyright" class="copyright-link">Copyright © 2014 Club Monaco Corp.</a></li>
 		<li><a href="/sitemap/index.jsp?ab=footer_sitemap">Site Map</a></li>
 		<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=restrictions&amp;ab=footer_privacypolicy">Privacy Notice</a></li>
 		<li><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_termsofuse">Terms of Use</a></li>
-		<li><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_copyright">Copyright © 2014 Club Monaco Corp.</a></li>
 	</ul>
+</div>
 </div>
 
 
@@ -981,17 +3804,15 @@ jQuery(document).ready(function() {
 		<a href="http://global.ralphlauren.com/en-us/About/Pages/employment.aspx?ab=aboutus_careers" class="button">Proceed to Ralph Lauren Careers</a>
 	</div>
 </div>
-
 <script type="text/javascript" src="/js/emailSignup.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/emailSignup.css">
 <div class="emailPopup">
 	<a href="javascript:void(0)" class="close">&nbsp;</a>
 	<div class="emailCont">
 		<div class="emailSpace">
 			<div class="emailPopupForm">
 				<form method="post" name="emailpopSignup">
-				<input type="text" class="email" maxlength="150" name="emailpopAddress" id="sign-up-box" title="Your Email" value="Your Email"><a href="javascript:void(0)" class="emailPopupBtn" onclick="validateSignup()">&nbsp;</a>
 				<div class="error">Please enter a valid email address.</div>
+				<input type="text" class="email" maxlength="150" name="emailpopAddress" id="sign-up-box" title="Your Email" value="Your Email"><a href="javascript:void(0)" class="emailPopupBtn" onclick="validateSignup()">&nbsp;</a>
 					<div class="magUpdate">Please send me: <input type="radio" name="maginzeUpdate" id="WomenMaginzeUpdate" value="WomenUpdate" checked=""><label for="WomenMaginzeUpdate">Women's updates</label><input type="radio" name="maginzeUpdate" id="menMaginzeUpdate" value="MenUpdate"><label for="menMaginzeUpdate">Men's updates</label>
 						<span>We'll only send you the most relevant updates based on your choice.</span>
 					</div>
@@ -1091,7 +3912,7 @@ jQuery(document).ready(function() {
 
 <div class="onload-interstitial">
 	<div class="interstitial-message">
-		<img id="logo" src="http://www.clubmonaco.ca/images/logo.png" alt="Club Monaco" title="Club Monaco">
+		<img id="logo" src="http://www.clubmonaco.ca/images/logo.gif" alt="Club Monaco" title="Club Monaco">
 		
 			
 				
@@ -1200,10 +4021,10 @@ jQuery(document).ready(function() {
 
 <div class="switch-country-interstitial">
 	<div class="interstitial-message">
-		<img id="logo" src="http://www.clubmonaco.ca/images/logo.png" alt="Club Monaco" title="Club Monaco">
+		<img id="logo" src="http://www.clubmonaco.ca/images/logo.gif" alt="Club Monaco" title="Club Monaco">
 		<p>Are you sure you want to change regions?</p>
 		
-			    
+			
 				<p>You are currently shopping on our Canadian website, which ships to Canada only.</p>
 				<p>Please click on Shop USA if you'd like to find delivery times and shipping information for the US.</p>
 				<p>Please note: You will lose the contents of your shopping bag when you change regions.</p>
@@ -1223,7 +4044,7 @@ jQuery(document).ready(function() {
 		
 	
 
-</div>
+
 
 
 <script type="text/javascript" src="http://www.clubmonaco.ca/dwr/engine.js"></script>
@@ -1286,8 +4107,8 @@ var akGeosValue = null;
 
 <script type="text/javascript">
 Event.observe(window, 'load', function() { 
-	Df.AnalyticsContext.parse({"com.gsicommerce.analytics.platform.model.webstore.AnalyticsModel":{"name":"analyticsModel","context":{"storeCode":"CMCA","currentLocale":"en_CA","defaultLocale":"en_CA","countryCode":"CA","currencyCode":"CAD"},"eventMap":[["PAGE_VIEW_EVENT",{"pageType":"Help Desk","pageTitle":"Privacy Policy","localizedPageType":"Help Desk","localizedPageTitle":"Privacy Policy","eventType":"PAGE_VIEW_EVENT"}],["HELP_DESK_VIEW_EVENT",{"helpDesk":{"id":12574166,"title":"Privacy Policy"},"eventType":"HELP_DESK_VIEW_EVENT"}]]}});
-	new Df.AnalyticsProcessor({"com.gsicommerce.analytics.platform.model.response.AnalyticsResponse":{"responses":[["OMNITURE",{"target":"OMNITURE","reportItems":[{"type":"TRAFFIC","name":"Locale Traffic","value":"en_CA","var":"prop13"},{"type":"TRAFFIC","name":"Currency Codes Traffic","value":"CAD","var":"prop14"},{"type":"TRAFFIC","name":"Pages Traffic","value":"en_CA: Help Desk: 12574166: Privacy Policy","var":"pageName"},{"type":"TRAFFIC","name":"Page Type Traffic","value":"en_CA: Help Desk","var":"prop2"},{"type":"TRAFFIC","name":"Locale Country Selected Traffic","value":"CA","var":"prop15"}],"products":[],"properties":[["currencyCode","CAD"],["encoding","UTF-8"],["internalDomains",["gspt.net","imageg.net","gsipartners.com","paypal.com","billmelater.com","clubmonaco.ca"]],["account","gsiccbmocaprdi2"]]}]]}});
+	Df.AnalyticsContext.parse({"com.gsicommerce.analytics.platform.model.webstore.AnalyticsModel":{"name":"analyticsModel","context":{"storeCode":"CMCA","currentLocale":"en_CA","defaultLocale":"en_CA","countryCode":"CA","currencyCode":"CAD"},"eventMap":[["HELP_DESK_VIEW_EVENT",{"helpDesk":{"id":12574166,"title":"Privacy Policy"},"eventType":"HELP_DESK_VIEW_EVENT"}],["PAGE_VIEW_EVENT",{"pageType":"Help Desk","pageTitle":"Privacy Policy","localizedPageType":"Help Desk","localizedPageTitle":"Privacy Policy","eventType":"PAGE_VIEW_EVENT"}]]}});
+	new Df.AnalyticsProcessor({"com.gsicommerce.analytics.platform.model.response.AnalyticsResponse":{"responses":[["OMNITURE",{"target":"OMNITURE","reportItems":[{"type":"TRAFFIC","name":"Locale Traffic","value":"en_CA","var":"prop13"},{"type":"TRAFFIC","name":"Locale Country Selected Traffic","value":"CA","var":"prop15"},{"type":"TRAFFIC","name":"Currency Codes Traffic","value":"CAD","var":"prop14"},{"type":"TRAFFIC","name":"Page Type Traffic","value":"en_CA: Help Desk","var":"prop2"},{"type":"TRAFFIC","name":"Pages Traffic","value":"en_CA: Help Desk: 12574166: Privacy Policy","var":"pageName"}],"products":[],"properties":[["currencyCode","CAD"],["encoding","UTF-8"],["internalDomains",["gspt.net","imageg.net","gsipartners.com","paypal.com","billmelater.com","clubmonaco.ca"]],["account","gsiccbmocaprdi2"]]}]]}});
 });
 </script>
 
@@ -1351,7 +4172,7 @@ Creation Date: 07/24/2012
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="'+ doubleClick +'3721446.fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=clubm452;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');	
-</script><iframe src="https://3721446.fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=clubm452;ord=6153262015435.084?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://3721446.fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=clubm452;ord=3988248654429.092?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 	<iframe src="http://3721446.fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=clubm452;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -1488,11 +4309,11 @@ pageTracker._setCustomVar(4, 'Category', "en_CA:Help Desk", 3);
 <div class="minicart display-content">
 	<:if cartItems.length > 0 :>
 		<a class="close" href="#"><span>close</span></a>
-		<p class="items reg">
-			<a href="/cart/shoppingcart.jsp">Showing :{Math.min(cartItems.length, 9)} of :{numberOfItems} items</a>
+		<p class="items reg" >
+			<a href="/cart/shoppingcart.jsp" id="showing-items-number">Showing <span class="bag-items">:{Math.min(cartItems.length, 3)} of :{numberOfItems}</span> items</a>
 		</p>
 		<p class="items just-added">
-			<a href="/cart/shoppingcart.jsp">Showing 1 of :{numberOfItems} items</a>
+			<a href="/cart/shoppingcart.jsp">Showing <span class="bag-items">1 of :{numberOfItems}</span> items</a>
 		</p>
 		<div class="product-info">
 			<:for i in cartItems:>
@@ -1509,7 +4330,6 @@ pageTracker._setCustomVar(4, 'Category', "en_CA:Help Desk", 3);
 					var unitPrice = (lineItemPrice.amount/quantity).toFixed(lineItemPrice.currency.defaultFractionDigits);
 					var currencySymbol = cartItems[i].pricing.unitPrice.currency.symbol;
 					total += lineItemPrice.amount;
-
 					var email = null;
 					if(cartItems[i].giftCertificate) {
 						if(cartItems[i].orderItemType == 'ELECTRONIC_GIFT_CERTIFICATE') {
@@ -1526,10 +4346,13 @@ pageTracker._setCustomVar(4, 'Category', "en_CA:Help Desk", 3);
 						}
 					}
 				#>
-				<:if i<9 :>
-					<div class="row row-:{i}">
+				<:if i<3 :>
+					<div id="row-:{i}" class="row row-:{i}">
 						<a href="/product/?productId=:{cartItems[i].productId}&prodFindSrc=mc">
-							<img id="minicart-image-:{i}" src=":{cartItems[i].productImageUrl}" alt=":{cartItems[i].displayTitle}"/>
+						<#
+							var pImage = cartItems[i].productImageUrl.replace(/t50\.(?=[^.]*$)/, 't105.');
+						#>
+							<img id="minicart-image-:{i}" src=":{pImage}" alt=":{cartItems[i].displayTitle}"/>
 						</a>
 						<ul>
 							<:if cartItems[i].orderItemType == 'ELECTRONIC_GIFT_CERTIFICATE' :>
@@ -1544,22 +4367,37 @@ pageTracker._setCustomVar(4, 'Category', "en_CA:Help Desk", 3);
 							<:else:>
 								<li class="title">:{cartItems[i].displayTitle}</li>
 								<li class="color">Color: :{cartItems[i].colorDescription}</li>
-								<li class="size">Size: :{cartItems[i].sizeDescription}</li> 
+								<li class="size">Size: :{cartItems[i].sizeDescription}</li>
 								<li class="quantity reg<:if isOnSale:> on-sale<:/if:>">Qty: :{quantity} @ <:if isOnSale:><span class="sale"><:/if:>$:{unitPrice}<:if isOnSale:></span><:/if:></li>
 								<li class="quantity just-added">Qty: :{addToCartQuantity} @ <:if isOnSale:><span class="sale"><:/if:>$:{unitPrice}<:if isOnSale:></span><:/if:></li>
 							<:/else:>
 						</ul>
+						<div class="total row-total">
+							<p>
+								<#
+									var productTotal = quantity * unitPrice;
+									var integerPart =  Math.floor(productTotal);
+									var fractionalPart = Math.floor((productTotal - integerPart)* 100);
+
+									fractionalPart = fractionalPart + "";
+									if(fractionalPart.length == 1){
+										fractionalPart = "0" + fractionalPart;
+									}
+								#>
+								<span class="price">$:{integerPart}.<sup class="cents">:{fractionalPart}</sup></span>
+							</p>
+						</div>
 					</div>
 				<:/if:>
 			<:/for:>
 		</div>
-		<div class="total">
-			<# 
+		<div class="total cart-total">
+			<#
 				total = total.toFixed(2);
 				var priceArray = /(\d+)\.(\d+)/.exec(total);
 				var totalDollars = priceArray[1];
 				var totalCents = priceArray[2];
-	
+
 				// add commas
 				var formattedDollars = '';
 				var totalDollars = totalDollars.toString();
@@ -1570,23 +4408,28 @@ pageTracker._setCustomVar(4, 'Category', "en_CA:Help Desk", 3);
 					formattedDollars += totalDollars.substring(i, i+1);
 				}
 			#>
-			<p>Subtotal:<span class="price">$:{formattedDollars}.<sup class="cents">:{totalCents}</sup></span></p>
+			<p><span>Subtotal:</span><span class="price">$:{formattedDollars}.<sup class="cents">:{totalCents}</sup></span></p>
 		</div>
-
+		<div class="mini-cart-buttons">
+			<a class="btns view-cart" href="/cart/shoppingcart.jsp">View Your Bag</a>
+			<a class="btns checkout" href="/checkout.jsp">CHECKOUT</a>
+		</div>
 	<:/if:>
 	<:else:>
+		<a class="close" href="#"><span>close</span></a>
 		<p class="items empty">
 			<a href="/cart/shoppingcart.jsp">0 items in your shopping bag</a>
 		</p>
+		<div class="mini-cart-buttons empty">
+			<a class="btns view-cart empty" href="/cart/shoppingcart.jsp">View Your Bag</a>
+		</div>
 	<:/else:>
-	<a class="view-cart" href="/cart/shoppingcart.jsp">VIEW SHOPPING BAG</a>
 </div>
 </script>
 
 <script type="text/html" id="quickshop-confirmview-template">
-<a href="#" class="close"><span></span></a>
-<p>GREAT PICK! IT&#039;S IN YOUR BAG.</p>
-<a href="/cart/shoppingcart.jsp" class="view-cart">VIEW SHOPPING BAG</a>
+
+This item was successfully added to your <a href="/cart/shoppingcart.jsp" class="view-cart">shopping bag</a>.
 </script>
 
 
