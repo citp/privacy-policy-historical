@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourmatch.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061042id_/http%3A//ourmatch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourmatch.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132758id_/http%3A//ourmatch.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ourmatch - Latest Football Highlights
 
@@ -19,7 +19,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**
 
 OurMatch.net collects and uses Users personal information for the following purposes:  
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
 **How we protect your information**
