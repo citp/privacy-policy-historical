@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522071334id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122427id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taking Time for Mommy
 
