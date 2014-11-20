@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105739id_/http%3A//www.degreenexus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084422id_/http%3A//www.degreenexus.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# List of Online Degree Colleges, Online Degree Programs, Online Degree Colleges
 
 It has always been our highest priority that our clients are able to experience a comfortable and safe visit to our website while we ascertain: 
 
