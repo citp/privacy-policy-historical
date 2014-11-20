@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629222936id_/http%3A//www.apttus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230947id_/http%3A//www.apttus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - APTTUS
 
@@ -42,7 +42,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **How To Correct Your Information**
 
-You have the ability to correct or change any information which you have previously provided to us by sending an email to [info@apttus.com](mailto:info@apttus.com).  You may change this information at any time and as often as necessary.
+You have the ability to correct or change any information which you have previously provided to us by [contacting us](http://www.apttus.com/company/contact/ "contact us apttus").  You may change this information at any time and as often as necessary.
 
 **How To Opt Out**
 
