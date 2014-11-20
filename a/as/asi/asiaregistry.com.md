@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065444id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111928id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Asia Registry Privacy and Policy | Asia Registry
 
@@ -71,7 +71,7 @@ If we refuse to provide you with access or correct the personal information held
 
 ## Transfer of information overseas
 
-Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
+Pursuant to the Australian Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the Australian Privacy Principles.
 
 ## Changes to Privacy Policy
 
@@ -81,7 +81,7 @@ From time to time and in line with customer expectations and legislative changes
 
 If you require further information regarding our Privacy Policy, please [contact us](https://web.archive.org/about/contact.php "Contact Our Customer Support Team").
 
-Should you wish to read more information on privacy legislation or the National Privacy Principles in Australia - our primary place of business - we recommend that you visit the Federal Privacy Commissioner's web-site at www.privacy.gov.au.
+Should you wish to read more information on privacy legislation or the Australian Privacy Principles in Australia - our primary place of business - we recommend that you visit the Federal Privacy Commissioner's web-site at www.privacy.gov.au.
 
 ## Acceptance
 
