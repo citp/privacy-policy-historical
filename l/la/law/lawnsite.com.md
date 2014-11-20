@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095706id_/http%3A//lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121001005id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LawnSite.com Privacy Policy, Terms of Use, Contact Moose River Media
 
