@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webzveno.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625041650id_/http%3A//www.webzveno.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webzveno.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060345id_/http%3A//www.webzveno.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Webzveno.com | An SEO Friendly PHPLD Directory - About Us
-
-### Please help keep webzveno.com going strong!
 
 ### Privacy Policy
 
