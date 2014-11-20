@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabinbox.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108094447id_/http%3A//www.grabinbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabinbox.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112411id_/http%3A//www.grabinbox.com/privacy.html) for the most accurate reproduction.*
 
 # GrabInbox - Privacy Policy
 
