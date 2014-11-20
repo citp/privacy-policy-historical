@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043427id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204732id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Latest Tech News, Video & Photo Reviews at BGR India
 
 The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service oncars.in, You agree to the collection and use of your data by the site/service oncars.in in the manner provided in this Privacy Policy.
 
@@ -203,6 +203,7 @@ If we decide to make changes in our email practices, we will post those changes 
 
 India Webportal Private Limited  
 JV Mail.com Media Corporation and Zee Entertainment Enterprises Ltd  
-B/1201 BSEL Tech Park, Near Vashi Rly Station,  
-Navi Mumbai, India 400705  
+8th floor, Vishwaroop IT Park,  
+Opp. Vashi Railway Station, Sector 30A, Vashi,  
+Navi Mumbai-400703, Maharashtra,India  
 Main Vashi Office: +91-22-40130272
