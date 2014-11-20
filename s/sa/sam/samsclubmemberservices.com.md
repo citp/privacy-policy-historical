@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620083001id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTDM%7CInClubsNow%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120057id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTDM%7CInClubsNow%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sam's Club
 
@@ -97,7 +97,7 @@ We collect personal information from you in a variety of ways when you interact 
 
 Personal information is information that identifies you or is reasonably linked to you. The personal information we collect may include contact and payment information like your name, email and physical addresses, phone numbers, and credit and debit card information. When you ask us to ship an order, we may collect information you provide us such as the name, address, and phone number of recipients. For certain transactions, we may be required to collect information to comply with legal requirements.
 
-We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct or supplement our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies or other service providers if you obtain certain financial products.
+We receive personal information about you from other sources. This information helps us to correct or supplement our records, improve the quality or personalization of our service to you, and prevent or detect fraud. We collect personal information from consumer reporting agencies in conjunction with products or services that involve financial risk to Sam's Club.
 
   
 
@@ -167,11 +167,21 @@ If you apply for a Sam's Club Membership, we may share your information with the
 
 From time to time, we may disclose information with carefully selected companies who may offer you products and services of interest. To opt out of this sharing click here and follow the instructions. These opt-outs do not apply to the Sam's Club co-branded credit card or to data sharing regarding business customers that purchase business resale merchandise.
 
+  
+
+
 #### Business Member Inquiries
 
 We may share information regarding a Business Membership with the account's primary Member or an Officer or Principal of the business in order to respond to their inquiry.
 
 We may share information about Business Members resale merchandise purchases, such as tobacco products, with our partners in order to enable them to offer such customers discounts or rebates. 
+
+  
+
+
+#### Products and Services Offered by Other Businesses
+
+We sometimes enable other businesses to make products or services available to our members. You may purchase products or services from these other businesses at our Clubs or through our websites or mobile services. We indicate when products or services are offered by other businesses and share with these businesses personal information related to the provision of their products and services. 
 
   
 
@@ -398,4 +408,4 @@ Our privacy policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
 
-Effective: June 13, 2014 
+Effective: October 15, 2014 
