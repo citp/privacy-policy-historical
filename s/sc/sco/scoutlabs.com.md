@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015041id_/https%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131231id_/https%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lithium
 
@@ -57,7 +57,7 @@ We will occasionally send you information on products, services, special deals, 
 
 Lithium uses browser cookies to manage user sessions on our website. A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We also use persistent cookies on this site. A persistent cookie remains on your hard drive for an extended period of time. We do not link the information we store in cookies to any personally identifying information you submit while on our site.
 
-[download the Lithium 'use of cookies' datasheet](https://www.lithium.com/pdfs/datasheets/Lithium_Cookies_Datasheet_052312.pdf)
+[download the Lithium 'use of cookies' datasheet](https://www.lithium.com/pdfs/datasheets/Lithium_Cookies_Datasheet.pdf)
 
 ## Third Party Cookies
 
