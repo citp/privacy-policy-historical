@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618061356id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225252id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Party Earth
 
 **Effective May 7, 2013:**
 
-At Party Earth LLC ("Party Earth") we feel very strongly about our customers' privacy. Any information that you give us is held with the utmost care and will not be used other than as described in this privacy policy.
+At World Travel Media LLC ("Party Earth") we feel very strongly about our customers' privacy. Any information that you give us is held with the utmost care and will not be used other than as described in this privacy policy.
 
 Party Earth has created this privacy policy to demonstrate our commitment to your privacy on PartyEarth.com ("the Site"). The Party Earth name and reputation is built on the trust of our customers, and we hope that our commitment to online privacy will inspire the same trust in you while you are visiting PartyEarth.com.
 
@@ -68,7 +68,7 @@ If you are a registered PartyEarth.com user you can make changes to your persona
 
 **Questions**
 
-Protecting your privacy is one of our highest priorities. If you have any questions about our privacy policy, you may e-mail us at privacy@partyearth.com or write to us at Party Earth LLC, 2711 Centerville Road, Suite 400, Wilmington, DE 19808, Attn: Privacy.
+Protecting your privacy is one of our highest priorities. If you have any questions about our privacy policy, you may e-mail us at privacy@partyearth.com.
 
 **Consent and Opting-Out**
 
