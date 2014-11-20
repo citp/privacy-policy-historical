@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearpolitics.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510041704id_/http%3A//realclearpolitics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearpolitics.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121001808id_/http%3A//www.realclearpolitics.com/privacy.html) for the most accurate reproduction.*
 
 # RealClearPolitics - Privacy Policy
 
