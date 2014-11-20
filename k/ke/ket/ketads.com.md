@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080401id_/http%3A//ketads.com/site/page%3Fview%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketads.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045151id_/http%3A//ketads.com/site/page%3Fview%3Dpolicy) for the most accurate reproduction.*
 
 # KetAds Mobile Advertisement - Page Site
 
