@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507224853id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120052134id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
 
-# TD Bank Financial Group - Privacy and Security - TD Privacy Highlights
+# TD Online Privacy Policy Highlights | TD Bank Group
+
+Skip to content
+
+## Highlights
 
 This notice provides highlights of our [full Privacy Code](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp) and applies to personal information collected, used and disclosed by [TD Bank Group](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp#m) (TDBG). Personal Information  
 ---  
@@ -38,3 +42,17 @@ Important Information
   
   
  ***Email disclaimer:** For your protection, do not send confidential or personal information (e.g. Access Card number, account numbers, etc.) via email, as it is NOT a secure method of communication. If your request is urgent or requires disclosure of confidential or personal information for resolution, please call us.
+
+## How to Contact Us
+
+  * Speak to a representative at your branch or business unit
+  * Telephone: 1-800-430-6095
+
+  * Mail: Customer Feedback, Toronto-Dominion Centre, P.O. Box 193, Toronto, ON M5K 1H6
+  * Fax: 1-877-983-2932
+  * Email Us*:   
+[customerfeedback@td.com](mailto:customerfeedback@td.com)
+  * Questions related to TD Auto Finance (Canada): 1-866-694-4392
+  * Questions related to TD Insurance: 1-888-791-5346
+
+
