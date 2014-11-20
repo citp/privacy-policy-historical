@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618011101id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212655id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | COOLBUSTER.net
+# Privacy Policy
 
   
 
 
-This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions." - COOLBUSTER.net
+This post confirms our ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions." - COOLBUSTER.net
 
 **Privacy Policy for www.coolbuster.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email; please use the [Contact form](http://www.coolbuster.net/p/contact-us.html).
+If you require any more information or have any questions about our privacy policy, please feel free to [CONTACT US](http://www.coolbuster.net/p/blog-page.html).
 
 At www.coolbuster.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.coolbuster.net and how it is used.
 
@@ -33,18 +33,29 @@ DoubleClick DART Cookie
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+Google Analytics Advertising
+
+  * .:: Google stores a record of the ads it serves in its logs. These server logs typically include your web request, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+  * .:: Google stores this data for a number of reasons, the most important of which are to improve our services and to maintain the security of its systems.
+  * .:: Google anonymizes this log data by removing part of the IP address (after 9 months) and cookie information (after 18 months).
+  * You may can opt-out of the Google Analytics Advertising Features, just install this [browser add-on](https://tools.google.com/dlpage/gaoptout/).  
+
+
+
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... 
 
   * Google Adsense
+  * Ambient Philippines
   * Infolinks
-  * Nuffnang
+  * Disqus
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.coolbuster.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.coolbuster.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.coolbuster.net has no access to or control over these cookies that are used by third-party advertisers.
+www.coolbuster.net has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.coolbuster.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+www.coolbuster.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
