@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235853id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000118id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
 
 # Retweet Rank: About
 
@@ -32,4 +32,4 @@ This privacy policy describes how we collect and use your data. If you have any 
 
 10\. CONSENT. This Privacy Policy is a part of the retweetrank.com Terms of Use policy. By using retweetrank.com, users are using a service provided by retweetrank.com and they agree to be bound by the Terms of Use and this Privacy Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only addresses activities from our servers.
 
-11\. NOTIFICATION OF CHANGES. If retweetrank.com changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via e-mail. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our Web site notifying users of the change.
+11\. PRIVACY POLICY CHANGES. Any information that is collected is subject to our Privacy Policy in effect at the time such information is collected. retweetrank.com may modify and revise its Privacy Policy from time to time. If we make any material changes to this policy, we will notify you of such changes by posting them on our website and we will indicate when such changes will become effective. retweetrank.com encourages you to check back regularly for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy becomes effective will constitute your acceptance of such change.
