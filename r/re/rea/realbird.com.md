@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063404id_/http%3A//www.realbird.com/%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003713id_/http%3A//www.realbird.com/%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RealBird.com
 
@@ -22,8 +22,8 @@ If you feel that this site is not following its stated information policy, you m
 
 Our postal address is:  
 RealBird Inc.  
-434 Quartz Street,   
-Redwood City , CA 94062   
-Phone: 1-866-551-2934    
+101 Cooper Street,   
+Santa Cruz, CA 95060   
+Phone: 1-866-551-2934  
 Fax: 1-866-551-2934   
 [privacy@realbird.com](mailto:privacy@realbird.com)
