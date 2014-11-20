@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051222id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045944id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
 
 # KillSomeTime Privacy Policy
 
@@ -12,4 +12,4 @@ KillSomeTime.com may require personal information in order to sign up for servic
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org
 
-Your use of the KillSomeTime.com website signifies your acceptance of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the KillSomeTime.com web site. This Privacy Policy may be changed from time-to-time without notice. Any such changes will be posted to this web site and will be available for your review. Any continued use of this web site after a change has occurred will constitute your acceptance of such change. 
+Your use of the KillSomeTime.com website signifies your acceptance of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the KillSomeTime.com web site. This Privacy Policy may be changed from time-to-time without notice. Any such changes will be posted to this web site and will be available for your review. Any continued use of this web site after a change has occurred will constitute your acceptance of such change.
