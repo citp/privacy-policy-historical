@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044119id_/http%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130922id_/http%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FATbit Technologies - privacy policy
 
