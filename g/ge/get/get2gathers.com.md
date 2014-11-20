@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the get2gathers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085912id_/http%3A//get2gathers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get2gathers.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111552id_/http%3A//get2gathers.com/privacy.php) for the most accurate reproduction.*
 
-# Get2gathers : Free Twitter Followers
+# Get Free YouTube Views, Likes and Subscribers-Get2gathers
 
 ## Privacy Policy
 
