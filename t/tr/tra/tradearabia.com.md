@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085250id_/http%3A//www.tradearabia.com/pages/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163931id_/http%3A//www.tradearabia.com/pages/privacy_statement) for the most accurate reproduction.*
 
 # Trade Arabia | Trade Arabia Middle East & GCC business information Portal | Trade News Portal
 
