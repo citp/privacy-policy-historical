@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam7.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607003855id_/http%3A//www.cam7.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam7.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205201id_/http%3A//www.cam7.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - cam7
 
@@ -104,7 +104,7 @@ It is our policy to contact the complaining user regarding his or her concerns w
 
 **Email Communications**
 
-By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, monthly newsletters, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
 
 While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
 
