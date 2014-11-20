@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e2enetworks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112711id_/http%3A//e2enetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2enetworks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094433id_/http%3A//e2enetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | E2E Networks
+# Privacy Policy – E2E Networks
 
 ### 
 
