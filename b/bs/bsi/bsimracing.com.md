@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042915id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230924id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
 
-# bsimracing Privacy Policy | bsimracing
+# Privacy Policy - bsimracing
 
 ## **PRIVACY POLICY for www.bsimracing.com**
 
