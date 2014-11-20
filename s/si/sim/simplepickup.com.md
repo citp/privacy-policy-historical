@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213201445id_/http%3A//www.simplepickup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163823id_/http%3A//www.simplepickup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Simple Pickup
+# Privacy Policy - Simple Pickup
 
 Last updated on May 14, 2012 Privacy Policy.
 
