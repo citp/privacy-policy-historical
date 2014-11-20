@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the professionalontheweb.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220042414id_/http%3A//www.professionalontheweb.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professionalontheweb.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132439id_/http%3A//www.professionalontheweb.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Professional On The Web
 
@@ -41,6 +41,6 @@ Extendi may periodically update this policy. We will notify you about significan
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to info at professionalontheweb dot com or by mail at: Extendi, Via A. Diaz 60, Lastra a Signa, 50055 Firenze ITALY 
+Any questions about this Privacy Policy should be addressed to info at professionalontheweb dot com or by mail at: Extendi, Via P. Togliatti 26A/3, Lastra a Signa, 50055 Firenze ITALY 
 
-Copyright 2007 Extendi Snc. All rights reserved.
+Copyright 2007 Extendi srl. All rights reserved.
