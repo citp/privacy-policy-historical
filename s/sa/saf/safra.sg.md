@@ -1,65 +1,273 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611125450id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175000id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 
 
-## What Personal Information About Members Does SAFRA Gather? 
+## Privacy Policy ("Policy")
 
-The information we learn from customers helps us personalize and continually improve your experience at SAFRA. Here are the types of information we gather. 
+This Policy sets out the manner in which SAFRA collects, uses, manages and protects personal data (as defined below) in compliance with the provisions of the Personal Data Protection Act 2012.
 
-Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future features for you, improving our services, and communicating with you.   
-Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses SAFRA. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at SAFRA if we cannot recognize you, we want you to be aware that these tools exist.   
-E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from SAFRA if your computer supports such capabilities. We also compare our membership list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please click here to unsubscribe. 
+This policy applies to all individuals (as defined below) who provide SAFRA with personal data or whose personal data is otherwise collected, used and/or disclosed by SAFRA in connection with and/or for the purpose of its operations.
 
-## What About Cookies? 
+This policy supplements but does not supersede or replace any previous consent which an individual may have provided to SAFRA, nor does it affects any rights that SAFRA may have at law in connection with the collection, use and/or disclosure of any individual's personal data. Subject to that, SAFRA will not collect any personal data from an individual unless the individual has voluntarily chosen to provide us with it.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as a global login for SAFRA’s website and its Online Services.   
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of SAFRA's features, and we recommend that you leave them turned on. 
+SAFRA may from time to time update this policy to ensure it is consistent with its future developments or business purposes or to accommodate future changes to applicable legal or regulatory requirements. All updates to this policy will be published at [www.safra.sg](http://www.safra.sg/) and appropriate notifications of any material revisions will be issued to the relevant persons. Subject to an individual's rights at law, the prevailing terms of the policy from time to time shall apply. By continuing their relationship with SAFRA after any amendments have been introduced and published, individuals shall be deemed to have accepted the policy as amended.
 
-## Does SAFRA Share the Information It Receives?
+For the avoidance of doubt, this policy forms part of the terms and conditions, if any, governing an individual's specific relationship with SAFRA ( ** _"Terms and Conditions"_** ) and should be read in conjunction with such terms and conditions. In the event of any conflict or inconsistency between the provisions of this policy and terms and conditions, the provisions of the terms and conditions shall prevail to the fullest extent permissible by law.
 
-Information about our members is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+### Definitions 
 
-Affiliated Businesses We Do Not Control: We work closely with our affiliated businesses. In some cases, these businesses operate stores at SAFRA or sell offerings to you at SAFRA. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses.   
-Third-Party Service Providers (if applicable): We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
-Promotional Offers: Sometimes we send offers to selected groups of SAFRA customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please click here to unsubscribe.   
-Protection of SAFRA and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Disclaimer and other agreements; or protect the rights, property, or safety of SAFRA, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.   
-With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.   
-How Secure Is Information About Me? 
+_“ **Alumni** ”_ means previous Members of SAFRA;
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
-We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.   
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
-Which Information Can I Access? 
+_“ **Data Protection Officer** ” _means the person designated to be responsible for ensuring that SAFRA complies with the PDPA; 
 
-SAFRA gives you access to a broad range of information about your account and your interactions with SAFRA for the limited purpose of viewing and, in certain cases, updating that information. 
+_“ **DNC Registry** ”_ **** means the Do-Not-Call registry maintained by the Personal Data Protection Commission, pursuant to the PDPA;
 
-What Choices Do I Have? 
+_“ **Event Participants** ”_ means persons (whether or not Members or Alumni) who participate in or attend events or programmes organised or sponsored by SAFRA from time to time;       
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such SAFRA features as Your Profile, Online Booking, etc.   
-You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records.   
-If you do not want to receive e-mail or other mail from us, please click here to unsubscribe. (If you do not want to receive Disclaimer and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of SAFRA, and it is your responsibility to review them for changes.)   
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.   
-The Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet.   
-Are Children Allowed to Use SAFRA? 
+_“ **Individuals** ”_ **** means natural persons, whether living or deceased, and “Individual” means any of them;
 
-(Condition of use subject to SAFRA’s policy on online booking of events). If you are under 18, you may use SAFRA only with the involvement of a parent or guardian. 
+_**"Members** ”_ mean the members of SAFRA from time to time;
 
-Disclaimer, Notices, and Revisions 
+_“ **PDPA** ”_ means the Personal Data Protection Act 2012;
 
-If you choose to visit SAFRA, your visit and any dispute over privacy is subject to this Notice and our Disclaimer, including limitations on damages, arbitration of disputes, and application of the law of the Republic of Singapore. If you have any concern about privacy at SAFRA, please contact us with a thorough description, and we will try to resolve it. 
+_“ **Personal Data** ”_ **** means data that is capable of identifying a natural person, whether on its own or in conjunction with other data that is accessible to SAFRA;
 
-Our business changes constantly, and our Privacy Notice and the Disclaimer will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of member information collected in the past without the consent of affected members. 
+_“ **Personnel** ”_ shall include any person engaged under a contract of service or contract for service with SAFRA, management personnel, permanent or temporary employees, as well as trainees, interns and volunteers engaged by SAFRA from time to time; and
 
-## Examples of Information Collected
+“ ** _Potential Personnel_** ” shall include any Individual who has submitted an application to be engaged by SAFRA as Personnel.
 
-### Information You Give Us 
+**Personal Data Collected by SAFRA**
 
-You provide most such information when you search, signup for an account, book facilities, events, activities and/or communicate with customer service. For example, you provide information when you search for an event; place an booking through SAFRA; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom have been included in bookings, including addresses and phone number, e-mail addresses; content of reviews and e-mails to us; and financial information, including Identity Card Numbers. 
+SAFRA will only collect, use or disclose personal data about an individual which it reasonably considers necessary for the relevant purposes underlying such collection, use or disclosure. Depending on the specific nature of an individual's interaction with SAFRA, personal data which SAFRA collects, uses or discloses concerning an individual may variously include the following:
 
-### Automatic Information 
+(a) the individual's name, gender and contact particulars, including telephone number(s), residential/mailing address(es) and email address;
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; booking history, which we sometimes aggregate with similar information from others through, and from our Web site, including date and time; cookie number; information you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+(b) details of the individual's identification documents (such as, NRIC or passport numbers), and applicable visa or permits (such as employment pass, work permit, permanent residency status);
 
- 
+(c) details of the individual's employment history and academic qualifications;
 
-For members who do not wish to receive updates on promotions, benefits or privileges via any channels, please submit the [Opt Out Form](https://web.archive.org/~/media/Data/General/Opt_Out_form.ashx "Opt out form") at any SAFRA clubs. 
+(d) details of the individual's CPF, credit card or bank account;
+
+(e) the name and contact particulars of the individual's next-of-kin;
+
+(f) details of the individual's personal preferences or other special requests or special conditions applicable to the individual;
+
+(g) details of the individual's hobbies or special interest areas;
+
+(h) the individual's network usage data and other information gathered automatically by our computer systems, including the individual's computer IP address, links visited and other activities conducted online or using our computer systems;
+
+(i) photographs and video or CCTV recordings of the individual; and
+
+(j) other information which the individual may provide to SAFRA, from time to time, in the course of such individual's interaction with SAFRA.
+
+**How SAFRA collects Personal Data**
+
+Generally, SAFRA may collect Personal Data about an Individual in one or more of the following ways:
+
+(a) from the Singapore Armed Forces, Ministry of Defence and other Singapore Governmental and/or public agencies;
+
+(b) through application or registration forms submitted by the Individual;
+
+(c) through correspondence, emails or electronic messages submitted by the Individual to SAFRA or otherwise posted on SAFRA’s website(s);
+
+(d) through the Individual’s verbal communications with SAFRA Personnel;
+
+(e) through surveys conducted with and/or feedback received from an Individual;
+
+(f) through the Individual’s access to and/or use or navigation of SAFRA’s website(s) and its computer network and the use of cookies;
+
+(g) through recordings of the Individual when attending at SAFRA’s premises or at any events or programmes organised by SAFRA;
+
+(h) through third party business partners or associates of SAFRA; and
+
+(i) when the Individual submits his/her Personal Data to SAFRA for any other reason related to SAFRA’s ordinary course of operations.
+
+**Purposes for which SAFRA may collect, use and/or disclose Personal Data**
+
+Generally, SAFRA may collect, use and/or disclose Personal Data about an Individual for one or more of the following purposes:
+
+Members and Alumni
+
+(a) administering and managing Member and Alumni relationships with SAFRA, including the provision of services to Members and Alumni;
+
+(b) providing Members and Alumni with information about services, facilities and/or other benefits being offered or made available by SAFRA to Members and Alumni;
+
+(c) providing Members and Alumni with information about third party and/or external vendor/supplier promotions, deals and/or other services being offered or made available to Members and/or Alumni, through partnerships, associations and/or other collaborations involving such third parties or external vendors/suppliers and SAFRA;
+
+(d) organising and/or facilitating events or programmes involving Members and Alumni and/or verifying the eligibility of such Members and Alumni to participate in such events or programmes; 
+
+(e) tailoring activities or services available to match Members’ and Alumni preferences; and
+
+(f) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.
+
+Personnel
+
+(a) administering and managing Personnel relationships with SAFRA, including the provision of services to Personnel;
+
+(b) evaluating the performance of Personnel;
+
+(c) undertaking staff training and quality assurance activities;
+
+(d) providing Personnel with services, facilities and/or other benefits being offered or made available by SAFRA to such Personnel as well as information about such services, facilities and benefits; and
+
+(e) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.
+
+Potential Personnel
+
+(a) administering and managing SAFRA’s relationship with Potential Personnel; and
+
+(b) evaluating the suitability and eligibility of Potential Personnel to be engaged by SAFRA;
+
+Event Participants
+
+(a) administering and managing the event participant’s relationship with SAFRA;
+
+(b) verifying the identity and eligibility of event participants;
+
+(c) promotional and publicity purposes, including recording videos or taking photographs of participants at events; and
+
+(d) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.
+
+Visitors and users of SAFRA’s facilities
+
+(a) recording and verifying the identity of visitors to SAFRA’s premises and users of SAFRA’s facilities; and 
+
+(b) monitoring the activities of visitors to SAFRA’s premises and users of SAFRA’s facilities.
+
+General business purposes 
+
+(a) managing the administrative and business operations of SAFRA;  
+
+(b) facilitating the completion of transactions with Individuals;
+
+(c) responding to complaints, queries and/or requests;
+
+(d) conducting market research for statistical profiling and other purposes in order to improve SAFRA’s services; 
+
+(e) safety and security purposes;
+
+(f) preventing, detecting or investigating any actual or crime, fraud, misconduct, unlawful action, breach or dispute;
+
+(g) record-keeping purposes; 
+
+(h) accounting or auditing purposes;  
+  
+
+
+(i) legal purposes (including but not limited to obtaining legal advice and dispute resolution); and
+
+(j) complying with laws, regulations, codes or guidelines binding on SAFRA, including disclosures to regulatory authorities or other public bodies; and
+
+(k) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.  
+  
+
+
+Purposes reasonably related to any of the above purposes
+
+(a)for any purposes reasonably related and/or ancillary to any of the abovementioned purposes.
+
+Purposes for which specific consent was obtained 
+
+(a) for any other purposes for which the Individual’s consent was specifically given or obtained. 
+
+**Consent**
+
+Unless otherwise authorised under the PDPA or any other applicable law, SAFRA will not collect, use or disclose an Individual’s Personal Data without his/her consent.
+
+SAFRA will take reasonable steps to highlight the purposes relevant to an Individual, by appropriate means, at the point or time of collection of the Personal Data from such Individual, including:
+
+(a) via express provisions in contracts, application forms and/or registration forms to be signed with or submitted to SAFRA;
+
+(b) via notifications on SAFRA’s websites; and
+
+(c) in the course of verbal communications.
+
+Where feasible, SAFRA will inform the Individual of purposes that are intrinsic to the relationship between SAFRA or to the provision of services to such Individual, as well as purposes that are optional.
+
+In so far as any purpose(s) are intrinsic to the relationship or provision of services, SAFRA reserves the right to decline to engage in the relevant relationship or to provide the relevant services to the Individual if he or she does not consent to SAFRA’s collection, use or disclosure of his/her Personal Data for such purpose.
+
+Individuals who:
+
+(a) voluntarily provide their Personal Data to SAFRA for the specified purposes;
+
+(b) use or access SAFRA’s website(s) or computer network;
+
+(c) enter SAFRA’s premises or using any of the facilities thereon; and/or
+
+(d) attend or participate in events or programmes organised by SAFRA.
+
+will be deemed to agree and consent to SAFRA collecting, using and/or disclosing their Personal Data in the manner and for the purposes set forth in this Privacy Policy.
+
+An Individual who provides SAFRA with Personal Data relating to a third party (e.g. information of his/her spouse or children) for any particular purpose, represents to SAFRA that he/she has obtained the consent of the relevant third party to SAFRA collecting, using or disclosing such Personal Data for the relevant purpose.
+
+In so far as SAFRA collects Personal Data of an Individual from any third party(ies), such as the Singapore Armed Forces, Ministry of Defence and/or other business partners or associates of SAFRA, SAFRA will take reasonable steps to inform the relevant third party(ies) of SAFRA’s purposes for collecting the Personal Data and to verify that consent from the Individual has been obtained by the relevant third party(ies) to such disclosure for the intended purpose.
+
+**Withdrawal of Consent**
+
+Any Individual who wishes to withdraw his/her consent to any use or disclosure of his/her Personal Data by SAFRA as set out in this Policy may do so by notifying SAFRA’s Data Protection Officer at [dpo@safra.sg](mailto:dpo@safra.sg). SAFRA may require up to 3 weeks from the date of the Individual’s notification to respond and effect any change. 
+
+Depending on the extent to which an Individual withdraws consent to any or all use or disclosure of his or her Personal Data by SAFRA, such withdrawal of consent may result in SAFRA’s inability to provide services to the Individual and may be considered as a termination by the Individual of any agreement between SAFRA and the Individual. SAFRA’s legal rights and remedies are expressly reserved in such event.
+
+In so far as an Individual’s data is being collected by cookies, the Individual may disable the use of cookies on his or her internet browser when accessing SAFRA’s website. However, this may result in the loss of functionality, restrict the Individual’s use of the website and/or delay or affect the way in which SAFRA’s website operates.
+
+**Verification of Personal Data & Notification of Changes**
+
+Where feasible, SAFRA will take reasonable steps to verify the accuracy of Personal Data received at the point of collection but Individuals remain primarily responsible and liable to ensure that all Personal Data submitted by them to SAFRA is complete and accurate. Information voluntarily submitted by an Individual to SAFRA shall prima facie be deemed complete and accurate.
+
+SAFRA will also take reasonable steps to periodically verify Personal Data in its possession, taking into account the exigencies of its operations, but Individuals are nonetheless required to notify SAFRA, from time to time, of any applicable changes to such Personal Data.
+
+SAFRA shall not be held liable for any inability on its part to provide services to an Individual who fails to ensure that his/her Personal Data submitted to SAFRA is complete and accurate or who fails to notify SAFRA of any relevant changes to such Personal Data.
+
+**Policy on telephone numbers registered with the DNC Registry**
+
+SAFRA is prohibited from sending unsolicited telemarketing messages (“ ** _specified messages_** ”) to Singapore telephone numbers through voice calls, text or fax messages registered on the DNC Registers unless SAFRA has obtained the relevant Individual’s clear and unambiguous consent in written or other accessible forms.
+
+In compliance with the PDPA, SAFRA will not send specified messages to telephone numbers that appear on the DNC Registry unless the relevant Individual has given SAFRA clear and unambiguous consent to do so.
+
+SAFRA will continue to contact Individuals at the telephone numbers provided to SAFRA in the limited circumstances allowed under the DNC Registry even if these telephone number are registered with the DNC Registry. Individuals who do not wish to receive such messages may notify SAFRA’s Data Protection Officer at [[dpo@safra.sg](mailto:dpo@safra.sg)].
+
+**Activities undertaken prior to 2 July 2014**
+
+SAFRA may use Personal Data of an Individual that was collected before 2 July 2014 for purposes for which the Personal Data was collected unless consent is withdrawn by that Individual. 
+
+SAFRA will continue to use Personal Data of Alumni and Members, which had been collected before 2 July 2014, for its general business purposes and purposes relating to Members and Alumni. Members and Alumni who wish to withdraw their consent to SAFRA’s use of their Personal Data may contact SAFRA’s Data Protection Officer at [[dpo@safra.sg](mailto:dpo@safra.sg)].
+
+**Protection of Personal Data**
+
+SAFRA shall make reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks to Personal Data in its possession.
+
+If SAFRA transfers Personal Data outside Singapore, SAFRA will take reasonable steps to ensure that such Personal Data transferred receives a standard of protection comparable to the protection received under the PDPA.
+
+SAFRA will ensure that third parties who receive Personal Data from SAFRA protect such Personal Data in a manner consistent with this Policy and not use such Personal Data for any purposes other than those specified by SAFRA, by incorporating appropriate contractual terms in its written agreements with these third parties.  
+
+SAFRA is not responsible in any way for the security and/or management of Personal Data shared by Individuals with third party websites accessible via links on SAFRA’s website.
+
+**Contacting SAFRA—Access and Correction of Personal Data**
+
+Any Individual who:
+
+(a) has questions or feedback relating to this Policy;
+
+(b) would like to obtain access to his/her Personal Data held by SAFRA;
+
+(c) would like to obtain information about the ways in which his/her Personal Data held by SAFRA has been or may have been used or disclosed by SAFRA in the year preceding the request; and/or
+
+(d)would like to update or make corrections to his/her Personal Data held by SAFRA, should contact SAFRA’s Data Protection Officer at [dpo@safra.sg](mailto:dpo@safra.sg)[](mailto:dpo@safra.com).
+
+Individuals should note that SAFRA is not required, under the PDPA, to provide access and correction to Personal Data in certain situations.
+
+The PDPA allows and SAFRA reserves the right to charge a reasonable fee for the handling and/or processing of access requests by an Individual pursuant to paragraphs (b) or (c) above.
+
+SAFRA may require up to 3 weeks from the date of the Individual’s request to respond and effect any change.
+
+**Governing Law**  
+
+This Policy shall be governed by and construed in accordance with the laws of Singapore. Any dispute arising out of or in connection with this Policy including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the Courts of Singapore.
+
+**SAFRA MEMBERS**  
+If you wish to update your communication preferences, please login to your SAFRA Online account [here](https://www.safra.sg/MySAFRA/Login?sol_frm=LGN__&returnUrl=http%3A%2F%2Fwww.safra.sg%2Fen%2Fabout-safra%2Fsafra-volunteers.aspx%23.u6wfnkjhxma#.U6wJ_KjHXMA). Please note that even if you choose not to receive promotions and offers from SAFRA, we will continue to send you important information about your SAFRA membership via the above means, including notifications on membership renewal opportunities and any changes in our membership terms and conditions.
+
+**NON-MEMBERS**  
+You may wish to [sign-up](https://www.safra.sg/MySAFRA/Login?sol_frm=LGN__&returnUrl=http%3A%2F%2Fwww.safra.sg%2Fen%2Fabout-safra%2Fsafra-volunteers.aspx%23.u6wfnkjhxma#.U6wJ_KjHXMA) for a SAFRA Online account to update your preferred mode of contact and/or subscribe to our mailing list to be updated of up-coming events, promotions and offers from SAFRA.
+
+To download the Privacy Policy, click [here](https://web.archive.org/~/media/PDFs/SAFRA%20%20Privacy%20Policy%2018%20June%202014.ashx).
