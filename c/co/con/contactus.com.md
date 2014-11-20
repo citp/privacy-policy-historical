@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126101824id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231443id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security | Contact Us
+# Privacy & Security | ContactUs.com
 
-Last Updated November 21, 2013
+Last Updated December 20, 2013
 
 ContactUs.com is a suite of online contact management solutions for small business websites (“ContactUs.com” or “Services”). Your privacy and protection of information you share with us while using our Services is very important to us.
 
@@ -17,14 +17,14 @@ We respect the privacy of our account holders and the privacy of their client da
 ContactUs.com gathers and stores three types of information about users that are subject to our Privacy Policy:
 
 Personal Information:  
-Personally Identifiable Information (“PII”). These are voluntary submissions made when creating an account on ContactUs.com or through your use of the Services, such as name and email address provided during registration and form submissions, or payment information provided during purchases. Please understand that when you sign into ContactUs.com or post or upload any content, your information is not anonymous to us.
+Personally Identifiable Information (“PII”). These are voluntary submissions made when creating an account on ContactUs.com or through your use of the Services, such as name and email address provided during registration and form submissions, or payment information provided during purchases. When you sign into ContactUs.com or post or upload any content that you knowingly choose to disclose and/or post on the ContactUs.com.com website, your information is not anonymous to us.
 
 Navigational Information:   
 “Navigational Information”. We keep track of user interactions with our Services, such as visiting a web page, clicking a button, and choosing a form. Also, when users access our Services, we collect information about their access method (such as hardware and software attributes), location, IP address, geographical location, browser type, referral source, length of visit and pages viewed. In addition, we store certain information from their browser using “cookies”. (For more on cookies, please see the section “What are cookies?”)
 
 Navigational Information may collected by us and our partners, and is used for the purpose of improving the quality and relevancy of the advertisements served by us and our partners (referred to as “Retargeting”), diagnosing problems with the server and to administer the Services. In the absence of the voluntary submission of Personally Identifiable Information, such Navigational Information is completely anonymous, and only includes information such as the date and time of visit, domain type, and their activity on our Advertiser’s or Partner’s websites. None of this information, individually or grouped together, can be traced back to a specific individual.
 
-Note that when you voluntarily submit Personally Identifiable Information, the data referred to as Navigational Information for a particular user may become personally identifiable to us and our Customers.
+When you voluntarily submit Personally Identifiable Information, the data referred to as Navigational Information for a particular user, including cookies, may become personally identifiable to us and our Customers.
 
 _Navigational Information Collected by Our Customers_  
 Our customers can use the tools we provide, as well as tools provided by third parties, to collect Navigational Information when you visit their webpages on the Paid Service. ContactUs.com does not control our customers’ use of these tools, nor do we control the information they collect or how they use it.
@@ -92,3 +92,7 @@ We may change this Privacy Policy pursuant to the procedures outlined in our [T
 ### WHO CAN I CONTACT ABOUT THIS PRIVACY POLICY?
 
 To submit an inquiry about our Privacy Policy, please contact our support department.
+
+#### Signup to ContactUs.com.
+
+Basic features are forever free. Buy premium features to grow your customers
