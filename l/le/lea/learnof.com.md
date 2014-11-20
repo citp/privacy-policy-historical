@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learnof.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302025627id_/http%3A//www.learnof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnof.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201903id_/http%3A//www.learnof.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-### Last updated on February 04th, 2014.
+### Last updated on May 02nd, 2014.
 
 This privacy policy applies to your use of the Learnof website located at www.Learnof.com (hereafter known as Learnof), Learnof's mobile website located at Learnof.com/mobile and Learnof applications on mobile platforms (Android, Blackberry, Windows Phone, Nokia), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the businesses listed on Learnof. 
 
