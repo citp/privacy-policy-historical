@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itravel2000.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620232501id_/http%3A//www.itravel2000.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itravel2000.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045414id_/http%3A//www.itravel2000.com/privacy.aspx) for the most accurate reproduction.*
 
-# All Inclusive Vacation Packages and other Last Minute Travel Deals at itravel2000
+# Privacy Policy - Keeping your data safe - Itravel2000
 
 (Updated for the Personal Information Protection and Electronic Documents Act, Part 1, 01 Jan, 2006). 
 
@@ -76,9 +76,7 @@ For specific inquiries or concerns relating to itravel2000's security and privac
 Alternately, feel free to call or write:
 
 itravel2000.com  
-2350 Matheson Blvd East,  
-Mississauga, Ontario L4W 5G9  
-CANADA
+1004 Middlegate Rd. Suite 3000. Mississauga, Ontario, L4Y 1M4
 
 General: 416-695-9999   
 Facsimile: 905.238.6177   
