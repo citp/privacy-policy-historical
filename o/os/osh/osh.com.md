@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624015453id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202524id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # osh Site
 
@@ -6,9 +6,9 @@
 
 ](https://web.archive.org/)
 
-### Privacy Statement
+### Privacy Policy
 
-#### Effective on January 24, 2014
+#### Effective on June 20, 2014
 
 Orchard Supply Company, LLC ("Orchard Supply Hardware", "our" or "we") wants you to know how we collect, use, share and protect information about you. This statement ("Privacy Statement") applies to all information we collect, whether through osh.com, when you visit our stores, or from other sources.
 
@@ -16,8 +16,8 @@ Orchard Supply Company, LLC ("Orchard Supply Hardware", "our" or "we") wants you
 
 We collect information about you, including when you:
 
-  * Purchase, order, return, exchange or request information about our products and services in our stores or on osh.com
-  * Call one of our call centers about a product, delivery, installation, or for customer service
+  * Purchase, order, return, exchange or request information about our products and services in our stores or on osh.com 
+  * Call one of our call centers about a product, delivery, installation, or for customer service 
   * Register on osh.com
   * Visit osh.com or participate in interactive features of osh.com, such as product reviews or Weekly Ad
   * Join our loyalty program, Club Orchard
@@ -44,19 +44,11 @@ In order to provide the best online experience possible, we also use this inform
 
 Orchard Supply Hardware does not collect personally identifiable information about users’ online activities over time and across third-party websites or online services.
 
-We may use third-party web analytics services on osh.com, such as those of Google Analytics. These service providers use the technology described above to help us analyze how users use osh.com. The information collected by the technology (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of osh.com.
+We may use third-party web analytics services on osh.com, such as those of Google Analytics. These service providers use the technology described above to help us analyze how users use osh.com. The information collected by the technology (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of osh.com. 
 
 Third parties may collect personally identifiable information about your online activities over time and across different websites or online services when you use osh.com.
 
 To learn more about managing cookies, go to the section of this Privacy Statement under "How Can You Change your Privacy Preferences?".
-
-_Orchard Supply Hardware Mobile App_
-
-If you elect to install the Mobile App, the information we collect may include your geographic location, information about your use of the Mobile App, the type of device you use and its operating system and browsers, identification details of your device (e.g., unique device identifier), IP address, and your time zone.
-
-This information will allow push notifications and other targeted marketing designed specifically for your shopping preferences to your mobile device, to provide store location information, and to provide the Orchard Supply Hardware check-in feature. It also may be used for the other purposes specified in this Privacy Statement.
-
-To learn about managing the collection of information through your mobile device, go to the section of this Privacy Statement under “How Can You Change your Privacy Preferences?”
 
 _Third-Party Cookies_
 
@@ -113,15 +105,21 @@ We may use the information we collect from you in the following ways:
 
 
 
+#### Aggregate Information Collected By Us
+
+  * Aggregate Information is non-personally identifiable and anonymous information about you. Aggregate Information is used in a collective manner and no single person can be identified by that compiled information. For example, the number of people who shopped at our stores is Aggregate Information that does not personally identify a specific user. We collect Aggregate Information.
+
+
+
 ### How Do We Protect Personal Information?
 
 We have established and implemented reasonable physical, technical, and administrative procedures to safeguard and secure the personal information we collect.
 
 #### Secure Shopping
 
-When you use a debit, credit or prepaid card in one of our stores or on osh.com, your payment card information is collected, stored and transmitted in compliance with the Payment Card Industry Data Security Standard (PCI DSS).
+When you use a debit, credit or prepaid card in one of our stores or on osh.com, your payment card information is collected, stored and transmitted in compliance with the Payment Card Industry Data Security Standard (PCI DSS). 
 
-When you place orders on osh.com, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of osh.com from capturing and viewing your personal information.
+When you place orders on osh.com, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of osh.com from capturing and viewing your personal information. 
 
 #### Passwords
 
@@ -136,6 +134,10 @@ We are committed to protecting children’s privacy and we comply fully with the
 ### Do We Disclose the Information We Collect to Outside Parties?
 
 We do not sell, trade, or otherwise transfer to third parties your personally identifiable information **except** as described below:
+
+#### Affiliates
+
+We may share your personal information among our affiliates who provide a product or service for us.
 
 #### Service Providers
 
@@ -174,7 +176,7 @@ If you do not wish to receive mailers, coupons, and other promotional mail, cont
 
 #### E-mail
 
-If you registered for an account on osh.com, you may log into your account at any time and change your preferences such as your e-mail subscriptions. Please note that due to e-mail production schedules you may receive any e-mails already in production. You also have the ability to unsubscribe to promotional e-mails by contacting us using the information contained in the e-mail or via the opt out link included in each e-mail.
+If you registered for an account on osh.com, you may log into your account at any time and change your preferences such as your e-mail subscriptions. Please note that due to e-mail production schedules you may receive any e-mails already in production. You also have the ability to unsubscribe to promotional e-mails by contacting us using the information contained in the e-mail or via the opt out link included in each e-mail. 
 
 #### Club Orchard
 
@@ -184,17 +186,11 @@ If you are a member of Club Orchard, you may log into your account at [www.clubo
 
 The “help” function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the osh.com features. You may also make your cookie anonymous for analysis and reporting purposes.
 
-#### Mobile App
-
-You can stop all collection of information by the Mobile App easily by uninstalling the Mobile App. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-You may at any time opt-out from further allowing us to have access to your location data by going to the location services, under “settings,” on your mobile device and turning location services off.
-
 #### Third Party Collection
 
 To opt out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website at <http://www.networkadvertising.org/choices/>.
 
-To learn about opting out of Google Analytics, go to https://tools.google.com/dlpage/gaoptout.
+To learn about opting out of Google Analytics, go to https://tools.google.com/dlpage/gaoptout. 
 
 #### California Residents
 
