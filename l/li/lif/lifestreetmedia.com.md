@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630005122id_/http%3A//lifestreetmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132908id_/http%3A//www.lifestreetmedia.com/privacy) for the most accurate reproduction.*
 
 # LifeStreet Media — Privacy Policy
 
