@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180511id_/http%3A//www.dwidigitalcameras.com.au/astore/Privacy-Policy-W76.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174732id_/http%3A//www.dwidigitalcameras.com.au/astore/Privacy-Policy-W76.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Digital World International
 
@@ -6,8 +6,8 @@
 
 ## Privacy Policy
 
-This is a privacy policy for http://www.dwidigitalcameras.com.au
-
+This is a privacy policy for http://www.dwidigitalcameras.com.au  
+We hold COMODO SSL, McAfee Secure and PCI Compliance certificates which means you can not only shop with confidence with the peace of mind knowning that your dealing with a company that holds your private data and information in the highest regard  
 **Contact Information**
 
 Our homepage on the Internet is located at http://www.dwidigitalcameras.com.au
