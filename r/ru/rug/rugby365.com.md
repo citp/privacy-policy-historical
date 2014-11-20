@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020030id_/http%3A//www.rugby365.com/article/37704-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045847id_/http%3A//www.rugby365.com/article/37704-privacy-policy) for the most accurate reproduction.*
 
 # Rugby365 | Privacy Policy
 
