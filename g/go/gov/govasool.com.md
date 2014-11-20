@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govasool.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326101752id_/http%3A//www.govasool.com/index.php/home/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govasool.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131845id_/http%3A//www.govasool.com/index.php/home/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Govasool
 
