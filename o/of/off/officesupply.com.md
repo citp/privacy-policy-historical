@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307173253id_/http%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194004id_/http%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
