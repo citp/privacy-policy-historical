@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the maltatoday.com.mt privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628045323id_/http%3A//www.maltatoday.com.mt/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maltatoday.com.mt privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120110610id_/http%3A//www.maltatoday.com.mt/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=1044, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://95.131.238.35/serve/6/noflash&amp;0.989883252505398"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://95.131.238.35/serve/6/noflash&amp;0.016060766677567173"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -23,7 +23,7 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:100,400,300,700,600,800|Nothing+You+Could+Do"> 
 <link rel="stylesheet" type="text/css" media="screen" href="/ui/min/f=/ui/css/reset.css"> 
-<link rel="stylesheet" type="text/css" media="screen" href="/ui/css/less.php?file=common.less,frontend/index.less,frontend/modules/latest_news_horizontal.less,frontend/modules/title16.less,frontend/modules/text16.less?30"> 
+<link rel="stylesheet" type="text/css" media="screen" href="/ui/css/less.php?file=common.less,frontend/index.less,frontend/modules/latest_news_horizontal.less,frontend/modules/title16.less,frontend/modules/text16.less?43"> 
 
     <script type="text/javascript" language="javascript" src="/ui/min/f=/ui/scripts/frontend/index.js"></script> 
 
@@ -39,7 +39,7 @@
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=io5hj1aAkN00oK" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript -->
 
-<script async="" type="text/javascript" src="http://malta-today.disqus.com/count.js"></script></head>
+<script async="" type="text/javascript" src="http://malta-today.disqus.com/count.js"></script><script src="//insights-dc.hotjar.com/static/client/insights.js"></script></head>
 <body>
 
     <div id="fb-root"></div>
@@ -78,7 +78,7 @@
         <ul class="left">
             <li><a href="/" class="first">MaltaToday</a></li>
             <li><a href="/deals/">Deals</a></li>
-            <li><a href="/ordertakeaway/">Order Take Away</a></li>
+            <!--<li><a href="/ordertakeaway/">Order Take Away</a></li>-->
             <li><a href="/vacancies/">Jobs</a></li>
             <li><a href="/pharmacies/">Pharmacies</a></li>
             <li><a href="/restaurants/">Restaurants</a></li>
@@ -285,6 +285,75 @@
             })();
         </script><div id="ad_1"></div>
 
+        <script>
+
+            $(function() {
+
+                var goBannerOpenTimeout,
+                    goBannerCloseTimeout,
+                    goBannerHover,
+                    goBannerOpen;
+
+                $(document).on("click", "#go-banner-expand .banner", function() {
+                    goBannerHover = true;
+                    clearTimeout(goBannerOpenTimeout);
+                    clearTimeout(goBannerCloseTimeout);
+                    if (!goBannerOpen) {
+                        openGoAd();
+                    }
+                });
+                $(document).on("mouseover", "#go-banner-expand", function() {
+                    goBannerHover = true;
+                    clearTimeout(goBannerOpenTimeout);
+                    clearTimeout(goBannerCloseTimeout);
+                    if (!goBannerOpen) {
+                        goBannerOpenTimeout = setTimeout(function() {
+                            if (goBannerHover) openGoAd();
+                        },500);
+                    }
+                });
+                $(document).on("mouseout", "#go-banner-expand", function() {
+                    goBannerHover = false;
+                    clearTimeout(goBannerOpenTimeout);
+                    clearTimeout(goBannerCloseTimeout);
+                    if (goBannerOpen) {
+                        goBannerCloseTimeout = setTimeout(function() {
+                            if (!goBannerHover) closeGoAd();
+                        },1000);
+                    }
+                });
+                $(document).on("click", "#go-banner-expand .go-advert .close", function() {
+                    closeGoAd();
+                });
+
+                function openGoAd() {
+                    $(".go-advert").css("height", "600px");
+                    goBannerOpen = true;
+                }
+
+                function closeGoAd() {
+                    $(".go-advert").css("height", "1px");
+                    goBannerOpen = false;
+                }
+
+            });
+            function showGoVideo() {
+                var parent = document.getElementById('go-video-container');
+                var child = document.getElementById('go-contents');
+                var video = document.createElement('div');
+                video.className = 'video';
+                var iframe = document.createElement('iframe');
+                iframe.width = '531';
+                iframe.height = '299';
+                iframe.src = 'https://www.youtube.com/embed/tK9JWoa42-8?controls=0&vq=hd720&autoplay=1&modestbranding=1&rel=0&showinfo=0';
+                iframe.style.borderWidth = 0;
+                video.appendChild(iframe);
+                parent.replaceChild(video, child);
+            }
+        </script>
+
+
+
     </div>
 
 </div>
@@ -298,10 +367,10 @@
     <div id="logo_area">
 
         <div class="date left">
-            <div class="datetext"> 28th June 2014</div>
+            <div class="datetext"> 20th November 2014</div>
                             <div class="dividerline"></div>
                 <div class="weather">
-                    <a href="/weather/"><span>Sky Is Clear</span> <img src="/ui/images/weather/sunny.gif"> <span>21°</span></a>
+                    <a href="/weather/"><span>Few Clouds</span> <img src="/ui/images/weather/cloudy_day.gif"> <span>21°</span></a>
                 </div>
                         <div class="dividerline"></div>
             <div class="link">
@@ -363,6 +432,7 @@
                     <ul>
                         <li><a href="/news/national/">National</a></li>
                         <li><a href="/news/europe_2014/">Europe 2014</a></li>
+                        <li><a href="/news/budget_2015/">Budget 2015</a></li>
                         <li><a href="/news/world/">World</a></li>
                         <li><a href="/news/court_and_police/">Court &amp; Police</a></li>
                         <li><a href="/news/interview/">Interview</a></li>
@@ -445,12 +515,6 @@
                     </div>
                 </li>
                 <li class="spacer"><img src="/ui/images/pixel.gif"></li>
-                <li class="item dealtoday_color ">
-                    <div class="open_url2">
-                        <a href="/sports/worldcup2014/">World Cup</a>
-                    </div>
-                </li>
-                <li class="spacer"><img src="/ui/images/pixel.gif"></li>
                 <li class="item dropdown news_color " data-category="news">
                     <div class="open_url" data-url="/news/">
                         <a href="/news/">News</a>
@@ -490,6 +554,12 @@
                     <div class="open_url" data-url="/comment/">
                         <a href="/comment/">Comment</a>
                         <span class="fa fa-angle-down arrow"></span>
+                    </div>
+                </li>
+                <li class="spacer"><img src="/ui/images/pixel.gif"></li>
+                <li class="item gourmet_color" style="padding: 0px;">
+                    <div class="open_url" data-url="/lifestyle/food/">
+                        <a href="http://www.maltatoday.com.mt/lifestyle/food/"><img src="http://www.maltatoday.com.mt/ui/images/gourmet_logo.png" height="34" style="float:left"></a>
                     </div>
                 </li>
             </ul>
@@ -550,244 +620,244 @@
     </div>
     <div class="latest_news_container">
         <div class="latest_news_inner">
-                <div class="latest_news open_url" data-url="/sports/worldcup2014/40564/beckenbauer_says_suarez_ban_more_than_justified">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/50685298.jpg"></div>
-            <div class="text"><span class="category sports">World Cup 2014</span><br>
-               <a href="/sports/worldcup2014/40564/beckenbauer_says_suarez_ban_more_than_justified">
-
-                   Beckenbauer says Suarez ban 'more than justified'                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/sports/tennis/40563/relieved_djokovic_advances_after_shoulder_injury_scare">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/51448934.jpg"></div>
-            <div class="text"><span class="category sports">Tennis</span><br>
-               <a href="/sports/tennis/40563/relieved_djokovic_advances_after_shoulder_injury_scare">
-
-                   Relieved Djokovic advances after shoulder injury scare                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/national/40562/eu_to_turn_to_mediterranean_for_energy__pm___">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/joseph_muscat_26_june_2014.jpg"></div>
-            <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40562/eu_to_turn_to_mediterranean_for_energy__pm___">
-
-                   EU to turn to Mediterranean for energy – PM                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40555/altercation_between_peter_fenech_and_saviour_balzan_in_court">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/maltatoday-libel-fund-help-us-20120717.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40555/altercation_between_peter_fenech_and_saviour_balzan_in_court">
-
-                   Altercation between Peter Fenech and Saviour Balzan in court                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40561/truck_catches_fire_underground">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/tunnel_fire_1.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40561/truck_catches_fire_underground">
-
-                   Truck catches fire underground                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/national/40560/gensna_producers_give_10000_to_injured_worker">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/emmanuel_ronayne_david_borg_paul_abela_gensna_worker_injured.jpg"></div>
-            <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40560/gensna_producers_give_10000_to_injured_worker">
-
-                   Gensna producers give €10,000 to injured worker                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40559/man_arrested_on_3g_cannabis_find">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/seven-years-imprisonment-for-trafficking-cannabis-20130625.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40559/man_arrested_on_3g_cannabis_find">
-
-                   Man arrested on 3g cannabis find                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/business/business_news/40558/fenech_blames_labours_largesse_for_higher_106_million_spending">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/tonio_fenech_4.jpg"></div>
+                <div class="latest_news open_url" data-url="/business/business_news/46392/annual_inflation_rate_up_by_034">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/euro-coins.jpg"></div>
             <div class="text"><span class="category business">Business News</span><br>
-               <a href="/business/business_news/40558/fenech_blames_labours_largesse_for_higher_106_million_spending">
+               <a href="/business/business_news/46392/annual_inflation_rate_up_by_034">
 
-                   Fenech blames Labour’s largesse for higher €106 million spend...                   </a>
+                   Annual inflation rate up by 0.34%                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/world/40557/eu_leaders_nominate_juncker_as_next_european_commission_president">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/pn-congratulate-epp-candidate-jean-claude-juncker-20140307.jpg"></div>
-            <div class="text"><span class="category news">World</span><br>
-               <a href="/news/world/40557/eu_leaders_nominate_juncker_as_next_european_commission_president">
+                <div class="latest_news open_url" data-url="/sports/motorsports/46391/asmk_welcomes_fimeurope_officers_in_malta">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/l-ufficjali_tal-asmk_flimkien_mal-ufficjali_tal-fim_europe.jpg"></div>
+            <div class="text"><span class="category sports">Motorsports</span><br>
+               <a href="/sports/motorsports/46391/asmk_welcomes_fimeurope_officers_in_malta">
 
-                   EU leaders nominate Juncker as next European Commission president                   </a>
+                   ASMK welcomes FIM-Europe officers in Malta                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40556/court_throws_out_human_rights_violation_claims_made_before_proceedings_ended">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/doctor-awarded-2-500-following-two-decade-court-case-20130702.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40556/court_throws_out_human_rights_violation_claims_made_before_proceedings_ended">
+                <div class="latest_news open_url" data-url="/business/business_news/46390/chamber_tells_scicluna_not_to_downplay_declining_exports">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/6453_edward_scicluna.jpg"></div>
+            <div class="text"><span class="category business">Business News</span><br>
+               <a href="/business/business_news/46390/chamber_tells_scicluna_not_to_downplay_declining_exports">
 
-                   Court throws out human rights violation claims made before procee...                   </a>
+                   Chamber tells Scicluna not to downplay declining exports                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/sports/worldcup2014/40554/group_b_onfire_robben_out_to_make_and_take_second_chance_with_the_dutch">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/6641_untitled_2.png"></div>
-            <div class="text"><span class="category sports">World Cup 2014</span><br>
-               <a href="/sports/worldcup2014/40554/group_b_onfire_robben_out_to_make_and_take_second_chance_with_the_dutch">
-
-                   GROUP B: On-fire Robben out to make, and take, second chance with...                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/sports/worldcup2014/40553/suarez_loses_888poker_sponsorship_deal_after_fourmonth_ban">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/5315_untitled.png"></div>
-            <div class="text"><span class="category sports">World Cup 2014</span><br>
-               <a href="/sports/worldcup2014/40553/suarez_loses_888poker_sponsorship_deal_after_fourmonth_ban">
-
-                   Suarez loses 888poker sponsorship deal after four-month ban                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40552/mans_jail_term_halved_after_being_sentenced_for_offence_he_was_never_charged_with">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/court-allows-adoptee-to-keep-surname-he-grew-up-with-20140131.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40552/mans_jail_term_halved_after_being_sentenced_for_offence_he_was_never_charged_with">
-
-                   Jail term halved for man convicted on offence he was not charged ...                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/national/40551/party_financing_bill_aims_to_increase_political_transparency">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/7741_owen_bonnici.jpg"></div>
+                <div class="latest_news open_url" data-url="/news/national/46389/mepa_removes_illegal_development_in_three_large_open_sites">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/mepa_removes_illegal_structures_birkirkara_5.png"></div>
             <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40551/party_financing_bill_aims_to_increase_political_transparency">
+               <a href="/news/national/46389/mepa_removes_illegal_development_in_three_large_open_sites">
 
-                   MPs will lose seat if they under-declare campaign spending                   </a>
+                   MEPA removes illegal development in three large open sites                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/national/40550/busuttil_parties_not_given_preferential_treatment_over_unpaid_utility_bills">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/simon_busuttil_ta_xbiex_address.jpg"></div>
+                <div class="latest_news open_url" data-url="/comment/blogs/46251/voting_rights_who_dropped_the_clanger">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/8353_op_stefano_mallia.jpg"></div>
+            <div class="text"><span class="category comment">Blogs</span><br>
+               <a href="/comment/blogs/46251/voting_rights_who_dropped_the_clanger">
+
+                   Voting rights: who dropped the clanger?                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46239/racist_incidents_in_malta_remain_underreported">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/14.1_tr_report_racism_malta.jpg"></div>
             <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40550/busuttil_parties_not_given_preferential_treatment_over_unpaid_utility_bills">
+               <a href="/news/national/46239/racist_incidents_in_malta_remain_underreported">
 
-                   Busuttil: Parties not given preferential treatment on unpaid util...                   </a>
+                   Racist incidents in Malta remain under-reported                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40549/driver_who_crashed_into_mps_vehicle_denied_bail">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/censu_galea_frederick_azzopardi.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40549/driver_who_crashed_into_mps_vehicle_denied_bail">
-
-                   Driver who crashed into MP's vehicle denied bail                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40547/court_rules_officers_mentioned_in_constitutional_case_have_a_right_to_clear_their_names">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/court-orders-repayment-of-4-million-in-debt-20140225.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40547/court_rules_officers_mentioned_in_constitutional_case_have_a_right_to_clear_their_names">
-
-                   Court rules officers mentioned in constitutional case have a righ...                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40548/editors_mother_confirms_galea_curmis_visit">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/lawrence_gonzi_edgar_galea_curmi.jpg"></div>
-            <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40548/editors_mother_confirms_galea_curmis_visit">
-
-                   Galea Curmi visited Balzan home, but not as ‘family friend’                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/national/40546/malta_unhappy_at_exclusion_of_mutual_recognition_from_council_conclusions">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/immigrants_4.jpg"></div>
+                <div class="latest_news open_url" data-url="/news/national/46235/paradise_bay_owners_apply_to_regularise_illegalities">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/paradise_bay.jpg"></div>
             <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40546/malta_unhappy_at_exclusion_of_mutual_recognition_from_council_conclusions">
+               <a href="/news/national/46235/paradise_bay_owners_apply_to_regularise_illegalities">
 
-                   Malta unhappy at exclusion of ‘mutual recognition’ from Counc...                   </a>
+                   Paradise Bay owners apply to regularise illegalities                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/sports/worldcup2014/40545/guardiola_hopes_for_future_world_cup_coaching_role_">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/51345422.jpg"></div>
-            <div class="text"><span class="category sports">World Cup 2014</span><br>
-               <a href="/sports/worldcup2014/40545/guardiola_hopes_for_future_world_cup_coaching_role_">
+                <div class="latest_news open_url" data-url="/business/business_comment/46387/market_commentary_us_dollar_continues_to_strengthen">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/06744-cc-trader-talk-v2.jpg"></div>
+            <div class="text"><span class="category business">Business Comment</span><br>
+               <a href="/business/business_comment/46387/market_commentary_us_dollar_continues_to_strengthen">
 
-                   Guardiola hopes for future World Cup coaching role                   </a>
+                   Market commentary: US dollar continues to strengthen                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/world/40544/philip_morris_demands_review_of_tobacco_products_directive">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/european_court_of_justice_1.jpg"></div>
-            <div class="text"><span class="category news">World</span><br>
-               <a href="/news/world/40544/philip_morris_demands_review_of_tobacco_products_directive">
-
-                   Philip Morris demands review of Tobacco Products Directive                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/sports/worldcup2014/40543/uruguay_slams_fifa_for_bullying_tiny_nation_over_suarez_ban_">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/02247600.jpg"></div>
-            <div class="text"><span class="category sports">World Cup 2014</span><br>
-               <a href="/sports/worldcup2014/40543/uruguay_slams_fifa_for_bullying_tiny_nation_over_suarez_ban_">
-
-                   Uruguay slams FIFA for bullying 'tiny nation' over Suarez ban                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40541/court_orders_repayment_of_debts_to_beverage_company">
+                <div class="latest_news open_url" data-url="/news/court_and_police/46388/polidanos_son_not_guilty_of_criminal_negligence_in_construction_accident">
             <div class="image"><img src="/ui_frontend/thumbnail/62/62/court-places-men-accused-of-cigarette-theft-and-smuggling-under-bill-of-indictment-20140307.jpg"></div>
             <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40541/court_orders_repayment_of_debts_to_beverage_company">
+               <a href="/news/court_and_police/46388/polidanos_son_not_guilty_of_criminal_negligence_in_construction_accident">
 
-                   Court orders repayment of debts to beverage company                   </a>
+                   Polidano's son not guilty of criminal negligence in construction ...                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/news/national/40542/watch_report_outlines_eus_effect_on_malta_since_accession">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/european_union_1.jpg"></div>
-            <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40542/watch_report_outlines_eus_effect_on_malta_since_accession">
-
-                   [Watch] Report outlines EU's effect on Malta since accession                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/lifestyle/food/40532/island_caterers_relaunch_online_portal">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/island_caterers.jpg"></div>
-            <div class="text"><span class="category lifestyle">Food</span><br>
-               <a href="/lifestyle/food/40532/island_caterers_relaunch_online_portal">
-
-                   Island Caterers re-launch online portal                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/world/40539/danish_pm_former_italian_premier_favourites_for_eu_council_job">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/italian-prime-minister-letta-in-malta-to-hold-bilateral-talks-20131111.jpg"></div>
-            <div class="text"><span class="category news">World</span><br>
-               <a href="/news/world/40539/danish_pm_former_italian_premier_favourites_for_eu_council_job">
-
-                   Updated | Danish PM, former Italian premier favourites for EU Cou...                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/business/business_news/40538/fivemonth_deficit_up_by_48_million_over_2013">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/deficit-down-by-74-3-million-20130830.jpg"></div>
-            <div class="text"><span class="category business">Business News</span><br>
-               <a href="/business/business_news/40538/fivemonth_deficit_up_by_48_million_over_2013">
-
-                   Five-month deficit up by €48 million over 2013                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/national/40498/farsons_exclude_high_rise_at_mriehel">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/mriehel.jpg"></div>
-            <div class="text"><span class="category news">National</span><br>
-               <a href="/news/national/40498/farsons_exclude_high_rise_at_mriehel">
-
-                   Farsons exclude high-rise at Mriehel                   </a>
-            </div>
-        </div>
-                <div class="latest_news open_url" data-url="/news/court_and_police/40537/i_told_gonzi_to_stop_the_attacks_from_caruana_galizia_and_they_stopped">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/john_dalli_10.jpg"></div>
+                <div class="latest_news open_url" data-url="/news/court_and_police/46375/ministers_driver_involved_in_argument_shots_fired">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/manuel_mallia_driver_bullet_holes_hit_and_run_1.jpg"></div>
             <div class="text"><span class="category news">Court &amp; Police</span><br>
-               <a href="/news/court_and_police/40537/i_told_gonzi_to_stop_the_attacks_from_caruana_galizia_and_they_stopped">
+               <a href="/news/court_and_police/46375/ministers_driver_involved_in_argument_shots_fired">
 
-                   ‘I told Gonzi to stop the attacks from Caruana Galizia, and the...                   </a>
+                   Update 3 | ‘Warning shots’ were fired into Scotsman’s car                   </a>
             </div>
         </div>
-                <div class="latest_news open_url" data-url="/arts/art/40511/do_not_publish_st_james_cavalier_launches_international_visual_arts_festival">
-            <div class="image"><img src="/ui_frontend/thumbnail/62/62/ray_7488.jpg"></div>
-            <div class="text"><span class="category arts">Art</span><br>
-               <a href="/arts/art/40511/do_not_publish_st_james_cavalier_launches_international_visual_arts_festival">
+                <div class="latest_news open_url" data-url="/news/budget_2015/46386/mcwo_pleased_with_measures_incentivising_women_to_take_up_employment_">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/woman_at_work.jpg"></div>
+            <div class="text"><span class="category news">Budget 2015</span><br>
+               <a href="/news/budget_2015/46386/mcwo_pleased_with_measures_incentivising_women_to_take_up_employment_">
 
-                   [WATCH] St James Cavalier launches international visual arts fest...                   </a>
+                   MCWO pleased with measures incentivising women to take up employm...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/court_and_police/46382/drug_trafficker_pleads_guilty_to_charges_has_all_assets_confiscated">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/accused-demands-suspension-of-hearings-until-constitutional-court-judgement-20140224.jpg"></div>
+            <div class="text"><span class="category news">Court &amp; Police</span><br>
+               <a href="/news/court_and_police/46382/drug_trafficker_pleads_guilty_to_charges_has_all_assets_confiscated">
+
+                   Drug trafficker pleads guilty to charges, has all assets confisca...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/business/business_news/46358/emirates_empowers_airport_staff_with_launch_of_new_mobile_app_technology">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/78_-_emirates_empowers_airport_staff_with_launch_of_new_mobile_app_technology_-_2.jpeg"></div>
+            <div class="text"><span class="category business">Business News</span><br>
+               <a href="/business/business_news/46358/emirates_empowers_airport_staff_with_launch_of_new_mobile_app_technology">
+
+                   Emirates empowers airport staff with launch of new mobile app tec...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/arts/film/46325/trailer_park__song_one">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/songone.jpg"></div>
+            <div class="text"><span class="category arts">Film</span><br>
+               <a href="/arts/film/46325/trailer_park__song_one">
+
+                   Trailer Park | Song One                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/world/46380/chile_political_prisoners_get_75_million">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/row-on-pinochet-erupts-in-chile-201215.jpg"></div>
+            <div class="text"><span class="category news">World</span><br>
+               <a href="/news/world/46380/chile_political_prisoners_get_75_million">
+
+                   Chile political prisoners get $7.5 million                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/world/46379/israeli_starts_demolition_of_palestinian_homes">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/israel_demolished_house.jpg"></div>
+            <div class="text"><span class="category news">World</span><br>
+               <a href="/news/world/46379/israeli_starts_demolition_of_palestinian_homes">
+
+                   Israeli starts demolition of Palestinian homes                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/world/46378/north_korea_threatens_nuclear_test">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/kim-jong-un-named-marshal-in-north-korea-20120718.jpg"></div>
+            <div class="text"><span class="category news">World</span><br>
+               <a href="/news/world/46378/north_korea_threatens_nuclear_test">
+
+                   North Korea threatens nuclear test                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/world/46377/four_men_sentenced_to_death_after_honour_killing_pregnant_relative_in_pakistan">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/pakistan_honour_killing.jpg"></div>
+            <div class="text"><span class="category news">World</span><br>
+               <a href="/news/world/46377/four_men_sentenced_to_death_after_honour_killing_pregnant_relative_in_pakistan">
+
+                   Four men sentenced to death after 'honour killing' pregnant relat...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/business/mepa_watch/46367/tribunal_revokes_permit_for_raising_party_wall_which_would_block_views_of_grand_harbour">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/over-1-200-mepa-enforcement-orders-deleted-from-server-20140127.jpg"></div>
+            <div class="text"><span class="category business">Mepawatch</span><br>
+               <a href="/business/mepa_watch/46367/tribunal_revokes_permit_for_raising_party_wall_which_would_block_views_of_grand_harbour">
+
+                   Tribunal revokes permit for raising party wall which would block ...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46376/in_the_press_warning_shots_fired_after_hitandrun_on_ministers_car">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/1509_image.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46376/in_the_press_warning_shots_fired_after_hitandrun_on_ministers_car">
+
+                   In the Press: Warning shots fired after hit-and-run on minister's...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46374/government_has_radical_proposals_on_landbased_gaming__herrera">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/responsible-gaming-foundation-to-lead-prevention-drive-20140218.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46374/government_has_radical_proposals_on_landbased_gaming__herrera">
+
+                   Government has 'radical proposals' on land-based gaming - Herrera                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46370/live_public_accounts_committee_on_fuel_procurement__liveblog">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/1172_image.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46370/live_public_accounts_committee_on_fuel_procurement__liveblog">
+
+                   Public accounts committee grills John Rizzo • live-blog                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46373/parliament_pays_tribute_to_former_labour_minister_lino_spiteri">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/lino_spiteri43.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46373/parliament_pays_tribute_to_former_labour_minister_lino_spiteri">
+
+                   Parliament pays tribute to former Labour minister Lino Spiteri                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46371/six_cases_before_the_permanent_commission_against_corruption">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/eu-unveils-its-first-anti-corruption-report-malta-must-review-financing-of-political-parties-20140203.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46371/six_cases_before_the_permanent_commission_against_corruption">
+
+                   Six cases before the Permanent Commission against Corruption                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/court_and_police/46369/leisure_clothing_directors_remanded_in_custody">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/leisure_clothing_malta.jpg"></div>
+            <div class="text"><span class="category news">Court &amp; Police</span><br>
+               <a href="/news/court_and_police/46369/leisure_clothing_directors_remanded_in_custody">
+
+                   Leisure Clothing directors remanded in custody                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46350/gas_power_station_milestones_to_be_announced_in_coming_days__mizzi">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/konrad_mizzi.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46350/gas_power_station_milestones_to_be_announced_in_coming_days__mizzi">
+
+                   Updated | Playmobil to save close to €1 million annually throug...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/budget_2015/46368/pn_slams_reintroduction_of_vat_on_all_commercial_activity">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/clyde_puli_krystle_debono_tony_bezzina_press_conf_2%28cm%29.jpg"></div>
+            <div class="text"><span class="category news">Budget 2015</span><br>
+               <a href="/news/budget_2015/46368/pn_slams_reintroduction_of_vat_on_all_commercial_activity">
+
+                   [WATCH] PN slams reintroduction of VAT on all commercial activity                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/business/business_news/46365/despite_libya_chaos_medserv_pretax_22_million_profit_on_target">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/medserv_3.jpg"></div>
+            <div class="text"><span class="category business">Business News</span><br>
+               <a href="/business/business_news/46365/despite_libya_chaos_medserv_pretax_22_million_profit_on_target">
+
+                   Despite Libya chaos, Medserv pre-tax €2.2 million profit on tar...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46364/newly_set_up_justice_department_will_help_alleviate_courts_workload">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/8.2_libel_image.jpg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46364/newly_set_up_justice_department_will_help_alleviate_courts_workload">
+
+                   Newly set up justice department will help alleviate courts' workl...                   </a>
+            </div>
+        </div>
+                <div class="latest_news open_url" data-url="/news/national/46363/7000_single_parents_on_social_benefits_encouraged_to_join_workforce">
+            <div class="image"><img src="/ui_frontend/thumbnail/62/62/2164_image.jpeg"></div>
+            <div class="text"><span class="category news">National</span><br>
+               <a href="/news/national/46363/7000_single_parents_on_social_benefits_encouraged_to_join_workforce">
+
+                   7,000 single parents on social benefits encouraged to join workfo...                   </a>
             </div>
         </div>
                 </div>
@@ -911,6 +981,40 @@
         })();
 
     </script>
+
+    <script>
+        (function(d) {
+            window._hjSettings = { hjid: 18 };
+            var s = d.createElement('script');
+            s.src = '//insights-dc.hotjar.com/static/client/insights.js';
+            d.getElementsByTagName('head')[0].appendChild(s);
+        }(document));
+    </script>
+
+    <script type="text/javascript">
+
+        $(function() {
+
+            var visitor_active = false;
+
+            $(this).mousemove(function (e) { visitor_active = true; });
+            $(this).scroll(function (e) { visitor_active = true; });
+            $(this).keypress(function (e) { visitor_active = true; });
+
+            function refresh_page() {
+                if (!visitor_active) {
+                    window.location.reload();
+                } else {
+                    visitor_active = false;
+                }
+            }
+
+            setInterval(refresh_page, 240000);
+
+        });
+
+    </script>
+
 
     <!--<script data-id="dfavkbvp" src="https://temper.io/d.js" class="temper" async></script><noscript><a href="https://temper.io">Powered by Temper</a></noscript>-->
 
