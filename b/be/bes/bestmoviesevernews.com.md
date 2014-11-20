@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmoviesevernews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101859id_/http%3A//bestmoviesevernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmoviesevernews.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131201id_/http%3A//bestmoviesevernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Movies Ever Entertainment News
 
@@ -6,18 +6,20 @@
 
 We currently use outside ad companies to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by the ad companies to help them gauge the performance of their ads, and we do not have access to this information, nor do we want to. All information collected by advertisers do not specify you as an individual, but rather as one passing surfer out of millions a day.
 
- **Third Party Advertising**
+**Third Party Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To “opt-out,” please click here. http://www.doubleclick.com/privacy/index.aspx.
 
- **Third Party Cookies**
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Please take note that by the time you found our site, you had received third-party cookies from all those other sites you visited as well, so they are not unique to us. In fact, this is the norm when browsing the Internet.
 
- **Personal Information**
+**Personal Information**
 
 We do not, nor do we desire to, collect any personal information on our visitors. All information about you, the surfer, are provided by you, the surfer, on a voluntary basis. We run web polls that helps us to gauge the “demographic” of the people who visits us. We will eventually use this anonymous information you provide us to present to potential advertisers. Again, there is nothing about these web polls or cookies that will single you out as an individual. You are, for all intents and purposes, a faceless individual in a sea of faceless individuals. No one will ever call you up because you surfed bestmoviesevernews.com unless of course you want them too.
 
- **Email Addresses**
+**Email Addresses**
 
 The only email addresses that are collected by us are those volunteered by our visitors for our message board, which is itself a voluntary part of our site which our visitors may choose to take part in or ignore completely. We will never sell or make any use of your email address, ever.
