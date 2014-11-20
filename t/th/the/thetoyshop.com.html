@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thetoyshop.com privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623033517id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thetoyshop.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120231223id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head>
 		<title>Privacy Policy</title>
@@ -8,50 +8,32 @@
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<meta name="robots" content="index, follow">
+		<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=no">
 
 		<link rel="shortcut icon" href="/_ui/thetoyshop/images/favicon.ico" type="image/x-icon">
-
-		<link rel="stylesheet" media="screen" href="/_ui/common/css/colorbox.css">
-<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop.less">
-<link rel="stylesheet" media="print" href="/_ui/thetoyshop/css/thetoyshop_print.less">
-
-<!--[if IE 8]>
-	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie8.css" />
-<![endif]-->
-<!--[if IE 7]>
-	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie7.less" />
-<![endif]-->
-<style>
-			</style>
 		
-		<!--[if lt IE 9]>
-		<script type="text/javascript" src="/_ui/thetoyshop/js/html5.js"></script>
-		<script type="text/javascript" src="/_ui/thetoyshop/js/PIE.js"></script>
-		<![endif]-->
-
-	</head>
-	<!-- Custom package [] -->
-	<body>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-38G69"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-38G69"></script><script type="text/javascript" src="/_ui/common/js/jquery172.js"></script>
 
 	<script type="text/javascript" src="/_ui/common/js/jquery.query-2.1.7.js"></script>
 
 	<script type="text/javascript" src="/_ui/common/js/jquery-ui-1.8.16.custom.min.js"></script>
 	<script type="text/javascript" src="/_ui/common/js/jquery.ui.touch-punch.min.js"></script>
-
+		
+ 	<script type="text/javascript" src="/_ui/common/js/jquery.iosslider.js"></script>
+ 	<script type="text/javascript" src="/_ui/common/js/jquery.easing.1.3.js"></script>
+ 	
 	<script type="text/javascript" src="/_ui/common/js/jquery.tmpl.min.js"></script>
 
-	<script type="text/javascript" src="/_ui/common/js/jquery.jcarousel.js"></script>
-
-	<script type="text/javascript" src="/_ui/common/js/jquery.colorbox.js"></script>
-
 	<script type="text/javascript" src="/_ui/common/js/jquery.scrollTo-1.4.2-min.js"></script>
-
+	<script type="text/javascript" src="/_ui/common/js/jquery.jcarousel.js"></script>
 	<script type="text/javascript" src="/_ui/common/js/jquery.form.js"></script>
 	<script type="text/javascript" src="/_ui/common/js/jquery.customSelect.custom.js"></script>
 	<script type="text/javascript" src="/_ui/common/js/jquery.pstrength.1.2.custom.js"></script>
 
 	<script type="text/javascript" src="/_ui/common/js/jquery.hoverIntent.js"></script>
+	
+	<script type="text/javascript" src="/_ui/common/js/jquery.colorbox.js"></script>
+	
 
 	<script type="text/javascript">
 	/*<![CDATA[*/
@@ -140,11 +122,47 @@
 					refreshStockCheckOptionsArea($(this).find('input[name=q]').first().val());
 				})
 			});
-		});
-
+		});	 
+	
+		  $(document).ready(function() {		
+				$(".iosSlider").iosSlider({
+					navNextSelector: $(".next"),
+					navPrevSelector: $(".prev"),
+					navSlideSelector: $(".selectors .item"),
+					onSlideChange: slideChange
+				});		
+			}); 
+			
+		  function slideChange(args) {		
+				$(".selectors .item").removeClass("selected");
+				$(".selectors .item:eq(" + (args.currentSlideNumber - 1) + ")").addClass("selected");		
+			}
+		  		  
+		  // JS for reponsive videos and iframes
+		  $(function() {		    
+			    var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com'], iframe[src^='http://flv.isitetv.com'], object, embed"),
+			    $fluidEl = $("figure");				    	
+				$allVideos.each(function() {				
+				  $(this)
+				    // jQuery .data does not work on object/embed elements
+				    .attr('data-aspectRatio', this.height / this.width)
+				    .removeAttr('height')
+				    .removeAttr('width');				
+				});				
+				$(window).resize(function() {				
+				  var newWidth = $fluidEl.width();
+				  $allVideos.each(function() {				  
+				    var $el = $(this);
+				    $el
+				        .width(newWidth)
+				        .height(newWidth * $el.attr('data-aspectRatio'));				  
+				  });				
+				}).resize();			
+			});
+		  		  
 	/*]]>*/
 	</script>
-
+ 	
 	<script type="text/javascript" src="/_ui/thetoyshop/js/jsonselect.min.js"></script>
 
 	<script type="text/javascript" src="/_ui/thetoyshop/js/toyshop.js"></script>
@@ -154,7 +172,47 @@
 	</script>
 
 <script type="text/javascript" src="https://fast.fonts.com/jsapi/926f8b43-d4d4-488b-958c-fc49628982e1.js"></script>
-<script src="https://s7.addthis.com/js/250/addthis_widget.js#pub=ra-507eb79f50d53295" type="text/javascript"></script>
+<script src="https://s7.addthis.com/js/250/addthis_widget.js#pub=ra-507eb79f50d53295" type="text/javascript"></script><link rel="stylesheet" media="screen" href="/_ui/common/css/colorbox.css">
+<link rel="stylesheet" media="all and (min-width: 982px)" href="/_ui/thetoyshop/css/thetoyshop.less?v=121114.1.9">
+<link rel="stylesheet" media="print" href="/_ui/thetoyshop/css/thetoyshop_print.less">
+<link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 981px)" href="/_ui/thetoyshop/css/mobile.css?v=121114.1.9">
+
+<link rel="stylesheet" media="screen" href="/_ui/common/css/colorbox.css">
+
+<link rel="stylesheet" media="all and (min-width: 982px)" href="/_ui/thetoyshop/css/thetoyshop.less">
+
+<link rel="stylesheet" media="print" href="/_ui/thetoyshop/css/thetoyshop_print.less">
+
+<link rel="stylesheet" media="all and (max-width: 981px)" href="/_ui/thetoyshop/css/mobile.css">
+
+<link rel="stylesheet" href="/_ui/thetoyshop/css/font-awesome/css/font-awesome.min.css">
+
+<!--[if gte IE 9]>
+	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie7.less" />
+<![endif]--><link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png">
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
+
+		<style>
+			</style>
+		
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="/_ui/thetoyshop/js/html5.js"></script>
+		<script type="text/javascript" src="/_ui/thetoyshop/js/PIE.js"></script>
+		<![endif]-->
+		
+		
+		
 
 
 
@@ -214,9 +272,32 @@ Creation Date: 08/14/2013
 </script>
 <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 <script type="text/javascript">
-			</script>
+			
+			// Google - (trackQueuedEvents does not exist?? - Jamie)
+			/* var analyticsEventData = {};
+			if (analyticsEventData) {
+				Toyshop.Analytics.Google.trackQueuedEvents(analyticsEventData['GA']);
+			} */
 
-		<header role="banner">
+			// Struq
+			var rnd = parseInt(Math.random() * 10000000000000000);
+			var protocol = (document.location.protocol == "https:" ? "https:" : "http:");
+			var furl = protocol + "//app.struq.com/t/i/" + rnd + "/-/e7L-CHPyeU-Jf9I1wF__xw/" + "?v=4&sid=206"
+				+ "&src=" + encodeURIComponent(window.location) + "&sref=" + encodeURIComponent(document.referrer)+ "&rnd=" + rnd;
+			document.write("<iframe src='" + furl + "' width='1' height='1' frameborder='0' marginheight='0'"
+				+ " marginwidth='0' scrolling='no' style='position:absolute'></iframe>");
+
+		</script></head><body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><iframe src="https://app.struq.com/t/i/74225512798684/-/e7L-CHPyeU-Jf9I1wF__xw/?v=4&amp;sid=206&amp;src=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141120231223id_%2Fhttp%253A%2F%2Fwww.thetoyshop.com%2Fprivacy&amp;sref=&amp;rnd=74225512798684" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute"></iframe>
+
+		<script src="https://www.dwin1.com/1736.js" type="text/javascript" defer="defer"></script>
+		
+	<!-- Custom package [] -->
+	
+<div>
+				<script type="text/javascript">
+					</script>
+		
+				<header role="banner">
             
 
 
@@ -243,7 +324,7 @@ Creation Date: 08/14/2013
                 
                     
                     <span class="cmsimage">
-	<img title="Home Page" src="/medias/sys_master/images/8816385720350/SiteLogo.png" alt="Home Page">
+	<img title="Home Page" src="/medias/SiteLogo.png?context=bWFzdGVyfGltYWdlc3wxNTYwMHxpbWFnZS9wbmd8aW1hZ2VzLzg4MTYzODU3MjAzNTAucG5nfC0" alt="Home Page">
 </span>
                 
             
@@ -256,20 +337,20 @@ Creation Date: 08/14/2013
         <ul class="site_links">
             
             	
+					
+					<li><a href="/">Home</a>
+	</li>
+				
+            
+            	
     				
-                	<li><a href="/">Home</a>
+                	<li><a href="https://ask.thetoyshop.com" target="_new">Help &amp; FAQ</a>
 	</li>
                 
             
             	
     				
-                	<li><a href="/help">Help</a>
-	</li>
-                
-            
-            	
-    				
-                	<li><a href="/store-finder">Store Finder</a>
+                	<li><a href="/store-finder">Find a Store</a>
 	</li>
                 
             
@@ -284,6 +365,8 @@ Creation Date: 08/14/2013
     </nav>
     
     <form id="search_form" name="search_form" method="GET" action="/search">
+		<a class="mobile nav-bars menu-trigger blueMobileMenuIcon" href="#blue-mobile-menu" onclick="return false;"><i class="fa fa-bars"></i></a>
+				
         
         <label for="search">Search</label>
         
@@ -295,11 +378,12 @@ Creation Date: 08/14/2013
         
     </form>
     <nav id="top_baskets">
-        <ul class="panel_push intent active">
+        <ul class="panel_push intent">
             
-                <li class="my_basket link count" data-cartid="MiniCart" data-totals="SUBTOTAL">
+                <li class="my_basket link count parent" data-cartid="MiniCart" data-totals="SUBTOTAL">
 	<h2>
 		<a href="/cart">
+			<i class="fa fa-shopping-cart"></i>
 			<em>My Basket</em>
 			<span class="count">
 				0</span>
@@ -334,9 +418,9 @@ Creation Date: 08/14/2013
 
 
 
-<nav id="primary" class="highlight">
+<nav id="menu" class="highlight navMenu" style="display:none">
 	<div class="inner">
-		<ul class="top_level intent active">
+		<ul class="top_level intent">
 			
 				
 					
@@ -345,7 +429,8 @@ Creation Date: 08/14/2013
 
 
 
-<li class="listing category parent   columns_5">
+ 
+<li class="listing category parent   columns_5">	
 	<h2>
 
 
@@ -363,353 +448,354 @@ Creation Date: 08/14/2013
 	
 
 </h2>
-	
-		<ul class="listing category panel">
-			
-			
-				<li class="first_of_row">
-					
-					<h3><a href="/Action-toys-and-figures/c/acttoys">Action toys and figures</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Action-toys-and-figures/Action-figures/c/actfigs">Action figures</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Action-toys-and-figures/Vehicles/c/actveh">Vehicles</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Action-toys-and-figures/Blasters-and-water-pistols/c/actgun">Blasters and water pistols</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Action-toys-and-figures/Battling-toys/c/actbat">Battling toys</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Action-toys-and-figures/c/acttoys">More...</a>
-							</li>
-						</ul>
-					
-				</li>
+		
+			<ul class="listing category panel">
 				
-			
-				<li class="">
-					
-					<h3><a href="/Dolls-and-soft-toys/c/dolsoft">Dolls and soft toys</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Dolls-and-soft-toys/Dolls/c/dolls">Dolls</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Dolls-and-soft-toys/Dolls%27-accessories/c/dollacc">Dolls' accessories</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Dolls-and-soft-toys/Dolls%27-houses-and-playsets/c/dollho">Dolls' houses and playsets</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Dolls-and-soft-toys/Soft-toys/c/soft">Soft toys</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Dolls-and-soft-toys/c/dolsoft">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="first_of_row">
+						
+						<h3><a href="/Action-toys-and-figures/c/acttoys">Action toys and figures</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Action-toys-and-figures/Action-figures/c/actfigs">Action figures</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Action-toys-and-figures/Vehicles/c/actveh">Vehicles</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Action-toys-and-figures/Blasters-and-water-pistols/c/actgun">Blasters and water pistols</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Action-toys-and-figures/Battling-toys/c/actbat">Battling toys</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Action-toys-and-figures/c/acttoys">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Lego-and-construction/c/cons">Lego and construction</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Lego-and-construction/Pre-school-bricks/c/conspre">Pre-school bricks</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Lego-and-construction/Buildings/c/consbuild">Buildings</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Lego-and-construction/Vehicles/c/consveh">Vehicles</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Lego-and-construction/Minifigures/c/consfigs">Minifigures</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Lego-and-construction/c/cons">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="">
+						
+						<h3><a href="/Dolls-and-soft-toys/c/dolsoft">Dolls and soft toys</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Dolls-and-soft-toys/Dolls/c/dolls">Dolls</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Dolls-and-soft-toys/Dolls%27-accessories/c/dollacc">Dolls' accessories</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Dolls-and-soft-toys/Dolls%27-houses-and-playsets/c/dollho">Dolls' houses and playsets</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Dolls-and-soft-toys/Soft-toys/c/soft">Soft toys</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Dolls-and-soft-toys/c/dolsoft">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Collectibles/c/collect">Collectibles</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Collectibles/Bikes-and-skateboards/c/collectbikes">Bikes and skateboards</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Collectibles/Collectible-figures/c/collectfigs">Collectible figures</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Collectibles/Battling-toys/c/collectbat">Battling toys</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Collectibles/Collectible-cards/c/collectcards">Collectible cards</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Collectibles/c/collect">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="">
+						
+						<h3><a href="/Lego-and-construction/c/cons">Lego and construction</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Lego-and-construction/Pre-school-bricks/c/conspre">Pre-school bricks</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Lego-and-construction/Buildings/c/consbuild">Buildings</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Lego-and-construction/Vehicles/c/consveh">Vehicles</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Lego-and-construction/Minifigures/c/consfigs">Minifigures</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Lego-and-construction/c/cons">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Electronic-and-educational-toys/c/electric">Electronic and educational toys</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Electronic-and-educational-toys/Science-and-nature/c/electricsci">Science and nature</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Electronic-and-educational-toys/Electronic-learning-toys/c/electriccomp">Electronic learning toys</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Electronic-and-educational-toys/Music/c/electricmusic">Music</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Electronic-and-educational-toys/Robotics/c/electricrobot">Robotics</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Electronic-and-educational-toys/c/electric">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="first_of_row">
+					<li class="">
+						
+						<h3><a href="/Collectibles/c/collect">Collectibles</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Collectibles/Bikes-and-skateboards/c/collectbikes">Bikes and skateboards</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Collectibles/Collectible-figures/c/collectfigs">Collectible figures</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Collectibles/Battling-toys/c/collectbat">Battling toys</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Collectibles/Collectible-cards-%26-stickers/c/collectcards">Collectible cards &amp; stickers</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Collectibles/c/collect">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Arts-and-creative-play/c/arts">Arts and creative play</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Arts-and-creative-play/Craft-sets/c/artscraft">Craft sets</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Arts-and-creative-play/Drawing-and-painting/c/artsdraw">Drawing and painting</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Arts-and-creative-play/Fashion-and-jewellery/c/artsfash">Fashion and jewellery</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Arts-and-creative-play/Loom-kits/c/artsloom">Loom kits</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Arts-and-creative-play/c/arts">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="">
+						
+						<h3><a href="/Electronic-and-educational-toys/c/electric">Electronic and educational toys</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Electronic-and-educational-toys/Science-and-nature/c/electricsci">Science and nature</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Electronic-and-educational-toys/Electronic-learning-toys/c/electriccomp">Electronic learning toys</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Electronic-and-educational-toys/Music/c/electricmusic">Music</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Electronic-and-educational-toys/Robotics/c/electricrobot">Robotics</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Electronic-and-educational-toys/c/electric">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Games-and-jigsaws/c/games">Games and jigsaws</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Games-and-jigsaws/Board-games/c/gamesboard">Board games</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Games-and-jigsaws/Children%27s-games/c/gameschil">Children's games</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Games-and-jigsaws/Family-games/c/gamesfam">Family games</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Games-and-jigsaws/Jigsaws/c/gamesjigsaws">Jigsaws</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Games-and-jigsaws/c/games">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="first_of_row">
+						
+						<h3><a href="/Arts-and-creative-play/c/arts">Arts and creative play</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Arts-and-creative-play/Craft-sets/c/artscraft">Craft sets</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Arts-and-creative-play/Drawing-and-painting/c/artsdraw">Drawing and painting</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Arts-and-creative-play/Fashion-and-jewellery/c/artsfash">Fashion and jewellery</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Arts-and-creative-play/Loom-kits/c/artsloom">Loom kits</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Arts-and-creative-play/c/arts">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Baby-and-pre-school/c/preschool">Baby and pre-school</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Baby-and-pre-school/Newborn-baby/c/prebaby">Newborn baby</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Baby-and-pre-school/Bath-toys/c/prebath">Bath toys</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Baby-and-pre-school/Electronic-learning/c/preelec">Electronic learning</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Baby-and-pre-school/Walkers-and-ride-ons/c/prewalk">Walkers and ride-ons</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Baby-and-pre-school/c/preschool">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="">
+						
+						<h3><a href="/Games-and-jigsaws/c/games">Games and jigsaws</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Games-and-jigsaws/Board-games/c/gamesboard">Board games</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Games-and-jigsaws/Children%27s-games/c/gameschil">Children's games</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Games-and-jigsaws/Family-games/c/gamesfam">Family games</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Games-and-jigsaws/Jigsaws/c/gamesjigsaws">Jigsaws</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Games-and-jigsaws/c/games">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Outdoors/c/outdoor">Outdoors</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Outdoors/Scooters/c/outscoot">Scooters</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Outdoors/Ride-ons/c/outrideon">Ride-ons</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Outdoors/Sports-toys/c/outsports">Sports toys</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Outdoors/Play-centres%2C-swings-and-slides/c/outplaycentre">Play centres, swings and slides</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Outdoors/c/outdoor">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-				<li class="">
+					<li class="">
+						
+						<h3><a href="/Baby-and-pre-school/c/preschool">Baby and pre-school</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Baby-and-pre-school/Newborn-baby/c/prebaby">Newborn baby</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Baby-and-pre-school/Bath-toys/c/prebath">Bath toys</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Baby-and-pre-school/Electronic-learning/c/preelec">Electronic learning</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Baby-and-pre-school/Walkers-and-ride-ons/c/prewalk">Walkers and ride-ons</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Baby-and-pre-school/c/preschool">More...</a>
+								</li>
+							</ul>
+						
+					</li>
 					
-					<h3><a href="/Cars%2C-trains-and-planes/c/vehicle">Cars, trains and planes</a></h3>
-					
-						<ul>
-							
-								<li>
-									
-									<a href="/Cars%2C-trains-and-planes/Remote-control/c/vehrc">Remote control</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Cars%2C-trains-and-planes/Race-tracks/c/vehrace">Race tracks</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Cars%2C-trains-and-planes/Trains/c/vehtrain">Trains</a>
-								</li>
-							
-								<li>
-									
-									<a href="/Cars%2C-trains-and-planes/Cars%2C-trucks%2C-diggers/c/vehcars">Cars, trucks, diggers</a>
-								</li>
-							
-							<li class="more">
-								<a href="/Cars%2C-trains-and-planes/c/vehicle">More...</a>
-							</li>
-						</ul>
-					
-				</li>
 				
-			
-		</ul>
-	
+					<li class="">
+						
+						<h3><a href="/Outdoors/c/outdoor">Outdoors</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Outdoors/Scooters/c/outscoot">Scooters</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Outdoors/Ride-ons/c/outrideon">Ride-ons</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Outdoors/Sports-toys/c/outsports">Sports toys</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Outdoors/Play-centres%2C-swings-and-slides/c/outplaycentre">Play centres, swings and slides</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Outdoors/c/outdoor">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="">
+						
+						<h3><a href="/Cars%2C-trains-and-planes/c/vehicle">Cars, trains and planes</a></h3>
+						
+							<ul>
+								
+									<li>
+										
+										<a href="/Cars%2C-trains-and-planes/Remote-control/c/vehrc">Remote control</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Cars%2C-trains-and-planes/Race-tracks/c/vehrace">Race tracks</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Cars%2C-trains-and-planes/Trains/c/vehtrain">Trains</a>
+									</li>
+								
+									<li>
+										
+										<a href="/Cars%2C-trains-and-planes/Cars%2C-trucks%2C-diggers/c/vehcars">Cars, trucks, diggers</a>
+									</li>
+								
+								<li class="more">
+									<a href="/Cars%2C-trains-and-planes/c/vehicle">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+			</ul>
+		
 </li>
+
 
 				
 			
@@ -743,8 +829,9 @@ Creation Date: 08/14/2013
 			<li>
 				
 					
-					<a href="/Little-Tikes/c/littletikes" name="Little Tikes">
-						<img src="/medias/sys_master/images/8796142305310/LittleTikes.jpg" alt="Little Tikes" title="Little Tikes">
+					<a href="/Disney/Disney-Frozen/c/disfrozen" name="Disney Frozen">
+						<img src="/medias/DisFrozenLogo2.png?context=bWFzdGVyfHJvb3R8OTM4N3xpbWFnZS9wbmd8aDMwL2g5MS84ODk2NDc0MzgyMzY2LnBuZ3w2OGU4YjVkMTAxMzMwN2ViNWFmMzRiM2Y5NzIwYWNjMWVkNDhlZGM4YjY4MDc4OTBhMDgzZDhjMGQ2NGZjODEz" alt="Disney Frozen" title="Disney Frozen">
+						<p>Disney Frozen</p>
 					</a>
 				
 			</li>
@@ -753,61 +840,8 @@ Creation Date: 08/14/2013
 				
 					
 					<a href="/Lego/c/lego" name="Lego">
-						<img src="/medias/sys_master/images/8796141191198/Lego.jpg" alt="Lego" title="Lego">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Minecraft/c/mcraft" name="Minecraft">
-						<img src="/medias/sys_master/h34/h76/8870099025950/smaller-Minecraft.jpg" alt="Minecraft" title="Minecraft">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/My-Little-Pony/c/mylittlepony" name="My Little Pony">
-						<img src="/medias/sys_master/images/8814804402206/mlp.jpg" alt="My Little Pony" title="My Little Pony">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Lalaloopsy/c/lalaloopsy" name="Lalaloopsy">
-						<img src="/medias/sys_master/images/8796140830750/Lalaloopsy.jpg" alt="Lalaloopsy" title="Lalaloopsy">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Teenage-Mutant-Ninja-Turtles/c/tmnt" name="Teenage Mutant Ninja Turtles">
-						<img src="/medias/sys_master/hfd/hb1/8872748023838/TMNT-2012-logo.png" alt="Teenage Mutant Ninja Turtles" title="Teenage Mutant Ninja Turtles">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Marvel/c/marvel" name="Marvel">
-						<img src="/medias/sys_master/h5d/h29/8835094708254/marvel.jpg" alt="Marvel" title="Marvel">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Nerf/c/nerf" name="Nerf">
-						<img src="/medias/sys_master/images/8796143550494/Nerf.jpg" alt="Nerf" title="Nerf">
+						<img src="/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0" alt="Lego" title="Lego">
+						<p>Lego</p>
 					</a>
 				
 			</li>
@@ -816,7 +850,8 @@ Creation Date: 08/14/2013
 				
 					
 					<a href="/VTech/c/vtech" name="VTech">
-						<img src="/medias/sys_master/images/8796147482654/vtech-logo.jpg" alt="VTech" title="VTech">
+						<img src="/medias/vtech-logo.jpg?context=bWFzdGVyfGltYWdlc3w1NjE1fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDc0ODI2NTQuanBnfC0" alt="VTech" title="VTech">
+						<p>VTech</p>
 					</a>
 				
 			</li>
@@ -824,35 +859,9 @@ Creation Date: 08/14/2013
 			<li>
 				
 					
-					<a href="/LeapFrog/c/leapfrog" name="LeapFrog">
-						<img src="/medias/sys_master/images/8796140896286/Leapfrog.jpg" alt="LeapFrog" title="LeapFrog">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Disney/c/disney" name="Disney">
-						<img src="/medias/sys_master/images/8816377856030/Disney.jpg" alt="Disney" title="Disney">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/DreamWorks-Dragons/c/httyd" name="DreamWorks Dragons">
-						<img src="/medias/sys_master/ha9/h0a/8847722053662/dragonslogo.jpg" alt="DreamWorks Dragons" title="DreamWorks Dragons">
-					</a>
-				
-			</li>
-		
-			<li>
-				
-					
-					<a href="/Play-Doh/c/playdoh" name="Play-Doh">
-						<img src="/medias/sys_master/images/8796144009246/Play-doh.jpg" alt="Play-Doh" title="Play-Doh">
+					<a href="/Minecraft/c/mcraft" name="Minecraft">
+						<img src="/medias/smaller-Minecraft.jpg?context=bWFzdGVyfHJvb3R8NjA5MHxpbWFnZS9qcGVnfGgzNC9oNzYvODg3MDA5OTAyNTk1MC5qcGd8LQ" alt="Minecraft" title="Minecraft">
+						<p>Minecraft</p>
 					</a>
 				
 			</li>
@@ -861,7 +870,8 @@ Creation Date: 08/14/2013
 				
 					
 					<a href="/Mega-Bloks/c/megabloks" name="Mega Bloks">
-						<img src="/medias/sys_master/images/8796142567454/MegaBloks.jpg" alt="Mega Bloks" title="Mega Bloks">
+						<img src="/medias/MegaBloks.jpg?context=bWFzdGVyfGltYWdlc3w5MDA4fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDI1Njc0NTQuanBnfC0" alt="Mega Bloks" title="Mega Bloks">
+						<p>Mega Bloks</p>
 					</a>
 				
 			</li>
@@ -869,8 +879,9 @@ Creation Date: 08/14/2013
 			<li>
 				
 					
-					<a href="/Star-Wars/c/starwars" name="Star Wars">
-						<img src="/medias/sys_master/images/8796145909790/Star-Wars-Logo.jpg" alt="Star Wars" title="Star Wars">
+					<a href="/Furby/c/Furby" name="Furby">
+						<img src="/medias/furby.jpg?context=bWFzdGVyfHJvb3R8NDAxOHxpbWFnZS9qcGVnfGhhNi9oMTUvODgyNDE5MTkwOTkxOC5qcGd8LQ" alt="Furby" title="Furby">
+						<p>Furby</p>
 					</a>
 				
 			</li>
@@ -878,8 +889,59 @@ Creation Date: 08/14/2013
 			<li>
 				
 					
-					<a href="/Spider-Man/c/spiderMan2" name="Spider-Man">
-						<img src="/medias/sys_master/images/8813231276062/TASM.jpg" alt="Spider-Man" title="Spider-Man">
+					<a href="/Disney/Disney-Princess/c/disprincess" name="Disney Princess">
+						<img src="/medias/DP.jpg?context=bWFzdGVyfGltYWdlc3w1MTM2fGltYWdlL2pwZWd8aW1hZ2VzLzg4MDY5MzA5NzI3MDIuanBnfC0" alt="Disney Princess" title="Disney Princess">
+						<p>Disney Princess</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/Nerf/c/nerf" name="Nerf">
+						<img src="/medias/Nerf.jpg?context=bWFzdGVyfGltYWdlc3w0NDgyfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDM1NTA0OTQuanBnfC0" alt="Nerf" title="Nerf">
+						<p>Nerf</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/Hexbug/c/hexbug" name="Hexbug">
+						<img src="/medias/Hexbug.jpg?context=bWFzdGVyfGltYWdlc3w2ODEwfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDAxNDI2MjIuanBnfC0" alt="Hexbug" title="Hexbug">
+						<p>Hexbug</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/Despicable-Me/c/despicme" name="Despicable Me">
+						<img src="/medias/Despicable-Me-Logo.png?context=bWFzdGVyfHJvb3R8ODExNnxpbWFnZS9wbmd8aGY5L2g3OS84ODU3MjQ1NzQ1MTgyLnBuZ3wt" alt="Despicable Me" title="Despicable Me">
+						<p>Despicable Me</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/Little-Tikes/c/littletikes" name="Little Tikes">
+						<img src="/medias/Little-Tikes.png?context=bWFzdGVyfHJvb3R8NTc3NHxpbWFnZS9wbmd8aDM3L2g0Ny84ODg2ODg0NzI4ODYyLnBuZ3wt" alt="Little Tikes" title="Little Tikes">
+						<p>Little Tikes</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/Crayola/c/crayola" name="Crayola">
+						<img src="/medias/crayola.jpg?context=bWFzdGVyfGltYWdlc3w3NDcwfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxMzg0MDU5MTguanBnfC0" alt="Crayola" title="Crayola">
+						<p>Crayola</p>
 					</a>
 				
 			</li>
@@ -888,7 +950,8 @@ Creation Date: 08/14/2013
 				
 					
 					<a href="/Robo-Fish/c/robofish" name="Robo Fish">
-						<img src="/medias/sys_master/h04/h44/8854645637150/logo-robofishsm.png" alt="Robo Fish" title="Robo Fish">
+						<img src="/medias/logo-robofishsm.png?context=bWFzdGVyfHJvb3R8NTU2NHxpbWFnZS9wbmd8aDA0L2g0NC84ODU0NjQ1NjM3MTUwLnBuZ3wt" alt="Robo Fish" title="Robo Fish">
+						<p>Robo Fish</p>
 					</a>
 				
 			</li>
@@ -896,8 +959,19 @@ Creation Date: 08/14/2013
 			<li>
 				
 					
-					<a href="/Jacks/c/jacks" name="Jacks">
-						<img src="/medias/sys_master/h54/hb1/8872742486046/Jacks-Logo.png" alt="Jacks" title="Jacks">
+					<a href="/My-Little-Pony/c/mylittlepony" name="My Little Pony">
+						<img src="/medias/mlp.jpg?context=bWFzdGVyfGltYWdlc3wzMDE0fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTQ4MDQ0MDIyMDYuanBnfC0" alt="My Little Pony" title="My Little Pony">
+						<p>My Little Pony</p>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					
+					<a href="/BABY-Born/c/babyborn" name="BABY Born">
+						<img src="/medias/BabyBorn.jpg?context=bWFzdGVyfGltYWdlc3w4NzIzfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxMzcxNjA3MzQuanBnfC0" alt="BABY Born" title="BABY Born">
+						<p>BABY Born</p>
 					</a>
 				
 			</li>
@@ -916,7 +990,7 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/Brands/c/allbrands">More Brands</a>
+		<a href="/Brands/c/allbrands" class="button progress">More Brands</a>
 	
 	
 
@@ -930,9 +1004,9 @@ Creation Date: 08/14/2013
 					
 					<li class="present_finder parent right">
 	<h2><span><span class="icon"></span>Present Finder</span></h2>
-	<form id="command" class="panel present_finder present_finder_form" action="#" method="post"><div class="select_holder highlight">
+	<form id="command" class="panel present_finder present_finder_form" action="#" method="post"><div class="select_holder highlight styled">
 			<label for="present_finder_age">Age:</label>
-			<select id="present_finder_age" name="age">
+			<span class="select_wrap"><select id="present_finder_age" name="age" style="height: 30px; width: 154px;">
 				<option value="" disabled="disabled" selected="selected">Please select...</option>
 				<option value="0000">0 - 18 months</option>
 				<option value="0019">18 - 36 months</option>
@@ -940,14 +1014,14 @@ Creation Date: 08/14/2013
 				<option value="0061">5 - 8 years</option>
 				<option value="0097">8 - 11 years</option>
 				<option value="0133">11 years +</option>
-				</select>
+				</select><span class="select_skin"><span class="select_skin_text" style="width: 101px;">Please select...</span></span></span>
 		</div>
 		<div class="radio_holder">
 			<h3>Gender:</h3>
 			<ul>
 				<li>
 					<input id="present_finder_gender1" type="radio" name="gender" value="">
-					<label for="present_finder_gender1">See Both</label>
+					<label for="present_finder_gender1">Both</label>
 				</li>
 				<li>
 					<input id="present_finder_gender2" type="radio" name="gender" value="Boys">
@@ -964,7 +1038,7 @@ Creation Date: 08/14/2013
 			<input type="hidden" class="min_price" id="present_finder_price_min" name="minBudget" value="0">
 			<input type="hidden" class="max_price" id="present_finder_price_max" name="maxBudget" value="1000">
 			<div id="present_finder_price" class="dual_slider_holder">
-				<div class="dual_slider"></div>
+				<div class="dual_slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><div class="ui-slider-range ui-widget-header" style="left: 0%; width: 100%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 100%;"></a><div class="dividers"></div></div>
 			</div>
 			<ul class="slider_labels">
 				<li>£0</li>
@@ -972,7 +1046,7 @@ Creation Date: 08/14/2013
 				<li>£30</li>
 				<li>£45</li>
 				<li>£60</li>
-				<li>£75+</li>
+				<li class="ie8fix">£75+</li>
 			</ul>
 		</div>
 		<div class="multi_holder button_holder results">
@@ -1003,7 +1077,7 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/Outdoors/c/outdoor">Outdoors</a>
+		<a href="/christmas">Christmas Shop</a>
 	
 	
 
@@ -1033,37 +1107,7 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/Special-offers/c/SuperSavings">Sale</a>
-	
-	
-
-</h2>
-	
-</li>
-				
-			
-				
-					
-					
-
-
-
-
-
-<li class=" auto columns_0">
-	<h2>
-
-
-
-
-
-
-
-
-
-	
-	
-		<a href="/Arts-and-creative-play/Loom-kits/c/artsloom">UK's Largest Loom Range</a>
+		<a href="/Special-offers/c/SuperSavings">Cracking Savings Sale</a>
 	
 	
 
@@ -1076,19 +1120,798 @@ Creation Date: 08/14/2013
 	</div>
 </nav>
 
-<div id="announcements">
-	<div class="inner">
-		<h3 id="strapline">
-			
+<ul id="blue-mobile-menu" style="display:none" class="blueMobileMenu">
+	
+		
+					
+					
+
+
+
+
+ 
+<li class="firstLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">	
+	<h2>
+
+
+
+
+
+
+
+
+
+	
+		<a>Type of Toy</a>
+	
+	
+	
+
+</h2>
+		
+			<ul class="listing category panel">
+				
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Action toys and figures</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Action-toys-and-figures/Action-figures/c/actfigs">Action figures</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Action-toys-and-figures/Vehicles/c/actveh">Vehicles</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Action-toys-and-figures/Blasters-and-water-pistols/c/actgun">Blasters and water pistols</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Action-toys-and-figures/Battling-toys/c/actbat">Battling toys</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Action-toys-and-figures/c/acttoys">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Dolls and soft toys</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Dolls-and-soft-toys/Dolls/c/dolls">Dolls</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Dolls-and-soft-toys/Dolls%27-accessories/c/dollacc">Dolls' accessories</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Dolls-and-soft-toys/Dolls%27-houses-and-playsets/c/dollho">Dolls' houses and playsets</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Dolls-and-soft-toys/Soft-toys/c/soft">Soft toys</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Dolls-and-soft-toys/c/dolsoft">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Lego and construction</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Lego-and-construction/Pre-school-bricks/c/conspre">Pre-school bricks</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Lego-and-construction/Buildings/c/consbuild">Buildings</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Lego-and-construction/Vehicles/c/consveh">Vehicles</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Lego-and-construction/Minifigures/c/consfigs">Minifigures</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Lego-and-construction/c/cons">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Collectibles</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Collectibles/Bikes-and-skateboards/c/collectbikes">Bikes and skateboards</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Collectibles/Collectible-figures/c/collectfigs">Collectible figures</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Collectibles/Battling-toys/c/collectbat">Battling toys</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Collectibles/Collectible-cards-%26-stickers/c/collectcards">Collectible cards &amp; stickers</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Collectibles/c/collect">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Electronic and educational toys</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Electronic-and-educational-toys/Science-and-nature/c/electricsci">Science and nature</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Electronic-and-educational-toys/Electronic-learning-toys/c/electriccomp">Electronic learning toys</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Electronic-and-educational-toys/Music/c/electricmusic">Music</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Electronic-and-educational-toys/Robotics/c/electricrobot">Robotics</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Electronic-and-educational-toys/c/electric">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Arts and creative play</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Arts-and-creative-play/Craft-sets/c/artscraft">Craft sets</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Arts-and-creative-play/Drawing-and-painting/c/artsdraw">Drawing and painting</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Arts-and-creative-play/Fashion-and-jewellery/c/artsfash">Fashion and jewellery</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Arts-and-creative-play/Loom-kits/c/artsloom">Loom kits</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Arts-and-creative-play/c/arts">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Games and jigsaws</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Games-and-jigsaws/Board-games/c/gamesboard">Board games</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Games-and-jigsaws/Children%27s-games/c/gameschil">Children's games</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Games-and-jigsaws/Family-games/c/gamesfam">Family games</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Games-and-jigsaws/Jigsaws/c/gamesjigsaws">Jigsaws</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Games-and-jigsaws/c/games">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Baby and pre-school</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Baby-and-pre-school/Newborn-baby/c/prebaby">Newborn baby</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Baby-and-pre-school/Bath-toys/c/prebath">Bath toys</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Baby-and-pre-school/Electronic-learning/c/preelec">Electronic learning</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Baby-and-pre-school/Walkers-and-ride-ons/c/prewalk">Walkers and ride-ons</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Baby-and-pre-school/c/preschool">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Outdoors</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Outdoors/Scooters/c/outscoot">Scooters</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Outdoors/Ride-ons/c/outrideon">Ride-ons</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Outdoors/Sports-toys/c/outsports">Sports toys</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Outdoors/Play-centres%2C-swings-and-slides/c/outplaycentre">Play centres, swings and slides</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Outdoors/c/outdoor">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+					<li class="secondLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+						
+						<h3><a>Cars, trains and planes</a></h3>
+						
+							<ul>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Cars%2C-trains-and-planes/Remote-control/c/vehrc">Remote control</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Cars%2C-trains-and-planes/Race-tracks/c/vehrace">Race tracks</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Cars%2C-trains-and-planes/Trains/c/vehtrain">Trains</a>
+									</li>
+								
+									<li class="thirdLevel">
+										
+										<a href="/Cars%2C-trains-and-planes/Cars%2C-trucks%2C-diggers/c/vehcars">Cars, trucks, diggers</a>
+									</li>
+								
+								<li class="thirdLevel">
+									<a href="/Cars%2C-trains-and-planes/c/vehicle">More...</a>
+								</li>
+							</ul>
+						
+					</li>
+					
+				
+			</ul>
+		
+</li>
+
+
+				
+	
+		
+					
+					
+
+
+
+
+<li class="firstLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+	<h2>
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/Brands/c/allbrands">Brand</a>
+	
+	
+
+</h2>
+	<ul class="brand panel">
+		
+			<li class="secondLevel">
 				
 					
-					<p style="text-align: right; width: 930px;"><u> <a href="/help/deliveries/delivery_costs"><img src="/medias/sys_master/h84/hc1/8838518538270/greenthing.png" style="margin-right:50px;" alt=""></a> <a href="/help/deliveries/delivery_costs">Order by 7pm for delivery on the next working day&nbsp;&gt;</a><!--<a href="/help/deliveries/delivery_costs">Express delivery - &pound;4.99&nbsp;&gt;</a>--></u> |    <u><a href="/help/deliveries/collect-in-store">FREE Click and Collect at 89 UK stores&nbsp;&gt;</a></u></p>
+					<a href="/Disney/Disney-Frozen/c/disfrozen" name="Disney Frozen">
+						<img src="/medias/DisFrozenLogo2.png?context=bWFzdGVyfHJvb3R8OTM4N3xpbWFnZS9wbmd8aDMwL2g5MS84ODk2NDc0MzgyMzY2LnBuZ3w2OGU4YjVkMTAxMzMwN2ViNWFmMzRiM2Y5NzIwYWNjMWVkNDhlZGM4YjY4MDc4OTBhMDgzZDhjMGQ2NGZjODEz" alt="Disney Frozen" title="Disney Frozen">
+						<p>Disney Frozen</p>
+					</a>
 				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Lego/c/lego" name="Lego">
+						<img src="/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0" alt="Lego" title="Lego">
+						<p>Lego</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/VTech/c/vtech" name="VTech">
+						<img src="/medias/vtech-logo.jpg?context=bWFzdGVyfGltYWdlc3w1NjE1fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDc0ODI2NTQuanBnfC0" alt="VTech" title="VTech">
+						<p>VTech</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Minecraft/c/mcraft" name="Minecraft">
+						<img src="/medias/smaller-Minecraft.jpg?context=bWFzdGVyfHJvb3R8NjA5MHxpbWFnZS9qcGVnfGgzNC9oNzYvODg3MDA5OTAyNTk1MC5qcGd8LQ" alt="Minecraft" title="Minecraft">
+						<p>Minecraft</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Mega-Bloks/c/megabloks" name="Mega Bloks">
+						<img src="/medias/MegaBloks.jpg?context=bWFzdGVyfGltYWdlc3w5MDA4fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDI1Njc0NTQuanBnfC0" alt="Mega Bloks" title="Mega Bloks">
+						<p>Mega Bloks</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Furby/c/Furby" name="Furby">
+						<img src="/medias/furby.jpg?context=bWFzdGVyfHJvb3R8NDAxOHxpbWFnZS9qcGVnfGhhNi9oMTUvODgyNDE5MTkwOTkxOC5qcGd8LQ" alt="Furby" title="Furby">
+						<p>Furby</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Disney/Disney-Princess/c/disprincess" name="Disney Princess">
+						<img src="/medias/DP.jpg?context=bWFzdGVyfGltYWdlc3w1MTM2fGltYWdlL2pwZWd8aW1hZ2VzLzg4MDY5MzA5NzI3MDIuanBnfC0" alt="Disney Princess" title="Disney Princess">
+						<p>Disney Princess</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Nerf/c/nerf" name="Nerf">
+						<img src="/medias/Nerf.jpg?context=bWFzdGVyfGltYWdlc3w0NDgyfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDM1NTA0OTQuanBnfC0" alt="Nerf" title="Nerf">
+						<p>Nerf</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Hexbug/c/hexbug" name="Hexbug">
+						<img src="/medias/Hexbug.jpg?context=bWFzdGVyfGltYWdlc3w2ODEwfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDAxNDI2MjIuanBnfC0" alt="Hexbug" title="Hexbug">
+						<p>Hexbug</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Despicable-Me/c/despicme" name="Despicable Me">
+						<img src="/medias/Despicable-Me-Logo.png?context=bWFzdGVyfHJvb3R8ODExNnxpbWFnZS9wbmd8aGY5L2g3OS84ODU3MjQ1NzQ1MTgyLnBuZ3wt" alt="Despicable Me" title="Despicable Me">
+						<p>Despicable Me</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Little-Tikes/c/littletikes" name="Little Tikes">
+						<img src="/medias/Little-Tikes.png?context=bWFzdGVyfHJvb3R8NTc3NHxpbWFnZS9wbmd8aDM3L2g0Ny84ODg2ODg0NzI4ODYyLnBuZ3wt" alt="Little Tikes" title="Little Tikes">
+						<p>Little Tikes</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Crayola/c/crayola" name="Crayola">
+						<img src="/medias/crayola.jpg?context=bWFzdGVyfGltYWdlc3w3NDcwfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxMzg0MDU5MTguanBnfC0" alt="Crayola" title="Crayola">
+						<p>Crayola</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/Robo-Fish/c/robofish" name="Robo Fish">
+						<img src="/medias/logo-robofishsm.png?context=bWFzdGVyfHJvb3R8NTU2NHxpbWFnZS9wbmd8aDA0L2g0NC84ODU0NjQ1NjM3MTUwLnBuZ3wt" alt="Robo Fish" title="Robo Fish">
+						<p>Robo Fish</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/My-Little-Pony/c/mylittlepony" name="My Little Pony">
+						<img src="/medias/mlp.jpg?context=bWFzdGVyfGltYWdlc3wzMDE0fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTQ4MDQ0MDIyMDYuanBnfC0" alt="My Little Pony" title="My Little Pony">
+						<p>My Little Pony</p>
+					</a>
+				
+			</li>
+		
+			<li class="secondLevel">
+				
+					
+					<a href="/BABY-Born/c/babyborn" name="BABY Born">
+						<img src="/medias/BabyBorn.jpg?context=bWFzdGVyfGltYWdlc3w4NzIzfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxMzcxNjA3MzQuanBnfC0" alt="BABY Born" title="BABY Born">
+						<p>BABY Born</p>
+					</a>
+				
+			</li>
+		
+		<li id="show_all_brands" class="secondLevel">
 			
-		</h3>
+		    
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/Brands/c/allbrands" class="button progress">More Brands</a>
+	
+	
+
+
+		</li>
+	</ul>
+</li>
+				
+	
+		
+					
+					<li class="firstLevel closed"><img class="menu-icon" src="/_ui/thetoyshop/images/icon_arrow_right.png">
+	<h2><span><span class="icon"></span>Present Finder</span></h2>
+	<form id="command" class="panel present_finder present_finder_form" action="#" method="post"><div class="select_holder highlight styled">
+			<label for="present_finder_age">Age:</label>
+			<span class="select_wrap" style=""><select id="present_finder_age" name="age" style="height: 30px; width: 0px;">
+				<option value="" disabled="disabled" selected="selected">Please select...</option>
+				<option value="0000">0 - 18 months</option>
+				<option value="0019">18 - 36 months</option>
+				<option value="0037">3 - 5 years</option>
+				<option value="0061">5 - 8 years</option>
+				<option value="0097">8 - 11 years</option>
+				<option value="0133">11 years +</option>
+				</select><span class="select_skin"><span class="select_skin_text">Please select...</span></span></span>
+		</div>
+		<div class="radio_holder">
+			<h3>Gender:</h3>
+			<ul>
+				<li class="secondLevel">
+					<input id="present_finder_gender1" type="radio" name="gender" value="">
+					<label for="present_finder_gender1">Both</label>
+				</li>
+				<li class="secondLevel">
+					<input id="present_finder_gender2" type="radio" name="gender" value="Boys">
+					<label for="present_finder_gender2">Boys</label>
+				</li>
+				<li class="secondLevel">
+					<input id="present_finder_gender3" type="radio" name="gender" value="Girls">
+					<label for="present_finder_gender3">Girls</label>
+				</li>
+			</ul>
+		</div>
+		<div class="slider_holder price">
+			<h3>Budget:</h3>
+			<input type="hidden" class="min_price" id="present_finder_price_min" name="minBudget" value="0">
+			<input type="hidden" class="max_price" id="present_finder_price_max" name="maxBudget" value="1000">
+			<div id="present_finder_price" class="dual_slider_holder">
+				<div class="dual_slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><div class="ui-slider-range ui-widget-header" style="left: 0%; width: 100%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 100%;"></a><div class="dividers"></div></div>
+			</div>
+			<ul class="slider_labels">
+				<li class="secondLevel">£0</li>
+				<li class="secondLevel">£15</li>
+				<li class="secondLevel">£30</li>
+				<li class="secondLevel">£45</li>
+				<li class="secondLevel">£60</li>
+				<li class="secondLevel">£75+</li>
+			</ul>
+		</div>
+		<div class="multi_holder button_holder results">
+			<p><em>0</em> <em>results found</em></p>
+			<a class="button progress right large" href="/c/presentfinder">Find Presents</a>
+		</div>
+	</form></li>
+				
+	
+		
+					
+					
+
+
+
+
+
+<li class="firstLevel">
+	<h2>
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/christmas">Christmas Shop</a>
+	
+	
+
+</h2>
+	
+</li>
+				
+	
+		
+					
+					
+
+
+
+
+
+<li class="firstLevel">
+	<h2>
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/Special-offers/c/SuperSavings">Cracking Savings Sale</a>
+	
+	
+
+</h2>
+	
+</li>
+				
+	
+</ul>
+
+<div id="announcements">
+	<div class="inner">
+		<div id="storeFinder" class="mobile">
+      		<a href="/store-finder" title="The Entertainer Store Finder"><i class="fa fa-thumb-tack"></i><span>Store Finder</span></a>
+      	</div>
+    	<div class="present-finder-container mobile">
+			<section class="ac-container">
+				<div>
+					<input id="ac-present-finder" name="accordion-present-finder" type="checkbox">
+					<label class="present-finder-heading" for="ac-present-finder"><span class="icon"></span>Present Finder</label>
+					<article class="ac-large">
+						
+							
+								
+								<div id="StraplineParagraphComponent"><p style="text-align: right; width: 930px;"><u> <a href="/help/deliveries/delivery_costs"><img src="/medias/greenthing.png?context=bWFzdGVyfHJvb3R8MTE2MTd8aW1hZ2UvcG5nfGg4NC9oYzEvODgzODUxODUzODI3MC5wbmd8LQ" border="0" style="float:left;" alt=""></a></u><u><a href="/help/deliveries/delivery_costs">Order by 7pm for next working day delivery&nbsp;&gt;</a></u> | <u><a href="/help/deliveries/collect-in-store">FREE Click and Collect at 96 UK stores&nbsp;&gt;</a></u></p>
+</div>								
+							
+						
+							
+								
+								<div id="Present-Finder-Mobile"><div class="item special present_finder">
+	<h3 class="item_header"><span class="icon"></span></h3>
+		
+	<div class="presentFinder item_content">
+		<form class="present_finder_form" action="#">
+			<div class="select_holder highlight styled">
+				<label for="present_finder2_age">Age:</label>
+				<span class="select_wrap" style=""><select id="present_finder2_age" name="age" style="height: 30px; width: 0px;">
+					<option value="" disabled="disabled" selected="selected">Please select...</option>
+					<option value="0000">0 - 18 months</option>
+					<option value="0019">18 - 36 months</option>
+					<option value="0037">3 - 5 years</option>
+					<option value="0061">5 - 8 years</option>
+					<option value="0097">8 - 11 years</option>
+					<option value="0133">11 years +</option>
+					</select><span class="select_skin"><span class="select_skin_text">Please select...</span></span></span>
+			</div>
+			<div class="radio_holder">
+				<h3>Gender:</h3>
+				<ul>
+					<li>
+						<input id="present_finder2_gender1" type="radio" name="gender" value="">
+						<label for="present_finder2_gender1">Both</label>
+					</li>
+					<li>
+						<input id="present_finder2_gender2" type="radio" name="gender" value="Boys">
+						<label for="present_finder2_gender2">Boys</label>
+					</li>
+					<li>
+						<input id="present_finder2_gender3" type="radio" name="gender" value="Girls">
+						<label for="present_finder2_gender3">Girls</label>
+					</li>
+				</ul>
+			</div>
+			<div class="slider_holder price">
+				<h3>Budget:</h3>
+				<input type="hidden" class="min_price" id="present_finder2_price_min" name="minBudget" value="0">
+				<input type="hidden" class="max_price" id="present_finder2_price_max" name="maxBudget" value="1000">
+				<div id="present_finder2_price" class="dual_slider_holder">
+					<div class="dual_slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><div class="ui-slider-range ui-widget-header" style="left: 0%; width: 100%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 100%;"></a><div class="dividers"></div></div>
+				</div>
+				<ul class="slider_labels">
+					<li>£0</li>
+					<li>£15</li>
+					<li>£30</li>
+					<li>£45</li>
+					<li>£60</li>
+					<li class="ie8fix">£75+</li>
+				</ul>
+			</div>
+			<div class="multi_holder button_holder results">
+				<p><em>0</em> <em>results found</em></p>
+				<a class="button progress right large" href="/c/presentfinder">Find Presents</a>
+			</div>
+		</form>
+
 	</div>
 </div>
-</header>
+
+
+</div>								
+							
+						
+					</article>
+				</div>
+			</section>
+        </div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	/* $("#blue-mobile-menu h2 a").removeAttr("href"); */
+	$("#blue-mobile-menu h3 a").removeAttr("href");
+</script></header>
         <nav id="breadcrumb">
 	<h4>You are here</h4>
 	<ol class="link_list">
@@ -1162,11 +1985,13 @@ Creation Date: 08/14/2013
 <footer role="contentinfo">
 	
 		
-			
+							
 			<nav id="tertiary">
-	<ul>
-		<li>
-				<h3>Help</h3>
+<section class="footer-ac-container">	
+		<div class="footer-0">
+	        	<input id="footer-0" name="accordion-0" type="checkbox">			
+				<label for="footer-0"><h3>Help</h3></label>
+				<article class="ac-medium">
 				<ul class="link_list left_col">
 						<li class="left_col">
 								
@@ -1199,26 +2024,8 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/help/deliveries">Deliveries</a>
 	
-	
-
-</li>
-						<li class="left_col">
-								
-
-
-
-
-
-
-
-
-
-	
-	
-		<a href="/help/returns">Returns</a>
-	
+		<a href="https://ask.thetoyshop.com/help/deliveries" target="_new">Deliveries</a>
 	
 
 </li>
@@ -1235,8 +2042,8 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/help/orders/buying-online">Buying online</a>
 	
+		<a href="https://ask.thetoyshop.com/help/returns" target="_new">Returns</a>
 	
 
 </li>
@@ -1253,15 +2060,36 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/help">Further help</a>
 	
+		<a href="https://ask.thetoyshop.com/help/orders/buying-online" target="_new">Buying online</a>
+	
+
+</li>
+						<li class="left_col">
+								
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<a href="https://ask.thetoyshop.com/" target="_new">Further help</a>
 	
 
 </li>
 						</ul>
-				</li>
-		<li>
-				<h3>About</h3>
+				</article>
+			</div>
+		<div class="footer-1">
+	        	<input id="footer-1" name="accordion-1" type="checkbox">			
+				<label for="footer-1"><h3>About</h3></label>
+				<article class="ac-medium">
 				<ul class="link_list left_col">
 						<li class="left_col">
 								
@@ -1330,7 +2158,7 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/store-finder">Store finder</a>
+		<a href="/franchising">Franchising</a>
 	
 	
 
@@ -1348,15 +2176,18 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/franchising">Franchising</a>
+		<a href="/press">Press</a>
 	
 	
 
 </li>
 						</ul>
-				</li>
-		<li>
-				<h3>Stay connected</h3>
+				</article>
+			</div>
+		<div class="footer-2">
+	        	<input id="footer-2" name="accordion-2" type="checkbox">			
+				<label for="footer-2"><h3>Stay connected</h3></label>
+				<article class="ac-medium">
 				<ul class="link_list left_col">
 						<li class="left_col">
 								
@@ -1449,9 +2280,12 @@ Creation Date: 08/14/2013
 
 </li>
 						</ul>
-				</li>
-		<li>
-				<h3>Useful links</h3>
+				</article>
+			</div>
+		<div class="footer-3">
+	        	<input id="footer-3" name="accordion-3" type="checkbox">			
+				<label for="footer-3"><h3>Useful links</h3></label>
+				<article class="ac-medium">
 				<ul class="link_list left_col">
 						<li class="left_col">
 								
@@ -1466,25 +2300,7 @@ Creation Date: 08/14/2013
 
 	
 	
-		<a href="/store-finder">Store finder</a>
-	
-	
-
-</li>
-						<li class="left_col">
-								
-
-
-
-
-
-
-
-
-
-	
-	
-		<a href="/giftcard">Gift cards</a>
+		<a href="/Gift-Cards/The-Entertainer-Gift-Card/p/99870000001_X">Gift cards</a>
 	
 	
 
@@ -1520,44 +2336,94 @@ Creation Date: 08/14/2013
 
 	
 	
+	
+		<a href="https://ask.thetoyshop.com/help/payment/entertainerforbusiness" target="_new">B2B Gift Cards</a>
+	
+
+</li>
+						<li class="left_col">
+								
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/store-finder">Store finder</a>
+	
+	
+
+</li>
+						<li class="left_col">
+								
+
+
+
+
+
+
+
+
+
+	
+	
 		<a href="/reviewcomp">Review the toys</a>
 	
 	
 
 </li>
 						</ul>
-				</li>
-		</ul>
+				</article>
+			</div>
+		</section>
 </nav>
-
 		
 	
 		
-			
-			<script>var wcCpi = $("form.wishlist_form input").val();$('<span id="wc-mini-site-button"></span>').prependTo('div#prod_tabs div.item_content');$('div.presentFinder div.multi-holder + p').remove();var pathname = window.location;if ( pathname == 'http://www.thetoyshop.com/Great-Value-/c/gv?q=%3Aprice-desc%3Acategory%3Aarts') {$('#product_listing_holder').prepend("<div class=\"banner\"><div class=\"thumb\" style=\"padding-bottom:15px;\"><img src=\"http://www.thetoyshop.com/medias/sys_master/hf3/hdc/8868813439006/Party-crafts-711x158.jpg\" ></div></a></div>");}
-function addBanner()
-{ var pathname = window.location; 
+							
+			<script>var wcCpi = $("form.wishlist_form input").val();
+$('<span id="wc-mini-site-button"></span>').prependTo('div#prod_tabs div.item_content');
+$('div.presentFinder div.multi-holder + p').remove();
+var pathname = window.location;
+if (pathname == 'http://www.thetoyshop.com/Great-Value-/c/gv?q=%3Aprice-desc%3Acategory%3Aarts') {
+    $('#product_listing_holder').prepend("<div class=\"banner\"><div class=\"thumb\" style=\"padding-bottom:15px;\"><img src=\"http://www.thetoyshop.com	/medias/Party-crafts-711x158.jpg?context=bWFzdGVyfHJvb3R8NzcyNDB8aW1hZ2UvanBlZ3xoZjMvaGRjLzg4Njg4MTM0MzkwMDYuanBnfC0\" ></div></a></div>");
+}
 
-if (pathname == 'http://www.thetoyshop.com/Party/Wrapping-paper-and-cards/c/giftwrap?sort=price-asc&q=%3Aprice-desc%28priceValue%3A1-3') { $('#product_listing_holder').prepend("<img style=\"padding-bottom:15px;\" src=\"/medias/sys_master/he6/hee/8868964007966/Party-cards-711x158.jpg\">"); 
-} 
-if (pathname == 'http://www.thetoyshop.com/Disney/Disney-Frozen/c/disfrozen?productGridView=0') { $('#product_listing_holder').prepend("<a href=\"/Disney/Disney-Princess/c/disprincess?q=%3Aprice-desc%3AallBadges%3AAllReductions\"><img style=\"padding-bottom:15px;\" src=\"/medias/sys_master/h38/hc3/8877187530782/disney-frozen-top-banner-v2.png\"></a>"); 
-}
-if (pathname == 'http://www.thetoyshop.com/Disney/Disney-Frozen/c/disfrozen') { $('#product_listing_holder').prepend("<img style=\"padding-bottom:15px;\" src=\"/medias/sys_master/h38/hc3/8877187530782/disney-frozen-top-banner-v2.png\"></a>"); 
-}
-if (pathname == 'http://www.thetoyshop.com/Arts-and-creative-play/Loom-kits/c/artsloom?q=') { $('#product_listing_holder').prepend("<a href=\"/Arts-and-creative-play/Loom-kits/Loom-bracelet-makers/c/artsloomkits\"><img style=\"padding-bottom:15px;\" src=\"/medias/sys_master/ha9/hda/8875236687902/Loom-pod-bracelet-makers-348x130.jpg\"></a><a href=\"/Arts-and-creative-play/Loom-kits/Loom-bands-%26-accessories/c/artsloombands?sort=price-desc&q=%3Aprice-asc\"><img style=\"padding-bottom:15px; padding-left: 10px\" src=\"/medias/sys_master/h43/hd5/8875191402526/Loom-pod-bands-348x130.jpg\"></a>"); 
-}
-if (pathname == 'http://www.thetoyshop.com/Action-toys-and-figures/c/acttoys?q=') { $('#product_listing_holder').prepend("<a href=\"/Action-toys-and-figures/Action-figures/c/actfigs\"><img style=\"padding-bottom:15px;\" src=\"/medias/sys_master/hd5/h2d/8873786900510/Action-page-Figs-230x160.png\"></a><a href=\"/Action-toys-and-figures/c/acttoys?q=%3Aprice-desc%3Acategory%3Aactdre\"><img style=\"padding-bottom:15px; padding-left: 10px\" src=\"/medias/sys_master/hcd/h2d/8873786638366/Action-page-roleplay-230x16.png\"></a><a href=\"/Action-toys-and-figures/Blasters-and-water-pistols/c/actgun\"><img style=\"padding-bottom:15px; padding-left: 10px\" src=\"/medias/sys_master/hc5/h2d/8873786376222/Action-page-Blasters-230x16.png\"></a>"); 
-}
-if (pathname == 'http://www.thetoyshop.com/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon&page=0&sort=price-desc') { $('#product_listing_holder').prepend("<div class=\"brands item\"><img style=\"position: relative; z-index: 10; margin-bottom: -1px;\" src=\"/medias/sys_master/h1e/h23/8877991985182/Comin-Soon-Top-Banner-Blue-.png\"><ul class=\"brands item_content\"><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Alego\" name=\"Lego\"><img src=\"/medias/sys_master/images/8796141191198/Lego.jpg\" alt=\"Lego\" title=\"Lego\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Adespicme\" name=\"Despicable Me\"><img src=\"/medias/sys_master/hf9/h79/8857245745182/Despicable-Me-Logo.png\" alt=\"Despicable me\" title=\"Despicable me\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Adisfrozen\" name=\"Frozen\"><img src=\"/medias/sys_master/h1e/h94/8870349963294/Frozen-logo.jpg\" alt=\"Frozen\" title=\"Frozen\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Agotg\" name=\"Guardians\"><img src=\"/medias/sys_master/hdc/hd3/8875179638814/Guardians_logo.jpg\" alt=\"Guardians\" title=\"Guardians\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon%3Abrand%3Afisherprice\" name=\"FisherP\"><img src=\"/medias/sys_master/hed/h7a/8859401224222/fisher-price-logo.png\" alt=\"FisherP\" title=\"FisherP\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Amarvel\" name=\"Marvel\"><img src=\"/medias/sys_master/h5d/h29/8835094708254/marvel.jpg\" alt=\"Marvel\" title=\"Marvel\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon%3Abrand%3Aplaydoh\" name=\"P-Doh\"><img src=\"/medias/sys_master/images/8796144009246/Play-doh.jpg\" alt=\"P-Doh\" title=\"P-Doh\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon%3Abrand%3Athomastrack\" name=\"Trackmaster\"><img src=\"http://www.thetoyshop.com/medias/sys_master/h7a/h86/8876677988382/Thom-trackmaster.png\" alt=\"Trackmaster\" title=\"Trackmaster\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Anerf\" name=\"Nerf\"><img src=\"/medias/sys_master/images/8796143550494/Nerf.jpg\" alt=\"Nerf\" title=\"Nerf\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Apowerrangers\" name=\"PR\"><img src=\"/medias/sys_master/h0c/hf0/8877563576350/PR_SMF.png\" alt=\"PR\" title=\"PR\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Acayla\" name=\"Cayla\"><img src=\"/medias/sys_master/h10/h22/8877983137822/mfcayla.png\" alt=\"Cayla\" title=\"Cayla\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Ashopkins\" name=\"Shopkins\"><img src=\"/medias/sys_master/h2e/h20/8875819859998/Shopkins.png\" alt=\"Shopkins\" title=\"Shopkins\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Ahexbug\" name=\"Hexbug\"><img src=\"/medias/sys_master/images/8796140142622/Hexbug.jpg\" alt=\"Hexbug\" title=\"Hexbug\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Arobofish\" name=\"Robofish\"><img src=\"/medias/sys_master/h04/h44/8854645637150/logo-robofishsm.png\" alt=\"Robofish\" title=\"Robofish\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3ABarbie\" name=\"Barbie\"><img src=\"/medias/sys_master/h30/hd4/8877329874974/Barbie.png\" alt=\"barbie\" title=\"barbie\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Axeno\" name=\"Xeno\"><img src=\"/medias/sys_master/h24/hd4/8877329481758/Xeno.png\" alt=\"Xeno\" title=\"Xeno\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Amylittlepony\" name=\"MLP\"><img src=\"/medias/sys_master/images/8814804402206/mlp.jpg\" alt=\"MLP\" title=\"MLP\"></a></li></ul></div></div><div id=\"loombanner\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Ajacks\"><img style=\"margin-top: -10px; margin-bottom: 5px;\" src=\"/medias/sys_master/h6c/h8f/8878900510750/lOOM-bANDS-COMING-Soon.png\"></a></div>");
-}
-return false;} addBanner();
+function addBanner() {
+    var pathname = window.location;
 
-jQuery(document).ready(function($) {
-		if (($('span.out_of_stock').text() == "Discontinued")) {
-			_gaq.push(['_trackEvent', 'Product', 'Discontinued', $(location).attr('href')]);		
-	} else {
-		return false;
-	}
+    if (pathname == 'http://www.thetoyshop.com/Party/Wrapping-paper-and-cards/c/giftwrap?sort=price-asc&q=%3Aprice-desc%28priceValue%3A1-3') {
+        $('#product_listing_holder').prepend("<img style=\"padding-bottom:15px;\" src=\"	/medias/Party-cards-711x158.jpg?context=bWFzdGVyfHJvb3R8NzkwMDV8aW1hZ2UvanBlZ3xoZTYvaGVlLzg4Njg5NjQwMDc5NjYuanBnfC0\">");
+    }
+    if (pathname == 'http://www.thetoyshop.com/Arts-and-creative-play/Loom-kits/c/artsloom?q=') {
+        $('#product_listing_holder').prepend("<a href=\"/Arts-and-creative-play/Loom-kits/Loom-bracelet-makers/c/artsloomkits\"><img style=\"padding-bottom:10px;\" src=\"/medias/Loom-pod-bracelet-makers-348x130.jpg?context=bWFzdGVyfHJvb3R8NTE2Njd8aW1hZ2UvanBlZ3xoYTkvaGRhLzg4NzUyMzY2ODc5MDIuanBnfC0\"></a><a href=\"/Arts-and-creative-play/Loom-kits/Loom-bands-%26-accessories/c/artsloombands?sort=price-desc&q=%3Aprice-asc\"><img style=\"padding-bottom:10px; padding-left: 10px\" src=\"/medias/Loom-pod-bands-348x130.jpg?context=bWFzdGVyfHJvb3R8NTkwNzV8aW1hZ2UvanBlZ3xoNDMvaGQ1Lzg4NzUxOTE0MDI1MjYuanBnfC0\"></a><a href=\"/Arts-and-creative-play/Loom-kits/Loom-bands-%26-accessories/Scented-loom-bands/c/artsloombandsscent\"><img style=\"padding-bottom:10px;\" src=\"	/medias/Scented-Loom-Bands-new.png?context=bWFzdGVyfHJvb3R8MjMzMzV8aW1hZ2UvcG5nfGgwZi9oZGMvODg4MTY5MDg2OTc5MC5wbmd8LQ\"></a>");
+    }
+    if (pathname == 'http://www.thetoyshop.com/Action-toys-and-figures/c/acttoys?q=') {
+        $('#product_listing_holder').prepend("<a href=\"/Action-toys-and-figures/Action-figures/c/actfigs\"><img style=\"padding-bottom:15px;\" src=\"	/medias/Action-page-Figs-230x160.png?context=bWFzdGVyfHJvb3R8MTM4Nzh8aW1hZ2UvcG5nfGhkNS9oMmQvODg3Mzc4NjkwMDUxMC5wbmd8LQ\"></a><a href=\"/Action-toys-and-figures/c/acttoys?q=%3Aprice-desc%3Acategory%3Aactdre\"><img style=\"padding-bottom:15px; padding-left: 10px\" src=\"	/medias/Action-page-roleplay-230x16.png?context=bWFzdGVyfHJvb3R8MTQ0Njd8aW1hZ2UvcG5nfGhjZC9oMmQvODg3Mzc4NjYzODM2Ni5wbmd8LQ\"></a><a href=\"/Action-toys-and-figures/Blasters-and-water-pistols/c/actgun\"><img style=\"padding-bottom:15px; padding-left: 10px\" src=\"/medias/Action-page-Blasters-230x16.png?context=bWFzdGVyfHJvb3R8MTI0Mzd8aW1hZ2UvcG5nfGhjNS9oMmQvODg3Mzc4NjM3NjIyMi5wbmd8LQ\"></a>");
+    }
+    if (pathname == 'http://www.thetoyshop.com/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon&page=0&sort=price-desc') {
+        $('#product_listing_holder').prepend("<div class=\"brands item\"><img style=\"position: relative; z-index: 10; margin-bottom: -1px;\" src=\"	/medias/Comin-Soon-Top-Banner-Blue-.png?context=bWFzdGVyfHJvb3R8MjIzODJ8aW1hZ2UvcG5nfGgxZS9oMjMvODg3Nzk5MTk4NTE4Mi5wbmd8LQ\"><ul class=\"brands item_content\"><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Alego\" name=\"Lego\"><img src=\"/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0\" alt=\"Lego\" title=\"Lego\"></a><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Adisfrozen\" name=\"Frozen\"><img src=\"	/medias/DisFrozenLogo2.png?context=bWFzdGVyfHJvb3R8OTM4N3xpbWFnZS9wbmd8aDMwL2g5MS84ODk2NDc0MzgyMzY2LnBuZ3w2OGU4YjVkMTAxMzMwN2ViNWFmMzRiM2Y5NzIwYWNjMWVkNDhlZGM4YjY4MDc4OTBhMDgzZDhjMGQ2NGZjODEz\" alt=\"Frozen\" title=\"Frozen\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aprice-desc%3AallBadges%3Abadge_comingSoon%3Abrand%3Afisherprice\" name=\"FisherP\"><img src=\"	/medias/fisher-price-logo.png?context=bWFzdGVyfHJvb3R8Mzg1MHxpbWFnZS9wbmd8aGVkL2g3YS84ODU5NDAxMjI0MjIyLnBuZ3wt\" alt=\"FisherP\" title=\"FisherP\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Amarvel\" name=\"Marvel\"><img src=\"/medias/marvel.jpg?context=bWFzdGVyfHJvb3R8Mzg1M3xpbWFnZS9qcGVnfGg1ZC9oMjkvODgzNTA5NDcwODI1NC5qcGd8LQ\" alt=\"Marvel\" title=\"Marvel\"></a></li><li class=\"brand\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3ABarbie\" name=\"Barbie\"><img src=\"/medias/Barbie.png?context=bWFzdGVyfHJvb3R8MzA1MXxpbWFnZS9wbmd8aDMwL2hkNC84ODc3MzI5ODc0OTc0LnBuZ3wt\" alt=\"barbie\" title=\"barbie\"></a></li></ul></div></div><div id=\"loombanner\"><a href=\"/search?q=%3Aname-asc%3AallBadges%3Abadge_comingSoon%3Abrand%3Ajacks\"><img style=\"margin-top: -10px; margin-bottom: 5px;\" src=\"/medias/lOOM-bANDS-COMING-Soon.png?context=bWFzdGVyfHJvb3R8MTYwMTV8aW1hZ2UvcG5nfGg2Yy9oOGYvODg3ODkwMDUxMDc1MC5wbmd8LQ\"></a></div>");
+    }
+    if (pathname == '/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct') {
+        $('#product_listing_holder').prepend("<h2>Top New Brands</h2><div style=\"width: 710px; margin-top: 5px; margin-bottom: 10px;\" id=\"brandnav\"><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Alego\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Ateksta\"><img style=\"margin-right: 10px; width: 120px; margin-bottom: 10px;\" src=\"http://www.thetoyshop.com/medias/Teksta-Logo.png?context=bWFzdGVyfHJvb3R8MTk3NzB8aW1hZ2UvcG5nfGg4Ni9oZjMvODg2MjU2MDM1NDMzNC5wbmd8LQ\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Abenholly\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/Ben-HollyLittleKingdom.png?context=bWFzdGVyfHJvb3R8NTU5MXxpbWFnZS9wbmd8aGE5L2g1Ny84ODgyNzI3NzE0ODQ2LnBuZ3wt\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Atmnt\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/TMNT-2012-logo.png?context=bWFzdGVyfHJvb3R8MzU5MHxpbWFnZS9wbmd8aGZkL2hiMS84ODcyNzQ4MDIzODM4LnBuZ3wt\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Alalaloopsy\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/Lalaloopsy.jpg?context=bWFzdGVyfGltYWdlc3wzMjgyfGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDA4MzA3NTAuanBnfC0\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Allpets\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/llp-logo.png?context=bWFzdGVyfHJvb3R8NzI0OXxpbWFnZS9wbmd8aGJkL2g2Ni84ODg1MDAxNjgyOTc0LnBuZ3wt\"/></a><a href=\"/c/allcategories?q=%3Aprice-desc%3AallBadges%3Abadge_newProduct%3Abrand%3Aleapfrog\"><img style=\"margin-right: 10px\" src=\"http://www.thetoyshop.com/medias/Leapfrog.jpg?context=bWFzdGVyfGltYWdlc3w1NTM5fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDA4OTYyODYuanBnfC0\"/></a></div>");
+
+
+    }
+    return false;
+}
+addBanner();
+
+jQuery(document).ready(function ($) {
+    if (($('span.out_of_stock').text() == "Discontinued")) {
+        _gaq.push(['_trackEvent', 'Product', 'Discontinued', $(location).attr('href')]);
+    } else {
+        return false;
+    }
 });
 
  </script>
@@ -1622,16 +2488,17 @@ jQuery(document).ready(function($) {
   </div>
   <!--<div class="tip_content" id="shutl" onClick="unhoverthing('shutl')" style="top: -10px; left: -25px; width: 400px; height: 230px;">            <h3>Shutl 90 minute home delivery &ndash; &pound;7.99</h3>            <ul>                <li>Shutl collect from your local Entertainer store and deliver to a home or work address</li>                <li>Deliveries take as little as 90 minutes - we'll tell you exactly how long your delivery will take at the checkout</li>            </ul>-->
   <div style="top: -10px; left: -25px; width: 400px; height: 150px;" onclick="unhoverthing('shutl')" id="shutl" class="tip_content">
-    <h3>Shutl 90 minute home delivery – £4.99</h3>
+    <h3>Shutl 90 minute home delivery – £7.99</h3>
     <ul>
-      <li>Shutl collect from your local Entertainer store and deliver to a home or work address</li>
+      <li>Shutl collect from your local Entertainer store and deliver to a home or work address (within 8 miles)</li>
       <li>Deliveries take as little as 90 minutes - we'll tell you exactly how long your delivery will take at the checkout</li>
-      <li>£4.99 on all orders</li>
+      <li>£7.99 on all orders</li>
     </ul>
   </div>
 </div>
 
 		
+	
 	
 	<div id="bottom">
 		
@@ -1643,10 +2510,10 @@ jQuery(document).ready(function($) {
 		<ul class="site_links">
 			
 				
-    				
-                	<li><a href="/">Home</a>
+					
+					<li><a href="/">Home</a>
 	</li>
-                
+				
 			
 				
 					
@@ -1677,11 +2544,6 @@ jQuery(document).ready(function($) {
 				
 					
 					<li class="card_type logo paypal">Paypal</li>
-				
-			
-				
-					
-					<li class="card_type logo solo">Solo</li>
 				
 			
 				
@@ -1717,23 +2579,34 @@ jQuery(document).ready(function($) {
 <footer>
 	<nav id="secondary" class="highlight">
 		<div class="inner">
-			<ul class="top_level intent active">
+			<ul class="top_level intent">
 				
-					<li class="recently_viewed empty count">
+					<li class="recently_viewed parent count">
             <h2>
-                <span class="title">Recently Viewed <span class="count">0</span></span>
+                <span class="title">
+                    Recently Viewed <span class="count">5</span>
+                </span>
             </h2>
+            <div class="panel">
+                <div class="carousel carousel_inactive fluid" data-id="RecentlyViewedProductsComponent" data-items="5" data-columns="3" data-updateurl="/view/RecentlyViewedProductsComponentController" data-product="" data-fetchall="true">
+                    <form id="delete_history" =="" action="#">
+                    	<a class="delete" href="/s/history">Clear history </a>                    
+                    </form> 
+                    <div class="viewport"></div>
+                </div>
+            </div>
         </li>
     
 				
 					<li class="wishlist link empty count">
             <h2><a href="/my-account/wishlist">My Wishlist <span class="count">0</span></a></h2>
-        </li>
+        <div id="wishlist_popup_add" class="update add"></div><div id="wishlist_popup_remove" class="update remove"></div></li>
     
 				
-					<li class="my_basket link count" data-cartid="MiniCart" data-totals="SUBTOTAL">
+					<li class="my_basket link count parent" data-cartid="MiniCart" data-totals="SUBTOTAL">
 	<h2>
 		<a href="/cart">
+			<i class="fa fa-shopping-cart"></i>
 			<em>My Basket</em>
 			<span class="count">
 				0</span>
@@ -1779,8 +2652,8 @@ jQuery(document).ready(function($) {
 
 	
 	
-		<a href="/help">Help</a>
 	
+		<a href="/help" target="_new">Help</a>
 	
 
 </h2>
@@ -1788,10 +2661,9 @@ jQuery(document).ready(function($) {
 </li>
 				
 					<div id="entCNDiv">
-	<div id="entCNContent">
-		<a href="javascript:Toyshop.Common.cookieAccept()" style="float:right; margin-right: 10px; font-size: 16px"><img src="/_ui/thetoyshop/images/icon-clear-white.png"></a>
-		<p>We use cookies to make shopping on TheToyShop.com as easy as possible.<br>
-If you continue to shop we will assume you are happy to receive our cookies. <a href="/help/iframe/general/cookies">Find out more &gt; </a></p>
+	<a class="closeButton" href="javascript:Toyshop.Common.cookieAccept()"><img src="/_ui/thetoyshop/images/icon-clear-white.png"></a>
+	<div id="entCNContent">		
+		<p>We use cookies to give you a fabulous customer experience and enable you to checkout on our website.<br>By continuing to shop we will assume you are happy to receive all cookies, otherwise you can review more information on cookies here.</p>
 	</div>
 </div>
 				
@@ -1800,26 +2672,14 @@ If you continue to shop we will assume you are happy to receive our cookies. <a 
 	</nav>
 	<a id="footer_toggle" href="#"><div id="image_temp"></div></a>
 </footer>
-<script type="text/javascript">
-			
-			// Google - (trackQueuedEvents does not exist?? - Jamie)
-			/* var analyticsEventData = {};
-			if (analyticsEventData) {
-				Toyshop.Analytics.Google.trackQueuedEvents(analyticsEventData['GA']);
-			} */
-
-			// Struq
-			var rnd = parseInt(Math.random() * 10000000000000000);
-			var protocol = (document.location.protocol == "https:" ? "https:" : "http:");
-			var furl = protocol + "//app.struq.com/t/i/" + rnd + "/-/e7L-CHPyeU-Jf9I1wF__xw/" + "?v=4&sid=206"
-				+ "&src=" + encodeURIComponent(window.location) + "&sref=" + encodeURIComponent(document.referrer)+ "&rnd=" + rnd;
-			document.write("<iframe src='" + furl + "' width='1' height='1' frameborder='0' marginheight='0'"
-				+ " marginwidth='0' scrolling='no' style='position:absolute'></iframe>");
-
-		</script><iframe src="https://app.struq.com/t/i/8512287644524941/-/e7L-CHPyeU-Jf9I1wF__xw/?v=4&amp;sid=206&amp;src=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140623033517id_%2Fhttp%253A%2F%2Fwww.thetoyshop.com%2Fprivacy&amp;sref=&amp;rnd=8512287644524941" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute"></iframe>
-
-		<script src="https://www.dwin1.com/1736.js" type="text/javascript" defer="defer"></script>
+</div>
 		
+		<script type="text/javascript" src="/_ui/common/js/blue-mobile.js"></script> 
+		<script>
+			$("#blue-mobile-menu").blueMobileMenu();
+		</script>
+		
+	
 
 <!-- Start Google Analytics footer -->
 <script type="text/javascript">
