@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627095502id_/http%3A//www.tppwholesale.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055341id_/http%3A//www.tppwholesale.com.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TPP Wholesale
 
