@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photorumors.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051114id_/http%3A//photorumors.com/2012/09/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photorumors.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112228id_/http%3A//photorumors.com/2012/09/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photo Rumors
 
@@ -124,4 +124,4 @@ If you have any questions or comments regarding our privacy practices, you may [
 
 Effective Date: September 1, 2012
 
-This entry was posted in [Other](http://photorumors.com/category/uncategorized/ "View all posts in Other"). Bookmark the [permalink](http://photorumors.com/2012/09/01/privacy-policy/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
+This entry was posted in [Other](http://photorumors.com/category/uncategorized/). Bookmark the [permalink](http://photorumors.com/2012/09/01/privacy-policy/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
