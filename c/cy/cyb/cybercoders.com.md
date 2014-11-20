@@ -1,76 +1,50 @@
-> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051005id_/http%3A//www.cybercoders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201030id_/http%3A//www.cybercoders.com/privacy) for the most accurate reproduction.*
 
 # CyberCoders' Privacy Policy | CyberCoders
 
-CyberCoders, Inc. and its affiliates ("CyberCoders") are committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this web site (the "Site"). The scope of CyberCoders's commitment is detailed in this Privacy Policy. By submitting information, you agree to CyberCoders's use of such information as described herein. Please see our Terms of Use for more information about our online policies in general.
+As a staffing company, CyberCoders, Inc. ("CyberCoders") collects relevant personal information in order to understand and respond to your employment needs. We know that this information is provided in good faith. This privacy policy for the CyberCoders.com website honors that trust by explaining how we use and protect your personal information.
 
-## The Basics
+## Information Collection
 
-Your identity and information is 100% secured with CyberCoders. Your resume will never be posted anywhere, and we will never send your resume anywhere without your permission.
+CyberCoders is committed to safeguarding the privacy of our website visitors. When you view and browse the site, you do so anonymously. If you choose to engage our services, CyberCoders will ask you to provide the following:
 
-A CyberCoders recruiter will contact you before we send your resume to any position. Since we do not post your resume, you decide when and where your resume is submitted for any position.
-
-## The Fine Print
-
-  * What Personally-Identifiable Information is Collected?
-  * How May My Personally-Identifiable Information Be Used?
-  * Are Cookies and IP Addresses Used?
-  * Is Personally-Identifiable Information Disclosed to Third 
-  * Links to Third Party Sites
-  * How Can I Access, Change, and/or Delete Information?
-  * Security
-  * Children's Online Privacy Protection
-  * Consent
-  * Contact Our Privacy Department
+  * **Contact and identifying information** – Your name, email address, phone number(s) and mailing address
+  * **Resume and employment information** – Your job history, skills, education, employment requirements, and references
+  * **Optional information** – Any additional information you may choose to provide to aid in your job placement or related to a job opening
 
 
 
-### What Personally-Identifiable Information is Collected?
+CyberCoders may also collect non-personal (e.g., aggregate or demographic) data through cookies, as described below under "Cookies." This information helps us better understand and improve the experience of visiting the CyberCoders website.
 
-CyberCoders collects personally-identifiable information on certain areas of the Site when users register, submit their resume for a job, apply for jobs, and participate in user posting areas, such as bulletin boards, discussion forums, or surveys. The personally-identifiable information collected may consist of a unique access ID, company or school affiliation, title, and contact information, such as name, mailing addresses, email addresses, and telephone and fax numbers, and, for recruiting purposes, any other personally-identifiable information on your resume. 
+## Security
 
-### How May My Personally-Identifiable Information Be Used?
+CyberCoders takes care to protect the security of the personal information you provide on our website. We use Secure Socket Layer (SSL) data encryption for all data transmissions over the Internet, and we ask you to create a robust password for your account (if account creation is available). This helps prevent unauthorized access to our systems. We store and maintain your information in a secure server environment where appropriate physical, technical and administrative security measures are strictly adhered to. We also limit access to personally-identifiable information to only those employees who need access in order to carry out their job responsibilities.
 
-CyberCoders uses your personally-identifiable information in evaluating any job applications or other employment-related inquiries that you may submit. We may keep any of your personally-identifiable information on file and use it to contact you for recruiting purposes. CyberCoders also uses personally-identifiable information to perform statistical analyses of user behavior in order to measure interest in specific areas on our site. The e-mail addresses provided at registration allows CyberCoders to send e-mail to individuals based on keywords in their resume and preferences indicated during the registration process. If you do not wish to receive e-mailed notice of jobs, you can opt-out in our 'edit my profile' section. CyberCoders uses personally-identifiable information collected from cookies and IP addresses as described below. 
+## Use of Personal Information
 
-### Are Cookies and IP Addresses Used?
+CyberCoders does not sell or rent personal information to third parties and will not disclose your personal information to a third party without your permission unless if required by law. When we request your personal information, CyberCoders will always specify how we intend to use it, and we will not use it for any other purpose without your consent.
 
-The Site may use cookies or session keys to identify you and your interests and to track usage of the Site. Cookies are small pieces of text stored on your computer that help us know which browser you are using and where you’ve been on the Site and on web sites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the Site to prior usage of this or other Sites of CyberCoders or its affiliates. By accepting our cookie you will be permitted access to certain pages of the Site without having to log in each time you visit. A user who does not accept the cookie from the Site may not be able to access certain areas of the Site. CyberCoders also logs IP addresses, or the location of computers on the Internet, to help diagnose problems with our server and to administer the Site.
+In general, CyberCoders uses personal information for the following necessary business functions:
 
-### Is Personally-Identifiable Information Disclosed to Third Parties?
-
-CyberCoders shall not intentionally disclose (and shall take commercially reasonable steps to prevent the accidental disclosure of) your personally-identifiable information to third parties (i.e., persons or entities that are not affiliates of CyberCoders), whether for such third parties’ marketing purposes or otherwise, subject only to the following three exceptions:
-
-  1. CyberCoders may disclose your personally-identifiable information to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction; 
-  2. CyberCoders may disclose your personally-identifiable information to third parties who deliver information from us to you for the purpose of performing such delivery; 
-  3. CyberCoders may disclose your personally-identifiable information if, in connection with submitting the information, you consent to such disclosure; 
+  1. **Communicate with you directly:** CyberCoders staff may contact you to answer your questions, inform you of job postings, share best practices and to provide any other information that you may have requested.
+  2. **Enable prospective employers to get to know you:** CyberCoders may disclose your information (qualifications, salary requirements, employment history, etc.) to interested employers so they can match your talents with their specific needs.
+  3. **Support legal requirements:** CyberCoders may disclose your information to legal authorities in cases involving threats to personal safety, fraud and other suspected or actual illegal activities.
+  4. **Transfer business ownership:** If CyberCoders or any of our subsidiaries is sold to another company, your information may be included with the sale as part of our assets.
 
 
 
-### Links to Third Party Sites
+## Cookies
 
-We may provide links to third-party web sites as a service to our users. In addition, some of the content appearing to be on this Site is in fact supplied by third parties, for example, in instances of framing of third party web sites or incorporation through framesets of content supplied by third party servers. Please be aware that we cannot control and are not responsible for the information collection practices of such third party web sites, which may differ from those of this Site. We encourage you to review and understand the privacy policies on these web sites before providing any information to them. 
+CyberCoders may use a "cookie" to collect information about how you use the website. A cookie is a piece of data about your visit, stored on your computer, which allows us to personalize your experience when you return to the site. A cookie includes such information as the URL you came from, your computer's IP address (the Internet address of your computer), which web pages you viewed on our site and any search terms you may have entered. You can set your browser to notify you before you receive a cookie, giving you the option of whether to accept it. You can also set your browser to turn off cookies. If you do so, however, areas of some websites may not function properly.
 
-### How Can I Access, Change, and/or Delete Information?
+## Updating Personal Information
 
-You may access, correct, update, and/or delete any personally-identifiable information that you submit to the Site. You may also unsubscribe from job alerts or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an email at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
+To ensure that CyberCoders staff and prospective employers can connect with you, please try to keep your personal information up to date in our system. If you need to update or correct any inaccuracies, please log in to your account (if available) or contact your Recruiter or email us at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
 
-### Security
+## Policy Changes
 
-CyberCoders has implemented generally accepted standards of technology and operational security in order to protect personally-identifiable information from loss, misuse, alteration, or destruction. Only authorized CyberCoders personnel are provided access to personally-identifiable information, and these employees are required to treat this information as confidential. Despite these precautions, CyberCoders cannot guarantee that unauthorized persons will not obtain access to your personally-identifiable information. 
+We may revise this online privacy policy from time to time. If we make any material changes to the policy, we will post the revised policy at this location. CyberCoders will not reduce the protection of information collected under a previous privacy policy without your consent.
 
-### Children's Online Privacy Protection
+If you have specific privacy concerns about this website, or with regards to submitting information to CyberCoders, please contact us by email at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
 
-CyberCoders understands the importance of protecting children's privacy, especially in an online environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and CyberCoders will not intentionally collect or maintain information about anyone under the age of 13.
-
-### Consent
-
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you of any such changes by updating this Privacy Policy. 
-
-### CyberCoders does not support and will not post:
-
-Any job advertisement that does not comply with applicable laws, included but not limited to laws relating to equal employment opportunity and employment eligibility requirements; or Any posting that requires U. S. citizenship or lawful permanent residence in the U. S. as a condition of employment, unless otherwise required in order to comply with law, regulation, executive order, or federal, state, or local government contract. 
-
-### Contact Our Privacy Department
-
-If you have any questions about our Privacy Policy, please e-mail us at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
+Policy Effective: October 2, 2014
