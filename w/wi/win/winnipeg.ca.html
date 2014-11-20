@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2014-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140418212150id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120084701id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Conditions of Use - City of Winnipeg</title>
-<meta name="description" content="Privacy Statement, copyright notice">
-<meta name="keywords" content="privacy statement, disclaimer, legal">
+<title>Privacy - Connect With Us - City of Winnipeg</title>
+<meta name="description" content="City of Winnipeg Privacy Statement.">
+<meta name="keywords" content="privacy, disclaimer, legal, statement, web, website, winnipeg.ca, email, newsletter, log, visitor, site, logging, subscribe, unsubscribe, ">
 <meta name="robots" content="all">
 <meta name="rating" content="General">
 <meta name="author" content="Conditions of Use">
@@ -27,7 +27,7 @@
 
 <!-- Lightbox code -->      
 <script language="JavaScript" type="text/javascript" src="/shared/winnipegca/js/lightbox.js"></script>
-<link href="/shared/Winnipegca/css/lightbox.css" rel="stylesheet" type="text/css">
+<link href="/shared/Redesign/stylesheets/lightbox.css" rel="stylesheet" type="text/css">
 
 <!-- Deluxe Menu -->
 <noscript><a href="http://deluxe-menu.com/"></a></noscript>
@@ -36,11 +36,14 @@
 <!-- (c) 2005, Deluxe-Menu.com, http://deluxe-menu.com -->
 
 <!-- JQUERY SCRIPTS -->
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-<!-- This is calling the jquery UI - user interface -->
-<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!--script src="http://code.jquery.com/jquery-1.10.2.min.js"></script-->
 
-<!-- Left menu -->
+<!-- This is calling the jquery UI - user interface -->
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<!--script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script-->
+
+<!-- Left menu for Residents, Business, Visitors, City Hall, Departments and Site Map-->
 <script type="text/javascript" src="/shared/Redesign/js/menutree.js"></script>
 
 <!-- This is to help IE render HTML5 tags -->
@@ -48,7 +51,7 @@
 <script src="/shared/Redesign/js/html5shiv-printshiv.js"></script>
 
 
-<link href="/shared/Redesign/stylesheets/home_style.css" rel="stylesheet" type="text/css">
+<link href="/shared/Redesign/stylesheets/blue.css" rel="stylesheet" type="text/css">
 </head>
 <body class="hide-right-bar"><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">click on image to close</div></div></div>
 <!-- To add a right nav, remove class="hide-right-bar" from the body tag above -->
@@ -61,9 +64,84 @@
   <a href="#skipToTopNav" accesskey="1" title="Access Key 1 to Skip to Top Navigation - Weather, Date and Francais"></a>
 <a name="skipToTopNav"></a>
 
+<script type="text/javascript">
+
+function supports_html5_storage() {
+  try {
+    return 'localStorage' in window && window['localStorage'] !== null;
+  } catch (e) {
+    return false;
+  }
+}
+
+function getCookie(dname)
+{
+                if(supports_html5_storage()) {
+                                return localStorage.getItem(dname);
+                } else {
+                var name = dname + "=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i<ca.length; i++) 
+                  {
+                  var c = ca[i];
+                  if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+                  }
+                return false;
+                }
+}
+
+function setCookie(dname) {
+                if(supports_html5_storage()) {
+                                localStorage.setItem("textSize", dname);
+                } else {
+                                document.cookie = "textSize="+dname+"";
+                }
+}
+
+function changeClsNam(clsNam) {
+                $('#main').removeClass('regular medium large').addClass(clsNam);
+                $('#top-navigation').removeClass('regular medium large').addClass(clsNam);
+                $('#left-menu').removeClass('regular medium large').addClass(clsNam);
+				$('.footer_box').removeClass('regular medium large').addClass(clsNam);
+				$('.copyright').removeClass('regular medium large').addClass(clsNam);
+                $('.crumbs').removeClass('regular medium large').addClass(clsNam);
+}
+$(document).ready(function() {                
+
+                if(getCookie('textSize')) {
+                   changeClsNam(getCookie('textSize'));
+                   $('span.'+getCookie('textSize')+' a').addClass('someName');
+                }
+                $('.resizer a').click(function() {
+                                var textSize = $(this).parent('span').attr('class'); 
+                                $('.resizer').find('a').removeClass('someName'); 
+                                $(this).addClass('someName');
+                                changeClsNam(textSize);
+                                setCookie(textSize);
+                                return false;
+                });
+
+}); 
+</script>
+
+
 
 <div id="top-navigation">
     <div class="container">
+
+<div class="stayconnected">
+      <img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/stayconnected_topnav.png" alt="">
+      <span class="sc"><a href="http://www.winnipeg.ca/interhom/SocialMedia/">stay connected</a></span>
+</div>
+
+
+<!--Font size selector -->
+<div class="resizer">Text size: 
+       <span class="small"><a href="#"><span style="font-size:12px;">A</span></a></span> |
+       <span class="medium"><a href="#"><span style="font-size:14px;">A</span></a></span> |
+       <span class="large"><a href="#"><span style="font-size:16px;">A</span></a></span> 
+</div>
+<!--Close font size selector-->
 
 
 <a href="http://winnipeg.ca/francais/">Français</a>&nbsp;&nbsp;<strong>|</strong>&nbsp;
@@ -72,7 +150,7 @@
 <!-- <a href="http://weather.gc.ca/city/pages/mb-38_metric_e.html" target="_blank">Weather</a> |  -->
 <a href="http://ca.weather.yahoo.com/canada/manitoba/winnipeg-2972/" id="ywgIcon2" target="_blank"></a>
 <span id="ywgTemp"></span>				
-<script type="text/javascript" src="/shared/Redesign/winnipegWeather/weather.js" defer="defer"></script>
+<script type="text/javascript" src="http://www.winnipeg.ca/shared/Redesign/winnipegWeather/weather.js" defer="defer"></script>
 &nbsp;&nbsp;<strong>|</strong>&nbsp;
 <!-- end winnipeg weather-->
 
@@ -101,8 +179,7 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 
 <!-- END DATE -->
 
-<img src="/shared/redesign/images/space.gif" width="3" height="22" border="0">
-
+&nbsp;
 <!-- Search -->
 <!-- Google CSE Search Box Begins -->
 	<form method="get" action="http://cowapp02.winnipeg.ca/search" name="search" style="display:inline;">
@@ -117,8 +194,72 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
         </form>
 <!-- Google CSE Search Box Ends -->
 
+
+<!--a href="https://www.facebook.com/cityofwinnipeg" target="_blank"><img src="/shared/Redesign/images/socialMedia/Facebook_topnav.png" border="0" style="vertical-align:middle; padding-bottom:3px;" /></a>
+<a href="https://twitter.com/cityofwinnipeg" target="_blank"><img src="/shared/Redesign/images/socialMedia/Twitter_topnav.png" border="0" style="vertical-align:middle; padding-bottom:3px;" /></a-->
+
     </div>
 </div>
+
+<!-- START KNOW YOUR ZONE AD -->
+<style>
+div.floating-menu {
+  clear: both;
+  width: 952px;
+  height:67px;
+  margin: 0 auto;
+  border: 1px solid white;
+  	}
+	
+div.floating-menu .container {
+  width: 952px;
+  height:67px;
+  margin: 0 auto;
+  background-image: url(/shared/Redesign/images/KYZ_TopNavBG.jpg);
+  background-repeat:no-repeat;
+  padding:5px 0px 5px 0px;
+	}
+
+div.floating-menu .container .alert {
+  width: 300px;
+  height:53px;
+  color: #000;
+  float:left;
+  font-weight:bold;
+  font-size: 80%;
+  /*background-color: #DA891E;*/
+
+	}
+	
+div.floating-menu .container .alert a:link{
+  color: #cc0000;
+  font-weight:bold;
+  font-size: 120%;
+	}	
+div.floating-menu .container .alert a:hover{
+  color: #cc0000;
+  font-weight:bold;
+	}
+div.floating-menu .container .alert a:active{
+  color: #cc0000;
+  font-weight:bold;
+	}	
+div.floating-menu .container .alert a:visited{
+  color: #cc0000;
+  font-weight:bold;
+	}					
+</style>
+
+<div class="floating-menu" id="float">
+	<a href="http://www.winnipeg.ca/publicworks/Parkingbans/parkingBans.asp">
+    <div class="container">
+		<!--div class="alert"-->
+                <!--include virtual="/shared/Redesign/socks_KYZ/includes/KYZ.htm" --> 
+        <!--/div-->
+    </div>
+    </a>
+</div>
+<!-- END KNOW YOUR ZONE AD -->
 
 
   <div id="page">
@@ -137,19 +278,49 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
       <div id="left-menu">
         <a href="#skipToLeftNav" accesskey="3" title="Access Key 3 to Skip to Left Menu Bar"></a> <a name="skipToLeftNav"></a>
         <!-- *** EDITABLE: left sidebar content -->
-                      <div class="section agency first darkgrey"><a title="Social Media" href="/interhom/socialmedia/">Social Media</a></div>
-              <div class="section subsection"><a title="Terms of Use for Social Media Commenting by the Public" href="/interhom/SocialMedia/termsOfUse.stm" class="test">Terms of Use for Social Media Commenting by the Public</a></div>
-              <div class="section rss subsection"><a title="RSS Feeds" href="/interhom/RSS/">RSS Feeds</a></div>
-              <div class="section darkgrey"><a title="Mobile Apps" href="/apps/">Mobile Apps</a></div>
-              
-              <div class="section darkgrey"><a title="Privacy" href="/interhom/conditions_of_use/PrivacyStatement.stm">Privacy</a> </div>
-              <div class="section darkgrey"><a title="Conditions of Use" href="/interhom/conditions_of_use/">Conditions of Use</a> </div>
-              <div class="section info darkgrey"><a title="Media Inquiries" href="/isext/CorporateCommunications/">Media Inquiries</a></div>
-              <div class="section emergweb"><a title="EmergeWeb, the City of Winnipeg's Emergency Preparedness website for the citizens of Winnipeg" href="/emergweb/"><img src="/interhom/images/home/EmergWeb.jpg"></a></div>
-
-
         
-       
+
+<div class="section agency first"><a href="/interhom/SocialMedia/default.stm">Connect With Us</a></div>
+<div id="leftNav">
+    <ul class="lnMenu">
+		<li><a href="/interhom/socialmedia/" title="Social Media">Social Media</a></li>
+        <li><a href="/interhom/SocialMedia/termsOfUse.stm">Terms of Use for Social Media Commenting by the Public</a></li>
+        <li><a href="/WpgMail/subscribe_all.stm" title="Email News">Email News</a></li>
+        <li><a href="/interhom/RSS/default.stm" title="RSS Feeds">RSS Feeds</a></li>
+		<li><a href="/Mobile/apps.stm" title="Mobile Apps">Mobile Apps</a></li>
+		
+        
+		<li><a href="/interhom/conditions_of_use/" title="Conditions of Use">Conditions of Use</a></li>
+        <li><a href="/interhom/conditions_of_use/MapConditions.stm" title="Mapping Conditions of Use">Mapping Conditions of Use</a></li>
+        <li><a href="/interhom/conditions_of_use/PrivacyStatement.stm" title="Privacy">Privacy</a></li>
+		<li><a href="/isext/CorporateCommunications/" title="Media Inquiries">Media Inquiries</a></li>
+        <li><a href="/contact/" title="Contact">Contact</a></li>
+        <li><a href="/interhom/SocialMedia/sitemap/sitemap.asp">Site map</a></li>
+        <li><a href="/interhom/Calendar/default.stm">Event Calendar</a></li>
+    </ul>
+</div>
+
+<div class="section section-image">
+<script type="text/javascript" src="http://www.trumba.com/scripts/spuds.js"></script>
+<script type="text/javascript">
+   $(document).ready(
+	 $Trumba.addSpud({
+	 webName: "city-of-winnipeg-calendar",
+	 spudType : "datefinder" ,
+	 teaserBase : "/interhom/calendar/default.stm" })
+   );
+</script>
+<noscript>Your browser must support JavaScript to view this content. 
+Please enable JavaScript in your browser settings then try again. 
+<a href='http://www.trumba.com'>Events calendar powered by Trumba</a></noscript>
+</div>
+
+<div class="section image">
+        <a href="/WinnipegMinute/"><img src="/interhom/WinnipegMinute/images/Winnipeg-minunte_163x100.jpg" alt="Winnipeg Minute" width="163" height="100" border="0"></a>
+      </div>
+
+<div class="section emergweb"><a title="EmergeWeb, the City of Winnipeg's Emergency Preparedness website for the citizens of Winnipeg" href="/emergweb/"><img src="/interhom/images/home/EmergWeb.jpg"></a></div>
+ 
         <!-- *** /EDITABLE: left sidebar content -->
       </div>
     </div>
@@ -178,65 +349,60 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 
       </div>
       
-      <!-- *** EDITABLE: department menu -->
-      <!--div class="submenu">
+    <!-- *** EDITABLE: department menu --> 
+    <div>
+    
+<div class="crumbs">
+<p id="breadCrumb"></p>
+    
+<script type="text/javascript" src="/shared/Redesign/js/LtNavTree.js"></script>
+<script type="text/javascript">
+populateNav("/Interhom/SocialMedia/navData.xml");
+</script>
+</div>
 
-      </div-->
-      <!-- *** /EDITABLE: department menu -->
+    </div> 
+    <!-- *** /EDITABLE: department menu -->
     </div>
 
     <div id="main">
       <div id="content"><a name="skipToContent"></a>
         <!-- *** EDITABLE: main page content -->
 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="100%" valign="top">
-            <!-- BEGIN Subject -->
-            <p class="bg100b">
-              Privacy
-            </p>
+
+            <h2 class="blue">Privacy</h2>
             <p class="k85">
               This page summarizes the privacy policy and practices on The City of Winnipeg Internet site (“Winnipeg.ca”).
             </p>
-            <p class="bg85B">
-              Principles
-            </p>
+            <h3 class="blue">Principles</h3>
             <p class="k85">
               As a local public body The City of Winnipeg is subject to The Freedom of Information and Protection of Privacy Act. If you have any general questions about Manitoba’s The Freedom of Information and Protection of Privacy Act, please see the FIPPA website.	The City of Winnipeg is committed to providing our visitors with an Internet site that respects their privacy. Winnipeg.ca does not automatically gather any personal information from you, such as your name, phone number, email or address. This information is only obtained if you supply it voluntarily through contacting us via email or online forms.
             </p>
-            <p class="bg85B">
-              Logging of Site Visitors
-            </p>
+            <h3 class="blue">Logging of Site Visitors</h3>
             <p class="k85">
               Like most Web servers, the City of Winnipeg server collects some information about visitors to the site.  The server  receives and records the  Internet domain  and Internet Protocol address from which you access the City's website, the date and time of the visit, and the pages visited.  Depending on the setup of your internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The  information is analyzed for trends and statistics, and then aggregated.  The information is also used to monitor network traffic to prevent damage to the website and to help us make our website more useful to visitors.
             </p>
-            <p class="bg85B">Email News Subscribers</p>
-            <p class="k85">The  City of Winnipeg values your privacy. We do not sell or share your personal  information with third parties. If you have received an email from City of Winnipeg it is because you have  confirmed your subscription to an opt-in email list offered on a City of  Winnipeg website. From time to time, the City of Winnipeg may include  additional messages of interest to subscribers. You may unsubscribe or change  your subscription options at any time by going to the <a href="/interhom/socialmedia/">Social Media webpage</a>.</p>
+            <h3 class="blue">Email News Subscribers</h3>
+            <p class="k85">The City of Winnipeg values your privacy. We do not sell or share your personal  information with third parties. If you have received an email from City of Winnipeg it is because you have  confirmed your subscription to an opt-in email list offered on a City of Winnipeg website. From time to time, the City of Winnipeg may include additional messages of interest to subscribers. You may unsubscribe or change your subscription options at any time by going to the <a href="/WpgMail/subscribe_all.stm">Email News Listing</a> page.</p>
             <p class="k85">
-              If you have any questions about the information gathered automatically by Winnipeg.ca, please read our <a href="default.stm">Conditions of Use</a> or contact the City of Winnipeg's <a href="/shared/Winnipegca/htmlsnippets/MailForm.asp?Recipient=webmanager" target="_blank">Corporate Web Manager</a>.</p>
-            <!-- END Subject -->
-          </td>
-        </tr>
-      </tbody></table>
-      <br>
-      <!-- BEGIN Last Updated module -->
-      <br>
-      <font class="k80i">Last update:
-      <!-- #BeginDate format:Ge1 -->10.06.2013<!-- #EndDate -->
-      </font> <br>
-      <img src="/shared/winnipegca/images/pxl_trans.gif" width="1" height="10" alt="" border="0"><br>
-      <font class="k80">* <a href="javascript:window.scrollTo(0, 0)">Top of Page</a></font> <br>
-      <br>
-      <!-- END Last Updated module -->
-    
-    <!-- END main content -->
-    <!-- BEGIN Spacer for gutter -->
-    <img src="/shared/winnipegca/images/pxl_trans.gif" width="12" height="1" alt="" border="0">
-    <!-- END Spacer for gutter -->
-  
+              If you have any questions about the information gathered automatically by Winnipeg.ca, please read our <a href="default.stm">Conditions of Use</a> or contact the City of Winnipeg's <a href="/shared/htmlsnippets/MailForm.asp?Recipient=webmanager&amp;Title=Corporate Web Manager&amp;Note=Use this form to contact the City of Winnipeg Web Manager regarding the Winnipeg.ca website." target="_blank">Corporate Web Manager</a>.</p>
 
     <!-- *** /EDITABLE: main page content -->
+    
+    
+<!-- Last Update Code -->
+<div id="lutopContainer">
+        <div id="lastUpdateDate">
+        Last update: 
+        <!-- #BeginDate format:Am1 -->July 11, 2014<!-- #EndDate -->
+        </div>
+        <div id="topOfPage">
+        <a href="javascript:window.scrollTo(0, 0)">Top of page</a>
+        </div>
+</div>
+<!-- CLOSE Last Update Code -->
+
+    
       </div>
       
       <!--div id="right-bar"-->
@@ -256,11 +422,11 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 <div id="footer">
   
 <div class="footer_box">
-
 <div class="footer_box"><a href="http://www.winnipeg.ca/interhom/">Home</a></div>
 <div class="footer_box"><a href="http://www.winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm">Accessibility</a></div>
 <div class="footer_box"><a href="http://www.winnipeg.ca/mobile/">Mobile</a></div>
 <div class="footer_box"><a href="http://www.winnipeg.ca/apps/">Apps</a></div>
+<div class="footer_box"><a href="https://data.winnipeg.ca/">Open Data</a></div>
 
 </div>
 
@@ -291,28 +457,26 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 <div class="connect">
 <table width="100%" border="0" cellpadding="5">
   <tbody><tr>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/Facebook.png" alt="Become a fan on Facebook" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/twitter.png" alt="follow us on Twitter" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Facebook.png" alt="Become a fan on Facebook" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/twitter.png" alt="follow us on Twitter" width="36" height="36" border="0"></a></td>
   </tr>
   <tr>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/youtube.png" alt="YouTube" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="/shared/Redesign/images/socialMedia/email.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/youtube.png" alt="YouTube" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
+    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/email.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
   </tr>
 </tbody></table>
 </div>
-
-
 </div>
 
-<br><br><br><br><br><br>
+<br clear="all">
     
 <div class="copyright">
 ©1996-2014, City of Winnipeg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of this site signifies your agreement to the <a href="http://www.winnipeg.ca/interhom/conditions_of_use/">Conditions of Use</a>
 </div>
+
+
   </div>
-
-
 
 </div></body></html>
