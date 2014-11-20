@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025720id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170720id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -46,19 +46,24 @@ Here's the full list of Service Providers currently in our network:
   * All Web Leads
   * Allstate
   * American Family
+  * American Insurance Agencies Direct
   * Answer Financial
-  * Consumer United
-  * CoverHound
   * Datalot
+  * Direct General
   * Encharter Insurance
   * Esurance
+  * firstquotehealth.com
+  * Fortegra
   * Freeway Insurance Services
   * GEICO
-  * Greatlane Insurance Solutions
-  * J&M Advertising
+  * Goji
+  * healthmarkets.com
+  * HealthPlanOne
+  * Home Insurance King
   * Liberty Mutual
   * Moss Affiliate Marketing
   * Nationwide
+  * Pay Per Call Market
   * PEMCO
   * Ping Leads
   * Plymouth Rock
@@ -67,11 +72,10 @@ Here's the full list of Service Providers currently in our network:
   * Progressive
   * Quote Engine
   * QuoteWizard
-  * RevPoint
-  * Select Quote
+  * SelectQuote
   * The Hartford
+  * Titan
   * Tranzact
-  * truQ
   * Vern Fonk Insurance
 
 
