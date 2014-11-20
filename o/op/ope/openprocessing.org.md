@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openprocessing.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511111652id_/http%3A//www.openprocessing.org/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openprocessing.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225232id_/http%3A//www.openprocessing.org/about/privacyPolicy) for the most accurate reproduction.*
 
 # OpenProcessing
 
