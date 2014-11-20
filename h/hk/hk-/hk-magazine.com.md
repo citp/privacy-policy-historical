@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054551id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181055id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Hong Kong's City Living Authority Privacy Policy | HK Magazine
 
