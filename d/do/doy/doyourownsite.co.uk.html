@@ -1,24 +1,21 @@
-<!--The following is the downloaded HTML source of the doyourownsite.co.uk privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626063157id_/http%3A//www.create.net/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doyourownsite.co.uk privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120113809id_/http%3A//www.create.net/privacy.phtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="not-ie"><!--<![endif]--><head>
-
     <title>Our privacy and cookies policy</title>
 
-    <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAHU1ZTGwsEXFFRDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-
-    <!--
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <link rel="apple-touch-icon" href="img/mobile/bookmark-icon.png" />
-    <link rel="apple-touch-startup-image" href="img/mobile/iphone-splash.png" />  
-    -->
+    <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAHU1ZTGwsEXFFRDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon" href="img/mobile/bookmark-icon.png">
+    <link rel="apple-touch-startup-image" href="img/mobile/iphone-splash.png">  
     
     <meta name="description" content="Want to build a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
     <meta name="keywords" content="build a website, ecommerce store, create, design, manage your own site, build a website, online shop, online business">
 
-    <link rel="icon" type="image/png" href="/img/icons/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/img/fav-16x16.png">
 
     <meta name="wot-verification" content="a1128ee1a8c4a0b9c9a8">
     <meta name="p:domain_verify" content="ce6b3931bbebf22cff5f9ddd92f039f3">
@@ -29,21 +26,59 @@
     <meta property="og:description" content="Want to build a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
     <meta name="p:domain_verify" content="b5c5e8f520e48c31fb429240e03873c2">
    
-    <link href="/css/print.css?v=1" rel="stylesheet" type="text/css" media="print">
-    <link href="/css/global.css?v=2.5" rel="stylesheet" type="text/css" media="all">
-    <link href="/css/buttons.css?v=1" rel="stylesheet" type="text/css" media="all">
-
+<!--
+    <link href="/css/print.css?v=1" rel="stylesheet" type="text/css" media="print" />
+    <link href="/css/global.css?v=2.5" rel="stylesheet" type="text/css" media="all" />
+    <link href="/css/buttons.css?v=1" rel="stylesheet" type="text/css" media="all" />
+-->
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
 
-    
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.tools.min.js"></script>
+    <link href="css/examples.css?v=1.2.3" rel="stylesheet" type="text/css" media="all">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!--[if lt IE 7]><script defer type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
 
-  
+
+<!-- Google Content Experiments -->
+<script src="//www.google-analytics.com/cx/api.js?experiment=v1fJKEK4T2e6DSsypsLaOg"></script>
+
+<script>
+
+cxApi.setDomainName('create.net');
+var chosenVariation = cxApi.chooseVariation();
+
+var pageVariations = [
+  function() {},  // Original: Do nothing.
+  function() {
+	document.getElementsByTagName('head')[0].innerHTML += "<style> \
+		.modal-overlay { background-color: rgba(240,233,223,0.98) !important; } \
+		#modal-signup h1, #modal-signup p { color: inherit !important; } \
+		#modalSignUpForm label { padding: 15px !important; } \
+		.modal-content { background-color: transparent !important; } \
+		.modal-content .textbox { border-radius: 4px; } \
+		#modal-signup .button.button-primary { background-color: rgb(21,192,212) !important; } \
+		#modal-signup .button.button-primary:hover { background-color: rgb(142,222,95) !important; } \
+		.modal-heading { margin-top: 4em !important; } \
+		.modal { padding: 0px !important; } \
+		.modal__smallprint a { color: #13AFC1 !important; } \
+		a.modal__close { color: rgba(47,70,73,0.4) !important; } \
+		#signup-error { color: #900 !important; } \
+		[placeholder]:focus::-webkit-input-placeholder { transition: opacity 1s 1s ease; opacity: 0.2; } \
+		</style>";
+  }
+
+];
+
+$(document).ready(
+  pageVariations[chosenVariation]
+);
+
+</script>
+<!-- End Google Content Experiments -->
+
 <!-- Google Analytics -->
 <script>
 
@@ -54,6 +89,7 @@
 
 	ga('create', 'UA-227265-11', { cookieDomain: 'create.net', legacyCookieDomain: 'create.net' });
 	ga('require', 'displayfeatures');
+	ga('require', 'linkid', 'linkid.js');
 	ga('send', 'pageview');
 
     function trackOutboundLink(link, category, action) { 
@@ -70,327 +106,491 @@
 
 </script>
 <!-- End Google Analytics -->
+<link rel="stylesheet" href="/assets/css/normalize.min.css?v=20140902-01" title="" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/assets/css/csswizardry-grids.min.css?v=20140902-01" title="" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/assets/css/style.css?v=20140916-01" title="" type="text/css" media="screen" charset="utf-8">
 
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/assets/css/lt-ie9-style.css?v=20140902-01" title="" type="text/css" media="screen" charset="utf-8">
+<![endif]-->
 
-  </head>
-  <body>
-    <header id="header">
+<link rel="stylesheet" href="/assets/fonts/icon-fonts/glyphish/glyphish-public.css?v=20140902-01" title="" type="text/css" media="screen" charset="utf-8">
 
-      <div id="header_content" class="columns_8">
+  <script async="" src="//static.hotjar.com/insights.js"></script></head>
+  <body class="">
+			<!-- Nav -->
+			<div class="nav-wrapper--top">
+        <div class="inner-constraint">
+  				<div class="grid grid--full nav-wrapper--content">
+            <div class="grid__item two-twelfths palm--one-half lap--two-twelfths desk--two-twelfths logo-wrapper">
+  					   <a class="logo" href="/" id="top-nav__logo">Create</a>
+            </div><!--
+            --><div class="grid__item palm--one-half nav-toggle-wrapper">
+              <a class="i-main-menu--toggle js-dropdown-toggle" href="#">
+                <span class="i i-list nav-open"></span>
+                <span class="i i-cross nav-close"></span>
+                <span class="visuallyhidden">Site Navigation</span>
+              </a>
+            </div><!--
+            --><div class="grid__item ten-twelfths palm--one-whole lap--ten-twelfths desk--ten-twelfths nav-wrapper--links">
+              <ul class="nav-links" id="top-nav">
+                                  <li class="">
+                    
+                      <a href="/examples.phtml" class="">
+                        Our Customers                      </a>
+                      
+                                      </li>
+                                  <li class="">
+                    
+                      <a href="/features-pricing.phtml" class="">
+                        Features &amp; Pricing                      </a>
+                      
+                                      </li>
+                                  <li class="nav-main__item--has-sub js-dropdown-sub-nav">
+                    
+                      <a class="sub-item" href="#" aria-haspopup="true">Resources                        <span class="i i-arrow-right--thin"></span></a>
+                      <ul class="nav-main__dropdown" id="top-nav__dropdown">
+                                                  <li><a href="/blog.phtml" target="">Blog</a></li>
+                                                  <li><a href="http://help.create.net" target="_blank">Help and Guides</a></li>
+                                                  <li><a href="/contact.phtml" target="">Contact</a></li>
+                                                  <li><a href="/web_designers_kit.phtml" target="">Web Designer's Kit</a></li>
+                                                  <li><a href="/subscribe-newsletter.phtml" target="">Create News</a></li>
+                                              </ul>
 
-        <div id="logo">
-          <a href="/"><img src="/_assets/img/logo.png" title="Create Ecommerce" alt="Create Ecommerce" width="152" height="32"></a>
-        </div>
-
-        <!-- <a style="float: right; margin-top: 25px" class="trial_button-dk button" href="/signup.phtml"><span>Sign Up</span></a> -->
-        <a style="float: right; margin-top: 19px; margin-left: 4px;" class="yellow-btn" href="/signup.phtml">Free Trial</a>
-
-        <nav id="menu">
-          <ul>
-          <li id="li_home" class="home"><a id="menu_home" class="menu_item" href="/index.phtml">Home</a></li><li id="li_features" class="features"><a id="menu_features" class="menu_item" href="/features-pricing.phtml">Features &amp; Pricing</a></li><li id="li_examples" class="examples"><a id="menu_examples" class="menu_item" href="/examples.phtml">Examples</a></li><li id="li_who" class="who"><a id="menu_who" class="menu_item" href="/who.phtml">Who We Are</a></li><li id="li_blog" class="blog"><a id="menu_blog" class="menu_item" href="/blog.phtml">Blog</a></li><li id="li_contact" class="contact"><a id="menu_contact" class="menu_item" href="/contact.phtml">Contact</a></li><li id="li_login" class="login accountLogin last"><a id="menu_login" class="menu_item" href="https://login.create.net/login.phtml" onclick="trackOutboundLink(this, 'Outbound Link', 'Login'); return false;"><span>Account Login</span></a></li>          </ul>
-        </nav><!--/nav#menu-->
-
+                                      </li>
+                                <li class="login-button-wrapper">
+                  <ul id="top-nav__account">
+                    <li class="">
+                      <a href="https://login.create.net/login.phtml" onclick="trackOutboundLink(this, 'Outbound Link', 'Login'); event.preventDefault(); return false;" class="">Sign in</a>
+                    </li> 
+                    <li class="">
+                      <a href="/signup.phtml" onclick="(event.preventDefault) ? event.preventDefault() : event.returnValue = false; show_signup_overlay();" class="button button-primary">Start your free trial</a>
+                    </li>
+                  </ul>
+                </li>    
+              </ul>
+          </div>
+  			</div>
       </div>
-
-    </header><!--/#header-->
-
-    <section id="banner">
-      <div id="banner_inner">
-
-        
+    </div>
+    <div class="nav-mask"></div>
+<!-- Hero -->
+    <section id="hero" class="border"> 
+      <div class="group grid grid--center">
+        <h1>Privacy and cookies policy</h1>
       </div>
-      <div id="banner_content" class="columns_8">
-      <h1 class="font-face_rockwell">Privacy and cookies policy</h1>
-      <p class="large bannerText margin-top_15 margin-left_4">
-        The Privacy Policy below describes how we treat personal information when you use our products and services.
-      </p>
+    </section>
+    <!-- / Hero -->
+<div class="inner-constraint">
+  <div class="content-section"> 
+    <div class="grid">
+        <div class="grid__item">
 
-        <div class="clear"></div>
-    </div><!--/div#banner_content-->
-</section><!--/section#banner-->
+                <h2>
+                  The Privacy Policy below describes how we treat personal information when you use our products and services.
+                </h2>
 
-<div id="contentWrapper">
-    <div id="content">
-        <div class="columns_8 bigparagraphs margin-top_35">
+                <p>Create Internet Ltd a company registered in England and Wales under company number 03821624 and with our registered office at Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN  ("We") are committed to protecting and respecting your privacy.</p>
 
-            <p>Create Internet Ltd a company registered in England and Wales under company number 03821624 and with our registered office at Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN  ("We") are committed to protecting and respecting your privacy.</p>
+                <p>This policy together with any other documents referred to on it sets out the basis upon which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
 
-            <p>This policy together with any other documents referred to on it sets out the basis upon which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+                <p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Create Internet Ltd of Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN.</p>
 
-            <p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Create Internet Ltd of Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN.</p>
+                <p><strong>Information we may collect from you</strong></p>
 
-            <p><strong>Information we may collect from you</strong></p>
-
-            <p>We may collect and process the following data about you:</p>
-            <ul class="bullets">
-                <li>
-                  Information that you provide on www.create.net (our "Site"). This includes information provided at the time of registering to use our Site, whilst subscribing to our services and when posting material or requesting further services. We may also ask you for information when you report a problem with our Site.
-                </li>
-                <li>
-                  We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-                </li>
-                <li>
-                  Details of transactions you carry out through our Site and of the fulfilment of your orders.
-                </li>
-                <li>
-                  Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
-                </li>
-                <li>
-                  If you contact us, we may keep a record of that correspondence.
-                </li>
-            </ul>
-
-            <p><strong>IP addresses and cookies</strong></p>
-
-            <p>
-              We may collect information about your computer, including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-            </p>
-            <p>
-              Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. By continuing to browse the Site, you are agreeing to our use of cookies.
-            </p>
-            <p>
-              A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. 
-            </p>
-            
-            <p><strong>We use the following cookies:</strong></p>
-
-            <ul class="bullets">
-                <li>
-                  Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, use a shopping cart or make use of e-billing services.
-                </li>
-                <li>
-                  Analytical / performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our Site when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.
-                </li>
-                <li>
-                  Functionality cookies. These are used to recognise you when you return to our Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-                </li>
-                <li>
-                  Targeting cookies. These cookies record your visit to our Site, the pages you have visited and the links you have followed. We will use this information to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
-                </li>
-            </ul>
-
-            <p>
-              Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. You can find more information about the cookies we use and the purposes for which we use them below:
-            </p>
-
-            <ul class="bullets">
-                <li>
-                  To estimate our audience size and usage pattern.
-                </li>
-                <li>
-                  To store information about your preferences, and so allow us to customise our site according to your individual interests.
-                </li>
-                <li>
-                  To speed up your searches.
-                </li>
-                <li>
-                  To recognise you when you return to our Site.
-                </li>
-            </ul>
-
-            <p><strong>Where we store your personal data</strong></p>
-
-            <p>
-             The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
-            </p>
-            <p>
-              By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-            </p>
-            <p>
-              Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential in accordance with our website Terms and Conditions which can be found at http://www.create.net/terms.phtml. We ask you not to share passwords with anyone and to inform us immediately if you think a third party may have access to your password.
-            </p>
-            <p>
-              Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-            </p>
-
-            <p><strong>Uses made of the information</strong></p>
-
-            <p>We use information held about you in the following ways:</p>
-
-
-            <ul class="bullets">
-                <li>
-                  To ensure that content from our Site is presented in the most effective manner for you and for your computer.
-                </li>
-                <li>
-                  To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-                </li>
-                <li>
-                  To carry out our obligations arising from any contracts entered into between you and us.
-                </li>
-                <li>
-                  To allow you to participate in interactive features of our service, when you choose to do so.
-                </li>
-                <li>
-                  To notify you about changes to our service.
-                </li>
-            </ul>
-
-
-            <p>
-              We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you. 
-            </p>
-            <p>
-              If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous dealings with you.
-            </p>
-            <p>
-              If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-            </p>
-            <p>
-              If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please <a href="/contact.phtml">contact us</a>.
-            </p>
-            <p>
-              We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in the BN1 postal area). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-            </p>
-
-        <p><strong>Disclosure of your information</strong></p>
-
-       <p>
-        We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159  of the UK Companies Act 2006.
-      </p>
-       <p>
-        We may disclose your personal information to third parties:
-      </p>
-
-       <ul class="bullets">
-        <li>
-          In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-        </li>
-        <li>
-          If Create Internet Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-        </li>
-        <li>
-          Who are domain name registries, in order to register domains on your behalf.
-        </li>
-        <li>
-           Who facilities payment (for example WorldPay).
-        </li>
-        <li>
-          If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce our terms and conditions and other agreements; or to protect the rights, property, or safety of Create Internet Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-        </li>
-        <li>
-            In addition to the above, we have pages on our Site which link to third party websites and which will require you to input data that will be received by a third party. If you consent to this, you will be asked to enter details in a Captcha code, to give your express consent.
-        </li>
-       </ul>
-
-
-
-       <p><strong>Your rights</strong></p>
-
-       <p>
-        You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by <a href="/contact.phtml">contacting us</a> at any time.
-      </p>
-       <p>
-        Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-      </p>
-
-       <p><strong>Access to information</strong></p>
-
-       <p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-
-       <p><strong>Changes to our privacy policy</strong></p>
-
-       <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-
-       <p><strong>Contact</strong></p>
-
-       Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our <a href="contact.phtml">Contact Form</a>.<p></p>
-
-
-
-
-
-        </div>
-        <div class="clear"></div>
-    </div><!--/#content-->
-</div><!--/#contentWrapper-->
-
-    <div id="footer" style="margin-top:25px;">
-
-        <div class="columns_2 margin-right_30">
-
-            <h4 class="footer_menu_title">Discover</h4>
-
-            <ul class="footer_menu">
-                <li><a class="underline" href="/signup.phtml">30 Day Free Trial</a></li>
-                <li><a class="underline" href="/features-pricing.phtml">Features and Pricing</a></li>
-                <li><a class="underline" href="/examples.phtml">Customer Showcase</a></li>
-                <li><a class="underline" href="/accepting-credit-cards.phtml">Accept Card Payments</a></li>
-                <li><a class="underline" href="/blog.phtml">Ecommerce Blog</a></li>
-                <li><a class="underline" href="/web_designers_kit.phtml">Web Designer's Kit</a></li> 
-            </ul>
-
-        </div>
-
-        <div class="columns_2 margin-right_30">
-
-            <h4 class="footer_menu_title">Explore</h4>
-
-            <ul class="footer_menu">
-                <li><a class="underline" href="/affiliate.phtml">Affiliate Program</a></li>
-                <li><a class="underline" href="http://help.create.net" target="_blank">Help Centre</a></li>
-                <li><a class="underline" href="/jobs.phtml">Careers</a></li>
-                <li><a class="underline" href="/press.phtml">Press Enquiries</a></li>
-                <li><a class="underline" href="/terms.phtml">Terms of Use</a></li>
-                <li><a class="underline" href="/privacy.phtml">Privacy and Cookies</a></li>
-            </ul>
-
-        </div>
-       
-        <div class="columns_4">
-
-            <div class="columns_4 border-bottom">
-
-                <h4 class="footer_menu_title">Follow Us</h4>
-
-                <ul id="social_icons">
-                                     
+                <p>We may collect and process the following data about you:</p>
+                <ul class="bullets">
                     <li>
-                        <a rel="nofollow" class="twitter" target="_blank" href="http://www.twitter.com/create" title="create twitter"></a>
+                      Information that you provide on www.create.net (our "Site"). This includes information provided at the time of registering to use our Site, whilst subscribing to our services and when posting material or requesting further services. We may also ask you for information when you report a problem with our Site.
                     </li>
                     <li>
-                        <a rel="nofollow" class="facebook" target="_blank" href="http://www.facebook.com/create" title="create facebook"></a>
+                      We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
                     </li>
                     <li>
-                        <a class="googleplus" target="_blank" href="https://plus.google.com/104454595827661359417" title="create google plus"></a>
+                      Details of transactions you carry out through our Site and of the fulfilment of your orders.
                     </li>
                     <li>
-                        <a rel="nofollow" class="pinterest" target="_blank" href="http://www.pinterest.com/createdotnet/" title="create pinterest"></a>
-                    </li>   
-                    <li>
-                        <a rel="nofollow" class="youtube" target="_blank" href="http://www.youtube.com/createdotnet" title="create youtube"></a>
+                      Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
                     </li>
                     <li>
-                        <a rel="nofollow" class="instagram" target="_blank" href="http://instagram.com/createdotnet" title="create instagram"></a>
+                      If you contact us, we may keep a record of that correspondence.
                     </li>
-                    <li>
-                        <a rel="nofollow" class="linkedin" target="_blank" href="http://www.linkedin.com/company/create.net" title="create linkedin"></a>
-                    </li>
-       
                 </ul>
 
-            </div>
-            <div class="columns_4" style="margin-top:15px;">
-                <h4 class="footer_menu_title">Got A Question?</h4>
-                <p style="padding-top: 0px; font-size: 13px;">
+                <p><strong>IP addresses and cookies</strong></p>
 
-                    View our <a href="http://help.create.net" target="_blank" title="Help Section">Help Section</a> or <a href="/contact.phtml#l_footer-contact" title="Contact Us">get in touch</a>. 
-
-                    If you have read our FAQs and are still looking for more information, our support team are on hand and will be happy to help.
+                <p>
+                  We may collect information about your computer, including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
                 </p>
-            </div>
+                <p>
+                  Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. By continuing to browse the Site, you are agreeing to our use of cookies.
+                </p>
+                <p>
+                  A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. 
+                </p>
+                
+                <p><strong>We use the following cookies:</strong></p>
 
-        </div>
-        
-        <div class="clear"></div>
+                <ul class="bullets">
+                    <li>
+                      Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, use a shopping cart or make use of e-billing services.
+                    </li>
+                    <li>
+                      Analytical / performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our Site when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.
+                    </li>
+                    <li>
+                      Functionality cookies. These are used to recognise you when you return to our Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+                    </li>
+                    <li>
+                      Targeting cookies. These cookies record your visit to our Site, the pages you have visited and the links you have followed. We will use this information to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+                    </li>
+                </ul>
 
-        <div class="columns_4" style="float:right;">
-            <p style="margin-top:5px; text-align: right;">© Copyright 2001 - 2014 Create. All Rights Reserved.</p>
-        </div>
+                <p>
+                  Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. You can find more information about the cookies we use and the purposes for which we use them below:
+                </p>
 
-        
-      <div class="clear"></div>
+                <ul class="bullets">
+                    <li>
+                      To estimate our audience size and usage pattern.
+                    </li>
+                    <li>
+                      To store information about your preferences, and so allow us to customise our site according to your individual interests.
+                    </li>
+                    <li>
+                      To speed up your searches.
+                    </li>
+                    <li>
+                      To recognise you when you return to our Site.
+                    </li>
+                </ul>
+
+                <p><strong>Where we store your personal data</strong></p>
+
+                <p>
+                 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
+                </p>
+                <p>
+                  By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+                </p>
+                <p>
+                  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential in accordance with our website Terms and Conditions which can be found at http://www.create.net/terms.phtml. We ask you not to share passwords with anyone and to inform us immediately if you think a third party may have access to your password.
+                </p>
+                <p>
+                  Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+                </p>
+
+                <p><strong>Uses made of the information</strong></p>
+
+                <p>We use information held about you in the following ways:</p>
+
+
+                <ul class="bullets">
+                    <li>
+                      To ensure that content from our Site is presented in the most effective manner for you and for your computer.
+                    </li>
+                    <li>
+                      To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+                    </li>
+                    <li>
+                      To carry out our obligations arising from any contracts entered into between you and us.
+                    </li>
+                    <li>
+                      To allow you to participate in interactive features of our service, when you choose to do so.
+                    </li>
+                    <li>
+                      To notify you about changes to our service.
+                    </li>
+                </ul>
+
+
+                <p>
+                  We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you. 
+                </p>
+                <p>
+                  If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous dealings with you.
+                </p>
+                <p>
+                  If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+                </p>
+                <p>
+                  If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please <a href="/contact.phtml">contact us</a>.
+                </p>
+                <p>
+                  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in the BN1 postal area). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+                </p>
+
+            <p><strong>Disclosure of your information</strong></p>
+
+           <p>
+            We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159  of the UK Companies Act 2006.
+          </p>
+           <p>
+            We may disclose your personal information to third parties:
+          </p>
+
+           <ul class="bullets">
+            <li>
+              In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+            </li>
+            <li>
+              If Create Internet Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+            </li>
+            <li>
+              Who are domain name registries, in order to register domains on your behalf.
+            </li>
+            <li>
+               Who facilities payment (for example WorldPay).
+            </li>
+            <li>
+              If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce our terms and conditions and other agreements; or to protect the rights, property, or safety of Create Internet Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+            </li>
+            <li>
+                In addition to the above, we have pages on our Site which link to third party websites and which will require you to input data that will be received by a third party. If you consent to this, you will be asked to enter details in a Captcha code, to give your express consent.
+            </li>
+           </ul>
+
+
+
+           <p><strong>Your rights</strong></p>
+
+           <p>
+            You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by <a href="/contact.phtml">contacting us</a> at any time.
+          </p>
+           <p>
+            Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+          </p>
+
+           <p><strong>Access to information</strong></p>
+
+           <p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+
+           <p><strong>Changes to our privacy policy</strong></p>
+
+           <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
+
+           <p><strong>Contact</strong></p>
+
+           Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our <a href="contact.phtml">Contact Form</a>.<p></p>
+
           </div><!--/#content-->
-  
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"6126a1bc31","applicationID":"848039,828321","transactionName":"M1ZVNUQEWUZRUkdRWAocYhNfSkdHWUdSW05KQ18VWwk=","queueTime":0,"applicationTime":3,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+      </div>    
+    </div><!--/#contentWrapper-->
+</div>
+			<!-- Sign up form -->
+<section class="sign-up-form border">
+	<form class="group grid grid--center">
+		<h3>Create your store now with a free 30 day trial.</h3>
+		<a href="/signup.phtml" class="button button-primary" id="signupbar1">Start your free trial</a>
+	</form>
+</section>
+<!-- / sign up form -->			<!-- Footer -->
+			<section class="footer-wrapper">
+				<div class="feature-wrapper">
+					<div class="inner-constraint">
+						<div class="grid">
+							<div class="grid__item one-third lap--one-fifth desk--one-fifth">
+								<img class="featured-logo" src="/assets/img/guardian-logo.jpg" alt="guardian">
+							</div><!--
+							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
+								<img class="featured-logo" src="/assets/img/independent-logo.jpg" alt="independent">
+							</div><!--
+							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
+								<img class="featured-logo" src="/assets/img/mashable-logo.png" alt="mashable">
+							</div><!--
+							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
+								<img class="featured-logo" src="/assets/img/SUL-logo.jpg" alt="start up loans">
+							</div><!--
+							--><div class="grid__item one-third lap--one-fifth desk--one-fifth">
+								<img class="featured-logo" src="/assets/img/argus-logo.jpg" alt="argus">
+							</div> 
+						</div>
+					</div>
+				</div>	
+				<div class="inner-constraint">			
+					<div class="footer grid">
+						<ul class="grid__item one-quarter palm--one-whole lap--one-half desk--one-quarter" id="footer__product">
+							<li><h3>Product</h3></li>
+							<li><a href="/#start-your-free-trial">30 Day Free Trial</a></li>
+							<li><a href="/examples.phtml">Our Customers</a></li>
+							<li><a href="/features-pricing.phtml">Pricing</a></li>
+						</ul><!--
+						--><ul class="grid__item one-quarter palm--one-whole lap--one-half desk--one-quarter" id="footer__features">
+							<li><h3>Features</h3></li>
+							<li><a href="/facebook-shop.phtml">Facebook Shop</a></li>
+							<li><a href="/web_designers_kit.phtml">Web Designer's Kit</a></li>
+							<li><a href="/accepting-credit-cards.phtml">Accept Card Payments</a></li>
+							<li><a href="/affiliate.phtml">Affiliate Program</a></li>
+						</ul><!--
+						--><ul class="grid__item one-quarter palm--one-whole lap--one-half desk--one-quarter" id="footer__about">
+							<li><h3>About Create</h3></li>
+							<li><a href="/who.phtml">Who We Are</a></li>
+							<li><a href="/meet-the-team.phtml">Meet The Team</a></li>
+							<li><a href="/jobs.phtml">Careers</a></li>
+							<li><a href="/press.phtml">Press enquiries</a></li>
+						</ul><!--
+						--><ul class="grid__item one-quarter palm--one-whole lap--one-half desk--one-quarter" id="footer__support">
+							<li><h3>Support</h3></li>
+							<li><a href="/contact.phtml">Contact Us</a></li>
+							<li><a href="http://help.create.net/home" target="_blank">Help Centre</a></li>
+							<li><a href="/blog.phtml">Create Blog</a></li>
+							<li><a href="https://login.create.net/community/index.php" target="_blank">Community Forum</a></li>
+						</ul>
+					</div>	
+				</div>
+				<div class="social-wrapper">
+					<div class="inner-constraint">
+						<div class="grid">
+							<ul class="grid__item">
+								<li>
+									<a class="social-icon" alt="facebook" href="https://www.facebook.com/create" target="_blank">
+										<span class="i i-facebook"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="twitter" href="https://twitter.com/create" target="_blank">
+										<span class="i i-twitter"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="instagram" href="https://instagram.com/createdotnet" target="_blank">
+										<span class="i i-instagram"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="googleplus" href="https://plus.google.com/104454595827661359417/about" target="_blank">
+										<span class="i i-googleplus"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="linkedin" href="https://www.linkedin.com/company/880521" target="_blank">
+										<span class="i i-linkedin"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="youtube" href="https://www.youtube.com/createdotnet" target="_blank">
+										<span class="i i-youtube"></span>
+									</a>
+								</li>
+								<li>
+									<a class="social-icon" alt="pinterest" href="https://www.pinterest.com/createdotnet" target="_blank">
+										<span class="i i-pinterest"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>	
+				</div>
+				<div class="screen-footer">
+					<div class="inner-constraint">
+						<div class="footer grid">
+							<div class="grid__item one-sixth logo-footer--wrapper">
+								<a class="logo-footer" id="footer__logo" href="/">Create</a>
+							</div><!--
+							--><div class="grid__item four-sixths palm--one-whole lap--five-sixths desk--four-sixths">
+								<p class="copyright" id="footer__copyright">
+									© Copyright 2001 - 2014 Create. All Rights Reserved. <a href="/privacy.phtml">Privacy</a> &amp; <a href="/terms.phtml">Terms of Use</a>.
+								</p>
+							</div><!--
+							--><div class="grid__item one-sixth palm--one-whole lap--one-sixth desk--one-sixth nominet-logo">
+								<img src="/assets/img/nominet.jpg" alt="nominet">
+							</div>
+						</div>
+					</div>
+				<div>	
+			</div></div></section>
+			<!-- / Footer -->
+					
+		<div class="modal" id="modal-signup">
+			<div class="modal-overlay"></div>
+				<a href="/privacy.phtml" onclick="close_signup_overlay(); event.preventDefault(); return;" class="i i-cross modal__close"><span class="visuallyhidden">Close Modal</span></a>
+				<div class="inner-constraint"> 
+					<div class="grid grid--full grid--center">
+						<div class="modal-heading grid__item seven-twelfths grid--center palm--one-whole lap--seven-twelfths desk--seven-twelfths">
+							<h1>Start a Free Trial.</h1>
+							<p>Get started straight away, no payment information necessary</p>
+						</div><!--
+	    				--><div class="modal-content grid__item six-twelfths palm--one-whole lap--three-quarters desk--six-twelfths">
+							
+							<!-- Sign Up Form -->
+<form id="modalSignUpForm" name="signUpForm" method="post" action="/signup.phtml" onsubmit="SubmitSignUpOverlay(); event.preventDefault(); return false;" autocomplete="off">         
+   
+ 
+    <div id="signup-error"></div>     
+ 
+    <!-- Email -->
+    <label for="signupEmailAddress" class="has-tip">
+        <!--[if lt IE 9]>
+        Email Address:
+        <![endif]-->
+        <input data-field="email" type="text" placeholder="Enter your email address..." class="textbox grid__item one-whole" name="signupEmailAddress" required="">
+        <span class="tip three-lines">We'll only use your email address to contact you about Create or your account. We'll never give it to anyone else.</span>
+    </label>
+ 
+    <!-- username -->
+    <label for="newusername" class="has-tip">
+    <!--[if lt IE 9]>
+    Username:
+    <![endif]-->
+        <input data-field="username" type="text" placeholder="Choose a username..." class="textbox grid__item one-whole" name="newusername" required="" maxlength="15" autocomplete="off">
+        <span class="tip">Your username must be 3 to 15 characters long and contain only letters &amp; numbers.</span>
+    </label>
+ 
+    <!-- Password -->
+    <label for="password" class="has-tip">
+        <!--[if lt IE 9]>
+        Password:
+        <![endif]-->
+        <input data-field="password" type="password" required="" placeholder="Choose a password..." class="textbox grid__item one-whole" name="pwd">
+        <span class="tip">Your password must be longer than 6 characters.</span>
+    </label>
+    
+    <button type="submit" data-loading-text="Creating your site..." class="button button-primary grid__item one-whole">
+        <span>Start creating!</span>
+    </button>
+
+    <input type="hidden" name="signUpPosted" value="submitted">
+    <input type="hidden" name="startUpLoans" id="startUpLoans" value="0">
+</form>
+
+ 
+<!-- once you've signed up, get redirected to the login page - so you're already logged in -->
+<form name="logInForm" method="post" action="https://login.create.net/login.phtml" style="display: none;">
+    <input type="text" class="textbox" id="autousername" name="username">
+    <input type="password" class="textbox" id="password" name="password">
+    <input type="hidden" id="autopass" name="autopass" value="1">
+    <input type="submit" id="loginFormSubmit" name="submit" style="display: none;" value="submit">
+ </form>
+ 
+<script type="text/javascript" src="/assets/js/signup.min.js"></script>
+<!--[if IE 9]>
+<script src="/assets/js/signup-IE9.js"></script>
+<![endif]-->
+    						</div>
+
+						<div class="grid__item seven-twelfths grid--center palm--one-whole lap--seven-twelfths desk--seven-twelfths">
+							<p class="modal__smallprint" id="modal__smallprint">By submitting this form you agree to our <a href="/terms.phtml" target="_blank">Terms and Conditions</a> and <a href="/privacy.phtml" target="_blank">Privacy Policy</a>.</p>
+						</div>
+					</div>
+				</div>
+		</div>	
+		<script src="/assets/js/toggle.js"></script>	
+		<script src="/assets/js/stickside.min.js"></script>	
+
+		<script>
+    (function(f,b,g){
+        var d=g.prototype.open,a=g.prototype.send,c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:2871};
+        if(typeof b.addEventListener!=="undefined"){b.addEventListener("DOMContentLoaded",function(){f.hj.documentHtml=b.documentElement.outerHTML})}
+        c=b.createElement("script");c.async=1;c.src="//static.hotjar.com/insights.js";b.getElementsByTagName("head")[0].appendChild(c);f.hj.xo=g.prototype.open;f.hj.xs=g.prototype.send;
+        if(!f._hjPlayback){
+            f.hj.xo=g.prototype.open;f.hj.xs=g.prototype.send;
+            g.prototype.open=function(l,j,m,h,k){this._u=j;f.hj.xo.call(this,l,j,m,h,k)};
+            g.prototype.send=function(e){var j=this,i=j._u.indexOf("insights.hotjar.com")===-1;if(i){function h(){if(j.readyState===4){f.hj("_xhr",j._u,j.status,j.response)}}if(this.addEventListener){this.addEventListener("readystatechange",h,false)}else{this.attachEvent("onreadystatechange",h)}}f.hj.xs.call(this,e)}
+        }
+    })(window,document,window.XMLHttpRequest);
+</script>		
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"6126a1bc31","applicationID":"848039,828321","transactionName":"M1ZVNUQEWUZRUkdRWAocYhNfSkdHWUdSW05KQ18VWwk=","queueTime":0,"applicationTime":8,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
