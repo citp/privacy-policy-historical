@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungmobilepress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040134id_/http%3A//www.samsungmobilepress.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungmobilepress.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120080200id_/http%3A//www.samsungmobilepress.com/privacy.asp) for the most accurate reproduction.*
 
 # Samsung Mobile Press
 
