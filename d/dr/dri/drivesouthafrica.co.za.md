@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502041830id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180921id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drive South Africa
 
 ####  Drive South Africa takes your privacy seriously.
 
-This document, updated 16 August 2010, includes full details of our privacy policy.
+This document, updated 7 October 2014, includes full details of our privacy policy.
 
 ####  For your quick reference, we've noted our stance on some of the most important privacy issues:
 
@@ -68,6 +68,20 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 ####  Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+####  Privacy Policy - Analytics + Remarketing
+
+Drive South Africa adheres to a strict privacy policy for the protection of our users.
+
+We guarantee that personal information provided by the user will be employed solely for the purpose of providing any service that the user has requested.
+
+We guarantee that no user data, personal or otherwise, will ever be passed to external agencies or third parties for any reason unless required by law.
+
+Please note that we advertise on third party sites through Google AdWords, and Google may use cookies to serve ads based on your visit to this site.
+
+You may opt out of seeing ads for this site by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google Opt-out Page").
+
+In addition, we use Google Analytics to monitor website activity. For more information on how Google collects and processes data please see [How Google Uses Data When You Use Partner Sites Or Apps](http://www.google.com/policies/privacy/partners/).
 
 ####  California Online Privacy Protection Act Compliance
 
