@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506054805id_/http%3A//www.deem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120220847id_/http%3A//www.deem.com/privacy) for the most accurate reproduction.*
 
 # Global Privacy Statement | Deem
 
