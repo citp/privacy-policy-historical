@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-professions.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218102226id_/http%3A//www.wow-professions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-professions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065206id_/http%3A//www.wow-professions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
