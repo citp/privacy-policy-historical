@@ -1,40 +1,87 @@
-> *The following text is extracted and transformed from the thinkbanking.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054200id_/http%3A//thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbanking.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060028id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
 
 # Thinkmoney privacy policy
 
 ## Privacy Policy
 
-Protecting your privacy is important to us. This privacy statement explains how we collect, store and use the information you provide. Please read this privacy statement carefully, as once you send us your information you will be deemed to have read and accepted this statement.
+Protecting your privacy is important to us. This privacy statement explains how Think Money Limited, and the companies within the Think Money Group (All About Money Limited, Freeman Jones Limited, Think Loans and Mortgages Limited, Think Insure Limited, Gregory Pennington Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited, and Think Money Group Limited) (collectively “the Group”) collect personal data from you, and how we will use and store this information.
 
-#### What personal information is collected via this website?
+Please read this privacy statement carefully, as once you send us your information you will be deemed to have read and accepted this statement.
 
-We will only collect personal information about you, given by you, when you complete a contact form requesting us to contact you or an application form. Please note that for quality and training purposes, telephone calls to our offices will be recorded and monitored.
+The Group would also like to provide you with information, including through email subscription to regular communications and mobile telephone, about their and other companies’ products and services that may be of interest to you. We would also like to pass your details on to other carefully selected companies so that they can send you information, including by email and mobile telephone, about their products and services.
+
+#### Where we collect your personal information?
+
+We will only collect personal information, including where necessary sensitive personal data, about you when you apply to us, and any additional information provided by you or others in various ways, including:
+
+a) When you complete an application form or a contact form requesting a call back.
+
+b) When you participate in market research, competitions and promotions provided by, or on behalf of the Group.
+
+c) Information the Group receives from each other, from business partners, and from other organisations such as credit reference agencies and fraud prevention agencies.
+
+Please note that for quality and training purposes, telephone calls to our offices will be recorded and monitored.
 
 #### What happens to the information provided/collected?
 
-We may use the information you provide to contact you, for product administration and for customer research. We will also use the information you provide to carry out an electronic check with a credit reference agency. This will not leave a record but will be used to verify the information you provided us. If you give false of inaccurate information and fraud is identified, details will be passed to fraud prevention agencies. The information you provide through this website may be used by Think Money Limited and its sister Think Money Group companies (All About Money Limited, Think Loans and Mortgages Limited, Think Insure Limited, Think Money Limited, Gregory Pennington Limited, Freeman Jones Limited, Wilson Andrews Limited, Ideal Finance Limited, Intelligent Lending Limited) to provide you with information, including by email and mobile telephone, about their and other companies' products and services that may be of interest to you. Where we use your personal information to tell you about other products and services we will give you the opportunity to inform us that you do not wish your details to be used in this way. We would also like to pass your details on to other carefully selected companies so that they can send you information, including by email and mobile telephone, about their products and services.
+The personal information you provide may be used in a number of ways, for example:
 
-If you do not want us to use your information as set out in this paragraph for marketing purposes to update you on latest products and services and those from third parties, please untick this box .
+  * Responding to your requests, enquiries or complaints.
+  * For product administration and to notify you of any important changes or developments to the products and services we provide to you
+  * For customer research, statistical analysis and to understand the effectiveness of our advertising
+  * For crime detection, prevention, and prosecution and to keep our website safe and secure
+  * For audit and debt collection
+  * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies
+  * Law enforcement agencies may access and use this information
 
-If you submit a loan or mortgage application we may also make one or more credit searches for each applicant when making our recommendation and, the chosen lender may also search your record to verify your credit worthiness and identity. The credit reference agency will add details of any searches to your record which can be seen by other organisations that make searches and they may use it to help make credit decisions about you, to prevent fraud and money laundering and to trace debtors.
 
-We may also use or disclose information to the extent required by law, court order, as requested by other government law enforcement authority, or to enforce legal rights.
+  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
+  * Checking details on applications for credit and credit related or other facilities
+  * Managing credit and credit related accounts or facilities 
+  * Recovering debt
+  * Checking details on proposals and claims for all types of insurance
+  * Checking details of job applicants and employees
+  * Please contact us at privacy@thinkmoney.co.uk if you want to receive details of the relevant fraud prevention agencies.
+  * We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
-We do not routinely transfer personal information outside the European Economic Area (EEA - which currently comprises of the Member states of the European Union plus Norway, Iceland and Liechtenstein). However if we do transfer it outside of the EEA, it may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of services, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-#### Safeguarding your personally identifiable information
 
-We will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided.
+#### Joint Applicants
+
+If you provide personal information about someone else, for example a joint application, you must only do so with the consent of the other person. If you enter into a product jointly with another person your data will be shared with the other person.
+
+#### Sharing your data with third parties
+
+If you submit a credit card, loan or mortgage application we may also make one or more credit searches for each applicant when making our recommendation and, the chosen lender may also search your record to verify your credit worthiness and identity. The credit reference agency will add details of any searches to your record which can be seen by other organisations that make searches and they may use it to help make credit decisions about you, to prevent fraud and money laundering and to trace debtors.
+
+We may also share your information with other companies within the Group for the administration of any products or services provided to you by any company within the Group. They may also provide you with information about other products and services that they provide. If you have provided your consent we may also share your information with marketing agencies, who provide marketing services on behalf of the Group, to promote the products and services provided by the Group or other carefully selected companies.
+
+We may also use or disclose information to the extent required by law, court order, as requested by other government law enforcement authority, or to enforce legal rights. 
+
+Although we do not routinely transfer personal information outside the European Economic Area (EEA), we may be required to transfer your personal data to staff or to one of our suppliers who are based outside of the EEA. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+#### Safeguarding your personal information
+
+We take the protection of personal data very seriously and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided.
 
 #### Review, correction and deletion of information from our files
 
-If for any reason you are concerned that the personal information maintained by us is incorrect, or should you wish to check what information we hold or have your personal information removed from our records, please contact us by email at [**privacy@thinkmoney.co.uk**](mailto:privacy@thinkmoney.co.uk) and we will be happy to review, update or remove information as appropriate. We will keep your information unless you ask us to remove it. If you are unhappy with the way we have used your information, details of our complaints procedure can be viewed [**here**](https://web.archive.org/about-thinkmoney/complaints-procedure/).
+If for any reason you are concerned that the personal information we hold about you is incorrect, or if you would like your personal information removed from our records please contact us by email at privacy@thinkmoney.co.uk and we will be happy to review, update or remove information as appropriate. We will keep your information unless you ask us to remove it. 
+
+If you would like to request a copy of the personal data we hold please contact the Data Protection Officer using the email above or at the address below. Any request may be subject to a £10 fee.
+
+Data Protection Officer  
+Think Park  
+Mosley Road  
+Trafford Park  
+Manchester  
+M17 1FQ
 
 ### Cookies
 
-When using this website, some information may be collected automatically using 'cookies'. These are small text files which facilitate the processing of your data and enable us to analyse how the website is being used. Cookies can be temporary or permanent.
+When using this website, some information may be collected automatically using ‘cookies’. These are small text files which facilitate the processing of your data and enable us to analyse how the website is being used. Cookies can be temporary or permanent.
 
-Temporary cookies form part of the security process while you are using the website; permanent cookies identify the link you used to find our website, check your browser so that we can make sure that our website and services work well with your computer and to help us monitor traffic on our website.
+TTemporary cookies form part of the security process while you are using the website; permanent cookies identify the link you used to find our website, check your browser so that we can make sure that our website and services work well with your computer and to help us monitor traffic on our website.
 
 #### Why are cookies used?
 
@@ -42,11 +89,11 @@ They help visitors. Cookies allow sites to do things like provide personalised c
 
 They help website owners. Cookies tell website owners things like: what search engine a visitor used to find the website, how often they've visited it, how long they've spent on it, and so on.
 
-We've set out below the cookies that we may use and those that are set by third parties on our website.
+We’ve set out below the cookies that we may use and those that are set by third parties on our website.
 
 Cookie | Name | Purpose | More Information  
 ---|---|---|---  
-ClickTale | WRUID | This cookie is used to collect information about how visitors use our website and allows us to compile reports to further improve our website. | Click [here](http://www.clicktale.net/disable.html) for more information about ClickTale and how to disable this cookie.  
+ClickTale | WRUID | This cookie is used to collect information about how visitors use our website and allows us to compile reports to further improve our website. | Click [**here**](http://www.clicktale.net/disable.html) for more information about ClickTale and how to disable this cookie.  
 Google Analytics | _utma _utmb _utmc _utmz | These cookies are used to collect information about how visitors use our website. They keep track of when a visitor enters and leaves the website and any search engines and keywords that are used, including any personal and/or sensitive data. | Click [here](http://tools.google.com/dlpage/gaoptout) for more information about google analytics and how to disable this cookie.  
 Session Variables | ASP.NET_SessionId ASPESSIONID | These cookies are used to keep all information about the visitor's session of the website and are essential for the website to work. These expire when the browser is closed. |    
 VISITOR_INFO1_LIVE | This tracks a layout version that the YouTube applet will use when displayed on the website. |    
