@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clker.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619230440id_/http%3A//www.clker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clker.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230614id_/http%3A//www.clker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of clker.com - vector clip art online, royalty free & public domain
 
