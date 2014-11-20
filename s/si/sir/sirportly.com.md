@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sirportly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061418id_/http%3A//sirportly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirportly.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120224521id_/http%3A//sirportly.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - Legal - About us - Sirportly
+# Privacy Policy - Sirportly
 
 To use Sirportly (including it's website and application) you must agree to this privacy policy. When signing up, you agree to this policy. We collect the following information automatically and it is archived in system log files unless specified:
 
