@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flamingotoes.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618204311id_/http%3A//www.flamingotoes.com/sponsors/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingotoes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202630id_/http%3A//www.flamingotoes.com/sponsors/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |Flamingo Toes
+# Privacy Policy -Flamingo Toes
 
 The privacy of our visitors to FlamingoToes.com is important to us.
 
