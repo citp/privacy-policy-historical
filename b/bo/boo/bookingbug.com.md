@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookingbug.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213164442id_/http%3A//www.bookingbug.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbug.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212557id_/http%3A//www.bookingbug.com/docs/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -144,11 +144,10 @@ The sites contain links to other websites. We are not responsible for the privac
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us [here](https://web.archive.org/contact) or by post to
 
-BookingBug Ltd c/o The Brew  
-Basement  
-Victoria House,  
-Paul Street,  
+BookingBug Ltd  
+Walter House  
+418 - 422 Strand  
 London  
-EC2A 4NA  
+WC2R 0PT  
 United Kingdom  
 
