@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcheaters.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512212330id_/http%3A//www.xcheaters.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcheaters.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060556id_/http%3A//www.xcheaters.com/site/privacy) for the most accurate reproduction.*
 
 # xCheaters - Spice up your life with a discreet encounter!
 
@@ -98,8 +98,8 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 #### Our address:
 
 FH International Limited  
-Island House  
-Grande Rue  
-St Martins  
-Guernsey, Channel Islands  
-GY4 6RU 
+PO Box 440  
+Envoy House, La Vrangue  
+St Peter Port  
+Guernsey  
+GY1 3ZN 
