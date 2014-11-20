@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitspro.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035427id_/http%3A//www.benefitspro.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitspro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000607id_/http%3A//www.benefitspro.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | BenefitsPro
 
@@ -95,7 +95,7 @@ By e-mail: [customerservice@SummitProNets.com](mailto:customerservice@SummitProN
 By regular mail:
 
 Summit Professional Networks  
-5081 Olympic Blvd.  
+4157 Olympic Blvd, Suite 225  
 Erlanger, KY 41018  
 Attn: Customer Service  
 By telephone: 800-543-0874 
