@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021449id_/http%3A//joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060533id_/http%3A//www.joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-We are committed to ensuring that your privacy is protected at all times.
 
 All Information collected at this web site is is strictly confidential and will never be disclosed, sold, distributed or leased to any third parties.
 
@@ -37,7 +35,7 @@ Personal data submitted at this website will be used for the purposes specified 
   3. Enable you to use of the services available on the website
   4. Send you general (non-marketing) commercial communications to keep you updated and information about the latest developments or services we offer at the website.
   5. Send you email notifications which you have specifically requested when using the web site.
-  6. Deal with any enquiries you may have in relation to the website.
+  6. Deal with any enquiries you may have in relation to the website and services we offer
 
 
 
@@ -45,11 +43,11 @@ Personal data submitted at this website will be used for the purposes specified 
 
 We will take reasonable technical precautions to prevent the loss, misuse or alteration of your personal information.
 
-Credit card information is NOT stored or collected at the this website. All credit card payment transactions are securely processed by [Paypal.com](http://www.paypal.com/) and at no time do we have access to your credit card details.
+Credit card information is **NOT** stored or collected at the this website. All credit card payment transactions are securely processed by [Paypal.com](http://www.paypal.com/) and at no time do we have access to your credit card details.
 
 ### Sharing Your Information With Third Parties
 
-All information collected and stored at the web site is strictly confidential and will NOT be disclosed, sold, distributed or leased to any third parties.
+All information collected and stored at the web site is strictly confidential and will **NOT** be disclosed, sold, distributed or leased to any third parties.
 
 ### Policy Amendments
 
@@ -57,4 +55,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 ### Contact Us
 
-If you have any questions about this privacy policy outlined at this web site please [contact us](http://joomladesigns.co.uk/contactus.html)
+If you have any questions about this privacy policy outlined in this document please [contact us](http://www.joomladesigns.co.uk/contactus.html)
