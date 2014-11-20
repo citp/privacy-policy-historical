@@ -1,0 +1,404 @@
+<!--The following is the downloaded HTML source of the chess-db.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120055356id_/http%3A//chess-db.com/public/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Chess-DB.com - Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="/public/main.css">
+</head>
+<body> 
+
+
+<style>
+#news {
+   overflow:hidden;
+   position:relative;
+   margin:0px 0px 0px 0px;
+   padding:4px 10px 0px 0px;
+   height: 28px;
+   width:100%;
+   background-color: #FFD119;
+   border-style:dashed;
+   border-width:1px;
+   border-color: #997A00;
+   right: 0px;
+   left: 0px;
+}
+
+body {
+   overflow-x: hidden;
+   margin:0;
+   padding:0px;
+}
+
+#header {
+   overflow:hidden;
+   margin:0px;
+   padding:0px;
+   height: 38px;
+   width:100%;
+   background-color: #F3F3F3;
+   border-style:solid;
+   border-width:1px;
+   border-color: #DBDBDB;
+   right: 0px;
+   left: 0px;
+}
+
+#container {
+   margin:0px;
+   padding:0px;
+   width:100%;
+   background: white;
+   border-style:solid;
+   border-width:0px;	
+}
+
+#footer {
+   margin:0px;
+   padding:0px;
+   width:100%;
+   background-color: #F3F3F3;
+   border-style:solid;
+   border-width:1px;
+   border-color: #DBDBDB;
+   height:30px;
+   bottom:0;
+   right:0;
+}
+
+#popupbox {
+  margin: 10; 
+  border-radius: 6px;
+  /*
+  margin-left: 70%;  
+  margin-right: 25%;
+  padding-left: 10px;  
+  padding-right: 10px; 
+  */
+  right: 20px;
+  margin-top: 50px; 
+  padding-top: 10px; 
+  width: 240px; 
+  min-width: 200px; 
+  height: 190px; 
+  position: absolute; 
+  background: #F3F3F3; 
+  border: solid #DBDBDB 2px; 
+  z-index: 9; 
+  font-family: arial; 
+  visibility: hidden; 
+}
+
+#shortcuts {
+  margin: 10; 
+  border-radius: 6px;
+  /*
+  margin-left: 70%;  
+  margin-right: 25%;
+  padding-left: 10px;  
+  padding-right: 10px; 
+  */
+  left: 10px;
+  margin-top: 50px; 
+  padding-top: 10px; 
+  width: 280px; 
+  min-width: 240px; 
+  height: 190px; 
+  position: absolute; 
+  background: #F3F3F3; 
+  border: solid #DBDBDB 2px; 
+  z-index: 9; 
+  font-family: arial; 
+  visibility: hidden; 
+}
+
+#helptranslate {
+  margin: 8; 
+  border-radius: 2px;
+  /*
+  margin-left: 70%;  
+  margin-right: 25%;
+  padding-left: 10px;  
+  padding-right: 10px; 
+  */
+  right: 2px;
+  margin-top: 37px; 
+  padding-top: 1px; 
+  width: 200px; 
+  min-width: 200px; 
+  height: 20px; 
+  position: absolute; 
+  //background: #F3F3F3; 
+  //border: solid #DBDBDB 1px; 
+  z-index: 9; 
+  font-family: arial; 
+  visibility: hidden; 
+}
+
+</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  
+  if (window.top !== window.self) window.top.location.replace(window.self.location.href);
+
+
+  function login(showhide){
+    if(showhide == "show"){
+        document.getElementById('popupbox').style.visibility="visible";
+		document.getElementById('helptranslate').style.visibility="hidden"; 
+    }else if(showhide == "hide"){
+        document.getElementById('popupbox').style.visibility="hidden"; 
+    }
+  }
+
+  function translate(showhide){
+    if(showhide == "show"){
+        document.getElementById('helptranslate').style.visibility="visible";
+    }else if(showhide == "hide"){
+        document.getElementById('helptranslate').style.visibility="hidden"; 
+    }
+  }
+  
+  function shortcuts(showhide){
+    if(showhide == "show"){
+        document.getElementById('shortcuts').style.visibility="visible";
+		document.getElementById('helptranslate').style.visibility="hidden"; 
+    }else if(showhide == "hide"){
+        document.getElementById('shortcuts').style.visibility="hidden"; 
+    }
+  }  
+
+  function recordNewsClose() {
+	xmlhttp = new XMLHttpRequest();
+	xmlhttp.open("GET", "/public/login_setlnd.jsp",false);
+	xmlhttp.send(null);
+	var result = xmlhttp.responseText;	   
+	return true;
+  }  
+  
+  function news(action, url){
+    recordNewsClose();
+    document.getElementById('news').style.display = 'none';
+    if (action == "click"){
+	  window.location.href = url;
+    }
+  }    
+</script>
+
+<!-- popup login box -->
+<div id="popupbox" style="text-align:center; line-height: 1em;"> 
+<form style="font-family:Arial;font-size:14px;text-align:center" name="login" action="/public/login.jsp" method="post">
+E-mail:<div style="height:8px;"></div>
+<input name="username" style="width:140px;height:20px;">
+<div style="height:10px;"></div>
+Parola:<div style="height:8px;"></div>
+<input name="password" style="width:140px;height:20px;" type="password">
+<input type="hidden" name="from" value="http://chess-db.com/public/privacy.html?null">
+<div style="height:10px;"></div>
+<input type="submit" name="submit" style="width:80px;height:30px;" value="Conectaţi-vă">
+</form>
+<div style="height:20px;"></div>
+<a style="font-family: Arial;font-size: 11px;text-decoration: none" href="/public/login.jsp?username=register">Inregistreaza-te</a>&nbsp;
+<a style="font-family: Arial;font-size: 11px;text-decoration: none" href="/public/login.jsp?username=forgot">Ai uitat parola</a>&nbsp;
+<a style="font-family: Arial;font-size: 11px;text-decoration: none" href="javascript:login('hide');">Termina</a>&nbsp;
+<br>
+</div> 	
+
+<!-- shortcuts -->
+<div id="shortcuts" style="text-align:center;line-height: 1em;"> 
+<!-- <div align='center' style='font-family:Calibri;font-size:12px;text-decoration:none;margin-bottom:5px;'><b>Cauta</b></div> -->
+<div style="height:12px;"></div>
+<form name="searchform" action="/public/execute.jsp" method="get">
+<input type="text" name="name" value="Numele sau ID-ul FIDE" style="font-family: Arial; color: gray; font-size:10pt; color: gray; height: 22px; width: 210px; padding-left: 3px;" onfocus="if(this.value==this.defaultValue){this.value=''; document.searchform.name.style.color='Black';}" onblur="if(this.value==''){this.value=this.defaultValue; document.searchform.name.style.color='Gray'; }">
+<div style="height:9px;"></div>
+<div style="font-family:arial;font-size:11px;">
+<input id="1349" type="radio" name="stype" value="player" checked=""><label for="1349">Jucatori</label>
+<input id="1350" type="radio" name="stype" value="games"><label for="1350">Partide</label>
+<input id="1351" type="radio" name="stype" value="events"><label for="1351">Turnee</label>
+</div>
+<div style="height:20px;"></div>
+&nbsp;&nbsp;<input type="submit" value="Cauta" style="height: 27px; width: 130px">
+</form>
+<div style="height:40px;"></div>
+<div align="right"><a style="font-family: Arial;font-size: 12px;text-decoration: none" href="javascript:shortcuts('hide');">Termina</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<br>
+</div>
+
+
+<!-- translate help -->
+<div id="helptranslate" style="visibility: visible;">
+<br><br><br>
+&nbsp;&nbsp;&nbsp;<a style="font-family:Arial;font-size:11px;text-decoration:none" href="/public/translate.jsp">Ajută ne să traducem site-ul</a>&nbsp;
+</div> 	
+<script>translate("show");</script>
+
+
+<!-- begin header -->
+
+  <div id="header" style="line-height: 1em;height:42px;">
+    <table style="font-family:Arial;font-size:12px;width:100%;line-height: 1em;">
+	<tbody><tr>
+	<td style="align:left;vertical-align:middle;font-family:Arial;font-size:12px;">
+	<!-- begin left table -->
+	<table style="font-family: Arial;font-size: 12px;">
+	<tbody><tr>
+	<td>&nbsp;&nbsp;<a style="text-decoration: none" title="Chess-DB.com Home" href="/public/index.jsp">
+	<img style="border:0;" width="106" height="20" alt="Chess-DB.com Home" title="Chess-DB.com Home" src="http://d3qxs6yh7h35kl.cloudfront.net/public/img/chess-dbh.png"></a></td>
+	<td>&nbsp;&nbsp;<a style="text-decoration: none" title="Chess-DB.com Home" href="/public/index.jsp">Pagina de inceput</a></td>
+	<!-- <td>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<img title='Good luck in the World Youth Chess Championship!' width='65px;' height='30px;' src='/public/events/2014-wycc/file_3.gif'></td> -->
+	
+	<td>&nbsp;<a style="text-decoration: none;" href="javascript:shortcuts('show');">&nbsp;&nbsp;<img style="border:0;" width="20" height="20" alt="Search" title="Search" src="http://d3qxs6yh7h35kl.cloudfront.net/public/img/search.png"></a></td>	
+	<td style="width:60px;"><a style="text-decoration: none" href="javascript:shortcuts('show');">&nbsp;Cauta&nbsp;</a></td>
+	
+	</tr>
+	</tbody></table>
+	<!-- end left table -->
+	</td>
+	<!-- begin middle table -->
+	<td align="center" style="width:10px;font-family:Arial;font-size:12px;">
+	<table style="font-family: Arial;font-size: 12px;">
+	<tbody><tr>
+	<td style="text-align:center;align:right;">
+	<!-- middle ads here -->
+	</td>
+	</tr>
+	</tbody></table>
+	</td>
+	<!-- end middle table -->
+	<td align="right" style="font-family:Arial;font-size:12px;">
+	<!-- begin right table -->
+	<table style="font-family: Arial;font-size: 12px;">
+	<tbody><tr>
+		
+	<td>
+	Anonim&nbsp;|&nbsp;&nbsp;<a style="text-decoration: none" href="javascript:login('show');">Conectaţi-vă</a>&nbsp;&nbsp;
+	</td>
+	<td>&nbsp;<img width="28" height="28" style="border:0px solid gray;box-shadow:1px 1px 3px gray;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:4px;" alt="User Profile" src="http://d3qxs6yh7h35kl.cloudfront.net/public/avatars/anon.jpg">&nbsp;<img style="border:0px;" alt="Profile menu" src="http://d3qxs6yh7h35kl.cloudfront.net/public/img/dropdown.png">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	
+	<td>
+	
+	<a title="Support us ..." href="/public/supportus.html"><img alt="Donate small amount to support us ..." src="http://d3qxs6yh7h35kl.cloudfront.net/public/img/donate.png" height="21"></a>&nbsp;&nbsp;
+	
+	</td>
+	
+	<td>	
+    	<form>
+		<select name="URL" onchange="window.location.href=this.form.URL.options[this.form.URL.selectedIndex].value"><option value="">Română
+		</option><option value="http://chess-db.com/public/privacy.html?lan=0">English</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=1">Deutsch</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=2" style="color: rgb(102,102,102)">Español</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=3" style="color: rgb(102,102,102)">Français</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=4">Русский</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=5">Български</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=6" style="color: rgb(102,102,102)">Italiano</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=7" style="color: rgb(102,102,102)">Türkçe‬</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=8" style="color: rgb(102,102,102)">Polski</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=9" style="color: rgb(102,102,102)">Română</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=10" style="color: rgb(102,102,102)">Português</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=11">Čeština</option>
+		<option value="http://chess-db.com/public/privacy.html?lan=12" style="color: rgb(102,102,102)">العربية</option>
+		</select>
+		&nbsp;&nbsp;&nbsp;
+		</form>
+	</td>
+	</tr></tbody></table> 
+	<!-- end right table -->
+	</td>
+	</tr>
+	</tbody></table>
+  </div>
+<!-- end header -->
+
+  
+  
+
+
+<br><br>
+<center>
+<center><h2 style="margin:0px;font-family:arial;font-size:16px;">Privacy Policy</h2><br></center><font face="arial" color="black" size="2">
+<table><tbody><tr><td align="justify" width="840">
+This privacy policy sets out how we at chess-db.com use and protect any information that you give us when you use this website.<br>
+<br>
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2012.06.01.<br>
+<br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">What we collect</h2><br></center><font face="arial" color="black" size="2">
+In case you choose to register we may collect and store your contact information including email address. In case you purchase any services from us we will not store any financially sensitive information (Like e.g. your credit card etc.) anywhere on our servers, we are using secure 3rd party services for handling the financial transactions. We also use Google Analytics in our website (In both cases, if you are registered user or guest visitor). Google Analytics functionallity is subject to Google privacy statement (<a href="http://www.google.com/policies/privacy/">http://www.google.com/policies/privacy</a>). We use our google Analytics account as a mean to improve our website and services. In case you want to opt-out from participating in Google Analytics data collection (For this and any other website), please consider the following articles and tools: <a href="http://support.google.com/analytics/bin/answer.py?hl=en&amp;answer=1008579">http://support.google.com/analytics/bin/answer.py?hl=en&amp;answer=1008579</a> and <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">What we do with the information we gather</h2><br></center><font face="arial" color="black" size="2">
+We use your information for the following purposes: To enable the services we provide (e.g. login to our website and access to information which is only made available to registered users), processing your orders, or to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">Security</h2><br></center><font face="arial" color="black" size="2">
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">Cookies</h2><br></center><font face="arial" color="black" size="2">
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We do not use traffic log cookies on our website, but the 3rd party service that we use (Google Analytics) may use such (See "What we collect"). You can choose to accept or decline cookies: Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">Links to other websites</h2><br></center><font face="arial" color="black" size="2">
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">Advertising content</h2><br></center><font face="arial" color="black" size="2">
+To serve ads on our website we use third-party advertising companies. These companies may use information about your visits to this and other 
+websites in order to provide advertisements that might be of interest to you. You can learn more about this and find out about
+practices and options to not having your information being used by these companies, click <a href="http://www.google.com/policies/technologies/ads/">here</a>.
+<br><br>
+<center><h2 style="margin:0px;font-family:arial;font-size:14px;">Controlling your personal information</h2><br></center><font face="arial" color="black" size="2">
+You may choose to restrict the collection or use of your personal information in the following ways: Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <a href="mailto:admin@chess-db.com?subject=Change Personal Information Settings">admin@chess-db.com</a>. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. 
+</font></font></font></font></font></font></font></td></tr></tbody></table>
+<br><br>
+
+<!--
+Google Analytics
+-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31940906-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--
+Google Analytics
+-->
+<br>
+
+
+
+
+
+<!-- begin footer -->
+<div id="footer" style="height:32px;min-width:250px;">
+
+
+<!-- begin left table -->
+
+<table style="width:100%;overflow:hidden;">
+<tbody><tr>
+
+<td style="text-align:right;font-family: Arial;font-size: 12px;vertical-align:middle;overflow:hidden;">
+<!-- begin right table -->
+<!--&#xA0;<a style='font-family: Arial;font-size: 12px;text-decoration: none' href="/public/rss.jsp" target="_parent">RSS</a>&#xA0;&#xA0;| -->
+<!--&#xA0;<a style='font-family: Arial;font-size: 12px;text-decoration: none' href="/public/index.jsp" target="_parent">Home</a>&#xA0;&#xA0;|-->
+&nbsp;<a style="font-family: Arial;font-size: 12px;text-decoration: none" href="/public/about.html" target="_parent">About</a>&nbsp;&nbsp;|
+&nbsp;<a style="font-family: Arial;font-size: 12px;text-decoration: none" href="/public/advertise.html" target="_parent">Advertise</a>&nbsp;&nbsp;|
+&nbsp;<a style="font-family: Arial;font-size: 12px;text-decoration: none" href="/public/terms.html" target="_parent">Terms</a>&nbsp;&nbsp;|
+&nbsp;<a style="font-family: Arial;font-size: 12px;text-decoration: none" href="/public/privacy.html" target="_parent">Privacy</a>&nbsp;&nbsp;|
+&nbsp;<a style="font-family: Arial;font-size: 12px;text-decoration: none" href="/public/contact.jsp" target="_parent">Contact</a>&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- end right table -->
+</td>
+</tr>
+</tbody></table>
+</div>
+<br>
+<br>
+
+
+
+
+</font></center></body></html>
