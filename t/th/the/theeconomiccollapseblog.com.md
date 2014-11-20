@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044121id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131143id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Site Terms
 
-> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don't want displayed on this site, please contact us using the contact form linked to at the top of the page and it will be deleted immediately.
+> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don’t want displayed on this site, please contact us using the contact form linked to at the top of the page and it will be deleted immediately.
 
 I. LINKS TO OTHER SITES
 
@@ -32,7 +32,7 @@ Under no circumstances does this website request or collect sensitive personally
 
 B. Non-Personally Identifiable Information
 
-When a consumer responds to or views an Internet advertisement served by this website (such as through third-party websites or email solicitation) or visits an advertiser’s web site, we send a cookie and/or gif file ("Cookies") to assign an anonymous, unique identifier to the end user’s Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. This website uses Cookies to obtain information about the preferences of consumers and the services they select; and also to optimize and personalize the Internet user’s experience. If the Internet user re-visits the advertiser’s site directly, This website is able to continue to track the user’s activities. Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user’s needs and interests. This website does not use Cookies or log files to collect end users’ names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. This website has relationships with other companies that we allow to place ads and links on our web pages. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+When a consumer responds to or views an Internet advertisement served by this website (such as through third-party websites or email solicitation) or visits an advertiser’s web site, we send a cookie and/or gif file (“Cookies”) to assign an anonymous, unique identifier to the end user’s Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. This website uses Cookies to obtain information about the preferences of consumers and the services they select; and also to optimize and personalize the Internet user’s experience. If the Internet user re-visits the advertiser’s site directly, This website is able to continue to track the user’s activities. Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user’s needs and interests. This website does not use Cookies or log files to collect end users’ names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. This website has relationships with other companies that we allow to place ads and links on our web pages. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
 Some of these other companies may use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user’s online choices and his or her personal identity. In some cases, this website receives and records partial email addresses of Internet users, only in circumstances where the user voluntarily provided its identity and contact information through the advertiser’s site or third-party marketer’s site. This partial email address does not enable this website to personally identify an Internet rser nor is it shared, sold, rented, or given away.
 
@@ -44,7 +44,7 @@ III. CONSUMER CHOICE AND ACCESS
 
 A. Opting Out.
 
-Some Cookies have an “opt-out” option. This process does not remove this website's Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. Some of this website’s Cookies do not have an “opt-out” option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier’s Web site for details on how to do this. This site does not maintain a process for an individual consumer to opt-out of this website’s Cookies.
+Some Cookies have an “opt-out” option. This process does not remove this website’s Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. Some of this website’s Cookies do not have an “opt-out” option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier’s Web site for details on how to do this. This site does not maintain a process for an individual consumer to opt-out of this website’s Cookies.
 
 B. Accessing Consumer Information.
 
@@ -76,25 +76,10 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 Updated 12/24/2009
 
-Banner Photo Credits....
+Banner Photo Credits….
 
-WallStreet Banner - From Dottorpeni on Flicker
+WallStreet Banner – From Dottorpeni on Flicker
 
 Storm Picture By Mrpbps on Flicker
 
 Glass Globe By From Some geekintn on Flicker
-
-Be Sociable, Share!
-
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy "Facebook")
-  * [](http://twitter.com/intent/tweet?text=Website%20Privacy%20Policy%20-%20http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy%20 "Twitter")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Website%20Privacy%20Policy&body=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&ui=2&tf=1&shva=1 "email")
-  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&notes=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Delicious")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&source=The+Economic+Collapse+Are+You+Prepared+For+The+Coming+Economic+Collapse+And+The+Next+Great+Depression%3F&summary=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "LinkedIn")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&bodytext=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Digg")
-  * [](http://reddit.com/submit?url=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy "Reddit")
-  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&t=Website%20Privacy%20Policy&s=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Tumblr")
-  *   * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Ftheeconomiccollapseblog.com%2Fwebsite-privacy-policy&title=Website%20Privacy%20Policy&annotation=Site%20Terms%20and%20Privacy%20Policy%0D%0A%0D%0ASite%20Terms%0D%0APictures%20and%20information%20on%20this%20blog%20are%20for%20commenting%20purposes%20only.%20We%20use%20images%20and%20information%20found%20on%20the%20web%20and%20consider%20to%20be%20in%20the%20public%20domain.%20We%20claim%20no%20ownership%20of%20them.%20We%20make%20no%20rep "Google Bookmarks")
-  * 
-
