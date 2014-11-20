@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muslimvideo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062541id_/http%3A//www.muslimvideo.com/tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muslimvideo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120142926id_/http%3A//www.muslimvideo.com/tv/privacy.php) for the most accurate reproduction.*
 
 # Muslim Video - upload Broadcast and share your free Islamic videos media - مسلم فيديو - الفيديو العربي -English and Arabic videos
 
