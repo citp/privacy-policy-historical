@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeclassifiedssites.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095649id_/http%3A//www.freeclassifiedssites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifiedssites.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055835id_/http%3A//www.freeclassifiedssites.com/privacy.php) for the most accurate reproduction.*
 
 # Free Classifieds Sites - Privacy Policy
 
