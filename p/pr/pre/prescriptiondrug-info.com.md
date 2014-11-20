@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234256id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110729id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - MedsChat - The People's Medicine Community
+# Privacy Policy - MedsChat
 
-Last Updated: 12 February 2014
+Last Updated: 18 November 2014
 
 Our site MedsChat.com ("MedsChat") operates an online community for our users to share their drug related questions and stories with one another. We are committed to safeguarding the privacy of our web site visitors; as such, this policy explains how we will treat your personal information.
 
@@ -15,9 +15,10 @@ The People's Medicine Community
 3835R E. Thousand Oaks Blvd. # 175  
 Westlake Village, CA 91362
 
- **Google+:** [http://gp.medschat.com](http://gp.medschat.com/)  
- **Facebook:** [http://fb.medschat.com](http://fb.medschat.com/)  
- **Twitter:** [http://tw.medschat.com](http://tw.medschat.com/)
+Google+: [https://gp.medschat.com](https://gp.medschat.com/)  
+Facebook: [https://fb.medschat.com](https://fb.medschat.com/)  
+Twitter: [https://tw.medschat.com](https://tw.medschat.com/)  
+LinkedIn: [https://in.medschat.com](https://in.medschat.com/)
 
 **Email:** Please use our [contact form](https://web.archive.org/contact.asp) to reach us via Email.
 
@@ -59,9 +60,12 @@ If your personally identifiable information changes, you may update or delete yo
 
 If you no longer desire our service, you may deactivate your information by contacting us directly via email or postal mail at the contact information listed above.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services send us a message us via our [contact form](https://web.archive.org/contact.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services send us a message us via our [contact form](https://web.archive.org/contact.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Cookies are minute pieces of information that Your browser stores on Your hard drive. Cookies help everyone in that they help to make navigation around the site more swift, and prevent you from having to enter certain information that You have already given us each time You visit the site. Cookies help us to see how visitors use us, and when. They help us to discover which parts of our site are popular and which are not. We use cookies to assist with our site development. Most browsers these days are set up to automatically accept cookies. By participating in our discussion threads, your name and email address are stored in tracking cookies so that you do not need to reenter them the next time you visit our site. If you reject cookies, you can still use our site, but your ability to use or access some areas may be limited.
+  
+
+
+Cookies are minute pieces of information that Your browser stores on Your hard drive. Cookies help everyone in that they help to make navigation around the site more swift, and prevent you from having to enter certain information that You have already given us each time You visit the site. Cookies help us to see how visitors use us, and when. They help us to discover which parts of our site are popular and which are not. We use cookies to assist with our site development. Most browsers these days are set up to automatically accept cookies. By using our online form to participate in discussion threads, send us a message, email yourself an rx discount card, or subscribe to our health newsletter, your email address (plus your name if it is collected) is stored in a tracking cookie so that you do not need to reenter it the next time you visit our site. If you select the option "I'm on a public or shared computer" before submitting the form, we will not store this information inside a cookie. If you wish to clear this previously stored information [click here](https://web.archive.org/privacy.asp?action=clear-email-cookie). If you reject cookies, you can still use our site, but your ability to use or access some areas may be limited.
 
 Our web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
@@ -79,7 +83,7 @@ We use third-party advertising companies to serve ads when you visit our web sit
 
 _Third Party Cookies._ In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on Your browser. The use of cookies by our affiliates is not covered by our privacy statement. We do not have access or control over these cookies.
 
-_Google Advertising Cookie._ Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables them to serve ads to you based on your visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+_Google Advertising Cookie._ Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables them to serve ads to you based on your visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 All rules, policies (including privacy policies) and operating procedures of Merchants will apply to You while on such sites. We are not responsible for information provided by You to Merchants. We and the Merchants are independent contractors and neither party has authority to make any representations or commitments on behalf of the other.
 
