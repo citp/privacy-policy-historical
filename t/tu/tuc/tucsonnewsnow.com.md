@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucsonnewsnow.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610065922id_/http%3A//www.tucsonnewsnow.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucsonnewsnow.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225930id_/http%3A//www.tucsonnewsnow.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - Tucson News Now
 
