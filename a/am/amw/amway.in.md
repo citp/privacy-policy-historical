@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061448id_/http%3A//www.amway.in/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170042id_/http%3A//www.amway.in/shop/content/pagebuilder.aspx/amway-support/privacy-policy) for the most accurate reproduction.*
 
-# Amway India : Privacy Policy
-
-**_PRIVACY POLICY_**
+# Privacy Policy
 
 The purpose of this Privacy Policy is to inform you about the type of information we may collect when you visit http://[www.amway.in](http://www.amway.in/), how we may use the information and the choices you have regarding our use of your information and your ability to correct the information or its use at any point.
 
-  ** _What Information We Collect and How We Use It ?  _**
+**_What Information We Collect and How We Use It ?_**
 
 Any information we collect on our Site generally falls into the following two categories: Personally Identifiable Information and Aggregate Information. 
 
-  ** _Personally Identifiable Information:_**
+**_Personally Identifiable Information:_**
 
 This refers to information that lets us know specifically who you are. In general, you can visit our Site without telling us who you are or revealing any Personally Identifiable Information. You may however, voluntarily provide Personally Identifiable Information (such as name, e-mail address, and country of origin) for us to contact you, including via e-mail, to respond to your comments or inquiries. In such event, we might maintain a record or your contact, including such Personally Identifiable Information, in a file specific to you. We use this information to provide better service incase you contact us again.
 
-  ** _Aggregate Information:_**
+**_Aggregate Information:_**
 
 This refers to information that does not by itself identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") or the Web site that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the Web), your operating system and browser type, and any search terms that you enter on our Site. Our Web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.  
 We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that, such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Policy. 
@@ -22,7 +20,7 @@ We may collect, compile, store, publish, promote, report, or otherwise disclose 
 **_Sharing Your Information_**
 
 Except as disclosed in this Privacy Policy, we do not sell, trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission. Any Personally Identifiable Information you provide to us will be stored in Amway India’s databases in India.   
-Where we engage third-party agents or contractors to perform services on our Site, we will require them to observe the intent of this Privacy Policy. From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect the rights, property, and safety of others and ourselves. Amway India Enterprises Pvt. Ltd.  or its related entities could merge with or be acquired by another business entity, or their respective assets could be acquired. Should such a merger or acquisition occur, you should expect that we would share some or all of your Personally Identifiable Information to companies serving you and other users of our Site.
+Where we engage third-party agents or contractors to perform services on our Site, we will require them to observe the intent of this Privacy Policy. From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect the rights, property, and safety of others and ourselves. Amway India Enterprises Pvt. Ltd. or its related entities could merge with or be acquired by another business entity, or their respective assets could be acquired. Should such a merger or acquisition occur, you should expect that we would share some or all of your Personally Identifiable Information to companies serving you and other users of our Site.
 
 **_Your Choices_**
 
@@ -64,4 +62,4 @@ By using our Site, you acknowledge acceptance of this Privacy Policy in effect a
 
 **_Contact Us_**
 
-If you have any concerns about Amway India Enterprises Pvt. Ltd.’s  use of your information or about this Privacy Policy, please send e-mail to [India_Privacy@amway.com](mailto:India_Privacy@amway.com), we will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
+If you have any concerns about Amway India Enterprises Pvt. Ltd.’s use of your information or about this Privacy Policy, please send e-mail to [India_Privacy@amway.com](mailto:India_Privacy@amway.com), we will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
