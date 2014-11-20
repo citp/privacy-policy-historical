@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073538id_/http%3A//www.schoolhouseelectric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111953id_/http%3A//www.schoolhouseelectric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ While Schoolhouse Electric & Supply Co. will work to maintain your security, no 
 
 ## THIRD-PARTY WEBSITES
 
-This Privacy Policy applies only to Schoolhouse Electric & Supply Co., and not to any
+This Privacy Policy applies only to Schoolhouse Electric & Supply Co., and not to any other company or website.
