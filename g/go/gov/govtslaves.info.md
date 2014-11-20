@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085655id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231606id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 **What information do we collect?**
 
