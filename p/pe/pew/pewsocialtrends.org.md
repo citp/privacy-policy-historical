@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206145247id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120128id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
 Pew Research Center shares your concerns about maintaining the integrity and privacy of personal information collected on the internet. Pew Research Center is committed to protecting your privacy, and this privacy policy (“Policy”) is intended to explain our information collection and dissemination practices in connection with Pew Research Center family of websites located at [www.pewresearch.org](http://www.pewresearch.org/) (the “Sites”). Please review the entire Policy and feel free to contact us at [info@pewresearch.org](mailto:info@pewresearch.org) if you have any questions. Also, please read our Terms & Conditions for accessing the Sites and using the content.
 
-_By using the Sites, you consent to the collection, use, and disclosure of information in accordance with the terms of this Policy. This Policy was last updated on December 13, 2012 Any information you submitted prior to December 17, 2012 will be governed by the terms of the previous privacy policy. A link to the previous privacy policy can be found[here](http://cms.pewresearch.org/pewresearch/privacy-policy-2011/). This updated Policy is effective as of December 17, 2012. Your continued use of the Sites after December 17, 2012 is deemed to constitute your consent to the updated Policy._
+_By using the Sites, you consent to the collection, use, and disclosure of information in accordance with the terms of this Policy. This Policy was last updated on December 13, 2012 Any information you submitted prior to December 17, 2012 will be governed by the terms of the previous privacy policy. A link to the previous privacy policy can be found[here](http://www.pewresearch.org/privacy-policy-2011/). This updated Policy is effective as of December 17, 2012. Your continued use of the Sites after December 17, 2012 is deemed to constitute your consent to the updated Policy._
 
 _In addition, Pew Research Center reserves the right to update this Policy at any time. If we change our Policy, we will provide notice of the change on this page or send you an email so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it. Use of the Sites after the effective date of any additional modifications of this Policy is deemed to constitute your consent to this Policy as further amended._
 
@@ -14,7 +14,7 @@ In order to monitor the Sites’ performance, provide you with a better experien
 
   * [Google Analytics’ Privacy Policy](http://www.google.com/analytics/learn/privacy.html)
   * [Crazy Egg Privacy Policy](http://www.crazyegg.com/privacy)
-  * [Chartbeat Privacy Policy](http://chartbeat.com/privacy/)
+  * [Chartbeat Privacy Policy](https://chartbeat.com/privacy/)
 
 
 
