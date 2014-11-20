@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508163038id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132647id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Student Job Search
 
@@ -28,7 +28,7 @@ The personal information we collect will be used to provide services you have au
 
 **a)** verify your identity and assist you in case you forget your password or login details
 
-**b)** enable us to offer an effective employmentjob  service and assist you in obtaining employment / employee referrals 
+**b)** enable us to offer an effective employment job service and assist you in obtaining employment / employee referrals 
 
 **c)** respond to any questions or correspondence from you;
 
