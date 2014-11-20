@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521034923id_/http%3A//static.wusa9.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120091820id_/http%3A//static.wusa9.com/privacy-notice) for the most accurate reproduction.*
 
 # WUSA9 - Privacy Notice | WUSA 9
 
