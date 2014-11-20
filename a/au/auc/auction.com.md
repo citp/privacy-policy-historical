@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030949id_/http%3A//www.auction.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212616id_/http%3A//www.auction.com/lp/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Auction.com
+# Privacy Statement
 
 ### Contents
 
@@ -21,11 +21,11 @@
 
 
 
-_Updated May 24, 2013_
+_Updated Jun 13, 2014_
 
 #### 1\. Scope of Privacy Statement
 
-This Privacy Statement describes how Auction.com, LLC and its affiliates (“we,” “us,” “our,” or the “Company”) handle your personal information when you use the Company’s websites (including [www.auction.com](http://www.auction.com/), [www.sold.com](http://www.sold.com/), or any other website where this Statement is posted), tools, applications (including mobile applications), and other services (“Services”). By using the Services, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Statement.
+This Privacy Statement describes how Auction.com, LLC and its affiliates (“we,” “us,” “our,” or the “Company”) handle your personal information when you use the Company’s websites (including [www.auction.com](http://www.auction.com/) or any other website where this Statement is posted), tools, applications (including mobile applications), and other services (“Services”). By using the Services, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Statement.
 
 #### 2\. Commitment to Privacy
 
