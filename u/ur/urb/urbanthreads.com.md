@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214104222id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094907id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Threads: Unique and Awesome Embroidery Designs
 
@@ -8,11 +8,11 @@ Urban Threads Privacy Policy
 
 **TRUSTe**
 
-**Urban Threads** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site [http://www.UrbanThreads.com](http://www.urbanthreads.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+**Urban Threads** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-programs-requirements) including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site [http://www.UrbanThreads.com](http://www.urbanthreads.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information collected through this web site, http://www.urbanthreads.com. 
 
 If you have questions or concerns regarding this statement, you should first contact us at [support@UrbanThreads.com](mailto:support@UrbanThreads.com) (or use the online [Contact Urban Threads](http://www.urbanthreads.com/contactus.aspx) form at [www.UrbanThreads.com](http://www.urbanthreads.com/)). 
 
-If you do not receive a satisfactory response to your inquiry or your inquiry has not been satisfactorily addressed, you can contact [ TRUSTe ](http://watchdog.truste.com/pvr.php?page=complaint). 
+If you do not receive a satisfactory response to your inquiry or your inquiry has not been satisfactorily addressed, you can contact [ TRUSTe ](https://feedback-form.truste.com/watchdog/request). 
 
 **Registration**
 
@@ -34,7 +34,8 @@ If your Web browser is set to not accept cookies, you may still browse through t
 
 **Third-Party Cookies**
 
-A session cookie from [GoDaddy.com](http://wwwl.godaddy.com/) (the issuer of **Urban Threads** ' security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying **Urban Threads** ' validation page when shoppers click on the seal. 
+A session cookie from [GoDaddy.com](http://wwwl.godaddy.com/) (the issuer of **Urban Threads** ' security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying **Urban Threads** ' validation page when shoppers click on the seal.   
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
 
 **IP Address**
 
@@ -67,7 +68,8 @@ All shoppers can choose not to receive weekly updates by filling out the [ Conta
 
 We use a secure third party to process credit cards. No credit card information is stored for any other use other than processing the transaction. 
 
-If a shopper wishes to purchase a gift certificate for someone else, we'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code. 
+If a shopper wishes to purchase a gift certificate for someone else, we'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code. Urban Threads stores this information for the purpose of sending this one-time email and maintaining the gift certificate information assigned to the the recipient.   
+Your friend may contact us at support@UrbanThreads.com to request that we remove this information from our database. 
 
 **Links**
 
@@ -114,4 +116,4 @@ If Urban Threads is involved in a merger, acquisition, or sale of all or a porti
 
 **Effective and Revision Date**
 
-This privacy policy was last updated on April 24, 2013. 
+This privacy policy was last updated on June 6, 2014. 
