@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610000624id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3FnType%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110638id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3FnType%3D3) for the most accurate reproduction.*
 
 # Privacy Policy - Perricone MD
 
@@ -6,7 +6,7 @@
   
 ## Privacy & Security
 
-Perricone MD ("we" or "us") is the sole owner of the information collected on this website. We collect personally identifiable information from our users at several different points on our site to process your order and fulfill your customer service needs. 
+Perricone MD ("we" or "us") is the sole owner of all information collected on this website. We collect personally identifiable information from our users at several different points on our site to process your order and fulfill your customer service needs. 
 
 We are committed to respecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. We will not sell or disclose any information that identifies you to a third party if requested. In addition, when you place an order with Perricone MD your personal information and credit card information are safe. Please read on for more details about our privacy policy.
 
