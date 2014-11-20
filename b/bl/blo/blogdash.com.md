@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210646id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdash.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122945id_/http%3A//www.blogdash.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Outreach Program - Hire and Find Bloggers with BlogDash
 
-Last updated: January 2012 ** **
+﻿
 
-At Blogdash, we understand the importance of protecting personal information of users and viewers. We have designed our policy to meet the requirements of the _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”) and abide by the following Ten Privacy Principles.
+### BlogDash Privacy Policy
+
+At Blogdash, we understand the importance of protecting personal information of users and viewers. We have designed our policy to meet the requirements of the _Personal Information Protection and Electronic Documents Act_ ("PIPEDA") and abide by the following Ten Privacy Principles.
 
 If you have questions or complaints regarding our privacy policy or practices, you should first contact by e-mail or mail as follows:
 
@@ -20,11 +22,11 @@ Blogdash has appointed a Privacy Officer who is responsible for ensuring complia
 
 **Identifying Purposes of Collection**
 
-Whenever you use the website http://www.blogdash.com (the “Site”) or any of the services available on this Site (the “Services”), you are required to provide certain information in order to open and complete your account. This may include traditional and Internet contact information (such as address, phone and fax numbers, email address), information about the computer system (such as web browser type, IP address and operating system), navigation information (such as the number of web pages visited), non-financial identification information (such as user name and password) and financial information in order to complete the process of your use or purchase of services (such as credit card number and expiry date), if applicable.
+Whenever you use the website http://www.blogdash.com (the "Site") or any of the services available on this Site (the "Services"), you are required to provide certain information in order to open and complete your account. This may include traditional and Internet contact information (such as address, phone and fax numbers, email address), information about the computer system (such as web browser type, IP address and operating system), navigation information (such as the number of web pages visited), non-financial identification information (such as user name and password) and financial information in order to complete the process of your use or purchase of services (such as credit card number and expiry date), if applicable.
 
-Compiling the above information is required in order to identify you or helps Blogdash to better understand site usage patterns and which types of content are of greatest interest to the users or viewers of the Site. In addition, it allows Blogdash to notify users and viewers of updates to the Site and to contact them for their account or for Blogdash’s services.
+Compiling the above information is required in order to identify you or helps Blogdash to better understand site usage patterns and which types of content are of greatest interest to the users or viewers of the Site. In addition, it allows Blogdash to notify users and viewers of updates to the Site and to contact them for their account or for Blogdash's services.
 
-Further reference to “purposes” means the purposes identified hereinafter in this section.
+Further reference to "purposes" means the purposes identified hereinafter in this section.
 
 **Consent**
 
@@ -34,7 +36,7 @@ Using the Site is always voluntary. When you use the Site, the fact of your doin
 
 Blogdash will limit the collection of personal information to that which is necessary to fulfill the purposes for which it was collected and will collect personal information by fair and lawful means.
 
-Blogdash is responsible for personal information in its possession or control and will use contractual or other means to provide a comparable level of protection whenever a third party agent is used to complete some or all the stages of processing necessary information in order to provide you the services. Third party agents may contact users or viewers directly on Blogdash’s behalf to conduct research or surveys. Research and survey data is reported back to Blogdash as aggregated data with no reference to individual users or viewers.  These third parties may not use any personally identifiable information for their own marketing purposes.
+Blogdash is responsible for personal information in its possession or control and will use contractual or other means to provide a comparable level of protection whenever a third party agent is used to complete some or all the stages of processing necessary information in order to provide you the services. Third party agents may contact users or viewers directly on Blogdash's behalf to conduct research or surveys. Research and survey data is reported back to Blogdash as aggregated data with no reference to individual users or viewers.  These third parties may not use any personally identifiable information for their own marketing purposes.
 
 Users and viewers who do not wish to be contacted for research or survey purposes should advise Blogdash in writing.
 
@@ -44,7 +46,7 @@ Blogdash will not use or disclose personal information for purposes other than t
 
 Without limiting the generality of the foregoing, Blogdash may disclose personal information to a third party engaged by Blogdash to perform the services on its behalf, in part or in whole; a public authority or its agent  if, in the reasonable judgment of Blogdash, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; a third party, where you consent to such disclosure or when disclosure is required or permitted by applicable law.
 
-Blogdash’s employees (or Blogdash’s affiliates’ employees) with a business need-to-know, or whose duties reasonably so require, are granted access to personal information.
+Blogdash's employees (or Blogdash's affiliates' employees) with a business need-to-know, or whose duties reasonably so require, are granted access to personal information.
 
 Personal information will be retained for as long as necessary for the fulfillment of those purposes or as required or otherwise permitted by applicable law.
 
@@ -91,7 +93,7 @@ This Privacy Policy covers the use of cookies by Blogdash only and does not cove
 
 **Flash LSOs**
 
-We may use local shared objects (“Flash cookies”) to store your preferences or display content based upon what you view on the Site.  Third Parties, with whom we partner to provide certain features on the Site or to display advertising based upon your Web browsing activity, may also use Flash cookies to collect and store information.
+We may use local shared objects ("Flash cookies") to store your preferences or display content based upon what you view on the Site.  Third Parties, with whom we partner to provide certain features on the Site or to display advertising based upon your Web browsing activity, may also use Flash cookies to collect and store information.
 
 Cookie management tools provided by your browser will not remove Flash cookies. 
 
@@ -101,4 +103,7 @@ Blogdash may use Conversion Beacons (small, simple snippet of HTML code) inserte
 
 **Changes to the Privacy Policy**
 
-Blogdash reserves the right to modify this Privacy Policy at any time, without prior notice, by posting the amended Privacy Policy on the Site, so please review it frequently
+Blogdash reserves the right to modify this Privacy Policy at any time, without prior notice, by posting the amended Privacy Policy on the Site, so please review it frequently.
+
+  
+
