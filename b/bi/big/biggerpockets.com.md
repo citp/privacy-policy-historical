@@ -1,70 +1,149 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014143717id_/http%3A//www.biggerpockets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112357id_/http%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
-# BiggerPockets Real Estate Investment Community Privacy Policy
+# BiggerPockets Privacy Policy
 
-## Our Commitment to Your Privacy
+* * *
 
-This policy is intended to help you understand how BiggerPockets, Inc., its subsidiaries and affiliates ("BiggerPockets.com," "BP," "we," or "us") collect, use and safeguard the information you provide on our website. 
+_Effective Date: November 24, 2013_
 
-BiggerPockets.com has become a valuable tool for millions of visitors to help educate themselves and others about real estate and real estate investing. Our social networking function, forums, and other features, are designed to further facilitate that by allowing members to share personal information, insights, and comments. We also have tools that are designed to help our members grow and manage their businesses. 
+BiggerPockets, Inc. (“BiggerPockets,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes our commitment to privacy and reflects the importance we place on earning and keeping your trust. 
 
-BiggerPockets is well aware that privacy concerns are--or should be--of paramount importance to our members; they are to us. So, this is where we tell you what we at BiggerPockets will and won't be doing with the personal information on the site; and, where we tell you the rules we expect our members to adhere to. Nothing weird or harsh; pretty much common sense. So, here goes: 
+### Scope of This Policy
 
-### Privacy Policy
+BiggerPockets collects certain information about or related to you through this Site. Some of the information BiggerPockets collects may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as your IP address. 
 
-  * We don't ask you for personal information unless we need it, or unless it will help with your BiggerPockets experience. 
-  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights. 
+BiggerPockets has provided this Policy so that you will know what information BiggerPockets collects, how BiggerPockets uses this information, the types of third parties with which BiggerPockets may share this information, and some of the choices that are available to you. 
 
-Below is our privacy policy which incorporates these goals: 
+This Policy may be supplemented or amended from time to time by additional privacy notices (“Privacy Notices”), provided at the time we collect your information. For example, certain pages of this Site may contain Privacy Notices providing more details about the information we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information. In other cases, specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business. 
 
-If you have questions about removing or correcting your personal data please contact our support team (see below). 
+### Your Consent
 
-It is BiggerPockets's policy to respect your privacy regarding any information we may collect while operating our websites. 
+By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at legal@biggerpockets.com. 
 
-### Website Visitors
+### Our Terms of Use
 
-Like most website operators, BiggerPockets collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BiggerPockets's purpose in collecting non-personally identifying information is to better understand how BiggerPockets's visitors use its website. From time to time, BiggerPockets may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+This Policy is part of the [Terms of Use](http://www.biggerpockets.com/terms) that govern your use of this Site. A link to our [Terms of Use](http://www.biggerpockets.com/terms) is provided at the bottom of each page of this Site. 
 
-BiggerPockets also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on BiggerPockets.com blogs. BiggerPockets only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses are visible and disclosed to the administrators of the area of the site where the comment was left. 
+### Your Choices
 
-### Gathering of Personally-Identifying Information
+_In General._ We respect your right to make choices about the ways we collect, use, and disclose your information. This Policy describes some of your choices, such as your choice to opt out of receiving “cookies” and to opt out of having your information shared with third parties for their own marketing purposes. In addition, and as required by applicable law, you can opt out of receiving promotional emails from us by clicking on the “unsubscribe” link at the bottom of each promotional email. 
 
-Certain visitors to the BiggerPockets's website choose to interact with BiggerPockets in ways that require BiggerPockets to gather personally-identifying information. The amount and type of information that BiggerPockets gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at BiggerPockets.com to provide a username and email address, as well as their real names and other identifying information. Those who engage in transactions with BiggerPockets - by purchasing access to the BiggerPockets PRO service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BiggerPockets collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with BiggerPockets. BiggerPockets does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+We may ask you to indicate your choices at the time and on the page where you provide your information. In other situations, and consistent with this Site’s purpose as a networking platform, we make certain assumptions about how you want your information shared with others. However, you can view and change certain default privacy settings at https://www.biggerpockets.com/settings. Otherwise, you can contact us at webmaster@biggerpockets.com. 
 
-### Aggregated Statistics
+_Do Not Track Mechanisms_  
+California law requires this policy to address how the Service responds to any “Do-Not-Track (“DNT”) signal” delivered by your browser. Because of the changing state of technology and indecision within the industry regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
 
-BiggerPockets may collect statistics about the behavior of visitors to its websites. For instance, BiggerPockets may monitor the most popular blogs on the BiggerPockets.com site or track member site activities via various leaderboards. BiggerPockets may display this information publicly or provide it to others. However, BiggerPockets does not disclose personally-identifying information other than as described below. 
+### This Policy May Change
 
-### Protection of Certain Personally-Identifying Information
+BiggerPockets reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the information we collect after we have posted the revised Policy or Privacy Notice on this Site. 
 
-BiggerPockets discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on BiggerPockets's behalf or to provide services available at BiggerPockets's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using BiggerPockets's websites, you consent to the transfer of such information to them. BiggerPockets will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, BiggerPockets discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when BiggerPockets believes in good faith that disclosure is reasonably necessary to protect the property or rights of BiggerPockets, third parties or the public at large. If you are a registered user of an BiggerPockets website and have supplied your email address, BiggerPockets may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with BiggerPockets and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. BiggerPockets takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy is posted will be subject to the terms of the revised Policy. You may access the current version of this Policy at any time by clicking on the link marked “Privacy” at the bottom of each page of the public areas of this Site. 
 
-_Word of warning:_ If you post private information to any public forum, property listing, blog, public profile, or other public area of the site, all that information can be gotten by the public. You agree that BiggerPockets shall not be responsible for the public's sharing of this information once you make it public via these or other methods. 
+### Information We Collect
 
-### Cookies
+_Information You Manually Provide._ BiggerPockets collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site. For example, we collect the information you provide when you contact us with questions, express interest in advertising on the Site, register with the Site and create a profile, participate in a forum discussion, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information. 
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. BiggerPockets uses cookies to help BiggerPockets identify and track visitors, their usage of BiggerPockets website, and their website access preferences. BiggerPockets visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using BiggerPockets's websites, with the drawback that certain features of BiggerPockets's websites may not function properly without the aid of cookies. 
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
 
-### Business Transfers
+_Information from your browser or device._ BiggerPockets collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings. 
 
-If BiggerPockets, or substantially all of its assets were acquired, or in the unlikely event that BiggerPockets goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of BiggerPockets may continue to use your personal information as set forth in this policy. 
+The information we receive from your web browser and device is not, in and of itself, personally identifiable. Generally, we use this information in the aggregate to help us improve this Site and make it more compatible with the technology used by our visitors. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you. We may also review our server logs for security purposes—for example, to detect intrusions into our network—and we might share our server logs, which contain visitors’ IP addresses, with the appropriate investigative authorities who could use that information to trace and identify you. 
 
-### Ads
+_Your Location._ Using GPS technology, and with your opt-in consent, we may also collect precise, real-time location information from your mobile device and use that information to deliver tailored content through this Site. We may also share information about your location with your friends and other contacts, to the extent you interact with them using the social networking tools available on this Site. 
+
+Your mobile device may allow you to adjust your settings so that location information is not?available to any mobile website or application. If you have questions about the security and privacy settings of your mobile or tablet device, please refer to instructions from your mobile service provider or the manufacturer of your device. 
+
+The information we receive from your mobile device is not personally identifiable, but we may link it to information that identifies you. 
+
+_Information Collected by Cookies and Other Technologies._ We use “cookies” and other technologies to collect information and support certain features of this Site. For example, we may use these technologies to: 
+
+  * \- collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page; 
+  * \- support the features and functionality of this Site—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits; 
+  * \- personalize your experience when you use this Site; and
+  * \- improve our marketing efforts, including through use of targeted advertising.
+
+
+
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies. 
+
+### Information About Third-Party Cookies
+
+In addition to the cookies BiggerPockets delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics [confirm], a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html). 
+
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites. 
+
+You have choices about the collection of information by third parties on our Sites. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here](http://tools.google.com/dlpage/gaoptout?hl=en). Please note that the Add-on does not prevent information from being sent to BiggerPockets. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). This Privacy Policy covers the use of cookies by BiggerPockets and does not cover the use of cookies by any advertisers. 
 
-### Links
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here](http://www.aboutads.info/choices). You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies. 
 
-BiggerPockets, of course, has links to other sites. In fairness...and as a matter of law, we can't be responsible for the privacy policies or content of those other sites. That means, if privacy is a concern for you, and it should be, you should read the other site's privacy policy to make sure you are comfortable with it. What you are reading here and now, only applies to BiggerPockets. 
+### How We Use Your Information
 
-### Privacy Policy Changes
+\- to provide the information, products and services you request;  
+\- to provide you with effective customer service;  
+\- to provide you with a personalized experience when you use this Site;  
+\- to contact you with information and notices related to your use of this Site;  
+\- to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);  
+\- to invite you to participate in surveys and provide Feedback to us (in accordance with any privacy preferences you have expressed to us);  
+\- to improve the content, functionality and usability of this Site;  
+\- to better understand your needs and interests;  
+\- to improve our products and services;  
+\- to improve our marketing and promotional efforts;  
+\- to keep the Site free by selling advertisements;  
+\- for security, credit or fraud prevention purposes; and  
+\- for any other purpose identified in an applicable Privacy Notice, click-through agreement or other agreement between you and us. 
 
-Although most changes are likely to be minor, BiggerPockets may change its Privacy Policy from time to time, and in BiggerPockets's sole discretion. BiggerPockets encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+### How We Share Your Information
 
-Any questions? No problem. Feel free to contact us at: 
+_With Third–Party Vendors._ BiggerPockets shares information collected through this Site with third-party vendors who act for us or on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their functions. 
 
-BiggerPockets, Inc.  
-webmaster@biggerpockets.com  
-877-831-4704 
+_With Other Users of this Site._ One of this Site’s goals is to provide tools and resources to enhance real estate knowledge, networking, dealmaking, and marketing. Thus, User-Generated Content you post on this Site can be read, collected, and used by others. (In this Policy, “User-Generated Content” or “UGC” refers to your publicly available profile information and all content that you post using the social networking tools we make available to you. UGC does not include “Feedback” (as that term is defined in our [Terms of Use](http://www.biggerpockets.com/terms).) In addition, we may feature you and your activity on this Site on our “stats” page at http://www.biggerpockets.com/stats or on our newsletter or via other automated emails to our members. We may also use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. _You should have no expectation of privacy with respect to UGC you submit on or through this Site._
 
-_Updated 6/7/11_
+_With Third-Party Social Media Platforms._ We may provide functionality on this Site that allows you to automatically post information about the actions you take on this Site to a third-party social media platform (such as Facebook or Twitter). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform may be able to see the actions you have taken—for example, the items you have purchased. Thus, you should have no expectation of privacy in those actions. Further, if you choose to link your profile on this Site with an account on a third-party social media platform, we may share the information in your profile with that third-party platform. 
+
+_With Our Affiliates._ BiggerPockets may share the information collected through this Site with other BiggerPockets entities, such as BiggerPockets Publishing, LLC. These affiliate companies are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Policy. 
+
+_With Other, Carefully Selected Business Partners._ From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. 
+
+_In Aggregate or De-identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so they can better understand our user base. We may also share with third parties information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively. We may provide basic demographic information (gender and age) in conjunction with providing Individualized Data. Third parties typically use this information for analytical purposes and to market their own products and services. It is possible that third parties will attempt to “re-identify” de-identified data, and you should know that this is possible using external points of reference. 
+
+_As Part of a Business Transfer._ Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us. 
+
+_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](http://www.biggerpockets.com/terms) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others. 
+
+_As Described in a Privacy Notice or click-through agreement._ We reserve the right to disclose your information as described in any Privacy Notice posted on a page of this Site where you provide that information. By providing your information on that page you will be consenting to the disclosure of your information as described in that privacy notice. We also reserve the right to disclose your information as described in any click–through agreement to which you have agreed. 
+
+### How We Protect Your Information
+
+BiggerPockets takes reasonable precautions to provide a level of security appropriate to the sensitivity of the information we collect. Although we use reasonable measures to help protect your information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control. 
+
+### A Note About Children’s Privacy
+
+You must be at least 13 years old to have our permission to use this Site. We do not knowingly collect, use or disclose personal information about visitors under 13 years of age. If you are under the age of 13, you can use this service only in conjunction with your parent’s or guardian’s permission. 
+
+### Links to Other Websites
+
+This Policy applies only to this Site. If you visit another BiggerPockets website, please take a moment to review the privacy policy posted on that site to learn what information may be collected through that site and how it is processed. 
+
+This Site may also contain links to websites that are not operated by BiggerPockets or its affiliates. These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. BiggerPockets does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information. 
+
+### Access to Your Information 
+
+If you would like to review, correct and update the personal information you have provided to us through this Site, you may be able to do so at https://www.biggerpockets.com/profile/basics. Otherwise, please contact us by email at webmaster@biggerpockets.com. We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law. 
+
+### Retention of Personal Information
+
+BiggerPockets retains the personal information collected on this Site as long as necessary to provide the services, products and information you request or as permitted by applicable law. 
+
+### This Site Is Hosted on Servers Located in the United States
+
+BiggerPockets is a U.S. corporation. The servers that support this Site are located in the United States. While it is in our possession, your information will generally be stored in BiggerPockets databases or databases maintained by our third-party service providers on servers and data storage devices located in the United States. U.S. data protection laws may not provide as much protection as the data protection laws in force in some other countries, however, we will process your information in accordance with this Policy no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your information to the United States. 
+
+### Governing Law
+
+This Policy shall be governed under the laws of the State of Colorado United States of America without regard to its conflicts of law provisions. 
+
+### Questions About This Policy or BiggerPockets’s Data Practices
+
+If you have questions or concerns about this Policy, any Privacy Notice, or BiggerPockets’s data practices, please contact us by email at legal@biggerpockets.com. 
