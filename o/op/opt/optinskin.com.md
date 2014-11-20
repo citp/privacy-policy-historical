@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optinskin.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062725id_/http%3A//optinskin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinskin.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010116id_/http%3A//optinskin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
-This Privacy Policy governs the manner in which OptinSkin collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://optinskin.com](http://optinskin.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by OptinSkin.
+This Privacy Policy governs the manner in which OptinSkin collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://optinskin.com](http://optinskin.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by OptinSkin.
 
 **Personal identification information**
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
