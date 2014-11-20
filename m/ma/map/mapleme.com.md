@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107174721id_/http%3A//www.mapleme.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060902id_/http%3A//www.mapleme.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mapleme.com
 
@@ -26,7 +26,7 @@ Notwithstanding anything to the contrary herein, MapleMe.com shall, pursuant to 
 **USER'S ACCEPTANCE OF THIS POLICY**
 
 By visiting the MapleMe.com, you signify your assent to the terms and conditions, mentioned in the privacy policy of the website. If you do not agree with the terms of this privacy policy, please do not use the website. We reserve the right, at our sole discretion, to change, modify, add, or remove portions from this privacy policy at any time, with or without a prior notice. Your continued use of the website, following the posting of changes to these terms means you accept these changes.   
-If you have any questions or comments regarding the privacy issues of the MapleMe.com, please drop a line to the following mailbox: contact@MapleMe.com.
+If you have any questions or comments regarding the privacy issues of the MapleMe.com, please drop a line to the following mailbox: contact@MapleMe.com. 
 
 **BREACH of SECURITY**
 
