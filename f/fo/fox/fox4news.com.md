@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox4news.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044941id_/http%3A//www.myfoxdfw.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox4news.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065440id_/http%3A//www.myfoxdfw.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Dallas News | myFOXdfw.com
 
