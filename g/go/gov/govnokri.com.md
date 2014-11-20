@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071405id_/http%3A//govnokri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170929id_/http%3A//govnokri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To send periodic E-Mails
+â€“ To send periodic E-Mails
 
 The E-mail address you provide may be used to send you information, respond to inquiries, and/ or other requests or questions.
 
