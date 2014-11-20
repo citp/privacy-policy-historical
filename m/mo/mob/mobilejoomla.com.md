@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilejoomla.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221062916id_/http%3A//www.mobilejoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilejoomla.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055555id_/http%3A//www.mobilejoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
