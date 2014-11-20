@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the letsbuymobile.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020938id_/http%3A//www.letsbuymobile.com/privac.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsbuymobile.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231522id_/http%3A//www.letsbuymobile.com/privac.html) for the most accurate reproduction.*
 
-# Letsbuy-Mobile.Com
+# LetsBuyMobile.Com | Privacy Policy
 
-100% Original Products                                                                                       90% Loan Available                                                                                                                  Processing Fee 
+100% Original Products                                                                                       90% Loan Available                                                                                      Low  Processing Fee 
+
+[](https://web.archive.org/web/20141120231522id_/http%3A//www.letsbuymobile.com/index.php)
 
 ## Privacy Policy 
 
