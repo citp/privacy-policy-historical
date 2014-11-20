@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideria.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524160534id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideria.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094705id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We use the personal information you provide voluntarily to send information you'
 
 
 
-We share customer information only with affiliated companies and as described below:
+We share customer information only with affiliated companies such as our subsidiary [Safari Books Online, LLC](https://www.safaribooksonline.com/), and as described below:
 
   * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
   * We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly Media, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
@@ -66,7 +66,7 @@ The ads appearing on this Web site are delivered to you by TechVertical.com, our
 
 ### Notification of Changes
 
-This privacy policy was put in effect on October 1, 2002.
+This privacy policy was put in effect on October 1, 2002 and was updated on September 15, 2014.
 
 If we change our Privacy Policy, we will post those changes on oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
