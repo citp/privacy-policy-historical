@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsearch.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143050id_/http%3A//www.sweetsearch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsearch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174535id_/http%3A//www.sweetsearch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
