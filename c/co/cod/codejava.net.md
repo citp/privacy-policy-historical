@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105734id_/http%3A//codejava.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110626id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
 
 # CodeJava.net’s Privacy Policy
 
@@ -56,6 +56,6 @@ Deleting cookies does not mean that you are permanently opted out of any adverti
 
  **CodeJava** reserves the exclusive right to modify and update this Privacy Policy at any time without prior notice. We will review and update this Privacy Policy periodically. Therefore, we encourage you to review this Privacy Policy frequently to be informed of how CodeJava.net is collecting, using, retaining, protecting, disclosing, and transferring your information.
 
-If there are any questions, please contact us using the form [here](http://codejava.net/contactus), or send us your e-mail to: [webmaster@codejava.net](mailto:%3Ca%20href=).
+If there are any questions, please contact us using the form [here](http://www.codejava.net/contactus), or send us your e-mail to: [webmaster@codejava.net](mailto:%3Ca%20href=).
 
 This Privacy Policy was last updated on October 15, 2013.
