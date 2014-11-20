@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wxyz.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630160709id_/http%3A//www.wxyz.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wxyz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111722id_/http%3A//www.wxyz.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WXYZ.com
 
@@ -22,9 +22,9 @@ Our Website typically collects two kinds of information about you: (a) informati
 
  **B.         HOW WE USE & SHARE THE INFORMATION COLLECTED**
 
- **(1)   Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies ("affiliated companies"), or to
+ **(1)   Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information
 
-communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. 
+to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies ("affiliated companies"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. 
 
 In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval. 
 
@@ -38,11 +38,11 @@ Examples of the information we collect and analyze in this manner include the In
 
 If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs.   [CLICK HERE](http://www.aboutads.info/consumers) for more information on cookies and browser controls.  Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
 
- **(2)  ** Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please [CLICK HERE](http://www.aboutads.info/consumers) .  If you do not wish to participate in this activity, please  [CLICK HERE](http://www.aboutads.info/choices) and follow the simple opt-out process.
+ **(2)  ** Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please [CLICK HERE](http://www.aboutads.info/consumers) .  If you do not wish to participate in this activity, please  [CLICK HERE](http://www.aboutads.info/choices) and follow the
 
-A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given
+simple opt-out process.
 
-advertising network does not collect information about you (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
+A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
  **D.         OTHER USES & INFORMATION**
 
@@ -58,9 +58,9 @@ advertising network does not collect information about you (“Opt-out Cookies�
 
  **E.         PUBLIC FORUMS**
 
-We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public
+We may offer chat rooms, blogs, message boards, bulletin boards, or similar public
 
-forums.  We may use personally identifiable and Non-PII about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and Non-PII about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
  **F.          CHILDREN**
 
