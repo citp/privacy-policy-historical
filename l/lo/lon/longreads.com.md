@@ -1,59 +1,67 @@
-> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630211957id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longreads.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000901id_/http%3A//blog.longreads.com/privacy-policy) for the most accurate reproduction.*
 
-# Twitter / Twitter Privacy Policy
+# Privacy Policy | Longreads Blog
 
-This Privacy Policy describes Twitter's policies and procedures on the collection, use and disclosure of your information. Twitter receives your information through our various web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Twitter in the United States or any other country where Twitter operates.
+Your privacy is critically important to us. Longreads is part of Automattic, where we have a few fundamental principles:
 
-If you have any questions or comments about this Privacy Policy, please contact us at [privacy@twitter.com](mailto:privacy@twitter.com).
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-### Information Collection and Use
 
-Tip We collect and use your information to provide our Services and improve them over time. 
 
-**Information Collected Upon Registration:** When you create or reconfigure a Twitter account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
+Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
-**Additional Information:** You may provide us with additional information to make public, such as a short biography, your location, or a picture. You may customize your account with information such as a cell phone number for the delivery of SMS messages or your address book so that we can help you find Twitter users you know. We may use your contact information to send you information about our Services or to market to you. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
+If you have questions about deleting or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
-**Tweets, Following, Lists and other Public Information:** Our Services are primarily designed to help you share information with the world. Most of the information you provide to us is information you are asking us to make public. This includes not only the messages you Tweet and the metadata provided with Tweets, such as when you Tweeted, but also the lists you create, the people you follow, the Tweets you mark as favorites or Retweet and many other bits of information. Our default is almost always to make the information you provide public but we generally give you [settings](http://twitter.com/account/settings) to make the information more private if you want. Your public information is broadly and instantly disseminated. For example, your public Tweets are searchable by many search engines and are immediately delivered via SMS and our [APIs](http://apiwiki.twitter.com/FAQ) to a wide range of users and services. You should be careful about all information that will be made public by Twitter, not just your Tweets.
+Automattic Inc. (“ **Automattic** ”) operates several websites including [longreads.com](http://longreads.com/), [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/),[intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Tip What you say on Twitter may be viewed all around the world instantly. 
+## Website Visitors
 
-**Location Information:** You may choose to note your location in your Tweets and in your Twitter profile. If you turn on Tweeting with your location, we may also save exact coordinates to help improve our service. You can control your location information settings in your [account settings](http://twitter.com/settings/account).
+Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-**Log Data:** Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-**Links:** Twitter may keep track of how you interact with links in Tweets by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+## Gathering of Personally-Identifying Information
 
-**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [WordPress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Third Party Services:** Twitter uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+## Aggregated Statistics
 
-### Information Sharing and Disclosure
+Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
 
-Tip We do not disclose your private information except in the limited circumstances described here. 
+## Protection of Certain Personally-Identifying Information
 
-**Your Consent:** We may share or disclose your information with your consent, such as when you use a third party web client to access your Twitter account.
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-**Service Providers:** We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
+## Cookies
 
-**Law and Harm:** We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Twitter's rights or property.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
 
-**Business Transfers:** In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
+## Business Transfers
 
-**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public Tweets or the number of users who clicked on a particular link (even if only one did).
+If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
-### Modifying Your Personal Information
+## Ads
 
-If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
-### Our Policy Towards Children
+## Comments
 
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@twitter.com](mailto:privacy@twitter.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-### Changes to this Policy
+## Privacy Policy Changes
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [http://twitter.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_This Privacy Policy is effective as of June 08, 2010.  
-[Archive of Previous Privacy Policies](https://web.archive.org/privacy/previous)   
-Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:privacy@twitter.com). _
+**Change log:**
+
+  * _September 18, 2013:_   Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
+  * _February 1, 2011:_  Clarified subpoena language and added Business Transfers paragraph
+  * _January 3, 2011:_  Added court order and subpoena clarification
+  * _July 1, 2010:_  Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
+  * _October 29, 2009:_  Added Comments paragraph to explain Akismet comment storage policy
+  * _March 10, 2009:_  Added Ads paragraph to alert users that ads from third parties may use cookies
+
+
