@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techaudible.net privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523040240id_/http%3A//www.techaudible.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techaudible.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210558id_/http%3A//www.techaudible.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Tech Audible, then you may [contact us.](http://www.techaudible.net/contact/ "Contact") **  
+If you have any questions regarding the privacy policy of Tech Audible, then you may contact us. **  
 **
 
   
