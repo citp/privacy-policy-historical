@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212071000id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202528id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies - Victoria and Albert Museum
 
@@ -49,8 +49,15 @@ We use Google Analytics to collect information about site usage and performance.
 
 This table lists the cookies that we use, how they help you use particular services, what type of cookie they are and the websites that are setting the cookies on your computer.
 
-    User survey 2012| Store non-personal data about survey responses to a web visitor survey in 2012. The survey asks you for your reason for visiting. Cookies are used to record the overall number of answers to the survey question and to link these to web stats. They do not store your personal data. The cookie is also used to allow the form to be hidden on your return visits. This is to prevent you from being shown the form again unnecessarily. This survey is part of a cross-organisational research project and (anonymous) data from this survey will be shared with other cultural organisations and research findings will be openly published. | 2 years| persistent| www.vam.ac.uk| ki_u, ki_s , ki_t  
+    Google Doubleclick  
+| Various cookies used to store anonymous stats and sales data. Used to assess the success of marketing campaigns run by marketing partner  
+| Max 30 days  
+| persistent  
+| vam.ac.uk and lovetheatre.com  
+| iframe = fls.doubleclick  
+  
 ---|---|---|---|---|---  
+User survey 2012| Store non-personal data about survey responses to a web visitor survey in 2012. The survey asks you for your reason for visiting. Cookies are used to record the overall number of answers to the survey question and to link these to web stats. They do not store your personal data. The cookie is also used to allow the form to be hidden on your return visits. This is to prevent you from being shown the form again unnecessarily. This survey is part of a cross-organisational research project and (anonymous) data from this survey will be shared with other cultural organisations and research findings will be openly published. | 2 years| persistent| www.vam.ac.uk| ki_u, ki_s , ki_t  
 Blogs on the site | Allows a logged in status to enable posting comments on blogs | Long term | persistent | www.vam.ac.uk | CHOCOL ATECHIP  
 Recently viewed feature | maintains a list of recently viewed articles for your convenience | During visit only | session | www.vam.ac.uk | asset-id-history  
 Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | ASPSESSIONIDSSDBDDQQ  
@@ -94,6 +101,13 @@ Certain areas of the website will also contain third party cookies, e.g. embedde
 
   What service is setting the cookie | What the cookie does | How long does the cookie last | Type | What website can access the cookie (domain) | Name of cookie  
 ---|---|---|---|---|---  
+Google Doubleclick  
+| Various cookies used to store anonymous stats and sales data. Used to assess the success of marketing campaigns run by marketing partner  
+| Max 30 days  
+| persistent  
+| vam.ac.uk and lovetheatre.com  
+| iframe = fls.doubleclick  
+  
 Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | During visit only | session | facebook.com | reg_fb_gate  
 Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | During visit only | session | facebook.com | reg_fb_ref  
 Facebook options on V&A web pages | Stores non-personal data about use of Facebook share option on the V&A site | Variable typically 1 week | persistent | facebook.com | _e_1k0M_0  
