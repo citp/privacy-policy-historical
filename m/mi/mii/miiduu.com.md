@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060623id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202534id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
 
 # Miiduu Privacy Policy
 
@@ -84,9 +84,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Miiduu Inc
+Joosee Co., Limited  
+RM1501-C1, Grand Millennium Plaza (Lower Block)  
+181 Queen's Road Central, Hong Kong  
 
-501 Silverside Road, suite 105  
-Wilmington, DE 19809 
-
-Email: contact_at_miiduu.com
