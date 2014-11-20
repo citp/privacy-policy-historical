@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112520id_/http%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115449id_/http%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Maks Surguy's blog on PHP and Laravel
 
@@ -8,8 +8,7 @@ The Data are collected and processed for the purposes set out below.
 
 ## Data Processing Ownership
 
-Maxoffsky – Placentia, CA, 92870,  
-msurguy@gmail.com
+Maxoffsky – Maksim Surguy
 
 ## Kinds of Data
 
