@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tigo.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519163635id_/http%3A//www.millicom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045052id_/http%3A//www.millicom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Millicom
 
-BBB__The privacy policy of Millicom International Cellular in respect of your personal data is in accordance with the Data Protection Act 1998 as detailed below.
+The privacy policy of Millicom International Cellular in respect of your personal data is in accordance with the Data Protection Act 1998 as detailed below.
 
   1. The data controller is Millicom International Cellular S.A.
   2. Personal data collected on you will be evaluated periodically (not less than yearly) to determine whether we should continue to hold it.
