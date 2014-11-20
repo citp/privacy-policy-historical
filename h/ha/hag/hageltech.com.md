@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526164453id_/http%3A//www.hageltech.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105337id_/http%3A//www.hageltech.com/about/privacy) for the most accurate reproduction.*
 
 # Hagel Technlologies web site privacy policy
 
@@ -13,6 +13,12 @@ For site security purposes and to ensure that this service remains available to 
 ## Cookies
 
 A cookie is a file that a web site transfers to a visitor's hard drive for record-keeping purposes. We use cookies on certain pages to tailor our content better for returning visitors. You can disable cookies in your browser if you want, and most of our web site will still function properly. 
+
+## Google Analytics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our customers and potential customers who visit. To assist us in this, we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. This information is not provided to us in a personally-identifiable format. This means we cannot identify what information is abouat you personally, and we will not try to figure that out. 
+
+You can always opt-out of Google Analytics data collection by using the [Google Ad Settings](https://www.google.ca/settings/ads) or through [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 ## How Your personal information is treated
 
