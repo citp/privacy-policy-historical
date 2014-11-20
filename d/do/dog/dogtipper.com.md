@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213210803id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115537id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | DogTipper.com
 
@@ -72,7 +72,3 @@ PO Box 1389
 Cedar Park, TX 78630
 
 This privacy policy was last updated on June 7, 2012.
-
-#### About 
-
-DogTipper publishers Paris Permenter and John Bigley are a husband-wife team of full-time writers. We've authored over 30 travel and pet books and 2,500+ magazine articles. Please follow Paris on [Google+](https://plus.google.com/+ParisPermenter/) and follow us across the web:
