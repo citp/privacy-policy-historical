@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saatvamattress.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022039id_/http%3A//saatvamattress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saatvamattress.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180731id_/http%3A//saatvamattress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Saatva Mattress
 
 Thank you for accessing the Saatva.com Website (“Site”) operated by Saatva, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. 
 
