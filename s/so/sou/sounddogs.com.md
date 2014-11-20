@@ -1,54 +1,54 @@
-> *The following text is extracted and transformed from the sounddogs.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208080706id_/http%3A//sounddogs.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounddogs.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132853id_/http%3A//www.sounddogs.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Sounddogs.com Privacy Policy
+# Privacy Policy | Sounddogs.com
 
-Privacy Policy
+Protecting your privacy is very important to us. This privacy policy is intended to describe how your personal information is collected, used, disclosed and protected. 
 
-We respect and are committed to protecting your privacy. That is why we have adopted our Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Sounddogs.com, Inc.. (Sounddogs.com includes all Web sites and other Internet media properties.)  
-The following discloses our Privacy Policy.
+Please note that by accessing or using this website you agree to the terms of this policy. This website is owned and operated by Sounddogs.com, Inc. 
 
-**What information are you collecting and how are you collecting it?**  
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" (IP) address. When a visitor requests a page from any Web site within Sounddogs.com, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.
+**Collected Information**  
+We may collect certain kinds of information automatically such as the IP addresses, browsers and operating systems from which our website is accessed as well as navigational data (including sound files previewed and pages accessed). However, we do not link this information to individuals. 
 
-**What are cookies?**  
-From time to time, Sounddogs.com may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites.
+When registering on our website certain personal information will be required and collected such as your name, e-mail address and a password. When placing an order additional personal information will be required and collected depending on the selected products and payment method such as shipping and/or billing address, phone number and credit card information. You may, however, visit our site anonymously without registering. 
 
-Cookies do not damage your system. We use cookies to identify which areas of Sounddogs.com's Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. We may use this information to better personalize the content, banners, and promotions that you see on our Sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+In compliance with the California Online Privacy Protection Act, you may at any time make any changes to your personal information through your account’s Account & Profile section or request your account to be closed by [contacting us](https://www.sounddogs.com/contact-us.asp). 
 
-**What other information do you request?**  
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy which means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
+**Use of Information**  
+We collect and use your information to create your account, process transactions, provide customer support and communicate with you as well as to improve our website, products and services. 
 
-In addition, Sounddogs.com will not send you junk email, however we may send up to two emails per year announcing new Sounddogs.com products and services. If you have opt-in subscribed to our email news list you may receive one email approximately per month. When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+We may occasionally contact you to inform you about special offers and/or new products and services that may be of your interest. If at any given time you wish to opt-out from receiving these updates you may simply [contact us](https://www.sounddogs.com/contact-us.asp) letting us know. We maintain a strict "No-Spam" policy. 
 
-**What information do you collect when I purchase something?**  
-If you are purchasing something from a Sounddogs.com media property we need to know your name, e-mail address, billing and shipping address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to third parties for any purpose.
+**  
+Disclosure of Information**  
+We do not sell, trade, rent or otherwise share your personal information with any third-parties except as described in this Privacy Policy. 
 
-Certain Sounddogs.com media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Sounddogs.com media properties do not use SSL and thereby do not offer a secure coded way to transfer information, although is typical in cases of non-critical information.
+We may provide your shipping address to third parties who perform shipping services on our behalf, to fulfill orders of shippable products. However, they are not authorized to use the information for any other purpose. 
 
-**Will you disclose the information you collect to outside third parties?**  
-Sounddogs.com will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
+We may disclose any collected information when required by law or in the good-faith belief that such action is necessary to comply with a legal process, identify persons who may be violating the law (including but not limited to violation of our End User License Agreements or [ Terms and Conditions of Use](https://www.sounddogs.com/legal-notice.asp)) or to protect and defend the rights or property of Sounddogs.com, Inc., its customers, website visitors or any third parties. We reserve the right to transfer all collected information as part of the sale of Sounddogs.com, Inc. and/or its assets. 
 
-1) Conform to the edicts of the law or comply with a legal process served on Sounddogs.com,
+**Personal Information Protection**  
+We implement a variety of security measures following industry standards to protect the collected information. 
 
-2) Protect and defend the rights or property of Sounddogs.com sites, or visitors to Sounddogs.com,
+For instance, all personal information is encrypted using SSL (Secure Socket Layer) technology when entered. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. We also implement strict security procedures for remote and physical access to our servers. 
 
-3) Identify persons who may be violating the law, the legal notice, or the rights of third parties,
+However, no security measures can guarantee absolute protection. Therefore, even though we strive to protect all information collected to the maximum extent possible, we cannot guarantee the absolute security of the collected information. 
 
-4) Cooperate with the investigations of purported unlawful activities.
+**Use of Cookies**  
+Our website uses “cookies” to enable you to log in to your account and to personalize and improve your online experience. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. 
 
-Sounddogs.com uses reasonable precautions to keep the information disclosed to us secure. Sounddogs.com reserves the right to transfer information in connection with the sale of all or part of Sounddogs.com's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties which receive the information. Sounddogs.com also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. See below.
+You can choose whether to accept or deny cookies by changing the settings of your browser. If you choose to deny cookies you may not be able to log in to your account or use other features that depend on cookies and your experience at our website may be diminished. However, you may still place orders by [contacting customer support](https://www.sounddogs.com/contact-us.asp). 
 
-**What else should I know about my privacy when online?**  
-Sounddogs.com Web sites contains many links to other Web sites. Sounddogs.com is not responsible for the privacy practices or the content of such Web sites. Sounddogs.com does not share any of the individual personal information you provide Sounddogs.com with the sites to which Sounddogs.com links, although Sounddogs.com may share aggregate data with such Web sites (such as how many people use our Site).
+**  
+Links to Third Parties**  
+We may include links to other websites not owned or operated by us that have different and independent privacy policies. We assume no responsibility for the privacy policies or the content of such third party websites and we encourage you to review their privacy policies prior to use. Nonetheless, we welcome any feedback about these websites. 
 
-Please check with those sites to determine their privacy policy.
+**Children**  
+In compliance with the requirements of the Children’s Online Privacy Protection Act (COPPA) our website, products and services are not directed to children under the age of 13, and we do not knowingly collect any personal information from children under the age of 13. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+**Changes to this Privacy Policy**  
+We may revise this privacy policy from time to time. Changes to this policy will be effective when posted. We will update the modification date below when we make any changes. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+Last updated: August 26th, 2014 
 
-**Your Consent To This Agreement**  
-By using our Web site, you consent to the collection and use of information by Sounddogs.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-Sounddogs and SoundStorm are registered trademarks of Sounddogs.com, Inc. in the United States.  
-Oscar and Academy Awards are registered trademark and service marks of the Academy of Motion Picture Arts and Sciences. All other trademarks contained herein are the property of their respective owners.
+**Contact Information**  
+You may contact us by email at [Support@Sounddogs.com](mailto:Support@Sounddogs.com), by phone at 310-399-4557 or by postal mail at Sounddogs.com, Inc., 4712 Admiralty Way # 497, Marina Del Rey, California, 90292, USA. 
