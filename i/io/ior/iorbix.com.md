@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/network-privacy.php%3Ftab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194401id_/http%3A//iorbix.com/privacy%3Ftab%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Terms | iOrbix
 
 Privacy Policy
 
 This agreement was written in English (US).  
-Date of Last Revision: February 10, 2012
+Date of Last Revision: March 08, 2014
 
 What information do we collect?
 
@@ -44,30 +44,41 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Your account settings and email notifications
 
 When you register on iOrbix, you are automatically subscribed to the email notifications of its basic features.  
-However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/settings-account.php).  
+However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/settings-account).  
 On that page, you can edit your account preferences. You may also delete your account if you no longer wish to share your personal information on iOrbix. 
 
-iOrbix sub-sites sites
+Profile Visibility
 
-We offer a few [iOrbix](http://iorbix.com/) sub-sites, such as "[Agency Top Model](http://agencytopmodel.com/)" and "[AvaWars](http://avawars.com/)".  
-If you register on one of these sites, you are automatically joining on iOrbix. However, your account on iOrbix will be totally private to public, in exception of your name, age, gender, location and profile photo.  
-At any moment you may login on iOrbix and activate/migrate your account. By doing that, you become a common member of iOrbix. 
+Profiles on iOrbix are set, by default, to be visible by everyone, including people who are not registered on iOrbix.  
+This setting can be changed through your Account Settings. You can set your profile visibility to Friends only.  
+If your profile visibility is set to Public, everyone will be able to see your public comments, shared messages, blog posts, public photos, gifts and other contents that are not private. 
+
+Sharing Posts on iOrbix
+
+When you share a message (through the Sharing Box from the homepage or your profile), you control the audience, between Public (everyone can see it) or Friends (only people from your Friends List can see it).  
+This setting will change its behavior depending on your profile visibility. A post targeting the Public audience will not be visible by everyone if your profile visibility is set to Friends. A post targeting the Friends audience will be visible by people on your Friends List only. If an Album visibility is set to Friends, the visibility of the photo will be to people on your Friends List only. This also means that the post will not appear in the news feed of people who are not on your Friends List. 
+
+Sharing Photos on iOrbix
+
+The visibility of the photos you upload on your profile depend on the Album you post into. If an Album visibility is set to Friends, the visibility of the photo will be to people on your Friends List only. This also means that updates about that photo (upload or comments) will not appear in the news feed of people who are not on your Friends List.  
+Always think before you upload a photo. If someone provides the direct link (URL) to a person that is not on your Friends List, that person will be able to see the photo.  
+If album visibility is set to Everyone, this setting will change its behavior depending on your profile visibility. This means that if your profile visibility is set to Friends, then the photos in the album will be visible by people on your Friends List only. 
 
 Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
+Use of GeoLite
+
+This product includes GeoLite data created by MaxMind, available from [http://www.maxmind.com](http://www.maxmind.com/). 
+
 Children
 
 We do not intentionally gather personal information of users and visitors who are under the age of 13. 
 
-Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/network-privacy.php?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/privacy?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Your Consent
 
