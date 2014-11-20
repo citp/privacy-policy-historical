@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608040513id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135826id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
 
