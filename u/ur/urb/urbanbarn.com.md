@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115324id_/http%3A//www.urbanbarn.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003345id_/http%3A//www.urbanbarn.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security urb
+# Privacy and Security
 
 Privacy Policy **PRIVACY POLICY**
 
