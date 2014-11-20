@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mygsm.me privacy policy that was archived on 2014-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140510195039id_/http%3A//www.mygsm.me/Privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mygsm.me privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120111912id_/http%3A//www.mygsm.me/Privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Privacy statement-mygsm.me online mobile phone shop in dubai United Arab Emirates</title>
@@ -46,7 +46,6 @@ var is_admin_editor = false;
 </script>
 
 <script type="text/javascript" src="/skin/MyGSM-MM/js/common.js"></script>
-  <script type="text/javascript" src="/skin/MyGSM-MM/js/browser_identificator.js"></script>
 
 
   <script type="text/javascript" src="/skin/MyGSM-MM/lib/swfobject-min.js"></script>
@@ -216,6 +215,54 @@ var products_data = [];
 <script type="text/javascript" src="/skin/MyGSM-MM/js/check_quantity.js"></script>
 <script type="text/javascript" src="/skin/MyGSM-MM/js/jquery.megamenu.js"></script>
 
+ 
+<script type="text/javascript">
+//<![CDATA[
+/*
+ * Constants used in product notifications widgets
+ */
+var ProductNotificationWidget_CONST = {
+  // Language variables
+  PROD_NOTIF_EMAIL_REGEXP: new RegExp("^[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z](?:[a-z0-9-]*[a-z0-9])$", "gi"),
+  ERR_PROD_NOTIF_EMAIL: "Invalid email address!",
+ ERR_PROD_NOTIF_PHONENO: "", 
+  ERR_SUBMIT_PROD_NOTIF_UNKNOWN: "Error",
+  MSG_SUBMIT_PROD_NOTIF_OK: "You have been subscribed",
+  MSG_PROD_NOTIF_ALREADY_SUBSCRIBED: "You already subscribed",
+  LBL_PROD_NOTIF_EMAIL_DEFAULT: "e-mail",
+ LBL_PROD_NOTIF_PHONENO_DEFAULT: "",
+  
+  // Config variables
+  PROD_NOTIF_L_AMOUNT: 3,
+
+  // HTML elements IDs
+  ROOT_ELEMENT_ID_PREFIX: 'prod_notif_',
+  REQUEST_BUTTON_ELEMENT_ID_PREFIX: 'prod_notif_request_button_',
+  EMAIL_INPUT_ELEMENT_ID_PREFIX: 'prod_notif_email_',
+  PHONENO_INPUT_ELEMENT_ID_PREFIX: 'prod_notif_phoneno_',
+  SUBMIT_BUTTON_ELEMENT_ID_PREFIX: 'prod_notif_submit_button_',
+  SUBMIT_WAITING_ELEMENT_ID_PREFIX: 'prod_notif_submit_waiting_',
+  MESSAGE_ELEMENT_ID_PREFIX: 'prod_notif_submit_message_',
+
+  // CSS class names
+  ERROR_MSG_CSS: "prod-notif-request-submit-error-message",
+  INVALID_EMAIL_CSS: "prod-notif-email-error",
+  DEFAULT_EMAIL_CSS: "prod-notif-email-default-value",
+  
+  INVALID_PHONENO_CSS: "prod-notif-phoneno-error",
+  DEFAULT_PHONENO_CSS: "prod-notif-phoneno-default-value",
+
+  // Widget behavior
+  REQUEST_FORM_SLIDE_DELAY: 300,
+  PROD_NOTIF_SUBMIT_PHP: "/product_notifications.php",
+  PROD_NOTIF_SUBMIT_MODE: "subscribe"
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="/skin/MyGSM-MM/modules/Product_Notifications/jquery.tooltip.js"></script>
+<script type="text/javascript" src="/skin/MyGSM-MM/modules/Product_Notifications/product_notification_widget.js"></script>
+
   <!-- infs-common -->
 <script type="text/javascript">
    
@@ -254,9 +301,9 @@ var popupsSettings = [];
 
 
                     <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Gift_Certificates/main.css">
-                                
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Discount_Coupons/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Upselling_Products/main.css">
+                                
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Magnifier/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Wishlist/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Manufacturers/main.css">
@@ -266,18 +313,22 @@ var popupsSettings = [];
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Image_Verification/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Popup_Anywhere/main.css">
                               
+                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Notifications/main.css">
+                              <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Notifications/main.B.css">
+                              <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Notifications/main.L.css">
+                              <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Notifications/main.P.css">
                                 
+                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/On_Sale/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Infinite_Scroll/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/New_Arrivals/main.css">
-                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/On_Sale/main.css">
+                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Feature_Comparison/main.css">
+                                            <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Options/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Detailed_Product_Images/main.css">
-                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Customer_Reviews/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Recommended_Products/main.css">
-                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Advanced_Order_Management/main.css">
-                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Options/main.css">
+                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Customer_Reviews/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Product_Configurator/main.css">
-                                            <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Feature_Comparison/main.css">
                                             <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/RMA/main.css">
+                                <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Advanced_Order_Management/main.css">
                                 <link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/modules/Flyout_Menus/Icons/main.css">
                         
 
@@ -434,16 +485,16 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
     <h2>Testimonial</h2>
   </div>
   <div class="content">
-                            <img src="/skin/common_files/images/5star.gif" alt="5star">
-                                                              <div class="testimonials">
+                                                    <img src="/skin/common_files/images/3star.gif" alt="3star">
+                                        <div class="testimonials">
         
-        I ordered a Bold 9900 using mygsm, it arrived on time and in perfect condition with the best price in the market! Thank you mygsm!
+        Its Very Gooog Service And Dealing With Price Thanks 
         <br>
-        <span style="float:right">Hazem</span>
+        <span style="float:right">Danish</span>
         <br>
-        <span style="float:right"><a href="()"></a></span>
+        <span style="float:right"><a href="(None )">Golden Moon </a></span>
        <br>
-        <span style="float:right">Added date:2012-04-19</span>
+        <span style="float:right">Added date:2012-11-27</span>
         </div>
              
       <a href="testimonial.php?mode=view_all"><p style="font-size:12px;">View all testimonials</p></a>
@@ -466,48 +517,36 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
   <div class="content">
           <ul>
                 <li>
-            07-05-2014<br>
-            <a href="http://www.mygsm.me/Nokia-XL-black-dubai-price.html">Nokia XL - Black</a>
+            19-11-2014<br>
+            <a href="http://www.mygsm.me/Sony-Digital-Noise-Cancelling-Headset-MDR-NC31EM-price-dubai.html">Sony Digital Noise Cancelling Headset MDR-NC31EM</a>
           </li>
                 <li>
-            07-05-2014<br>
-            <a href="http://www.mygsm.me/Nokia-XL-Orange-color-price-in-dubai.html">Nokia XL - Orange</a>
+            17-11-2014<br>
+            <a href="http://www.mygsm.me/Power-Bank-MI2-10400-mAH-buy-in-dubai-UAE.html">Power Bank-MI2-10400mAH</a>
           </li>
                 <li>
-            06-05-2014<br>
-            <a href="http://www.mygsm.me/Sony-Xperia-Z1-Purple-C6902-3G.html">Sony Xperia Z1 Purple -C6902-3G</a>
+            16-11-2014<br>
+            <a href="http://www.mygsm.me/BlackBerry-Classic-Best-price-in-dubai.html">BlackBerry Classic</a>
           </li>
                 <li>
-            06-05-2014<br>
-            <a href="http://www.mygsm.me/Silicon-case-sony-z1.html">Silicon case-Xpeira Z1</a>
+            14-11-2014<br>
+            <a href="http://www.mygsm.me/Sony-Xperia-Z3-Tablet-Compact-Wifi.html">Sony Xperia Z3 Tablet Compact Wifi</a>
           </li>
                 <li>
-            06-05-2014<br>
-            <a href="http://www.mygsm.me/HTC-Desire-816-Online-Shop-In-Dubai-UAE.html">HTC Desire 816</a>
+            13-11-2014<br>
+            <a href="http://www.mygsm.me/HTC-One-M8-EYE-price-dubai.html">HTC One (M8 EYE)</a>
           </li>
                 <li>
-            05-05-2014<br>
-            <a href="http://www.mygsm.me/Samsung-Galaxy-S5-Black-32-GB-4G-LTE.html">Samsung Galaxy S5 Black 32 GB -4G-SM-G900F</a>
+            13-11-2014<br>
+            <a href="http://www.mygsm.me/iPhone-6-plus-Leather-Case.html">iPhone 6 Plus Leather Case </a>
           </li>
                 <li>
-            05-05-2014<br>
-            <a href="http://www.mygsm.me/Case-for-Xperia-Z2-Nillkin-Sparkle-Leather-Flip-Stand-Bumper-Back-Case-Black-online-shop-in-Dubai-UAE.html">Case for Xperia Z2-Nillkin Sparkle Leather Flip Stand Bumper Back Case-Black</a>
+            11-11-2014<br>
+            <a href="http://www.mygsm.me/Motorola-DROID-Turbo-price-dubai.html">Motorola DROID Turbo</a>
           </li>
                 <li>
-            04-05-2014<br>
-            <a href="http://www.mygsm.me/Case-for-Xperia-Z2-Nillkin-Sparkle-Leather-Flip-Stand-Bumper-Back-Case-Online-shop-in-dubai-UAE.html">Case for Xperia Z2-Nillkin Sparkle Leather Flip Stand Bumper Back Case</a>
-          </li>
-                <li>
-            04-05-2014<br>
-            <a href="http://www.mygsm.me/Sony-Smartwatch-2-2pcs-for-Aed-999.html">Sony Smartwatch 2 -2pcs for Aed 999</a>
-          </li>
-                <li>
-            03-05-2014<br>
-            <a href="http://www.mygsm.me/Sony-Xperia-Z2-white-price-dubai.html">Sony Xperia Z2 - -D6503 -White</a>
-          </li>
-                <li>
-            01-05-2014<br>
-            <a href="http://www.mygsm.me/Case-for-Samsung-Galaxy-P601.html">Case for Samsung Galaxy P601</a>
+            10-11-2014<br>
+            <a href="http://www.mygsm.me/Htc-Desire-820-dubai.html">Htc Desire 820 Dual Sim</a>
           </li>
             </ul>
   
@@ -534,30 +573,34 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
     <div id="header">
       <div class="line0">
 	<a href="home.php">
-		<div class="logo">
-			<img src="/skin/MyGSM-MM/images/logo.gif" alt="">
-   			  		</div>  
+  		<div class="logo">
+			<img class="logo-dflt" src="/skin/MyGSM-MM/images/logo.gif" alt="">
+			<img class="logo-scroll" src="/skin/MyGSM-MM/images/scrolllogo.png" alt="">
+   			  		</div> 
   	</a>
-
-			
-	<div class="line1">
+	
+		
+	<div class="xmas_star_l"><img src="/skin/MyGSM-MM/images/mm/xmas_star_l.gif" alt=""></div>
+	
+	<div class="xmas_star_r"><img src="/skin/MyGSM-MM/images/mm/xmas_star_r.gif" alt=""></div>
+ 	
+ 	<div class="line1">
 		<div class="inner">
 			
 			<a href="cart.php">0&nbsp;items</a>&nbsp;-&nbsp;<span class="currency">AED 0.00</span>
-		</div>
-	</div>
-
-	<div class="cart_icon_div"><a href="cart.php">&nbsp;</a></div> 
-
-	<div class="toll_free_img">
-				<span class="title">Call&nbsp;:&nbsp;</span><span class="text">+971-4-2735136</span><br>
+	  	</div>
+  	</div>
+	
+	<div class="cart_icon_div"><div class="cart_test"><a href="cart.php">&nbsp;</a></div></div> 
+	
+	<div class="toll_free_img">		<span class="title">Call&nbsp;:&nbsp;</span><span class="text">800-69476</span><br>
 		<span class="title">Email&nbsp;:&nbsp;</span><span class="text"><a href="mailto:enq@mygsm.me?subject=Enquiry from mygsm.me">enq@mygsm.me</a></span><br>
 	</div>
 	
-  	<div class="line2">
+	<div class="line2">
     	<script type="text/javascript" src="/skin/common_files/js/auto_suggest.js"></script>
 <div class="search">
-  <div class="valign-middle">
+  <div class="valign-middle valign-middle1">
     <form method="post" action="search.php" name="productsearchform">
 
       <input type="hidden" name="simple_search" value="Y">
@@ -574,7 +617,9 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
 
 
   
-    <input class="image-button" type="image" src="/skin/common_files/images/spacer.gif" alt="">
+    	    <input class="img-btn1 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt="">
+<input class="img-btn2 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt=""> 
+ 
 
   
 
@@ -582,11 +627,40 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
     </form>
 
   </div>
-</div>		<span class="search_key">HOT : <a href="http://www.mygsm.me/apple-iPhone-5s-buy-now-dubai.html">iPhone 5S</a>  , <a href="http://www.mygsm.me/Galaxy-SmartPhones-mygsm-dubai.html">Note 3</a> , <a href="http://www.mygsm.me/Sony-mobile-phone-smartphone-online-shop-dubai.html">Xperia Z1</a></span>
- 	</div>
+  <div class="valign-middle valign-middle2 ">
+	<div class="ser"><span>Search</span></div>
+    <form method="post" action="search.php" name="productsearchform" class="ser_frm">
 
-  <div class="line3">
-      <div class="tabs">
+      <input type="hidden" name="simple_search" value="Y">
+      <input type="hidden" name="mode" value="search">
+      <input type="hidden" name="posted_data[by_title]" value="Y">
+      <input type="hidden" name="posted_data[by_descr]" value="Y">
+      <input type="hidden" name="posted_data[by_sku]" value="Y">
+      <input type="hidden" name="posted_data[search_in_subcategories]" value="Y">
+      <input type="hidden" name="posted_data[including]" value="all">
+
+      <input type="text" name="posted_data[substring]" class="ser_text text default-value" id="keyward" onkeyup="ajax_showOptions(this,'getProductsByLetters',event)" value="Search" autocomplete="off">
+  
+    
+
+
+  
+    	    <input class="img-btn1 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt="">
+<input class="img-btn2 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt=""> 
+ 
+
+  
+
+
+    </form>
+
+  </div>
+
+</div>		<span class="search_key">HOT : <a href="http://www.mygsm.me/iPhone-6-price-dubai.html">iPhone 6</a> , <a href="http://www.mygsm.me/Samsung-Galaxy-Note-4-price-dubai.html">Galaxy Note 4</a> , <a href="http://www.mygsm.me/Samsung-Galaxy-Note-Edge-price-in-dubai-uae.html">Galaxy Note Edge</a><p></p></span>
+	</div>
+	
+	<div class="line3">
+    	  <div class="tabs">
     <ul>
                     <li class="first"><a href="home.php">Home</a></li>
               <li class="highlight last"><a href="http://www.mygsm.me/About-Mygsm.me.html">About Us</a></li>
@@ -599,266 +673,683 @@ var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra
 	      	  
     </ul>
   </div>
+  	</div>
+
+	<div class="line4">
+		<table cellspacing="0px" cellpadding="0px" border="0px" class="header_menu">
+			<tbody><tr>
+			    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/apple-ipad-mini-iphone5-ipad-4-macbook-imac-ipod-online-shop-dubai.html">
+					      		<span class="right"><span class="left">Apple</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=3" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=3" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/iPhone-6-price-dubai.html">iPhone 6</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/iPhone-6-Plus-128gb-price-dubai.html">iPhone 6 Plus</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/iPad-Air-2-dubai-Abu-dhabi-Sharjah-Alain-price-dubai.html">iPad Air 2</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iPad-Mini-3-price-dubai-oman-muscat.html">iPad Mini 3</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-ipad-air-price-dubai.html">iPad Air</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iPhone-5s-buy-now-dubai.html">iPhone 5s</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iphone-5c-dubai-price.html">iPhone 5c</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/iPad-4-retina-display-apple-ipad-price-dubai-online-shop-mygsm.html">iPad 4</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iPad-Mini-Retina-buy-now-dubai-best-price-mini-retina.html">iPad Mini Retina</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/iphone-5-apple-iphone-5-online-shop-dubai.html">iPhone 5</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-macbook-macbook-pro-macbook-air-imac-online-price-dubai-uae-qatar-oman-bahrain..html">Mac</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/ipad-mini-apple-ipad-mini-price-dubai-uae-mygsm-online-shop-ipad-mini-in-dubai.html">iPad mini</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iPod-touch-ipod-nano-shuffle-online-shop-dubai-united-arab-emirates.html">iPod</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/apple-iPhone-4S-online-shop-dubai-united-arab-emirates-qatar-oman-kuwait-bahrain-saudi-arabia.html">iPhone 4S</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/iPhone-4-online-shop-dubai-mygsm-online-shop-uae.html">iPhone 4</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/Samsung-mobile-phone-online-shop-mygsm-dubai-uae-oman-qatar-bahrain-kuwait-saudi-arabia.html">
+					      		<span class="right"><span class="left">Samsung</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=250" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=250" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/Galaxy-SmartPhones-mygsm-dubai.html">SmartPhones</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/samsung-Galaxy-Tab-Online-Tablet-shop-dubai-UAE.html">Tablet</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Camera-samsung-avaialble-at-best-price-dubai-from-mysgm.html">Camera</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/samsung-Dual-Sim-phone-mygsm-online-shop-price-dubai.html">Dual Sim phone</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li>
+					      	<a class=" " href="http://www.mygsm.me/Htc-mobile-phone-online-shop-dubai-uae-qatar-oman-kuwait-saudi-arabia.html">
+					      		<span class="right"><span class="left">HTC</span></span>
+					      	</a>
+					      							</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li>
+					      	<a class=" " href="http://www.mygsm.me/Sony-mobile-phone-smartphone-online-shop-dubai.html">
+					      		<span class="right"><span class="left">Sony</span></span>
+					      	</a>
+					      							</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li>
+					      	<a class=" " href="http://www.mygsm.me/lg-mobile-phones-are-available-from-mygsm-online-shop-dubai.html">
+					      		<span class="right"><span class="left">LG</span></span>
+					      	</a>
+					      							</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li>
+					      	<a class=" " href="http://www.mygsm.me/Nokia-all-models-of-mobile-phone-are-available-in-UAE-from-the-No1-online-mobile-phone-online-shop-Dubai-Qatar-Oman-Kuwait-Bahrain-saudi-Arabia.html">
+					      		<span class="right"><span class="left">Nokia</span></span>
+					      	</a>
+					      							</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/Camera-digital-slr-camera-dubai-uae.html">
+					      		<span class="right"><span class="left">Camera</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=295" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=295" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/Canon-digital-slr-camera-in-dubai.html">Canon</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Nikon-slr-camera-price-dubai.html">Nikon</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/GoPro-camera-dubai.html">GoPro</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Sony-digital-camera-dubai.html">Sony</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Samsung-digital-camera-shop-dubai.html">Samsung</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/fujifilm-digital-camera-Price-in-Dubai-uae.html">Fujifilm</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/game-console-game-cd-video-games-in-dubai.html">
+					      		<span class="right"><span class="left">Gaming</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=62" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=62" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/Sony-Playstatoin-4-price-in-dubai.html">Sony PlayStation 4</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/microsoft-Xbox-One-game-console-in-dubai.html">Xbox One</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Xbox-360-game-console.html">Xbox 360</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Sony-PlayStation-3-game-console-dubai.html">Sony PlayStation 3</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/computer-laptop-desktop-printers-price-in-dubai.html">
+					      		<span class="right"><span class="left">Computers</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=280" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=280" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/sony-laptop-computer-price-in-dubai-uae.html">Sony</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/HP-computer-online-shop-dubai-uae.html">Hp</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/DELL-computer-online-shop-dubai-uae.html">Dell</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/acer-computer-online-shop-dubai-uae.html">Acer</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/asus-laptop-price-in-dubai-uae.html">Asus</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/lenovo-laptop-computer-price-in-dubai-uae.html">Lenovo</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/toshiba-laptop-best-price-in-dubai-uae.html">Toshiba</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/desktop-computer-price-in-dubai-uae.html">Desktop</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/projector-price-in-dubai-united-arab-emirates.html">Projector</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/printers-online-shop-price-in-dubai-uae.html">Printer</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/computer-accessories-router-modem-buy-now-in-dubai-uae.html">Accessories</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/Mobile-phone-Accessories-dubai-mygsm.me.html">
+					      		<span class="right"><span class="left">Accessories</span></span>
+					      	</a>
+					      								<div class="sub_menu last-two-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=259" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=259" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/Power-Bank-extra-power-solution-for-smartphone.html">Power Bank</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Tablet-Stands-holder-for-ipad-galaxy-tab.html">Tablet Stands</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Cases.html">Cases</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Battery-Packs-for-mobile-phone-htc-battery-dubai.html">Battery Packs</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/HeadSet.html">HeadSet</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/mobile-phone-tablet-Screen-Protectors-dubai-united-arab-emirates.html">Screen Protectors</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Apple-Accessories.html">Apple Accessories</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/holders-ipad-iphone-dubai-mygsm-online-shop.html">Holders</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Bluetooth-Product.html">Bluetooth Product</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Memmory-Cards.html">Memmory Cards</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Cables.html">Cables</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li>
+					      	<a class=" " href="http://www.mygsm.me/Nexus10-nexus4-nexus7-smartphon-tablet-mygsm-online-shop-dubai.html">
+					      		<span class="right"><span class="left">Nexus</span></span>
+					      	</a>
+					      							</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/Specials.html">
+					      		<span class="right"><span class="left">Service</span></span>
+					      	</a>
+					      								<div class="sub_menu last-two-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=243" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=243" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/Special-Offer.html">Special Offer</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Clearance-Sale.html">Clearance Sale</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/coming-soon-smartphones-dubai.html">Coming Soon</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			    			    			    <td>
+			    	<ul id="topnav" class="megamenu">
+				      	<li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
+					      	<a class="first " href="http://www.mygsm.me/mobile-phone-tablet-brands-in-duba-uae.html">
+					      		<span class="right"><span class="left">Brands</span></span>
+					      	</a>
+					      								<div class="sub_menu other-menus" id="sub_menu">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<table cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr>
+													<td align="left" valign="top">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=X&amp;id=251" alt="">
+														</a>
+													</td>
+													<td align="left" valign="top" class="menu-separator">
+														<a style="background: none;" href="">
+															<img src="http://www.mygsm.me/image.php?type=Y&amp;id=251" alt="">
+														</a>
+													</td>
+																									</tr>
+												<tr>
+													<td colspan="3" align="left" valign="top">
+														<ul>
+																												      														      		<li><a href="http://www.mygsm.me/BlackBerry-mobile-phone-online-shop-dubai-united-arab-emirates-qatar-oman-kuwait.html">BlackBerry</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Huawei-ascend-smartphones-tablets-in-dubai-qatar-oman.html">Huawei</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Motorola-mobile-phone-online-shop-dubai-mygsm.html">Motorola</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Asus-smartphone-tablets-price-dubai.html">ASUS</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Alcatel-smartphone-tablets-price-dubai.html">Alcatel</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Xtouch-mobile-phone-online-shop-dubai-united-arab-emirates-qatar-oman-kuwait.html">Xtouch</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/microsoft-surface-tablet.html">MS Surface</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Apple_ipad2_samsung_galaxy_tab_Dubai_uae.html">Tablet</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Android-phone-mygsm.me-online-mobile-phone-shop-dubai-htc-android-phone-samsung-android-phone.html">Android Phones</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Windows-Phones-windows-smart-mobile-phones-mygsm.me-dubai-united-arab-emirates.html">Windows Phones</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/3D-Phones-mygsm.me-mobile-phone-online-shop-dubai-united-arab-emirates.html">3D Phones</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Double-Sim-Phone-online-shop-dubai-uae-mygsm.me-online-shop-dubai.html">Double Sim Phone</a></li>
+													      														      															      														      														      		<li><a href="http://www.mygsm.me/Discontinued-mobile-phone.html">Discontinued</a></li>
+													      														      															      														      														      													      	</ul>
+												      	
+										      		</td>
+										      	</tr>
+									      	</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+													</li>
+					</ul>
+				</td>
+							    			</tr>
+		</tbody></table>    
+	</div>
+</div>
+<div class="line00">
+<div class="logowrap">
+	
+	<a href="home.php">
+  		<div class="logo1">
+			
+			<img src="/skin/MyGSM-MM/images/scrolllogo.png" alt="">
+   			  		</div> 
+  	</a>
+<div class="sear">
+    	<script type="text/javascript" src="/skin/common_files/js/auto_suggest.js"></script>
+<div class="search">
+  <div class="valign-middle valign-middle1">
+    <form method="post" action="search.php" name="productsearchform">
+
+      <input type="hidden" name="simple_search" value="Y">
+      <input type="hidden" name="mode" value="search">
+      <input type="hidden" name="posted_data[by_title]" value="Y">
+      <input type="hidden" name="posted_data[by_descr]" value="Y">
+      <input type="hidden" name="posted_data[by_sku]" value="Y">
+      <input type="hidden" name="posted_data[search_in_subcategories]" value="Y">
+      <input type="hidden" name="posted_data[including]" value="all">
+
+      <input type="text" name="posted_data[substring]" class="text default-value" id="keyward" onkeyup="ajax_showOptions(this,'getProductsByLetters',event)" value="Enter search keywords">
+  
+    
+
+
+  
+    	    <input class="img-btn1 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt="">
+<input class="img-btn2 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt=""> 
+ 
+
+  
+
+
+    </form>
+
   </div>
-<div class="line4">
-<table cellspacing="0px" cellpadding="0px" border="0px" class="header_menu">
+  <div class="valign-middle valign-middle2 ">
+	<div class="ser"><span>Search</span></div>
+    <form method="post" action="search.php" name="productsearchform" class="ser_frm">
+
+      <input type="hidden" name="simple_search" value="Y">
+      <input type="hidden" name="mode" value="search">
+      <input type="hidden" name="posted_data[by_title]" value="Y">
+      <input type="hidden" name="posted_data[by_descr]" value="Y">
+      <input type="hidden" name="posted_data[by_sku]" value="Y">
+      <input type="hidden" name="posted_data[search_in_subcategories]" value="Y">
+      <input type="hidden" name="posted_data[including]" value="all">
+
+      <input type="text" name="posted_data[substring]" class="ser_text text default-value" id="keyward" onkeyup="ajax_showOptions(this,'getProductsByLetters',event)" value="Search" autocomplete="off">
+  
+    
+
+
+  
+    	    <input class="img-btn1 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt="">
+<input class="img-btn2 image-button" type="image" src="/skin/common_files/images/spacer.gif" alt=""> 
+ 
+
+  
+
+
+    </form>
+
+  </div>
+
+</div>		
+	</div>
+		<div class="cicon"><div class="cart_test"><a href="cart.php"><div>&nbsp;</div></a></div></div> 
+		
+		<div class="cprice">
+		<div class="inner">
+			
+			<a href="cart.php">0&nbsp;items</a>&nbsp;-&nbsp;<span class="currency">AED 0.00</span>
+	  	</div>
+  	</div>
+	<div class="toll_free_img toll_free_img_hdr"><img src="/skin/MyGSM-MM/images/whp.png" class="whp">
+	<img src="/skin/MyGSM-MM/images/whp_line.png" class="whp_line">
+	<br>
+			
+	<span class="title whpnum whpnum1">0559021107</span><span class="text"></span><br>
+		<span class="title whpnum">0559021105</span><span class="text mail_link"></span><br>
+	</div>
+	<a href="#" class="scrollToTop" style="position: absolute;right: 7px;top: 14px;"><img src="/skin/MyGSM-MM/images/back-to-top-button.png" style="width: 30px;height: 30px !important;"></a>
+	</div>
+	
+	
+	<div class="logowrap1">
+	<div class="pdct_img">
+	<a href="">
+<script type="text/javascript" src="/skin/MyGSM-MM/lib/cloud_zoom/cloud-zoom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/skin/MyGSM-MM/lib/cloud_zoom/cloud-zoom.css">
+
+<table cellspacing="0" cellpadding="0" border="0" style="margin-top:-4px;">
 <tbody><tr>
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/apple-ipad-mini-iphone5-ipad-4-macbook-imac-ipod-online-shop-dubai.html">
-      <span class="right"><span class="left">Apple</span></span>
+ <td valign="top">
+<div class="dpimages-icons-box">
+    <div class="clearing"></div>
+</div>
+</td>
 
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/apple-ipad-air-price-dubai.html">iPad Air</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-iPhone-5s-buy-now-dubai.html">iPhone 5s</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-iphone-5c-dubai-price.html">iPhone 5c</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-iPad-Mini-Retina-buy-now-dubai-best-price-mini-retina.html">iPad Mini Retina</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/iPad-4-retina-display-apple-ipad-price-dubai-online-shop-mygsm.html">iPad 4</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/iphone-5-apple-iphone-5-online-shop-dubai.html">iPhone 5</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-macbook-macbook-pro-macbook-air-imac-online-price-dubai-uae-qatar-oman-bahrain..html">Mac</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/ipad-mini-apple-ipad-mini-price-dubai-uae-mygsm-online-shop-ipad-mini-in-dubai.html">iPad mini</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-iPod-touch-ipod-nano-shuffle-online-shop-dubai-united-arab-emirates.html">iPod</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/apple-iPhone-4S-online-shop-dubai-united-arab-emirates-qatar-oman-kuwait-bahrain-saudi-arabia.html">iPhone 4S</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/iPhone-4-online-shop-dubai-mygsm-online-shop-uae.html">iPhone 4</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/Samsung-mobile-phone-online-shop-mygsm-dubai-uae-oman-qatar-bahrain-kuwait-saudi-arabia.html">
-      <span class="right"><span class="left">Samsung</span></span>
 
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Galaxy-SmartPhones-mygsm-dubai.html">SmartPhones</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/samsung-Galaxy-Tab-Online-Tablet-shop-dubai-UAE.html">Tablet</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Camera-samsung-avaialble-at-best-price-dubai-from-mysgm.html">Camera</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/notebook-smartpcs-samsung-dubai.html">Smart PC</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/samsung-Dual-Sim-phone-mygsm-online-shop-price-dubai.html">Dual Sim phone</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/Htc-mobile-phone-online-shop-dubai-uae-qatar-oman-kuwait-saudi-arabia.html">
-      <span class="right"><span class="left">HTC</span></span>
+</tr>
+</tbody></table>
+</a></div>
+	<div class="product_title_hdr"></div>
+	<div class="descr_hdr_title"><span>Short Description:</span></div>
+	<div class="descr_hdr"><span style="padding: 2px;"><a style="text-decoration: none;" href="product.php?productid=#descr-tab"><b>...READ MORE...</b></a></span></div>
 
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/BlackBerry-mobile-phone-online-shop-dubai-united-arab-emirates-qatar-oman-kuwait.html">
-      <span class="right"><span class="left">BlackBerry</span></span>
+	<div class="hdr_price"><span class="product-price-value"></span></div>
+	
+		<div class="product-details">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+<script type="text/javascript">
+function getvalue(checkboxId,TxtId)
+{   var selects = document.getElementsByName(checkboxId);
+	var c_value = "";
+		for (var i=0; i < selects.length; i++)
+		{
+		   if (selects[i].checked)
+		   {
+			   if(c_value == '' ) {
+			   c_value = selects[i].value;
+			   }
+			   else 
+			    {
+				 c_value = c_value+","+selects[i].value;	
+				}
+		   }
+		}
+		document.getElementById(TxtId).value= c_value;
+}
+</script>
 
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/Sony-mobile-phone-smartphone-online-shop-dubai.html">
-      <span class="right"><span class="left">Sony</span></span>
+<td valign="top">
+    <div class="details hdr_details">
+      <script type="text/javascript" src="/skin/common_files/shadowbox-cart/src/shadowbox.js"></script>	       
 
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/Nexus10-nexus4-nexus7-smartphon-tablet-mygsm-online-shop-dubai.html">
-      <span class="right"><span class="left">Nexus</span></span>
+<form name="orderform" method="post" action="cart.php" onsubmit="javascript: return FormValidation(this);">
+  <input type="hidden" name="mode" value="add">
+  <input type="hidden" name="productid" value="">
+  <input type="hidden" name="cat" value="">
+  <input type="hidden" name="page" value="">
+  <input type="hidden" name="txtId" id="txtId">  
+  
+  <table cellspacing="0" cellpadding="0" summary="Description">
 
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/Nokia-all-models-of-mobile-phone-are-available-in-UAE-from-the-No1-online-mobile-phone-online-shop-Dubai-Qatar-Oman-Kuwait-Bahrain-saudi-Arabia.html">
-      <span class="right"><span class="left">Nokia</span></span>
-
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/Camera-digital-slr-camera-dubai-uae.html">
-      <span class="right"><span class="left">Camera</span></span>
-
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Canon-digital-slr-camera-in-dubai.html">Canon</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Nikon-slr-camera-price-dubai.html">Nikon</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Samsung-digital-camera-shop-dubai.html">Samsung</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Sony-digital-camera-dubai.html">Sony</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/GoPro-camera-dubai.html">GoPro</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/game-console-game-cd-video-games-in-dubai.html">
-      <span class="right"><span class="left">Gaming</span></span>
-
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Sony-Playstatoin-4-price-in-dubai.html">Sony PlayStation 4</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/microsoft-Xbox-One-game-console-in-dubai.html">Xbox One</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Xbox-360-game-console.html">Xbox 360</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Sony-PlayStation-3-game-console-dubai.html">Sony PlayStation 3</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/Mobile-phone-Accessories-dubai-mygsm.me.html">
-      <span class="right"><span class="left">Accessories</span></span>
-
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Power-Bank-extra-power-solution-for-smartphone.html">Power Bank</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Tablet-Stands-holder-for-ipad-galaxy-tab.html">Tablet Stands</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Cases.html">Cases</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Battery-Packs-for-mobile-phone-htc-battery-dubai.html">Battery Packs</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/HeadSet.html">HeadSet</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/mobile-phone-tablet-Screen-Protectors-dubai-united-arab-emirates.html">Screen Protectors</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Apple-Accessories.html">Apple Accessories</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/holders-ipad-iphone-dubai-mygsm-online-shop.html">Holders</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Bluetooth-Product.html">Bluetooth Product</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Memmory-Cards.html">Memmory Cards</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Cables.html">Cables</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li>
-      <a class=" " href="http://www.mygsm.me/lg-mobile-phones-are-available-from-mygsm-online-shop-dubai.html">
-      <span class="right"><span class="left">LG</span></span>
-
-	  </a>
-	  
-        	
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/Specials.html">
-      <span class="right"><span class="left">Service</span></span>
-
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Special-Offer.html">Special Offer</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Clearance-Sale.html">Clearance Sale</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Pre-Booking.html">Pre Order</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
-      
-              <td>
-      <ul id="topnav" class="megamenu">
-      <li onmouseout="this.className='li_hover_out'" onmouseover="this.className='li_hover'" class="li_hover_out">
-      <a class="first " href="http://www.mygsm.me/Browse.html">
-      <span class="right"><span class="left">Browse</span></span>
-
-	  </a>
-	  
-              <div class="sub_menu" id="sub_menu">
-	      <ul>
-		      		      	<li><a href="http://www.mygsm.me/Motorola-mobile-phone-online-shop-dubai-mygsm.html">Motorola</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Huawei-ascend-smartphones-tablets-in-dubai-qatar-oman.html">Huawei</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Apple_ipad2_samsung_galaxy_tab_Dubai_uae.html">Tablet</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/microsoft-surface-tablet.html">MS Surface</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Android-phone-mygsm.me-online-mobile-phone-shop-dubai-htc-android-phone-samsung-android-phone.html">Android Phones</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Windows-Phones-windows-smart-mobile-phones-mygsm.me-dubai-united-arab-emirates.html">Windows Phones</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/3D-Phones-mygsm.me-mobile-phone-online-shop-dubai-united-arab-emirates.html">3D Phones</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Double-Sim-Phone-online-shop-dubai-uae-mygsm.me-online-shop-dubai.html">Double Sim Phone</a></li>
-	    	  		      	<li><a href="http://www.mygsm.me/Discontinued-mobile-phone.html">Discontinued</a></li>
-	    	  	
-	      </ul>
-	  </div>
-		
-      </li>
-      </ul>
-      </td>
+    <tbody><tr>
+    <td><div class="product_title"></div></td>
+    </tr>
+    <tr>
+      <td class="descr"><span style="padding: 2px;"><a style="text-decoration: none;" href="product.php?productid=#descr-tab"><b>...READ MORE...</b></a></span></td>
       
     </tr>
-</tbody></table>    
+
+
+  </tbody></table>
+
+<div class="clearing"></div>
+
+<div class="discontinued_product">
+    <div class="discontinued_product_bg"></div>
+	<p class="discontinued_product_txt1">Discontinued Product Not Available for sales now</p>
+	<p class="discontinued_product_txt2">Last Price was - AED </p>
 </div>
+</form>
+<script type="text/javascript" language="JavaScript">
+<!--
+
+Shadowbox.loadSkin('classic3', '/skin/common_files/shadowbox-cart/src/skin');
+Shadowbox.loadPlayer(['iframe'], '/skin/common_files/shadowbox-cart/src/player');
+
+function shadow_box_init(){
+   Shadowbox.init({
+        // let's skip the automatic setup because we don't have any
+        // properly configured link elements on the page
+        // language: 'en', 
+        skipSetup: true,
+        players:['iframe'],
+        modal:false
+    });
+};
+function shadowBoxOpen(prdid){
+shadow_box_init();
+        Shadowbox.open({
+      	content:   'http://mygsm.me/pre_order_email.php?productid='+prdid,
+        player:    "iframe",
+        title:     "",
+        height:    420,
+        width:     500
+    });
+    }
+
+
+-->
+</script>      	             </div> </td></tr></tbody></table> </div>
+	
+	
+	
+	<a href="#" class="scrollToTop" style="position: absolute;right: 7px;top: 14px;"><img src="/skin/MyGSM-MM/images/back-to-top-button.png" style="width: 30px;height: 30px !important;"></a>
+	</div>
+	
+	
 </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	//Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 175) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	
+	//Click event to scroll to top
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+	
+});</script>
+
+
+<script type="text/javascript">
+ $(function(){var shrinkHeader=175;
+ $(window).scroll(function(){
+ var scroll=getCurrentScroll();
+ if(scroll>=shrinkHeader)
+ {$('.line00').show();
+$('.line0').hide();
+
+$('#page-container').addClass('fade-in one');
+$('.line00').data('size','big');
+$('.line00').stop().animate({marginTop:'0px'},100);
+
+ }
+else{ $('.line0').show();
+$('.line00').hide();
+$('#page-container').removeClass('fade-in one');
+$('.line00').data('size','small');$('.line00').stop().animate({marginTop:'10px'},100);
+
+
+}});
+function getCurrentScroll(){return window.pageYOffset;}});
+</script>
+
 <noscript>
   <div class="noscript-warning">
     <div class="content">This site requires JavaScript to function properly.<br />Please enable JavaScript in your web browser.</div>
@@ -982,6 +1473,21 @@ $("#semail").focus(function() {
     </div>
 
     
+          <script type="text/javascript">
+//<![CDATA[[CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[[CDATA[
+try{
+var pageTracker = _gat._getTracker("UA-8345791-2");
+pageTracker._trackPageview();
+} catch(err) {}
+//]]>
+</script>
     
   </div>
 </div>
@@ -1008,4 +1514,4 @@ loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure"
 olark.identify('3124-528-10-9317');/*]]>*/</script><noscript><a href="https://www.olark.com/site/3124-528-10-9317/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
 <!-- end olark code -->
 
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f2fed820589d6a&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f6ea1da48c6884&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
