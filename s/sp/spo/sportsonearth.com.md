@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322020315id_/http%3A//www.sportsonearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122924id_/http%3A//www.sportsonearth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SportsonEarth.com : Privacy Policy
 
@@ -6,7 +6,7 @@
 
 PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER SPORTSONEARTH.COM PRODUCT OR SERVICE.
 
-MLB Advanced Media, L.P. ("MLBAM"), in association with USA TODAY Sports (together, the "Providers" or "we" or "us"), is the organization that produces and publishes SportsOnEarth.com (this "Website") and certain related downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Applications, which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services. 
+MLB Advanced Media, L.P. is the organization that produces and publishes SportsOnEarth.com (this "Website") and certain related downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Applications, which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services. 
 
   1. **Personal Information Collected Via Our Services**  
 Information You Provide. You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to, full name, street address, email address, telephone number(s), birth date, payment card information and location data. If we collect such information, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information; there may also be opportunities for you to grant permission for use of your information in a manner set forth on the applicable page(s) within the Services. 
@@ -39,7 +39,7 @@ When using our Services or when using certain third party social networking serv
 We may share aggregated demographic information with third parties. This information is not linked to personal information that can identify you or another individual person. 
 
     * **Business Transfers.**  
-As time passes, the Providers may be sold along with their respective assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer. 
+As time passes, we may be sold along with our assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer. 
 
     * **Disclosure for Legal Purposes.**  
 We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Terms of Use of any of our Services or as required by law.
@@ -62,7 +62,7 @@ We do not install any spyware or adware in connection with our Services, or dist
 The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
     * **Links.**  
-Our Services contain links to other websites and products produced by MLB Advanced Media, L.P., USA TODAY Sports, and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+Our Services contain links to other websites and products produced by MLB Advanced Media, L.P. and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
     * **Your California Privacy Rights.**  
 If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to privacy@website.mlb.com or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011. 
@@ -87,4 +87,4 @@ If we make an important change to this Privacy Policy, we will post a notificati
 
 
 
-Last updated and effective date: 06/27/2012
+Last updated and effective date: 08/19/2014
