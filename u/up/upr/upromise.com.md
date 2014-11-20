@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323123606id_/http%3A//www.upromise.com/linkto/welcome/details/privacy%3Fcm_re%3Dv1%7C/welcome-_-Unknown%7CUnknown-_-/welcome/details/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110528id_/http%3A//www.upromise.com/linkto/welcome/details/privacy%3Fcm_re%3Dv1%7C/welcome-_-Unknown%7CUnknown-_-/welcome/details/privacy) for the most accurate reproduction.*
 
 # Privacy at Upromise
 
@@ -36,7 +36,7 @@ Please note that information you voluntarily post in bulletin boards, chat rooms
 
 Information about our members, former members, website visitors and mobile application users is an important part of our business. We do not share your personal information except as permitted or required by law, including as provided below: 
 
-_Affiliates_. We may provide personal information about you to our affiliates to the extent permitted by applicable law. Our affiliates are the family of companies controlled by SLM Corporation and include, among others, Sallie Mae, Inc., Student Loan Funding Resources, Nellie Mae Corporation, Southwest Student Services Corporation, Student Loan Finance Association, Academic Management Services Corp., SLM Financial Corporation, and Sallie Mae Bank. 
+_Affiliates_. We may provide personal information about you to our affiliates to the extent permitted by applicable law. Our affiliates are the family of companies controlled by SLM Corporation and include, among others, Sallie Mae Bank and Navient Solutions, Inc. 
 
 Unless you tell us not to, we may share with our affiliates all of the information we obtain about you. If you prefer that we not share with our affiliates consumer report information that we may receive about you, you may direct us not to do so by clicking on this [link](https://web.archive.org/secure/affiliate/sharing/optOut.do) and providing the requested information. Please be aware that we may continue to share any other information as permitted by law. 
 
@@ -87,4 +87,4 @@ _Cookies_ \- A "cookie" is a small string of text that is sent to your computer 
 
 _Personal Information_ \- "personal information" is information that personally identifies you to the party receiving such information, including but not limited to your name, address, email address and social security number. 
 
-Effective Date: January 31, 2014 
+Effective Date: May 1, 2014 
