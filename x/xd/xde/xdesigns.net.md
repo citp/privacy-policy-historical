@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xdesigns.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071837id_/http%3A//xdesigns.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdesigns.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121004059id_/http%3A//xdesigns.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - XDesigns
 
