@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034822id_/http%3A//www.homesecuritystore.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202546id_/http%3A//www.homesecuritystore.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-**Home Security Store, Inc. | Privacy Statement**
+Home Security Store, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
-Home Security Store, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:
+### Information That We Collect
 
-* * *
-
-**Information That We Collect**  
-We use your IP address to help diagnose problems with our server, and to administer our Website. We use cookies to deliver content specific to your interests.
+We use your IP address to help diagnose problems with our server, and to administer our Website. We use cookies to deliver content specific to your interests. 
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information, such as account or credit card numbers). Contact information from the order form is used to send orders to our customers, verify certain information, or for other communications regarding their purchases. Users may opt-out of receiving future mailings; see the Opt-Out section below. Financial information that is collected is used to check the users' qualifications, and process transactions. 
 
-Back to Top
+**Back to Top**
 
-* * *
+### Opt-Out/Modify
 
-**Opt-Out/ Modify**  
 This site gives users the following options for modifying or removing their information from our communications database. 
 
   * Send an email to [customerservice@homesecuritystore.com](mailto:customerservice@homesecuritystore.com)
@@ -25,49 +21,48 @@ This site gives users the following options for modifying or removing their info
 
 
 
-Back to Top
+**Back to Top**
 
-* * *
+### Links to Other Sites
 
-**Links to Other Sites**  
 This website contains links to other sites that are not owned or controlled by HOME SECURITY STORE, INC. Home Security Store, Inc. is not responsible for the privacy practices or the content of such websites. 
 
-Back to Top
+**Back to Top**
 
-* * *
+### Home Security Store Forum
 
-**Home Security Store Forum**  
-IF YOU USE THE HOME SECURITY STORE WEBSITE FORUM, YOU SHOULD BE AWARE THAT ANY PERSONALLY IDENTIFIABLE INFORMATION YOU SUBMIT THERE CAN BE READ, COLLECTED, OR USED BY OTHER USERS OF THESE FORUMS, AND COULD BE USED TO SEND YOU UNSOLICITED MESSAGES. WE ARE NOT RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE INFORMATION YOU CHOOSE TO SUBMIT IN THESE FORUMS, NOR ARE WE RESPONSIBLE FOR ANY CONSEQUENCES OF SUCH ACTIONS. 
+IF YOU USE THE HOME SECURITY STORE WEBSITE FORUM, YOU SHOULD BE AWARE THAT ANY PERSONALLY IDENTIFIABLE INFORMATION YOU SUBMIT THERE CAN BE READ, COLLECTED, OR USED BY OTHER USERS OF THESE FORUMS, AND COULD BE USED TO SEND YOU UNSOLICITED MESSAGES. WE ARE NOT RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE INFORMATION YOU CHOOSE TO SUBMIT IN THESE FORUMS, NOR ARE WE RESPONSIBLE FOR ANY CONSEQUENCES OF SUCH ACTIONS. 
 
-Back to Top
+**Back to Top**
 
-* * *
+### Third-Party Privacy Policies
 
-  
-**Third-Party Advertisers**  
-Home Security Store, Inc. websites uses third party vendors, including Google, which use cookies to serve the Google Trusted Store badge and other ads based on a user's prior visits to our website. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>
+ome Security Store, Inc. websites uses third party vendors, including Google, which use cookies to serve the Google Trusted Store badge and other ads based on a user's prior visits to our website. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. For further information regarding the privacy practices of our advertisement provider, please visit <http://www.google.com/privacypolicy.html>
 
-Users may opt out of Google's use of cookies by visiting the [ Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).
+Users may opt out of Google's use of cookies by visiting the [ Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). 
 
-Back to Top
+**Back to Top**
 
-* * *
+### Your Security
 
-**Your Security**  
-We employ strict guidelines and use every reasonable effort to ensure the highest level of integrity across our organization; for the common purpose of safeguarding your personal information. Our shopping cart, and subsequently the entire transaction process is secured by a Secure Socket Layer (SSL) Certificate which employs 2048-bit public key encryption, the highest standard available. The Home Security Store, Inc. website uses this method throughout the entire transaction process, from the time that your personal information is requested, to the end of the transaction. For further information regarding our use of SSL Certification, we recommend that you contact the certificate issuer: 
+We employ strict guidelines and use every reasonable effort to ensure the highest level of integrity across our organization; for the common purpose of safeguarding your personal information. Our shopping cart, and subsequently the entire transaction process is secured by a Secure Socket Layer (SSL) Certificate which employs 2048-bit public key encryption, the highest standard available. The Home Security Store, Inc. website uses this method throughout the entire transaction process, from the time that your personal information is requested, to the end of the transaction. For further information regarding our use of SSL Certification, we recommend that you contact the certificate issuer: **VeriSignWebsite:** [www.VeriSign.com](http://www.verisign.com/)
 
-> **VeriSign**  
->  Website: [www.VeriSign.com](http://www.verisign.com/)
+**Back to Top**
 
-Back to Top
+### Changes in this Privacy Statement
 
-* * *
+If we decide to change our privacy policy, we will post those changes to this privacy statement.We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement.We reserve the right to modify this privacy statement at any time, so please review it frequently. 
+  * Visa®
+  * MasterCard®
+  * American Express®
+  * Discover®
 
-Back to Top
 
-* * *
 
-**This document was last revised: September 14, 2012**
+You may also pay for your orders with Google Check out, Pay-Pal, Money Orders, or Check payment.   
+
+
+**Back to Top**
+
+ **This document was last revised: October 22, 2013**
