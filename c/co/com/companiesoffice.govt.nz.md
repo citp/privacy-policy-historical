@@ -1,59 +1,63 @@
-> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523195254id_/http%3A//www.business.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084451id_/http%3A//www.business.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
 
 # Privacy statement | Companies Office The Official Site
 
-The Ministry of Business, Innovation and Employment systems to which this website connects and related equipment may be subject to monitoring.  Personal information regarding users may be collected for statistical purposes in determining the use of this website.  We may use information it holds to prevent and detect fraud; we may also share such information, for the same purpose, with other organisations.
+## Purpose
 
-The information we may collect about you will not be disclosed to any other person in a form that will identify you except in the following circumstances:
+The purpose of this privacy statement is to let users of **Companies.govt.nz** know when we collect personal information and what we do with it. We do not use, share or disclose personal information collected or received through this website except as set out in this statement.
 
-  1. Where you have consented to such disclosure or
-  2. Where such disclosure is required or permitted by the Privacy Act 1993 or otherwise required or permitted by law.
+## Scope
 
+This privacy statement applies to personal information collected through the Ministry of Business, Innovation and Employment’s (MBIE) website: **Companies.govt.nz**
 
+## Collection, storage and use
 
-If you have any queries regarding privacy issues, please contact the Office of the Privacy Commissioner:
+You can use **Companies.govt.nz** without disclosing any personal information.
 
-Phone: 09-302 8655 or 0800 803 909   
-Fax: 09-302 2305
+### Voluntary disclosure of personal information
 
-## Cookies
+You may choose to voluntarily provide personal information through this website (e.g. in comments, questions or feedback). This information will be viewable by site administrators, MBIE staff (as appropriate) and sometimes third-party contractors who administrate or work on the site.
 
-Browser cookies are used by this website to provide us with information about site usage that enable us to improve the service offered to site visitors.  Cookies are small files which are sent by a website and stored on your computer's hard drive.  The data is collected and aggregated to enable us to improve our websites.  Cookies from this site are not used to gather or allow the gathering of any personally identifiable information and are not used to track individual user activity around this site.
+### Collection of personal information
 
-You may manually disable cookies at any time - check your browser's **Help**.  This will not affect your ability to view the site.
+MBIE may ask or require you (including where required by legislation administered by MBIE) to provide some personal information when you complete an online form (e.g. by submitting information to the Registrar through an online service, or through the site Contact form or a form to subscribe to site updates or news). If you choose not to provide information where it is required by law, you may not be entitled to the service or benefit offered or could be in breach of statutory obligations.
 
-## Information held on our Registers
+If you wish to apply for a job with us, you will be required to register your details with us in order to create an account, maintain a profile so we can match your skills and preferences against upcoming positions, apply for positions, sign up for and receive alerts, and manage any applications.
 
-The Companies Office may collect and maintain information about individuals where required by the following Acts:
+[Top](http://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
-  * Companies Act 1993
-  * Incorporated Societies Act 1908
-  * Limited Partnerships Act 2008
-  * Charitable Trusts Act 1957
-  * Building Societies Act 1965
-  * Securities Act 1978
-  * Farmers Mutual Group Act 2007
-  * Friendly Societies and Credit Unions Act 1982
-  * Industrial and Provident Societies Act 1908
-  * Securities (Mutual Recognition of Securities Offerings - Australia) Regulations 2008
-  * Retirement Villages Act 2003
-  * Superannuation Schemes 1989
-  * Unit Trusts 1960
+### Holding of information
 
+When you provide personal information, it will be held by MBIE. It may be stored or accessed on behalf of MBIE by authorised third parties (such as third-party contractors) to the extent that is necessary, for example for them to administrate or work on the site. We will store and keep it secure in accordance with the Privacy Act 1993 and agents will be subject to MBIE’s information security and privacy requirements.
 
+### Disclosure of information
 
-Information about any individual is held, maintained and may be viewed in accordance with the Privacy Act 1993 and other relevant legislation.
+MBIE will generally not share personal information that is provided or collected through this website, unless it is necessary to do so for the purpose for which you gave us the information (e.g. to investigate a complaint) or where you consent. MBIE will not otherwise disclose personal information provided or collected through this website unless required or otherwise permitted by law.
+
+### Use of personal information
+
+We will generally only use personal information provided to us through this website for the purpose you provided it (e.g. to administer, evaluate and improve the site, to improve our services and to action or respond to the information provided). We may also use personal information provided to us through this website for other reasons permitted under the Privacy Act (e.g. with your consent, for a directly related purpose, or where the law permits or requires it).
+
+## Records and retention of personal information
+
+MBIE will only retain personal information as long as it is required for the purposes for which the information may lawfully be used.
+
+### Public records
+
+Where any information provided (which may include personal information) to or through this site constitute public records, it will be retained to the extent required by the Public Records Act 2005. MBIE may also be required to disclose information under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
+
+ [Top](http://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
 ## Registered users
 
-When you become a registered user of this website, personal information will be collected from you.  This information is collected for two purposes:
+When you become a registered user of this website, personal information will be collected from you. This information is collected for two purposes:
 
   * for the management of your account with us; and
-  * for determining the usage of this website.
+  * for determining the usage of this website. 
 
 
 
-If you do not provide the information requested when you attempt to register, you cannot become a registered user of this website.  You may correct any errors in the information you have provided at any time.
+If you do not provide the information requested when you attempt to register, you cannot become a registered user of this website
 
 ## Call recording
 
@@ -61,16 +65,71 @@ As part of our commitment to providing the best possible service to our customer
 
 We record calls:
 
-  * for staff training purposes, helping us to improve the quality of our customer service and to ensure the information we provide is consistent and accurate
-  * so we can find ways to simplify our service to you, and
+  * for staff training purposes, helping us to improve the quality of our customer service and to ensure the information we provide is consistent and accurate;
+  * so we can find ways to simplify our service to you; and
   * to ensure we have an accurate record of your call, which may be needed to support any transactions that take place over the phone and/or if there is a dispute.
 
 
 
-We understand your personal information is important and we are committed to protecting your privacy. We store the recordings securely for two years and destroy them after this period.
+We understand your personal information is important to you, and we are committed to protecting your privacy. We store the recordings securely for two years and destroy them after this period.
 
-Unless we have lawful reason for withholding this information you can request access to a transcript of your call by phoning 0508 266 726 and asking for the Privacy Officer.
+Unless we have lawful reason for withholding this information, it will be made available if you request access to a transcript of your call by phoning 0508 266 726 and asking for the Privacy Officer.
 
-## Subscribers to Business Update
+ [Top](http://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
-We take your privacy very seriously.  Your contact details, collected during the subscription process, will only be used by us to send you relevant information.  They will not be forwarded to other organisations and you can change your personal details or unsubscribe from [Business Update](http://news.business.govt.nz/ "\[Link to the Business Update newsletter\]. ") at any time.
+## Rights of access and correction
+
+### Your rights
+
+You have the right to:
+
+  * find out from us whether we hold personal information about you
+  * access that information; and, if applicable
+  * request corrections to that information.
+
+
+
+If MBIE has a good reason for refusing a request for correction, you are entitled to request that a statement be attached to the information of the correction that was sought but not made.
+
+If you want to check personal information that we hold, please write to:
+
+Privacy Officer  
+Companies Office  
+Northern Business Centre  
+Private Bag 92061  
+Victoria Street West  
+Auckland 1142.
+
+For more information on the privacy laws in New Zealand and contact details for the Office of the Privacy Commissioner, please visit the [Privacy Commissioner's website](https://opcwebsite.cwp.govt.nz/ "\[link to Privacy Commissioner's website\]. ").
+
+ [Top](http://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
+
+## Statistical information and cookies
+
+### Statistical information
+
+We may collect statistical information about your visit to help us improve this site. This information is aggregated and non-personally identifying. It includes:
+
+  * your IP address;
+  * the search terms you used;
+  * the pages you accessed on our Site and the links you clicked on;
+  * the date and time you visited the site;
+  * the referring site (if any) through which you clicked through to this Site;
+  * the device you used to access the site;
+  * your operating system (e.g. Windows XP, Mac OSX);
+  * the type of web browser you use (e.g. Internet Explorer, Mozilla Firefox); and
+  * their incidental matters such as screen resolution, the release of your installed Flash version and the language setting of your browser.
+
+
+
+The statistical information referred to above will be viewable by site administrators and certain other MBIE staff. It may also be shared with other government agencies.
+
+### Cookies
+
+Browser or ‘web’ cookies are small text files that are sent by a website and stored on your computer's hard drive. Cookies are generally used to improve your experience of a website (e.g. by remembering preferences you have set) and to track site usage.
+
+MBIE does not use cookies on this website to gather any personally identifiable information. We use cookies to gather data about trends in site usage using a tool called Google Analytics.
+
+You can read Google’s privacy statement, and access a Google Analytics opt-out tool, at the [Google Privacy Center](http://www.google.com/intl/en/policies/privacy/ "\[link to Google website\] Privacy and terms. ").
+
+You can manually disable cookies at any time - check your browser's 'Help' to find out how (disabling cookies will not affect your ability to use this website).
