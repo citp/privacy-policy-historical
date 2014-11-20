@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingteacher.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064459id_/http%3A//www.readingteacher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingteacher.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010526id_/http%3A//www.readingteacher.com/privacy) for the most accurate reproduction.*
 
 # ReadingTeacher.com - Teach beginning reading with systematic phonics
 
