@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065524id_/http%3A//americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbulls.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120171039id_/http%3A//www.americanbulls.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY
+Privacy Policy
 
 This Privacy Policy governs the manner in which Americanbulls.com LLC collects, uses, maintains and discloses information collected from users of the www.americanbulls.com website. This privacy policy applies to the website and all products and services offered by Americanbulls.com LLC.
 
