@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the choicebankltd.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123159id_/http%3A//www.choicebankltd.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choicebankltd.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170335id_/http%3A//www.choicebankltd.com/privacy-policy) for the most accurate reproduction.*
 
-# Choice Bank Ltd. :: About Choice :: Privacy Policy
+# Privacy Policy | Choice Bank Limited
 
-We know how concerned you are with the confidentiality of your sensitive personal information. It's our top priority too. That's why we've taken all necessary steps to implement policies and procedures to protect your personal information.
+## Your Personal Information is Secure
 
-To put your mind at ease, please read how we collect and use your personal information to maintain its confidentiality and accuracy. You'll also learn how you can verify the accuracy of information regarding your relationship with us. Please note; this disclosure applies to former Choice Bank customers as well as existing customers.
+We know how concerned you are with the confidentiality of your sensitive personal information. It’s our top priority too. That’s why we’ve taken all necessary steps to implement policies and procedures to protect your personal information.
 
- **How We Obtain Personal Client Information**  
+To put your mind at ease, please read how we collect and use your personal information to maintain its confidentiality and accuracy. You’ll also learn how you can verify the accuracy of information regarding your relationship with us. Please note; this disclosure applies to former Choice Bank customers as well as existing customers.
+
+**How We Obtain Personal Client Information**  
 We collect nonpublic personal information about our clients from the following sources:
 
   * Information we receive from applications.
@@ -16,7 +18,7 @@ We collect nonpublic personal information about our clients from the following s
 
 
 
- **How we Maintain Personal Client Information**  
+**How we Maintain Personal Client Information**  
 We also maintain various types of information including:
 
   * Identifying information, such as Tax ID, jurisdiction of incorporation, names, addresses, and passwords.
@@ -27,18 +29,18 @@ We also maintain various types of information including:
 
 
 
-Contact us regarding your Personal Information If you would like to have previously submitted information deleted from our Web-based marketing databases, please contact us via e-mail at info@choicebankltd.com.
+Contact us regarding your Personal Information If you would like to have previously submitted information deleted from our Web-based marketing databases, please contact us via e-mail at [info@choicebankltd.com](mailto:info@choicebankltd.com).
 
- **Disclosure to Nonaffiliated Third Parties**   
+**Disclosure to Nonaffiliated Third Parties**  
 Choice Bank will not sell or provide your personal information to any third parties for their independent use. However, we may disclose information about you, including nonpublic personal information, to nonaffiliated third parties (persons or companies who do not own or control, are not owned or controlled by, or are not under common control with Cambridge) as described below:
 
- **Legally Required Disclosure**  
+**Legally Required Disclosure**  
 We may use all of the information we collect, as described above, to satisfy legal requirements. For example, we may use your social security number or Tax ID number for income tax reporting purposes. We will also share your nonpublic personal information with government agencies and authorized enforcement investigators as required or allowed by law, including in order to comply with applicable government reporting or legal process (such as court orders, subpoenas, or government requests, and current anti-money laundering legislation). We do so where it is reasonable for us to believe this request is legitimate and valid or we are required to do so.
 
- **Disclosure with Your Consent**  
+**Disclosure with Your Consent**  
 We may disclose the information that we collect, as described above, with any person when you have provided your written consent for us to do so, including when you give someone a power of attorney or other authorization to act on your behalf.
 
- **Disclosure Concerns** :
+**Disclosure Concerns** :
 
   * Disclosure to service providers. We do not disclose information we collect, as described above, to companies that provide financial services for us.
   * Disclosure for marketing purposes. We do not disclose information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
@@ -47,5 +49,5 @@ We may disclose the information that we collect, as described above, with any pe
 
 
 
- **Secure Electronic Exchange**  
+**Secure Electronic Exchange**  
 The security of your accounts and your information is of utmost importance to us. We consider your trust one of our most valuable assets. Together with our technology partners, we are committed to providing you with the most secure environment possible.
