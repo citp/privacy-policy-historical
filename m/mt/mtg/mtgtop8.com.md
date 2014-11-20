@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073204id_/http%3A//mtgtop8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgtop8.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094841id_/http%3A//www.mtgtop8.com/privacy) for the most accurate reproduction.*
 
 # MtG Decks Database
 
