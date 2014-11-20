@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lotmobiles.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626034143id_/http%3A//www.lotmobiles.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lotmobiles.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120133801id_/http%3A//www.lotmobiles.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,12 +21,12 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" src="http://www.lotmobiles.com/skin/frontend/default/lot/js/jquery-1.4.4.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://www.lotmobiles.com/skin/frontend/default/lot/css/print.css" media="print">
-<script type="text/javascript" src="http://www.lotmobiles.com/media/js/b742ec4b827f68a29892fcbda605242b.js"></script>
+<script type="text/javascript" src="http://www.lotmobiles.com/media/js/4eb13388e093732626b8b0de773db71f.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.lotmobiles.com/skin/frontend/default/lot/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.lotmobiles.com/media/js/92f32aea975e42af6e9a2c1b9f5a8926.js"></script>
+<script type="text/javascript" src="http://www.lotmobiles.com/media/js/7e90774792bada8dc5c1cea62c58c8d5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -78,7 +78,155 @@ fb_param.currency = 'INR';
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6012351677890&amp;value=0&amp;currency=INR" /></noscript>
 
 
-</head>
+
+<!-- Diwali blast effect JS-->
+<script type="text/javascript">// <![CDATA[
+var bits=80; // how many bits
+var speed=33; // how fast - smaller is faster
+var bangs=5; // how many can be launched simultaneously (note that using too many can slow the script down)
+var colours=new Array("#03f", "#f03", "#0e0", "#93f", "#0cf", "#f93", "#f0c", "#ff0"); 
+//                     blue    red     green   purple  cyan    orange  pink    yellow
+
+/****************************
+*      Fireworks Effect     *
+*(c)2004-11 mf2fm web-design*
+*  http://www.mf2fm.com/rv  *
+* DON'T EDIT BELOW THIS BOX *
+****************************/
+var bangheight=new Array();
+var intensity=new Array();
+var colour=new Array();
+var Xpos=new Array();
+var Ypos=new Array();
+var dX=new Array();
+var dY=new Array();
+var stars=new Array();
+var decay=new Array();
+var swide=800;
+var shigh=600;
+var boddie;
+
+window.onload=function() { if (document.getElementById) {
+  var i;
+  boddie=document.createElement("div");
+  boddie.style.position="fixed";
+  boddie.style.top="0px";
+  boddie.style.left="0px";
+  boddie.style.overflow="visible";
+  boddie.style.zIndex="999";
+  boddie.style.width="1px";
+  boddie.style.height="1px";
+  boddie.style.backgroundColor="transparent";
+  document.body.appendChild(boddie);
+  set_width();
+  for (i=0; i<bangs; i++) {
+    write_fire(i);
+    launch(i);
+    setInterval('stepthrough('+i+')', speed);
+  }
+}}
+
+function write_fire(N) {
+  var i, rlef, rdow;
+  stars[N+'r']=createDiv('|', 12);
+  boddie.appendChild(stars[N+'r']);
+  for (i=bits*N; i<bits+bits*N; i++) {
+    stars[i]=createDiv('*', 13);
+    boddie.appendChild(stars[i]);
+  }
+}
+
+function createDiv(char, size) {
+  var div=document.createElement("div");
+  div.style.font=size+"px monospace";
+  div.style.position="absolute";
+  div.style.backgroundColor="transparent";
+  div.appendChild(document.createTextNode(char));
+  return (div);
+}
+
+function launch(N) {
+  colour[N]=Math.floor(Math.random()*colours.length);
+  Xpos[N+"r"]=swide*0.5;
+  Ypos[N+"r"]=shigh-5;
+  bangheight[N]=Math.round((0.5+Math.random())*shigh*0.4);
+  dX[N+"r"]=(Math.random()-0.5)*swide/bangheight[N];
+  if (dX[N+"r"]>1.25) stars[N+"r"].firstChild.nodeValue="/";
+  else if (dX[N+"r"]<-1.25) stars[N+"r"].firstChild.nodeValue="\\";
+  else stars[N+"r"].firstChild.nodeValue="|";
+  stars[N+"r"].style.color=colours[colour[N]];
+}
+
+function bang(N) {
+  var i, Z, A=0;
+  for (i=bits*N; i<bits+bits*N; i++) { 
+    Z=stars[i].style;
+    Z.left=Xpos[i]+"px";
+    Z.top=Ypos[i]+"px";
+    if (decay[i]) decay[i]--;
+    else A++;
+    if (decay[i]==15) Z.fontSize="7px";
+    else if (decay[i]==7) Z.fontSize="2px";
+    else if (decay[i]==1) Z.visibility="hidden";
+    Xpos[i]+=dX[i];
+    Ypos[i]+=(dY[i]+=1.25/intensity[N]);
+  }
+  if (A!=bits) setTimeout("bang("+N+")", speed);
+}
+
+function stepthrough(N) { 
+  var i, M, Z;
+  var oldx=Xpos[N+"r"];
+  var oldy=Ypos[N+"r"];
+  Xpos[N+"r"]+=dX[N+"r"];
+  Ypos[N+"r"]-=4;
+  if (Ypos[N+"r"]<bangheight[N]) {
+    M=Math.floor(Math.random()*3*colours.length);
+    intensity[N]=5+Math.random()*4;
+    for (i=N*bits; i<bits+bits*N; i++) {
+      Xpos[i]=Xpos[N+"r"];
+      Ypos[i]=Ypos[N+"r"];
+      dY[i]=(Math.random()-0.5)*intensity[N];
+      dX[i]=(Math.random()-0.5)*(intensity[N]-Math.abs(dY[i]))*1.25;
+      decay[i]=16+Math.floor(Math.random()*16);
+      Z=stars[i];
+      if (M<colours.length) Z.style.color=colours[i%2?colour[N]:M];
+      else if (M<2*colours.length) Z.style.color=colours[colour[N]];
+      else Z.style.color=colours[i%colours.length];
+      Z.style.fontSize="13px";
+      Z.style.visibility="visible";
+    }
+    bang(N);
+    launch(N);
+  }
+  stars[N+"r"].style.left=oldx+"px";
+  stars[N+"r"].style.top=oldy+"px";
+} 
+
+window.onresize=set_width;
+function set_width() {
+  var sw_min=999999;
+  var sh_min=999999;
+  if (document.documentElement && document.documentElement.clientWidth) {
+    if (document.documentElement.clientWidth>0) sw_min=document.documentElement.clientWidth;
+    if (document.documentElement.clientHeight>0) sh_min=document.documentElement.clientHeight;
+  }
+  if (typeof(self.innerWidth)!="undefined" && self.innerWidth) {
+    if (self.innerWidth>0 && self.innerWidth<sw_min) sw_min=self.innerWidth;
+    if (self.innerHeight>0 && self.innerHeight<sh_min) sh_min=self.innerHeight;
+  }
+  if (document.body.clientWidth) {
+    if (document.body.clientWidth>0 && document.body.clientWidth<sw_min) sw_min=document.body.clientWidth;
+    if (document.body.clientHeight>0 && document.body.clientHeight<sh_min) sh_min=document.body.clientHeight;
+  }
+  if (sw_min==999999 || sh_min==999999) {
+    sw_min=800;
+    sh_min=600;
+  }
+  swide=sw_min;
+  shigh=sh_min;
+}
+// ]]></script></head>
 <body class=" cms-page-view cms-privacy-policy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -162,26 +310,20 @@ _gaq.push(['_trackPageview']);
                                             <!--<option value="28">Celkon</option>-->
                                             <!--<option value="29">Apple</option>-->
                                             <!--<option value="42">Gionee</option>-->
+                                            <!--<option value="74">Xolo</option>-->
                                                                 <option data-label="http://www.lotmobiles.com/featured-phones.html" value="44">Featured Phones</option>
                                                             <!--<option value="45">Nokia</option>-->
                                             <!--<option value="46">Samsung</option>-->
                                             <!--<option value="47">Celkon</option>-->
                                             <!--<option value="48">Micromax</option>-->
                                             <!--<option value="49">Karbonn</option>-->
+                                            <!--<option value="73">Gionee</option>-->
                                                                 <option data-label="http://www.lotmobiles.com/tablets.html" value="4">Tablets / PC</option>
                                                                                 <option data-label="http://www.lotmobiles.com/accessories.html" value="38">Accessories</option>
                                                             <!--<option value="70">Flip Covers</option>-->
-                                                                <option data-label="http://www.lotmobiles.com/deal-of-the-week.html" value="50">Deal Of The Week</option>
+                                                                <option data-label="http://www.lotmobiles.com/anniversary-sale.html" value="50">Smart Fest Offers</option>
                                                                                 <option data-label="http://www.lotmobiles.com/discount-sale.html" value="54">Discount Sale</option>
-                                                                                <option data-label="http://www.lotmobiles.com/new-prices.html" value="57">Nexus 4</option>
-                                                                                <option data-label="http://www.lotmobiles.com/canvas-4.html" value="58">Canvas 4</option>
-                                                                                <option data-label="http://www.lotmobiles.com/lumia-625.html" value="61">Lumia 625</option>
-                                                                                <option data-label="http://www.lotmobiles.com/sony-m-dual.html" value="62">Sony M Dual</option>
-                                                                                <option data-label="http://www.lotmobiles.com/note-3.html" value="63">Note 3</option>
-                                                                                <option data-label="http://www.lotmobiles.com/samsung-s-duos.html" value="64">Samsung s duos</option>
-                                                                                <option data-label="http://www.lotmobiles.com/lumia-520.html" value="65">Lumia 520</option>
-                                                                                <option data-label="http://www.lotmobiles.com/celkon-a118.html" value="66">celkon a118</option>
-                                                                                <option data-label="http://www.lotmobiles.com/samsung-grand-2.html" value="68">Samsung Grand 2</option>
+                                                                                <option data-label="http://www.lotmobiles.com/apple-iphone-6-coupon.html" value="64">Apple Iphone 6 Coupon</option>
                                                                 												<option data-label="http://www.lotmobiles.com/mobiles/samsung.html" value="8">Samsung</option>
 												<option data-label="http://www.lotmobiles.com/mobiles/nokia.html" value="9">Nokia</option>
 												<option data-label="http://www.lotmobiles.com/mobiles/micromax.html" value="10">Micromax</option>
@@ -193,6 +335,7 @@ _gaq.push(['_trackPageview']);
 												<option data-label="http://www.lotmobiles.com/mobiles/celkon.html" value="28">Celkon</option>
 												<option data-label="http://www.lotmobiles.com/mobiles/apple.html" value="29">Apple</option>
 												<option data-label="http://www.lotmobiles.com/mobiles/gionee.html" value="42">Gionee</option>
+												<option data-label="http://www.lotmobiles.com/mobiles/xolo.html" value="74">Xolo</option>
 			        </select>
 		</div>
         <button type="submit" title="Search" onclick="mani()" class="button"><span><span>Search</span></span></button>
@@ -246,168 +389,6 @@ function mani()
     </div>
 </div>
 
-<div class="poplogin">
-<script type="text/javascript">
-jQuery(document).ready(function() {
-
-var id = '#dialog';
-
-//Get the screen height and width
-var maskHeight = jQuery(document).height();
-var maskWidth = jQuery(window).width();
-
-//Set heigth and width to mask to fill up the whole screen
-jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
-
-//transition effect
-jQuery('#mask').fadeIn(1000);
-jQuery('#mask').fadeTo("slow",0.8);
-
-//Get the window height and width
-var winH = jQuery(window).height();
-var winW = jQuery(window).width();
-             
-//Set the popup window to center
-jQuery(id).css('top',  winH/2-jQuery(id).height()/2);
-jQuery(id).css('left', winW/2-jQuery(id).width()/2);
-
-//transition effect
-jQuery(id).fadeIn(1000);
-
-//if close button is clicked
-jQuery('.window .close').click(function (e) {
-//Cancel the link behavior
-e.preventDefault();
-
-jQuery('#mask').hide();
-jQuery('.window').hide();
-});
-
-//if mask is clicked
-//$('#mask').click(function () {
-// $(this).hide();
-// $('.window').hide();
-//});
-
-});
-
-</script>
-<style type="text/css">
-#mask {
-  position:absolute;
-  left:0;
-  top:0;
-  z-index:9000;
-  background-color:#5A5A5A;
-  display:none;
-} 
-.poplogin .window {
-  position:absolute;
-  left:0;
-  top:0;
-  width:700px;
-  height:200px;
-  display:none;
-  z-index:9999;
-  padding:20px;
-}
-.poplogin #dialog {
-  width:530px;
-  padding:0;
-}
-.poplogin .innerpg {
-  padding:10px;
-  background-color:#ffffff;
-  border-radius:8px;
-   width:95%;
-height:250px;
-}
-</style>
-
-<div style="top: 199.5px; left: 551.5px; display: none;" id="dialog" class="window">
-<div style="float:left;" class="innerpg">
-<a href="#" class="close"></a>
-
-
-
-<div class="account-login">
-
-
-    <!--<div class="page-title">
-        <h1>Login or Create an Account</h1>
-    </div>-->
-                <form action="http://www.lotmobiles.com/customer/account/loginPost/" method="post" id="login-form">
-        <!--<div class="col2-set">-->
-            <!--<div class="col-1 new-users">
-                <div class="content">
-                    <h2>New Customers</h2>
-                    <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
-                </div>
-            </div>-->
-            <div class="col-2 registered-users">
-                <div class="content">
-                    <h2>Login</h2>
-                    <!--<p>If you have an account with us, please log in.</p>-->
-                    <ul class="form-list">
-                        <li>
-                            <label for="email" class="required"><em>*</em>Email Address</label>
-                            <div class="input-box">
-                                <input type="text" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="Email Address">
-                            </div>
-                        </li>
-                        <li>
-                            <label for="pass" class="required"><em>*</em>Password</label>
-                            <div class="input-box">
-                                <input type="password" name="login[password]" class="input-text required-entry validate-password" id="pass" title="Password">
-                            </div>
-                        </li>
-                                            </ul>
-                    <p class="required">* Required Fields</p>
-                </div>
-            </div>
-        <!--</div>
-        <div class="col2-set">-->
-            <!--<div class="col-1 new-users">
-                <div class="buttons-set">
-                    <button type="button" title="Create an Account" class="button" onclick="window.location='http://www.lotmobiles.com/customer/account/create/';"><span><span>Create an Account</span></span></button>
-                </div>
-            </div>-->
-            <div class="col-2 registered-users">
-                <div class="buttons-set">
-                    <a href="http://www.lotmobiles.com/customer/account/forgotpassword/" class="f-left">Forgot Your Password?</a>
-                    <button type="submit" class="button" title="Login" name="send" id="send2"><span><span>Login</span></span></button>
-                </div>
-            </div>
-        <!--</div>-->
-    </form>
-    <script type="text/javascript">
-    //<![CDATA[
-        var dataForm = new VarienForm('login-form', true);
-    //]]>
-    </script>
-</div>
-<div class="soc-div">	
-<p class="or">OR</p>
-<button type="button" title="Register" class="button" onclick="window.location='http://www.lotmobiles.com/customer/account/create/';"><span><span>Register</span></span></button>
-	<div class="signwith"><h5>Sign in with</h5></div>
-	<div class="item ico-2">  <a href="#" class="icon" onclick="signwith('facebook')"> <img src="http://www.lotmobiles.com/skin/frontend/default/lot/images/fblog.jpg" width="160" height="39" alt="Facebook" title="Facebook"></a></div>
-	<div class="item ico-1"> <a href="#" class="icon" onclick="signwith('google')"><img src="http://www.lotmobiles.com/skin/frontend/default/lot/images/googlelog.jpg" width="160" height="39" alt="Google" title="Google"></a> </div>
-	<!--<div class='item ico-3'> <a href="#" class="icon" onclick="signwith('twitter')"><img src="http://www.lotmobiles.com/skin/frontend/default/lot/css/belvg/img/Twitter.png" width="50" height="50" alt="Twitter" title="Twitter"/></a></div>
-	<div class='item ico-4'> <a href="#" class="icon" onclick="signwith('yahoo')"><img src="http://www.lotmobiles.com/skin/frontend/default/lot/css/belvg/img/Yahoo-icon.png" width="50" height="50" alt="Yahoo" title="Yahoo" /></a></div>-->
-</div>
-<script type="text/javascript">
-     signwith = function(param){
-        popupWin = window.open("http://www.lotmobiles.com/ea/user/main/?p="+param, "openId", "location,width=500,height=600,top=0");
-        popupWin.focus();
-		$('circle').hide();
-		$('hdw').hide();
-     }
-</script>
-
-</div>
-</div>
-<!-- Mask to cover the whole screen -->
-<div style="width: 1478px; height: 602px; display: none; opacity: 0.8;" id="mask"></div></div>
         <div class="main-container col1-layout">
             <div class="main">
                 <div class="breadcrumbs">
@@ -589,4 +570,4 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </div>
 
 
-</body></html>
+<div style="position: fixed; top: 0px; left: 0px; overflow: visible; z-index: 999; width: 1px; height: 1px; background-color: transparent;"><div style="font: 12px monospace; position: absolute; background-color: transparent; color: rgb(255, 153, 51); left: 623.288px; top: 683px;">\</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 12px monospace; position: absolute; background-color: transparent; color: rgb(0, 51, 255); left: 674.955px; top: 683px;">|</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 12px monospace; position: absolute; background-color: transparent; color: rgb(255, 0, 204); left: 700.265px; top: 683px;">/</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 12px monospace; position: absolute; background-color: transparent; color: rgb(0, 238, 0); left: 689.218px; top: 683px;">|</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 12px monospace; position: absolute; background-color: transparent; color: rgb(255, 255, 0); left: 668.601px; top: 683px;">|</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div><div style="font: 13px monospace; position: absolute; background-color: transparent;">*</div></div></body></html>
