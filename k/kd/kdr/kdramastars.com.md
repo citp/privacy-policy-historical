@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdramastars.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002904id_/http%3A//www.kdramastars.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdramastars.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132209id_/http%3A//www.kdramastars.com/privacypolicy) for the most accurate reproduction.*
 
 # KDramaStars
 
