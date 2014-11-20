@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209065709id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044849id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
 
-# Privacy Policy for FreedomsPhoenix.com
+# 
 
   
 We collect your name and email address and other information about you so we can send you our daily headlines newsletter by email and so we can determine how to make this website better serve you. However, we share none of the information that _we collect_ with anyone. Period.
