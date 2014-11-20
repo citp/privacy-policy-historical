@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073019id_/http%3A//optionshouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055906id_/http%3A//www.optionshouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OptionsHouse
 
@@ -6,7 +6,7 @@
 
 ### OptionsHouse, LLC Privacy Policy
 
-Effective September 05, 2012
+Effective August 29, 2014
 
 Your Privacy is Our Priority. A Guide to How We Protect and Utilize Customer Information  
 At OptionsHouse LLC, our customers and their identities and privacy are important to us and we are dedicated to protecting the information that you provide us. As such, we have developed this [Privacy Policy](https://web.archive.org/docs/privacy-policy.pdf) which may be updated from time to time.
