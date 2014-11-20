@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509233537id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122332id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Kalyn's Kitchen®: Privacy Policy
 
@@ -29,12 +29,6 @@ PlateFull Ad Network
 Lijit Networks Inc.  
 <http://www.lijit.com/company/privacy-policy>
 
-Six Apart Ltd.  
-[http://www.sixapart.com/privacy](http://www.sixapart.com/privacy/)
-
-Six Apart Media third party advertising networks and advertisers  
-<http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html>
-
 Some of these third party advertising networks are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/)
 
 **Contacting Kalyn's Kitchen Regarding This Policy:**  
@@ -43,6 +37,6 @@ If you have any questions about this policy please contact kalynskitchen (at) co
 **Changes to This Policy:**  
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Kalyn's Kitchen will become effective immediately upon posting on the site.
 
-This policy last updated on February 19, 2012
+This policy last updated on January 21, 2014.
 
 [](http://www.statcounter.com/)
