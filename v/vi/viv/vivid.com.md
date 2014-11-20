@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145028id_/http%3A//vivid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034713id_/http%3A//www.vivid.com/privacy) for the most accurate reproduction.*
 
 # Vivid | Celeb Sex Tapes | Vivid Video
 
