@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070142id_/http%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122357id_/http%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - at hidden4fun.com
 
@@ -81,8 +81,8 @@ Games made by Hidden4Fun and published on this site, or some other site, do not 
 
 ## Copyright Notices
 
-This website is owned by the owner of the domain www.Hidden4Fun.com, as well as Hidden4Fun.com. It should not be copied and its content should not be reproduced or published without permission. All logos, pictures and games developed by Hidden4Fun are in ownership of [Loop Bits Inc](http://www.loopbits.com/ "Visit Loop Bits website").
+This website is owned by the owner of the domain www.Hidden4Fun.com, as well as Hidden4Fun.com. It should not be copied and its content should not be reproduced or published without permission. All logos, pictures and games developed by Hidden4Fun are in ownership of Loop Bits and HZM Labs.
 
 All logos and pictures that are published in the games of this site, but are not made by Hidden4Fun, are taken as a part of the public domain or are published with agreement of the particular company or the developer/owner of the game.
 
- **Copyright © Loop Bits Inc   2012 - 2014**
+ **Copyright © Loop Bits Inc   2012 - 2014 & HZM Labs 2014**
