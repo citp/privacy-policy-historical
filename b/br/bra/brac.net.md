@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406140157id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005909id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BRAC-Privacy Policy
 
 **Respecting Your Privacy**
 
-This Website is owned and operated by BRAC. We recognize that visitors to our site may be concerned about the information they provide to us and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions about our Privacy Policy, you can contact us at: 
+This Website is owned and operated by BRAC. We recognize that visitors to our site may be concerned about the information they provide to us and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions about our Privacy Policy, you can contact us at:
 
 BRAC Centre  
 75 Mohakhali,  
@@ -18,7 +18,13 @@ E-mail: [info@brac.net](mailto:info@brac.net)
 
 BRAC uses its best efforts to respect the privacy of its online visitors. At our site, we do not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view our site. BRAC only gathers personally identifiable data, such as names, addresses, zip/postal codes, e-mail addresses, etc., when voluntarily submitted by a visitor. For example, personally identifiable information may be collected in order for a visitor to make a donation online. This information is used solely by BRAC or other entities who are involved in the operation of this site for internal purposes. BRAC's lists are never sold to third parties. We will only share personally identifiable information with third parties when the person submitting the information authorizes us to share it or we are required to by law. As with most other Internet sites, our Web server automatically recognizes the domain name of each visitor to the site, but not the e-mail address (where possible). This IP address tells us which domain you visited from (e.g. aol.com). We use the information we record to help diagnose problems with our server and to improve the content of our Web page. The information is not shared with other organizations for commercial purposes.
 
-**Opt-Out**
+**Use of Google Services**
+
+In order to better serve our audience and expand our engagement outreach, BRAC has implemented Google Analytics Demographics and Interest Reporting features. This enables us to improve online experience and better serve our web visitors. We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected or voluntarily submitted by the user unless we have robust notice of, and the user's prior affirmative (opt-in) consent to that merger.
+
+ **Opt-Out**
+
+Visitors can opt-out of Google Analytics [using GA's current available opt-outs for the web](https://tools.google.com/dlpage/gaoptout/).
 
 If you supply us with your postal address or e-mail address online you may receive periodic mailings from us with information on our programs and services.
 
@@ -62,4 +68,4 @@ We may, from time to time, make changes to our Privacy Policy, based on your com
 
 You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York.
 
-This Privacy Policy was last updated on October 1, 2012. BRAC® and BRAC® and other marks used on this website are trademarks of BRAC or its affiliates and may not be used without permission.
+This Privacy Policy was last updated on July 15, 2014. BRAC® and BRAC® and other marks used on this website are trademarks of BRAC or its affiliates and may not be used without permission.
