@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblockedproxy.net privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514105719id_/http%3A//unblockedproxy.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblockedproxy.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163012id_/http%3A//www.unblockedproxy.net/privacy.php) for the most accurate reproduction.*
 
 # Unblocked Proxy - Fastest Proxy on the Web!
 
