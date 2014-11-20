@@ -1,31 +1,52 @@
-> *The following text is extracted and transformed from the indiarocks.co.in privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910091126id_/http%3A//www.indiarocks.co.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiarocks.co.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121001016id_/http%3A//www.indiarocks.co.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy|Live Updates|Mp3 Downloads|Online Movies|
+# Privacy Policy-Indiarocks.co.in
 
-At Indiarocks.co.in the privacy of our visitors is of extreme importance to us.
+Privacy Policy
 
-Indiarocks.co.in may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Indiarocks.co.in site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
+**What information do we collect?**
 
-If you contribute content, such as discussion comments, to the site, your contribution may be publicly displayed including personally identifiable information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Subscribers to the mailing list can unsubscribe at any time.
+We do not store or share usernames, profile pics or any other private information except user id & email (which is public). We take privacy very seriously.
 
-Indiarocks.co.in links to independently run web sites outside of the [Indiarocks.co.in ](http://indiarocks.co.in%20/)domain. We take no responsibility for the privacy practices or content of such web sites.
+Our site relies on oAuth and you will never be encouraged or asked to share your password under any circumstances. You can de-authorize our application anytime by visiting Privacy section in your Facebook profile settings.
 
-[Indiarocks.co.in](http://indiarocks.co.in/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**What do we use your information for?**
 
-[Indiarocks.co.in](http://indiarocks.co.in/) uses cookies to save login details and to collect statistical information about the numbers of visitors to the site.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Google, as a third party vendor, uses cookies to serve ads on Indiarocks.co.in.  
-Google's use of the DART cookie enables it to serve ads to users based on their visit to Indiarocks.co.in and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+To send product updates
 
-Some of our advertising partners(Google adsense,Yieldmanager etc.) may use cookies and web beacons on our site. These third-party ad servers or ad networks use technology to the advertisements and links that appear on Indiarocks.co.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-Indiarocks.co.in has no access to or control over these cookies that are used by third-party advertisers.
+**Do we use cookies?**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Indiarocks.co.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We do use cookies but over SSL only.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+**Do we disclose any information to outside parties?**
 
-This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.indiarocks.co.in  
+contact@indiarocks.co.in
