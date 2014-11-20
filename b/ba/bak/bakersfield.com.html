@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624234811id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120164431id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
             
@@ -87,16 +87,32 @@
         </style>
     
 		
-                <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript"><!--
-                    var section_name = "Privacy Policy";
-                    var _gaq = _gaq || [];
-                    _gaq.push(['_setAccount', 'UA-273259-9']);
-                    _gaq.push(['_setDomainName', '.bakersfield.com']);
-                    _gaq.push(['_setCustomVar', 1, 'Section', section_name, 3]);
-                    _gaq.push(['_setSiteSpeedSampleRate', 20]);
-                    _gaq.push(['_trackPageview']);
-                //--></script>
-        
+                <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"><!--
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                  
+                    ga('create', 'UA-273259-9', 'auto');
+                    ga('send', 'pageview', {
+                      'dimension1':  "The Bakersfield Californian"
+                    });
+                    
+                    function cid_callback(result) {
+                      ga('create', 'UA-50539104-2', {
+                        'name': 'rollup',
+                        'storage': 'none',
+                        'clientId': result.cid
+                      });
+                      ga('rollup.send', 'pageview');
+                    }
+                  
+                    var cid_script = document.createElement('script');
+                    cid_script.src = 'http://cid.bakersfield.com/?callback=cid_callback';
+                    cid_script.async = 1;
+                    document.getElementsByTagName('head')[0].appendChild(cid_script);
+                //--></script><script src="http://cid.bakersfield.com/?callback=cid_callback" async=""></script>
+                
                 
                     
                         
@@ -150,7 +166,9 @@
 
                             
 		
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+                
+                    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+                
 		<link rel="shortcut icon" href="http://static.tbc.zope.net/images/main_layout/favicon.ico">
                 <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/tbc102">
                 
@@ -171,69 +189,376 @@
 			
     
     
+
     <style type="text/css">
-        ul#support_nav li.bcom {
-            padding:0;
-            margin-top:0;
-            margin-left:-20px;
-            border-right:1px solid #333;
-            border-bottom:1px solid #333;
-            color:#FFF;
-            background-color:#CCC;
-            box-shadow:0 0 5px 1px #999;
+        #page_header {
+            height: 190px;
+            padding-top: 10px;
+            background: #FFF url('http://static.tbc.zope.net/Sites/common/images/main_nav_bg.png') repeat-x scroll bottom;
         }
-            ul#support_nav li.bcom a {
-                display:block;
-                height:25px;
-                padding:0 5px;
-                line-height:20px;
-                color:#FFF;
-                background:transparent url('http://static.tbc.zope.net/tehachapi/images/tehachapi-searchbg.png') repeat-x scroll left bottom;
-            }
-                ul#support_nav li.bcom a:hover {
-                    opacity:0.8;
-                    text-decoration:none;
-                }
+        ul#support_nav {
+            height: auto;
+            margin: 0;
+        }
+        ul#support_nav:before,
+        ul#support_nav:after {
+            content: ".";
+            display: block;
+            clear: both;
+            font-size: 0;
+        }
+        ul#support_nav > li {
+            padding: 0 0 0 .5em;
+            margin: 0 0 0 .5em;
+            border-right: none;
+            border-left: 1px solid #999;
+        }
+        ul#support_nav > li:first-child {
+            padding: 0;
+            margin: 0;
+            border: none;
+        }
+        ul#support_nav > .bcom_link {
+            font-weight: bold;
+        }
+        h1.logo {
+            margin: 21px 0;
+        }
+        #header_search {
+            position: absolute;
+            top: 16px;
+            right: 20px;
+            font-size: 0;
+            color: #333;
+        }
+        #header_search > * {
+            padding-top: .3em;
+            padding-bottom: .3em;
+            font-size: 12px;
+            line-height: 1em;
+            vertical-align: middle;
+            color: inherit;
+        }
+        #header_search label {
+            padding: 0;
+            font-size: 18px;
+            margin-right: .2em;
+        }
+        #header_search #keywords {
+            height: 1em;
+            width: 15em;
+            margin: 0;
+            padding-right: 3px;
+            padding-left: 3px;
+            border: 1px inset;
+            border-right: none;
+            font-size: 12px;
+            border-radius: 2px 0 0 2px;
+        }
+        #header_search #search_button {
+            border: none;
+            padding-right: .8em;
+            padding-left: .8em;
+            margin: 0;
+            border: 1px outset #0097CA;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-style: italic;
+            color: #FFF;
+            background-color: #0097CA;
+            border-radius: 0 2px 2px 0;
+        }
+        #header_search #search_button:hover {
+            opacity: .8;
+        }
+        #header_search #search_button:active {
+            opacity: 1;
+            border-style: inset;
+        }
+        #header_search #search_button:focus {
+            opacity: 1;
+            outline: none;
+        }
+
+        #header_todays_front_page {
+            position: absolute;
+            right: 20px;
+            bottom: 41px;
+            font-size: 11px;
+        }
+        #header_todays_front_page:hover {
+            opacity: .8;
+        }
+        #eedition_tag {
+            position: absolute;
+            top: 44%;
+            left: -4.9em;
+            padding: 0 .6em;
+            line-height: 28px;
+            font-size: 1.3em;
+            font-style: italic;
+            color: #FFF;
+            background-color: #E90028;
+            border-radius: 2px 0 0 2px;
+            box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, .6);
+        }
+        #eedition_tag:after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: -16px;
+            border-left: 16px solid #E90028;
+            border-top: 14px solid transparent;
+            border-bottom: 14px solid transparent;
+        }
+        #header_todays_front_page > a > img {
+            height: 103px;
+            border: 1px solid #999;
+            vertical-align: middle;
+            border-radius: 2px;
+        }
+
+        #header_icons {
+            position: absolute;
+            right: 20px;
+            bottom: 3px;
+            padding: 0;
+            margin: 0;
+            font-size: 28px;
+            color: #FFF;
+            list-style-type: none;
+        }
+        #header_icons > li {
+            display: inline;
+            margin-left: 6px;
+            vertical-align: middle;
+        }
+        #header_icons > li > a {
+            color: inherit;
+        }
+        #header_icons > li > a:hover {
+            opacity: .8;
+        }
+        #header_icons .fa-mobile {
+            font-size: 32px;
+        }
     </style>
+    <style type="text/css">
+        /* START UPDATED Weather widget style */
+        #ww_fullwidget {
+            left: 600px;
+            position: absolute;
+            top: 66px;
+            width: 260px;
+        }
+        #ww_weather_widget {
+            font-family: "Open Sans", Helvetica, Arial, sans-serif;
+            font-size: 9px;
+            font-weight: bold;
+            line-height: 1.3;
+            text-transform: uppercase;
+        }
+        #ww_weather_widget a {
+            color: #6699CC;
+            float: left;
+            text-decoration: none;
+        }
+        #ww_weather_widget a:hover {
+            text-decoration: underline;
+        }
+        #ww_content_container {
+            float: left;
+            margin-top: 5px;
+        }
+        #ww_left {
+            float: left;
+            text-align: right;
+        }
+        #ww_right {
+            float: left;
+            margin-left: 6px;
+        }
+        #ww_current_img {
+            float: left;
+            margin-right: 6px;
+        }
+        #ww_current_img {
+            height: 50px;
+            width: 50px;
+        }
+        #ww_current_img.clear, #ww_current_img.sunny  {
+            background-image:url(http://icons.wxug.com/i/c/k/clear.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_clear, #ww_current_img.nt_sunny {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_clear.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.partlysunny {
+            background-image:url(http://icons.wxug.com/i/c/k/partlysunny.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_partlysunny {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_partlysunny.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.mostlysunny {
+            background-image:url(http://icons.wxug.com/i/c/k/mostlysunny.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_mostlysunny {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_mostlysunny.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.rain {
+            background-image:url(http://icons.wxug.com/i/c/k/rain.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_rain {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_rain.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.sleet {
+            background-image:url(http://icons.wxug.com/i/c/k/sleet.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_sleet {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_sleet.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.fog {
+            background-image:url(http://icons.wxug.com/i/c/k/fog.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_fog {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_fog.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.hazy {
+            background-image:url(http://icons.wxug.com/i/c/k/hazy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_hazy {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_hazy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.cloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/cloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_cloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_cloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.partlycloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/partlycloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_partlycloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_partlycloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.mostlycloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/mostlycloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_mostlycloudy {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.tstorms {
+            background-image:url(http://icons.wxug.com/i/c/k/tstorms.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_tstorms {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_tstorms.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.snow {
+            background-image:url(http://icons.wxug.com/i/c/k/snow.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+        #ww_current_img.nt_snow {
+            background-image:url(http://icons.wxug.com/i/c/k/nt_snow.gif);
+            background-size: 50px 50px;
+            background-repeat: no-repeat;
+        }
+
+        #ww_report_city {
+            line-height: 1.3;
+        }
+        #ww_report {
+            color: #999;
+        }
+        #ww_city {
+            color: #333;
+            font-size: 13px;
+        }
+        #ww_temp {
+            color: #333;
+            font-size: 30px;
+            line-height: 0.9;
+            text-align: right;
+        }
+        #ww_sponsor {
+            clear: both;
+            position: absolute;
+            left: 56px;
+            bottom: 5px;
+            white-space: nowrap;
+            font-size: 8px;
+            line-height: 1.7;
+            text-align: left;
+            text-transform: uppercase;
+        } 
+        #ww_sponsor a {
+            color: #6699CC;
+            font-family: "Open Sans", Helvetica, Arial, sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        #ww_sponsor a:hover {
+            text-decoration: underline;
+        }
+    </style>   
+
     <ul id="support_nav">
         
-	<li style="padding-left: 0;"><a href="http://www.bakersfield.com/contact_us">Contact Us</a></li>
-	<li><a href="http://www.bakersfield.com/subscribers">Subscriber Services</a></li>
-	<li><a href="http://www.bakersfield.com/newsletters">Newsletters</a></li>
-	<li><a href="http://www.bakersfield.com/mobile">Mobile</a></li>
-	<li><a href="http://www.bakersfield.com/rss">RSS</a></li>
-	<li><a href="http://www.bakersfield.com/sitemap">Sitemap</a></li>
+        <li><a href="http://www.bakersfield.com/contact_us">Contact Us</a></li>
+        <li><a href="http://www.bakersfield.com/subscribers">Subscriber Services</a></li>
+        <li><a href="http://www.bakersfield.com/newsletters">Newsletters</a></li>
+        <li><a href="http://www.bakersfield.com/mobile">Mobile</a></li>
+        <li><a href="http://www.bakersfield.com/rss">RSS</a></li>
+        <li><a href="http://www.bakersfield.com/sitemap">Sitemap</a></li>
     </ul>
-    
-    <form id="search_v2" action="http://search.bakersfield.com/" method="get">
-	<ul id="site_choice">
-	    <li>
-		<input id="radio_news" type="radio" name="s" value="news" checked="checked">
-		<label id="label_news" for="radio_news" class="active">News</label>
-	    </li>
-	    <li>
-		<input id="radio_jobs" type="radio" name="s" value="jobs">
-		<label id="label_jobs" for="radio_jobs">Jobs</label>
-	    </li>
-	    <li>
-		<input id="radio_homes" type="radio" name="s" value="homes">
-		<label id="label_homes" for="radio_homes">Homes</label>
-	    </li>
-
-	    <li>
-		<input id="radio_obits" type="radio" name="s" value="obituaries">
-		<label id="label_obits" for="radio_obits">Obits</label>
-	    </li>
-	</ul>
+    <form id="header_search" action="http://search.bakersfield.com/" method="get">
+        <label for="keywords"><i class="fa fa-search fa-flip-horizontal"></i></label>
 	<input type="text" id="keywords" name="q">
 	<input type="submit" id="search_button" value="Search">
     </form>
-    <script type="text/javascript"><!--
-	$('ul#site_choice li label').click(function() {
-	    $('ul#site_choice li label').removeClass('active');
-	    $(this).addClass('active');
-	});
-    --></script>
     
     <h1 class="logo">
 	
@@ -241,33 +566,33 @@
 	
     </h1>
     
-    <div id="weather_widget" style="top:28px; left:609px;">
-        <a style="text-decoration:none; color: #FFF;" href="http://weather.bakersfield.com/US/CA/Bakersfield.html"><div id="weatherwidget" class="clear">
-<div class="conditionsbox">
-<div class="condition">Clear</div>
+    <!--<div id="ww_fullwidget" tal:condition="weather_bug|python:True">
+        <a style="text-decoration:none; color: inherit;" href="http://weather.bakersfield.com/US/CA/Bakersfield.html" tal:content="structure context/site/remote_content/tbc_weather_widget/payload"></a>
+
+    </div>-->
+
+    <div id="ww_fullwidget">
+        <div id="ww_weather_widget">
+  <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html"><div id="ww_current_img" class="clear" title="Clear">
+  </div></a>
+  <div id="ww_content_container">
+  <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html"><div id="ww_left">
+  <div id="ww_report_city">
+  <div id="ww_report">Weather Report</div>
+  <div id="ww_city">Bakersfield, CA</div>
+  </div>
+  </div></a>
+  <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html"><div id="ww_right">
+  <div id="ww_temp">56°F</div>
+  </div></a>
+  </div>
 </div>
-<div class="tempbox">
-<div class="lowbox">
-<div class="lowtemp">68°</div>
-<div class="low">LOW</div>
-</div>
-<div class="highbox">
-<div class="hightemp">97°</div>
-<div class="high">HIGH</div>
-</div>
-<div class="currentbox">
-<div class="currenttemp">96°</div>
-<div class="current">CURRENT</div>
-</div>
-</div>
-</div></a>
-        <p>
-            <a target="_blank" style="color:#00399E" href="http://pubads.g.doubleclick.net/gampad/jump?iu=/67533942/Header_Weather_Bug_Sponsorship&amp;sz=1x1&amp;c=1403642892">
-                <img width="0" height="0" src="http://pubads.g.doubleclick.net/gampad/ad?iu=/67533942/Header_Weather_Bug_Sponsorship&amp;sz=1x1&amp;c=1403642892">
-                Sponsored by:<br> Three-Way Chevrolet Cadillac
-            </a>
-        </p>
+
+        <div id="ww_sponsor"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/jump?iu=/67533942/Header_Weather_Bug_Sponsorship&amp;sz=1x1&amp;c=1416491070"><img width="0" height="0" src="http://pubads.g.doubleclick.net/gampad/ad?iu=/67533942/Header_Weather_Bug_Sponsorship&amp;sz=1x1&amp;c=1416491070">Sponsored by Three-Way Chevrolet Cadillac</a></div> 
     </div>
+
+
+
     
     
 	<ul id="main_nav">
@@ -308,7 +633,7 @@
 	    <li>
 		<a href="http://www.bakersfieldcalifornian.com/sports">Sports</a>
 		<ul>
-		    <li><a href="http://www.bakersfieldcalifornian.com/sports/preps">Preps</a></li>
+		    <li><a href="http://www.bakersfieldcalifornian.com/sports/bvarsity">BVarsity</a></li>
 		    <li><a href="http://www.bakersfieldcalifornian.com/sports/bc">BC</a></li>
 		    <li><a href="http://www.bakersfieldcalifornian.com/sports/csub">CSUB</a></li>
 		    <li><a href="http://www.bakersfieldcalifornian.com/sports/community">Community</a></li>
@@ -410,21 +735,20 @@
 	    </li>
 	</ul>
     
-   <div style="position:absolute; z-index:2; bottom:80px; right:20px;">
-	<ul style="padding:0px;">
-	    <li style="display:inline;"><a href="http://eedition.bakersfield.com"><img style="width:167px; height:36px;" alt="eEdition" src="http://static.tbc.zope.net/images/main_layout/eeditionbutton.png"></a></li>
-	</ul>
-   </div>    
-    <div id="header_iconbar" style="position:absolute; z-index:2; bottom:40px; right:20px;">
-	<ul style="padding:0px;">
-	    <li style="display:inline;"><a href="http://www.bakersfield.com/mobile"><img style="width:30px; height:30px;" alt="mobile" src="http://static.tbc.zope.net/images/main_layout/mobileicon.png"></a></li>
-	    <li style="display:inline;"><a href="http://www.bakersfield.com/rss"><img style="width:30px; height:30px;" alt="rss" src="http://static.tbc.zope.net/images/main_layout/rssicon.png"></a></li>
-	   <!-- <li style="display:inline;"><a href="http://eedition.bakersfield.com"><img style="width:30px; height:30px;" alt="rss" src="http://static.tbc.zope.net/images/main_layout/eeditionicon.png" /></a></li>-->
-	    <li style="display:inline;"><a href="http://www.bakersfield.com/newsletters"><img style="width:30px; height:30px;" alt="newsletters" src="http://static.tbc.zope.net/images/main_layout/mailicon.png"></a></li>
-	    <li style="display:inline;"><a target="_blank" href="http://www.facebook.com/BakersfieldCalifornian"><img style="width:30px; height:30px;" alt="facebook" src="http://static.tbc.zope.net/images/main_layout/fbicon.png"></a></li>
-	    <li style="display:inline;"><a target="_blank" href="http://www.twitter.com/Bakersfieldcali"><img style="width:30px; height:30px;" alt="twitter" src="http://static.tbc.zope.net/images/main_layout/twittericon.png"></a></li>
-	</ul>
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <div id="header_todays_front_page">
+        <a href="http://eedition.bakersfield.com/">
+            <div id="eedition_tag">e-Edition</div>
+            <img alt="today's paper" src="http://static.tbc.zope.net/images/front_page_pdf/bc141120_a1_lg.jpg">
+        </a>
     </div>
+    <ul id="header_icons">
+        <li><a href="http://www.bakersfield.com/mobile" title="Mobile"><i class="fa fa-mobile"></i></a></li>
+        <li><a href="http://www.bakersfield.com/rss" title="RSS"><i class="fa fa-rss"></i></a></li>
+        <li><a href="http://www.bakersfield.com/newsletters" title="Newsletters"><i class="fa fa-envelope"></i></a></li>
+        <li><a target="_blank" href="http://www.twitter.com/Bakersfieldcali" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+        <li><a target="_blank" href="http://www.facebook.com/BakersfieldCalifornian" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+    </ul>
 
 		    
 		</div>
@@ -497,8 +821,8 @@
 	    <h3>Security</h3>
 	    <p>This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. For example, credit-card information provided by a visitor is made available only to bonded billing personnel or technical staff responsible for server security.</p>
 	    
-	    <h3>Newsletters and alerts</h3>
-	    <p>Bakersfield.com offers a variety of opt-in e-mail newsletters or text-message alerts. When subscribing, visitors are asked to submit information such as name, e-mail address or phone number, and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to <a href="http://www.bakersfield.com/newsletters">www.bakersfield.com/newsletters</a>. To remove your personally identifiable information from our databases, send e-mail to <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a> explaining your request. To unsubscribe from individual text-message alert lists (such as news alerts or weekend events), reply “Stop” to the most recent alert received. This will unsubscribe you from <span class="caps">ALL</span> text-message alerts from Bakersfield.com or our affiliate mobile site <a href="http://661411.com">661411.com</a>. If you subscribe to multiple alerts lists and would like to unsubscribe from only one (such as Breaking News or the daily weather forecast), text “stop last” to be unsubscribed <span class="caps">ONLY</span> from the list you most recently received an alert from. Or you can visit <a href="http://www.bakersfield.com/mobile">www.bakersfield.com/mobile</a> and log in with your phone number to easily manage and modify all your alerts.</p>
+	    <h3>Newsletters and Alerts</h3>
+	    <p>Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address or phone number, and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, click on the unsubscribe link at the bottom of the newsletter. To remove your personally identifiable information from our databases, send e-mail to <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a> explaining your request.</p>
 	    
 	    <h3>Orders</h3>
 	    <p>If you purchase a product or service from us or through a third-party vendor, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.</p>
@@ -537,141 +861,209 @@
 	</style>
         
     
-                <style type="text/css" media="screen">
-                    #daily_deal_widget {
-                        background: #FFF url('http://static.tbc.zope.net/Sites/DailyDeal/dd-header.jpg') no-repeat top left;
-                        width: 298px;
-                        min-height: 208px;
-                        max-height: 250px;
-                        border: 1px solid #333;
-                        overflow: hidden;
-                        font-family: Helvetica,Arial,sans-serif;
-                        font-size: 12px;
-                        font-weight: bold;
-                        color: #333;
-                        line-height: 1;
-                        }
-                        #daily_deal_widget > h3 {
-                            text-indent: -7000px;
-                            height: 43px;
-                            margin: 0;
-                            }
-                            #daily_deal_widget > h3 > a {
-                                display: block;
-                                height: 100%;
-                                }
-                        #daily_deal_widget > h4 {
-                            margin: 0;
-                            font-size: 14px;
-                            color: #FFF;
-                            line-height: 25px;
-                            text-transform: uppercase;
-                            text-align: center;
-                            font-size: 11px;
-                            }
-                        #daily_deal_widget > div.content {
-                            padding: 10px 8px 8px;
-                            overflow: hidden;
-                            }
-                            #daily_deal_widget > div.content > img {
-                                float: left;
-                                border: 2px solid #CCC;
-                                }
-                            #daily_deal_widget > div.content > div.right {
-                                float: right;
-                                width: 170px;
-                                overflow: hidden;
-                                }
-                                #daily_deal_widget > div.content > div.right > p {
-                                    font-size: 14px;
-                                    padding: 0 5px 3px;
-                                    border-bottom: 1px dotted #999;
-                                    margin: 0 0 5px;
-                                    text-align: justify;
-                                    line-height: 1.2;
-                                    }
-                                #daily_deal_widget > div.content div.value {
-                                    overflow: hidden;
-                                    border-bottom: 8px solid transparent;
-                                    text-align: center;
-                                    }
-                                    #daily_deal_widget > div.content div.value > div {
-                                        float: left;
-                                        width: 33%;
-                                        font-size: 12px;
-                                        }                
-                                        #daily_deal_widget > div.content div.value > div > div {
-                                            margin-bottom: 5px;
-                                            font-size: 11px;
-                                            font-weight: normal;
-                                            font-style: italic;
-                                            color: #777;
-                                            font-family: georgia,'times new roman',times,serif;
-                                            }
+      <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Roboto+Condensed:400italic,700italic,400,700" rel="stylesheet" type="text/css">
+<style type="text/css">
 
-                                #daily_deal_widget > div.content > div.right > div.purchased {
-                                    float: left;
-                                    padding: 5px;
-                                    color: #AECB36;
-                                    line-height: 1;
-                                    }
+#dd_cont {
+    border: 1px solid #e1e1e1;
+    border-radius: 0px 0px 10px 10px;
+    color: #333;
+    line-height: normal;
+    overflow: hidden;
+    padding: 10px;
+    position: relative;
+    width: 278px;
+}
+#dd_cont a {
+    text-decoration: none;
+}
+#dd_cont a:hover {
+    text-decoration: underline;
+}
+#dd_title {
+    color: #006699;
+    font-family: 'Roboto Condensed', Helvetica, sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    line-height: 1;
+    text-transform: uppercase;
+}
+#line {
+    border-top: 2px solid #66ccff;
+    float: left;
+    margin-right: 6px;
+    margin-top: 10px;
+    width: 108px;
+}
+#from {
+    color: #777; 
+    float: left;
+    font-family: Georgia, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 6px;
+    margin-top: 2px;
+}
+#dd_bakersfield_com {
+    color: #777;
+    float: left;
+    font-family: 'Roboto Condensed', Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    margin-right: 6px;
+}
+#dd_photo {
+    background-color: #333;
+    border-radius: 10px;
+    clear: left;
+    float: left;
+    height: 108px;
+    margin-right: 6px;
+    margin-top: 6px;
+    width: 103px;
+}
+#dd_photo img {
+    border-radius: 10px;
+    width: 103px;
+}
+#description_cont {
+    float: right;
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 4px;
+    width: 166px;
+}
+#company {
+    border-bottom: 1px dotted #999;
+    color: #006699;
+    font-size: 10px;
+    line-height: 1;
+    margin-bottom: 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#company a {
+    color: #006699;
+}
+#company a:hover {
+    color: #66ccff;
+    text-decoration: none;
+}
+#dd_service {
+    line-height: 1;
+    max-height: 35px;
+    overflow: hidden;
+}
+#bottom_cont {
+    bottom: 10px;
+    position: absolute;
+}
+#cost { 
+    background-image: url('http://static.tbc.zope.net/Sites/Bakersfield.com/images/dailydeal-burst.png');
+    background-repeat: no-repeat;
+    color: #FFF;
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    left: 0px;
+    line-height: 3.7;
+    text-align: center;
+    text-indent: -4px;
+    top: 40px;
+    height: 60px;
+    width: 60px;
+}
+#cost.cost_2 { 
+    font-size: 12px;
+    line-height: 5;
+}
+ul#value_list {
+    list-style-type: none;
+    margin: 4px 0px;
+    padding-left: 0px;
+}
+ul#value_list li {
+    color: #006699;
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-style: italic;
+    margin-right: 10px;
+    text-align: center;
+}
+ul#value_list li span {
+    color: #333;
+    font-family: 'Lado', Helvetica, sans-serif;
+    font-style: normal;
+}
+ul#value_list li#value {
+    margin-left: 6px;
+}
+ul#value_list li#bought {
+    margin-right: 0px;
+}
+#buy_btn {
+    background-color: #66ccff;
+    border-radius: 6px;
+    color: #FFF;
+    float: left;
+    padding: 5px;
+    min-width: 49px;
+    text-align: center;
+}
+#buy_btn a {
+    color:#FFF;
+}
+#buy_btn:hover {
+    background-color: #50b4e6;
+}
+#more {
+    bottom: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    position: absolute;
+    right: 0px;
+}
+#more a {
+    color: #333;
+}
+#more:before {
+    content: "\BB";
+    font-size: 1.5em;
+    position: relative;
+    top: 1px;
+}
 
-                                #dd_buy {
-                                    float: right;
-                                    display: block;
-                                    margin: auto 0;
-                                    padding: 5px 10px;
-                                    border-radius: 10px;
-                                    background-color: #009AC8;
-                                    font-size: 12px;
-                                    color: #FFF;
-                                    line-height: 1;
-                                    text-decoration: none;
-                                    }
-                                    #dd_buy:hover {
-                                        background-color: #2CBDF5;
-                                        }
-                                #dd_more {
-                                    float: right;
-                                    margin-top: 8px;
-                                    font-size: 12px;
-                                    font-weight: bold;
-                                    color: #009AC8;
-                                    text-decoration: none;
-                                    text-transform: lowercase;
-                                    }
-                                    #dd_more:hover {
-                                        color: #2CBDF5;
-                                        text-decoration: underline;
-                                        }
-                </style>
-                <div id="daily_deal_widget">
-                    <h3><a href="http://dailydeal.bakersfield.com/engine/Splash.aspx?contestid=65790" target="_blank">Bakersfield.com Daily Deal!</a></h3>
-                    <h4>Cafe Crepes De Paris</h4>
-                    <div class="content">
-                        <img width="103" alt="Daily Deal" style="max-width: 103px; max-height: 109px;" src="https://c.eblastengine.com/EmailImages/147409.jpg">
-                        <div class="right">
-                            <p class="offer">$10 worth of food for only $5 at Cafe Crepes De Paris</p>
-                            <div class="value">
-                                <div>
-                                    <div>Value</div>
-                                    $10
-                                </div>
-                                <div class="discount">
-                                    <div>% Off</div>
-                                    50%
-                                </div>
-                                <div>
-                                    <div>You Save</div>
-                                    $5
-                                </div>
-                            </div>
-                            <div class="purchased">94 Bought</div>
-                            <a id="dd_buy" target="_blank" href="http://dailydeal.bakersfield.com/engine/SplashDetails.aspx?contestid=65790&amp;productid=12497332">Buy Now!</a>
-                            <a id="dd_more" href="http://dailydeal.bakersfield.com/engine/Splash.aspx?contestid=65790&amp;GroupMode=1540581" target="_blank">See more deals</a>
-                        </div>
-                    </div>
-                </div>
+</style>
+
+        <div id="dd_cont">
+    <div id="dd_title">Today's Daily Deal</div>
+    <div id="line"></div><div id="from">from</div><div id="dd_bakersfield_com">Bakersfield.com</div>
+    <div id="cost">$35</div>
+
+    <div id="dd_photo"><img alt="Daily Deal Image" src="https://c.eblastengine.com/EmailImages/156241.jpg"></div>
+    <div id="description_cont">
+        <div id="company">Casablanca Express</div>
+        <div id="dd_service">
+$35 For 2 nights at the Circus Circus Hotel &amp; Casino™ + Las Vegas BITE Card + a $50 Restaurant.com Gift Card 
+ 
+ 
+</div>
+        <div id="bottom_cont">
+            <div id="value_cont">
+                <ul id="value_list">
+                    <li id="value">Value<br><span>$229</span></li>
+                    <li id="savings">Savings<br><span>$194</span></li>
+                    <li id="bought">Bought<br><span>0</span></li>
+                </ul>
+            </div>
+            <a href="http://dailydeal.bakersfield.com/engine/SplashDetails.aspx?contestid=65790&amp;productid=13147563"><div id="buy_btn">Buy Now</div></a>
+            <div id="more"><a href="http://dailydeal.bakersfield.com/engine/Splash.aspx?contestid=65790&amp;GroupMode=1540581">More Deals</a></div>
+        </div>    
+    </div>
+</div>
     
 
 
@@ -693,1267 +1085,453 @@
 
 		<div id="page_footer">
 		    
-			
-    
-        
-            <h2 style="height:23px; background-image:url('http://static.tbc.zope.net/images/main_layout/network/networksites.png'); background-repeat:no-repeat;"></h2>  
-            <div id="network_sites" class="carousel_widget">
-		<style type="text/css">
-		#ntwk_carousel #bcali.widget div.header h3 {
-		    background:url("http://static.tbc.zope.net/images/main_layout/network/bakersfieldcalifornian.png") no-repeat scroll center center transparent;
-		    height:50px;
-		}
-		</style>
-                <div id="ntwk_carousel" class="crsl_active">
-                <!-- BAKERSFIELD.COM -->
-                    <div id="bakersfieldcom" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfield.com"><h3>Bakersfield.com</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_63', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/63/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_63-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_63-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_63-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_63-entry_'+this).addClass('new')
-      });
-      $('#widget_63').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_63').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_63
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_63, #widget_63 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_63 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px; 
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_63 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_63 ol li.first {
-    border:none;
-}
-
-#widget_63 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_63 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_63">
-
-
-<ol id="widget_63-data">
-  <li id="widget_63-entry_3293915" class="first">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435791/State-fines-Buttonwillow-landfills-owner-for-toxic-spill-test-interference?utm_source=widget_63&amp;utm_medium=synapse">State fines Buttonwillow landfill's owner for toxic spill, test interference</a>
-  </li>
-  <li id="widget_63-entry_3293765">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435767/Man-sentenced-to-13-years-for-running-over-wife-and-child?utm_source=widget_63&amp;utm_medium=synapse">Man sentenced to 13 years for running over wife and child</a>
-  </li>
-  <li id="widget_63-entry_3293749">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435741/First-Look-Taekwondo-teaches-strength-power?utm_source=widget_63&amp;utm_medium=synapse">'First Look': Taekwondo teaches strength, power</a>
-  </li>
-  <li id="widget_63-entry_3293607">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x2071376926/First-Look-First-News-for-June-24?utm_source=widget_63&amp;utm_medium=synapse">'First Look': First News for June 24</a>
-  </li>
-  <li id="widget_63-entry_3293288">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/sports/preps/x1774435677/Centennial-grad-Robinson-released-by-Stockton?utm_source=widget_63&amp;utm_medium=synapse">Centennial grad Robinson released by Oakland</a>
-  </li>
-</ol>
-
-
-</div>
-                    </div>
-                <!-- BAKERSFIELDBUYANDSELL.com -->
-                    <div id="buyandsell" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldbuyandsell.com"><h3>BakersfieldBuyandSell.com</h3></a>     
-                        </div>
-                        <script type="text/javascript" src="http://widgets.bakersfield.com/245/default.js"></script>
-                    </div>
-                <!-- BAKERSFIELDJOBFINDER.com -->
-                    <div id="jobfinder" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldjobfinder.com"><h3>BakersfieldJobFinder.com</h3></a>     
-                        </div>
-                        <script type="text/javascript" src="http://widgets.bakersfield.com/246/default.js"></script>
-                    </div>
-
-                <!-- BAKOSPHERE.COM -->
-                    <div id="bakosphere" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakosphere.com"><h3>Bakosphere.com</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_64', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/64/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_64-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_64-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_64-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_64-entry_'+this).addClass('new')
-      });
-      $('#widget_64').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_64').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_64
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_64, #widget_64 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_64 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_64 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_64 ol li.first {
-    border:none;
-}
-
-#widget_64 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_64 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_64">
-<ol id="widget_64-data">
-  <li id="widget_64-entry_3292359" class="first">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/bakosphere/x2071376454/The-different-sides-of-Kevin-McCarthy?utm_source=widget_64&amp;utm_medium=synapse">The different sides of Kevin McCarthy</a>
-  </li>
-  <li id="widget_64-entry_3281686">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/bakosphere/x489445927/Bakersfield-restaurant-opening-in-Nashville?utm_source=widget_64&amp;utm_medium=synapse">Bakersfield restaurant chain expanding to Nashville</a>
-  </li>
-  <li id="widget_64-entry_3202404">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/bakosphere/x493447049/Former-NFL-player-selling-Bakersfield-mansion-for-2-8-million?utm_source=widget_64&amp;utm_medium=synapse">Former NFL player selling Bakersfield mansion for $2.8 million</a>
-  </li>
-  <li id="widget_64-entry_3192405">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/bakosphere/x493441665/Import-Face-Off-rocks-Famoso?utm_source=widget_64&amp;utm_medium=synapse">Import Face Off rocks Famoso</a>
-  </li>
-  <li id="widget_64-entry_3187248">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/bakosphere/x1521549852/Financial-Times-publishes-in-depth-story-on-Carl-Cole-massive-fraud?utm_source=widget_64&amp;utm_medium=synapse">Financial Times publishes in-depth story on Carl Cole, massive fraud</a>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- FACEBOOK -->
-                    <div id="facebook" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.facebook.com/BakersfieldCalifornian"><h3>Facebook</h3></a>    
-                        </div> 
                         
-                        <ul>
-                            <li class="first">
-                                <img style="float:left; width:50px; margin-right:5px;" src="http://static.tbc.zope.net/images/main_layout/fb-BakersfieldCalifornian.png" alt="Bakersfield Californian Facebook">
-                                <a href="http://www.facebook.com/BakersfieldCalifornian">The Bakersfield Californian</a>
-                                <span id="facebook_like_button_1"></span>
-                                <script class="remove_on_load" type="text/javascript">
-                                    $(function() {
-                                        $("#facebook_like_button_1").replaceWith('<'+'iframe id="facebook_like_button_1" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FBakersfieldCalifornian&layout=button_count&show_faces=false&width=90&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; margin-top:5px; width:90px; height:21px;" allowTransparency="true"><'+'/iframe>');
+    <style type="text/css">
+        @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700|Montserrat:400,700);
+        .container:before,
+        .container:after {
+            content: ".";
+            display: block;
+            clear: both;
+            font-size: 0;
+        }
+        #page_container {
+            padding-bottom: 0;
+        }
+        #page_footer {
+            width: auto;
+        }
+        #footer_wrapper {
+            border-top: 7px solid #222;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 12px;
+            color: #777;
+            background-color: #333;
+        }
+        #footer_wrapper a {
+            color: #CCC;
+        }
+        #main_footer {
+            max-width: 1112px;
+            padding: 20px 10px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .footer_block {
+            display: inline-block;
+            min-width: 130px;
+            margin-left: 35px;
+            text-align: left;
+            vertical-align: top;
+        }
+        .footer_block:first-child {
+            margin-left: 0;
+        }
+        .footer_block > h5 {
+            font-size: 16px;
+            padding-bottom: .4em;
+            margin-bottom: .6em;
+            border-bottom: 1px dotted #555;
+            font-family: Montserrat;
+            font-weight: normal;
+            text-transform: uppercase;
+            color: #EEE;
+        }
+        .footer_block > h5 ~ * {
+            margin-top: .6em;
+        }
+        .footer_block > h5 + * {
+            margin-top: 0;
+        }
+        h5 + * ~ .footer_link_list {
+            margin-top: 1em;
+        }
+        .footer_link_list {
+            list-style-type: none;
+            text-transform: uppercase;
+            padding-right: .8em;
+        }
+        .footer_link_list > li {
+            margin-top: .8em;
+        }
+        .footer_link_list > li:first-child {
+            margin-top: 0;
+        }
+        #footer_wrapper .footer_link_list > li > a {
+            position: relative;
+            left: 0;
+            transition-property: left, color;
+            transition-duration: 120ms;
+        }
+        #footer_wrapper .footer_link_list > li > a:hover {
+            left: .8em;
+            color: #EEE;
+            text-decoration: none;
+        }
+
+        /* Contact Us Form */
+        div#footer_contact_form {
+            position: relative;
+            font-size: 9px;
+        }
+        div#footer_contact_form > ul.tabs {
+            margin-bottom: .5em;
+            font-size: 1.3em;
+        }
+        div#footer_contact_form > ul.tabs li {
+            display:inline;
+        }
+        div#footer_contact_form > ul.tabs li a {
+            font-size: 1.1em;
+            color: #777;
+        }
+        div#footer_contact_form > ul.tabs li a:hover {
+            text-decoration:underline;
+        }
+        div#footer_contact_form > ul.tabs li.active a {
+            color:#CCC;
+        }
+        div#footer_contact_form > ul.tabs li.active a:hover {
+            text-decoration: none;
+            cursor: default;
+        }
+        div#footer_contact_form > div.content {
+            position:absolute;
+            top: 0;
+            left:-7000px;
+            overflow:hidden;
+        }
+        div#footer_contact_form > div.content.active {
+            position:relative;
+            left:0;
+        }
+        div#footer_contact_form ul.errors {
+            margin-bottom:8px;
+            list-style:none;
+        }
+        div#footer_contact_form form#asktbc_form p label{
+            font-weight:bold;
+            width:50px;
+            text-align:right;
+        }
+        #footer_contact_form form#asktbc_form p input.field{
+            background-color:#fff;
+            padding:1px 5px;
+            border:1px solid #999;
+            border-radius:10px;
+            color:#333;
+            margin:5px 0px;
+            width:170px;
+        }
+        #footer_contact_form form#asktbc_form p textarea{
+            background-color:#fff;
+            padding:5px;
+            border:1px solid #999;
+            border-radius:10px;
+            color:#333;
+            height: 83px;
+            margin:5px 0px;
+            resize:none;
+            width:170px;
+        }
+        #footer_contact_form form#feedback_form p label{
+            font-weight:bold;
+        }
+        #footer_contact_form form#feedback_form p input.field{
+            background-color:#fff;
+            padding:1px 5px;
+            border:1px solid #999;
+            border-radius:10px;
+            color:#333;
+            margin:5px 0px;
+            width:170px;
+        }
+        #footer_contact_form form#feedback_form p textarea{
+            background-color:#fff;
+            padding:5px;
+            border:1px solid #999;
+            border-radius:10px;
+            color:#333;
+            height: 50px;
+            margin:5px 0px;
+            resize:none;
+            width:170px;
+        }
+        #footer_contact_form form#feedback_form p select {
+            margin: 2px 0 4px;
+            width: 182px;
+        }
+
+        #footer_categories li {
+            position: relative;
+            padding-left: 1.5em;
+        }
+        #footer_categories li:before {
+            content: "";
+            display: block;
+            line-height: 0;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: .7em;
+            height: .7em;
+            margin: auto;
+            background-color: #67F;
+        }
+        #footer_categories li.news_cat:before {
+            background-color: #3F88CC;
+        }
+        #footer_categories li.obits_cat:before {
+            background-color: #6B94A8;
+        }
+        #footer_categories li.sports_cat:before {
+            background-color: #D34748;
+        }
+        #footer_categories li.ae_cat:before {
+            background-color: #D4915A;
+        }
+        #footer_categories li.lifestyles_cat:before {
+            background-color: #D84AC6;
+        }
+        #footer_categories li.opinion_cat:before {
+            background-color: #824767;
+        }
+        #footer_categories li.video_cat:before {
+            background-color: #5FCC3F;
+        }
+        #footer_categories li.classifieds_cat:before {
+            background-color: #EBC300;
+        }
+        #footer_categories li.business_cat:before {
+            background-color: #1C865E;
+        }
+        #footer_categories li.politics_cat:before {
+            background-color: #BBB;
+        }
+
+        #footer_other_resources p {
+            line-height: 1.2;
+        }
+        #footer_office_hours {
+            margin-top: .2em;
+        }
+
+        #footer_social_media {
+            margin-top: 15px;
+            font-size: 1.2em;
+            color: #777;
+        }
+        #footer_social_media a {
+            color: inherit;
+            transition: color 200ms;
+        }
+        #footer_social_media a.twitter:hover {
+            color: #55ACEE;
+        }
+        #footer_social_media a.facebook:hover {
+            color: #3B5998;
+        }
+
+        #footer_footer {
+            padding: 10px;
+            background-color: #222;
+            font-size: 10px;
+            font-weight: bold;
+            line-height: 1.2;
+            text-transform: uppercase;
+        }
+        #footer_copyright {
+            float: left;
+        }
+        #footer_company_links {
+            float: right;
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+        }
+        #footer_company_links > li {
+            float: left;
+            padding-left: .5em;
+            margin-left: .5em;
+            border-left: 1px solid;
+        }
+        #footer_company_links > li:first-child {
+            padding-left: 0;
+            margin-left: 0;
+            border-left: none;
+        }
+        #footer_company_links > li > a {
+            color: inherit;
+        }
+    </style>
+    <div id="footer_wrapper">
+        <div id="main_footer" class="container">
+            <div id="footer_contact_form" class="footer_block">
+                <script type="text/javascript">
+                <!--
+                    $(function() {
+                        $("#asktbc_form,#feedback_form").submit(function() {
+                            var form = $(this);
+                            $.ajaxSetup({jsonpCallback: form.attr("id")+"_callback", cache: false});
+                            
+                            $.getJSON("http://submit.bakersfield.com/?callback=?&"+form.serialize(), function(data) {
+                                if (data.success) {
+                                    form.html("<p>Thank you for your submission.</p>");
+                                }
+                                else {
+                                    form.children(".errors").remove();
+                                    var errors = ['<ul class="errors">']
+                                    $.each(data.errors, function(index, value) {
+                                        errors.push("<li>"+value+"</li>");
                                     });
-                                </script>
-                                <div style="clear:both;"></div>
-                            </li>
-                            <li>
-                                <img style="float:left; width:50px; margin-right:5px;" src="http://static.tbc.zope.net/images/main_layout/fb-FirstLook.jpg" alt="FirstLookFacebook">
-                                <a href="http://www.facebook.com/FirstLookWithScottCox">First Look</a>
-                                <span id="facebook_like_button_2"></span>
-                                <script class="remove_on_load" type="text/javascript">
-                                    $(function() {
-                                        $("#facebook_like_button_2").replaceWith('<'+'iframe id="facebook_like_button_2" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FFirstLookWithScottCox&layout=button_count&show_faces=false&width=90&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; margin-top:5px; width:90px; height:21px;" allowTransparency="true"><'+'/iframe>');
-                                    });
-                                </script>
-                                <div style="clear:both;"></div>
-                            </li>
-                            <li>
-                                <img style="float:left; width:50px; margin-right:5px;" src="http://static.tbc.zope.net/images/main_layout/fb-KernBusinessJournal.jpg" alt="Kern Business Journal Facebook">
-                                <a href="http://www.facebook.com/KernBusinessJournal">Kern Business Journal</a>
-                                <span id="facebook_like_button_3"></span>
-                                <script class="remove_on_load" type="text/javascript">
-                                    $(function() {
-                                        $("#facebook_like_button_3").replaceWith('<'+'iframe id="facebook_like_button_3" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FKernBusinessJournal&layout=button_count&show_faces=false&width=90&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; margin-top:5px; width:90px; height:21px;" allowTransparency="true"><'+'/iframe>');
-                                    });
-                                </script>
-                                <div style="clear:both;"></div>
-                            </li>
-                        </ul>
-                    </div>
+                                    errors.push("</ul>");
+                                    form.prepend(errors.join("\n"));
+                                }
+                            });
+                            return false;
+                        });
+                    });
+                -->
+                </script>
+                <script type="text/javascript"><!--
+                    $(function() {
+                        var route_mapping = {
+                            "Print Subscription": "feedback_print",
+                            "Online Subscription": "feedback_online",
+                            "Classified Ads": "feedback_classifieds",
+                            "News Releases": "feedback_releases",
+                            "General Advertising": "feedback_advertising",
+                            "General Newsroom": "feedback_newsroom",
+                            "Other": "feedback_other"
+                        };
+                        
+                        $('div#footer_contact_form > ul.tabs li > a').click(function(event) {
+                            event.preventDefault();
+                        });
+                        
+                        $('div#footer_contact_form > ul.tabs li').click(function() {
+                            href = $(this).children('a').first().attr('href');
+                            $(this).siblings('.active').removeClass('active');
+                            $('div#footer_contact_form > div.content').removeClass('active');
+                            $(this).addClass('active');
+                            $('div#footer_contact_form > div'+href).addClass('active');
+                        });
+                        $('select[name="category"]').change(function() {
+                            $('input[name="route"]').val(route_mapping[$(this).val()]);
+                        });
+                    });
+                --></script>
+                <ul class="tabs">
+                    <li class="active"><a href="#feedback">Customer Service</a></li> | <li><a href="#asktbc">Ask TBC</a></li>
+                </ul>
+                <div id="feedback" class="content active">
+                    <form id="feedback_form">
+                        <p><label for="name">Name:</label><br><input class="field" type="text" name="name"></p>
+                        <p><label for="email">Email:</label><br><input class="field" type="text" name="email"></p>
+                        <p><label for="category">Category:</label><br><select class="field" name="category">
+                            <option selected="selected">Print Subscription</option>
+                            <option>Online Subscription</option>
+                            <option>Classified Ads</option>
+                            <option>News Releases</option>
+                            <option>General Advertising</option>
+                            <option>General Newsroom</option>
+                            <option>Other</option>
+                        </select></p>
+                        <p><label for="content">Comment:</label><br><textarea name="content"></textarea></p>
+                        <p><input type="image" src="http://static.tbc.zope.net/images/main_layout/submit.png" value="submit"></p>
+                        <input type="hidden" name="route" value="feedback_print">
+                    </form>
                 </div>
-
-                <div id="ntwk_carousel_queue" class="crsl_queue" style="display: none">
-                <!-- BAKERSFIELDCALIFORNIAN.COM -->
-                    <div id="bcali" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldcalifornian.com"><h3>BakersfieldCalifornian.com</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_182', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/182/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_182-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_182-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_182-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_182-entry_'+this).addClass('new')
-      });
-      $('#widget_182').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_182').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_182
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_182, #widget_182 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_182 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_182 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_182 ol li.first {
-    border:none;
-}
-
-#widget_182 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_182 ol li a:hover {
-    text-decoration:underline;
-}
---></style>
-<div id="widget_182">
-
-
-<ol id="widget_182-data">
-  <li id="widget_182-entry_3293915" class="first">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435791/State-fines-Buttonwillow-landfills-owner-for-toxic-spill-test-interference?utm_source=widget_182&amp;utm_medium=synapse">State fines Buttonwillow landfill's owner for toxic spill, test interference</a>
-  </li>
-  <li id="widget_182-entry_3293765">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435767/Man-sentenced-to-13-years-for-running-over-wife-and-child?utm_source=widget_182&amp;utm_medium=synapse">Man sentenced to 13 years for running over wife and child</a>
-  </li>
-  <li id="widget_182-entry_3293749">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x1774435741/First-Look-Taekwondo-teaches-strength-power?utm_source=widget_182&amp;utm_medium=synapse">'First Look': Taekwondo teaches strength, power</a>
-  </li>
-  <li id="widget_182-entry_3293607">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/local/x2071376926/First-Look-First-News-for-June-24?utm_source=widget_182&amp;utm_medium=synapse">'First Look': First News for June 24</a>
-  </li>
-  <li id="widget_182-entry_3293288">
-    <a class="title" href="http://www.bakersfieldcalifornian.com/sports/preps/x1774435677/Centennial-grad-Robinson-released-by-Stockton?utm_source=widget_182&amp;utm_medium=synapse">Centennial grad Robinson released by Oakland</a>
-  </li>
-</ol>
-
-
-</div>
-                    </div>
-                <!-- TWITTER -->
-                    <div id="twitter" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfield.com/twitter"><h3>Twitter</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_65', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/65/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_65-data > li').map(function() { return $(this).attr('id').match(/status_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.status.id, old_ids)) {
-          new_ids.push(this.status.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_65-status_'+this.status.id+'"'+li_class+'>');
-        if (this.status.author_avatar) {
-            list.push('<img class="avatar" src="'+this.status.author_avatar.uri+'"/>');
-        }
-        if (this.status.author) {
-            list.push('<a class="author" href="'+this.status.author_uri+'">'+this.status.author+'</a>');
-        }
-        list.push('<p class="message">'+this.status.message+'</p>');
-        if (this.status.published) {
-            list.push('<a class="published" href="'+this.status.message_uri+'">'+this.status.published+'</a>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_65-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_65-status_'+this).addClass('new')
-      });
-      $('#widget_65').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_65').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_65
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_65, #widget_65 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_65 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_65 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_65 ol li.first {
-    border:none;
-}
-
-#widget_65 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_65 ol li a:hover {
-    text-decoration:underline;
-}
-
-#widget_65 ol li p {
-    margin:5px 0 0;
-    font-weight:normal;
-}
-
---></style>
-<div id="widget_65">
-<ol id="widget_65-data">
-  <li id="widget_65-status_19651164" class="first">
-    <a class="author" href="https://twitter.com/TheEditorialPg">Bakersfield Opinion</a>
-    <p class="message">LETTER: The Bible is your best source  <a target="_blank" rel="nofollow" href="http://t.co/Wg2QNkKn4q">http://t.co/Wg2QNkKn4q</a></p>
-  </li>
-  <li id="widget_65-status_19650195">
-    <a class="author" href="https://twitter.com/lmolen">Logan Molen</a>
-    <p class="message">Not sure how it's sourced but this cool map purports to track cyberattacks and targets as they occur: <a target="_blank" rel="nofollow" href="http://t.co/4OA4K5aLwR">http://t.co/4OA4K5aLwR</a> @<a target="_blank" rel="nofollow" href="https://twitter.com/caladd">caladd</a></p>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- BakersfieldDrive.com -->
-                    <div id="bakersfielddrive" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfielddrive.com/"><h3>BakersfieldDrive.com</h3></a>     
-                        </div>
-                        <script class="remove_on_load" src="http://people.bakersfield.com/home/ExternalAd-/349/10" type="text/javascript"></script>
-                    </div>
-                <!-- BakersfieldLife.com -->
-                    <div id="bakersfieldlife" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldlife.com/"><h3>BakersfieldLife.com</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_67', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/67/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_67-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_67-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_67-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_67-entry_'+this).addClass('new')
-      });
-      $('#widget_67').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_67').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_67
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_67, #widget_67 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_67 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_67 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_67 ol li.first {
-    border:none;
-}
-
-#widget_67 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_67 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_67">
-<ol id="widget_67-data">
-  <li id="widget_67-entry_3278411" class="first">
-    <a class="title" href="http://www.bakersfieldlife.com/features/x954483177/Making-the-grade-Say-hello-and-goodbye-to-17-outstanding-local-high-school-seniors?utm_source=widget_67&amp;utm_medium=synapse">Making the grade: Say hello (and goodbye) to 17 outstanding local high school seniors</a>
-  </li>
-  <li id="widget_67-entry_3278404">
-    <a class="title" href="http://www.bakersfieldlife.com/lifestyle/x954483121/On-the-Road-2014-Ford-F-250-Super-Duty-Platinum?utm_source=widget_67&amp;utm_medium=synapse">On the Road: 2014 Ford F-250 Super Duty Platinum</a>
-  </li>
-  <li id="widget_67-entry_3278400">
-    <a class="title" href="http://www.bakersfieldlife.com/people-community/x954483135/Personality-Bakersfields-behind-the-scenes-dream-builder?utm_source=widget_67&amp;utm_medium=synapse">Personality: Bakersfield's behind-the-scenes dream builder</a>
-  </li>
-  <li id="widget_67-entry_3277817">
-    <a class="title" href="http://www.bakersfieldlife.com/people-community/x954482988/Finding-Fame-Felicia-Sanders?utm_source=widget_67&amp;utm_medium=synapse">Finding Fame: Felicia Sanders</a>
-  </li>
-  <li id="widget_67-entry_3277824">
-    <a class="title" href="http://www.bakersfieldlife.com/features/x954483064/Summer-getaways-Summer-trips-for-your-gals-your-golden-years-or-the-whole-family?utm_source=widget_67&amp;utm_medium=synapse">Summer getaways: Summer trips for your gals, your golden years, or the whole family</a>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- BakersfieldVoice.com -->
-                    <div id="bakersfieldvoice" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldvoice.com/"><h3>BakersfieldVoice.com</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_68', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/68/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_68-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_68-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_68-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_68-entry_'+this).addClass('new')
-      });
-      $('#widget_68').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_68').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_68
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_68, #widget_68 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_68 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_68 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_68 ol li.first {
-    border:none;
-}
-
-#widget_68 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_68 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_68">
-<ol id="widget_68-data">
-  <li id="widget_68-entry_3290285" class="first">
-    <a class="title" href="http://www.bakersfieldvoice.com/content/ea-dog-training-classes-starting-mid-sept?utm_source=widget_68&amp;utm_medium=synapse">E,A, DOG TRAINING   CLASSES STARTING MID SEPT</a>
-  </li>
-  <li id="widget_68-entry_3286467">
-    <a class="title" href="http://www.bakersfieldvoice.com/content/canine-cares-kids?utm_source=widget_68&amp;utm_medium=synapse">A Canine Cares for Kids</a>
-  </li>
-  <li id="widget_68-entry_3286468">
-    <a class="title" href="http://www.bakersfieldvoice.com/content/national-champ-kicks-her-way-international-competition?utm_source=widget_68&amp;utm_medium=synapse">National Champ Kicks Her Way to International Competition</a>
-  </li>
-  <li id="widget_68-entry_3286469">
-    <a class="title" href="http://www.bakersfieldvoice.com/content/classroom-computers?utm_source=widget_68&amp;utm_medium=synapse">Classroom Computers</a>
-  </li>
-  <li id="widget_68-entry_3279642">
-    <a class="title" href="http://www.bakersfieldvoice.com/content/2nd-annual-dreamcatchers-picnic-park?utm_source=widget_68&amp;utm_medium=synapse">2nd Annual DreamCatchers Picnic in the Park</a>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- Tehachapi News -->
-                    <div id="tehachapinews" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.tehachapinews.com/"><h3>Tehachapi News</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_70', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/70/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_70-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_70-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_70-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_70-entry_'+this).addClass('new')
-      });
-      $('#widget_70').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_70').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_70
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_70, #widget_70 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_70 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_70 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_70 ol li.first {
-    border:none;
-}
-
-#widget_70 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_70 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_70">
-
-
-<ol id="widget_70-data">
-  <li id="widget_70-entry_3293770" class="first">
-    <a class="title" href="http://www.tehachapinews.com/news/local/x2071377007/News-Noon-for-June-24-2014?utm_source=widget_70&amp;utm_medium=synapse">News@Noon for June 24, 2014:</a>
-  </li>
-  <li id="widget_70-entry_3293108">
-    <a class="title" href="http://www.tehachapinews.com/obituaries/x1774435584/Aaron-Paul-Loar-1986-2014?utm_source=widget_70&amp;utm_medium=synapse">Aaron Paul Loar, 1986 – 2014</a>
-  </li>
-  <li id="widget_70-entry_3293063">
-    <a class="title" href="http://www.tehachapinews.com/news/local/x1774435570/News-Noon-for-June-23-2014?utm_source=widget_70&amp;utm_medium=synapse">News@Noon for June 23, 2014</a>
-  </li>
-  <li id="widget_70-entry_3291929">
-    <a class="title" href="http://www.tehachapinews.com/obituaries/x2071376240/Violet-Marie-Tiberghien-1931-2014?utm_source=widget_70&amp;utm_medium=synapse">Violet Marie Tiberghien, 1931 – 2014</a>
-  </li>
-  <li id="widget_70-entry_3291895">
-    <a class="title" href="http://www.tehachapinews.com/lifestyle/x2071376216/Stallion-Springs-community-garden-opens-June-22?utm_source=widget_70&amp;utm_medium=synapse">Stallion Springs community garden opens June 22</a>
-  </li>
-</ol>
-
-
-</div>
-                    </div>
-                <!-- Bakersfield Business Guide -->
-                    <div id="insideguide" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldbusinessguide.com/"><h3>Bakersfield Business Guide</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_77', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/77/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_77-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_77-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_77-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_77-entry_'+this).addClass('new')
-      });
-      $('#widget_77').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_77').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_77
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_77, #widget_77 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_77 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_77 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_77 ol li.first {
-    border:none;
-}
-
-#widget_77 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_77 ol li a:hover {
-    text-decoration:underline;
-}
-
---></style>
-<div id="widget_77">
-<ol id="widget_77-data">
-  <li id="widget_77-entry_3203094" class="first">
-    <a class="title" href="http://www.bakersfieldbusinessguide.com/business_listing/bill-ray-ceramic-tile-center#comment-6185?utm_source=widget_77&amp;utm_medium=synapse">Special Offer!!! - Bill Ray Ceramic Tile Center</a>
-  </li>
-  <li id="widget_77-entry_3280775">
-    <a class="title" href="http://www.bakersfieldbusinessguide.com/business_listing/ipaint-bakersfield#comment-6196?utm_source=widget_77&amp;utm_medium=synapse">Paint your house or business! 10% off all labor! Call 661-717-98 - iPAINT | Bakersfield</a>
-  </li>
-  <li id="widget_77-entry_3253223">
-    <a class="title" href="http://www.bakersfieldbusinessguide.com/business_listing/wow-pest-control-bakersfield#comment-6195?utm_source=widget_77&amp;utm_medium=synapse">Bimonthly service for only $55! Regular price $65. - Wow Pest Control | Bakersfield</a>
-  </li>
-  <li id="widget_77-entry_3159423">
-    <a class="title" href="http://www.bakersfieldbusinessguide.com/business_listing/friendly-smog-bakersfield#comment-6194?utm_source=widget_77&amp;utm_medium=synapse">Smog Test Special $36.75 (+certificate) - Limited Time Offer! - Friendly Smog | Bakersfield</a>
-  </li>
-  <li id="widget_77-entry_3159402">
-    <a class="title" href="http://www.bakersfieldbusinessguide.com/business_listing/city-smog-bakersfield#comment-6193?utm_source=widget_77&amp;utm_medium=synapse">Smog Test Special $36.75+cert - Call today! - City Smog | Bakersfield</a>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- Bakersfield Talks -->
-                    <div id="bakersfieldtalks" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfieldtalks.com/"><h3>Bakersfield Talks</h3></a>     
-                        </div>
-                        <script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_93', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/93/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_93-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_93-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_93-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_93-entry_'+this).addClass('new')
-      });
-      $('#widget_93').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_93').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_93
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_93, #widget_93 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_93 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_93 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_93 ol li.first {
-    border:none;
-}
-
-#widget_93 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_93 ol li a:hover {
-    text-decoration:underline;
-}
---></style>
-<div id="widget_93">
-<ol id="widget_93-data">
-  <li id="widget_93-entry_3293918" class="first">
-    <a class="title" href="http://www.bakersfieldtalks.com/groups/politics/forum/topic/lois-lerner-emails-lost/?topic_page=3#post-33819&amp;utm_source=widget_93&amp;utm_medium=synapse">Lamonster replied to the forum thread Lois Lerner Emails lost in the topic Politics</a>
-  </li>
-  <li id="widget_93-entry_3293909">
-    <a class="title" href="http://www.bakersfieldtalks.com/groups/politics/forum/topic/lois-lerner-emails-lost/?topic_page=3#post-33818&amp;utm_source=widget_93&amp;utm_medium=synapse">Groucho replied to the forum thread Lois Lerner Emails lost in the topic Politics</a>
-  </li>
-  <li id="widget_93-entry_3293855">
-    <a class="title" href="http://www.bakersfieldtalks.com/groups/politics/forum/topic/lois-lerner-emails-lost/?topic_page=3#post-33817&amp;utm_source=widget_93&amp;utm_medium=synapse">Lamonster replied to the forum thread Lois Lerner Emails lost in the topic Politics</a>
-  </li>
-</ol>
-</div>
-                    </div>
-                <!-- B Well -->
-                    <div id="bwell" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfield-wellness.com/"><h3>Bakersfield Wellness Magazine</h3></a>     
-                        </div>
-			<script type="text/javascript"><!--
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
---></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-$(function() {
-  var update = function() {
-    $.ajaxSetup({jsonpCallback: 'widget_216', cache: false});
-    $.getJSON('http://widgets.bakersfield.com/216/default.json?callback=?', function(data) {
-      var old_ids = $('#widget_216-data > li').map(function() { return $(this).attr('id').match(/entry_(\d+)/)[1];});
-      var new_ids = [];
-      var list = [];
-      $.each(data, function(ndx) {
-        if (!$.inArray(this.entry.id, old_ids)) {
-          new_ids.push(this.entry.id);
-        }
-        var li_class = (ndx==0 ? ' class="first"' : '');
-        list.push('<li id="widget_216-entry_'+this.entry.id+'"'+li_class+'>')
-        if (this.entry.thumbnail) {
-            list.push('<img class="thumbnail" src="'+this.entry.thumbnail.uri+'"/>');
-        }
-        list.push('<a class="title" href="'+this.entry.url+'">'+this.entry.title+'</a>');
-        if (this.entry.summary) {
-            list.push('<p class="summary">'+this.entry.summary+'</p>');
-        }
-        if (this.entry.published) {
-            list.push('<p class="published">'+this.entry.published+'</p>');
-        }
-        list.push('</li>');
-      });
-      $('#widget_216-data').html(list.join('\n'));
-      $.each(new_ids, function() {
-        $('#widget_216-entry_'+this).addClass('new')
-      });
-      $('#widget_216').resize();
-    });
-  };
-  var interval_id = setInterval(update, 60000);
-  $('#widget_216').data('interval_id', interval_id);
-  update();
-});
---></script>
-<style type="text/css"><!--
-#widget_216
-{
-    padding:0px !important;
-    overflow:hidden;
-}
-
-#widget_216, #widget_216 * {
-    line-height:1;
-    outline:none;
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:11px;
-}
-
-#widget_216 ol {
-    -webkit-border-radius: 10px 10px;
-    -moz-border-radius: 10px 10px;
-    border-radius: 10px 10px;
-    padding:6px 10px;
-    list-style:none;
-    background-color:#FFF;
-    color:#000;
-    margin:10px;
-    height:200px;
-}
-
-#widget_216 ol li {
-    padding:4px 0;
-    border-top:1px dotted #999;
-}
-
-#widget_216 ol li.first {
-    border:none;
-}
-
-#widget_216 ol li a {
-    font-weight:bold;
-    color:#000;
-    text-decoration:none;
-}
-
-#widget_216 ol li a:hover {
-    text-decoration:underline;
-}
---></style>
-<div id="widget_216">
-<ol id="widget_216-data">
-  <li id="widget_216-entry_3284200" class="first">
-    <a class="title" href="http://www.bwellmagazine.com/wellness-wonder/x1468223943/Life-Happiness-12-Tips-to-Living-Life-Stress-Free?utm_source=widget_216&amp;utm_medium=synapse">Life &amp; Happiness: 12 Tips to Living Life Stress-Free</a>
-  </li>
-  <li id="widget_216-entry_3284198">
-    <a class="title" href="http://www.bwellmagazine.com/creating-awareness/x1468223936/B-The-Cause-Bakersfield-Police-Activities-League-Bonding-Cops-Kids?utm_source=widget_216&amp;utm_medium=synapse">B The Cause: Bakersfield Police Activities League — 'Bonding Cops &amp; Kids'</a>
-  </li>
-  <li id="widget_216-entry_3284187">
-    <a class="title" href="http://www.bwellmagazine.com/creating-awareness/x1468223921/Some-Kind-of-Wonderful-Jacob-Panero?utm_source=widget_216&amp;utm_medium=synapse">Some Kind of Wonderful: Jacob Panero</a>
-  </li>
-  <li id="widget_216-entry_3284201">
-    <a class="title" href="http://www.bwellmagazine.com/wellness-wonder/x1295481149/Gardening-Planting-a-Salsa-Garden?utm_source=widget_216&amp;utm_medium=synapse">Gardening: Planting a Salsa Garden</a>
-  </li>
-  <li id="widget_216-entry_3284162">
-    <a class="title" href="http://www.bwellmagazine.com/wellness-wonder/x1468223907/Lifes-Questions-Answered-What-Protein-Powder-is-Right-For-Me?utm_source=widget_216&amp;utm_medium=synapse">Life's Questions Answered: What Protein Powder is Right For Me?</a>
-  </li>
-</ol>
-</div>
-		    </div>
-                <!-- KERNEVENTS.COM -->
-                    
-                <!-- Daily Deal -->
-                    <div id="ntwk_daily_deal" class="widget crsl_item">
-                        <div class="header">
-                            <a href="http://dailydeal.bakersfield.com/engine/Splash.aspx?contestid=65790"><h3>Bakersfield Daily Deal</h3></a>     
-                        </div>
-                        <p style="background-color:white; height:192px; line-height:1.2; margin:10px; padding:10px; border-radius:10px;">Want to save some serious cash on things you buy all the time? Every day, a new deal valued at 50%-90% off regular prices at restaurants, spas, events and other local businesses shows up at Dailydeal.bakersfield.com.</p>
-                    </div>
-                <!-- Kern Business Journal -->
-                    <div id="ntwk_kern_biz_journal" class="widget crsl_item">
-                        <div class="header">
-                            <a href="http://www.kernbusinessjournal.com/"><h3>Kern Business Journal</h3></a>     
-                        </div>
-                        <p style="background-color:white; height:192px; line-height:1.2; margin:10px; padding:10px; border-radius:10px;">Kern Business Journal is a bi-monthly publication. The Bakersfield Californian will work closely with the County of Kern, Kern Economic Development Corporation (KEDC) and the Bakersfield Chamber of Commerce. It will contain news and information from local, Kern County business leaders and organizations.</p>
-                    </div>
-                <!-- BAKERSFIELD PICTURES -->
-                    <div id="bakersfieldpictures" class="widget crsl_item"> 
-                        <div class="header">
-                            <a href="http://www.bakersfield.com/photos"><h3>Californian Photos</h3></a>
-                        </div>
-			<div style="margin:10px;padding:10px; height:192px; background-color:#FFF; word-spacing:-20px;line-height:0; border-radius:10px;">
-			    <a style="text-decoration:none; display:block; margin:0 auto 10px; width:90px;" href="http://bakersfield.smugmug.com/LocalPeople/US-vs-Portugal-soccer-fans/42193783_bZdJgk#3336356422_j8Gc3Lq" class="first">
-				<img style="width:90px;" src="http://bakersfield.smugmug.com/LocalPeople/US-vs-Portugal-soccer-fans/i-j8Gc3Lq/0/Ti/unknown-Ti.jpg" title="Felix Adamo / The Californian
-Dave Lee and other USA soccer fans at Sandrini's Italian and Basque Restaurant watch in disbelief as Portugal ties the game with just seconds remaining.">
-			    </a>
-			    <a style="text-decoration:none; display:block; margin:0 auto 10px; width:90px;" href="http://bakersfield.smugmug.com/LocalPeople/US-vs-Portugal-soccer-fans/42193783_bZdJgk#3336355322_D26vnp3" class="last">
-				<img style="width:90px;" src="http://bakersfield.smugmug.com/LocalPeople/US-vs-Portugal-soccer-fans/i-D26vnp3/0/Ti/unknown-Ti.jpg" title="Felix Adamo / The Californian
-Sandrini's Italian and Basque Restaurant was packed with US soccer fans for the match against Portugal.">
-			    </a>
-			</div>
-		    </div>
+                <div id="asktbc" class="content">
+                    <form id="asktbc_form">
+                        <p><label for="name">Name:</label><br><input class="field" type="text" name="name"></p>
+                        <p><label for="email">Email:</label><br><input class="field" type="text" name="email"></p>
+                        <p><label for="content">Question:</label><br><textarea name="content"></textarea></p>
+                        <p><input type="image" src="http://static.tbc.zope.net/images/main_layout/submit.png" value="submit"></p>
+                        <input type="hidden" name="route" value="asktbc">
+                    </form>
                 </div>
-                
-                <div style="background-image:url('http://static.tbc.zope.net/images/main_layout/network/leftarrow.png'); background-repeat:no-repeat; background-position:center;" id="scroll_left" class="crsl_scrl_left"></div>
-                <div style="background-image:url('http://static.tbc.zope.net/images/main_layout/network/rightarrow.png'); background-repeat:no-repeat; background-position:center;" id="scroll_right" class="crsl_scrl_right"></div>
-            </div>
+            </div><!-- footer_contact_form -->
+            <div id="footer_subscriber_services" class="footer_block">
+                <h5>Subscriber Services</h5>
+                <p>Phone: (661) 392-5777</p>
+                <p>Toll Free: 1-800-953-5353</p>
+                <p>Email: <a href="mailto:circulation@bakersfield.com">circulation@bakersfield.com</a></p>
+                <ul class="footer_link_list">
+                    <li><a href="http://www.bakersfieldcalifornian.com/read-us">Read Us Anywhere</a></li>
+                    <li><a href="http://eedition.bakersfield.com/">e-Edition</a></li>
+                    <li><a href="http://www.bakersfieldcalifornian.com/subscribe">Print &amp; e-Edition</a></li>
+                    <li><a href="https://subs-tbc.admin.zope.net/subscriptions/tbc/purchase">Digital</a></li>
+                    <li><a href="http://www.bakersfieldcalifornian.com/subscribers">More Info</a></li>
+                </ul>
+            </div><!-- footer_subscriber_services -->
+            <div id="footer_categories" class="footer_block">
+                <h5>Categories</h5>
+                <ul class="footer_link_list">
+                    <li class="news_cat"><a href="http://www.bakersfieldcalifornian.com/">News</a></li>
+                    <li class="obits_cat"><a href="http://www.bakersfieldcalifornian.com/obituaries">Obits</a></li>
+                    <li class="sports_cat"><a href="http://www.bakersfieldcalifornian.com/sports">Sports</a></li>
+                    <li class="ae_cat"><a href="http://www.bakersfieldcalifornian.com/entertainment">A&amp;E</a></li>
+                    <li class="lifestyles_cat"><a href="http://www.bakersfieldcalifornian.com/lifestyle">Lifestyle</a></li>
+                    <li class="opinion_cat"><a href="http://www.bakersfieldcalifornian.com/opinion">Opinion</a></li>
+                    <li class="video_cat"><a href="http://www.bakersfield.com/video">Video</a></li>
+                    <li class="classifieds_cat"><a href="http://www.bakersfieldbuyandsell.com/">Classifieds</a></li>
+                    <li class="business_cat"><a href="http://www.bakersfieldcalifornian.com/business">Business</a></li>
+                    <li class="politics_cat"><a href="http://www.bakersfieldcalifornian.com/politics">Politics</a></li>
+                </ul>
+            </div><!-- footer_categories -->
+            <div id="footer_tbc_network" class="footer_block">
+                <h5>TBC Network</h5>
+                <ul class="footer_link_list">
+                    <li><a href="http://www.bakersfieldcalifornian.com/">Bakersfield Californian</a></li>
+                    <li><a href="http://bakersfield.smugmug.com/">Bakersfield Pictures</a></li>
+                    <li><a href="http://www.bakersfieldlife.com/">Bakersfield Life</a></li>
+                    <li><a href="http://www.bakersfieldvoice.com/">Bakersfield Voice</a></li>
+                    <li><a href="http://www.bwellmagazine.com/">Bakersfield Wellness</a></li>
+                    <li><a href="http://www.kernevents.com/">Kern Events</a></li>
+                    <li><a href="http://www.tehachapinews.com/">Tehachapi News</a></li>
+                    <li><a href="http://www.kernbusinessjournal.com/">Kern Business Journal</a></li>
+                </ul>
+            </div><!-- footer_tbc_network -->
+            <div id="footer_other_resources" class="footer_block">
+                <h5>Other Resources</h5>
+                <p>The Bakersfield Californian<br>
+                1707 Eye St, Bakersfield, CA 93301</p>
+                <p>Office Hours:</p>
+                <div id="footer_office_hours">
+                    <p>Mon-Fri 8 a.m. to 5 p.m.</p>
+                    <p>Closed holidays</p>
+                </div>
+                <ul class="footer_link_list">
+                    <li><a href="http://www.bakersfield.com/contact_us">Contact Us</a></li>
+                    <li><a href="http://mediakit.bakersfield.com/">Media Kit</a></li>
+                    <li><a href="http://www.bakersfield.com/sitemap">Sitemap</a></li>
+                </ul>
+                <div id="footer_social_media">
+                    <a class="fa-stack twitter" href="https://twitter.com/Bakersfieldcali">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                    </a>
+                    <a class="fa-stack facebook" href="https://www.facebook.com/BakersfieldCalifornian">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </a>
+                </div>
+            </div><!-- footer_contact_info -->
+        </div><!-- main_footer -->
+        <div id="footer_footer" class="container">
+            <div id="footer_copyright">Copyright © 2014 The Bakersfield Californian</div>
+            <ul id="footer_company_links" class="container">
+                <li><a href="http://www.bakersfield.com/privacy_policy">Privacy Policy</a></li>
+                <li><a href="http://www.bakersfield.com/terms">Terms of Use</a></li>
+                <li><a href="http://www.bakersfield.com/privacy_policy#advertisements">About Our Ads</a></li>
+                <li><a href="http://mediakit.bakersfield.com/planner">Advertise With Us</a></li>
+            </ul>
+        </div>
+    </div>
 
-
-            
-            
+                        
     <script type="text/javascript">
 	$(function() {
 	    var timer_id = 0;
@@ -2051,225 +1629,13 @@ Sandrini's Italian and Basque Restaurant was packed with US soccer fans for the 
 	});
     </script>
 
-        
-    
-    
-    
-	<div id="footersitemap_container">
-	    <div id="footersitemap_contact">
-		<script type="text/javascript">
-		<!--
-		    $(function() {
-			$("#asktbc_form,#feedback_form").submit(function() {
-			    var form = $(this);
-			    $.ajaxSetup({jsonpCallback: form.attr("id")+"_callback", cache: false});
-			    
-			    $.getJSON("http://submit.bakersfield.com/?callback=?&"+form.serialize(), function(data) {
-				if (data.success) {
-				    form.html("<p>Thank you for your submission.</p>");
-				}
-				else {
-				    form.children(".errors").remove();
-				    var errors = ['<ul class="errors">']
-				    $.each(data.errors, function(index, value) {
-					errors.push("<li>"+value+"</li>");
-				    });
-				    errors.push("</ul>");
-				    form.prepend(errors.join("\n"));
-				}
-			    });
-			    return false;
-			});
-		    });
-		-->
-		</script>
-		<script type="text/javascript"><!--
-		    $(function() {
-                        var route_mapping = {
-                            "Print Subscription": "feedback_print",
-                            "Online Subscription": "feedback_online",
-                            "Classified Ads": "feedback_classifieds",
-                            "News Releases": "feedback_releases",
-                            "General Advertising": "feedback_advertising",
-                            "General Newsroom": "feedback_newsroom",
-                            "Other": "feedback_other"
-                        };
-                        
-			$('div#footersitemap_contact > ul.tabs li > a').click(function(event) {
-			    event.preventDefault();
-			});
-			
-			$('div#footersitemap_contact > ul.tabs li').click(function() {
-			    href = $(this).children('a').first().attr('href');
-			    $(this).siblings('.active').removeClass('active');
-			    $('div#footersitemap_contact > div.content').removeClass('active');
-			    $(this).addClass('active');
-			    $('div#footersitemap_contact > div'+href).addClass('active');
-			});
-                        $('select[name="category"]').change(function() {
-                            $('input[name="route"]').val(route_mapping[$(this).val()]);
-                        });
-		    });
-		--></script>
-		<ul class="tabs">
-		    <li class="active"><a href="#feedback">Customer Service</a></li> | <li><a href="#asktbc">Ask TBC</a></li>
-		</ul>
-		<div id="feedback" class="content active">
-		    <form id="feedback_form">
-			<p><label for="name">Name:</label><br><input class="field" type="text" name="name"></p>
-			<p><label for="email">Email:</label><br><input class="field" type="text" name="email"></p>
-			<p><label for="category">Category:</label><br><select class="field" name="category">
-                            <option selected="selected">Print Subscription</option>
-                            <option>Online Subscription</option>
-                            <option>Classified Ads</option>
-                            <option>News Releases</option>
-                            <option>General Advertising</option>
-                            <option>General Newsroom</option>
-                            <option>Other</option>
-                        </select></p>
-                        <p><label for="content">Comment:</label><br><textarea name="content"></textarea></p>
-			<p><input type="image" src="http://static.tbc.zope.net/images/main_layout/submit.png" value="submit"></p>
-			<input type="hidden" name="route" value="feedback_print">
-		    </form>
-		</div>
-		<div id="asktbc" class="content">
-		    <form id="asktbc_form">
-			<p><label for="name">Name:</label><br><input class="field" type="text" name="name"></p>
-			<p><label for="email">Email:</label><br><input class="field" type="text" name="email"></p>
-			<p><label for="content">Question:</label><br><textarea name="content"></textarea></p>
-			<p><input type="image" src="http://static.tbc.zope.net/images/main_layout/submit.png" value="submit"></p>
-			<input type="hidden" name="route" value="asktbc">
-		    </form>
-		</div>
-	    </div>
-	    <div id="footersitemap_resources">
-		<div id="sitemapheader">Bakersfield.com Network Site Map</div>
-		<div class="listcolumn"><!-- one -->
-		    <h4 style="margin:0px;">News</h4>
-		    <a href="http://www.bakersfield.com/blogs/breaking_news">Breaking News</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/local">Local News</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/local/ask-tbc">Ask TBC</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/obituaries">Obituaries</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/sports">Sports</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/business">Business</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/health">Health</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/entertainment">A&amp;E</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/lifestyle">Lifestyle</a><br>
-		    <a href="http://www.bakersfield.com/blogs">Staff Blogs</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/politics">Politics</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/opinion">Opinion</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/columnists">Columnists</a><br>
-		    <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html">Weather</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/special-sections">Special Sections</a><br>
-		    <a href="http://www.bakersfield.com/video">Video</a><br>
-		</div>
-		<div class="listcolumn" style="width:120px;"><!-- two -->
-		    <h4 style="margin:0px;">Community</h4>
-		    <a href="http://www.kernevents.com">Kern Events</a><br>
-		    <a href="http://bakersfield.smugmug.com">Bakersfield Pictures</a><br>
-		    <a href="http://www.bakersfieldlife.com">Bakersfield Life</a><br>
-		    <a href="http://www.bakersfieldvoice.com">Bakersfield Voice</a><br>
-		    <a href="http://www.tehachapinews.com">Tehachapi News</a><br>
-		    <a href="http://www.bakersfield-wellness.com/">Bakersfield Wellness</a><br>
-		    <a href="http://www.bakosphere.com/">Bakosphere</a><br>
-		    <a href="http://www.kernbusinessjournal.com/">Kern Business Journal</a><br>
-
-		    <h4 style="margin:0px;">Video</h4>
-		    <a href="http://www.bakersfield.com/video/first-look">First Look</a><br>
-		    <a href="http://www.bwellmagazine.com/video">B Well Live</a><br>
-		    <a href="http://www.youtube.com/playlist?list=PLu6ONbK5gAKPCZEn1c6htGPAGmnFT6Val">B Varsity</a><br>
-		    <a href="http://www.youtube.com/playlist?list=PLu6ONbK5gAKNWVKc4DjJM7MOendm88vft">Condors Unleashed</a><br>
-		    <a href="http://www.youtube.com/playlist?list=PLu6ONbK5gAKNkeGmgZX5hDU9apLWXSGFb">Roadrunner Round-up</a><br>
-		    
-		    
-		    <h4>Business Guide</h4>
-		    <a href="http://www.bakersfieldbusinessguide.com/search">Find Businesses</a><br>
-		    <a href="http://www.bakersfieldbusinessguide.com/register?business-user">List Your Business</a><br>
-		    <a href="http://www.bakersfieldbusinessguide.com/business_categories">All Categories</a><br>
-		</div>
-		<div class="listcolumn"><!-- three -->
-		    <h4 style="margin:0px;">Classifieds</h4>
-		    <a href="http://homes.bakersfieldhomehunter.com/rentals/bakersfield-ca-usa/classifieds-dstype">Rentals</a><br>
-		    <a href="http://www.bakersfieldhomehunter.com">Homes</a><br>
-		    <a href="http://www.bakersfielddrive.com">Drive</a><br>
-		    <a href="http://www.bakersfield.com/jobs">Jobs</a><br>
-		    <a href="http://www.bakersfield.com/jobs/videos">Job Videos</a><br>
-		    <a href="http://ads.bakersfieldbuyandsell.com/g/public-notices-30772919-b">Public Notices</a><br>
-		    <a href="http://ads.bakersfieldbuyandsell.com/g/merchandise-30948836-b">Stuff</a><br>
-		    <a href="http://ads.bakersfieldbuyandsell.com/g/pets-animals-25844571-b">Pets</a><br>
-		    <a href="http://ads.bakersfieldbuyandsell.com/g/service-directory-26657570-b">Service Directory</a><br>
-		    <a href="http://ads.bakersfieldbuyandsell.com/g/yard-sales-26070800-b&#10;">Yard Sales</a><br>
-		    <a href="http://www.bakersfield.com/place_your_ad">Place An Ad</a><br>
-
-		    
-		    <h4>Mobile</h4>
-		    <a href="http://www.661411.com">661411.com</a><br>
-		    <a href="https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_ce4eff70d07d478a1d12af0a6376c86f">Android App</a><br>
-		    <a href="https://itunes.apple.com/us/app/the-bakersfield-californian/id685842206?mt=8">iPhone App</a><br>                    
-		</div>
-		
-		<div class="listcolumn"><!-- four -->
-		    <h4 style="margin:0px;">Advertise With Us</h4>
-		    <a href="http://www.bakersfield.com/advertise">Media Kit</a><br>
-		    <a href="http://mediakit.bakersfield.com/rate-cards">Rate Cards</a><br>
-		    <a href="http://www.bakersfield.com/contact_us">Contact Advertising</a><br>
-		    
-		    <h4>Follow</h4>
-		    <a href="http://www.facebook.com/BakersfieldCalifornian"><img style="width:15px; height:15px; margin-right:3px;" alt="facebook" src="http://static.tbc.zope.net/images/main_layout/fbicon.png">Facebook</a><br>
-		    <a href="https://twitter.com/Bakersfieldcali"><img style="width:15px; height:15px; margin-right:3px;" alt="twitter" src="http://static.tbc.zope.net/images/main_layout/twittericon.png">Twitter</a><br>
-		    <a href="http://www.bakersfield.com/mobile"><img style="width:15px; height:15px; margin-right:3px;" alt="mobile" src="http://static.tbc.zope.net/images/main_layout/mobileicon.png">Mobile</a><br>
-		    <a href="http://www.bakersfield.com/rss"><img style="width:15px; height:15px; margin-right:3px;" alt="rss" src="http://static.tbc.zope.net/images/main_layout/rssicon.png">RSS</a><br>
-		    
-		    <h4>Other Resources</h4>
-		    <a href="http://www.bakersfield.com/contact_us">Contact Us</a><br>
-		    <a href="http://www.bakersfield.com/social_media">Social Media</a><br>
-		    <a href="http://www.bakersfieldcalifornian.com/read-us">Read Us Anywhere</a><br>
-		</div>
-	    </div><!-- close resources -->
-	    <div id="rightside">
-		<div class="listcolumn"><!-- five -->
-		    <h4 style="margin:0px;">Subscriber Services</h4>
-		    <span style="margin-left:10px; line-height:14px;">Phone: (661) 392-5777</span><br>
-		    <span style="margin-left:10px; line-height:14px;">Toll Free: 1-800-953-5353</span><br>
-		    <span style="margin-left:10px; line-height:14px;">Email: <a href="mailto:circulation@bakersfield.com">circulation@bakersfield.com</a></span><br>
-		    <span style="margin-left:10px; line-height:14px;">Office Hours:</span><br>
-		    <span style="margin-left:20px; line-height:12px; font-size:10px;">Mon-Fri 5:30 a.m. to 4:30 p.m.</span><br>
-		    <span style="margin-left:20px; line-height:12px; font-size:10px;">Sat 5:30 to Noon</span><br>
-		    <span style="margin-left:20px; line-height:12px; font-size:10px;">Sun 5:30 a.m. to Noon</span><br>
-		    <span style="margin-left:20px; line-height:12px; font-size:10px;">Holidays 5:30 to Noon</span><br>                            
-		    <h4>Subscription Options</h4>
-		    <ul style="list-style:disc; line-height:14px; margin-left:20px; width:200px;">
-			<li><a style="font-size:10px;" href="http://eedition.bakersfield.com/">e-Edition </a></li>
-			<li><a style="font-size:10px;" href="http://www.bakersfieldcalifornian.com/subscribe">Print &amp; e-Edition</a></li>
-			<li><a style="font-size:10px;" href="https://subs-tbc.admin.zope.net/subscriptions/tbc/purchase">Digital</a></li>
-			<li><a style="font-size:10px;" href="http://www.bakersfieldcalifornian.com/subscribers">More Info</a></li>
-		    </ul>
-		</div>
-	    </div><!-- close rightside -->
-	    <div style="clear:both;"></div>
-            
-	</div><!-- close container -->
-        
-    
-    
-    
-	<div id="copyright">
-	    <p style="margin-bottom:2px;">Copyright © 2014 The Bakersfield Californian</p>
-	    <p>
-		<a href="http://www.bakersfield.com/privacy_policy">Privacy Policy</a> |
-		<a href="http://www.bakersfield.com/terms">Terms of Use</a> |
-		<a href="http://www.bakersfield.com/privacy_policy#advertisements">About Our Ads</a> |
-		<a href="http://www.bakersfield.com/advertise">Advertise With Us</a>
-	    </p>
-	</div>
-    
-
 		    
 		</div>
 
 		<div id="tracking">
 		    
 			
+    <!-- social buttons -->
     <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
     <script type="text/javascript">
         window.fbAsyncInit = function() {
@@ -2277,7 +1643,7 @@ Sandrini's Italian and Basque Restaurant was packed with US soccer fans for the 
             
             try {
                 FB.Event.subscribe('edge.create', function(targetUrl) {
-                    _gaq.push(['_trackSocial', 'Facebook', 'recommend']);
+                    ga('send', 'social', 'Facebook', 'recommend', targetUrl);
                 });
             } catch(e) {}
         };
@@ -2287,37 +1653,28 @@ Sandrini's Italian and Basque Restaurant was packed with US soccer fans for the 
             e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
             document.getElementById('fb-root').appendChild(e);
         }());
-    </script>
     
-    <!-- Pinterest button -->
-    <script type="text/javascript">
-	(function(d){
+        (function(d){
 	    var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
 	    p.type = 'text/javascript';
 	    p.async = true;
 	    p.src = '//assets.pinterest.com/js/pinit.js';
 	    f.parentNode.insertBefore(p, f);
 	}(document));
-    </script>
-    
-    <script type="text/javascript">
-        try {
-            twttr.events.bind('tweet', function(event) {
-               _gaq.push(['_trackSocial', 'Twitter', 'tweet']);
-            });
-        } catch(e) {}
-        
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
         
         (function() {
           var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
           po.src = 'https://apis.google.com/js/plusone.js';
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
         })();
+        
+        try {
+            twttr.ready(function (twttr) {
+                twttr.events.bind('tweet', function(event) {
+                    ga('send', 'social', 'Twitter', 'tweet', document.URL);
+                });
+            });
+        } catch(e) {}
     </script>
 
 		    
@@ -2344,6 +1701,7 @@ Sandrini's Italian and Basque Restaurant was packed with US soccer fans for the 
 		    
 		</div>
 	    </div>
+            
 	
     
 
