@@ -1,0 +1,288 @@
+<!--The following is the downloaded HTML source of the memorado.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120060459id_/http%3A//memorado.com/info/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZVR6Z"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6746c16234","applicationID":"3942765","transactionName":"c1pdQENfDl4GEElBElFBWlduQANVBhFJQQ5fQg==","queueTime":0,"applicationTime":37,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcBU1ZbGwAJUFNVAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta content="Memorado" property="og:site_name">
+<meta content="Memorado - Make People Smarter" property="og:title">
+<meta content="http://memorado.com/uploads/rich/rich_file/rich_file_file_name/44/originalsocial.jpg" property="og:image">
+<meta content="http://memorado.com/info/memberforlife" property="og:url">
+<meta content="Start your brain training now ✔ Games to improve your memory and concentration ✔ Register now for free and start your training" property="og:description">
+<meta content="https://www.facebook.com/pages/Memorado/758636167497217" property="article:publisher">
+<title>Memorado</title>
+<meta content="app-id=897062509" name="apple-itunes-app">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="/assets/modern-ad33cbab8de859022f2bc3bcb59009e5.css" media="all" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700|Shadows+Into+Light+Two" media="screen" rel="stylesheet">
+<script src="//cdn.optimizely.com/js/593181020.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="/assets/application-e3de15fe1cefc0045a78e0cbcfba4d59.js"></script>
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="Oxx/FU3k7Z8oKwkv4UQv8el4jHukae85O9Li9ZfnE5Y=" name="csrf-token">
+
+<link href="http://memorado.de/info/privacy-policy" hreflang="de-DE" rel="alternate"><link href="http://memorado.at/info/privacy-policy" hreflang="de-AT" rel="alternate"><link href="http://memorado.com/info/privacy-policy" hreflang="en-US" rel="alternate"><link href="http://memorado.ca/info/privacy-policy" hreflang="en-CA" rel="alternate"><link href="http://memorado.no/info/privacy-policy" hreflang="no-NO" rel="alternate"><link href="http://memorado.it/info/privacy-policy" hreflang="it-IT" rel="alternate"><link href="http://memorado.es/info/privacy-policy" hreflang="es-ES" rel="alternate"><link href="http://memorado.fr/info/privacy-policy" hreflang="fr-FR" rel="alternate"><link href="http://memorado.co.uk/info/privacy-policy" hreflang="en-GB" rel="alternate"><link href="http://memorado.se/info/privacy-policy" hreflang="sv-SE" rel="alternate"><link href="http://memorado.dk/info/privacy-policy" hreflang="da-DK" rel="alternate"><link href="http://memorado.pl/info/privacy-policy" hreflang="pl-PL" rel="alternate"><link href="http://memorado.nl/info/privacy-policy" hreflang="nl-NL" rel="alternate"><link href="http://memorado.jp/info/privacy-policy" hreflang="ja-JP" rel="alternate"><link href="http://memorado.cn/info/privacy-policy" hreflang="zh-CN" rel="alternate"><link href="http://memorado.in/info/privacy-policy" hreflang="en-IN" rel="alternate"><link href="http://memorado.net/info/privacy-policy" hreflang="de-CH" rel="alternate"><link href="http://memorado.pt/info/privacy-policy" hreflang="pt-PT" rel="alternate"><link href="http://memorado.com.br/info/privacy-policy" hreflang="pt-BR" rel="alternate"><link href="http://memorado.ru/info/privacy-policy" hreflang="ru-RU" rel="alternate"><link href="http://memorado.org/info/privacy-policy" hreflang="ko-KR" rel="alternate"><link href="http://memorado.info/info/privacy-policy" hreflang="ar-SA" rel="alternate">
+<link href="/assets/favicon-5a961d7a9b39c2bc026e69cdda0fa199.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<script>
+  dataLayer = [];
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZVR6Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZVR6Z');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="" data-spy="scroll" data-target=".navbar-secondary">
+<div class="modal fade" id="footer-links-modal">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-body">
+<button class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+<div class="static-page-modal-content js-footer-links-modal"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="navbar navbar-default navbar-fixed-top" id="navbar_main">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/"><img alt="Memorado white" height="24" src="/assets/memorado-white-644b6ad0b3bbcedc2e4ded4ef408dac8.png" width="148">
+</a></div>
+<nav class="collapse navbar-collapse" role="navigation">
+<div class="navbar-right enlarged-text">
+<p class="navbar-text">Sign-in for users:</p>
+<div class="navbar-right"><form action="/users/sign_in" class="button_to" method="get"><div><input class="btn btn-default navbar-btn" type="submit" value="Login"></div></form></div>
+</div>
+
+</nav>
+<!-- /.nav-collapse -->
+</div>
+</div>
+
+<div class="alerts">
+</div>
+<div class="container">
+<div class="p-top-xs-double p-bottom-xs-tripple">
+<div class="rich-content">
+<p><strong>Privacy Policy</strong></p>
+
+<p>Last updated: June 23rd, 2014</p>
+
+<p>&nbsp;</p>
+
+<p>Our Policy</p>
+
+<p>Welcome to the web site (the "Site") of Memorado, Inc. (doing business as Memorado). This Site is operated by Memorado and has been created to provide information about our company and the Memorado brain training services, whether accessible to you via web, mobile app or other platform (our services, together with the Site, are the "Services") by visitors and users of the Services ("you" and/or "your").</p>
+
+<p>This Privacy Policy sets out Memorado's policy with respect to information, including in particular information which identifies you personally (known as 'personally identifiable information' in the USA or 'personal data' in the European Union, which together we'll call "Personal Data")) and other information that is collected from visitors and users of the Services.</p>
+
+<p>Please read this privacy policy carefully so that you understand how we will treat your information.&nbsp; By using any of our Services, you confirm that you have read, understood and agree to this privacy policy.&nbsp; If you do not agree to this policy, please do not use any of the Services.&nbsp; If you have any queries, please email us at service@memorado.com</p>
+
+<p>Who we are:</p>
+
+<p>We are Memorado GmbH, incorporated at Alte Schönhauser Strasse 44, 10119 Berlin, Germany.</p>
+
+<p>We will refer to these companies together as "Memorado", "we", "us" and/or "our".</p>
+
+<p>Our legal status under applicable data privacy laws</p>
+
+<p>Memorado is the data controller under the United Kingdom's Data Protection Act 1998 and applicable EU legislation including the Data Protection Directive and the Privacy and Electronic Communications Directive.We comply with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set out by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.</p>
+
+<p>Information We Collect:</p>
+
+<p>When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:</p>
+
+<p>Personal Data That You Provide Through the Services:&nbsp;We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services, which typically includes your: (i) name; (ii) telephone number; (iii) email address; (iv) home address; (v) information about your home which you give us; (v) your payment details; (iv) your IP address; and (vi) any other personal information which you give us in connection with the Services.</p>
+
+<p>Wherever Memorado collects Personal Data we make an effort to provide a link to this Privacy Policy.</p>
+
+<p>By voluntarily providing us with Personal Data, you are consenting to our use of it in connection with the Services and in accordance with this Privacy Policy.</p>
+
+<p>Non-Identifiable Data:&nbsp;When you interact with Memorado through the Services, we receive and store certain information which does not identify you personally (referred to as personally non-identifiable information in the USA and non-personal data in the European Union).&nbsp; Such information is collected passively using various technologies.&nbsp; This includes:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical or other details about any device which you use to access the Services, including: Internet and/or network connection; your Media Access Control (MAC); any device Unique Device Identifier (UDID) or equivalent; your operating system, browser type or other software; your hardware or mobile device details (including your mobile device type and number and mobile carrier details), if applicable; or other technical details.&nbsp; This is technical data about our users and their actions and patterns, which we do not believe identifies any individual;</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Details of your use of our Services including, but not limited to: metrics information about when and how you use the Services; traffic data; and your geographical location data.</p>
+
+<p>Memorado may store such information itself or such information may be included in databases owned and maintained by Memorado's affiliates, agents or service providers. The Services may use such information and pool it with other information on an anonymised and generalised basis to track, for example, the total number of users of our Services, the number of visitors to each page of our Site and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.</p>
+
+<p>Use of cookies:</p>
+
+<p>In operating the Services, we may use a technology called "cookies."</p>
+
+<p><br>
+Our Use of Your Personal Data and Other Information:</p>
+
+<p>By providing us with the information about you discussed above, you consent for us and our subsidiaries and affiliates (the "Memorado Related Companies to use that information in the following ways:</p>
+
+<p>(1) to implement and monitor any Memorado bookings which you make using our Services; (2) to share your Personal Data with Memorado professionals in order to carry out your Memorado bookings using our Serviecs; (3) to ensure that content from our Services is presented in the most effective manner for you and for your computer or other device from which you access the Services; (4) to provide you with information, products or services that you request from us or which we feel may interest you; (5) to carry out our obligations arising from any contracts between you and us; (6) to allow you to participate in interactive features of our Services, when you choose to do so; (7) to notify you about changes to our Services; (8) to improve or modify the Services, for example based on how you use our Services; (9) to calculate conversion rates and other elements of Services' performance; and (10) for marketing purposes (which we discuss further below).</p>
+
+<p><br>
+Our Disclosure of Your Personal Data and Other Information:</p>
+
+<p>Memorado is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties, as set out below:</p>
+
+<p>Scientists:&nbsp;We will share anonymised training data with scientists to advance the research of cognitive functions.</p>
+
+<p>Business Transfers:&nbsp;As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.</p>
+
+<p>Related Companies:&nbsp;We may also share your Personal Data with the Memorado Related Companies&nbsp;if we need to do so to fulfil this Privacy Policy.</p>
+
+<p>Agents, Consultants and Related Third Parties:&nbsp;Memorado, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function and under the same standards and protections as in this privacy policy.</p>
+
+<p>Legal Requirements:&nbsp;Memorado may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Memorado, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.</p>
+
+<p>Aggregated Personal Data:&nbsp;In an ongoing effort to better understand and serve the users of the Services, Memorado conducts research on its user demographics, interests and behavior based on the Personal Data and other information provided to us. This research will be compiled and analyzed on an aggregate basis, and Memorado may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Memorado may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners, and to other third parties for other lawful purposes in fulfilment of this privacy policy.</p>
+
+<p>Marketing and advertising:&nbsp;Memorado and its affiliates may use Personal Data to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.</p>
+
+<p><br>
+We do not disclose personal information about identifiable individuals to advertisers, but we may provide them with aggregate and/or anonymised information about our users to help advertisers reach the kind of audience they want to target. We may make use of the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
+
+<p>Your Choices:</p>
+
+<p>You can visit the Services without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Memorado Services.</p>
+
+<p>Where and how we store your personal information:</p>
+
+<p>The information that we collect from you will be held in servers in the USA and/or potentially in the European Union.&nbsp; If data is collected from you in the European Union then it may be transferred to, stored and processed at a destination outside the European Economic Area (including the USA).&nbsp; By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this privacy policy.Unsolicited information and public forums:</p>
+
+<p>Please be aware that we do not accept unsolicited Personal Data unconnected with the Services and we will delete it as soon as we become aware you have sent us any such Personal Data (unless we are required to keep that Personal Data under this Privacy Policy).</p>
+
+<p>You are responsible for any public publishing of information including Personal Data (for example on a discussion forum).&nbsp; Please remember that this may mean third parties gaining access to that information, for which you will be responsible.</p>
+
+<p>Children:</p>
+
+<p>Memorado does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Memorado through the Services, please contact us, and we will endeavor to delete that information from our databases.</p>
+
+<p><br>
+Links to Other Web Sites:</p>
+
+<p>This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Memorado (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Memorado endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.</p>
+
+<p><br>
+Security:</p>
+
+<p>Memorado takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free; any transmission is at your own risk. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Memorado via the Internet. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+
+<p>Registered Memorado users will have an account name and password which enables you to access certain parts of our Services.&nbsp; You &nbsp;are responsible for keeping them confidential. Please don't share them with anyone.</p>
+
+<p><br>
+Other Terms and Conditions:</p>
+
+<p>Your access to and use of the Services is also subject to the Terms of Use at www.Memorado.com/terms.</p>
+
+<p>Your rights:</p>
+
+<p>In the European Union</p>
+
+<p>If you are a European Union citizen, you have the right to ask us not to process your personal information for marketing purposes by contacting us at service@memorado.com.&nbsp; EU data protection legislation gives EU citizens the right to access information held about you.&nbsp; Any access request may be subject to a small administrative fee to meet our costs in providing you with details of the information we hold about you.&nbsp; You may also email us at service@memorado.com to request that we delete your personal information from our database. We will use commercially reasonable efforts to honour your request. We may retain an archived copy of your records as required by law or for legitimate business purposes (and if so we will explain this to you at the time).</p>
+
+<p>Your California privacy rights</p>
+
+<p>Under California law, California residents who have an established business relationship with us may choose to opt out of disclosure of personal information about them to third parties for direct marketing purposes. If you choose to opt-out at any time after granting approval, email service@memorado.com.</p>
+
+<p><br>
+Changes to Memorado's Privacy Policy:</p>
+
+<p>The Services and our business may change from time to time. As a result, at times it may be necessary for Memorado to make changes to this Privacy Policy. Therefore, we may update this privacy policy from time to time (for example, to reflect changes in our business or the law).&nbsp; Any changes we may make will be posted on this page and we will highlight to you any material changes which we make.&nbsp; This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the revised terms.</p>
+
+<p><br>
+Access to Information; Contacting Memorado:</p>
+
+<p>To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.</p>
+
+<p>Please also feel free to contact us if you have any questions about Memorado’s Privacy Policy or the information practices of the Services.</p>
+
+<p>You may contact us as follows: service@memorado.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+<a class="btn btn-warning btn-lg" href="/">Start now for free
+<i class="fa fa-chevron-right"></i>
+</a></div>
+</div>
+
+<footer class="page-footer">
+<div class="container">
+<div class="text-center">
+<ul class="list-inline">
+<li><a href="/about_us">About us</a></li>
+<li>
+<a class="show_content_modal" data-page="/info_modal/terms-and-conditions" href="/info/terms-and-conditions">
+Terms &amp; Conditions
+</a>
+</li>
+<li>
+<a class="show_content_modal" data-page="/info_modal/privacy-policy" href="/info/privacy-policy">
+Privacy policy
+</a>
+</li>
+<li>
+<a class="show_content_modal" data-page="/info_modal/imprint" href="/info/imprint">
+Imprint
+</a>
+</li>
+<li><a href="/user_stories">User stories</a></li>
+<li><a href="/gci">Global Cognition Initiative</a></li>
+<li><a href="/human_brain">Human brain</a></li>
+</ul>
+
+<div class="dropdown language-dropdown">
+<a data-toggle="dropdown" href="#">
+Change country
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://memorado.de">Deutschland</a></li>
+<li><a href="https://memorado.at">Österreich</a></li>
+<li><a href="https://memorado.com">USA</a></li>
+<li><a href="http://memorado.ca">Canada</a></li>
+<li><a href="http://memorado.no">Norge</a></li>
+<li><a href="http://memorado.it">Italia</a></li>
+<li><a href="http://memorado.es">España</a></li>
+<li><a href="http://memorado.fr">France</a></li>
+<li><a href="http://memorado.co.uk">United Kingdom</a></li>
+<li><a href="http://memorado.se">Sverige</a></li>
+<li><a href="http://memorado.dk">Danmark</a></li>
+<li><a href="http://memorado.pl">Polska</a></li>
+<li><a href="http://memorado.nl">Nederland</a></li>
+<li><a href="http://memorado.jp">日本</a></li>
+<li><a href="http://memorado.cn">Zhōngguó</a></li>
+<li><a href="http://memorado.in">India</a></li>
+<li><a href="http://memorado.net">Schweiz</a></li>
+<li><a href="http://memorado.pt">Portugal</a></li>
+<li><a href="http://memorado.com.br">Brasil</a></li>
+<li><a href="http://memorado.ru">Rossiya</a></li>
+<li><a href="http://memorado.org">한국</a></li>
+<li><a href="http://memorado.info">‏المملكة العربية السعودية‎</a></li>
+</ul>
+</div>
+
+<img alt="Memorado blue" class="img-responsive center-block p-top-xs-single" height="23" src="/assets/memorado-blue-43ce81752e8e159350ccaad949a03227.png" width="132">
+</div>
+</div>
+</footer>
+
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
