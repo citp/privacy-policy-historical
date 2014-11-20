@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630060017id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120035011id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
-123This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 3/18/2014. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
+This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 7/8/2014. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
 
 Reimage Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us, at [about@reimageplus.com](mailto:about@reimageplus.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, [http://www.reimageplus.com/](https://web.archive.org/) and does not cover information that may be collected through any software downloaded from this Web site.
 
@@ -77,7 +77,9 @@ If you have any questions about security on our Web site, you can email us at [s
 
 We use cookies to understand and analyze use of our site, to improve the features and operate more efficiently. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-Third party advertising servers and exchanges may use cookies with advertisements to track users click-through rates and manage the ads for improved performance. If you disable cookies in our browser, you may not be able to use all the features of the Service. We may use web beacons in our newsletters to count how many times an article is accessed. We do not have access or control over these cookies. Use of cookies by third parties is not covered by our privacy policy. 
+Third party advertising servers and exchanges may use cookies with advertisements to track users click-through rates and manage the ads for improved performance. If you disable cookies in our browser, you may not be able to use all the features of the Service. We may use web beacons in our newsletters to count how many times an article is accessed. We do not have access or control over these cookies. Use of cookies by third parties is not covered by our privacy policy.
+
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 ### Third Party Websites
 
