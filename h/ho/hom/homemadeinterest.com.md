@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homemadeinterest.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512045338id_/http%3A//www.homemadeinterest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeinterest.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060847id_/http%3A//www.homemadeinterest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Home. Made. Interest.
+# Privacy Policy - Home. Made. Interest.
 
 **Privacy Policy for www.homemadeinterest.com**
 
@@ -17,7 +17,7 @@ www.homemadeinterest.com does use cookies to store information about visitors pr
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.homemadeinterest.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.homemadeinterest.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
