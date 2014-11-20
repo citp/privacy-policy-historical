@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginerockstar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120659id_/http%3A//www.searchenginerockstar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginerockstar.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122924id_/http%3A//www.searchenginerockstar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Search Engine Rockstar SEO Forum - Privacy Policy
 
