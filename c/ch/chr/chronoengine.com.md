@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081740id_/http%3A//chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045907id_/http%3A//www.chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,6 @@
   * [ Email](http://www.chronoengine.com/component/mailto/?tmpl=component&template=rt_hexeris&link=9b4156122be46c411256dc21e0c29a619065eef1 "Email")
 
 
-
-Details
-     Created: Thursday, 04 September 2008 11:51 
 
 This site is owned and operated by ChronoEngine.com. Your privacy on the Internet is of the utmost importance to us. 
 
