@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072654id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111922id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
 
-# DirectoryPress Privacy Policy - Directory Press
+# DirectoryPress Privacy Policy - Directory Theme for WordPress - New 2014
 
 Your privacy is important to us. We want you to feel comfortable using DirectoryPress services. Because we gather certain types of information about the users of DirectoryPress services, we feel you should fully understand what information we gather and how we use that information. DirectoryPress employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action.
 
