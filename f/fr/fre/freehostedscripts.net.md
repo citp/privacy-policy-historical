@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084620id_/http%3A//freehostedscripts.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostedscripts.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084642id_/http%3A//freehostedscripts.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Hosted Scripts
 
@@ -12,10 +12,12 @@ At Freehostedscripts.net, we only compile your follower count and followers URL.
 We have implemented many security measures even though the data we have collected is not personally identifiable. 
 
 **Do we use cookies?**  
-Freehostedscripts.net does not use cookies. We do use sessions to rate limit requests on certain functions of the site. We do display third party ads (Google Adsense). Google does use cookies to serve ads on www.freehostedscripts.net. To find out more about google ads visit http://www.google.com/privacy_ads.html 
+Freehostedscripts.net does not use cookies. We do use session cookies to rate limit requests on certain functions of the site. We do display third party ads (Google Adsense). Google does use cookies to serve ads on www.freehostedscripts.net. To find out more about google ads visit http://www.google.com/privacy_ads.html 
 
 **Third party links**  
 Any links that link outside of freehostedscripts.net we can't offer any guarantees they follow the same Privacy Policy above. 
+
+_In simple, we are not a big corporate business, we don't do any fancy tracking, so you have nothing to worry about. The data stored are for you and your visitors only, we don't submit, give, or sell any data._
 
   
 
