@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603192138id_/http%3A//www.sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204421id_/http%3A//www.sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sweeties Picks
 
