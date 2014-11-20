@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221530id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065357id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
@@ -56,14 +56,15 @@ Who Else May See Your Data
 
 We only share your Personal Information with companies forming part of the Hobbs group and our appointed carriers, sub-contractors and distributors. We only share your Personal Information with other parties as described below.  We ensure the parties with whom we share your Personal Information follow practices at least as protective as those described in this Privacy Policy.
 
-  * Agents: from time to time we employ other companies to perform functions on our behalf including fulfilling order deliveries, sending customer communications, analysing data, providing marketing assistance, processing payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Business transfers: in any corporate transactions (e.g. buying or selling of businesses, stores or business units) Personal Information is generally one of the transferred assets.
-  * Fraud / Credit Risk: where necessary to prevent fraud or reduce credit risk we may exchange your Personal Information with other companies and organisations.
-  * With your consent: other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share your information.
+Agents: from time to time we employ other companies to perform functions on our behalf including fulfilling order deliveries, sending customer communications, analysing data, providing marketing assistance, processing payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
+Business transfers: in any corporate transactions (e.g. buying or selling of businesses, stores or business units) Personal Information is generally one of the transferred assets.
 
+Fraud / Credit Risk: where necessary to prevent fraud or reduce credit risk we may exchange your Personal Information with other companies and organisations.
 
-If we have to transfer your Personal Information to countries outside the European Union (the data protection laws of which may differ from those applying in the European Union) we will ensure it is treated with the same levels of protection as apply in the European Union. By supplying us with your Personal Information in you expressly agree to us transferring your Personal Information in this way.
+With your consent: other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share your information.
+
+If we have to transfer your Personal Information to countries outside the European Union (the data protection laws of which may differ from those applying in the European Union) we will ensure it is treated with the same levels of protection as apply in the European Union. By supplying us with your Personal Information you expressly agree to us transferring your Personal Information in this way.
 
 Marketing Communications From Hobbs
     
