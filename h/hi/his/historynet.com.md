@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303195941id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201950id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
 
 # Weider History Group Privacy Policy
 
 Weider History Group and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
+
+In general, you may visit our digital issue or use the companion mobile applications (iPad®, iPhone®, Android® and other smartphone or tablet devices, collectively referred to as the “Digital Issue”) without identifying yourself or revealing any personal information. All references in this Privacy Policy to “we,” “our,” or “us” are references to Weider History Group and its family of consumer publications and all references to “you,” “users” and “subscribers” are references to those individuals who access a Digital Issue of our publications or the print version. 
 
   1. We collect personal and non-personal information from you to provide information and service, to understand your interests, and to conduct our business, and may combine it with information we receive from third parties.
   2. We may share personal and non-personal information about you with third parties in the circumstances described in this policy.
@@ -16,13 +18,12 @@ Weider History Group and its family of consumer publications are strongly commit
 __**
 
 **_
-
   * Personal Information
   * Subscriptions and Orders
   * Information Collected Automatically
   * Other Information
-
 _**
+
 
 **What Do We Do with Information We Collect?**
 
@@ -70,6 +71,10 @@ _**Other Information**_
 
 We conduct market research in an effort to continually improve our publications and websites and may purchase lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information is included in our database. That helps us, for example, minimize multiple mailings and e-mailings, and provide information tailored to your interests.
 
+_**What We Do Not Collect**_
+
+We do not collect any information about your online activities with websites unrelated to Weider History Group or your particular online preferences other than your browsing of Weider History Group websites. We will not recognize Web browser “do not track” signals.  Because we link to social media sites, and from time to time may include third-party advertisements, other parties may collect your personally identifiable information about your online activities over time and across different web sites when you visit any Weider History Group website. 
+
 **WHAT DO WE DO WITH COLLECTED INFORMATION?**
 
 We use information you provide to fulfill your requests, improve our publications, products and services, and operate our business. For example, we use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, e-mails, features, promotional material, surveys and other updates, information or offers to our users and subscribers. A user may, at any time, opt out of receiving promotional offers by mail, telephone or e-mail. We also use collected information to evaluate and administer our products and services, fulfill customer requests, like subscription and other orders, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users, and to put you in touch with trusted fulfillment partners who can provide services that we cannot.
@@ -98,7 +103,7 @@ We may extend e-mail offers to you on behalf of our business partners about thei
 
 At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Weider History Group is not responsible for the privacy policies and procedures of any third party.
 
-**_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with Weider History Group. If you decide to accept these offers, we will provide your contact information to the third party. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies. 
+**_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with Weider History Group. If you decide to accept these offers, we will provide your contact information to the third party. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies.
 
 _**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Weider History Group's websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. Weider History Group has no control over this use of your personal information.
 
@@ -152,7 +157,7 @@ In developing our business, we might sell certain assets, or the company, or par
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to comments {[@]} historynet.com and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Under the California “Shine the Light” Law (Civil Code § 1798.83), California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to comments {[@]} historynet.com and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
 **VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
 
@@ -164,7 +169,7 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 
 **CONTACT INFORMATION**
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at comments {[@]} historynet.com. Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to comments {[@]} historynet.com and include the information noted in Your California Privacy Rights.
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at comments {[@]} historynet.com. Please include the URL of the Web site and/or name of the publication involved in your request. Requests under the California “Shine the Light” Law (Civil Code § 1798.83), should be directed to comments {[@]} historynet.com and include the information noted in Your California Privacy Rights.
 
 Or you can contact us by mail at:
 
@@ -173,4 +178,4 @@ Privacy Coordinator
 19300 Promenade Drive  
 Leesburg, VA 20176-6500
 
-Updated April 17, 2006
+Updated June 1, 2014
