@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227092334id_/http%3A//www.jta.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000636id_/http%3A//www.jta.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewish Telegraphic Agency
 
