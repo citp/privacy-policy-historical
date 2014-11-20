@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528145752id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205136id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.*
 
 # IBISWorld Privacy Policy
 
-To protect your privacy, IBISWorld follows principles in accordance with worldwide practices for customer privacy and data protection. 
+To protect your privacy, IBISWorld follows principles in accordance with worldwide practices for customer privacy and data protection and in accordance with Australian Privacy Principles. 
 
-For the purposes of this document "the website" is read as www.ibisworld.com.au. 
+For the purposes of this document "the website" is read as www.ibisworld.com.au. This policy is effective as at September 23 2014. 
 
 **1\. Notice**
 
@@ -18,7 +18,9 @@ IBISWorld will only collect your name and contact details ("your personal inform
 
 IBISWorld will not disclose your personal information outside the organisation. If you do not provide IBISWorld with the information requested, IBISWorld will not be able to provide you with access to the website, nor communicate with you to keep you informed of product updates, training and other information it feels is relevant to you. 
 
-Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, or if you no longer wish to receive direct marketing material, please tell us via our online enquiry page. 
+IBISWorld may store your personal information on computer hardware located outside of Australia. Your personal information may be viewed by staff of IBISWorld and its affiliates located outside of Australia as well, primarily in the United States and the United Kingdom. 
+
+Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, believe that IBISWorld has breached Australian Privacy Principals, or if you no longer wish to receive direct marketing material, please tell us via our online enquiry page. 
 
 **2\. Consent**
 
@@ -34,12 +36,12 @@ The cookies simply operate as a unique identifier which help us to know what our
 
 **4\. Secure Online Purchases**
 
-The website uses Thawte SSL certificates on the IBISWorld web server, giving you the ability to communicate securely with the website server. SSL security makes eavesdropping almost impossible. No credit card details are stored on the IBISWorld database. 
+The website uses DigiCertThawte SSL certificates on the IBISWorld web server, giving you the ability to communicate securely with the website server. SSL security makes eavesdropping almost impossible. No credit card details are stored on the IBISWorld database. 
 
 **5\. Security**
 
-IBISWorld strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+IBISWorld strictly protects the security of your personal information and honorshonours your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
 **6\. Enforcement**
 
-If for some reason you believe IBISWorld has not adhered to these principles, please notify us by online enquiry, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject drop down list. 
+If for some reason you believe IBISWorld has not adhered to these principles, please notify us by online enquiry, and we will do our best to determine and correct the problem promptly. 
