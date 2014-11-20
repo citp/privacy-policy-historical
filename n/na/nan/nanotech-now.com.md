@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328160109id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010250id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Our NanoNews Digest Sponsors **[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
@@ -21,7 +17,7 @@
 
 ******** | 
 
-[Home](https://web.archive.org/web/20140328160109id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20141120010250id_/http%3A//www.nanotech-now.com/) > Privacy
 
 ## Privacy Notice:
 
@@ -44,35 +40,3 @@ We use these summary statistics to help us make our site more useful to visitors
 **Our site does not now - nor will it ever - knowingly link to or associate with hate, descriminatory, or adult [pornographic] sites.  We individually and collectively subscribe to a system of universal ethical treatment for all people, and strive to reflect that within this website.  While our views, beliefs, and understandings may differ from your's, we commit to always allowing room for being incorrect, and acknowledging everyone's right to free expression.**
 
 | 
-
-|   
----  
-[](https://web.archive.org/products/newsdigest/)  
-|  The latest news from around the world, FREE    
-|   
-  
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)  
-  
----  
-**   Premium Products**  
-[](https://web.archive.org/products/nanonewscustom/)  
-|  Only the news you want to read!   
- [Learn More](https://web.archive.org/products/nanonewscustom/) |   
-[](https://web.archive.org/products/nanotechtransfer/)  
-|  University Technology Transfer & Patents   
- [Learn More](https://web.archive.org/products/nanotechtransfer/) |   
-[](https://web.archive.org/NanoStrategies.htm)  
-|  Full-service, expert consulting   
- [Learn More](https://web.archive.org/NanoStrategies.htm) |   
-  
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
