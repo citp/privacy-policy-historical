@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skiclub.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082459id_/http%3A//www.skiclub.co.uk/skiclub/privacy/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiclub.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131205id_/http%3A//www.skiclub.co.uk/skiclub/privacy/policy.aspx) for the most accurate reproduction.*
 
-# Ski resort guides, snow forecasts & ski holiday discounts - Ski Club of Great Britain
+# Ski resort guides, snow forecast & ski holiday discounts - Ski Club of Great Britain
 
 ## About Us
 
