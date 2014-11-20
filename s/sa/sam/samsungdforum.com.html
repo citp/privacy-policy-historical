@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075947id_/http%3A//www.samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120132542id_/http%3A//www.samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
-	<meta http-equiv="X-UA-Compatible" content="IE=10">
-
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:image" content="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/SDF_SNS.jpg">
 	<!-- iPhone -->
 	<meta name="apple-mobile-web-app-title" content="SDF">
 	<link rel="apple-touch-icon" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/apple/apple-touch-icon.png">
@@ -125,7 +125,7 @@
 	<div id="TopUpDownMenuLayer" role="navigation"></div>
 	<div class="wrap_area" id="wrap" role="main">
 		<!-- top -->
-		<div class="header_wrap" style="height: 99px;">
+		<div class="header_wrap" style="height: 97px;">
 			
 
 	<script type="text/javascript">
@@ -302,7 +302,21 @@
              $("#_search_btn").live('keypress', function () { 
                 fnTopSearchGoGo();
             });
+        
+
+            $('.mywork_link_list').hover(function(){
+
+            }, function(){
+                 //$('.mywork_link_list').hide('slide',{direction:'up'},400);
+                  $('.mywork_link_list').hide();
+            });
         }); 
+
+        function myWorkClick()
+        {
+            $('.mywork_link_list').show();
+            // $('.mywork_link_list').show('slide',{direction:'up'},300);
+        }
 
     </script>
 
@@ -339,6 +353,19 @@
                 
                     <li><a href="javascript:SignInOutMaster('SignInTop');">Sign In</a></li>
                     <li class="regist"><a href="javascript:SignInOutMaster('Register');">Register</a></li>
+
+                   
+                       
+                  <li class="mywork">
+						<a href="javascript:myWorkClick();">My Work <img src="/Content/images/Rev6/header/arrow_mywork.jpg" alt=""></a>
+								
+						<ul class="mywork_link_list" style="display:none">
+							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/index');">My Note</a></li>
+							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/DmMyToDoList');">My Application</a></li>
+							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyContest');">My Contest</a></li>
+							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyProfile');">My Profile</a></li>
+						</ul>
+					</li>             
                 
                     <li class="sns">
                         <ul class="new_sns_list">
@@ -356,8 +383,9 @@
                 <h2 class="blind">gnb</h2>
                 <!-- gnb -->
                 <ul class="gnb_menu_area" id="gnb">
+
                     <li>
-                        <a href="/Event/Index">NEWS &amp; EVENT </a>
+                        <a href="javascript:void(0);">NEWS &amp; EVENT </a>
 
                         <ul class="gnb_menu gnb_menu01">
                             <li><a href="/SamsungDForum/NewsList">News</a></li>
@@ -365,58 +393,135 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="/Devtools/index">SDK</a>
+						<a href="javascript:void(0);">SMART TV FEATURES</a>
 
-                        <ul class="gnb_menu gnb_menu02">
-                            <li><a href="/Devtools/SdkDownload">SDK Download</a></li>
-                            <li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
-                            <li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
-                            <li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
-                        </ul>
+						<div class="sdk_menu sdk_menu_tizen">
+							<p class="sdk_menu_title">Tizen-based Samsung TV</p>
+
+							<ul class="gnb_menu gnb_menu_sdk">
+								<li><a href="/Features/TizenTVIntroduction">Introduction</a></li>
+								<li><a href="/TizenDevtools/Spec">Spec &amp; Features</a></li>
+								
+                                <li><a href="/Features/TizenGame">Games</a></li>
+									   
+							</ul>
+						</div>
+
+						<div class="sdk_menu" id="feature">
+							<p class="sdk_menu_title">Samsung Smart TV</p>
+
+							<ul class="gnb_menu gnb_menu_sdk">
+								<li><a href="/Features/Introduction">Introduction</a></li>
+								<li><a href="/Features/SmartGame">Games</a></li>
+								<li><a href="/Features/Policy">Policy</a></li>
+								
+							</ul>
+						</div>
+					</li>
+                    <li>
+                        <a href="javascript:void(0);">DOWNLOAD</a>
+
+                          <div class="sdk_menu sdk_menu_tizen">
+                            <p class="sdk_menu_title">Tizen-based Samsung TV </p>
+
+                            <ul class="gnb_menu gnb_menu_sdk">
+                                <li><a href="/TizenDevtools/SdkDownload">SDK Download</a></li>
+                                <li><a href="/TizenDevtools/SdkReleaseNote">SDK Release Note</a></li>
+                                 <li><a href="/AddLibrary/TizenAddLibindex">Additional Libraries</a></li>
+                               
+                            </ul>
+                        </div>
+
+                        <div class="sdk_menu" id="sdk_menu">
+                            <p class="sdk_menu_title">Samsung Smart TV </p>
+
+                            <ul class="gnb_menu gnb_menu_sdk">
+                                <li><a href="/Devtools/SdkDownload">SDK Download</a></li>
+                                <li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
+                                <li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
+                                <li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
+                                <li><a href="/AddLibrary/SmartAddLibindex">Additional Libraries</a></li>
+                            </ul>
+                        </div>
+
+                      
+
                     </li>
                     <li>
-                        <a href="/MainGuide">GUIDE</a>
 
-                        <ul class="gnb_menu gnb_menu03">
-                        <li><a href="/Guide">Development Guide</a></li>
-<li><a href="/UxGuide">UX Guideline</a></li>
-<li><a href="/Support/BeginningforSmartTV">Beginning for Smart TV</a></li>
-<li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
-<li><a href="/Support/MetaDB">How to Join Kids / Fitness</a></li>
-<li><a href="/Support/SmartTVapppolicies">Smart TV App Policies &amp; Guidelines</a></li>
+                      <a href="javascript:void(0);">GUIDE</a>
+                      
+                      <div class="sdk_menu sdk_menu_tizen">
+                            <p class="sdk_menu_title">Tizen-based Samsung TV</p>
 
-                        </ul>
+                            <ul class="gnb_menu gnb_menu_sdk">
+                                <li><a href="/Support/Overview">Overview</a></li>
+                                <li><a href="/TizenUxGuide">UX Guideline</a></li>
+                                <li><a href="/TizenGuide">Development Guide</a></li>                                
+                                <li><a href="/TizenApiGuide">API Reference</a></li>
+                                <li><a href="/Support/Distribution">Distribution Guide</a></li>
+                               
+                            </ul>
+                        </div>
+                          <div class="sdk_menu" id="guide">
+                            <p class="sdk_menu_title">Samsung Smart TV</p>
+
+                            <ul class="gnb_menu gnb_menu_sdk">
+                                <li><a href="/Support/BeginningforSmartTv">Beginning for Smart TV</a></li>
+                                <li><a href="/UxGuide">UX Guideline</a></li>
+                                <li><a href="/Guide">Development Guide</a></li>                                
+                                <li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
+                            </ul>
+                        </div>
+
+                      
                     </li>
                     <li>
-                        <a href="/SamsungDForum/index">FORUM</a>
+                        <a href="javascript:void(0);">COMMUNITY</a>
 
-                        <ul class="gnb_menu gnb_menu04">
-                        <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
+                        <div class="sdk_menu sdk_menu_tizen">
+									<p class="sdk_menu_title">Tizen-based Samsung TV</p>
+
+									<ul class="gnb_menu gnb_menu_sdk">
+										
+                                         <li><a href="/SamsungDForum/ForumList/9562347f8a9ffdf5">Caph</a></li>
+<li><a href="/SamsungDForum/ForumList/d0ffc04b53a41026">Games</a></li>
+<li><a href="/SamsungDForum/ForumList/9d322f0f492a38d7">HTML and JavaScript</a></li>
+<li><a href="/SamsungDForum/ForumList/2f9bd59b947b17bc">Streaming and Playing AV</a></li>
+<li><a href="/SamsungDForum/ForumList/3ad8bd6023af18a7">Others</a></li>
+<li><a href="/SamsungDForum/BlogList/5fa7b7f4a2a1cf2e">Developer's Blog</a></li>
+
+									</ul>
+					   </div>
+
+                       <div class="sdk_menu" id="Div2">
+									<p class="sdk_menu_title">Samsung Smart TV</p>
+
+									<ul class="gnb_menu gnb_menu_sdk">
+									  <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-<li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
 
-                        </ul>
+									</ul>
+								</div>
+                      
+                      
+                        
+                      
                     </li>
                     <li>
-                        <a href="/Support/index">SUPPORT</a>
+                        <a href="javascript:void(0);">SUPPORT</a>
 
-                        <ul class="gnb_menu gnb_menu05">
+                        <ul class="gnb_menu gnb_menu06">
                         <li><a href="https://www.samsungdforum.com/rts">Remote Test System</a></li>
+<li><a href="/Support/Appsubmisson">App Submission</a></li>
 <li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
 <li><a href="/Support/FaqList">FAQ</a></li>
 
                         </ul>
                     </li>
-                    <li>
-                        <a href="javascript:SignInOutMaster('SignIn', '/MyWork/index');">MY WORK</a>
-                        <ul class="gnb_menu gnb_menu06">
-                            <li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/DmMyToDoList');">My Application</a></li>
-                            <li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyContest');">My Contest</a></li>
-                            <li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyProfile');">My Profile</a></li>
-                        </ul>
-                    </li>
+               
                 </ul>
                 <!-- //gnb -->
 
@@ -433,32 +538,48 @@
          var index = ""
          var IndexModified = 0;
          var toplink;
-         if( index == "")
+         
+         if( index == "" || index =="6")
          {
-           $(".header_wrap").css({ "height": "99px" });
+           $(".header_wrap").css({ "height": "97px" });
             
             IndexModified = 0;
          }
-         else
+         else if( index =="0" || index =="5" )
          {
-          $(".header_wrap").css({ "height": "129px" });
-          IndexModified = parseInt(index) -1;
+              $(".header_wrap").css({ "height": "126px" });
+              IndexModified = parseInt(index);
+
+               defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("ul");
          
+         }else
+         {
+              $(".header_wrap").css({ "height": "155px" });
+              IndexModified = parseInt(index);
+
+              defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("div");
+
+            
          }
 
-         defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("ul");
+        
          toplink = $("#gnb > li").eq(IndexModified).find("a").eq(0);
 
-         if( index !="")
+
+         if( index !="" && (index =="0" || index =="5"))
          {
              toplink.addClass("on");   
              defaultMenuItem.css("display", "block");
+             toplink.addClass("on");
+
+         }else if( index != "" && (index =="1" || index =="2" || index =="3" || index =="4"))
+         {
+               
+            defaultMenuItem.css("display", "block");
+         
+            defaultMenuItem.find("ul").css("display", "block");
+            toplink.addClass("on");
          }
-
-       
-          
-
-	 
 
         
 	</script>
@@ -481,7 +602,19 @@
                 
                 <!-- 페이지 삽입 시작 -->
                 
+  <script type="text/javascript">
+    function goPage() {
+        var code = $("#ddlSelect").val();
 
+        if(code == 1) {
+            location.href = "privacypolicy?lang=kr";
+        } else if(code == 2) {
+            location.href = "privacypolicy2?lang=kr";
+        } else {
+            location.href = "privacypolicy3?lang=kr";
+        }        
+    }
+</script>
 
     
 	<div class="privacy_policy">
@@ -980,10 +1113,12 @@
 					success: function (result) {
 						var r = JSON.parse(result);
 
-						subSelect.options.length = r.length + 1;
+						subSelect.options.length = r.length;
 						for (var i = 0; i < r.length; i++) {
+                          if(r[i].C_FORUM_BOARD_NAME.indexOf("Blog") < 0) {
 							var option_obj = new Option(r[i].C_FORUM_BOARD_NAME, r[i].C_FORUM_BOARD_ID_Encode);
-							subSelect.options[i + 1] = option_obj;
+							subSelect.options[i+1] = option_obj;
+                            }
 						}
 					}, cache: false
 				});
@@ -1004,8 +1139,10 @@
 					var r = JSON.parse(result);
 
 					for (var i = 0; i < r.length; i++) {
-						var option_obj = new Option(r[i].C_FORUM_CATE_NAME, r[i].C_FORUM_CATE_ID_Encode);
-						mainSelect.options[i + 1] = option_obj;
+                        if(r[i].C_FORUM_CATE_NAME.indexOf("Blog") < 0) {
+						    var option_obj = new Option(r[i].C_FORUM_CATE_NAME, r[i].C_FORUM_CATE_ID_Encode);
+						    mainSelect.options[i + 1] = option_obj;
+                        }
 					}
 				}, cache: false
 			});
@@ -1554,69 +1691,142 @@
 			<div class="allmenu_line_up">
 
 				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="/Event/Index">NEWS &amp; EVENT</a></h3>
+					<h3 class="f_menu_title"><a href="javascript:void(0);">News &amp; Event</a></h3>
 
 					<ul class="f_menu_list">
 						<li><a href="/SamsungDForum/NewsList">News</a></li>
 						<li><a href="/Event/Contest">Event</a></li>
 					</ul>
 				</div>
+
+                <div class="f_menu_area">
+						<h3 class="f_menu_title"><a href="#">Smart TV Features</a></h3>
+						
+						<div>
+							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
+
+							<ul class="f_menu_list">
+								<li><a href="/Features/TizenTVIntroduction">Introduction</a></li>
+								<li><a href="/TizenDevtools/Spec">Spec &amp; Features</a></li>
+								
+                                <li><a href="/Features/TizenGame">Games</a></li>
+							</ul>
+						</div>
+
+						<div class="f_samsung">
+							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
+
+							<ul class="f_menu_list">
+								<li><a href="/Features/Introduction">Introduction</a></li>
+								<li><a href="/Features/SmartGame">Games</a></li>
+								<li><a href="/Features/Policy">Policy</a></li>
+							</ul>
+						</div>						
+					</div>
 					
 				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="/Devtools/index">SDK</a></h3>
+						<h3 class="f_menu_title"><a href="javascript:void(0);">Download</a></h3>
+						
+						<div>
+							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
 
-					<ul class="f_menu_list">
-						<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
-						<li><a href="/Devtools/Spec">Spec &amp; Feature</a></li>
-						<li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
-						<li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
-					</ul>
-				</div>
+							<ul class="f_menu_list">
+								<li><a href="/TizenDevtools/SdkDownload">SDK Download</a></li>
+								<li><a href="/TizenDevtools/SdkReleaseNote">SDK Release Note</a></li>
+								<li><a href="/AddLibrary/TizenAddLibindex">Additional Libraries</a></li>
+							</ul>
+						</div>
+
+						<div class="f_samsung">
+							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
+
+							<ul class="f_menu_list">
+								<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
+								<li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
+								<li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
+								<li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
+								<li><a href="/AddLibrary/SmartAddLibindex">Additional Libraries</a></li>
+							</ul>
+						</div>						
+					</div>
+
+                    <div class="f_menu_area">
+						<h3 class="f_menu_title"><a href="#">Guide</a></h3>
+						
+						<div>
+							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
+
+							<ul class="f_menu_list">
+							 <li><a href="/Support/Overview">Overview</a></li>
+                               <li><a href="/TizenUxGuide">UX Guideline</a></li>
+                                <li><a href="/TizenGuide">Development Guide</a></li>                              
+                                <li><a href="/TizenApiGuide">API Reference</a></li>
+                                <li><a href="/Support/Distrubution">Distribution Guide</a></li>
+							</ul>
+						</div>
+
+						<div class="f_samsung">
+							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
+
+							<ul class="f_menu_list">
+							   <li><a href="/Support/BeginningforSmartTv">Beginning for Smart TV</a></li>
+                               <li><a href="/UxGuide">UX Guideline</a></li>
+                                <li><a href="/Guide">Development Guide</a></li>                                
+                                <li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
+							</ul>
+						</div>
+					</div>
 
 				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="/MainGuide">GUIDE</a></h3>
+						<h3 class="f_menu_title"><a href="javascript:void(0)">Community</a></h3>
+						
+						<div>
+							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
 
-					<ul class="f_menu_list">
-                    <li><a href="/Guide">Development Guide</a></li>
-<li><a href="/UxGuide">UX Guideline</a></li>
-<li><a href="/Support/BeginningforSmartTV">Beginning for Smart TV</a></li>
-<li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
-<li><a href="/Support/MetaDB">How to Join Kids / Fitness</a></li>
-<li><a href="/Support/SmartTVapppolicies">Smart TV App Policies &amp; Guidelines</a></li>
+							<ul class="f_menu_list">
+								<li><a href="/SamsungDForum/ForumList/9562347f8a9ffdf5">Caph</a></li>
+<li><a href="/SamsungDForum/ForumList/d0ffc04b53a41026">Games</a></li>
+<li><a href="/SamsungDForum/ForumList/9d322f0f492a38d7">HTML and JavaScript</a></li>
+<li><a href="/SamsungDForum/ForumList/2f9bd59b947b17bc">Streaming and Playing AV</a></li>
+<li><a href="/SamsungDForum/ForumList/3ad8bd6023af18a7">Others</a></li>
+<li><a href="/SamsungDForum/BlogList/5fa7b7f4a2a1cf2e">Developer's Blog</a></li>
 
-					</ul>
-				</div>
+							</ul>
+						</div>
 
-				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="/SamsungDForum/index">FORUM</a></h3>
+						<div class="f_samsung">
+							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
 
-					<ul class="f_menu_list">
-                    <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
+							<ul class="f_menu_list">
+								 <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-<li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
-						
-					</ul>
-				</div>
+
+							</ul>
+						</div>
+					</div>
 
 				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="/Support/index">SUPPORT</a></h3>
+					<h3 class="f_menu_title"><a href="javascript:void(0)">Support</a></h3>
 
 					<ul class="f_menu_list">
-                     <li><a href="/RTS">Remote Test System</a></li>
-						<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
+                    
+					 <li><a href="https://www.samsungdforum.com/rts">Remote Test System</a></li>
+<li><a href="/Support/Appsubmisson">App Submission</a></li>
+<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
 <li><a href="/Support/FaqList">FAQ</a></li>
 
 					</ul>
 				</div>
 				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="javascript:SignInOutMaster('SignIn', '/MyWork/index');">MY WORK</a></h3>
+					<h3 class="f_menu_title"><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com//MyWork/index');">My Work</a></h3>
 
 					<ul class="f_menu_list">
-						<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/DmMyToDoList');">My Application</a></li>
-						<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyContest');">My Contest</a></li>
-						<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyProfile');">My Profile</a></li>
+                        <li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/index');">My Note</a></li>
+						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/DmMyToDoList');">My Application</a></li>
+						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyContest');">My Contest</a></li>
+						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyProfile');">My Profile</a></li>
 					</ul>
 				</div>
 
@@ -1630,8 +1840,8 @@
 			<ul class="other_f_menu">
 				<li><a href="/Main/terms">Terms and Conditions</a></li>
 				<li><a href="/Main/privacypolicy">Privacy Policy</a></li>
-                <li>&lt; <a href="/Main/privacypolicy?lang=kr">개인정보취급방침</a> ·</li>
-                <li class="policy_info"><a href="/Main/privacypolicy2?lang=kr">개인정보처리방침</a>&gt;</li>
+                <li>&lt; <a href="/Main/privacypolicy?lang=kr">개인정보 취급(처리)방침</a>&gt;</li>
+                <!--li class="policy_info"><a href="/Main/privacypolicy?lang=kr">개인정보처리방침</a>&gt;</li-->
 				<li><a href="/Main/sitemap">Sitemap</a></li>
 			</ul>
 
