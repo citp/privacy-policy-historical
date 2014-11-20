@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313230333id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225451id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
 
 # MetroStyle
 
@@ -31,14 +31,14 @@ Your privacy is important to us. To best serve your shopping needs, we endeavor 
 
 Effective Date and Policy Changes
 
-What Information Do Chadwicks and metrostyle Collect?
+What Information does Chadwicks and metrostyle Collect?
 
   * We collect information you provide to us about yourself to serve your needs, including, but not limited to, your name, birth date, address, e-mail address, phone number, credit card or other payment-related information, and information about products you have purchased. We also collect information you voluntarily submit when participating in one of our various services, promotions, programs or surveys. From your transactions and other interactions with us, we obtain information concerning the specific products or services you purchase or use. Whether you choose to provide us with this information is completely voluntary. If, however, you do not choose to provide such information, you may not be able to purchase products from us or access certain services and/or portions of our web sites.
   * We also may receive information about you from other companies, including, but not limited to information about your creditworthiness for deferment plans, private label credit card offers and products you may be interested in purchasing.
 
 
 
-How Do Chadwicks and metrostyle Use The Information Collected?
+How does Chadwicks and metrostyle Use The Information Collected?
 
 We use the information collected as follows:
 
@@ -52,7 +52,7 @@ We use the information collected as follows:
 
 
 
-What Information Do Chadwicks and metrostyle Share with Others?
+What Information does Chadwicks and metrostyle Share with Others?
 
   * Chadwicks and metrostyle may share any information you provide to us with each other and our affiliates.
   * Licensees and Marketing Partners: We may share your contact and purchasing information with certain outside companies and marketing partners so they can let you know about products or services that might be of interest to you.
