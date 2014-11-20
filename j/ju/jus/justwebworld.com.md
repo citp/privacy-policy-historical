@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515141458id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131047id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Just Web World
 
@@ -27,13 +27,13 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 Just Web World collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.  
-\- To send periodic emails  
+– To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 **Third party websites :-**
