@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iridegear.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053045id_/http%3A//iridegear.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iridegear.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044735id_/http%3A//iridegear.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
