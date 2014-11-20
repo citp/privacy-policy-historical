@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news4andhra.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620064234id_/http%3A//www.news4andhra.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news4andhra.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050114id_/http%3A//www.news4andhra.com/privacyPolicy) for the most accurate reproduction.*
 
 # News4Andhra.com - Andhra Pradesh News, Telugu Movie Reviews, Telugu Cinema, Tollywood, Telugu Movie News, Gossips, Reviews, Photos, Wallpapers
 
