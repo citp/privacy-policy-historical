@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044900id_/http%3A//www.panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111737id_/http%3A//www.panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
 
 # Armenian News - PanARMENIAN.Net
 
@@ -31,40 +31,36 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
  **  Contact us**
 
-**Editorial**  
+**PAN Editorial**  
 News tips and information:  
-editorial@panarmenian.net  
-Comments and suggestions:  
-comments@panarmenian.net  
-(+374) 10 553623, 91 553623  
-(+374) 10 556118, 91 556118
-
-**Management**  
-info@panarmenian.net  
-(+374) 10 551749  
+media@pan.am  
+(+374) 10 553623  
+(+374) 94 553623  
 (+374) 91 551749
 
-**PanARMENIAN Photo agency**  
-photo@panarmenian.net  
+  
+**PAN Photo agency**  
+photo@pan.am  
 (+374) 10 571890
 
+  
+**Management**  
+(+374) 91 551749  
+(+374) 10 551749
+
+  
 **Public Relations and Marketing**  
-pr@panarmenian.net  
+pr@pan.am  
 (+374) 10 551749
 
+  
 **Advertisement and Sales**  
-ad@panarmenian.net  
+ad@pan.am  
 (+374) 10 551749
-
-**Human Resources**  
-vacancy@panarmenian.net
-
-**Common issues**  
-support@panarmenian.net
 
  Address
 
-PanARMENIAN Network
+PanARMENIAN Network, PAN Media LLC
 
 5, Aleq Manukian str. (House of Radio)  
 0025, Yerevan, Armenia  
