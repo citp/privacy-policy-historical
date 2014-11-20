@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the articledunia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060330id_/http%3A//articledunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledunia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133012id_/http%3A//articledunia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ArticleDunia.com
+# Privacy Policy | Article Dunia
 
 This Privacy Policy governs the manner in which ArticleDunia.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the articledunia.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ArticleDunia.com.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the sitefill out a form and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address,
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site fill out a form and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address,
 
 Users may, however, visit our Site anonymously.
 
@@ -30,7 +30,7 @@ Your information helps us to more effectively respond to your customer service r
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _To send periodic emails  _The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
