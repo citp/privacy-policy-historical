@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoceancleanup.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608145633id_/http%3A//www.theoceancleanup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoceancleanup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050121id_/http%3A//www.theoceancleanup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: The Ocean Cleanup, developing technologies to extract, prevent and intercept plastic pollution
 
@@ -71,7 +71,7 @@ You may at all times and without any cost access the data you have provided to t
 
 The Ocean Cleanup Foundation   
 For the attention of F. Dirkse  
-Stevinweg 1  
+Stevinweg 4  
 2628 CN Delft  
 The Netherlands 
 
