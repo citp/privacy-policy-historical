@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326140039id_/http%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120223711id_/http%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,12 +19,14 @@
   * v. We may display the comments you leave via the platforms discussed above, including quoting them on our website.
   * vi. We may display the pictures you send us.
   * vii. We may contact you about your experience in your Jovani dress.
-  * viii. For information provided to us for a contest, we may use your information in selecting the winners of such contest as provided for by the rules of the contest. We also use the information provided to communicate with winners, which may also be displayed on our website.
+  * viii. For information provided to us for a contest, we may use your information in selecting the winners of such contest as provided for by the rules of the contest. We also use the information provided to communicate with winners, which may also be displayed on our website.  
+
 
 
   * • **How we protect your information**
   * i. We keep the non-public information you provide to us confidential. If any identifying information you provide us will be made public, such as the names of contest winners, then you will be on notice when providing us with that information, such as in the contest rules.
-  * ii. We store your information in secure company computers and files, or the secure computers and files of trusted third parties as detailed below. 
+  * ii. We store your information in secure company computers and files, or the secure computers and files of trusted third parties as detailed below.   
+
 
 
   * **• Third parties**
@@ -36,6 +38,6 @@
   * i. Our website is directed to people who are at least 13 years or older, and we do not anticipate that children under the age of 13 will provide personally identifiable information through our website. If we learn that we have information about a child under the age of 13, we will delete it. 
   * • Like most websites, information about your computer, such as your IP address, may automatically be collected, which may track your visits to our website. This information is used to maintain quality of service, and to provide general statistics regarding use of and visits to our website. We do not make public such information, which are for internal use only. 
   * • By using our site, you consent to our privacy policy.
-  * • If you have any questions regarding our privacy policy, you may contact us at [ConsumerProtection@Jovani.com](mailto:ConsumerProtection@Jovani.com)
+  * • If you have any questions regarding our privacy policy, you may contact us at ConsumerProtection@Jovani.com
 
 
