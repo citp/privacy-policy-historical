@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101226id_/http%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132757id_/http%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • LogoMoose
 
-Amazing logo design in just 48 hours... Logo contest starting at just $29 - [48hourslogo.com](http://www.48hourslogo.com/?u=62303 "48hours logo")
+Do you know about [48hourslogo.com](http://www.48hourslogo.com/?u=62303 "48hours logo")? Launch a logo contest for just $29, and receive logo concepts within hours!
 
 LogoMoose takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
