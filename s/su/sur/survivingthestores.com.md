@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165030id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130732id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Surviving The Stores™
 
@@ -20,13 +20,13 @@ How we use collected information
 
 CrossNetwork Media, LLC collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.  
-\- To administer a content, promotion, survey or other Site feature  
+– To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
@@ -51,6 +51,12 @@ Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
+Review of Anonymous Data from Google Analytics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
+
+You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Google Ad settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TCjFW5aqHgXBLJlHO1OBrATncwQabwp-j1wEPKn0ZxDyikB1N9ViWHipxAOv8-BNaC3qW7fXxEszV8MEkg1MYVdB2xBWnFuzcpIbU_oZb1znL2p8XAh--KIxBlZUL6AdY30BazDXGs8XRlxMqIE5doPkGSlhJlNs4VvG74M8cDOcP46NUfPQhmDvJCC-zRtwtdEJdU4NsRce_qjRrPLRRuIawYwv2Q) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
 Changes to this privacy policy
 
 CrossNetwork Media, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -68,7 +74,7 @@ http://www.survivingthestores.com
 
 admin@survivingthestores.com
 
-This document was last updated on May 23, 2011
+This document was last updated on September 24, 2014
 
 Privacy policy created by http://www.generateprivacypolicy.com
 
