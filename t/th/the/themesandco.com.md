@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themesandco.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629203138id_/http%3A//www.themesandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandco.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203742id_/http%3A//www.themesandco.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Themes & Co
+# Privacy Policy - Themes & Co
 
 The Themes & Co Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Themes & Co is a service offering of Nicolas Guillaume, and references in this document to “us,” “our,” and “we” refer to Nicolas Guillaume.
 
