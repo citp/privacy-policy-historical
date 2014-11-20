@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidthings.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061443id_/http%3A//kidthings.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidthings.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115343id_/http%3A//kidthings.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kid Things
 
@@ -20,9 +20,9 @@ How we use collected information
 
 Kid Things may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
 How we protect your information
