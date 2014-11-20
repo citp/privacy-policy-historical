@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515001841id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111904id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
 
 # Brasscheck TV
 
@@ -69,6 +69,9 @@ Unauthorized duplication or publication of any materials from this Site is expre
 Subscribe to Brasscheck TV - free  
 Every time we post a new video,  
 we'll send you a notice by e-mail.
+
+Your e-mail address is kept absolutely private  
+We make it easy to unsubscribe at any time
 
   
 
