@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303195537id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112227id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Car Rental
 
@@ -8,7 +8,7 @@ The collection of personal data is necessary to rent a car. We ask for your name
 
 **Use of Cookies**
 
-When data is provided to us, we use it solely for the purposes for which it was provided. Confidential information will not be disclosed to third parties.  
+When data is provided to us we use it solely for the purposes for which it was provided. Confidential information will not be disclosed to third parties.  
 We recognise that your information is valuable and we take all reasonable measures to protect it whilst in our care. If you wish to contact us please call +44 (1494) 751 500.
 
  **Our Cookie Policy**
