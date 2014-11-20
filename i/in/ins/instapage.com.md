@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143541id_/http%3A//www.instapage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045236id_/https%3A//www.instapage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Instapage
 
@@ -6,7 +6,7 @@ At INSTAPAGE, we value the trust you place in us and take your privacy seriously
 
 ## Personal Responsibility
 
-You should inform yourself regarding safe internet practices and what you can do to protect yourself against identity theft and Internet Fraud. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information. You can learn more about practical online safety tips at http://www.onguardonline.gov. For your privacy and security, your INSTAPAGE account information is protected by a password. You should always log off once you have finished using a shared computer to protect against unauthorized access to your password and/or computer. 
+You should inform yourself regarding safe internet practices and what you can do to protect yourself against identity theft and Internet Fraud. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information. You can learn more about practical online safety tips at https://www.onguardonline.gov. For your privacy and security, your INSTAPAGE account information is protected by a password. You should always log off once you have finished using a shared computer to protect against unauthorized access to your password and/or computer. 
 
 ## Collection & Use of Information by INSTAPAGE
 
