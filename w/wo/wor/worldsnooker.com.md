@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614162227id_/http%3A//www.worldsnooker.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205002id_/http%3A//www.worldsnooker.com/page/privacypolicy) for the most accurate reproduction.*
 
 # World Snooker | Privacy Policy | Privacy Policy
 
