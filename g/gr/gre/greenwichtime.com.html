@@ -1,96 +1,97 @@
-<!--The following is the downloaded HTML source of the greenwichtime.com privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517055419id_/http%3A//www.greenwichtime.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenwichtime.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120033832id_/http%3A//www.greenwichtime.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><!-- eid:channel.3806 -->
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
-    <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!-- eid:channel.3806 -->        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+        <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+        <!-- generated at 2014-11-19 21:34:28 on prodwcm7 running vr6.1.0.25 -->
+        <meta name="adwiz-site" content="gt">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		<!-- generated at 2014-05-17 00:52:19 on prodWCM6 running vr5.14.1.2 -->
-		<meta name="adwiz-site" content="gt">
-		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		
-		<script type="text/javascript">
+        <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+        <script type="text/javascript">
+            try {
+                amznads.getAds('3070');
+            } catch(e) { /*ignore*/ }
+        </script>
 
-			bizobject_identifier = "channel_3806";
-			
-			// <![CDATA[
-			// document.domain = "hearstnp.com";
-			var requestTime = new Date(1400305939 * 1000);
+        <script type="text/javascript">
+        bizobject_identifier = "channel_3806";
 
-																				
-								
-				
-				// bizobject variables
-				var omni_channelPath = "Information :: Privacy Policy";
-				var omni_title = "Privacy Policy";
-				var omni_bizObjectId = "3806";
-				var omni_className = "channel";
-				var omni_publicationDate = "2009-10-14 18:29:00";
-				var omni_sourceSite="greenwichtime";
+        // <![CDATA[
+        var requestTime = new Date(1416454468 * 1000);
 
-				// article specific variables
-				var omni_authorName = "";
-				var omni_authorTitle = "";
-				var omni_pageNumber = "";
-				var omni_breakingNewsFlag = "";
-				var omni_localNewsFlag = "";
+                    
+            
+            // bizobject variables
+        var omni_channelPath = "Information :: Privacy Policy";
+        var omni_title = "Privacy Policy";
+        var omni_bizObjectId = "3806";
+        var omni_className = "channel";
+        var omni_publicationDate = "2009-10-14 18:29:00";
+        var omni_sourceSite="greenwichtime";
 
-                			
-            			// ]]>
-		</script>
-	<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
-		
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r5.14.1.2.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r5.14.1.2.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r5.14.1.2.css" media="all">
+        // article specific variables
+        var omni_authorName = "";
+        var omni_authorTitle = "";
+        var omni_pageNumber = "";
+        var omni_breakingNewsFlag = "";
+        var omni_localNewsFlag = "";
 
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r5.14.1.2.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r5.14.1.2.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r5.14.1.2.css" media="all">
-
-				<script type="text/javascript" src="/js/hdn/utils/modernizr-2.6.2.min.js"></script>		
-		<script type="text/javascript" src="/external/js/global.header.r5.14.1.2.js"></script>
-		<script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+            // ]]>
+        </script>
+        <!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r6.1.0.25.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r6.1.0.25.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r6.1.0.25.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r6.1.0.25.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r6.1.0.25.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r6.1.0.25.css" media="all">
+        <script type="text/javascript" src="/js/hdn/utils/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/external/js/global.header.r6.1.0.25.js"></script>
+        <script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
 <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 
-				
-		<title>Privacy Policy - GreenwichTime</title>
-
-		<link rel="SHORTCUT ICON" href="/favicon.ico">
-		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-		
-                                                                                        												<link rel="canonical" href="http://www.greenwichtime.com/privacy/">
-                                        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.greenwichtime.com/privacy/">				
-			
-			
-			
-			                
-
-                
-			
-
+        <title>Privacy Policy - GreenwichTime</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="128x128" href="/apple-touch-icon-128x128.png">
+        
+                                        <link rel="canonical" href="http://www.greenwichtime.com/privacy/">
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.greenwichtime.com/privacy/">    
+    
+    
+    
+        
+        
     <meta property="og:title" content="Privacy Policy">
-        <meta property="og:type" content="article">
-    <meta property="og:url" content="http://www.greenwichtime.com/privacy/#src=fb">
+                        <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.greenwichtime.com/privacy/">
     <meta property="og:image" content="http://www.greenwichtime.com/img/pages/article/opengraph_default.jpg">
     <meta property="og:site_name" content="GreenwichTime">
-
+        <!-- Twitter card metadata  -->
     
-		<!-- /business/templates/hearst/home/header_fbpage.tpl-->
-    <meta property="fb:page_id" content="207042068180">
-    <meta property="fb:admins" content="653226748,58963564,710213297,666270996736144">
-        <meta property="fb:app_id" content="666270996736144">
-        		
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@GreenwichTime">
+    
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+
+
+            <meta property="fb:page_id" content="207042068180">
+        <meta property="fb:admins" content="653226748,58963564,710213297,666270996736144">
+                <meta property="fb:app_id" content="666270996736144">
+    
+<!-- e /business/templates/hearst/home/header_fbpage.tpl-->
         
         <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
-
-              <!-- sectionDesign  siteid  id  -->
-
-       
-
+                            <!-- sectionDesign  siteid  id  -->
+            
+            
 <!-- CSS/JS Hotfix freeform -->
 
 <!-- hearst/item/standalone.tpl -->
@@ -121,34 +122,29 @@
 </style>
 
     
-
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-
-<body class="body privacy hst-channel">
-            <script type="text/javascript" src="/external/js/global.top.r5.14.1.2.js"></script>
-    			<!-- ux/ctpost/tmpl/channel_omniture.php common file for ct props -->
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+    <body class="body privacy hst-channel">
+    <script type="text/javascript" src="/external/js/global.top.r6.1.0.25.js"></script>
+            <!-- ux/ctpost/tmpl/channel_omniture.php common file for ct props -->
 <!-- e channel_omniture.php -->
-		<!-- ux/ctpost/tmpl/analytics_header.php common file for ct props -->
+    <!-- ux/ctpost/tmpl/analytics_header.php common file for ct props -->
 <script type="text/javascript">//<![CDATA[
      var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
 document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzc3Ni0=/amc.js\"></sc"+"ript>");
 //]]></script><script type="text/javascript" src="//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzc3Ni0=/amc.js"></script>
 <!-- e analytics_header.php -->
-
-<div id="outer_bg_container">
-  <!-- outer gradient background image repeat-y  -->
-  <div id="inner_bg_container">
-     <!-- top fading gradient image fixed  -->	
-     
-    <div class="container">
-
+        <div id="outer_bg_container">
+        <!-- outer gradient background image repeat-y  -->
+        <div id="inner_bg_container">
+            <!-- top fading gradient image fixed  -->
+            <div class="container">
 <!--
 channel.className: channel
 channel.comments: 
 -->
 
 <!-- hearst/home/navigation.tpl -->
-  <!-- business/templates/hearst/home/navigation_main.tpl -->
+	<!-- business/templates/hearst/home/navigation_main.tpl -->
 <div class="hst-siteheader">
   <p class="skip">(<a href="#skip">skip this header</a>)</p>
 
@@ -159,14 +155,24 @@ channel.comments:
     </div>
     <div class="leaderboard" id="leaderboard1">
       <div class="creative">
-        <div id="A728" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A728"); /*]]>*/</script></div>
+        <div class="hst-leaderboard">
+	<div id="A728" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A728"); /*]]>*/</script></div>
+</div>
       </div>
     </div>
       
       <!-- hearst/item/standalone.tpl -->
-<div class="hdnce-e hdnce-item-6663"><!-- mid:freeform.6663 -->
-<div class="hst-freeform"></div>
-</div>  </div>
+<!-- mid:freeform.6663 -->
+<div class="hst-freeform" style="width:auto;">
+<a href="http://www.myhearstnewspaper.com/greenwich/Subscribe1_new.aspx" title="Check out our digital newspaper"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/GT-digital-edition.gif" alt="Check out our digital newspaper" width="215" height="90">
+ </a>
+</div>
+
+<!--<div class="hst-freeform" style="width:auto;">
+<a href="http://www.myhearstnewspaper.com/greenwich/Subscribe1_new.aspx" title="Check out our digital newspaper"><img src="http://ww2.hdnux.com/photos/30/11/46/6330777/4/215x90.jpg" alt="Check out our digital newspaper" width="215" height="90"/>
+ </a>
+</div>-->
+  </div>
 
   <!-- ux/greenwichtime/templates/hearst/home/header_branding.tpl -->
 
@@ -209,7 +215,7 @@ channel.comments:
 
 			
 			<!-- hearst/item/standalone.tpl -->
-<div class="hdnce-e hdnce-item-6218"><!-- mid:freeform.6218 -->
+<!-- mid:freeform.6218 -->
 <!-- GREENWICH TIME -->
 
 <ul class="sitelinks">
@@ -217,9 +223,9 @@ channel.comments:
     <li><a href="/weather">Weather</a></li>
     <li><a href="/faq">FAQ</a></li>
     <li><a href="https://www.myhearstnewspaper.com/greenwich/">Subscriber Services</a></li>
-    <li class="last"><a href="http://digital.olivesoftware.com/Olive/ODE/GreenwichTime/">e-Edition</a></li>
+    <li class="last"><a href="http://digital.olivesoftware.com/Olive/ODE/GreenwichTime/"><span style="color:red">Access digital edition</span></a></li>
 </ul>
-</div>
+
     <div class="halfbanner">
 	    <div class="creative">
 			
@@ -229,7 +235,7 @@ channel.comments:
     </div>
 
     <div class="weather clearfix png" id="weatherbg">
-    	<p class="date">Saturday, May 17, 2014</p>
+    	<p class="date">Wednesday, November 19, 2014</p>
     	<div class="location"><strong><a href="/weather/" id="weatherloc"></a></strong> <a href="/weather/" id="weathercond"></a></div>
     	<div class="temperature"><a href="/weather/" id="weathertemp"></a><span id="weatherscale"></span></div>
   	</div>
@@ -274,9 +280,9 @@ channel.comments:
   <!-- NavBar Sponsor Image -->
   
   <!-- hearst/item/standalone.tpl -->
-<div class="hdnce-e hdnce-item-25768"><!-- mid:freeform.25768 -->
+<!-- mid:freeform.25768 -->
 <div class="sponsor"><a href="http://findnsave.greenwichtime.com/"><img src="/img/hdn/icons/findSave_color.png"></a></div>
-</div></div>
+</div>
 
 
 
@@ -294,7 +300,7 @@ channel.comments:
     <!--/.content-->
 </div>
 
-<div id="subnav_226" class="subnav clearfix hidden"><ul class="list1"><li class="label">Check It Out:</li><li class="first"><a href="/seen/"><b>SEEN photo galleries</b></a></li><li><a href="http://blog.ctnews.com/hottopics">Hot Topics</a></li><li><a href="http://blog.ctnews.com/politics">CT Politics</a></li><li><a href="http://blog.ctnews.com/financialmines">Financial Mines</a></li><li><a href="http://blog.ctnews.com/culturecache">Culture Cache</a></li><li><a href="http://blog.ctnews.com/uconnbasketball">UConn Basketball</a></li><li><a href="http://blog.ctnews.com/mommyfiles">Mommy Files</a></li><li><a href="/hydeschool/">Education + Family</a></li></ul></div>
+<div id="subnav_226" class="subnav clearfix hidden"><ul class="list1"><li class="label">Check It Out:</li><li class="first"><a href="/seen/"><b>SEEN photo galleries</b></a></li><li><a href="http://blog.ctnews.com/ctbites">CT Bites</a></li><li><a href="http://blog.ctnews.com/hottopics">Hot Topics</a></li><li><a href="http://blog.ctnews.com/trending">Trending</a></li><li><a href="http://blog.ctnews.com/politics">CT Politics</a></li><li><a href="http://blog.ctnews.com/culturecache">Culture Cache</a></li><li><a href="http://blog.ctnews.com/uconnbasketball">UConn Basketball</a></li><li><a href="/weekendgetaways/">Weekend Getaways</a></li></ul></div>
 <div id="subnav_181" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/regional/">Regional</a></li><li><a href="/national/">National</a></li><li><a href="/world/">World</a></li><li><a href="/politics/">Politics</a></li><li><a href="/opinion/">Opinion</a></li><li><a href="/science/">Science and Technology</a></li><li><a href="/extremeweather/">Extreme Weather</a></li></ul></div>
 <div id="subnav_189" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/baseball/">Baseball</a></li><li><a href="/football/">Football</a></li><li><a href="/basketball/">Basketball</a></li><li><a href="/hockey/">Hockey</a></li><li><a href="/othersports/">Other</a></li><li><a href="/highschool/">High School</a></li><li><a href="/uconn/">UConn</a></li></ul></div>
 <div id="subnav_198" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/markets/">Markets</a></li><li><a href="/realestate/">Real Estate</a></li></ul></div>
@@ -321,13 +327,14 @@ channel.comments:
 <!--/.siteheader -->
 
 <div class="hst-billboard">
-			<div id="RM" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("RM"); /*]]>*/</script></div>
-		
-	<div id="A951" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A951"); /*]]>*/</script></div>
-	
+    <div class="innerWrap">
+                    <div id="RM" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("RM"); /*]]>*/</script></div>
+                <div id="A951" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A951"); /*]]>*/</script></div>
+    </div>
 </div>
 <!-- e business/templates/hearst/home/navigation_main.tpl -->
-<!-- e hearst/home/navigation.tpl -->	<!-- templates/design/channel/subsection.tpl  -->
+<!-- e hearst/home/navigation.tpl -->
+	<!-- templates/design/channel/subsection.tpl  -->
 
 <div class="pagecontent faux-21">
     <div class="faux-7 clearfix">
@@ -351,23 +358,20 @@ channel.comments:
             	<!-- src/business/widgets/hearst/collection/widget.tpl -->
                          <div class="hide-rss-link hdnce-e hdnce-collection-2501-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.2501 -->
-	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
-
-<div class="hst-simplelist ">
-	
-	<div class="header clearfix">
-      <!-- zone1 -->
-    	<!-- widgets/hearst/moduleHeader/widget.tpl -->
+	<!-- design/collection/simple_list/double_zone.tpl  -->
+	<div class="hst-simplelist ">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
                    <h2><span class="first-word">Customer</span> Care</h2>
-        <!-- e widgets/hearst/moduleHeader/widget.tpl -->    	<!-- e zone1 -->
-      <span class="rss">
-        <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Customer-Care-2501.php">
-          <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
-        </a>
-      </span>
-	</div>
-	
-<!-- hearst/collections/simple_list_body.tpl -->
+        <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Customer-Care-2501.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
 <ul>
 <li class="item"><h4><a class="hdnce-e hdnce-channel-3800" href="/faq/">Frequently Asked Questions</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
 </li>
@@ -383,36 +387,30 @@ channel.comments:
 </li>
 </ul>
 <!-- e hearst/collections/simple_list_body.tpl -->
-
-	<!-- zone2 -->
-        <!-- e zone2 -->
-
-</div><!--/.hst-categorylist-->
-
-<!-- e templates/design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+		<!-- zone2 -->
+				<!-- e zone2 -->
+	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
 </div>    
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
                          <div class="hide-rss-link hdnce-e hdnce-collection-2502-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.2502 -->
-	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
-
-<div class="hst-simplelist ">
-	
-	<div class="header clearfix">
-      <!-- zone1 -->
-    	<!-- widgets/hearst/moduleHeader/widget.tpl -->
+	<!-- design/collection/simple_list/double_zone.tpl  -->
+	<div class="hst-simplelist ">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
                    <h2><span class="first-word">Home</span> Delivery</h2>
-        <!-- e widgets/hearst/moduleHeader/widget.tpl -->    	<!-- e zone1 -->
-      <span class="rss">
-        <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Home-Delivery-2502.php">
-          <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
-        </a>
-      </span>
-	</div>
-	
-<!-- hearst/collections/simple_list_body.tpl -->
+        <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Home-Delivery-2502.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
 <ul>
 <li class="item"><h4><a class="hdnce-e hdnce-channel-3799" href="/subscribe/">Subscribe</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
 </li>
@@ -426,36 +424,30 @@ channel.comments:
 </li>
 </ul>
 <!-- e hearst/collections/simple_list_body.tpl -->
-
-	<!-- zone2 -->
-        <!-- e zone2 -->
-
-</div><!--/.hst-categorylist-->
-
-<!-- e templates/design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+		<!-- zone2 -->
+				<!-- e zone2 -->
+	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
 </div>    
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
                          <div class="hide-rss-link hdnce-e hdnce-collection-2500-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.2500 -->
-	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
-
-<div class="hst-simplelist ">
-	
-	<div class="header clearfix">
-      <!-- zone1 -->
-    	<!-- widgets/hearst/moduleHeader/widget.tpl -->
+	<!-- design/collection/simple_list/double_zone.tpl  -->
+	<div class="hst-simplelist ">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
                    <h2><span class="first-word">Advertising</span></h2>
-        <!-- e widgets/hearst/moduleHeader/widget.tpl -->    	<!-- e zone1 -->
-      <span class="rss">
-        <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Advertising-2500.php">
-          <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
-        </a>
-      </span>
-	</div>
-	
-<!-- hearst/collections/simple_list_body.tpl -->
+        <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Advertising-2500.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
 <ul>
 <li class="item"><h4><a class="hdnce-e hdnce-channel-3807" href="/advertise/">Advertise With Us</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
 </li>
@@ -463,36 +455,30 @@ channel.comments:
 </li>
 </ul>
 <!-- e hearst/collections/simple_list_body.tpl -->
-
-	<!-- zone2 -->
-        <!-- e zone2 -->
-
-</div><!--/.hst-categorylist-->
-
-<!-- e templates/design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+		<!-- zone2 -->
+				<!-- e zone2 -->
+	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
 </div>    
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
                          <div class="hide-rss-link hdnce-e hdnce-collection-2503-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.2503 -->
-	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
-
-<div class="hst-simplelist ">
-	
-	<div class="header clearfix">
-      <!-- zone1 -->
-    	<!-- widgets/hearst/moduleHeader/widget.tpl -->
+	<!-- design/collection/simple_list/double_zone.tpl  -->
+	<div class="hst-simplelist ">
+		<div class="header clearfix">
+			<!-- zone1 -->
+			<!-- widgets/hearst/moduleHeader/widget.tpl -->
                    <h2><span class="first-word">Site</span> Information</h2>
-        <!-- e widgets/hearst/moduleHeader/widget.tpl -->    	<!-- e zone1 -->
-      <span class="rss">
-        <a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Information-2503.php">
-          <img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
-        </a>
-      </span>
-	</div>
-	
-<!-- hearst/collections/simple_list_body.tpl -->
+        <!-- e widgets/hearst/moduleHeader/widget.tpl -->			<!-- e zone1 -->
+			<span class="rss">
+				<a type="application/rss+xml" target="_blank" class="collection-rss-link" href="/opinion/collectionRss/Information-Simple-Information-2503.php">
+					<img src="/img/utils/rss_icon.png" alt="Click to View RSS Feed">
+				</a>
+			</span>
+		</div>
+		<!-- hearst/collections/simple_list_body.tpl -->
 <ul>
 <li class="item"><h4><a class="hdnce-e hdnce-channel-3810" href="/aboutourads/">About Our Ads</a></h4><!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->
 </li>
@@ -504,13 +490,10 @@ channel.comments:
 </li>
 </ul>
 <!-- e hearst/collections/simple_list_body.tpl -->
-
-	<!-- zone2 -->
-        <!-- e zone2 -->
-
-</div><!--/.hst-categorylist-->
-
-<!-- e templates/design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
+		<!-- zone2 -->
+				<!-- e zone2 -->
+	</div><!--/.hst-simplelist-->
+<!-- e design/collection/headline_list/double_zone.tpl --><!-- e hearst/collections/simple_list.tpl -->
 </div>    
 
 
@@ -745,73 +728,12 @@ $(document).ready(function () {
 		    <div id="hst-partialbanner" class="hst-partialbanner clearfix">
     	<div id="A300x60" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A300x60"); /*]]>*/ </script></div>
     </div>	
-	<!-- hearst/item/standalone.tpl -->
-<div class="hdnce-e hdnce-item-5054"><!-- mid:freeform.5054 -->
-<div class="hst-topzone">
-  <a href="http://www.myhearstnewspaper.com/greenwich/Subscribe1_new.aspx" title="Check out our digital newspaper"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/digitaledition050214_GRNwidget.jpg" alt="Check out our digital newspaper" width="300" height="90">
-  </a>
-</div>
-
-<!--<div class="hst-topzone">
-  <a href="http://cthousehunter.com/" title="Check out the all-new cthousehunter.com"><img src="http://ww3.hdnux.com/photos/26/40/10/5898802/4/628x471.jpg" alt="Check out the all-new cthousehunter.com" width="300" height="90"/>
-  </a>
-</div>-->
-
-<!--<div class="hst-topzone">
-  <a href="http://digital.olivesoftware.com/Olive/ODE/GreenwichTime/" title="Click for the free e-edition"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/uconn041114_GRNwidget.jpg" alt="Click for the free e-edition" width="300" height="90"/>
-  </a>
-</div> --> 
-
-<!--<div class="hst-topzone">
-  <a href="http://cthousehunter.com/" title="Check out the all-new cthousehunter.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/cthousehunter021414_GRNwidget.jpg" alt="Check out the all-new cthousehunter.com" width="300" height="90"/>
-  </a>
-</div>-->
-
-<!--<div class="hst-topzone">
-  <a href="http://ingearct.com/" title="Check out the all-new ingearct.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/ingearct011113_GRN.jpg" alt="Check out the all-new ingearct.com" width="300" height="90"/>
-  </a>
-</div> -->
-
-
-
-
-<!--<div class="hst-topzone">
-  <a href="http://digitalpub.hearstdirectpublishing.com/publication?i=186494"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/giftguide120513-GRN-gap.jpg" alt="2013's Top Workplaces" width="300" height="90"/>
-  </a>
-</div>-->
-
-
-<!--<div class="hst-topzone">
-  <a href="http://www.facebook.com/topworkplacesct"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/topworkplace091713_GRNwidget.jpg" alt="2013's Top Workplaces" width="300" height="90"/>
-  </a>
-</div>-->
-
-
-<!--<div class="hst-topzone">
-  <a href="http://digitalpub.hearstdirectpublishing.com/publication?m=26866&l=1" title="2013's Top 10 Nurses"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/nurses051613_GRNwidget.jpg" alt="2013's Top 10 Nurses" width="300" height="90"/>
-  </a>
-</div>-->
-
-
-
-<!--<div class="hst-topzone">
-  <a href="http://digitalpub.hearstdirectpublishing.com/publication?m=26867&l=1" title="Check out our boating and marina guide"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/boatingmarina040313_GRNwidget.jpg" alt="Check out our boating and marina guide" width="300" height="90"/>
-  </a>
-</div>-->
-
-
-<!--<div class="hst-topzone">
-  <a href="http://ingearct.com/" title="Check out the all-new ingearct.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/ingearct011113_GRN.jpg" alt="Check out the all-new ingearct.com" width="300" height="90"/>
-  </a>
-</div> -->
-
-<!-- <div class="hst-subscribepromo"><h2><a href="/subscribe/">Get Greenwich Time delivered</a></h2></div> -->
-
-<!-- <div style="margin-bottom:10px"><a href="/subscribe/"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/webbanner_gt.jpg" height="75"></a></div> -->
-</div>    <!-- hearst/ads/medium_rectangle_ad_first.tpl -->
+	
+<!-- noGen: item_subscribe_promo -->
+    <!-- hearst/ads/medium_rectangle_ad_first.tpl -->
 
 <div id="hst-mediumrectangle1" class="hst-mediumrectangle clearfix">
-<div id="A300" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A300"); /*]]>*/ </script></div>
+<div id="A300" class="A300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("A300"); /*]]>*/ </script></div>
 </div>
 <!-- e medium_rectangle_ad_first.tpl -->
     
@@ -819,14 +741,14 @@ $(document).ready(function () {
 	<!-- hearst/ads/medium_rectangle_ad_second.tpl -->
 
 <div id="hst-mediumrectangle2" class="hst-mediumrectangle clearfix">
-<div id="B300" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("B300"); /*]]>*/ </script></div>
+<div id="B300" class="B300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("B300"); /*]]>*/ </script></div>
 </div>
 <!-- e medium_rectangle_ad_second.tpl -->	
       
 	<!-- hearst/ads/medium_rectangle_ad_third.tpl -->
 
 <div id="hst-mediumrectangle3" class="hst-mediumrectangle clearfix">
-<div id="S300" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("S300"); /*]]>*/ </script></div>
+<div id="S300" class="S300 ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("S300"); /*]]>*/ </script></div>
 </div>
 <!-- e medium_rectangle_ad_third.tpl -->    
 </div><!--/.span-10-->
@@ -836,8 +758,7 @@ $(document).ready(function () {
 </div><!--/.content-->
 
 <!-- e templates/design/channel/subsection.tpl  -->
-
-<!-- src/business/templates/hearst/common/footer.tpl -->
+	<!-- src/business/templates/hearst/common/footer.tpl -->
     <!-- src/business/templates/hearst/common/site_footer.tpl -->
     <!-- THIRDPARTY FOOTER MARKER --><!-- DONT REMOVE -->
     <div class="hst-sitefooter clearfix">
@@ -847,13 +768,9 @@ $(document).ready(function () {
             <script type="text/javascript">/*<![CDATA[*/hearstPlaceAd("B728");/*]]>*/</script>
         </div>
         <!-- End Hearst Ad -->
-
-    
-
-
-
-	    <!-- hearst/item/standalone.tpl -->
-<div class="hdnce-e hdnce-item-4242"><!-- mid:freeform.4242 -->
+									
+					<!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.4242 -->
 <div class="navigation">
         <table>
             <tbody><tr>
@@ -953,8 +870,7 @@ $(document).ready(function () {
 	  </div>
 	<div style="float:right;text-align:right;margin:10px ;width:140px;font-size:11px"></div>
 	</div>
-</div>
-		
+						
 		<!-- ux/ctpost/templates/hearst/common/footer_branding.tpl -->
 	<!-- /ux/ctshared/templates/hearst/common/footer_branding.tpl -->
 <div class="footer-branding">
@@ -1039,7 +955,7 @@ $(document).ready(function () {
 </script><script src="http://widgets.outbrain.com/outbrainWidget.js" ;="" type="text/javascript"></script>
 
 
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ctpost.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580487115740"></script></div>
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ctpost.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580487117218"></script></div>
 
 <script type="text/javascript">
 (function( ){
@@ -1050,11 +966,12 @@ setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WID
 </script>
 
 
-    <script type="text/javascript" src="/external/js/global.bottom.r5.14.1.2.js"></script>
+
+    <script type="text/javascript" src="/external/js/global.bottom.r6.1.0.25.js"></script>
 
 
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpOJUZYVU1ZXVtLVwwCIgtSWFhcXHFaCkATCw0PVkQMA0JXWwBREzIIBkQ=","queueTime":0,"applicationTime":77,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpOJUZYVU1ZXVtLVwwCIgtSWFhcXHFaCkATCw0PVkQMA0JXWwBREzIIBkQ=","queueTime":0,"applicationTime":89,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
-<!-- e src/business/templates/hearst/common/footer.tpl --></div></div><script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<!-- e src/business/templates/hearst/common/footer.tpl --></div></div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
