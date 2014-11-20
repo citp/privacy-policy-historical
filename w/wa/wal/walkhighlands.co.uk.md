@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063932id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130715id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Walkhighlands • User Control Panel • Privacy policy
 
