@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051220id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111716id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
 
 # Indnav.com Terms of Service And Privacy Policy
 
-| [](http://dschool.co/adm)  
+| [](http://dschool.co/)  
 ---  
 **Privacy Policy and Terms of Use
 
