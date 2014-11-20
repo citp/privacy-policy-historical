@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510075822id_/http%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133900id_/http%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy | Ibiza spotlight
 
@@ -58,13 +58,7 @@ We use third-party advertising companies (Google) to serve ads when you visit ou
 
 ## Our Policy
 
-**With one exception, this data will be used only by ourselves.**  Ibiza Spotlight will not sell or rent your personally identifiable information to anyone.
-
-**Exceptions:**
-
-We send the emails of customers who purchase a ticket for Pacha to Pacha every month, so they can be included in the Pacha newsletter database.
-
-We also send the emails of customers who purchase a ticket for Together (Tuesdays at Amnesia - 2012 season) to the promoters of the event: Lock'N'Load Events.
+**This data will be used only by ourselves.**  Ibiza Spotlight will not sell or rent your personally identifiable information to anyone.
 
 ## Dispute Resolution
 
