@@ -1,65 +1,61 @@
-> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502060333id_/http%3A//tapit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120161933id_/http%3A//www.tapit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TapIt by Phunware
 
-**TapIt! Media Group, Inc**
+**TapIt by Phunware Privacy Policy**
 
-TapIt! Media Group, Inc. (“TAPIT”) is a technology-enabled media services company whose clients and customers include online advertisers (“Advertisers”) and Internet content sites and Mobile Application Developers (“Publishers).  We deliver innovative products and services designed to:
-
--Enable Advertisers to better reach their target audiences; and
-
--Enable Publishers to support, grow, and monetize their mobile inventory through the sale of advertisements
-
-Our product offerings and services currently include TapIt! (together, referred to herein as our “Services”).  For a full description of these Services please see our website at [www.tapit.com](http://www.tapit.com/)
-
-At TapIt! we believe that safe, secure and respectful practices regarding that use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole.
-
-This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Service and the way that data is stored and used by our company, our Advertisers and our Publishers.  For information about our privacy practices as they relate to our corporate website, please see.
+TapIt by Phunware partners with mobile website publishers and mobile app developers to serve ads on their sites and in their apps on behalf of our advertiser clients.  The ads we serve may be tailored to users’ interests and geographic locations. This allows our publisher and developer partners to provide advertising that is more relevant to users.
 
 **Information We Collect**
 
-Non-Personal Information Collected by Our Services
+As part of our on-going efforts to ensure the best possible experience for all recipients of TapIt by Phunware advertising, we may collect: (i) information about your device, (ii) information about your browser or app activity,  (iii) information collected by our partners and shared with us to improve the relevance of ads, and (iv) data from third party business partners. The information we collect is used for marketing purposes and enables us to more effectively match the ads served to you on websites and in apps with your interests or geographic location.  Our system does not store explicit personal data that would enable you to be identified in real life (often referred to as “Personally Identifiable Information”) – information such as a phone number, an email address, or a street address.
 
-We deliver advertisements from hundreds of Advertisers across a multitude of Publisher websites.  When you visit one of the Publisher websites in our network, our automated system may collect “click stream data” related to your visit to the website.  “Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages.  Technologies used to collect this click stream data, include cookies and Web beacons.  Our anonymous cookies are programmed to expire in six months
+Information about your device
 
-In order to improve performance, we augment our click stream data with non-personally-identifiable behavioral and demographic data from Publishers and other partners.  This anonymous data may include such things as zip code, age, gender, and income range.
+Information about your device may include: device type (e.g. smartphone, tablet), operating system, network provider, IP address, a carrier user ID, and a unique identifier of your mobile device. We may also use the location of your device if you have decided to provide it to a partner.
 
-We utilize the non personal information described above to better customize the sort of advertisements you see.  We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience.  WE store the information collected in log files, and log files are retained in our systems for a reasonable period of time.  Anonymous data stored in our log files that associates the log data to a particular device include IP address and User ID.  We purge the IP address and irreversibly obfuscate the User ID four months after collection of this information.
+Information about your browser or app activity
 
-**Consumer Choice-Opting Out of Receiving Cookies**
+Information about your browser activity may include: IP address, browser type, click data and types of ads viewed, cookies (small text files stored on your Internet-enabled device), web beacons, pixel tags, and sites visited. Information about your app activity may include the apps you use.
 
-We use technology which includes cookies and web beacons in the delivery of our services.  We believe that the use of these tools enables us to provide users with a more meaningful web experience.  You may adjust your device’s web browser settings to refuse all cookies.  However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
+Information collected on behalf of our partners
 
-Through this opt-out procedure, your device will request an “opt-out cookie” ID tag that will prevent your anonymous data from being matched to your device and thereby prevent us from using that data to deliver targeting advertising or other content to your device’s browser.  Please not that this opt-out process will erase the cookie ID associated with your device but not the cookie itself the cookie itself must remain on your device in order for us to recognize you as an opt-out user.  This means that if you use multiple browsers you will need to opt out of receiving cookies on each device and for each browser.  Also, if you change devices or delete cookies from your device you will need to repeat this opt-out process.
+On occasion, we accept personal information on behalf of our partnering mobile publishers, app developers or advertisers, such as when a user fills out a form enrolling for a service.  In such circumstances, we segregate this information, transmit it securely to the partner with whom the user intended to share it, and then destroy it, leaving us with no record of the personal information. Our partners collect such information in accordance with their own privacy policies and are subject to their own applicable legal requirements.
 
-**Personally Identifiable Information Collected By Our TapIt! Services**
+Care with regard to sensitive data
 
-TapIt! helps marketers reach potential customers who are interested in receiving information about their products or services. In response to a marketer’s advertisement, you may choose to provide personally identifiable information such as your name address, telephone number and/or email address. TapIt! will not merge any of this data with any non-personally identifiable information collected by our systems and will not use this personally identifiable information in any way that is not authorized by the marketer for whom it is collected. In addition, we keep this data in a separate database to preserve our guarantee that advertisements are delivered only through the utilization of anonymous consumer data.
+There is certain data that although not personally identifiable we consider sensitive, such as viewing of sites with sexual content or information indicating a users’ specific medical condition.  We do not use these types of sensitive data from one site for tailoring ads at other sites across our network.
 
-**Personally Identifiable Information Collected Through Our Corporate Website**
+**How We Use Information**
 
-You may also provide us with personally identifiable information (such as your name, email address, or telephone number) when you elect to contact us about this Privacy Policy or any other customer-service related matter.  We will only utilize such personal information for the purpose of responding to your inquiry.  However, we do reserve the right to retain an archival record of all such correspondence.
+We may use the information we collect to make the ads we serve more relevant to users’ interests. We do this by matching the ads to characteristics such as the time of day, carrier network, content of the site, application or page on which the ad is displayed, the type of mobile device and web browser used, anonymous information about the browsing behavior of the user and other information including data provided by our partners.  The information we collect on our system is only used in de-identified form. So while we may select an ad for a user based on the knowledge or inference that that user is a member of a certain demographic group (e.g., a male between the ages of 25 and 34), we do not need to know, and do not know, who that user is.  We may link to our unique identifier to additional data from other partners in a way that does not identify users but that does provide us with some information about their interests (for example, that a user seems to be interested in purchasing a new car).  When we have such information, the ads that we display to that user can be more relevant to his or her interests.
 
-We reserve the right to disclose personally identifiable information you have disclosed to us in response to judicial process or court order or to provide information to law enforcement agencies or in connection with an investigation of matters related to public safety, as permitted by law.
+**Information Sharing & Disclosure**
 
-**International Transfers of Data**
+We may share aggregate or de-identified information with our partners, subject to contractual restrictions.
 
-Personally Identifiable information collected by TapIt! on its own behalf or on behalf of TapIt! clients may be stored and processed in the United States or any other country in which TapIt! or its affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute  your consent to any such transfer.
+We may share information if we are required to do so to comply with an applicable law, regulation or legal process. In addition, there may be times where we will need to disclose information to protect our system or our rights or to ensure your safety or the safety of others.
 
-**Information Security**
+In the event TapIt by Phunware is acquired by another entity or otherwise experiences a change of control, the successor entity will have the same rights to use the data that is subject to this policy as does TapIt by Phunware.
 
-TapIt!  follows generally accepted industry standards to protect unauthorized access to, destruction or disclosure of data.  This includes undertaking necessary physical, electronic and management activities required to protect data integrity, access and use.  Any data that is stored on our servers is treated as confidential and is not made generally available to the public.  Our servers are protected by firewalls and are located in secure data facilities to further increase security.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers no method of transmission over the internet is guaranteed to be secure.  Therefore while we strive to protect your personal data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
+**Children’s Privacy**
 
-**Transfer of Data Upon Change of Control**
+We do not knowingly collect any personal information about children under the age of 13. If we become aware that we have collected personal information about a child under the age of 13, we will immediately delete that information from our database.
 
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset-purchase, or other transaction, we reserve the rights to transfer all data (including any personally identifiable data) that is in our possession or under our control to such acquiring party.
+**California Privacy Rights**
 
-**Changes to the Privacy Policy**
+Under the California “Shine The Light” law, California residents may opt-out of disclosure of personal information to third parties for direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our corporate offices at 7800 Shoal Creek Blvd. 210 W. Austin, Texas 78757. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
-We reserve the right to make changes to this Privacy Policy by posting an updated version of this page.  The date on which the current Privacy Policy was posted will always be noted at the top of this page.  Any change we make to our Privacy Policy will be made in compliance with applicable law.
+**Data Security**
 
-**Contact Us**
+TapIt by Phunware uses appropriate technical and security measures to protect the information it collects. TapIt by Phunware stores its data in a secure facility that is protected against unauthorized access and controls which of its employees has access to its data.  However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers.
 
-Questions or comments regarding this Privacy Policy should be directed to [privacy@tapit.com](mailto:privacy@tapit.com) or mailed to:
+**Relevance**
 
-TapIt! Media Group,  Inc., 3121 Michelson Dr. #150 Irvine, CA 92612 Attn: Legal Department
+TapIt by Phunware does not deliver ads or content based on individual level data that is more than six months old.
+
+**Changes**
+
+When we make material changes to this policy, we will post the new policy 30 days before it becomes effective. If we make any material changes as to the data we collect or use we (or one of our partners) will get consent from a user before using data previously collected in a manner inconsistent with the previous policy.
+
+If you have questions or comments about our Privacy Policy, please contact us at info@tapit.com
