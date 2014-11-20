@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514103724id_/http%3A//typewolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175249id_/http%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
 
 # Typewolf → Privacy
 
