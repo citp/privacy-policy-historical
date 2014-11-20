@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatodaysportsimages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093859id_/http%3A//www.usatodaysportsimages.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatodaysportsimages.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132529id_/http%3A//www.usatodaysportsimages.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
 
 # USA TODAY Sports Images
 
