@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053321id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225420id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Op4G : Opinions 4 Good
-
-Effective Date: 10/01/2013
+# Privacy Policy | Op4G | Opinions 4 Good
 
 This privacy policy applies to [op4g.com](http://www.op4g.com/) owned and operated by Op4G. This privacy policy describes how Op4G collects and uses the personal information you provide on our web sites: [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Op4G has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites and subdomains at [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).
+Op4G has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites and subdomains at [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).
 
 If you have an unresolved privacy or data use concern that Op4G have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -134,9 +132,9 @@ Op4G promises to post any changes to our privacy or other policies that affect M
 
 ### 100% Transparency
 
-Have a question or concern that we don't answer on our website? Op4G has a dedicated support team ready to help you. Please contact us through the following:
+Have a question or concern that we don’t answer on our website? Op4G has a dedicated support team ready to help you. Please contact us through the following:
 
 Op4G  
 Corporate Office:  
-155 Fleet Street in Portsmouth  
+93 Middle Street in Portsmouth  
 New Hampshire, 03801
