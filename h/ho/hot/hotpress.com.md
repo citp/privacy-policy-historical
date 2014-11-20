@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154647id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003640id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
 
 # Hotpress Privacy Policy | Hot Press
+
+We use cookies to ensure you get the best experience on our website - by using this website you consent to our use of cookies. 
+
+Hotpress Privacy Policy
 
 hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us.
 
@@ -18,3 +22,5 @@ Finally, you should be aware that personal information which you disclose by way
 
 hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments.   
 
+
+[](http://www.hotpress.com/Hot-Press/news/Inside-the-new-issue-The-Return-Of-Damien-Rice/12974996.html)
