@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328152722id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212507id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
 
 # Flirt and Hook Up - Find people, socialize, hookup and chat.
 
@@ -98,9 +98,9 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 #### Our address:
 
 FH International Limited  
-Island House  
-Grande Rue  
-GY4 6RU  
-St Martins  
-Guernsey, Channel Islands  
+PO Box 440  
+Envoy House, La Vrangue  
+GY1 3ZN  
+St Peter Port  
+Guernsey  
 +1 661-705-3864 
