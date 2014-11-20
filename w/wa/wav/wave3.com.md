@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521053207id_/http%3A//www.wave3.com/story/8774923/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084433id_/http%3A//www.wave3.com/story/8774923/p) for the most accurate reproduction.*
 
 # Privacy Policy - wave3.com-Louisville News, Weather & Sports
 
