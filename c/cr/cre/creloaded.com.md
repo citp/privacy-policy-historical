@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091140id_/http%3A//loadedcommerce.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120123800id_/http%3A//loadedcommerce.com/privacy-statement) for the most accurate reproduction.*
 
 # Loaded Commerce | Privacy Statement - Loaded Commerce
 
@@ -27,4 +27,4 @@ For your convenience, our Web site may contain links to other sites. Loaded Comm
 
 **Changes to this Policy**
 
-We reserve the right to modify this privacy policy at any time. Any modification will be promptly posted on this Web page. If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us.
+We reserve the right to modify this privacy policy at any time. Any modification will be promptly posted on this Web page. If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us. 
