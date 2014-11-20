@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tvrealityshows.in privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613110715id_/http%3A//www.tvrealityshows.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvrealityshows.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000100id_/http%3A//www.tvrealityshows.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TV Reality Shows
+# Privacy Policy - TV Reality Shows
 
 Select Page: 
 
 Select Category: 
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.tvrealityshows.in%2Fprivacy-policy%2F&media=)
 
 tvrealityshows.in respects the privacy of its users/visitors and is committed to protect it in all respects.
 
@@ -23,5 +21,3 @@ We may change this policy and our terms and conditions from time to time and wil
 
 Queries  
 If you have queries about our use of personal information, you can write to us at deepakraaj111@gmail.com
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.tvrealityshows.in%2Fprivacy-policy%2F&media=)
