@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the llm-guide.com privacy policy that was archived on 2014-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140503080921id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the llm-guide.com privacy policy that was archived on 2014-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120105351id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -24,6 +24,7 @@
 
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-59494-1']);
+        _gaq.push(['_gat._anonymizeIp']);
         _gaq.push(['_trackPageview']);
 
         $(document).ready(function () {
@@ -124,56 +125,84 @@
                 <div class="fb-like-box" data-href="https://www.facebook.com/pages/LLM-GUIDE/112563838760562" data-width="147" data-show-faces="false" data-stream="false" data-show-border="false" data-header="false"></div>
             </div>
 
-        <h2>Featured Programs</h2>
-<ul><li>
-<a href="/university/65/university-of-waikato-te-whare-wnanga-o-waikato"><img class="adimg" src="/pics/universities/65.gif" alt="The University of Waikato - Te Whare Wananga o Waikato" title="The University of Waikato - Te Whare Wananga o Waikato"></a><br>
-<strong><a href="/university/65/university-of-waikato-te-whare-wnanga-o-waikato">The University of Waikato - Te Whare Wananga o Waikato</a></strong><br>
-<a href="/university/65/university-of-waikato-te-whare-wnanga-o-waikato">LL.M. in New Zealand</a> 
-</li>
+        <script type="text/javascript">
+    var _gaq = _gaq || [];
+    function trackBannerClick(el, universityId) {
+        _gaq.push(['_trackEvent', 'Banner Clicks', universityId, document.location.pathname + document.location.search]);
+        setTimeout(function () {
+            document.location.href = el.attr('href');
+        }.bind(el), 500);
+        event.preventDefault();
+    }
+</script>
 
-<li>
-<a href="/university/858/catholic-university-of-lyon-law-school"><img class="adimg" src="/pics/universities/858.gif" alt="Catholic University of Lyon" title="Catholic University of Lyon"></a><br>
-<strong><a href="/university/858/catholic-university-of-lyon-law-school">Catholic University of Lyon</a></strong><br>
-<a href="/university/858/catholic-university-of-lyon-law-school">International Business &amp; Trade Law LL.M. programs</a> 
-</li>
-
-<li>
-<a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university"><img class="adimg" src="/pics/universities/477.gif" alt="Osgoode Hall Law" title="Osgoode Hall Law"></a><br>
-<strong><a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university">Osgoode Hall Law</a></strong><br>
-<a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university">Int'l Business Law LLM Over 15 Professional LLM Specializations</a> 
-</li>
-
-<li>
-<a href="/university/776/fribourg-university-law-faculty"><img class="adimg" src="/pics/universities/776.gif" alt="Fribourg University Law School" title="Fribourg University Law School"></a><br>
-<strong><a href="/university/776/fribourg-university-law-faculty">Fribourg University Law School</a></strong><br>
-<a href="/university/776/fribourg-university-law-faculty">LL.M. in Int'l Contract Law LL.M./MBA dual program</a> 
-</li>
-
-<li>
-<a href="/university/153/university-of-ottawa-faculty-of-law"><img class="adimg" src="/pics/universities/153.gif" alt="University of Ottawa Faculty of Law" title="University of Ottawa Faculty of Law"></a><br>
-<strong><a href="/university/153/university-of-ottawa-faculty-of-law">University of Ottawa Faculty of Law</a></strong><br>
-<a href="/university/153/university-of-ottawa-faculty-of-law">8 Part-Time and Full-Time LL.M. Programs</a> 
-</li>
-
-<li>
-<a href="/university/730/the-fletcher-school-of-law-and-diplomacy-tufts-university"><img class="adimg" src="/pics/universities/730.gif" alt="The Fletcher School of Law and Diplomacy" title="The Fletcher School of Law and Diplomacy"></a><br>
-<strong><a href="/university/730/the-fletcher-school-of-law-and-diplomacy-tufts-university">The Fletcher School of Law and Diplomacy</a></strong><br>
-<a href="/university/730/the-fletcher-school-of-law-and-diplomacy-tufts-university">An LL.M. with a Global Mission</a> 
-</li>
-
-<li>
-<a href="/university/542/tilburg-university-tilburg-law-school"><img class="adimg" src="/pics/universities/542.gif" alt="Tilburg University" title="Tilburg University"></a><br>
-<strong><a href="/university/542/tilburg-university-tilburg-law-school">Tilburg University</a></strong><br>
-<a href="/university/542/tilburg-university-tilburg-law-school">6 different LLM/MSc programs with various concentrations</a> 
-</li>
-
-<li>
-<a href="/university/25/college-of-europe"><img class="adimg" src="/pics/universities/25.gif" alt="College of Europe" title="College of Europe"></a><br>
-<strong><a href="/university/25/college-of-europe">College of Europe</a></strong><br>
-<a href="/university/25/college-of-europe">Master of European Law (LL.M.) Program in Brugges</a> 
-</li>
-
-</ul></div>
+<h2>Featured Programs</h2>
+<ul>        <li>
+                            <a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university" onclick="trackBannerClick($(this), 477)">
+                    <img class="adimg" src="/pics/universities/477.gif" alt="Osgoode Hall Law" title="Osgoode Hall Law"></a>
+                <br>
+                <strong><a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university" onclick="trackBannerClick($(this), 477)">Osgoode Hall Law</a></strong>
+                <br>
+                <a href="/university/477/osgoode-professional-development-osgoode-hall-law-school-of-york-university" onclick="trackBannerClick($(this), 477)">Int'l Business Law LLM Over 15 Professional LLM Specializations</a>
+                    </li>
+            <li>
+                            <a href="/university/140/swansea-university-school-of-law" onclick="trackBannerClick($(this), 140)">
+                    <img class="adimg" src="/pics/universities/140.gif" alt="Swansea University School of Law" title="Swansea University School of Law"></a>
+                <br>
+                <strong><a href="/university/140/swansea-university-school-of-law" onclick="trackBannerClick($(this), 140)">Swansea University School of Law</a></strong>
+                <br>
+                <a href="/university/140/swansea-university-school-of-law" onclick="trackBannerClick($(this), 140)">Six specialist LL.M. degree programs</a>
+                    </li>
+            <li>
+                            <a href="/university/8/university-of-california-los-angeles-ucla-school-of-law" onclick="trackBannerClick($(this), 8)">
+                    <img class="adimg" src="/pics/universities/8.gif" alt="University of California, Los Angeles (UCLA)" title="University of California, Los Angeles (UCLA)"></a>
+                <br>
+                <strong><a href="/university/8/university-of-california-los-angeles-ucla-school-of-law" onclick="trackBannerClick($(this), 8)">University of California, Los Angeles (UCLA)</a></strong>
+                <br>
+                <a href="/university/8/university-of-california-los-angeles-ucla-school-of-law" onclick="trackBannerClick($(this), 8)">LLM Program with many optional concentrations</a>
+                    </li>
+            <li>
+                            <a href="/university/263/university-of-notre-dame-law-school" onclick="trackBannerClick($(this), 263)">
+                    <img class="adimg" src="/pics/universities/263.gif" alt="University of Notre Dame" title="University of Notre Dame"></a>
+                <br>
+                <strong><a href="/university/263/university-of-notre-dame-law-school" onclick="trackBannerClick($(this), 263)">University of Notre Dame</a></strong>
+                <br>
+                <a href="/university/263/university-of-notre-dame-law-school" onclick="trackBannerClick($(this), 263)">3 LL.M. Programs - US Law, Human Rights, and Comparative Law</a>
+                    </li>
+            <li>
+                            <a href="/university/73/university-of-london-international-programmes" onclick="trackBannerClick($(this), 73)">
+                    <img class="adimg" src="/pics/universities/73.gif" alt="University of London International Programs" title="University of London International Programs"></a>
+                <br>
+                <strong><a href="/university/73/university-of-london-international-programmes" onclick="trackBannerClick($(this), 73)">University of London International Programs</a></strong>
+                <br>
+                <a href="/university/73/university-of-london-international-programmes" onclick="trackBannerClick($(this), 73)">LL.M. programs by Distance Learning</a>
+                    </li>
+            <li>
+                            <a href="/university/524/university-of-southern-california-usc-law-school" onclick="trackBannerClick($(this), 524)">
+                    <img class="adimg" src="/pics/universities/usc_online.gif" alt="USC Law School" title="USC Law School"></a>
+                <br>
+                <strong><a href="/university/524/university-of-southern-california-usc-law-school" onclick="trackBannerClick($(this), 524)">USC Law School</a></strong>
+                <br>
+                <a href="/university/524/university-of-southern-california-usc-law-school" onclick="trackBannerClick($(this), 524)">New Online LL.M. Program - Start in Spring, Summer, or Fall</a>
+                    </li>
+            <li>
+                            <a href="/university/269/boston-university-school-of-law-bu-law" onclick="trackBannerClick($(this), 269)">
+                    <img class="adimg" src="/pics/universities/269.gif" alt="Boston University School of Law (BU Law)" title="Boston University School of Law (BU Law)"></a>
+                <br>
+                <strong><a href="/university/269/boston-university-school-of-law-bu-law" onclick="trackBannerClick($(this), 269)">Boston University School of Law (BU Law)</a></strong>
+                <br>
+                <a href="/university/269/boston-university-school-of-law-bu-law" onclick="trackBannerClick($(this), 269)">American Law, Banking and Finance, IP Law, Tax</a>
+                    </li>
+            <li>
+                            <a href="/university/721/university-of-london-birkbeck-college-school-of-law" onclick="trackBannerClick($(this), 721)">
+                    <img class="adimg" src="/pics/universities/721.gif" alt="Birkbeck, University of London" title="Birkbeck, University of London"></a>
+                <br>
+                <strong><a href="/university/721/university-of-london-birkbeck-college-school-of-law" onclick="trackBannerClick($(this), 721)">Birkbeck, University of London</a></strong>
+                <br>
+                <a href="/university/721/university-of-london-birkbeck-college-school-of-law" onclick="trackBannerClick($(this), 721)">9 Masters Programmes in Law</a>
+                    </li>
+    </ul>
+</div>
 
         <br class="clear">
         <!-- AddThis Button BEGIN -->
@@ -209,13 +238,13 @@
         
             <br>
 
-            <a href="http://www.find-mba.com">MBA Programs </a> ·
+            <a href="http://find-mba.com">MBA Programs </a> ·
             <a href="http://www.nextexecutive.com">Executive Programs</a> ·
             <a href="http://biglaw.org">Law Firm News</a> ·
             <a href="http://www.lawyrs.net">The Lawyers Network</a>
 
             <p class="small" style="clear:left">© 2001–2014 Pritzwalks · LLM
-                GUIDE – Master of Laws (LL.M.) Programs Worldwide (0.046544075012207s)
+                GUIDE – Master of Laws (LL.M.) Programs Worldwide (0.031807899475098s)
 
             
             </p></div>
