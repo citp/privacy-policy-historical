@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifewithdogs.tv privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522105224id_/http%3A//www.lifewithdogs.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithdogs.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120220621id_/http%3A//www.lifewithdogs.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life With Dogs
 
@@ -23,7 +23,7 @@ Any of the information we collect from you may be used in one of the following w
 ; To administer a contest, promotion, survey or other site feature
 
 ; To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 **How do we protect your information?**
 
@@ -52,6 +52,3 @@ This policy was last modified on 5-7-12
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.lifewithdogs.tv
-
-PO Box 867  
-Richmond, VT 05477
