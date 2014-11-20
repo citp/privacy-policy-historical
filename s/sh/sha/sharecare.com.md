@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628204156id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120102226id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
+
+**SUMMARY**
+
+  * This Privacy Policy describes how Sharecare treats personal information when you use Sharecare's services.
+  * Please visit our [Terms](https://web.archive.org/static/terms) page for additional terms and conditions applicable to the Sharecare websites, products and services.
+  * Your personal health information is governed by the [Health Info Policy](https://web.archive.org/static/healthinfo).
+
+
 
 **PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY.** It explains how Sharecare, Inc. and/or its subsidiary and affiliated entities (collectively, "Sharecare", "we", "us", or "our") collects information about you (whether you're a parent or a child) through our websites and how this information is then used or disclosed. Our websites expressly include any Sharecare top-level-domain as well as any Sharecare redirects to Sharecare branded areas and sub-domains of third-party websites, specifically including Dr.Oz and Dailystrength (as such websites and top-level-domains may be renamed from time to time). This privacy policy statement does not apply to those of our websites that do not display or link to this privacy policy statement or that have their own privacy policy statement or to information we may collect from you or about you in other ways, including through emails you may send to us. We may update this statement from time to time by posting the updated terms on our websites. You are responsible for periodically reading this statement. If you use our websites after we have updated this statement, you acknowledge that you have read the updated terms and consent to our revised privacy practices.
 
@@ -173,3 +181,7 @@ However, under the law, a business is not required to provide the above-describe
 As stated in our privacy policy statement, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting-in to receive information from a third party. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on our website. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third-party's privacy policies and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policies and practices of any party that collects your information to determine how that entity will handle your information.
 
 California customers may request further information about our compliance with this law by e-mailing [privacy@sharecare.com](mailto:privacy@sharecare.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+
+**California Do Not Track Notice**
+
+Some browsers have a “Do Not Track” feature that lets you tell websites and online services that you do not want to have your online activities tracked. Such browser features and industry standards are not uniform, so our websites and online services do not respond to those signals. Our Privacy Policy describes our policies on data collection and tracking.
