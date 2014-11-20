@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228095225id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050349id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,7 @@
   
 ---|---  
   
-This Policy **is designed to assist you in understanding how we collect** , use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
-
-**What Information Do We Collect?**
+This Policy **is designed to assist you in understanding how we collect** , use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. **What Information Do We Collect?**
 
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
