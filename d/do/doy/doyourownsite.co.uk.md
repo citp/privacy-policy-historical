@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063157id_/http%3A//www.create.net/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120113809id_/http%3A//www.create.net/privacy.phtml) for the most accurate reproduction.*
 
 # Our privacy and cookies policy
+
+##  The Privacy Policy below describes how we treat personal information when you use our products and services. 
 
 Create Internet Ltd a company registered in England and Wales under company number 03821624 and with our registered office at Unit 5 Westergate Business Centre, Westergate Road, Brighton, BN2 4QN ("We") are committed to protecting and respecting your privacy.
 
@@ -109,4 +111,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our [Contact Form](https://web.archive.org/web/20140626063157id_/http%3A//www.create.net/contact.phtml).
+Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our [Contact Form](https://web.archive.org/web/20141120113809id_/http%3A//www.create.net/contact.phtml).
