@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074123id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180827id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Electronically submitted information is maintained and destroyed according to th
 
 ## Social Media:
 
-Please see our [comments policy and privacy notice](http://www.eeoc.gov/facebook_policies.cfm) for Facebook, Twitter, YouTube and other social media.  
+Please see our [comments policy and privacy notice](http://www.eeoc.gov/social_media_policies.cfm) for Facebook, Twitter, YouTube and other social media.  
 
 
 ## Links to other sites:
