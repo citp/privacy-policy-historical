@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083836id_/http%3A//vaultaffiliates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135953id_/http%3A//vaultaffiliates.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Vault Affiliates
-
-#### Privacy
+# PRIVACY | Vault Affiliates Network
 
 Privacy Policy for VaultAffiliates.com
 
@@ -10,13 +8,13 @@ About Us
 
 This is a privacy policy for VaultAffiliates.com – Our homepage on the Web is located at http://www.VaultAffiliates.com.
 
-We invite you to contact us if you have questions about this policy. You may contact us by [clicking here](http://vaultaffiliates.com/contact).
+We invite you to contact us if you have questions about this policy. You may contact us by clicking here.
 
 Dispute Resolution
 
 We have the following dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-In-House Resolution: All privacy disputes will be resolved internally by [Customer Service](http://www.vaultaffiliates.com/contact).
+In-House Resolution: All privacy disputes will be resolved internally by Customer Service.
 
 Additional Information
 
