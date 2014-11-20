@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406111505id_/http%3A//www.globalenglish.com/privacy_policy/%3Fref%3DfooterPrivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133735id_/http%3A//www.globalenglish.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | July 2012 | GlobalEnglish
 
-This policy applies to the collection, use, and transmission of data about visitors to www.globalenglish.com. For information about our services, please visit our “[Company](http://www.globalenglish.com/whoweare)” page.
+##  GlobalEnglish.com Privacy Policy
+
+This policy applies to the collection, use, and transmission of data about visitors to www.globalenglish.com. For information about our services, please visit our “[Company](http://www.globalenglish.com/company)” page.
 
 This policy does not apply to your use of out products and services.  If you are using GlobalEnglish Services (GlobalEnglish Edge™, GlobalEnglish Bloom™, GlobalEnglish Coach™, GlobalEnglish STEP™, GlobalEnglish LinGo™, etc.) please also read our [GlobalEnglish Services Privacy Policy](https://corp.globalenglish.com/templates/bin/template.asp?classId=204&objectId=232661&prop=type=1),  which explains our practices with respect to data collected with our SaaS Services.
 
@@ -20,7 +22,7 @@ Thank you for visiting the GlobalEnglish Corporation (“GlobalEnglish,” “We
 
 
 
-If you have any questions regarding this Privacy Policy or our information collection and use practices, please contact us using the information in the “[Contact Us](http://www.globalenglish.com/whoweare/contact_us)”  section below.
+If you have any questions regarding this Privacy Policy or our information collection and use practices, please contact us using the information in the “[Contact Us](http://www.globalenglish.com/contact_us)”  section below.
 
 ##    
 Information We Collect
@@ -31,7 +33,7 @@ For example, we may collect your internet protocol (IP) address, browser type, t
 
 We may also use cookies in conjunction with our analysis of Usage Information.  A cookie is a file that web servers place on an internet user’s computer.  Cookies are designed to store basic information about the user and transmit that information back to servers that recognize them.  They may be used to measure visitor behavior on and in connection with a website, including through the transmission of Usage Information.  We use both persistent and session cookies to analyze our users’ common practices.  Our persistent cookies remain on your machine after you exit your browser session with us and will become active again when you return to the Website.  Depending on which browser you use to access the internet (Internet Explorer, Safari, Firefox, etc.), you can change your settings to effect whether to accept, store, or delete cookies.
 
-**Your Submissions of Personal Information.** You have the opportunity to submit personal information to us through various means, including but not limited to the Website by clicking the “[Contact Sales](http://www.globalenglish.com/howtobuy/contact_enterprise_sales)” link from our homepage, in which case you would input your name, job title, email address, information about your company and a message to be submitted to our team for review and response.
+**Your Submissions of Personal Information.** You have the opportunity to submit personal information to us through various means, including but not limited to the Website by clicking the “[Contact Sales](http://www.globalenglish.com/purchase/contact)” link from our homepage, in which case you would input your name, job title, email address, information about your company and a message to be submitted to our team for review and response.
 
 For information about the types of data gathered by our products, please see our 
 
