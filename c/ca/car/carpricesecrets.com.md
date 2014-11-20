@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629184633id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120114id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
 
 # CarPriceSecrets.com - Privacy Policy
 
-Welcome to CarPriceSecrets.com (the “Site”). Your privacy is important to us. We provide this statement explaining our online information practices. To make this notice easy to find, we make it available through a link on all of our pages.
+Welcome to CarPriceSecrets.com (the “Site”). Your privacy is important to us.
+
+We provide this statement explaining our online information practices. To make this notice easy to find, we make it available through a link on all of our pages.
 
 ## Collection of Information
 
@@ -12,7 +14,15 @@ The Site also passively collects information about you through the use of cookie
 
 ## Third Party Information Collection
 
-Third parties may collect information about you and your use of the Site through the use of cookies, web beacons, and other similar technologies. For example, we may work with third party advertising networks that use cookies and web beacons to collect non-personally identifiable information about your visits to this Site and other Web sites in order to provide targeted advertisements to you across their networks of Web sites (which may include this Site). These third parties may also use this information for determining or predicting the characteristics and preferences of their respective network audiences, for measuring the effectiveness of their advertising, and for other purposes. If you would like more information about the information collection and use practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here: <http://networkadvertising.org/consumer/opt_out.asp>
+Third parties may collect information about you and your use of the Site through the use of cookies, web beacons, and other similar technologies. For example, we may work with third party advertising networks that use cookies and web beacons to collect non-personally identifiable information about your visits to this Site and other Web sites in order to provide targeted advertisements to you across their networks of Web sites (which may include this Site). These third parties may also use this information for determining or predicting the characteristics and preferences of their respective network audiences, for measuring the effectiveness of their advertising, and for other purposes. Also, our third-party service providers may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, mobile websites and/or mobile applications across your various devices, in order to provide content and advertisements about goods and services of interest to you across those various devices.
+
+If you would like to obtain more information about the practices of some of these parties, or if you would like to make choices about their use of your information, please click here:
+
+<http://www.aboutads.info/choices/>
+
+More information and additional consumer choice options may be found here:
+
+<http://networkadvertising.org/managing/opt_out.asp>
 
 ## How Our Quote Request Process Works
 
@@ -51,7 +61,7 @@ Although we take steps to help prevent the misuse of your information, after any
 
 ## Accessing or Changing Information
 
-If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please don't hesitate to [contact us](https://web.archive.org/contact/). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
+If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please [contact us](https://web.archive.org/contact/) via email. To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
 
 ## Security
 
@@ -71,6 +81,6 @@ If this privacy statement materially changes, the new privacy statement will be 
 
 ## Questions
 
-If you have any questions about this privacy statement, please don't hesitate to [contact us](https://web.archive.org/contact/).
+If you have any questions about this privacy statement, please [contact us](https://web.archive.org/contact/) via email.
 
-Last updated: December 2, 2010
+Last updated: November 6, 2014
