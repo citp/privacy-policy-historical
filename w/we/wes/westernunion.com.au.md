@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westernunion.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624112447id_/http%3A//www.westernunion.com.au/au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernunion.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115913id_/http%3A//www.westernunion.com.au/au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Western Union
 
