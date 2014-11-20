@@ -1,0 +1,64 @@
+> *The following text is extracted and transformed from the padmapper.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010341id_/http%3A//www.padmapper.com/legal/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - PadMapper
+
+PadMapper    
+Making Apartment Hunting Suck Less
+
+## Introduction
+
+PadMapper Inc.'s (hereinafter "PadMapper", "we", "our") Privacy Policy has been created to help you understand what information is collected, how it used, and your options, in connection with your use of padmapper.com and padlister.com ("Sites"). By using one or both Sites, you consent to this Privacy Policy, including your consent to our use of information about you in the manner described in this Privacy Policy. From time to time, we may update this Privacy Policy. Notification will be provided by posting the updated Privacy Policy online, or through other means. Your continued use of the Site constitutes acceptance of such updated Privacy Policy.
+
+## Information we collect
+
+### a. Optional registration
+
+Users may use the Site and search listings without registering. However, certain features of the Site require users to register for an account. During account registration, users will be required to provide their email address and name. The Site will store favorites and viewed listings for users, as well as notes, and various other pieces of information useful in streamlining the rental search and application process.
+
+### b. Profile information
+
+Users who create an account may also provide optional profile information ("Profile Information") including first name, last name, email address, phone number, whether you own pets, are employed, your income, desired move-in date, and best days and times to view listed locations. Additionally, you may request your credit score by providing your social security number, address and credit card information. This information is used to assist you in submitting housing applications through the Site.
+
+### c. Apartment preferences
+
+Users may use filters to help streamline their rental search. These filters are based on your geographical preference, rental range, number of bedrooms and bathrooms, type of rental, keywords, and other preferred rental criteria. You may provide your work address to determine the walking distance of rentals.
+
+### d. Rental listing information
+
+Users may post rental listings. All information included in rental listings is voluntary and viewable by other users. You should not share information you do not want publicly available in rental listings.
+
+### e. Log Information
+
+When you visit the Site by clicking a hyperlink, we automatically receive the URL of the site from which you came or the one to which you are directed. We also receive the internet protocol ("IP") address of your computer or the proxy server that you use to access the web, your computer operating system, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system (if you are accessing LinkedIn using a mobile device), and the name of your ISP or your mobile carrier. We may also receive location data passed to us from third-party services or GPS-enabled devices that you have set up, which we use to display local rental listings.
+
+### f. Cookies
+
+Cookies are pieces of data stored on your device. Browser cookies are assigned by a web server to the browser on your device. When you return to the Site you have visited before, your browser gives this data back to the server.
+
+We use cookies and similar technologies, including mobile device identifiers, to help us recognize you, and improve your experience. You can control cookies through your browser settings and other tools. We also use cookies for purposes such as maintaining continuity during an online session; gathering data about the use of our site; and anti-fraud and information security purposes. 
+
+### g. Additional Technologies
+
+We may also use additional technologies such as pixel tags, web beacons, and clear GIFs. We use the information collected from these technologies for purposes such as: servicing; communicating with you; improving our Site, products, or services; legal compliance; risk control; information security; anti-fraud purposes; marketing or personalizing the presentation of our products and services to you; tracking website usage, such as number of hits, pages visited, and the length of user sessions in order to evaluate the usefulness of our sites; and we may also use read-receipt notifications in our email communications.
+
+## How we use information
+
+### a. Communication from us
+
+We communicate with you through email, notices on the Site, and other means available through our service. Messages we send include notifications that someone has applied to a listing youâ€™ve posted, notifications that someone has replied to a listing youâ€™ve posted, or a message youâ€™ve sent, as well as other notifications important to the use of the basic functioning of the site.
+
+### b. Communication with other users
+
+When you apply for a rental listing, we will provide your name, email address, and other information you enter to the rental lister. You may also voluntarily include and share your Profile Information in applications. We do not share your Social Security number or credit report, only your numerical credit score should you choose to include it. Messages you send through our platform may be screened for compliance with our Acceptable Use provisions of the Terms of Service.
+
+### c. Sharing information with others
+
+We do not sell your personal information. Information included in rental listings is viewable by users and may be indexed by search engines. Aside from the other provisions in this Privacy Policy, we will not disclose personal information unless we have a good faith believe that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our Terms of Service; (3) respond to claims of a violation of the rights of third parties; or (4) protect the rights, property, or safety of PadMapper, our users, or the public. We may also disclose your personal information to a third party as part of or in preparation of a sale of PadMapper. Any party to such a transaction may only continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
+
+## How we protect personal information
+
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+## Your options
+
+You have the right to access, modify, correct, or delete your personal information, change or remove rental listings or other content you upload.
