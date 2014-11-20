@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004401id_/http%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065004id_/http%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
@@ -61,5 +61,3 @@ We do however request an administration fee; therefore please enclose a cheque f
 ###  Other Parties
 
 This website may contain links to other (third party) websites. We are not responsible for the content or privacy policies of said websites.  The use of third party websites is entirely at your own risk and we accept no liability for the content of any linked site or any link contained in a linked site.  If you access other sites then using the links provided, these sites may collect information from you which will be used by them in accordance with their privacy policy, which we have no control over. The privacy policies of third party sites may differ from our own.
-
-[ **Print page** ]   [ **[Back to help and support](https://web.archive.org/Help/) **]
