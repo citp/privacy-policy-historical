@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209234202id_/http%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110206id_/http%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CometChat
 
@@ -10,11 +10,11 @@ By using this Site, you agree to the terms of this Privacy Policy. Please read t
 
 This Site contains links to other websites. These include links to websites that we think may be of interest to you. We are not responsible for the privacy practices or the content of such websites.
 
-## Browsing this Site
+### Browsing this Site
 
 If you browse through this Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access this Site, the date and time you access this Site, the pages you visit (click-through), and if you linked to this Site from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with this Site’s server, and to administer this Site.
 
-## Information Collected
+### Information Collected
 
 We collect the email addresses of consumers who communicate with us via email. We also collect information provided to us by consumers who purchase our software products - CometChat or services (collectively, “Purchase Information”). Collected Purchase Information includes the following: name, address, email address, telephone number and country. We do not collect credit card information or other sensitive financial information for orders placed online.
 
@@ -33,20 +33,20 @@ We may use your personal information to send you email communications regarding 
 
 We do not share, sell, trade or rent your personal information to third parties for unknown reasons.
 
-You may at any time choose not to receive promotional emails from us by [contacting us](https://web.archive.org/contact). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+You may at any time choose not to receive promotional emails from us by [contacting us](http://www.cometchat.com/contact). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please [contact us](https://web.archive.org/contact).
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please [contact us](http://www.cometchat.com/contact).
 
-## Cookies
+### Cookies
 
 We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a website server and stored on your computer’s hard drive, similar to a license plate, that help us to recognize you if you visit this Site again. Also, this Site uses cookies to track how you found this Site. Cookies are not designed to be used to get data from your hard drive, your email or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings, but please be aware that if you reject our cookies it is possible that some Site pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-## Security
+### Security
 
 This Site has reasonable security measures in place to help protect against the loss, misuse and alteration of the information under our control.
 
-## Contacting this Site
+### Contacting this Site
 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy on this Site, so be sure to check back here frequently.
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you may [contact us](https://web.archive.org/contact).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you may [contact us](http://www.cometchat.com/contact). 
