@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617182246id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122647id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
 
-# IT Security News and Security Product Reviews - SC Magazine
+# Privacy Policy - SC Magazine
 
 **Last updated: November 2013**
 
