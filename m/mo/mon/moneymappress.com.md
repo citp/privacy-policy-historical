@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084729id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044932id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Money Map Press
 
-****_Money  Map_ _Press_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Map Press_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
+_Money  Map Press_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Map Press_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
 **Policy against advertising our website using unsolicited email messages**
 
