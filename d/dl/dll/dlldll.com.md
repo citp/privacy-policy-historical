@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518173916id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180753id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |   
 ---|---|---  
-|  [](http://www.smarttweak.us/smc/ref_dlldll_b_site) |   
+|  [](http://www.otweak.com/sbp/ref_dlldll_b_site) |   
 |  |   
 | 
 
