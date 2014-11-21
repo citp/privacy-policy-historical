@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524031555id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064837id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebPT
 
 [](https://privacy.truste.com/privacy-seal/WebPT/validation?rid=47e651e4-54c4-4151-a2eb-be7bc161b310 "TRUSTe online privacy certification")
 
-Effective April 15, 2014
+Effective July 15, 2014
 
 #### Our Commitment to Privacy
 
@@ -14,8 +14,8 @@ WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy
 
 **WebPT**  
 ATTN: Website Security  
-605 E Grant Street, Suite 200  
-Phoenix, AZ 850004
+625 S. 5th St. Building A  
+Phoenix, AZ 85004
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.
 
@@ -121,8 +121,8 @@ You can access and correct all your personally identifiable information that we 
 
 **WebPT**  
 ATTN: Website Security  
-605 E Grant Street, Suite 200  
-Phoenix, AZ 850004
+625 S. 5th St. Building A  
+Phoenix, AZ 85004
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@webpt.com](mailto:privacy@webpt.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
