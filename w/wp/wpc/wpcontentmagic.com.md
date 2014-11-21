@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcontentmagic.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107115157id_/http%3A//www.wpcontentmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcontentmagic.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121205359id_/http%3A//www.wpcontentmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Content Magic
 
