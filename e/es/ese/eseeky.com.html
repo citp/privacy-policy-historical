@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eseeky.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044602id_/http%3A//eseeky.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eseeky.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121013836id_/http%3A//eseeky.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -62,7 +62,7 @@ display: none;
 </div>
 </div>
 </div> 
-<div id="AutocompleteInjectDiv" class="autocomplete"><div id="Autocomplete_be173" style="display: none; max-height: 400px;"></div></div>
+<div id="AutocompleteInjectDiv" class="autocomplete"><div id="Autocomplete_21191" style="display: none; max-height: 400px;"></div></div>
 <div id="content">
 <div class="container clear">
 <div id="main" class="main ">
@@ -130,6 +130,7 @@ PO Box 7775, San Francisco, CA 94120-7775
 <li><a href="/about">About eseeky</a></li>
 <li class="selected"><a href="/about/privacy">Privacy Policy</a></li>
 <li><a href="/about/terms">Terms of Service</a></li>
+<li><a href="/about/contact">Contact Us</a></li>
 <li><a href="/about/help" class="help_link">Help</a></li>
 </ul>
 </div>
@@ -152,6 +153,7 @@ PO Box 7775, San Francisco, CA 94120-7775
 <a href="/about">About</a>
 <a href="/about/privacy">Privacy Policy</a>
 <a href="/about/terms">Terms of Service</a>
+<a href="/about/contact">Contact Us</a>
 <a href="/about/help" class="help_link">Help</a>
 <span class="copyright">© 2014 eseeky, inc.</span>
 </p>
@@ -171,17 +173,7 @@ $("#main").css("min-height", newHeight + "px");
 $(".pop-shadow").draggable({
 cancel: "#myTagsChecks, .scroller, input, option, textarea, select"
 });
-function getLang() {
-var navLang = window.navigator.browserLanguage || window.navigator.userLanguage || window.navigator.language;
-navLang = navLang.split('-');
-var lang = {
-'language': navLang[0] || '',
-'country': navLang[1] || ''
-}
-return lang;
-}
 $(document).ready(function () {
-window.navigator.tuvaroLang = getLang();
 setTimeout(function () {
 var thereIsOneBox = false,
 onebox = $('#onebox'),
@@ -210,7 +202,7 @@ var imagesPowered = $('#image_auto_div .onebox small');
 if (imagesPowered.length) {
 imagesPowered.find('a').attr('href', 'javascript:;');
 imagesPowered.find('a').contents().unwrap();
-var newHtm = imagesPowered.html().replace('— i', 'I');
+var newHtm = imagesPowered.html().replace('&mdash; i', 'I');
 imagesPowered.html(newHtm);
 };
 }, 500);
