@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065545id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090225id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Time Tracking Software by eBillity
 
@@ -10,7 +10,7 @@
 
 We personally respond to all emails.
 
-_24 hrs a day / 7 days a week_
+_24 hrs a day 7 days a week_
 
   * [Call](tel:+18008510992) a support specialist
 
@@ -18,7 +18,7 @@ _24 hrs a day / 7 days a week_
 
 _Mon-Thurs: 9:30 am - 6:00 pm, EST_
 
-_Friday:       9:30 am - 4:30 pm, EST_
+_Friday: 9:30 am - 4:30 pm, EST_
 
   * Visit the [Online Help Center](http://support.ebillity.com/home)
 
@@ -28,7 +28,7 @@ _Always open. The internet never sleeps._
 
   * Chat live with us now
 
-_Mon-Fri: 9:00 am - 8:00 pm, EST_
+_Monday - Friday: 24 hours a day_
 
 
 
