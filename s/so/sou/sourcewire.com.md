@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626234234id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013856id_/https%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
 
-# Privacy policy | DWPub
+# DWPub Media Suite - Privacy policy
 
 ## Introduction and General Terms of this Privacy Policy
 
@@ -23,8 +23,6 @@ As set out above, Daryl Willcox Publishing is committed to safeguarding your per
 
 ### Information Daryl Willcox Publishing may collect about you
 
-We may collect and store any or all of the following types of information:
-
 Information about the computer terminal you are on and about your use of our website including:
 
   * Your computer's IP address
@@ -43,7 +41,7 @@ Daryl Willcox Publishing will use your personal information for several reasons 
 
   * For website administration purposes, which means that Daryl Willcox Publishing may contact you for reasons related to the service you have signed up for (for example, to notify you that a particular service has been suspended for maintenance)
   * To personalise the way that content on Daryl Willcox Publishing websites is presented to you
-  * To allow Daryl Willcox Publishing to send you any paperwork related to your use of the website (for example, statements & invoices) 
+  * To allow Daryl Willcox Publishing to send you any paperwork related to your use of the website (for example, statements & invoices)
   * To communicate with you about the website and to send you general notifications
   * To communicate with you for the purposes of marketing our business or the businesses of carefully selected third parties which we think may be of interest to you
   * To allow us to deal with any enquiries and complaints made by or about you relating to the Daryl Willcox Publishing website
@@ -79,7 +77,7 @@ We may also use your personal information:
 
 Any personal information that is submitted to us may be stored and transferred between countries which do not have copyright laws as protecting as the EU. By providing us your information to us you agree to such international data transfer and storage.
 
-### How Daryl Willcox Publishing secures your personal data 
+### How Daryl Willcox Publishing secures your personal data
 
 Daryl Willcox Publishing takes reasonable technical precautions to prevent the loss or misuse of your personal information. We will store all personal information on our secure servers. Any financial transactions you make with the website will be encrypted using SSL technology. However, the internet itself is relatively insecure and as such we cannot guarantee the security of any data sent over the internet. You are responsible for keeping your password secure. We will never ask you for your password via email or any other means. Any attempt to do this should be treated as suspicious.
 
@@ -91,7 +89,7 @@ We may update this Privacy Policy by posting new versions on this website. You s
 
 Under the Data Protection Act you have the right to request a copy of the personal information that we hold hold about you and to have any inaccuracies corrected. We charge £10 for information requests and will require you to prove your identity with two pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
-You can instruct us to remove you from marketing communications at any time. Just call us on 0845 370 7777 or email [hello@dwpub.com](mailto:hello@dwpub.com).
+You can instruct us to remove you from marketing communications at any time. Just call us on 0345 370 7777 or email [hello@dwpub.com](mailto:hello@dwpub.com).
 
 ### Third party websites external to Daryl Willcox Publishing
 
@@ -99,4 +97,4 @@ Our websites contain hyperlinks to websites owned and operated by third parties.
 
 ### Contacting Daryl Willcox Publishing about this Privacy Policy
 
-If you have any questions or comments about this privacy policy, you can call us on: 0845 370 7777, email us at: [hello@dwpub.com](mailto:hello@dwpub.com) or write to us at: Daryl Willcox Publishing Ltd, Melrose House, 42 Dingwall Road, Croydon, Surrey, CR9 2DX.
+If you have any questions or comments about this privacy policy, you can call us on: 0345 370 7777, email us at: [hello@dwpub.com](mailto:hello@dwpub.com) or write to us at: Daryl Willcox Publishing Ltd, Melrose House, 42 Dingwall Road, Croydon, Surrey, CR9 2DX.
