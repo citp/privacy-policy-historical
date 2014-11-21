@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaiairports.ae privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132735id_/http%3A//dubaiairports.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaiairports.ae privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094155id_/http%3A//www.dubaiairports.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Airports
 
