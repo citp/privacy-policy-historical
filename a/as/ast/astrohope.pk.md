@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrohope.pk privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518204253id_/http%3A//astrohope.pk/link.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrohope.pk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035627id_/http%3A//www.astrohope.pk/link.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
-# AstroHope.com, Free Urdu Horoscope, Daily, Weekly, Monthly, Yearly, Astrology, Numerology, Palmistry, Reiki, Article, Spiritual Healing
+# AstroHope.pk, Free Urdu Horoscope, Daily, Weekly, Monthly, Yearly, Astrology, Stars, zodiac signs, Numerology, Palmistry, Reiki, Article, Spiritual Healing
 
 ### Privacy Policy 
 
