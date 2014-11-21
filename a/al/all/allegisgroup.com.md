@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegisgroup.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531065807id_/http%3A//www.allegisgroup.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegisgroup.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104613id_/http%3A//www.allegisgroup.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Allegis Group Online Privacy Statement
 
