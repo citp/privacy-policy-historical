@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521023435id_/http%3A//www.mutualart.com/Static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025858id_/http%3A//www.mutualart.com/Static/PrivacyPolicy) for the most accurate reproduction.*
 
 # MutualArt.com - PrivacyPolicy
 
