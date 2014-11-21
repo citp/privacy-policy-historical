@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331015405id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121145108id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -34,12 +34,12 @@ Any personal information we collect from you will be used in accordance with the
     2. to carry out security checks (this may involve passing your details to Experian Limited, or another credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions); and
     3. to comply with legal requirements
 
-Partmaster is a subsidiary of DSG international plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
+Partmaster is a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-Partmaster would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including partmaster.co.uk, Dixons, Currys Digital, Currys and PC World, from our affiliates including Knowhow, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.
+Partmaster would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including www.partmaster.co.uk, Currys, PC World, Carphone Warehouse and KNOWHOW, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.
 
-    1. You can ask us to update your personal information by emailing precise details of your request to [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk "privacy@partmaster.co.uk"). Please ensure you type "update" in the subject line of your email.
-    2. You can ask us not to send you future marketing communications. To do this, simply email [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk "privacy@partmaster.co.uk"). Type "No Marketing" in the subject line and then the following in the main text:- 
+    1. You can ask us to update your personal information by emailing precise details of your request to [contactus@partmaster.co.uk](mailto:contactus@partmaster.co.uk "contactus@partmaster.co.uk"). Please ensure you type "update" in the subject line of your email.
+    2. You can ask us not to send you future marketing communications. To do this, simply email [contactus@partmaster.co.uk](mailto:contactus@partmaster.co.uk "contactus@partmaster.co.uk"). Type "No Marketing" in the subject line and then the following in the main text:- 
       * your full name
       * your postal address, including postcode
       * your email address
@@ -50,7 +50,7 @@ Alternatively, you can post your request to the address in (3) below.
 
     3. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:-
 
-Customer Services (Data Subject Request)  
+Legal Services  
 DSG Retail Limited  
 Maylands Avenue  
 Hemel Hempstead  
@@ -63,11 +63,11 @@ We recognise the importance of security regarding credit card information you se
 
 Sensitive information that is transmitted to us online (such as credit card numbers) are encrypted and transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Also, the servers on which we store personally identifiable information are kept in a secure environment.
 
-At partmaster.co.uk we utilise the industry-standard Secure Sockets Layer (SSL) technology to encrypt all your personal information including debit or credit card numbers, name and address. The encryption process takes the characters you enter and converts them into bits of code that are then securely transmitted over the Internet.
+At Partmaster we utilise the industry-standard Secure Sockets Layer (SSL) technology to encrypt all your personal information including debit or credit card numbers, name and address. The encryption process takes the characters you enter and converts them into bits of code that are then securely transmitted over the Internet.
 
 Other than when we process your original payment or process a refund for you, your credit card details are displayed in a truncated form with only the first 4 digits and the last 4 digits visible. For example your receipt will print a partial credit card number in this way. This means that you will be able to check which card payment was taken against, but in the unlikely event of your parcel being stolen, your full credit card number would not be revealed.
 
-In order to help safeguard unauthorised use of your credit or debit card we check the security code located above the magnetic strip on the back of your card and also the address provided on the order with the address set against the card. This means that you can be rest assured that partmaster.co.uk takes all the necessary steps to ensure shopping with us is safe.
+In order to help safeguard unauthorised use of your credit or debit card we check the security code located above the magnetic strip on the back of your card and also the address provided on the order with the address set against the card. This means that you can be rest assured that Partmaster takes all the necessary steps to ensure shopping with us is safe.
 
 Should you wish to speak to us about a previously confirmed order, our staff will never ask you to quote your full credit card.
 
@@ -104,7 +104,7 @@ For more information regarding Verified by Visa click on the image below
 
   * View Payment Methods
 
-We take the following major credit and debit cards: Mastercard, Visa, Visa Delta, Maestro and Solo. Unfortunately we cannot accept cheques, cash or postal orders. We also cannot accept vouchers on this website.
+We accept Visa and MasterCard credit cards along with, Visa debit, Visa Electron and Maestro debit cards.
 
   * View Cookie Policy
 
@@ -137,17 +137,62 @@ These cookies allow us to identify and count the number of visitors to our sites
 
 Our site uses a range of cookies for marketing purposes. Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our site and the advertising displayed on them more relevant to your interests. Sometimes we share anonymous information about your browsing activity recorded using cookies with our advertising partners. They may use this information to advertise products that may interest you on other sites. Please note we don’t share any of your personal or sensitive information.
 
-The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.partmaster.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at any time.
+The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.partmaster.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at anytime.
 
 **Use of cookies & consent**
 
-As described above we, like most other websites, use cookies in the operation of our website. By using this website you are agreeing to the use of cookies for the purposes described. If you do not consent to the use of cookies, please refrain from using this site. Please note that you can delete any cookies used during this visit in your browser settings.  
-[Learn more about deleting cookies here](http://www.aboutcookies.org/Default.aspx?page=2)
+As described above we, like most other websites, use cookies in the operation of our website. By using this website you are agreeing to the use of cookies for the purposes described. If you do not consent to the use of cookies, please refrain from using this site. You can delete and restrict cookie use in your browser:  
 
-**Restricting cookie use**
 
-Please note that cookies can be restricted. Should you wish to restrict the use of cookies, you can adjust the settings in most popular internet browsers. However, by restricting cookies you may limit the use of some areas of the site.   
-[Learn more about restricting cookies here](http://www.aboutcookies.org/Default.aspx?page=1)
+    * View more about Cookie Control
+
+Checking your settings in Internet Explorer 8 and earlier versions
+
+      1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.
+      2. There is an option called 'Internet Options' on the list, select this option.
+      3. This should open a pop up box with lots of tabbed options. Select the 'Privacy' tab from the list.
+      4. Internet Explorer has a high, medium, low auto-adjust system for internet content handling. You can configure your own settings by clicking the advanced tab and ticking the 'Override automatic cookie handling'
+      5. Settings above Medium will disable cookies, Medium or below will enable cookies.
+
+Checking your settings in Mozilla Firefox
+
+      1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.
+      2. From the list of options on the drop down menu, click on 'Options'
+      3. There should be a pop up window appear with tabs along the top. Find the 'Privacy' tab and select this.
+      4. You should now have some options for 'Tracking'’ and 'History'. Under the 'History' drop down menu, select 'Use customer settings for history' if you wish to adjust your cookie settings.
+
+Checking your settings in Google Chrome
+
+      1. Look for the spanner icon in Chrome  and click on this
+      2. From this menu, select settings…
+      3. Within settings you will see tabs on the left hand side. Select the tab called 'Under the Hood'
+      4. When this page loads you will see a tab at the top called 'Content Settings' – select this
+      5. This brings up your content controls including cookie permissions – select the option you feel most comfortable with
+
+Checking your settings in Safari
+
+      1. Locate the Cog icon at the top of your browser  and click on this.
+      2. From the list of options select 'Preferences'
+      3. This should open a pop up window with several tabs along the top. From this list select the 'Privacy' option.
+      4. This will open the tab page that allows you to control the cookie settings on your browser.
+
+Checking your settings in Opera
+
+      1. Click the Opera file icon in the top left hand corner of your browser.
+      2. From the drop down list of options, highlight 'Settings' and then scroll across and select 'Preferences'.
+      3. This should open a pop up window with tabs along the top. Choose the 'Advanced' tab.
+      4. This shows you the advanced options. On the left hand side there is an option called ‘Cookies’ – click on this option.
+      5. This presents the cookie options for your use on this browser.
+
+**If you have another browser …**
+
+Please check the help settings within your browser or use a search engine to find answers on the best way to enable or disable cookies in your chosen browser. Please remember we are not responsible for the content on external websites.
+
+**If you want more information…**
+
+You can visit the following website for an in-depth guide to cookies and how to control, delete and understand them. They even have a great recipe on there for cookies of the edible variety – yum!
+
+<http://www.aboutcookies.org/>
 
 **Data Protection**
 
