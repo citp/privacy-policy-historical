@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105440id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065857id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Honest John
 
