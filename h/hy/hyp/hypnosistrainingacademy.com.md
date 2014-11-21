@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hypnosistrainingacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220506id_/http%3A//www.hypnosistrainingacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosistrainingacademy.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144816id_/http%3A//hypnosistrainingacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypnosis Training Academy
 
-We are committed to protecting your privacy and security and have explained in detail the steps we take to do so. We control this site from offices in the Seychelles. We do not represent that materials on the site are appropriate or available for use in other locations. Persons who choose to access this site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+We are committed to protecting your privacy and security and have explained in detail the steps we take to do so. We control this site from offices in Gibraltar. We do not represent that materials on the site are appropriate or available for use in other locations. Persons who choose to access this site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
 
 **Outside Sites (Their Privacy Policies May Be Different)**
 
@@ -18,4 +18,4 @@ While we are committed to keeping your information secure and private, we have t
 
 **Miscellaneous**
 
-These terms will be governed by and construed in accordance with the laws of the Seychelles, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to these terms will be subject to mediation in the Seychelles. If any of these terms of use are found unlawful, void, or for any reason unenforceable, then that provision will be considered severable from the remaining terms of use, and will not affect the validity and enforceability of the remaining provisions. These terms may be modified only by our posting of changes to these terms of use on our Sites.
+These terms will be governed by and construed in accordance with the laws of Gibraltar, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to these terms will be subject to mediation in Gibraltar. If any of these terms of use are found unlawful, void, or for any reason unenforceable, then that provision will be considered severable from the remaining terms of use, and will not affect the validity and enforceability of the remaining provisions. These terms may be modified only by our posting of changes to these terms of use on our Sites.
