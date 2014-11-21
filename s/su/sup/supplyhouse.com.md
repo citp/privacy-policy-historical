@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011753id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094102id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
 
 # At SupplyHouse.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - SupplyHouse.com
 
@@ -36,7 +36,3 @@ When you buy something from us we send your credit card information, name and th
 ### Third Party Cookies & Advertising
 
 Third party vendors, including Google, use cookies to serve the Google Trusted Seller badge on SupplyHouse.com and to serve ads based on a your prior visits to SupplyHouse.com. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). Similarly, you can opt out of other third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). SupplyHouse.com uses remarketing to reach users who have visited SupplyHouse.com in the past, with the objective of matching the right people to the right message. Some SupplyHouse.com ads are dynamic; these ads use a [Teracent cookie](http://www.teracent.com/about-us/privacy-policy/) and although we believe you will find these ads relevant, if you wish to, you can opt out of this Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/).
-
-[](http://www.supplyhouse.com/)
-
-#### Join Our Mailing List - _Sign up and receive special offers and coupons_
