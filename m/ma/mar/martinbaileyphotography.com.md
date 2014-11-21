@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626235104id_/http%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032152id_/http%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Martin Bailey Photography
+# Privacy Policy • Martin Bailey Photography
 
 ## Martin Bailey Photography K.K. Privacy Policy
 
@@ -85,6 +85,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using our [contact form](http://http//www.martinbaileyphotography.com/contact/): <http://www.martinbaileyphotography.com/contact/>
+If there are any questions regarding this privacy policy you may contact us using our [contact form](http://http//www.martinbaileyphotography.com/contact/): [http://www.martinbaileyphotography.com/contact/](https://www.martinbaileyphotography.com/contact/)
 
 Tel: +81(0)42-446-6382 (Note that we work in Japan Standard Time (JST) which is GMT + 9 hours)
