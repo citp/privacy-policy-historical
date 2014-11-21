@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the remezcla.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083948id_/http%3A//remezcla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remezcla.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025806id_/http%3A//www.remezcla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Remezcla.com | Remezcla
+# Privacy Policy - Remezcla
 
-#### Mosaico Media LLC (Remezcla.com ) Privacy Policy
+#### Remezcla, LLC Privacy Policy
 
-Remezcla.com, a wholly owned division of Mosaico Media LLC, is strongly committed to protecting the privacy of its users. All Products and Services on Remezcla.com (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the Remezcla.com Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout Remezcla.com near the bottom of most pages.
+Remezcla.com, a wholly owned division of Remezcla, LLC, is strongly committed to protecting the privacy of its users. All Products and Services on Remezcla.com (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the Remezcla.com Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout Remezcla.com near the bottom of most pages.
 
-This Privacy Policy governs the use and collection of information from you by Mosaico Media LLC, d/b/a Remezcla.com (”we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms & Conditions Agreement.
+This Privacy Policy governs the use and collection of information from you by Remezcla LLC, d/b/a Remezcla.com (”we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms & Conditions Agreement.
 
 IP ADDRESSES:  
 An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. Remezcla.com uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information.
 
 The information we collect includes:  
-\- The IP address of the computer making the request  
-\- The URL that is being requested  
-\- The date and time of the request  
-\- The referring URL  
-\- The browser type and operating system used to make the request
+– The IP address of the computer making the request  
+– The URL that is being requested  
+– The date and time of the request  
+– The referring URL  
+– The browser type and operating system used to make the request
 
 COOKIES:  
 A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive.
@@ -58,7 +58,7 @@ Remezcla.com runs contests on our site in which we ask visitors for contact info
 Remezcla.com ’s contest forms may also ask visitors for demographic information (like zip code, age, or income level). This information is shared with advertisers on an aggregate basis only. We may ask for contact information if we are providing an incentive to users for completing our surveys. The contact information is kept private and only used to contact you if necessary. Your contact information is used to contact you if you are a winner in the contest. For surveys, contact is only necessary if there is an incentive associated with filling out the survey, and we need to provide you with the incentive (gift, money, etc.). It is kept separate from any demographic information you provide. If we plan to use this information for those purposes, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for those purposes.
 
 CHILDREN:  
-Remezcla.com and Mosaico Media LLC, take special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s experience in cyberspace and to review our important safety tips before your child explores the Internet.
+Remezcla.com and Remezcla, LLC, take special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s experience in cyberspace and to review our important safety tips before your child explores the Internet.
 
 THIRD PARTY ADVERTISING AND CONTENT:  
 In addition to partnerships with other companies, Remezcla.com contains many links to advertiser and content web sites, including but not limited to those listed below. If you choose to visit and/or use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that Remezcla.com is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site’s URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to Remezcla.com .
