@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217113420id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153254id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Pizza Hut Wow Savers Monday Promotion
+## POPULAR Sale
 
-](http://www.offerstation.com/dining-food-offers/127182/pizza-hut-wow-savers-monday-promotion.htm)
-
-[
-
-## AmBank A New Me Contest
-
-](http://www.offerstation.com/contest-prizes/124424/ambank-a-new-me-contest.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/144269/popular-sale.htm)
 
 [
 
-## Sushi King Card RM3 Bonanza Promotion
+## New Strip Outlet
 
-](http://www.offerstation.com/dining-food-offers/127187/sushi-king-card-rm3-bonanza-promotion.htm)
-
-[
-
-## Kolej Yayasan UEM Open Day
-
-](http://www.offerstation.com/happenings-events/126118/kolej-yayasan-uem-open-day.htm)
+](http://www.offerstation.com/whats-new/144201/new-strip-outlet.htm)
 
 [
 
-## Magic Monday at New Zealand Natural
+## New Guardian Store
 
-](http://www.offerstation.com/dining-food-offers/127163/magic-monday-at-new-zealand-natural.htm)
-
-[
-
-## World Of Outdoors Buy More Save More Promotion
-
-](http://www.offerstation.com/offers-promotions/127240/world-of-outdoors-buy-more-save-more-promotion.htm)
+](http://www.offerstation.com/whats-new/144161/new-guardian-store.htm)
 
 [
 
-## Blood Donation Campaign (Kempen Menderma Darah)
+## The Perfect Christmas Sale at Guardian
 
-](http://www.offerstation.com/happenings-events/127259/blood-donation-campaign-\(kempen-menderma-darah\).htm)
+](http://www.offerstation.com/sales-warehouse-clearance/144158/the-perfect-christmas-sale-at-guardian.htm)
 
 [
 
-## Tony Roma's New Beginnings 2nd Edition Promotion
+## The StarProperty Fair 2014 at KLCC
 
-](http://www.offerstation.com/dining-food-offers/127252/tony-romas-new-beginnings-2nd-edition-promotion.htm)
+](http://www.offerstation.com/happenings-events/140913/the-starproperty-fair-2014-at-klcc.htm)
+
+[
+
+## Peugeot Promotion
+
+](http://www.offerstation.com/offers-promotions/143274/peugeot-promotion.htm)
+
+[
+
+## Papa John's Pizza Madness
+
+](http://www.offerstation.com/dining-food-offers/144203/papa-johns-pizza-madness.htm)
+
+[
+
+## New H&M Outlet at IOI City Mall
+
+](http://www.offerstation.com/whats-new/144060/new-handm-outlet-at-ioi-city-mall.htm)
 
   
 
