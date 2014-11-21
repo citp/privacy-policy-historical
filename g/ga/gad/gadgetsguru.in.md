@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsguru.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094113id_/http%3A//www.gadgetsguru.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsguru.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101423id_/http%3A//www.gadgetsguru.in/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of www.gadgetsguru.com
 
