@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145719id_/http%3A//www.crcpress.com/contactus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194659id_/http%3A//www.crcpress.com/contactus/privacypolicy) for the most accurate reproduction.*
 
 # CRC Press Online - Privacy Policy
 
@@ -10,7 +10,7 @@ This online Privacy Policy is designed to tell you about how we collect and use 
 
 ##### What Information Do We Collect?
 
-When you register yourself on this website, we ask for your full name and email address. When purchasing products from the website, we ask you to provide shipping and billing addresses, including your country, state or province, and postal code. All credit card information is stored and used according to the rules laid out by the Payment Card Industry Digital Security Standard (PCI DSS). You can find more information about this standard in the [PCI Quick Reference Guide](https://www.pcisecuritystandards.org/pdfs/pci_ssc_quick_guide.pdf).
+When you register yourself on this website, we ask for your full name and email address. When purchasing products from the website, we ask you to provide shipping and billing addresses, including your country, state or province, and postal code. All credit card information is stored and used according to the rules laid out by the Payment Card Industry Digital Security Standard (PCI DSS). You can find more information about this standard in the [PCI Quick Reference Guide (link is external) __](https://www.pcisecuritystandards.org/pdfs/pci_ssc_quick_guide.pdf).
 
 ##### Use of Personal Data
 
