@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521025240id_/http%3A//www.praxisnow.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121052506id_/http%3A//www.praxisnow.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PraxisNow
+# Privacy Policy - Praxis Now, LLC - The Neuroscience of Maximum Achievement
 
 Last Update: September 8, 2011 
 
@@ -34,9 +34,9 @@ We have implemented this Privacy Policy to protect personal information received
 inquiries. The Privacy Policy also provides that we will use appropriate contractual means to establish a comparable level  
 of protection for personal information which is sent for processing by third parties on our behalf. 
 
-Praxis has designated responsibility for your personal information to its operations manager, Rebecca London, who ensures  
+Praxis has designated responsibility for your personal information to its Director of Operations, who ensures  
 compliance with the principles in this Privacy Policy. Other Praxis individuals may be delegated to act on behalf of the  
-operations manager. 
+Director of Operations. 
 
 3\. Purposes for Collecting Personal Information 
 
@@ -129,10 +129,10 @@ Praxis will use commercially reasonable efforts to protect user's personal infor
 8\. Access to Personal Information 
 
 Praxis will afford you a reasonable opportunity to review the personal information in your file only, upon request  
-to the operations manager at [info@praxisnow.com](mailto:info@praxisnow.com) or by writing to: 
+to the Director of Operations at [info@praxisnow.com](mailto:info@praxisnow.com) or by writing to: 
 
 Praxis Now, LLC  
-PO Box 5020 PMB 1101  
+PO BOX 5005, #138,  
 Rancho Santa Fe, CA 92067 
 
 If Praxis is not able to provide access to some aspect of a user's personal information, it will provide  
