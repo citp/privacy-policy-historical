@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunwarrior.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626184303id_/http%3A//www.sunwarrior.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunwarrior.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122005149id_/http%3A//www.sunwarrior.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta charset="UTF-8">
@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="http://www.sunwarrior.com/styles/fileuploader.css" type="text/css">
 	<link rel="stylesheet" href="http://www.sunwarrior.com/styles/foundation-icons.css" type="text/css">
 	<link rel="stylesheet" href="http://www.sunwarrior.com/styles/foundation.min.css" type="text/css">
-	<link rel="stylesheet" href="http://www.sunwarrior.com/styles/main_12.css" type="text/css">
+	<link rel="stylesheet" href="http://www.sunwarrior.com/styles/main_14.css" type="text/css">
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/0jquery.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/1jqueryui.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/clickscript.js"></script>
@@ -32,8 +32,9 @@
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/hammer.min.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/main.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/social.js"></script>
-	<script type="text/javascript" src="http://www.sunwarrior.com/js/theme5.js"></script>
+	<script type="text/javascript" src="http://www.sunwarrior.com/js/theme6.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/users_config.js"></script>
+	<script type="text/javascript" src="http://www.sunwarrior.com/js/ustar.js"></script>
 	<script type="text/javascript" src="http://www.sunwarrior.com/js/zepto.js"></script>
 <title>Privacy Policy</title><style type="text/css"> .generic-text {
     padding: 10%;
@@ -93,8 +94,9 @@ margin-top: 20px;
 margin-bottom: 20px;
 
 }</style><link rel="stylesheet" type="text/css" href="http://www.sunwarrior.com/setup/style/jquery-ui-1.10.3.custom.min.css" media="all">
-<script src="http://www.sunwarrior.com/81c650caac28cdefce4de5ddc18befa0.js"></script>
+<script src="http://www.sunwarrior.com/8d420fa35754d1f1c19969c88780314d.js"></script>
 <script src="//connect.facebook.net/en_US/all.js"></script>
+        <meta property="twitter:account_id" content="4503599627809376">
     <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body id="body">
         <script type="text/javascript">
@@ -153,15 +155,15 @@ margin-bottom: 20px;
                         <div class="menu-button">
                             <i onclick="showSearch()" class="fi-magnifying-glass"></i>
                             <div class="search-wrapper">
-                                <div visible="false" class="search-box hide">
+                                <div visible="false" class="search-box toggle-hide">
                                     <form id="search-form" action="javascript: void(0)" onsubmit="doSearch(this);">
                                         <div class="row collapse">
                                             <div class="large-10 small-10 columns"><input autocomplete="off" type="text" name="s" placeholder="Start Typing" value=""></div>
-                                            <div class="large-2 small-2 columns"><span onclick="$('#search-form').submit()" class="prefix" style="background: #3d8844; color: white;"><i class="fi-magnifying-glass"></i></span></div>
+                                            <div class="large-2 small-2 columns"><div onclick="$('#search-form').submit()" class="search-button"><i class="fi-magnifying-glass"></i></div></div>
                                         </div>
                                         <div class="search-box-results">
-                                            <div class="search-box-results-content"><span style="font-size: 10px;"> - Type in the field above to search Sunwarrior</span></div>
-                                            <div class="search-box-status"></div>
+                                            <div class="search-box-results-content"></div>
+                                            <div class="search-box-status"><span style="font-size: 10px;"> - Type in the field above to search Sunwarrior</span></div>
                                         </div>
                                         <button type="submit" class="hide"></button>
                                     </form>
@@ -180,7 +182,13 @@ margin-bottom: 20px;
         <div class="row">
     <div class="user-account-panel">
         <div style="right: 40px;top: -20px; position: absolute;"><div class="arrow"></div></div>
+        
+
+        <div class="text-right">
+            <a class="close-x-sides" href="javascript: void(0)" onclick="toggle_user()"><span class="fi-x-circle"></span> Close</a>
+        </div>
         <h2 class="text-center">Account Panel</h2>
+        
         <div class="large-10 large-offset-1 small-10 small-offset-1"><div class="row">
             <div class="small login-panel">
             <form id="loginForm" action="" method="post">
@@ -224,7 +232,8 @@ margin-bottom: 20px;
                     <td valign="top" class="green-back">
                         <div class="row text-right" onclick="hide_toggle('left', 400);">
                             <div class="large-12 columns">
-                                <img src="http://www.sunwarrior.com/styles/images/home/menu-close-arrow.png">
+                                <!-- <img src="http://www.sunwarrior.com/styles/images/home/menu-close-arrow.png" /> !-->
+                                <a class="close-x-sides" href="javascript: void(0)"><span class="fi-x-circle"></span> Close</a>
                             </div>
                         </div>
                         <div class="sub-nav-left-panel"><a href="http://www.sunwarrior.com/"><div>Home</div></a><a href="http://www.sunwarrior.com/store/"><div>Store</div></a><a href="http://www.sunwarrior.com/news/"><div>News</div></a><a href="http://www.sunwarrior.com/resources/"><div>Resources</div></a></div>
@@ -245,7 +254,24 @@ margin-bottom: 20px;
                     <td valign="top" class="white-back max-height">
                         <div class="row collapse cart-holder max-height">
                             <div class="large-12 columns">
-                                    <div class="msg-alert">Your cart is empty</div>
+                                    
+        <div class="row">
+            <div class="large-10 small-10 columns" style="padding-top: 11px;">
+                <a class="close-x-sides" onclick="toggle('right', 400);">
+                    <!-- <img src="http://www.sunwarrior.com/styles/images/home/cart-close-arrow.png" /> !-->
+                    <span class="fi-x-circle"></span> Close
+                </a>
+            </div>
+            <div class="small-2 large-2 columns">
+                <div class="cart-qty-rightpanel">
+                    <a onclick="toggle('right', 400);"><span class="cart-qty-button-rightpanel">(0)</span> 
+                        <i style="font-size: 40px;color: #aaa;" class="fi-shopping-cart"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    <hr>
+    <h3>Your cart is empty</h3>
     <div class="panel">It appears your cart is empty. Continue shopping and add items to your cart.<br><br><a href="javascript: void(0);" onclick="hide_toggle('right', 400);" class="button right small">Continue Shopping</a> <br><br></div>
                                 </div>
                         </div>
@@ -255,7 +281,6 @@ margin-bottom: 20px;
         </div>
     </div>
 </div>
-
 <script type="text/javascript">
     $(document).ready(function() {
         $('.max-height').css({maxHeight: $(window).height() + 'px'});
@@ -422,7 +447,7 @@ margin-bottom: 20px;
         Copyright © 2008-2014. Sun Brothers, LLC. All Rights Reserved. Developed by <a href="http://www.vistiks.com" target="_blank" style="color: white;">Vistiks, LLC</a>
     </div>
 </div>
-<data time="0.386" mem="4.047m" queries="14"></data>
+<data time="0.6955" mem="4.267m" queries="14"></data>
     <script src="http://cdn.vistiks.com/foundation.new.js"></script>
 <script type="text/javascript">
     $(document).foundation();
