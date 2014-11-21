@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,17 +100,17 @@ If you have any questions about this Privacy Policy or the practices described h
 
 |  | 
 
-**[Click to see more testimonials](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/about/testimonials_from_users.htm)**
+**[Click to see more testimonials](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)**
 
-[_"Our company’s President, CEO and Board members were blown away by the format and summarized information."_   Ron Barrett](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/about/testimonials_from_users.htm)
+[_"Our company’s President, CEO and Board members were blown away by the format and summarized information."_   Ron Barrett](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)
 
-[ _"We love your e-book and have deployed a good number of dashboard using it !!! Our Clients think we are gods..."_   John Clark](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/about/testimonials_from_users.htm)
+[ _"We love your e-book and have deployed a good number of dashboard using it !!! Our Clients think we are gods..."_   John Clark](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)
 
-[**Click to see more users.**](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/about/users/index.htm)
+[**Click to see more users.**](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/users/index.htm)
 
   
-[ ](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/training/templates/incsight-db2-dashboard.htm)
+[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/templates/incsight-db2-dashboard.htm)
 
-[ ](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/training/charts/charleyfiles.htm)
+[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/charts/charleyfiles.htm)
 
-[ ](https://web.archive.org/web/20140625142213id_/http%3A//www.exceluser.com/training/templates/incsight-colors.htm)
+[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/templates/incsight-colors.htm)
