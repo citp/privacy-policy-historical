@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eco.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061252id_/http%3A//www.eco.co.uk/p/privacy/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eco.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153310id_/http%3A//www.eco.co.uk/p/privacy/20) for the most accurate reproduction.*
 
 # Privacy & Cookies - EC&O Venues | Event Venues in London | Conference centres in London | Exhibition halls in London
 
