@@ -1,32 +1,82 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045217id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121052341id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
 # privacy | Easy Fundraising Ideas | easyfundraising.org.uk | easyfundraising
 
-easyfundraising ([www.easyfundraising.org.uk](https://web.archive.org/)) is the trading name of easyfundraising Limited (the data controller) company number: 04764164 whose registered office is at Harmony House, 34 High Street, Aldridge, Walsall, West Midlands WS9 8LZ. We make every effort to safeguard your privacy and the policy that follows explains the data processing we do and how we do it. If you have any further queries on our use of your data, please contact [support@easyfundraising.org.uk](mailto:support@easyfundraising.org.uk). By using this site you consent to our collecting data about you, using it and also contacting you in certain ways.
+We are Easyfundraising Limited (the data controller) company number: 04764164 whose principle place of business is Easyfundraising, St Chads House, Cross Keys, Lichfield, WS13 6DN and whose telephone number is 01543 442316 (hereafter "we" or "Easyfundraising"). This Privacy Policy describes the way in which we collect information on our website at [www.easyfundraising.org.uk](http://www.easyfundraising.org.uk/) (the "Website").
+
+This Privacy policy applies to all users of the Website whether you are a visitor to the Website (a 'Visitor'), whether you have registered an account with the Website as a 'Supporter' (in which case these Website Terms form part of our [Supporter Terms](https://web.archive.org/terms/supporter/)) or if you have registered an account as a 'Good Cause' (in which case these Website Terms form part of our [Good Cause Terms](https://web.archive.org/terms/cause/)). This Privacy Policy applies whether you are visiting our Website through a browser, via a mobile device or tablet, or through an app. In this Privacy policy we refer to Visitors, Supporters and Good Causes as 'you'. 
+
+We make every effort to safeguard your privacy and the policy that follows explains the data processing we do and how we do it.
+
+If you have any further queries on our use of your data, please contact [support@easyfundraising.org.uk](mailto:support@easyfundraising.org.uk).
+
+By using the Website you consent to our collecting data about you, using it and contacting you in the ways described in this Privacy Policy.
+
+* * *
+
+#### What information do we collect and store?
+
+We collect the following information when you use the Website:
+
+  * information which you give to us on your application form including your name, address, your e-mail address and your telephone number; 
+  * information which you provide to us through your use of the Website, including any information you provide in relation to Gift Aid; 
+  * we collect your IP address and information about your browser;
+  * information which is collected through the use of cookies and similar technologies which is described below and in our [Cookies Policy](https://web.archive.org/about-cookies); 
+  * information in relation to searches, websites you visit, and the Donations you make to Good Causes through the Website and using our tools (including our toolbar); 
+  * information in relation to the social networks you use to connect to the Website;
+  * information and data in respect of Good Causes; and
+  * information in relation to the purchases you have from retailers which relate to Donations.
+
+
+
+We store all of the information described above against your user identification number which we assign to you when you register with us on the Website. 
+
+We will also collect information which is provided about you by our retailers (and affiliate networks) in respect of the actions you perform on their websites and within their network. Supporters are able to raise monies for Good Causes as Easyfundraising has arrangements with certain retailers either directly or through affiliate networks under which if Supporters do certain things such retailers (and affiliate networks) pay monies to Easyfundraising which are held by Easyfundraising (as agent) before being paid to Good Causes. The collection of such information by third parties is governed by their privacy and cookies policies.
+
+We do not collect or store your financial information unless you are a Good Cause Administrator and you have asked for Donations you have raised to be paid by BACS, in which case we shall retain the relevant account details.
 
 * * *
 
 #### What do we use the information for?
 
-We want to give our users the best possible service. We may therefore use the data gathered to contact you by telephone, fax, e-mail or other means, to advise you of new products, services, or changes to our service. We will only advise you of products that we genuinely believe will be of interest to you and help raise funds for your selected organisation or charity. Any personal information you provide to us will only be used by us, our agents and service providers, and will not be disclosed unless we are obliged or permitted to do so by law. We will not pass on your personal details to any third party without your permission.
+We want to give our users the best possible service and need key information to provide our fundraising service to you. Therefore main use of the information we collect is to enable the core functioning of the Website by you and other users.
+
+Information collected will also be used to improve the Website, monitor how the Website is being used, including detecting problems in its functioning, and to provide a more personalised service to you to enhance your fundraising efforts.
+
+We may use the data gathered to contact you by telephone, e-mail or other means, to update you of new products, services, or changes to our service or your account. We will only advise you of products that we believe will be of interest to you and help raise funds for your selected organisation or charity. You can tell us to stop sending you communications information about you at any time by sending an e-mail to [support@easyfundraising.org.uk](mailto:suport@easyfundraising.org.uk) or clicking the 'unsubscribe' link within any of our marketing emails.
+
+Any personal information you provide to us will only be used by us, our agents and service providers, and will not be disclosed unless we are obliged or permitted to do so by law.
+
+Other than as described below, we will not pass on your personal details to any third party without your permission.
+
+We will also contact you if there are any important changes to your account or if we have any concerns in relation to your account, any of your information is at risk, if there is any unusual activity in relation to your account or if we have queries or information regarding a specific donation or purchase.
 
 * * *
 
-#### What information do we store?
+#### What information do we share with third parties?
 
-We store the information necessary to provide the service you request including that given to us in your application form. We will collect your name and address and your e-mail address and any other information if you provide it to us. By the nature of this site we collect personal information to enable us to help you.
+We may share your information with third parties in the following circumstances:
 
-* * *
+  * we share Supporter's names and information regarding a Supporter's behaviour on the Website, how much money a Supporter has raised with each Supporter's Good Cause; 
+  * in relation to the sale of some or all Easyfundraising's business, or its assets, to a third party, or as part of any business restructuring or reorganisation. In such circumstances we will take steps to notify you and to ensure your privacy rights continue to be protected; 
+  * with data aggregators to analyse users' use of the Website, however, your information will only be shared in anonymised form; 
+  * if Easyfundraising operates competitions, from time to time, it may operate competitions in conjunction with third parties in which case details of what information and how it will be shared shall provide; 
+  * we will share your Gift Aid Declaration and email address with your Good Cause where they have requested it in order to claim Gift Aid on your Donation. The Good Cause may also pass this information to HMRC; and 
+  * with law enforcement agencies in compliance with law enforcement (if required to do so by a court order or for the purposes of prevention of fraud or other crime). 
 
-#### Automated information collection
 
-We have a policy of continual improvement of our site. We therefore collect information automatically about your visit to it. This is used to help us see browsing preferences and our marketing and positioning of the site.
 
 * * *
 
 #### Cookies
 
-We use cookies to help enhance and ease your use of our site. Cookies help us to recognise you when you return to our site and identify which organisation or charity you wish to support.
+We use cookies to help enhance and ease your use of our site. Cookies help us to recognise you when you return to our site and identify which organisation or charity you wish to support. The way in which we use cookies and similar technologies is described in our [Cookies Policy](https://web.archive.org/about-cookies/).
+
+* * *
+
+#### Sharing information on the Website
+
+We may share your first name and first initial of your name on the page of your Good Cause so other users can see it and the amount you have raised. We may also link the money you have raised to a specific retailer or affiliate network. If you do not want us to do this, please use the ['Your Account'](https://web.archive.org/account/settings/) section on the Website to tell us you wish to remain anonymous.
 
 * * *
 
@@ -36,6 +86,22 @@ We do not transfer information in this way unless we need to transfer informatio
 
 * * *
 
+#### Deletion of information
+
+We delete all personal information collected in relation to Supporters and Good Causes if the user cancels their registration with the Website, although we may retain such information in anonymised form.
+
+You may request that we delete your account and all information relating to your account by sending an email to us at [support@easyfundraising.org.uk](mailto:support@easyfundraising.org.uk?subject=DELETE%20ACCOUNT) with the heading 'DELETE ACCOUNT'.
+
+* * *
+
 #### Data Protection Act
 
-easyfundraising take the privacy of your data extremely seriously. We recognise and adhere to our legal obligations to protect your personal information under the Data Protection Act 1998. We follow and exceed industry standard security measures for handling your personal data both physically and electronically.
+Easyfundraising take the privacy of your data extremely seriously. We recognise and adhere to our legal obligations to protect your personal information under the Data Protection Act 1998. We follow and exceed industry standard security measures for handling your personal data both physically and electronically.
+
+Easyfundraising has notified the Information Commissioner of our role as 'data controller' under the Data Protection Act 1998 and our registration number with Information Commissioner is Z9990774.
+
+* * *
+
+#### Contact Us
+
+If, at any time, you would like to contact Easyfundraising about your views on this Policy, or in relation to your rights in respect of your personal information, you can do so by sending an e-mail to us at [support@easyfundraising.org.uk](mailto:support@easyfundraising.org.uk).
