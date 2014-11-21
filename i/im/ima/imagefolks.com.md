@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagefolks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081354id_/http%3A//www.imagefolks.com/page-PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagefolks.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005646id_/http%3A//www.imagefolks.com/page-PrivacyPolicy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy - Free Image Hosting Site
 
