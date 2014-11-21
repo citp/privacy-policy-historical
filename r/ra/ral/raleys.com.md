@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150245id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121160422id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
 
 # We Appreciate Your Privacy: Our website privacy statement
 
-About Us:  We Appreciate Your Privacy 
+About Us:  We Respect Your Privacy 
 
 **Our web site privacy policy**
 
@@ -132,14 +132,15 @@ Controlling Marketing Communications
 _
 
   
-We may from time to time send you email messages or other forms of marketing communications describing new items, featured merchandise and great values. You can choose to stop receiving any marketing emails from us at any time by following these steps:
+We may from time to time send you email messages, SMS text messages or other forms of marketing communications describing new items, featured merchandise and great values. You can choose to stop receiving any marketing emails from us at any time by following these steps:
 
   
 1\. Sign in,  
 2\. Click Manager Your Account, and  
 3\. Select or deselect your preferences.
 
-  
+To stop receiving SMS text messages, reply with the word STOP. Standard text and data rates may apply.
+
 Please allow up to 10 days for us to process your request. If you would prefer to stop receiving other forms of marketing communications from us, please follow the directions on the marketing materials or contact the Raley’s Service Center at 800-925-9989. Even when you elect not to receive marketing emails, you will continue to receive certain emails from us to: confirm any purchases you make on the websites, let you know your order has been shipped, share other information about your order, respond to your customer service inquiries, and answer any other questions you may have about our websites. In addition, we may also need to send operational emails to inform you of any changes to the websites that might affect your personally identifying information or your access to services. You will receive service and reminder emails if you register or enroll to use certain services offered by our stores, such as the Pharmacy AutoFill service.
 
 **  
@@ -159,10 +160,8 @@ As is true of most websites, we gather certain information automatically and sto
   
 We use this information, which does not identify individual users, to analyze trends, to administer the sites, to track users’ movements around the sites and to enhance the experience of our customers on our websites.  We do not link this automatically collected data to your personally identifying information.
 
-**Cookies and Other Computer Information  
-**
+**Cookies and Other Computer Information**
 
-  
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. Visitors to our websites are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile.  
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our sites. A session ID cookie expires when you close your browser.
 
