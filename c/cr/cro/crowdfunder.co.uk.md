@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627155811id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101751id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Crowdfunding, UK fundraising platform for community, business and creative projects | Crowdfunder
-
-### **Crowdfunder.co.uk Privacy Policy  **
+# Privacy policy
 
 This policy contains fifteen sections. You can view each section by selecting the links below: ** **
 
