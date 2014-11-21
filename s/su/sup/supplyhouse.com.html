@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the supplyhouse.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626011753id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supplyhouse.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121094102id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<!-- Project Version - -1 last built at Tue, 6-September-2011 16:29:50 EDT -->
@@ -21,7 +21,7 @@
 	<meta name="robots" content="index,follow">
 
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">
+	<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 		function readCookie(name) {
 			var nameEQ = name + "=";
 			var ca = document.cookie.split(';');
@@ -32,11 +32,19 @@
 			}
 			return null;
 		}
-		
-		function open_new_pro_window() {
-			URL = 'http://www.supplyhouse.com/pro-info';
-			NewWindow = window.open(URL,'_blank','toolbar=no,menubar=0,status=0,copyhistory=0,scrollbars=yes,resizable=1,location=0,Width=670,Height=470') ;
-			NewWindow.location = URL;
+
+		var pageUl = 'false';
+		function checkLoggedInCookie() {
+			cookieUl = readCookie("ul");  
+			if (cookieUl != null && cookieUl != pageUl) {
+				location.reload(true);
+			}
+		}
+		checkLoggedInCookie();
+
+		function open_new_window(url, width, height) {
+			NewWindow = window.open(url,'_blank','toolbar=no,menubar=0,status=0,copyhistory=0,scrollbars=yes,resizable=1,location=0,Width='+width+',Height='+height) ;
+			NewWindow.location = url;
 		}
 	
 		function loadPexLogo()
@@ -74,7 +82,43 @@
 			if (document.getElementById('shipping_bound_image')) {
 				document.getElementById('shipping_bound_image').innerHTML = '<img src="/html/img/para/' + shippingBound + '.png" alt="Free Shipping on Orders Over $' + shippingBound + '"/>';
 			}
-		}	
+		}
+		
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+			ga(function(){
+				var curTracker = ga.getByName('t0');
+				if(curTracker == null){
+					ga('create', 'UA-47425346-1','auto');	  // Creates a tracker.
+				}
+			});
+			var prosCheck = readCookie('PexsupplyPro');
+			var userlogin = false;
+			if(userlogin ){				
+				if(prosCheck =="Y")
+					ga('set','dimension1','PRO User');
+				else
+					ga('set','dimension1','Non-PRO');	
+				
+				ga('set','dimension2','Logged in');				
+			}
+			else{
+				ga('set','dimension2','Not Logged in');	
+				ga('set','dimension1','Non-PRO');	
+			}
+			
+			function analyticsTrackingCode(category,action,label){
+				ga('send','event',category,action,label,{'hitCallback': function(){ return true; }});
+			}
+		
+		
+	</script>
+
+	<script type="text/javascript">
+		var loginLink = 'https://www.supplyhouse.com/pex/control/login';
 	</script>
 
 <link rel="stylesheet" type="text/css" href="http://s3.supplyhouse.com/html/css/reset.css" media="screen, projection, tty, print">
@@ -106,7 +150,12 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <noscript><img height="1" width="1" alt="" style="display:none" 
 src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript" 
 /></noscript>	
-	
+	<script>
+		document.observe('dom:loaded', function(){
+			ga('send', 'pageview'); // Sends a pageview.
+		});
+	</script>
+			
 <style>
 #formerly {
 	width: 162px;
@@ -118,21 +167,18 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 }
 </style>
 </head>
-<body>	
-<!-- clickTale-->
-	<script type="text/javascript">
+<body>
+	<span id="ruler" style="visibility:hidden;white-space:nowrap;font-size:12px;float:left;"></span>  	<script type="text/javascript">
 		var WRInitTime=(new Date()).getTime();
 	</script>
-	<!-- //clickTale -->
 	
 	<!-- #container -->
 	<div id="container">
-		<!--Test & Target: 12/21/2010 by Shuchi -->
-		<!-- BOF -->
-		<div class="mboxDefault"> <!-- empty mbox --> </div>
+		<div class="mboxDefault"></div>
 		<script type="text/javascript">
 			mboxCreate("homepage_header");
 		</script>
+
 		<!-- #wrapper -->
 		<div id="wrapper">
 			<!-- #header -->
@@ -157,34 +203,32 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 				<!-- .col_b -->
 				<div class="col_b">
 					<div class="clear">
-						<!-- #nav_utility -->
-						<div id="nav_utility" class="clear">
-							<ul class="clear">
-								<li class="lead" id="trigger_signin">
-									<a href="https://www.supplyhouse.com/pex/control/myAccount" class="trigger">My Account</a>
-								</li>
-								<li><a href="https://www.supplyhouse.com/pex/control/orderStatus">Order Status</a></li>
-								<li class="last"><a href="http://www.supplyhouse.com/customerservice">Customer Service</a></li>
-							</ul>
-						</div>
-						<!-- /#nav_utility -->
 						<!-- #mycart -->
 						<div id="mycart" class="clear">
 							<ul class="clear">
-								<li class="lead"><a href="http://www.supplyhouse.com/pex/control/viewCart" class="clear"><em>My Cart </em> <span class="total">(&nbsp;)</span></a></li>
-										<li><a class="btn_checkout" href="http://www.supplyhouse.com/pex/control/viewCart">Checkout</a></li>
+								<li class="lead"><a onclick="analyticsTrackingCode('Cart','Entrance','Header - My Cart Button');" href="https://www.supplyhouse.com/pex/control/viewCart" class="clear"><em>My Cart </em> <span class="total">(&nbsp;)</span></a></li>
+								<li><a onclick="analyticsTrackingCode('Checkout','Entrance','Header - Checkout Button')" class="btn_checkout" href="https://www.supplyhouse.com/pex/control/checkout">Checkout</a></li>
 							</ul>
 						</div>
 						<!-- /#mycart -->
+						<!-- #nav_utility -->
+						<div id="nav_utility" class="clear">
+							<ul class="clear">
+									<li class="lead" id="trigger_signin"><a onclick="analyticsTrackingCode('Header','Sign In','');" href="https://www.supplyhouse.com/pex/control/login">Sign In</a></li>
+								<li><a onclick="analyticsTrackingCode('Header','Order Status','');" href="https://www.supplyhouse.com/pex/control/orderStatus">Order Status</a></li>
+								<li class="last"><a onclick="analyticsTrackingCode('Header','Customer Service','');" href="http://www.supplyhouse.com/customerservice">Customer Service</a></li>
+							</ul>
+						</div>
+						<!-- /#nav_utility -->
 					</div>
 
-
-					<div class="paraContainer" id="proBullet" style="position: absolute; margin: 0 0 0 -34px; z-index: 999; display:none;">
-						<a href="javascript:void(0);" onclick="open_new_pro_window();">
-							<img width="328" height="78" src="/html/img/bg/pro_header.jpg" alt="Pro Price Details">
-						</a>
-					</div>
-						
+					
+							<div class="paraContainer" id="proBullet" style="position: absolute; margin: 0 0 0 -34px; z-index: 999; display:none;">
+								<a href="javascript:void(0);" onclick="analyticsTrackingCode('Header','Pro Price Details',''); open_new_window('http://www.supplyhouse.com/trade-master-info', 670, 470);">
+									<img width="328" height="79" src="/html/img/bg/pro_header.jpg" alt="Price Details">
+								</a>
+							</div>
+					
 								<div id="header_service2" class="clear">
 									<ul class="clear">
 										<li class="promo"><div id="shipping_bound_image"><img src="/html/img/para/300.png" alt="Free Shipping on Orders Over $300"></div></li>							
@@ -218,7 +262,7 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div id="nav_main_new" class="clear">
 				<ul class="clear">
 					<li id="nav_pex" class="menu">
-						<a href="http://www.supplyhouse.com/pex">PEX</a>
+						<a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Top Level');" href="http://www.supplyhouse.com/pex">PEX</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -229,15 +273,15 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_PEX_plumbing"><a href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></h3>
+					<h3 class="hdr_PEX_plumbing"><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing');" href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="http://www.supplyhouse.com/PEX-Fittings-525000">Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/Installation-Parts-521000">Install Parts</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Manifolds-518000">Manifolds</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Plumbing-Packages-1729000">Packages</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tools-26000">Tools</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tubing-516000">Tubing</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Fittings');" href="http://www.supplyhouse.com/PEX-Fittings-525000">Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Install Parts');" href="http://www.supplyhouse.com/Installation-Parts-521000">Install Parts</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Manifolds');" href="http://www.supplyhouse.com/PEX-Manifolds-518000">Manifolds</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Packages');" href="http://www.supplyhouse.com/PEX-Plumbing-Packages-1729000">Packages</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Tools');" href="http://www.supplyhouse.com/PEX-Tools-26000">Tools</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','PEX Plumbing - Tubing');" href="http://www.supplyhouse.com/PEX-Tubing-516000">Tubing</a></li>
 						</ul>
 					</div>
 				</div>
@@ -249,19 +293,19 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain middle">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_radiant"><a href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></h3>
+					<h3 class="hdr_radiant"><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat');" href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Controls-212000">Controls</a></li>
-							<li><a href="http://www.supplyhouse.com/Electric-Radiant-Heat-1139000">Electric Radiant</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Fittings-37000">Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Install-Parts-196000">Install Parts</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Insulation-456000">Insulation</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Manifolds-258000">Manifolds</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Packages-12350000">Packages</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-Panels-206000">Panels</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tools-26000">Tools</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tubing-223000">Tubing</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Controls');" href="http://www.supplyhouse.com/Radiant-Heat-Controls-212000">Controls</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Electric Radiant');" href="http://www.supplyhouse.com/Electric-Radiant-Heat-1139000">Electric Radiant</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Fittings');" href="http://www.supplyhouse.com/PEX-Fittings-37000">Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Install Parts');" href="http://www.supplyhouse.com/Radiant-Heat-Install-Parts-196000">Install Parts</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Insulation');" href="http://www.supplyhouse.com/Radiant-Heat-Insulation-456000">Insulation</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Manifolds');" href="http://www.supplyhouse.com/Radiant-Heat-Manifolds-258000">Manifolds</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Packages');" href="http://www.supplyhouse.com/Radiant-Heat-Packages-12350000">Packages</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Panels');" href="http://www.supplyhouse.com/Radiant-Heat-Panels-206000">Panels</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Tools');" href="http://www.supplyhouse.com/PEX-Tools-26000">Tools</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','PEX','Radiant Heat - Tubing');" href="http://www.supplyhouse.com/PEX-Tubing-223000">Tubing</a></li>
 						</ul>						
 					</div>
 				</div>
@@ -275,7 +319,7 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 <!-- /.overlay -->
 					</li>
 					<li id="nav_heating" class="menu">
-						<a href="http://www.supplyhouse.com/Heating-Supplies-193000">Heating</a>
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Top Level');" href="http://www.supplyhouse.com/Heating-Supplies-193000">Heating</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -293,59 +337,60 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 						    <td valign="top" width="180">
 						      <h6 class="class_h3_heating">Boiler Room</h6>
 						      <ul>
-						        <li><a href="http://www.supplyhouse.com/Air-Eliminators-310000">Air Eliminators</a></li>
-						        <li><a href="http://www.supplyhouse.com/Aquastats-Wells-350000">Aquastats</a></li>
-						        <li><a href="http://www.supplyhouse.com/Boilers-449000">Boilers</a></li>
-						        <li><a href="http://www.supplyhouse.com/Boiler-Parts-1732000">Boiler Parts</a></li>
-						        <li><a href="http://www.supplyhouse.com/Expansion-Tanks-353000">Expansion Tanks</a></li>
-						        <li><a href="http://www.supplyhouse.com/Flow-Switches-1759000">Flow Switches</a></li>
-						        <li><a href="http://www.supplyhouse.com/Flow-Control-Valves-275000">Flow Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Heat-Exchangers-821000">Heat Exchangers</a></li>
-						        <li><a href="http://www.supplyhouse.com/Mcdonnell-Miller-Low-Water-Cutoffs-192000">Low Water Cutoffs</a></li>
-						        <li><a href="http://www.supplyhouse.com/Mixing-Valves-322000">Mixing Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Pressure-Valves-221000">Pressure Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Pumps-Flanges-288000">Pumps</a></li>
-						        <li><a href="http://www.supplyhouse.com/Relief-Valves-313000">Relief Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Switching-Relays-443000">Switching Relays</a></li>
-						        <li><a href="http://www.supplyhouse.com/Transformers-282000">Transformers</a></li>
-						        <li><a href="http://www.supplyhouse.com/Boiler-Venting-10350000">Venting</a></li>
-						        <li><a href="http://www.supplyhouse.com/Water-Feeders-1761000">Water Feeders</a></li>
-						        <li><a href="http://www.supplyhouse.com/Zone-Valves-Controls-324000">Zone Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Air Eliminators');" href="http://www.supplyhouse.com/Air-Eliminators-310000">Air Eliminators</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Aquastats');" href="http://www.supplyhouse.com/Aquastats-Wells-350000">Aquastats</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Boilers');" href="http://www.supplyhouse.com/Boilers-449000">Boilers</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Boiler Parts');" href="http://www.supplyhouse.com/Boiler-Parts-1732000">Boiler Parts</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Expansion Tanks');" href="http://www.supplyhouse.com/Expansion-Tanks-353000">Expansion Tanks</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Flow Switches');" href="http://www.supplyhouse.com/Flow-Switches-1759000">Flow Switches</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Flow Valves');" href="http://www.supplyhouse.com/Flow-Control-Valves-275000">Flow Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Heat Exchangers');" href="http://www.supplyhouse.com/Heat-Exchangers-821000">Heat Exchangers</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Low Water Cutoffs');" href="http://www.supplyhouse.com/Mcdonnell-Miller-Low-Water-Cutoffs-192000">Low Water Cutoffs</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Mixing Valves');" href="http://www.supplyhouse.com/Mixing-Valves-322000">Mixing Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Pressure Valves');" href="http://www.supplyhouse.com/Pressure-Valves-221000">Pressure Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Pumps');" href="http://www.supplyhouse.com/Pumps-Flanges-288000">Pumps</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Relief Valves');" href="http://www.supplyhouse.com/Relief-Valves-313000">Relief Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Switching Relays');" href="http://www.supplyhouse.com/Switching-Relays-443000">Switching Relays</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Transformers');" href="http://www.supplyhouse.com/Transformers-282000">Transformers</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Venting');" href="http://www.supplyhouse.com/Boiler-Venting-10350000">Venting</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Water Feeders');" href="http://www.supplyhouse.com/Water-Feeders-1761000">Water Feeders</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Boiler Room - Zone Valves');" href="http://www.supplyhouse.com/Zone-Valves-Controls-324000">Zone Valves</a></li>
 						      </ul>
 						    </td>
 						    <td valign="top" width="180">
 						      <h6 class="class_h3_heating">Radiators &amp; Trim</h6>
 						      <ul>
-						        <li><a href="http://www.supplyhouse.com/Air-Valves-300000">Air Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Baseboard-Heaters-808000">Baseboard</a></li>
-						        <li><a href="http://www.supplyhouse.com/KickSpace-Portable-Heaters-1806000">Kickspace Heaters</a></li>
-						        <li><a href="http://www.supplyhouse.com/Radiator-Valves-12712000">Radiator Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Radiators &amp; Trim - Air Valves');" href="http://www.supplyhouse.com/Air-Valves-300000">Air Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Radiators &amp; Trim - Baseboard');" href="http://www.supplyhouse.com/Baseboard-Heaters-808000">Baseboard</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Radiators &amp; Trim - Kickspace Heaters');" href="http://www.supplyhouse.com/KickSpace-Portable-Heaters-1806000">Kickspace Heaters</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Radiators &amp; Trim - Radiator Valves');" href="http://www.supplyhouse.com/Radiator-Valves-12712000">Radiator Valves</a></li>
 						      </ul>
 						      <br>
 						      <h6 class="class_h3_heating">Gas Products</h6>
 						      <ul>
-						        <li><a href="http://www.supplyhouse.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Cocks</a></li>
-						        <li><a href="http://www.supplyhouse.com/Maxitrol-Gas-Regulators-1479000">Gas Regulators</a></li>
-						        <li><a href="http://www.supplyhouse.com/Gas-Valves-Controls-287000">Gas Valves</a></li>
-						        <li><a href="http://www.supplyhouse.com/Ignitors-Burners-17383000">Ignitors</a></li>
-						        <li><a href="http://www.supplyhouse.com/Thermocouples-194000">Thermocouples</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Gas Products - Gas Cocks');" href="http://www.supplyhouse.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Cocks</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Gas Products - Gas Regulators');" href="http://www.supplyhouse.com/Maxitrol-Gas-Regulators-1479000">Gas Regulators</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Gas Products - Gas Valves');" href="http://www.supplyhouse.com/Gas-Valves-Controls-287000">Gas Valves</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Gas Products - Ignitors');" href="http://www.supplyhouse.com/Ignitors-Burners-17383000">Ignitors</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Gas Products - Thermocouples');" href="http://www.supplyhouse.com/Thermocouples-194000">Thermocouples</a></li>
 						      </ul>
 						    </td>
 						    <td valign="top" width="160">
 						      <h6 class="class_h3_heating">Specialties</h6>
 						      <ul>
-						        <li><a href="http://www.supplyhouse.com/Chemicals-Compounds-358000">Chemicals</a></li>
-						        <li><a href="http://www.supplyhouse.com/Electric-Radiant-Heat-1139000">Electric Radiant Heat</a></li>
-						        <li><a href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></li>
-						        <li><a href="http://www.supplyhouse.com/Temperature-Pressure-Gauges-864000">Gauges</a></li>
-						        <li><a href="http://www.supplyhouse.com/Easy-Heat-Tape-Heat-Cable-10161000">Heat Tape</a></li>
-						        <li><a href="http://www.supplyhouse.com/Heating-Specialties-1393000">Misc Specialties</a></li>
-						        <li><a href="http://www.supplyhouse.com/Nipples">Nipples</a></li>
-						        <li><a href="http://www.supplyhouse.com/Pipe-Insulation-12071000">Pipe Insulation</a></li>
-						        <li><a href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></li>
-						        <li><a href="http://www.supplyhouse.com/Tekmar-Controls-445000">Tekmar Controls</a></li>
-						        <li><a href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></li>
-						      </ul>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Chemicals');" href="http://www.supplyhouse.com/Chemicals-Compounds-358000">Chemicals</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Electric Radiant Heat');" href="http://www.supplyhouse.com/Electric-Radiant-Heat-1139000">Electric Radiant Heat</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Fittings');" href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Gauges');" href="http://www.supplyhouse.com/Temperature-Pressure-Gauges-864000">Gauges</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Heat Tape');" href="http://www.supplyhouse.com/Easy-Heat-Tape-Heat-Cable-10161000">Heat Tape</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Misc Specialties');" href="http://www.supplyhouse.com/Heating-Specialties-1393000">Misc Specialties</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Nipples');" href="http://www.supplyhouse.com/Nipples">Nipples</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Pipe Insulation');" href="http://www.supplyhouse.com/Pipe-Insulation-12071000">Pipe Insulation</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Radiant Heat');" href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Tekmar Controls');" href="http://www.supplyhouse.com/Tekmar-Controls-445000">Tekmar Controls</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Thermostats');" href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></li>
+						        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Heating','Specialties - Unit Heaters');" href="http://www.supplyhouse.com/Unit-Heaters-20720000">Unit Heaters</a></li>
+						        </ul>
 						    </td>
 						  </tr>
 						</tbody></table>
@@ -361,7 +406,7 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 <!-- /.overlay -->
 					</li>
 					<li id="nav_plumbing" class="menu">
-						<a href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing</a>
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Top Level');" href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -373,43 +418,43 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_plumbing"><a href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
+					<h3 class="hdr_plumbing"><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Plumbing Supplies');" href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
 					<div class="listing clear">
   						<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="top" width="180"><ul>
-        <li><a href="http://www.supplyhouse.com/Access-Doors-909000">Access Doors</a></li>
-        <li><a href="http://www.supplyhouse.com/Water-Hammer-Arrestors-10951000">Arrestors</a></li>
-        <li><a href="http://www.supplyhouse.com/Backflow-Preventers-1619000">Backflow</a></li>
-        <li><a href="http://www.supplyhouse.com/Chemicals-Compounds-358000">Chemicals</a></li>
-        <li><a href="http://www.supplyhouse.com/Drains-17301000">Drains</a></li>
-        <li><a href="http://www.supplyhouse.com/Expansion-Tanks-14860000">Expansion Tanks</a></li>
-        <li><a href="http://www.supplyhouse.com/Fire-Sprinkler-Heads-Hangers-10065000">Fire Sprinklers</a></li>
-        <li><a href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></li>
-        <li><a href="http://www.supplyhouse.com/Sloan-Flush-Valves-615000">Flush Valves</a></li>
-        <li><a href="http://www.supplyhouse.com/Grease-Traps-513000">Grease Traps</a></li>
-        <li><a href="http://www.supplyhouse.com/Nipples">Nipples</a></li>
-        <li><a href="http://www.supplyhouse.com/Outlet-Boxes-14861000">Outlet Boxes</a></li>
-        <li><a href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></li>
-        <li><a href="http://www.supplyhouse.com/Clamps-Pipe-Hangers-Straps-1385000">Pipe Hangers</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Access Doors');" href="http://www.supplyhouse.com/Access-Doors-909000">Access Doors</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Arrestors');" href="http://www.supplyhouse.com/Water-Hammer-Arrestors-10951000">Arrestors</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Backflow');" href="http://www.supplyhouse.com/Backflow-Preventers-1619000">Backflow</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Chemicals');" href="http://www.supplyhouse.com/Chemicals-Compounds-358000">Chemicals</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Drains');" href="http://www.supplyhouse.com/Drains-17301000">Drains</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Expansion Tanks');" href="http://www.supplyhouse.com/Expansion-Tanks-14860000">Expansion Tanks</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Fire Sprinklers');" href="http://www.supplyhouse.com/Fire-Sprinkler-Heads-Hangers-10065000">Fire Sprinklers</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Fittings');" href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Flush Valves');" href="http://www.supplyhouse.com/Sloan-Flush-Valves-615000">Flush Valves</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Grease Traps');" href="http://www.supplyhouse.com/Grease-Traps-513000">Grease Traps</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Nipples');" href="http://www.supplyhouse.com/Nipples">Nipples</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Outlet Boxes');" href="http://www.supplyhouse.com/Outlet-Boxes-14861000">Outlet Boxes</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','PEX Plumbing');" href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Pipe Hangers');" href="http://www.supplyhouse.com/Clamps-Pipe-Hangers-Straps-1385000">Pipe Hangers</a></li>
         
       </ul></td>
     <td valign="top"><ul>
         
-        <li><a href="http://www.supplyhouse.com/Pipe-Insulation-12071000">Pipe Insulation</a></li>
-        <li><a href="http://www.supplyhouse.com/Pumps-579000">Pumps</a></li>
-        <li><a href="http://www.supplyhouse.com/Solder-430000">Solder</a></li>
-        <li><a href="http://www.supplyhouse.com/Plumbing-Specialties-12791000">Specialties</a></li>
-        <li><a href="http://www.supplyhouse.com/Supply-Stops-Risers-636000">Stops &amp; Risers</a></li>
-        <li><a href="http://www.supplyhouse.com/Strainers-17394000">Strainers</a></li>
-        <li><a href="http://www.supplyhouse.com/Toilet-Parts-14781000">Toilet Parts</a></li>
-        <li><a href="http://www.supplyhouse.com/Tools-648000">Tools</a></li>
-         <li><a href="http://www.supplyhouse.com/Tub-Shower-Products-14808000">Tub &amp; Shower</a></li>
-        <li><a href="http://www.supplyhouse.com/Tubular-Products-1394000">Tubular</a></li>
-        <li><a href="http://www.supplyhouse.com/Valves-2000">Valves</a></li>
-        <li><a href="http://www.supplyhouse.com/Aqua-Pure-Water-Filters-11900000">Water Filters</a></li>
-        <li><a href="http://www.supplyhouse.com/Water-Heaters-1813000">Water Heaters</a></li>
-        <li><a href="http://www.supplyhouse.com/Amtrol-WELL-X-TROL-Tanks-10830000">Well Tanks</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Pipe Insulation');" href="http://www.supplyhouse.com/Pipe-Insulation-12071000">Pipe Insulation</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Pumps');" href="http://www.supplyhouse.com/Pumps-579000">Pumps</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Solder');" href="http://www.supplyhouse.com/Solder-430000">Solder</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Specialties');" href="http://www.supplyhouse.com/Plumbing-Specialties-12791000">Specialties</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Stops &amp; Risers');" href="http://www.supplyhouse.com/Supply-Stops-Risers-636000">Stops &amp; Risers</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Strainers');" href="http://www.supplyhouse.com/Strainers-17394000">Strainers</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Toilet Parts');" href="http://www.supplyhouse.com/Toilet-Parts-14781000">Toilet Parts</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Tools');" href="http://www.supplyhouse.com/Tools-648000">Tools</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Tub &amp; Shower');" href="http://www.supplyhouse.com/Tub-Shower-Products-14808000">Tub &amp; Shower</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Tubular');" href="http://www.supplyhouse.com/Tubular-Products-1394000">Tubular</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Valves');" href="http://www.supplyhouse.com/Valves-2000">Valves</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Water Filters');" href="http://www.supplyhouse.com/Aqua-Pure-Water-Filters-11900000">Water Filters</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Water Heaters');" href="http://www.supplyhouse.com/Water-Heaters-1813000">Water Heaters</a></li>
+        <li><a onclick="analyticsTrackingCode('Category Hierarchy','Plumbing','Well Tanks');" href="http://www.supplyhouse.com/Amtrol-WELL-X-TROL-Tanks-10830000">Well Tanks</a></li>
         
         
       </ul></td>
@@ -430,7 +475,7 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 					</li>
 					
 					<li id="nav_fitting" class="menu">
-						<a href="http://www.supplyhouse.com/Fittings-Valves-15150000">Fittings</a>
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Top Level');" href="http://www.supplyhouse.com/Fittings-Valves-15150000">Fittings</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -441,24 +486,24 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_fitting"><a href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></h3>
+					<h3 class="hdr_fitting"><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings');" href="http://www.supplyhouse.com/Pipe-Fittings-Nipples-415000">Fittings</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Black-Fittings-173000">Black</a></li>
-							<li><a href="http://www.supplyhouse.com/Black-Fittings-Imported-12033000">Black (Import)</a></li>
-							<li><a href="http://www.supplyhouse.com/Brass-Fittings-164000">Brass</a></li>
-							<li><a href="http://www.supplyhouse.com/Compression-Fittings-12482000">Compression</a></li>
-							<li><a href="http://www.supplyhouse.com/Copper-Fittings-130000">Copper</a></li>
-							<li><a href="http://www.supplyhouse.com/Copper-DWV-Fittings-1268000">Copper DWV</a></li>
-							<li><a href="http://www.supplyhouse.com/CTS-CPVC-Fittings-18780000">CPVC</a></li>
-							<li><a href="http://www.supplyhouse.com/Flare-Fittings-12970000">Flare</a></li>
-							<li><a href="http://www.supplyhouse.com/Galvanized-Fittings-92000">Galvanized</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Fittings-525000">PEX</a></li>
-							<li><a href="http://www.supplyhouse.com/Propress-Fittings-892000">ProPress</a></li>
-							<li><a href="http://www.supplyhouse.com/PVC-DWV-Fittings-14951000">PVC DWV</a></li>
-							<li><a href="http://www.supplyhouse.com/PVC-Schedule-40-Fittings-14952000">PVC Sched 40</a></li>
-							<li><a href="http://www.supplyhouse.com/PVC-Schedule-80-Fittings-18700000">PVC Sched 80</a></li>
-							<li><a href="http://www.supplyhouse.com/SharkBite-Fittings-595000">Sharkbite</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Black');" href="http://www.supplyhouse.com/Black-Fittings-173000">Black</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Black (Import)');" href="http://www.supplyhouse.com/Black-Fittings-Imported-12033000">Black (Import)</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Brass');" href="http://www.supplyhouse.com/Brass-Fittings-164000">Brass</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Compression');" href="http://www.supplyhouse.com/Compression-Fittings-12482000">Compression</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Copper');" href="http://www.supplyhouse.com/Copper-Fittings-130000">Copper</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Copper DWV');" href="http://www.supplyhouse.com/Copper-DWV-Fittings-1268000">Copper DWV</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - CPVC');" href="http://www.supplyhouse.com/CTS-CPVC-Fittings-18780000">CPVC</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Flare');" href="http://www.supplyhouse.com/Flare-Fittings-12970000">Flare</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Galvanized');" href="http://www.supplyhouse.com/Galvanized-Fittings-92000">Galvanized</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - PEX');" href="http://www.supplyhouse.com/PEX-Fittings-525000">PEX</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - ProPress');" href="http://www.supplyhouse.com/Propress-Fittings-892000">ProPress</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - PVC DWV');" href="http://www.supplyhouse.com/PVC-DWV-Fittings-14951000">PVC DWV</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - PVC Sched 40');" href="http://www.supplyhouse.com/PVC-Schedule-40-Fittings-14952000">PVC Sched 40</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - PVC Sched 80');" href="http://www.supplyhouse.com/PVC-Schedule-80-Fittings-18700000">PVC Sched 80</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Fittings - Sharkbite');" href="http://www.supplyhouse.com/SharkBite-Fittings-595000">Sharkbite</a></li>
 						</ul>
 					</div>
 				</div>
@@ -470,14 +515,14 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain middle">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_fitting"><a href="http://www.supplyhouse.com/Nipples">Nipples</a></h3>
+					<h3 class="hdr_fitting"><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples');" href="http://www.supplyhouse.com/Nipples">Nipples</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Black-Nipples-172000">Black</a></li>
-							<li><a href="http://www.supplyhouse.com/Brass-Nipples-163000">Brass</a></li>
-							<li><a href="http://www.supplyhouse.com/Chrome-Brass-Nipples-17493000">Chrome</a></li>
-							<li><a href="http://www.supplyhouse.com/Dielectric-Unions-Watts-3001A-1640000">Dielectric</a></li>
-							<li><a href="http://www.supplyhouse.com/Galvanized-Nipples-91000">Galvanized</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples - Black');" href="http://www.supplyhouse.com/Black-Nipples-172000">Black</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples - Brass');" href="http://www.supplyhouse.com/Brass-Nipples-163000">Brass</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples - Chrome');" href="http://www.supplyhouse.com/Chrome-Brass-Nipples-17493000">Chrome</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples - Dielectric');" href="http://www.supplyhouse.com/Dielectric-Unions-Watts-3001A-1640000">Dielectric</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Fittings','Nipples - Galvanized');" href="http://www.supplyhouse.com/Galvanized-Nipples-91000">Galvanized</a></li>
 						</ul>
 					</div>
 				</div>
@@ -494,8 +539,8 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 <!-- /.overlay -->
 					</li>
 					
-					 <li id="nav_valves" class="menu">
-						<a href="http://www.supplyhouse.com/Valves-2000">Valves</a>
+					<li id="nav_valves" class="menu">
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Top Level');" href="http://www.supplyhouse.com/Valves-2000">Valves</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -506,22 +551,22 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_brands"><a href="http://www.supplyhouse.com/Valves-2000">Valves</a></h3>
+					<h3 class="hdr_brands"><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Valves');" href="http://www.supplyhouse.com/Valves-2000">Valves</a></h3>
 					<div class="listing clear">
 					<ul>
-					  <li><a href="http://www.supplyhouse.com/Ball-Valves-5000">Ball Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/Boiler-Drains-500000">Boiler Drains</a></li>
-					  <li><a href="http://www.supplyhouse.com/Check-Valves-Swing-Check-3000">Check Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/CPVC-Ball-Valves-17621000">CPVC Ball Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Cocks</a></li>
-					  <li><a href="http://www.supplyhouse.com/Gate-Valves-308000">Gate Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/Hose-Bibbs-13520000">Hose Bibs</a></li>
-					  <li><a href="http://www.supplyhouse.com/PVC-Ball-Valves-14440000">PVC Ball Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/Sillcocks-Hose-Bibbs-14661000">Sillcocks</a></li>
-					  <li><a href="http://www.supplyhouse.com/Solenoid-Valves-10634000">Solenoid Valves</a></li>
-					  <li><a href="http://www.supplyhouse.com/Supply-Stops-Risers-636000">Stops &amp; Risers</a></li>
-					  <li><a href="http://www.supplyhouse.com/Washing-Machine-Shutoff-Valves-610000">Wash Machine Valve</a></li>
-					  <li><a href="http://www.supplyhouse.com/Wye-Strainers-705000">Wye Strainers</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Ball Valves');" href="http://www.supplyhouse.com/Ball-Valves-5000">Ball Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Boiler Drains');" href="http://www.supplyhouse.com/Boiler-Drains-500000">Boiler Drains</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Check Valves');" href="http://www.supplyhouse.com/Check-Valves-Swing-Check-3000">Check Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','CPVC Ball Valves');" href="http://www.supplyhouse.com/CPVC-Ball-Valves-17621000">CPVC Ball Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Gas Cocks');" href="http://www.supplyhouse.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Cocks</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Gate Valves');" href="http://www.supplyhouse.com/Gate-Valves-308000">Gate Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Hose Bibs');" href="http://www.supplyhouse.com/Hose-Bibbs-13520000">Hose Bibs</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','PVC Ball Valves');" href="http://www.supplyhouse.com/PVC-Ball-Valves-14440000">PVC Ball Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Sillcocks');" href="http://www.supplyhouse.com/Sillcocks-Hose-Bibbs-14661000">Sillcocks</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Solenoid Valves');" href="http://www.supplyhouse.com/Solenoid-Valves-10634000">Solenoid Valves</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Stops &amp; Risers');" href="http://www.supplyhouse.com/Supply-Stops-Risers-636000">Stops &amp; Risers</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Wash Machine Valve');" href="http://www.supplyhouse.com/Washing-Machine-Shutoff-Valves-610000">Wash Machine Valve</a></li>
+					  <li><a onclick="analyticsTrackingCode('Category Hierarchy','Valves','Wye Strainers');" href="http://www.supplyhouse.com/Wye-Strainers-705000">Wye Strainers</a></li>
 					 </ul>
 					</div>
 				</div>
@@ -534,7 +579,7 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 					</div></li>
 										
                     <li id="nav_air" class="menu">
-						<a href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC</a>
+						<a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Top Level');" href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -546,48 +591,48 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_airsys"><a href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC - Air Conditioning</a></h3>
+					<h3 class="hdr_airsys"><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','HVAC - Air Conditioning');" href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC - Air Conditioning</a></h3>
 					<div class="listing clear">
 						<table class="nh" width="100%" border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
-								<td valign="top" width="175"><a href="http://www.supplyhouse.com/Air-Cleaners-1381000">Air Cleaners</a></td>
-								<td><a href="http://www.supplyhouse.com/Air-Conditioning-Accessories-11751000">Install Parts</a></td>							
+								<td valign="top" width="175"><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Air Cleaners');" href="http://www.supplyhouse.com/Air-Cleaners-1381000">Air Cleaners</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Install Parts');" href="http://www.supplyhouse.com/Air-Conditioning-Accessories-11751000">Install Parts</a></td>							
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Air-Conditioners-1812000">Air Conditioners</a></td>
-								<td><a href="http://www.supplyhouse.com/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Air Conditioners');" href="http://www.supplyhouse.com/Air-Conditioners-1812000">Air Conditioners</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Line Sets');" href="http://www.supplyhouse.com/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Chemicals-and-Cleaners-17030000">Chemicals</a></td>
-								<td><a href="http://www.supplyhouse.com/Mini-Split-Air-Conditioners-1811000">Mini Split AC</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Chemicals');" href="http://www.supplyhouse.com/Chemicals-and-Cleaners-17030000">Chemicals</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Mini Split AC');" href="http://www.supplyhouse.com/Mini-Split-Air-Conditioners-1811000">Mini Split AC</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Condensate-Removal-Pumps-1878000">Condensate Pumps</a></td>
-								<td><a href="http://www.supplyhouse.com/Refrigeration-Controls-1832000">Refrigeration Controls</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Condensate Pumps');" href="http://www.supplyhouse.com/Condensate-Removal-Pumps-1878000">Condensate Pumps</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Refrigeration Controls');" href="http://www.supplyhouse.com/Refrigeration-Controls-1832000">Refrigeration Controls</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/HVAC-Parts-Controls-10520000">Controls</a></td>
-								<td><a href="http://www.supplyhouse.com/Registers-Grilles-13463000">Registers</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Controls');" href="http://www.supplyhouse.com/HVAC-Parts-Controls-10520000">Controls</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Registers');" href="http://www.supplyhouse.com/Registers-Grilles-13463000">Registers</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Dampers-1608000">Dampers</a></td>
-								<td><a href="http://www.supplyhouse.com/Air-Conditioner-Replacement-Parts-11863000">Replacement Parts</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Dampers');" href="http://www.supplyhouse.com/Dampers-1608000">Dampers</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Replacement Parts');" href="http://www.supplyhouse.com/Air-Conditioner-Replacement-Parts-11863000">Replacement Parts</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Dehumidifiers-14881000">Dehumidifiers</a></td>
-								<td><a href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Dehumidifiers');" href="http://www.supplyhouse.com/Dehumidifiers-14881000">Dehumidifiers</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Thermostats');" href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com//Replacement-Filters-12765000">Filters</a></td>
-								<td><a href="http://www.supplyhouse.com/HVAC-Tools-10274000">Tools</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Filters');" href="http://www.supplyhouse.com//Replacement-Filters-12765000">Filters</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Tools');" href="http://www.supplyhouse.com/HVAC-Tools-10274000">Tools</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Flex-Duct-13471000">Flex Duct</a></td>
-								<td><a href="http://www.supplyhouse.com/Temperature-Controllers-12741000">Temp Controllers</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Flex Duct');" href="http://www.supplyhouse.com/Flex-Duct-13471000">Flex Duct</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Temp Controllers');" href="http://www.supplyhouse.com/Temperature-Controllers-12741000">Temp Controllers</a></td>
 							</tr>
 							<tr>
-								<td><a href="http://www.supplyhouse.com/Humidifiers-1380000">Humidifiers</a></td>
-								<td><a href="http://www.supplyhouse.com/Ventilation-Fans-14530000">Ventilation Fans</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Humidifiers');" href="http://www.supplyhouse.com/Humidifiers-1380000">Humidifiers</a></td>
+								<td><a onclick="analyticsTrackingCode('Category Hierarchy','HVAC','Ventilation Fans');" href="http://www.supplyhouse.com/Ventilation-Fans-14530000">Ventilation Fans</a></td>
 							</tr>
 						</tbody></table>
 					</div>
@@ -602,8 +647,8 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 <!-- /.overlay -->
 					</li>	
 					
-					  <li id="nav_thermostats" class="menu">
-						<a href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a>
+					<li id="nav_thermostats" class="menu">
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Top Level');" href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
@@ -614,20 +659,20 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_brands"><a href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></h3>
+					<h3 class="hdr_brands"><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Thermostats');" href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Honeywell-Aube-Thermostats-10223000">Aube</a></li>
-							<li><a href="http://www.supplyhouse.com/BAYweb-Network-Thermostats-11701000">Bayweb</a></li>
-							<li><a href="http://www.supplyhouse.com/Braeburn-Thermostats-11651000">Braeburn</a></li>
-							<li><a href="http://www.supplyhouse.com/Honeywell-Thermostats-283000">Honeywell</a></li>
-							<li><a href="http://www.supplyhouse.com/ICM-Controls-Thermostats-10980000">ICM</a></li>
-							<li><a href="http://www.supplyhouse.com/Johnson-Controls-Thermostats-10122000">Johnson Controls</a></li>
-							<li><a href="http://www.supplyhouse.com/Lux-Thermostats-1346000">Lux</a></li>
-							<li><a href="http://www.supplyhouse.com/Robertshaw-Thermostats-666000">Robertshaw</a></li>
-							<li><a href="http://www.supplyhouse.com/Tekmar-Thermostats-674000">Tekmar</a></li>
-							<li><a href="http://www.supplyhouse.com/Venstar-Thermostats-14391000">Venstar</a></li>
-							<li><a href="http://www.supplyhouse.com/White-Rodgers-Thermostats-644000">White Rodgers</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Aube');" href="http://www.supplyhouse.com/Honeywell-Aube-Thermostats-10223000">Aube</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Bayweb');" href="http://www.supplyhouse.com/BAYweb-Network-Thermostats-11701000">Bayweb</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Braeburn');" href="http://www.supplyhouse.com/Braeburn-Thermostats-11651000">Braeburn</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Honeywell');" href="http://www.supplyhouse.com/Honeywell-Thermostats-283000">Honeywell</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','ICM');" href="http://www.supplyhouse.com/ICM-Controls-Thermostats-10980000">ICM</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Johnson Controls');" href="http://www.supplyhouse.com/Johnson-Controls-Thermostats-10122000">Johnson Controls</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Lux');" href="http://www.supplyhouse.com/Lux-Thermostats-1346000">Lux</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Robertshaw');" href="http://www.supplyhouse.com/Robertshaw-Thermostats-666000">Robertshaw</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Tekmar');" href="http://www.supplyhouse.com/Tekmar-Thermostats-674000">Tekmar</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','Venstar');" href="http://www.supplyhouse.com/Venstar-Thermostats-14391000">Venstar</a></li>
+							<li><a onclick="analyticsTrackingCode('Category Hierarchy','Thermostats','White Rodgers');" href="http://www.supplyhouse.com/White-Rodgers-Thermostats-644000">White Rodgers</a></li>
 						</ul>
 					</div>
 				</div>
@@ -639,114 +684,113 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 <!-- /.overlay -->
 					</div></li>
 					
-					<li id="nav_brand" class="menu">
-						<a href="http://www.supplyhouse.com/pex/control/allBrands">Brand</a>
+					<li id="nav_electrical" class="menu">
+						<a onclick="analyticsTrackingCode('Category Hierarchy','Electrical','Top Level');" href="http://www.supplyhouse.com/Electrical-Supplies-20570000">Brand</a>
 						
 <!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 		<!-- .sections -->
 		<div class="sections clear">
-			<!-- .sprite -->
+		<!-- .sprite -->
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_brands"><a href="http://www.supplyhouse.com/pex/control/allBrands">Shop By Brand</a></h3>
+					<h3 class="hdr_brands"><a <a="" onclick="analyticsTrackingCode('Category Hierarchy','Electrical','Electrical');" href="http://www.supplyhouse.com/Electrical-Supplies-20570000">Electrical</a></h3>
 					<div class="listing clear">
-						<ul>
-							<li><a href="http://www.supplyhouse.com/AO-Smith">AO Smith</a></li>
-							<li><a href="http://www.supplyhouse.com/Bell-and-Gossett">Bell &amp; Gossett</a></li>
-							<li><a href="http://www.supplyhouse.com/Bradford-White">Bradford White</a></li>
-							<li><a href="http://www.supplyhouse.com/Fantech">Fantech</a></li>
-							<li><a href="http://www.supplyhouse.com/Grundfos">Grundfos</a></li>
-							<li><a href="http://www.supplyhouse.com/Honeywell">Honeywell</a></li>
-							<li><a href="http://www.supplyhouse.com/Panasonic">Panasonic</a></li>
-							<li><a href="http://www.supplyhouse.com/Rifeng">Rifeng</a></li>
-							<li><a href="http://www.supplyhouse.com/Taco">Taco</a></li>
-							<li><a href="http://www.supplyhouse.com/Takagi">Takagi</a></li>
-							<li><a href="http://www.supplyhouse.com/Triangle-Tube">Triangle Tube</a></li>
-							<li><a href="http://www.supplyhouse.com/Uponor">Uponor</a></li>
-							<li><a href="http://www.supplyhouse.com/Viega">Viega</a></li>
-							<li><a href="http://www.supplyhouse.com/Watts">Watts</a></li>
-							<li><a href="http://www.supplyhouse.com/Weil-Mclain">Weil Mclain</a></li>
-							<li><a href="http://www.supplyhouse.com/White-Rodgers">White Rodgers</a></li>
-							<li><a href="http://www.supplyhouse.com/pex/control/allBrands">View All Brands</a></li>
-						</ul>
+						<table id="electricalLinks" class="nh" width="100%" border="0" cellspacing="1" cellpadding="0">
+						  <tbody><tr>
+						    <td valign="top" width="175"><a href="http://www.supplyhouse.com/Electric-Baseboard-Heaters-20660000">Baseboard</a></td>
+						    <td><a href="http://www.supplyhouse.com/Replacement-Motors-19690000">Motors</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Weather-Proof-Boxes-and-Covers-20572000">Boxes &amp; Covers</a></td>
+						    <td><a href="http://www.supplyhouse.com/Roof-Gutter-De-Icing-Cables-20522000">Roof De-Icing</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Capacitors-19700000">Capacitors</a></td>
+						    <td><a href="http://www.supplyhouse.com/Thermostats-327000">Thermostats</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Conduit-Cable-11786000">Conduit &amp; Cable</a></td>
+						    <td><a href="http://www.supplyhouse.com/Timers-and-Timer-Switches-19521000">Timers</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Electrical-Controls-19820000">Controls</a></td>
+						    <td><a href="http://www.supplyhouse.com/Ideal-Electrical-Tools-19704000">Tools</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/A-C-Disconnects-19150000">Disconnects</a></td>
+						    <td><a href="http://www.supplyhouse.com/Transformers-282000">Transformers</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Electric-Radiant-Heat-1139000">Electric Radiant</a></td>
+						    <td><a href="http://www.supplyhouse.com/Ventilation-Fans-14530000">Ventilation Fans</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Electrical-Fittings-20580000">Fittings</a></td>
+						    <td><a href="http://www.supplyhouse.com/Wire-20670000">Wire</a></td>
+						  </tr>
+						  <tr>
+						    <td><a href="http://www.supplyhouse.com/Lighting-20571000">Lighting</a></td>
+						    <td><a href="http://www.supplyhouse.com/Wire-Termination-19872000">Wire Connectors</a></td>
+						  </tr>
+						</tbody></table>
+
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
 			</div>
-			<!-- /.sprite -->
+			<!-- /.sprite -->	
+			
 	</div>
 </div>
 <!-- /.overlay -->
+<script>
+	if($('electricalLinks')){
+		$('electricalLinks').select('a').each(function(a,i){			
+			a.observe('click',function(){
+				analyticsTrackingCode('Category Hierarchy','Electrical',''+a.textContent||a.innerText);
+			});
+		});
+	}
+</script>
 					</div></li>
 				</ul>
 			</div>
 			<!-- /#nav_main_new -->
 			
-			
-			
+
 			<!-- #content -->
 			<div id="content">
-						<!-- .spritecontextual.password -->
-		<div class="spritecontextual password" id="overlay_pw" style="display: none;">
-			<div class="content">
-				<div class="top"><!-- --></div>
-				<div class="overlay_head clear">
-					<h3 class="hdr_common">Forgot Your Password?</h3>
-					<a href="#" class="close">close</a>
-				</div>
-				<div class="overlay_content">
-					<form id="forgotPassword_form" method="post" action="https://www.supplyhouse.com/pex/control/forgotpassword">
-						<p>Enter your e-mail address below to have your password reset. You will receive an e-mail with a new temporary password in it.</p>
-						<div class="clear">
-							<input name="USERNAME" class="text required validate-email" type="text" value="">
-							<button type="submit" class="btn_send">Send</button>
-						</div>
-					</form>
-					<div class="success">
-						<p>Your new password is on its way. If you have problems accessing your account, please contact us at 1-888-757-4774 and we'll help you out.</p>
-					</div>
-					<div class="error">
-						<p>I'm sorry, your e-mail was not found in our system.</p>
-						<p>If you think this is a mistake, please contact customer service at 1-888-757-4774 or via e-mail <a href="https://www.supplyhouse.com/pex/control/contactUs">here</a>.</p>
-					</div>
-				</div>
-			</div>
-			<div class="btm"><div><!-- --></div></div>
+				<!-- .spritecontextual.password -->
+<div class="spritecontextual password" id="overlay_pw" style="display: none;">
+	<div class="content">
+		<div class="top"><!-- --></div>
+		<div class="overlay_head clear">
+			<h3 class="hdr_common">Forgot Your Password?</h3>
+			<a class="close">close</a>
 		</div>
-		<!-- /.spritecontextual.password -->
-
-		<!-- START: T&T Sign-In Test: experience D -->
-		<div class="spritecontextual" id="tnt_login_exp_d_pop" style="display: none;">
-			<div class="content">
-				<div class="top"><!-- --></div>
-				<a href="#" class="close">close</a>
-				<div class="overlay_content">
-					<form method="post" id="tnt_login_exp_d_form" action="https://www.supplyhouse.com/pex/control/loginForCheckout">
-						<fieldset class="common">
-							<h3 class="hdr_common">Returning Customers – Sign In</h3>
-							<p>Sign in to access your account and complete your order.</p>
-							<legend class="hidden"><span class="hidden">Sign In Form</span></legend>
-							<label>Email Address</label>
-							<input type="text" class="text required prompt validate-email" name="USERNAME" value="">
-							<label>Password</label>
-							<input type="password" class="text required prompt validate-password" name="PASSWORD" value="">
-							<button class="btn_signin" type="submit">Sign In</button>
-							<a id="trigger_pw_d" href="#">Forgot Password?</a>
-						</fieldset>
-					</form>
-					<div class="guest_checkout">	
-						<h3 class="hdr_common">Checkout as a Guest</h3>
-						<p>You will have the option to create an account on the order confirmation page.</p>
-					</div>
+		<div class="overlay_content">
+			<form id="forgotPassword_form" method="post" action="https://www.supplyhouse.com/pex/control/forgotpassword">
+				<p>Please enter the email address associated with your account and we will send you a link to reset your password.</p>
+				<div class="clear">
+					<input name="USERNAME" class="text required validate-email" type="text" value="">
+					<button type="submit" class="btn_send">Send</button>
 				</div>
+			</form>
+			<div class="success">
+				<p>Your password reset link is on its way. If you have problems accessing your account, please contact us at 888-757-4774 and we'll help you out.</p>
 			</div>
-			<div class="btm"><div><!-- --></div></div>
+			<div class="error">
+				<p>I'm sorry, your email address was not found in our system.</p>
+				<p>If you think this is a mistake, please contact Customer Service at 888-757-4774 or <a href="https://www.supplyhouse.com/pex/control/contactUs">email us</a>.</p>
+			</div>
 		</div>
-		<!-- END: T&T Sign-In Test: T&T experience D by ai 08/08/2011 -->
-
+	</div>
+	<div class="btm"><div><!-- --></div></div>
+</div>
+<!-- /.spritecontextual.password -->
 				
 
 
@@ -776,6 +820,8 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<li><a href="http://www.supplyhouse.com/customerservice/safe-shopping">Safe Shopping</a></li>
 			<li><a href="http://www.supplyhouse.com/customerservice/shipping-policy">Shipping Policy</a></li>
 			<li><a href="http://www.supplyhouse.com/customerservice/delivery-estimate">Delivery Estimate</a></li>
+		
+		
 			<li><a href="http://www.supplyhouse.com/freight-orders">Freight Orders</a></li>
 			<li><a href="https://www.supplyhouse.com/pex/control/returnPolicy">Returns &amp; Exchanges</a></li>
 			<li><a href="http://www.supplyhouse.com/customerservice/product-availability">Product Availability</a></li>
@@ -784,6 +830,11 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 			<li><a href="http://www.supplyhouse.com/privacy" class="active">Privacy Policy</a></li>
 			<li><a href="http://www.supplyhouse.com/terms">Terms of Use</a></li>
 			<li><a href="http://www.supplyhouse.com/reviews-contest">Reviews Contest</a></li>
+			<li><a href="http://www.supplyhouse.com/knockout">Knockout Challenge</a></li>
+		
+			<li><a href="http://www.supplyhouse.com/facebook-contests">Facebook Contests</a></li>
+		
+		
 	</ul>
 </div>
 
@@ -853,14 +904,17 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 </div>
 
 			</div>
-			
 			<!-- /#content -->
-			
+		</div>
+		<!-- /#wrapper -->
+
+		<!-- #footer -->
+		<div id="footer">
 			<!-- #content_subscribe -->
 			<div id="content_subscribe" class="clear">
 				<a href="http://www.supplyhouse.com/"><img src="http://s3.supplyhouse.com/html/img/logo/supplyhouse/logo_subscribe.gif" alt="SupplyHouse.com Logo" width="158" height="51"></a>
 				<h4>Join Our Mailing List - <em>Sign up and receive special offers and coupons</em></h4>
-				<form action="http://www.supplyhouse.com/" method="post">
+				<form method="post">
 					<fieldset class="common clear">
 						<legend class="hidden"><span class="hidden">Join Mailing List Form</span></legend>
 						<div class="field text">
@@ -871,132 +925,147 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 				</form>
 			</div>
 			<!-- /#content_subscribe -->
-		</div>
-		<!-- /#wrapper -->
-		
-		<!-- #footer -->
-		<div id="footer">
+
+			<!-- .footer_content -->
 			<div class="footer_content">
 				<div class="footer_top clear">
-					
 					<!-- .col -->
-					<div class="col">
+					<div class="col first">
 						<h3><a href="http://www.supplyhouse.com/customerservice">Customer Service</a></h3>
 						<ul>
-							<li><a href="https://www.supplyhouse.com/pex/control/contactUs">Contact Us</a></li>
-							<li><a href="http://www.supplyhouse.com/customerservice/shipping-policy">Shipping Policy</a></li>
-							<li><a href="https://www.supplyhouse.com/pex/control/returnPolicy">Returns &amp; Exchanges</a></li>
-							<li><a href="http://www.supplyhouse.com/customerservice/low-price-guarantee">Low Price Guarantee</a></li>
-							<li><a href="http://www.supplyhouse.com/customerservice/faqs">FAQs</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Customer Service','Contact Us');" href="https://www.supplyhouse.com/pex/control/contactUs">Contact Us</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Customer Service','Shipping Policy');" href="http://www.supplyhouse.com/customerservice/shipping-policy">Shipping Policy</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Customer Service','Returns &amp; Exchanges');" href="https://www.supplyhouse.com/pex/control/returnPolicy">Returns &amp; Exchanges</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Customer Service','Low Price Guarantee');" href="http://www.supplyhouse.com/customerservice/low-price-guarantee">Low Price Guarantee</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Customer Service','FAQs');" href="http://www.supplyhouse.com/customerservice/faqs">FAQs</a></li>
 						</ul>
 						
-						<h3><a href="http://www.supplyhouse.com/our-company">About Us</a></h3>
+						<h3><a onclick="analyticsTrackingCode('Footer','About Us','About Us');" href="http://www.supplyhouse.com/our-company">About Us</a></h3>
 						<ul>
-							<li><a href="http://www.supplyhouse.com/meet-the-team">Meet The Team</a></li>
-							<li><a href="http://www.supplyhouse.com/quote-of-the-day">Quote of the Day</a></li>
-							<li><a href="http://www.supplyhouse.com/testimonials">Testimonials</a></li>
-							<li><a href="http://www.supplyhouse.com/supplyhouse-gear">SupplyHouse Gear</a></li>
-							<li><a href="http://www.supplyhouse.com/careers">Careers</a></li>
-							<li><a href="http://www.supplyhouse.com/coupons?cmpid=coup-ftr">SupplyHouse Coupons</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','Meet The Team');" href="http://www.supplyhouse.com/meet-the-team">Meet The Team</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','Quote of the Day');" href="http://www.supplyhouse.com/quote-of-the-day">Quote of the Day</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','Testimonials');" href="http://www.supplyhouse.com/testimonials">Testimonials</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','SupplyHouse Gear');" href="http://www.supplyhouse.com/supplyhouse-gear">SupplyHouse Gear</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','Careers');" href="http://www.supplyhouse.com/careers">Careers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','About Us','SupplyHouse Coupons');" href="http://www.supplyhouse.com/coupons?cmpid=coup-ftr">SupplyHouse Coupons</a></li>
 						</ul>
 					</div>
 					<!-- /.col -->
 					
 					<!-- .col -->
 					<div class="col">
-						<h3><a href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
+						<h3><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Plumbing Supplies');" href="http://www.supplyhouse.com/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Access-Doors-909000">Access Doors</a></li>
-							<li><a href="http://www.supplyhouse.com/AO-Smith-Residential-Water-Heaters-10084000">AO Smith Water Heaters</a></li>
-							<li><a href="http://www.supplyhouse.com/Aqua-Pure-Water-Filters-11900000">Aqua-Pure Water Filters</a></li>
-							<li><a href="http://www.supplyhouse.com/Backflow-Preventers-1619000">Backflow Preventers</a></li>
-							<li><a href="http://www.supplyhouse.com/Ball-Valves-5000">Ball Valves</a></li>
-							<li><a href="http://www.supplyhouse.com/Bradford-White-Residential-Water-Heaters-11200000">Bradford White Water Heaters</a></li>
-							<li><a href="http://www.supplyhouse.com/Copper-Fittings-130000">Copper Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/Propress-Fittings-892000">ProPress Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/PVC-Fittings-470000">PVC Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/Stiebel-Eltron-Electric-Tankless-Water-Heaters-1815000">Steibel Eltron Tankless Heaters</a></li>
-							<li><a href="http://www.supplyhouse.com/Sump-Pumps-1424000">Sump Pumps</a></li>
-							<li><a href="http://www.supplyhouse.com/Takagi-Tankless-Water-Heaters-684000">Takagi Tankless Heaters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Access Doors');" href="http://www.supplyhouse.com/Access-Doors-909000">Access Doors</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','AO Smith Water Heaters');" href="http://www.supplyhouse.com/AO-Smith-Residential-Water-Heaters-10084000">AO Smith Water Heaters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Aqua-Pure Water Filters');" href="http://www.supplyhouse.com/Aqua-Pure-Water-Filters-11900000">Aqua-Pure Water Filters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Backflow Preventers');" href="http://www.supplyhouse.com/Backflow-Preventers-1619000">Backflow Preventers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Ball Valves');" href="http://www.supplyhouse.com/Ball-Valves-5000">Ball Valves</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Bradford White Water Heaters');" href="http://www.supplyhouse.com/Bradford-White-Residential-Water-Heaters-11200000">Bradford White Water Heaters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Copper Fittings');" href="http://www.supplyhouse.com/Copper-Fittings-130000">Copper Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','ProPress Fittings');" href="http://www.supplyhouse.com/Propress-Fittings-892000">ProPress Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','PVC Fittings');" href="http://www.supplyhouse.com/PVC-Fittings-470000">PVC Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Steibel Eltron Tankless Heaters');" href="http://www.supplyhouse.com/Stiebel-Eltron-Electric-Tankless-Water-Heaters-1815000">Steibel Eltron Tankless Heaters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Sump Pumps');" href="http://www.supplyhouse.com/Sump-Pumps-1424000">Sump Pumps</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Plumbing Supplies','Takagi Tankless Heaters');" href="http://www.supplyhouse.com/Takagi-Tankless-Water-Heaters-684000">Takagi Tankless Heaters</a></li>
 						</ul>
 					</div>
 					<!-- /.col -->
 					
 					<!-- .col -->
 					<div class="col">
-						<h3><a href="http://www.supplyhouse.com/Heating-Supplies-193000">Heating Supplies</a></h3>
+						<h3><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Heating Supplies');" href="http://www.supplyhouse.com/Heating-Supplies-193000">Heating Supplies</a></h3>
 						<ul>
-							<li><a href="http://www.supplyhouse.com/Baseboard-Heaters-808000">Baseboard Heaters</a></li>
-							<li><a href="http://www.supplyhouse.com/Buderus">Buderus Boilers</a></li>
-							<li><a href="http://www.supplyhouse.com/Burnham">Burnham Boilers</a></li>
-							<li><a href="http://www.supplyhouse.com/Expansion-Tanks-353000">Extrol Tanks</a></li>
-							<li><a href="http://www.supplyhouse.com/Grundfos-Pumps-1838000">Grundfos Pumps</a></li>
-							<li><a href="http://www.supplyhouse.com/Honeywell-Thermostats-283000">Honeywell Thermostats</a></li>
-							<li><a href="http://www.supplyhouse.com/Zone-Valves-Controls-324000">Honeywell Zone Valves</a></li>
-							<li><a href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></li>
-							<li><a href="http://www.supplyhouse.com/Taco-Pumps-1837000">Taco Pumps</a></li>
-							<li><a href="http://www.supplyhouse.com/Triangle-Tube-Prestige-Boilers-1629000">Triangle Tube Boilers</a></li>
-							<li><a href="http://www.supplyhouse.com/Weil-Mclain">Weil Mclain Boilers</a></li>
-							<li><a href="http://www.supplyhouse.com/White-Rodgers-Thermostats-644000">White Rodgers Thermostats</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Baseboard Heaters');" href="http://www.supplyhouse.com/Baseboard-Heaters-808000">Baseboard Heaters</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Buderus Boilers');" href="http://www.supplyhouse.com/Buderus">Buderus Boilers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Burnham Boilers');" href="http://www.supplyhouse.com/Burnham">Burnham Boilers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Extrol Tanks');" href="http://www.supplyhouse.com/Expansion-Tanks-353000">Extrol Tanks</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Grundfos Pumps');" href="http://www.supplyhouse.com/Grundfos-Pumps-1838000">Grundfos Pumps</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Honeywell Thermostats');" href="http://www.supplyhouse.com/Honeywell-Thermostats-283000">Honeywell Thermostats</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Honeywell Zone Valves');" href="http://www.supplyhouse.com/Zone-Valves-Controls-324000">Honeywell Zone Valves</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Radiant Heat');" href="http://www.supplyhouse.com/Radiant-Heat-297000">Radiant Heat</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Taco Pumps');" href="http://www.supplyhouse.com/Taco-Pumps-1837000">Taco Pumps</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Triangle Tube Boilers');" href="http://www.supplyhouse.com/Triangle-Tube-Prestige-Boilers-1629000">Triangle Tube Boilers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','Weil Mclain Boilers');" href="http://www.supplyhouse.com/Weil-Mclain">Weil Mclain Boilers</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Heating Supplies','White Rodgers Thermostats');" href="http://www.supplyhouse.com/White-Rodgers-Thermostats-644000">White Rodgers Thermostats</a></li>
 						</ul>
 					</div>
 					<!-- /.col -->
 					
+					<!-- .col -->
+					<div class="col">
+						<h3><a onclick="analyticsTrackingCode('Footer','PEX','PEX');" href="http://www.supplyhouse.com/pex">PEX</a></h3>
+						<ul>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Fittings');" href="http://www.supplyhouse.com/PEX-Fittings-525000">PEX Fittings</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Manifolds');" href="http://www.supplyhouse.com/PEX-Manifolds">PEX Manifolds</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Plumbing');" href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Tools');" href="http://www.supplyhouse.com/PEX-Tools-26000">PEX Tools</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Tubing for Heating');" href="http://www.supplyhouse.com/PEX-Tubing-223000">PEX Tubing for Heating</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','PEX','PEX Tubing for Plumbing');" href="http://www.supplyhouse.com/PEX-Tubing-516000">PEX Tubing for Plumbing</a></li>
+						</ul>
+						
+						<h3><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','HVAC - Air Conditioning');" href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC - Air Conditioning</a></h3>
+						<ul>
+							<li><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','Fantech Ventilation Fans');" href="http://www.supplyhouse.com/Fantech-Fans-12880000">Fantech Ventilation Fans</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','LG Mini-Split Air Conditioners');" href="http://www.supplyhouse.com/LG-Ductless-Mini-Split-Systems-1667000">LG Mini-Split Air Conditioners</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','Line Sets');" href="http://www.supplyhouse.com/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','Panasonic Ventilation Fans');" href="http://www.supplyhouse.com/Panasonic-Ventilation-Fans-13250000">Panasonic Ventilation Fans</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','HVAC - Air Conditioning','Goodman Air Conditioners');" href="http://www.supplyhouse.com/Goodman-Air-Conditioners-1686000">Goodman Air Conditioners</a></li>
+						</ul>
+					</div>
+					<!-- /.col -->
 					<!-- .col -->
 					<div class="col last">
-						<h3><a href="http://www.supplyhouse.com/pex">PEX</a></h3>
+						<h3><a onclick="analyticsTrackingCode('Footer','Popular Brands','Popular Brands');" href="http://www.supplyhouse.com/pex/control/allBrands">Popular Brands</a></h3>
 						<ul>
-							<li><a href="http://www.supplyhouse.com/PEX-Fittings-525000">PEX Fittings</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Manifolds">PEX Manifolds</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Plumbing-515000">PEX Plumbing</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tools-26000">PEX Tools</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tubing-223000">PEX Tubing for Heating</a></li>
-							<li><a href="http://www.supplyhouse.com/PEX-Tubing-516000">PEX Tubing for Plumbing</a></li>
-						</ul>
-						
-						<h3><a href="http://www.supplyhouse.com/HVAC-Air-Quality-Products-695000">HVAC - Air Conditioning</a></h3>
-						<ul>
-							<li><a href="http://www.supplyhouse.com/Fantech-Fans-12880000">Fantech Ventilation Fans</a></li>
-							<li><a href="http://www.supplyhouse.com/LG-Ductless-Mini-Split-Systems-1667000">LG Mini-Split Air Conditioners</a></li>
-							<li><a href="http://www.supplyhouse.com/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></li>
-							<li><a href="http://www.supplyhouse.com/Panasonic-Ventilation-Fans-13250000">Panasonic Ventilation Fans</a></li>
-							<li><a href="http://www.supplyhouse.com/Goodman-Air-Conditioners-1686000">Goodman Air Conditioners</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','AO Smith');" href="http://www.supplyhouse.com/AO-Smith">AO Smith</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Bell &amp; Gossett');" href="http://www.supplyhouse.com/Bell-and-Gossett">Bell &amp; Gossett</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Bradford White');" href="http://www.supplyhouse.com/Bradford-White">Bradford White</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Fantech');" href="http://www.supplyhouse.com/Fantech">Fantech</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Grundfos');" href="http://www.supplyhouse.com/Grundfos">Grundfos</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Honeywell');" href="http://www.supplyhouse.com/Honeywell">Honeywell</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Taco');" href="http://www.supplyhouse.com/Taco">Taco</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Triangle Tube');" href="http://www.supplyhouse.com/Triangle-Tube">Triangle Tube</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Uponor');" href="http://www.supplyhouse.com/Uponor">Uponor</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Viega');" href="http://www.supplyhouse.com/Viega">Viega</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Watts');" href="http://www.supplyhouse.com/Watts">Watts</a></li>
+							<li><a onclick="analyticsTrackingCode('Footer','Popular Brands','Weil Mclain');" href="http://www.supplyhouse.com/Weil-Mclain">Weil Mclain</a></li>
 						</ul>
 					</div>
-					<!-- /.col -->
-					
+					<!-- /.col -->					
 				</div>
+
 				<div class="fooBadgeContainer">
 					<div class="footerCol1 clearfix">
 						<h3>Connect With Us</h3>
-						<a class="youtube fl" href="http://www.youtube.com/user/SupplyHouse" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a class="sosnavlinks" target="_blank" href="http://www.youtube.com/user/SupplyHouse">Subscribe to our Channel</a></p><br>
-						<a class="facebook fl" href="http://www.facebook.com/SupplyHouse" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a class="sosnavlinks" href="http://www.facebook.com/SupplyHouse" target="_blank">Like Us on Facebook</a></p><br>
-						<a class="ourBlog fl" href="http://blog.supplyhouse.com/" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a class="sosnavlinks" href="http://blog.supplyhouse.com/" target="_blank">Visit Our Blog</a></p><br>
+						<a onclick="analyticsTrackingCode('Connect With Us','Click','Youtube');" class="youtube fl" href="http://www.youtube.com/user/SupplyHouse" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a onclick="analyticsTrackingCode('Connect With Us','Click','Youtube');" class="sosnavlinks" target="_blank" href="http://www.youtube.com/user/SupplyHouse">Subscribe to our Channel</a></p><br>
+						<a onclick="analyticsTrackingCode('Connect With Us','Click','Facebook');" class="facebook fl" href="http://www.facebook.com/SupplyHouse" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a onclick="analyticsTrackingCode('Connect With Us','Click','Facebook');" class="sosnavlinks" href="http://www.facebook.com/SupplyHouse" target="_blank">Like Us on Facebook</a></p><br>
+						<a onclick="analyticsTrackingCode('Connect With Us','Click','Blog');" class="ourBlog fl" href="http://blog.supplyhouse.com/" target="_blank" rel="external"></a><p style="padding-top: 10px;"><a onclick="analyticsTrackingCode('Connect With Us','Click','Blog');" class="sosnavlinks" href="http://blog.supplyhouse.com/" target="_blank">Visit Our Blog</a></p><br>
 					</div>
 					<div class="footerCol2">
 						<h3>Count On Our Customer Service</h3>
 						<div class="badgeLine1 clearfix">
-							<a id="googleSeller" target="_blank" class="fl" href="http://www.google.com/products/seller?zmi=supplyhouse.com">
+							<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','Google Seller');" id="googleSeller" target="_blank" class="fl" href="http://www.google.com/products/seller?zmi=supplyhouse.com">
 								<img alt="Google Seller" src="http://s3.supplyhouse.com/html/img/logo/google_seller.jpg" border="0">
 							</a>
-							<a id="bizrate" target="_blank" class="fl" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--121258.html?rf=sur">
+							<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','Biz Rate');" id="bizrate" target="_blank" class="fl" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--121258.html?rf=sur">
 								<img alt="Biz Rate" src="http://s3.supplyhouse.com/html/img/logo/biz.jpg" border="0">
-							</a> 
-							<a id="nextag" class="fl" href="http://www.nextag.com/SupplyHouse.com~1186363zzzreviewsz1zmainz17-htm" target="_blank" rel="external">
+							</a>
+							<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','Nextag Seller');" id="nextag" class="fl" href="http://www.nextag.com/SupplyHouse.com~1186363zzzreviewsz1zmainz17-htm" target="_blank" rel="external">
 								<img src="http://s3.supplyhouse.com/html/img/logo/logo_nextagnew.jpg" alt="Nextag Seller" width="76" height="67">
 							</a>
-							<a id="price_grabber" class="fl" href="http://www.pricegrabber.com/reviews/supplyhouse-com/r-7269/" target="_blank" rel="external">
+							<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','PriceGrabber');" id="price_grabber" class="fl" href="http://www.pricegrabber.com/reviews/supplyhouse-com/r-7269/" target="_blank" rel="external">
 								<img src="http://s3.supplyhouse.com/html/img/logo/logo_PriceGrabber.jpg" alt="PriceGrabber User Ratings for Supply House" width="67" height="57">
 							</a>
 						</div>
 						<div class="badgeLine2">
 							<div class="fl" style="width: 26px;">&nbsp;</div>
 							<span id="stella" class="fl">
-								<a class="stella-seal"></a>
+								<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','Stella Service');" class="stella-seal"></a>
 								<script defer="" src="//seal.stellaservice.com/public/js/seal.js?companyUrl=supplyhouse.com"></script>
 							</span>
-					  		<a id="resellerrating" href="https://www.resellerratings.com" class="fl" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=28226','name','height=760,width=780,scrollbars=1');return false;"><img alt="Reseller Ratings" style="border:none;" src="https://seals.resellerratings.com/seal.php?seller=28226" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;"></a>
-							<a id="bbb" class="fl" rel="nofollow" href="javascript:void(window.open('https://www.bbb.org/online/consumer/cks.aspx?id=1090121133511860', 'BBB', 'width=550,height=450, location=no, menubar=no, status=no,toolbar=no, scrollbars=yes, resizable=yes'))"><img src="http://s3.supplyhouse.com/html/img/logo/bbb_logo.jpg" alt="BBB Reliability Seal" width="111" height="42"></a>
+							<a id="resellerrating" href="https://www.resellerratings.com" class="fl" onclick="analyticsTrackingCode('Count On Our Customer Service','Click','Reseller Ratings');window.open('https://seals.resellerratings.com/landing.php?seller=28226','name','height=760,width=780,scrollbars=1');return false;"><img alt="Reseller Ratings" style="border:none;" src="https://seals.resellerratings.com/seal.php?seller=28226" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;"></a>
+							<a onclick="analyticsTrackingCode('Count On Our Customer Service','Click','BBB.org');" id="bbb" class="fl" rel="nofollow" href="javascript:void(window.open('https://www.bbb.org/online/consumer/cks.aspx?id=1090121133511860', 'BBB', 'width=550,height=450, location=no, menubar=no, status=no,toolbar=no, scrollbars=yes, resizable=yes'))"><img src="http://s3.supplyhouse.com/html/img/logo/bbb_logo.jpg" alt="BBB Reliability Seal" width="111" height="42"></a>
 						</div>
 					</div>
 					<div class="footerCol3 clearfix">
@@ -1005,33 +1074,32 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 							<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.supplyhouse.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
 						</div>
 						<a id="mcafee" class="fl" href="https://www.mcafeesecure.com/RatingVerify?ref=www.supplyhouse.com" target="_blank" rel="external"><img width="65" height="37" style="border: 0;" src="//images.mcafeesecure.com/meter/www.supplyhouse.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
-						
+
 						<div class="fooClear"></div>
 						<a href="http://www.supplyhouse.com/meet-the-team"><img src="http://s3.supplyhouse.com/html/img/logo/real_people_real_service.jpg" alt="Real People Real Service" title="Real People Real Service" width="181" height="27"></a>
 					</div>
 					<div class="merge"></div>
 				</div>
-				
 			</div>
+			<!-- /.footer_content -->
+
+			<!-- .footer_mid -->
+			<div id="footer_mid">
+				<span id="phcc" class="fl"><img src="http://s3.supplyhouse.com/html/img/logo/logo_PHCC.jpg" alt="PHCC" width="76" height="67"></span>
+				<p>At SupplyHouse.com, our goal is to bring you the highest quality plumbing, heating and HVAC supplies at competitive prices. Our product catalog includes PEX Plumbing Supplies, Radiant Heat Supplies, VisionPro Honeywell Thermostats, Taco pumps and mini-split air conditioners. If there are items you are looking for but can't find on our website, please contact our Customer Service Representatives &amp; we will do our best to find what you need.</p>
+				<div class="utility clear">
+					<p class="copyright">© 2014 SupplyHouse.com</p>
+					<ul class="clear">
+						<li><a href="http://www.supplyhouse.com/terms">Terms of Use</a></li>
+						<li><a href="http://www.supplyhouse.com/privacy">Privacy Policy</a></li>
+						<li class="last"><a href="http://www.supplyhouse.com/sitemap">Site Map</a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- /.footer_mid -->
 		</div>
-		<!-- /#footer -->
-		<div class="footer_mid" id="footer_mid">
-		<span id="phcc" class="fl"><img src="http://s3.supplyhouse.com/html/img/logo/logo_PHCC.jpg" alt="PHCC" width="76" height="67"></span> 
-		
-		  <p>At SupplyHouse.com, our goal is to bring you the highest quality plumbing, heating and HVAC supplies at competitive prices. Our product catalog includes PEX Plumbing Supplies, Radiant Heat Supplies, VisionPro Honeywell Thermostats, Taco pumps and mini-split air conditioners. If there are items you are looking for but can't find on our website, please contact our Customer Service Representatives &amp; we will do our best to find what you need.</p>
-		  <div class="utility clear">
-		    <p class="copyright">© 2014 SupplyHouse.com</p>
-		    <ul class="clear">
-		      <li><a href="http://www.supplyhouse.com/terms">Terms of Use</a></li>
-		      <li><a href="http://www.supplyhouse.com/privacy">Privacy Policy</a></li>
-		      <li class="last"><a href="http://www.supplyhouse.com/sitemap">Site Map</a></li>
-		    </ul>
-		  </div>
-		</div>
-		
-	</div>
+		<!-- /#footer -->	</div>
 	<!-- /#container -->
-	<div style="display:block;height:30px;"></div>
 	
 	<div id="modal_overlay" style="display: none;"><!-- --></div>
 	<!-- Analytics -->
@@ -1103,17 +1171,6 @@ src="https://www.facebook.com/tr?id=235932639947594&ev=NoScript"
 	<!-- End SiteCatalyst code version: H.20.3. -->
 
 	
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-47425346-1']);
-		_gaq.push(['_setDomainName', 'supplyhouse.com']);
-		_gaq.push(['_trackPageview']);
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
 	<div id="ClickTaleDiv" style="display: none;"></div>
 	<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
 	<script type="text/javascript">
