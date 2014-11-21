@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013946id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds5) for the most accurate reproduction.*
 
 # Affair Alert - Married Dating and Secret Affairs
 
@@ -44,13 +44,4 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
-
-  * [**Member Login**](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=login&from=s4) | 
-  * [Customer Service](http://www.datingsitesupport.com/) | 
-  * [Terms of Service](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=terms&from=s4) | 
-  * [Privacy Policy](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=pp&from=s4)
-
-
-
-AffairAlert.com is different. Unlike other online dating sites, we simply give you all the tools at your hands to find the hottest most compatible partners for a hot affair. AffairAlert.com makes online dating easy and fun to meet with local singles. Membership is free and you decide how much to reveal about yourself to local singles. Hundreds of single men and women in your local area are seeking hot affairs, friendship, and romance and are already AffairAlert .com members. More members are joining every day. Take the work out of dating and join AffairAlert.com today. Start finding dates to chat with on our new online dating site and start having hot affairs with single women or men today!
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
