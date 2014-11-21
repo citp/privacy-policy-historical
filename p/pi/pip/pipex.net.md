@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipex.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115735id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipex.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121050620id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkTalk Business
 
@@ -6,7 +6,7 @@
 
 **This policy (together with our[Terms of Use](https://web.archive.org/legal/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us online or on our mobile service, will be processed by us.  ** **Please read the following privacy policy to understand how we use and protect the information you provide to us.**
 
-Download our [Privacy Policy](https://web.archive.org/elqNow/elqRedir.htm?ref=http://www.talktalkbusiness.co.uk/Documents/Legal/Privacy_Policy.pdf)
+Download our [Privacy Policy](https://web.archive.org/elqNow/elqRedir.htm?ref=http://www.talktalkbusiness.co.uk/Documents/Legal/TTB%20Privacy%20Policy.pdf)
 
 ##### About TalkTalk Business
 
