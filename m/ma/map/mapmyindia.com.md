@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapmyindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072351id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyindia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064925id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: MapmyIndia
 
