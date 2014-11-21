@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041125id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105558id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
 
 # Turkish products shipped worldwide from New York, USA
 
 This is the web site of **www.tulumba.com**. 
 
 Our postal address is   
-**129 15th Street  
-Brooklyn, NY 11215**
+**52 Graham Street  
+Jersey City, NJ 07307**
 
 We can be reached via e-mail at [info@tulumba.com](mailto:info@tulumba.com)  
 or you can reach us by telephone at 8668858622 
@@ -19,7 +19,7 @@ The information we collect is used for internal review and is then discarded.
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site .
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at <https://www.tulumba.com/accinfo.asp?msg=002>.
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at <https://www.tulumba.com/accinfo.asp?msg=002>.  After you login to your account, you will be directed to Your Account where you will have the Communication Preferences.  You can choose to have no promotional emails, or selected ones.
 
 We never give your email to 3rd parties.
 
