@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koinlocal6.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054710id_/http%3A//koin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koinlocal6.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005249id_/http%3A//koin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KOIN.com
+# KOIN 6 privacy policy
 
 The following Privacy Policy governs the online information collection practices of **KOIN.com** (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the **KOIN.com** web site (the “Site”) and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
