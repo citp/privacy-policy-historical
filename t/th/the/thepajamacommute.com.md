@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepajamacommute.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214509id_/http%3A//thepajamacommute.com/pdf/pbl_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepajamacommute.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121051704id_/http%3A//thepajamacommute.com/pdf/privacy_policy_cbk_july2014.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,6 @@ us, or to change your expressed interests. If you wish to do this, simply follow
 instructions at the end of any email.
 If you have received unwanted, unsolicited email sent via this system or purporting to be
 sent via this system, please forward a copy of that email with your comments to
-support@paidtobuildyourlist.com for review.
-This Privacy Policy was last updated on April 8, 2013
+mypajamacommute@gmail.com for review.
+This Privacy Policy was last updated on July 1, 2014
 .
