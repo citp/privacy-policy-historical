@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627234928id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095527id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
 # RalphLauren.com Customer Assistance
 
@@ -20,7 +20,7 @@
    Choose a link to select a section.  
 _**Ralph Lauren Corporation**_  
    Website and Store Privacy Notice  
-   Last modified: January 4, 2014  
+   Last modified: October 21, 2014  
   
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website. 
 
@@ -94,7 +94,7 @@ You may be able to sign up on this site to receive electronic newsletters and pr
 
 _Mobile Marketing_
 
-You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number on this website. If you use this feature, we will send you communications about our products, services and promotions by text message and voice message. In the U.S., you may, at any time, opt out of receiving these communications by sending a text message with the word "STOP" to short code 23000. Outside the U.S., you may, at any time, opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. 
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number online or by texting us. If you sign up for mobile communications, we will send you information about our products, services and promotions by text message. In the U.S., you may opt out of receiving text message communications on your mobile device by sending a text message with the word "STOP" to short code 89448. Outside the U.S., you may opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. 
 
 _Blogs_
 
@@ -124,6 +124,8 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking [here](http://www.google.com/ads/preferences).
 
+We may use eBay Enterprise Targeted Display Advertising Services on this website. You can learn more about how this service functions by [clicking here](http://ebayenterprise.com/privacy/services_privacy.php), and you may opt out of eBay Enterprise targeted display services by [clicking here.](http://ebayenterprise.com/privacy/services_privacy.php%23optout) You also may opt out of eBay Enterprise targeted display services through the [Network Advertising Initiative website.](http://www.networkadvertising.org/managing/opt_out.asp)
+
 _Web Beacons_
 
 Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed. 
@@ -152,6 +154,10 @@ At some of our Stores, you may obtain and complete an application for a Ralph La
 
 Other Ways We Collect Personal Information 
 
+_In-Store Wi-Fi Data Collection_
+
+In certain stores we use a service that analyzes Wi-Fi signals from mobile devices to measure store occupancy and to identify customer traffic patterns in the store. The service determines the location of a smartphone or wireless device by observing Wi-Fi or Bluetooth signals that are broadcast from that device. Individual devices are identified by a media access control ("MAC") address that was assigned to the device when it was manufactured. For the service to collect information from your device, the device's Wi-Fi must be turned on while you are in the store. If your device's Wi-Fi function is enabled, you will receive a pop-up message that asks whether you agree to allow your device's Wi-Fi data to be collected while you are connected to the in-store Wi-Fi network. The service provider that collects information from mobile devices in our stores hashes MAC addresses to anonymize the addresses before using them for analysis purposes. The service provider's reports to us contain only aggregated statistics about visitors to the store. If you change your mind after agreeing to allow your device's Wi-Fi data to be collected, you can opt out by turning off your device's Wi-Fi function or by clicking [here](https://privacy.retailnext.net/). 
+
 _QR Codes_
 
 We use QR codes in connection with certain promotions, contests and special events. If you scan our QR code, you will get an invitation on your mobile device to join our mailing list. To sign up, we ask you for information such as your name, mailing address, email address, telephone numbers, and age. We use the information to communicate with you about our products, services and promotions. 
@@ -163,6 +169,8 @@ You may call our customer service line for information about our products or per
 _Other Ways We Obtain and Use Information_
 
 In addition to the ways we collect information about you described above, we also may obtain information about you from third parties. We may use your personal information to provide you with products or services you request (such as tailoring services or merchandise returns), enhance your shopping experience and communicate with you about our products, services and promotions. In addition, we may use your personal information for internal purposes, such as fraud and theft prevention, accident reporting, development and administration of our sites and Stores, data analytics, and compliance with our legal obligations, policies and procedures. 
+
+We also may use information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
 _Department Stores_
 
@@ -215,6 +223,10 @@ We offer you certain choices about how we communicate with you and what informat
 You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). Our website is not designed to respond to "do not track" signals received from browsers. 
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes. 
+
+To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://www.adobe.com/privacy/analytics.html). To opt out of eBay Enterprise targeted display services, please [click here.](http://ebayenterprise.com/privacy/opt-out.php)
+
+To opt out of Wi-Fi data collection in our stores after you have opted in, either turn off your device's Wi-Fi function or click [here](https://privacy.retailnext.net/). 
 
    
 
@@ -288,7 +300,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
 
-Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20140627234928id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20141121095527id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
 
 **Purpose of Collection and Use of Personal Information**
 
