@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521172732id_/http%3A//www.maa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maa.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121103815id_/http%3A//www.maa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mathematical Association of America
 
@@ -10,27 +10,27 @@ This is the Mathematical Association of America (MAA) Internet Privacy Policy, w
 
 At MAA, we place the highest importance on respecting and protecting the privacy of our members and customers. You are our most important asset and we value our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site.
 
-####  We Protect Your Information
+#### We Protect Your Information
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information.
 
-####  Data Retention
+#### Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [maaservice@maa.org](mailto:maaservice@maa.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-####  We Tell You How We Use Your Information
+#### We Tell You How We Use Your Information
 
 When we ask you for information, we will tell you – or it will be clear – what we need to know to fulfill your request and how the information you provide to us will be used. For example, if you become a member or order a product from us, we will ask you for your name and contact information such as mailing address, phone number, credit card information, and e-mail address. In addition to responding to your request, we use your contact information to communicate with you. We also tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey.
 
-####  We Tell You About Our Relationships With Third Parties
+#### We Tell You About Our Relationships With Third Parties
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
 We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders, providing customer service or delivering subscription content. These service providers are contractually required to maintain the confidentiality of the information we provide them. When you request any of these products or services, you are permitting us to provide your personal information to the contractor to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant.
 
-####  We Tell You How We Use Web Technology
+#### We Tell You How We Use Web Technology
 
 Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. Cookies are also used to maintain session data and may also be used to authorize you to access content provided by a third-party business partner.
 
@@ -40,7 +40,7 @@ Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images
 
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-####  We Give You Choice and Control
+#### We Give You Choice and Control
 
 We may use your contact information to tell you about other products we think might interest you. Specifically, with your consent we sell this information to third-parties we feel may provide goods and services that may be of interest to our members. If you do not want us to share your personal information with these companies, contact us at [maaservice@maa.org](mailto:maaservice@maa.org). Mailing address information is also used to compile the Combined Membership List (CML) used by the following organizations -Mathematical Association of America (MAA), American Mathematical Society (AMS), Society for Industrial and Applied Mathematics (SIAM), American Mathematical Association of Two-Year Colleges (AMATYC), the Association for Women in Mathematics (AWM), the Canadian Mathematical Society (CMS) - Société mathématique du Canada (SMC), and the Mathematical Programming Society (MPS).
 
@@ -58,4 +58,4 @@ Mathematical Association of America
 1529 18th Street, NW  
 Washington, DC 20036
 
-If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) .
+If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) .
