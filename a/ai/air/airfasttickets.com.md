@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfasttickets.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610005707id_/http%3A//content.airfasttickets.com/cookies-policy%3Fculture%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfasttickets.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101903id_/http%3A//content.airfasttickets.com/cookies-policy%3Fculture%3Den-US) for the most accurate reproduction.*
 
 # AirFastTickets - Privacy Policy
 
