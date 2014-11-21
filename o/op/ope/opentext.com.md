@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031192558id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001208id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -22,7 +22,7 @@ When visiting our Website there is always an option not to provide Personal Data
 
   * Creation of a customer account that enables you to download OpenText asset and product and other information;
   * Responding to your inquiry and/or providing you access to specific information as requested by you;
-  * Registration to OpenText events 
+  * Registration to OpenText events
   * Distribution and marketing purposes
 
 
@@ -43,7 +43,7 @@ Depending on context, we may also collect additional Personal Data to successful
 
 ### Cookies
 
-See [Information About Cookies on this OpenText Website](http://www.opentext.com/2/global/company/site-cookies-information.htm).
+See [Information About Cookies on this OpenText Website](https://web.archive.org/who-we-are/copyright-information/site-cookies-information).
 
 ### IP Addresses
 
@@ -71,15 +71,15 @@ We are committed to ensuring that your Personal Data is secure. In order to prev
 
 
 
-### Reporting a Security Vulnerability 
+### Reporting a Security Vulnerability
 
 OpenText reviews all reports of security vulnerabilities affecting OpenText products and services.
 
-If you are an OpenText customer or partner, please contact [Customer Support](http://www.opentext.com/2/global/services/services-support.htm) with details of the vulnerability.
+If you are an OpenText customer or partner, please contact [Customer Support](https://web.archive.org/support) with details of the vulnerability.
 
-If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [otst@opentext.com](mailto:otst@opentext.com). 
+If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [otst@opentext.com](mailto:otst@opentext.com).
 
-Please click [here](http://www.opentext.com/2/global/company/security-acknowledgements.htm) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
+Please click [here](https://web.archive.org/who-we-are/copyright-information/security-acknowledgements) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
 
 ### Safe Harbor
 
