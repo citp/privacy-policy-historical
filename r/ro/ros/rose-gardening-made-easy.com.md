@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rose-gardening-made-easy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213195951id_/http%3A//www.rose-gardening-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rose-gardening-made-easy.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121213256id_/http%3A//www.rose-gardening-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, About Your Private Information
 
