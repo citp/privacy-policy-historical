@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216122045id_/http%3A//www.totallylayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024136id_/http%3A//www.themesltd.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.totallylayouts.com/terms.php
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.themesltd.com/terms.php
 
 Your Consent 
 
@@ -51,4 +51,4 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-http://www.totallylayouts.com/contact/contact.php 
+http://www.themesltd.com/contact/contact.php 
