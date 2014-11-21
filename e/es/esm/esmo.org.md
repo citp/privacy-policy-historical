@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626182709id_/http%3A//www.esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182620id_/http%3A//www.esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # ESMO Privacy & Data Security Policy | ESMO
 
@@ -207,8 +207,11 @@ Despite ESMO’s efforts to protect your personal data, there is always some ris
 
 ### Use of Cookies
 
-Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. They are small text files that a website can use to recognise repeat users and facilitate their ongoing access to, and use of, the site. They do not pose a threat to your system or files.  
+Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. They are small text files that a website can use to recognise repeat users and facilitate their ongoing access to, and use of, the site. They do not pose a threat to your system or files.
+
 The use of cookies is an industry standard, and many websites use them to provide useful features. Cookies in and of themselves do not personally identify users. Most browsers are set initially to accept cookies. You can set your computer to reject cookies. However, if you do choose to disable cookies, you will not be able to enjoy the full range of online services available through the ‘My ESMO’ area.
+
+When you use our websites, services, applications, messaging and tools, ESMO or authorised service providers may collect information such your IP address, geographical location, referral source, length of visit and pages viewed. We use this information to operate and improve the websites.
 
 ### Use of web analytics
 
@@ -220,4 +223,4 @@ Click Stream Information. A record of all the pages you have visited during your
 
 If you have any further questions about the ESMO Privacy and Security Policy or its implementation, or if at any time you believe that ESMO has not adhered to the principles stated in this Policy, please [ contact us](https://web.archive.org/Contact-Us) by email (select 'Membership').
 
-Last update: 27 June 2013
+Last update: 18 July 2014
