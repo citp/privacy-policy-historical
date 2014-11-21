@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052938id_/http%3A//outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090827id_/http%3A//outdoorchannel.com/content.aspx%3Fid%3D3927) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoor Channel
+
+## Privacy Policy
 
 **Effective Date: May 14, 2013**
 
@@ -42,4 +44,4 @@ Upon request , we provide site visitors to our web site with access to all infor
 
 If you feel that this web site is not following its stated information policy Privacy Policy, you may contact us at the email address or phone number below
 
-Our postal address is: **11203 East Peakview Avenue, Centennial, CO 80111**. We can be reached via email at [info@outdoorchannel.com](mailto:info@outdoorchannel.com).
+Our postal address is: **1000 Chopper Circle, Denver, CO 80204**. We can be reached via email at [info@outdoorchannel.com](mailto:info@outdoorchannel.com).
