@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214080748id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070228id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
 
-Get Social with  
-MassageM4M
-
-[](https://www.facebook.com/MassageM4M "facebook")
-
-[](http://twitter.com/massagem4m "twitter")
-
-[](http://google.com/+massagem4m "google+")
-
-Share:
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.massagem4m.com&media=http%3A%2F%2Fwww.massagem4m.com%2Fimages%2FM4M.png&description=Gay%20Massage%20%26%20Male%20Massage%20Directory%20of%20Masseurs%20%7C%20MassageM4M.com)
-
-  
-
+We're upgrading MassageM4M to new servers. Please report any feedback or bugs [here](https://web.archive.org/contact.cfm).
 
 ### Most Popular Private Photos
 
@@ -123,16 +109,24 @@ Beverly Hills, CA 90212
 
 ### You recently viewed these masseurs
 
-Scott
+Josh
 
-[](http://www.massagem4m.com/ca/los-angeles/15094/)
+[](http://www.massagem4m.com/az/phoenix/14938/)
 
-River
+Mike
 
-[](http://www.massagem4m.com/ca/west-hollywood/16423/)
+[](http://www.massagem4m.com/ca/palm-springs/17472/)
+
+Hanza
+
+[](http://www.massagem4m.com/ca/hillcrest/17217/)
+
+Alejandro
+
+[](http://www.massagem4m.com/ca/west-hollywood/16342/)
 
 ### Important Notice: You must be 18 years or older to use this website. If you are under 18 years old, please close this window.
 
-Legal Notice: [18 U.S.C. § 2257](http://www.massagem4m.com/legalNotice.cfm) • [Privacy Policy](http://www.massagem4m.com/privacypolicy.cfm)
+Legal Notice: [18 U.S.C. § 2257](https://web.archive.org/legalNotice.cfm) • [Privacy Policy](https://web.archive.org/privacypolicy.cfm)
 
-By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://www.massagem4m.com/terms.cfm) as applied to your use of this website. 
+By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://support.massagem4m.com/entries/21973677-terms-of-use-for-massagem4m-com) as applied to your use of this website. 
