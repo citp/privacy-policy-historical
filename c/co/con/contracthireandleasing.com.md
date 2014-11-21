@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517151946id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064855id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | ContractHireAndLeasing.com
+# Privacy And Data Policy | Contract Hire And Leasing
 
 At Really Good Domains Ltd we are registered under the 1998 Data Protection and are committed to protecting your data and privacy. We have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
@@ -14,10 +14,10 @@ To complete your request we need to know your name, email address, telephone num
 
 We may use your information as follows:
 
-  * To contact you to discuss and services as requested by you. 
-  * To disclose information about you to any relevant regulator if we have a legal duty to do so. 
-  * We may monitor or record telephone conversations with you to ensure consistent service levels, to prevent or detect fraud and for training purposes. 
-  * We may occasionally notify you about enhancements to our services such as new services, features and special offers. 
+  * To contact you to discuss and services as requested by you.
+  * To disclose information about you to any relevant regulator if we have a legal duty to do so.
+  * We may monitor or record telephone conversations with you to ensure consistent service levels, to prevent or detect fraud and for training purposes.
+  * We may occasionally notify you about enhancements to our services such as new services, features and special offers.
   * Details supplied by you to enter a competition are only used by Really Good Domains Ltd & will not be released to any 3rd party 
 
 
@@ -26,9 +26,9 @@ We may use your information as follows:
 
 We protect your information in the following ways:
 
-  * We will not request information which is excessive for our purposes. 
-  * Try, with your assistance, to keep any information we hold about you up to date and accurate. 
-  * Delete any information which we hold about you which is no longer relevant. 
+  * We will not request information which is excessive for our purposes.
+  * Try, with your assistance, to keep any information we hold about you up to date and accurate.
+  * Delete any information which we hold about you which is no longer relevant.
   * Protect your data against unauthorised use. We follow strict security procedures in the storage and disclosure of information that you have given to us to prevent unauthorised access. 
 
 
@@ -46,3 +46,45 @@ By completing any of our online forms, you are consenting to the collection, pro
 ## Third Party Advertising
 
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name,address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you If you would like more information about this practise and to know your choices about not having this information used by these companies [contact us](http://www.reallygooddomains.com/contact/default.asp).
+
+## Cookies and Your Privacy
+
+At Really Good Domains we use cookies to help improve our websites and make your browsing experience more useful, more relevant and tailored to you. In order to comply with recent legislation and in the interests of transparency, we have updated our privacy policy to give you clearer information on the way we use technology such as cookies and how they affect your privacy.
+
+### What are Cookies
+
+Cookies are small encrypted text files that are stored on your computer or other device by this website. They are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Our cookies do not collect any data that could be used to personally identify you.
+
+### Types of Cookies
+
+#### Session Cookies
+
+Session cookies are stored in your computer's memory for the length of your browsing session. They become inaccessible after the session has been inactive for a time and are automatically deleted from your computer when the browser is closed. They help keep track of your progress so you don't have to enter the same information more than once.
+
+#### Persistent Cookies
+
+Persistent cookies are stored on the user's computer memory and are not deleted when the browser is closed. They are used to keep your preferences for the website, so that they will be remembered for next time you visit the website. They are also used to collect information about the numbers of visitors, the average time spent on a particular page and analyse browsing behaviour on the website. This information is used to find out how the well the website works and where it can be improved.
+
+#### First Party Cookies
+
+These are cookies set by this website. Some are necessary to the functionality of the site, others provide information to us that we analyse to monitor and improve the site.
+
+#### Third Party Cookies
+
+We want to provide interesting and engaging content on our website. On a number of pages we use 'plug ins' or embedded media. For example, we embed YouTube videos and Advertising in many pages. The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content.
+
+#### Sharing with social networks
+
+If you use the buttons that allow you to share products and content with your friends via social networks like twitter and facebook, these companies may set a cookie on your computer. Find out more about these here:
+
+<https://www.facebook.com/about/privacy/>   
+<http://twitter.com/privacy>   
+<http://www.google.com/intl/en-GB/policies/privacy/>
+
+### How Do I Opt Out of Cookies?
+
+To make full use of the features on our site you will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
+
+If you'd prefer to restrict, block or delete cookies from contracthireandleasing.com or any other website, you can use your browser to do this though your experience of using the site will be significantly impaired should you do so.
+
+Please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). Information on these websites will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
