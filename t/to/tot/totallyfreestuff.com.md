@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114957id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142652id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
 
 # Totally Free Stuff
 
