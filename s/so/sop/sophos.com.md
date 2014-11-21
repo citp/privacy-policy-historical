@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229115444id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194238id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Sophos Group Privacy Policy - Legal - Sophos
+# Sophos Group Privacy Policy - Legal - Cloud Antivirus, Endpoint, UTM, Encryption, Mobile, DLP, Server, Web, Wireless Security, Network Storage and Next-Gen Firewall Solutions | Sophos Data Protection for Business
 
-This document was last updated on 9 July 2013.
+This document was last updated on 15 October 2014.
 
 ### General
 
@@ -22,11 +22,11 @@ If you provide personal data to us, we will collect that information and use it 
 
 ### Browsing our Site
 
-Every time you connect to the Site, we store a log of your visit that shows the unique number your machine uses when it is connected to the Internet - its IP address. This tells us what your machine has looked at, whether the page request was successful or not and which browser your machine used to view the pages. The use of this data is primarily for statistical purposes. This helps us to understand which areas of the Site are of particular interest and also which pages are not being requested. It also tells how many people are visiting the Site in total. We may attempt to contact you through these details if necessary, including, without limitation, when you are using the wrong paths to access the Site or are breaching restrictions on the use of the Site. We may also use this information to block IP addresses where there is a breach of the Terms and Conditions for use of the Site.
+Every time you connect to the Site, we store a log of your visit that shows the unique number your machine uses when it is connected to the Internet - its IP address. This tells us what your machine has looked at, whether the page request was successful or not and which browser your machine used to view the pages. This data is used for statistical purposes as well as to help customize the user experience as you browse the Site and subsequently interact with Sophos and our partners. This helps us to understand which areas of the Site are of particular interest, which pages are not being requested, and how many people are visiting the Site in total. It also helps us and our partners to determine which products and services may be of specific interest to you. We may attempt to contact you through these details if necessary, including, without limitation, when you are using the wrong paths to access the Site or are breaching restrictions on the use of the Site. We may also use this information to block IP addresses where there is a breach of the Terms and Conditions for use of the Site.
 
 ### Cookies
 
-A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the Cookie Information page on the relevant Site.
+A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the [Cookie Information](http://www.sophos.com/en-us/legal/cookie-information.aspx) page on the relevant Site.
 
 ### Job applicants
 
@@ -69,6 +69,20 @@ When Sophos Mobile Control is installed or updated, you may receive Apple push n
 
 Sophos Mobile Control will store a list of users and mobile devices, and will record any applications downloaded or modifications made to such devices. Your administrator can also configure Sophos Mobile Control to track the geographic location of mobile devices and to lock or wipe a mobile device that has been lost or stolen.
 
+### Sophos Cloud Products
+
+We may directly and remotely communicate with your protected devices for the purposes of, without limitation (i) applying policy and configuration changes to such devices; and (ii) extracting usage information, service performance information, and infection logs. Such communications may include but not be limited to SMS text messages and other push notifications.
+
+You acknowledge and agree that it may be necessary for us to collect and process certain information relating to individuals in order to provide the Cloud products, and that such information may include proprietary, confidential and/or personal data, including without limitation (i) names, email addresses, telephone numbers and other contact details; (ii) account usernames; (iii) IP addresses; (iv) usage information; (v) lists of all software, files, paths and applications installed on the device, (vi) details of changes or attempted changes to executable files, pathnames and scripts, (vii) logs of websites visited; (viii) infection logs; and (ix) files suspected of being infected with malware.
+
+Certain Cloud products may also (at your sole option) enable you to configure the product to (i) track and log the geographic location of devices; (ii) block access to devices; (iii) delete the content of devices; (iv) store text and email messages that were sent and/or received by devices. Such information may also be stored on the device itself and accordingly we recommend that you encrypt your devices.
+
+You warrant that you have obtained all necessary permissions and provided the necessary notifications to share the above information with us for the purposes described. You also acknowledge and agree that it may be necessary under applicable law to inform and/or obtain consent from individuals before you intercept, access, monitor, log, store, transfer, export, block access to, and/or delete their communications. You are solely responsible for compliance with such laws.
+
+### Sophos Cloud Portal
+
+If you select “Enable Partner Access” in the Settings tab of your Sophos Cloud portal, your designated third party partner or service provider will be able to access and administer your Sophos Cloud services on your behalf. If you do not enable such access, your designated third party partner or service provider will only see high-level reporting information such as Sophos Cloud services purchased and current usage information. You may revoke such access at any time by changing the permissions in the Settings tab.
+
 ### Market research
 
 If you participate in surveys, we may use your personal data to carry out market research. This research is conducted for our internal business and training purposes and will improve our understanding of our users’ demographics, interests and behaviour. This research is compiled and analysed on an aggregated basis and therefore does not individually identify any user.
@@ -97,11 +111,7 @@ We send emails from a number of different domains in both plain text and HTML em
 @sophos.co.jp  
 @sophos.it  
 @sophos.au  
-@sophos.com.au  
-@astaro.com  
-@astaro.de  
-@utimaco.com  
-@dialogs.de 
+@sophos.com.au
 
 Emails offering software downloads or free product trials will usually link to web pages on www.sophos.com or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to customerservice@sophos.com so we can investigate.
 
@@ -135,8 +145,8 @@ If you have been given log-in details to provide you with access to certain part
 
 This is the website of Sophos Limited a company registered in England and Wales under company number 2096520 whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom and whose VAT registration number is 991 2418 08.
 
-If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact customerservice@sophos.com. It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 is made to cover administrative costs involved.
+If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact [customerservice@sophos.com](mailto:customerservice@sophos.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 may be made to cover administrative costs involved.
 
 ### Notification of changes
 
-This privacy policy was last updated on 9 July 2013. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 15 October 2014. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
