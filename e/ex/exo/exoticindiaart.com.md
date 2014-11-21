@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330175626id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024040id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
-# Indian Artwork - Gold Jewelry Paintings and Buddha Statues - Exotic India Art
+# Indian Jewelry - Indian Artwork Buddha Statues & Hindu Books | Exotic India Art
 
 [](https://privacy.truste.com/privacy-seal/Indian-Arts-and-Crafts,-LLC-/validation?rid=20ac32c0-32ab-4c2e-85e2-bef7d1ddea6a "TRUSTe online privacy certification")
 
@@ -105,7 +105,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Kapil Goel Exotic India Art Dot Com Pvt Ltd. 63 Model Basti New Delhi 110005 **Tel:** +91-11-4247 3015; 2737 3485
+Kapil Goel Exotic India Art Pvt Ltd. 63 Model Basti New Delhi 110005 **Tel:** +91-11-4247 3015; 2737 3485
 
 [privacy@exoticindiaart.com](mailto:privacy@)
 
