@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cuponation.com.au privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430193327id_/http%3A//www.cuponation.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuponation.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025853id_/http%3A//www.cuponation.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupons and Deals for best australian online shopping sites
-
-### Privacy Policy
 
 PRIVACY POLICY
 
@@ -24,9 +22,9 @@ An Internet Protocol ("IP") address is a unique identifier that certain electron
 
 All information collected by us is stored in accordance with relevant data protection laws in Australia.
 
- Using this information:
+Using this information:
 
- The information that we collect is used to:
+The information that we collect is used to:
 
 Provide you with regular information about CupoNation, including marketing literature.
 
@@ -38,9 +36,9 @@ To improve our website based on information received by you.
 
 Create a personalized experience for you based upon your past visits to our website.
 
- This information is used for the aforementioned uses by CupoNation, CupoNation group companies and our agents and subcontractors.
+This information is used for the aforementioned uses by CupoNation, CupoNation group companies and our agents and subcontractors.
 
- In case you opt-in for our newsletters, we will send you our newsletters and other marketing/promotional materials and may ask you for feedback on our services.  However, you may choose to opt out of such newsletters at any point in the future by unsubscribing from our newsletters.
+In case you opt-in for our newsletters, we will send you our newsletters and other marketing/promotional materials and may ask you for feedback on our services.  However, you may choose to opt out of such newsletters at any point in the future by unsubscribing from our newsletters.
 
 If we do receive your personal information, we will only use it for the purposes described in this policy, and will not disclose the gathered information outside of Cuponation GmbH (CupoNation and CupoNotifier) unless (a) it is necessary in connection with a sale of all or substantially all of the assets of Cuponation GmbH or the merger of Cuponation GmbH into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which Cuponation GmbH is not the survivor, (b) you authorize us to do so, or (c) otherwise as we are required or permitted by law.
 
@@ -68,6 +66,12 @@ We may provide links to other websites that we do not control, these include tho
 
 CupoNation/CupoNotifier users should be aware, that content presented to them through their use of CupoNation/CupoNotifier may include but is not limited to targeted advertisements and other sponsored content. This content displayed as a result of CupoNation/CupoNotifier, may be protected by intellectual property rights which are owned by the sponsors or advertisers who provide that content to or for the use of CupoNation/CupoNotifier (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this content (either in whole or in part) unless you have been specifically told that you may do so by the licensor or the owners of that content, in a separate agreement.
 
+Facebook Sign up:
+
+Your user data may be transmitted to a 3rd party service for the purposes of collection only. Your email will not be used for marketing purposes for any third party not directly related to Cuponation Gmbh.
+
+Facebook login:  We allow users to connect to our platform via Facebook Connect, and store data related to their Facebook account in Cuponation Gmbh systems.  This data can only be used by Cuponation to deliver a more customised offering to users. Any information collected in this manner will not be transmitted to any third parties. Cuponation Gmbh is not responsible for any user information stored by Facebook. Users may disconnect from Cuponation in the Facebook user settings.
+
 Changes to our Privacy Policy:
 
 CupoNation reserves the rights to amend this Privacy Policy, in part or whole, at any time and from time to time. Any such changes will be effective immediately and will be reflected on the website and communicated to users though reasonable means.
@@ -80,4 +84,4 @@ Customer Service
 
 In case of any questions or concerns regarding this Privacy Policy, please reach out to us at contact@cuponation.com
 
- Date 09/08/2013
+Date 09/08/2013
