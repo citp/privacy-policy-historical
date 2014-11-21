@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044556id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121163201id_/http%3A//legal.innogames.com/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -71,7 +71,7 @@ If you use a mobile app, InnoGames, in accordance with the privacy settings you 
 
 We pass on some of this information during the installation of the mobile app to contracted suppliers as well as to other service providers with whom we work who require the duplication or disclosure of this data for the purpose of providing you with the provided services and / or for analysis purposes.
 
-You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by following the instructions of our analysis service provider. You can find these here: <http://www.mobileapptracking.com/privacy-policy/>.
+You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by using the following apps: [https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en](https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en) oder <https://itunes.apple.com/en/app/ad-x-tracking-opt-out/id651367370?mt=8>.
 
 ## 4\. Use of the Scalable Central Measurement Method
 
