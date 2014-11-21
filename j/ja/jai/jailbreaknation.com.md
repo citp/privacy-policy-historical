@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jailbreaknation.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306224418id_/http%3A//www.jailbreaknation.com/jailbreaknation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jailbreaknation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155304id_/http%3A//www.jailbreaknation.com/jailbreaknation-privacy-policy) for the most accurate reproduction.*
 
 # JailbreakNation Privacy Policy
 
