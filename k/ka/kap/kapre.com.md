@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504091302id_/http%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104824id_/http%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaplan Real Estate Education
 
@@ -71,10 +71,12 @@ We may share the information we collect about you in limited circumstances, incl
   
  **Your Ability to Choose**
 
-You can let us know, upfront and at no cost, that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by sending us a written request either by email to feedback@kaplan.com, including the word "Unsubscribe" in the subject line.  
-Review and Correction
+You can let us know, upfront and at no cost, that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by sending us a written request by email to feedback@kaplan.com, including the word "Unsubscribe" in the subject line.
 
-You may review and update the personal information you have provided to us contacting us at [feedback@kaplan.com](mailto:feedback@kaplan.com).
+  
+ **Review and Correction**
+
+You may review and update the personal information you have provided to us by contacting us at [feedback@kaplan.com](mailto:feedback@kaplan.com).
 
  **Security**
 
