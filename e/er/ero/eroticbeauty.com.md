@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eroticbeauty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102334id_/http%3A//eroticbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticbeauty.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024011id_/http%3A//www.eroticbeauty.com/privacy) for the most accurate reproduction.*
 
-# Erotic Beauty: Privacy Policy
+# Erotic Beauty - Privacy
 
 **Hydentra Privacy Policy**
 
 **Last Changes to Privacy Policy: July 24th, 2013**
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Hydentra family of websites located at sexart.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by Hydentra, LP ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Hydentra family of websites located at eroticbeauty.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by Hydentra, LP ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Website and offline through your interactions with us outside of the Website. It does not apply to information collected by websites maintained by other companies or organizations to which we may link.
 
@@ -18,7 +18,7 @@ If you have any questions about this Privacy Policy or don't see your concerns a
 
 Any personal information provided to or to be gathered by Company is controlled primarily by 18034 Ventura Blvd, Suite 181, Encino, CA, 91316.
 
-What Information About Me Is Collected and Stored?
+**What Information About Me Is Collected and Stored?**
 
 Company adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website. Our privacy policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.
 
@@ -104,4 +104,5 @@ You may always opt-out of receiving future e-mail messages and newsletters from 
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@eroticbeauty.com](mailto:support@eroticbeauty.com).
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@eroticbeauty.com](mailto:support@eroticbeauty.com).  
+
