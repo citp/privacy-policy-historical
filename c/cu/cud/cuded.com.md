@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuded.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518165244id_/http%3A//www.cuded.com/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuded.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044303id_/http%3A//www.cuded.com/privay-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cuded
 
