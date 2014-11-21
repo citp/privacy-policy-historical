@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegameswow.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616042934id_/http%3A//www.freegameswow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegameswow.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073734id_/http%3A//www.freegameswow.com/privacy-policy) for the most accurate reproduction.*
 
 # Freegameswow.com Privacy Policy
 
