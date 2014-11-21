@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iahgames.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307174738id_/http%3A//www.iahgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iahgames.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044428id_/http%3A//www.iahgames.com/privacy) for the most accurate reproduction.*
 
 # IAHGames
 
@@ -85,7 +85,7 @@ What choices do I have regarding the collection, use, and distribution of my per
 
 IAH allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, IAH may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" IAH may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings.
 
-Subject to security and privacy concerns, (e.g. regarding your password and credit card number), IAH will give you the ability to review, correct, delete, and/or update your information. To do so, you may send us an email at [privacy@iahgames.com](mailto:privacy@iahgames.com)
+Subject to security and privacy concerns, (e.g. regarding your password and credit card number), IAH will give you the ability to review, correct, delete, and/or update your information. To do so, you may send us an email at[privacy@iahgames.com](mailto:privacy@iahgames.com)
 
 At the time you are asked for your information, we will inform you of the following:
 
@@ -121,7 +121,7 @@ BACK TO TOP
 
 What if I have a question, complaint or wish to update my personal information?
 
-If you wish to update your personal information, have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@iahgames.com](mailto:privacy@iahgames.com)
+If you wish to update your personal information, have any questions or wish to file a complaint, please feel free to e-mail us at[privacy@iahgames.com](mailto:privacy@iahgames.com)
 
 BACK TO TOP
 
