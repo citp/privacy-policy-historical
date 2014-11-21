@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vfbpro.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003112id_/https%3A//vfbpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfbpro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070256id_/http%3A//vfbpro.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Visual Form Builder Pro
+# Privacy Policy - Visual Form Builder Pro
 
 ### What do we do with your information?
 
