@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235004id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104835id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaturalHealthSherpa.com
 
