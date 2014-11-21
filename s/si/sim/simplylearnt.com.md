@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619220638id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064958id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - simplylearnt.com
+
+  
+
 
 **_Privacy Policy_**
 
@@ -95,6 +98,3 @@ Attn: Privacy Policy issues
 F 46/A, Moti Nagar,
 
 New Delhi 110015, India
-
-  
-
