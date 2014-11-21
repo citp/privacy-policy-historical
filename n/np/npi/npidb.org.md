@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123523id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095818id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
 
-# NPIdb - National Provider Identifier DataBase Privacy Policy
-
-[](https://web.archive.org/ "NPI Lookup | NPI Number") NPI Lookup from the NPI Registry
-
-NPIdb.org - Our Privacy Policy
+# NPIdb - Privacy Policy
 
 NPIdb.org respect your right to privacy. None of the information we collect is passed on to other parties, except when required as part of the business services we provide for you, or as required under United States law. 
 
