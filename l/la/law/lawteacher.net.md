@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2011-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110923032901id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100250id_/http%3A//www.lawteacher.net/order/essaywritingorder/help/help.php%3Fscript%3Dprivacy-policy.php%26from%3DLaw%2BTeacher%26sid%3D14) for the most accurate reproduction.*
 
-# Law Teacher | Privacy Policy
-
-## Law Teacher Privacy Policy
+# HELP & INFORMATION
 
 Law Teacher is a website belonging to All Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
 
 Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to All Answers Limited, unless otherwise indicated.
 
-### Collecting your information
+## Collecting your information
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website(s). This may happen, for example, when you make a purchase from us, when you apply to be a writer, when you subscribe to a newsletter, when you enter a competition or when you register for personalised services such as your customer control panel.
 
@@ -82,15 +80,12 @@ You generally have the opportunity to set your computer to accept all cookies, t
 
 If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas. The customer login area, for example, relies on cookies to help identify you, and to identify if you are logged in or logged out at any time.
 
-### Links to other websites
+Click here for more information about the cookies we use on this website.
+
+## Links to other websites
 
 Our websites may contain links to other sites outside the group. All Answers Limited is not responsible for the privacy and security of these sites unless they belong to All Answers. This privacy policy applies only to All Answers Limited Websites.
 
 If you are unsure whether a website belongs to All Answers Limited or not, just email our enquiries email address, or give us a call.
 
 If you have any more questions about the way we handle data, please call or email us. If you have a more in-depth question, please email our enquiries address, marked for the attention of the legal department.
-
-  
-
-
-[](http://www.lawteacher.net/bundles.php?utm_source=corner&utm_medium=onsite&utm_campaign=bundles&utm_nooverride=1)
