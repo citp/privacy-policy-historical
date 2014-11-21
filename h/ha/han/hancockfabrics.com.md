@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082414id_/http%3A//hancockfabrics.com/security-privacy/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045746id_/http%3A//hancockfabrics.com/security-privacy/security-privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -41,7 +41,7 @@ Baldwyn, MS 38824
 
 ## Need Help?
 
-If you have any question or need help with your account, you may [Contact Us](https://hancockfabrics.com/contactus) to assist you.
+If you have any question or need help with your account, you may [Contact Us](http://hancockfabrics.com/contactus) to assist you.
 
 ## Customer Service
 
