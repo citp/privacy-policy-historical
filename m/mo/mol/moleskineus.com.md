@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606143008id_/http%3A//shop.moleskine.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105435id_/http%3A//shop.moleskine.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Moleskine Privacy Policy - Moleskine United States
 
