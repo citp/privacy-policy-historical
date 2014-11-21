@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gourmettraveller.com.au privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515124842id_/http%3A//www.gourmettraveller.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmettraveller.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121010024id_/http%3A//www.gourmettraveller.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gourmet Traveller
+# Privacy Policy :: Gourmet Traveller
 
 #### **Bauer Media Pty Limited: Privacy Policy**
 
