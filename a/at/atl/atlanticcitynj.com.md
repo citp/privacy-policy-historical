@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326173106id_/http%3A//www.atlanticcitynj.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182638id_/http%3A//atlanticcitynj.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,8 +86,8 @@ If you have any questions about our Privacy Policy and conditions of use, any co
 
 E-mail: webmaster@accva.com 
 
-Atlantic City Convention & Visitors Authority   
-Attention: Webmaster 
+Atlantic City Convention & Visitors Authority  
+Attention: Webmaster
 
 2314 Pacific Avenue
 
