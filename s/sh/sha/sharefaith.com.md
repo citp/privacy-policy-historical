@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101359id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025756id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Sharefaith values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). This Privacy Statement describes how Sharefaith collects and uses information about you when you use the Sharefaith web site ("Site"). 
+Sharefaith values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Support@Sharefaith.com](mailto:Support@Sharefaith.com). This Privacy Statement describes how Sharefaith collects and uses information about you when you use the Sharefaith web site ("Site"). 
 
 **Collection and Use of Personal Information by Sharefaith**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Sharefaith uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). **
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Sharefaith uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Support@Sharefaith.com](mailto:Support@Sharefaith.com). **
 
 Cookies
 
@@ -18,7 +18,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about Sharefaith promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from SHarefaith by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. 
+We may send you information from time to time about Sharefaith promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from SHarefaith by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Support@Sharefaith.com](mailto:Support@Sharefaith.com) and, for third party promotional offerings, by contacting the source of that promotional offering. 
 
 We sometimes use the non-personal identifiable information that we collect to improve the design, content and promotion of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, upgrades or services through banner ads and other ad-material. 
 
@@ -26,7 +26,7 @@ Sharefaith uses services such as Google Analytics for Sharefaith DisplayAds. Tha
 
 Sharefaith and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website. 
 
-The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using GoogleÃ?Â¢??s opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
+The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using Google's opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
 
 Children's Privacy
 
@@ -56,7 +56,7 @@ Questions, Comments, Concerns
 
 **
 
-If you have any questions or comments about our use of Personal Information, please contact us at [Contact@FaithClipart.com](mailto:Contact@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+If you have any questions or comments about our use of Personal Information, please contact us at [Support@Sharefaith.com](mailto:Support@Sharefaith.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.sharefaith.com/faith/freeTrial.do)
 
