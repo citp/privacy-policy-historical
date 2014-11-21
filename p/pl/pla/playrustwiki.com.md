@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playrustwiki.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234131id_/http%3A//playrustwiki.com/wiki/Play_Rust_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrustwiki.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005224id_/http%3A//playrustwiki.com/wiki/Play_Rust_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Play Rust Wiki:Privacy policy - Play Rust Wiki
 
@@ -10,14 +10,14 @@
     Unlogged-in registered users and unregistered users: 
     Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely. 
 
-##### [[edit](https://web.archive.org/index.php?title=Play_Rust_Wiki:Privacy_policy&action=edit&section=1 "Edit section: Discussions")] Discussions
+##### Discussions
 
     
 
     On wiki discussion pages: 
     Any editable page can theoretically be the location of a discussion. In general, discussions on this wiki occur on user talk pages (associated with particular users), on article talk pages (associated with particular articles) or in pages specially designated to function as forums. Privacy expectations apply to discussion pages in the same way as they do elsewhere. 
 
-## [[edit](https://web.archive.org/index.php?title=Play_Rust_Wiki:Privacy_policy&action=edit&section=2 "Edit section: Access to and release of personally identifiable information")] Access to and release of personally identifiable information
+## Access to and release of personally identifiable information
 
 Access: 
 
@@ -52,6 +52,6 @@ If Ideal-Hosting UG (haftungsbeschränkt) receives a court-filed motion to quash
 
 Registered users may not be required to provide an email address. However, when an affected registered user does not provide an email address, Ideal-Hosting UG (haftungsbeschränkt) will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user. 
 
-## [[edit](https://web.archive.org/index.php?title=Play_Rust_Wiki:Privacy_policy&action=edit&section=3 "Edit section: Disclaimer")] Disclaimer
+## Disclaimer
 
 Ideal-Hosting UG (haftungsbeschränkt) believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Ideal-Hosting UG (haftungsbeschränkt), represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Ideal-Hosting UG (haftungsbeschränkt) cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, the company can make no guarantee against unauthorized access to information provided in the course of participating in this wiki or related communities. 
