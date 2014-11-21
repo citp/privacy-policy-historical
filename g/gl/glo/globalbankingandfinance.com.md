@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045641id_/http%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073836id_/http%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business, Financial, Trading News Articles – Global Banking and Finance Review
-
-By using this site, You consent to the use of Cookies. For more information read our [Privacy & Cookie Policy.](http://www.globalbankingandfinance.com/privacy-cookies/) OK
+# Privacy Policy
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address. 
 
@@ -19,5 +17,3 @@ Customers may prevent their information from being used for purposes other than 
 With respect to cookies: We set cookies for visitors who login to our secure area to enable them to browse the whole site without having to log back into the secure area again in the same session. 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial, we redirect visitors to a secure server, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you through our site
-
-### Share this Article
