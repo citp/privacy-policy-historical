@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040034id_/https%3A//peerindex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111634id_/http%3A//www.peerindex.com/privacy.php) for the most accurate reproduction.*
 
 # PeerIndex — Think People
 
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
 ### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [detailed Cookie policy](https://web.archive.org/web/20140625040034id_/https%3A//peerindex.com/privacy.php#cookies) below.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [detailed Cookie policy](https://web.archive.org/web/20141121111634id_/http%3A//www.peerindex.com/privacy.php#cookies) below.
 
 ### Where we store your personal data
 
