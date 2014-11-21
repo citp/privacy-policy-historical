@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedarticles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625200939id_/http%3A//ineedarticles.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedarticles.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144408id_/http%3A//ineedarticles.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
