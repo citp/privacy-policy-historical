@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnbaccessories.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081239id_/http%3A//bnbaccessories.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnbaccessories.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121041535id_/http%3A//bnbaccessories.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
 
 # Privacy policy -
 
