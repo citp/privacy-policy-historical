@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506172153id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065144id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
@@ -51,4 +51,4 @@ If you cannot find the proper response to your question, please feel free to ema
   
 What can make this page better?
 
-We do everything we can think of to provide you with the product specs, images and ordering info you need, but if we’re missing something or still have room to improve, please let us know. Your comments, suggestions and questions are the best tools we have for serving you better!
+We do everything we can think of to provide you with the product specs, images and ordering info you need, but if we're missing something or still have room to improve, please let us know. Your comments, suggestions and questions are the best tools we have for serving you better!
