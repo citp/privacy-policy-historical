@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijitimes.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218223556id_/http%3A//www.fijitimes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijitimes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081354id_/http%3A//www.fijitimes.com/privacy.aspx) for the most accurate reproduction.*
 
 # Fiji Times Online
 
