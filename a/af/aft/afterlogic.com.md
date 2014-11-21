@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208064738id_/http%3A//www.afterlogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143137id_/http%3A//www.afterlogic.com/privacy-policy) for the most accurate reproduction.*
 
 # AfterLogic Privacy Policy
 
