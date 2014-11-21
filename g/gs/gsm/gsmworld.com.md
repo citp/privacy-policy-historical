@@ -1,72 +1,77 @@
-> *The following text is extracted and transformed from the gsmworld.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117032136id_/http%3A//gsmworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmworld.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093210id_/http%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
 
-# Privacy ~ GSM World
+# Cookie Policy | About Us
 
-  
+**What is a cookie?**  
+‘Cookies’ are small text files that websites may place on your computer, mobile device or tablet. They’re used to remember what you have done on a website in order to improve your browsing experience, to help remember log-ins, or to provide advertising while visiting a particular site.
 
+**What is a Web Beacon?**  
+Web beacons are images embedded in a web page. We use web beacons to see which of our email messages are opened or forwarded so we can better understand what types of email messages our customers are interested in and how we can improve our communication with our customers.
 
-###  GSM WORLD WEBSITE PRIVACY POLICY 
+**Our Policy**
 
-**Introduction  
-** The GSM Association and its group companies, including but not limited to GSMC Limited (hereinafter referred to as "GSMA"), take the privacy of your information very seriously. This website privacy policy ("Policy") explains how and for what purposes we use the information collected about you through the gsmworld.com (referred to below as the "Site"). Please read this Policy carefully. 
+It’s simple.
 
-By using the Site and any services we offer via the Site, you are agreeing to be bound by this Policy in respect of the information collected about you via this Site. You acknowledge and agree (on your own behalf and duly authorised on behalf of any third party whose details you supply) that the processing (including disclosure) of personal information is necessary or desirable for the provision of relevant services and the operation of GSMA’s performance of its rights and obligations owed to you or a third party. 
+We **ONLY** use cookies to deliver a smooth experience to our website visitors and to understand how visitors use our websites. We do this because we want you to have a great experience browsing our sites, so we can provide you with relevant content and so that we can continually improve the service we provide you.
 
-The references to information 'relating to you' or 'about you' include references to information about your employees, representatives, agents, directors, officers, shareholders or other relevant parties whose details you have provided and those of your affiliates and subsidiaries and sub-contractors and those of any third party whose details you supply to GSMA. 
+This means that we **DON’T** identify you personally as a user of our website, and we **DON’T** use cookies to target you with advertising.
 
-We may update this Policy from time to time to take account of changing requirements and we request that you refer back to this Policy frequently to review any revisions. If at any time we decide to use personal information in a manner significantly different to that stated in this Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in this new manner. If you have any queries about the Policy, please get in touch with us using the contact details set out at Contact Us below and we will do our best to answer your questions. 
+You can decide whether to accept or reject cookies from us – it’s your choice.
 
-**Collection & Use of Information**  
-We do not collect personal information about you on this Site apart from information for which you volunteer, for example by completing the online registration form or using the "Contact Us" function. The information collected may include the following: 
+**Why we use them?**  
+We use different types of cookies for different functions.
 
-  * your name, company name, title in your Company; 
-  * your email address, postal address, telephone and fax numbers; 
-  * credit card information and bank details if provided. 
+Some cookies allow you to stay logged in while you browse our site. If you didn’t have a cookie for this purpose, you would need to log in every time you loaded a different page from our site. We think this would be a very annoying experience.
 
+Cookies help us identify which of our articles, discussions, videos or documents are the most popular and what type of journey a visitor has through our sites. After we don’t want to spend a lot of time publishing things no-one is interested in.
 
+We place a cookie when you visit a page on which we show an advert. This helps us to collect anonymous information about how frequently adverts are clicked and to understand how interesting and attractive our adverts are. **We don’t pass this information to third parties.**
 
-We will use your contact details in order to respond to any queries submitted by you. 
+A list of all the cookies we use, along with our advert network and technology partners can be found in [our cookie list](https://web.archive.org/aboutus/legal/our-cookie-list/).
 
-We may also use your information: 
+**Do I have a choice over the use of cookies?**  
+Yes. There are a number of options available. You can set your browser either to reject all cookies, to only allow “trusted” sites to set them, or to accept only those cookies from those websites which you are using at that moment.
 
-  * to provide you with information, including marketing information in relation to upcoming GSM Association or industry events, meetings, conferences, seminars, offers, products or services which we believe could be of interest to you or your organisation; 
-  * to carry out surveys and to get your views in relation to the products or services which we or third parties provide; 
-  * to invite individuals to be speakers at seminars/training events, or to participate in other meetings or events held by us or third parties. 
+**Some of the functionality of our website will be lost if you delete all cookies.**
 
+All of the ‘popular’ browsers allow you to change your cookie settings. These settings are usually found in the ‘options’ or ‘preferences’ menu of your browser. To help you better understand these settings, the following links may be helpful to you, otherwise you should use the ‘Help’ option in your browser for more details..
 
+[Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)  
+[Internet Explorer 5](http://support.microsoft.com/kb/196955)  
+[Internet Explorer 6](http://support.microsoft.com/kb/283185)  
+[Internet Explorer 7 & 8](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)  
+[Internet Explorer 9](http://windows.microsoft.com/en-gb/windows7/how-to-manage-cookies-in-internet-explorer-9)  
+[Internet Explorer 10](http://windows.microsoft.com/en-au/internet-explorer/delete-manage-cookies#ie=ie-10)  
+[Internet Explorer 11](http://windows.microsoft.com/en-au/internet-explorer/delete-manage-cookies#ie=ie-11)  
+[Firefox](http://support.mozilla.com/en-US/kb/Cookies)  
+[Safari](http://support.apple.com/kb/ph5042)
 
-We may contact you by any means of communication for which you have given us contact details, including email, telephone and post. However, you may choose not to receive such information by so indicating on the online registration form at the time of providing your information or by simply using the ‘Contact Us’ function below. 
+We recommend visiting [www.aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=2). for more information about cookies and how to manage them.
 
-Any financial details supplied to us such as bank details and/or credit card details are used solely for the purpose of processing payments. 
+**Our Main Technology Partners**
 
-**Sharing of information  
-** Your data may be passed to third party companies who provide training courses, mailing services and event management on behalf of GSMA. In addition, we may pass your information to our related companies [The GSM Association and its affiliated companies], carefully selected business partners or other carefully selected third parties who may contact you to provide you with information, including marketing information in relation to upcoming industry events, meetings, conferences, seminars, offers, products or services which could be of interest to you or your business and/or to carry out surveys and to get your views in relation to the products or services which third parties provide. If you do not wish us to provide your information to third parties for these purposes, please indicate that to us at the time of providing your information by contacting us at [database@gsm.org](mailto:database@gsm.org). On occasion, we may use third party agents and service providers to assist us in the use of your data as outlined above. 
+We work with, and use the following companies to maintain and improve our website. We ensure that any company that works with us and collects data, satisfies data protection requirements. If you have any questions at all, please feel free to [contact us](mailto:webmaster@gsma.com) and we’ll be happy to help.
 
-We may provide your personal information to a third party as part of a sale or transfer of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected. 
+**Google Analytics**  
+We use performance type cookies such as [Google Analytics](http://www.google.com/analytics/) to better understand how visitors use our site, for example, which pages are viewed, how long customers spend visiting a particular page and how often they return to visit our site. This information assists our marketing and sales teams to understand which of our pages are performing well and which pages require improvement.
 
-Other than as set out above, we will not disclose any of your personal information without your permission unless we are required by law to do so (for example, if required to do so by a court order or for the prevention of fraud or other crime). 
+**Get Clicky**  
+Get Clicky is used for collecting anonymous website usage statistics. The information that is collected includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/entry/visited/exit pages, to analyse trends, administer the site, and track user’s movement around the site. Get Clicky sets the “_jsuid” cookie, which allows Get Clicky to create, for example, the following [usage profile](https://secure.getclicky.com/stats/?site_id=66529360). More information can be found in the Get Clicky [Privacy terms](http://getclicky.com/terms).
 
-**Transferring your information outside of the European Economic Area ("EEA")**  
-In using your information as set out in this Policy, it may be transferred to countries outside the EEA. By way of example, this may happen if one of our service providers is located in a country outside the EEA. We also may share your information with our associated companies, business partners or other carefully selected third parties which are located in countries worldwide. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps aiming to ensure that your privacy rights continue to be protected. 
+**Eloqua**  
+We use [Eloqua](http://www.eloqua.com/) to manage our email campaigns as well our CRM systems.
 
-**Information automatically collected from your computer**  
-When you visit the Site, our web server automatically records your IP address. This IP address may be linked to any of your personal information. We use IP addresses to help us administer the Site and to collect demographic information for marketing and aggregation purposes. 
+**Twitter**  
+GSMA uses a [Twitter](http://twitter.com/) ‘badge’ and ‘button’ as a quick way for users to post information, articles or stories from our sites to their Twitter account. Using this function requires the user to enter their twitter account details, but neither this, or any other personal information is collected by GSMA in this process.
 
-We may also gather other non-personal information (from which we cannot identify you) such as the type of your Internet browser, which we use to provide you with a more effective service. 
+**WordPress**  
+[WordPress](http://wordpress.org/) provide the platform for the content of certain GSMA websites. WordPress uses cookies, or tiny pieces of information stored on your computer, to verify who you are. There are cookies for logged in users and for commenters.
 
-**Cookies**  
-When you visit the Site we may store some information (commonly known as a "cookie") on your computer. Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. In this regard, please review our cookie policy at which sets out the purposes for which we use cookies and how they can be disabled. 
+**AddThis**  
+GSMA uses [AddThis](http://www.addthis.com/) to help us spread our content across the web by making it easy for visitors to bookmark and share content to their favourite social destinations. For more information please see their [Privacy Policy](http://www.addthis.com/privacy).
 
-**Changes to your details  
-** We aim to keep our information about you as accurate as possible. If you would like to review or change the details that we hold about you, please contact us at [database@gsm.org](mailto:database@gsm.org)
+**Bizo**  
+We participate in the Bizographic Targeting Network (Bizo), an online B2B advertising network. When you visit our websites, Bizo places a bizographic (business demographic) cookie on your browser. This cookie contains no Personally Identifiable Information (PII). It identifies your professional bizographics and allows Bizo advertisers to display professionally relevant advertising on our pages. To learn more about how Bizo targets ads, visit their [web site](http://www.bizo.com/business_audience/privacy_policy). If you wish to ‘opt out’ of the targeted advertising delivered by Bizo, please visit the [Bizo opt out page](http://www.bizo.com/business_audience/opt_out). Or, you may opt out of multiple ad targeting cookies, including Bizo, via the [National Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Security  
-** We are committed to protecting the security of your personal information. We have implemented appropriate technology and policies to safeguard your personal information from unauthorised access and improper use. However, the nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. 
-
-**Linking to third party websites**  
-We are not responsible for the privacy policies and practices of other sites, even if you access them using links from this Site. We strongly recommend that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions. 
-
-In addition, if you linked to this Site from a third party site, we are not responsible for the privacy policies and practices of the owners or operators of that third party site. We strongly recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions. 
-
-**Contact us  
-** If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, or if you do not wish us to continue using your information as outlined above, you can do so by sending an email to us at [database@gsm.org](mailto:database@gsm.org) or write to CRM Manager, GSMC Limited, 1000 Abernathy Road, Suite 450 Atlanta, Georgia 30328 USA. 
+**Disqus**  
+Discus provides discussion forum software enabling us to plug powerful functionality into our sites and engage in conversations with viewers. 
