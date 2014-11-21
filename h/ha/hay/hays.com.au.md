@@ -1,6 +1,80 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171752id_/http%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121072902id_/http%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
+
+As part of our compliance with the Australian Privacy Principles (APP) in Australia & Information Privacy Principles (IPP) in New Zealand, Hays Specialist Recruitment (Australia) Pty Limited in Australia and New Zealand requests you read the following information regarding how we collect your personal and sensitive information (sensitive information relates to Australia only) and how we maintain, use, store and disclosure of your personal and sensitive information in connection with your possible or actual work placements and sign where indicated to acknowledge your acceptance and understanding of this information.
+
+We may collect personal or sensitive information about you when:
+
+• You complete one of our registration forms or provide any other information in connection with your application  
+• We receive any reference about you  
+• We receive results of inquiries that we might make of your former employers, work colleagues, professional associations or registration body  
+• We receive the results of any competency or medical test or background checks  
+• We receive any complaint or other information from or about you in the workplace  
+• We receive any information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you were involved   
+• We receive any information about a workplace accident in which you are involved   
+• You provide us with any additional information about you
+
+### Your personal and sensitive information may be used in connection with:
+
+• Your actual or possible work placement   
+• Career guidance or management   
+• Your performance appraisals   
+• Our assessment of your ongoing performance and prospects   
+• Any test or assessment (including medical tests and assessments) that you might be required to undergo   
+• Our identification of your training needs   
+• Informing you of possible work opportunities or other events such as training or information sessions by direct mail/email/sms   
+• Any workplace rehabilitation   
+• Our management and resolution of any complaint, inquiry or investigation in which you are involved   
+• Any insurance claim or proposal that requires disclosure of your personal or sensitive information   
+• Undertaking criminal reference checks   
+• For research, development, business systems and infrastructure testing and other business purposes to assist us in providing our services to you   
+• Our direct marketing to you
+
+### Your personal and sensitive information may be disclosed to:
+
+• Potential and actual employers, clients of Hays and trusted third parties   
+• Hays employees and potential employers located in:  
+Australia, Belgium, Brazil, Canada, Chile, China, Czech Republic, France & Luxembourg, Germany, Switzerland & Austria, Hong Kong, Hungary, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Poland, Portugal, Russia, Singapore, Slovakia, Spain, Sweden & Denmark, UAE, United Kingdom, USA (and any other countries where Hays may provide its services in the future) regarding possible or actual work placements and to assist us in providing our services to you  
+• Referees  
+• External providers of online training and induction - eg mandatory on-line OH&S Induction  
+• Our insurers  
+• A professional association or registration body that has a proper interest in the disclosure of your personal and sensitive information  
+• A Workers Compensation body  
+• Any person with a lawful entitlement to obtain the information
+
+### If you do not give us the information we seek:
+
+• We may be limited in our ability to locate suitable work for you; and  
+• We may be limited in our ability to place you in work
+
+### Additional information contained in our privacy policy:
+
+Our [privacy policy](http://www.hays.com.au/general-content/privacy-policy-2365) which is located on the bottom of our website, [www.hays.com.au](http://www.hays.com.au/) or[www.hays.net.nz](http://www.hays.net.nz/) contains further information about the type of information we hold and how we manage your information, including how you can, subject to some exemptions, access personal and sensitive information about you that we hold and request that it be corrected. It also sets out how you can complain about any alleged breaches of the APP or IPP and how we will deal with any complaints.
+
+### Changes to our Privacy Notice:
+
+If at any time our Privacy Notice or privacy policy changes, the updated details will be available on the privacy policy on our website. Any information we hold about you will be governed by the most current version of the privacy policy.
+
+### Contact details
+
+The Privacy Officer  
+Hays Specialist Recruitment  
+GPO Box 2135  
+BRISBANE QLD 4001  
+Email: [privacy@hays.com.au](mailto:privacy@hays.com.au) or [privacy@hays.net.nz](mailto:privacy@hays.net.nz)  
+Phone: 1800 805 051 (Australia)  
+0800 429 769 (New Zealand)
+
+### Your rights as a candidate:
+
+ **New South Wales only**  
+• We must not charge you a fee for the purpose of finding employment  
+• We must not engage in misleading or deceptive conduct (such as advertising a position as being available when we know no such position exists or knowingly giving misleading information to you about the nature of a position)  
+• If you believe that we have acted inappropriately, you may contact the Department of Fair Trading for information on possible action that may be taken  
+ 
+
+FM-021-14
 
 ### Your privacy is important to Hays
 
@@ -18,10 +92,10 @@ We are committed to being open and transparent about how we manage personal info
 
 Personal information means information or an opinion about you. It includes information regarding your contact details, work experience, qualifications, aptitude test results, opinions about your work performance (eg references), incidents at the workplace, and other information obtained or received by us in connection with your possible and actual work placements.
 
-**Sensitive information (Australia only)**  
+ **Sensitive information (Australia only)**  
 Sensitive information is a special category of personal information under the Australian Privacy Act 1988. It is information or opinion about you, including membership of a professional or trade association or membership of a trade union; criminal record; health information, racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, or sexual preferences or practices. As outlined in the Australian Privacy Act, sensitive information can, in most cases, only be disclosed with your consent.
 
-**Collection**  
+ **Collection**  
 We may collect personal or sensitive information about you when:
 
   * You complete one of our application forms or provide any other information in connection with your application
@@ -35,7 +109,7 @@ We may collect personal or sensitive information about you when:
 
 
 
-### **General information collected from visitors to our website**
+###  **General information collected from visitors to our website**
 
 We gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.
 
@@ -70,7 +144,7 @@ If you do not give us the information we seek:
 
 
 
-**Disclosures**
+ **Disclosures**
 
 We may disclose your personal information (including to trusted third parties) for the purposes for which it is primarily held or for a related secondary purpose and in some cases we may only disclose information with your consent.
 
@@ -107,18 +181,18 @@ If you have created a profile with Hays via our website, you are able to review 
 
 You can make enquiries, requests to access/delete or correct your information, or complain about alleged breaches of the APP’s or IPP’s to our Privacy Officer:
 
-**Australia**  
-Privacy Officer   
-Hays   
-1800 805 051   
-02 9236 4110   
-[privacy@hays.com.au ](mailto:privacy@hays.com.au)  
-Reply Paid   
-GPO Box 2135   
-BRISBANE QLD 4001   
+ **Australia  **  
+Privacy Officer   
+Hays   
+1800 805 051   
+02 9236 4110   
+[privacy@hays.com.au ](mailto:privacy@hays.com.au)  
+Reply Paid   
+GPO Box 2135   
+BRISBANE QLD 4001   
  
 
-**New Zealand**  
+ **New Zealand**  
 Privacy Officer  
 Hays  
 0800 429 769  
@@ -153,4 +227,4 @@ If we refuse to correct your personal information, we will notify you in writing
 Hays have several areas on our website where you can submit feedback, under the ‘contact us’ section. Any feedback that is submitted through this area becomes the property of Hays. We may use this feedback, such as success stories or responses to surveys, for marketing purposes, or to contact you for further feedback on the site.  
  
 
-HP-020-14 © February 2014 
+HP-020-14 © February 2014
