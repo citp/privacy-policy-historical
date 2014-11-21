@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520223004id_/http%3A//www.armgardtdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095724id_/http%3A//www.armgardtdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Denver Branding and Graphic Design Agency | Armgardt Design
 
