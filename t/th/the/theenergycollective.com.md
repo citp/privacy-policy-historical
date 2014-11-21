@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623031619id_/http%3A//theenergycollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104951id_/http%3A//theenergycollective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Energy Collective
 
@@ -8,7 +8,7 @@ Part I. Information Collection and Security
 
 The Energy Collective only collects information on our web site submitted by registered users. Such information may include user-submitted news and events, uploaded photos, profiles, private messages and blog posts. The information is collected by the voluntary submittal of such by registered users.
 
-The Energy Collective's web site employs the use of "cookies". A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable The Energy Collective to track usage patterns and deliver customized content to users. Our cookies do not collect personally identifiable information.
+The Energy Collective's web site employs the use of "cookies". A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable The Energy Collective to track usage patterns and deliver customized content to users.
 
 The Energy Collective does not divulge any personally identifiable information about registered users or The Energy Collective members to outside parties for any reason (with the exception of a request made for such information [which is legally warranted and presented in person] by an official law enforcement official or agency).  Members can choose the level of access to their profile information the allow by using the “Permission” setting on the profile pages.  
 
