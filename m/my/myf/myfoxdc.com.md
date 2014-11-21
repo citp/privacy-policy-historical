@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620231043id_/http%3A//www.myfoxdc.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121041931id_/http%3A//www.myfoxdc.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - DC News FOX 5 DC WTTG
 
