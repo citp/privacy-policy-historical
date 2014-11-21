@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the malestars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125928id_/http%3A//www.xahead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malestars.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225011id_/http%3A//support.xahead.com/msprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MaleStars.com Privacy Policy
+
+**MaleStars.com Privacy Policy of Membership**
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to our privacy practices and the terms and conditions of our Web site. If this policy is not agreeable to you, please do not use this site. 
 
