@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crunchyfashion.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622224706id_/http%3A//www.crunchyfashion.com/information/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchyfashion.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032109id_/http%3A//www.crunchyfashion.com/i%2C3%2Cprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Crunchy Fashion Pvt .Ltd.
 
 This privacy statement discloses the privacy practices for CrunchyFashion. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us.
 
