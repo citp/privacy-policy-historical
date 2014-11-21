@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aionfreetoplay.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613105323id_/http%3A//en.aion.gameforge.com/website/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionfreetoplay.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121091214id_/http%3A//en.aion.gameforge.com/website/privacy/en) for the most accurate reproduction.*
 
 # 
 
