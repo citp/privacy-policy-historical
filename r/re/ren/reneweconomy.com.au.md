@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073338id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182648id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Renew Economy
 
