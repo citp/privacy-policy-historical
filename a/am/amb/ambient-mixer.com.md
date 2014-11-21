@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104916id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045442id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
