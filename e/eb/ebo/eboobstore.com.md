@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325022019id_/http%3A//www.eboobstore.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143537id_/http%3A//www.eboobstore.com/page/privacy-policy) for the most accurate reproduction.*
 
-# eBoobStore.com - Browse and Shop for Adult DVDs, Magazines, and More.
+# eBoobStore.com - Privacy Policy
+
+[](https://web.archive.org/home/?nats=MTAwNC42NC41MC41MC4yOS4wLjAuMC4w "Homepage") The Official Store of The SCORE Group
+
+MENU
+
+  
+
+
+## Privacy Policy
 
 Privacy Statement
 
@@ -25,5 +34,3 @@ THE SCORE GROUP and EboobStore.com make no representation as to the veracity or 
 Fraud
 
 It is a violation of federal and state law to buy or attempt to buy products with a credit card under a false name or with an invalid credit card. We have a sophisticated Fraud Control System that screens for suspicious transactions, which are subject to investigation and possible cancellation by our Fraud Control team. Unauthorized individuals using or attempting to use credit cards will be prosecuted to the fullest extent of the law. Please be aware that even if you do not give Scoreland your real name, your Web browser transmits a unique address to us, which can be used by law enforcement officials to identify you. The FBI and the U.S. Secret Service are responsible for investigating Internet fraud cases. Scoreland and THE SCORE GROUP have an obligation to provide information regarding possible fraudulent credit card transactions to the appropriate law enforcement officials of any country where a fraudulent transaction originates and/or where a shipping address has been specified.
-
-THE SCORE GROUP and EboobStore.com will not tolerate fraud of any type.
