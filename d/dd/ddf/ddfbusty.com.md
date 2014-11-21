@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422093908id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143116id_/http%3A//ddfbusty.com/privacy-policy.html) for the most accurate reproduction.*
 
-# DDF BUSTY - Privacy Policy
+# DDF Busty - Privacy Policy
 
 **Agreement**
 
@@ -59,7 +59,7 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **How to Contact DDFBUSTY**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=DDFBUSTY.com) or via email at support@DDFBUSTY.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://support.ddfprod.com/?ref=DDFBUSTY.COM) or via email at support@DDFBUSTY.COM.
 
   
 
