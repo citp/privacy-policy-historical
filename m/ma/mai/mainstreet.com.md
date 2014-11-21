@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mainstreet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033752id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreet.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032028id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MainStreet
-
-[MainStreet.com](http://ms-dev.geezeo.com/)
-
-Privacy Policy  
-Dated: July 21, 2010
+# Privacy Policy
 
 TheStreet, Inc. (“TheStreet”) shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on our web sites. Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page for your review.
 
@@ -59,7 +54,7 @@ TheStreet uses the personal information and tracking information obtained from i
 
 · To improve our content;
 
-· To notify visitors about updates to our web sites;
+p class="MsoListParagraphCxSpMiddle">· To notify visitors about updates to our web sites;
 
 · To maintain and improve our websites; and
 
