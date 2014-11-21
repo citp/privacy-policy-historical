@@ -1,84 +1,111 @@
-<!--The following is the downloaded HTML source of the freeteams.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625050840id_/http%3A//freeteams.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeteams.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121095929id_/http%3A//freeteams.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<!DOCTYPE html><html><head>
     <title>FreeTeams - Free Sports Team Websites</title>
     <meta name="keywords" content="free sports team website, team websites, sports websites">
-    <meta name="description" content="FreeTeams - the only 100% free team website builder.  
-Easy to build and maintain websites including UNLIMITED space for photo galleries.">
-    <link href="/css.html?2010322" type="text/css" rel="stylesheet">
+    <meta name="description" content="FreeTeams - 100% free team website builder.  
+Easy to build and maintain websites including unlimited space for photo galleries.">
+    <link href="/css/index.20140812.css" type="text/css" rel="stylesheet">
     <link rel="P3Pv1" href="/w3c/p3p.xml">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jscripts/jquery-1.4.2.min.js"></script>
-    <script type="text/javascript" src="/jscripts/freeteams.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/jscripts/jquery-1.11.1.min.js"></script>
+    <script src="/jscripts/jquery-ui-1.11.1.custom/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="/jscripts/jquery-ui-1.11.1.custom/jquery-ui.min.css">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <!--[if lt IE 7]>
 			<link rel="stylesheet" href="/ie.css" type="text/css">
-		<![endif]-->		
-		
-		<script type="text/javascript">
+		<![endif]-->	
+  
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-872286-4']);
-  _gaq.push(['_trackPageview']);
+      ga('create', 'UA-872286-4', 'auto');
+      ga('send', 'pageview');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    </script>		
+<script type="text/javascript">
+var waitingString = '<img src="/images/waiting.gif" style="width: 16px; height: 16px; border: 0" alt="Waiting..." /> Updating, please wait.';
 
+
+function showMainResponseError(newMessage){
+  if($("#MainContentResponse").length > 0){
+  	$('#MainContentResponse').html(newMessage);
+  	$('#MainContentResponse').fadeIn();
+	} else {
+		var newHTML = '<p id="MainContentResponse" style="display: none">' + newMessage + '</p>';
+	  $('#MainContentHolder').prepend(newHTML);
+	  $('#MainContentResponse').fadeIn();
+	}	
+}
+
+function jQueryPost(postData, page){
+	showMainResponseError(waitingString);
+	if(typeof page !== 'undefined'){
+    $("#MainContentResponse").load(page + '?ajax', postData);
+  } else {
+    $("#MainContentResponse").load('index?ajax', postData);
+  }
+}
 </script>
-		
+    
   </head>
   <body>
-<div id="Motif" class="LoggedOut">
+<div class="logged-out">
   
   <div id="wrapper">
-  	<div id="UserMenu">
-  		<a href="/" id="Logo"><img src="/images/freeteams_logo.png" alt="FreeTeams Logo" title="FreeTeams Logo"></a>
-  			
-			<form id="loginForm" method="post" action="">
-				<div style="padding: 0">
-			  <label for="uname">Username</label> <input type="text" id="uname" name="uname" style="width: 90px">
-				<label for="pword">Password</label> <input type="password" id="pword" name="pword" style="width: 90px">
-				</div>
-				<div>
-					<button type="submit" name="login" value="Login" id="loginButton"><img src="/images/login.gif" alt="Login" title="Login"></button>
-					<a href="signup.html">Register</a> | 
-					<a href="forgotpassword.html">Lost Password?</a>
-				</div>
+    <div id="top-menu-border"></div>
+  	<a href="/" id="Logo"><img src="/images/freeteams_logo_70.png" alt="FreeTeams Logo" title="FreeTeams Logo"></a>
+  	
+    <div id="top-menu">
+      <div id="top-menu-inner">
+    			<form id="loginForm" method="post">
+        <label for="login_email">Email</label> <input type="text" id="login_email" name="login_email">
+        <label for="login_password">Password</label> <input type="password" id="login_password" name="login_password">
+        <button type="submit" name="login">Login</button>
+        <a href="signup">Register</a> | <a href="forgotpassword">Lost Password?</a>
 			</form>
-				   	
+			
+      </div>
 		</div>
-		<div id="InformationMenu">
-			<a href="/signup.html" id="SignupNow"><img src="images/signup.png" alt="Free Teams Sign Up"></a>
+    
+    		<div id="information-block">
+			<a href="/signup" id="signup-star"><img src="images/signup.png" alt="Free Teams Sign Up"></a>
 			<h1><img src="/images/mainheadertext.png" alt="Free Teams gives sports teams free, powerful, and easy to use websites." title="Free Teams gives sports teams free, powerful, and easy to use websites."><br>
-				<a href="/faqandfeatures.html" id="LearnMore"><img src="/images/learnmore.png" alt="Learn More" title="Learn More"></a>
+				<a href="/faq-features" id="LearnMore"><img src="/images/learnmore.png" alt="Learn More" title="Learn More"></a>
 			</h1>
-		</div>
-		<ul id="mainMenu">
-	  	<li><a href="/">Home</a></li><li class="divider">|</li>
-    	<li><a href="/faqandfeatures.html">Learn More</a></li><li class="divider">|</li>
-    	<li><a href="/signup.html">Get An Account</a></li><li class="divider">|</li>
-    	<li><a href="/createteam.html">Make A Website</a></li><li class="divider">|</li>
-    	<li><a href="/demoteams.html">Demos</a></li><li class="divider">|</li>
-    	<li><a href="/teams.html">Browse Teams</a></li><li class="divider">|</li>
-    	<li><a href="http://freeteams.tumblr.com">Blog</a></li><li class="divider">|</li>
-    	<li><a href="/contactus.html">Contact Us</a></li>
+		</div>    
+         
+		<ul id="main-menu">
+	  	<li><a href="/">Home</a></li><li class="divider">|</li><!--
+    	--><li><a href="/faq-features">Learn More</a></li><li class="divider">|</li><!--
+    	--><li><a href="/signup">Get An Account</a></li><li class="divider">|</li><!--
+    	--><li><a href="/create-team-website">Make A Website</a></li><li class="divider">|</li><!--
+    	--><li><a href="/example-teams">Examples</a></li><li class="divider">|</li><!--
+    	--><li><a href="/browse-teams">Browse Teams</a></li><li class="divider">|</li><!--
+    	--><li><a href="http://freeteams.tumblr.com">Blog</a></li><li class="divider">|</li><!--
+    	--><li><a href="/contact-us">Contact Us</a></li>
     </ul>
 	
   <div id="maincontent">
-  <div style="padding: 5px 40px 20px" id="MainContentHolder"><p style="float: right; margin-left: 15px; margin-bottom: 15px;">
+    <div id="maincontentinner">
+  <div id="MainContentResponse" style="display: none">&nbsp;</div>    
+<noscript>
+	<p class="err" style="margin: 10px 20px 20px;">Most of this site will work correctly without JavaScript, but we recommend turning it on for a better user experience.</p>
+</noscript>
+<p style="float: right; margin-left: 15px; margin-bottom: 15px;">
 	<img src="images/icons/Info.jpg" alt="Info">
 </p>
 
 <h1 style="padding-top: 10px;">
 Privacy Policy Statement	
-</h1>
+</h1><hr>
 <p>Last updated June 1st, 2007</p>
 <p>This web site is owned by <strong>Lab 18 LLC</strong>.</p>
 
-We can be reached via e-mail through our <a href="contactus.html">Contact Us</a> page<br>
+We can be reached via e-mail through our <a href="contact-us">Contact Us</a> page<br>
 <p>For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, as well as browser and system details.</p>
 <p>We collect the e-mail addresses of those who create accounts, as well as aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.</p>
 <p>The information we collect is used to improve the content of our Web page and to notify customers about updates to our site.  We do not sell any user information to outside companies.</p>
@@ -89,7 +116,7 @@ We can be reached via e-mail through our <a href="contactus.html">Contact Us</a>
 <p>Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, e-mail address) that we maintain about them, a description of information that we maintain about them, etc.</p>
 <p>Consumers can access this information by e-mailing us at the above address.</p>
 <p>Consumers can have this information corrected by sending us an e-mail at the above address.</p>
-<p>If you feel that this site is not following its stated information policy, please contact us using the <a href="contactus.html">Contact Us</a> page.</p>
+<p>If you feel that this site is not following its stated information policy, please contact us using the <a href="contact-us">Contact Us</a> page.</p>
 
 </div>
 
@@ -97,11 +124,11 @@ We can be reached via e-mail through our <a href="contactus.html">Contact Us</a>
 </div>
 <div id="footer">
 	<span>© 2014 Lab 18 LLC</span> |
-	<a href="/index.html">Home</a> |
-	<a href="/advertise.html">Advertise</a> |
-	<a href="/acknowledgements.html">Thanks</a> |
-	<a href="/privacypolicy.html">Privacy Policy</a>  |
-	<a href="/termsofservice.html">Terms</a> 
+	<a href="/">Home</a> |
+	<a href="/advertise">Advertise</a> |
+	<a href="/acknowledgements">Thanks</a> |
+	<a href="/privacy-policy">Privacy Policy</a>  |
+	<a href="/termsofservice">Terms</a> 
 </div>
 
 </div>
@@ -109,9 +136,9 @@ We can be reached via e-mail through our <a href="contactus.html">Contact Us</a>
 
 
 <script type="text/javascript">
-	$(document).ready(function(){
-		$(".hideThis").live("click", function(){ $(this).parents("#MainContentResponse").fadeOut(); return false; });
-	});	
+	
+	$(document.body).on("click", ".HideThis", function(){ $(this).parents("#MainContentResponse").fadeOut(); return false; });
+	
 	
 </script>
 
