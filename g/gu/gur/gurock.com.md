@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603174038id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101817id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
 
 # Gurock Software's Privacy Policy
 
-If you have any questions or requests regarding this Privacy Policy, please contact us by sending us an email to [info@gurock.com](mailto:info@gurock.com).
+If you have any questions or requests regarding this Privacy Policy, please contact us by sending us an email to [contact@gurock.com](mailto:contact@gurock.com).
 
 For each visitor to our website, our web server automatically recognizes the visitor's IP address and domain name. We additionally store the email addresses of those who post messages to our forum, the email addresses of those who communicate with us via email, aggregate information on what pages visitors access or visit, and information volunteered by the visitor, such as survey information and/or site registrations.
 
