@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meancoupons.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054317id_/http%3A//www.meancoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meancoupons.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143518id_/http%3A//www.meancoupons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of MeanCoupons
+# Privacy Policy of MeanCoupons - November 2014
 
 This web site is owned by MeanCoupons. We can be reached via e-mail at [admin@meancoupons.com](mailto:admin@meancoupons.com). We are committed to respecting your privacy. When you choose to provide us with personal information, be assured  **we will never sell or trade this information.**
 
