@@ -1,31 +1,71 @@
-> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619222622id_/http%3A//www.airarabia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025721id_/http%3A//www.airarabia.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Air Arabia » Privacy Policy
+# Privacy policy | Air Arabia
 
-Your right to privacy is respected and at Air Arabia  we want you to feel confident in the knowledge that we take our responsibility to protect your personal data most seriously. We promise that the information you supply will be kept secure and only used for legitimate purposes. Any changes to our privacy policy will be updated on this section of our website.
+Air Arabia is committed to protecting the privacy of information you provide us on this website. This policy explains how we collect and use customer information and how we protect your privacy.
 
-The privacy policy does not cover any access you make to third party sites using links from the Air Arabia  website.
+This policy is applicable to Air Arabia’s website only and does not cover any access you make to third party sites, even while using links from our Air Arabia website.
 
-##  How the information is used: 
+1.    Why do we ask for personal information?
 
-The specific information we ask for is necessary to enable us to process your flight booking and provide you with air transportation. This includes your name, mailing address, telephone number and email address together with your billing address credit or debit card number, expiry date and security numbers where necessary.
+2.    How do we use your personal information?
 
-If you are making a booking on behalf of other customers please make sure that you have gained their consent to divulge such information. It is possible that such information may be processed outside the Middle East. 
+3.    Disclosure of your personal information
 
-Air Arabia  takes great care to act in accordance with the Data Protection Act 1998. We do not collect any sensitive personal information as referred to in this act.
+4.    Cookies
 
-## Disclosure of information to third parties:
+5.    Site tracking
 
-Air Arabia  will not disclose the personal information you have provided to any unrelated third parties except: in the case of an emergency situation when we are required to do so by law; for the purpose of administrating your booking; where required to ensure the safety and security of our company and our customers and/or to protect the operation of our systems; to ensure compliance and enforcement of relevant regulations. 
+6.    Security
 
-Air Arabia  may provide statistical data to third parties but these cannot individually identify a customer.
+7.    Consent
 
-## How do we use your personal data:
+1.    1\. Why do we ask for personal information?
 
-Where you have given consent to use your personal data we may use this to advise you with information about our range of products and services.
+The personal information we request is necessary to allow us to process your flight booking. It is also required to register you on our website. Such information includes, but not limited to: name, family names, mailing addresses, telephone numbers, email addresses, billing addresses, credit or debit card numbers, expiry dates, and security numbers.
 
-Air Arabia  may pass your data to third parties in order to facilitate related transactions to your journey such as car hire or hotel accommodation.
+If you are making a booking on behalf of another person, make sure that you have gained their consent to divulge such information. It is possible that such information may be globally processed.
 
-## Use of cookies:
+2.    2\. How do we use your personal information?
 
-Cookies are pieces of data stored by your browser provided by Air Arabia  in order for us to identify your computer and your email address. These enable Air Arabia  to give a more personalised service on any future bookings. They do not store personal information. Cookies can be deleted from your hard drive according to the procedures of your equipment and software. 
+Our airline will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you special offers, travel deals, and news about Air Arabia’s products and services or those of relevant companies which we think may be of interest to you. We may contact you by post, email, telephone (including SMS) or fax for these purposes. We may also use and analyse the information that we collect so that we can review, administer, support, improve, and develop our business and services.
+
+If you would like to receive details of our new services and special offers, please click here to register..
+
+3.    Disclosure of your personal information
+
+Air Arabia will not share or trade your personal information to third parties unless in case of emergency or when required by law.
+
+Air Arabia may only share your personal information to the extent required for the performance of activities such as:
+
+to make an air travel reservation,
+
+to record and issue a ticket,
+
+to issue a boarding pass,
+
+for other purposes associated with or incidental to your carriage [Conditions of Carriage],
+
+to facilitate related transactions to your journey, such as car hire or hotel accommodation,
+
+to customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the laws in those countries, and
+
+to our employees and agents to execute any of the aforementioned points on our behalf.
+
+4.    Cookies
+
+A ‘cookie’ is a small bit of data used by a browser to store information. These enable Air Arabia to provide you with more personalised services on any future bookings. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can change your browser settings to prevent this option. Even without a cookie you can use most of the features on our website. Our cookies do not contain any personally identifying information.
+
+5.    Site Tracking
+
+We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of our website. This software does not enable us to capture any personally identifying information.
+
+6.    Security
+
+We take great care to ensure the security of this site. Air Arabia uses 128-bit Secure Socket Layer (SSL) web technology to encrypt all shared data. This means that all your personal information and credit card numbers are protected while it is being sent over the Internet.
+
+7\. Consent
+
+By using the Air Arabia website, you consent to the collection and use of this information by Air Arabia in the ways described above. If you have any further questions about our Privacy Policy or its implementation, please contact our customer relations department.
+
+Any changes to the privacy policy will be posted on this page.
