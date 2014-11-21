@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the freeteams.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050840id_/http%3A//freeteams.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeteams.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095929id_/http%3A//freeteams.com/privacy-policy) for the most accurate reproduction.*
 
 # FreeTeams - Free Sports Team Websites
+
+* * *
 
 Last updated June 1st, 2007
 
 This web site is owned by **Lab 18 LLC**.
 
-We can be reached via e-mail through our [Contact Us](https://web.archive.org/web/20140625050840id_/http%3A//freeteams.com/contactus.html) page
+We can be reached via e-mail through our [Contact Us](https://web.archive.org/web/20141121095929id_/http%3A//freeteams.com/contact-us) page
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, as well as browser and system details.
 
@@ -28,4 +30,4 @@ Consumers can access this information by e-mailing us at the above address.
 
 Consumers can have this information corrected by sending us an e-mail at the above address.
 
-If you feel that this site is not following its stated information policy, please contact us using the [Contact Us](https://web.archive.org/web/20140625050840id_/http%3A//freeteams.com/contactus.html) page.
+If you feel that this site is not following its stated information policy, please contact us using the [Contact Us](https://web.archive.org/web/20141121095929id_/http%3A//freeteams.com/contact-us) page.
