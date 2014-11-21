@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mingjongtey.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409164334id_/http%3A//www.mingjongtey.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingjongtey.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121213802id_/http%3A//www.mingjongtey.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
