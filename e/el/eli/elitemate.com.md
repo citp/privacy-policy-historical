@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627022735id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182753id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
-  |  **ELITEMATE'S PRIVACY POLICY**  
+  |  **ELITEMATE'S PRIVACY POLICY**   
 
 
 This privacy statement discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website and by e-mailing the new Privacy Policy to registered members. For this reason, we recommend that you review our Privacy Policy regularly so that you can stay informed of our practices. 
