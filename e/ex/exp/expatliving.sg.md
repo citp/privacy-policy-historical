@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040132id_/http%3A//www.expatliving.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011719id_/http%3A//www.expatliving.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Expat Living Singapore
 
@@ -28,7 +28,9 @@ The information that we collect and store relating to you is primarily used to e
 
  **How to unsubscribe**
 
-To unsubscribe from receiving promotion EDMs, click on the ‘unsubscribe’ button found at the bottom of any EDM. Alternatively you can contact us:
+To unsubscribe from receiving promotional electronic or non-electronic direct mails, simply click on the ‘unsubscribe’ button found at the bottom of any EDM or email [info@expatliving.sg](https://web.archive.org/web/20141121011719id_/http://www.expatliving.sg/privacy_policy/info@expatliving.sg).
+
+Alternatively you can contact us:
 
 Address: Expat Living Publications Pte ,40 Jalan Pemimpin #02-07 Tat Ann Building Singapore 577185  
 
