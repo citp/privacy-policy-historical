@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingqueen.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129212624id_/http%3A//www.moneysavingqueen.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingqueen.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084108id_/http%3A//www.moneysavingqueen.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,12 +52,12 @@ This Privacy Policy was last modified on September 7, 2011.
 
 This policy is valid from 16 December 2011
 
- This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact  info@moneysavingqueen.com.
+For questions about this blog, please contact moneysavingqueen2014@gmail.com.
 
- This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
  This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
- The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+ The owner of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
- The owner(s) of this blog would like to disclose the following existing relationships. These are companies, organizations or individuals that may have a significant impact on the content of this blog. We are employed by or consult with: Griffin Communications.
+Money Saving Queen, LLC
