@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605102944id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101556id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy) for the most accurate reproduction.*
 
-# 2010 Privacy Policy
+# Privacy Policy
 
 #### SEARCH
 
 by SKU, Keyword, or Title  
 
+
+## Privacy Policy
 
 We respect the privacy of our website visitors, newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires.  
  
