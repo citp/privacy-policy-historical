@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriamoviesreview.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527114928id_/http%3A//www.nigeriamoviesreview.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriamoviesreview.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121121804id_/http%3A//www.nigeriamoviesreview.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Nigeria Movies ReviewPrivacy Policy - Nigeria Movies Review
 
