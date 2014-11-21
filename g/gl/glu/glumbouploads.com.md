@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glumbouploads.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225212404id_/http%3A//articles1001.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glumbouploads.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194608id_/http%3A//musics-movies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Articles 1001
+# Privacy Policy « Musics-Movies
 
-**Articles 1001** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+**Musics-Movies** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -10,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Articles 1001 uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Musics-Movies uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
