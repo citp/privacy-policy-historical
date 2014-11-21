@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519154536id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005701id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,12 @@ The DBA Blue Heron Health News website may use “cookies” to help you persona
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize DBA Blue Heron Health News pages, or register with DBA Blue Heron Health News site or services, a cookie helps DBA Blue Heron Health News to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same DBA Blue Heron Health News website, the information you previously provided can be retrieved, so you can easily use the DBA Blue Heron Health News features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the DBA Blue Heron Health News services or websites you visit.
+
+Advertising Partners of DBA Blue Heron Health News
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to websites. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet.
+
+You may opt out of using the DoubleClick cookie for interest-based advertising as well as many other advertising cookies by visiting [aboutads.info](http://aboutads.info/)
 
 Security of your Personal Information
 
