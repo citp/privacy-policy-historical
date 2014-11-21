@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095148id_/http%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121160001id_/http%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlas Solutions
+
+### ****Privacy Policy****
 
 **Choice and Control Tip.** Atlas is owned by Facebook. Atlas adheres to the Network Advertising Initiative’s Code of Conduct and Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. For more information you can visit [networkadvertising.org](http://networkadvertising.org/) or [aboutads.info](http://aboutads.info/).
 
@@ -68,13 +70,13 @@ We, our affiliates, and our service providers, may transfer information that we 
 
 We use commercially reasonable safeguards to help keep secure the information we receive. However, Atlas cannot ensure the security of any information that we receive from or about you or guarantee that information may not be accessed, disclosed, altered, or destroyed.
 
-**CHILDREN’S PRIVACY**
+**CHILDREN'S PRIVACY**
 
 Atlas does not knowingly collect or solicit any information from anyone younger than 13 years of age. Atlas’s services are not directed at children younger than 13. In the event that we learn that we have collected personal information from a child younger than 13 without parental consent, we will delete that information. If you believe that we might have any information from or about a child younger than 13, please contact us at atlasprivacy@fb.com.
 
 **OTHER WEB SITES AND SERVICES**
 
-We are not responsible for the practices employed by any websites or services where our services are used. Please remember that when you visit another website or service or use an app, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have used our advertising services, are subject to that third party’s own rules and policies.
+We are not responsible for the practices employed by any websites or services where our services are used. Please remember that when you visit another website or service or use an app, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have used our advertising services, are subject to that third party's own rules and policies.
 
 **HOW TO CONTACT US**
 
