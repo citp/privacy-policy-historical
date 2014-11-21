@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090535id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084603id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - oXygen XML Editor
 
@@ -9,7 +9,7 @@
   * Controlling Unsolicited E-mail ("Spam")
   * Children's privacy
   * Use of Cookies
-  * Links to Third Party Web Sites
+  * Links to Third-Party Web Sites
   * Privacy complaints
 
 
@@ -50,7 +50,7 @@ One of the primary purposes of cookies is to store your preferences and other in
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Syncro Soft sites and services that depend on cookies.
 
-## Links to Third Party Web Sites
+## Links to Third-Party Web Sites
 
 Syncro Soft websites may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. 
 
@@ -67,6 +67,6 @@ Syncro Soft takes its users' privacy concerns seriously. If you believe that Syn
     Craiova, 200082
     Romania
     
-    Email: support@oxygenxml.com
+    Email: [support@oxygenxml.com](mailto:support@oxygenxml.com)
 
 In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
