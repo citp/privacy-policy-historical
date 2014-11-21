@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214023201id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121053434id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Nigeria
 
@@ -98,13 +98,13 @@ We use cookies to learn more about the way you interact with our content and hel
 
 Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
 
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy.html).
+Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy ](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy.html).
 
   * **How are third party cookies used?**
 
 
 
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy/cookie-type.html).
+For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types ](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy/cookie-type.html).
 
   * **How do I reject and delete cookies?**
 
@@ -112,10 +112,10 @@ For some of the functions within our websites we use third party suppliers, for 
 
 We will not use cookies to collect personally identifiable information about you. However, should you wish to do so, you can choose to reject or block the cookies set by Shell or the websites of any third party suppliers by changing your browser settings – see the Help function within your browser for further details. Please note that most browsers automatically accept cookies so if you do not wish cookies to be used you may need to actively delete or block the cookies.
 
-You can also visit [www.allaboutcookies.org](http://www.shell.com.ng/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw==) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
+You can also visit [www.allaboutcookies.org ](http://www.shell.com.ng/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw==) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
 
 Note, however, that if you reject the use of cookies you will still be able to visit our websites but some of the functions may not work correctly.
 
 From time to time we may make changes to this privacy policy. If we make any substantial changes to this privacy policy and the way in which we use your personal data we will post these changes on this page and will do our best to notify you of any significant changes. Please check our privacy policy on a regular basis.
 
-If you would like to contact us about our privacy policy, you can do so by emailing us at [shellnigeria@shell.com](mailto:shellnigeria@shell.com).
+If you would like to contact us about our privacy policy, you can do so by emailing us at [shellnigeria@shell.com ](mailto:shellnigeria@shell.com).
