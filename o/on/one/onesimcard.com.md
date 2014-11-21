@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040948id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121043346id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
-
-|  |  |   
----  
- | 
 
 ## We are committed to your privacy in every transaction
 
@@ -33,8 +29,7 @@ We use your information to improve customer experience and our services. Some ex
 
 ## Amendments to Our Privacy Policy
 
-We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy.  
- | 
+We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy. 
 
 ## Transactional Emails
 
@@ -57,12 +52,6 @@ On rare occasions we send out important information regarding changes to product
 
 ## Customer Service
 
-On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client.  
-[](http://www.bbb.org/boston/business-reviews/telecommunication-equipment-and-systems-service-and-repair/long-distance-post-llc-in-belmont-ma-57935/#bbbonlineclick "Click here for BBB Business Review") | 
+On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client. 
 
-Contact [OneSimCard Support](https://web.archive.org/contact.php)  
-Phone: 1-617-313-8888 or 1-800-640-2113  
-Fax:1-617-812-0370  
-Mail: PO Box 481, Belmont, MA 02478-0004, USA  
-© 2006-2014 Belmont Telecom Inc., DBA OneSimCard.com  
-All rights reserved
+© 2006-2014 Belmont Telecom Inc., DBA OneSimCard.com. All rights reserved
