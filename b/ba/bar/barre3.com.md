@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barre3.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623053418id_/http%3A//www.barre3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barre3.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121183022id_/http%3A//www.barre3.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | barre3
+# Privacy Policy - barre3
 
 Last modified: March 14, 2010
 
