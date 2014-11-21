@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627012206id_/http%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093553id_/http%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy: National University of Ireland, Galway (NUI Galway)
 
