@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045706id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142936id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CarAdvice
+# Privacy Policy
 
 In this policy, “us”, “we” or “our” means CARADVICE.COM.AU PTY LTD (ABN 84 116 608 158) and its related bodies corporate.
 
