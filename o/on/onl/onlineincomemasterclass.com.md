@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the onlineincomemasterclass.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229120734id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineincomemasterclass.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142817id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Internet Marketing Blog By Marketing Guru James Francis
+# Privacy Policy | Information Marketing Blog - By Marketing Guru James Francis
 
-Our Commitment To Privacy   
-The Information We Collect   
-How We Use Information   
-Our Commitment To Data Security   
-Our Commitment To Children’s Privacy   
-How To Access Or Correct Your Information   
-How To Contact Us
+1)Our Commitment To Privacy   
+2) The Information We Collect   
+3) How We Use Information   
+4) Our Commitment To Data Security   
+5) Our Commitment To Children’s Privacy   
+6) How To Access Or Correct Your Information   
+6) How To Contact Us
 
-###  Our Commitment To Privacy
+### Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -62,6 +62,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us here](mailto:support@jamesfrancis.com).
+Should you have other questions or concerns about these privacy policies, please [contact us here](http://www.jamesfrancissupport.com/).
 
-© James Francis 2011.
+© James Francis 2014.
