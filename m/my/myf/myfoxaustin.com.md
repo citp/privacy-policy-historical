@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfoxaustin.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525045321id_/http%3A//www.myfoxaustin.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxaustin.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093357id_/http%3A//www.myfoxaustin.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
-# Fox Television Stations Privacy Policy
+# Fox Television Stations Privacy Policy - MyFoxAustin.com | KTBC Fox 7 | News, Weather, Sports
 
 **Fox Television Stations Privacy Policy**
 
