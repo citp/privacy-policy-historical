@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603062309id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011801id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Family Wizard - child custody, parenting time
 
@@ -35,7 +35,7 @@ The OurFamilyWizard website gives you the ability to edit your OurFamilyWizard w
 **Security  
 **Your OurFamilyWizard website Account Information is password protected for your privacy and security.
 
-Because of the sensitivity of information stored on the OurFamilyWizard website, the OurFamilyWizard website uses not only industry standard SSL encryption to protect data transmissions, but also the Blowfish Encryption Algorithm to protect data during storage inside of our database.
+Because of the sensitivity of information stored on the OurFamilyWizard website, the OurFamilyWizard website uses not only industry standard SSL encryption to protect data transmissions and additional methods to protect data within our system.
 
 **Changes to this Privacy Policy  
 **The OurFamilyWizard website may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our pages.
