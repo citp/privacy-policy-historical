@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075950id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto23.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005624id_/http%3A//www.turnto23.com/about/privacy-policy) for the most accurate reproduction.*
 
-# 23ABC News - Privacy Policy - About Story
+# Privacy Policy - 23ABC News
 
 **PRIVACY POLICY**  
 _Last Modified & Effective July 30, 2013_
