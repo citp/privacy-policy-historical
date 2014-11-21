@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513125130id_/http%3A//www.iium.edu.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025821id_/http%3A//www.iium.edu.my/privacy-policy) for the most accurate reproduction.*
 
 # International Islamic University Malaysia
 
