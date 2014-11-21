@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magenting.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617171402id_/http%3A//magenting.com/en/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magenting.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094656id_/https%3A//magenting.com/en/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ All information collected throughout the site is used only to deal with our cust
 We use Google Analytics (who doesn’t?), so that Google knows you are visiting us. The Google Analytics privacy policy is located [here](http://www.google.com/privacypolicy.html). The Google Analytics features  implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Also, there are other [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
 We install [Magento eCommerce software](http://magentocommerce.com/) (and we really hope you like it); their privacy policy is located [here](http://www.magentocommerce.com/company/privacy).   
-Our services are distributed through [Plimus](http://home.plimus.com/) and [2Checkout](http://2checkout.com/), their privacy policy is located [here](http://home.plimus.com/ecommerce/about-us/legal/privacy-policy) and [here](https://www.2checkout.com/privacy/).
+Our services are distributed through [Bluesnap](http://www.bluesnap.com/ecommerce/about-bluesnap/news-and-events/latest-news) and [2Checkout](http://2checkout.com/), their privacy policy is located [here](http://www.bluesnap.com/ecommerce/legal/privacy-policy) and [here](https://www.2checkout.com/privacy/).
