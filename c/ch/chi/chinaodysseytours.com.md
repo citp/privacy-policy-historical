@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430071202id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193510id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy & Security | China Odyssey Tours
 
@@ -56,7 +56,7 @@ Besides, the information may also be requested to offer to public authorities li
 
 Any bookings made globally will be made with Guilin Tang Dynasty Tours Co. Ltd.
 
-For more information on [Cancellation and Refund](http://www.chinaodysseytours.com/customer-center/cancellation-refund.html).
+For more information on [Cancellation and Refund](https://web.archive.org/customer-center/cancellation-refund.html).
 
 *** Who may process my personal information?**  
 Your personal information may be processed both by China Odyssey Tours and our sister brand and e-commerce partners we work with, who probably use the information to send you promotion & deals and travel destination information etc. that they think may interest you.
@@ -98,13 +98,13 @@ China Odyssey Tours will try our best to exclude viruses from the website; howev
 
 China Odyssey Tours is not responsible for the direct/indirect consequences of you linking to any other website from ours.
 
-These terms & disclaimer and any claim based on the use of our website information are governed by the laws of China. ** **
+These terms & disclaimer and any claim based on the use of our website information are governed by the laws of China.
 
 ### **Consent and Enquiries**
 
 ****By entering China Odyssey Tours website you are indicating that you agree with our terms, otherwise please leave our website now.
 
-Please [contact us](http://www.chinaodysseytours.com/contact-us.htm) if you have any question or concern about our privacy policy or the way we deal with your personal data or whenever you wish us to quit processing your information.
+Please [contact us](https://web.archive.org/contact-us.htm) if you have any question or concern about our privacy policy or the way we deal with your personal data or whenever you wish us to quit processing your information.
 
 ### Notification of Privacy Statement Change
 
@@ -117,4 +117,4 @@ Address: Room 218, Building 6, No.11 Huixian Road, Qixing District, Guilin, Chin
 Email:   
 Telephone: (86)773-5854000 or 5854006
 
-See the [ **TOP10 China Tours**](http://www.chinaodysseytours.com/tours/top-10-best-china-tours.html) or start [ **tailor-making**](http://www.chinaodysseytours.com/forms/custom.htm) your own with us.
+See the [ **TOP10 China Tours**](https://web.archive.org/tours/top-10-best-china-tours.html) or start [ **tailor-making**](https://web.archive.org/forms/custom.htm) your own with us.
