@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619070630id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111235id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TrialPay
 
 ## TrialPay Privacy Policy
 
-Last modified: January 13, 2014
+Last modified: September 26, 2014
 
 We at TrialPay, Inc. and the subsidiaries we own or control (collectively, "TrialPay") respect your privacy. We are publishing this version of the TrialPay Privacy Policy (the "Policy") to clearly disclose our practices and approach to data privacy and data protection.
 
@@ -12,15 +12,14 @@ This Policy describes how we collect, use, transfer, and safeguard information a
 
 Throughout this Policy we use the terms "personal information" and "PII" to describe information that can be associated with a specific natural person and can be used to identify that person. We do not consider personal information or PII to include information that has been anonymized or aggregated so that it does not identify a specific natural person. If you give us PII on behalf of someone else (or someone else gives us PII on your behalf), the person providing the PII must have consent to do so from the person whose information is being provided to TrialPay.
 
-TrialPay adheres to the U.S.-European Union Safe Harbor Framework privacy principles ("Safe Harbor Principles") as described in this Policy regarding data transferred from the European Economic Area ("EEA") to the United States and is registered with the [Safe Harbor Program](http://www.export.gov/safeHarbor/).
+TrialPay complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce (collectively, the "Safe Harbor Principles") regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TrialPay has certified that it adheres to the Safe Harbor Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TrialPay's certification, please visit <http://www.export.gov/safeharbor/>.
 
 If you have any questions about this Policy, please contact us by email: [privacy-question@trialpay.com](mailto:privacy-question@trialpay.com), or via mail at:
 
 Privacy Officer  
 TrialPay, Inc.  
-800 California Street  
-3rd Floor  
-Mountain View, CA 94041 USA
+800 California Street, #300  
+Mountain View, California 94041 USA
 
 ## How We Collect Information
 
@@ -96,7 +95,8 @@ We use cookies and anonymous identifiers to collect certain types of information
   * Other browsing behavior, such as products and white papers downloaded,
   * Domains,
   * ISPs, and
-  * User Agents.
+  * User Agents and
+  * Platform advertiser ID and tracking limitation indicators, IDFA, Google Advertiser IDs and corresponding Limit Ad Tracking flags.
 
 
 
@@ -172,8 +172,6 @@ We may link information we collect from multiple sources to provide better servi
 
 ## Safe Harbor Principles
 
-We participate in the Safe Harbor Principles and are registered with the [Safe Harbor Program](http://www.export.gov/safeHarbor/).
-
 **Notice and Choice**
 
 TrialPay provides notice about the choices and means we offer you for limiting use and disclosure of your PII. Notice is provided in this Policy, in our web pages, and in other locations where we collect PII.
@@ -200,9 +198,8 @@ You also may review or update your information by emailing [privacy-question@tri
 
 Privacy Officer  
 TrialPay, Inc.  
-800 California Street  
-3rd Floor  
-Mountain View, CA 94041 USA
+800 California Street, #300  
+Mountain View, California 94041 USA
 
 Upon request, we will provide you with access to your personal information and the ability to correct, amend, or delete that information where it is inaccurate. We will make reasonable efforts to provide the requested information and/or incorporate the requested changes as soon as possible.
 
@@ -210,7 +207,7 @@ Before we provide access to any personal data or make any changes to it we may a
 
 **Transfers**
 
-TrialPay is a global organization, with operations, processes, and systems that cross borders. We are certified under the [U.S.-EU Safe Harbor program](http://www.export.gov/safeHarbor/) and strive to comply with all applicable laws designed to protect privacy in the jurisdictions in which we do business.
+TrialPay is a global organization, with operations, processes, and systems that cross borders. We are certified under the Safe Harbor Principles and strive to comply with all applicable laws designed to protect privacy in the jurisdictions in which we do business.
 
 If you choose to provide us with information, including PII, you understand that we may transfer it within TrialPay locations and systems in the United States or to the locations and systems of TrialPay's subsidiaries, joint venture partners, and third-party service providers around the world.
 
@@ -220,17 +217,16 @@ Use of our Services is only available to individuals who are of legal age to con
 
 ## Enforcement
 
-TrialPay regularly reviews its compliance with this Policy. Please direct any questions or concerns regarding this Policy, TrialPay's treatment of PII, or TrialPay's compliance with the Safe Harbor Principles by email to [privacy-question@TrialPay.com](mailto:privacy-question@trialpay.com) or in writing to:
+TrialPay regularly reviews its compliance with this Policy. Please direct any questions or concerns regarding this Policy, TrialPay's treatment of PII, or TrialPay's compliance with the Safe Harbor Principles by email to [privacy-question@trialpay.com](mailto:privacy-question@trialpay.com) or in writing to:
 
 Privacy Officer  
 TrialPay, Inc.  
-800 California Street  
-3rd Floor  
-Mountain View, CA 94041 USA
+975 S. California Avenue  
+Palo Alto, CA 94304 USA
 
 If you have any complaints regarding our compliance with the Safe Harbor Principles, please contact us at the above.
 
-As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the U.S.-EU Safe Harbor Privacy Framework, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with Data Protection Authorities.
+As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor Principles, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Principles. If you have any complaints regarding our compliance with the Safe Harbor Principles you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with applicable Data Protection Authorities.
 
 ## Changes to this Policy
 
@@ -241,7 +237,10 @@ Please note that this Policy may change from time to time. We will post any Poli
 We are committed to privacy and are involved in current industry initiatives to promote privacy and protect personal information. Our privacy practices will evolve to meet new requirements, standards, technologies, and customer preferences. We welcome your opinions and insights on this evolution.
 
   
-V4.0  
-January 13, 2014
+V5.0  
+September 26, 2014
 
-[View V3.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/3-14-2013)
+  * [View V4.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/1-13-2014)
+  * [View V3.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/3-14-2013)
+
+
