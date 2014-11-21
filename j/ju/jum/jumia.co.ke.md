@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111165109id_/http%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093857id_/http%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Jumia Kenya
 
   
 
 
-Welcome to the jumia.co.ke website (the "Site") operated by Jade E Services Kenya. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+Welcome to the jumia.co.ke website (the "Site") operated by Ecart Services. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
