@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607072345id_/http%3A//zaggora.com/us_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121190312id_/http%3A//zaggora.com/gb_en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy was last updated on May 19th, 2014.
+This Privacy Policy was last updated on May 19th, 2014. 
 
 ZAGGORA LTD, trading through WWW.ZAGGORA.COM ("ZAGGORA" "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a corporate wide Privacy Policy that guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Geotrust.
 
