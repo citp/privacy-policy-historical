@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328151231id_/http%3A//www.hienzo.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093005id_/http%3A//www.hienzo.com/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy for hienzo.com/**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [minato.sanin@gmail.com](mailto:senju.himura@gmail.com). 
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](http://www.hienzo.com/p/var-servicedomainwww.html).
 
 At hienzo.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by hienzo.com and how it is used. 
 
