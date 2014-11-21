@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculatorpro.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620005545id_/http%3A//www.calculatorpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculatorpro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104412id_/http%3A//www.calculatorpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Calculator Pro
 
