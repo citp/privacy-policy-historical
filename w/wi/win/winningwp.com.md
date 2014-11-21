@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085023id_/http%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011629id_/http%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
 
 # WinningWP Privacy Policy - WinningWP
 
@@ -62,20 +62,12 @@ These cookies are used to deliver adverts more relevant to you and your interest
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Advertising and affiliate links
-
-Like just about any similar online enterprise, in order to continue publishing content (i.e. stay online) we need to at least cover our operating costs, we do this primarily through advertising. That said, we NEVER advertise products or services that we don’t whole-heartedly believe in and we NEVER place affiliate ads within our content purely for the purposes of making money! WinningWP only promotes products and services that we both personally like and feel would be beneficial to our audience.
-
 ## Changes to this privacy policy
 
 WinningWP has the discretion to update this privacy policy at any time. When we do, we will revise the updated date displayed at the bottom of this page. We encourage users Users to frequently check this page for any changes in order to stay informed on issues such as how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibilty to review this privacy policy periodically and become aware of any modifications.
 
-## Your acceptance of these terms
-
 By using this site, it is deemed you have agreed to these terms and conditions of use. If at any time you choose not to accept these terms and conditions of use, please do not continue to use this site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-## Contacting WinningWP
-
-If you have any questions regarding this Privacy Policy, the practices of this website, or your dealings with WinningWP, please [contact us](http://winningwp.com/contact/).
+If you have any questions regarding our policies, the practices of this website, or your dealings with WinningWP, please [contact us](http://winningwp.com/contact/).
 
 **_This document was last updated on January 21, 2014_**
