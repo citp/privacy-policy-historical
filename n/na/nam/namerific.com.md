@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namerific.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228214636id_/http%3A//www.namerific.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namerific.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193748id_/http%3A//www.namerific.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Namerific
 
