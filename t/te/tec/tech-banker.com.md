@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tech-banker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080827id_/http%3A//tech-banker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-banker.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121162701id_/http%3A//tech-banker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Banker
 
-**Tech Banker**  cares about the privacy of its visitors! We understand and respect the importance of your personal information and we ensure you that information of visitors is never going to be sold to third parties.
+**Tech Banker** cares about the privacy of its visitors! We understand and respect the importance of your personal information and we ensure you that information of visitors is never going to be sold to third parties.
 
-Following we describe all types of personal information from our visitors that is received, collected and safely stored, once one enter and interact with  **Tech Banker**. 
+Following we describe all types of personal information from our visitors that is received, collected and safely stored, once one enter and interact with **Tech Banker**. 
 
 ##### What happens when you join the site and download plugins?
 
-We at  **Tech Banker** , once visitors register to join the site to upload or download a plugin, are responsible for ensure that any data in our database is safely stored.
+We at **Tech Banker** , once visitors register to join the site to upload or download a plugin, are responsible for ensure that any data in our database is safely stored.
 
 Again we point that this information will not be shared with third-parties.
 
