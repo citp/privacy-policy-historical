@@ -1,74 +1,134 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002542id_/http%3A//thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021521id_/http%3A//www.dranthony.com/documents/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Privacy Policy
 
-  
+The last update to our Privacy Policy was posted on January 21, 2014.  This document governs the privacy policy of our Websites.  Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+
+### _Definitions_
+
+"Non-Personal Information" (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.
+
+"Personally Identifiable Information" (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service.  PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us. 
+
+### _Our Commitment to Your Privacy_
+
+Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
+
+Little e, Inc. is committed to the security and privacy of all our customers.  We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
+
+Little e, Inc. and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+
+### _Links to Other Websites_
+
+Our Website may contain links to other websites.  You understand that these websites are not under our control and are not subject to our Privacy Policy.  These websites will likely have their own privacy policies.  We have no responsibility for these websites and provide links to these websites solely for your convenience.
+
+You acknowledge that your use and access of these websites is solely at your own risk.  It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
+
+Rubbertree Inc. expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Rubbertree Inc. page, certain content that is actually created or hosted by a third party. Also, through Rubbertree Inc. you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Rubbertree Inc. is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Rubbertree Inc. does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in our forum, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Rubbertree Inc. and this policy. 
+
+### _Information We Collect_
+
+Generally, you control the amount and type of information you provide to us when using our Website.  As a visitor to our Website, you can browse our Website to find out more about us.  You are not required to provide us with any PII as a Visitor.
+
+However, if you register as a Member to use our Website, you must provide PII in order for us to provide you with various features and/or functionality from our Website.   As a Member, we collect your PII in the following ways: 
+
+_**At Purchase/Member Registration**_
+
+When you purchase from us and register for membership, we collect your name and email address and phone number.
+
+_**Online Forms**_
+
+There may be online forms used in our Website.  The information you enter into these online forms may contain PII.
+
+_**Premium Features**_
+
+Our Website may offer premium features for which you must pay to use.  If we were to charge you for the use of these premium features, we would need to collect payment source information (i.e. credit card) to bill you for using such premium features.
+
+### _Computer Information Collected_
+
+When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website.  Such information is typically considered NPI.  We may also collect any of the following:
+
+**_Cookies_**
+
+Our Website uses “Cookies” to identify the areas of our Website that you have visited.  A Cookie is a small piece of data stored on your computer or mobile device by your web browser.  We use Cookies to personalize the Content that you see on our Website.  Most web browsers can be set to disable the use of Cookies.  However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all.  We never place PII in Cookies.
+
+_**Web Beacons**_
+
+We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails.  Our Web Beacons are not used to track your activity outside of our Website.  We do not link NPI from Web Beacons to PII without your permission.
+
+**_Automatic Information_**
+
+We automatically receive information from your web browser or mobile device.  This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website.  This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system.  We use all of this information to analyze trends among our Users to help improve our Website. 
+
+**_OPTIONAL: Google Ad and Content Network Privacy Policy_**
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following link:   
+<http://www.google.com/policies/technologies/ads>
+
+### _How Information is Used_
+
+We use PII that you provide for our internal purposes, such as offering our services to you, confirming and tracking your order, subscription or registration; analyzing statistics and demographics; and informing you of new products, services, and offers as provided by us and/or our affiliates.
+
+Our affiliates may have products, services, or offers about which you may be interested in receiving information and they may use the PII we have for you to contact you.  If you don’t want to receive information from our affiliates, you can let us know so you’re no longer contacted by our affiliates about their products, services, or offers.
+
+We may also combine information you give us online or through printed forms; publicly available information; and information we receive from other parties.  We use this combined information for your online experience and to let you know about new products, services, offers, and other promotion.
+
+To give you the best possible service, we may use our affiliates to provide contracted services for our business, including, but not limited to processing credit cards, hosting our website, shipping products to you, or advertising.  In many cases, we will need to provide some if not all the PII you provide to use so our affiliates can perform these services.  Our affiliates are only authorized to use your PII as provided within this Privacy Policy.
+
+There are times that we may have to disclose your PII to comply with state and federal laws; to assist law enforcement and governmental agencies in preventing or investigating fraud or other crimes, or in response to a court order.  In such instances, we will only provide the PII requested and your PII will only be used for legal purposes as opposed to marketing.
+
+Finally, if we sold or transferred our business, we would transfer your PII to the purchaser as appropriate and might also retain a copy of your PII for any new business ventures we would start.
+
+### _Changing Your Information_
+
+You may change your PII at any time using facilities found on our Website.  If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using the Contact us information found on our Website.
+
+### _Opting Out of Sharing Information_
+
+You can always opt out of future unaffiliated third-party disclosures of your information.  Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
+
+### _“Do Not Track” Settings_
+
+Some web browsers have settings that enable you to request that our Website does not track your movement within our Website.  Our Website does not obey such settings when transmitted to and detected by our Website. Due to circumstances that are outside our control (i.e. internet transmission issues, web browser/web server incompatibilities, etc.), we may not always be able to detect and honor this setting.  However, this does not change our compliance in any other way with our Privacy Policy.
+
+**Change and Turn off tracking features in your browser.** You can turn off tracking features and other security settings in your browser by visiting the following links:
+
+  * For Internet Explorer visit: <http://goo.gl/0taI7I>
+  * For Mozilla Firefox visit: <http://goo.gl/IKxt9l>
+  * For Google Chrome visit: <http://goo.gl/NQIkqE>
+  * For Safari visit: <http://goo.gl/7XCOzL>
 
 
-### This Page has Opened in a Separate Page, the Page You Were on Should Still be Open. If it is not, just click the 'Back Button' on Your Browser to Return. 
 
-**HOW WE PROTECT YOUR PRIVACY**
+**Google Analytics Opt-out Browser Add-on.** Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool: <http://goo.gl/Ls82zv>
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+### _Protecting Your Child’s Privacy_
 
-**MINORS**
+We follow the Children’s Online Privacy Protection Act (COPPA).  Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website.  We do not knowingly collect PII from a child.  If you are a parent or guardian and believe your child is using our Website, please contact us.  We may ask for proof of identification before we remove any information to prevent malicious removal of account information.  If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties.  You acknowledge that we do not verify the age of our users nor do we have any liability to do so.  If you are a child, please seek the permission of a parent or guardian before accessing our Website. 
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+### _Our Email Policy (REVISED)_
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+We comply with the federal CAN-SPAM Act. You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
+### _Our Security Policy_
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII.   When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as establishing for conducting secure online transactions.  We also use industry standard technologies such as secure routers and fire walls to make sure that your PII is safe.  Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature.
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
+Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse.  We strongly urge you to protect any password you may have for our Website and not share it with anyone.  You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place. 
 
-And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+### _Use of Credit Cards_
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
+You may have to provide a credit card to buy products and services from our Website.  We use third-party billing services and HAVE NO CONTROL over these services.  We use our commercially reasonable efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use.  However, you understand and agree that we are in no way responsible for any misuse of your credit card number. 
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+### _Changes to Our Privacy Policy_
 
-**WHAT WE DO WITH YOUR INFORMATION**
+As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes.  We will typically notify users by some message on our Website home page that our Privacy Policy has changed.  We will also change the "Last Updated" date at the beginning of this Privacy Policy.  Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.  We encourage you to review our Privacy Policy periodically to make sure you still agree with it.
 
-We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
+### _Questions about Our Privacy Policy_
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
-
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
-
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
-
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
-
-**USER NAMES AND PASSWORDS**
-
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
-
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
-
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
-
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems.
-
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
-
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
-
-**AUTORESPONDERS**
-
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to [support@thesecretofdeliberatecreation.com](mailto:support@thesecretofdeliberatecreation.com), or sending us mail to the address listed below.
-
-**POLICY CHANGES**
-
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
-
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to [support@thesecretofdeliberatecreation.com](mailto:support@thesecretofdeliberatecreation.com) and providing us with information relating to your concern.
-
-**CALIFORNIA PRIVACY RIGHTS**
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [support@thesecretofdeliberatecreation.com](mailto:support@thesecretofdeliberatecreation.com). 
-
-This privacy policy was last updated on 1-03-2013.
-
-Copyright © 2020 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.  
+Copyright © Orion Systems. All Rights Reserved. This document, or any portion of, may not be copied or duplicated in any way without the written permission of Orion Systems. [http://www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
