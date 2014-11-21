@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082924id_/http%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143251id_/http%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Invest Four More Privacy Policy for Registration and Orders
 
@@ -50,7 +50,7 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * Rakuten Linkshare - <http://www.linkshare.com/legal/privacy/>
+  * Rakuten Linkshare – <http://www.linkshare.com/legal/privacy/>
 
 
 
