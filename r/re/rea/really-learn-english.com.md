@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the really-learn-english.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506220732id_/http%3A//www.really-learn-english.com/really-learn-english-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the really-learn-english.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142949id_/http%3A//www.really-learn-english.com/really-learn-english-privacy-policy.html) for the most accurate reproduction.*
 
 # Really Learn English Privacy Policy
 
