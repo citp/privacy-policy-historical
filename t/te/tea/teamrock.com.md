@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teamrock.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415034344id_/http%3A//www.teamrock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrock.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153355id_/http%3A//www.teamrock.com/privacy-policy) for the most accurate reproduction.*
 
 # TeamRock
 
-This privacy policy sets out how we, Team Rock Limited, will process any personal data we collect from you or you provide to us. By visiting www.teamrock.com (our site), you are accepting and consenting to the practices described in this privacy policy.
+This privacy policy sets out how we, Team Rock Limited, will process any personal data we collect from you or you provide to us. 
+
+By visiting www.teamrock.com (our site), you are accepting and consenting to the practices described in this privacy policy.
 
 We are committed to ensuring that your privacy is protected.
 
@@ -15,6 +17,8 @@ We may collect and process the following data about you:
 **(a) Information you give us**
 
 This may include, for example, your name, your email address, your telephone numbers, and your comments which you may provide when you submit a form to us, contact us or register to access parts of our site.
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
 
 **We will use this information:**
 
