@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326221008id_/http%3A//www.fashionequation.com/pages/Privacy-Policy/pgid-55717.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121071607id_/http%3A//www.fashionequation.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,10 +6,11 @@ We are committed to protecting your privacy. We will only use the information th
 
 We will not e-mail you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us or from another trader in the future.
 
-The type of information we will collect about you includes:  
+The type of information we will collect about you includes:
+
 Your Name  
 Address  
 Phone Number  
-Email Address  
-  
+Email Address
+
 We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law. We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions/comments about privacy, you should contact us.
