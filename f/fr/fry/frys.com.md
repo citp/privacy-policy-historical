@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064335id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095836id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ Fry's collects information about you to provide the best products and services a
 
 _Information you give us._
 
-Fry's collects and may store any information you enter on our website, provide us in our retail stores, or submit to Fry's in any other way. For example, we collect information that you provide when you create an Express Account on our website, make an online or in-store purchase from us, send us an e-mail or call us, enter a contest, or participate in a survey. This information may include: 
+Fry's collects and may store any information you enter on our website, provide us in our retail stores, or submit to Fry's in any other way. For example, we collect information that you provide when you create the myFry's Accounts on our website, make an online or in-store purchase from us, send us an e-mail or call us, enter a contest, or participate in a survey. This information may include: 
 
   * Your name. 
   * Your mailing address. 
@@ -62,7 +62,7 @@ Fry's uses your information to provide requested products and services to you an
   * To schedule and perform deliveries or installations. 
   * To service products. 
   * To send marketing communications. 
-  * To open and service your Express Account. 
+  * To open and service your myFry's Accounts. 
   * To provide high-quality customer service. 
   * To help us improve and customize what we offer to you, our website and our advertising. 
   * To send you information about our products, services and promotions. 
@@ -73,7 +73,7 @@ _Protection of Information_
 
 Fry's also protects your information from loss, misuse or alteration while it is under Fry's control. Protection of your information is a priority at Fry's. We have adopted reasonable security measures to protect the confidentiality of personal information under our control both online and in our stores. 
 
-When you enter personal information on our website, the information is protected by a security technology called Secure Sockets Layer (SSL), which encrypts your information during transport across the Internet. Further, your account information is only accessible with the password you choose when you open an Express Account. Please maintain the confidentiality of this password in order to ensure the protection of your account information. 
+When you enter personal information on our website, the information is protected by a security technology called Secure Sockets Layer (SSL), which encrypts your information during transport across the Internet. Further, your account information is only accessible with the password you choose when you open the myFry's Accounts. Please maintain the confidentiality of this password in order to ensure the protection of your account information. 
 
 **How may information be shared?**
 
@@ -103,7 +103,7 @@ If you do not wish to receive certain information or request that your informati
 
 _Updating or Correcting Information_
 
-If you have created an Express Account on our website, you may review, update or correct your account information by accessing your Express Account with your password. 
+If you have created the myFry's Accounts on our website, you may review, update or correct your account information by accessing your myFry's Accounts with your password. 
 
 **How will you be notified of future changes to the Privacy Policy?**
 
