@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072259id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044509id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -57,3 +57,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
 
 |  | 
+
+[](http://blackfriday.gottadeal.com/)
