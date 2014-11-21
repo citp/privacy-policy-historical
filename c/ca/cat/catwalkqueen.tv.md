@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catwalkqueen.tv privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601151103id_/http%3A//www.catwalkqueen.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catwalkqueen.tv privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032043id_/http%3A//www.catwalkqueen.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Catwalk Queen's Privacy Policy on Catwalk Queen
 
