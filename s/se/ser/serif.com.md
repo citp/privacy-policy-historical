@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316075021id_/http%3A//www.serif.com/int/nz/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121195018id_/http%3A//www.serif.com/company/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy – Serif
+# Privacy Policy – Serif
 
 Serif is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 6740484 Intl.- +44 115 9145472.
 
-This Privacy Policy and any documents it references, inform you how we collect and use the information (“Personal Data”) you provide in doing business with Serif including use of the Serif.com website and its services (the “Web Site”). Serif knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998\. We appreciate the trust you place in us.
+This Privacy Policy and any documents it references, inform you how we collect and use the information (“Personal Data”) you provide in doing business with Serif including use of the Serif.com website and its services (the “Web Site”). Serif knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998. We appreciate the trust you place in us.
 
-Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been posted on to the Serif.com web site. The use of this information is detailed in our [Terms and Conditions](https://web.archive.org/int/nz/TermsAndConditions/).
+Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that have been posted on to the Serif.com web site. The use of this information is detailed in our [Terms and Conditions](https://web.archive.org/company/legal.aspx).
 
 We may modify this Privacy Policy from time to time without notice. When we do we will update the “Last Updated” date and for material changes we will notify you by placing a notice on the home page of our Web Site for a minimum of seven days. It is therefore important that you regularly review this privacy policy to ensure you are updated as to any changes.
 
@@ -106,6 +106,7 @@ These cookies allow you to shop online by remembering your shopping basket conte
   * Serif_International
   * Serif_MCCode
   * Serif_UID
+  * Serif_AcceptPhotoPlus
 
 
 
@@ -113,7 +114,7 @@ These cookies allow you to shop online by remembering your shopping basket conte
 
 There are a few third-party websites who also use cookies on our behalf. Social Networking sites, like Facebook, use cookies so you can easily share content. Google Analytics saves anonymous statistical data that we use to improve your experience on our site. We do not directly control these cookies. You can check the third-party websites for more information on these.
 
-  * Google Maps and Analytics: [ Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)
+  * Google Maps and Analytics: [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)
   * Facebook: [Facebook privacy policy](http://www.facebook.com/about/privacy/)
   * Twitter: [Twitter Privacy Policy](https://twitter.com/privacy)
   * StumbleUpon: [StumbleUpon Privacy Policy](http://www.stumbleupon.com/privacy)
@@ -132,11 +133,11 @@ We also use cookies to record when you have visited certain specific areas of ou
 
 Cookies don’t stay around forever and your web browser will eventually delete them. When a website stores a cookie, it states how long the cookie should stay on the computer for – this can be for the current visit only or for a period of time, for example one year. Our main cookie _SessionID_ only stays on your computer while you are on our website. It is automatically removed when you leave our website.
 
-You can choose to delete our, or any website’s, cookies from your web browser at anytime (for help on how to do this, go to [ http://www.aboutcookies.org](http://www.aboutcookies.org/)). You can also set your web browser to not accept any cookies if you wish. You will still be able to view our web site, but you will not be able to purchase products, log in to your account, or benefit from personalised features.
+You can choose to delete our, or any website’s, cookies from your web browser at anytime (for help on how to do this, go to [http://www.aboutcookies.org](http://www.aboutcookies.org/)). You can also set your web browser to not accept any cookies if you wish. You will still be able to view our web site, but you will not be able to purchase products, log in to your account, or benefit from personalised features.
 
 ## Questions
 
-If you have any questions about our Privacy and Cookies Policy, please [ get in touch](https://web.archive.org/int/nz/ContactUs/).
+If you have any questions about our Privacy and Cookies Policy, please [get in touch](https://web.archive.org/contactus.aspx).
 
 _Last Updated: 31st May 2012_
 
