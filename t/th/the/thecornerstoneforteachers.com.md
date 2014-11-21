@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134339id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121163230id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure Info | The Cornerstone
 
@@ -29,4 +29,4 @@ The following two tabs change content below.
 
 
 
-Angela Watson was a classroom teacher for 11 years and has turned her passion for helping other teachers into a career as an educational consultant based in Brooklyn, NY. As founder of Due Season Press and Educational Services, she has published [3 books](http://thecornerstoneforteachers.com/books), launched a [blog](http://thecornerstoneforteachers.com/blog) and [webinar series](http://thecornerstoneforteachers.com/webinars), designs [curriculum resources](http://www.teacherspayteachers.com/Store/Angela-Watson), and conducts [seminars](http://thecornerstoneforteachers.com/pressevents/consultations) in schools around the world. Check out the [free teacher resource pages](http://thecornerstoneforteachers.com/free-resources) for photos, tips & tricks, activities, printables, and more.
+Angela Watson was a classroom teacher for 11 years and has turned her passion for helping other teachers into a career as an educational consultant based in Brooklyn, NY. As founder of Due Season Press and Educational Services, she has published [3 books](http://thecornerstoneforteachers.com/books), launched a [blog](http://thecornerstoneforteachers.com/blog) and [webinar series](http://thecornerstoneforteachers.com/webinars), designs [curriculum resources](http://www.teacherspayteachers.com/Store/Angela-Watson), and conducts [seminars](http://thecornerstoneforteachers.com/pressevents/consultations) in schools around the world. [Subscribe via email](http://eepurl.com/5xHWb) for blog updates, exclusive tips & tricks, activities, printables, and more.
