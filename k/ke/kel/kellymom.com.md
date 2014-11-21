@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellymom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161221id_/http%3A//kellymom.com/about/kellymom-com-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellymom.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142303id_/http%3A//kellymom.com/about/kellymom-com-privacy-notice) for the most accurate reproduction.*
 
 # KellyMom.com Privacy Notice : KellyMom
 
@@ -17,6 +17,4 @@ KellyMom.com does not sell, rent or otherwise provide any information to anyone.
 We use Google Analytics to better understand how visitors use KellyMom.com. The Google Analytics privacy policy can be found here, along with information on opting out: [http://www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/analytics/tos.html).
 
 KellyMom.com contains links to other websites. We are not responsible for the content or privacy practices of these sites.
-
-[](http://www.linkwithin.com/)
   *[July 2, 2011]: 2011-07-02
