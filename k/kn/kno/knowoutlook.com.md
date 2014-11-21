@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knowoutlook.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327104412id_/http%3A//www.knowoutlook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowoutlook.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021535id_/http%3A//www.knowoutlook.com/privacy.php) for the most accurate reproduction.*
 
-# KnowOutlook.com - Help with Outlook - Teach Microsoft Outlook
+# KnowOutlook.com - Contact Page - Help with Outlook - Teach Microsoft Outlook
 
-**What information do we collect?**
+What information do we collect? 
 
 We collect information from you when you fill out a form. 
 
