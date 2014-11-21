@@ -1,102 +1,91 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311224521id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084048id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
 
-# TravelPost
+# DealBase.com Privacy Policy | Dealbase
 
-**Last Updated on May 7, 2010**
+### Last updated: August 4, 2010
 
-**1\. Overview**
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting dealbase.com, you are accepting the practices described in this Privacy Policy.**
 
-The TravelPost Web site ("TravelPost", "we," or "us") is a community site containing hotel reviews, maps and information for millions of places around the world (collectively, the "Services"). We at TravelPost recognize that your privacy is important to you. We have created this privacy policy ("Privacy Policy") to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our Site. BY ACCESSING OUR SITE, YOU CONSENT TO OUR PRIVACY POLICY AS DESCRIBED HEREIN.
-
-**The purpose of this Privacy Policy is to inform you of the following:**
-
-  * What kind of information does TravelPost collect about you? 
-  * How will the information that TravelPost collects be used? 
-  * With whom does TravelPost share the information it collects about you? 
-  * What are the opt-out choices TravelPost provides you with regarding the collection, use, and distribution of your information? 
-  * What security procedures does TravelPost use to protect against the loss, misuse, or alteration of information collected by the company? 
-  * How long does TravelPost retain information about me?
-  * Does TravelPost collect information from children? 
-  * How can I access the information TravelPost has about me or correct it? 
-  * Notification of Changes 
+  
 
 
+### What Personal Information About Customers Does Dealbase.com Gather?
 
-**2\. What kind of information does TravelPost collect about you?**
+We collect personally identifiable information (“Personal Information”) on Dealbase.com. Personal Information is any data that may be used to identify you personally and includes email address, telephone number and postal address.
 
-We collect two basic types of information from our Site. Personally identifiable information is information that is directly associated with a specific person or entity such as a user's name, e-mail address, or information about activities that is directly linked to that person.
+The information we learn from customers helps us personalize and continually improve your shopping experience at dealbase.com. Here are the types of information we gather.
 
-Our definition of personally identifiable information does not include "aggregate" information. Aggregate information is data we collect about a group or category of services or user from which individual user identities have been removed. Aggregate data may include anonymous demographic information such as country of origin, citizenship, ZIP code, age, gender, preferences and survey information. In other words, how you use our Site may be collected and combined with information about how others use the Site, but no personal information will be included in the resulting data. Aggregate data helps us understand trends and our user's needs so that we can better consider new features or otherwise tailor our Site.
+**Information You Give Us:** we receive and store any Personal Information you enter on our website or give us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use Personal Information for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
 
-The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site are accessible without registration of any kind, and you can browse those areas of our Site. Other areas of our Site require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better or provide particular features, you will need to provide certain information to access some areas of our Site. We collect information you give us when you register at and use our Site.
+**Non-Personally Identifiable Information:** We receive and store certain types of non-personally identifiable information whenever you interact with us at Dealbase.com. For example, like many websites, we use “cookies,” (described below) and we obtain certain types of non-personally identifiable information when your web browser accesses dealbase.com. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at dealbase.com if we cannot recognize you, we want you to be aware that these tools exist. 
 
-Specific examples of the information we collect include the following:
+**E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from dealbase.com if your computer supports such capabilities. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your customer communication preferences on our website. 
 
-> **A. Registration Information.** When you register at our Site, we may collect various kinds of contact information about you including your name, e-mail address, date of birth, and other personally identifiable information.
+**Information from Other Sources:** We might receive information about you from other sources and add it to our account information. 
 
-> **B. TravelPost Profile, Postings and Reviews.** Please note that information and content that you post on our Site by using our services including, but not limited to, reviews, blogs and photos as well as your screen ID and information in your TravelPost profile can be viewed by the general public, and also may be stored on our systems indefinitely. You should not post any personally identifiable information that you do not wish to make publicly available.
-
-> **C. Submissions and Customer Service.** From time-to-time we may post surveys, contests or sweepstakes on our site, which may request personally identifiable information, demographic information and/or customer feedback. Contests may require contact information or other demographic or personally identifiable information in order to determine eligibility. We may use information collected from surveys and contests to notify and contact winners of those contests. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information. Also, we may collect information that identifies you personally when you send us comments, questions or suggestions.
-
-> **D. Cookies and Passive Data Collection.** We automatically receive certain types of information whenever you interact with our Site. For example, when you visit the Site, our systems automatically collect standard user information and clickstream data for all users, including a user's IP address, operating system, and page views. Information may be automatically collected through the use of "cookies" which are discussed in more detail below. Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. In general, we may use cookies to collect information so that we can determine how to improve our site by seeing which areas and features are most popular, to personalize the site and improve the site experience. Cookies are not tied to your personally identifiable information. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to use some of the site's features or services and you may have a less satisfactory experience.
-
-> **E. Clear Gifs.** We and the companies that serve advertisements on our Site use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps inform us and them about what content is active. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web user. Clear gifs are not tied to your personally identifiable information. Clear gifs are invisible on the page and very small, about the size of the period at the end of this sentence. Clear Gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the website would read the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. The information would then go back to the advertising company. In addition, we use clear gifs in our HTML-based emails, to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications.
-
-> **F. Third Party Links and Ad Servers.** We provide links to third party websites, which may, or may not, use cookies, pixel tags and web tags. We also allow other companies, called third-party ad servers, to display advertisements on TravelPost.com. Ad servers may also use these tools to compile information about where users saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all users to read the privacy policies of each and every website visited when linking directly from TravelPost.
-
-**3\. How will the information that TravelPost collects be used?**
-
-In general, we use personal information to serve our users, enable them to take maximum advantage of our services and to improve the products and services we provide to you. For example, we may use personal information to contact our users relating to their registration to our service, to anticipate and resolve problems with our Site, to respond to customer support inquiries, and to send other TravelPost administrative and systems-related messages. We reserve the right to send such communications to our users without offering the opportunity to opt-out of receiving them. We do not send advertisements, newsletters, or any other commercial solicitations to our users.
-
-**4\. With whom does TravelPost share the personal information it collects about you?**
-
-We do not rent, sell, or share your personal information with third parties or nonaffiliated companies, except as described in this section or with your express permission.
-
-  * We share trend and aggregate information with our partners for business purposes and with other third parties for marketing purposes. We might disclose, for example, that a certain percentage of our users list their home airport as San Francisco. However, this aggregated information is in no way traceable to any specific personal information.
-  * We disclose information when required by law or judicial authority.
-  * We disclose information as required to safeguard TravelPost's rights or property.
-  * We reserve the right to share certain personal information (such as your log-in, profile, and preference information) with other websites that are owned and/or operated by TravelPost, Inc. These sites are also required to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
-  * If TravelPost is ever merged with another company, or if TravelPost buys, sells or reorganizes some or all part(s) of its business, parties involved in such a transaction would gain access to the information that TravelPost has collected over time. Such third parties would be required, however, to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
+  
 
 
+### What About Cookies?
 
-**5\. What are the opt-out choices TravelPost provides you with regarding the collection, use, and distribution of your information?**
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser to enable our systems to recognize your browser and to provide certain features.
 
-We reserve the right to send you certain communications relating to your registration with our service and TravelPost's other services, such as customer service responses and other administrative messages, without offering you the opportunity to opt-out of receiving them. You can opt-out from receiving such messages by canceling your registration with TravelPost. We reserve the right to send you advertisements, newsletters, and any other commercial solicitations to our users. You can opt-out from receiving this kind of communication in your profile settings.
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of dealbase.com’s coolest features, and we recommend that you leave them turned on.
 
-Third parties may independently collect information about users when users choose to view links or ads displayed on TravelPost. Users should contact those third parties directly if they do not wish to receive communications from them, or do not want those third parties to collect information about them.
+**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com, other websites and other forms of media about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here.](http://www.networkadvertising.org/consumer/opt_out.asp) **
 
-We are opposed to spam and our [Terms of Service](http://www.travelpost.com/terms) expressly prohibit users from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or other form of commercial solicitation on the TravelPost website or through TravelPost's services. Any violation of our policies, by sending unsolicited email advertisements to or through TravelPost's computer systems, will result in the sender being blocked from use of the Site and may subject the sender and his or her agents to civil and criminal penalties.
+**If you would like to see what information one of these companies has collected about your Internet usage, please[click here.](http://www.bluekai.com/registryoverview.html) **
 
-**6\. What security procedures does TravelPost use to protect against the loss, misuse, or alteration of information collected by the company?**
-
-TravelPost uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the TravelPost website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
-
-Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.
-
-**7\. How long does TravelPost retain information about me?**
-
-TravelPost will retain information from which it is possible to identify you for a reasonable time bearing in mind the possibility of your re-using the Service. If you would like your information to be deleted at any time you should contact us using the details set out below.
-
-**8\. Does TravelPost collect information from children?**
-
-TravelPost.com is intended solely for use by persons 13 years of age or older. All persons under 13 years of age are prohibited from registering on TravelPost.
-
-**9\. How can I access the information TravelPosthas about me or correct it?**
-
-Registered users may, at any time, choose to correct or update the account information they have submitted to us. This may be done by logging into the site, clicking the My Account link, clicking the Edit Account link or Edit Profile Info and editing the information on these pages. Registered users may, at any time, chose to cancel their registration with TravelPost by sending an email to [contact@travelpost.com](mailto:contact@travelpost.com) and requesting TravelPost to close their account.
-
-**10\. Notification of Changes**
-
-From time to time, we may need to update our Privacy Policy because of changes in the law, in technology, in our business, or in our attempts to better serve your needs. If we make any material changes to our Privacy Policy, we will post a notification on our Site and update the effective date above. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site to see if it has been updated since your last visit.
-
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at [contact@travelpost.com](mailto:contact@travelpost.com) or contact us by mail at:
-
-Postal Mail Address:   
-TravelPost, Inc.  
-401 2nd Ave. S, Suite 500  
-Seattle, WA 98104  
-Attention: Privacy Officer   
+  
 
 
-Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20140311224521id_/http%3A//travelpost.com/about.aspx). 
+### Does Dealbase.com Share the Information It Receives?
+
+Information about our customers is an important part of our business, and we are not in the business of selling the Personal Information of our customers to others. We share Personal Information only as described below and with subsidiaries DealBase controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+
+**Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases these businesses operate stores at dealbase.com or sell offerings to you at dealbase.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer’s Personal Information related to those transactions with that third party. 
+
+**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. We share customer’s Personal Information with these agents as we deem necessary for them to perform their functions. 
+
+**Promotional Offers:** We may enter into alliances, partnerships or other business arrangements with third parties for the purpose of providing you information regarding products and services that we think may be of interest to you. In addition, we may also use the Personal Information we collect to notify you about important changes to our web site, new services and special offers we think you will find valuable. If you do not want to receive such offers, please adjust your customer communication preferences on our website. 
+
+**Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that DealBase, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+**Protection of DealBase and Others:** We release account and other Personal Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use Agreement and other agreements; or protect the rights, property, or safety of DealBase, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing Personal Information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
+
+**With Your Consent:** Other than as set out above, you will receive notice when Personal Information about you might go to third parties, and you will have an opportunity to choose not to share that Personal Information. 
+
+  
+
+
+### Which Information Can I Access?
+
+As described above, we use third-party companies to serve ads and collect non-personally identifiable information when your visit dealbase.com. If you would like to see what information one of these companies has collected about your Internet usage, please [click here](http://www.bluekai.com/registryoverview.html)
+
+  
+
+
+### Children
+
+dealbase.com does not sell products for purchase by children. If you are under 18, you may use dealbase.com only with the involvement of a parent or guardian.
+
+  
+
+
+### Safe Harbor
+
+dealbase.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the United States and the European Union. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website. If you would like to contact dealbase.com directly about the Safe Harbor program, please send an e-mail to safeharbor@ dealbase.com.
+
+  
+
+
+### Conditions of Use, Notices, and Revisions
+
+If you choose to visit dealbase.com, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at dealbase.com, please contact us with a thorough description, and we will try to resolve it.
+
+Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also.
+
+You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+  
+
