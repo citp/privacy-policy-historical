@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223120458id_/http%3A//www.acyba.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014249id_/http%3A//www.acyba.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-According to the law n°78-17 of the January 6th 1978 concerning the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722),  the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information handling to the Commission Nationale de l'Informatique et des Libertés (CNIL). Accordingly to the article 34 and following, you have the right to ask access and rectification of your personal information by e-mail at privacy@acyba.com.
+According to the law n°78-17 of the January 6th 1978 concerning the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722),  the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information handling to the Commission Nationale de l'Informatique et des Libertés (CNIL). Accordingly to the article 34 and following, you have the right to ask access and rectification of your personal information by e-mail at [privacy@acyba.com](mailto:privacy@acyba.com).
