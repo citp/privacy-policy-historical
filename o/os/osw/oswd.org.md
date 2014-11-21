@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the oswd.org privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008010008id_/http%3A//www.oswd.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oswd.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225019id_/http%3A//www.oswd.org/site/privacy) for the most accurate reproduction.*
 
 # Open Source Web Design - Privacy Policy
+
+## [About](https://web.archive.org/site/information/)
+
+## Privacy Policy
+
+**OSWD does not sell or give away your personal information.** We respect the privacy of our community. Read on if you want to know more. 
+
+### **Stay Informed!**
 
 #### Concerning Your Privacy
 
