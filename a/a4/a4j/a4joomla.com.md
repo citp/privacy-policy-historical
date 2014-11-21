@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4joomla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081018id_/http%3A//www.a4joomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4joomla.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121050408id_/http%3A//www.a4joomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,7 +13,7 @@ a4joomla.com may change this policy from time to time by updating this page. You
 We may collect the following information:
 
   * name
-  * contact information including email address
+  * contact information including email address, billing name and address
   * other information relevant to customer surveys and/or offers
 
 
