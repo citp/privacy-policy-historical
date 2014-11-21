@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jerseyeveningpost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092151id_/http%3A//jerseyeveningpost.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseyeveningpost.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111739id_/http%3A//jerseyeveningpost.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy policy « Jersey Evening Post
+
+**1\. What does our Privacy Policy cover? Protecting the privacy and personal data of individuals is an important aspect of the way our company, Guiton Group Limited organises and implements its activities both on-line and off-line.**
 
 **1\. What does our Privacy Policy cover?**
 
