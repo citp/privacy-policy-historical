@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523211310id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225238id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Project Management | privacy-policy
 
