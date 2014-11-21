@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331192045id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144630id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | United Utilities
 
@@ -45,11 +45,11 @@ When one of our customer advisors/employees needs to contact you to discuss your
 **Disclosure of personal information -** We will not disclose your personal information unless we are permitted to do so by law. Instances where we may share your personal information include: 
 
   * With our employees and contractors, including specialist data processors, in order to help provide our service to you. 
-  * With credit reference, and fraud prevention, agencies in order to locate and identify our customers, understand their ability to pay, help prevent and detect fraud, or as part of our debt collection process. 
+  * With credit reference, and fraud prevention, agencies in order to locate and identify our customers, understand their ability to pay, help prevent and detect fraud, or as part of our debt collection process - for more information please read '[Changes to how we manage your personal details](https://web.archive.org/personaldetails.aspx "Changes to how we manage your personal details")'. 
   * With external agencies in the event of an emergency situation, such as under the Civil Contingencies Act 2004. 
   * When we are under a legal duty to do so, because of a court order or statutory obligation. 
   * Where we believe that you may be interested in the services offered by other organisations. 
-  * To the police/law enforcement bodies for crime detection. 
+  * To the protection and detection of crime. 
   * For research purposes.
 
 
