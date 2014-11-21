@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630174449id_/http%3A//www.staples.com.au/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094631id_/http%3A//www.staples.com.au/privacy) for the most accurate reproduction.*
 
 # Office Supplies, Ink & Toner, Copy Paper, Technology & Electronics - Welcome to Staples.com.au
 
@@ -22,7 +22,7 @@ We collect the following personal information:
 Ancillary to our core business activities, we also collect and maintain records of personal information. For example:
 
   * Contractor name, address, licence, contact and emergency contact details which are used for the purposes of managing our various contractors in accordance with the requirements of our customers and our business requirements; and
-  * Potential employee resumes and contact details which are used as a part of the recruitment process for new employees.
+  * Potential employee resumes and contact details which are used as a part of the recruitment process for new employees. 
 
 
 
@@ -34,7 +34,7 @@ We are required by Liquor Licensing laws to obtain your date of birth if and whe
 
 ## Who has access to personal information
 
-Related body corporates of Staples and contractors may have access to and use your personal information. Personal information may from time to time be retained on data storage systems owned and operated by these related body corporates or contractors in overseas locations in which Staples' related body corporates or contractors operate.
+Related body corporates of Staples and contractors may have access to and use your personal information. Personal information may from time to time be retained on data storage systems owned and operated by these related body corporates or contractors in overseas locations in which Staples' related body corporates or contractors operate. 
 
 The countries in which such recipients are likely to be located are available [here](http://www.staples.co.uk/Wrapper.aspx?param=international).
 
