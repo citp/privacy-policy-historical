@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514110304id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182943id_/http%3A//www.discoverboating.com/content/includes/privacy-modal.html) for the most accurate reproduction.*
 
-# Customer Privacy Policy
+# 
 
 Your privacy is a priority at Discover Boating, and we go to great lengths to protect it. We recognize your need to protect and manage any personal information you share with us. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
@@ -10,7 +10,7 @@ To protect the privacy of children, we adhere to the 1998 Children's Online Priv
 
 ### Information Collection and Use
 
-There are situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you order a Free "How to Get Started with Boating" DVD, sign up for the Wave Newsletter, get Free Magazine Subscriptions or fill out a form to receive brochures and materials. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences. In some cases, we also ask you to provide information for market research purposes to gain a better understanding of our customers and thus provide more valuable service. 
+There are situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you order a Free "How to Get Started with Boating" DVD, sign up for the Wave Newsletter, get Free Magazine Subscriptions or fill out a form to receive brochures and materials. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences. In some cases, we also ask you to provide information for market research purposes to gain a better understanding of our customers and thus provide more valuable service.
 
 ### Website Traffic
 
@@ -22,11 +22,11 @@ We use this information, which DOES NOT identify individual users, to analyze tr
 
 As is standard practice on many corporate websites, DiscoverBoating.com uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our website. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-If you prefer not to enable cookies, please go to [www.discoverboating.com/info/cookies.htm](https://web.archive.org/info/cookies.htm), which explains step by step how you can disable cookies. Please note that certain features of the DiscoverBoating.com website will not be available once cookies are disabled.
+If you prefer not to enable cookies, please go to [www.discoverboating.com/info/cookies.htm](http://www.discoverboating.com/info/cookies.htm), which explains step by step how you can disable cookies. Please note that certain features of the DiscoverBoating.com website will not be available once cookies are disabled.
 
 ### Newsletter
 
-If you wish to subscribe to our newsletter, we ask for contact information such as your name and email address.While we cannot prevent users from signing up other individuals to receive the newsletter, out of respect for our users' privacy, we provide a way for you to opt-out of these communications. Please see the _Choice and Opt-out_ section below.
+If you wish to subscribe to our newsletter, we ask for contact information such as your name and email address.While we cannot prevent users from signing up other individuals to receive the newsletter, out of respect for our users' privacy, we provide a way for you to opt-out of these communications. Please see the Choice and Opt-out section below.
 
 In some of our email messages we use a "click-through URL" linked to content on the DiscoverBoating.com website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
 
@@ -34,7 +34,7 @@ In addition, we sometimes use pixel tags - tiny graphic images - to tell us what
 
 ### Information Disclosure
 
-The National Marine Manufacturers Association (NMMA) is the sole keeper of the information collected on the discoverboating.com website and any other programs related to the Discover Boating campaign. 
+The National Marine Manufacturers Association (NMMA) is the sole keeper of the information collected on the discoverboating.com website and any other programs related to the Discover Boating campaign.
 
 ### When we disclose your information
 
@@ -46,9 +46,9 @@ Additionally, we may need to disclose personal information when required by law 
 
 ### Choice/Opt-out
 
-If you no longer wish to receive our Wave! Newsletter, you may opt-out of receiving it by clicking on the "Unsubscribe" link that appears at the bottom of each email. 
+If you no longer wish to receive our Wave! Newsletter, you may opt-out of receiving it by clicking on the "Unsubscribe" link that appears at the bottom of each email.
 
-If you do not wish us to disclose your contact information to third parties while you are requesting your Free How to Get Started in Boating DVD, you will need to opt-out from the offer by un-checking the box at the bottom of the request form next to the _"I would like to be contacted by manufacturers and dealers"_ label. Your information will be shared with dealers and manufacturers if you fill out the request for brochures and informational materials from manufacturers and dealers while you are using the Boat Selector tool. You may later choose to opt out from these emails via Contact Us section of this website.
+If you do not wish us to disclose your contact information to third parties while you are requesting your Free How to Get Started in Boating DVD, you will need to opt-out from the offer by un-checking the box at the bottom of the request form next to the "I would like to be contacted by manufacturers and dealers" label. Your information will be shared with dealers and manufacturers if you fill out the request for brochures and informational materials from manufacturers and dealers while you are using the Boat Selector tool. You may later choose to opt out from these emails via Contact Us section of this website.
 
 ### Security
 
@@ -72,10 +72,10 @@ If, however, we are going to use users' personally identifiable information in a
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at [support@discoverboating.com](mailto:support@discoverboating.com) or at:
+If users have any questions or suggestions regarding our privacy policy, please contact us at [support@discoverboating.com ](mailto:support@discoverboating.com) or at:
 
-> National Marine Manufacturers Association  
-> 231 S. LaSalle Street, Suite 2050  
-> Chicago, IL 60604  
-> United States of America  
-> Phone: (312) 946-6200
+National Marine Manufacturers Association
+231 S. LaSalle Street, Suite 2050
+Chicago, IL 60604
+United States of America
+Phone: (312) 946-6200
