@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incestcomicsws.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508141521id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incestcomicsws.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155129id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
 
 # CF-Mail.com - ConvertFamily.com Support Page > Policy
 
