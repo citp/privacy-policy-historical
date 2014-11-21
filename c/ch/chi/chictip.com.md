@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042251id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005338id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Design and Decor
 
@@ -30,9 +30,9 @@ This Privacy Policy may be updated from time to time including for purposes of a
 
 The information that we collect is aimed to allow us to provide you with better services and a more enjoyable experience. We may collect the following types of information:
 
-\- Email address information, as required to subscribe to any newsletters and RSS feed subscription our network of sites may offer;
+– Email address information, as required to subscribe to any newsletters and RSS feed subscription our network of sites may offer;
 
-\- Information supplied by your browser when accessing our Website, such as IP address, type of browser, date and time of access, etc.;
+– Information supplied by your browser when accessing our Website, such as IP address, type of browser, date and time of access, etc.;
 
 **Use of Information**
 
