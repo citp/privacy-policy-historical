@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621020212id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121043032id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Lighting - Home Lighting Fixtures, Chandeliers, Ceiling Fans, Lamps - LightingDirect.com
+# Lighting Fixtures - Find Your Light Fixture at Lighting Direct - LightingDirect.com
 
 The Privacy Information was last updated Apr 21, 2014
 
