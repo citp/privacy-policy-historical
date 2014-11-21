@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319231157id_/http%3A//www.wavebroadband.com/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121203624id_/http%3A//www.wavebroadband.com/resources/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# 1-866-WAVE-123 • 1-866-928-3123 • WaveBroadband.com
+# 1-866-WAVE-123 | wavebroadband.com
 
-ECPA or the Register/Trace Statute, the Cable Act’s requirements are different depending on           Access to Our Records About You.
-the nature of the information sought. If the governmental authority wants disclosure of re-           Under the Cable Act, cable subscribers have the right to inspect our records that contain person-
-cords revealing cable subscriber selection of video programming, then we may disclose it only         ally identifiable information about them and to have a reasonable opportunity to correct any
-if authorized or required by a court order and only if the two special requirements of the Cable      errors in such information. If you wish to exercise this right, please notify us at the local Wave
-Act stated above are met. If, however, the government seeks any other kind of personally              Broadband office specified on your bill, and we will contact you to arrange a mutually conve-
-identifiable information, then those two special requirements do not have to be met and the           nient time during our regular business hours.
+ECPA or the Register/Trace Statute, the Cable Act’s requirements are different depending on          Access to Our Records About You.
+the nature of the information sought. If the governmental authority wants disclosure of re-          Under the Cable Act, cable subscribers have the right to inspect our records that contain person-
+cords revealing cable subscriber selection of video programming, then we may disclose it only        ally identifiable information about them and to have a reasonable opportunity to correct any
+if authorized or required by a court order and only if the two special requirements of the Cable     errors in such information. If you wish to exercise this right, please notify us at the local Wave
+Act stated above are met. If, however, the government seeks any other kind of personally             Broadband office specified on your bill, and we will contact you to arrange a mutually conve-
+identifiable information, then those two special requirements do not have to be met and the          nient time during our regular business hours.
 government may require us to make the disclosure if authorized by the ECPA or the Register/
-Trace Statute. In some cases, this will mean that the disclosure may be required without a court      Your Rights Under the Cable Act.
-order, without any prior notice to you that the government seeks the disclosure, without any          The Cable Act provides you with a cause of action for damages, attorneys’ fees and costs in
-prior opportunity for you to oppose the disclosure and without any notice that the disclosure         Federal District Court if we violate the Cable Act’s limitations on the collection, disclosure, and
-has been made as required.                                                                            retention of personally identifiable information about you.
-In addition to the above, if you subscribe to any of our Internet or telephony services, the ECPA     Contact Your Local Wave Broadband Office If You Have Questions.
+Trace Statute. In some cases, this will mean that the disclosure may be required without a court     Your Rights Under the Cable Act.
+order, without any prior notice to you that the government seeks the disclosure, without any         The Cable Act provides you with a cause of action for damages, attorneys’ fees and costs in
+prior opportunity for you to oppose the disclosure and without any notice that the disclosure        Federal District Court if we violate the Cable Act’s limitations on the collection, disclosure, and
+has been made as required.                                                                           retention of personally identifiable information about you.
+In addition to the above, if you subscribe to any of our Internet or telephony services, the ECPA    Contact Your Local Wave Broadband Office If You Have Questions.
                                                                                                                                                                                                                                           PRIVACY POLICY
-permits us to disclose the contents of your e-mail or other communications to a law enforce-          If you have any questions about our policies described in this Notice, please contact your local
-ment agency if we reasonably believe that an emergency involving immediate danger of death            Wave Broadband office at the address and telephone listed on your bill (or, if you have not yet       At Wave Broadband we take your privacy seriously and we want you to know our
-or serious physical injury to any person requires disclosure of the information without delay.        been billed, on the service order you signed to subscribe to the service).                            policies. This Notice will give you an overview of those policies and how we will apply
+permits us to disclose the contents of your e-mail or other communications to a law enforce-         If you have any questions about our policies described in this Notice, please contact your local
+ment agency if we reasonably believe that an emergency involving immediate danger of death           Wave Broadband office at the address and telephone listed on your bill (or, if you have not yet        At Wave Broadband we take your privacy seriously and we want you to know our
+or serious physical injury to any person requires disclosure of the information without delay.       been billed, on the service order you signed to subscribe to the service).                             policies. This Notice will give you an overview of those policies and how we will apply
 We may do so without prior notice to you, without your consent and without being required                                                                                                                   them in specific situations.
 to do so by a warrant, subpoena, court order or law. Examples of situations in which we might
 make such disclosures are where we reasonably believe that there is an immediate risk of death,                                                                                                             The Cable Communications Policy Act of 1984 (the “Cable Act”) contains restrictions
@@ -53,9 +53,9 @@ by you for access to it or pending court orders or other legal process requiring
 to a third party. In most cases, this means that we will have personally identifiable information                                                                                                           dividual, such as his or her name and address or telephone number. It also includes
 about you for so long as you are a subscriber and continue to retain it thereafter for as long as                                                                                                           information that links data about an individual’s activities or history to that individual,
 it may reasonably be required to comply with tax, accounting and any applicable contractual                                                                                                                 such as the combination of the individual’s name with the fact that he or she pur-
-or legal requirements, which could be seven years or more after you stop being a subscriber.         1-866-WAVE-123 • 1-866-928-3123 • WaveBroadband.com
+or legal requirements, which could be seven years or more after you stop being a subscriber.                        1-866-WAVE-123 | wavebroadband.com
                                                                                                   5                                                                                                       6                                                                                             1
-                                                                                                                                                                                            WAVE_PVCP_2010
+                                                                                                                                                                                               WBB.011.1014
 
 
 chased a specific product online, so that someone else with access to the combined information        policies that govern your use of our services; and                                                   • Persons or entities that control, are controlled by, or under common control with Wave Broad-
