@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repricerexpress.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630212920id_/http%3A//www.repricerexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repricerexpress.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100246id_/http%3A//www.repricerexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RepricerExpress
 
@@ -88,12 +88,4 @@ The Data Protection Act 1998 was established to govern online electronic communi
 
 **9.  Contacting Us**
 
-We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at clear@lucidltd.com
-
-[Start Free Trial](https://app.repricerexpress.com/registration.aspx)
-
-## Try RepricerExpress for 15 days free
-
-60 second sign up—no credit card required!
-
-[Start Free Trial](https://app.repricerexpress.com/registration.aspx)
+We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy. Please contact us at clear@lucidltd.com. Please note that calls to or from our business may be monitored or recorded.
