@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209143849id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104720id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
 
-# Unexplainable Store- Privacy Policy
+# Unexplainable Store Privacy Policy
 
 Any and all information collected is secure and will not be sold or given to any party besides The Unexplainable Store®. We understand your privacy is our business, and we take it seriously.
 
-This is the web site of **unexplainablestore.com.**
+This is the web site of  **unexplainablestore.com.**
 
 Our postal address is  
 **PO Box 803338 # 91747  
 Chicago, IL 60680-3338**
 
-We can be reached via e-mail at unexplainablestore.net@gmail.com
+We can be reached via e-mail at [unexplainablestore.net@gmail.com](mailto:unexplainablestore.net@gmail.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and IP address (where possible).
 
@@ -24,4 +24,4 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 If you feel that this site is not following its stated information policy, please contact us.
 
-Please use our  [contact page](http://www.unexplainablestore.com/contact.php) for any questions or comments.
+Please use our [contact page](https://web.archive.org/web/20141121104720id_/http%3A//www.unexplainablestore.com/contact.php) for any questions or comments.
