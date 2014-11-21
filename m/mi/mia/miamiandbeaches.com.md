@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626180244id_/http%3A//www.miamiandbeaches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025634id_/http%3A//www.miamiandbeaches.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | MiamiAndBeaches.com
 
@@ -37,7 +37,15 @@ Participation in MiamiandBeaches.com, featured/sponsored contests and sweepstake
 **VIII. Use of Cookies**
 
 Cookies are small pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies can make a website more useful by allowing the site to personalize information for visitors and by storing information about customer preferences on a particular site. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers.   
-Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies. However, please note that many parts of our website will not function properly if you do not allow cookies. 
+Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies. However, please note that many parts of our website will not function properly if you do not allow cookies. 
+
+Google Analytics Advertising features have been enabled on our website: Interest-based Advertising, including Remarketing; DoubleClick Platform integration; Google Analytics Demographics and Interest Reporting. These features enable Google Analytics to collect data about our website traffic via Google advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.
+
+GMCVB and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. These cookies are also used by the GMCVB and third-party vendors to inform, optimize, and serve ads across the Internet based on someone’s past visits to our website.
+
+We will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless we have notice of and the user’s prior affirmative (ie: opt-in) consent to that merger.
+
+Google Analytics’ currently available opt-outs for the web can be [found here](https://tools.google.com/dlpage/gaoptout/).  You may also download the DoubleClick advertising cookie opt-out plugin [here](http://www.google.com/settings/ads/plugin).
 
 **IX. Transmission of Information**
 
