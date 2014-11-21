@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234307id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094715id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -169,4 +169,4 @@ If you have any questions about our privacy policy or the information we collect
 
 back to top
 
-**Updated 09/29/11**
+Updated: 9/29/2011
