@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516035541id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123418id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Official London Theatre
 
@@ -10,11 +10,10 @@ This Privacy Policy (together with our Terms and Conditions) sets out the basis 
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller in respect of any personal data that you submit to us on our Site is Society of London Theatre. If you want to know what information we hold about you or if you have any other queries in relation to this Privacy Policy, our contact details are as follows:
 
-Postal Address:  
+**Postal Address:**  
 32 Rose Street  
 London  
-WC2E 9ET
-
+WC2E 9ET  
 Email: [enquiries@solttma.co.uk](mailto:enquiries@solttma.co.uk)
 
 ### 2\. Information That We Collect From You
@@ -55,7 +54,9 @@ Please see our Cookies Usage Policy to see how we use cookies.
 
 ### 6\. Third Party Sites and Contributors
 
-The Site contains links to websites that are operated by third parties. We do not control and accept no liability or responsibility for those websites and this Privacy Policy does not apply to those websites. Please consult the terms and conditions and privacy policy of those third party websites to find out how they collect and use your personal data.
+6.1. The ticketing service provided by the Site is powered by the SEE Group Limited trading via the Way Ahead Group Limited (“SEE”) on behalf of SOLT. Any financial transactions will occur on a designated server of SEE (the “SEE Site”) and will not take place on the Site. We do not control and accept no liability or responsibility for the SEE Site and this Privacy Policy does not apply to the SEE Site. Please consult SEE’s [**Data Protection policy**](http://www.seetickets.com/content/data-protection) to find out how SEE will collect and use your personal data.
+
+6.2. In addition to the SEE Site, the Site contains links to other websites that are operated by third parties. We do not control and accept no liability or responsibility for those websites and this Privacy Policy does not apply to those websites. Please consult the terms and conditions and privacy policy of those third party websites to find out how they collect and use your personal data.
 
 ### 7\. Security And Data Retention
 
