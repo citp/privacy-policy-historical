@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093304id_/http%3A//leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121214016id_/http%3A//www.leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.*
 
 # LeadSquared Marketing Software Privacy Policy
 
 ## LeadSquared Privacy Policy
 
-LeadSquared is owned and operated by MarketXpander Services Private Limited. LeadSquared is committed to protect the privacy of information that we collect from and about our website visitors. This Statement of Privacy (or “Privacy Policy”) applies to our websites [www.LeadSquared.com](http://www.leadsquared.com/) (“Website”), our application run.leadsquared.com (“Application”) and websites of our customers (“Customer Websites”) where LeadSquared script is installed. We assume that you have read, understood and agreed to this Statement of Privacy by virtue of visiting our Website or using our Application.
+LeadSquared is owned and operated by MarketXpander Services Private Limited. LeadSquared is committed to protect the privacy of information that we collect from and about our website visitors. This Statement of Privacy (or “Privacy Policy”) applies to our websites, help portal and blog (“Website”), our application run.leadsquared.com (“Application”), websites of our customers (“Customer Websites”) where LeadSquared script is installed and our mobile applications ("Mobile Apps"). We assume that you have read, understood and agreed to this Statement of Privacy by virtue of visiting our Website or using our Application.
 
 #### Nature of Collected Information
 
-We may collect, store and use following information when you visit our Website, Customer Websites or use our Application:
+##### On Websites
+
+We may collect, store and use following information when you visit or use our Website and Customer Websites:
 
 1) **Contact and Identity Information** about you when you fill up any forms. For example, we may collect your name, email address, phone number etc. when you fill up forms.
 
@@ -21,7 +23,15 @@ We may collect, store and use following information when you visit our Website, 
 
 
 
-**We do not knowingly collect personally identifying information from anyone under the age of 13.**
+##### On our Application
+
+When you are using our application, we may collect non-personal information such as your navigation across our product, which and how many pages you visit, time spent on vairous pages, and your computer's IP address, operating system, browser type and screen resolution. 
+
+##### On our Mobile App
+
+We may use mobile analytics software to allow us to better understand the functionality of our Application on your mobile device. In addition to information we collect on our Websites, when you use our Mobile Applications we may also collect your city location, device model and version, OS version, and your LeadSquared Subscription Service credentials. We may send push notifications from time to time in order to update you about events or promotions. If you no longer wish to receive such communications, you may turn them off at the device level. We may link information we store within the analytics software to Personal Information you submit within the Mobile App. 
+
+##### We do not knowingly collect personally identifying information from anyone under the age of 13.
 
 #### Tools to collect non-personal Information
 
