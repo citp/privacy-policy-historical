@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9and10news.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310114059id_/http%3A//www.9and10news.com/story/18990/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9and10news.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121043325id_/http%3A//www.9and10news.com/story/18990/privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - Northern Michigan's News Leader
 
