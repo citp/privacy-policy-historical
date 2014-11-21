@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422234858id_/http%3A//www.zearn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121235221id_/http%3A//www.zearn.org/privacy) for the most accurate reproduction.*
 
 # Zearn
 
@@ -57,5 +57,5 @@ Zearn, Inc.
 261 West 35th Street  
 15th floor  
 New York, NY 10001  
-[tel: (212) 967-6071](https://web.archive.org/web/20140422234858id_/http%3A//www.zearn.org/2129676071)  
-Or email us at: [info@zearn.org](mailto:info@zearn.org)
+[tel: (212) 967-6071](https://web.archive.org/web/20141121235221id_/http%3A//www.zearn.org/2129676071)  
+Or email us at: [support@zearn.org](mailto:support@zearn.org)
