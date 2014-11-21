@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213090426id_/http%3A//www.frigidaire.com/en-us/modal/defaultpage/modalview/478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144801id_/http%3A//www.frigidaire.com/en-US/modal/defaultpage/modalview/478) for the most accurate reproduction.*
 
 # 
 
