@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504094715id_/http%3A//www.qvcuk.com/privacy.content.html%3Fcm_sp%3DFooter-_-Footerlinks-_-LegalInfo_QVCPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070320id_/http%3A//www.qvcuk.com/privacy.content.html%3Fcm_sp%3DFooter-_-Footerlinks-_-LegalInfo_QVCPrivacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement — QVCUK.com
+# Privacy Statement | QVCUK.com
 
 ## At QVC your privacy is a priority
 
