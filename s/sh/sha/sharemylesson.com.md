@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630144615id_/http%3A//www.sharemylesson.com/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064940id_/http%3A//www.sharemylesson.com/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
-# Privacy policy - Help - Share My Lesson
+# Privacy policy - - Share My Lesson
 
 This is the Privacy Policy that applies to (a) the website located at _sharemylesson.com_ and all corresponding web pages and websites associated with the foregoing URL ('Website') and (b) any other content, applications, features, functionality, information and services offered by us through the Website (together with the Website, collectively the 'Service'). which are under the control of SML JV, LLC of Share My Lesson, 555 New Jersey, Ave. N.W., Washington, DC 20001 United States ('SML'). References to 'we', 'our' and 'us' are references to SML.
 
