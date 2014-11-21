@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627045152id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122000905id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
 
 # Supplements | Protein | Creatine | Whey | Privacy Policy
 
 Who We Are?  
   
-In this Privacy Policy references to "we" and "us" are to Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG.
+In this Privacy Policy references to "we" and "us" are to Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG. Telephone Number 0800 610 1144.
 
 What Information We Collect  
   
@@ -32,12 +32,10 @@ We would also like to inform you of various promotions, goods and services that 
 
 Your Rights  
   
-1\. You can ask us to update your personal information by emailing precise details of your request to us [here](https://web.archive.org/contact_us.asp). Please ensure you type "update" in the subject line of your email. 
+1\. You can ask us to update your personal information by emailing precise details of your request to us at sales@discount-supplements.co.uk. Please ensure you type "update" in the subject line of your email. 
 
-2\. You can ask us not to send you future marketing communications. To do this, simply email us [here](https://web.archive.org/contact_us.asp). Type "No Marketing" in the subject line and then the following in the main text:-   
-your postal address, including postcode, your email address  
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.  
-Alternatively, you can post your request to the address in (3) below. 
+2\. You can ask us not to send you future marketing communications. To do this click on the unsubscribe link at the bottom of every email sent, or email us sales@discount-supplements.co.uk. Type "No Marketing" in the subject line and then add your postal address, including postcode and your email address in the main text.  
+We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below. 
 
 3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to Discount Supplements Limited to cover our administration costs:- 
 
