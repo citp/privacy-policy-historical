@@ -1,435 +1,329 @@
-<!--The following is the downloaded HTML source of the globalcommerce.biz privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521000302id_/http%3A//www.globalcommerce.biz/%3Fa%3Dcust%26page%3Dprivacy%26ln%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalcommerce.biz privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121084809id_/http%3A//globalcommerce.biz/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<html><head><title>Glocom</title>
+<!DOCTYPE html><html id="top" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head id="ctl00_Head"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
+	Global Commerce
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/js/abt.js"></script>
+    <script language="javascript" type="text/javascript" src="/js/sifr-addons.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+    
+    <script src="//cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
+    <script src="/js/swfobject.js" type="text/javascript"></script>
+    <script src="/js/videolightbox.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/bxslider/jquery.bxSlider.min.js?t=1390813200"></script>
+    <script type="text/javascript" src="/js/bxslider/jquery.easing.1.3.js"></script>
+
+    <script type="text/javascript" src="/js/modernizer.js"></script>
+    <script type="text/javascript" src="/js/abt-responder.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/css/overlay-minimal.css"><link href="/css/print.css" rel="stylesheet" type="text/css" media="print"><link rel="stylesheet" href="/js/bxslider/bx_styles/bx_styles.css" type="text/css" media="screen"><link rel="stylesheet" href="/css/owl.carousel.css"><link rel="stylesheet" href="/css/owl.theme.css">
+    <script type="text/javascript" src="/js/owl.carousel.js"></script>
+
+    <script src="../js/fancybox2/jquery.fancybox.js" type="text/javascript"></script>
+    <link href="js/fancybox2/jquery.fancybox.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">
+
+        if (Modernizr.touch) {
+            $('head').append('<link rel="stylesheet" href="/css/responsive.css" />');
+            $('#theme-style').remove();
+        }
+
+        $(function () {
+            $('.various').fancybox({
+                'autoResize': true,
+                'padding': 0,
+                'type': 'iframe',
+                'iframe': {
+                    preload: false
+                }
+            });
+
+            if (Modernizr.touch) {
+                $('#theme-style').remove();
+
+                $('.subnav.responsive').show();
+                $('.subnav.desktop').hide();
+
+                Responder.query("only screen and (min-width: 768px)", function () {
+                    $('.navigation-button').hide();
+                    $('.navigation ul li.additional').attr('style', 'display: none !important;');
+                }, true);
+
+                Responder.query("only screen and (max-width: 767px)", function () {
+                    $('.navigation-button').show();
+                    $('.navigation ul li.additional').removeAttr('style');
+                }, true);
+
+            } else {
+                $('.navigation-button').hide();
+                $('.subnav.responsive').hide();
+                $('.navigation ul li.additional').attr('style', 'display: none !important;');
+                $('.subnav.desktop').show();
+            }
+
+            $('body').on('click', '#menu-icon, .navigation-button a', function () {
+                $('#mobile-navigation').toggleClass('open');
+                $('.navigation').toggleClass('show');
+            });
+        });
 
 
-<script>
-<!--
-// Save As in Toolbar
-var PageViewer = ADViewer.Viewer;
-PageViewer.ShowCommand("SAVE", FALSE);
+        $(document).ready(function() {
+            $("#ctl00_DdlLanguages").change(function() { PushLanguage(); });
 
-// Save As in Context Meni
-ADViewer.ContextMenu.RemoveItem("Root.SaveAs", -1);
--->
-</script>
+//            $('a.video-overlay').fancybox({
+//                'width': 700,
+//                'height': 400,
+//                'type': 'swf',
+//                'swf': { 'allowfullscreen': 'true', 'wmode': 'transparent' },
+//                'padding': 0,
+//                'overlayOpacity': 0.75,
+//                'overlayColor': '#000',
+//                'titleShow': false
+//            });
 
+//            $('a.fancy-box-image').fancybox();
+
+//            $.fancybox.center = function() {
+//                var top = ($(window).height() - $("#fancybox-wrap").height()) / 2 - 20,
+//                    left = ($(window).width() - $("#fancybox-wrap").width()) / 2 - 20;
+//                $("#fancybox-wrap")
+//                    .css("top", (top < 0) ? 0 : top + "px")
+//                    .css("left", (left < 0) ? 0 : left + "px");
+//            }
+
+        });
+
+        function PushLanguage() {
+            if ($("#ctl00_DdlLanguages").val() == "English" || $("#ctl00_DdlLanguages").val() == "Inglés") {
+                _gaq.push(['_setCustomVar',
+                    1,                // This custom var is set to slot #1.  Required parameter.
+                    'Language',       // The name of the custom variable.  Required parameter.
+                    'English',        // The value of the custom variable.  Required parameter.
+                    1                 // Sets the scope to visitor-level.  Optional parameter.
+                ]);
+            }
+            else if ($("#ctl00_DdlLanguages").val() == "Spanish" || $("#ctl00_DdlLanguages").val() == "Español") {
+                _gaq.push(['_setCustomVar',
+                    1,                // This custom var is set to slot #1.  Required parameter.
+                    'Language',       // The name of the custom variable.  Required parameter.
+                    'Spanish',        // The value of the custom variable.  Required parameter.
+                    1                 // Sets the scope to visitor-level.  Optional parameter.
+                ]);
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-19967000-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+<link type="text/css" rel="stylesheet" id="theme-style" href="/skins/bww-corp/css/bww-corp.css"><script language="javascript" type="text/javascript" src="/js/sifr.js"></script><link type="image/x-icon" rel="icon" href="/skins/bww-corp/bww-corp.ico"><link type="image/x-icon" rel="shortcut icon" href="/skins/bww-corp/bww-corp.ico"></head>
+
+<body id="ctl00_index" class="two-col privacy-policy inner">
+<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MTAwNjgyMzgPZBYCZg9kFgICAw8WAh4FY2xhc3MFHHR3by1jb2wgcHJpdmFjeS1wb2xpY3kgaW5uZXIWAmYPZBYmZg9kFgICAQ8WAh4EVGV4dAUuPGEgdGl0bGU9Ikdsb2JhbCBDb21tZXJjZSI+R2xvYmFsIENvbW1lcmNlPC9hPmQCAg8WAh8BBQlMYW5ndWFnZTpkAgMPEGQPFgJmAgEWAg8FB0VuZ2xpc2gFB0VuZ2xpc2gPBQdTcGFuaXNoBQdTcGFuaXNoFgFmZAIED2QWAgIBDxYCHwEFD0dsb2JhbCBDb21tZXJjZWQCBQ8WAh8BBQpOYXZpZ2F0aW9uZAIGD2QWDGYPFgIfAQUESG9tZWQCAQ8WAh8BBQhBYm91dCBVc2QCAg8WAh8BBQ9CdXNpbmVzcyBUcmVuZHNkAgMPFgIfAQUQQnVzaW5lc3MgT3B0aW9uc2QCBA9kFgICAQ8WAh8BZWQCBQ9kFgICAQ8WAh8BZWQCCA9kFgICAQ8WAh8BBes/PGgyPlByaXZhY3kgUG9saWN5PGJyIC8+PC9oMj48cD4mbmJzcDs8L3A+VGhhbmsgeW91IGZvciB2aXNpdGluZyB0aGUgcGVyc29uYWxpemVkIElCTyBXZWJzcGFjZSBzaXRlIG9mIHRoZSBhdXRob3JpemVkIEluZGVwZW5kZW50IEJ1c2luZXNzIE93bmVyIChJQk8pIHdob3NlIG5hbWUgYXBwZWFycyBvbiB0aGUgc2l0ZSAob3VyICZxdW90O1NpdGUmcXVvdDspLiBUaGlzIFNpdGUgaXMgbWFkZSBhdmFpbGFibGUgYXMgYSBzZXJ2aWNlIHRvIHN1YnNjcmliaW5nIElCT3MuIDxiciAvPjxiciAvPldlIGFwcHJlY2lhdGUgdGhlIG9wcG9ydHVuaXR5IHRvIGludGVyYWN0IHdpdGggeW91IG9uIHRoZSBJbnRlcm5ldCBhbmQgYXJlIGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIGFuZCBzYWZlZ3VhcmRpbmcgeW91ciBwcml2YWN5LiBUaGUgcHVycG9zZSBvZiB0aGlzIFByaXZhY3kgU3RhdGVtZW50IGlzIHRvIGluZm9ybSB5b3UgYWJvdXQgdGhlIHR5cGVzIG9mIGluZm9ybWF0aW9uIHdlIG1pZ2h0IGNvbGxlY3QgYWJvdXQgeW91IHdoZW4geW91IHZpc2l0IG91ciBTaXRlLCBob3cgd2UgbWF5IHVzZSB0aGF0IGluZm9ybWF0aW9uLCB3aGV0aGVyIHdlIGRpc2Nsb3NlIGl0IHRvIGFueW9uZSwgYW5kIHRoZSBjaG9pY2VzIHlvdSBoYXZlIHJlZ2FyZGluZyBvdXIgdXNlIG9mLCBhbmQgeW91ciBhYmlsaXR5IHRvIGNvcnJlY3QsIHRoYXQgaW5mb3JtYXRpb24uPGJyIC8+PGJyIC8+PHN0cm9uZz5XaGF0IEluZm9ybWF0aW9uIFdlIENvbGxlY3QgYW5kIEhvdyBXZSBVc2UgSXQ8L3N0cm9uZz48YnIgLz5BbnkgaW5mb3JtYXRpb24gd2UgY29sbGVjdCBvbiBvdXIgU2l0ZSBnZW5lcmFsbHkgZmFsbHMgaW50byB0aGUgZm9sbG93aW5nIHR3byBjYXRlZ29yaWVzOiBQZXJzb25hbGx5IElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiBvciBBZ2dyZWdhdGUgSW5mb3JtYXRpb24uPHN0cm9uZz48YnIgLz48YnIgLz4xLiBQZXJzb25hbGx5IElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbjwvc3Ryb25nPjxiciAvPlRoaXMgcmVmZXJzIHRvIGluZm9ybWF0aW9uIHRoYXQgbGV0cyB1cyBrbm93IHdobyB5b3UgYXJlIG9yIHRoaW5ncyBzcGVjaWZpY2FsbHkgYWJvdXQgeW91LjxzdHJvbmc+PGJyIC8+PGJyIC8+QS4gVmlzaXRvcnM8L3N0cm9uZz48YnIgLz5BcyB5b3UgY2FuIGJyb3dzZSBvdXIgU2l0ZSB5b3Ugd2lsbCBiZSBhc2tlZCB0byBlbnRlciBhbiBlbWFpbCBhZGRyZXNzLCB0byBiZSBzaGFyZWQgd2l0aCB0aGUgc3Vic2NyaWJpbmcgSUJPIGZvciB0aGUgcHVycG9zZSBvZiBjb250YWN0aW5nIHlvdSB0byBhc3Npc3QgeW91IHdpdGggYW55IHF1ZXN0aW9ucyB5b3UgbWF5IGhhdmUuIEluIHN1Y2ggZXZlbnQsIHdlIG1haW50YWluIGEgcmVjb3JkIG9mIHlvdXIgY29udGFjdCwgaW5jbHVkaW5nIHN1Y2ggUGVyc29uYWxseSBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24sIGluIGEgZmlsZSBzcGVjaWZpYyB0byB5b3UuIFdlIHVzZSB0aGlzIGluZm9ybWF0aW9uIHRvIHByb3ZpZGUgYmV0dGVyIHNlcnZpY2UgaW4gdGhlIGV2ZW50IHRoYXQgeW91IGNvbnRhY3QgdXMgYWdhaW4uPGJyIC8+PGJyIC8+PHN0cm9uZz5CLiBSZWdpc3RyYXRpb24gYW5kIE9yZGVyaW5nPC9zdHJvbmc+PGJyIC8+SWYgeW91IHJlZ2lzdGVyIHRvIGJlY29tZSBhbiBJQk8gb3IgcGxhY2UgYW4gb3JkZXIgZm9yIHByb2R1Y3RzIG9yIHNlcnZpY2VzLCB3ZSB3aWxsIGNvbGxlY3QgUGVyc29uYWxseSBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24gKHN1Y2ggYXMgbmFtZSwgY29udGFjdCBhbmQgYmlsbGluZyBpbmZvcm1hdGlvbiwgY3JlZGl0IGNhcmQsIGFuZCBvdGhlciB0cmFuc2FjdGlvbiBpbmZvcm1hdGlvbikuIFRoaXMgaW5mb3JtYXRpb24gaXMmbmJzcDt1c2VkJm5ic3A7dG8gZGVsaXZlciB5b3VyIG9yZGVyLCBwcm9jZXNzIHBheW1lbnQsIGFuZCB0byBjb21tdW5pY2F0ZSB3aXRoIHlvdSBhYm91dCB0aGUgc3RhdHVzIG9mIHlvdXIgb3JkZXIuPGJyIC8+PGJyIC8+PHN0cm9uZz4yLiBBZ2dyZWdhdGUgSW5mb3JtYXRpb248L3N0cm9uZz48YnIgLz5UaGlzIHJlZmVycyB0byBpbmZvcm1hdGlvbiB0aGF0IGRvZXMgbm90LCBieSBpdHNlbGYsIGlkZW50aWZ5IHlvdSBhcyBhIHNwZWNpZmljIGluZGl2aWR1YWwuIFN1Y2ggaW5mb3JtYXRpb24gd291bGQgaW5jbHVkZSB0aGUgVW5pZm9ybSBSZXNvdXJjZSBMb2NhdG9yICgmcXVvdDtVUkwmcXVvdDspIG9mIHRoZSBXZWIgc2l0ZSB0aGF0IHJlZmVycmVkIHlvdSB0byBvdXIgU2l0ZSwgeW91ciBJbnRlcm5ldCBQcm90b2NvbCAoJnF1b3Q7SVAmcXVvdDspIGFkZHJlc3MgKGEgbnVtYmVyIGF1dG9tYXRpY2FsbHkgYXNzaWduZWQgdG8geW91ciBjb21wdXRlciB3aGVuZXZlciB5b3Ugc3VyZiB0aGUgV2ViKSwgeW91ciBvcGVyYXRpbmcgc3lzdGVtIGFuZCBicm93c2VyIHR5cGUsIGFuZCBhbnkgc2VhcmNoIHRlcm1zIHRoYXQgeW91IGVudGVyIG9uIG91ciBTaXRlLiBPdXIgV2ViIHNlcnZlciBhZ2dyZWdhdGVzIHRoaXMgaW5mb3JtYXRpb24gaW4gb3JkZXIgdG8gbW9uaXRvciB0aGUgbGV2ZWwgb2YgYWN0aXZpdHkgb24gb3VyIFNpdGUsIGV2YWx1YXRlIGl0cyBlZmZlY3RpdmVuZXNzLCBhbmQgaW1wcm92ZSB0aGUgY29udGVudCBvZiBvdXIgU2l0ZSBpbiBvcmRlciB0byBtYWtlIHlvdXIgdmlzaXQgYW4gZWFzeSBhbmQgZW5qb3lhYmxlIGV4cGVyaWVuY2UuPGJyIC8+PGJyIC8+V2UgbWF5IGNvbGxlY3QsIGNvbXBpbGUsIHN0b3JlLCBwdWJsaXNoLCBwcm9tb3RlLCByZXBvcnQsIG9yIG90aGVyd2lzZSBkaXNjbG9zZSBvciB1c2UgYW55IEFnZ3JlZ2F0ZSBJbmZvcm1hdGlvbiwgcHJvdmlkZWQgdGhhdCBzdWNoIGluZm9ybWF0aW9uIGRvZXMgbm90IHBlcnNvbmFsbHkgaWRlbnRpZnkgeW91LiBXZSBkbyBub3QgY29ycmVsYXRlIGFueSBQZXJzb25hbGx5IElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiB3aXRoIHRoZSBBZ2dyZWdhdGUgSW5mb3JtYXRpb24gdGhhdCB3ZSBjb2xsZWN0IG9uIG91ciBTaXRlLiBJZiB3ZSBkbyBjb3JyZWxhdGUgYW55IEFnZ3JlZ2F0ZSBJbmZvcm1hdGlvbiB0byB5b3UsIGl0IHdpbGwgYmUgcHJvdGVjdGVkIGxpa2UgYW55IG90aGVyIFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIHVuZGVyIHRoaXMgUHJpdmFjeSBTdGF0ZW1lbnQuPGJyIC8+PGJyIC8+PHN0cm9uZz5TaGFyaW5nIFlvdXIgSW5mb3JtYXRpb248L3N0cm9uZz48YnIgLz5FeGNlcHQgYXMgZGlzY2xvc2VkIGluIHRoaXMgUHJpdmFjeSBTdGF0ZW1lbnQsIHdlIGRvIG5vdCBzZWxsLCB0cmFkZSwgcmVudCwgb3Igb3RoZXJ3aXNlIHJldHJhbnNtaXQgYW55IFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIHdlIGNvbGxlY3Qgb25saW5lIHVubGVzcyB3ZSBoYXZlIHlvdXIgcGVybWlzc2lvbi4gQW55IFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzIHdpbGwgYmUgc3RvcmVkIGluIG91ciBkYXRhYmFzZXMgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuPGJyIC8+PGJyIC8+PHN0cm9uZz4xLiBTdWJzY3JpYmluZyBJQk8gLyBTaXRlIE93bmVyPC9zdHJvbmc+PGJyIC8+SW4gb3JkZXIgdG8gZmFjaWxpdGF0ZSBhbnkgcXVlc3Rpb25zIHlvdSBtYXkgaGF2ZSBhYm91dCB0aGlzIGJ1c2luZXNzIG9wcG9ydHVuaXR5LCB0aGUgU3Vic2NyaWJpbmcgSUJPIG1heSB1c2UgeW91ciBlbWFpbCBhZGRyZXNzIHRvIGZvbGxvdyB1cCB3aXRoIHlvdS4gVG8gYWxsb3cgc3VjaCBjb21tdW5pY2F0aW9uLCB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24gd2lsbCBiZSBwcm92aWRlZCB0byB0aGUgU3Vic2NyaWJpbmcgSUJPLiBUaGV5IGhhdmUgYWdyZWVkIG5vdCB0byBzaGFyZSB5b3VyIGluZm9ybWF0aW9uIHdpdGggYW55IG5vbi1hZmZpbGlhdGVkIHRoaXJkIHBhcnRpZXMsIGFuZCBhcmUgb2JsaWdhdGVkIHRvIG9ic2VydmUgdGhlIGludGVudCBvZiB0aGlzIFByaXZhY3kgU3RhdGVtZW50LjxiciAvPjxiciAvPjxzdHJvbmc+WW91ciBDaG9pY2VzPC9zdHJvbmc+PGJyIC8+WW91ciBwZXJtaXNzaW9uIGlzIGFsd2F5cyBzZWN1cmVkIGZpcnN0LiBXZSB3aWxsIG5vdCB1c2Ugb3Igc2hhcmUgdGhlIFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIGNvbGxlY3RlZCBvbiBvdXIgU2l0ZSBpbiB3YXlzIHVucmVsYXRlZCB0byB0aGUgcHVycG9zZSBmb3Igd2hpY2ggeW91IHByb3ZpZGVkIHRoZSBpbmZvcm1hdGlvbiwgaW5jbHVkaW5nIHRob3NlIGRlc2NyaWJlZCBhYm92ZSwgd2l0aG91dCBwcm92aWRpbmcgeW91IGEgY2hvaWNlIHdoZXRoZXIgdG8gcGVybWl0IGFueSBzdWNoIHVucmVsYXRlZCB1c2VzLjxiciAvPjxiciAvPjxzdHJvbmc+QWNjZXNzaW5nIGFuZCBDb3JyZWN0aW5nIFlvdXIgSW5mb3JtYXRpb248L3N0cm9uZz48YnIgLz5XZSB0YWtlIHJlYXNvbmFibGUgbWVhc3VyZXMgdG8gZW5zdXJlIHRoYXQgYW55IFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIHdlIGNvbGxlY3Qgb24gb3VyIFNpdGUgaXMgYWNjdXJhdGUsIGN1cnJlbnQsIGNvbXBsZXRlLCBhbmQgcmVsaWFibGUgZm9yIGl0cyBpbnRlbmRlZCB1c2UuIElmIHlvdSB3aXNoIHRvIHVwZGF0ZSBvciBvdGhlcndpc2UgY29ycmVjdCBQZXJzb25hbGx5IElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiB5b3UgaGF2ZSBwcm92aWRlZCB0byB1cywgeW91IG1heSBlZGl0IHlvdXIgaW5mb3JtYXRpb24gb25saW5lIGFmdGVyIGNvbXBsZXRpbmcgcmVnaXN0cmF0aW9uLCBvciBjb250YWN0IHVzIGFzIGRlc2NyaWJlZCBpbiB0aGUgJnF1b3Q7Q29udGFjdCBVcyZxdW90OyBzZWN0aW9uLCBiZWxvdywgYW5kIHdlIHdpbGwgYXNzaXN0IHlvdS48YnIgLz48YnIgLz48c3Ryb25nPlByb3RlY3RpbmcgWW91ciBJbmZvcm1hdGlvbjwvc3Ryb25nPjxiciAvPldlIGFja25vd2xlZGdlIHlvdXIgdHJ1c3QgYW5kIGFyZSBjb21taXR0ZWQgdG8gdGFrZSByZWFzb25hYmxlIHN0ZXBzIHRvIHByb3RlY3QgUGVyc29uYWxseSBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24geW91IHByb3ZpZGUgb25saW5lIGZyb20gbG9zcywgbWlzdXNlLCBhbmQgdW5hdXRob3JpemVkIGFjY2Vzcy4gV2UgZW1wbG95IHBoeXNpY2FsLCBlbGVjdHJvbmljLCBhbmQgbWFuYWdlcmlhbCBwcm9jZXNzZXMgdG8gc2FmZWd1YXJkIGFuZCBzZWN1cmUgeW91ciBpbmZvcm1hdGlvbi48YnIgLz48YnIgLz48c3Ryb25nPlVzZSBvZiBDb29raWVzIE9uIFRoaXMgU2l0ZTwvc3Ryb25nPjxiciAvPkEgJnF1b3Q7Y29va2llJnF1b3Q7IGlzIGEgc21hbGwgZGF0YSBmaWxlIHRyYW5zZmVycmVkIHRvIHlvdXIgY29tcHV0ZXImIzM5O3MgaGFyZCBkcml2ZSB0aGF0IGFsbG93cyBhIFdlYiBzaXRlIHRvIHJlc3BvbmQgdG8geW91IGFzIGFuIGluZGl2aWR1YWwsIGdhdGhlcmluZyBhbmQgcmVtZW1iZXJpbmcgaW5mb3JtYXRpb24gYWJvdXQgeW91ciBwcmVmZXJlbmNlcyBpbiBvcmRlciB0byB0YWlsb3IgaXRzIG9wZXJhdGlvbiB0byB5b3VyIG5lZWRzLCBsaWtlcyBhbmQgZGlzbGlrZXMuIE92ZXJhbGwsIGNvb2tpZXMgYXJlIHNhZmUsIGFzIHRoZXkgb25seSBpZGVudGlmeSB5b3VyIGNvbXB1dGVyIHRvIGN1c3RvbWl6ZSB5b3VyIFdlYiBleHBlcmllbmNlLiBBY2NlcHRpbmcgYSBjb29raWUgZG9lcyBub3QgcHJvdmlkZSB1cyBhY2Nlc3MgdG8geW91ciBjb21wdXRlciBvciBhbnkgUGVyc29uYWxseSBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24gYWJvdXQgeW91LCBvdGhlciB0aGFuIHRoZSBpbmZvcm1hdGlvbiB5b3UgY2hvb3NlIHRvIHNoYXJlLiBPdGhlciBzZXJ2ZXJzIGNhbm5vdCByZWFkIHRoZW0sIG5vciBjYW4gdGhleSBiZSB1c2VkIHRvIGRlbGl2ZXIgYSB2aXJ1cy48YnIgLz48YnIgLz5Nb3N0IGJyb3dzZXJzIGF1dG9tYXRpY2FsbHkgYWNjZXB0IGNvb2tpZXMsIGJ1dCB5b3UgY2FuIHVzdWFsbHkgYWRqdXN0IHlvdXJzIChNaWNyb3NvZnQgSW50ZXJuZXQgRXhwbG9yZXIgb3IgTmV0c2NhcGUgTmF2aWdhdG9yKSB0byBub3RpZnkgeW91IG9mIGNvb2tpZSBwbGFjZW1lbnQgcmVxdWVzdHMsIHJlZnVzZSBjZXJ0YWluIGNvb2tpZXMsIG9yIGRlY2xpbmUgY29va2llcyBjb21wbGV0ZWx5LiBJZiB5b3UgdHVybiBvZmYgY29va2llcyBjb21wbGV0ZWx5LCB0aGVyZSBtYXkgYmUgc29tZSBXZWIgc2l0ZSBmZWF0dXJlcyB0aGF0IHdpbGwgbm90IGJlIGF2YWlsYWJsZSB0byB5b3UsIGFuZCBzb21lIFdlYiBwYWdlcyBtYXkgbm90IGRpc3BsYXkgcHJvcGVybHkuPGJyIC8+PGJyIC8+VG8gc3VwcG9ydCB0aGUgcGVyc29uYWxpemVkIGZlYXR1cmVzIG9mIG91ciBTaXRlIHdlIG11c3Qgc2VuZCBhIGNvb2tpZSB0byB5b3VyIGNvbXB1dGVyJiMzOTtzIGhhcmQgZHJpdmUgYW5kL29yIHVzZSBjb29raWUtYmFzZWQgYXV0aGVudGljYXRpb24gdG8gaWRlbnRpZnkgeW91IGFzIGEgcmVnaXN0ZXJlZCBTaXRlIHVzZXIuIFdlIGRvIG5vdCwgaG93ZXZlciwgdXNlIHNvLWNhbGxlZCAmcXVvdDtzdXJ2ZWlsbGFuY2UmcXVvdDsgY29va2llcyB0aGF0IHRyYWNrIHlvdXIgYWN0aXZpdHkgZWxzZXdoZXJlIG9uIHRoZSBXZWIuPGJyIC8+PGJyIC8+PHN0cm9uZz5Vc2Ugb2YgQWN0aXZlLVggYW5kIEpBVkEgQXBwbGV0cyBPbiBUaGlzIFNpdGU8L3N0cm9uZz48YnIgLz5BY3RpdmUtWCBwcm9ncmFtcyBhbmQgSkFWQSBhcHBsZXRzIGFyZSBleGVjdXRhYmxlIHByb2dyYW1zIHRoYXQgY2FuIGJlIHRyYW5zZmVycmVkIHRvIHlvdXIgY29tcHV0ZXImIzM5O3MgaGFyZCBkcml2ZSB0byBjYXVzZSB5b3VyIGNvbXB1dGVyIHRvIHBlcmZvcm0gZnVuY3Rpb25zIGluIGNvbm5lY3Rpb24gd2l0aCB5b3VyIHZpc2l0IHRvIGEgV2ViIHNpdGUuIE91ciBTaXRlIGRvZXMgbm90IHRyYW5zZmVyIGFueSBBY3RpdmUtWCBwcm9ncmFtcyBvciBKYXZhIEFwcGxldHMgdG8geW91ciBjb21wdXRlciYjMzk7cyBoYXJkIGRyaXZlLjxiciAvPjxiciAvPjxzdHJvbmc+Q2hpbGRyZW4mIzM5O3MgUHJpdmFjeSBQcm90ZWN0aW9uPC9zdHJvbmc+PGJyIC8+V2UgdGFrZSBzcGVjaWFsIGNhcmUgdG8gcHJvdGVjdCB0aGUgcHJpdmFjeSBuZWVkcyBvZiBjaGlsZHJlbiBhbmQgZW5jb3VyYWdlIHBhcmVudHMgdG8gYmUgYW4gYWN0aXZlIHBhcnRpY2lwYW50IGluIHRoZWlyIGNoaWxkJiMzOTtzIG9ubGluZSBhY3Rpdml0aWVzLiBPdXIgU2l0ZSBkb2VzIG5vdCB0YXJnZXQgYW5kIGlzIG5vdCBpbnRlbmRlZCBmb3IgY2hpbGRyZW4gdW5kZXIgdGhlIGFnZSBvZiAxNiwgYW5kIHdlIHdpbGwgbm90IGtub3dpbmdseSBjb2xsZWN0IFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIGZyb20gdGhlbS4gSWYgd2UgZGlzY292ZXIgcGVyc29uYWwgZGF0YSBmcm9tIGEgY2hpbGQgdGhyb3VnaCBvdXIgU2l0ZSwgd2Ugd2lsbCBlbGltaW5hdGUgdGhhdCBkYXRhLjxiciAvPjxiciAvPjxzdHJvbmc+Q2hhbmdlcyBUbyBUaGlzIFN0YXRlbWVudDwvc3Ryb25nPjxiciAvPkFueSB1cGRhdGVzIG9yIGNoYW5nZXMgdG8gdGhlIHRlcm1zIG9mIHRoaXMgUHJpdmFjeSBTdGF0ZW1lbnQgd2lsbCBiZSBwb3N0ZWQgaGVyZSBvbiBvdXIgU2l0ZSBhbmQgdGhlIGRhdGUgb2YgdGhlIG5ld2VzdCB2ZXJzaW9uIHBvc3RlZCBiZWxvdy4gUGxlYXNlIGNoZWNrIGJhY2sgZnJlcXVlbnRseSwgZXNwZWNpYWxseSBiZWZvcmUgeW91IHN1Ym1pdCBhbnkgUGVyc29uYWxseSBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24gYXQgb3VyIFNpdGUsIHRvIHNlZSBpZiB0aGlzIFByaXZhY3kgU3RhdGVtZW50IGhhcyBjaGFuZ2VkLiBCeSB1c2luZyBvdXIgU2l0ZSwgeW91IGFja25vd2xlZGdlIGFjY2VwdGFuY2Ugb2YgdGhpcyBQcml2YWN5IFN0YXRlbWVudCBpbiBlZmZlY3QgYXQgdGhlIHRpbWUgb2YgdXNlLjxiciAvPjxiciAvPjxzdHJvbmc+Q29udGFjdCBVczwvc3Ryb25nPjxiciAvPklmIHlvdSBoYXZlIGFueSBjb25jZXJucyBhYm91dCBvdXIgdXNlIG9mIHlvdXIgaW5mb3JtYXRpb24gb3IgYWJvdXQgdGhpcyBQcml2YWN5IFN0YXRlbWVudCwgcGxlYXNlIGNvbnRhY3QgdXMuIFdlIHdpbGwgbWFrZSBldmVyeSByZWFzb25hYmxlIGVmZm9ydCB0byBhZGRyZXNzIHlvdXIgY29uY2VybnMgYW5kIHJlbWVkeSBhbnkgcHJvYmxlbXMgeW91IGJyaW5nIHRvIG91ciBhdHRlbnRpb24uIDxwPiZuYnNwOzwvcD5kAgsPZBYCAgEPFgIfAQWQATxkaXYgY2xhc3M9InN1Ym5hdiBuYXZpZ2F0aW9uLWJ1dHRvbiI+PHVsPjxsaT48YSBjbGFzcz0ic2Nyb2xsIiBocmVmPSIjdG9wIj5OYXZpZ2F0aW9uPHNwYW4gY2xhc3M9ImFycm93LXVwIj4mI3gyNUIyOzwvc3Bhbj48L2E+PC9saT48L3VsPjwvZGl2PmQCDA8WAh8BBQRIb21lZAINDxYCHwEFCEFib3V0IFVzZAIODxYCHwEFD0J1c2luZXNzIFRyZW5kc2QCDw8WAh8BBRBCdXNpbmVzcyBPcHRpb25zZAIQD2QWAgIBDxYCHwFlZAIRDxYCHwEFBVRlcm1zZAISDxYCHwEFDlByaXZhY3kgUG9saWN5ZAITDxYCHwEFC093bmVyIExvZ2luZAIUDxYCHwEFCUNvcHlyaWdodGQCFQ8WAh8BBQQyMDE0ZAIWDxYCHwEFE0FsbCBSaWdodHMgUmVzZXJ2ZWRkZHNvWUxiFKgc82fI1DfExopXfiZWq77HrXGYyl+YAfoY">
+</div>
 
 <script type="text/javascript">
-<!--// Pre-load images
-  b1_on=new Image();
-  b1_on.src="img/bt12.jpg";
-  b1_off=new Image();
-  b1_off.src="img/bt1.jpg";
-
-  b2_on=new Image();
-  b2_on.src="img/bt22.jpg";
-  b2_off=new Image();
-  b2_off.src="img/bt2.jpg";
-  
-  b3_on=new Image();
-  b3_on.src="img/bt32.jpg";
-  b3_off=new Image();
-  b3_off.src="img/bt3.jpg";
-  
-  b4_on=new Image();
-  b4_on.src="img/bt42.jpg";
-  b4_off=new Image();
-  b4_off.src="img/bt4.jpg";
-  
-  b5_on=new Image();
-  b5_on.src="img/bt52.jpg";
-  b5_off=new Image();
-  b5_off.src="img/bt5.jpg";
-  
-  b6_on=new Image();
-  b6_on.src="img/bt62.jpg";
-  b6_off=new Image();
-  b6_off.src="img/bt6.jpg";  
-  
-  b7_on=new Image();
-  b7_on.src="img/bt72.jpg";
-  b7_off=new Image();
-  b7_off.src="img/bt7.jpg";   
-
-  function img_roll(pic,source){
-    document[pic].src=source.src;
-  }
-
-//-->
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
 
 
-<script type="text/javascript"><!--
-var backgroundImages=new Array(3);
-backgroundImages[0]="img/middleheader1.jpg";
-backgroundImages[1]="img/middleheader2.jpg";
-backgroundImages[2]="img/middleheader3.jpg";
+<div>
 
-onload=function(){
-var e=(document.getElementById)?document.getElementById("middle"):(document.all)?document.all.middle:(document.layers)?document.middle:null;
-if(!e)return true;
-e.style.backgroundImage="url("+backgroundImages[Math.floor(Math.random()*backgroundImages.length)]+")";
-}
-//--></script>
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALg3c69AgKypJ2BDgK1jpyEAwLV36uVB4SrkiElMf7TkNAPdrLgxQ1Py7IZexdVZzWonaW7rwlu">
+</div>
+<div id="wrap">
+    <div id="container">
 
+        <div id="masthead">
+            <h1>
+    <a title="Global Commerce">Global Commerce</a>
+</h1>
 
-<link rel="SHORTCUT ICON" href="favicon2.ico">
-<meta http-equiv="Content-Language" content="en-us">
-</head>
+            
 
-<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" style="background-image: url('img/bg.jpg'); background-position:center; background-repeat:repeat-y;">
+            <div id="skip-links">
+                <hr>
+                <h5>Accessibility</h5>
+                <ul>
+                    <li id="skip-link"><a href="#content" accesskey="2">Skip to Content</a></li>
+                    <li id="skip-nav"><a href="#navigation" accesskey="3">Skip to Navigation</a></li>
+                </ul>
+            </div>
+            <hr>
 
-<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="100" bgcolor="#FFFFFF">
-		<div align="center">
-			<table border="0" width="950" id="table5" cellspacing="0" cellpadding="0" height="100">
-				<tbody><tr>
-					<td width="255">
-					<img border="0" src="img/logo.jpg" width="255" height="70"></td>
-					<td width="695" background="img/bgtop.jpg">
-					<table border="0" width="100%" id="table6" cellspacing="0" cellpadding="0" height="100">
-						<tbody><tr>
-							<td valign="top">
+            <div id="top-nav">
+            
+            <span>Language:</span>
+                    <select name="ctl00$DdlLanguages" onchange="javascript:setTimeout('__doPostBack(\'ctl00$DdlLanguages\',\'\')', 0)" id="ctl00_DdlLanguages" style="width:72px;">
+	<option selected="selected" value="English">English</option>
+	<option value="Spanish">Spanish</option>
 
+</select>
+            
+            </div>
 
-
-<img src="img/bt12.jpg" style="display: none" width="1" height="1">
-<img src="img/bt22.jpg" style="display: none" width="1" height="1">
-<img src="img/bt32.jpg" style="display: none" width="1" height="1">
-<img src="img/bt42.jpg" style="display: none" width="1" height="1">
-<img src="img/bt52.jpg" style="display: none" width="1" height="1">
-<img src="img/bt62.jpg" style="display: none" width="1" height="1">
-<img src="img/bt72.jpg" style="display: none" width="1" height="1">
+            
+    <div id="business-name">Global Commerce</div>
 
 
+        </div>
 
-</td>
-						</tr>
-						<tr>
-							<td valign="bottom">
-							<table border="0" width="100%" id="table16" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td>&nbsp;</td>
-									<td width="355">
-									<table border="0" width="343" id="table17" cellspacing="0" cellpadding="0\">
-										<tbody><tr>
-											<td width="6">
-											&nbsp;</td>
-											<td width="337">
-
-<p align="right">
-
-<iframe src="http://free.timeanddate.com/clock/i2h6k8u6/n769/fn14/fs12/fc333/ahr/tt0" frameborder="0" width="279" height="16"></iframe>
-										
-											</p></td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-							</td>
-						</tr>
-						<tr>
-							<td height="35">
-							<table border="0" width="100%" id="table9" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td>&nbsp;</td>
-									<td width="215">
-									<table border="0" width="205" id="table10" cellspacing="0" cellpadding="0\">
-										<tbody><tr>
-											<td width="85">
-											<a href="?a=cust&amp;page=packages&amp;ln=en">
-											<img border="0" src="img/bpackages.jpg" width="85" height="25"></a></td>
-											<td width="120">
-											<a href="?a=cust&amp;page=partner&amp;ln=en">
-											<img border="0" src="img/bpartner.jpg" width="120" height="25"></a></td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
+        <div>
+        <div id="mobile-navigation">
+			<h3>Navigation</h3>
+			<ul id="menu-icon">
+			    <li class="menu-bar"></li>
+			    <li class="menu-bar"></li>
+			    <li class="menu-bar"></li>
+			</ul>
 		</div>
-		</td>
-	</tr>
-	<tr>
-		<td height="40" background="img/btbg.jpg">
-		<div align="center">
-			<table border="0" width="950" id="table2" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="78">
-					<a onmouseover="img_roll('image_b1',b1_on)" onmouseout="img_roll('image_b1',b1_off)" href="?a=home&amp;ln=en">
-					<img border="0" src="img/bt1.jpg" name="image_b1" width="78" height="40"></a></td>
-					<td width="150">
-					<a onmouseover="img_roll('image_b2',b2_on)" onmouseout="img_roll('image_b2',b2_off)" href="?a=signup&amp;ln=en">					<img border="0" src="img/bt2.jpg" name="image_b2" width="150" height="40"></a></td>
-					<td width="130">
-					<a onmouseover="img_roll('image_b3',b3_on)" onmouseout="img_roll('image_b3',b3_off)" href="?a=login&amp;ln=en">					<img border="0" src="img/bt3.jpg" name="image_b3" width="130" height="40"></a></td>
-					<td width="82">
-					<a onmouseover="img_roll('image_b4',b4_on)" onmouseout="img_roll('image_b4',b4_off)" href="?a=faq&amp;ln=en">
-					<img border="0" src="img/bt4.jpg" name="image_b4" width="82" height="40"></a></td>
-					<td width="82">
-					<a onmouseover="img_roll('image_b5',b5_on)" onmouseout="img_roll('image_b5',b5_off)" href="?a=rules&amp;ln=en">
-					<img border="0" src="img/bt5.jpg" name="image_b5" width="82" height="40"></a></td>
-					<td width="92">
-					<a onmouseover="img_roll('image_b6',b6_on)" onmouseout="img_roll('image_b6',b6_off)" href="?a=cust&amp;page=charts&amp;ln=en">
-					<img border="0" src="img/bt6.jpg" name="image_b6" width="92" height="40"></a></td>
-					<td width="115">
-					<a onmouseover="img_roll('image_b7',b7_on)" onmouseout="img_roll('image_b7',b7_off)" href="?a=support&amp;ln=en">
-					<img border="0" src="img/bt7.jpg" name="image_b7" width="115" height="40"></a></td>
-					<td width="221" background="img/message.jpg">
-					<table border="0" width="100%" id="table3">
-						<tbody><tr>
-							<td width="9"></td>
-							<td width="201">
-							<marquee style="font-family: Tahoma; font-size: 8pt; color: #353535" width="199" scrolldelay="80" scrollamount="3">You have not logged in yet, If you already have an account, please login to get full access to all contents.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please read the FAQ/Rules before asking questions.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please fill out our quick online feedback form so that we may better serve you and continue to improve our business.</marquee></td>
-							<td width="11"></td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		<div align="center">
-			<table border="0" width="950" id="table18" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-				<tbody><tr>
-					<td>
-		<div align="center">
-			<table border="0" width="950" id="table19">
-				<tbody><tr>
-					<td>
-					<table border="0" width="950" id="middle" cellspacing="0" cellpadding="0" height="125" style="background-image: url(&quot;img/middleheader3.jpg&quot;);">
-						<tbody><tr>
-							<td valign="top">
-							<table border="0" width="100%" id="table47" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td></td>
-									<td width="310" height="37"></td>
-								</tr>
-								<tr>
-									<td width="640"></td>
-									<td width="310">
-									<table border="0" width="310" id="table48" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td width="92">
-											<a href="?a=cust&amp;page=help&amp;ln=en">
-											<img border="0" src="img/mhb1.jpg" width="92" height="30"></a></td>
-											<td width="125">
-											<a href="?a=cust&amp;page=recommendations&amp;ln=en">
-											<img border="0" src="img/mhb2.jpg" width="125" height="30"></a></td>
-											<td></td><td width="93">
-											<a href="?a=cust&amp;page=sitemap&amp;ln=en">
-											<img border="0" src="img/mhb3.jpg" width="93" height="30"></a></td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-								</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		<div align="center">
-			<table border="0" width="950" id="table20" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-				<tbody><tr>
-					<td>
-					<table border="0" width="100%" id="table23" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td width="214" valign="top">
-							<table border="0" width="207" id="table44" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td>
-									<table border="0" width="100%" id="table45" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td colspan="2">
-											<a href="?a=signup&amp;ln=en">
-											<img border="0" src="img/lb1.jpg" width="207" height="50"></a></td>
-										</tr>
-										<tr>
-											<td>
-											<a href="?a=login&amp;ln=en">
-											<img border="0" src="img/lb2.jpg" width="82" height="35"></a></td>
-											<td>
-											<a href="?a=forgot_password&amp;ln=en">
-											<img border="0" src="img/lb3.jpg" width="125" height="35"></a></td>
-										</tr>
-										<tr>
-											<td colspan="2">
-													<img border="0" src="img/space.jpg" width="207" height="5"></td>
-											</tr>
-									</tbody></table>									</td>
-								</tr>
-<tr>
-									<td>
-									<img border="0" src="img/left1.jpg" width="207" height="230"></td>
-								</tr>								<tr>
-									<td>
-									<a href="?a=cust&amp;page=partner&amp;ln=en">
-									<img border="0" src="img/left2.jpg" width="207" height="117"></a></td>
-								</tr>
-								<tr>
-									<td>
-									<a target="_blank" href="http://www.designerscorp.com/?glocom">
-									<img border="0" src="img/left32.jpg" width="207" height="47"></a></td>
-								</tr>
-								<tr>
-									<td>
-									<a href="?a=cust&amp;page=antispam&amp;ln=en">
-									<img border="0" src="img/left4.jpg" width="207" height="47"></a></td>
-								</tr>
-								<tr>
-									<td>
-									<img border="0" src="img/leftbank.jpg" width="207" height="100"></td>
-								</tr>
-								<tr>
-									<td>
-									<a href="?a=support&amp;ln=en">
-									<img border="0" src="img/left5.jpg" width="207" height="105"></a></td>
-								</tr>
-							</tbody></table>
-							</td>
-							<td valign="top">
-							<table border="0" width="736" id="table24" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td>
-									<table border="0" width="736" id="table28" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td background="img/m1.jpg" height="30">
-											<table border="0" width="100%" id="table43" cellspacing="0" cellpadding="0">
-												<tbody><tr>
-													<td>&nbsp;&nbsp;
-													<font style="font-size: 10pt" color="#6c6c00" face="Arial">
-																						Glocom&nbsp; |&nbsp; 
-											Business Without Boundaries</font></td>
-												</tr>
-											</tbody></table>
-											</td>
-										</tr>
-										<tr>
-											<td background="img/m2.jpg">
-									<table border="0" width="100%" id="table35" cellspacing="3">
-										<tbody><tr>
-											<td>
-											<table border="0" width="100%" id="table36" cellspacing="4" style="font-family: Arial; font-size: 8pt; color: #2A2A2A">
-												<tbody><tr>
-													<td>
-																	<font face="Arial" style="font-size: 8pt" color="#232323"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td>
-	<font face="Arial" style="font-size: 10pt; font-weight: 700" color="#6C6C00">
-	Privacy Policy
-</font></td></tr><tr><td><hr style="border:1px dotted #C0C0C0; " size="1"></td></tr><tr><td><p align="justify"><font face="Arial" style="font-size: 8pt">
-We recognize the importance of protecting the privacy of our clients and 
-those who visit our website. Global Commerce safeguards clients' information by 
-maintaining physical, electronic, and procedural safeguards that comply with the 
-highest standards to guard non-public personal information about you. We will 
-safeguard any information you share with us. In addition, we will limit the 
-collection and use of nonpublic personal information to the minimum required to 
-provide you with superior financial services. We restrict access to your personal 
-account information to those employees who need to know that information to 
-provide products or services to you. Glocom utilizes encryption, firewall, 
-router, third party verification procedures and other sophisticated security 
-software and hardware to help prevent unauthorized eavesdropping of and access 
-to clients' confidential and private information.<br>
-<br>
-To provide better service and a more effective website, we use "cookies" as part 
-of our interaction with your browser. A "cookie" is a small, text file placed on 
-your hard drive by our webpage server. These cookies do not collect personally 
-identifiable information, and we do not combine information collected through 
-cookies with other personal information to determine who you are or your e-mail 
-address. We use cookies to determine if you have previously visited our website 
-and for a number of administration purposes.<br>
-<br>
-We do not share information about our clients with any third parties for their 
-independent use in marketing their products. We do not disclose nor do we 
-reserve the right to disclose, any nonpublic personal information about our 
-clients or former clients to anyone, except to other nonaffiliated third parties 
-as required by law.
+        <div id="ctl00_Navigation">
+	
+            
+            <ul class="no-prod-link">
+            
+                <li id="n-home"><a href="/default.aspx">Home</a></li>
+                <li id="n-about-us"><a href="/about-us.aspx">About Us</a></li>
+                <li id="n-trends"><a href="/trends.aspx">Business Trends</a></li>
+                <li id="n-biz-options"><a href="/business-options.aspx">Business Options</a></li>
+                
+     
 
-</font></p></td></tr></tbody></table></font></td>
-												</tr>
-											</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-											</td>
-										</tr>
-										<tr>
-											<td>
-											<img border="0" src="img/m3.jpg" width="736" height="8"></td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td><hr noshade="" color="#C0C0C0"></td>
-				</tr>
-				<tr>
-					<td>
-					<table border="0" width="100%" id="table22" cellspacing="5">
-						<tbody><tr>
-							<td width="485">
-							<table border="0" width="100%" id="table27">
-								<tbody><tr>
-									<td width="24">
-									<img border="0" src="img/global.gif" width="24" height="24"></td>
-									<td>
-							<font style="font-size: 10pt" face="Arial" color="#555555">
-							Copyright © 2010 - 2011 Global Commerce ,  All rights 
-							Reserved.</font></td>
-								</tr>
-							</tbody></table>
-							</td>
-							<td>
-							<p align="right">
-							<font face="Tahoma" size="2" color="#555555">
-							<a style="text-decoration: none" href="?a=cust&amp;page=rate&amp;ln=en">
-							<font color="#555555">Rate us</font></a>&nbsp; 
-							|&nbsp; <a style="text-decoration: none" href="?a=rules&amp;ln=en">
-							<font color="#555555">Terms and Conditions</font></a>&nbsp; |&nbsp; 
-							<a style="text-decoration: none" href="?a=cust&amp;page=privacy&amp;ln=en">
-							<font color="#555555">Privacy 
-							Policy</font></a>&nbsp; |&nbsp; 
-							<a style="text-decoration: none" href="?a=cust&amp;page=antispam&amp;ln=en">
-							<font color="#555555">Anti Spam policy</font></a></font></p></td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
+                
+    
+
+            </ul>
+        
+</div>
+        </div>
+
+        <div id="main-area">
+          <div id="main-inner">
+
+            
+
+            
+    <div id="content">
+		<div id="callout">
+			<h2>Privacy Policy<br></h2><p>&nbsp;</p>Thank you for visiting the personalized IBO Webspace site of the authorized Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is made available as a service to subscribing IBOs. <br><br>We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.<br><br><strong>What Information We Collect and How We Use It</strong><br>Any information we collect on our Site generally falls into the following two categories: Personally Identifiable Information or Aggregate Information.<strong><br><br>1. Personally Identifiable Information</strong><br>This refers to information that lets us know who you are or things specifically about you.<strong><br><br>A. Visitors</strong><br>As you can browse our Site you will be asked to enter an email address, to be shared with the subscribing IBO for the purpose of contacting you to assist you with any questions you may have. In such event, we maintain a record of your contact, including such Personally Identifiable Information, in a file specific to you. We use this information to provide better service in the event that you contact us again.<br><br><strong>B. Registration and Ordering</strong><br>If you register to become an IBO or place an order for products or services, we will collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transaction information). This information is&nbsp;used&nbsp;to deliver your order, process payment, and to communicate with you about the status of your order.<br><br><strong>2. Aggregate Information</strong><br>This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") of the Web site that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the Web), your operating system and browser type, and any search terms that you enter on our Site. Our Web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.<br><br>We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement.<br><br><strong>Sharing Your Information</strong><br>Except as disclosed in this Privacy Statement, we do not sell, trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission. Any Personally Identifiable Information you provide to us will be stored in our databases in the United States.<br><br><strong>1. Subscribing IBO / Site Owner</strong><br>In order to facilitate any questions you may have about this business opportunity, the Subscribing IBO may use your email address to follow up with you. To allow such communication, your contact information will be provided to the Subscribing IBO. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Statement.<br><br><strong>Your Choices</strong><br>Your permission is always secured first. We will not use or share the Personally Identifiable Information collected on our Site in ways unrelated to the purpose for which you provided the information, including those described above, without providing you a choice whether to permit any such unrelated uses.<br><br><strong>Accessing and Correcting Your Information</strong><br>We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information you have provided to us, you may edit your information online after completing registration, or contact us as described in the "Contact Us" section, below, and we will assist you.<br><br><strong>Protecting Your Information</strong><br>We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.<br><br><strong>Use of Cookies On This Site</strong><br>A "cookie" is a small data file transferred to your computer's hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Overall, cookies are safe, as they only identify your computer to customize your Web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.<br><br>Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely. If you turn off cookies completely, there may be some Web site features that will not be available to you, and some Web pages may not display properly.<br><br>To support the personalized features of our Site we must send a cookie to your computer's hard drive and/or use cookie-based authentication to identify you as a registered Site user. We do not, however, use so-called "surveillance" cookies that track your activity elsewhere on the Web.<br><br><strong>Use of Active-X and JAVA Applets On This Site</strong><br>Active-X programs and JAVA applets are executable programs that can be transferred to your computer's hard drive to cause your computer to perform functions in connection with your visit to a Web site. Our Site does not transfer any Active-X programs or Java Applets to your computer's hard drive.<br><br><strong>Children's Privacy Protection</strong><br>We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child's online activities. Our Site does not target and is not intended for children under the age of 16, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our Site, we will eliminate that data.<br><br><strong>Changes To This Statement</strong><br>Any updates or changes to the terms of this Privacy Statement will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.<br><br><strong>Contact Us</strong><br>If you have any concerns about our use of your information or about this Privacy Statement, please contact us. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention. <p>&nbsp;</p> 
 		</div>
-		</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-	</tr>
-</tbody></table></body></html>
+	</div>
+	 
+
+
+            
+
+          </div>
+        </div>
+
+        
+
+        
+    <div class="subnav navigation-button"><ul><li><a class="scroll" href="#top">Navigation<span class="arrow-up">▲</span></a></li></ul></div>
+
+
+        <div id="site-info">
+            <div id="site-info-wrap">
+                <hr>
+
+                <ul id="supplementary-nav-1">
+                    <li class="first"><a href="/default.aspx">Home</a></li>
+                    <li><a href="about-us.aspx">About Us</a></li>
+                    <li><a href="trends.aspx">Business Trends</a></li>
+                    <li><a href="business-options.aspx">Business Options</a></li>
+                    
+     
+
+
+                </ul>
+                <ul id="supplementary-nav-2">
+                    <li class="first">
+                        <a href="terms.aspx">Terms</a>
+                    </li>
+                    <li class="last">
+                        <a href="privacy-policy.aspx">Privacy Policy</a>
+                    </li>
+                    <li><a href="login.aspx?type=admin">Owner Login</a></li>
+                </ul>
+                <div id="site-copyright">
+                    <p>Copyright © 2014. All Rights Reserved</p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+</form>
+
+       <script type="text/javascript">
+
+           PushLanguage();
+
+       </script>
+       
+
+	<!---------------->
+
+    <script type="text/javascript">
+        $(function () {
+            /* ============================== */
+            /*  LANGUAGE SELECT
+            /* ============================== */
+
+            var languageSelect = $('#top-nav select');
+
+            if (languageSelect.val() === 'Español') {
+                $('body').addClass('spanish');
+            }
+            else {
+                $('body').removeClass('spanish');
+            }
+
+            /* ============================== */
+            /*  SMOOTH SCROLLING
+            /* ============================== */
+
+            $('.scroll').on('click touchstart', function (e) {
+                e.preventDefault();
+
+                $('html, body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 500);
+            });
+        });
+    </script>
+
+</body></html>
