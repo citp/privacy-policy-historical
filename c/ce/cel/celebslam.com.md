@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519012859id_/http%3A//celebslam.celebuzz.com/celebslam-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094051id_/http%3A//celebslam.celebuzz.com/celebslam-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebslam: Shocking Tales and Tawdry Behavior!
 
