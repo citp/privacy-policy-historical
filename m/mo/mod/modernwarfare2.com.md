@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the modernwarfare2.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063044id_/http%3A//www.activision.com/atvihub/privacy.do%3Fsub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernwarfare2.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105528id_/http%3A//www.activision.com/atvihub/privacy.do%3Fsub%3Dprivacy) for the most accurate reproduction.*
 
 # Activision | Privacy Policy
 
 **Activision uses "Cookies" to tailor content, marketing, and improve and adjust user experience. To find out more about "Cookies" , and options available to manage them, pleaseclick here** **. By using this Activision online property, you consent to our use of "Cookies".**
 
 **Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on February 7, 2014.**
+
+[](http://www.esrb.org/confirm/activision-confirmation.jsp)
 
 This Privacy Policy:
 
@@ -42,13 +44,13 @@ This Privacy Policy does not apply to third party websites or online properties 
 
 **Changes:** We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure you are aware of any changes. If we make a material change to this Privacy Policy we will provide notice in our Privacy Policy as posted. Your continued use of an Activision Property will signify your acceptance of any changes. If you do not agree to any changes, you must stop using the Activision Property. The applicable terms of service for the Activision Property will tell you options available to terminate any account you may have.
 
-**ESRB** : This Privacy Policy and the certification seal located to your right confirm that Activision is a licensee and participating member in the Entertainment Software Rating Board's (" **ESRB** ") Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this privacy initiative. ESRB Privacy Online has reviewed Activision and certified that we meet established online information collection and use practices. ****
+**ESRB** : This Privacy Policy and the certification seal located at the top right of this page confirms that Activision is a licensee and participating member in the Entertainment Software Rating Board's (" **ESRB** ") Privacy Online Program: ESRB Privacy Certified. To protect your privacy, we have voluntarily undertaken this privacy initiative. ESRB Privacy Certified has reviewed Activision and certified that we meet established online information collection and use practices. ****
 
 Click here for details Hide details
 
-As part of the ESRB Privacy Online Program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by ESRB.
+As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by ESRB.
 
-Whenever you visit a website that displays the ESRB Privacy Online certification seal, you may request information about:
+Whenever you visit a website that displays the ESRB Privacy Certified certification seal, you may request information about:
 
   * Whether a company uses cookies, tracks IP Addresses or uses other passive means to collect information;
   * Who, if anyone, is collecting your personal information and how will it be used;
@@ -67,7 +69,7 @@ If you believe that we have not responded to your inquiry or your inquiry has no
 _http://www.esrb.org/privacy/contact.jsp_
 
 ESRB  
-Attn.:Privacy Online Program  
+Attn:Privacy Online Program  
 317 Madison Avenue , 22nd Floor  
 New York , NY 10017  
 _privacy@esrb.org_
