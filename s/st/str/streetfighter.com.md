@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074552id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081231id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -189,4 +189,4 @@ privacy@esrb.org
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message on Capcom-Unity.com and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes.
 
-Here is a [PDF version](https://web.archive.org/web/20140625074552id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20141121081231id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
