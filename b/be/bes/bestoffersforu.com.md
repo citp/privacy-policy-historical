@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070102id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121022012id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Bestoffersforu.com - Find the best offers around on just about everything. From gadgets to clothes, from holidays to finance.
+
+  * [Home](https://web.archive.org/en) /
+  * Privacy Policy
+
+
 
 What information do we collect?
 
@@ -12,13 +17,12 @@ What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience (your information helps us to better respond to your individual needs)
+  * \- To personalize your experience (your information helps us to better respond to your individual needs)
+  * \- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * \- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * \- To administer a contest, promotion, survey or other site feature
 
-\- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-
-\- To administer a contest, promotion, survey or other site feature
 
 Do we use cookies?
 
@@ -31,3 +35,9 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Your Consent
 
 By using our site, you consent to our Privacy Policy.
+
+Bestoffersforu.com  
+17 Marble Street  
+Manchester, M2 3AW  
+United Kingdom  
+Email: offers@bestoffersforu.com
