@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105843id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102540id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - BizReport
 
-This is the web site of BizReport Network. Our postal address is Strandvejen 100, DK-2900 Hellerup, Denmark.
+This is the web site of BizReport.com. Our postal address is Østergade 1, DK-1100 Copenhagen, Denmark; tel. +45 70268210.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -12,11 +12,9 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at info at bizreport com, calling us at the above telephone number, writing to us at the above address.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
-
-As an added benefit to the visitors of the BizReport Network, from time to time we send e-mail announcements from selected third party partners. You may stop the arrival of these announcement lists at any time by removing your e-mail address from [this page](http://www.bizreport.com/opt-out/index.php?c=PRCY), or by following the instructions in the e-mails you receive. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
