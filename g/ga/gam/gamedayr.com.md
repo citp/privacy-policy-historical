@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040228id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142737id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
-# Gamedayr Sports News Company
+# Privacy and Terms of Use - GamedayrGamedayr
 
 **Affiliate Notice**
 
@@ -61,7 +61,7 @@ Rest assured that we neither rent nor sell your personal information to anyone a
 
 **With Your Consent:** Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-**COPPA Guidelines -   **Children Under 18 Years of Age****
+**COPPA Guidelines –   **Children Under 18 Years of Age****
 
 Gamedayr is meant for persons over the age of 13. Anyone under the age of 13 should not sign up for any of Gamedayr’s services and correspondence. If a minor under the age of 13 has signed up for these services without consent, any parent has the right to ask for their child’s information to be blocked. Once they have shown Gamedayr Media Network, LLC that they are the legal guardian of the child who’s information is being requested, Gamedayr will release the information and delete it upon request.
 
