@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229073900id_/http%3A//www.playbill.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014129id_/http%3A//playbill.com/about/privacy) for the most accurate reproduction.*
 
-# Playbill: Privacy Policy
+# Playbill: Privacy
 
 * * *
 
@@ -10,7 +10,7 @@ Playbill values your interest in the theatre community, both online and offline,
 
 Visiting Playbill.com:
 
-When you visit our sites, our web server automatically recognizes only your domain name, IP address, what browser, operating system and screen size you are using. We use this information in aggregate form to analyze how traffic flows at Playbill.com, but no one can contact or identify you from this information. 
+When you visit our sites, our web server automatically recognizes only your domain name, IP address, what browser, operating system and screen size you are using. We use this information in aggregate form to analyze how traffic flows at Playbill.com, but no one can contact or identify you from this information.
 
 Cookies:
 
@@ -20,13 +20,15 @@ E-mail Communications:
 
 Playbill regularly sends email Newsletters and membership correspondence to our registered members and visitors with information about performing arts discounts, offers and opportunities as well as Playbill programs, services or membership opportunities. In order to become a Playbill Club member and receive emails from Playbill.com, a user must follow a double opt-in process - after signing up for the list, a confirmation email will be sent to the user's email address. Only after the user positively confirms his/her desire to receive emails will the user begin to receive Playbill Club emails. Note that as of June 2007, subscription to the Playbill Club email list is required to have access to Playbill Club discount offers posted on Playbill.com.
 
-If you do not wish to receive any email from Playbill, you have a number of options: 
+If you do not wish to receive any email from Playbill, you have a number of options:
 
-  * At the bottom of each Playbill Club email is a link to unsubscribe from Playbill Club emails. Clicking on this link will unsubscribe you from the list. 
-  * Email the Playbill Club list manager at [clubmanager@Playbill.com](mailto:clubmanager@playbill.com). 
-  * Call the Playbill Club manager 212-557-5757. 
+  * At the bottom of each Playbill Club email is a link to unsubscribe from Playbill Club emails. Clicking on this link will unsubscribe you from the list.
+  * Email the Playbill Club list manager at [clubmanager@Playbill.com](mailto:clubmanager@playbill.com).
+  * Call the Playbill Club manager 212-557-5757.
 
-We will do our best to make your change in a timely manner. 
+
+
+We will do our best to make your change in a timely manner.
 
 Playbill never sells, exchanges or lends to third parties any email information you provide when subscribing to our E-mail communications. If you enter a contest and are asked to provide personal information such as address and phone number, it will be used only to contact you in case you are a winner. Any other request for personal information will not be used to contact or track you unless explicitly stated at the time the information is requested.
 
@@ -55,10 +57,13 @@ Playbill.com contains links to a wide variety of websites, including some which 
 Changes to Privacy Policy:
 
 Playbill will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our Web site, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us via e-mail at [webmaster@Playbill.com](mailto:webmaster@Playbill.com), by telephone at 212-557-5757 or by mail at:  
-Playbill   
+Playbill  
 525 Seventh Ave. Suite 1801  
 New York, NY 10018  
 Updated: March 16, 2008
+
+  
+
 
 * * *
 
