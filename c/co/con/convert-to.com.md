@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140225id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073651id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at convert-to.com
 
@@ -32,3 +32,9 @@ We log your email address in only in these situations: Newsletter purpose, conta
 
 **Out-going Links to other websites  
 **Our site contains links to other web sites. We are not responsible for the privacy policy and practices or, the content of any other web site linked from **convert-to.com** site.
+
+##### Find pages on convert to with online Google Custom Search
+
+For online collaboration to improve the _» Privacy policy_ , requests for new units or web tools additions, send your feedback.
+
+No comments yet.
