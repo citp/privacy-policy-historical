@@ -1,72 +1,134 @@
-> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020143459id_/http%3A//www.barratts.co.uk/en/info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081256id_/http%3A//www.barratts.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Welcome - Barratts Shoes
+# Privacy Policy - Barratts
 
-## What are cookies?
+This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Direct Consumer Retail Ltd trading as Barratts.  If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [head-office@barratts.co.uk](mailto:head-office@barratts.co.uk).  Please note that all data thus captured will be used and held in accordance with the requirements of the Data Protection Act 1998.
 
-Cookies are small files which are stored on your computer. They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. This allows us to deliver a page tailored for you, or the page itself can contain some script which is aware of the data in the cookie and so is able to carry information from one visit to the website (or related site) to the next.
+**Information collected**
 
-If cookies aren't enabled on your computer, it will mean that your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your basket and buy them.
+We collect information from visitors to this website via the following:
+
+Through the use of online forms;
+
+Through email hyperlinks;
+
+Every time you email us your details
+
+We also collect information about the transactions you undertake through this site.
+
+We do not collect details of payments cards used.
+
+We collect additional information automatically about your visit to our website. Please see the cookies section of this policy for more details.
+
+**Use of personal information**
+
+We process personal information collected via this website for the purposes of:
+
+Providing and personalising our services;
+
+Dealing with your enquiries and requests;
+
+Providing you with information about our products and services;
+
+Administering orders and accounts relating to our suppliers or customers;
+
+Maintaining information as a reference tool or general resource;
+
+Carrying out market research campaigns;
+
+Selling, renting or swapping personal data;
+
+Crime prevention and prosecution of offenders.
+
+We will send you information according to the preferences you submitted via our data capture form. If you would like to change these preferences at any time, please email us at [head-office@barratts.co.uk](mailto:head-office@barratts.co.uk), or call us on 0123 321 4575. Alternatively, you can write to us at: Barratts, PO Box 170, Ashford, Kent TN24 0ZX.
+
+**Marketing**
+
+Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you. If you indicated any preferences when providing us with your data, we will use these to determine what information we provide you with.
+
+If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at [head-office@barratts.co.uk](mailto:head-office@barratts.co.uk). Alternatively, you may wish to write to us at: Barratts, PO Box 170, Ashford, Kent TN24 0ZX.  
+
+You may also amend your contact preferences by logging into your account.
+
+From time to time we would like to be able to pass your information to carefully selected third parties that offer products or services that we have identified as likely to be of interest to you.
+
+We will only do this if you have opted-in to receive such communications, for example when you completed a data capture form or placed an order with us.
+
+**Disclosures**
+
+We will only disclose data to:
+
+Other companies within our Group of companies;
+
+Business partners;
+
+Suppliers we engage to process data on our behalf;
+
+Government bodies and law enforcement agencies;
+
+Successors in title to our business.
+
+**Other websites**
+
+Our website may contain links to other websites that are outside our control and are not covered by this Privacy Policy.  If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from ours.
+
+**Subject access requests**
+
+You have the right to see what personal data we hold about you.  To obtain a copy of the personal information we hold about you, please write to us at [head-office@barratts.co.uk](mailto:head-office@barratts.co.uk)  or: Barratts, PO Box 170, Ashford, Kent TN24 0ZX. Please note that we reserve the right to charge a fee of up to £10 for any such request.
+
+**Internet-based transfers**
+
+Given that the Internet is a global environment, using it to collect and process personal data necessarily involves the transmission of data on an international basis.  This means for instance that data you pass to us may be processed outside the European Economic Area, although the data will always be held securely and in line with the requirements ofUKdata protection legislation.  By communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
+
+**Use of cookies**
+
+A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser.  Find out more about cookies on [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+
+We use cookies to identify you when you visit this website and to keep track of your browsing patterns and build up a demographic profile.
+
+Our use of cookies also allows registered users to be presented with a personalised version of the site, carry out transactions and have access to information about their account.
+
+Most browsers will allow you to turn off cookies.  If you want to know how to do this please look at the menu on your browser, or look at the instruction on [www.allaboutcookies.org](http://www.allaboutcookies.org/).  Please note however that turning off cookies will restrict your use of our website.
+
+We use the following cookies on our site [only if we’re using anything more than “strictly necessary” cookies]:
 
   
+By continuing to use this site you are agreeing to the use of cookies as detailed above. 
 
+**Amendments**
 
-## Why are we explaining all this?
+Please note that this privacy policy is subject to change from time to time.  It was last reviewed in February 2014. 
 
-The European Union passed the 'Privacy and Electronic Communications Directive' which states that websites must provide clear information about how they use cookies and give users means to not have cookies saved on their computer unless they are strictly necessary for the functioning of the website.
+For the exhaustive list of cookies we collect see below.
 
-  
+List of cookies we collect
 
+The table below lists the cookies we collect and what information they store.
 
-## So how do we use cookies?
-
-When you visit our website, we will place a session cookie called 'JSESSIONID' on your computer which enables the shopping basket and other core functions of the website to function correctly along with WC_SESSION_ESTABLISHED, WC_ACTIVEPOINTER, WC_AUTHENTICATION_, WC_USERACTIVITY, We feel these cookies are strictly necessary for the website to function fully, without them the website doesn't work properly.
-
-We use Coremetrics to monitor our website. You may see cookies 'cmRS', 'cmTPSet', '90223163_clogin' or '90223163_clogin' from our website. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.
-
-We use Google Analytics to monitor our websites. Google Analytics aggregates information which means that you can not be identified individually but we can see, for example, which categories of shoes on the website are the most popular or if there is a problem with the basket or checkout process. Google Analytics will place a small number of cookies on your computer with expiry dates ranging from half an hour to 18 months - all these cookies will begin "__utm" and will be from our website. 
-
-If you'd like to learn more about cookies in general and how to manage them, visit aboutcookies.org (opens in a new window).
-
-Barratts is committed to protecting the privacy of the personal information you provide us on our website. We believe it is important for you to know what information we collect and how we treat the information you share with us. The following policy will explain how your personal information will be treated as you use our website and its features. 'Personal Information' includes your name, physical address, e-mail address(es), telephone numbers, credit card information and other similar information that you provide to us. We do not sell your Personal Information.
-
-In the instance above, we may ask for your Personal Information in order to provide you the services or offers. In the case of actions listed above, you will be able to 'unsubscribe' to these at any time. It is completely optional for you to register, participate or otherwise provide us with Personal Information in the above situations.
-
-  
-
-
-## How Your Information is Used
-
-The information you provide helps Barratts understand how you use our website. This allows us to recognise your needs and continue to make the improvements that are important to you and our customers.
-
-Barratts will not disclose or transfer your Personal Information to third parties without your consent or as otherwise set forth in this privacy policy. If you have opted-in we may use your Personal Information to respond to specific requests and to send notices of new products, special offers and other marketing materials to enhance and support your relationship with Barratts. These communications may take the form of postal mail, telephone calls, e-mail and other methods of contact. Also, agents, service providers and other contractors of Barratts who will have access to your Personal Information are required to keep the information confidential and not use it for any other purpose than to fulfil the services they are performing for Barratts.
-
-Additionally, if you have opted-in to receiving marketing or other information from our third party business partners, you may receive marketing or other communications directly from those third parties. Barratts encourages you to read the privacy policies of each and every third party company and website that collects your Personal Information. However, whether you are receiving mailings directly from us or from our third party business partners, you will be able to 'unsubscribe' to these mailings at any time.
-
-  
-
-
-## Unsubscribing and Data Removal
-
-If your Personal Information changes (such as post code, phone, e-mail or postal address), or if you no longer desire to be contacted about our products and services, you can correct, update or delete/deactivate your Personal Information at any time. This can be done by e-mailing Barratts. If you have previously unsubscribed or opted-out through the Barratts website but you are still receiving notices, offers or solicitation relating to Barratts, it could be that you initially opted-in to receive information in a manner other than through our website (such as a collection and drawing of business cards held at a Barratts retailer units in which the winner is contacted by e-mail). If this is the case, your desire to unsubscribe may also need to be communicated to the original 'opt-in' source. We take your online privacy very seriously, so if you need any assistance in unsubscribing to future communications please contact Barratts. We will promptly take action to ensure that you are 'opted-out' from receiving any further mailing or other information. Although we will remove your name from our e-mail list as quickly as possible, please recognise that there may be a period of time after you unsubscribe during which you may still receive e-mails from us.
-
-  
-
-
-## Children's Privacy
-
-Barratts does not seek to collect Personal Information about children through its website and is committed to protecting the privacy of visitors under the age of 18. Parents should supervise the online activities of their children, and consider the use of tools available from online services and software providers that help provide kid-friendly Internet environments.
-
-  
-
-
-## Other Sites
-
-Barratts website may contain links to other sites on the Web. The information practices of those websites are not covered by this privacy policy. Although we are committed to protecting your Personal Information, we cannot control and are not responsible for the privacy practices or content of such other websites. Barratts encourages you to read the privacy statements of each and every website that collects personal information. You are solely responsible for maintaining the secrecy of your passwords and other account information.
-
-  
-
-
-## Modifications to This Policy
-
-We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our site to review the current policy. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use your Personal Information different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not you want us to use your Personal Information in this different manner.
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
