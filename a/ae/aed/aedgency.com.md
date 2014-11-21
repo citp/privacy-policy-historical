@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aedgency.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330132054id_/http%3A//www.aedgency.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aedgency.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084609id_/http%3A//www.aedgency.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Legal | Aedgency - Performance-based marketing
 
@@ -26,7 +26,7 @@ Personal data may be transferred to third parties for processing in accordance w
 
 ### 5\. Exercise of rights:
 
-The User may exercise their rights to access, rectification, cancellation and opposition by sending an e-mail to [info@aedgency.com](mailto:info@aedgency.com) or by writing to AEDGE PERFORMANCE, World Trade Center, ed. Norte, planta 2, C.P. 08039 – Barcelona. In both cases, a copy of your National Identity Document, passport or other valid identity document must be included.
+The User may exercise their rights to access, rectification, cancellation and opposition by sending an e-mail to [info@aedgency.com](mailto:info@aedgency.com) or by writing to AEDGE PERFORMANCE, Avenida Diagonal 579, Planta 7ª, 08014, Barcelona. In both cases, a copy of your National Identity Document, passport or other valid identity document must be included.
 
 ### 6\. Communication of information by the User:
 
