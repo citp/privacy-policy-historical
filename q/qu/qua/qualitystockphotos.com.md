@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613021158id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitystockphotos.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044301id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.*
 
 # Qualitystockphotos.com - Privacy Policy
 
-Effective Date: 08/15/2011  
+Effective Date: 08/01/2014  
 This privacy statement describes how Kozzi Inc. (“Kozzi”) collects and uses the personal information you provide on our Web site: [www.qualitystockphotos.com](http://www.qualitystockphotos.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
-We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.     
-Kozzi Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com)
+We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.  
 
 We collect the following personal information from you
 
@@ -33,7 +32,7 @@ _Please keep in mind if you exempt yourself from such marketing communications y
 
 
   
-Personal information collected by Kozzi Inc. may be stored and processed in Canada or any other country in which Kozzi Inc. or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (which includes your right to have personal information deleted from our databases), please contact [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com).
+Personal information collected by Kozzi Inc. may be stored and processed in Canada or any other country in which Kozzi Inc. or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (which includes your right to have personal information deleted from our databases), please contact [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy).
 
 When you visit this site, certain types of non-personal information, such as the website that referred you to us, your IP address, browser type and language used, and access times, can be automatically collected as part of the site’s ability to shift to consumer needs and activity.   
  
@@ -42,7 +41,7 @@ When you visit this site, certain types of non-personal information, such as the
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. Kozzi stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [privacy@qualitystockphotos.com](mailto:privacy@qualitystockphotos.com) to request that we remove this information from our database.
+Your friend may contact us at [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy) to request that we remove this information from our database.
 
 **Legal Disclaimer  
 **We may disclose your personal information
@@ -56,12 +55,12 @@ Your friend may contact us at [privacy@qualitystockphotos.com](mailto:privacy@qu
 
   
 **Access to Personal Information  
-**If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@qualitystockphotos.com](mailto:support@qualitystockphotos.com)
+**If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy)
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Security  
-**The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@qualitystockphotos.com](mailto:support@qualitystockphotos.com).
+**The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  When you enter sensitive personal and financial information, such as credit card number, on our registration or order forms, we encrypt that information using secure socket layer technology (SSL), and store the information on secure servers that only selected Kozzi personnel and contractors have access to via password.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy).
 
 **Tracking Technologies**
 
@@ -90,10 +89,10 @@ Our Site includes links to other web sites whose privacy practices may differ fr
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Children  
-**Kozzi Inc. is a family friendly website, thus children are generally welcome to browse our website without parental consent. We cannot fully guarantee a child or parent will not be offended by our content but the content we upload is vetted. If you need any more information please contact [info@qualitystockphotos.com](mailto:info@qualitystockphotos.com)
+**Kozzi Inc. is a family friendly website, thus children are generally welcome to browse our website without parental consent. We do not intentionally collect information from children under 13 years of age.  We cannot fully guarantee a child or parent will not be offended by our content but the content we upload is vetted. If you need any more information please contact [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy)
 
 **Contact Us  
-**If you have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@kozzicom](mailto:privacy@kozzicom) or via postal mail at:  
-400 Matheson Blvd. East,   
+**If you have any questions or suggestions regarding our privacy policy, please contact us at: [social@qualitystockphotos.com](mailto:social@qualitystockphotos.com?subject=Privacy%20Policy) or via postal mail at:  
+16-1375 Southdown Rd,Suite 220   
 Mississagua, Ontario, Canada   
-L4Z 1P1
+L5J 2Z1
