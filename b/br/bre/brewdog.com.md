@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328233136id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121110554id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
 
 # 
 
