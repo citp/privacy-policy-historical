@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smythson.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624220925id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smythson.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121035931id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <title>Privacy and Security</title>
@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
 	Remove this if you use the .htaccess -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIOVVRUGwcBUlNXDwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="ALL,INDEX,FOLLOW,noodp,noydir">
@@ -30,7 +30,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/smythson-responsive/uk/css/print.css" media="print">
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/smythson-responsive/uk/js/libs/fancyBox/jquery.fancybox.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/base/default/css/pod1.css" media="all">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.smythson.com/media/js/be2ef5a6743e0e845409f88d64d395b5.js"></script>
+<script type="text/javascript" src="http://www.smythson.com/media/js/be2ef5a6743e0e845409f88d64d395b5.js"></script>
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/smythson-responsive/uk/css/ie.css" media="all" />
 <![endif]-->
@@ -50,6 +50,19 @@ Mage.Cookies.domain   = '.smythson.com';
 optionalZipCountries = [];
 //]]>
 </script>
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-974865-8','auto');
+                            ga('require', 'displayfeatures');
+                ga('send', 'pageview', '/privacy-security');
+
+    </script>
+        <!-- End Google Analytics -->
 <link rel="canonical" href="http://www.smythson.com/privacy-security">
                         <!--[if lte IE 8]>
                           <script>
@@ -58,43 +71,55 @@ optionalZipCountries = [];
                             document.createElement('ng-form');
                           </script>
                         <![endif]-->
-                    <script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><style type="text/css">
+                    <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><style type="text/css">
 <!--
+
+
+@media all and (min-width: 480px) {
+
+.cms-index-index .content-slideshow-sidebar .content h3,
+.cms-index-index .content-slideshow-sidebar .content ul li a {
+
+color: #192e79;
+
+}
+
+.cms-index-index .content-slideshow-sidebar .content hr {
+border-color: #192e79;
+
+}
+
+.cms-index-index .promo-home-top-right
+h3{
+color:#192e79;
+}
+
+}
+
 
 @media  (max-device-width: 480px) { 
 
 .cms-index-index .promo-home-top-right
-h3 a {
+h3{
 color:#192e79;
 }
-
 -->
 </style>
 
-<meta name="p:domain_verify" content="e1b9e285cb5d57b9fe9a8583cd3e1778">
 
 
-<meta name="yandex-verification" content="44a07af300f570b0">
-
-<meta name="baidu-site-verification" content="ETz8ABInc5">
-
-<link rel="alternate" hreflang="x-default" href="http://www.smythson.com">
-
-<link rel="alternate" hreflang="de-de" href="http://de.smythson.com/eur">
-
-<link rel="alternate" hreflang="fr-fr" href="http://fr.smythson.com/eur">
-
-<link rel="alternate" hreflang="it-it" href="http://it.smythson.com/eur">
-
-<link rel="alternate" hreflang="en-us" href="http://www.smythson.com/us">
-
-<link rel="alternate" hreflang="en-gb" href="http://www.smythson.com">
-
-
-<meta name="google-site-verification" content="Cw1FzupLbQmFAeU_iAaBuDjmpCxEgH 2FGnnZ4bu1dpI">
 
 <meta name="google-site-verification" content="Fo0D4hz6Alzwj6I1tKeX7cELudbSMa_6yl-3oXh7-XI">
-<meta name="msvalidate.01" content="7870ECF7B7D6ECA75CFE87C865F1A841"><script type="text/javascript">
+<meta name="msvalidate.01" content="7870ECF7B7D6ECA75CFE87C865F1A841">
+
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="x-default" href="http://www.smythson.com">
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="de-de" href="http://de.smythson.com/eur">
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="fr-fr" href="http://fr.smythson.com/eur">
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="it-it" href="http://it.smythson.com/eur">
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="en-us" href="http://www.smythson.com/us">
+<link rel="alternate" class="OneLinkKeepLinks" hreflang="en-gb" href="http://www.smythson.com"><script type="text/javascript">
 	window.isResponsive = true;
     window.currentStoreURL=window.location.protocol + 'http://www.smythson.com/'.replace(/^https?:/,'');
 </script>
@@ -103,29 +128,29 @@ color:#192e79;
 	window.isResponsive = false;
 </script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+</head>
 <body class=" cms-page-view cms-privacy-security">
-
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<div class="cookie-bar">Smythson uses cookies to deliver an enhanced online experience. For more information, visit our <a class="fancybox-link" data-ajaxhref="/cookiebar/cms/privacy" href="/privacy-security">privacy policy</a>. <img class="cookie-bar-close" style="float: right;" src="/skin/frontend/smythson-responsive/uk/images/cookie-bar-close.gif" alt=""></div>
 <script type="text/javascript">
-//<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    (function () {
+        var cookie_name = 'cookie_bar';
+        var cookie_container_class = '.cookie-bar';
+
+        var cookie_expiry_date = new Date();
+        cookie_expiry_date.setSeconds(cookie_expiry_date.getSeconds() + 630720000);
+
+        var cookie_container_el = $$(cookie_container_class).first();
+
+        if (cookie_container_el !== undefined) {
+            if (Mage.Cookies.get(cookie_name) !== null) {
+                cookie_container_el.hide();
+            } else {
+                Mage.Cookies.set(cookie_name, 1, cookie_expiry_date);
+            }
+        }
     })();
-
-    var _gaq = _gaq || [];
-
-_gaq.push(['_setAccount', 'UA-974865-8']);
-_gaq.push('_setDomainName', 'smythson.com');
-_gaq.push(['_trackPageview']);
-
-
-
-//]]>
 </script>
-<!-- END GOOGLE ANALYTICS CODE --><!-- BEGIN BING ANALYTICS CODE -->
+<!-- BEGIN BING ANALYTICS CODE -->
                 
 <script type="text/javascript">
     if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};
@@ -145,10 +170,11 @@ _gaq.push(['_trackPageview']);
 <!-- END BING ANALYTICS CODE --><div class="wrapper">
 	<div class="wrapper-inner">
 	    	        <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
             </div>
         </div>
     </noscript>
@@ -190,7 +216,8 @@ _gaq.push(['_trackPageview']);
     Enterprise.TopCart.initialize('topCartContent');
     // Below can be used to show minicart after item added
     //Enterprise.TopCart.showCart(7);
-</script>
+
+    </script>
 </div>
             <ul class="links">
                         <li class="first"><a href="https://www.smythson.com/customer/account/" title="My Smythson">My Smythson</a></li>
@@ -296,8 +323,6 @@ _gaq.push(['_trackPageview']);
 <span class="travel-passport-covers text sub-header">Passport Covers</span>
 </a></li><li class="column"><a href="http://www.smythson.com/travel/leather-wash-bags.html" title="Washbags">
 <span class="travel-washbags text sub-header">Washbags</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/travel/summer-essentials.html" title="Summer Essentials">
-<span class="travel-summer-essentials text sub-header">Summer Essentials</span>
 </a>
 </li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
 </li><li class="level0 nav-4 level-top parent">
@@ -351,62 +376,60 @@ _gaq.push(['_trackPageview']);
 <span class="stationery-pocket-notebooks text sub-header">Pocket Notebooks</span>
 </a></li><li class="column"><a href="http://www.smythson.com/stationery/leather-notebooks.html" title="Books">
 <span class="stationery-books text sub-header">Books</span>
-</a></li><li class="column"><a href="http://www.smythson.com/stationery/paper-cards.html" title="Cards and Invitations">
+</a></li><li class="column"><a href="http://www.smythson.com/stationery/christmas-cards.html" title="Christmas Cards &amp; Gift Tags">
+<span class="stationery-christmas-cards-&amp;-gift-tags text sub-header">Christmas Cards &amp; Gift Tags</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/paper-cards.html" title="Cards and Invitations">
 <span class="stationery-cards-and-invitations text sub-header">Cards and Invitations</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/paper-plain-stationery.html" title="Plain Stationery">
+</a></li><li class="column"><a href="http://www.smythson.com/stationery/paper-plain-stationery.html" title="Plain Stationery">
 <span class="stationery-plain-stationery text sub-header">Plain Stationery</span>
 </a></li><li class="column"><a href="http://www.smythson.com/stationery/bespoke-st.html" title="Personalised Stationery">
 <span class="stationery-personalised-stationery text sub-header">Personalised Stationery</span>
-</a></li><li class="column"><a href="http://www.smythson.com/stationery/pens-pencils.html" title="Pens &amp; Pencils">
+</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/pens-pencils.html" title="Pens &amp; Pencils">
 <span class="stationery-pens-&amp;-pencils text sub-header">Pens &amp; Pencils</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/refills-1.html" title="Refills">
+</a></li><li class="column"><a href="http://www.smythson.com/stationery/refills-1.html" title="Refills">
 <span class="stationery-refills text sub-header">Refills</span>
 </a>
 </li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
 </li><li class="level0 nav-7 level-top parent">
-<a href="#" class="level-top" title="Gifts">
-<span>Gifts</span>
+<a href="#" class="level-top" title="2015 Diaries">
+<span>2015 Diaries</span>
 </a>
-<div id="top-level-764" class="top-menu-row">
+<div id="top-level-804" class="top-menu-row">
 
 <ul>
-<li class="column"><a href="http://www.smythson.com/occasions/wedding.html" title="Wedding">
-<span class="gifts-wedding text sub-header">Wedding</span>
-</a></li><li class="column"><a href="http://www.smythson.com/occasions/baby-gifts.html" title="New Baby">
-<span class="gifts-new-baby text sub-header">New Baby</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/occasions/housewarming-gifts.html" title="Housewarming">
-<span class="gifts-housewarming text sub-header">Housewarming</span>
-</a></li><li class="column"><a href="http://www.smythson.com/occasions/new-job.html" title="New Job">
-<span class="gifts-new-job text sub-header">New Job</span>
-</a></li><li class="column"><a href="http://www.smythson.com/occasions/graduation.html" title="Graduation">
-<span class="gifts-graduation text sub-header">Graduation</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/occasions/gifts-for-her.html" title="Gifts for Her">
-<span class="gifts-gifts-for-her text sub-header">Gifts for Her</span>
-</a></li><li class="column"><a href="http://www.smythson.com/occasions/gifts-for-him.html" title="Gifts for Him">
-<span class="gifts-gifts-for-him text sub-header">Gifts for Him</span>
+<li class="column"><a href="http://www.smythson.com/leather-2015-diaries/leather-diaries-and-organisers.html" title="All Diaries and Organisers">
+<span class="2015-diaries-all-diaries-and-organisers text sub-header">All Diaries and Organisers</span>
+</a></li><li class="column"><a href="http://www.smythson.com/leather-2015-diaries/leather-pocket-diaries.html" title="Pocket Diaries">
+<span class="2015-diaries-pocket-diaries text sub-header">Pocket Diaries</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/leather-2015-diaries/leather-mid-size-diaries.html" title="Mid-Size Diaries">
+<span class="2015-diaries-mid-size-diaries text sub-header">Mid-Size Diaries</span>
+</a></li><li class="column"><a href="http://www.smythson.com/leather-2015-diaries/leather-desk-diaries.html" title="Desk Diaries">
+<span class="2015-diaries-desk-diaries text sub-header">Desk Diaries</span>
+</a></li><li class="column"><a href="http://www.smythson.com/leather-2015-diaries/leather-organisers.html" title="Organisers">
+<span class="2015-diaries-organisers text sub-header">Organisers</span>
 </a>
 </li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
 </li><li class="level0 nav-8 level-top last parent">
-<a href="#" class="level-top" title="Sale">
-<span>Sale</span>
+<a href="#" class="level-top" title="Christmas Gifts">
+<span>Christmas Gifts</span>
 </a>
-<div id="top-level-534" class="top-menu-row">
+<div id="top-level-740" class="top-menu-row">
 
 <ul>
-<li class="column"><a href="http://www.smythson.com/sale/women.html" title="Women">
-<span class="sale-women text sub-header">Women</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/men.html" title="Men">
-<span class="sale-men text sub-header">Men</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/sale/handbags-1.html" title="Handbags">
-<span class="sale-handbags text sub-header">Handbags</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/technology-1.html" title="Technology">
-<span class="sale-technology text sub-header">Technology</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/travel-1.html" title="Travel">
-<span class="sale-travel text sub-header">Travel</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/sale/home-1.html" title="Home">
-<span class="sale-home text sub-header">Home</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/stationery-1.html" title="Stationery">
-<span class="sale-stationery text sub-header">Stationery</span>
+<li class="column"><a href="http://www.smythson.com/christmas-gifts/gifts-for-her.html" title="Gifts for Her">
+<span class="christmas-gifts-gifts-for-her text sub-header">Gifts for Her</span>
+</a></li><li class="column"><a href="http://www.smythson.com/christmas-gifts/gifts-for-him.html" title="Gifts for Him">
+<span class="christmas-gifts-gifts-for-him text sub-header">Gifts for Him</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/christmas-gifts/gifts-for-the-home.html" title="Gifts for the Home">
+<span class="christmas-gifts-gifts-for-the-home text sub-header">Gifts for the Home</span>
+</a></li><li class="column"><a href="http://www.smythson.com/christmas-gifts/christmas-cards.html" title="Christmas Cards">
+<span class="christmas-gifts-christmas-cards text sub-header">Christmas Cards</span>
+</a></li><li class="column"><a href="http://www.smythson.com/christmas-gifts/gifts-under-150.html" title="Gifts under £150">
+<span class="christmas-gifts-gifts-under-£150 text sub-header">Gifts under £150</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/christmas-gifts/gifts-under-250.html" title="Gifts under £250">
+<span class="christmas-gifts-gifts-under-£250 text sub-header">Gifts under £250</span>
+</a></li><li class="column"><a href="http://www.smythson.com/christmas-gifts/luxury-gifts.html" title="Luxury Gifts">
+<span class="christmas-gifts-luxury-gifts text sub-header">Luxury Gifts</span>
 </a>
 </li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
 </li>        <li class="level0 nav-99 level-top gift-nav">
@@ -425,82 +448,116 @@ _gaq.push(['_trackPageview']);
               <button class="prev"><span class="label">Previous</span></button>
               <button class="next"><span class="label">Next</span></button>
               <ul class="items">
-   <li class="item">
-        <a href="http://www.smythson.com/collections/quentin-jones.html" title="Quentin Jones">
-            <img src="http://smythson.scene7.com/is/image/Smythson/quentin%5Fthumb2?$original$">
-            <span class="diaries-for-her text sub-header">Quentin Jones</span>
-        </a>
-    </li>
+
+
    <li class="item">
         <a href="http://www.smythson.com/collections/1887.html" title="1887">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5F1887%5Fthumb2?$original$">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5F1887?$original$">
             <span class="diaries-for-her text sub-header">1887</span>
         </a>
     </li>
    <li class="item">
-        <a href="http://www.smythson.com/collections/eliot.html" title="Eliot">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Feliot%5F3%5Fthumb?$original$">
-            <span class="diaries-for-her text sub-header">Eliot</span>
+        <a href="http://www.smythson.com/collections/berkeley.html" title="Berkeley">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fberkeley?$original$">
+            <span class="diaries-for-her text sub-header">Berkeley</span>
         </a>
     </li>
-       <li class="item">
-        <a href="http://www.smythson.com/collections/grosvenor.html" title="Grosvenor">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fgrosv%5Fthumb?$original$">
-            <span class="diaries-for-her text sub-header">Grosvenor</span>
+
+  <li class="item">
+        <a href="http://www.smythson.com/collections/montagu.html" title="Montagu">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fmontagu2?$original$">
+            <span class="diaries-for-her text sub-header">Montagu</span>
+        </a>
+    </li>
+
+ 
+
+   <li class="item">
+        <a href="http://www.smythson.com/collections/dover.html" title="Dover">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fdover2?$original$">
+            <span class="diaries-for-her text sub-header">Dover</span>
+        </a>
+    </li>
+
+<li class="item">
+        <a href="http://www.smythson.com/collections/burlington.html" title="Burlington">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fburlington?$original$">
+            <span class="diaries-for-her text sub-header">Burlington</span>
+        </a>
+    </li>
+  <li class="item">
+        <a href="http://www.smythson.com/collections/panama-women.html" title="Panama Womens">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fpanama%5Fw2?$original$">
+            <span class="diaries-for-her text sub-header">Panama Womens</span>
         </a>
     </li>
 
   <li class="item">
         <a href="http://www.smythson.com/collections/panama-men.html" title="Panama Mens">
-            <img src="http://smythson.scene7.com/is/image/Smythson/pan%2Dhim%5Fthumb?$original$">
-            <span class="diaries-for-her text sub-header">Panama - him</span>
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fpanama%5Fm?$original$">
+            <span class="diaries-for-her text sub-header">Panama Mens</span>
         </a>
     </li>
   <li class="item">
-        <a href="http://www.smythson.com/collections/panama-women.html" title="Panama Womens">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fpanama%5Fthumb?$original$">
-            <span class="diaries-for-her text sub-header">Panama - her</span>
+        <a href="http://www.smythson.com/collections/eliot.html" title="Eliot">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Feliot?$original$">
+            <span class="diaries-for-her text sub-header">Eliot</span>
         </a>
     </li>
-  <li class="item">
+
+
+   <li class="item">
+        <a href="http://www.smythson.com/collections/evening.html" title="Evening">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fevening2?$original$">
+            <span class="diaries-for-her text sub-header">Evening</span>
+        </a>
+    </li>
+
+<li class="item">
         <a href="http://www.smythson.com/collections/envelope.html" title="Envelope">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fenvelope%5Fthumb?$original$">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fenv?$original$">
             <span class="diaries-for-her text sub-header">Envelope</span>
         </a>
     </li>
 <li class="item">
         <a href="http://www.smythson.com/collections/mara.html" title="Mara">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fmara%5F3%5Fthumb?$original$">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fmara3?$original$">
             <span class="diaries-for-her text sub-header">Mara</span>
         </a>    
     </li>
+       <li class="item">
+        <a href="http://www.smythson.com/collections/grosvenor.html" title="Grosvenor">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fgrosv2?$original$">
+            <span class="diaries-for-her text sub-header">Grosvenor</span>
+        </a>
+    </li>
     <li class="item">
-        <a href="http://www.smythson.com/collections/gresham-1.html" title="Gresham">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fgresham%5Fthumb?$original$">
+        <a href="http://www.smythson.com/collections/gresham.html" title="Gresham">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fgresham?$original$">
             <span class="diaries-for-her text sub-header">Gresham</span>
         </a>
     </li>
   <li class="item">
         <a href="http://www.smythson.com/collections/chameleon.html" title="Chameleon">
-            <img src="http://smythson.scene7.com/is/image/Smythson/new%5Fcham%5Fthumb?$original$">
+            <img src="//smythson.scene7.com/is/image/Smythson/aw14%5Fthumb%5Fchameleon2?$original$">
             <span class="diaries-for-her text sub-header">Chameleon</span>
         </a>
     </li>
    <!--<li class="item">
         <a href="http://www.smythson.com/collections/hamilton.html" title="Hamilton">
-            <img src="http://smythson.scene7.com/is/image/Smythson/new%5Fhamilton%5Fthumb?$original$" />
+            <img src="//smythson.scene7.com/is/image/Smythson/new%5Fhamilton%5Fthumb?$original$" />
             <span class="diaries-for-her text sub-header">Hamilton</span>
         </a>
     </li>-->
    <!-- <li class="item">
         <a href="http://www.smythson.com/collections/spencer.html" title="Spencer">
-            <img src="http://smythson.scene7.com/is/image/Smythson/new%5Fspencer%5Fthumb?$original$" />
+            <img src="//smythson.scene7.com/is/image/Smythson/new%5Fspencer%5Fthumb?$original$" />
             <span class="diaries-for-her text sub-header">Spencer</span>
         </a>
     </li>-->
     <li class="item">
         <a href="http://www.smythson.com/collections/wilde.html" title="Wilde">
-            <img src="http://smythson.scene7.com/is/image/Smythson/ss14%5Fwilde%5Fthumb?$original$">
+            <img src="//smythson.scene7.com/is/image/Smythson/ss14%5Fwilde%5Fthumb?$original$">
             <span class="diaries-for-her text sub-header">Wilde</span>
         </a>
     </li>
@@ -642,7 +699,8 @@ SN3 4TX, UK<p></p>
     <li><a href="http://www.smythson.com/delivery">Delivery</a></li>
     <li><a href="http://www.smythson.com/returns">Returns</a></li>
     <li><a href="http://www.smythson.com/corporate-gifts">Corporate Gifts</a></li>
-    <li><a href="http://www.smythson.com/newsletter">Newsletter</a></li>
+<li><a title="Newsletter" href="http://www.smythson.com/newsletter" onclick="_gaq.push(['_trackEvent', 'Newsletter footer', 'subscribe', 'Newsletter Subscribe']);">Newsletter</a></li>
+<li><a title="Diary quotes" href="http://www.smythson.com/diary" onclick="_gaq.push(['_trackEvent', 'Diary quotes footer', 'enter quote', 'diary quote']);">Diary quotes</a></li>
     <li><a class="toggle" href="#"><span>More</span></a></li>
 </ul>            <div class="footer-hide">
                 <div class="footer-links column-footer">
@@ -651,7 +709,7 @@ SN3 4TX, UK<p></p>
         <li><a href="http://www.smythson.com/storelocator">Store locator</a></li>
         <li><a href="http://www.smythson.com/videos">Videos</a></li>
         <li><a href="http://www.smythson.com/corporate-gifts">Corporate gifts</a></li>
-        <!-- <li><a href="http://www.smythson.com/request-catalogue">Catalogue request</a></li> -->
+        <li><a href="http://www.smythson.com/request-catalogue">Catalogue request</a></li>
         <li><a href="http://www.smythson.com/delivery">Delivery information</a></li>
         <li><a href="http://www.smythson.com/returns">Returns policy</a></li>
         <li><a href="http://www.smythson.com/privacy-security">Privacy policy</a></li>
@@ -661,7 +719,8 @@ SN3 4TX, UK<p></p>
         <li><a href="http://www.smythson.com/contacts">Contact us</a></li>
         <li><a href="http://www.smythson.com/careers">Careers</a></li>
         <li><a href="http://www.smythson.com/cites">Sustainability</a></li>
-        <li><a href="http://www.smythson.com/spring-summer-catalogue">Spring Summer Catalogue</a></li>
+        <li><a href="http://www.smythson.com/2015-diary-catalogue">2015 Diary catalogue</a></li>
+       <li><a href="http://www.smythson.com/perfect-presents">Perfect presents 2014</a></li>
         <li><a href="http://blog.smythson.com/" target="_blank">Smythson Blog</a></li>
         <li><a href="http://www.smythson.com/press-releases">Press releases</a></li>
     </ul>
@@ -728,7 +787,27 @@ SN3 4TX, UK<p></p>
 </div>        </footer>
         <button class="toggle toggle-close"><span>Close</span></button>
     </div>
-</div>	</div>
+</div>	    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_tag_params = {
+                ecomm_pagetype: 'siteview',
+                            };
+    /* ]]> */
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1060114305;
+        var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060114305/?value=0&amp;label=&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"21f769354c","applicationID":"4162589","transactionName":"NQFSN0cEVxYFVRVRXQxLZRFcSlALAFMZFkIKFA==","queueTime":0,"applicationTime":36,"ttGuid":"","agentToken":"","atts":"GUZRQQ8eRBg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
