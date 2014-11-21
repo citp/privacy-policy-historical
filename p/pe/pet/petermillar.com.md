@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181048id_/http%3A//www.petermillar.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021959id_/http%3A//www.petermillar.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peter Millar
 
@@ -69,7 +69,7 @@ We reserve the right to decline access to your Personal Information under certai
 
 If at any time you wish to update your Personal Information, you can do so by contacting Customer Service:
 
-  * via email: [concierge@petermillar.com](https://web.archive.org/web/20140330181048id_/http%3A//www.petermillar.com/customer-service/concierge@petermillar.com)
+  * via email: [concierge@petermillar.com](https://web.archive.org/web/20141121021959id_/http%3A//www.petermillar.com/customer-service/concierge@petermillar.com)
   * via letter: PeterMillar.com, 4300 Emperor Blvd., Suite 100 Durham, NC 27703 Attn: Customer Service
 
 
@@ -94,7 +94,7 @@ We do business in North Carolina and worldwide, servicing customers, visitors an
 
 Questions or concerns regarding this privacy policy should be directed to Customer Service
 
-  * via email: [concierge@petermillar.com](https://web.archive.org/web/20140330181048id_/http%3A//www.petermillar.com/customer-service/concierge@petermillar.com)
+  * via email: [concierge@petermillar.com](https://web.archive.org/web/20141121021959id_/http%3A//www.petermillar.com/customer-service/concierge@petermillar.com)
   * via letter: PeterMillar.com, 4300 Emperor Blvd., Suite 100 Durham, NC 27703 Attn: Customer Service
 
 
