@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pensamedia.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032818id_/http%3A//www.pensamedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pensamedia.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093844id_/http%3A//www.pensamedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pensa Media: Website Privacy Policy
 
@@ -76,7 +76,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### 9\. Grievance Officer
 
-In accordance with Information Technology Act 2000 and rules made there under ,Please [Contact Us.](https://web.archive.org/web/20140626032818id_/http%3A//www.pensamedia.com/contact-us.html)
+In accordance with Information Technology Act 2000 and rules made there under ,Please [Contact Us.](https://web.archive.org/web/20141121093844id_/http%3A//www.pensamedia.com/contact-us.html)
 
 #### 8\. Questions?
 
