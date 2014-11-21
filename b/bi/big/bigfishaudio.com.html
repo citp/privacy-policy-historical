@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigfishaudio.com privacy policy that was archived on 2014-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213173307id_/http%3A//www.bigfishaudio.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigfishaudio.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121045531id_/http%3A//www.bigfishaudio.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -189,7 +189,7 @@ customerservice@bigfishaudio.com<br>
 		<li><a href="http://www.bigfishaudio.com/loops.html">Loops</a></li>
 		<li><a href="http://www.bigfishaudio.com/instruments.html">Instruments</a></li>
 		<li><a href="http://www.bigfishaudio.com/soundfx.html">Sound Effects</a></li>
-		<li><a href="http://www.bigfishaudio.com/catalog.html?1;16;1::::::::::::Page=1;Bran=511972">Brand Names</a></li>
+		<li><a href="http://www.bigfishaudio.com/brand-names.html">Brand Names</a></li>
         <li><a href="http://www.bigfishaudio.com/catalog.html?1;16;1::::::::::::Page=1;Form=511974">Formats</a></li>
 		<li><a href="http://www.bigfishaudio.com/catalog.html?1;16;1::::::::::::Page=1;Work=511973">Works With</a></li>
 	</ul>
@@ -207,34 +207,42 @@ customerservice@bigfishaudio.com<br>
                 
                 
                 <li>
-                <form method="post" action="currencyModSubmit.html?0">
+                <form method="post" action="currencyModSubmit.html?1;16;1::::::::::::0">
+                 <fieldset>
                 <input type="hidden" name="currency" value="USD">
-                <input type="image" border="0" name="Submit" src="/page_elements/usdactive.png" alt="USD">
+                <input type="image" style="border:0" name="Submit" src="http://www3.bigfishaudio.com/images/usdactive.png" alt="USD">
+                 </fieldset>
                 </form>
                 </li>
                 
                 
                 
                 <li>
-                <form method="post" action="currencyModSubmit.html?0">
+                <form method="post" action="currencyModSubmit.html?1;16;1::::::::::::0">
+                 <fieldset>
                 <input type="hidden" name="currency" value="EUR">
-                <input type="image" border="0" name="Submit" src="/page_elements/eur.png" alt="EUR">
+                <input type="image" style="border:0" name="Submit" src="http://www3.bigfishaudio.com/images/eur.png" alt="EUR">
+                 </fieldset>
                 </form>
                 </li>
                 
                 
                 <li>
-                <form method="post" action="currencyModSubmit.html?0">
+                <form method="post" action="currencyModSubmit.html?1;16;1::::::::::::0">
+                 <fieldset>
                 <input type="hidden" name="currency" value="GBP">
-                <input type="image" border="0" name="Submit" src="/page_elements/gbp.png" alt="GBP">
+                <input type="image" style="border:0" name="Submit" src="http://www3.bigfishaudio.com/images/gbp.png" alt="GBP">
+                 </fieldset>
                 </form>
                 </li>
                 
                 
                 <li>
-                <form method="post" action="currencyModSubmit.html?0">
+                <form method="post" action="currencyModSubmit.html?1;16;1::::::::::::0">
+                 <fieldset>
                 <input type="hidden" name="currency" value="JPY">
-                <input type="image" border="0" name="Submit" src="/page_elements/jpy.png" alt="JPY">
+                <input type="image" style="border:0" name="Submit" src="http://www3.bigfishaudio.com/images/jpy.png" alt="JPY">
+                 </fieldset>
                 </form>
                 </li>
                 
@@ -242,7 +250,7 @@ customerservice@bigfishaudio.com<br>
 			</ul>
 			<ul class="extra-nav">
                 <!-- Sale -->
-                
+		
                 <!-- Sale-end -->
                 <!-- Shopping-Cart -->
 				<li><a href="http://www.bigfishaudio.com/cart.html?1;16;1::::::::::::" class="cart">Cart</a></li>
@@ -307,18 +315,25 @@ customerservice@bigfishaudio.com<br>
             <!-- search-form -->
 			<div class="search-form">
             	
-				<form action="http://www.bigfishaudio.com/catalogview.html?1;16;1::::::::::::Page=1" method="post" name="search" id="search">
+				<form action="http://www.bigfishaudio.com/catalogview.html?1;16;1::::::::::::Page=1" method="post" id="search" name="search">
                 
 					<fieldset>
 						<div>
-                            <input type="text" class="input-text field ac_input" name="srchValue" id="srchValue" defaultvalue="Search Big Fish Audio" value="" autocomplete="off">
+                            <input type="text" class="input-text field ac_input" name="srchValue" id="srchValue" value="Search Big Fish Audio" defaultvalue="Search Big Fish Audio" autocomplete="off">
 							<input type="submit" value="Search" class="search-button">
 						</div>
 					</fieldset>
 				</form>
                 
                 <script type="text/javascript">
-                $(document).ready(function(){                             
+                $("#srchValue").ready(function(){
+                    $("#srchValue").attr('defaultvalue', 'Search Big Fish Audio');
+                    $("#search").attr('name','search');
+                    
+                });
+
+                $(document).ready(function(){   
+                    //$("#srchValue").attr('defaultvalue', 'Search Big Fish Audio');
 					
 					$("#srchValue").autocomplete("http://www.bigfishaudio.com/catalog_jQuery",{
 					
@@ -326,9 +341,10 @@ customerservice@bigfishaudio.com<br>
 			              minChars:3,
 			              maxItemsToShow:150,
 			              width:300,
-			              selectOnly:true,   
-						  onItemSelect:doQuery 				  
-		              })
+                          selectFirst: true,
+			             // selectOnly:true,   
+						  onItemSelect:  doQuery                    
+		              }).bind("autocompleteselect",doQuery ); 
                 });
               	</script>
                 
