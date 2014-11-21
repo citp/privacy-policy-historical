@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013218id_/http%3A//www.golfonline.co.uk/help/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123609id_/http%3A//www.golfonline.co.uk/help/Privacy-and-Security) for the most accurate reproduction.*
 
 # Golfonline : Privacy and Security
 
