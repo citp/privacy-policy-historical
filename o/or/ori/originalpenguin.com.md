@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326155556id_/http%3A//www.originalpenguin.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070139id_/http%3A//www.originalpenguin.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Original Penguin®, a division and wholly owned subsidiary of [Perry Ellis International](http://www.pery.com/), Inc. ("Original Penguin," "we," or "us") respects your privacy. This Internet privacy policy applies to your use of the OriginalPenguin.com website (the "Site") and covers how we collect, use, disclose, transfer and store your information on the Site.
 
-Any changes to our privacy policy and practices on the Site will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our Site, you consent to the collection and use of this information by Original Penguin. Our privacy policy was last updated on August 17, 2011.
+Any changes to our privacy policy and practices on the Site will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our Site, you consent to the collection and use of this information by Original Penguin. Our privacy policy was last updated on June 25, 2014.
 
 Original Penguin Attn: Direct Operations  
 3000 N.W. 107th Avenue  
@@ -18,6 +18,7 @@ Miami, FL 33172
 ## Privacy Policy FAQ's
 
   * How does Original Penguin use this information?
+  * Information From Third-Party Social Media Platforms
   * Does Original Penguin use "cookies"?
   * How can you access your information?
   * How does Original Penguin protect your information?
@@ -32,6 +33,12 @@ Miami, FL 33172
 Original Penguin uses your Personal Information for a number of purposes, including (i) to enhance and personalize your shopping experience and use of the Site, (ii) to confirm and process sales transactions and/or contact you with questions or communications about your order, (iii) to respond to your questions, requests or comments, (iv) to notify you about contests and promotional events, allow you to participate in such contests and events, and notify you in the event that you are a winners of any such contest or event, (v) to contact you with reminders, updates and news, (vi) for marketing, advertising or promotional use, (vii) to conduct polls, surveys and consumer testing, (viii) to protect the security of our visitors, systems and/or Site, and/or (ix) to improve our services. You may indicate your contact preferences regarding promotional communications directly to us online.
 
 We use the payment card information you provide to us for billing purposes and to fulfill your order.
+
+Back to Top
+
+### Information From Third-Party Social Media Platforms
+
+You may be able to register with, log on to, or enhance your profile on our Website by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform. By doing this, you are asking the third-party platform to send us information from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
 
 Back to Top
 
