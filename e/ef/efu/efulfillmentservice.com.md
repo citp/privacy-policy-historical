@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520152505id_/http%3A//www.efulfillmentservice.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073504id_/http%3A//www.efulfillmentservice.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | eFulfillment Service, Inc.
 
