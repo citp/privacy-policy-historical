@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512231442id_/http%3A//www.seat42f.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102938id_/http%3A//www.seat42f.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEAT42F.COM
+# Privacy Policy | SEAT42F
 
 This is the web site of **SEAT42F.COM**.
 
