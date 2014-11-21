@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the design3edge.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629004343id_/http%3A//www.design3edge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the design3edge.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121133930id_/http%3A//www.design3edge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Design3edge
 
@@ -23,9 +23,9 @@ We use the following ad networks:
 
 1\. Google  
 Informations about Google and the DoubleClick DART cookie:  
-\- Google, as a third party vendor, uses cookies to serve ads on this site.  
-\- Google’s use of the DART cookie enables it to serve ads to www.design3edge.com users based on their visit to www.design3edge.com site and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+– Google, as a third party vendor, uses cookies to serve ads on this site.  
+– Google’s use of the DART cookie enables it to serve ads to www.design3edge.com users based on their visit to www.design3edge.com site and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 2\. Advertising.com  
 Informations about AOL Advertising privacy policy – [read here](http://advertising.aol.com/privacy).
