@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popjustice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005126id_/http%3A//www.popjustice.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjustice.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121160048id_/http%3A//www.popjustice.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Popjustice
 
@@ -17,7 +17,7 @@ Popjustice will use the information you provide to us to:
   * Monitor, develop and improve the website, services and your experience;
   * Assist in and administer the provision of services to you;
   * Process and deal with any complaints or enquiries made by or about you;
-  * Investigate any suspected breach of the [Terms & Conditions](https://web.archive.org/terms-and-conditions/) or the breach of other terms otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the website, and/or retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate.
+  * Investigate any suspected breach of the [Terms & Conditions](https://web.archive.org/about/terms-and-conditions/) or the breach of other terms otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the website, and/or retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate.
 
 
 
@@ -73,4 +73,4 @@ We aim to keep our information about you as accurate as possible, but we depend 
 
 By using this site, you consent to the collection and use of this information by Popjustice and to the Popjustice privacy policy. If we change our privacy policy in any way, we will post these changes on this page.
 
-Please e-mail any questions, concerns or comments you have about these policies to Peter Robinson at privacy [at] popjustice [dot] com or write to us at Popjustice, G1-104, Old Truman Brewery, 91 Brick Lane, London E1 6QL.
+Please e-mail any questions, concerns or comments you have about these policies to Peter Robinson at privacy [at] popjustice [dot] com.
