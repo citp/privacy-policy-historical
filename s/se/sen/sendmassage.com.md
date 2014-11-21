@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendmassage.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234703id_/http%3A//www.sendmassage.com/spage/Privacy-Policy-For-Google.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmassage.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034233id_/http%3A//www.sendmassage.com/spage/Privacy-Policy-For-Google.html) for the most accurate reproduction.*
 
 # Privacy Policy For Google & Other Advertising Media
 
