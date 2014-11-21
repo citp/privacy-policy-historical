@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicityads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080906id_/http%3A//www.simplicityads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicityads.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121165944id_/http%3A//simplicityads.com/privacy.php) for the most accurate reproduction.*
 
 # Simplicity Ads
 
