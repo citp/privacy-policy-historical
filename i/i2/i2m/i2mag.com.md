@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152122id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121112623id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - I2Mag - Trending Tech News, travel and lifestyle magazine online
 
