@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630143533id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094532id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
 
 # AWN Privacy Policy | Animation World Network
 
-#### Updated October 1, 2013
+#### Updated September 11, 2014
 
 This is the official privacy policy ("Privacy Policy") and statement of AWN, Inc., AWN.com, VFXWorld.com, AWNtv.com, AIDB.com, AnimationBlogspot.com as well as the associated web pages, features and functions made available to you from these websites (collectively, "AWN") and is a part of the Terms of Service agreement we have with you regarding your use of AWN. The protection of your privacy is important to us.  AWN has established the following guidelines and procedures protecting the privacy of all our users. This Privacy Policy applies to all products, services and websites provided under the AWN name or any AWN subsidiaries (collectively, AWN’s “Services.”) It explains how AWN treats personal information that we collect and receive on the AWN website from our users and visitors. You should be aware that this Privacy Policy does not apply to websites that you visit before or after your visit to AWN, to other third party services featured on the AWN website, or to third party advertisers or affiliates (collectively, "Third Party Services").
 
@@ -47,6 +47,5 @@ Whom do I contact with questions about the Privacy Policy?
 If you have a question or concerns regarding AWN’s website or Privacy Policy, please write us at [info@AWN.com](mailto:info@awn.com?subject=Privacy%20Policy) or at our postal address:
 
 ##### Attention: AWN Privacy Officer  
-AWN, Inc.  
-6525 Sunset Blvd., GS10  
-Los Angeles, CA  90028
+AWN, Inc.13300 Victory Blvd. Suite 365  
+Van Nuys, CA 91401
