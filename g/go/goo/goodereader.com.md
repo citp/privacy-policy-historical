@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528002245id_/http%3A//goodereader.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021215id_/http%3A//goodereader.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Good e-Reader Private Policy
 
