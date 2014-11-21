@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytrackin.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630215522id_/https%3A//www.moneytrackin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytrackin.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153437id_/http%3A//www.moneytrackin.com/privacy) for the most accurate reproduction.*
 
 # Moneytrackin' - privacy policy
 
