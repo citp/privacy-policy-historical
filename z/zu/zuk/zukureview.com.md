@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zukureview.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616082321id_/http%3A//zukureview.com/navle/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zukureview.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121172612id_/http%3A//zukureview.com/navle/privacy) for the most accurate reproduction.*
 
 # Privacy | Zukureview
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting www.zukureview.com (the “Site”). The Site is a website owned, maintained, and operated by Zuku, LLC (“Zuku”). Zuku respects, and is strongly committed to protecting, the privacy and security of visitors to and members of the Site. The purpose of this Privacy Policy is to inform you about the information we collect and how and why we use that information.
 
-Zuku owns all intellectual property rights, title, and interest in the Site, the “ZukuReview” mark and logo, and our proprietary test preparation materials and content. By accessing or using the Site, you agree to comply with and be bound by the terms and conditions of our “Acceptable Use Policy”. http://zukureview.com/navle/disclaimer
+Zuku owns all intellectual property rights, title, and interest in the Site, the “ZukuReview” mark and logo, and our proprietary test preparation materials and content. By accessing or using the Site, you agree to comply with and be bound by the terms and conditions of our “Acceptable Use Policy”. /navle/disclaimer
 
 ## Personal Information Collection and Use
 
