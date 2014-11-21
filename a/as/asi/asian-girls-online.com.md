@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074323id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014921id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.*
 
 # Find your missing Oriental piece in one of our women
-
-| 
 
 ### Adopted Privacy Policy  
 Last Updated: March 27, 2013
@@ -89,19 +87,3 @@ How to contact us:
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows: 
 
 [info@Asian-girls-online.com](mailto:info@Asian-girls-online.com)
-
-## You may contact us in writing at:
-
-| **Mailing Address, USA:**  
----  
-**Nova Technologies, Inc.**  
-**2200 Broadway, Suite J**  
-**Vancouver, WA, 98663**  
-**+1(888)746-0414**  
-   
-**Mailing Address, CY:**  
-**Paddingta Trading Ltd**  
-**Agias Fylaxeos & Zinonos Rossidi, 2**  
-**1st floor**  
-**Limassol P.C. 3082**  
-**Cyprus**
