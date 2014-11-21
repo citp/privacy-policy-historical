@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the white.net privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407074334id_/http%3A//white.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the white.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102112id_/http%3A//white.net/privacy-policy) for the most accurate reproduction.*
 
-# White.net | Privacy
+# Our Privacy Policy | White.net
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -20,21 +20,21 @@ We may collect, store and use the following kinds of personal information:
 
 (e) any other information that you choose to send to us.
 
-(2) Cookies 
+(2) Cookies
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and other uses. We will use the persistent cookies to: enable our website to recognise you when you visit; and we might use tracking software to anonymously track your interaction with our website. 
+We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and other uses. We will use the persistent cookies to: enable our website to recognise you when you visit; and we might use tracking software to anonymously track your interaction with our website.
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
 
 Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
 
-We may from time to time publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy/ads/ or using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. 
+We may from time to time publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy/ads/ or using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
 (3) Using your personal information
 
@@ -60,15 +60,15 @@ We may use your personal information to:
 
 (j) deal with enquiries and complaints made by or about you relating to the website; and
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us. 
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
 (4) Disclosures
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose your personal information: 
+In addition, we may disclose your personal information:
 
 (a) to the extent that we are required to do so by law;
 
@@ -82,11 +82,11 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-(5) International data transfers 
+(5) International data transfers
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. 
+Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
 
 In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
@@ -94,17 +94,17 @@ You expressly agree to such transfers of personal information.
 
 (6) Security of your personal information
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology. 
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-(7) Policy amendments 
+(7) Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 (8) Your rights
 
@@ -128,8 +128,8 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by using the website contact form or by post to SEOptimise Limited, The Magdalen Centre, The Oxford Science Park, Oxford, OX4 4GA. 
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by using the website contact form or by post to SEOptimise Limited, The Magdalen Centre, The Oxford Science Park, Oxford, OX4 4GA.
 
 (12) Data controller
 
-The data controller responsible in respect of the information collected on this website is The Data Controller, SEOptimise Limited. 
+The data controller responsible in respect of the information collected on this website is The Data Controller, SEOptimise Limited.
