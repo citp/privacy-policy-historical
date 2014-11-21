@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the training-classes.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513190526id_/http%3A//www.training-classes.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training-classes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194542id_/http%3A//www.training-classes.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Training-Classes.com
 
@@ -6,7 +6,7 @@ This is a web site of **skillbox, inc.**.
 
 Our postal address is: **PO Box 99466, Emeryville, CA, 94608**.
 
-We can be reached via e-mail at , via our [support site](https://web.archive.org/web/20140513190526id_/http%3A//www.training-classes.com/contact_us.php) or you can reach us by telephone at 1-866-SKILLBOX.
+We can be reached via e-mail at , via our [support site](https://web.archive.org/web/20141121194542id_/http%3A//www.training-classes.com/contact_us.php) or you can reach us by telephone at 1-866-SKILLBOX.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -42,4 +42,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 Google, as a third party vendor, uses cookies to serve ads on our sites. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html.
 
-If you have any questions, suggestions or concerns, please [contact us here](https://web.archive.org/web/20140513190526id_/http%3A//www.training-classes.com/contact_us.php) or call 1-866-SKILLBOX.
+If you have any questions, suggestions or concerns, please [contact us here](https://web.archive.org/web/20141121194542id_/http%3A//www.training-classes.com/contact_us.php) or call 1-866-SKILLBOX.
