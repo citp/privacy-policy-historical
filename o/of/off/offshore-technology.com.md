@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209131652id_/http%3A//www.offshore-technology.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035904id_/http%3A//www.offshore-technology.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offshore Technology
 
@@ -7,7 +7,7 @@ At offshore-technology.com we are dedicated to safeguarding and preserving your 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
 This Policy is updated from time to time so please review this Policy regularly.  
-For the purpose of the Data Protection Act 1998, the data controller is Kable Group Limited 
+For the purpose of the Data Protection Act 1998, the data controller is Kable Intelligence Limited 
 
 Kable Intelligence Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
