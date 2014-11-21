@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kp.gov.pk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054800id_/http%3A//www.khyberpakhtunkhwa.gov.pk/GoServices/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kp.gov.pk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155309id_/http%3A//www.khyberpakhtunkhwa.gov.pk/GoServices/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Khyber Pakhtunkhwa Government Official Web Portal
 
