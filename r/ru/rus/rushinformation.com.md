@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rushinformation.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622060546id_/http%3A//www.rushinformation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushinformation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095434id_/http%3A//www.rushinformation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : RushInformation
+# Privacy Policy - RushInformation
 
 Our Website Rush Information ensures that your privacy is important for us and will not be  shared with any third parties.We will not share any kind of personal information about the visitors to any third parties and neither we store any information about your visits on our website except for analyzing purposes and Optimization of the Site Content and  thus enhancing your Reading Experience on Our Website by the Use of Cookies You can Turn Off your Cookies through your Browser Settings if you want to.We will not be entitled or responsible for any miss-use or republished content from Our Website on other sites or blogs without our permissions.
 
