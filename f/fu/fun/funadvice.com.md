@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325150038id_/http%3A//www.funadvice.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065859id_/http%3A//www.funadvice.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-* * *
-
-* * *
+# Privacy - Funadvice
 
 Privacy Policy - please be sure to read and completely understand this page before registering or interacting with any users on this site. We kept this simple for everyone to easily understand.
 
-What information do you collect?  
-The site collects "personal information" of users such as your name, email address, gender, ip address and analytics of activity on the site.
+What information do you collect? The site collects "personal information" of users such as your name, email address, gender, ip address and analytics of activity on the site.
 
 None of the information collected is ever sold, traded, bartered or given to any third parties ever. You can trust that all of the information you provide to us is safe and secure. We value your data and privacy as if it were our own. No third parties will ever obtain said data.
 
-Why do you collect this data?  
-We collect the specific information that we do in order to provide the best products and services that we do. We also may use the data to help us research and develop new products and services in the future for our members, advertisers and current visitors.
+Why do you collect this data? We collect the specific information that we do in order to provide the best products and services that we do. We also may use the data to help us research and develop new products and services in the future for our members, advertisers and current visitors.
 
 Additional Privacy Information:
 
