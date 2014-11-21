@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the doseofcolors.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319111830id_/http%3A//doseofcolors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doseofcolors.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044254id_/http%3A//doseofcolors.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
+
+PRIVACY POLICY
 
 Your privacy is important to DOSE OF COLORS.  This privacy statement provides information about the personal information that DOSE OF COLORS collects, and the ways in which DOSE OF COLORS uses that personal information.
 
