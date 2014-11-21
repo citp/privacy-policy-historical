@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meme-lol.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131062908id_/http%3A//meme-lol.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meme-lol.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101018id_/http%3A//meme-lol.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # 
 
