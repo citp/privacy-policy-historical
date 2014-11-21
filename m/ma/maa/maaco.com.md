@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227080522id_/http%3A//maaco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065136id_/http%3A//www.maaco.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Maaco Privacy Policy
+# Privacy Policy
 
-Last Updated: October 15, 2013
+[Maaco Home](https://web.archive.org/web/20141121065136id_/http%3A//www.maaco.com/index.html) > Privacy Policy
 
 This privacy policy describes how Maaco collects, uses and discloses the information transmitted or submitted to Maaco, whether provided at a Maaco dealership or via a website, email, phone, fax, text or SMS message, postal mail or any other written or oral communication with us.
 
-The Maaco server automatically recognizes and gathers the domain name (where possible), but not the email address of visitors to our website. Maaco also gathers any information you volunteer to our website, such as survey information and/or site registrations. This information is not shared with other organizations for commercial or any other purposes, except from time to time with the Maaco dealer network and with any subsidiaries or franchisees of our parent company Driven Brands, including Meineke Car Care Centers and Drive N Style vehicle appearance and enhancement services.
+The Maaco server automatically recognizes and gathers the domain name (where possible), but not the email address of visitors to our website. Maaco also gathers any information that you volunteer to our website or that you volunteer at our franchised or company owned locations, such as survey information and/or site registrations or email address, personal address, and name ("Personal Information"). This Personal Information may be shared by MAACO with its parent, Driven Brands, Inc., and any of the subsidiaries of Driven Brands, Inc. including, but not limited to, Meineke Car Care Centers, LLC and Drive N Style vehicle appearance and enhancement services.
 
 If you supply Maaco with your postal address online, you will only receive the information that you requested be sent to your address. If you supply Maaco with your telephone number online, you will only receive telephone contact if you have requested it. If you do not want to receive email from Maaco in the future, please let Maaco know by mail or by replying to any email we send with "unsubscribe" in the subject line.
 
@@ -20,8 +20,8 @@ Maaco takes reasonable steps to maintain appropriate physical, technical and adm
 
 Maaco does not purposely collect personal information from children under the age of 13 and this website is not intended to be accessed by children under the age of 13. If Maaco obtains knowledge that a child under the age of 13 has provided us personal information, Maaco will promptly delete that information.
 
-#MAACOVER
+### #MAACOVER
 
-The price quote you received is only an estimate. The estimate is for repairing the damage(s) appearing on the photo only. The final price could change if there is a price increase in manufacturer’s parts prices or if during the inspection of your vehicle or repair additional or hidden damage is discovered. If you are interested in repairing the damage(s), please contact your local Maaco. Any discount shall be applied only at participating Maaco locations. Void where prohibited.
+The price quote you received is only an estimate. The estimate is for repairing the damage(s) appearing on the photo only. The final price could change if there is a price increase in manufacturer's parts prices or if during the inspection of your vehicle or repair additional or hidden damage is discovered. If you are interested in repairing the damage(s), please contact your local Maaco. Any discount shall be applied only at participating Maaco locations. Void where prohibited.
 
-By uploading and submitting the photo under “#MAACOVER”, you are granting Maaco a non-exclusive, royalty-free, sub-licensable, worldwide license to use, copy, modify, publish, display and distribute the photo in any media (now known or later developed). The information you provide will be used only in a manner consistent with Maaco’s privacy policy, which can be found at [www.maaco.com/privacy-policy.html](http://www.maaco.com/privacy-policy.html).
+By uploading and submitting the photo under "#MAACOVER", you are granting Maaco a non-exclusive, royalty-free, sub-licensable, worldwide license to use, copy, modify, publish, display and distribute the photo in any media (now known or later developed). The information you provide will be used only in a manner consistent with Maaco's privacy policy, which can be found at www.maaco.com/privacy_policy.html.
