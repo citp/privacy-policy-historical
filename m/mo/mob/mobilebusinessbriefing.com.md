@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilebusinessbriefing.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121054657id_/http%3A//www.mobileworldlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilebusinessbriefing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121113008id_/http%3A//www.mobileworldlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile World LiveMobile World Live
 
