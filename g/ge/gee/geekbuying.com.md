@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602060004id_/http%3A//www.geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101516id_/http%3A//www.geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice - GeekBuying.com
 
