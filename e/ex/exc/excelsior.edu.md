@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelsior.edu privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530223443id_/http%3A//www.excelsior.edu/PrivacyNoticeTermsOfUse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelsior.edu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121020936id_/http%3A//www.excelsior.edu/PrivacyNoticeTermsOfUse) for the most accurate reproduction.*
 
 # Excelsior College | Privacy Protection
 
