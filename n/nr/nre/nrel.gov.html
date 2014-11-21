@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2014-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210073046id_/http%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121023822id_/http%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>NREL: Security and Privacy Notices</title>
@@ -67,12 +67,21 @@ function msout(num) {
   </script><script src="/includes/js/jquery-1.7.1.min.js" type="text/javascript"></script>
 
   <!-- Custom scripts -->
-  <script src="/includes/js/nrel.icons.jquery.js" type="text/javascript"></script>
+  <!-- <script src="/includes/js/nrel.icons.jquery.js" type="text/javascript"></script> -->
+  <script src="/includes/js/iconomatic/jquery.iconomatic.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready( function() {
+        $('body').iconomatic({
+             ajax       :  true
+            ,dataMode   :  true
+        });
+    });
+  </script>
   <script src="/includes/js/nrel.aria.jquery.js" type="text/javascript"></script>
 
   <!-- jQuery UI -->
-  <script src="/includes/js/jquery-ui-1.8.19.custom/js/jquery-ui-1.8.19.custom.min.js" type="text/javascript"></script>
-  <link href="/includes/js/jquery-ui-1.8.19.custom/css/custom-theme/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css">
+  <script src="/includes/js/jquery-ui-1.10.4.custom/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+  <link href="/includes/js/jquery-ui-1.10.4.custom/css/custom-theme/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" type="text/css">
 
   <!-- ariaLighbox -->
   <script src="/includes/js/lightbox/js/ui.ariaLightbox_min.js" type="text/javascript"></script>
@@ -84,6 +93,11 @@ function msout(num) {
 
 
 <!-- SITE SPECIFIC SCRIPTS -->
+
+
+
+
+
 
 
 
@@ -129,6 +143,15 @@ function msout(num) {
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- NEWS must go last! (until decoupled from cfincludes) -->
 
 
@@ -144,6 +167,7 @@ function msout(num) {
  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(so, s);
   })();
 </script>
+
 
 </head>
 
@@ -165,7 +189,7 @@ function msout(num) {
 </div>
 -->
 <!--NREL HEADER - without survey-->
-<div id="nrelheader"><a href="/"><img src="/images/head_nrel.gif" alt="NREL - National Renewable Energy Laboratory" width="1000" height="86"></a></div>
+<div id="nrelheader"><a href="/"><img src="/images/head_nrel_x2.gif" alt="NREL - National Renewable Energy Laboratory" width="1000" height="86"></a></div>
 
 <!--TOP NAV -->
 
@@ -180,6 +204,9 @@ function msout(num) {
 <!--About NREL -->
 
 
+
+
+<!--SITES THAT HAVE CHANGES AND WILL NEED TO GO LIVE FY14/FY15 W/ NOTES -->
 
 
 
@@ -219,13 +246,23 @@ function msout(num) {
 <!--Analysis - ReEDS - 011212 JIM -->
 
 
+<!--Analysis - BSM - 053014 JIM -->
+
+
 <!--Analysis - REFutures -->
+
+
+<!--Analysis - SEDS - 090914 JIM -->
 
 
 
 
 
 <!--Analysis subsite header image maps - START -->
+
+
+
+
 
 
 
@@ -261,7 +298,13 @@ function msout(num) {
 <!--Business Opportunities -->
 
 
+
+<!--Community - NREL in the Community -->  
+
+
+
 <!--Computational Science - CSC -->
+
 
 
 <!--Concentrating Solar Power Research -->
@@ -336,10 +379,16 @@ function msout(num) {
 <!--Extranet - Biomass -->
 
 
+<!--Extranet - BPA -->
+
+
 <!--Extranet - Commercial Fleet Data Center (CFDC) -->
 
 
 <!--Extranet - Communications -->
+
+
+<!--Extranet - Contracts -->
 
 
 <!--Extranet - CBS RFP -->
@@ -369,6 +418,12 @@ function msout(num) {
 
 
 <!--Extranet - Forum and Dialogue -->
+
+
+<!--Extranet - Ideas Summit -->
+
+
+<!--Extranet - International Services -->
 
 
 <!--Extranet - Moniz Visit -->
@@ -561,13 +616,10 @@ function msout(num) {
 
 
 
-<!--Solar Radiation Research -->
-
+<!--Solar Radiation Research/Resource Assessment and Forecasting -->
 
 
 <!--Sustainable NREL -->
-
-
 
 
 
@@ -579,7 +631,13 @@ function msout(num) {
 
 <!--Applying Technologies - State and Local Activities -->
 
+
+<!--Applying Technologies - State and Local Governments -->
+
+
+
 <!--Applying Technologies subsite header image maps - START -->
+
 
 <!--Technology Deployment subsite header image maps - END -->
 
@@ -628,11 +686,11 @@ function msout(num) {
 <!--stopindex-->
 <div id="searchbox">
 <form name="seek" method="get" action="http://search.nrel.gov/query.html">
-<input type="hidden" name="qp" value="site:www.nrel.gov site:sam.nrel.gov site:images.nrel.gov">
+<input type="hidden" name="qp" value="site:www.nrel.gov site:sam.nrel.gov site:images.nrel.gov site:pvwatts.nrel.gov url:fctac.nrel.gov/index.html">
 <input type="hidden" name="style" value="nrel">
 <input type="hidden" name="qs" value="">
 <input type="hidden" name="qc" value="nrel">
-<input type="hidden" name="ws" value="0"> 
+<input type="hidden" name="ws" value="0">
 <input type="hidden" name="qm" value="0">
 <input type="hidden" name="st" value="1">
 <input type="hidden" name="nh" value="10">
@@ -644,7 +702,7 @@ function msout(num) {
 <!--
 document.write(getSearch());
 //-->
-</script><input type="text" size="15" name="qt" maxlength="2047" id="search">  
+</script><input type="text" size="15" name="qt" maxlength="2047" id="search">
 <p><input type="image" src="/images/button_search.gif" value="Search" alt="Search" class="button"><img src="/images/arrow_lightblue_r4x7.gif" alt="">&nbsp;<a href="/search_options.html">More Search Options</a><br>
 <img src="/images/arrow_lightblue_r4x7.gif" alt="">&nbsp;<a href="/sitemap.html">Site Map</a></p>
 </form>
@@ -781,6 +839,9 @@ document.write(getSearch());
 
 
 
+
+
+
 <!--stopindex-->
 
 <div id="footer">
@@ -795,7 +856,7 @@ document.write(getSearch());
   
   <area shape="rect" coords="27,7,61,20" href="http://www.nrel.gov/" alt="NREL">
   <area shape="rect" coords="238,7,399,19" href="http://energy.gov/" alt="U.S. Department of Energy">
-  <area shape="rect" coords="405,7,697,21" href="http://www.eere.energy.gov/" alt="Office of Energy Efficiency and Renewable Energy">
+  <area shape="rect" coords="405,7,697,21" href="http://energy.gov/eere/office-energy-efficiency-renewable-energy" alt="Office of Energy Efficiency and Renewable Energy">
   <area shape="rect" coords="307,21,524,35" href="http://www.allianceforsustainableenergy.org/" alt="Alliance for Sustainable Energy, LLC">
   
 </map>
