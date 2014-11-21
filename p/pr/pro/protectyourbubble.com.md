@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517184949id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155946id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Protect Your Bubble
 
