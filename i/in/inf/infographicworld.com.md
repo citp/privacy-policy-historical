@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infographicworld.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204214id_/http%3A//infographicworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicworld.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121141959id_/http%3A//infographicworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Infographic Design Agency – Hire Expert Infographic Designers
+# Privacy Policy - Infographic Design Agency – Hire Expert Infographic Designers
 
 **Effective April 29, 2011**
 
