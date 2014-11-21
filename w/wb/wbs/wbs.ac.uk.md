@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521185551id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121184715id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | WBS
 
-Warwick Business School recognises that personal privacy is an important issue, and we support the protection of Internet privacy as required by UK legislation. This statement of policy practices applies to all providers and users of network products and services offered by Warwick Business School (WBS) on the sites:
+Warwick Business School recognises that personal privacy is an important issue, and we support the protection of Internet privacy as required by UK legislation. This statement of policy practices applies to all providers and users of network products and services offered by Warwick Business School (WBS) on the sites: 
 
   * www.wbs.ac.uk
   * my.wbs.ac.uk
