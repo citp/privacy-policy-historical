@@ -1,68 +1,23 @@
-> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101818id_/http%3A//www.freakingnews.com/help7.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121172956id_/http%3A//www.freakingnews.com/help7.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
-# FreakingNews.com - News Photoshop Pictures Contests - home page
+# Home - Freaking News Pictures
 
 **Privacy Policy**
 
-**Legal  
-**This statement describes our privacy policy. FreakingNews.com reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the FreakingNews.com website.
+Freaking News does not require account registrations to visit our site and browse our galleries. If you are just a visitor and not a member, we do not collect or store any of your personal information. 
 
-**Our Promises to You  
-**Thank you for visiting FreakingNews.com. We know that you care how information about you is used and shared, and we appreciate your trust. **** Spam e-mail is the bane of the internet and we won't have anything to do with it.
+**Registrations and Personal data:**  
+If you decide to participate in our contests, forums, or leave feedback on entries, you will need to [register](https://web.archive.org/register.asp) a free account with us. Freaking News will not sell, or share your personal data to any third parties. The only exception to this rule is if we get a legal subpoena, however this is very unlikely as we never got even a single legal subpoena for any of our members within the 11 years of operations. Your true email and IP will never be displayed on the site - other users and visitors will only see your username. 
 
-  * We promise that we will never share your e-mail address or other identifiable information with any third party company (no external spam).
-  * We promise that you will never receive spam from Freaking News.
-  * We promise to protect your information through the use of secure databases.
+**Username and Password Recommendations**  
+We always suggest that you choose the username you like and stick with it. However, if, for any reason, you would like to change your username, you can contact us and we will change it for you (subject to availability of the new new username). Please note that your new username will retroactively show on all your past entries and comments too. 
 
+Please make sure your password is at least 6 characters long and includes letters and numbers. Try to choose a password that is sophisticated enough, yet is not hard for you to remember. If you forget your password, you can retrieve it [here](https://web.archive.org/error.asp?failure=password), and following the steps on the page. Then check your email box, and make sure to check your Spam mail folder too, in case our message gets filtered there. 
 
+**Cookies**  
+Google uses cookies to serve ads on Freaking News. You may opt out of Google cookies by visiting the [Google advertising policy](http://www.google.com/policies/technologies/ads/) and [Google privacy policy](http://www.google.com/policies/privacy/). 
 
-**Personally Identifiable Information  
-**We collect the personally identifiable information that you submit on the registration and user profile forms to permit you access to our site and to enable credit card verification, where applicable. Please note that any optional information you fill out might be visible to other users on the site (i.e. your biography, or location in the world). If you do not feel comfortable with others knowing this information, then leave it blank.
+**Questions?**  
+Please [contact us](https://web.archive.org/message.asp?uid=2). 
 
-Generally, the information FreakingNews.com collects helps us to communicate with you regarding media licensed from or to you. For instance, we use your email address to provide you with an email confirmation of your registration and to notify you of information concerning your media on our site. In addition, users on the site will be able to communicate with you via a confidential form on the site, but they will not know your e-mail address or other personal identification information aside from your username (and therefore will not be able to add you to spam lists, etc).
-
-We will not share, rent or sell your personally-identifiable information with any entity, subject to the provisions below. We may share your information with our vendors in connection with system maintenance and other services that these individuals or entities perform for us. In some cases, we may run a joint marketing effort with third parties. 
-
-We will only release personal information without your authorization in the following situations:
-
-  * To the authorities when necessary to comply with the law (i.e. answering subpoenas).
-  * To enforce or to apply our Terms of Use and other agreements (including our Member Agreement).
-  * To protect the rights, property, or safety of FreakingNews.com, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-
-
-**Newsletter  
-**You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to “opt out” if you don't wish to receive further information of the sort indicated. If you have previously consented to have FreakingNews.com send you it's newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.  
-  
-**Username and Password Recommendations  
-**As we live in a world where digital theft is increasingly rampant, we must advise you to choose a password that is not easily guessed by others and a username that does not identify you personally (i.e. don't use your real name as your username). Please make sure that your password is 6 or more characters and is composed of both letters and numbers. In addition, it is recommended that you use a separate password for every website to which you are a member. This is a form of damage control, in case the security of one website is compromised, your other accounts are still protected. Should you forget your Freaking News password, it will be emailed to you or reset at your request.
-
-**Use of Automatic Information and Cookies  
-**Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features that recognize your account as logged on and other site features. Further, to help us tailor our site to the needs and interests of our visitors, or for other purposes, we may gather aggregate, non-personally identifiable information via cookies. Examples include the type of Internet browser our visitors are using, the frequency of visits to our site and which pages our visitors viewed. We may share these aggregate statistics with others. The use of cookies is standard on the Internet and many major web sites use them. Cookies stored on your computer that are designated for Freaking News use, can not be retrieved by other websites.
-
-**Minors on Freaking News  
-**
-
-Children below thirteen years of age may use our website by complying with our parental/guardian consent procedures found in the Terms of Use for FreakingNews.com, but we don’t have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please [contact us](https://web.archive.org/message.asp?uid=2) and we will remove the information.
-
-**Updating or Deleting Your Information  
-**
-
-You can change or delete your "optional" information in the User Profile section, if you would like to change or hide from the public your "required" information. Any required information (with the exception of your username), will be completely hidden from the public, or an option to hide it from the public will be available.  
-  
-**Security**  
-We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer. 
-
-When using a shared computer, be sure to sign off and do not opt to stay logged in to FreakingNews.com. Should you realize that you accidentally allowed a third party to access your account, **you must let us know immediately** , as you may be held liable for their actions in your name. [Contact us](https://web.archive.org/message.asp?uid=2) here.
-
-In the event that our security system is breached, we will attempt to notify you as soon as possible via the [Site News](https://web.archive.org/sitenews.asp).
-
-**Advertisers:  
-**We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you may read it at the following page: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) . 
-
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit this link: [www.valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/member_privacy.shtml)
-
-**Questions?  
-**If you have any questions regarding this Privacy Statement, the practices of FreakingNews.com, or your dealings on our web site, please [contact us](https://web.archive.org/message.asp?uid=2).
+_This privacy policy was updated on September 18, 2014._
