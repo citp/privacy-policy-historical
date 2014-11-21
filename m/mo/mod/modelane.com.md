@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelane.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616073307id_/http%3A//www.modelane.com/serv/modelane/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelane.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084515id_/http%3A//www.modelane.com/serv/modelane/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # ModeLane - Privacy Policy
 
@@ -118,7 +118,7 @@ The [Network Advertising Initiative](http://www.networkadvertising.org/) offers 
 
 We understand you may not want to receive promotional email from us or from our partners and advertisers. You can choose to opt out of receiving promotional email communications from us by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication you receive from us, or by contacting us directly. You can stop us from sharing your contact information with our partners and advertisers for direct marketing purposes either by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication you receive, or by contacting the partner or advertiser directly.
 
-To opt out of receiving Nextag promotional mailings after you have registered, [click here](http://www.nextag.com/serv/main/emailcampaign/optout.jsp) or click the appropriate unsubscribe link contained within the email that you receive, or email us at optout@nextag.com. Please note that opting out may prevent you from receiving email from Nextag regarding updates and improvements to the Websites or offers and promotions that may interest you.
+To opt out of receiving Nextag promotional mailings after you have registered, [ optout@nextag.com ](mailto:optout@wisecommerce.com) or click the appropriate unsubscribe link contained within the email that you receive, or email us at [ optout@nextag.com ](mailto:optout@wisecommerce.com). Please note that opting out may prevent you from receiving email from Nextag regarding updates and improvements to the Websites or offers and promotions that may interest you.
 
 In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., lenders or educational institutions or service providers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
@@ -150,4 +150,4 @@ Privacy Officer
 Nextag, Inc.  
 2955 Campus Dr., 3rd Floor  
 San Mateo, CA 94403  
-legalnotices@nextag.com ([click here](http://www.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings)
+[ legalnotices@nextag.com](mailto:legalnotices@wizecommerce.com) ([click here](http://www.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings)
