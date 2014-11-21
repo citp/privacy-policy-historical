@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531235559id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143005id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-We WILL NEVER sell your email address to anyone. You can always unsubscribe from our lovely daily newsletter by clicking unsubscribe on the bottom right of the email.
+We WILL NEVER sell your information to anyone. 
 
   
 
@@ -15,7 +15,7 @@ This Privacy Policy discloses the privacy practices for the Sumo Group website (
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
 
-### 1\. Changes to Privacy Policy
+1\. Changes to Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page. 
 
