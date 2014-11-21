@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506003048id_/http%3A//www.thetravelmagazine.net/i-981--privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121053157id_/http%3A//www.thetravelmagazine.net/i-981--privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ Be the first to leave a comment
 
 ### Add Your Comment
 
-#### [Travel Articles Archives](https://web.archive.org/web/20140506003048id_/http%3A//www.thetravelmagazine.net/c-2--travel-articles-archives.html)
+#### [Travel Articles Archives](https://web.archive.org/web/20141121053157id_/http%3A//www.thetravelmagazine.net/c-2--travel-articles-archives.html)
