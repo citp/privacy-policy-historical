@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065125id_/http%3A//www.puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105354id_/http%3A//www.puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Puzzles.COM - Our Privacy Policy
 
 |  |   
 ---|---|---  
-|  [ Home](https://web.archive.org/web/20140625065125id_/http%3A//www.puzzles.com/index.htm) / |   
+|  [ Home](https://web.archive.org/web/20141121105354id_/http%3A//www.puzzles.com/index.htm) / |   
 |  |   
 |  Effective Date: November 22, 2012 |   
 |  |   
