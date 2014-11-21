@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2014-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603234657id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121183111id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"> 
+		 
 		<link rel="shortcut icon" type="image/x-icon" href="/img/2014_02_images/favicon.ico">
 <title>Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers</title>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
@@ -12,17 +13,17 @@
 
 <meta name="description" content="Privacy Policy - Get 3 Free Quotes for Solar Power Systems from Trusted Local Installers">
 
-	<link rel="stylesheet" type="text/css" href="/css/2014_02_style.css?1397727007">
+	<link rel="stylesheet" type="text/css" href="/css/2014_02_style.css?1414472419">
 	<link rel="stylesheet" type="text/css" href="/css/jquery-ui-custom.min.css?1382568436">
 
 	<link rel="stylesheet" type="text/css" href="/css/2014_02_fonts.css?1393352854">
-<link href="http://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet" type="text/css">
 <style type="text/css">
 	.ui-dialog{position: absolute !important;width: 70% !important; z-index: 10000; left: 10% !important;}
 	.ui-widget-overlay{height: 100%;left: 0;position: fixed;top: 0;width: 100%;}
 	.ui-dialog .ui-dialog-titlebar-close span {left: 0;position: absolute;top: 0;}
 </style>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ97KQ"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ97KQ"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 //<![CDATA[
 window.app = {"ROOT":"http:\/\/www.solarquotes.com.au\/"};
 //]]>
@@ -33,6 +34,28 @@ window.app = {"ROOT":"http:\/\/www.solarquotes.com.au\/"};
 	<script type="text/javascript" src="/js/tablesorter.js?1396401813"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
+		
+		$('body').append($('<div class="btn-loading-background" style="position: absolute; top: -500px; left: -500px;"></div>'));
+
+		$('.postcode-form').submit(function(event){
+			if($(window).width() < 767){
+				var submit = $(this).find('input[type="submit"]');
+				submit.attr('disabled', 'disabled');
+
+				var count = 1;
+				var baseText = 'Looking up your postcode';
+				submit.addClass('btn-loading-background');
+				submit.css({'text-align': 'left', 'padding-left':'5px', 'opacity': '0.8', 'font-size':'90%'});
+				submit.val(baseText);
+				var handler = setInterval(function(){
+					submit.val(submit.val() + '.');
+					count++;
+					if(count >= 5){
+						count = 0; submit.val(baseText);
+					}
+					}, 300);	
+			}
+		});
 
 		$('.form-search form').submit(function(event){
 			event.preventDefault();
@@ -86,11 +109,10 @@ window.app = {"ROOT":"http:\/\/www.solarquotes.com.au\/"};
 	})();
 </script>
 
-	<!-- begin Convert Experiments code-->
 	<script type="text/javascript">
-		var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(unescape("%3Cscript src='" + _conv_host + "/js/10001088-1000942.js' type='text/javascript'%3E%3C/script%3E"));
+		var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10001088-1000942.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10001088-1000942.js" type="text/javascript"></script>
-	<!-- end Convert Experiments code -->
+
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-17778088-1']);
@@ -104,10 +126,30 @@ window.app = {"ROOT":"http:\/\/www.solarquotes.com.au\/"};
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-			<style type="text/css">
+
+	<script>
+		(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '427791610696390']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=427791610696390&amp;ev=NoScript" /></noscript>
+			
+	<script type="text/javascript" src="/js/2014_02/content.js?1413852244"></script>
+		<style type="text/css">
 			.main_container{margin: auto;width: 1024px;}		</style>
 		
-	<link rel="stylesheet" type="text/css" href="/css/2014_02_content.css?1396494567">
+	<link rel="stylesheet" type="text/css" href="/css/2014_02_content.css?1413853093">
 	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
 		<!-- Google Tag Manager -->
@@ -124,6 +166,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="shell clearfix">
 					<div class="header-right">
 						<div class="logo"><a href="http://www.solarquotes.com.au/">SolarQuotes</a></div>
+						<div class="header-right-inner">
+							<span class="nav-mobile">
+								<span>Menu</span>
+
+								<span class="nav-mobile-burger">
+									<span></span>
+									<span></span>
+									<span></span>
+								</span>
+							</span>
+						</div>
 
 						<div class="house">
 							<img src="/img/house.png" alt="House">
@@ -146,6 +199,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</ul>
 						</div>
 					</div>
+					<div class="person-desktop">
+						<img src="/img/2014_02_images/person-tablet.png" alt="Person Desktop" style="width: 135px;">
+					</div>
 
 					<div class="form-check form-check-rounded">
 						<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
@@ -155,7 +211,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 							<div class="form-body">
 								<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode">
-								<input type="number" id="mpostcode" class="field mpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode">
+								<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode">
 								<input type="hidden" name="postcode" id="postcode" value="">
 								<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
 							</div>
@@ -168,15 +224,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="shell">
 										<ul>
 						<li class="nav-menu-item"><a href="#">Menu<i class="icon-arrow-down"></i></a></li>
-						<li style="padding-left: 0px;"><a href="/">home</a></li>
+						<li style="padding-left: 0px;"><a href="http://www.solarquotes.com.au/">home</a></li>
 						<li><a href="https://www.solarquotes.com.au/quote/index.php">get quotes</a></li>
-						<li><a href="/testimonials.html">testimonials</a></li>
-						<li><a href="/about-us.html">about</a></li>
-						<li><a href="/blog/">blog</a></li>
-						<li><a href="/contact/">contact</a></li>
+						<li><a href="http://www.solarquotes.com.au/testimonials.html">testimonials</a></li>
+						<li><a href="http://www.solarquotes.com.au/about-us.html">about</a></li>
+						<li><a href="http://www.solarquotes.com.au/blog/">blog</a></li>
+						<li><a href="http://www.solarquotes.com.au/contact/">contact</a></li>
 					</ul>
 				</div>
 			</div>
+			
 			<div class="main">
 				<div class="main_header"> <div style="height: 20px; width: 100%; position: relative;"> 	<div style="float:right; min-width: 350px;" class="addthis_toolbox addthis_default_style"> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> 		<a class="addthis_button_tweet"></a> 		<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>  		<a class="addthis_counter addthis_pill_style"></a>  	</div>  </div> <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script> <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=peacockmedia"></script> <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script><style type="text/css">.addthis_button_tweet{width: 80px !important;} .addthis_button_google_plusone{width: 80px !important;} </style><div class="cl"></div></div>
 									<div class="main_container">
@@ -238,51 +295,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="footer-cols">
 
 				<div class="footer-col col-small">
-					<h5><a href="/panels">solar panels</a></h5>
+					<div class="footer-title"><a href="http://www.solarquotes.com.au/panels/">solar panels</a></div>
 
 					<ul>
-						<li><a href="/panels/comparison">Compare Panels</a></li>
-						<li><a href="/panels/reviews">Panel Reviews</a></li>
-						<li><a href="/panels/cost">Cost</a></li>
+						<li><a href="http://www.solarquotes.com.au/panels/comparison/">Compare Panels</a></li>
+						<li><a href="http://www.solarquotes.com.au/panels/reviews/">Panel Reviews</a></li>
+						<li><a href="http://www.solarquotes.com.au/panels/cost/">Cost</a></li>
 					</ul>
 				</div>
 
 				<div class="footer-col">
-					<h5><a href="/inverters">inverters</a></h5>
+					<div class="footer-title"><a href="http://www.solarquotes.com.au/inverters/">inverters</a></div>
 
 					<ul>
-						<li><a href="/inverters/comparison/chart">Compare Inverters</a></li>
-						<li><a href="/inverters/reviews">Inverter Reviews</a></li>
-						<li><a href="/inverters/micro/">Micro Inverters</a></li>
+						<li><a href="http://www.solarquotes.com.au/inverters/comparison/chart/">Compare Inverters</a></li>
+						<li><a href="http://www.solarquotes.com.au/inverters/reviews/">Inverter Reviews</a></li>
+						<li><a href="http://www.solarquotes.com.au/inverters/micro/">Micro Inverters</a></li>
 					</ul>
 				</div>
 
 				<div class="footer-col col-xsmall">
-					<h5><a href="/systems">systems</a></h5>
+					<div class="footer-title"><a href="http://www.solarquotes.com.au/systems/">systems</a></div>
 
 					<ul>
-						<li><a href="/systems/upgrade/">Upgrades</a></li>
-						<li><a href="/systems/feed-in-tariffs/">Feed In Tariffs</a></li>
-						<li><a href="/panels/rebate/">Rebates</a></li>
+						<li><a href="http://www.solarquotes.com.au/systems/upgrade/">Upgrades</a></li>
+						<li><a href="http://www.solarquotes.com.au/systems/feed-in-tariffs/">Feed In Tariffs</a></li>
+						<li><a href="http://www.solarquotes.com.au/panels/rebate/">Rebates</a></li>
 					</ul>
 				</div>
 
 				<div class="footer-col col-xlarge">
-					<h5><a href="/installers">installers</a></h5>
+					<div class="footer-title"><a href="http://www.solarquotes.com.au/installers/">installers</a></div>
 
 					<ul>
-						<li><a href="/installers">Installer Reviews</a></li>
-						<li><a href="/solar-installer-ratings.html">Leaderboard</a></li>
-						<li><a href="/suppliers.html">Installers Join Now!</a></li>
+						<li><a href="http://www.solarquotes.com.au/installers/">Installer Reviews</a></li>
+						<li><a href="http://www.solarquotes.com.au/solar-installer-ratings.html">Leaderboard</a></li>
+						<li><a href="http://www.solarquotes.com.au/suppliers.html">Installers Join Now!</a></li>
 					</ul>
 				</div>
 
 				<div class="footer-col col-xxlarge">
-					<h5>tools</h5>
+					<div class="footer-title">tools</div>
 
 					<ul>
-						<li><a href="/calc5/index.php">Payback Calculator</a></li>
-						<li><a href="/solar-power-panel-estimator.htm">Solar Estimator</a></li>
+						<li><a href="http://www.solarquotes.com.au/calc5/index.php">Solar Power Calculator</a></li>
+						<li><a href="http://www.solarquotes.com.au/solar-power-panel-estimator.htm">Solar Estimator</a></li>
 						<li>
 							<div class="form-search">
 								<form action="#">
@@ -296,12 +353,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 
 			<div class="socials">
-				<a href="http://www.facebook.com/solarquotes" class="icon-facebook" target="_blank">facebook</a>
-				<a href="http://www.twitter.com/solar_quotes" class="icon-twitter" target="_blank">twitter</a>
-				<a href="https://plus.google.com/+SolarQuotesAU" class="icon-google" target="_blank">google</a>
+				<a href="//www.facebook.com/solarquotes" class="icon-facebook" target="_blank">facebook</a>
+				<a href="//www.twitter.com/solar_quotes" class="icon-twitter" target="_blank">twitter</a>
+				<a href="//plus.google.com/+SolarQuotesAU" class="icon-google" target="_blank">google</a>
 				<a href="http://feeds.feedburner.com/SolarPowerPanels" class="icon-rss" target="_blank">rss</a>
-				<a href="http://youtube.com/solarquotesaustralia" class="icon-youtube" target="_blank">youtube</a>
-				<a href="http://www.pinterest.com/solarquotes/" class="icon-pinterest" target="_blank">pinterest</a>
+				<a href="//youtube.com/solarquotesaustralia" class="icon-youtube" target="_blank">youtube</a>
+				<a href="//www.pinterest.com/solarquotes/" class="icon-pinterest" target="_blank">pinterest</a>
 			</div>
 		</div>
 
@@ -310,8 +367,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="form-row">
 					<label for="postcode" class="form-label">Check Your Postcode for local solar power quotes</label>
 					<div class="form-controls">
-						<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode">
-						<input type="number" id="mpostcode" class="field mpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode">
+						<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1">
+						<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1">
 						<input type="hidden" name="postcode" id="postcode" value="">
 						<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
 					</div>
@@ -325,7 +382,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="shell">
 		<p class="copyrights">© 2009 to 2014 Peacock Media Group</p>
 		<ul>
-			<li><a href="http://www.solarquotes.com.au/supplier/login.php">Login</a></li>
+			<li><a href="http://www.solarquotes.com.au/supplier/login.php" rel="nofollow">Login</a></li>
 			<li><a href="http://www.solarquotes.com.au/sitemap.html">Sitemap</a></li>
 			<li><a href="http://www.solarquotes.com.au/privacy.html">Privacy Policy</a></li>
 			<li><a href="http://www.solarquotes.com.au/terms-of-use.html">Terms Of Use</a></li>
@@ -366,6 +423,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				if(oldonload){oldonload()}};
 			}());
 	</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('a').click(function(event){
+			var href = $(this).attr('href');
+			if(href.search('/quote/index.php$|/quote/$|/quote$') > -1){
+				event.preventDefault();
+				$('.postcode-box-popup').data('href', href);
+				if($(window).width() > 767)
+					$('#pbp-postcode').attr('type', 'text');
+				else
+					$('#pbp-postcode').attr('type', 'number');
+				postcode_popup(true);
+			}
+		});
+		
+		$('.pbp-close').click(function(){
+			postcode_popup(false);
+		});
+
+		$('.pbp-button').click(function(){
+			var postcode = $('#pbp-postcode').val();
+			if(postcode == ''){
+				$('#pbp-postcode').addClass('pbp-notification');
+				return;
+			}
+			if($(window).width() > 767)
+				window.location = $(this).parents().filter('.postcode-box-popup').data('href') + '?postcode=' + postcode;
+			else
+				window.location = $(this).parents().filter('.postcode-box-popup').data('href').replace('/quote', '/mobilequote') + '?postcode=' + postcode;
+		});
+
+		$("#pbp-postcode").keydown(function (e) {
+			if ($.inArray(e.keyCode, [46, 8, 9, 27, 13]) !== -1 ||
+				(e.keyCode == 65 && e.ctrlKey === true) || (e.keyCode >= 35 && e.keyCode <= 39)) {
+				return;
+			}
+			if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+				e.preventDefault();
+			}
+		});
+	});
+
+	function postcode_popup(show){
+		if(!show){
+			$('.postcode-box-popup').hide();
+			$('.ui-widget-overlay').remove();
+			$('.postcode-box-popup').data('href', '');
+		}else{
+			$('.postcode-box-popup').show();
+			$('body').append('<div class="ui-widget-overlay" style="width: 100%; height: 100%; z-index: 1001;"></div>');
+		}
+	}
+</script>
+<div class="postcode-box-popup">
+	<div class="pbp-header"><a href="#" class="ui-dialog-titlebar-close ui-corner-all pbp-close" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div>
+	<div class="php-content">
+		<div class="php-content-title">&nbsp;To get your quotes, please enter your postcode:&nbsp;</div>
+		<div class="pbp-postcode-container"><input type="text" placeholder="Your Postcode" pattern="\d*" id="pbp-postcode" maxlength="4"></div>
+		<div class="pbp-button-container"><input type="button" class="pbp-button" value="">&nbsp;</div>
+	</div>
+</div>			</div>
+			<div class="banner-mobile">
+				<div class="banner-image">
+					<img src="/img/2014_02_images/saveup-image.png" height="54" width="43" alt="">
+				</div>
+
+				<div class="banner-content">
+					<p>Save up to <span>$ 3,090</span> <br> with Solar Rebates</p>
+				</div>
+
+				<div class="banner-actions">
+					<a href="/quote/" class="btn btn-yellow-mobile">Get 3 solar<br> quotes now »</a>				</div>
 			</div>
 			<div id="_result_dialog" style="display: none;min-height: 80%;z-index:20000;">
 				<div id="_results_container">
