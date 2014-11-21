@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617092730id_/http%3A//www.gchats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001429id_/http%3A//www.gchats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
