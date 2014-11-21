@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiestoday.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527114620id_/http%3A//www.studiestoday.com/basic-page/privacy-policy-120.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiestoday.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153048id_/http%3A//www.studiestoday.com/basic-page/privacy-policy-120.html) for the most accurate reproduction.*
 
 # Privacy Policy, CBSE Sample Papers, CBSE Guess Papers and all CBSE board material
 
