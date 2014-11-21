@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org
 
 **On this page:** Job-Hunt's information collection and use/sharing practices with Opt-Out directions and contact information. 
 
 At Job-Hunt, we are committed to being a trustworthy partner in your job search. You can visit Job-Hunt.Org as often as you want without telling us who you are or revealing any personal information about yourself.
+
+When our newsletter is available, you may provide your email address, if you wish to subscribe to it. Otherwise, we do not want - nor do we collect -any personally-identifiable information about you or any other job seekers.
 
 ### Passive Information Collected
 
@@ -31,8 +33,9 @@ We may also transfer personally identifiable information to a buyer of all or pa
 
 Agents of Job-Hunt.Org provide supportive services, such as e-mail list management services for Job-Hunt's newsletter, hosting for Job-Hunt's Web site, etc. However, these third parties are not allowed to use any information disclosed to them for any purpose other than the support of Job-Hunt.
 
-**Google Analytics  
-June, 2007**, we added Google Analytics to Job-Hunt so we could better understand what our visitors want. We see this information only in aggregate, but Google does set a cookie to help track visitor actions. You may set your browser to refuse the cookie.
+**Google Analytics**
+
+June, 2007, we added Google Analytics to Job-Hunt so we could better understand what our visitors want. We see this information only in aggregate, but Google does set a cookie to help track visitor actions. You may set your browser to refuse the cookie.
 
 ### Outside Links:
 
@@ -42,7 +45,7 @@ This web site contains links to other sites. Please be aware that Job-Hunt.Org i
 
 We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt. 
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20140625120221id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
 
 **Cookies:**
 
@@ -70,4 +73,4 @@ If you have any concerns about your privacy at Job-Hunt or a complaint about ina
      P.O. Box 507  
      Marlborough, MA 01752-0507
 
-V 9.0, June 19, 2013
+V 10.0, July 21, 2014
