@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionix.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045721id_/http%3A//www.nutritionix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionix.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001208id_/http%3A//www.nutritionix.com/privacy) for the most accurate reproduction.*
 
 # Nutritionix - Privacy Policy
 
