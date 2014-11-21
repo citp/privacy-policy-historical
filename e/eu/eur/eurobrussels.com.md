@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135358id_/http%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144752id_/http%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
 
 # EuroBrussels - Jobs in Brussels, EU Institutions and International Organisations
 
@@ -30,4 +30,4 @@ The database and website are protected against unauthorised access to your detai
 
 If you have any queries, concerns or amendments please contact us on [info@eurobrussels.com](mailto:info@eurobrussels.com), or write to us at our registered office at EuroJobsites Ltd, Unit 3, Kingsmill Business Park, Kingston Upon Thames, London, KT1 3GZ, United Kingdom
 
-This is a summary - full details of our privacy policy including use of our CV database can be found [here](http://eurobrussels.com/cv_privacy_policy).
+This is a summary - full details of our privacy policy including use of our CV database can be found [here](http://www.eurobrussels.com/cv_privacy_policy).
