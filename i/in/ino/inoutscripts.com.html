@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inoutscripts.com privacy policy that was archived on 2014-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140503204600id_/http%3A//www.inoutscripts.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inoutscripts.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121141937id_/http%3A//www.inoutscripts.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <style>
@@ -10,18 +10,26 @@
 <link rel="icon" href="http://www.inoutscripts.com/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="shortcut icon" href="http://www.inoutscripts.com/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" type="image/png" href="http://www.inoutscripts.com/images/fav-icon.png">
-<title>Inout Scripts - Premium PHP, MySQL, BigData(Hadoop, Hypertable) Scripts for your Website and Business </title>
+<title>Inout Scripts - Premium PHP, MySQL &amp; BigData Scripts for your Website and Business </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Inout Scripts - Premium PHP, MySQL, BigData(Hadoop, Hypertable) Scripts for your Website and Business ">
-<meta name="keywords" content="mailing list manager, php search engine, advertiser publisher networking script, shopping cart, php shopping cart, php webmail script, gmail clone, google clone, adsense clone, ebay clone">
+<meta name="description" content="Inout Scripts - Premium PHP, MySQL &amp; BigData Scripts for your Website and Business ">
+<meta name="keywords" content="mailing list manager, php search engine, advertiser publisher networking script, shopping cart, php shopping cart, php webmail script, gmail clone, google clone, adsense clone, ebay clone, open source, ad networking script, php scripts, buy php web scripts">
  
  
 <meta name="verify-v1" content="cZGnXS7NMHgEMFqpEHWjdpOsjAgm2HIj/NXJQkXHaLQ=">
-<base href="http://www.inoutscripts.com/">
+<meta name="p:domain_verify" content="568b4988a5d82a520a12d2c898ff15e3">
+<!--<base href="http://www.inoutscripts.com/">-->
 
- 
+<!--
+
+<base href="http://localhost/workspace/Joseph/">
+
+-->
+ <base href="http://www.inoutscripts.com/">
+
 <link href="css/style.css" rel="stylesheet" type="text/css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1alkegU1ggkw473TFE8qo8AlbzoPiDP8" type="text/javascript"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1alkegU1ggkw473TFE8qo8AlbzoPiDP8" type="text/javascript"></script><script type="text/javascript" src="js/jquery-1.9.1.min.js"></script> 
+<!-- <script type="text/javascript" src="js/jquery.min.js"></script> -->
 <script type="text/javascript" src="js/jquery.sudoSlider.min.js"></script>
 	
 <link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen"> 
@@ -326,6 +334,136 @@ win=window.open(mypage,myname,settings);
     
   });
 </script>
+
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $('.subsc_btn').click(function(e) {
+		
+        $('.subscribe_wraper').toggleClass("subanimation");
+		
+    });
+	
+	$('.subscribe_wraper, .subsc_btn').click(function(event){
+		event.stopPropagation();
+	});
+	$(document).click(function(e) {
+         $('.subscribe_wraper').removeClass("subanimation");
+	 
+		
+    });
+	
+	
+	
+	
+	$('.cancel_btnn').click(function(){
+	 $('input#usr_name2new').val('Name');
+		$('input#email2new').val('Email');
+		 $('.subscribe_wraper').removeClass("subanimation");
+		
+		
+		
+		});
+	
+	
+
+
+	
+});
+</script>
+<script type="text/javascript">
+		function sumitSubscriptionnew()
+		{ 
+			
+			var subr_name = $("input#usr_name2new").val(); 
+			var subr_email = $("input#email2new").val();
+
+		
+			if(subr_name!='Name' && subr_name!='')
+			{
+			
+				if(isEmail(subr_email) && subr_email!='')
+				{
+				
+				
+				var dataString = 'Email='+subr_email+"&Name="+subr_name;  
+				
+				var subscr_url='http://www.inoutscripts.com/'+"subscrTest.php";
+				
+				
+				
+				
+					$.ajax({  
+					  type: "POST",  
+					  url: subscr_url,  
+					  data: dataString,  
+					  success: function(response) {  
+		
+					 // alert(response);
+		               }  
+    
+					});  
+
+					$(".subsc_detailsfirst").fadeOut("slow", function() {
+                        
+						$(".subsc_msgg").fadeIn();
+						
+						 setTimeout(function(){
+						 $(".subsc_msgg").fadeOut();
+						 $('.subscribe_wraper').removeClass("subanimation");
+						 $(".subsc_detailsfirst").fadeIn();
+						 }, 2000 ); 
+						 
+						
+                        });
+					return false;  
+				
+				}
+				else
+				{ 
+				
+						$(".subsc_detailsfirst").fadeOut("slow", function() {
+	                                       
+							$(".subsc_msgg2").fadeIn();
+							
+							 setTimeout(function(){
+							 $(".subsc_msgg2").fadeOut(
+							 function(){$(".subsc_detailsfirst").fadeIn();}
+							 );
+							 
+							 }, 2000 ); 
+							 
+							
+	                        });
+				
+					
+				}
+			}
+			else
+			{
+				//alert("Haiiiii73664536546354");
+				
+				$(".subsc_detailsfirst").fadeOut("slow", function() {
+                    
+					$(".subsc_msgg3").fadeIn();
+					
+					 setTimeout(function(){
+					 $(".subsc_msgg3").fadeOut(
+					 function(){$(".subsc_detailsfirst").fadeIn();}
+					 );
+					 
+					 }, 2000 ); 
+					 
+					
+                    });
+			}			
+
+
+			//$(".hotRelease").animate({bottom: "15px"},500 );
+		}		
+</script>
+
+
+
 <script type="text/javascript">
 function hideEmail()
 {
@@ -347,6 +485,27 @@ function hideName()
 	
 					
 }
+function hideEmailnew()
+{
+	var cntnt=document.getElementById("email2new").value;
+	if(cntnt=="Email")
+	{
+		document.getElementById("email2new").value="";
+	}			
+	
+					
+}
+function hideNamenew()
+{
+	var cntnt=document.getElementById("usr_name2new").value;
+	if(cntnt=="Name")
+	{
+		document.getElementById("usr_name2new").value="";
+	}			
+	
+					
+}
+
 
 function isEmail(emailString)
 {
@@ -384,7 +543,65 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <body>
 
 <div class="mainheaderwrapper">
-<a href="mailto:feedbacks@inoutscripts.com" class="feedBack">&nbsp;</a>
+<!-- sliding subscription -->
+<div class="subscribe_wraper">
+<div class="subsc_details">
+<div class="subsc_detailsfirst">
+<h4 class="subf_head">Subscribe to our newsletter</h4>
+<p class="subsc_p">
+Sign up with your email to get updates about
+Our new releases and special offers
+</p>
+<div class="input_fieldssu">
+<form id="category_subnew" onsubmit="sumitSubscriptionnew()" name="category_subnew" method="post" action="http://www.inoutscripts.com/subscrTest.php">
+<input id="usr_name2new" class="sinpu" type="text" onclick="hideNamenew()" value="Name" maxlength="150" size="18" name="usr_name">
+<input id="email2new" class="sinpu" type="text" onclick="hideEmailnew()" value="Email" maxlength="150" size="18" name="email">
+<input id="category2new" type="hidden" value="20" name="category">
+<input id="subr_submit" class="subs_btn" type="button" onclick="sumitSubscriptionnew()" value="Subscribe!" name="Submit">
+<input class="subs_btn cancel_btnn" type="button" value="Cancel" name="Cancel">
+</form>
+</div>
+</div>
+
+</div>
+
+
+<div class="subsc_msgg">
+<h4 class="subf_msg">Thank you very much
+<span class="submsgs">for subscribing to our newsletter.</span>
+
+</h4>
+
+</div>
+
+<div class="subsc_msgg2">
+<h4 class="subf_msg">Invalid email
+<span class="submsgs">please enter a valid email address.</span>
+
+</h4>
+
+</div>
+<div id="err-name" class="subsc_msgg3">
+<h4 class="subf_msg">Please enter the name
+<span class="submsgs">and try again.</span>
+
+</h4>
+
+</div>
+
+
+
+
+
+<div class="subsc_btn">
+<img src="images/suscribe_btn.png" alt="Subscribe">
+</div>
+
+
+</div>
+
+<!-- sliding subscription ends -->
+
 <div class="header">
 	<a href="http://www.inoutscripts.com/" title="Inout Scripts Home!"><h1></h1></a>
 	<div class="chat right">
@@ -424,8 +641,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 		document.write ("<a href='http://www.inoutscripts.com/tellafriend/?link="+URLEncode(location.href)+"'><strong>Email to Friends</strong></a>")
 
 
-	</script><a href="http://www.inoutscripts.com/tellafriend/?link=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140503204600id_%2Fhttp%253A%2F%2Fwww.inoutscripts.com%2Fprivacy.php"><strong>Email to Friends</strong></a>   |     
-	<a href="forum/">Support Forum</a>   |   
+	</script><a href="http://www.inoutscripts.com/tellafriend/?link=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141121141937id_%2Fhttp%253A%2F%2Fwww.inoutscripts.com%2Fprivacy.php"><strong>Email to Friends</strong></a>   |     
+	<a href="http://support.inoutscripts.com/kb/" target="_blank">Knowledge Base(<font color="#B00000">Beta</font>)</a>   |   
 	<a href="careers.php">Careers</a>   |   
 	<a href="suggestions.php">Suggestions</a> 
 	
@@ -435,7 +652,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 	<div class="left">
 		<a href="http://www.inoutscripts.com/" class="active"><span>Home</span></a>
 		<a href="support/"><span>Support</span></a>
-		<a href="articles/"><span>Articles</span></a>
+<a href="blog/"><span>Blog</span></a> 
+<!--<a href="articles/"  ><span>Articles</span></a> -->
 		 
 		<a href="affiliate/"><span>Affiliate</span></a>		<a href="design/"><span>Design Works</span></a>
 		
@@ -450,16 +668,16 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 		
 		<div class="columns">
 			<h2>Search Solutions</h2>
-			<a href="products/inout_search_engine/" title="Inout Search Engine Details">Inout Search Engine</a>		
-			<a href="products/inout_spider/" title="Inout Spider Details">Inout Spider</a>
-			<a href="products/inout_site_search/" title="Inout Site Search Details">Inout Site Search</a>		
+			<a href="products/inout-search-engine/" title="Inout Search Engine Details">Inout Search Engine</a>		
+			<a href="products/inout-spider/" title="Inout Spider Details">Inout Spider</a>
+			<a href="products/inout-site-search/" title="Inout Site Search Details">Inout Site Search</a>		
 		</div>
 		
 		<div class="columns">
 			<h2>Advertising Solutions</h2>
 			<a href="products/adserver/" title="Inout Adserver Details">Inout Adserver</a>
-			<a href="products/inout_mailing_list_manager/" title="Inout Mailing List Manager Details">Inout Mailing List Manager</a>
-			<a href="products/inout_ppc_engine/" title="Inout PPC Engine Details">Inout PPC Engine</a>
+			<a href="products/inout-mailing-list-manager/" title="Inout Mailing List Manager Details">Inout Mailing List Manager</a>
+			<a href="products/inout-ppc-engine/" title="Inout PPC Engine Details">Inout PPC Engine</a>
 		</div>
 		
 		<div class="columns">
@@ -467,29 +685,29 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 			<div class="left Fst">
 			
 							
-			 <a href="products/inout_careerlamp/" title="Inout CareerLamp">Inout CareerLamp™</a>
+			 <a href="products/inout-careerlamp/" title="Inout CareerLamp">Inout CareerLamp™</a>
 							
-			  <a href="products/inout_socialtiles/" title="Inout SocialTiles">Inout SocialTiles™</a>
+			  <a href="products/inout-socialtiles/" title="Inout SocialTiles">Inout SocialTiles™</a>
 							
-             <a href="products/inout_shopping_cart/" title="Inout Shopping Cart">Inout Shopping Cart</a>
+             <a href="products/inout-shopping-cart/" title="Inout Shopping Cart">Inout Shopping Cart</a>
 							
-				<a href="products/inout_web_portal/" title="Inout Web Portal Details">Inout Web Portal</a>
-				<a href="products/inout_article_base/" title="Inout Article Base Details">Inout Article Base</a>
+				<a href="products/inout-web-portal/" title="Inout Web Portal Details">Inout Web Portal</a>
+				<a href="products/inout-article-base/" title="Inout Article Base Details">Inout Article Base</a>
 				
                            
 				
 			</div>	
 			<div class="left">
-			 <a href="products/inout_smartdeal/" title="Inout SmartDeal">Inout SmartDeal</a>
-            <a href="products/inout_music/" title="Inout Music Details">Inout Music</a>
-				<a href="products/inout_videos/" title="Inout Videos Details">Inout Videos</a>
-				<a href="products/inout_celebrities/" title="Inout Celebrities Details">Inout Celebrities</a>
-				<a href="products/inout_queryspace/" title="Inout Queryspace Details">Inout Queryspace</a>
+			 <a href="products/inout-smartdeal/" title="Inout SmartDeal">Inout SmartDeal</a>
+            <a href="products/inout-music/" title="Inout Music Details">Inout Music</a>
+				<a href="products/inout-videos/" title="Inout Videos Details">Inout Videos</a>
+				<a href="products/inout-celebrities/" title="Inout Celebrities Details">Inout Celebrities</a>
+				<a href="products/inout-queryspace/" title="Inout Queryspace Details">Inout Queryspace</a>
 			</div>
 		</div>
 		<div class="columns">
 			<h2>Email Solutions</h2>
-			<a href="products/inout_webmail/" title="Inout Webmail Details">Inout Webmail</a>
+			<a href="products/inout-webmail/" title="Inout Webmail Details">Inout Webmail</a>
 		</div>
 		<div class="columns last">
 			<h2>Corporate Solutions</h2>
@@ -508,8 +726,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <div class="clear"></div>
 <div class="columns last" style="height: auto;">
 			<h2>Chat and Support Solutions</h2>
-				<!--<a style="" href="products/inout_hellobird/">Inout HelloBird&#0153;</a>	-->	
-			<a style="" href="products/inout_support_desk_manager/" title="Inout Support Desk Manager">Inout Support Desk Manager</a>
+				<!--<a style="" href="products/inout-hellobird/">Inout HelloBird&#0153;</a>	-->	
+			<a style="" href="products/inout-support-desk-manager/" title="Inout Support Desk Manager">Inout Support Desk Manager</a>
 		
 					
 		</div>
@@ -521,8 +739,6 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </div>
 <link rel="stylesheet" href="css/nesote-lib.css" type="text/css" media="screen"> 
 <script type="text/javascript" src="js/nesote-jquery-lib.js"></script>
-
-
 <div class="slideWrap h-auto">
     <img src="images/privacypolicy.png" alt="Inout Scripts Privacy Policy">
 </div>
@@ -535,16 +751,16 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <div style="font-family: arial;"></div>
 <div style="font-family: arial;"><span class="Generic-Article">When you do provide us with personal data,  we usually use it to respond to your inquiry, process your order or  provide you access to specific information or offers. Also, to support  our customer relationship with you.</span> The email address you provide for order processing, may be used to send  you information and updates pertaining to your order, in addition to  receiving occasional company news, updates, related product or service  information, etc.</div>
 <div style="font-family: arial;"><b><br></b></div>
-<div style="font-family: arial;"><b>Do we use cookies?</b> <br>Yes. We do deposit cookies on your computer to remeber the username and password for the logged in user, which are  deleted after logout. <br> We use cookies to help us remember and process the items in your cart to purchase and download the product.<br><br><b>Do we disclose any information to outside parties?</b> <br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. <span class="Generic-Article">Protecting the security and privacy of  your personal data is important to </span>Inoutscripts<span class="Generic-Article">; therefore, we conduct our  business in compliance with applicable laws on data privacy protection  and data security. </span>Inoutscripts<span class="Generic-Article"> uses and  safeguards that data and with whom we may share it.</span></div>
+<div style="font-family: arial;"><b>Do we use cookies?</b> <br>Yes. We do deposit cookies on your computer to remeber the username and password for the logged in user, which are  deleted after logout. <br> We use cookies to help us remember and process the items in your cart to purchase and download the product.<br><br><b>Do we disclose any information to outside parties?</b> <br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. <span class="Generic-Article">Protecting the security and privacy of  your personal data is important to </span>Inout Scripts<span class="Generic-Article">; therefore, we conduct our  business in compliance with applicable laws on data privacy protection  and data security. </span>Inout Scripts<span class="Generic-Article"> uses and  safeguards that data and with whom we may share it.</span></div>
 <div style="font-family: arial;"></div>
 <br>
 <div style="font-family: arial;"><span class="Generic-Article">
 <b>Security</b><br>
-We take reasonable measures to protect your  personal data against accidental or unlawful destruction, loss or  alteration and against unauthorized disclosure or access. Inoutscripts uses technical and organizational security measures.<br>
+We take reasonable measures to protect your  personal data against accidental or unlawful destruction, loss or  alteration and against unauthorized disclosure or access. Inout Scripts uses technical and organizational security measures.<br>
 </span></div>
 <div style="font-family: arial;"></div>
 <br>
-<div style="font-family: arial;"><b>Third party links</b> <br> Inoutscripts<span class="Generic-Article"> Web sites contain links to other  Web sites. </span>Inoutscripts<span class="Generic-Article"> is not responsible for the privacy practices or the  content of other Web sites.</span><br><br><b>Your Consent</b> <br>By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" target="_blank">websites privacy policy</a>.<br><br><b>Contacting Us</b> <br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://www.inoutscripts.com<br>Nesote Technologies (P) Limited<br>1st Floor, Valiapally Building<br> Kaduthuruthy P.O.<br> Kottayam, Kerala, India. Pin-686604<br><a href="mailto:info@inoutscripts.com">support@inoutscripts.com</a><br><br><span>Privacy Policy created by Inoutscripts.com</span>.</div><!-- END PRIVACY POLICY CODE -->
+<div style="font-family: arial;"><b>Third party links</b> <br> Inout Scripts<span class="Generic-Article"> Web sites contain links to other  Web sites. </span>Inout Scripts<span class="Generic-Article"> is not responsible for the privacy practices or the  content of other Web sites.</span><br><br><b>Your Consent</b> <br>By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" target="_blank">websites privacy policy</a>.<br><br><b>Contacting Us</b> <br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://www.inoutscripts.com<br>Nesote Technologies (P) Limited<br>1st Floor, Valiapally Building<br> Kaduthuruthy P.O.<br> Kottayam, Kerala, India. Pin-686604<br><a href="mailto:info@inoutscripts.com">support@inoutscripts.com</a><br><br><span>Privacy Policy created by Inoutscripts.com</span>.</div><!-- END PRIVACY POLICY CODE -->
     
 	
 </div>
@@ -593,22 +809,30 @@ Email : <a href="mailto:info@inoutscripts.com">info@inoutscripts.com</a>
 
 <div class="footer">
 <div class="footerCntr">
-<div class="left">
+
+
+<div class="left" style="padding-top: 10px;">
+<a href="articles/">Articles</a>  |
 <a href="affiliate/">Affiliate with us</a>  | 
 <a href="terms.php">Terms of use</a> | 
 <a href="sitemap.php">Sitemap</a> | 
 <a href="forum/">Support Forums </a> | 
 <a href="privacy.php">Privacy Policy </a>
 
-<br>© 2006&nbsp;-&nbsp;2014 Nesote Technologies (P) Limited, All Rights Reserved. 
+<br>
 </div>
-<div class="right">
-	<a href="http://www.facebook.com/pages/InoutScriptscom/295255840552135" class="fBk" title="Follow"></a>
-	<a href="http://www.twitter.com/inoutscripts" class="twt" title="Follow"></a>
-	<div class="follow"></div>
-	
+<div class="newsocial_wrper">
+<ul class="new_socialul">
+<li class="social_li"><a href="http://www.facebook.com/pages/InoutScriptscom/295255840552135" class="comn_social c_fb" title="facebook" target="_blank"></a></li>
+<li class="social_li"><a href="http://www.twitter.com/inoutscripts" class="comn_social c_twter" title="twitter" target="_blank"></a></li></ul>
+<li class="social_li"><a href="https://plus.google.com/+Inoutscripts-Social/" rel="publisher" class="comn_social c_googlep" title="google+" target="_blank"></a>
+
+</li>
 </div>
 <div class="payment"></div>
+
+<div class="clear"></div>
+<div class="copy_rightg">© 2006&nbsp;-&nbsp;2014 Nesote Technologies (P) Limited, All Rights Reserved. </div>
 </div>
 </div>
 
