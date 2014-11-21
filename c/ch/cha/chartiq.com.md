@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartiq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082045id_/http%3A//chartiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartiq.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121192320id_/https%3A//www.chartiq.com/privacy.html) for the most accurate reproduction.*
 
 # ChartIQ // Privacy Policy
 
