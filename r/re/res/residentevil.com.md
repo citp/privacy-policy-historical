@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230212142id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081231id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -10,7 +10,7 @@
 
 **CAPCOM USA ONLINE PRIVACY STATEMENT**
 
-Last updated July 27, 2012
+Last updated March 31, 2014
 
 Welcome to Capcom USA!
 
@@ -18,7 +18,7 @@ Welcome to Capcom USA!
 
 Capcom U.S.A., Inc., Capcom Entertainment, Inc. and Capcom Studio 8, Inc. (collectively, "Capcom USA" or "Capcom") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-This certification seal shown on this page confirms that Capcom USA is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
+This certification seal shown on this page confirms that Capcom USA is a member in good standing of [ESRB's Privacy Certified Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Certified Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
 
 **TABLE OF CONTENTS**
 
@@ -176,10 +176,10 @@ privacy@capcom.com
 
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Capcom USA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not properly responded to your inquiry, please contact the ESRB at http://www.esrb.org/privacy/contact.jsp
+Capcom USA is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not properly responded to your inquiry, please contact the ESRB at http://www.esrb.org/privacy/contact.jsp
 
 ESRB  
-Attn.: Privacy Online Program  
+Attn.: Privacy Certified Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
 privacy@esrb.org  
@@ -189,4 +189,4 @@ privacy@esrb.org
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message on Capcom-Unity.com and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes.
 
-Here is a [PDF version](https://web.archive.org/web/20131230212142id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20141121081231id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
