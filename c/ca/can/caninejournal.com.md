@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caninejournal.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505203312id_/http%3A//www.caninejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caninejournal.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121215855id_/http%3A//www.caninejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanineJournal.com
 
@@ -18,14 +18,14 @@ In order to provide our users with certain products or services on our Site, Cov
 
 Our software automatically collects certain information from a user’s computer when that user logs on or moves about our Site. We do not link this information to any other Personal Information the user tells us; we only use it to get a broad picture of who is on our Site and which areas our users are visiting. This information tells us what’s important to our users and what isn’t, allows us to make our Site more interesting and useful, and enhances security and efficiency on our Site. The two main ways in which we collect this general information are through:
 
-  * **Log Files** – log files are records of user activity collected to analyze trends, administer the Site, track users’ movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include: 
+  *  **Log Files** – log files are records of user activity collected to analyze trends, administer the Site, track users’ movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include:
     * The IP address of the user’s computer.
     * How many people visit our Site.
     * Which pages of our Site are visited most often.
     * Which ISPs our visitors come from (e.g. AOL, MSN, etc.).
     * Which browsers users are used to visit our Site (Netscape, Internet Explorer, etc.).
     * Time of day users visit our Site.
-  * **Cookies** – Cover Story Media®, Inc. also uses “cookies” to gauge how users interact with our Site. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies cannot execute code or deliver a virus to a computer. Usage of a cookie is not linked to any personal information, it merely helps the Site to be more efficient. Typically, a cookie enables a user’s computer to load Web site files faster on subsequent visits. We may also use cookies to track a user’s path for security purposes, as well as to target a user’s interests in an effort to enhance the user’s experience on our Site. If a user wishes to block, erase, or be warned of cookies, the user may refer to browser instructions to learn about these functions. If a user rejects a cookie, the user may still use our Site, however, the user may be limited in the use of certain areas. For example, if the user disables cookies the **font sizing** feature will not work properly.
+  *  **Cookies** – Cover Story Media®, Inc. also uses “cookies” to gauge how users interact with our Site. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies cannot execute code or deliver a virus to a computer. Usage of a cookie is not linked to any personal information, it merely helps the Site to be more efficient. Typically, a cookie enables a user’s computer to load Web site files faster on subsequent visits. We may also use cookies to track a user’s path for security purposes, as well as to target a user’s interests in an effort to enhance the user’s experience on our Site. If a user wishes to block, erase, or be warned of cookies, the user may refer to browser instructions to learn about these functions. If a user rejects a cookie, the user may still use our Site, however, the user may be limited in the use of certain areas. For example, if the user disables cookies the **font sizing** feature will not work properly.
 
 
 
@@ -33,8 +33,8 @@ Our software automatically collects certain information from a user’s computer
 
 At several places on our Site, we collect certain information that users voluntarily provide to us which may contain Personal Information. Here is a brief summary of some of the areas on our Site where users may be asked to provide Personal Information:
 
-  * **Registration** – one or more areas of our Site may require users to register for access. As part of the registration process we may ask users for a username, password, or other personal information in order to verify the user’s identity, establish the account, promote security, and enable access to various online features. We may also ask users to complete a survey as part of the registration process to find out more about who is using our Site (see more on surveys below).
-  * **Product Updates and Other Communications** – we may collect information whenever a user communicates with us or asks to receive more information about Cover Story Media®, Inc. or Cover Story Media®, Inc. products, services and events (for example, if a user sends us email or signs up to receive notification of product updates or new product releases). This information may include the user’s name, e-mail address, or other contact information.
+  *  **Registration** – one or more areas of our Site may require users to register for access. As part of the registration process we may ask users for a username, password, or other personal information in order to verify the user’s identity, establish the account, promote security, and enable access to various online features. We may also ask users to complete a survey as part of the registration process to find out more about who is using our Site (see more on surveys below).
+  *  **Product Updates and Other Communications** – we may collect information whenever a user communicates with us or asks to receive more information about Cover Story Media®, Inc. or Cover Story Media®, Inc. products, services and events (for example, if a user sends us email or signs up to receive notification of product updates or new product releases). This information may include the user’s name, e-mail address, or other contact information.
 
 
 
@@ -50,7 +50,7 @@ Cover Story Media®, Inc. is the sole owner of the information collected on this
 
 
 
-**Cover Story Media ®, Inc. highly values your privacy. At no time will your email be sold or marketed to third parties**.
+ **Cover Story Media ®, Inc. highly values your privacy. At no time will your email be sold or marketed to third parties**.
 
 ## Uploading Photos, Videos, Information Or Other Content
 
