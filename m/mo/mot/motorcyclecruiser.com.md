@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcyclecruiser.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522233705id_/http%3A//www.motorcyclecruiser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclecruiser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104316id_/http%3A//www.motorcyclecruiser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motorcycle Cruiser
 
