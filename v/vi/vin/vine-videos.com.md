@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vine-videos.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303003626id_/http%3A//vine-videos.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vine-videos.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143519id_/http%3A//vine-videos.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # 
 
