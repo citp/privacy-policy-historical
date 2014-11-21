@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050343id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070439id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Car Junction Privacy Policy : Import used vehicles directly from Japan
 
@@ -11,7 +11,7 @@ Website Administration
 
 | Business Name: | Car junction Co Ltd.  
 ---|---  
-Address: | 501 Center Plaza Shiki, 2-12-13 Asashigaoka Asaka-Shi, Saitama-Ken, Japan  
+Address: | 1F Center Plaza, 2-12-13 Asashigaoka, Asaka Shi, Saitama Ken, Japan  
 City: | Asashigaoka Asaka-Shi  
 State/Province: | Saitama  
 ZIP:  | 351-0035  
@@ -32,8 +32,7 @@ The information we collect is:
  • Used to fill customers orders.  
  • Used for shipping and billing purposes.  
  • Used to notify members about updates to our website.  
- • Used for sending out promotional emails and special offers.  
-
+ • Used for sending out promotional emails and special offers.
 
 Car Junction Ltd. will not give out any personal or business information to third parties, unless required to do so by law, or for the purpose of shipping and clearing the vehicle.
 
