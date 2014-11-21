@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachaway.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515085315id_/http%3A//www.teachaway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachaway.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104502id_/http%3A//www.teachaway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teach Away Inc.
 
@@ -42,7 +42,7 @@ Our website contains links to third party web sites. Teach Away is not responsib
 
 You may write to our Chief Privacy Officer to request access to personal information about you. Teach Away will generally inform you if we are holding personal information about you, as well as details about the personal information. We reserve the right to confirm your identity before complying with any access request. In responding to an access request, we may charge a reasonable copying or retrieval fee, the amount of which we will provide in advance. Access to personal information may be denied if required or authorized by law. If a request for access is denied, Teach Away will provide an explanation of the reasons for the refusal.
 
-If you choose to withdraw your consent to continued collection, use or retention of your personal information, we will explain the consequences of such withdrawal. You may also challenge the accuracy of personal information about you in our custody and FMC will amend personal information where appropriate.
+If you choose to withdraw your consent to continued collection, use or retention of your personal information, we will explain the consequences of such withdrawal. You may also challenge the accuracy of personal information about you in our custody and Teach Away Inc. will amend personal information where appropriate.
 
 ### How to contact us
 
@@ -55,3 +55,5 @@ Teach Away Inc.
 Toronto, Ontario M6K 3G3
 
 Teach Away reviews this privacy policy on a regular basis and will post the revised or updated policy from time to time as required. This policy was last updated on May 14, 2013.
+
+[](https://web.archive.org/teacher/register)
