@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228100201id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014315id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Casino Tropez Privacy Policy
 
@@ -22,7 +22,7 @@ When signing up and registering an account with Casino Tropez, you will be reque
 **If you prefer not to receive promotional emails, simply notify us of your wish to unsubscribe at any time by:**
 
 • Clicking on the unsubscribe link displayed in all CasinoTropez.com email offers and following the instructions  
-• Calling us at our toll free numbers: Canada: +1-800-947-1351; UK: +44-800-047-0695; International: +632-756-7946  
+• Calling us at our toll free numbers: International: +6327567970  
 • Contacting a support representative in our online chat windows  
 • Sending a blank email to support [at] casinotropez [dot] com and including the word ‘remove’ in the subject line.
 
