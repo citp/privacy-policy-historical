@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113533id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121063408id_/http%3A//www.barnet.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - London Borough of Barnet
 
@@ -70,7 +70,7 @@ The Audit Commission also requires local authorities to participate in data matc
 
 ### **Access to Information**
 
-Under the Data Protection Act 1998, you can have the right to make a formal request for personal information the council hold about you.  This is known as a **Subject Access Request**. For more information visit our [data protection page](http://www.barnet.gov.uk/info/200031/data_protection_and_freedom_of_information/185/data_protection_and_freedom_of_information). 
+Under the Data Protection Act 1998, you can have the right to make a formal request for personal information the council hold about you.  This is known as a **Subject Access Request**. For more information visit our [data protection page](http://www.barnet.gov.uk/info/826/data_protection_act/186/data_protection_act). 
 
 ### **Visitors to our websites**
 
