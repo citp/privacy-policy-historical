@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308023909id_/http%3A//www.publicschoolreview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065428id_/http%3A//www.publicschoolreview.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | PublicSchoolReview.com
+# Privacy Policy
 
 1\. WHAT THIS PRIVACY POLICY COVERS
     
