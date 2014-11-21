@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095546id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104637id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
 
 # View Privacy Policy : About : Foundation for Economic Education
 
@@ -66,16 +66,16 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### ABOUT
 
-  * [ABOUT](http://www.fee.org/about/ "lnkPgNav")
-  * [ANNUAL REPORT](http://www.fee.org/about/page/annual-report "lnkPgNav")
-  * [BOARD OF TRUSTEES](http://www.fee.org/about/page/board-of-trustees "lnkPgNav")
-  * [CONTACT](http://www.fee.org/about/page/contact "lnkPgNav")
-  * [INTERNSHIPS](http://www.fee.org/about/page/internships "lnkPgNav")
-  * [STAFF](http://www.fee.org/about/page/staff "lnkPgNav")
-  * [BOARD OF SCHOLARS](http://www.fee.org/about/page/board-of-scholars "lnkPgNav")
-  * [FINANCIAL DATA](http://www.fee.org/about/page/financial-data "lnkPgNav")
-  * [ALUMNI NETWORK](http://www.fee.org/about/page/alumni-network "lnkPgNav")
-  * [JOB OPENINGS](http://www.fee.org/about/page/job-openings "lnkPgNav")
+  * [ABOUT](http://fee.org/about/)
+  * [ANNUAL REPORT](http://fee.org/about/page/annual-report)
+  * [BOARD OF TRUSTEES](http://fee.org/about/page/board-of-trustees)
+  * [CONTACT](http://fee.org/about/page/contact)
+  * [INTERNSHIPS](http://fee.org/about/page/internships)
+  * [STAFF](http://fee.org/about/page/staff)
+  * [BOARD OF SCHOLARS](http://fee.org/about/page/board-of-scholars)
+  * [FINANCIAL DATA](http://fee.org/about/page/financial-data)
+  * [ALUMNI NETWORK](http://fee.org/about/page/alumni-network)
+  * [JOB OPENINGS](http://fee.org/about/page/job-openings)
 
 
 
