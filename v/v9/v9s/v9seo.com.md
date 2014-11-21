@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the v9seo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628005626id_/http%3A//www.v9seo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v9seo.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065711id_/http%3A//www.v9seo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Volume Nine
+# Privacy Policy | Volume Nine SEO
 
 This Privacy Policy governs the manner in which Volume Nine collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.v9seo.com and http://eduki.com websites (“Sites”). This privacy policy applies to the Sites and all products and services offered by Volume Nine.
 
