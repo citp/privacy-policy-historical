@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the war2glory.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505001744id_/http%3A//www.war2glory.com/en/footer-menu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the war2glory.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121165845id_/http%3A//www.war2glory.com/en/footer-menu/privacy-policy.html) for the most accurate reproduction.*
 
 # WAR2GLORY: Privacy Policy
 
@@ -29,8 +29,8 @@ The collection, processing and use of all personal user data is conducted within
 All natural persons whose personal data has been collected, processed or used are entitled at any time to information regarding the personal data that has been recorded, the purpose of its recording as well as the source and recipient of the data when applicable. The provision of this information is free of charge for those concerned. Rights of rectification, deletion or blocking (Art. 35 BDSG) shall remain unaffected. In order to exercise your right to the provision of information, rectification, deletion or blocking of personal data please apply in writing to:
 
 GameSpree GmbH & Co. KG  
-Pfuelstr. 5  
-10997 Berlin  
+Glogauer Strasse 6  
+10999 Berlin  
 Germany  
 [dataprotection[at]war2glory.com](http://dataprotection@war2glory.com/ "Opens window for sending email")
 
@@ -81,9 +81,8 @@ GameSpree will announce any changes made to this privacy policy on its website.
 The data protection officer at GameSpree can be reached for inquiries or other comments and requests at:
 
 GameSpree GmbH & Co. KG  
-Data Protection Officer  
-Pfuelstr. 5  
-10997 Berlin  
+Glogauer Strasse 6  
+10999 Berlin  
 Germany
 
 E-Mail: [dataprotection[at]war2glory.com](http://dataprotection@war2glory.com/ "Opens window for sending email")
