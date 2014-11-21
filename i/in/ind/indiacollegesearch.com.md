@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154138id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034400id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - India College Search
+# Privacy Policy - IndiaCollegeSearch
 
 This website – [www.indiacollegesearch.com](http://www.indiacollegesearch.com/) (hereinafter referred to as "Website") is operated and owned by ‘Am Edumedia Private Limited’. We are committed to respecting your online privacy and we recognize your need for protection of any personally identifiable information ("Personal Information") that you share with us. In general, you can visit the website without telling us who you are or revealing any Personal Information.
 
