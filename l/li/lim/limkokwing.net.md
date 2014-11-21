@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the limkokwing.net privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506054828id_/http%3A//www.limkokwing.net/malaysia/legal/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limkokwing.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121173737id_/http%3A//www.limkokwing.net/malaysia/legal/policy) for the most accurate reproduction.*
 
-# Privacy Policy @ Limkokwing University
+# Privacy Policy @ Limkokwing University of Creative Technology
+
+[Professional Services](https://web.archive.org/malaysia/business/professional_services) [Career Opportunities](https://web.archive.org/malaysia/business/careers) [Industry Partners](https://web.archive.org/malaysia/business/industry_partners) [Global Alliance](https://web.archive.org/malaysia/business/global_alliance) [Agent Network](https://web.archive.org/malaysia/business/agents)
+
+##### [Professional Services](https://web.archive.org/malaysia/business/professional_services)
+
+Under Limkokwing University stands a lineup of professional business units, that moving the local and international businesses forward and compete with the big boys.
+
+##### [Global Alliance](https://web.archive.org/malaysia/business/global_alliance)
+
+Limkokwing has a collegial network of over 282 universities in over 77 countries.
+
+##### [Agent Network](https://web.archive.org/malaysia/business/agents)
+
+Journalist, Architect, Designer, or Photographer, we have opportunities for you.
+
+##### [Bursary](https://web.archive.org/malaysia/business/careers/bursary)
+
+Career, Sierra Leone
+
+##### [Senior Lecturer, Design](https://web.archive.org/malaysia/business/careers/senior_lecturer_design)
+
+Career, Malaysia
+
+##### [Faculty of Architecture & Interior](https://web.archive.org/malaysia/business/careers/faculty_of_architecture_amp_interior)
+
+Career, Sierra Leone
+
+##### [Senior Lecturer, Stylist](https://web.archive.org/malaysia/business/careers/senior_lecturer_stylist)
+
+Career, Malaysia
 
 ### Login
 
