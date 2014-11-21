@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104503id_/http%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121173216id_/http%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Flifeyourway.net%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -52,3 +50,5 @@ Users might be asked to subscribe to our newsletter by providing name and email 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://lifeyourway.net/contact).
 
 Last Updated: January 1, 2014
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Flifeyourway.net%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
