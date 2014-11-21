@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231729id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121120748id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
