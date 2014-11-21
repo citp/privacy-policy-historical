@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the onlinelinkscan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102528id_/http%3A//onlinelinkscan.com/%3Fpage_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelinkscan.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023531id_/http%3A//onlinelinkscan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlinelinkScan
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it.
-
-**Routine Information Collection**
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. **Routine Information Collection**
 
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
@@ -22,4 +20,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 **About Google advertising:**
 
-What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
