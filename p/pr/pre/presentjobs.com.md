@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512014703id_/http%3A//www.presentjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142321id_/http%3A//www.presentjobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of PresentJobs.com - Latest Fresher Jobs | Fresher Walkins | Off-Campus - PresentJobs.com
 
@@ -20,10 +20,10 @@ As part of our services, Presentjobs.com sends daily job emails to our users reg
 We may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. However we use this information only for the purpose of improving our services.
 
 **IMP Note :**  
-\- Google, as a third party vendor, uses cookies to serve ads on our website.  
-\- Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).  
-\- You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie  
+– Google, as a third party vendor, uses cookies to serve ads on our website.  
+– Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).  
+– You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie  
 Third Party Advertisements
 
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies (such as Google’s Adsense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the [Privacy Policy of Google (Adsense)](http://www.google.com/privacy.html).
