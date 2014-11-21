@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611090659id_/http%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073816id_/https%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
 
-# ZUJI - Your Online Travel Agency | Privacy Policy - zuji.com.sg
+# Privacy Policy
 
 ## A. Who we are
 
