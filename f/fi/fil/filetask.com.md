@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filetask.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520170024id_/http%3A//filetask.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetask.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121230326id_/http%3A//filetask.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for File Task » FileTask
 
