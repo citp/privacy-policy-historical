@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficbailout.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072756id_/http%3A//trafficbailout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbailout.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044755id_/http%3A//www.trafficbailout.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Bailout
 
-[](http://trafficbailout.com/banclick.php?code=d5ade38a2c9f6f073d69e1bc6b6e64c1)  
+[](http://trafficbailout.com/banclick.php?code=82161242827b703e6acf9c726942a1e4)  
 
 
 Traffic Bailout Privacy Policy
