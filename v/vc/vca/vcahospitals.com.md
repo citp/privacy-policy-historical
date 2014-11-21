@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000536id_/http%3A//www.vcahospitals.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035938id_/http%3A//www.vcahospitals.com/main/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VCA Animal Hospitals
+# VCA Home Office Privacy Policy
 
-The Privacy Policy of VCA Antech, Inc., and its subsidiaries ("VCA") has been developed as an extension of our commitment to combine the finest quality veterinary services with the highest level of integrity in dealing with our customers. This Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
+The Privacy Policy of VCA Inc., and its subsidiaries ("VCA") has been developed as an extension of our commitment to combine the finest quality veterinary services with the highest level of integrity in dealing with our customers. This Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
 
 VCA may, from time to time, modify this Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
 
