@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knightfoundation.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235802id_/http%3A//www.knightfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knightfoundation.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104642id_/http%3A//www.knightfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Knight Foundation
 
