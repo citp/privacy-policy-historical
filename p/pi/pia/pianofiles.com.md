@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504063844id_/http%3A//www.pianofiles.com/node/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024023id_/http%3A//www.pianofiles.com/node/21) for the most accurate reproduction.*
 
 # Privacy policy | PianoFiles
 
