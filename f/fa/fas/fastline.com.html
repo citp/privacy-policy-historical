@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fastline.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628110821id_/http%3A//www.fastline.com/v100/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fastline.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121094457id_/http%3A//www.fastline.com/v100/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head id="ctl00_masterHead"><meta property="og:description" content="A detailed description of Fastlin's privacy policy."><meta property="og:image" content="http://www.fastline.com/v100/images/fastlineF1500.png"><meta property="og:url" content="http://www.fastline.com/v100/privacy.aspx"><meta property="og:title" content="Fastline Publications Privacy Policy"><meta name="KEYWORDS" content="Fastline.com privacy policy"><meta name="DESCRIPTION" content="A detailed description of Fastlin's privacy policy."><meta name="verify-v1" content="Z/hnkFgW4AGljxQeAYusg9S5fm3fzER+QE6j4sG0wHw="><title>
 	Fastline Publications Privacy Policy
@@ -20,25 +20,29 @@
     <script type="text/javascript" src="/v100/includes/VideoFunctions.js"></script>           
     <script type="text/javascript" src="/v100/includes/VTabs.js"></script>           
     <script type="text/javascript" src="/v100/includes/jQuery/plug-ins/zrssfee/jquery.zrssfeed.js"></script>
-    <script type="text/javascript" src="/v100/includes/facio.min.js"></script>
+
     
     <link rel="shortcut icon" href="favicon.ico"><link rel="apple-touch-icon" href="touch-icon-iphone.png"><link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png"><link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png"><meta property="og:type" content="company"><meta property="og:site_name" content="Fastline.com"><meta property="fb:admins" content="susan.arterburn">
 <meta name="google-translate-customization" content="bde0a8ca262fab0e-19fa2f08019be9ec-g57562cd47310ad9b-10">
 
     <style type="text/css">
         #google_translate_element {
-            position:fixed;
+            position: absolute;
             background-color: white;
             top: -10px;
-            left:75%;
+            left: 250px;
             /*margin-left: -200px;*/
-            z-index: 99999;
+            z-index: -1;
             padding: 5px;
             padding-top: 15px;
             border-left: 2px solid silver;
             border-right: 2px solid silver;
             border-bottom: 2px solid silver;
             border-radius: 5px;
+        }
+
+        iframe#:2.container.goog-te-banner-frame.skiptranslate {
+            position: absolute;
         }
     </style>
     
@@ -54,13 +58,41 @@
                 }
             });
 
+            $("#google_translate_element").click(function () {
+                $(".goog-te-menu-frame").contents().find(".goog-te-menu2-item").each(function(index, item) {
+                    $(item).click(function() {
+                        $(".header").css("top", "40px");
+
+                        $(".goog-te-banner-frame").contents().find(".goog-close-link").click(function () {
+                            $(".header").css("top", "0");
+                        });
+                    });
+                });
+            });
+
+            $(document).bind("DOMNodeInserted", function (event) {
+                if (event.target.nodeName == "DIV" && event.target.className.indexOf("skiptranslate") > -1 && event.target.className.indexOf("goog-te-gadget") == -1) {
+                    if (event.target.children.length > 0) {
+                        var item = event.target.children[0];
+                        if (item != null && item.nodeName == "IFRAME" && item.className.indexOf("goog-te-banner-frame") > -1) {
+                            $(".header").css("top", "40px");
+
+                            //console.log($(item).contents());
+                            $(item).contents().on("click", ".goog-close-link", function() {
+                                alert("Yeap");
+                            });
+                            //debugger;
+                            //$(item).contents().find(".goog-close-link").click(function () {
+                            //    $(".header").css("top", "0");
+                            //});
+                        }
+                    }
+                }
+            });
         });
     </script>
-    <link rel="stylesheet" type="text/css" href="/v100/includes/floatingFeedback.css"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><style>#wall_feed {text-align:left;font-family: Calibri;font-size: 14px;width:100%;margin:0px auto;   overflow:hidden;table-layout:fixed;}.post-img {max-width:90px;background-color:white;border:1px solid rgb(215,215,215);padding:3px;margin:3px;}.object-img {max-width:35px;background-color:white;border:1pxsolid rgb(215,215,215);padding:3px;margin:3px;}#facio {height:400px;overflow-y:auto;overflow-x:hidden;margin:0px auto;   width:194px;border:1px solid rgb(215,215,215);z-index:100;}.facio-column-left {border-bottom:1px solid #e2e2e2; vertical-align:top; width:45px;}</style><style>::-webkit-scrollbar {width: 10px;}::-webkit-scrollbar-button {display:none;}::-webkit-scrollbar-track-piece {background: #888}::-webkit-scrollbar-thumb {background: #eee}</style></head>
+    <link rel="stylesheet" type="text/css" href="/v100/includes/floatingFeedback.css"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script></head>
 <body>
-                  
-
-
     <!-- +1 button activation -->
     <script type="text/javascript">
         (function () {
@@ -93,52 +125,16 @@
             d.getElementsByTagName('head')[0].appendChild(js);
         }(document));
     </script>
-    <form name="aspnetForm" method="post" action="privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIJD2QWAmYPZBYCZg9kFgJmDw8WAh4EVGV4dGRkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUNY3RsMDAkYnRuRlNHb4/1otbRO+tqAtwJhI60sDcr4sdr">
-</div>
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDWN0bDAwJGJ0bkZTR29Kkpm2Dzt7HPUSGu471PtM3j5oBQ==">
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=mznJe9ApI3ogYOcoMUB3SGjcujik9auajI-zBKRfPG754g54vI51pbvVnnc7yobHA7bZS79DNxyMR1KOxl_6dF_K0381&amp;t=635195661120000000" type="text/javascript"></script>
-
-
-<script src="/WebResource.axd?d=Us0wKQhSl5KFOxFhoD8UrrD95w_yrLjVFtG8RN-mwbYkrzbt_AHxq_BzjECQLf9rBhZeoualNKlTUS7oohozngbfPSSNvMNRGIUBvMtY12NLkjGo0&amp;t=635195661120000000" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
-return true;
-}
-//]]>
-</script>
-
-<div>
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU9fc6ycxFW1D/zDI6D/hKDVDs1Ajk55+u4RCJAkz9XYOC90WxKbVIBYs3JU/jdzZYGW2QEeYTMi2obWqJsuBQ43tacAsuvsd34fCDF332IzH8iNYUDVlYfxRs3GrjN5QW6Oo4j">
-</div>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E5F1FA36">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUK5FKlloLueC1DEUOyOLlmVDs1Ajk55+u4RCJAkz9XYOC90WxKbVIBYs3JU/jdzZYGW2QEeYTMi2obWqJsuBQ43tacAsuvsd34fCDF332IzEnNxsNLKenDPnKlb9V6prmZO0iA">
         <div class="header">
             <div class="menu-container">
 	            <div class="menu">
 	                <div class="menuLogo">
-	                    <a href="/v100/index.aspx" class="menuAnchor">
+	                    <a href="/v100/index.aspx?hotlist=0" class="menuAnchor">
 		                    <img src="/v100/images/logo.png" style="margin: 5px 10px 0 0;">
                             <div style="color: #FFF727; margin-left: 20px;">
                                 <img src="/v100/images/logobadge.jpg" id="ctl00_FLBadge" alt="Fastline Publications" border="0" width="18" height="18">
@@ -165,15 +161,26 @@ return true;
 	            </div>
             </div>
             <div class="top">
+                <div id="google_translate_element"></div>
+                <script type="text/javascript">
+                    function googleTranslateElementInit() {
+                        return new google.translate.TranslateElement({
+                            pageLanguage: 'en',
+                            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                            gaTrack: true,
+                            gaId: 'UA-900710-1'
+                        }, 'google_translate_element');
+                    }
+                </script>
+                <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
                 <div id="fastsearchHeader" style="top: 0px;">
                     <span><img src="/v100/images/fast.png" style="vertical-align:middle;height:16px;padding-bottom:5px;" alt="">Search</span> 
                     <input name="ctl00$txtFastSearchHeader" type="text" value=" What are you looking for?" id="ctl00_txtFastSearchHeader" class="FastSearchTextBox">
-                    <span id="ctl00_cvFastSearchHeaderText" style="color:Red;visibility:hidden;">*</span>
+                    &nbsp;
                     <input name="ctl00$txtFastSearchHeaderZip" type="text" value=" Zip Code" id="ctl00_txtFastSearchHeaderZip" class="FastSearchZip">
-                    <input type="image" name="ctl00$btnFSGo" id="ctl00_btnFSGo" src="images/btn_go.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnFSGo&quot;, &quot;&quot;, true, &quot;FastSearchHeader&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
-                    <div id="ctl00_ValidationSummary1" style="color:Red;display:none;">
-
-</div>
+                    <input type="image" name="ctl00$btnFSGo" id="ctl00_btnFSGo" src="images/btn_go.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnFSGo&quot;, &quot;&quot;, true, &quot;FastSearchHeader&quot;, &quot;&quot;, false, false))" border="0">
+                    
                 </div>
                 <div class="login">
 				    <div class="welcome">
@@ -203,8 +210,19 @@ return true;
 		    <div class="content">
 		        
 		        <div class="topAdvertisement">
-		            <div><span id="ctl00_ctl27_lblAd"></span>
-</div>
+		            <span>  <script language="javascript" type="text/javascript">
+    if (navigator.appName=='Netscape') {
+      document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://media.fastline.com/ad.aspx?ZoneID=25&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=1&amp;SiteID=1&amp;Random=1416545097855.72">'); document.write('</'+'scr'+'ipt>');
+    } else {
+      document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://media.fastline.com/ad.aspx?ZoneID=25&amp;Task=Get&amp;IFR=False&amp;PageID=1&amp;SiteID=1&amp;Random=1416545097855.72">'); document.write('</'+'scr'+'ipt>');
+    }
+  </script><script language="javascript" src="http://media.fastline.com/ad.aspx?ZoneID=25&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=1&amp;SiteID=1&amp;Random=1416545097855.72"></script>
+  
+  <noscript>
+    <a href="http://media.fastline.com/ad.aspx?ZoneID=25&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=1" target="_blank">
+      <img src="http://media.fastline.com/ad.aspx?ZoneID=25&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=1" width="728" height="90" border="0"  alt=""></a>
+  </noscript>
+</span>
                 </div>
                 
     <div class="left" style="padding-left: 5em; padding-right: 5em;">
@@ -463,47 +481,6 @@ return true;
     <!-- end floating contact form markup -->            
 
     
-<script type="text/javascript">
-//<![CDATA[
-var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_ValidationSummary1"));
-var Page_Validators =  new Array(document.getElementById("ctl00_cvFastSearchHeaderText"));
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-var ctl00_cvFastSearchHeaderText = document.all ? document.all["ctl00_cvFastSearchHeaderText"] : document.getElementById("ctl00_cvFastSearchHeaderText");
-ctl00_cvFastSearchHeaderText.controltovalidate = "ctl00_txtFastSearchHeader";
-ctl00_cvFastSearchHeaderText.focusOnError = "t";
-ctl00_cvFastSearchHeaderText.errormessage = "A search term is required.";
-ctl00_cvFastSearchHeaderText.validationGroup = "FastSearchHeader";
-ctl00_cvFastSearchHeaderText.evaluationfunction = "CustomValidatorEvaluateIsValid";
-ctl00_cvFastSearchHeaderText.clientvalidationfunction = "FastSearchHeaderValidate";
-var ctl00_ValidationSummary1 = document.all ? document.all["ctl00_ValidationSummary1"] : document.getElementById("ctl00_ValidationSummary1");
-ctl00_ValidationSummary1.validationGroup = "FastSearchHeader";
-//]]>
-</script>
-
-
-<script type="text/javascript">
-//<![CDATA[
-
-var Page_ValidationActive = false;
-if (typeof(ValidatorOnLoad) == "function") {
-    ValidatorOnLoad();
-}
-
-function ValidatorOnSubmit() {
-    if (Page_ValidationActive) {
-        return ValidatorCommonOnSubmit();
-    }
-    else {
-        return true;
-    }
-}
-        //]]>
-</script>
-
     <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-900710-1']);
@@ -524,4 +501,4 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     </script>    
 
 
-<div class="printModeHide" style="font-size:7pt;text-align:right;color:silver;position:fixed;bottom:5px;right:5px;cursor:default;" title="Page generated in: 00:00:00.0468003">[+]</div></div></form><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+<div class="printModeHide" style="font-size:7pt;text-align:right;color:silver;position:fixed;bottom:5px;right:5px;cursor:default;" title="Page generated in: 00:00:00.0624004">[+]</div></div></form><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
