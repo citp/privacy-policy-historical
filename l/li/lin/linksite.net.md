@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208085843id_/http%3A//www.linksite.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032419id_/http%3A//www.linksite.net/privacy_policy.html) for the most accurate reproduction.*
 
 # LinkSite.net - Premium Link Directory. Human-Edited. - Privacy Policy
 
