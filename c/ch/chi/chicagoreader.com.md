@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010444id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121063027id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
 
-# Chicago | About | PrivacyPolicy
+# Chicago Reader | About | PrivacyPolicy
 
 ## This Privacy Policy applies to our sites and apps
 
