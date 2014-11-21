@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601151742id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065320id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Momma Young
 
