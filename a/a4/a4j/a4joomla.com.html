@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the a4joomla.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625081018id_/http%3A//www.a4joomla.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a4joomla.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121050408id_/http%3A//www.a4joomla.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://a4joomla.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="free joomla templates, professional joomla templates">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Cross-browser compatible, responsive free joomla templates can be downloaded here. Also you can purchase our professional joomla templates.">
+  <meta name="description" content="Cross-browser compatible, responsive free joomla templates can be downloaded here. You can also purchase our professional joomla templates.">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy policy</title>
   <link href="http://a4joomla.com/component/search/?Itemid=161&amp;format=opensearch" rel="search" title="Search a4joomla" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_old.css?v=230" type="text/css">
-  <link rel="stylesheet" href="/media/com_hikashop/css/style_mine.css?v=230" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_old.css?t=1411608284" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/style_mine.css?t=1349307099" type="text/css">
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <style type="text/css">
 
@@ -51,7 +51,7 @@
   <script src="/components/com_k2/js/k2.js?v2.6.8&amp;sitepath=/" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="/media/com_hikashop/js/hikashop.js?v=230" type="text/javascript"></script>
+  <script src="/media/com_hikashop/js/hikashop.js?v=233" type="text/javascript"></script>
   <script src="/media/system/js/modal.js" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
@@ -75,7 +75,7 @@ window.addEvent('load', function() {
 
 		if(obj){
 			qty = parseInt(obj.value);
-		}else if(document.getElementById("hikashop_product_quantity_field_"+id).value){
+		}else if(document.getElementById("hikashop_product_quantity_field_"+id) && document.getElementById("hikashop_product_quantity_field_"+id).value){
 			qty = document.getElementById("hikashop_product_quantity_field_"+id).value;
 		}
 		if(form && document[form]){
@@ -129,6 +129,10 @@ window.addEvent('load', function() {
 					}
 				}
 				if(hikaModule) hikaModule.innerHTML = result;
+				if(window.jQuery && typeof(jQuery.noConflict) == "function" && !window.hkjQuery) {
+					window.hkjQuery = jQuery.noConflict();
+				}
+				hkjQuery( ".tochosen:not(.chzn-done)" ).removeClass('chzn-done').removeClass('tochosen').chosen();
 			};
 			try{
 				new Ajax(url, {method: "get", onComplete: completeFct}).request();
@@ -305,7 +309,7 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 	<input type="hidden" name="option" value="com_users">
 	<input type="hidden" name="task" value="user.login">
 	<input type="hidden" name="return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTQzJkl0ZW1pZD0xNjE=">
-	<input type="hidden" name="b0c34f8fb7a6dcb043487e2af1cd5df3" value="1">	</fieldset>
+	<input type="hidden" name="8f910e68d6c8bdeef7bde07ab8615d23" value="1">	</fieldset>
 	<ul>
 		<li>
 			<a href="/your-profile.html?view=reset">
@@ -355,19 +359,19 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 <p style="text-align: justify;">We may collect the following information:</p>
 <div style="text-align: left;">
 <ul>
-<li> name</li>
-<li> contact information including email address</li>
-<li> other information relevant to customer surveys and/or offers</li>
+<li>name</li>
+<li>contact information including email address, billing name and address</li>
+<li>other information relevant to customer surveys and/or offers</li>
 </ul>
 </div>
 <h3>What we do with the information we gather</h3>
 <p style="text-align: justify;">We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
 <div style="text-align: left;">
 <ul>
-<li> Internal record keeping.</li>
-<li> We may use the information to improve our products and services.</li>
-<li> We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-<li> From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.</li>
+<li>Internal record keeping.</li>
+<li>We may use the information to improve our products and services.</li>
+<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.</li>
 </ul>
 </div>
 <h3>Security</h3>
@@ -409,7 +413,8 @@ img, div, a, input { behavior: url(/templates/a4joomla-mylandscape/iepngfix.htc)
 	    
          </div>
    
-</div><font style="overflow: auto; position: absolute; height: 0pt; width: 0pt"><a href="http://www.dekoratiftas.net/" title="Dekoratif tas Paneller">Dekoratif tas Paneller</a><a href="http://www.yumurtasunger.net/" title="Yumurta Sunger">Yumurta Sunger</a><a href="http://www.catipenceresi.gen.tr/" title="cati Penceresi">cati Penceresi</a><a href="http://www.catimerdiveni.org/" title="cati cikis Merdiveni">cati cikis Merdiveni</a><a href="http://www.duvartaskaplama.net/" title="Duvar Tas Kaplama">Duvar Tas Kaplama</a><a href="http://www.catipencereleri.com.tr/" title="cati Pencereleri">cati Pencereleri</a><a href="http://www.tuglakaplama.net/" title="Dekoratif Tugla">Dekoratif Tugla</a></font>
+</div>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -420,6 +425,5 @@ var pageTracker = _gat._getTracker("UA-16043650-1");
 pageTracker._setDomainName(".a4joomla.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 </body></html>
