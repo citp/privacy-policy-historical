@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1derrick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050254id_/http%3A//www.1derrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1derrick.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044314id_/http%3A//www.1derrick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
 Last Updated: July 12, 2012
 
@@ -40,7 +40,7 @@ We may store some information such as 'cookies' on your computer. You can erase 
 
 Security
 
-The security of your Personal Information is important to us. We have adopted reasonable security practices and procedure to ensure that the Personal Information collected is secure. You agree that such measures are secure and adequate. We restrict access to your Personal Information to our and our affiliates' employees, agents, third party service providers, partners, banks, financial institutions, agencies and who need to know such Personal Information in relation to the purposes as specified above in this Policy.   
+The security of your Personal Information is important to us. We have adopted reasonable security practices and procedure to ensure that the Personal Information collected is secure. You agree that such measures are secure and adequate. We restrict access to your Personal Information to our and our affiliates' employees, agents, third party service providers, partners, banks, financial institutions, agencies and who need to know such Personal Information in relation to the purposes as specified above in this Policy.  
 While we will endeavor to take all reasonable and appropriate steps to keep secure any information which we hold about you and prevent unauthorized access, you acknowledge that the internet is not 100% secure and that we cannot provide any absolute assurance regarding the security of your Personal Information. We will not be liable in any way in relation to any breach of security or unintended loss or disclosure of information caused by us in relation to your Personal Information.
 
 Third Party Links
