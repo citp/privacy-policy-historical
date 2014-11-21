@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622124959id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121172608id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
 
 # e-conomic's online media Privacy Policy
 
