@@ -1,638 +1,315 @@
-<!--The following is the downloaded HTML source of the unexplainablestore.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209143849id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unexplainablestore.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121104720id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Unexplainable Store- Privacy Policy</title>
-<link rel="stylesheet" href="http://www.unexplainablestore.com/style.css" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.unexplainablestore.com/js/functions.js"></script>
-</head>
-<body>
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta content="brainwave,brainwave entrainment,brainwave music,binaural beats,isochronic tones" name="keywords">
+<title>Unexplainable Store Privacy Policy</title>
+<link href="/favicon.ico" mce_href="/favicon.ico" rel="bookmark" type="image/x-icon"> 
+<link href="/favicon.ico" mce_href="/favicon.ico" rel="icon" type="image/x-icon"> 
+<link href="/favicon.ico" mce_href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="js/css/ui-lightness/jquery-ui-1.10.4.min.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="target-densitydpi=300, width=1200">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/jquery.min.js"></script>
+<script src="js/jquery-ui-1.10.4.min.js"></script>
+<script src="js/unslider.min.js"></script>
 <script type="text/javascript">
+$(document).ready(function() {
+	var unslider = $('.banner').unslider({	//幻灯片
+		speed: 800,               //  The speed to animate each slide (in milliseconds)
+		delay: 6000,              //  The delay between slide animations (in milliseconds)
+		keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+		dots: true,               //  Display dot navigation
+		fluid: true
+	});
+	$('.unslider-arrow.next').click(function() {
+        //var fn = this.className.split('next')[1];
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1468865-2']);
-  _gaq.push(['_trackPageview']);
+        //  Either do unslider.data('unslider').next() or .prev() depending on the className
+        unslider.data('unslider').next();
+    });
+	$('.unslider-arrow.prev').click(function() {
+        unslider.data('unslider').prev();
+    });
+	
+	$('#mainnav li').hover(function() {	//弹出菜单
+        $(this).find(".popmenu").stop().slideDown("fast");
+    }, function() {
+		$(this).find(".popmenu").stop().slideUp("fast");
+	});
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	$('.productlist ul li a').hover(function() {	//产品图标背景动画
+        $(this).find(".imgbg").stop().animate({opacity: 1}, 350);
+    }, function() {
+		$(this).find(".imgbg").stop().animate({opacity: 0}, 350);
+	});
+	
+	$("#back-to-top").hide();
+	//当滚动条的位置处于距顶部100像素以下时，跳转链接出现，否则消失
+	$(function () {
+		$(window).scroll(function(){
+		if ($(window).scrollTop()>10){
+		$("#back-to-top").fadeIn(500);
+		//$("#mannavbarbox").animate({height:"60px"});
+		}
+		else
+		{
+		$("#back-to-top").fadeOut(500);
+		}
+		});
+		//当点击跳转链接后，回到页面顶部位置
+		$("#back-to-top").click(function(){
+		$('body,html').animate({scrollTop:0},500);
+		return false;
+		});
+		});
+		
+	//锚点动画跳转
+	$(function(){
+    var url = window.location.toString();
+    var id = url.split("#")[1];
+   		if(id){
+      		var t = $("#"+id);
+      		//$(window).scrollTop(t);
+	  		$('html,body').animate({scrollTop:$(t).offset().top-150},500);
+   		}
+	});
+	$('a').click(function(){
+		if($(this).parents('#tabs').length==0){ //非tab的情况下
+		var href = $(this).attr("href");
+		var id = href.split("#")[1];
+    	if(id){
+      		var t = $("#"+id);
+	  		$('html,body').animate({scrollTop:$(t).offset().top-150},500);
+   		}}
+//    	var href = $(this).attr("href");
+//    	var pos = $(href).offset().top-150;
+//    	$("html,body").animate({scrollTop: pos}, 500);
+//    	return false;
+	});
+	
+	//元素动态出现
+	$("#header").fadeIn();
+	$(".products_leftbar").slideDown("slow");
+	$(".member_leftbar").slideDown("slow");
+	
+	//弹出框
+	$( ".dialog" ).dialog({
+			autoOpen: false,
+			width: 550,
+			show:"scale",    	//打开时的动画效果  
+            hide:"scale",		 //关闭是的动画效果
+			modal: true,
+		});
+	
+	//弹出订阅框
+	$(".showsubscribe").delay(1000).show( "bounce", { times: 2 }, "slow" );
+	$( ".showsubscribe" ).click(function() {
+  		$( "#subscribe" ).stop().toggle( "bounce", { times: 2,distance:20 }, "slow" );
+		$(".showsubscribe").fadeOut("fast");
+	});
+	$( "#subscribe .close" ).click(function() {
+  		//$( "#subscribe" ).stop().hide( "bounce", { times: 2 }, "slow" );
+  		$( "#subscribe" ).stop().animate({marginTop:'-310px'}).hide('fast').animate({marginTop:'0px'},0,function() {
+    		$(".showsubscribe").show( "bounce", { times: 2 }, "slow" );
+  		});
+	});
+//$('#nav01').addClass('current');
 
+//    if (window.PIE) {
+//        $('#mainnav a').each(function() {
+//            PIE.attach(this);
+//        });
+//		$('.searchbg').each(function() {
+//            PIE.attach(this);
+//        });
+//    }
+});
 </script>
+<script type="text/javascript">
+$(document).ready(function() {
+	//$('#mainnav #nav06').addClass('current');//主导航当前项目
+});
+</script>
+</head>
 
-<link rel="stylesheet" href="style.css" type="text/css" media="screen">
-                <div align="center">
-					<div id="products">
-<div class="product_header-big">
+<body>
+<div id="subscribe" style="display:none">
+  <form action="http://www.aweber.com/scripts/addlead.pl" method="post" name="form1" id="form1">
+<input type="hidden" name="meta_web_form_id" value="344775232">
+<input type="hidden" name="meta_split_id" value="">
+<input type="hidden" name="listname" value="store-list">
+<input type="hidden" name="redirect" value="http://www.unexplainablestore.com/subscribe_confirm_email.php" id="redirect_7d5ae132df9763cff6c664a9ba1785de">
+<input type="hidden" name="meta_redirect_onlist" value="http://www.unexplainablestore.com/already-subscribed.php">
+<input type="hidden" name="meta_adtracking" value="3-5-11">
+<input type="hidden" name="meta_message" value="1">
+<input type="hidden" name="meta_required" value="email">
 
-            		<div class="product_header_left-big">
-            		
-                		<div class="product_header_right-big" style="width: 100%; height: 156px">
-                    	<table border="0" width="100%" cellspacing="0" cellpadding="0" height="139" id="table10">
-							<tbody><tr>
-								<td>
-								<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table11" height="100%">
-									<tbody><tr>
-										<td>
-											<div style="width: 600px;height:100%; cursor: hand;" onmouseover="this.style.cursor='pointer'" onclick="javascript:window.location='http://www.unexplainablestore.com'"></div>
-										</td>
-										<td>
-										<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table19" height="118%">
-											<tbody><tr>
-												<td width="212">													
-
-												</td>
-
-												<td valign="top">
-												</td>
-
-												<td width="600" valign="top" align="right">
-													<!--<a href="http://www.unexplainablestore.com/japanese/">
-														<img border="0" src="http://www.unexplainablestore.com/images/jp.jpg" style="margin-right:20px;">
-													</a>
-													<a href="http://www.unexplainablestore.com/Spanish/">
-														<img border="0" src="http://www.unexplainablestore.com/images/Spanish.jpg">
-													</a>-->
-
-													<img border="0" src="http://www.unexplainablestore.com/images/logo.gif" width="387" height="71">
-												</td>
-											</tr>
-										</tbody></table>
-										</td>
-									</tr>
-								</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td height="84">
-									<ul class="navigation">
-										<li><a href="http://www.unexplainablestore.com/">Home</a></li><a href="http://www.unexplainablestore.com/">
-										</a><li><a href="http://www.unexplainablestore.com/"></a><a href="http://www.unexplainablestore.com/products/binaural-beats.php">More Info</a></li><a href="http://www.unexplainablestore.com/products/binaural-beats.php">
-										</a><li><a href="http://www.unexplainablestore.com/products/binaural-beats.php"></a><a href="http://www.unexplainablestore.com/membership.php">Membership</a></li><a href="http://www.unexplainablestore.com/membership.php">
-										</a><li><a href="http://www.unexplainablestore.com/membership.php"></a><a href="http://www.unexplainablestore.com/products/CDs.php">Order CD's</a></li><a href="http://www.unexplainablestore.com/products/CDs.php"> <!--&nbsp;&nbsp;&nbsp;&nbsp;-->
-										<!--<li style="position: relative;"><img src="http://www.unexplainablestore.com/images/promotion-Tag2.png" style="position: absolute; top: -25px; left: -30px;border:0 none;"><a href="http://www.unexplainablestore.com/promotions.php" style="position:relative;color:#000;">Promotion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>-->
-										</a><li><a href="http://www.unexplainablestore.com/products/CDs.php"></a><a href="http://www.unexplainablestore.com/giftcards.php">Gift Cards</a></li><a href="http://www.unexplainablestore.com/giftcards.php">
-										</a><li><a href="http://www.unexplainablestore.com/giftcards.php"></a><a href="http://www.unexplainablestore.com/apps.php">Mobile</a></li><a href="http://www.unexplainablestore.com/apps.php">
-										<!--<li><a href="http://www.unexplainablestore.com/promotions.php">Promotion</li>-->
-										</a><li><a href="http://www.unexplainablestore.com/apps.php"></a><a href="http://www.unexplainablestore.com/testimonials.php">Testimonials</a></li><a href="http://www.unexplainablestore.com/testimonials.php">
-										</a><li><a href="http://www.unexplainablestore.com/testimonials.php"></a><a href="http://www.unexplainablestore.com/manual/index.php">Manual</a></li><a href="http://www.unexplainablestore.com/manual/index.php">
-										</a><li><a href="http://www.unexplainablestore.com/manual/index.php"></a><a href="http://www.unexplainablestore.com/blog">Blog</a></li><a href="http://www.unexplainablestore.com/blog">
-										</a><li><a href="http://www.unexplainablestore.com/blog"></a><a href="http://www.unexplainablestore.com/contact.php">Contact</a></li><a href="http://www.unexplainablestore.com/contact.php">
-										</a><li class="last"><a href="http://www.unexplainablestore.com/contact.php"></a><a href="http://www.unexplainablestore.com/guarantee.php">Guarantee</a></li><a href="http://www.unexplainablestore.com/guarantee.php">
-									</a></ul><a href="http://www.unexplainablestore.com/guarantee.php">              
-								</a></td>
-							</tr></tbody></table>
-</div>
-</div>
-</div></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-<table cellpadding="0" cellspacing="0" border="0" id="tmain">
-	<tbody><tr><td valign="top" class="menu-left">
-
-<!-- 
-<div style="width:264px;height:auto;">
-	<SCRIPT>
-		var widths=231;
-		var heights=231;
-		var counts=2;
-		img1=new Image ();img1.src='http://www.unexplainablestore.com/images/apps/ads01.png';
-		img2=new Image ();img2.src='http://www.unexplainablestore.com/images/apps/ads02.png';
-		url1=new Image ();url1.src='http://itunes.apple.com/us/app/brainwaves-unexplainable-store/id450655712?mt=8';
-		url2=new Image ();url2.src='http://itunes.apple.com/us/app/brainwaves-unexplainable-store/id450655712?mt=8';
-		var nn=1;
-		var key=0;
-		function change_img()
-		{if(key==0){key=1;}
-		else if(document.all)
-		{document.getElementById("pic").filters[0].Apply();document.getElementById("pic").filters[0].Play(duration=2);}
-		eval('document.getElementById("pic").src=img'+nn+'.src');
-		eval('document.getElementById("url").href=url'+nn+'.src');
-		for (var i=1;i<=counts;i++){document.getElementById("xxjdjj"+i).className='axx';}
-		document.getElementById("xxjdjj"+nn).className='bxx';
-		nn++;if(nn>counts){nn=1;}
-		tt=setTimeout('change_img()',3000);}
-		function changeimg(n){nn=n;window.clearInterval(tt);change_img();}
-		
-		document.write('<div style="width:'+widths+'px;height:'+heights+'px;overflow:hidden; margin-left:15px;">');
-		document.write('<div><a id="url" target="_blank"><img id="pic" border="0px" width='+widths+' height='+heights+' /></a></div>');
-		for(var i=1;i<counts+1;i++){document.write('<a href="javascript:changeimg('+i+');" id="xxjdjj'+i+'" class="axx" target="_self">'+i+'</a>');}
-		document.write('</div>');
-		change_img();
-	</SCRIPT>
-
-</div>
- -->
-
-<!--<div style="width:264px;text-align:center;margin-top:15px;">
-<a href="http://www.unexplainablestore.com/promotions.php"><img src="/images/sale.jpg" /></a>
-</div>-->
-<div class="yourcart">
-  &nbsp;</div>
-<div class="infoz">
-<div align="center">
-	<table border="0" width="220px" cellspacing="0" cellpadding="0" id="table1">
-		<tbody><tr>
-			<td>
-			<div align="center">
-  <table cellspacing="0" cellpadding="0" id="table2" width="100%">
+<input type="hidden" name="meta_tooltip" value="">
+    <div class="inputbg">
+      <input name="email" type="text" value="Enter Your Email Address Here" onblur="if (this.value == '') {this.value = 'Enter Your Email Address Here';}" onfocus="if (this.value == 'Enter Your Email Address Here') {this.value = '';}">
+    </div>
+    <input type="submit" name="submit" id="submit" value="Download it Now!" class="button">
+  </form>
+  <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tbody><tr>
-      <td colspan="2"><br>
-		<div align="center"><b><a style="font-size:10pt" href="../mcart.php">Checkout - 0 Items - $0</a></b></div></td>
+      <td width="40%" height="45" align="right" valign="top">You also get:</td>
+      <td align="left" valign="top">Mind Lesson Tips	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Special Offers<br>
+        Instant Use Coupons</td>
     </tr>
-    
-      </tbody></table>
-			</div>
-			<hr>
-			<p align="center">
-			  </p><p align="center">
-			<b><font size="4" color="#00FF00">Be Sure To See The</font></b><br>
-			<b>
-			<a href="http://www.unexplainablestore.com/products/packages.php">
-			<font size="4">PACKAGE DEALS!</font></a></b><br>
-&nbsp;</p></td>
-		</tr>
-	</tbody></table>	<div class="menu_tfoot"></div>
-	
-		
-		
-   	<div class="menu_head">
-        </div>
-        	<div class="menu">
-        		<ul id="side_menu">
-					<li class="dd_menu"><a href="javascript:void()">Spiritual &amp; Metaphysical</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/astral.php">Astral Projection</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/lucid.php">Lucid Dreaming</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/chakra.php">Chakra Opening</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/solfeggio-frequencies.php">Solfeggio Frequencies</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/automatic-writing.php">Automatic Writing</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/telepathy.php">Telepathy</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/chanting.php">Chanting</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/aura.php">Aura Viewing</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/pastlife.php">Past Life Regression</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/remote-viewing.php">Remote Viewing</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/hypnosis.php">Self Hypnosis</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/meditation.php">Meditation</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/yoga-enhancer.php">Yoga Enhancer</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/esp.php">ESP/Psychic</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/shaman.php">Shaman Consciousness</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/spirit-guide.php">Spirit Guide Contact</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/christ.php">Christ Consciousness</a></li>
-						</ul>
-					</li>
-					<li class="dd_menu"><a href="javascript:void()">Money &amp; Prosperity</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/manifest.php">Manifestation</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/prosperity.php">Prosperity</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/motivation.php">Motivation</a></li>
-						</ul>
-					</li>
-        			<li class="dd_menu"><a href="javascript:void()">Health &amp; Hygiene</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/health.php">Good Health</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/immune-system.php">Immune System</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/allergy-relief.php">Allergy Relief</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/sinus.php">Sinus Congestion</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/headache-remedy.php">Headache Remedy</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/tinnitus.php">Tinnitus</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/pain-relief.php">Pain Relief</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/arthritis.php">Arthritis Aid</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/dna.php">DNA Stimulation</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/sleep.php">Sleep</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/wake-up.php">Wake Up</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/endorphin.php">Endorphin Release</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/energy.php">Energy</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/fountain-of-youth.php">Fountain of Youth</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/clear-complexion.php">Clear Complexion</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/eyesight.php">Eyesight</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/hair-loss.php">Hair Loss (HGH)</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/weight.php">Weight Loss</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/healing-tones.php">Healing Tones</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/female-health.php">Female Health</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/hgh.php">Human Growth Hormone</a></li>
-						</ul>
-					</li>
-					<li class="dd_menu"><a href="javascript:void()">Brain Function</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/memory.php">Memory</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/creativity.php">Creativity</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/iq-increase.php">IQ Increase</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/language-learning.php">Language Learning</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/stay-alert.php">Stay Alert</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/reaction-time.php">Reaction Time</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/color-noise.php">Color Noise</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/jeg-lag.php">Jet Lag Relief</a></li>
-						</ul>
-					</li>
-					<li class="dd_menu"><a href="javascript:void()">Therapy Recordings</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/anxiety.php">Anxiety Aid</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/addiction.php">Addiction Help</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/attention-disorder.php">Attention Disorder</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/relaxation.php">Relaxation</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/depression.php">Depression Help</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/inner-balance.php">Inner Balance</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/mindbody-detox.php">Mind Body Detox</a></li>
-						</ul>
-					</li>
-					<li class="dd_menu"><a href="javascript:void()">Personal Development</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/confidence.php">Confidence</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/courage.php">Courage</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/ego.php">Ego Control</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/leadership.php">Leadership</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/no-regrets.php">No Regrets</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/public-speaking.php">Public Speaking</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/right-path.php">Right Path</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/self-esteem.php">Self-Esteem</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/positive-mindset.php">Positive Mindset</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/anger-management.php">Anger Management</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/serotonin-release.php">Serotonin Release</a></li>
-						</ul>
-					</li>
-					<li class="dd_menu"><a href="javascript:void()">Adult Subjects</a>
-						<ul>
-							<li><a href="http://www.unexplainablestore.com/products/female-sex-drive.php">Female Sex Drive</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/find-love.php">Find Love</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/get-pregnant.php">Get Pregnant</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/impotency.php">Impotency</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/love-making.php">Love Making</a></li>
-							<li><a href="http://www.unexplainablestore.com/products/orgasm-increase.php">Orgasm Increase</a></li>
-						</ul>
-					</li>
-        		</ul>
-            </div>
-        <div class="menu_tfoot"></div>
+  </tbody></table>
+  <a href="javascript:;" class="close"> </a> </div>
+  <a href="javascript:;" class="showsubscribe" style="display:none">Subscribe to our Newsletter</a>
+<div id="header" style="">
+  <div id="topbarbox">
+    <div id="topbar">
+      <div class="box">
+        <div class="topcart"><a href="mcart.php">Your Cart <span>0</span> Items</a></div>
+        <form action="store_searchresults.php" method="post" class="topsearch">
+          <div class="searchbg">
+            <input type="text" name="searchtext" autocomplete="on" value="Search Store" onblur="if (this.value == '') {this.value = 'Search Store';}" onfocus="if (this.value == 'Search Store') {this.value = '';}">
+          </div>
+        </form>
+      </div>
+      <div class="language"><a href="http://www.unexplainablestore.com/Spanish/">Español</a> <a href="http://www.unexplainablestore.com/japanese/">日本語</a></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div id="mannavbarbox">
+    <div id="mainnavbar">
+      <div class="logo"><a href="index.php"><img src="imgs/logo.png" width="420" height="110" alt=""></a></div>
+      <ul id="mainnav">
+        <li id="nav01"><a href="index.php">Home</a></li>
+        <li id="nav02"><a href="store.php">Store</a>
+          <div class="popmenu"><img src="imgs/popmenu_line1.png" width="165" height="9" alt="">
+            <ul>
+              <li><a href="store.php">All Brainwaves</a></li>
+              <li><a href="store_cds.php">Order CDs</a></li>
+              <li><a href="store_gift_card.php">Gift Cards</a></li>
+              <li><a href="store_readings.php">Astrology Readings</a></li>
+            </ul>
+          </div>
+        </li>
+        <li id="nav03"><a href="membership.php">Membership</a></li>
+        <li id="nav04"><a href="testimonials.php">Testimonials</a></li>
+        <li id="nav05"><a href="contact.php">Contact</a></li>
+        <li id="nav06"><a href="javascript:;">More...</a>
+          <div class="popmenu more"><img src="imgs/popmenu_line2.png" width="165" height="9" alt="">
+            <ul>
+              <li><a href="about.php">About</a></li>
+              <li><a href="manual.php">User Manual</a></li>
+              <li><a href="mobile.php">Mobile</a></li>
+              <li><a href="http://www.unexplainablestore.com/blog" target="_blank">Blog</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div id="mainbody">
+  <div class="toppic about"></div>
+  <div class="aboutpage">
+    <div class="textcontent_14">
+      <h1 align="center">Privacy Policy Statement</h1>
+      <p align="left">&nbsp;</p>
+      <p align="left">Any and all information collected is secure and will not be sold or given to any party besides The Unexplainable Store®. We understand your privacy is our business, and we take it seriously.</p>
+      This is the web site of&nbsp;<strong>unexplainablestore.com.</strong>
+      <p>Our postal address is<br>
+        <strong>PO Box 803338 # 91747<br>
+        Chicago, IL 60680-3338</strong></p>
+      We can be reached via e-mail at <a href="mailto:unexplainablestore.net@gmail.com">unexplainablestore.net@gmail.com</a>
+      <p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and IP address (where possible).</p>
+      <p>We collect the domain name and IP address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us&nbsp;&nbsp; via e-mail, or who subscribe to our newsletter, and aggregate information on what pages consumers access or visit.</p>
+      <p>The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and send information that our users request. If you do not want to receive e-mail from us in the future, please let us know by or Clicking the unsubscribe link in any of our newsletters.</p>
+      <p>With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.</p>
+      <p>With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.</p>
+      <p>If you feel that this site is not following its stated information policy, please contact us.</p>
+      <p>Please use our&nbsp;<a href="contact.php">contact page</a>&nbsp;for any questions or comments.</p>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <div id="footernav">
+    <div class="wrap1120">
+<form action="store_searchresults.php" method="post" class="topsearch">
+          <div class="searchbg">
+            <input type="text" name="searchtext" autocomplete="on" value="Search Store" onblur="if (this.value == '') {this.value = 'Search Store';}" onfocus="if (this.value == 'Search Store') {this.value = '';}">
+          </div>
+        </form> <a href="index.php">Home</a> | <a href="store.php">Store</a> | <a href="membership.php">Membership</a> | <a href="testimonials.php">Testimonials</a> | <a href="contact.php">Contact</a> | <a href="about.php">About</a> | <a href="manual.php">User Manual</a> | <a href="mobile.php">Mobile</a> | <a href="store_readings.php">Astrology</a> | <a href="http://www.unexplainablestore.com/blog" target="_blank">Blog</a></div>
+  </div>
+  <div id="footerinfo">
+    <div class="wrap1120">
+      <div class="textcontent">
+        <h2>Don’t Miss Out:</h2>
+        Be the first to try out our isochronic video, full length brainwave recording and more!
+        <form class="emailsignup" action="http://www.aweber.com/scripts/addlead.pl" method="post" name="form1" id="form1">
+<input type="hidden" name="meta_web_form_id" value="344775232">
+<input type="hidden" name="meta_split_id" value="">
+<input type="hidden" name="listname" value="store-list">
+<input type="hidden" name="redirect" value="http://www.unexplainablestore.com/subscribe_confirm_email.php" id="redirect_7d5ae132df9763cff6c664a9ba1785de">
+<input type="hidden" name="meta_redirect_onlist" value="http://www.unexplainablestore.com/already-subscribed.php">
+<input type="hidden" name="meta_adtracking" value="3-5-11">
+<input type="hidden" name="meta_message" value="1">
+<input type="hidden" name="meta_required" value="email">
+
+<input type="hidden" name="meta_tooltip" value="">
+          <div class="inputbox">
+            <input name="email" type="text" value="Your@Email.com" onblur="if (this.value == '') {this.value = 'Your@Email.com';}" onfocus="if (this.value == 'Your@Email.com') {this.value = '';}">
+          </div>
+          <input name="submit" id="submit" type="submit" value="Sign Up" class="button">
+        </form>
+      </div>
+      <div class="textcontent">
+        <h2>About Us:</h2>
+        <ul>
+          <li><a href="about.php">The Unexplainable Store</a></li>
+          <li><a href="affiliate.php">Affiliate Program</a></li>
+          <li><a href="privacy.php">Privacy Policy</a></li>
+          <li><a href="terms.php">Terms &amp; Conditions</a></li>
+        </ul>
+      </div>
+      <div class="textcontent">
+        <h2>Support:</h2>
+        <ul>
+          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="feature.php#f04">Shipping info</a></li>
+          <li><a href="feature.php#f13">Return &amp; Exchanges</a></li>
+          <li><a href="feature.php#f14">Payment Security</a></li>
+          <li><a href="contact.php#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div class="textcontent">
+        <h2>Language: </h2>
+        <ul>
+          <li><a href="http://www.unexplainablestore.com/Spanish/">Español</a></li>
+          <li><a href="http://www.unexplainablestore.com/japanese/">日本語</a></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="copyright">
+    <div class="wrap1120 textcontent">
+      <ul class="followus">
+        <li class="title">Follow us: </li>
+        <li><a href="https://www.facebook.com/UnexplainableStore"><img src="imgs/facebook.png" width="24" height="24"></a></li>
+        <li><a href="https://twitter.com/unexplainstore"><img src="imgs/twitter.png" width="24" height="24"></a></li>
         
-        <div class="menu_topsale"></div>
-        		
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/esp.php" style="overflow:hidden;">
-		ESP/Psychic Binaural Beat</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/manifest.php" style="overflow:hidden;">
-		Manifestation Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/esp.php" style="overflow:hidden;">
-		ESP/Psychic Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/lucid.php" style="overflow:hidden;">
-		Lucid Dreaming Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/chakra.php" style="overflow:hidden;">
-		Chakra 20 Minute Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/telepathy.php" style="overflow:hidden;">
-		Super Psychic Package Isochronics</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/solfeggio-frequencies.php" style="overflow:hidden;">
-		30 Minute Solfeggio Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/astral.php" style="overflow:hidden;">
-		Astral Projection Isochronic</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/prosperity.php" style="overflow:hidden;">
-		Prosperity Isochronic Package</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		<!--<p align="center" style="margin: 0pt; padding: 0pt; "><br>  -->
-				
-		
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;">
-		<a href="http://www.unexplainablestore.com/products/astral.php" style="overflow:hidden;">
-		Astral Projection Binaural Beat</a></p>
-				
-		
-		<!-- <hr width="230">  -->
-				
-				
-		
-		<div class="menu_tfoot"></div>
-		
-		
-         <div class="menu_astro"></div>
-         <div class="menu">
-        
-         
-        
-         <a href="http://www.unexplainablestore.com/astrology.php">
-			<center><img border="0" src="http://www.unexplainablestore.com/images/astrology/astrologyreadings.gif" width="230" height="139"></center></a>
-         </div>
-         <div class="menu_tfoot"></div>
+        <li><a href="https://plus.google.com/+Unexplainablestore/posts"><img src="imgs/googleplus.png" width="24" height="24"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCCeSGDnNFo6YlibSdnEXowg"><img src="imgs/youtube.png" width="24" height="24"></a></li>
+        <li><a href="http://vk.com/brainwavesstore"><img src="imgs/vk.png" width="24" height="24"></a></li>
+        <div class="clear"></div>
+      </ul>
+      Copyright: PPL Development Company LLC <br>
+      "The Unexplainable Store®" is a Registered Trademark</div>
+  </div>
+</div>
+<p id="back-to-top" style="display: none;"><a href="javascript:;"></a></p>
 
-        
-        	<p align="center"></p><div class="menu_newsletter"></div>
-	
-	<p align="center" style="margin: 0px; padding: 0 4px 0 0;">
-	</p><table border="0" width="200" background="#212121" cellspacing="0" cellpadding="0" id="table3">
-		<tbody><tr>
-			<td><form id="form1" name="form1" method="post" action="http://www.unexplainablestore.com/membership/index.php">
-				<table width="221" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td colspan="2">
-			<p align="center"><a href="http://www.unexplainablestore.com/membership.php"><img border="0" src="http://www.unexplainablestore.com/images/member-200.gif" width="200" height="175"></a></p></td>
-           </tr>
-        <tr>
-          <td height="33"><div align="right"><strong>Email:</strong></div></td>
-          <td><label for="email"></label>
-             <input type="text" name="email" id="email" size="18"></td>
-           </tr>
-        <tr>
-          <td height="34"><div align="right"><strong>Password:</strong></div></td>
-          <td><label for="pass"></label>
-             <input type="password" name="pass" id="pass" size="18"></td>
-           </tr>
-        <tr>
-          <td></td>
-          <td><div align="left">
-            <input type="submit" class="submit_login" name="login" id="login" value="Login">&nbsp;&nbsp;
-			<br>
-			</div></td>
-           </tr>
-        </tbody></table>
-				<p align="center">
-				<a style="font-size:10pt" href="http://www.unexplainablestore.com/membership.php">Become A 
-			Member</a></p>
-			</form></td>
-		</tr>
-	</tbody></table>
-	<p align="center" style="margin: 0px; padding: 0 4px 0 0;">	
-	</p></div>
-
-				
-				</div>
-		<div class="menu_tfoot"></div>
-		
-        
-        
-   <!-- 
-     <div class="menu_videos"></div>
-		
-		<p align="center" style="margin: 0pt; padding: 0pt;"><br>
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/videos/manifestation-video.php">
-		Manifestation ISO Video</a></p>
-				
-		
-		<hr width="220">
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/videos/meditation-video.php">
-		Meditation ISO Video</a></p>
-				
-		
-		<hr width="220">
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt;">
-		<a href="http://www.unexplainablestore.com/videos/spiritual-awakening.php">
-		Awakening&nbsp; ISO Video</a></p>
-		
-		
-		<div class="menu_tfoot"></div>
- -->
-       		
-		<!--<div class="menu_head_crystals"></div>
-		<div class="menu_bottom">
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/activation-recordings.php">
-		Crystal Activation MP3's</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/crystals.php">
-		Tumbled Gem Sets</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/sacred-geometry-crystals.php">
-		Sacred Geometry Sets</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/rune-sets.php">
-		Crystal Rune Sets</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/gem-pyramids.php">
-		Gemstone Pyramids</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/pendulums.php">
-		Gemstone Pendulums</a></p>
-		<p align="center" style="margin:0pt; float:left;font-size:10pt;padding: 0pt;margin-left:15px;width:230px;height:47px;line-height:47px;background:url(http://www.unexplainablestore.com/images/black_grad.jpg) repeat-x;"><a style="overflow:hidden;" href="http://www.unexplainablestore.com/products/obelisks-twisted-wands-merkabas-points.php">
-		Other Assorted Crystals</a></p>-->
-
-		<!--
-		<p align="center" style="margin: 0pt; padding: 0pt;"><br>
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/products/activation-recordings.php">
-		Crystal Activation MP3's</a></p>
-				
-		
-		<hr width="220">
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/products/crystals.php">
-		Tumbled Gem Sets</a></p>
-				
-		
-		<hr width="220">
-				
-		
-		<p align="center" style="margin: 0pt; padding: 0pt;">
-		<a href="http://www.unexplainablestore.com/products/sacred-geometry-crystals.php">
-		Sacred Geometry Sets</a></p><hr width="220">
-		<p align="center" style="margin: 0pt; padding: 0pt;">
-		<a href="http://www.unexplainablestore.com/products/rune-sets.php">
-		Crystal Rune Sets</a></p><hr width="220">
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/products/gem-pyramids.php">
-		Gemstone Pyramids</a></p>
-		<hr width="220">
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/products/pendulums.php">
-		Gemstone Pendulums</a></p>
-		<hr width="220">
-		<p align="center" style="margin: 0pt; padding: 0pt">
-		<a href="http://www.unexplainablestore.com/products/obelisks-twisted-wands-merkabas-points.php">
-		Other Assorted Crystals</a></p>  -->
-		
-		<!--</div>
-		<div class="menu_tfoot"></div>-->
-		
-        
-
-	    </td>
-    <td valign="top">
-
-
-
-
-
-   <div id="products">
-            	<div class="product_header">
-            		<div class="product_header_left">
-                		<div class="product_header_right">
-                    	</div>
-                	</div>
-                </div>
-                <div class="product_display">
-
-<table border="0" cellpadding="4" width="100%">
-  <tbody><tr>
-    <td width="100%"><font>
-      <h1 align="center"><font size="4">Privacy Policy Statement</font></h1>
-      <p align="left"><font size="2">Any and all information collected is secure
-      and will not be sold or given to any party besides 
-		The Unexplainable Store®. We
-      understand your privacy is our business, and we take it seriously.</font></p>
-      <font size="2">This is the web site of <strong>unexplainablestore.com.</strong></font><p><font size="2">Our postal address is<br>
-      </font><strong><font size="2">PO Box 803338 # 91747<br>
-	Chicago, IL 60680-3338</font></strong></p>
-      <font size="2">We can be reached via e-mail at unexplainablestore.net@gmail.com</font><p><font size="2">For each visitor to our Web page, our Web server
-      automatically recognizes the consumer's domain name and IP address (where
-      possible).</font></p>
-      <p><font size="2">We collect the domain name and IP address (where
-      possible) of visitors to our Web page, the e-mail addresses of those who
-      communicate with us&nbsp;&nbsp; via e-mail, or who subscribe to our
-      newsletter, and aggregate information on what pages consumers access or
-      visit.</font></p>
-      <p><font size="2">The information we collect is used to improve the
-      content of our Web page, used to notify consumers about updates to our Web
-      site and send information that our users request. If you do not want to
-      receive e-mail from us in the future, please let us know by or Clicking
-      the unsubscribe link in any of our newsletters.</font></p>
-      <p><font size="2">With respect to cookies: We use cookies to record
-      session information, such as items that consumers add to their shopping
-      cart.</font></p>
-      <p><font size="2">With respect to Ad Servers: We do not partner with or
-      have special relationships with any ad server companies.</font></p>
-      <p><font size="2">If you feel that this site is not following its stated
-      information policy, please contact us.</font></p>
-	<p><font size="2">Please use our <font color="#FFFFFF"> <a href="http://www.unexplainablestore.com/contact.php">contact
-      page</a></font> for any questions or comments.</font></p>
-      </font><p align="left"><font>&nbsp;
-      </font>
-</p></td></tr></tbody></table>
-
- <div class="product_tfoot">
-            		<div class="product_tfoot_left">
-                		<div class="product_tfoot_right">
-                    	</div>
-                	</div>
-                </div>
-        </div></div></td></tr></tbody></table>
-<p align="center"><font color="#FFFFFF">All Purchases And
-                  Downloads Are Subject To Our
-					<a rel="nofollow" href="http://www.unexplainablestore.com/disclaimer.php">Terms Of Service</a><span class="footer"><br>
-                  Products are not intended for medical purposes. Users with 
-					history of seizures, epilepsy, or other medical conditions
-					<br>
-					should consult a doctor before use.&nbsp; Not for use on 
-					minors.</span></font><br>
-</p><p align="center"><font color="#FFFFFF"><b>Copyright: 
-					PPL Development Company LLC<br>
-"The Unexplainable Store®" is a Registered Trademark</b><br>
-					<b><br>
-                  Mailing Address: <br>
-					The Unexplainable Store®<br>
-					PPL Development Company LLC<br>
-					PO Box 803338 # 91747<br>
-					Chicago, IL 60680-3338<br>
-					
-					</b></font></p><p align="center"><font color="#FFFFFF"><b><font color="#FFFFFF"><b><a href="http://www.unexplainablestore.com/affiliates/login.php">Affiliate
-                  Program</a> </b>- <b><a rel="nofollow" href="http://www.unexplainablestore.com/privacy.php">Privacy
-                  Policy</a>  - 
-					<a rel="nofollow" href="http://www.unexplainablestore.com/disclaimer.php">Terms of Service</a> 
-					- <a href="http://www.unexplainablestore.com/Spanish">Español</a> <a href="http://www.unexplainablestore.com/japanese/">- 日本語</a></b></font>
-					
-					
-					
-					
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -646,4 +323,5 @@
   })();
 
 </script>
-</b></font></p></body></html>
+
+</body></html>
