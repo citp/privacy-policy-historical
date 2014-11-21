@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodasupport.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524074646id_/http%3A//www.vodahost.com/web-hosting-custom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodasupport.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121164331id_/http%3A//www.vodahost.com/web-hosting-custom-privacy-policy.html) for the most accurate reproduction.*
 
 # Custom Privacy Policy
 
