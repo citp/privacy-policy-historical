@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627144144id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122001137id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="stylish-select"><head>
 <title>Knoll</title>
@@ -63,8 +63,10 @@ jQuery.browser.version = RegExp.$1;
 <script type="text/javascript" src="/js/jquery/searchGlobalKeyboardControlsMod.js"></script>
 <script type="text/javascript" src="/js/jquery/searchGlobalResultsMod.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
-<script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery-contained-sticky-scroll-min.js"></script>
+<script type="text/javascript" src="/js/jquery/shoppingCartCommon.js"></script>
+<script type="text/javascript" src="/js/jquery/iscroll.min.js"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1219454-1']);
@@ -206,16 +208,19 @@ document.getElementById("memberOfMedia").value = "Yes";
 }
 document.getElementById("requestHiresForm").submit();
 }
-$( function() {
+//$( function() {
+//	var addthis_config = {
+//	url: window.location,
+//	title: $( ".product_info h2" ),
+//	description: $( ".product_info p.description" ),
+//	services_compact: 'pinterest_share,twitter,facebook,email,tumblr,google_plusone_share,linkedin,favorites',
+//	ui_offset_top: 20,
+//	data_track_addressbar:true
+//	};
+//});
 var addthis_config = {
-url: window.location,
-title: $( ".product_info h2" ),
-description: $( ".product_info p.description" ),
-services_compact: 'pinterest_share,twitter,facebook,email,tumblr,google_plusone_share,linkedin,favorites',
-ui_offset_top: 20,
-data_track_addressbar:true
+image_include: "at_image"	
 };
-});
 </script>
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -257,6 +262,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
+<a href="/shop/by-category/gift-guide">Holiday Gift Guide</a>
+</li>
+<li>
 <a href="/shop/by-category/knoll-classics">Knoll Classics</a>
 </li>
 <li>
@@ -275,7 +283,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/shop/by-category/tables">Tables</a>
 </li>
 <li>
-<a href="/shop/by-category/desks">Desks</a>
+<a href="/shop/by-category/home-office">Home Office</a>
 </li>
 <li>
 <a href="/shop/by-category/small-business">Small Business</a>
@@ -283,22 +291,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 <ul class="span6">
 <li>
+<a href="/shop/by-category/totes-and-travel-collection">Totes &amp; Travel Collection</a>
+</li>
+<li>
 <a href="/shop/by-category/accessories">Accessories</a>
 </li>
 <li>
 <a href="/shop/by-category/files-and-storage">Files and Storage</a>
 </li>
 <li>
-<a class="" href="/shop/knolltextiles">Textiles</a>
-</li>
-<li>
 <a href="/shop/by-category/floor-coverings">Floor Coverings</a>
 </li>
 <li>
-<a href="/shop/by-category/vintage-knoll">Vintage Knoll</a>
+<a class="" href="/shop/knolltextiles">Textiles</a>
 </li>
 <li>
 <a href="/shop/by-category/kids">Kids Furniture</a>
+</li>
+<li>
+<a href="/shop/by-category/vintage-knoll">Vintage Knoll</a>
 </li>
 <li>
 <a href="/shop/by-category/leather">Leather</a>
@@ -374,6 +385,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/shop/by-designer/joseph-durso">Joseph D'Urso</a>
 </li>
 <li>
+<a href="/shop/by-designer/Maria-Cornejo">Maria Cornejo</a>
+</li>
+<li>
 <a href="/shop/by-designer/dorothy-cosonas">Dorothy Cosonas</a>
 </li>
 <li>
@@ -419,6 +433,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li>
 <a href="/shop/by-designer/george-nakashima">George Nakashima</a>
+</li>
+<li>
+<a href="/shop/by-designer/isamu-noguchi">Isamu Noguchi</a>
 </li>
 <li>
 <a href="/shop/by-designer/jonathan-olivares">Jonathan Olivares</a>
@@ -781,7 +798,7 @@ $( 'li[data-urlPath=' + path + ']' ).addClass( "active" );
 </script>
 </section>
 <section class="right_header">
-<form action="" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="B4830E6EF80BFF7CC6C37C35D1B2ACF9B1F38A2A3830C586B9C43EF933146A84724A09A41F283ECBF2B2A6A3C15A9063">
+<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="17D20A00A77EEEADB05E468B1FA9FC1A75A061171B1CA9CAFDE4454208D987DF5BC4AF1C1DF40A6E9138869F0592F4D7">
 <input type="hidden" name="logout" value="true">
 <input type="hidden" name="c" value="Page">
 <input type="hidden" name="childpagename" value="Knoll/Knoll_SplashPageLayout">
@@ -834,9 +851,7 @@ document.cookie = name + "=" + value+expires + "; path=/" + domain;
 <input type="hidden" name="packedargs" value="isVanity=false&amp;pname=ShoppingCart">
 <input type="hidden" name="pagename" value="Knoll_Wrapper">
 </form>
-<a href="javascript:document.shoppingcartform.submit();"> shopping cart (<span id="cartquantity">
-0
-</span>)</a>
+<a href="/cart/shoppingCart"> shopping cart (<span id="cartquantity">0</span>)</a>
 </li>
 <li style="float:right" id="myAccountSection">
 <span id="userAuthenticatedNav" style=""></span>
