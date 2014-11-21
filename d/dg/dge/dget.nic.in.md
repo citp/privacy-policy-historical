@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the dget.nic.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121165334id_/http%3A//www.dget.nic.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+
+# Privacy Policy:: Directorate General of Employment & Training (DGE&T)
+
+We do not collect personal information for any purpose other than to respond to you. If you choose to provide us with personal information like filling out a Contact Us form with an e-mail address or postal address, and submitting it to us through the website, we use that information to respond to your message, and to help you get the information you have requested.
+
+  * Our website never collects information or creates individual profiles for commercial marketing. While you must provide an e-mail address for a localized response to any incoming questions or comments to us, we recommend that you do NOT include any other personal information.
+  * If you are asked for any other Personal Information you will be informed how it will be used. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the concerned through the contact us page.
+  * The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
+
+
