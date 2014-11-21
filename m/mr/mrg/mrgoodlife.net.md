@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223059id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144554id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | MR.GOODLIFE. - The Online Magazine for the Goodlife.
 
@@ -49,7 +49,7 @@ We may link to third party websites from our own website. We have no control ove
 
 We protect your information from being accessed by third parties. However, since we may employ outside maintenance personnel or use a third party to host our material, there are third party entities which may have custody or access to your information. Because of this, it is necessary that you permit us to give access to your information to third parties to the same extent that you authorize us to do so. For greater certainty, every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. Additionally, we may store your information or share it with certain other third parties for reason that may or may not be related to maintenance, advertising, marketing, or other purposes related to our business. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with:
 
-\- Google Analytics
+– Google Analytics
 
 **8\. Law Enforcement**
 
