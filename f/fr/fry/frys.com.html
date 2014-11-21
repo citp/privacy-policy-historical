@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625064335id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121095836id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -19,11 +19,20 @@
 
 
 
-<script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <link rel="stylesheet" href="css/frys1.0.0.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://frys.com/js/print.css" type="text/css" media="print">
 
+
+<!-- For non-Retina iPhone, iPod Touch, Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="http://images.frys.com/art/icons/frys_appicon_071714_57x57.png">
+<!-- For the iPad mini and the first- and second-generation iPad (Non-Retina display) on iOS â‰¤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://images.frys.com/art/icons/frys_appicon_071714_72x72.png">
+<!-- For iPhone with high-resolution Retina display running iOS â‰¤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://images.frys.com/art/icons/frys_appicon_071714_114x114.png">
+<!-- For iPad with high-resolution Retina display running iOS â‰¤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://images.frys.com/art/icons/frys_appicon_071714_144x144.png">
 
 </head>
 
@@ -153,7 +162,7 @@ function loadMinSP(prodId,imageHost) {
 
 
 <script language="JavaScript">
-function isWhiteSpace1(s) { for(var i = 0; i < s.length; i++)     {        var c = s.charAt(i);        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;    }    return true;}
+function isWhiteSpace1(s) { s = s.replace(/[^\w\s\][^,]/gi, ''); for(var i = 0; i < s.length; i++)     {        var c = s.charAt(i);        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;    }    return true;}
 function chkWhiteSpace(f) { var msg;    var empty_fields = "";    var errors = "";    if (isWhiteSpace1(f.query_string.value))    {      alert("Please enter your query first!");	  return false;    }         return true;}
 </script>
 
@@ -380,20 +389,22 @@ background-color: #eeeeee;
 
 
 
-<a href="/template/onad/product_navigation/?site=sa:TOP_BANNER:Spot1"><img src="http://images.frys.com/art/homepage/images/weekly_deals200x50b.png" alt="Fry's Weekly Deals" width="200" height="50" border="0"></a>
+<a href="http://images.frys.com/art/deals/blackfriday-cybermonday2014/blackfriday2014.html?toppagead"><img src="http://images.frys.com/art/homepage/images/bfri112014.jpg" border="0" height="50" width="100" hspace="0/"></a><a href="http://www.frys.com/ads/view-all-store-ads#AdNavi"><img src="http://images.frys.com/art/homepage/images/wkdl112014.jpg" border="0" height="50" width="100" hspace="0/">
 
 
 
 
-   </div>
-   <div id="fryslogo"><a href="http://www.frys.com/template/index/"><img src="http://images.frys.com/art/misc/fryslogo.png" border="0"></a></div>
+   </a></div><a href="http://www.frys.com/ads/view-all-store-ads#AdNavi">
+   </a><div id="fryslogo"><a href="http://www.frys.com/ads/view-all-store-ads#AdNavi"></a><a href="http://www.frys.com/template/index/"><img src="http://images.frys.com/art/misc/fryslogo.png" border="0"></a></div>
    <div id="search-1">
      <div class="search">
 <form action="/search" method="get" name="search" onsubmit="return chkWhiteSpace(this);" style="margin:0; padding:0;">
    <input type="hidden" name="search_type" value="regular">
    <input type="hidden" name="sqxts" value="1">
    <input id="searchCatSel_ip" type="hidden" name="cat" value="0">
-   <input name="query_string" type="text" class="searchbx" size="" placeholder="keyword, model#, or frys.com#" value="">
+    
+	   <input name="query_string" type="text" class="searchbx" size="" placeholder="keyword, model#, or frys.com#" value="">
+	 
    <input type="submit" class="searchbutton" value="GO">
 </form>
      </div>
@@ -6233,7 +6244,7 @@ environment for the hi-tech professional.
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts">Exploring Products</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart">Using the Cart</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut">Checking Out</a></li>
-         <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts">Express Account</a></li>
+         <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts">myFry's Accounts</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods">Payment Methods</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates">Warranties &amp; Rebates</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases">Returns</a></li><br>
@@ -6263,9 +6274,9 @@ environment for the hi-tech professional.
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C5Advertisements">Advertisements</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C6LegalNotices">Legal Notices</a></li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C7SecureCertificates">Secure Certificates</a></li>
-         <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C8ToshibaLegalNotice">Toshiba Legal Notice</a></li><br>
-         <li><p class="text">Call at: <b>1-408-350-1484</b></p></li>
-         <li class="menuTitle">Employment Opportunities</li>
+         <!--<li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C8ToshibaLegalNotice">Toshiba Legal Notice</a></li>--><br>
+        
+       <li class="menuTitle">Employment Opportunities</li>
          <li><a href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C6LegalNotices#employment">San Jose, CA (only)</a></li>
        </ul>
      </div>
@@ -6387,14 +6398,14 @@ environment for the hi-tech professional.
 
                 <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#" style="font-weight:normal;border-right:1px solid white;color:#ffffff;text-decoration:none;">my<b>Frys</b></a>
                 <ul class="dropdown-menu" id="dropdown-menu3" role="menu">
-			<li><a href="https://shop6.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1">Your Account</a></li>
-			<li><a href="https://shop6.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1">Track Your Order</a></li>
-			<li><a href="https://shop6.frys.com//wf?a%3DGO_TO_WISHLIST_MAIN%2Cw%3DACCTMAINT=1">Your Wish Lists</a></li>
+			<li><a href="https://shop4.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1">Your Account</a></li>
+			<li><a href="https://shop4.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1">Track Your Order</a></li>
+			<li><a href="https://shop4.frys.com//wf?a%3DGO_TO_WISHLIST_MAIN%2Cw%3DACCTMAINT=1">Your Wish Lists</a></li>
 			<li><a href="http://ews.frys.com/lists/?p=subscribe&amp;id=homepage">Subscribe Email Specials</a></li>
 			<hr>
 			<li>
                     
-                   <a href="https://shop6.frys.com//wf?a%3DSIGN_IN_BRIDGE%2Cw%3DCHECKOUT=1">Sign In</a>
+                   <a href="https://shop4.frys.com//wf?a%3DSIGN_IN_BRIDGE%2Cw%3DCHECKOUT=1">Sign In</a>
                     
              </li> 
 
@@ -6407,7 +6418,7 @@ environment for the hi-tech professional.
            <ul class="nav">
               <li class="active">
                 
-                 <a name="hello text" style="font-weight:normal;color:#ffffff;text-decoration:none;">Welcome Guest!</a>
+                 <a name="hello text" id="anchor" style="font-weight:normal;color:#ffffff;text-decoration:none;">Welcome Guest!</a>
                 
               </li>
 
@@ -6415,7 +6426,7 @@ environment for the hi-tech professional.
 
            <ul class="nav" style="float:right;">
               <li class="active">
-                <a class="dropdown-toggle" href="http://www.frys.com//ShopCartServlet?action=display_cart" style="font-weight:bold;border-left:1px solid white;padding-top:0px;padding-bottom:0px;color:#ffffff;text-decoration:none;"> <img border="0" src="http://images.frys.com/art/misc/cartbuttonart.png"></a>
+                <a class="dropdown-toggle" id="cartbutton" href="http://www.frys.com//ShopCartServlet?action=display_cart" style="font-weight:bold;border-left:1px solid white;padding-top:0px;padding-bottom:0px;color:#ffffff;text-decoration:none;"> <img border="0" src="http://images.frys.com/art/misc/cartbuttonart.png"></a>
               </li>
 
            </ul>
@@ -6727,7 +6738,7 @@ $(".searchOptions").mouseenter(function(){
 						
 						<tr>
 							<td><a style="text-decoration: none" href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts"><img src="http://images.frys.com/art/0900_site/core_092500/arrow.gif" width="13" height="13" border="0"></a></td>
-							<td><a style="text-decoration: none" href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts"><font face="Verdana,Arial,Helvetica" size="2" color="#333333"><b>Express Accounts</b></font></a><br></td>
+							<td><a style="text-decoration: none" href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts"><font face="Verdana,Arial,Helvetica" size="2" color="#333333"><b>myFry's Accounts</b></font></a><br></td>
 						</tr>
 						
 						
@@ -6801,7 +6812,7 @@ Fry's collects information about you to provide the best products and services a
 <i>Information you give us.</i>
 <br><br>
 
-Fry's collects and may store any information you enter on our website, provide us in our retail stores, or submit to Fry's in any other way.  For example, we collect information that you provide when you create an Express Account on our website, make an online or in-store purchase from us, send us an e-mail or call us, enter a contest, or participate in a survey.  This information may include:
+Fry's collects and may store any information you enter on our website, provide us in our retail stores, or submit to Fry's in any other way.  For example, we collect information that you provide when you create the myFry's Accounts on our website, make an online or in-store purchase from us, send us an e-mail or call us, enter a contest, or participate in a survey.  This information may include:
 
 <ul>
 <li>Your name.
@@ -6858,7 +6869,7 @@ Fry's uses your information to provide requested products and services to you an
 </li><li>To schedule and perform deliveries or installations.
 </li><li>To service products.
 </li><li>To send marketing communications.
-</li><li>To open and service your Express Account.
+</li><li>To open and service your myFry's Accounts.
 </li><li>To provide high-quality customer service.
 </li><li>To help us improve and customize what we offer to you, our website and our advertising.
 </li><li>To send you information about our products, services and promotions.
@@ -6873,7 +6884,7 @@ Fry's uses your information to provide requested products and services to you an
 Fry's also protects your information from loss, misuse or alteration while it is under Fry's control.  Protection of your information is a priority at Fry's.  We have adopted reasonable security measures to protect the confidentiality of personal information under our control both online and in our stores.
 <br><br>
 
-When you enter personal information on our website, the information is protected by a security technology called Secure Sockets Layer (SSL), which encrypts your information during transport across the Internet.  Further, your account information is only accessible with the password you choose when you open an Express Account.  Please maintain the confidentiality of this password in order to ensure the protection of your account information.
+When you enter personal information on our website, the information is protected by a security technology called Secure Sockets Layer (SSL), which encrypts your information during transport across the Internet.  Further, your account information is only accessible with the password you choose when you open the myFry's Accounts.  Please maintain the confidentiality of this password in order to ensure the protection of your account information.
 <br><br>
 
 <a name="3"></a><b>How may information be shared?</b>
@@ -6921,7 +6932,7 @@ If you do not wish to receive certain information or request that your informati
 								<a name="5"></a><i>Updating or Correcting Information</i>
 <br><br>
 
-If you have created an Express Account on our website, you may review, update or correct your account information by accessing your Express Account with your password.
+If you have created the myFry's Accounts on our website, you may review, update or correct your account information by accessing your myFry's Accounts with your password.
 <br><br>
 
 <b>How will you be notified of future changes to the Privacy Policy?</b>
@@ -7174,6 +7185,15 @@ margin: 10px 0px 0px 0px;
           </tr>
          </tbody></table>
 		</div>
+<div id="right-1">
+		 <table width="240" border="0">
+          <tbody><tr>
+           <td width="100" align="center" valign="middle"><a href="/template/isp/index?site=csfooter_H"><img src="http://images.frys.com/art/homepage/images/bfri112014.jpg" width="75" border="0"></a></td>
+           <td width="140" align="left" valign="middle" id="rightfont"><a href="http://images.frys.com/art/deals/blackfriday-cybermonday2014/blackfriday2014.html?site=csfooter_H">Black Friday Info</a></td>
+          </tr>
+         </tbody></table>
+		</div>
+
 	    <div id="right-1">
 		 <table width="240" border="0">
                     <tbody><tr>
@@ -7196,7 +7216,7 @@ margin: 10px 0px 0px 0px;
       
       </div>
       <div id="servicefoot4" style="text-align:left">
-	  <b>Company Info</b><br><a href="http://www.frys.com/ads/page180?site=csfooter_D#careers">Careers</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs?site=csfooter_D">Contact Us</a><br><a href="/template/maps/index/?site=csfooter_D">Site Map</a><br><a href="/template/isp/index/Frys/isp/Middle_Topics/G2%20Store%20Feedback/?site=csfooter_D">Feedback</a><br><a href="/contest/?site=csfooter_D">Contest Info</a><br><a href="http://ews.frys.com/lists/?p=subscribe&amp;id=5?site=csfooter_D">Sign up for Email Specials</a><br><a href="/ac/storeinfo/storelocator?site=csfooter_D">Store Hours and Locations</a><br><a href="/template/isp/index/Frys/isp/Middle_Topics/G1 Store History?site=csfooter_D">Company History</a><br><a href="http://frysopengolf.com?site=csfooter_D">Frys.com Open Golf</a>
+	  <b>Company Info</b><br><a href="http://www.frys.com/ads/page180?site=csfooter_D#careers">Careers</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs?site=csfooter_D">Contact Us</a><br><a href="/template/maps/index/?site=csfooter_D">Site Map</a><br><a href="/template/isp/index/Frys/isp/Middle_Topics/G2%20Store%20Feedback/?site=csfooter_D">Feedback</a><br><a href="/contest?site=csfooter_D">Contest Info</a><br><a href="http://ews.frys.com/lists/?p=subscribe&amp;id=5?site=csfooter_D">Sign up for Email Specials</a><br><a href="/ac/storeinfo/storelocator?site=csfooter_D">Store Hours and Locations</a><br><a href="/template/isp/index/Frys/isp/Middle_Topics/G1 Store History?site=csfooter_D">Company History</a><br><a href="http://frysopengolf.com?site=csfooter_D">Frys.com Open Golf</a>
 	  
 	  </div>
 
@@ -7215,9 +7235,9 @@ margin: 10px 0px 0px 0px;
       
       </div>
       <div id="servicefoot3" style="text-align:left">
-         <b>Frys.com Order Info</b><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A8WhenWillMyOrderArrive?site=csfooter_A">Shipping and Delivery Time</a><br><a href="/template/help/index?site=csfooter_A">Customer Service</a><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A2DomesticShipping?site=csfooter_A#in-store_pickup">In-Store Pick up</a><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A5OrderTracking?site=csfooter_A">Order Status</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_A#satisfaction-guarantee">30-Day Satisfaction Guarantee</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_A">Return Instructions</a><br><a href="/rebates?site=csfooter_A">Rebate Center</a><br><a href="http://shop4.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=54992195:7:2435173.0?site=csfooter_A">Wish-List</a>
+         <b>Frys.com Order Info</b><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A8WhenWillMyOrderArrive?site=csfooter_A">Shipping and Delivery Time</a><br><a href="/template/help/index?site=csfooter_A">Customer Service</a><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A2DomesticShipping?site=csfooter_A#in-store_pickup">In-Store Pick up</a><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A5OrderTracking?site=csfooter_A">Order Status</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_A#satisfaction-guarantee">30-Day Satisfaction Guarantee</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_A">Return Instructions</a><br><a href="/rebates?site=csfooter_A">Rebate Center</a><br><a href="https://shop4.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=54992195:7:2435173.0?site=csfooter_A">Wish-List</a>
 
-<br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/B4IntlShipping?site=csfooter_A">International</a><br><a href="/template/search/explain_ship?site=csfooter_A#pre-orders">Pre-Orders</a><br><a href="/template/search/explain_ship?site=csfooter_A#backorders">Backorders</a><br><a href="/cart/freeship.jsp?path=/FE30/Shipping/ShipsFree/#free">Free Shipping</a><br><br><br><b>Account Info</b><br><a href="https://shop6.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">View Your Order History </a><br><a href="https://shop6.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">Track Your Order</a><br><a href="https://shop5.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Manage Your Account</a><br><a href="http://shop6.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=16414857:2:2260571.0?site=csfooter_E">Wish List</a><br><a href="https://shop5.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Email Preferences</a>
+<br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/B4IntlShipping?site=csfooter_A">International</a><br><a href="/template/search/explain_ship?site=csfooter_A#pre-orders">Pre-Orders</a><br><a href="/template/search/explain_ship?site=csfooter_A#backorders">Backorders</a><br><a href="/cart/freeship.jsp?path=/FE30/Shipping/ShipsFree/#free">Free Shipping</a><br><br><br><b>Account Info</b><br><a href="https://shop6.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">View Your Order History </a><br><a href="https://shop6.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">Track Your Order</a><br><a href="https://shop5.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Manage Your Account</a><br><a href="https://shop6.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=16414857:2:2260571.0?site=csfooter_E">Wish List</a><br><a href="https://shop5.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Email Preferences</a>
       </div>
     </div>
     <div id="footer-bottom">
@@ -7278,7 +7298,7 @@ s.parentNode.insertBefore(tagjs, s);
 
 
 
-
+<p style="font-size: 6px; color: #ddd;">110</p>
 
 </td>
 </tr>
@@ -7296,10 +7316,12 @@ if(typeof(global_ref_tr) != "undefined"){
 -->
 </script>
 
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :"http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-6796986-1', 'auto');
+ga('send', 'pageview');
+</script>
 <script type="text/javascript">
 	try {
 		var pageTracker = _gat._getTracker("UA-6796986-1");
