@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ehackingnews.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627085732id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ehackingnews.com privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121035958id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta content="Sabari Selvan, twitter.com/breakthesec" name="author">
@@ -32,7 +32,7 @@ b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f
 <style type="text/css">
 
 <!-- /*<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3841957138-widget_css_bundle.css' />
-<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7936586016742929815&zx=f328ecc8-7b15-4d25-a9e5-5c8c61066fe8' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7936586016742929815&zx=38231a07-75ea-498b-aa20-abb712e769ee' />
 <style id='page-skin-1' type='text/css'><!--
 */
 --></style>
@@ -90,8 +90,8 @@ body { line-height:1.63; background:#EEE;
 #wrapper { border:4px solid #CCCCCC; width:1040px; margin:1px auto 0px auto;background:#fff;box-shadow: 0 0 10px; border-top:none;  }
 #header { background:#FFF; height:100px; text-align:left; }
 #main { background:#FFF; border-bottom:1px solid #E2E1CD;}
-#container { float:left; width:730px; }
-#content {float:left;border-right:1px solid #ecede8;width:740px; }
+#container { float:left; width:70%; }
+#content {float:left;border-right:1px solid #ecede8;width:100%; }
 #sidebar h2 {
     background-color: #ccc;
 background-image: -moz-linear-gradient(#fff, #ccc);
@@ -238,6 +238,7 @@ text-decoration: underline
 .entry-content
   {
  text-align:justify;
+width:97%;
   }
 .hentry img {max-width:650px;}
 .entry-thumb { float:left; display:block; position:relative; margin:0 15px 10px 0; }
@@ -256,7 +257,7 @@ font-family:Georgia,"Times New Roman",Times,serif; color: #111111;}
 .meta-sep { color:#999; margin:0 3px; }
 .meta-more { display:inline; font-family:Arial,serif; font-size:11px; font-style:italic; color:#666; }
 .meta-more:hover { color:#666; border-bottom:1px dotted #666; }
-.grid-post { width:640px; overflow:hidden; float:left;  margin:15px;
+.grid-post { width:96%; overflow:hidden; float:left;  margin:15px;
 font-size:14px;
 }
 .grid-post .entry-thumb { margin-right:10px; }
@@ -284,12 +285,19 @@ font-size:14px;
 .entry hr.none { border:0 none; height:0; background:none; margin:0; padding:0; clear:both; }
 .entry a:hover { text-decoration:underline; }
 .entry blockquote { 
-margin:20px; 
-padding:0 30px 0 20px; 
-overflow:hidden; 
-border-color: #666666;
-border-style: solid;
-border-width: 1px 1px 1px 10px;
+ -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: black black #eee;
+    border-image: none;
+    border-style: solid;
+    border-width: 0 5px 4px;
+    box-shadow: 2px 2px 15px #ccc;
+    font-size: 18px;
+    margin: 20px;
+    overflow: hidden;
+    padding: 0 30px 0 20px;
 }
 
 /* full width */
@@ -546,7 +554,7 @@ function showrecentposts(json) {
 	//cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
 	
  if (i==0) {
-	var trtd = '<li class="first"><h2 class="entry-title"><a href="'+posturl+'">'+posttitle+'</a></h2><div class="entry-thumb"><img width="80" height="80" src="'+img[i]+'"/> </div><div class="entry-excerpt"><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div></li>';
+	var trtd = '<li class="first"><h2 class="entry-title"><a href="'+posturl+'">'+posttitle+'</a></h2><div class="entry-thumb"><img width="80" height="80" src="'+img[i].replace('s1600','s100')+'"/> </div><div class="entry-excerpt"><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div></li>';
 	document.write(trtd);
 }
  if ((i>0)&&(i<maxpost))
@@ -609,7 +617,7 @@ function showrecentposts1(json) {
 	//cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
 
 	
-	var trtd = '<div class="hentry"><h1 style="font-family:Arial;font-size:16px;line-height:1.3em"><a href="'+posturl+'">'+posttitle+'</a></h1><div class="entry-thumb"><img width="80" height="80" src="'+img[i]+'"/></div><div class="entry-excerpt"><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div> </div>';
+	var trtd = '<div class="hentry"><h1 style="font-family:Arial;font-size:16px;line-height:1.3em"><a href="'+posturl+'">'+posttitle+'</a></h1><div class="entry-thumb"><img width="80" height="80" src="'+img[i].replace('s1600','s100')+'"/></div><div class="entry-excerpt"><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div> </div>';
 	document.write(trtd);
 
 
@@ -766,7 +774,7 @@ function showrecentposts3(json) {
 	//cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
 
  
-	var trtd = '<li class="item"><img width="128" height="80" src="'+img[i]+'"/><a href="'+posturl+'" class="title"><span>'+posttitle+'</span></a></li>';
+	var trtd = '<li class="item"><img width="128" height="80" src="'+img[i].replace('s1600','s100')+'"/><a href="'+posturl+'" class="title"><span>'+posttitle+'</span></a></li>';
 	document.write(trtd);
 	j++;
 }
@@ -823,7 +831,7 @@ function showrecentposts5(json) {
 
 	//cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
         	
-      var trtd = '<div><p class="featured-thumb" align="center"><a href="'+posturl+'"><img width="200" height="180" style="box-shadow:4px 4px 2px rgb(170, 170, 170)" src="'+img[i]+'"/></a></p><h1 style="font-family:Arial;font-size:16px;line-height:1.3em"><a href="'+posturl+'">'+posttitle+'</a></h1><p>'+removeHtmlTag(postcontent,220)+'...</p></div>';
+      var trtd = '<div><p class="featured-thumb" align="center"><a href="'+posturl+'"><img width="200" height="180" style="box-shadow:4px 4px 2px rgb(170, 170, 170)" src="'+img[i].replace('s1600','s200')+'"/></a></p><h1 style="font-family:Arial;font-size:16px;line-height:1.3em"><a href="'+posturl+'">'+posttitle+'</a></h1><p>'+removeHtmlTag(postcontent,220)+'...</p></div>';
 	document.write(trtd);
 
 
@@ -882,13 +890,13 @@ function showrecentposts6(json) {
 
 	
  if (i==0) {
-	var trtd = '<li class="clear" style="border-top: 0pt none;"><a href="'+posturl+'">'+posttitle+'</a><div class="info"><img width="60" height="60" src="'+img[i]+'"/><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div></li>';
+	var trtd = '<li class="clear" style="border-top: 0pt none;"><a href="'+posturl+'">'+posttitle+'</a><div class="info"><img width="60" height="60" src="'+img[i].replace('s1600','s120')+'"/><p>'+removeHtmlTag(postcontent,summaryPost)+'...</p></div></li>';
 	document.write(trtd);
 }
  if ((i>0)&&(i<maxpost))
     {
 	
-var trtd = '<li class="clear"><a href="'+posturl+'">'+posttitle+'</a><div class="info"><img width="60" height="60" src="'+img[i]+'"/><p>'+removeHtmlTag(postcontent,220)+'...</p></div></li>';
+var trtd = '<li class="clear"><a href="'+posturl+'">'+posttitle+'</a><div class="info"><img width="60" height="60" src="'+img[i].replace('s1600','s100')+'"/><p>'+removeHtmlTag(postcontent,220)+'...</p></div></li>';
 	document.write(trtd);
 }
 
@@ -962,6 +970,7 @@ function createSummaryAndThumb(pID){
  var summ = summary;
 
  if(img.length>=1) { 
+	img[0].src=img[0].src.replace('s1600','s120');
    imgtag = '<div class="entry-thumb"><img width="60" height="60" src="'+img[0].src+'"></div>';
    }
    var summary1 = '<div class="grid-post">'+imgtag + '<div class="entry-excerpt"><p>'+stripHtmlTags(content,summary)+'...</p>  </div></div>';
@@ -1229,7 +1238,7 @@ This document was last updated on February 07, 2012<br>
 <span class="label-size label-size-3">
 <a dir="ltr" href="http://www.ehackingnews.com/search/label/Hackers%20Conference">Hackers Conference</a>
 </span>
-<span class="label-size label-size-4">
+<span class="label-size label-size-5">
 <a dir="ltr" href="http://www.ehackingnews.com/search/label/Hacking%20News">Hacking News</a>
 </span>
 <span class="label-size label-size-3">
@@ -1271,14 +1280,7 @@ This document was last updated on February 07, 2012<br>
 </div></div>
 </div>
 <div class="footercol">
-<div class="section" id="btcl2"><div class="widget LinkList" id="LinkList1">
-<div class="widget-content">
-<ul>
-<li><a href="http://www.ssfavorites.blogspot.com/">Funny Forward Mails</a></li>
-<li><a href="http://www.debuggingquestions.blogspot.com/">Debugging Questions in Java</a></li>
-</ul>
-</div>
-</div></div>
+<div class="section" id="btcl2"></div>
 </div>
 <div class="footercol">
 <div class="section" id="btcl3"></div>
@@ -1297,7 +1299,7 @@ This document was last updated on February 07, 2012<br>
 <div class="bottom">
 <div class="left">
 
-    				COPYRIGHT 2012 by <a href="http://www.ehackingnews.com/">EHN</a>. | <a href="http://www.ehackingnews.com/p/privacy.html">Read our Privacy Policy</a>
+    				COPYRIGHT 2012 by E Hacking News. | <a href="http://www.ehackingnews.com/p/privacy.html">Read our Privacy Policy</a>
 </div>
 <!--end .left-->
 <div class="right">
@@ -1313,13 +1315,12 @@ This document was last updated on February 07, 2012<br>
   
 <!--<script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3401484092-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2885176887-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type='text/javascript'>
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '7936586016742929815';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7936586016742929815','//www.ehackingnews.com/p/privacy.html','7936586016742929815');
 _WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7936586016742929815', 'bloggerUrl': 'http://www.blogger.com', 'title': 'E Hacking News - Hacker News and Latest IT Security News', 'pageType': 'static_page', 'pageId': '2849673787441933792', 'url': 'http://www.ehackingnews.com/p/privacy.html', 'canonicalUrl': 'http://www.ehackingnews.com/p/privacy.html', 'canonicalHomepageUrl': 'http://www.ehackingnews.com/', 'homepageUrl': 'http://www.ehackingnews.com/', 'blogspotFaviconUrl': 'http://www.ehackingnews.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy', 'pageTitle': 'E Hacking News - Hacker News and Latest IT Security News: Privacy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42E Hacking News - Hacker News and Latest IT Security News - Atom\42 href\75\42http://www.ehackingnews.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42E Hacking News - Hacker News and Latest IT Security News - RSS\42 href\75\42http://www.ehackingnews.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42E Hacking News - Hacker News and Latest IT Security News - Atom\42 href\75\42http://www.blogger.com/feeds/7936586016742929815/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'googleProfileUrl': 'https://plus.google.com/113207743091065421409', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'ca-pub-4897583049676588', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebarLinkAd', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PlusBadgeView', new _WidgetInfo('PlusBadge1', 'sidebarLinkAd', null, document.getElementById('PlusBadge1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'bottom-sidebar2', null, document.getElementById('Label1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'featuredArticle', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
@@ -1337,10 +1338,8 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'header', n
 _WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'sidebar2', null, document.getElementById('AdSense1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList5', 'pagelist', null, document.getElementById('LinkList5'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'btcl1', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'btcl2', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main1', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'viewType': 'FILTERED_POSTMOD', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1938910137-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main1', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'viewType': 'FILTERED_POSTMOD', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2665014583-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'latest', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'btcl4', null, document.getElementById('AdSense2'), {}, 'displayModeFull'));
 </script>
 </body> -->
 
