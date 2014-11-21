@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-portals.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130226id_/http%3A//travel-portals.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-portals.info privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034556id_/http%3A//travel-portals.info/privacy-policy) for the most accurate reproduction.*
 
 # travel-portals.info : Privacy Policy
 
