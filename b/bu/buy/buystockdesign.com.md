@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buystockdesign.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602135337id_/http%3A//www.fantero.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buystockdesign.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035501id_/http%3A//www.fantero.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy | Fantero
 
