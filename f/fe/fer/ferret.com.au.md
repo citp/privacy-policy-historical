@@ -1,124 +1,148 @@
-> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626211612id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070133id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Cirrus Media Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
+* ## We care about your privacy.
 
-This privacy policy applies to all personal information collected by Catch via the internet.
+At Cirrus Media, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws. 
 
-Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.  We know that providing personal information is an act of trust and we take that seriously.  Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
+This policy applies to the Cirrus Media Group Companies, including Cirrus Media Pty Ltd (“Cirrus Media”, “we”, “us”, “our”) and its related bodies corporate. 
 
-Collection of information
+* ##  Collection of personal information
 
-The four main ways we collect personal information about you are:
+Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable. We usually collect personal information directly from individuals. However, we may also collect personal information about individuals from various third parties (for more details, see ‘Handling of personal information’ below). 
 
-  * when information about you is posted on a Catch website, either by you or by a third party; 
-  * when you log into a Catch website or otherwise submit personal information to Catch; 
-  * when you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and
-  * through the operation of CatchBot, Catch's web crawler (described in more detail below).
+The type of personal information we collect depends upon your relationship with us. When doing business with us, you may need to prove your identity and in some cases, the law requires you to do so. We may also require your contact information so that we can communicate with you directly or deliver products and services to you. So the information we collect for these purposes might include your name, telephone number, email address, business address, employment information and possibly, your driver’s licence or some other form of photo identification. 
 
+Less often we might collect personal information about you in connection with a commercial trading account or financing arrangement (such as bank records, credit card statements, credit reporting information), particularly if you’re intending to enter into the arrangement in your own name. We’ll provide you with more detailed information about exactly how this type of information will be used and who it may be disclosed to prior to collection. 
 
+At times we may also collect personal information for quality and improvement purposes, such as voice recordings made to our call centre and customer satisfaction surveys. 
 
-Our use of cookies
+Whenever it’s appropriate, we’ll offer you the opportunity to interact with us anonymously or by a different name. Commonly this option will be provided to you when making a general enquiry about our products and services or requesting information about a job opportunity. 
 
-Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.  Most web browsers are set to accept cookies.  Catch uses cookies to make your use of our website and services as convenient as possible.  Cookies in and of themselves do not personally identify users, although they do identify a user's browser.  Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
+* ##  Handling of personal information
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies.  This may mean you will not be able to take full advantage of Catch's services.
+We will do our utmost to ensure that your personal information is only used and/or disclosed for the purpose it was collected, or a related purpose that’s within your reasonable expectations. 
 
-Catch uses Google to serve advertisements when you visit a Catch website. Google may use cookies in relation to your visits to Catch websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, [click here](http://www.google.com.au/privacy_ads.html "google ad and content network privacy policy").
-
-Using and disclosing your personal information
-
-Our purpose in collecting information about you is to: 
-
-  * provide you with a better service experience with content and advertising that is more relevant to your interests; and
-  * create a business information database for use as part of Catch's online business.  Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.
-
-
-
-Catch will not use or disclose any information about you without your consent, unless:
-
-  * the use or disclosure is for one of the purposes described above or otherwise permitted by this policy;
-  * it is required or permitted by law (including by relevant privacy laws);
-  * we believe it necessary to provide you with a service which you have requested;
-  * to protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or
-  * any of the assets and/or operations of Catch are being transferred to another party.
+  * From time to time we may need to disclose personal information to, or collect information about individuals from various third parties, including: other companies within the Cirrus Media group of companies
+  * credit providers (disclosed and undisclosed)
+  * information technology providers
+  * data processing and payment providers
+  * financial services and banking providers
+  * consultancy firms and independent contractors
+  * auditors, lawyers and other professional service firms
+  * marketing agencies and other marketing services providers
+  * print/mail/digital/imaging/document management service providers
+  * customer, product, business or strategic research and development organisations
+  * data partners and analytics consultants
+  * publicly available sources of information
+  * other entities, as required or authorised by law
 
 
 
-If you do not provide requested information, Catch may not be able to provide you with access to or full use of sections of the Catch website.
+Some of these third parties may be located overseas. 
 
-Disclosing information
+And to help safeguard your privacy, we’ll impose requirements on these entities for handling personal information. We’ll also do our best to inform you at or before the time of collection, about the types of organisations we may be disclosing your personal information to. 
 
-Sometimes, the activities described above require us to share your personal information with other organisations.  The types of situations in which Catch usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following:
+In addition to the above, personal information may be provided to other parties where you specifically consent. 
 
-  * The business information database is available via the internet to any member of the public.  It is also disclosed in its entirety to Catch's related entities and to other entities with whom Catch has a business relationship, as part of Catch's online business.
-  * Catch discloses personal information to its service providers, advisers and other entities with whom Catch has a business relationship, in the course of operating the Catch websites and Catch online business and in the course of delivering the Catch services.
+* ##  Marketing
+
+Every now and again you may be contacted by mail, SMS, telephone, email or online so that we can inform you about new products and services, promotions, offers, newsletters, customer surveys competitions and the like. We may also engage third parties to do this on our behalf. In so far as the law allows us to, we are likely to market to you unless you tell us otherwise. Equally, we’ll always give you the opportunity to “opt-out” of direct marketing communications. If you don’t want to be contacted for marketing purposes, you don’t have to wait to be contacted. Simply advise us in any one of the methods set out below and we will make every effort to meet your request as soon as practicable. 
+
+* ##  Our use of Cookies and other technologies
+
+Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Cirrus Media uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Cirrus Media also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content. 
+
+If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Cirrus Media’s services. 
+
+**Google cookies**  
+Cirrus Media uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet. 
+
+We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites. 
+
+Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information. 
+
+To opt out of these features at any time, simply change your Google Ads Settings by [http://networkadvertising.org/choices/#completed](http://google.com.au/policies/technologies/ads)). 
+
+If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit. 
+
+* ##  Security of personal information
+
+Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Cirrus Media. 
+
+* ##  Destruction of personal information
+
+We’ll destroy or de-identify personal information that is no longer needed, provided there is no law requiring us to retain it. 
+
+* ##  Access to and correction of personal information
+
+Whilst we have processes in place to make sure your personal information is accurate and up-to-date, we welcome your requests to access and/or correct information we hold about you. To make a request, simply contact us in one of the ways set out below. There are no set charges for making a request, however we may charge a fee if need be, to recover any reasonable costs associated with responding to your request. 
+
+* ##  Collection notice: Booking forms
+
+This following information relates specifically to the personal information we collect from our event booking forms. Such information will generally include the names, and contact details of event delegates or sponsors, as well as information about the particular industry sector in which they operate and general billing information. 
+
+We use this information for the primary purpose of registering delegates for the events we organise, and administering the attendance and participation of both sponsors and delegates. 
+
+If we do not collect the information requested on the booking forms, we may not be able to process an individual’s attendance at an event. 
+
+With your consent, we may also share your information with other entities [so that they can contact you about future event opportunities that may be of interest to you. 
+
+Please see paragraphs 8 and 10 for details as to how you can access and correct the personal information we collect from our booking forms, or make a complaint about our handling of such information. 
+
+We do not disclose personal information collected from our booking forms to recipients located outside Australia. 
+
+* ##  Contact Us and complaints
+
+For more information about our privacy practices, make a complaint or lodge a request under this policy, please contact: 
+
+The Privacy Officer 
+
+Cirrus Media Pty Limited  
+Phone: +612 8484 0888   
+Email: privacy@cirrusmedia.com.au   
+Mail: Cirrus Media Pty Limited,   
+Tower 2 475 Victoria Ave or Locked Bag 2999 Chatswood DC,   
+Chatswood NSW 2067 
+
+We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC. 
+
+* ##  Application of this Privacy Policy
+
+This policy applies to the following websites: 
+
+  * **Cirrus Media Main Site**
+  * cirrusmedia.com.au
+  * **Other sites**
+  * mediakit.moneymanagement.com.au
+  * australiandoctorlive.com
+  * awards.bandt.com.au
+  * events.moneymanagement.com.au
+  * primeawards.com.au
+  * cx-transformation.com.au
+  * digital-storytelling.com.au
+  * franchiseawards.net.au
+  * franchiseawards.net.au
+  * fundmanagerawards.com.au
+  * gpsmakethedifference.com.au
+  * awards.lawyersweekly.com.au
+  * madweek.com.au
+  * mining-productivity.com.au
+  * mmleaderseries.com.au
+  * postretirementforum.com.au
+  * ruraldoctorseminar.com.au
+  * roadshows.travelweekly.com.au
+  * womeninfinance.moneymanagement.com.au
+  * womeninindustry.com.au
+  * investmentplatforms.com.au
+  * medobs.com.au
+  * mydr.com.au
+  * fst.net.au
+  * medicalmedia.com.au
+  * encoredirectory.com.au
+  * aards.com.au
+  * eguide.com.sg
+  * just4docs.com.au
 
 
-
-Marketing
-
-In seeking to give you the most worthwhile experience of our websites possible, Catch may use your personal information to send you information and product updates about Catch websites and services or to permit other parties to send other information about products or services which may be of interest to you. 
-
-We may contact you at any email or other address or contact point which we have collected or obtained in order to:
-
-  * contact you about your business listing on a Catch website;
-  * provide you with updated information about Catch websites; or
-  * provide you with other information about other products or services which you may enjoy.
-
-
-
-If you are receiving promotional information from Catch and do not wish to receive this information any longer, you may remove your name from our list by contacting the Catch Privacy Officer at [legal@catch.com.au](mailto:legal@catch.com.au) and asking to be removed from our mailing list.  Please allow 28 days for this request to be processed. 
-
-Access to the information we hold
-
-You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via [legal@catch.com.au](mailto:legal@catch.com.au). We will provide you with access unless we are legally authorised not to do so.
-
-Changing and deleting the information we have about you
-
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at [legal@catch.com.au](mailto:legal@catch.com.au).
-
-If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
-
-We will take all reasonable steps to change or delete information in response to such a request.  If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
-
-Storage and security of your personal information
-
-Catch will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date.  You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.
-
-Please note that Catch may use overseas facilities to store, process or back up its information.  As a result, we may transfer your personal information to our overseas facilities.  However, this does not change our commitment to keep your information secure.
-
-Third party websites
-
-Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch.  These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses.  Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. 
-
-CatchBot
-
-CatchBot is the web crawler for Catch.  CatchBot investigates websites for publicly available information about companies.  CatchBot is not designed to access or index any personal or other information about individuals.  However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.
-
-More information about CatchBot is available at [www.catchbot.com](http://www.catchbot.com/).
-
-Privacy inquiries
-
-If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:
-
-Catch Privacy Officer
-
-Email: [legal@catch.com.au](mailto:legal@catch.com.au)
-
-Or, Mail:   
-Catch   
-Locked Bag 2999  
-Chatswood Delivery Centre NSW 2067  
-Australia
-
-Future changes
-
-Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.  Because of this, from time to time, our policies will be reviewed and may be revised.  Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.  The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
-
-### Newsletter sign-up
-
-The latest products and news delivered to your inbox
-
-[Submit](https://web.archive.org/enewsletter)
