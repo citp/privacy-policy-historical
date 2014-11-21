@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recipes-pro.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095747id_/http%3A//www.recipes-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipes-pro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144923id_/http%3A//www.recipes-pro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Recipes Pro
 
 > Updated: November 8, 2012
 > 
-> This is the privacy policy of Recipes-pro.com. Recipes Pro is an affiliate of Neverblue that provides you great offers and downloads for your cooking needs. We value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
+> This is the privacy policy of Recipes-pro.com. Recipes Pro provides you great offers and downloads for your cooking needs. TotalRecipeSearch™ is the partner name. We value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
 > 
 > **Information we Collect**
 > 
