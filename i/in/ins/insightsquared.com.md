@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insightsquared.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165623id_/http%3A//www.insightsquared.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightsquared.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104332id_/http%3A//www.insightsquared.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# InsightSquared Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Insight-Squared/validation?rid=3bd8223c-f65f-45a2-a65a-9a7e227219fa "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/InsightSquared/validation?rid=3bd8223c-f65f-45a2-a65a-9a7e227219fa "Validate TRUSTe privacy certification")
 
 This Privacy Policy (“Policy”) describes the manner in which, InsightSquared Inc. (“InsightSquared”), handles personal information collected from individuals (“you” or “users”) by InsightSquared through its website: www.insightsquared.com or in connection with InsightSquared’s delivery of services to its customers through Insight Squared.  In this Policy, the term “personal information” refers to information relating to an identified or identifiable natural person.
 
@@ -100,8 +100,8 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 If you have a question, comment or complaint about this Policy or enforcement of this Policy, please address your concern to InsightSquared at support@insightsquared.com, or send correspondence to the following address:
 
-160 Sidney St  
-Cambridge, MA 02139
+160 Second St  
+Cambridge, MA 02142
 
 InsightSquared will investigate your concerns promptly, and will respond to your correspondence within thirty (30) days after we receive it.  InsightSquared will provide you with a clear explanation of any decisions made with respect to your request.
 
@@ -114,3 +114,7 @@ InsightSquared conducts an annual self-assessment to verify that this Policy is 
 Changes to this Policy will be posted in this section. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. This way you will always have a clear understanding of what information is collected online and offline, how it is used, and the choices you have. Your personal information will only be used in accordance with the version of the Policy that is in place at the time that you provided your information, unless you provide your consent to do otherwise. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 #### Effective Date of Policy:  12/09/2013
+
+#### Rights Reserved to InsightSquared & Salesforce.
+
+© 2014. All Rights Reserved InsightSquared. Salesforce, Salesforce.com, AppExchange, Sales Cloud, Service Cloud, Chatter, and others are trademarks of Salesforce.com, Inc., and are used here with permission.
