@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordparts.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325174847id_/http%3A//www.fordparts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordparts.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121010218id_/http%3A//www.fordparts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FordParts.com
 
