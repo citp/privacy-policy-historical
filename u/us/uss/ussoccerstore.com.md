@@ -1,70 +1,37 @@
-> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224121935id_/http%3A//ussoccerstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121170529id_/http%3A//www.ussoccerstore.com/safety-privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Official Store of U.S. Soccer - USA Jerseys, USA Apparel, USA T-Shirts, Equipment, Headwear and more
 
-| | [](https://web.archive.org/web/20071224121935id_/http%3A//ussoccerstore.com/index.html)
+For detailed information about our policies, please click on any topic of interest listed below:
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
- **The US Soccer Store is committed to protecting your privacy.** We use the information we collect about you to facilitate commercial transactions and to provide you with a more personalized shopping experience. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following **Privacy Statement** discloses the information-gathering and dissemination practices and policies of the US Soccer Store and its ussoccerstore.com web site. **Privacy Policy Contents**  
-Our Policy on Children  
-Kinds Of Information We Collect From Our Users  
-How We Use the Information We Collect  
-Disclosure of Your Information  
-Changing Your Personal Information  
-Third Party Disclosures by You  
-Our Security  
-Contacting the U.S. Soccer Store
-
-****
-  1. **Our Policy On Children.**  
-We do not encourage children to participate in providing us with any personally identifiable information. We ask that children (12 years of age and under) do not submit any personal information to us. If you are a minor under the age of 13 years, please use our services only under the approval and supervision of your parents or legal guardian(s). We support the guidelines and regulatory requirements provided in the Children's Online Privacy Protection Act [(COPPA)](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html). ****
-  2. **Kinds of Information We Collect From Our Customers.**  
-The personally identifiable information we collect is used to facilitate delivery of products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details regarding the kinds of personally identifiable information we collect follows: ****
-    1. **In the case of contests, promotions, and/or newsletter registrations:** We require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, or newsletters to complete a Participant Registration Form. During this registration process we generate and collect certain personally identifiable information. **The personally identifiable information collected from our customers in completion of a registration form:** Customer's first name, last name, city, country, and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number.
- ****
-    2.  **In the case of product and/or service purchases:**  
-In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain verifiable personally identifiable information. **The personally identifiable information collected from our customers in completion of a product and/or service purchase:**   
-The verifiable personally identifiable information required includes the customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card expiration date, customer's shipping address, phone number, and email address. The personally identifiable information we collect during this process is not stored onto our server unless the credit card charge transaction is successfully completed. In any event, the credit card information collected is deleted from our servers 30 days after a purchase.
-
-**If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.**
-
-****
-  3. **How We Use the Information We Collect.**  
-We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We believe these uses allow us to improve our site and provide better service to our customers.
-
-We may occasionally use a customer's email address and, in rare situations mailing address or phone number, to contact a customer regarding administrative matters or notices.
-
-We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
-
-****
-  4. **Disclosure of Your Information.**  
-We do not sell or rent any personally identifiable information about our customers to any third party. We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify a customer.
-
-We cooperate with all law enforcement inquiries. We will disclose any information about you to law enforcement or other government officials when required to do so in order to comply with a court order or to cooperate with law enforcement officials in the conduct of a criminal investigation.
-
-****
-  5. **Removing Your Personal Information.**   
-Customers always have the option of removing their contact information from our database if they decide they no longer wish to receive future communications or to participate in any other part of our service. To do so, simply send email to:
-
-[customerservice@ussoccerstore.com](mailto:customerservice@ussoccerstore.com)
-
-****
-  6. **Third Party Disclosures by You.**  
-Our policy only addresses the use and disclosure of the personally identifiable information we collect from you. To the extent that you disclose your personally identifiable information to other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since we do not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personally identifiable information to others. ****
-  7. **Our Security.**   
-We use industry standard efforts to safeguard the confidentiality of your personally identifiable information. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web.
-****
-  8. **Contacting Us**   
-If you have any questions about this privacy policy statement, the practices of this site, or your dealings with this web site, please contact: Customer Service  
-US Soccer Store  
-1632 W. 240th St.  
-Harbor City, CA 90710
-
-[customerservice@ussoccerstore.com  
-](mailto:customerservice@ussoccerstore%20.com)  
-Tel: 310-326-0916  
-Fax: 310-326-0918
+Web Site Log Information  
+Credit Card Information  
+Email Addresses  
+Postal Addresses   
+Telephone Numbers   
 
 
+**Website Log Information**  
+When your Web browser requests information from our site, our Web server automatically records the date, time, and IP address from which your request came. From this information, we can sometimes, but not always, determine the domain and host name of the network provider to which you are connected, such as MSN, America Online, your local ISP, etc. This information does not identify you individually, and we do not seek to do this. You are an "anonymous" user unless you choose to send us email, fill out an online form to request more information, add your name to one of our email lists, or purchase one of our USSoccerStore.com products. We use the aggregate information in our visitor files to determine usage and "popularity" of various parts of our web site. Sometimes we share web site log information with our business partners for advertising, promotional or merchandising purposes, and to help improve our site and make it more useful to you.  
+top
 
+**Credit Card Information**  
+Keeping your personal credit card information private is vitally important to us. USSoccerStore.com will never rent or sell the information gathered in a credit card transaction. Knowing that you use certain services or purchase certain products may help us to offer you better service and more popular products. Please note that there are places in USSoccerStore.com where you can transmit credit card information in order to complete a purchase transaction. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (Secure Socket Layer) encryption. USSoccerStore.com does not sell or provide any third parties with any personal credit card information.  
+top
+
+**Email Addresses **  
+We may collect your email address when you (i) choose to send us an email message, (ii) choose to fill out one of our online forms to request information about our products and services, or (iii) purchase one of our USSoccerStore.com products. We may use your email address to respond to your inquiry and to communicate with you when necessary to provide customer service and/or follow-up information related to a product purchase or shipping information. We may also use your e-mail address to contact you about special offers from USSoccerStore.com and USSoccer.com from time to time. USSoccerStore.com does NOT sell or provide any of your personal information to third parties.  
+top
+
+**Postal Addresses **  
+We may collect your postal address when you (i) choose to fill out one of our online forms to request information about our products and services, or (ii) purchase one of our USSoccerStore.com products. We may use your postal address to respond to your inquiry and to communicate with you when necessary to provide customer service and/or follow-up information related to a product purchase or shipping information. We may also use your postal address to contact you about special offers from USSoccerStore.com from time to time. USSoccerStore.com does NOT sell or provide any of your personal information to third parties.  
+top
+
+**Telephone Numbers**  
+We may collect your telephone number when you (i) request that we contact you by telephone, or (ii) choose to fill out one of our online forms to request information about our products and services, or (iii) purchase one of our USSoccerStore.com products and we need to communicate with you about billing or shipping information. USSoccerStore.com does NOT sell or provide any of your personal information to third parties. However, USSoccerStore.com may disclose the information listed above when required by law or court order. 
+
+We hope this Security and Privacy Policy statement answers your questions about how we handle the personal information you provide us.   
+top
+
+If you have any questions, please do not hesitate to contact us by email ([info@USSoccerStore.com](mailto:info@USSoccerStore.com)), or [click here](https://web.archive.org/web/20141121170529id_/http%3A//www.ussoccerstore.com/onlineinfo-contact.html) to contact us.   
+top
