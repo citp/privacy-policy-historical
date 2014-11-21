@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070659id_/http%3A//www.djhistory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194125id_/http%3A//www.djhistory.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DJhistory.com
 
@@ -6,7 +6,7 @@ We value our privates so we protect your privacy carefully, and make sure your p
 
 ## Your information
 
-If you join [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) we take your name, country and email address, so we can let you post content on the public areas of the site, and email you about new releases, special tracks and other DJhistory news. We will only email you if you have given your permission, or to contact you about an order. When you buy something we collect the information we need to complete your order, including name, address, email address, payment details and your delivery address for any physical items. We will keep a record of what you buy. In the case of downloads, this means if you lose music you bought from us you can return to the site and download it again. We may also use these records to get an idea of your music tastes so we can suggest other things you might like. The only other time we would share your information is if required to do so by law, in connection with legal proceedings, to defend our legal rights, or to prevent fraud.
+** ** If you join [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) we take your name, country and email address, so we can let you post content on the public areas of the site, and email you about new releases, special tracks and other DJhistory news. We will only email you if you have given your permission, or to contact you about an order. When you buy something we collect the information we need to complete your order, including name, address, email address, payment details and your delivery address for any physical items. We will keep a record of what you buy in case there are any problems. The only other time we would share your information is if required to do so by law, in connection with legal proceedings, to defend our legal rights, or to prevent fraud.
 
 ## Security
 
@@ -14,20 +14,20 @@ When you enter your card details these go straight to an extremely secure server
 
 ## Cookies
 
-Cookies are small text files placed on your computer by websites you visit. If you return to a site, the cookie remembers helpful details to make your visit simpler and more personal. We use cookies on the site, so please set your browser to accept cookies.
+Cookies are small text files placed on your computer by websites you visit. If you return to a site, the cookie remembers helpful details to make your visit simpler and more personal. By using this site you have opted in to the use of cookies, so please set your browser to accept cookies.
 
 ## Other sites
 
-We are not responsible for the privacy practices of any of the third-party websites that [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) may link to or draw content from.
+** ** We are not responsible for the privacy practices of any of the third-party websites that [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) may link to or draw content from.
 
 ## Contacting us
 
 You have the right to request any personal information we hold about you. We'll be happy to do this for a processing fee of £10. If you have any questions about the way we collect and use information, write to us at the address below or [email us](https://web.archive.org/contact).
 
-**DJ HISTORY LIMITED**
+DJ HISTORY LTD
 
-1st floor
+The Birdcage
 
-106 Leonard St
+80 Columbia Road
 
-London EC2A 4RH
+London E2 7QB
