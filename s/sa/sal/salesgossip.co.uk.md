@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesgossip.co.uk privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404224731id_/http%3A//www.salesgossip.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgossip.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005616id_/http%3A//www.salesgossip.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SalesGossip
 
