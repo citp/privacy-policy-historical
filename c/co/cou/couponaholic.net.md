@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172215id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121063130id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponaholic
 
@@ -19,6 +19,8 @@ We do run advertising banners and/or browser executable code that can allow our 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 [ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=http://www.couponaholic.net/privacy-policy/)
+
+No related posts.
 
 _**Extreme Couponing Tip:** You can usually get two prints of most internet coupons. To find them in the easiest possible way, use our **preclipped links that take you right to the coupon.** Then come back and click the same link to get your 2nd print. This will save you the time spent searching for the coupon._
 
