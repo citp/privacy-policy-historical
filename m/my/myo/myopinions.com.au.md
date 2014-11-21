@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621093244id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095503id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - MyOpinions
+# MyOpinions
 
 ## What information does MyOpinions collect about me?
 
