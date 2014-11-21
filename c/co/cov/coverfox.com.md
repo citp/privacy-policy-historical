@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413100357id_/http%3A//www.coverfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121220141id_/http%3A//www.coverfox.com/docs/privacy-policy) for the most accurate reproduction.*
 
-# Coverfox | Privacy Policy
+# Coverfox Insurance
 
 Privacy Policy
 
