@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottolenghi.co.uk privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202800id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottolenghi.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121022129id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
