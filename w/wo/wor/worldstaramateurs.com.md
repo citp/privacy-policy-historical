@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100838id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121041856id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,37 +64,37 @@ You are entitled to access and correct your Data by doing so directly on the web
 
 ### Porn Videos From Our Friends
 
-  * [ ](http://www.amateursxposed.com/147/that-big-dick-vs-white-pussy-complication/ "That big dick vs white pussy complication")
+  * [ ](http://www.worldstarxxx.com/2991/free-black-porn-myfreeblack/ "free black porn")
 
-##### That big dick vs white pussy complication
+##### free black porn
 
-  * [ ](http://www.amateursxposed.com/3/all-azz-n-big-dick/ "All azz n big dick")
+  * [ ](http://www.worldstarxxx.com/843/worldstar-fights-uncut-this-bitch-is-a-beast-damn/ "worldstar fights uncut This bitch is a beast DAMN")
 
-##### All azz n big dick
+##### worldstar fights uncut This bitch is a beast DAMN
 
-  * [ ](http://www.amateursxposed.com/1/basket-ball-cheeks-deep-dicked/ "Basket ball cheeks deep dicked")
+  * [ ](http://www.worldstarxxx.com/6987/shegotass-me-and-the-ex/ "Me and the Ex")
 
-##### Basket ball cheeks deep dicked
+##### Me and the Ex
 
-  * [ ](http://www.amateursxposed.com/539/50-inch-of-sweet-black-ass/ "50 inch of sweet black ass")
+  * [ ](http://www.worldstarxxx.com/1361/deep-in-her-make-her-moan-cuz-shesfreaky-like-that/ "deep in her make her moan")
 
-##### 50 inch of sweet black ass
+##### deep in her make her moan
 
-  * [ ](http://www.amateursxposed.com/4/ghetto-biatch-got-fucked-good/ "Ghetto biatch got fucked good")
+  * [ ](http://www.worldstarxxx.com/457/free-big-dick-videos-pussy-can-bring-world-peace/ "Free big dick videos")
 
-##### Ghetto biatch got fucked good
+##### Free big dick videos
 
-  * [ ](http://www.amateursxposed.com/6/test-video/ "Test Video")
+  * [ ](http://www.worldstarxxx.com/34/free-interracial-blowjob-videos-of-white-hoe-making-love-on-that-black-dick/ "free interracial blowjob")
 
-##### Test Video
+##### free interracial blowjob
 
-  * [ ](http://www.amateursxposed.com/183/she-wanted-that-black-snake-in-her-butt/ "She wanted that black snake in her butt")
+  * [ ](http://www.worldstarxxx.com/312/sloppy-head-myfreeblack-videos/ "Sloppy head videos")
 
-##### She wanted that black snake in her butt
+##### Sloppy head videos
 
-  * [ ](http://www.amateursxposed.com/184/big-black-dick-with-some-donkey-balls/ "Big black dick with some donkey balls")
+  * [ ](http://www.worldstarxxx.com/3287/best-hoodamateurs-black-porn/ "Best hood black porn")
 
-##### Big black dick with some donkey balls
+##### Best hood black porn
 
 
 
