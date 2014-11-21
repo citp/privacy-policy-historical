@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073938id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090124id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KB Home
 
@@ -14,4 +14,4 @@ Our policy only addresses the use and disclosure of information we may collect f
 
 These privacy policies are subject to change at any time. If there are material changes to any of these privacy policies, we will post those changes and update the effective date of this policy. The policies and procedures described herein replace all previous policies and procedures regarding this subject.
 
-This Privacy policy, effective October 25, 2008 is incorporated into and subject to the [Terms and Conditions](http://www.kbhome.com/terms) For Use of This Website.
+This Privacy policy, effective October 25, 2008 is incorporated into and subject to the [Terms and Conditions](http://www.kbhome.com/x97.xml) For Use of This Website.
