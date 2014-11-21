@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519163128id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094625id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trademob
 
@@ -36,7 +36,7 @@ Additional information thereto is available at <http://tools.google.com/dlpage/g
 
 **WebProspector Technology**
 
-This Website uses the WebProspector technology provided by WebProspector GmbH ([www.webprospector.de](https://web.archive.org/web/20140519163128id_/http://www.trademob.com/privacy-policy/www.webprospector.de)) and which collects and stores data for marketing purposes and to recognize potential company prospects. On the basis of such data, the WebProspector technology identifies addresses, but only if it can be ascertained that the user is a company and not a single individual. The WebProspector technology may also have access to additional information such as dynamic data with regard to your visit, and in some cases places cookies. Cookies are small text files that are locally stored in the user’s internet browser and enable to recognize the internet browser. The user may, at any time, object to the future collection and storage of data by WebProspector on the following website: [www.webprospector.de/widerspruch](https://web.archive.org/web/20140519163128id_/http://www.trademob.com/privacy-policy/www.webprospector.de/widerspruch).
+This Website uses the WebProspector technology provided by WebProspector GmbH ([www.webprospector.de](https://web.archive.org/web/20141121094625id_/http://www.trademob.com/privacy-policy/www.webprospector.de)) and which collects and stores data for marketing purposes and to recognize potential company prospects. On the basis of such data, the WebProspector technology identifies addresses, but only if it can be ascertained that the user is a company and not a single individual. The WebProspector technology may also have access to additional information such as dynamic data with regard to your visit, and in some cases places cookies. Cookies are small text files that are locally stored in the user’s internet browser and enable to recognize the internet browser. The user may, at any time, object to the future collection and storage of data by WebProspector on the following website: [www.webprospector.de/widerspruch](https://web.archive.org/web/20141121094625id_/http://www.trademob.com/privacy-policy/www.webprospector.de/widerspruch).
 
 **Facebook Social Plugins**
 
