@@ -1,93 +1,159 @@
-> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122324id_/http%3A//justintimberlake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100559id_/http%3A//justintimberlake.com/privacy) for the most accurate reproduction.*
 
-# Justin Timberlake | Privacy Policy
+# Home : Justin Timberlake
 
-## Privacy Policy
+This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
-### Tennman Digital Privacy Policy
+**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
 
-Tennman Digital LLC and its affiliated companies (collectively, “Tennman Digital”) has created this privacy statement (“Privacy Policy”) to explain and summarize how we collect, use and protect, or in some cases do not protect, your personal information as you interact with us online through the website (the “Website”). Tennman Digital reserves the right to change this Privacy Policy at any time by posting a new privacy statement at this location. Therefore, you are responsible for periodically checking the Privacy Policy for changes. Your use of the Website is governed at all times by the Tennman Digital Terms of Service. If you are visiting from outside the United States there may be special rules or limitations on your use of this Website.
+This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-### 1\. INFORMATION WE COLLECT
+By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-Tennman Digital collects and uses information you provide to us or that we learn from your use of this Website. Tennman Digital does not share your personal information with third parties for their direct marketing purposes. We may share your personal information where it is necessary for us to complete a transaction or do something that you have asked us to do. Whenever we may need to share your personal information, we try to provide you with the information you need to make informed choices.
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-Tennman Digital collects and uses personal information from you in several ways:
+## About ground(ctrl)™
 
-  * **User Accounts**  In order to access certain areas of the Website or certain Services, you may be required to create a user account and provide certain personal information such as your name, your email address, your birth date, your user ID, your password, and other personal information. If you would like to subscribe to additional Services, you may be required to provide additional information such as your telephone number, your mobile service provider, and your address. We may use the information you provide in online registration forms to notify you periodically about important changes to the Website or the Services (such as a change to this Privacy Policy or notice of a security breach), new products and services, and special offers and contests that may be of interest to you. Regardless of any other provision of this Privacy Policy, we may permanently store any personal information provided by you via such registration process.
+Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
 
-  * **For contests conducted on the Website** , we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use the contact information contained in contest entries to create mailing lists or for any other purpose, unless you have simultaneously subscribed to a mailing list or consented to such other use. For further information about how we handle entries to a particular contest, please consult the contest rules. All contests held on this site are limited to persons above a certain age. Accordingly, we will ask each contestant to provide year of birth, as well as name, address, and email address. Please refer to the specific age requirements for each contest as rules may vary from contest to contest.
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
-  * **Where you provide optional information** , such as information about your interests and hobbies, Tennman Digital uses this information on an aggregate basis to enable us to better understand our users, develop new products, and improve our products and services. Tennman Digital may also use this information to update you about new promotions, albums, or products, or to send you newsletters and other communications and materials relating to Tennman Digital, the Website, or the Services. This direct marketing will only come from Tennman Digital — we will not allow affiliates to do any direct marketing. Where practical, Tennman Digital limits the access of our business partners and service providers who assist with technical support and customer service through the use of confidentiality provisions and agreements that are intended to enforce this Privacy Policy.
+## The Information We Collect
 
-  * **Website Usage**  Tennman Digital, or Tennman Digital business partners or authorized service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) relating to your use of this Website. While we may collect or log this information, we generally do not identify you or match this information with your other personal information. We may use this collected or logged information to diagnose website technical problems, to facilitate your use of the site, or to track aggregate traffic patterns throughout the Website.
+When you visit this web site, you provide us with three types of information:
 
-  * **Online Transactions**  If we offer you the opportunity to purchase products online and you choose to purchase such products, you may be asked to share personal information in addition to the information provided to create a user account, such as credit card information, in order to complete a transaction. In addition, you may be asked for information needed to complete your order, contact you to confirm the order, and provide related customer service. This information is used, for example, to effect your transactions, to create and share aggregate reports about these transactions, and to perform credit fraud screening services for transactions between you and Tennman Digital and/or our authorized service providers. We may also use your information as permitted by law to perform credit checks, or to report or collect debts owed.
-
-  * **Recruitment and Job Applications**  You may provide us with personal information, such as that contained on a resume or a curriculum vitae, in connection with a job application or inquiry. We may use this information throughout Tennman Digital for the purpose of employment consideration or your inquiry. We may keep your information on file for a reasonable period of time for future consideration.
-
-  * **Cookies and Web Beacons**  A cookie is a piece of data stored on Your computer tied to Your information. We use both session ID cookies and persistent cookies. For the session ID cookie, once You close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on Your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookies to store information about Your user account. By setting a cookie on the Website, You would not have to log in a password more than once, thereby saving time while on the Website. If You reject the cookie, You may still use the Website. The only drawback to this is that You may be limited in some areas of the Website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on the Website. Some of our business partners use cookies on the Website (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. We also use “web beacons” (also known as “1×1 gifs”) to monitor your activities around the Website.
-
-  * **Public and Shared Areas**  Any information and other Content (as defined in the Tennman Digital Terms of Service) disclosed in public areas of the Website will become public information. We cannot control the use of information or other Content disclosed in public forums, such as bulletin boards, news groups, communication facilities and chat rooms. You should exercise caution when disclosing information in these public areas and should refrain from disclosing your personal information in such areas. Please remember that any information or other Content that is disclosed in these areas, including your name, becomes available to others and you should exercise caution when deciding to disclose your personal information.  _TENNMAN DIGITAL WILL TREAT ANY MESSAGE BOARD POSTINGS, FEEDBACK, EMAILS OR SUGGESTIONS YOU PROVIDE TO US AS NON-CONFIDENTIAL AND NON-PROPRIETARY. IF YOU CHOOSE TO USE YOUR REAL NAME, YOUR NAME WILL BE AVAILABLE TO AND VIEWABLE BY ANYONE USING THE WORLD WIDE WEB AND/OR USING A SEARCH ENGINE._
+  1. Web site information collected by us through your interaction with this web site;
+  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
+  3. Personal information you knowingly and voluntarily disclose to use when using this service.
 
 
 
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
 
-### 2\. ADDITIONAL USES OF COLLECTED INFORMATION
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
 
-Certain Third Party Transactions. Tennman Digital may work with its business partners and authorized service providers to provide technical and customer support, shipping, credit card processing, product fulfillment or other services. Where practical, Tennman Digital shall require these parties to safeguard personal information you provide to us. To the extent it is necessary for these parties to complete their contractual obligations to Tennman Digital, these third parties may collect, have access to or process your personal information. Tennman Digital endeavors to limit their use of your personal information to the purpose for which it was shared. Tennman Digital may sometimes permit our business partners and authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related site information. In some circumstances, our business partners or service providers may be the only party who stores your personal information.
+Your first and last name
+    For the purpose of addressing you personally
+Your email address and encrypted password
+    To provide you with access to your personal account, and to send notifications about activity on the website
+Street address, city, state, postal code, country
+    To verify billing information for orders you place on the website and/or ship merchandise to you
+Your location
+    So you may optionally share your geographic location with other members of the website
+Birth date
+    So that you may optionally share your age with other members of the website
+AIM, Yahoo screen name, Jabber, ICQ screen names
+    So that you may optionally share your instant message information with other users of the site
+Flickr user id and Twitter user name
+    So that you may optionally display recent photos and twitter posts on your profile page
+Links to your third-party sites
+    So that you may optionally share favorite or other personal websites with other members of the site
+An avatar image
+    So that you may optionally provide a visual representation of yourself next to items you publish on the site
 
-  * **Mergers, Acquisitions and Bankruptcy**  If Tennman Digital should ever file for bankruptcy or merge with another company, or if Tennman Digital should decide to buy, sell or reorganize some part or all of its business, Tennman Digital may disclose your personal information to prospective or actual purchasers or receive personal information from sellers. It is Tennman Digital’s practice to seek appropriate protection for personally identifiable information disclosed or received in these types of transactions.
+We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
 
-  * **As Required by Law and Other Extraordinary Disclosures**  Tennman Digital may be required to disclose your personal information if it: (a) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (b) would potentially mitigate our liability in an actual or potential lawsuit; (c) is otherwise necessary to protect our rights or property; or (d) is necessary protect the interest of other users of our Website.
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-  * **Additional Third Party Sharing**  Tennman Digital may share aggregated user information with third parties such as Sony Interscope or Sony Music Entertainment, and their respective affiliated companies. These third parties may use this information to better reach their targeted audiences.
+## Children's Online Privacy Protection Act Of 1998
+
+This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
+
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
+
+120 K. Street Suite 3rd Floor
+
+Sacramento, CA 95814
+
+Toll Free: 1 (877) GND-CTRL
+
+Phone (916) 443-9202
+
+Fax (916) 443-9204
+
+Additional operators maintaining information collected through this website include: Justin Timberlake .
+
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
+
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
+
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
+
+## Correcting, Updating or Removing Your Information
+
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.
+
+## How We Use the Information
+
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
+
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+
+## Sharing Your Information with Third Parties
+
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+
+  1. Enforce the network’s Terms and Conditions of Use Agreement;
+  2. Protect the network’s rights;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  4. Protect the safety of it’s members; or
+  5. Enhance each member’s promotional and informational-sharing experience.
 
 
 
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
 
-### 3\. CHILDREN
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-Tennman Digital does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, you should not attempt to register for the Website or Services or send information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Website. If a child under 13 submits information through any part of the Website without verification of parental consent, and we learn the person submitting the information is a child or such consent has not been verified, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. If you believe that Tennman Digital may have any information about a child under 13, please contact us at _P.O. Box 11740, Beverly Hills, CA 90213_.
+Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
 
-### 4\. SECURITY
+## Third-Party Advertising
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. We use reasonable security measures to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such measures. Tennman Digital is not responsible for circumvention of any privacy settings or security measures contained on the Website.
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
 
-You understand and acknowledge that, even after removal, copies of your information or Content posted by you may remain viewable in cashed or archived pages or if other users who you permitted to access your information have copied or stored your information.
+## Comments, Blogs, Messages, and Links
 
-If Tennman Digital learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Website or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Website. Tennman Digital may post a notice on our Website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Website. In these circumstances, Tennman Digital may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at  _P.O. Box 11740, Beverly Hills, CA 90213_.
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
 
-### 5\. INTERNATIONAL VISITORS AND CUSTOMERS
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
 
-Because Tennman Digital operates globally, circumstances could arise where it is necessary for us to make your personal information available to our worldwide business units. Privacy laws differ across the globe. If it is necessary for the purposes for which you have shared personal information with us for us to share your information within Tennman Digital&apos;s global operations, we will do so consistent with this Privacy Policy and you agree to such transfers.
+## Security
 
-This Website is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from United States law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer. When you provide personal data to Tennman Digital or our service providers or vendors, you consent to the processing of your data in the United States as the Website is operated in the United States. Parts of this Privacy Policy may not apply to visitors from outside the United States because certain services are not offered to those outside the United States.
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
 
-### 6\. LINKS TO THIRD-PARTY SITES AND CO-BRANDED WEBSITES
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
 
-This Website may contain links to third-party sites, however, please be aware that Tennman Digital is not responsible for and cannot control the privacy practices of these other sites. We encourage you to read the privacy policies for these other sites, as they may differ from ours. TENNMAN DIGITAL HAS NOT REVIEWED ALL OF THESE THIRD PARTY SITES AND DOES NOT CONTROL NOR IS TENNMAN DIGITAL RESPONSIBLE FOR ANY OF THESE SITES, THEIR CONTENT OR THEIR PRIVACY POLICIES. TENNMAN DIGITAL DOES NOT ENDORSE OR MAKE REPRESENTATIONS ABOUT THEM, OR ANY INFORMATION, PRODUCTS OR MATERIALS FOUND THERE, OR ANY RESULTS THAT MAY BE OBTAINED FROM USING THEM. IF YOU DECIDE TO ACCESS ANY OF THE THIRD PARTY SITES LINKED FROM THE WEBSITE, YOU DO SO AT YOUR OWN RISK.
+## Disclaimer of Liability for Unauthorized Viewing of Personal Information
 
-This Website may contain links to co-branded web sites that may display Tennman Digital’s logo and trademarks, or the names or images of artists included in the Website, but which are maintained by third parties. Please read the privacy policy on the co-branded site for the applicable privacy practices relating to personal information collected via that site, as it may differ from this Privacy Policy. This Privacy Policy applies solely to personal information collected by Tennman Digital.
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
 
-Advertisements that appear on the Website are sometimes delivered (or “served”) directly to users by third party advertisers. Such third parties automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Tennman Digital does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Website unless you choose to share it with them.
+## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
 
-This Privacy Policy covers the use of cookies and other tracking technologies by Tennman Digital and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
 
-### 7\. CONTACT PREFERENCES
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
 
-When you provide Tennman Digital with personal information, you agree that we may communicate with you by email or otherwise, including to send marketing communications from us or from third parties. For marketing communications, we generally try to communicate by the method and on topics of your choosing. Generally, when we contact you, we will try to provide you with an easy and convenient way to notify us if you would not like further similar communications.
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
-### 8\. CONTACTING TENNMAN DIGITAL
+## European Commission's Directive on Data Protection - Safe Harbor
 
-If you have any questions, comments, or concerns about this Privacy Policy, or would like to make changes to your personal information or contact preferences, or delete personal information you have provided to us, please email us at [support@justintimberlake.com](mailto:support@justintimberlake.com). You may make changes to your personal information or contact preferences through the Website after you login using your username and password.
+We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. For more information on the Safe Harbor framework, visit the Department of Commerce's website located at <http://export.gov/safeharbor/>.
 
-#### Postal Mail Address:
+## Your California Privacy Rights
 
-_Tennman Digital LLC  
-P.O. Box 11740  
-Beverly Hills, CA 90213_
+Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
 
-If you have a privacy concern regarding Tennman Digital or this Privacy Policy and if you cannot satisfactorily resolve it through the use of this Website you should then write to: _P.O. Box 11740, Beverly Hills, CA 90213_. In the event that we are still unable to resolve your concerns Tennman Digital is committed to cooperating to achieve a proper resolution of your privacy concerns.
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-**Effective Date: May 8, 2009**
+120 K. Street Suite 3rd Floor
+
+Sacramento, CA 95814
+
+Toll Free: 1 (877) GND-CTRL
+
+Phone (916) 443-9202
+
+Fax (916) 443-9204
+  *[CA]: California
