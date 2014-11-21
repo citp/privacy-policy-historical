@@ -1,65 +1,65 @@
-> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123180539id_/http%3A//www.travelclick.com/privacy-policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065211id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
-# TravelCLICK | Privacy Policy
+# Privacy Policy
 
-This Privacy Policy applies to TravelCLICK, Inc. and its subsidiaries (collectively, "TravelCLICK"). In our normal course of business, TravelCLICK handles personal information, including personal information collected through use of this website ([www.travelclick.com](http://www.travelclick.com/)) and other sources. We handle all personal information in our possession in accordance with this Privacy Policy. 
+This Privacy Policy applies to TravelClick, Inc. and its subsidiaries (collectively, “TravelClick”) and information collected through use of this website ([www.travelclick.com/](http://www.travelclick.com/)) and online TravelClick products and services related to the hospitality industry (“Services”).
 
-Personal information that we receive from or on behalf of third parties, including our customers and partners, may also be governed by the privacy policies of the respective entity collecting such information. We are not responsible for the policies or actions of our customers or partners with respect to personal information that they collect or that we collect on their behalf. 
+Personal information that we receive, collect or process from or on behalf of third parties, including our customers and business partners, is governed by the privacy policies of those third parties. For example, the personal information that we receive from individuals using our Services to make a hotel reservation at a particular hotel belongs to the hotel property and is governed by its privacy policy. We are not responsible for the policies or actions of our customers, business partners, or other third parties with respect to personal information.
 
-We also adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States.
+We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view TravelClick’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit  [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-Notice  
+#### Notice
 
+We receive personal information, including names and contact information from our customers and business partners and, in some cases, directly from individuals when we act as a contractor for our customers and partners in providing our Services; and from individuals who voluntarily submit it to us by requesting products, services or other information through this website, by participating in surveys or promotions or by engaging in other communications with TravelClick. This information may be combined with information that we receive from other sources, including from third party business partners. For example, we may use third party information to confirm contact information or to better understand your interests by associating demographic information with the information you have provided.
 
-We receive personal information from our customers and partners and, in some cases, directly from individuals when we act as a contractor for our customers and partners. We use this information to reserve hotel accommodations and to provide related services to our customers and to individuals on behalf of our customers. We also offer industry-related analysis, reporting and marketing services to our customers and other third parties in the hospitality industry, which may involve compilation of general information, such as dates or length of stay, that does not identify individuals. 
+When our customers grant staff administrator rights for TravelClick, then we will also collect some personal information about these administrators in order to provide the services and for security reasons. This will include log-in details such as name, email address and password, IP address, time of access to the service, as well as a record of whether the administrator has accepted TravelClick’s terms and conditions and privacy policy.
 
-We also obtain personal information from individuals who voluntarily submit it to us by requesting products, services or other information through this website or other communications with TravelCLICK. In addition, when individuals visit this website, we utilize cookie technology to collect data that allows us to identify whether they are first time or return visitors. Cookies allow us to provide faster data retrieval for return visitors. We also use information we collect from online use of this website to communicate with individuals and for other marketing purposes.
+When individuals visit this website and the websites of our customers, we utilize cookies, tracking pixels, web beacons and other technologies to collect data that allows us to customize and improve user experience with our website and our Services. For example, these technologies allow us to identify whether an individual is a first time or return visitor and to provide faster data retrieval for return visitors. When an individual voluntarily submits information to us or one of our customers or business partners, we may associate this personal information with information gathered through these technologies so that we can offer increased personalization and functionality services to our customers or business partners.
 
-Security  
+We use the information we collect to reserve hotel accommodations and to provide related Services to our customers and to individuals on behalf of our customers. We also use the information we collect to offer industry-related analysis, reporting and marketing services to our customers and other third parties in the hospitality industry.
 
+We may further use any information that we collect, including personal information, to administer, operate and improve our website, our Services and our business. We also use information we collect to communicate with individuals and for other marketing purposes.
 
-TravelCLICK maintains administrative, technical and physical safeguards that we believe are reasonably designed to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, because no security program is impenetrable and criminals have proven apt at circumventing widely-adopted security safeguards, we cannot guarantee the security of the personal information we maintain. 
+#### Security
 
-Onward Transfer  
+No security program is impenetrable and criminals have proven adept at circumventing widely-adopted security safeguards, so we cannot guarantee the security of personal information.  Accordingly, you acknowledge that you provide personal information to us at your own risk.
 
+Any customer, hotel property, reseller, user or other third party accessing TravelClick’s website or Services is responsible for its own use of the website and the Services. TravelClick is not responsible for any third party’s actions or their security controls with respect to information that third parties may collect or process via the website, Services or otherwise. 
 
-We may utilize the services of third party partners to help us manage our business and provide goods and services to our customers and partners. If we share personal information with third parties, we require that they apply reasonable information security and confidentiality controls and that they only use such information received from us for the intended purpose. TravelCLICK may, however, disclose any personal information as required by law, court order or other valid legal processes or in connection with a merger, acquisition, reorganization or sale of all or substantially all of TravelCLICK's assets.
+#### Onward Transfer
 
-Choice  
+We may utilize third party service providers to help us manage our business and provide goods and services to our customers and business partners. We may also share personal information with our customers, business partners and our affiliates for their own marketing and internal business purposes. If we share personal information with third parties, we require that they only use such information received from us for their intended purpose.
 
+TravelClick also may disclose any personal information as required by law, court order or other valid legal processes or in connection with a merger, acquisition, reorganization or sale of TravelClick, any of TravelClick’s business lines, or all or substantially all of TravelClick's assets or a TravelClick business line’s assets.
 
-Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.com](mailto:Unsubscribe@travelclick.com) with your email address in the subject line. 
+####  **Choice**
 
-If you do not want your personal information to be used or transferred to third parties as set forth in this Privacy Policy, you may send an email to [cs@travelclick.com](mailto:cs@travelclick.com).
+Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.com](mailto:Unsubscribe@travelclick.com) with your email address in the subject line.
 
-You can also adjust your Internet browser settings to refuse all cookies. However, some TravelCLICK features and services may not operate properly or as quickly if your cookies are disabled.
+If you do not want your personal information to be used or transferred to third parties for their own marketing purposes as set forth in this Privacy Policy, you may send an email to [cs@travelclick.com](mailto:cs@travelclick.com).
 
-Data Integrity  
+You can also adjust your Internet browser settings to refuse cookies. However, some TravelClick features and services may not operate properly or as quickly if your cookies are disabled. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
+####  **Access**
 
-Except as provided in this Privacy Policy, TravelCLICK does not process personal information for any purpose other than the purposes for which it is collected without prior consent of our customers and partners or the individual. We have also implemented controls, such as monitoring and reporting processes, to help maintain data that is accurate, complete and reliable for its intended use, but we rely on our customers and partners  and individuals to update or correct personal information whenever necessary.
+We will provide you with access to your personal information stored on our active servers upon request, subject to a reasonable handling charge. You may correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our active servers, upon your written request, unless we are required to retain it by law or other legal obligation. 
 
-Access  
+####  **Do Not Track**
 
+Do Not Track (DNT) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. At this time, we ignore these signals.  We do not change our practices, described elsewhere in this privacy policy, in response to Do Not Track browser settings or signals. For information about DNT, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-We will provide you with access to your personal information in our possession upon request, subject to a reasonable handling charge. You may request, correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our systems, upon your written request, unless we are required to retain it by law or other legal obligation. 
+In addition, we deploy cookies, tracking pixels, web beacons and other technologies on our websites and those of our customers.  Those tools may be used by us, our customers, and third parties to collect information about you and your internet activity, even if you have turned on DNT.
 
-Enforcement  
+ **Children's Privacy**
 
+We do not knowingly collect personal information from children under the age of 13.
 
-We monitor and verify compliance with the Safe Harbor Principles and this Privacy Policy through an objective self-assessment process. As part of this process, we regularly review our systems and procedures for compliance and effective operation.    
+####  **Privacy Policy Updates**
 
-Your satisfaction is important to us. If you have a complaint regarding the use or maintenance of your personal information by TravelCLICK, please contact us at [cs@travelclick.com](mailto:cs@travelclick.com).
+If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you.
+
+####  **Additional Information/Questions**
 
 We will investigate all complaints promptly and diligently to address your concerns and resolve any disputes quickly. If a complaint or dispute cannot be resolved through our internal process, we agree to independent dispute resolution procedures administered by the American Arbitration Association.
 
-Additional Information  
-
-
-If you have additional questions or concerns, you may contact us at [cs@travelclick.com](mailto:cs@travelclick.com).
-
-For more information about the Safe Harbor program, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-Privacy Policy Last Modified
-
-[December 2009]
+Privacy Policy Last Modified May 29, 2014.
