@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dancingbear.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051520id_/http%3A//dancingbear.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancingbear.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013732id_/http%3A//dancingbear.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site dancingbear.com and all other sites owned or controlled by BangBros.com, Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site dancingbear.com and all other sites owned or controlled by Program3, LLC ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
