@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214011909id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121183119id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hastings Direct
 
@@ -24,6 +24,14 @@ The pages on this website are only directed at United Kingdom residents and comp
 
 We offer online quotations and online cover, and policy administration and claims handling services, on a range of insurances solely for permanent residents of the United Kingdom accessing and using the Website from within the United Kingdom. Accordingly, this Privacy Statement is directed only at such persons and should be read in conjunction with our Website Terms and Conditions. Please click on the 'Website Terms and Conditions' link provided at the bottom of every page of the Website.
 
+### Data Protection Notice
+
+Please take a few minutes to read this information carefully as it contains important information relating to the details that you will give / have given us.
+
+We are required to provide you with this information to comply with Data Protection Act 1998. It explains how we may use your details and tells you about the systems we have in place that allow us to detect and prevent fraudulent applications and claims. The savings that we make help us to keep premiums and products competitive.
+
+You have a right to access personal information held about you by Hastings insurance Services Limited. For details relating to information held about you Data Protection Officer, Hastings Direct, Conquest House, Collington Avenue, Bexhill-on-Sea, East Sussex TN39 3LW, UK.
+
 ### When do we collect personal information?
 
 We collect personal information directly from you when you register for any online service with us or deal with us over the telephone, such as a request for a quote, the purchase of an insurance policy through us or the provision of policy administration or claims handling services. We limit the collection of personal information to what we need to know to maintain the accuracy of our records, to verify the identity and assess the financial standing of customers, to assist us in providing a high standard of service, and to fulfil any legal and regulatory requirements. We will do our best to ensure that your details are accurate and kept up-to-date and we would ask you to assist us in doing so by notifying us in writing of any changes to your personal information.
@@ -48,8 +56,52 @@ If you would like us to remove any personal information from our records, then p
 
 We may use and analyse your personal information for the following purposes:
 
-  * in relation to our online quotation service, to provide you with one or more online quotations on behalf of one or more insurers.
+  * in relation to our online quotation service, provide you with one or more online quotations on behalf of one or more insurers.
   * in relation to our online cover service, to consider your application for, and facilitate your purchase of, an insurance policy through us.
+  * consider whether to accept the relevant risk.
+  * make decisions about the provision and administration of insurance and related services for you (and members of your household).
+  * validate your (or any person or property likely to be involved in the policy or claim) claims history (at any time, including upon application for insurance, in the event of an accident or a claim, or at a time of renewal).
+
+
+
+Management information purposes i.e. to analyse insurance and other markets for the purposes of:
+
+  * portfolio assessment.
+  * risk assessment.
+  * performance reporting.
+  * management reporting.
+
+
+
+Anti fraud purposes i.e. to detect and prevent fraudulent claims and/or activities by:
+
+  * sharing information about you with other organisations and public bodies including the police.
+  * tracing debtors or beneficiaries, recovering debt, managing your accounts and or insurance policies.
+  * undertaking fraud searches. Insurers pass information to the Claims Underwriting and Exchange Register and where appropriate the Motor Insurance Anti-Fraud and Theft Register administered by Insurance Database Services Limited ("IDSL"). This helps insurers check information and prevent fraudulent claims. When we deal with your request for insurance we may search these registers.
+
+
+
+Compliance with legal obligations and responsibilities:
+
+  * Claims management — In the event of a claim we may need to disclose information with any other party involved in that claim such as third parties involved in the incident, their insurer, solicitor or representative and medical teams, the police or other investigators. We also may have to investigate your claims and conviction history;
+  * Motor Insurance Database — Information relating to your insurance policy will be added to the Motor Insurance Database (MID) managed by the Motor Insurers' Bureau (MIB). MID and the data stored on it may be used by certain statutory and/or authorised bodies including the Police, the DVLA, the DVLNI, the Insurance Fraud Bureau and other bodies permitted by law for purposes not limited to but including: 
+    * Electronic Licensing;
+    * Continuous Insurance Enforcement;
+    * Law enforcement (prevention, detection, apprehension and or prosecution of offenders);
+    * The provision of government services and or other services aimed at reducing the level and incidence of uninsured driving.
+
+
+
+If you are involved in a road traffic accident (either in the UK, the European Economic Area or certain other territories), insurers and or the MIB may search the MID to obtain relevant information.
+
+Persons (including his or her appointed representatives) pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID. It is vital that the MID holds your correct registration number. If it is incorrectly shown on the MID you are at risk of having your vehicle seized by the Police. You can check that your correct registration number details are shown on the MID at [www.askmid.com](http://www.askmid.com/);
+
+  * Complaints management — If you make a complaint about the service we have provided, we may be obliged to forward details about your complaint, including your personal information, to the relevant ombudsman.
+
+
+
+Other purposes that we may use and analyse your personal information:
+
   * to provide you with other services, including managing and administering the insurance policies you take out through us, and providing assistance with your claims and enquiries.
   * for the purposes of insurance administration by us or our agents, by our re-insurers and your intermediary (if you have one) and may be disclosed to regulatory bodies for the purposes of monitoring and / or enforcing our compliance with any regulatory requirements.
   * to offer you the opportunity to renew a policy or purchase a replacement policy.
@@ -95,11 +147,11 @@ We use two types of cookies on the website:
   * **Session cookies** — temporary cookies which remain in the cookie file of your browser until you leave the Website, for further information please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/cookies/session-cookies-used-for.html)
   * **Persistent cookies** — which remain in the cookie file of your browser for a longer period of time (the duration of this period will depend on the 'lifetime' of the specific cookie). For further information on persistent cookies visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html)
   * **Google Analytics** — is used to provide us with an understanding of how our site is performing. It enables us to ensure your receive a level high standard of customer experience which we would expect when visiting any website. You can find more information on Google's position on privacy by visiting: [www.google.co.uk](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
-  * **Redeye** — is used to provide us with an understanding of how our site is performing. It enables us to ensure your receive a level high standard of customer experience which we would expect when visiting any website. We also use Redeye to provide e-mail tracking to ensure you receive the same standard of experience as our site. You can find more information on Redeyes position on privacy by visiting: [www.redeye.com](http://www.redeye.com/about-us/privacy-policy/)
   * **Google site search** — allows customers to search for pages within the site providing them with a better overall experience: [www.google.com](http://www.google.com/intl/en/policies/privacy/)
   * **Webtrends Optimize** — is used to provide us with an understanding of how our site is performing. It enables us to test different customer experiences, to ensure you receive a high level of service. You can read more on Webtrends position on privacy by 7visiting: [www.webtrends.com](http://www.webtrends.com/)
   * **JSESSIONID** — The purpose of JSESSIONID is to match up the session ID stored in the web application with that of the client so we can maintain a user's state throughout their journey. This cookie is imperative when using our site. [en.wikipedia.org](http://en.wikipedia.org/wiki/Session_%28computer_science%29)
   * **OMG** — set cookies to identify which affiliate has delivered a customer to Hastings. If your browser is set to ignore all cookies this will effect the way in which you could claim your cashback. [www.omgpm.com](http://www.omgpm.com/)
+  * **Eptica** — 1. Enables customers to interact through web chat technology and 2. understands the deeper meaning of customers' questions in order to deliver the most accurate answer from a knowledgebase. [www.eptica.com](http://www.eptica.com/)
   * **VeriSign** — provides our customers with a safe way to protect their details whilst enabling secure purchases. [www.verisign.co.uk](http://www.verisign.co.uk/privacy/index.html?tid=footer)
   * **Survey monkey** — allows us to provide a platform for customers to express their opinions about Hastings. [www.surveymonkey.com](http://www.surveymonkey.com/mp/policy/privacy-policy/)
 
@@ -132,6 +184,12 @@ Our customers views are important to us, if you have any comments or questions r
 In order for us to respond to your request for certain of our online services, such as quotes, cover and claims handling, and to enable us to deal with you in respect of those services over the telephone, it may be necessary for us to ask you to provide us with sensitive information (such as details of medical conditions and criminal convictions) about you and/or others who may be party to one or more services provided by, and/or insurance policy purchased through, us. We will process any sensitive information you provide to us in accordance with this Privacy Policy and we will not use any sensitive personal information about you and/or others except for the specific purposes for which you provide it and to provide the services described in your insurance policy. We will process any sensitive information you provide to us about a third party on the basis that you have provided us with this information with the explicit consent of that third party, so please ensure that you only provide us with sensitive information about others having obtained their prior agreement to this.
 
 By requesting that we provide you with online services, or contacting us over the telephone to request the provision of services in relation to a quotation or insurance policy, we will consider you to give consent to our collecting and processing (as outlined above) of any sensitive information about you and/or relevant others which you may be required to provide.
+
+Information which is supplied to IDSL and MID can include details such as your name, address and date of birth together with details of any injury arising from a claim.
+
+Your data may be transferred to any country, including countries outside of the European Economic Area, for any of the purposes mentioned above.
+
+Under the conditions of your policy, you must tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to IDSL.
 
 ### Do we share your personal information with anyone else?
 
