@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522072802id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180242id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 BECU never initiates requests for sensitive information by email or text messaging (such as Social Security numbers, Telephone Banking PINs, passwords, or account numbers). If you receive an email or text message requesting this type of information, please contact BECU immediately. [Report email and text fraud](mailto:phishing@becu.org). 
 
-### Personal Information – Collection and Use
+### Information Collected Through the Use of Our Sites
 
 BECU and its affiliates, BECU Trust Services and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust. Consequently, we protect your personal information by taking steps to keep it secure and confidential. We have not and will not sell your account information.
 
@@ -18,15 +18,11 @@ Opt out from Online Behavioral Advertising
 
 Consumer Opt-out
 
-[Learn more about what we do with your personal information](https://web.archive.org/pdfsource/GeneralPrivacyStatement.pdf). 
-
-[Learn more about what BECU Trust Services does with our clients' information](https://web.archive.org/pdfsource/6983.pdf). 
-
 ### Security
 
 You communicate with our computer systems, web site, by using your computer's web browser. Your web browser will need to be updated periodically for continued safe and secure use of our web site. 
 
-Some areas of our Web site are secured via digital certificates and industry standard encryption and time-sensitive session cookies in order to obtain personal information for member transactions. We only support browsers that use Secure Sockets Layer ("SSL") 3.0 (or higher). SSL is intended to help ensure that: 
+Our Websites are secured via digital certificates and industry standard encryption and time-sensitive session cookies in order to obtain personal information for member transactions. We only support browsers that use Secure Sockets Layer ("SSL") 3.0 (or higher). SSL is intended to help ensure that: 
 
 You are in fact dealing with BECU, instead of a site impersonating us. Your information reaches us through SSL to help protect the contents of the message from eavesdropping, and interception, however, no security is perfect and it is your responsibility to use up-to-date software, security features such as anti-virus, anti-malware, and connect via trusted networks. 
 
