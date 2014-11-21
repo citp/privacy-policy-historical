@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballdb.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515134947id_/http%3A//www.footballdb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballdb.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081127id_/http%3A//www.footballdb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Football Database
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
 
 **What do we use your information for?**
 
