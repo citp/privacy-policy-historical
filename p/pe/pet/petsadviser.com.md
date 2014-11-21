@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629073013id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035522id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At petsadviser.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by petsadviser.com and how it is used.
 
 Log Files  
-Like many other websites, petsadviser.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other websites, petsadviser.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
 Third parties may collect certain types of information about visits to your sites, including interaction with content on these sites. As always, no personally identifiable information will be collected.
@@ -23,9 +23,9 @@ Google Affiliate Network
 Amazon Affiliates  
 … others may be added from time to time.
 
-Pets Adviser is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Pets Adviser is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Any such links are clearly marked “ _(aff)_ ” after the link.
 
-These and other third-party ad servers or ad networks use technology to the advertisements and links that appear on petsadviser.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+These and other third-party ad servers or ad networks use technology to the advertisements and links that appear on petsadviser.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 Petsadviser.com has no access to or control over these cookies that are used by third-party advertisers.
 
