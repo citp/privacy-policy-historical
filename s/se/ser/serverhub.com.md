@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serverhub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110956id_/http%3A//serverhub.com/help/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverhub.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025940id_/http%3A//www.serverhub.com/help/policies/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Agreement - ServerHub User Agreement | ServerHub
+# None
 
 Welcome to the ServerHub® networks Services website ("ServerHub®") operated by Eonix Corporation ("Eonix"). The Website products and services (collectively, the "Services") are offered by Eonix through Web pages and linked pages that display the ServerHub® Hosting Service navigation bar and include a footer link to the ServerHub® Hosting Services Privacy Agreement. By accessing the Website or using any of the Services, you agree to be bound by our User Agreement as well as our Privacy Agreement. Because the User Agreements contains legal obligations, please read them carefully. If you reside outside of the United States, you are contracting with Eonix Corporation Canada. If you have any questions, please refer to the Help section on the Site.
 
@@ -30,7 +30,7 @@ Your information is stored on our servers located in the United States. We treat
 
 When you order services through ServerHub®, we request certain personally identifiable information from you on our order form to us to allow us to process your order, provide you with the services you order from us, and to provide ongoing technical support for your account. You must provide contact information (such as name, email, phone number, and address) and financial information (such as credit card number, expiration date). 
 
-By purchasing our services, you agree to comply with our [ False or missing contact information policy](https://web.archive.org/web/20140625110956id_/http%3A//serverhub.com/help/policies/missing-contact-information.php) and provide and maintain accurate, complete and updated information. After you have ordered our services, we may be in communication with you about your account. These communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use.
+By purchasing our services, you agree to comply with our [ False or missing contact information policy](https://web.archive.org/web/20141121025940id_/http%3A//www.serverhub.com/help/policies/missing-contact-information.php) and provide and maintain accurate, complete and updated information. After you have ordered our services, we may be in communication with you about your account. These communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use.
 
 ##### Section 5. Disclosure of Personal and Business Information
 
