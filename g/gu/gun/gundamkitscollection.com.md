@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617070211id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121050349id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gundam Kits Collection News and Reviews
 
