@@ -1,61 +1,66 @@
-> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214091127id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073257id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Lexar
+# Micron's Privacy policy | Lexar
 
-**Privacy Statement** The Lexar brand is marketed through Micron Consumer Products Group, Inc., a subsidiary of Micron Technology, Inc. (“Micron CPG”). Micron CPG is committed to protecting your right to privacy when visiting Lexar.com. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy below discloses what information we gather, how we use that information, and how you can correct or change that information. In summary, you should know that
+Micron is committed to protecting your right to privacy when visiting our websites. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy discloses what information we gather, how we use that information, and how you can correct or change that information. In summary, you should know that:
 
-  * Micron CPG has security measures in place to keep your personal information secure.
-  * Micron CPG will not sell your personal information. The only exception is a change of control as stated below.
-
-
-
-**Security** Lexar.com has security measures in place to protect against the loss, misuse, and alteration of the information under our control, including without limitation protecting information behind a firewall within a perimeter network and, encrypting your ordering information during transmission.
-
-**Registration and order forms** If you choose to register with Micron CPG or to place an order h us, we may ask that you provide us with contact information (first and last name, e-mail address and telephone number), financial information (account or credit card numbers), demographic information (address, age, or income level), and unique identifiers (tax ID number), information about where you learned of our products and information about your intended use of our products. We do not purge customer information on a regular basis, so information you provide us will remain in our systems for an indefinite amount of time. We may use your contact information to send you information about us and to contact you when necessary. If you do not want to receive any mailings from us, please see the choice/opt-out section below. Financial information is used only to bill you for products. Demographic information may be used to tailor your experience at our sites, showing you information that we think you might be interested in, and presenting information according to your preferences. We may use demographic information to develop summary - but not individual - reports for our advertisers so that they may determine how effective their advertising investments are. We never tell our advertisers who it was that saw or clicked on their advertisements, unless you have specifically told us that this is acceptable. In addition, our sales and marketing departments may also use demographic information, information about where you learned of our products and information about your intended use of our products to improve our advertising and marketing efforts and to measure interest in our products. We may use unique identifiers to verify our resellers and customers and to allow customers to identify themselves to us.
-
-**Surveys and contests** Micron CPG may invite you to participate in online surveys or contests. Participation is never required. If you choose to participate, you may be asked to disclose contact and demographic information as well as additional information about you and/or your company. We may use this information to send you information about our company, contact you when necessary, tailor your experience at our site, display information according to your preferences and improve our Web sites, products and advertising. If you do not want to receive any mailings from us, please see the choice/opt-out section below. This information may be shared with our advertisers on a summary, not individual, basis.
-
-**Public forums** Micron CPG may make chat rooms, forums, message boards, and/or news groups available to you. Because any information that is disclosed in these areas becomes public information, you should exercise caution when deciding whether to disclose your personal information.
-
-**Information requests** You may be able to request information on our sites regarding our products and services, including technical support and customer service, by using online forms. We ask that you provide certain contact information to allow us to fulfill your request and to send you information about Lexar products and services. If you do not want to receive any mailings from us, please see the choice/opt-out section below.
-
-**Children's guidelines** Although lexar.com is not geared towards children, Micron CPG nonetheless attempts to protect children. Micron CPG must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Micron CPG is not derived from a child. The following sets forth Micron CPG policy with respect to the collection and/or use of children's information:
-
-  * For purposes of this Policy, a "child" is an individual age 12 or younger
-  * We do not collect children's contact information without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and for no other purpose.
-  * We do not collect children's personally identifiable offline contact information without prior parental consent.
-  * We do not distribute children's personal information to any third party without prior parental consent.
-  * We do not provide the ability to publicly post or otherwise transmit information that could be used to identify a child without prior parental consent.
-  * We do not entice children by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate in the activity.
+  * This Privacy Policy only applies to information gathered from Micron’s publicly available websites.
+  * Micron collects personal information to provide you products and services.
+  * Micron has security measures in place to help keep your personal information secure.
+  * Micron will not sell your personal information. The only exception is described in the Change of Control section below.
 
 
 
-**IP addresses** We may use your IP address to help diagnose problems with our servers, administer our sites, and gather broad demographic information to measure general interest in our products and to share with our advertisers on a summary, not individual, basis.
+**Security**  
+Micron's websites have security measures in place to help protect against the loss, misuse, and alteration of the information under our control, including protecting information behind a firewall within a perimeter network and encrypting your ordering information during transmission.
 
-**Cookies**  For information about how this website uses cookies, [visit our cookie page](https://web.archive.org/web/20140214091127id_/http%3A//www.lexar.com/about/cookies-and-how-we-use-them).
+**Information We Collect**  
+If you choose to register with Micron, place an order with us, participate in one of our surveys or contests, or otherwise contact us, we may ask that you provide us with relevant information such as contact information (first and last name, e-mail address and telephone number), financial information (account or credit card numbers), demographic information (address, age, or income level), unique identifiers (tax ID number), information about where you learned of our products, and information about your intended use of our products. We do not purge customer information on a regular basis, so information you provide us will remain in our systems for an indefinite amount of time. We may use your contact information to send you information about us and to contact you when necessary. If you do not want to receive any mailings from us, please see the Choice/Opt-Out section below. Financial information is used to determine your creditworthiness and to charge you for products you order. Demographic information may be used to tailor your experience at our websites, show you information that we think you might be interested in, and present information according to your preferences. In addition, our sales and marketing departments may use demographic information, information about where you learned of our products, and information about your intended use of our products to improve our advertising and marketing efforts and to measure interest in our products.
 
-**Supplemental information** We may supplement the information that you provide with information that is received from third parties. For example, Micron CPG may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide.
+**Public Forums**  
+Micron may make chat rooms, forums, message boards, and/or news groups available to you. Because any information that is disclosed in these areas becomes public information, you should exercise caution when deciding whether to disclose your personal information.
 
-**Links to other sites** Lexar.com contains links to other sites. Micron CPG is not responsible for the privacy practices or the content of such Web sites.
+**Children's Guidelines**  
+Micron's websites are not generally directed to children. Micron does maintain a few web pages designed to provide young people educational and charitable information, but those web pages do not collect personal information.  If you are under 18, do not supply any personal information to any Micron website. If you wish to purchase a product from a Micron website, please ask your parent or guardian to make the purchase for you.
 
-**Confidentiality** Micron CPG is part of a group of companies owned by Micron Technology, Inc. (“Micron”). Micron CPG does not sell uniquely identifiable customer information to any other business or organization outside the Micron group of companies.
+**IP Addresses**  
+We may use your IP address to help diagnose problems with our servers, administer and improve our websites, and gather demographic information to measure interest in our websites and products.
 
-**Agents** We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service.
+**Tracking Technologies: Cookies\ Beacons\ Do Not Track Signals\ Etc.**  
+For information about how this website uses various tracking technologies, visit our [Cookie Policy page](http://www.lexar.com/about/cookies-and-how-we-use-them).
 
-**Anti-Fraud Checks** We may use personal information provided to us to conduct anti-fraud checks that may help us detect and prevent fraud. The personal information we receive may be disclosed to a credit reference agency, fraud prevention agency or other information provider, which may keep a record of that information.
+**Supplemental Information**  
+We may supplement the information that you provide with information that is received from third parties. For example, Micron may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide.
 
-**Contacting the Web site** If you have any questions about Micron CPG privacy policy or the privacy practices of our site, you may use one of the specific choices below or you may contact us by phone at 877-747-4031 (US and Canada only) or 208-363-5862 (outside US and Canada) or by email at [support@lexar.com](mailto:support@lexar.com)
+**Links to Other Sites**  
+Micron's websites contain links to other sites. Micron is not responsible for the privacy practices, goods and services, or content of such websites.
 
-  * **Newsletter Choice/Opt-out/Correct/Update** Our site provides you with the opportunity to change your information or opt-out of receiving communications from us at any time. [Click here to change or opt-out of your Lexar newsletter subscription.](http://lexar.us2.list-manage1.com/unsubscribe?u=303cc4d6da00b8cefcbcff0a0&id=1ea795d5bd) If you have any problems canceling your e-mail subscriptions, please contact us at 877-747-4031 (US and Canada only) or 208-363-5862 (outside US and Canada). Or you can send an e-mail to [lexarweb@lexar.com](mailto:lexarweb@lexar.com)
-  * **Product Registration Correct/Update** If you want to change or modify information you have previously provided to us, simply log in to your password-protected account. Once you are logged in, you will see links that will allow you to update your address book, password, and customer profile. If you have any problems or questions about updating information you have previously provided, please contact us at 877-747-4031 (US and Canada only) or 208-363-5862 (outside US and Canada). Or you can send an e-mail to [info@lexar.com](mailto:info@lexar.com)
-  * **Store Account Correct/Update** If you want to change or modify information you have previously provided to us, simply log in to your password-protected account. Once you are logged in, you will see links that will allow you to update your address book, password, and customer profile. If you have any problems or questions about updating information you have previously provided, please contact us at 877-747-4031 (US and Canada only) or 208-363-5862 (outside US and Canada). Or you can send an e-mail to [info@lexar.com](mailto:info@lexar.com)
-  * **Compliance Hotline** Micron believes in ethical business practices.  You may review our [Code of Business Conduct and Ethics](http://www.micron.com/about/our-commitment/governance/ethics) and if you have any concerns, please contact us as described above or you may contact our Compliance Hotline.
-  * **U.S. Commerce Department Safe Harbor Principles** Micron adheres to the U.S. Commerce Department European Union and Switzerland Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <http://export.gov/safeharbor>.  
-In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com).  
-Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+**Third-Party Suppliers**  
+We employ many other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service.
+
+**Anti-Fraud Checks  **  
+We may use personal information provided to us to conduct anti-fraud checks that may help us detect and prevent fraud. The personal information we receive may be disclosed to a credit reference agency, fraud prevention agency or other information provider, which may keep a record of that information.
+
+**Contacting the Website**  
+If you have any questions about Micron's privacy policy or the privacy practices of our websites, you may use one of the specific choices below or you may contact us by email at [support@lexar.com](mailto:support@lexar.com).
+
+  * **Choice/Opt-Out:**  Our sites provide you with the opportunity to opt-out of receiving communications from us at any point where we request information. If you do not want to receive future communications from us, please either go back to the website from which you no longer wish to receive such communications or contact us by sending an email to [lexarweb@lexar.com](mailto:lexarweb@lexar.com).
+  * **Correct/Update:   **If you want to change or modify information you have previously provided to us, please either go back to the website where you provided such information or contact us by sending an email to [info@lexar.com](mailto:info@lexar.com).
 
 
 
-**Change of Control** In the event that another company acquires assets related to this website, or if we experience some other change of control event such as a spin-off, merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We cannot guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.
+**Compliance Hotline**  
+Micron believes in ethical business practices.  You may review our [Code of Business Conduct and Ethics](http://www.micron.com/about/our-commitment/governance/ethics) which can be found in the “Governance” section of the [“Our Commitment” webpage](http://www.micron.com/about/our-commitment) (there is a link at the bottom of this webpage).  if you have any concerns, please contact us as described above or you may contact our Compliance Hotline.
 
-**Updates/Effective Date** Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: February 8, 2013.
+**U.S. Commerce Department Safe Harbor Principles**  
+Micron adheres to the U.S. Commerce Department European Union and Switzerland Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <http://export.gov/safeharbor>.
+
+In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com).
+
+Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+**Change of Control**  
+If another company acquires assets related to this website, or if we experience some other change of control event such as a spin-off, merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We cannot guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this Privacy Policy.
+
+**Updates/Effective Date**  
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Privacy Policy will apply to information we have received and information we receive after the revised Privacy Policy is effective. When we do amend this Privacy Policy, the revised Policy will be posted here so please visit this Web page to view the most current Privacy Policy. The effective date of this version of the Privacy Policy is September 29, 2014.
