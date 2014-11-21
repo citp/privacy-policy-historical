@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northstarmls.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002658id_/http%3A//www.northstarmls.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstarmls.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225112id_/http%3A//www.northstarmls.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NorthstarMLS
+# Privacy Policy - NorthstarMLS
 
 **Privacy Policy**  
 _At NorthstarMLS, we are fully committed to the protection and security of any information that you provide to us as users of our Website. We want you to know that we truly respect and will work to  protect your privacy, so you can enjoy using our services which allow us to better serve your needs._
