@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internwise.co.uk privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520110743id_/http%3A//www.internwise.co.uk/index.php%3Fm%3Dpages%26p%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internwise.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011829id_/http%3A//www.internwise.co.uk/index.php%3Fm%3Dpages%26p%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Internwise.co.uk
 
-For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
+Kape Strategy Ltd (a UK registered company) is committed to protecting your privacy. Please take a moment to read and learn more about our privacy policy. By visiting the Internwise website (the “Website”), submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 1 Information Collected
 
