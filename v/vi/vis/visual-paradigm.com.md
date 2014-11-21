@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visual-paradigm.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142614id_/http%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visual-paradigm.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070414id_/http%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement of Visual Paradigm
 
@@ -41,6 +41,10 @@ The Organization's web servers may also collect data relating to your online ses
 
 
 The Organization's web site may place a "cookie" on your machine or read it if you has visited the sites previously; for example to maintain your identity across multiple pages within single session. This information may include, but is not limited to, relevant login and authentication details as well as information relating to your activities and preferences without our web site.
+
+Testimonial and Photo Submission
+
+By submitting your testimonial and/or photos, you irrevocably consent to and authorize the use and reproduction by Visual Paradigm International Ltd., or anyone authorized by Visual Paradigm International Ltd. of any and all photographs, general information and quotes, for any legitimate purposes, including, but not limited to promotional and marketing purpose. Submitter also warrants that the photograph submitted is an original work by you, or you have obtained all rights, licenses, consents and permissions necessary to use, and can be used in Visual Paradigm’s marketing materials for internal and external audiences. These materials include, but are not limited to, brochures, website testimonial, posters and video.
 
 Accuracy of Personal Data
 
