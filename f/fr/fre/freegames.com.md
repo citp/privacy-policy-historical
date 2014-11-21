@@ -1,85 +1,34 @@
-> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508133437id_/http%3A//www.freegames.com/new-games/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122004719id_/http%3A//www.freegames.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy - Free Games
+# Privacy Policy
 
-**www.freegames.com  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.freegames.com](http://www.freegames.com/)
+  1. General 
+    1. The operative parties referred to in this policy are Company and You, the User of this site. 
+      1. Flora ICT B.V. is the publisher and operator of this site. Hereinafter, Flora ICT B.V. shall be referred to as "Company". When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms "the Site" or "Site" are used, these terms refer to the website(s) listed at the beginning of this Policy.
+      2. **You, the User** – As the User of this Site, this Policy will refer to the User as "You" or through any applicable second-person pronouns, such as "Yours" etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
+    2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
+  2. Revisions to this Policy 
+    1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after You have clicked the "refresh" button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+  3. Personal Information that We Collect 
+    1. Given the nature of Our Site, Users are limited to a single-level of interactivity with the Site and as such, are labeled as Browsers. We do not provide memberships of any kind. Any registration, memberships or subscriptions made available via the Site are provided in part or entirely by third parties regardless of any branding or names associated with such memberships. The Site is not responsible for the activities of any third party or the content of any third party site, including a third party’s passive or active collection of Your information and any such party’s subsequent use of Your information.
+    1. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
+  4. How We Collect Information from You 
+    1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, browser useragent details, geographic location and other session data. We may also collect information about your click history on Our Site in order to customize Your experience (i.e. if you click links to rate content or click links to set various preferences).
+    2. **Active Collection** – B. Should you reach a feature requesting personal information from You (e.g. – registration process and/or membership form), You understand and agree that such information is requested by a third party, regardless of any branding or names associated with such a party or website. The Site is not responsible for data collection of Your information and any such party’s subsequent use of Your information. With that said, We may collect Your e-mail address if you provide it to Us when reporting a broken link or other report.
+  5. How We Use Your Information 
+    1. The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
+  6. Special Cases. 
+    1. It is Our policy not to use or share the personal information about Browsers in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information , or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
+      1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
+      2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies;
+      3. To operate Our services properly;
+      4. To protect ourselves, Our Browsers, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+      5. We will always cooperate with law enforcement authorities, government agencies, and private-party litigants seeking information about Our users to the extent required by applicable law, or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+  7. Public Forums & Other Public Areas: 
+    1. If at any time during Your visit to the Site, You enter into a public forum or interactive communication feature such as, registration requests, chat sessions, or discussion boards, You have exited Our Site. We do not provide such features on Our Site, therefore, You understand and agree that the Site is not responsible for any content shared or distributed via such interactive features.
+  8. Our Commitment to Data Security. 
+    1. We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
+  9. Where to Direct Questions About Our Privacy Policy. 
+    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@floraict.com](mailto:support@floraict.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20freegames.com%20site).
 
-**Information Automatically Logged**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site.
-
-**Cookies**
-
-Our Site uses cookies to keep track of your shopping cart. We also use cookies to deliver content specific to your interests.
-
-**Advertisers**
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
-
-**Registration Forms**
-
-Our site’s registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).Contact information from the registration forms is used to get in touch with the customer when necessary. The customer’s contact information is also used for other purposes.
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user’s identity, and for use as account numbers in our record system.
-
-Demographic and profile data is also collected at our site.
-
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-**Order Forms**
-
-Our site uses an order form for customers to request information, products, and services. We collect financial information (like their account or credit card numbers), and unique identifiers (like their social security number). Financial information that is collected is used to check the users’ qualifications for registration, and to bill the user for products and services.
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user’s identity, and for use as account numbers in our record system.
-
-**Surveys**
-
-Our online surveys ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level).Contact information from the surveys is used to send promotional material from some of our partners to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary.
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-Demographic and profile data is also collected at our site.
-
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-**Contests**
-
-We run contests on our site in which we ask visitors for contact information (like email address), unique identifiers (like social security number), and demographic information (like zip code, age, or income level). Contact information from the contests is used to send promotional material from some of our partners to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary.
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user’s identity, and for use as account numbers in our record system.
-
-Demographic and profile data is also collected at our site.
-
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-**External Links**
-
-This site contains links to other sites.  **www.freegames.com  **is not responsible for the privacy practices or the content of such Web sites.
-
-**Public Forums**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-**Security**
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-**Choice/Opt-Out**
-
-1.  You can send email to [Contact Us](http://www.freegames.com/new-games/contact "Contact")
-
-**Data Quality/Access**
-
-This site gives users the following options for changing and modifying information previously provided:
-
-1.  You can send email to [Contact Us](http://www.freegames.com/new-games/contact "Contact")
-
-2.  You can Login and change info. on the web.
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [Contact Us](http://www.freegames.com/new-games/contact "Contact")
