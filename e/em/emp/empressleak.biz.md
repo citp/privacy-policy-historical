@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055733id_/http%3A//empressleak.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121230151id_/http%3A//empressleak.biz/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | EMPRESSLEAK
+
+[ ](http://www.empressmusique.com/dobble-ft-otion-bue-prod-otion-dobbleghana/)
 
 1\. All User information supplied by Users of Empressleak.biz as defined under this Terms & Conditions is covered by the Data Protection Act 1998.  
 2\. Users can amend information provided at any time by contacting admin@Empressleak.biz.  
@@ -12,6 +14,8 @@
 8\. Empressleak.biz Limited cannot guarantee that third party services accessible through Empressleak.biz services operate the same Privacy Policy.  
 9\. Empressleak.biz Limited reserves the right to update and change this Privacy Policy at any time. However, Empressleak.biz Limited will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.  
 10\. If you have any questions concerning this Privacy Policy or would like us to amend or do away with your details please contact us at admin@Empressleak.biz
+
+[ ](http://www.empressmusique.com/young-t3nt3l3but33l3-ft-keche-kofi-supreme-prod-jokole-beatz-kechegh/)
 
 <!– adsenseprivacypolicy –>
 
@@ -32,3 +36,5 @@ DoubleClick DART cookies We also may use DART cookies for ad serving through Goo
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+The biggest God's fan, Jet Li's distance brother, Kim Kardashian's lost boyfriend, The richest Poor man in Ghana, Your best friend. Just name it, I am everything. Thank you 
