@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618195505id_/http%3A//www.247spares.co.uk/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095559id_/http%3A//www.247spares.co.uk/cookie-policy) for the most accurate reproduction.*
 
 # Car Spares & Car Parts, Buy Cheap Used Car Spares, Online Breakers
 
