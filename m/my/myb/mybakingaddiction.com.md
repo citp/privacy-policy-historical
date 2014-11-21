@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523012814id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023906id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,6 +33,6 @@ Please also visit our [Terms and Conditions](http://www.mybakingaddiction.com/te
 
 By using our site, you consent to our privacy policy. We reserve the right to change this privacy policy without notice.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, send us an email at [admin@mybakingaddiction.com](mailto:admin@mybakingaddiction.com).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-Last updated February 15, 2011
+Last updated October 28, 2014
