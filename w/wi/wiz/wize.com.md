@@ -1,46 +1,47 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235632id_/http%3A//www.wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121154900id_/http%3A//www.wize.com/serv/wiseus/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Millions of options, one Wize Choice at Wize.com
+# Wize - Privacy Policy
 
-Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights
+**Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights**  
+**Effective September 10, 2010**
 
-  1.  **Scope and Changes**  
+* **Scope and Changes**  
 Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/) and permutations of those sites, including certain co-branded versions of those sites with third parties, that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). Nextag respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
-
-Please note that some features and/or services referenced may not be available on some Websites. Therefore, portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
 This Website Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Website Privacy Statement at any time and at our discretion. If we decide to change our Website Privacy Statement, we will post those changes to this Website Privacy Statement accessible on the homepages of the Websites, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via either email or by posting a notice on the Websites for 30 days.
 
-  2.  **Personal Information and How We Use It**  
+* **Personal Information and How We Use It**  
 Generally, you may use some features the Websites without providing us with any personally identifiable information, but on some of our Websites, users have the option of providing various personal information to make the best use of available services and features and certain services and features require that you provide personal information. This section describes what we collect and how we use it. Providing your personal information is always voluntary, and you can always choose not to provide your personal information by choosing not to use the service or feature. By providing your personal information you acknowledge and consent to our use of such information in accordance with this statement.
 
- **INFORMATION SUBMITTED BY YOU**
+**INFORMATION SUBMITTED BY YOU**
 
- **Zip Code and Email Address:** On some of the Websites, you have the choice of providing your ZIP Code or email address if, for example, you would like to receive local services or information from us.
+**Zip Code and Email Address:** On some of the Websites, you have the choice of providing your ZIP Code or email address if, for example, you would like to receive local services or information from us. 
 
- **Account or Profile Information:** On some of the Websites, you may be able to become a registered user and create your user profile. When you decide to become a registered user, we ask for some basic contact information, such as a username and your ZIP Code and email address. If you purchase products through a Nextag Store (described below), you may enter additional account information. You also may choose to provide other information about yourself, either as part of your public profile or otherwise, such as your age, gender or interests. We may use the information that we collect or receive to create a user profile in connection with your account. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions.
+**Account or Profile Information:** On some of the Websites, you may be able to become a registered user and create your user profile. When you decide to become a registered user, we ask for some basic contact information, such as a username and your ZIP Code and email address. If you purchase products through a Nextag Store (described below), you may enter additional account information. You also may choose to provide other information about yourself, either as part of your public profile or otherwise, such as your age, gender or interests. We may use the information that we collect or receive to create a user profile in connection with your account. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions. 
 
- **Order Related Information Through Nextag Stores:** We provide some of our merchants with the ability to create an online store through which they advertise their products. We refer to these merchant stores as "Nextag Stores". We provide payment processing services for Nextag Stores, but all sales are sales by the merchant. Our privacy policy will apply to information that we collect or receive and the merchant’s privacy policy will apply to information that we or you provide to the merchant. You may provide us with information as you use Nextag Stores, such as:
+**Order Related Information Through Nextag Stores:** We provide some of our merchants with the ability to create an online store through which they advertise their products. We refer to these merchant stores as "Nextag Stores". We provide payment processing services for Nextag Stores, but all sales are sales by the merchant. Our privacy policy will apply to information that we collect or receive and the merchantâs privacy policy will apply to information that we or you provide to the merchant. You may provide us with information as you use Nextag Stores, such as:
 
-    *  **Order and Account Related Information:** To purchase from a merchant through a Nextag Store, you will pay by using our online payment processing service (our "Payment Processing Service"), and we will collect your information that is needed to process the order, such as credit card and related information like your billing address. Your credit card information is not provided to the merchant. We will also collect information that is needed for your order, such as your shipping address, the products that you purchased, and the date on which you made and/or completed the order or purchase.
-    *  **Customer Service:** You may elect to provide us with information about your Nextag Stores purchase, such as customer service requests or information about merchant issues.
+  * **Order and Account Related Information:** To purchase from a merchant through a Nextag Store, you will pay by using our online payment processing service (our "Payment Processing Service"), and we will collect your information that is needed to process the order, such as credit card and related information like your billing address. Your credit card information is not provided to the merchant. We will also collect information that is needed for your order, such as your shipping address, the products that you purchased, and the date on which you made and/or completed the order or purchase. 
+  * **Customer Service:** You may elect to provide us with information about your Nextag Stores purchase, such as customer service requests or information about merchant issues. 
 
- **Complete Contact Information:** If you wish to be contacted by a merchant or service provider, such as an educational institution, we may collect your full name, email address, phone number, as well as other information that may be appropriate for the service, and we provide that information to the relevant merchant(s) or service provider(s). We also may request that you complete a questionnaire, which may require you to disclose personal financial, contact, and other information that is relevant to the service ("Service User Information"). You may elect not to provide Service User Information, in which case you will not be able to receive the service.
 
- **Content or Correspondence Submitted By You:** If you choose to post content on any of the Websites where posting is available (for example, a product or merchant review, or wish list), or submit personal correspondence to Nextag, we may collect and maintain that information in a file specific to you.
 
- **Lists:** Some of the Websites allow you to create lists of products that are interesting to you. The default for certain lists is for the list to be publicly available. You may change the privacy setting of your lists as provided on the Websites.
+**Complete Contact Information:** If you wish to be contacted by a merchant or service provider, such as an educational institution, we may collect your full name, email address, phone number, as well as other information that may be appropriate for the service, and we provide that information to the relevant merchant(s) or service provider(s). We also may request that you complete a questionnaire, which may require you to disclose personal financial, contact, and other information that is relevant to the service ("Service User Information"). You may elect not to provide Service User Information, in which case you will not be able to receive the service. 
 
- **Framing:** Please note that in some instances we utilize framing techniques, which make it appear that you are on our site when you are actually on a third party Web site. If we frame a questionnaire on the third party site, then you are actually completing the questionnaire directly on the third party's site. The privacy policy that governs the collection and use of the information will be present on these pages so you always know whose privacy practices govern the collection and use of the information that you submit.
+**Content or Correspondence Submitted By You:** If you choose to post content on any of the Websites where posting is available (for example, a product or merchant review, or wish list), or submit personal correspondence to Nextag, we may collect and maintain that information in a file specific to you. 
 
- **INFORMATION ACQUIRED AUTOMATICALLY**   
+**Lists:** Some of the Websites allow you to create lists of products that are interesting to you. The default for certain lists is for the list to be publicly available. You may change the privacy setting of your lists as provided on the Websites.
+
+**Framing:** Please note that in some instances we utilize framing techniques, which make it appear that you are on our site when you are actually on a third party Web site. If we frame a questionnaire on the third party site, then you are actually completing the questionnaire directly on the third party's site. The privacy policy that governs the collection and use of the information will be present on these pages so you always know whose privacy practices govern the collection and use of the information that you submit. 
+
+**INFORMATION ACQUIRED AUTOMATICALLY**  
 We collect certain information on the Websites through cookies, web beacons or log files, and we receive information from third parties.
 
- **Cookies and Web Beacons:** A cookie is a piece of data tied to information about the user and stored on the user's computer. Web beacons are similar in function to cookies and are used to track the online movements of Web users. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. We and/or our third party advertisers also use web beacons.
+ **Cookies and Web Beacons:** A cookie is a piece of data tied to information about the user and stored on the user's computer. Web beacons are similar in function to cookies and are used to track the online movements of Web users. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. We and/or our third party advertisers also use web beacons. 
 
- **Log Files:** Like most standard website servers we use log files. Log files store information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks, and are used to analyze trends, administer the Websites, track users' movement in the aggregate, and gather broad demographic information for aggregate use. We use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites. We do not tie log files to personally identifiable information.
+**Log Files:** Like most standard website servers we use log files. Log files store information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks, and are used to analyze trends, administer the Websites, track users' movement in the aggregate, and gather broad demographic information for aggregate use. We use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites. We do not tie log files to personally identifiable information.
 
- **Third Party Information:** We may receive information about you from other sources. For example, we may receive product search or purchase information from merchants whose sites you visit after clicking on a product listing on our site, updated delivery and address information from shipping carriers or other third parties, updated or corrected contact information from third party vendors, or credit or related information as part of vendors’ fraud detection services.
+ **Third Party Information:** We may receive information about you from other sources. For example, we may receive product search or purchase information from merchants whose sites you visit after clicking on a product listing on our site, updated delivery and address information from shipping carriers or other third parties, updated or corrected contact information from third party vendors, or credit or related information as part of vendorsâ fraud detection services.
 
  **PEOPLE UNDER 18 YEARS OLD**
 
@@ -48,13 +49,15 @@ Our Websites are not intended for use by people under eighteen (18) years of age
 
  **USES OF INFORMATION**
 
-The information that we receive about users, including profile information, allows us to provide a number of different services on the Websites. For example:
+The information that we receive about users, including profile information, allows us to provide a number of different services on the Websites. For example: 
 
-    * We may use your ZIP Code to provide you with localized services, such as computing TruePrice, which reflects the cost of shipping and sales tax, and matching you with local service providers for some of the matching services we provide (e.g., educational opportunities or products or services available locally).
-    * We may use your email address to provide you with certain information or updates (such as Price Alerts, our newsletters, or deals notices) if requested by you, facilitate your provision of product or merchant reviews, or match you with participating service providers in areas where you have requested information.
-    * We may use the account information to manage your account, facilitate the use of certain features of our Websites (e.g., personalized product recommendations, suggestions of content that may be of interest to you, TruePrice prices, submission of product/merchant reviews and creation of your lists) and to send you information about our company, services and products or offers from our partners and advertisers.
-    * We may use information about your use of our and our partners’ sites, such as your searches or browsing history and the products you have purchased, to make recommendations or suggestions to you and to provide you with advertising that is more relevant and interesting for you.
-    * If you have requested information from a service provider (such as an educational institution), we may use information about you to match you with the appropriate service providers in our system.
+  * We may use your ZIP Code to provide you with localized services, such as computing TruePrice, which reflects the cost of shipping and sales tax, and matching you with local service providers for some of the matching services we provide (e.g., educational opportunities or products or services available locally).
+  * We may use your email address to provide you with certain information or updates (such as Price Alerts, our newsletters, or deals notices) if requested by you, facilitate your provision of product or merchant reviews, or match you with participating service providers in areas where you have requested information.
+  * We may use the account information to manage your account, facilitate the use of certain features of our Websites (e.g., personalized product recommendations, suggestions of content that may be of interest to you, TruePrice prices, submission of product/merchant reviews and creation of your lists) and to send you information about our company, services and products or offers from our partners and advertisers.
+  * We may use information about your use of our and our partnersâ sites, such as your searches or browsing history and the products you have purchased, to make recommendations or suggestions to you and to provide you with advertising that is more relevant and interesting for you.
+  * If you have requested information from a service provider (such as an educational institution), we may use information about you to match you with the appropriate service providers in our system.
+
+
 
 We use cookies in a number of ways to make your use of our services more enjoyable, useful and easy. We create cookie files on your hard drive through your browser and use them, for example, to save information on your Nextag username, ZIP Code and Website preferences so you can avoid re-entry of this information each time you visit our Websites, and to display certain usage information that may be helpful for you, such as your recent searches and recently viewed items. Cookies also help us to deliver content and advertisements specific to your interests. For example, we may use cookies to collect anonymous information about your use of our sites and services (including your browsing history, the terms you searched, the products you viewed, etc.) and your interaction with our advertisements that are served on the Websites or other sites. We also may allow our advertising partners to use cookies to collect this kind of anonymous information. This information is not associated with your personally identifiable information. We or our advertising partners may use this anonymous use and browsing information to customize your experience on the Websites, to improve the Websites and our services such as by analyzing what content or services are helpful or interesting to users, or to provide you with advertisements that are tailored to your interests, both on our sites and on third-party sites. We also may provide your anonymous use and browsing information to third parties to allow them to provide you with advertisements that are tailored to your interests. You may decline our cookies if your web browser software permits, although this may prevent you from accessing certain features on our Websites.
 
@@ -62,20 +65,22 @@ Web beacons help us better manage content on our site by informing us what conte
 
 In addition to the uses described above, we may use your personal information for any of the following:
 
-    * To contact you regarding the status of your inquiries relating to services or products listed on our Websites.
-    * To contact you regarding account status, changes to this Website Privacy Statement, our Terms of Use or other terms applicable to your use of the Websites.
-    * To contact you to confirm your service inquiry, to confirm, complete or update your Service User Information or registration information, or for any other business reason related to your use of our Websites.
-    * To contact you in response to a customer service question from you, or in relation to any issue arising in respect of the agreement between Nextag and you, or to resolve or attempt to resolve a dispute between users or between Nextag and you.
-    * To process credit card payments approved in advance by you and help us establish and verify your identity.
-    * To process, service or enforce, or send related communications regarding, transactions you make using our Payment Processing Service.
-    * To allow you to send an email to another user who is listing an item for sale on our site, where available.
-    * To assist law enforcement or other governmental agencies investigating cases of possible illegal activities by third parties.
-    * To enforce or apply our Terms of Use or other agreements, and protect the rights, property or safety of our users or others.
-    * To improve the experience of using the Websites, improve Nextag's products and services, improve marketing and promotion of our products and services, customize the Websites' content and layout, and generally improve the Websites to meet your needs better.
+  * To contact you regarding the status of your inquiries relating to services or products listed on our Websites.
+  * To contact you regarding account status, changes to this Website Privacy Statement, our Terms of Use or other terms applicable to your use of the Websites.
+  * To contact you to confirm your service inquiry, to confirm, complete or update your Service User Information or registration information, or for any other business reason related to your use of our Websites.
+  * To contact you in response to a customer service question from you, or in relation to any issue arising in respect of the agreement between Nextag and you, or to resolve or attempt to resolve a dispute between users or between Nextag and you.
+  * To process credit card payments approved in advance by you and help us establish and verify your identity.
+  * To process, service or enforce, or send related communications regarding, transactions you make using our Payment Processing Service.
+  * To allow you to send an email to another user who is listing an item for sale on our site, where available.
+  * To assist law enforcement or other governmental agencies investigating cases of possible illegal activities by third parties.
+  * To enforce or apply our Terms of Use or other agreements, and protect the rights, property or safety of our users or others.
+  * To improve the experience of using the Websites, improve Nextag's products and services, improve marketing and promotion of our products and services, customize the Websites' content and layout, and generally improve the Websites to meet your needs better.
+
+
 
 To change your preferences regarding your use of the Websites and our use of that information, including for the purpose of providing you with advertisements that may be of interest to you, please [click here](http://www.nextag.com/serv/main/buyer/searchPreferences.jsp).
 
-  3.  **Who We Share Your Personal Information With**
+*  **Who We Share Your Personal Information With**
 
  **Publicly available information:** Certain information that you provide, such as your lists, is publicly available unless you choose to make it private. You may control the information that is publicly available by signing into your account and adjusting your settings.
 
@@ -93,7 +98,7 @@ Business Transfer: We may share your information with companies that are affilia
 
  **Other Trusted Parties:** We may provide your contact information and other personal data to trusted third parties so they may provide information to you on products and services that may be of interest to you.
 
-  4.  **Accessing and Changing Your Personal Information**
+*  **Accessing and Changing Your Personal Information**
 
 Registered users can review personally identifiable information by signing in using your member name or email address and password and then clicking on your "Account" link. Notwithstanding any request from you, we may retain a record of your information that is necessary to comply with applicable law or as necessary to manage your account. To view or change your preferences regarding your use of the Websites and our use of that information, including for the purpose of providing you with advertisements that may be of interest to you, please [click here](http://www.nextag.com/serv/main/buyer/searchPreferences.jsp).
 
@@ -103,41 +108,41 @@ For access and changes of any other data, please contact us at the address below
 
 You should also note that if we have provided your information to third parties, you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
-  5.  **Third Party Advertising and Links to Third Party Websites**
+*  **Third Party Advertising and Links to Third Party Websites**
 
 Some of the advertisements that appear on the Websites are delivered or served to you by third-party Internet advertising companies. These companies use certain technologies to deliver advertisements and marketing messages and also use cookies, clear gifs or similar methods to collect information, such as anonymous data about your visit to and use of the Websites and your interactions with their advertisements. These companies may use this information and information that they have collected from other web sites to provide you with advertisements that are tailored to your interests. We do not have access to or control over cookies or other features that these companies may use, and the information practices of these advertisers and third-party Web sites are not covered by this Website Privacy Statement. Please contact them directly for more information about their privacy practices.
 
 The [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection practices. To receive further information or to opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, visit <http://www.networkadvertising.org/index.asp>.
 
-  6.  **Choice/Opt Out Policy**
+*  **Choice/Opt Out Policy**
 
 We understand you may not want to receive promotional email from us or from our partners and advertisers. You can choose to opt out of receiving promotional email communications from us by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication you receive from us, or by contacting us directly. You can stop us from sharing your contact information with our partners and advertisers for direct marketing purposes either by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication you receive, or by contacting the partner or advertiser directly.
 
-To opt out of receiving Nextag promotional mailings after you have registered, [click here](http://www.nextag.com/serv/main/emailcampaign/optout.jsp) or click the appropriate unsubscribe link contained within the email that you receive, or email us at [optout@nextag.com](mailto:%6f%70%74%6f%75%74@%6e%65%78%74%61%67.%63%6f%6d). Please note that opting out may prevent you from receiving email from Nextag regarding updates and improvements to the Websites or offers and promotions that may interest you.
+To opt out of receiving Nextag promotional mailings after you have registered, [click here](http://www.nextag.com/serv/main/emailcampaign/optout.jsp) or click the appropriate unsubscribe link contained within the email that you receive, or email us at [ optout@nextag.com ](mailto:optout@wisecommerce.com). Please note that opting out may prevent you from receiving email from Nextag regarding updates and improvements to the Websites or offers and promotions that may interest you.
 
 In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., lenders or educational institutions or service providers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
-We may collect information about your interaction with our advertisements by using advertising cookies. To opt-out of these advertising cookies, please [click here](http://www.nextag.com/serv/deal/serv/main/buyer/help/AdTargetingOptOut.jsp). We may allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of these partner advertising cookies, please [click here](http://www.nextag.com/serv/main/buyer/help/AdTargetingOptOut.jsp).
+We may collect information about your interaction with our advertisements by using advertising cookies. To opt-out of these advertising cookies, please [click here](http://display.wizecommerce.com/buyer/dyad/AdTargetingOptInOut.jsp?chnl=psmus&opt=out&redirect=http%3A%2F%2Fwww.pricemachine.com%2Fserv%2Fpsmus%2Fbuyer%2Fhelp%2FAdTargetingOptOut.jsp). We may allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of these partner advertising cookies, please [click here](http://display.wizecommerce.com/buyer/dyad/AdTargetingOptInOut.jsp?chnl=psmus&opt=out&redirect=http%3A%2F%2Fwww.pricemachine.com%2Fserv%2Fpsmus%2Fbuyer%2Fhelp%2FAdTargetingOptOut.jsp).
 
 To change your preferences regarding your search, browsing and purchase history and our use of that information, including to provide you with advertisements that may be of interest to you, please [click here](http://www.nextag.com/serv/main/buyer/searchPreferences.jsp).
 
-  7.  **Security Measures to Protect Your Personal Information**
+*  **Security Measures to Protect Your Personal Information**
 
-The security and confidentiality of your information is very important to us. We have implemented technical, administrative, and physical security measures designed to protect your information from unauthorized access and improper use. We review our security procedures on a regular basis to consider new or updated and appropriate technology and methods. Please be aware, however, that no method of transmission of information over the Internet, or method of electronic storage of information, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+The security and confidentiality of your information is very important to us. We have implemented technical, administrative, and physical security measures designed to protect your information from unauthorized access and improper use. We review our security procedures on a regular basis to consider new or updated and appropriate technology and methods. Please be aware, however, that no method of transmission of information over the Internet, or method of electronic storage of information, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
 
-To help ensure that your credit card information is secure, we use secure sockets layer (SSL) software (which encrypts the information you input) when you give us your credit card information, and we reveal only the last four digits of your credit card number when confirming your order. All of your credit card information is encrypted. Once we store your credit card information, it is not displayed anywhere on the Websites other than in the Account Management section as described in Section 4 above.
+To help ensure that your credit card information is secure, we use secure sockets layer (SSL) software (which encrypts the information you input) when you give us your credit card information, and we reveal only the last four digits of your credit card number when confirming your order. All of your credit card information is encrypted. Once we store your credit card information, it is not displayed anywhere on the Websites other than in the Account Management section as described in Section 4 above. 
 
 Please note that anyone with your password can access your information and account, and it is important that you use a strong password and protect your password from unauthorized use.
 
-  8.  **Your California Privacy Rights**
+*  **Your California Privacy Rights**
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits residents of California who are registered users and use our service for private, family or household purposes to request certain standard information regarding our disclosure of personal information to third parties for their direct marketing purposes (including a list of categories of data disclosed in the previous calendar year and names and addresses of data recipients). To make such a request, please contact us as provided below.
 
-  9.  **Internet Crime Complaint Center**
+*  **Internet Crime Complaint Center**
 
 Nextag wants your Internet surfing experience to be safe. Help protect yourself. If you believe you have been a victim of Internet crime you can file a complaint with the Internet Crime Complaint Center (IC3), a partnership between the Federal Bureau of Investigation (FBI) and the National White Collar Crime Center. Their website is <http://www.ic3.gov/>.
 
-  10.  **Contact Us**
+* **Contact Us**
 
 If you have any questions about this Website Privacy Statement, the practices of the Websites, or your use of the Websites, please contact us at:
 
@@ -145,7 +150,4 @@ Privacy Officer
 Nextag, Inc.  
 2955 Campus Dr., 3rd Floor  
 San Mateo, CA 94403  
-[legalnotices@nextag.com](mailto:%6c%65%67%61%6c%6e%6f%74%69%63%65%73@%6e%65%78%74%61%67.%63%6f%6d) ( [click here](http://www.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings)
-
-
-
+[ legalnotices@nextag.com](mailto:legalnotices@wizecommerce.com) ([click here](http://www.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings)
