@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personallifemedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044713id_/http%3A//personallifemedia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personallifemedia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121114050id_/http%3A//personallifemedia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Life Media
 
