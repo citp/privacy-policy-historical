@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothinkmedia.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523023208id_/http%3A//www.sothinkmedia.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothinkmedia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121190228id_/http%3A//www.sothinkmedia.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy on Video Download, Flash, Video, FLV Software
 
@@ -64,7 +64,7 @@ We reserve the right to modify this Privacy Policy at any time.  If we decide t
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-[www.sothinkmedia.com](https://web.archive.org/web/20140523023208id_/http%3A//www.sothinkmedia.com/index.htm)  
+[www.sothinkmedia.com](https://web.archive.org/web/20141121190228id_/http%3A//www.sothinkmedia.com/index.htm)  
 Room 502, 5th Building, International Enterprise Center II, NO.1 Guanshan 2nd Road  
 Wuhan, Hubei Province, China, 430074  
 E-mail: [marketing@sothinkmedia.com](mailto:marketing@sothinkmedia.com)
