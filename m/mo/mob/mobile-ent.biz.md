@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083833id_/http%3A//mobile-ent.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102541id_/http%3A//www.mobile-ent.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy | Mobile Entertainment
 
-INTENT MEDIA LIMITED (“We” or “Our”) are committed to protecting and respecting your privacy.
+NEWBAY MEDIA LIMITED (“We” or “Our”) are committed to protecting and respecting your privacy.
 
 This policy (together with our t[erms of use](https://web.archive.org/web/terms-and-conditions "Terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is INTENT MEDIA LIMITED of SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 1JA, UNITED KINGDOM.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK.
 
 Our nominated representative for the purpose of the Act is Stuart Moody.
 
@@ -14,7 +14,7 @@ Our nominated representative for the purpose of the Act is Stuart Moody.
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.mobile-ent.biz (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by Intent Media] and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.mobile-ent.biz (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by NewBay Media] and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.  
 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -75,8 +75,8 @@ We may disclose your personal information to any member of our group, which mean
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Intent Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/terms-and-conditions "Terms of use") and other agreements; or to protect the rights, property, or safety of Intent Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If NewBay Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/terms-and-conditions "Terms of use") and other agreements; or to protect the rights, property, or safety of NewBay Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -87,7 +87,7 @@ This web site may contain links to other sites. We cannot be held responsible f
 
  **Your rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at INTENT MEDIA LIMITED, SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 1JA, UNITED KINGDOM.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -99,4 +99,4 @@ The Act gives you the right to access information held about you. Your right of 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
 **Contact**  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to INTENT MEDIA LIMITED, SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 1JA, UNITED KINGDOM.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK.
