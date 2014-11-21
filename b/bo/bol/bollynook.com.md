@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollynook.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032205id_/http%3A//www.bollynook.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollynook.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104600id_/http%3A//www.bollynook.com/en/privacy-policy) for the most accurate reproduction.*
 
 # BollyNook - Privacy Policy
 
