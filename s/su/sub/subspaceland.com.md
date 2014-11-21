@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subspaceland.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223143028id_/http%3A//www.classmedia.com/public/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subspaceland.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193917id_/http%3A//www.classmedia.com/public/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Class Media Productions
 
