@@ -1,24 +1,94 @@
-> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213095219id_/http%3A//www.internode.on.net/sfoa/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111723id_/http%3A//www.internode.on.net/privacy) for the most accurate reproduction.*
 
-# Internode - SFOA - Privacy Policy
+# Internode :: About :: Legal :: Privacy Statement
 
-## Privacy Policy 
+Internode is committed to providing excellent service and protecting your personal information is important to us. This statement explains how we collect, use, share and hold your personal information.
 
-**This is Internode's Privacy Policy, which forms part of Internode's[Standard Form of Agreement](https://web.archive.org/sfoa/index.htm) (the definitions for the terms used in this Policy are contained in Internode's Standard Form of Agreement).**
+### What personal information we collect
 
-  1. We may, in our discretion, retain and access any data or information concerning your use of the Services.
-  2. Where we hold information that you lodge with us (for transmission or web hosting) we will make back-up copies of your information. However, we do not guarantee successful restoration of your information lodged on our servers in the unlikely event of loss of that information (due, for instance, to a catastrophic hardware failure). It is your responsibility to ensure that you keep back-up copies of all information that you lodge with us.
-  3. We will not disclose personal information or any other information or data held by us about you to a third party unless: 
-    1. we have reason to suspect that unlawful activity has been, is being or may be engaged in, and we disclose this information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities;
-    2. we are required or specifically permitted by or under law to provide this information to an authority or person that is duly authorised to request it;
-    3. a court order compels us to disclose this information to a specified recipient; or
-    4. we are otherwise required or specifically permitted by law to disclose this information.
-  4. We will not use or disclose your credit report or any personal information derived from that report unless we are required or specifically permitted to do so under Part IIIA of the Privacy Act 1988 or the Credit Reporting: Code of Conduct.
-  5. You acknowledge that we must cooperate with the lawful requests of members of the police force or any other person duly authorised to investigate breaches of the law, and that we may disclose any information held by us in relation to your account to such authorities if compelled or required to do so.
-  6. We draw your attention to the ACIF Calling Number Display Code of Practice, which can be viewed at <http://www.acma.gov.au/ACMAINTER.393554:STANDARD:550353612:pc=PC_2096>.
-  7. This Industry Code requires carriage service providers to inform their customers that they receive Calling Line Identification ("CLI") information in many circumstances where the customer would expect this to not occur.
-  8. Internode receives this CLI information in most cases which means we know the phone number you call us from when you make a modem or ISDN call to connect to the Internet even if you have a silent number or use 'per call blocking'.
-  9. We would like to reassure customers that we will only disclose your personal information as set out in this Policy.  
+Internode collects personal information from our customers including the type of information required to provide our services such as your name, address, date of birth, gender, contact details, payment information, credit information, driver’s licence number, usage data, Internode username, password and voice password.
+
+If you don’t provide all or part of the personal information we require, we may not be able to provide you with the relevant services.
+
+### How we may collect your personal information
+
+Internode usually collects personal information about you directly. For example, we collect personal information when you provide information to us by phone or email, or when you enter your personal details on our websites.
+
+We may also collect information about you indirectly, including from:
+
+  * our employees, agents, contractors or suppliers;
+  * third parties such as our related companies, [credit reporting bodies](https://web.archive.org/creditreporting/) and credit providers;
+  * third parties such as sporting clubs and community organisations that we partner with;
+  * third parties such as utility aggregators who provide product comparison services for telecommunications market;
+  * our customer’s authorised representatives;
+  * other telecommunication and information service providers;
+  * our equipment; and
+  * publicly available sources of information.
 
 
 
+### Why we collect your personal information
+
+Your personal information is collected and used by Internode so we can go about our day-to-day business of providing you awesome customer service.
+
+For example, to:
+
+  * verify your identity;
+  * assess whether you are eligible for our services;
+  * assist you to complete an application that was abandoned;
+  * carry out checks for credit-worthiness and for fraud;
+  * process your application to become an Internode customer;
+  * provide the services you require;
+  * deal with enquiries and provide customer support;
+  * manage your services, including billing, account management and collecting debts;
+  * research and develop our products and services;
+  * business planning;
+  * provide information to the manager of the Integrated Public Number Database (IPND);
+  * provide you with information about our services, products and special offers (and marketing those products to you unless you have requested us not to do so).
+
+
+
+### How we may share your personal information
+
+We may need to share your personal information to organisations outside Internode, for example, with:
+
+  * suppliers so we can supply the service to you;
+  * technicians we engage to resolve faults concerning your service;
+  * a credit reporting body or credit provider if you fail to make payments due under our CRA;
+  * a fraud-checking agency to carry out checks;
+  * debt collection agencies and similar parties that assist with debt-recovery;
+  * specialist contractors for the purposes of research and development;
+  * other communication companies, for specific marketing campaigns;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * other telecommunications and information service providers, for example, for billing purposes;
+  * your authorised representative or contact person in the manner you have agreed to;
+  * your legal advisers, if requested by you to do so;
+  * a duly authorised government, regulatory authority or other organisation such as the TIO, when we are required or specifically permitted by law to do so (for example, to the operator of the IPND, which supplies information for telephone directories) or to resolve customer complaints or disputes;
+  * a specified recipient if a court order compels us to do so, and
+  * law enforcement agencies concerning the enforcement of criminal and other laws if we are compelled, or required to do so.
+
+
+
+There are some circumstances where Internode may provide your personal information to an organisation located outside of Australia. These organisations work with us to provide professional services in software development, systems and technical support, data storage, marketing and product development. The countries these organisations are based in include: Singapore, the United Kingdom, the United States of America, China and Indonesia. We ensure that these companies take the security and confidentiality of your personal information as seriously as we do.
+
+### How we hold your personal information
+
+We keep customer information on controlled systems, which are secure against unauthorised access. Proof of identity is always required before personal information is disclosed to any person, including the specific customer. We take particular care with credit card details, which are not stored unencrypted in Internode systems.
+
+### Our websites
+
+We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you. We may use cookies or other similar technology for these purposes. You can usually remove or block cookies (by using the settings in your browser), but it may affect your ability to use the website.
+
+### How to access & correct your personal information
+
+Your personal information can be accessed via your secure [My Internode toolbox](https://web.archive.org/myinternode) or by [contacting us](https://web.archive.org/contact/).
+
+We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request to opt-out of certain communications and make changes to their personal information directly through My Internode, or by contacting us at [support@internode.com.au](mailto:support@internode.com.au) or by calling 13 66 33.
+
+Please [contact us](https://web.archive.org/contact/) if you wish to access or correct personal information that we hold about you.
+
+### Contact us about our privacy statement
+
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/contact/) by calling support on 13 66 33 or email [support@internode.com.au](mailto:support@internode.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/about/legal/complaints_handling/).
+
+Date: 11 March 2014
