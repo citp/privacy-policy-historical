@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dndetails.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610132316id_/http%3A//dndetails.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dndetails.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084004id_/http%3A//dndetails.com/privacy.php) for the most accurate reproduction.*
 
 # Domain Name Details - Privacy Policy
 
