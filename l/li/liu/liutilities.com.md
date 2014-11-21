@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608132313id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121042758id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
-# Uniblue - Software Made Easy
+# Liutilities - Free Resource Libraries and Tech Articles by InfoLabs
 
-  |    
+|   |    
+  
 
 
 ### Collection and use of information
@@ -31,7 +32,7 @@ If we propose to use personal information for any purposes other than those desc
 
 ### Information sharing 
 
-Uniblue.com only shares personal information with other commercial projects from Uniblue Systems Ltd. upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information. 
+Uniblue.com only shares personal information with other commercial projects from Uniblue Systems Ltd. upon obtaining the user's consent. We require opt-in consent for the sharing of any personal information. 
 
   
 
