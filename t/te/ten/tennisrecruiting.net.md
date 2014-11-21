@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111113id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090025id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -135,20 +135,33 @@ Marietta, GA 30007-1912
 | [](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  TENNIS EXPRESS PRODUCT REVIEW  
 ---|---  
   
-[**Head Prestige Pro Racquet**](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=title&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dyt%2Dgraphene%2Dprestige%2Dpro%2Dtennis%2Dracquet%2D35581) A full size video with all related links is available on our store's [YouTube Channel](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=youtube&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DTU9W0Tuy4QU). To purchase from Tennis Express or to find out more, [Click Here](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=clickHere&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dyt%2Dgraphene%2Dprestige%2Dpro%2Dtennis%2Dracquet%2D35581)!  
+[**Volkl Super G 5 Racquet**](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=title&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fvolkl%2Dsuper%2Dg%2D5%2Dtennis%2Dracquet%2D40439) A full size video with all related links is available on our store's [YouTube Channel](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=youtube&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DIMEHt632%5FNs). To purchase from Tennis Express or to find out more, [Click Here](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=video&subId1=clickHere&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fvolkl%2Dsuper%2Dg%2D5%2Dtennis%2Dracquet%2D40439)!  
 
 RECENT COMMITMENTS 
 
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com) |  THE LATEST FROM TENNIS EXPRESS  
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLogo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  ATP GEAR - RACQUETS   
 ---|---  
   
-   
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Ffernando%2Dverdasco%2Dtennis%2Dpro) |   |  **Fernando Verdasco** [BABOLAT Aeropro Drive](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fbabolat%2Daeropro%2Ddrive%2Dtennis%2Dracquet%2D31562)  
+Buy Now: $199.00  
+[Review](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proReview&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fbabolat%2D2013%2Daeropro%2Ddrive%2Dgt%2Dtennis%2Dracquet%2Dreview), [Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D31562), [Demo](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proDemo&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2FBABOLAT%2D2013%2DAeropro%2DDrive%2DGT%2DDemo%2DTennis%2DRacquet%2D31568), [Video](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proVideo&subId1=Fernando+Verdasco&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DqprMKt5mi6k)  
+---|---|---  
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fdmitry%2Dtursunov) |   |  **Dmitry Tursunov** [WILSON Blade 98 18x20](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fwilson%2Dblade%2D98%2D18x20%2Dtennis%2Dracquet%2D31124)  
+Was: $229.99   **Now: $199.00**  
+[Review](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proReview&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fwilson%2Dblade%2D98%2D18x20%2Dtennis%2Dracquet%2Dreview), [Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D31124), [Demo](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proDemo&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2FWILSON%2D2013%2DBlade%2D98%2D18x20%2DDemo%2DTennis%2DRacquet%2D31125), [Video](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proVideo&subId1=Dmitry+Tursunov&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DZZ529Ck8ZC8)  
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fkei%2Dnishikori) |   |  **Kei Nishikori** [WILSON Steam 96](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fwilson%2Dsteam%2D96%2Dtennis%2Dracquet%2D31132)  
+Was: $219.99   **Now: $89.00**  
+[Review](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proReview&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fwilson%2Dsteam%2D96%2Dracquet%2Dreview), [Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D31132), [Demo](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proDemo&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2FWILSON%2DSteam%2D96%2DDemo%2DTennis%2DRacquet%2D31133), [Video](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proVideo&subId1=Kei+Nishikori&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DA0%5FePpEiACY)  
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fbernard%2Dtomic) |   |  **Bernard Tomic** [HEAD Graphene Radical MP](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dgraphene%2Dradical%2Dmp%2Dtennis%2Dracquet%2D35586)  
+Was: $210.00   **Now: $189.95**  
+[Review](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proReview&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fhead%2Dgraphene%2Dradical%2Dmp%2Dtennis%2Dracquet%2Dreview), [Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D35586), [Demo](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proDemo&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2FHEAD%2DGraphene%2DRadical%2DMP%2DDemo%2DTennis%2DRacquet%2D35594), [Video](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proVideo&subId1=Bernard+Tomic&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DJnf5UNsFj44)  
+ 
 
 ITA NEWS
 
-[**Weil Tennis Academy**](http://www.youtube.com/watch?v=8NdBlHPtelc)
+[**Gorin Tennis Academy**](http://www.youtube.com/user/GorinTennis)
 
-For the past sixteen years in Ojai, California, the Weil Tennis Academy has steadily built a program whose focus is developing competitive players into Champions!
+Gorin Tennis Academy is located in Granite Bay, just 20 minutes from Sacramento, CA.
 
  
 
