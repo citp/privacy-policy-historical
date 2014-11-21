@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062504id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094559id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Personal Information Collection
 
-Your personal information will only be collected if you submit it to BlackWasp using the contact form. Your name, email address and any comments you make will be retained if you have specified that you permit this. If you elect not to have your details recorded by indicating that you do not want to be contacted then your details will be erased after your query is answered. If you later decide that you wish this information to be deleted, please request this using the [contact form](https://web.archive.org/web/20140625062504id_/http%3A//www.blackwasp.co.uk/Contact.aspx).
+Your personal information will only be collected if you submit it to BlackWasp using the contact form. Your name, email address and any comments you make will be retained if you have specified that you permit this. If you elect not to have your details recorded by indicating that you do not want to be contacted then your details will be erased after your query is answered. If you later decide that you wish this information to be deleted, please request this using the [contact form](https://web.archive.org/web/20141121094559id_/http%3A//www.blackwasp.co.uk/Contact.aspx).
 
 ## Web Site Logs
 
