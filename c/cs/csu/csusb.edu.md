@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620083714id_/http%3A//www.csusb.edu/privacySecurityNotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123452id_/http%3A//www.csusb.edu/privacySecurityNotice.html) for the most accurate reproduction.*
 
-# Privacy and Security Notice - California State Univesity, San Bernardino
+# Privacy and Security Notice - California State University, San Bernardino
 
-  * [About CSUSB](https://web.archive.org/web/20140620083714id_/http%3A//www.csusb.edu/about/index.html)
+  * [About CSUSB](https://web.archive.org/web/20141121123452id_/http%3A//www.csusb.edu/about/index.html)
   * [Admissions](http://admissions.csusb.edu/)
   * [Athletics](http://csusbathletics.com/)
-  * [Colleges](https://web.archive.org/web/20140620083714id_/http%3A//www.csusb.edu/colleges/index.html)
+  * [Colleges](https://web.archive.org/web/20141121123452id_/http%3A//www.csusb.edu/colleges/index.html)
   * [Library](http://www.lib.csusb.edu/)
   * [Degrees & Programs](http://bulletin.csusb.edu/programs-az/)
-  * [Support CSUSB](https://web.archive.org/web/20140620083714id_/http%3A//www.csusb.edu/supportCSUSB/index.html)
+  * [Support CSUSB](https://web.archive.org/web/20141121123452id_/http%3A//www.csusb.edu/supportCSUSB/index.html)
 
 
 
