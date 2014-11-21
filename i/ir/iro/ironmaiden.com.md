@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060645id_/http%3A//www.ironmaiden.com/iron-maiden-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034321id_/http%3A//www.ironmaiden.com/iron-maiden-privacy-policy.html) for the most accurate reproduction.*
 
 # Iron Maiden - Privacy Policy
 
@@ -16,9 +16,16 @@ For each visitor to our Web page, our Web server automatically recognizes the co
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, .
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
+We collect personal data that you volunteer while using our website or conducting a commercial relationship with us. Some of this data may be used with 3rd party analytics software we use to monitor the website.  
+We may use your personal data for research and development, customer administration and marketing. We do not collect or use personal data for any other purpose, nor do we share it with third parties, other than our trusted partner network.
+
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.  
+Google Analytics – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous.  
+Google Remarketing — Google uses these cookies to show relevant adverts to users who have previously visited our website, as they browse other websites. To opt-out from Google's remarketing program, please [edit your Google Ad Settings](https://www.google.com/settings/ads).  
+Facebook - Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.  
+Xu – We use these tools and the data you have provided such as email address to understand more about the areas of our website you're most interested in. We then use this information to tailor marketing messages to you.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -32,7 +39,7 @@ Upon request we provide site visitors with access to all information [including 
 
 Consumers can access this information by writing to us at the above address.  
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.  
-Consumers can have this information corrected by visiting us at [www.ironmaiden.com](https://web.archive.org/web/20140625060645id_/).
+Consumers can have this information corrected by visiting us at [www.ironmaiden.com](https://web.archive.org/web/20141121034321id_/).
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
