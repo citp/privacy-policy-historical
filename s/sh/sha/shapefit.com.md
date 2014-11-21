@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234910id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065000id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
@@ -41,26 +41,8 @@ We may make changes to the Privacy Policy from time to time in our sole discreti
 **Queries**   
 If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
 
-| 
-
-[](http://www.shapefit.com/success/success-stories-weight-loss-michael-shilkus.html)
-
-[](https://itunes.apple.com/us/app/fittracker/id398464055?mt=8&uo=4)
-
-[](http://www.shapefit.com/training.html)
-
-[](http://www.shapefit.com/workout-routines.html)
-
-[](http://www.shapefit.com/success-stories.html)
-
-[](http://www.shapefit.com/exercise-videos.html)
-
-[](http://www.shapefit.com/fitness-models.html)
-
-[](http://www.shapefit.com/forum/)
-
-[](http://www.shapefit.com/latest-articles.html)
-
-[](http://www.shapefit.com/testimonials.html)  
+|    
   
+  
+[](http://www.shapefit.com/exercise/fittracker-fitness-app.html)  
 ---|---
