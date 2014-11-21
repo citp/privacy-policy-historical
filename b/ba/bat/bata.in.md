@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bata.in privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727120232id_/http%3A//www.bata.in/webbata/faces/jsp/static.jsp%3Farticleid%3D1958) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bata.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093553id_/http%3A//bata.in/bataindia/faces/jsp/article.jsp%3Fsubcategoryid%3D177%26categoryId%3D41) for the most accurate reproduction.*
 
-# || Online Shopping || Static Pages
+# 
+
+ 
 
 Bata India Limited (BIL) and its subsidiaries and divisions, including Bata.in, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by BIL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Bata.in you agree to the collection and use of your data by Bata.in in the manner provided in this Privacy Policy.
 
@@ -10,14 +12,18 @@ The Policy does not apply to the procedures and practices followed by entities t
 
 Through this document, we wish to make you:
 
+   
   * Feel at ease while using our websites.
+   
   * Feel confident while sharing information with us.
+   
   * Aware that you may contact us with your questions or concerns about privacy on this website.
+   
   * Aware that by using our websites you are agreeing to the collection of certain data.
 
 
 
-**Information that may be collected from you?**
+ **Information that may be collected from you?**
 
 Bata.in collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
@@ -27,37 +33,54 @@ We may collect additional information in connection with your participation in a
 
 While you use our website, we may have automatic access to (receive and collect) certain anonymous information in standard usage logs through our web server, obtained from “cookies” sent to your browser from web server cookies stored on your hard drive, including but not limited to:
 
+   
   * Computer-identification information.
+   
   * IP address, assigned to the computer which you use.
+   
   * The domain server through which you access our service.
+   
   * The type of computer you’re using.
+   
   * The type of web browser you’re using.
 
 
 
 While you are transacting on our website personally identifiable information collected about you may include:
 
+   
   * First and last name. 
+   
   * Email addresses. 
+   
   * Contact details including phone numbers.
+   
   * PIN/ZIP code.
+   
   * Demographic profile (like your age, gender, occupation, education, address and durables owned).
+   
   * Personal preferences and interests (such as books, movies, music and so on); and
+   
   * Your opinion on services, products, features on our websites.
 
 
 
 We may also collect the following information about:
 
+   
   * The pages you visit/access. 
+   
   * The links you click on our website. 
+   
   * The number of times you access the page. 
+   
   * Things you view, add to bag, add to wish list.
+   
   * Other websites you open simultaneously while browsing on ours
 
 
 
-**When / How do we collect the information?**
+ **When / How do we collect the information?**
 
 We will collect anonymous traffic information from you when you visit our website.
 
@@ -87,46 +110,58 @@ We may at certain times make chat rooms, forums, instant messenger and message b
 
 If you use a bulletin board or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-**How is the information used?**
+ **How is the information used?**
 
 We use your contact information to send you:
 
+   
   * Password reminder and registration confirmation. 
+   
   * Special offers. 
+   
   * Changes in the service policies or terms of use. 
+   
   * Event based communications such as order information, renewal notices, invites, reminders etc.
 
 
 
-_Note: We send users updates upon registration, and updates regarding your order status. We also send promotional emails to inform you about new arrivals, special offers, etc._
+ _Note: We send users updates upon registration, and updates regarding your order status. We also send promotional emails to inform you about new arrivals, special offers, etc._
 
-**We use your personal information to:**
+ **We use your personal information to:**
 
+   
   * Improve personalized features on our websites to enhance your shopping experience. 
+   
   * To contact you for your account / profile related matters or any other reason as may be necessary. 
+   
   * To provide the services requested by you example deliver merchandise ordered by you. 
+   
   * To preserve social history as governed by existing law or policy. 
 
 
 
 We use anonymous traffic information to:
 
+   
   * Remember you in order to deliver better and more personalized service e.g. track your entries in our promotion schemes; 
+   
   * Recognize your usage privileges to our website. 
+   
   * Administer and manage smooth functioning of our website by diagnosing problems. 
+   
   * Track your session and activities so that we can understand better how people use our website.
 
 
 
-**Who do we share your information with?**
+ **Who do we share your information with?**
 
 We do not share or rent your information with third parties except our agents and alliance partners.
 
-**Agents**
+ **Agents**
 
 We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit / debit card processing companies to process the payment for goods and services ordered from Bata.in website. These entities do not retain, store, share or use personally identifiable information for any other purposes.
 
-**Alliance** **Partners**
+ **Alliance** **Partners**
 
 We will share your information with our alliance partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by Bata.in.
 
@@ -134,9 +169,10 @@ We share email addresses with agents and Alliance partners. The agents and Allia
 
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to any other third parties unless: 
 
+   
   * Required by special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure; 
 
-
+   
   * To help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Bata.in terms of use or to defend against legal claims; 
 
 
@@ -155,11 +191,11 @@ If you have any questions about security on our website, you can email us at:
 
 customer.service@bata.co.in
 
-**What choices are available to you regarding collection, use and distribution of your information?**
+ **What choices are available to you regarding collection, use and distribution of your information?**
 
 You can accept or decline the cookies. All websites that are customizable require that you accept cookies. You must also accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/
 
-**Cookies**
+ **Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this website. We do link the information we store in cookies to any personally identifiable information you submit while on our website.
 
@@ -181,7 +217,7 @@ Our web servers automatically collect limited information about your computer’
 
 Bata.in includes links to other websites. Such websites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can know where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these websites via a link from the website’s homepage, you should contact the website directly for more information.
 
-**Voluntary disclosure of information.**
+ **Voluntary disclosure of information.**
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our websites. However, we offer some services only to visitors who do register:
 
@@ -195,7 +231,7 @@ Upon request, we will remove / block your personally identifiable information fr
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-**What security procedures are in place to protect information from loss, misuse or alteration?**
+ **What security procedures are in place to protect information from loss, misuse or alteration?**
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information. If you have registered your profile on Bata.in, your Bata.in ID and Password are required in order to access your profile information.
 
@@ -213,11 +249,11 @@ However the internet is an ever evolving medium. We may revise our privacy polic
 
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-**How can you correct inaccuracies in the information?**
+ **How can you correct inaccuracies in the information?**
 
 To correct or update any information you have provided, our websites allow you to do it online.
 
-**Policy updates**
+ **Policy updates**
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our website. Such changes shall be effective immediately upon posting to this website. 
 
@@ -225,7 +261,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Contact Details:**
+ **Contact Details:**
 
 Bata India Limited
 
@@ -236,5 +272,3 @@ Sector 17, Gurgaon Mehrauli Road
 Gurgaon – 122002.
 
 TOLL FREE Number: 1800-419-2282
-
-Email: customer.service@bata.in
