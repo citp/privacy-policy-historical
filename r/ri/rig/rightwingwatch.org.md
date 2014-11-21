@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525045013id_/http%3A//site.pfaw.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143418id_/http%3A//site.pfaw.org/privacypolicy) for the most accurate reproduction.*
 
-# People For the American Way: Privacy Policy
+# Privacy Policy - People For the American Way
 
 People for the American Way is committed to protecting the privacy and security of visitors to our websites. Outlined below is our online privacy policy for information collected through this website and email lists. If you have any questions about these policies, we encourage you to talk to us either by:
 
