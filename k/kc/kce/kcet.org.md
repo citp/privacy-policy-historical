@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628143739id_/http%3A//www.kcet.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081357id_/http%3A//www.kcet.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | KCET
 
@@ -84,4 +84,4 @@ We welcome all other questions, comments and concerns you may have about KCETLin
 California law provides California residents the right to request from KCETLink: (1) a list of the categories of personally identifiable information that KCETLink has disclosed to third parties for direct marketing purposes; and (2) the names and addresses of all such third parties. If you would like to request this information, please email your request to legal@kcet.org. 
 
 **IX. Changes To Our Privacy Policy**  
-We may change this Privacy Policy from time to time. If we make significant or material changes to this Privacy Policy, users will be notified through a prominently posted announcement on the homepage of the KCETLink Site. We encourage you to review our Privacy Policy periodically to read the latest version. If you have any questions concerning this Privacy Policy, please contact us in writing as specified in above Section VII. "How Do I Update My Personal Information and Privacy Preferences?" This privacy policy was last modified on: March 13, 2008.
+We may change this Privacy Policy from time to time. If we make significant or material changes to this Privacy Policy, users will be notified through a prominently posted announcement on the homepage of the KCETLink Site. We encourage you to review our Privacy Policy periodically to read the latest version. If you have any questions concerning this Privacy Policy, please contact us in writing as specified in above Section VII. "How Do I Update My Personal Information and Privacy Preferences?"
