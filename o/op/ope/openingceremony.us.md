@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openingceremony.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125604id_/http%3A//openingceremony.us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openingceremony.us privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095832id_/http%3A//www.openingceremony.us/privacypolicy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - OPENING CEREMONY
+# Privacy Policy - OPENING CEREMONY
 
 **Privacy Policy**
 
