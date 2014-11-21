@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcrealms.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330192617id_/http%3A//www.hcrealms.com/forum/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcrealms.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034503id_/http%3A//www.hcrealms.com/forum/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HeroClix Realms
 
@@ -27,7 +27,7 @@ Privacy Policy
 
   
   
-All times are GMT -4. The time now is 15:26.
+All times are GMT -4. The time now is 23:45.
 
 Copyright ©2000 - 2011, **RealmWorx, LLC** \- All Rights Reserved.
 
