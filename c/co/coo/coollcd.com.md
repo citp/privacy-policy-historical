@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020744id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100259id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : CoolLCD.com
 
