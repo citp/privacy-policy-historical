@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610105055id_/http%3A//www.1800contacts.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182950id_/http%3A//www.1800contacts.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | 1-800 CONTACTS
 
