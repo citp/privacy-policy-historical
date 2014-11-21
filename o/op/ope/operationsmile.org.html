@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the operationsmile.org privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629192729id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the operationsmile.org privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121044654id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3131:0';
-CONVIO.pageSessionID = '39EB19A5A26BB9F4161E511C82CB4A6B.app322b';
+CONVIO.pageSessionID = '2A534A3E6A7CDD3C36F84DF304F6113C.app337b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1404070049487"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1416545213278"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -42,7 +42,7 @@ deleteCookie("CONVIO.referrer");
 
 
 
-</head><body class="default"><div id="item-330674103" style="DISPLAY: inline">
+<script src="http://www.telize.com/geoip?callback=jsonp1580435725012&amp;_=1580435725185"></script></head><body class="default"><div id="item-330674103" style="DISPLAY: inline">
 
 
 
@@ -121,6 +121,7 @@ if (!Y) {
 <style type="text/css">
 .canadacontent {
 position: absolute;
+display: none;
 z-index: 1;
 }
 
@@ -130,6 +131,34 @@ z-index: 2;
 }
 </style>
 
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+$.ajax( {
+url: 'http://www.telize.com/geoip',
+type: 'GET',
+dataType: 'jsonp',
+success: function(location) {
+var visitor = location.country;
+console.log(visitor);
+if (visitor == "Canada") {
+$('.canadacontent').show();
+$('.uscontent').hide();
+} else {
+$('.canadacontent').hide();
+$('.uscontent').show();
+}
+}
+});
+});
+</script>
+
+
+
+
+
+
+
+<!--
 <script src="https://j.maxmind.com/app/geoip.js" type="text/javascript"></script>
 <script type="text/javascript">
 var visitor = geoip_country_name();
@@ -142,7 +171,7 @@ else
   {
 document.write("\<style type\=\"text\/css\"\>\.canadacontent \{display\:none\;\} \.uscontent \{display\:block\;\}\<\/style\>");
   }
-</script>
+</script> -->
 
 
 
@@ -447,14 +476,14 @@ a.topcatalog2:hover {
 </ul>
 </li>
 <li class="bar"><a class="bar" href="http://www.operationsmile.org/get_involved/"><img border="0" height="12" src="http://www.operationsmile.org/assetsv2/images/fw/header/primary-nav/e-getinvolved-out.gif" width="111"></a>
-<div class="transpbg" style="width: 152px;">&nbsp;<!-- nmt --></div>
-<ul style="width: 150px;">
-<li class="item_first" style="width: 132px;"><a href="http://www.operationsmile.org/get_involved/medical-volunteers/">Medical Volunteers</a></li>
-<li style="width: 132px;"><a href="http://www.operationsmile.org/get_involved/student-youth-programs/">Student Youth Programs</a></li>
-<li id="primary_nav_onesmile" style="width: 132px;"><a class="canadacontent" href="http://osc.convio.net/site/PageServer?pagename=onesmile_home">Personal Fundraising</a><a class="uscontent" href="http://www.operationsmile.org/ways_to_give/one-smile.html">Personal Fundraising</a><br></li>
-<li style="width: 132px;"><a href="http://www.operationsmile.org/get_involved/community-volunteers/">Community Volunteers</a></li>
-<li style="width: 132px;"><a href="http://www.operationsmile.org/get_involved/teacher-resources/">Teacher Resources</a></li>
-<li style="width: 132px;"><a href="http://www.operationsmile.org/get_involved/careers/">Careers</a></li>
+<div class="transpbg" style="width: 143px;">&nbsp;<!-- nmt --></div>
+<ul style="width: 141px;">
+<li class="item_first" style="width: 123px;"><a href="http://www.operationsmile.org/get_involved/medical-volunteers/">Medical Volunteers</a></li>
+<li style="width: 123px;"><a href="http://www.operationsmile.org/get_involved/student-youth-programs/">Student Programs</a></li>
+<li id="primary_nav_onesmile" style="width: 123px;"><a class="canadacontent" href="http://osc.convio.net/site/PageServer?pagename=onesmile_home">Personal Fundraising</a><a class="uscontent" href="http://www.operationsmile.org/ways_to_give/one-smile.html">Personal Fundraising</a><br></li>
+<li style="width: 123px;"><a href="http://www.operationsmile.org/get_involved/community-volunteers/">Community Volunteers</a></li>
+<li style="width: 123px;"><a href="http://www.operationsmile.org/get_involved/teacher-resources/">Teacher Resources</a></li>
+<li style="width: 123px;"><a href="http://www.operationsmile.org/get_involved/careers/">Careers</a></li>
 </ul>
 </li>
 <li class="bar"><a class="bar" href="http://www.operationsmile.org/ways_to_give/"><img border="0" height="12" src="http://www.operationsmile.org/assetsv2/images/fw/header/primary-nav/f-waystogive-out.gif" width="109"></a>
@@ -529,7 +558,7 @@ document.getElementById("primary_nav_shoptobenefit").style.display="none";
 <script language="JavaScript" type="text/javascript">
 ord=Math.random()*10000000000000000;
 document.write('<img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4845;boom=27708;sz=1x1;ord='+ ord +'?"width="1" height="1" border="0" alt="">');
-</script><img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4845;boom=27708;sz=1x1;ord=6854693086701997?" width="1" height="1" border="0" alt="">
+</script><img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4845;boom=27708;sz=1x1;ord=2065725073246367.2?" width="1" height="1" border="0" alt="">
 <noscript>
 <img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4845;boom=27708;sz=1x1;ord=1?"width="1" height="1" border="0" alt="">
 </noscript>
@@ -619,7 +648,7 @@ document.write('<img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4
 <p>If you received an email from us, your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving email communications from us, or you have donated to us, purchased from us or otherwise have an existing relationship with us.</p>
 <p>We respect your time and attention by controlling the frequency of our emails. However, you may modify your email preferences at any time. Each email sent contains an easy, automated way for you to change your expressed interests, or to cease receiving email from us altogether. If you would like to modify your preferences, simply follow the instructions at the end of any email you receive from us.</p>
 <h4>Communications Preferences</h4>
-<p>We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange mailing addresses with select non-profit groups. We will not sell, rent or share your email address or telephone number. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in mailing address exchange activities, please call 1-888-OPSMILE (1-888-667-6453) or email <a href="mailto:drelations@operationsmile.org">drelations@operationsmile.org</a>. A gift made through this appeal represents a gift to the entire Operation Smile mission. To help the most children, we use your gift where it can do the most good by pooling it with the gifts of others.
+<p>We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange mailing addresses with select non-profit groups. We will not sell, rent or share your email address or telephone number. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in mailing address exchange activities, please call 1-888-OPSMILE (1-888-677-6453) or email <a href="mailto:drelations@operationsmile.org">drelations@operationsmile.org</a>. A gift made through this appeal represents a gift to the entire Operation Smile mission. To help the most children, we use your gift where it can do the most good by pooling it with the gifts of others.
 </p><p>&nbsp;</p>
 <h3>EXTERNAL LINKS</h3>
 <p>This website may contain links to other sites. Unless we expressly state otherwise, Operation Smile makes no representations whatsoever concerning the content of those sites. The fact that Operation Smile has provided a link to a site is not an endorsement, authorization, sponsorship, or affiliation with respect to such site, its owners, or its providers. There are risks associated with using any information, software, or products found on the Internet, and Operation Smile cautions you to make sure that you understand these risks before retrieving, using, relying upon, or purchasing anything via the Internet. In addition, we encourage our users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. These other sites may collect or solicit personal data or send their own cookies to your computer. Please be aware that Operation Smile is not responsible for the privacy practices of other websites. 
@@ -668,6 +697,12 @@ document.write('<img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4
 	
 </div><div class="odd">
 	
+</div><div class="even">
+	
+</div><div class="odd">
+	
+</div><div class="even">
+	
 
 		
 		 
@@ -691,12 +726,6 @@ document.write('<img src="http://ad.doubleclick.net/activity;src=2055485;dcnet=4
 				</div>
 			</div>
 		
-	
-</div><div class="even">
-	
-</div><div class="odd">
-	
-</div><div class="even">
 	
 </div></div>
 <div id="templatelist-78277218" style="DISPLAY: inline">
@@ -873,7 +902,7 @@ CONVIO.user.isAnonymous = true;
 
 
 
-<p><span class="nav2">© 2014 Operation Smile <a href="http://www.operationsmile.org/misc/privacy-policy.html">Privacy Policy</a> </span><a class="first" href="http://www.operationsmile.org/">Home</a> <a href="http://www.operationsmile.org/donate">Donate Now</a> <a href="http://www.operationsmile.org/faq/">Operation Smile FAQ</a> <a href="http://www.operationsmile.org/about_us/who-we-are/cleft-lip-and-cleft-palate.html">Cleft Lip &amp; Cleft Palate FAQ</a> <a href="http://www.operationsmile.org/get_involved/careers/">Careers</a> <a href="http://www.operationsmile.org/misc/site-map.html">Site Map</a> <a href="http://www.operationsmile.org/about_us/contact-us/">Contact Us</a> <a href="http://espanol.operationsmile.org">En Español</a></p>
+<p><span class="nav2">© 2014 Operation Smile<a href="http://www.operationsmile.org/misc/code-of-conduct.html">Code of Conduct</a>  <a href="http://www.operationsmile.org/misc/privacy-policy.html">Privacy Policy</a></span><a class="first" href="http://www.operationsmile.org/">Home</a> <a href="http://www.operationsmile.org/donate">Donate Now</a> <a href="http://www.operationsmile.org/faq/">Operation Smile FAQ</a> <a href="http://www.operationsmile.org/about_us/who-we-are/cleft-lip-and-cleft-palate.html">Cleft Lip &amp; Cleft Palate FAQ</a> <a href="http://www.operationsmile.org/get_involved/careers/">Careers</a> <a href="http://www.operationsmile.org/misc/site-map.html">Site Map</a> <a href="http://www.operationsmile.org/about_us/contact-us/">Contact Us</a> <a href="http://espanol.operationsmile.org">En Español</a></p>
 </span>
 </div>
 				</div>
