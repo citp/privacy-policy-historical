@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the japantrendshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234751id_/http%3A//www.japantrendshop.com/privacy-policy-i-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantrendshop.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104928id_/http%3A//www.japantrendshop.com/privacy-policy-i-2.html) for the most accurate reproduction.*
 
 # Japan Trend Shop
-
-  
-
 
 **Privacy Policy**
 
@@ -17,6 +14,9 @@ You are not required to register for an account or provide any personal informat
 
 * **Information you provide** – When you sign up for a Japan Trend Shop service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as product orders, we also request credit card or other payment account information. We may combine the information you submit under your account with information from other Japan Trend Shop services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.   
 * **Cookies** – When you visit Japan Trend Shop websites, we might send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. Cookies might be important for some of our services.   
+* **Google Analytics** – We use the third party service google analytics to provide us with information about visitors to our website.  
+Google analytics and Double Click for publishers will store a cookie on your computer in order to provide us with this information. We use the standard google analytics report plus the?Google Analytics Demographics and Interest Reporting feature.  
+You can opt out of this reporting by google from this page: https://tools.google.com/dlpage/gaoptout/  
 * **Log information** – When you access Japan Trend Shop sites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.   
 * **User communications** – When you send email or other communications to Japan Trend Shop, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.   
 * **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Japan Trend Shop, in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.   
