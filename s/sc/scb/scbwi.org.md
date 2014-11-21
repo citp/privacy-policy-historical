@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618130525id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090956id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
 
 # SCBWI | Privacy Policy
 
 * * *
 
-All SCBWI  information is the intellectual property of the SCBWI and is to be used only with written permission by the SCBWI Headquarters. 
+All SCBWI information is the intellectual property of the SCBWI and is to be used only with written permission by the SCBWI Headquarters.
 
 All email addresses and other contact information on the SCBWI website are intended for personal use by SCBWI members wishing to connect with other members. or their Regional Advisors.  Generic email addresses posted are for informational use only and may not be used for any solicitation or advertising. Unsolicited advertising or emails of any kind sent to any SCBWI member including, but not limited to, Regional Advisors, Assistant Regional Advisors, Illustrator Coordinators and any employee of SCBWI,  is prohibited.  Parties engaged in solicitation inviolation of this policy may be subject to legal action as well as immediate termination of the violator's SCBWI membership. 
 
@@ -29,7 +29,3 @@ SCBWI may periodically update this policy. SCBWI will notify you about significa
 **Questions**
 
 Any questions about this Privacy Policy should be addressed to sararutenberg@scbwi.org or by mail at: 8271 Beverly Blvd., Los Angeles, CA 90048. 
-
-**NON-SOLICITATION POLICY**
-
-The SCBWI has a very strict policy on the use of any and all member and Regional contact information. This applies to information on the SCBWI website and on its Regional websites and includes all email addresses, member information and Chapter volunteer contact information, including but not limited to Regional Advisors, Assistant Regional Advisors and Illustrator Coordinators. THIS CONTACT INFORMATION MAY NOT BE USED FOR ANY SOLICITATIONS, ANNOUNCEMENTS, OR OTHER ITEMS OF ANY KIND. Violation of this policy will result in immediate termination of your membership. 
