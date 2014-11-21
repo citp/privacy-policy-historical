@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115804id_/http%3A//desktopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopedia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094613id_/http%3A//desktopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Desktopedia
 
