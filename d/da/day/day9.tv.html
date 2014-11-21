@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625130717id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121042955id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -9,7 +9,7 @@
         
 
         
-          <link rel="stylesheet" href="https://day9tv-static.s3.amazonaws.com/site_media/static/compress/css/d24ff79d0875.css?Signature=iquTfatI4bBJC5%2Fwea4ASnhuDps%3D&amp;Expires=1466758162&amp;AWSAccessKeyId=AKIAISU6CITRMLI3HVJQ" type="text/css" media="all">
+          <link rel="stylesheet" href="https://day9tv-static.s3.amazonaws.com/site_media/static/compress/css/d24ff79d0875.css?Signature=8i%2BMmmTFS%2B6oFk3UukILZzyy%2FSE%3D&amp;Expires=1479571512&amp;AWSAccessKeyId=AKIAISU6CITRMLI3HVJQ" type="text/css" media="all">
         
         
         
@@ -113,19 +113,11 @@
             <div id="header-inner">
                 <div id="logo"><a href="/" class="">Day[9]TV</a></div>
                 <div id="countdown" style="">
-                    <div id="live" style="display:none;">
-                        <a href="">
+                    <div id="live" style="">
+                        <a href="/d/Day9/day9-daily-736-life-vs-taeja/">
                         <h5>Day[9] is</h5>
                         <h3>LIVE</h3>
                         </a>
-                    </div>
-                
-                    <div id="countdown-inner">
-                    <h5><a href="/d/b/day9tv-dailies/">The Day[9] Daily</a><br>7PM PST (Mon-Thurs)</h5>
-                    
-                    <a href="" class="counter-outer" title=""><div class="counter"></div></a>
-                    <a href="/d/subscription/user/Day9/set/?event_notification=1" class="day9-subscribe ajax-login-required" data-success="1" title="Get notified when Day[9] goes live."><i class="icon-bell icon-white"></i></a>
-                    <div class="info"><p>Sean "Day[9]" Plott casts the<br>Day[9] Daily Mon - Thurs, 7PM PST</p></div>
                     </div>
                 
                 </div>
@@ -408,8 +400,26 @@ change.</p>
 </section>
 
 </script>
-        <script type="text/javascript" src="https://day9tv-static.s3.amazonaws.com/site_media/static/compress/js/f3a294de6a4e.js?Signature=j8m65wAG0WHcsuxijtiI8jDqEx8%3D&amp;Expires=1466758173&amp;AWSAccessKeyId=AKIAISU6CITRMLI3HVJQ"></script>
+        <script type="text/javascript" src="https://day9tv-static.s3.amazonaws.com/site_media/static/compress/js/f3a294de6a4e.js?Signature=co4FJZrsgUaoOeqn5GO0wkA%2BdCc%3D&amp;Expires=1479571524&amp;AWSAccessKeyId=AKIAISU6CITRMLI3HVJQ"></script>
         
+        
+        
+        
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#countdown .counter').countdown({
+                    until: $.countdown.UTCDate(0, new Date(2014, 11-1, 21, 02, 50, 00)),
+                    layout: '{d<}<span class="days">{dn}</span>d:{d>}<span class="hours">{hnn}</span>h:<span class="mins">{mnn}</span>m',
+                    format: 'dHM',
+                    onExpiry: function() {
+                        $('#countdown-inner').remove();
+                        $('#live').show();
+                    },
+                    alwaysExpire: true,
+                    serverSync: function() { return $.countdown.UTCDate(0, new Date(2014, 11-1, 21, 04, 29, 55)); },
+                });
+            });
+        </script>
         
         
         
