@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rvusa.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606062110id_/http%3A//www.rvusa.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvusa.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180237id_/http%3A//www.rvusa.com/about/privacy-policy) for the most accurate reproduction.*
 
-# RVUSA.com Privacy Policy
+# Privacy Policy - RVUSA.com
 
   * [RVUSA.com](http://www.rvusa.com/ "Home - RVUSA.com") »
   * Privacy Policy
