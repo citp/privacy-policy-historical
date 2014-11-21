@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegeniuses.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402074338id_/http%3A//www.gamegeniuses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegeniuses.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122002702id_/http%3A//www.gamegeniuses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Game Genius
 
@@ -15,6 +15,8 @@ Gamegeniuses collects information about your transactions with us.
 Gamegeniuses automatically receives and records information on our server logs from your browser, including your IP address, Gamegeniuses cookie information, and the page you request.
 
 Gamegeniuses uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and investigate abuse.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
 
 Gamegeniuses reserves the right to modify all or some of this Privacy Policy at any time without notice. If we modify our Privacy Policy, we may post a notice on our website so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise.
 
