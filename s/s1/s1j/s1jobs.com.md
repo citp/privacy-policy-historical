@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053920id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143113id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ We use cookies to collect this type of information. Cookies are files or pieces 
 
 We may occasionally request your postcode details in order to ensure that we only deliver information relevant to you and only where we have obtained your prior express permission to do so. We will NOT use your postcode information to generate a full postal address (where completion of full address fields are not requested), nor will we mail out literature related to our websites unless you specifically request us to do so.
 
-When you register with the Site, you can elect to receive information and updates on our products and services by email and SMS. Will not use these addresses for any other purpose unless you give us your express permission to do so.
+When you register with the Site, you can elect to receive information and updates on our products and services by email. Will not use these addresses for any other purpose unless you give us your express permission to do so.
 
 We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you request. Such addresses are not used for any other purpose.
 
