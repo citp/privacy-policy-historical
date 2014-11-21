@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcodeexpert.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184942id_/http%3A//www.webcodeexpert.com/p/termsof-service-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcodeexpert.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001306id_/http%3A//www.webcodeexpert.com/p/termsof-service-1.html) for the most accurate reproduction.*
 
-# Asp.Net,C#.Net,VB.Net,MVC,jQuery,JavaScipt,AJAX,WCF,Sql Server example: Terms of Use & Privacy Policy
+# Terms of Use & Privacy Policy ~ Asp.Net,C#.Net,VB.Net,MVC,jQuery,JavaScipt,AJAX,WCF,Sql Server example
 
 **1\. ACCEPTANCE OF TERMS**
 
