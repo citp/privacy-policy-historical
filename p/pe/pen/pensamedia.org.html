@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pensamedia.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626032818id_/http%3A//www.pensamedia.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pensamedia.org privacy policy that was archived on 2014-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121093844id_/http%3A//www.pensamedia.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -164,15 +164,27 @@
           <!--<li><a href="testimonials.html">Testimonials</a></li>-->
         </ul>
       </aside>
-      <aside class="drop-us">
-        <h4><a name="drop-line"></a>Drop us a line</h4>
+     <aside id="drop-us" class="drop-us">
+        <h4>Drop us a line</h4>
+        <p id="footererror" style="color:#ff0000;font-weight:bold; text-align:left;display:none;"> Enter valid value of captcha</p>
         <form action="query.php" method="post" onsubmit="return Validattionquery();" enctype="multipart/form-data">
           <input type="text" name="block_username" id="block_username" placeholder="Type your Name">
           <input type="text" name="block_emailaddress" id="block_emailaddress" placeholder="Type your Email ID">
           <textarea name="block_message" id="block_message" cols="45" rows="5" placeholder="Type your Query"></textarea>
+          
           <input type="text" name="block_phonenumber" maxlength="10" id="block_phonenumber" placeholder="Type your Mobile No.">
+           <img src="captcha/visual-captcha.php" style="float:left; width:78px; height:33px;"> <input name="captchafooter" type="text" id="captchafooter" size="15" style="float:left; width:65px; margin-left:5px;">
           <input type="submit" name="dropsubmit" id="button" value="Submit">
         </form>
+        <script>
+        jQuery(window).load(function() {
+        var product  = window.location.hash.substr(1);
+     
+   if(product=="drop-us")
+   {
+   	jQuery("#footererror").show();
+  	}	        
+      });  </script>
       </aside>
     </div>
   </section>
