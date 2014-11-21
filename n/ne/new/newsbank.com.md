@@ -1,0 +1,57 @@
+> *The following text is extracted and transformed from the newsbank.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121114026id_/http%3A//www.newsbank.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | NewsBank
+
+NewsBank, inc., its subsidiaries and affiliates, and their employees, officers, directors, and agents (“we”, or “us”) understands and values the importance of maintaining the confidentiality and security of your information and seeks to secure your privacy during your visit to web sites owned and operated by NewsBank, including but not limited to, [www.newsbank.com](http://www.newsbank.com/);  [www.newslibrary.com](http://www.newslibrary.com/); and [www.readex.com](http://www.readex.com/) (collectively, “Our Web Sites”). This privacy policy outlines our practices for collection, use, and disclosure of your information that you provide to us and when you use Our Web Sites. By using Our Web Sites, you consent to the procedures and practices discussed in this policy. We may change this policy from time to time, so please check it regularly for any changes or updates. If you have any questions regarding th is privacy policy, you may contact [webmaster@newsbank.com](mailto:webmaster@newsbank.com).
+
+ **Key Terms**  
+Throughout this privacy policy, we use several specialized terms. When we use the term “Personally Identifiable Information” in this privacy policy, we mean information that is specific to you as an individual, such as your name, postal address, email address, or telephone number. The term “User Information” incorporates all of your Personally Identifiable Information and any other forms of information discussed in this privacy policy. We use the term “aggregate” when we combine information from various persons or users. Information is said to be “anonymized” if it does not identify individual persons or entities, or associate a particular person or entity with such information.
+
+ **Our Information Collection, Use, and Disclosure Practices**  
+When you visit Our Web Sites to browse, we may collect, use, and store information such as the type of operating system, computer modem, and Internet browser you are using, the number of times you visit Our Web Sites, the particular pages you view, the date and time you access Our Web Sites, and the length of your visits to Our Web Sites. We may use this information to improve Our Web Sites and user experience, and we may share this information with third parties if we choose to aggregate and disclose site traffic information for marketing or commercial purposes.
+
+When you visit Our Web Sites to browse, you may choose certain on-line options such as (i) logging on to obtain access to our services and products; (ii) obtaining information about us or our services or products; (iii) contacting us; or (iv) requesting our newsletter. When you engage in any of the foregoing activities, or use any other features or services of Our Web Sites, you may provide us certain Personally Identifiable Information. We collect and store this Personally Identifiable Information, any updates to such information that you send us, and any modifications that we make to such information. Except as set forth in this policy, we will not reveal any such Personally Identifiable Information to any other third party without your consent, except that we may share User Information with our business associates who assist us in administering our products, services, or Our Web Sites. Furthermore, we may use, disclose, or transfer certain User Information: (a) to provide you the services or information you request; (b) to send you other information that may be useful to you; (c) to protect the confidentiality or security of your records; (d) to comply with law enforcement, governmental mandate, or other legal requirement, if appropriate, for your protection or in connection with an investigation or prosecution of possible unlawful activity; (e) in connection with a sale, acquisition, or merger of our business or our business assets; (f) to our attorneys, accountants, or regulators; or (g) for other legally permissible purposes.
+
+In a few areas on Our Web Sites, we may ask you to provide information that will enable us to verify whether you are entitled to access and use certain services, materials, information or products available from Our Web Sites, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with us. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials or services.
+
+In addition, any anonymized information that you send us, such as your questions, suggestions, information, ideas, or other creative material (“Feedback”) belongs to us and will not be treated as confidential. You acknowledge and agree that we may use, reproduce, adapt, distribute, display, disclose, or create derivative works from Feedback without acknowledgement or compensation to you.
+
+ **Cookies and Web Beacons**  
+We may employ cookies (i.e., small text files) that Our Web Sites may send to your browser for storage on your hard drive. We may use such cookies to make use of Our Web Sites easier by saving your status and preferences upon visits to Our Web Sites. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies, or to alert you when cookies are being sent. We may also employ Web beacons, or site instrumentation, to monitor the behavior of visitors to Our Web Sites and activity on Our Web Sites, such as the number of and places visited by visitors to Our Web Sites.
+
+ **Revise Your Information**  
+If you use our products, services, or Our Web Sites, then you have voluntarily consented to our practices and procedures regarding your information as described in this privacy policy, Our Web Sites’ Terms and Conditions of Use, and other written documentation that may be provided to you regarding our products, services, or Our Web Sites. If you do not want us to use your information as described herein, or would either like to modify your information, or remove your information from our databases for marketing purposes, then please send an email to [webmaster@newsbank.com](mailto:webmaster@newsbank.com). Without the use of your information, however, we may not be able to provide you the services, products, or information you request. We will promptly comply with your information revision requests, but may retain copies of such information as necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into with us, and as otherwise reasonably necessary for our business purposes.
+
+ **Security**  
+We employ and maintain technology and security measures designed to protect your information.When you submit sensitive information on Our Web Sites, that information is subject to a variety of protections, including firewalls and password protected features for certain web site options. However, no data transmission over the Internet can be guaranteed as 100% secure. As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
+
+ **Third Party Web Sites**  
+You may have the option to enter third party web sites through Our Web Sites, or you may have the option to enter Our Web Sites from another third party web site. Since we cannot be assured that such third party web sites follow our privacy policies, we encourage you to ask questions and review the privacy policies of these third parties. We have no responsibility or liability for the actions or policies of these independent sites, do not endorse any product or service that may be mentioned or offered in such sites, and are not responsible for the content or privacy practices of such sites.
+
+Children’s Privacy  
+We are sensitive to privacy issues and look to protect your child’s information. We also strive to be fully compliant with the Children’s Online Privacy Protection Act (COPPA). We strongly encourage parents and guardians to regularly monitor and supervise their children's online activities. We do not filter advertisements or other content that children may view through Our Web Sites and children may receive content from the Internet that is not appropriate for them. We do not knowingly collect Personally Identifiable Information from children. We may also instruct a child not to submit Personally Identifiable Information on Our Web Sites. If a child has provided Personally Identifiable Information on one of Our Web Sites, we ask that a parent or guardian send an email to [webmaster@newsbank.com](mailto:webmaster@newsbank.com), and we will delete the child’s Personally Identifiable Information from our files.
+
+This provision of our privacy policy supersedes any conflicting provisions in the remainder of our privacy policy, as applicable to children under age 13.
+
+ **Notice to Freelance Authors**  
+NewsBank respects the intellectual property of others. The licensors of articles appearing on Our Web Sites have assured us that they have the right to authorize electronic distribution of the articles they provide to us. If you are a freelance author, and if you have questions or concerns regarding the electronic distribution of your article(s), we recommend that you contact your publisher directly. If you dispute the right of your publisher to authorize electronic distribution of your article(s), you may provide us with a written notification of your claim. Your notification to us must be in writing and must include all of the following information:
+
+    A full and complete identification of your article(s) (namely, the title and listed author(s), publication in which it appears on Our Web Sites, the original publication date, and the web page on Our Web Sites in which it appears);  
+    Your name, address, telephone number, facsimile number and e-mail address;  
+    A statement that you own the copyright at issue or that you are acting on behalf of the owner (and, if acting, the name, address and telephone number of the copyright owner for whom you are acting), and, if the copyright has been registered, a copy of the copyright registration or its number and date; and  
+    A statement that you have a good faith belief that electronic distribution of the article(s) has not been authorized by the copyright owner, its licensees or agents, or by applicable law.
+
+Your contact information must be accurate and complete so that we can confirm the authenticity of your request and follow up with you if we have difficulty identifying your article. You must sign your notification and affirm to the truth of items (1) – (4) in the form of a statement, sworn and notarized, under penalty of perjury.
+
+You must send this request to us at the following address by U.S. Mail or overnight courier. (We regret that we cannot process notifications by fax, telephone, telegram, or e-mail.)
+
+NewsBank, inc.  
+Attn: Rights & Permissions Department  
+5801 Pelican Bay Boulevard  
+Suite 600  
+Naples , FL 34108-2734
+
+This document was last updated on 12/19/07.
+
+©2007-2020 NewsBank, inc. All Rights Reserved.  
+
