@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lafraise.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521230346id_/http%3A//www.lafraise.com/blog/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafraise.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121192056id_/http%3A//www.lafraise.com/blog/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | laFraise Blog EN
 
