@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142041id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144334id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories
-
-## Privacy
-
-##  Privacy 
 
 Deus Ex Machina Motorcycles PTY LTD (Deus Ex Machina Motorcycles) is committed to protecting the privacy of your personal information. This privacy policy explains how Deus Ex Machina Motorcycles manages the personal information that we collect, use and disclose, and how to contact us if you have any further queries about our management of, or would like to request access to, your personal information.
 
