@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215031508id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182713id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -92,4 +92,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"Thank you for this service! With your browser alerts, I could just leave the window open and continue my browsing. I didn't have to worry about checking every website 1000 times a day to see if the Chromebook was in stock. I got one the first day I started using it and now I'll have it by Christmas. Thanks!" -Ashley
+"I just wanted to thank you for this site! It's brilliant!" -Vanessa
