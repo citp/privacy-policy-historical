@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aditmax.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325103608id_/https%3A//aditmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aditmax.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122214202id_/http%3A//aditmax.com/privacy) for the most accurate reproduction.*
 
-# ADITMAX
+# ADITMAX - online advertising
 
 **ADITMAX PRIVACY POLICY** ****
 
