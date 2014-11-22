@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the rejuvenation.com privacy policy that was archived on 2014-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327015620id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rejuvenation.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122164239id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="//www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <title>Rejuvenation</title>
 <!-- META -->
 <meta content="authenticity_token" name="csrf-param">
-<meta content="K98o2GllhuAv9eJGYUOyNPTJiBa5NlNNisROCfyolH4=" name="csrf-token">
+<meta content="gcKipccj3q1MbvE96G3pSvi9o6mhf1aAppd8rHUa760=" name="csrf-token">
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 <meta content="en" name="locale">
 <meta content="index,follow" name="robots">
@@ -15,33 +15,123 @@
 <link href="//ajax.googleapis.com" rel="dns-prefetch">
 <!-- STYLESHEETS -->
 <!--[if lt IE 9]>
-<link href="//rejuvenation.s3.amazonaws.com/assets/ie-fix-0404b28a907b228817f6bb7240d5e713.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="//rejuvenation.s3.amazonaws.com/assets/ie-fix-47d04d1c349eb571ffbd86d98c29077c.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <link href="//cloud.typography.com/6663272/763784/css/fonts.css" rel="stylesheet" type="text/css">
-<link href="//rejuvenation.s3.amazonaws.com/assets/application-76f187ccc6975740856073450ac53e13.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//rejuvenation.s3.amazonaws.com/assets/application-44ca4462008896bdb5e6c574d985c001.css" media="screen" rel="stylesheet" type="text/css">
 <link href="//rejuvenation.s3.amazonaws.com/assets/print-be5d04ef6ebb1c91ada8282e9d2d449a.css" media="print" rel="stylesheet" type="text/css">
 <!-- JAVASCRIPTS -->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0006/7217.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdns.brsrvr.com/v1/br-trk-5102-async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//rejuvenation.s3.amazonaws.com/assets/application-cf432820d3bd56f7a6c721df964a334e.js" type="text/javascript"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0006/7217.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdns.brsrvr.com/v1/br-trk-5102-async.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//rejuvenation.s3.amazonaws.com/assets/application-875391723d1712fd1f0961261d9a52e6.js" type="text/javascript"></script>
 <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
 <!-- ANALYTICS -->
 <script type="text/javascript">
 //<![CDATA[
-  var _gaq = _gaq || [];
-  _gaq.push(
-    ["_setAccount", "UA-4933986-1"]
-    ,["_setAllowLinker", true]
-    ,["_setDomainName", "none"]
-    ,["_trackPageview"]
-  );
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
-    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-4933986-1', 'rejuvenation.com');
+  ga('send', 'pageview');
+
+  // add to cart event
+
+  $('#submitCart').on('click', function() {
+      try
+      {
+          ga('send', {
+            'hitType': 'event',
+            'eventCategory': 'cart',
+            'eventAction': 'add',
+            'eventLabel': 'added to cart on PIP'
+          });
+
+      }
+      catch(err)
+      {
+          if (window.console)
+          {
+              console.log(err)
+          }
+      }
+  });
+
+  // chat clicked event
+
+  $('.lpChatBtn').on('click', function() {
+    try
+    {
+        ga('send', {
+            'hitType': 'event',
+            'eventCategory': 'chat',
+            'eventAction': 'clicked',
+            'eventLabel': 'Customer Clicked Chat Link'
+        });
+    }
+    catch(err)
+    {
+        if (window.console)
+        {
+            console.log(err)
+        }
+    }
+  });
+
+ // print tearsheet clicked event
+
+  $('#tearsheet-link').on('click', function() {
+    try
+    {
+        ga('send', {
+            'hitType': 'event',
+            'eventCategory': 'tearsheet',
+            'eventAction': 'clicked',
+            'eventLabel': 'Customer Clicked Tearsheet Link on PIP'
+        });
+    }
+    catch(err)
+    {
+        if (window.console)
+        {
+            console.log(err)
+        }
+    }
+  });
+
+// list view clicked on a category event
+
+  $('.list-view').on('click', function() {
+    try
+    {
+        ga('send', {
+            'hitType': 'event',
+            'eventCategory': 'listview',
+            'eventAction': 'clicked',
+            'eventLabel': 'Customer Clicked List View Toggle on a Category'
+        });
+    }
+    catch(err)
+    {
+        if (window.console)
+        {
+            console.log(err)
+        }
+    }
+  });
+
+
+
 
 //]]>
 </script>
+<!-- ClickTale Top part -->
+
+<script type="text/javascript">
+  var WRInitTime=(new Date()).getTime();
+</script>
+
+<!-- ClickTale end of Top part -->
+
 <!-- HEAD -->
 
       <script type="text/javascript">
@@ -68,8 +158,8 @@
   </style>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"6cce98738f","applicationID":"1139420","transactionName":"JwoNEhMJWw4AE0tCAQZKABMSElgPABM7RgEWEwoFBA==","queueTime":0,"applicationTime":51,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcPWVJVGwIBV1hWBQE="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6cce98738f","applicationID":"1139420","transactionName":"JwoNEhMJWw4AE0tCAQZKABMSElgPABM7RgEWEwoFBA==","queueTime":0,"applicationTime":49,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcPWVJVGwIBV1hWBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 
 </head>
 <body class="web left_column_layout" id="back-to-top">
@@ -77,6 +167,7 @@
 <div class="inner-wrapper">
 <div class="adminbar ajaxify hide"></div>
 <div class="crossbrandlinks">
+<div class="inner-wrapper">
 <div class="innerXbrand">
 <ul>
 <li>
@@ -103,13 +194,16 @@
 </ul>
 </div>
 </div>
-<div class="header">
+</div>
+<div class="header" id="header">
+<div class="inner-wrapper">
+<div class="header-content">
 <a href="/" class="mark sprite" rel="home">Rejuvenation</a>
 <a href="/" class="sprite logo" rel="home">Rejuvenation</a>
 <div class="checkout-wrapper">
 <div class="sprite carticon"></div>
 <div class="cart-wrapper ajaxify">
-<a href="https://www.rejuvenation.com/cart" id="cart-pop" rel="nofollow">cart: 0
+<a href="https://www.rejuvenation.com/cart" id="cart-pop" rel="nofollow">cart
 </a></div>
 <span>|</span>
 <a href="http://www.rejuvenation.com/checkout" rel="nofollow">checkout</a>
@@ -143,218 +237,21 @@ create account
 </div>
 </div>
 </div>
-<a href="https://server.iad.liveperson.net/hc/27767714/?cmd=file&amp;file=visitorWantsToChat&amp;site=27767714&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" class="lpChatBtn" id="_lpChatBtn" onclick="try{_gaq.push(['_trackEvent', 'Chat', 'Clicked', 'Customer Clicked Chat Link']);}catch(err){if (window.console){console.log(err)}}" rel="nofollow" target="chat27767714">Live Chat</a>
-<a href="http://blog.rejuvenation.com" target="_blank">Blog</a>
-<a href="http://www.rejuvenation.com/content/trade/trade" class="last">Trade</a>
+<a href="https://server.iad.liveperson.net/hc/27767714/?cmd=file&amp;file=visitorWantsToChat&amp;site=27767714&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" class="lpChatBtn" id="_lpChatBtn" rel="nofollow" target="chat27767714">Live Chat</a>
+<a href="/content/trade/trade" class="last">Trade</a>
 </div>
-<form accept-charset="utf-8" action="http://www.rejuvenation.com/search" class="search-wrapper" method="get">
+<form accept-charset="utf-8" action="/search" class="search-wrapper" method="get">
 <input id="q" name="q" placeholder="Search" tabindex="1" type="text">
 <button class="sprite submit" tabindex="1" type="submit">Search</button>
 </form>
+</div>
+</div>
 <div class="main-nav">
-<ul class="upper">
-  <li class="bath first">
-    <a href="/catalog/categories/bath">Bath</a>
-            <div class="sub-nav threecol">
-        <!--COLUMN 1-->
-        <div class="col1">
-          <h4>Shop Bath By Category</h4>
-          <ul class="col1 menua">
-              <li><a href="/catalog/categories/bath/lighting">Bath Lighting</a></li>
-              <li><a href="/catalog/categories/bath/hardware">Bath Hardware</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-sinks-consoles">Bathroom Sinks &amp; Consoles</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-faucets">Bathroom Faucets &amp; Shower Sets</a></li>
-              <li><a href="/catalog/categories/bath/medicine-cabinets">Medicine Cabinets</a></li>
-              <li><a href="/catalog/categories/bath/mirrors">Bathroom Mirrors</a></li>
-              <li><a href="/catalog/categories/bath/bath-towels-bath-mats">Bath Towels &amp; Bath Mats</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-storage-hampers">Storage &amp; Hampers</a></li>
-              <li><a href="/catalog/categories/bath/bath-soaps-cleaning-personal-care">Soaps, Cleaning &amp; Personal Care</a></li>
-              <li><a href="/catalog/categories/bath/decor">Bath Décor</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 2-->
-        <div class="col2">
-          <h4>Shop Bath By Collection</h4>
-          <ul class="col2 menua">
-              <li><a href="/catalog/categories/bath/linfield">Linfield</a></li>
-              <li><a href="/catalog/categories/bath/pittock">Pittock</a></li>
-              <li><a href="/catalog/categories/bath/winslow">Winslow</a></li>
-              <li><a href="/catalog/categories/bath/dunbar">Dunbar</a></li>
-              <li><a href="/catalog/categories/bath/bixby">Bixby</a></li>
-              <li><a href="/catalog/categories/bath/canfield">Canfield</a></li>
-              <li><a href="/catalog/categories/bath/bingham">Bingham</a></li>
-              <li><a href="/catalog/categories/bath/chandler">Chandler</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 3-->
-
-        <!--COLUMN 4-->
-          <div class="col4 feature">
-            <a href="/catalog/categories/new/new-bath"><img alt="Bath_pittock_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b802fd559305983000038/Bath_Pittock_257x235.jpg"></a>
-            <p></p><h4>Bath</h4>
-<p>See what's new for bath.</p><p></p>
-            <p><a href="/catalog/categories/new/new-bath">
-              shop now &gt;
-            </a></p>
-          </div>
-
-      </div>
-
-  </li>
-  <li class="kitchen">
-    <a href="/catalog/categories/kitchen-dining">Kitchen</a>
-            <div class="sub-nav fourcol">
-        <!--COLUMN 1-->
-        <div class="col1">
-          <h4>Shop Kitchen Lighting</h4>
-          <ul class="col1 menua">
-              <li><a href="/catalog/categories/kitchen-dining/lighting/pendants">Kitchen Pendants</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/lighting/flush-mounts">Kitchen Flush Mounts</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/lighting">All Kitchen Lighting</a></li>
-          </ul>
-
-            <h4 class="secondary">Shop Kitchen Furniture</h4>
-            <ul class="col1 menub">
-                <li><a href="/catalog/categories/kitchen-dining/furniture/stools">Kitchen Stools</a></li>
-                <li><a href="/catalog/categories/kitchen-dining/furniture">All Kitchen Furniture</a></li>
-            </ul>
-        </div>
-
-        <!--COLUMN 2-->
-        <div class="col2">
-          <h4>Shop Kitchen Hardware</h4>
-          <ul class="col2 menua">
-              <li><a href="/catalog/categories/kitchen-dining/hardware/cabinet-hardware">Cabinet Hardware</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/hardware/knobs-pulls">Knobs &amp; Pulls</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/hardware/switchplates-switches">Switchplates &amp; Switches</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/hardware/window-hardware">Window Hardware</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/hardware">All Kitchen Hardware</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 3-->
-        <div class="col3">
-          <h4>Shop Kitchen Utility &amp; Décor</h4>
-          <ul class="col3 menua">
-              <li><a href="/catalog/categories/kitchen-dining/decor/tabletop-serveware">Tabletop &amp; Tools</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/decor/storage-organization">Storage &amp; Organization</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/decor/home-care-supplies">Home Care &amp; Supplies</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/decor/clocks">Clocks</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/decor">All Kitchen Utility &amp; Décor</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 4-->
-          <div class="col4 feature">
-            <a href="/catalog/categories/kitchen-dining/lighting"><img alt="Rc-kitchen_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b8181d559305983000066/RC-Kitchen_257x235.jpg"></a>
-            <p></p><h4>Kitchen Lighting</h4>
-<p>See All Kitchen Lighting</p><p></p>
-            <p><a href="/catalog/categories/kitchen-dining/lighting">
-              shop now &gt;
-            </a></p>
-          </div>
-
-      </div>
-
-  </li>
-  <li class="living-dining">
-    <a href="/catalog/categories/living-dining">Living &amp; Dining</a>
-            <div class="sub-nav twocol">
-        <!--COLUMN 1-->
-        <div class="col1">
-          <h4>Shop By Category</h4>
-          <ul class="col1 menua">
-              <li><a href="/catalog/categories/lighting/living-room">Lighting</a></li>
-              <li><a href="/catalog/categories/hardware/living-room">Hardware</a></li>
-              <li><a href="/catalog/categories/furniture-decor/living-room-furniture">Furniture</a></li>
-              <li><a href="/catalog/categories/furniture-decor/mirrors">Mirrors</a></li>
-              <li><a href="/catalog/categories/furniture-decor/rugs">Rugs</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 2-->
-
-        <!--COLUMN 3-->
-
-        <!--COLUMN 4-->
-          <div class="col4 feature">
-            <a href="/catalog/categories/living-dining"><img alt="Livingroom_tibbets_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5328834601925b113700027f/LivingRoom_Tibbets_257x235.jpg"></a>
-            <p></p><h4>Living &amp; Dining</h4>
-<p>Make yourself comfortable.</p><p></p>
-            <p><a href="/catalog/categories/living-dining">
-              shop now &gt;
-            </a></p>
-          </div>
-
-      </div>
-
-  </li>
-  <li class="outdoor">
-    <a href="/catalog/categories/outdoor">Outdoor</a>
-            <div class="sub-nav fourcol">
-        <!--COLUMN 1-->
-        <div class="col1">
-          <h4>Shop Outdoor Lighting</h4>
-          <ul class="col1 menua">
-              <li><a href="/catalog/categories/outdoor/lighting/wall">Wall Lighting</a></li>
-              <li><a href="/catalog/categories/outdoor/lighting/ceiling">Ceiling Lighting</a></li>
-              <li><a href="/catalog/categories/campaigns/warehouse">Warehouse Lighting</a></li>
-              <li><a href="/catalog/categories/outdoor/lighting/string-lights">String Lights</a></li>
-              <li><a href="/catalog/categories/outdoor/lighting">All Outdoor Lighting</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 2-->
-        <div class="col2">
-          <h4>Shop Outdoor Hardware</h4>
-          <ul class="col2 menua">
-              <li><a href="/catalog/categories/outdoor/hardware/door-sets">Door Sets</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/door-hardware">Door Hardware</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/doorbells-knockers">Doorbells &amp; Knockers</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/house-numbers-mailboxes">House Numbers &amp; Mailboxes</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/flags-flagpole-holders">Flags &amp; Flagpole Holders</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 3-->
-        <div class="col3">
-          <h4>Shop Outdoor Utility &amp; Décor</h4>
-          <ul class="col3 menua">
-              <li><a href="/catalog/categories/outdoor/decor/rugs-doormats">Doormats</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/thermometers">Thermometers</a></li>
-              <li><a href="/catalog/categories/outdoor/decor/tools-utility">Tools &amp; Utility </a></li>
-              <li><a href="/catalog/categories/outdoor/decor/accessories">Accessories</a></li>
-          </ul>
-
-        </div>
-
-        <!--COLUMN 4-->
-          <div class="col4 feature">
-            <a href="/catalog/categories/campaigns/warehouse"><img alt="Outdoor-carson_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b81bbe694aa064700004f/Outdoor-Carson_257x235.jpg"></a>
-            <p></p><h4>Warehouse Fixtures</h4>
-<p>Our Warehouse Fixtures</p><p></p>
-            <p><a href="/catalog/categories/campaigns/warehouse">
-              shop now &gt;
-            </a></p>
-          </div>
-
-      </div>
-
-  </li>
-</ul>
+<div class="inner-wrapper">
 <ul class="lower">
   <li class="new first">
     <a class="special" href="/catalog/categories/new">New</a>
-            <div class="sub-nav fourcol">
+          <div class="sub-nav fourcol">
         <!--COLUMN 1-->
         <div class="col1">
           <h4>Just In</h4>
@@ -362,49 +259,56 @@ create account
               <li><a href="/catalog/categories/new/new-lighting">New Lighting</a></li>
               <li><a href="/catalog/categories/new/new-hardware">New Hardware</a></li>
               <li><a href="/catalog/categories/new/new-bath">New Bath</a></li>
-              <li><a href="/catalog/categories/new/new-decor">New Utility &amp; Décor</a></li>
+              <li><a href="/catalog/categories/new/new-decor">New Utility &amp; Decor</a></li>
               <li><a href="/catalog/categories/new/new-furniture">New Furniture</a></li>
+              <li><a href="/catalog/categories/new/new-appliances">New Appliances</a></li>
           </ul>
 
             <h4 class="secondary">Free Shipping</h4>
             <ul class="col1 menub">
-                <li><a href="/catalog/categories/new/free-shipping">Free Shipping on Select Hardware</a></li>
+                <li><a href="/catalog/categories/new/free-shipping">Everyday Free Ship on 400+ Items</a></li>
             </ul>
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Featured</h4>
+          <h4>Holiday Preparations</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/campaigns/redland-industrial-kitchen">Redland Industrial Kitchen</a></li>
-              <li><a href="/catalog/categories/new/products/grandview">Grandview Family</a></li>
-              <li><a href="/catalog/categories/new/featured-rooms/articulated-lighting">Swing Arm Task Lights</a></li>
-              <li><a href="/catalog/categories/new/products/schoolhouse-lighting">Schoolhouse Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/quick-ship">Quick Ship</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/decorate">Decorate</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/update">Update</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/welcome-guests">Welcome Guests</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/cook-and-dine">Cook &amp; Dine</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/entertain">Entertain</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/rest-and-relax">Rest &amp; Relax</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/stay-warm">Stay Warm</a></li>
           </ul>
 
+            <h4 class="secondary">Gifts</h4>
+            <ul class="col2 menub">
+                <li><a href="/catalog/categories/holiday-gifts/gifts">See All Gifts</a></li>
+            </ul>
         </div>
 
         <!--COLUMN 3-->
         <div class="col3">
-          <h4>Inspiration</h4>
+          <h4>Featured Collaborations</h4>
           <ul class="col3 menua">
-              <li><a href="/catalog/categories/bath/bath-renovation">Latest Bath Renovation</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/latest-kitchen-renovation">Latest Kitchen Renovation</a></li>
-              <li><a href="/catalog/categories/bath/porcelain-from-portland">Porcelain from Portland</a></li>
-              <li><a href="/catalog/categories/new/brass-is-better">Brass is Better</a></li>
-              <li><a href="/catalog/categories/campaigns/clear-glass">Clear Glass</a></li>
-              <li><a href="/catalog/categories/campaigns/staff-selects">Staff Selects</a></li>
-              <li><a href="/catalog/categories/campaigns/top-pins">Most Pinned Products</a></li>
+              <li><a href="/colorhouse">Mercantile Collection by Colorhouse</a></li>
+              <li><a href="/catalog/categories/new/collaborations/cedar-moss">Cedar &amp; Moss</a></li>
+              <li><a href="/catalog/categories/new/collaborations/caravan-pacific">Caravan Pacific</a></li>
+              <li><a href="/catalog/categories/new/collaborations/pigeon-toe">Pigeon Toe</a></li>
+              <li><a href="/catalog/categories/new/collaborations/mosser">Mosser</a></li>
+              <li><a href="/catalog/categories/new/collaborations/watermark">Watermark</a></li>
+              <li><a href="/catalog/categories/new/collaborations">See All Collaborations</a></li>
           </ul>
 
         </div>
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/new/new-lighting"><img alt="New-lighting_redland_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5079d52cd559301c4100004d/New-Lighting_Redland_257x235.jpg"></a>
+            <a href="/catalog/categories/new/new-lighting"><img alt="140821_rc_y14b06_l_2282_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5079d52cd559301c4100004d/140821_RC_Y14B06_L_2282_257x235.jpg"></a>
             <p></p><h4>New Lighting</h4>
-<p>See the Redland</p>
+<p>Introducing Our Cedar &amp; Moss Collection</p>
 
 
 <p></p>
@@ -417,73 +321,64 @@ create account
 
   </li>
   <li class="lighting">
-    <a href="/catalog/categories/lighting">Lighting</a>
-            <div class="sub-nav fourcol">
+    <a href="/catalog/categories/lighting">Lighting &amp; Fans</a>
+          <div class="sub-nav fourcol">
         <!--COLUMN 1-->
         <div class="col1">
-          <h4>Shop Lighting By Category</h4>
+          <h4>Hardwired Lighting</h4>
           <ul class="col1 menua">
-              <li><a href="/catalog/categories/lighting/ceiling">Ceiling Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/ceiling/pendants">Pendants</a></li>
-              <li><a href="/catalog/categories/lighting/ceiling/flush-mounts">Flush Mount Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/ceiling/semi-flush-mounts">Semi-Flush Mount Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/ceiling/chandeliers">Chandeliers</a></li>
-              <li><a href="/catalog/categories/lighting/wall">Wall Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/floor">Floor Lamps</a></li>
-              <li><a href="/catalog/categories/lighting/table">Table Lamps</a></li>
+              <li><a href="/catalog/categories/lighting/pendants">Pendants</a></li>
+              <li><a href="/catalog/categories/lighting/flush-mounts">Flush Mount Lighting</a></li>
+              <li><a href="/catalog/categories/lighting/chandeliers">Chandeliers</a></li>
+              <li><a href="/catalog/categories/lighting/wall-sconces">Wall Sconces</a></li>
+              <li><a href="/catalog/categories/lighting/quick-ship">Quick Ship Lighting</a></li>
+              <li><a href="/catalog/categories/lighting/led">LED Lighting</a></li>
+              <li><a href="/catalog/categories/restored-antiques/lighting">Restored Lighting</a></li>
           </ul>
 
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Shop Lighting By Style</h4>
+          <h4>Lamps &amp; Plug-Ins</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/lighting/american-classics">American Classics</a></li>
-              <li><a href="/catalog/categories/lighting/arts-crafts">Arts &amp; Crafts</a></li>
-              <li><a href="/catalog/categories/lighting/classical-revival">Classical Revival</a></li>
-              <li><a href="/catalog/categories/lighting/colonial-revival">Colonial Revival</a></li>
-              <li><a href="/catalog/categories/lighting/deco">Deco</a></li>
-              <li><a href="/catalog/categories/lighting/industrial">Industrial</a></li>
-              <li><a href="/catalog/categories/lighting/mid-century-modern">Mid-Century Modern</a></li>
-              <li><a href="/catalog/categories/lighting/victorian">Victorian</a></li>
+              <li><a href="/catalog/categories/lighting/table">Table &amp; Desk Lamps</a></li>
+              <li><a href="/catalog/categories/lighting/floor">Floor Lamps</a></li>
+              <li><a href="/catalog/categories/lighting/pin-ups-plug-ins">Pin-ups &amp; Plug-Ins</a></li>
+              <li><a href="/catalog/categories/lighting/string-lights">String Lights</a></li>
           </ul>
 
-            <h4 class="secondary">Lighting Accessories</h4>
+            <h4 class="secondary">Fans</h4>
             <ul class="col2 menub">
-                <li><a href="/catalog/categories/lighting/bulbs">Bulbs</a></li>
-                <li><a href="/catalog/categories/lighting/shades">Shades</a></li>
-                <li><a href="/catalog/categories/hardware/switchplates-switches">Switchplates &amp; Switches</a></li>
+                <li><a href="/catalog/categories/lighting/fans">Ceiling Fans</a></li>
+                <li><a href="/catalog/categories/lighting/fans/portable-fans">Portable Fans</a></li>
             </ul>
         </div>
 
         <!--COLUMN 3-->
         <div class="col3">
-          <h4>Shop Lighting By Room</h4>
+          <h4>Featured Lighting</h4>
           <ul class="col3 menua">
-              <li><a href="/catalog/categories/bath/lighting">Bath Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/bedroom">Bedroom Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/dining-room">Dining Room Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/entryway">Entryway Lighting</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/lighting">Kitchen Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/living-room">Living Room Lighting</a></li>
-              <li><a href="/catalog/categories/lighting/office">Home Office Lighting</a></li>
-              <li><a href="/catalog/categories/outdoor/lighting">Outdoor Lighting</a></li>
+              <li><a href="/catalog/categories/new/new-lighting">New</a></li>
+              <li><a href="/catalog/categories/lighting/customer-favorites">Customer Favorites</a></li>
           </ul>
 
-            <h4 class="secondary">Featured Lighting</h4>
+            <h4 class="secondary">Lighting Accessories</h4>
             <ul class="col3 menub">
-                <li><a href="/catalog/categories/new/new-lighting">New</a></li>
+                <li><a href="/catalog/categories/lighting/bulbs">Bulbs</a></li>
+                <li><a href="/catalog/categories/lighting/shades">Shades</a></li>
+                <li><a href="/catalog/categories/hardware/switchplates-switches">Switchplates &amp; Switches</a></li>
+                <li><a href="/catalog/categories/lighting/extension-cords">Extension Cords</a></li>
             </ul>
         </div>
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/lighting/quick-ship"><img alt="Quickship_hood_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b816bbbddbd50930000e1/QuickShip_hood_257x235.jpg"></a>
-            <p></p><h4>Ready-Made &amp; Right to You</h4>
-<p>Lights that ship in 2 days.</p><p></p>
-            <p><a href="/catalog/categories/lighting/quick-ship">
-              Shop Quick Ship &gt;
+            <a href="/catalog/categories/lighting/pendants"><img alt="140822_rc_y14b06_l_2527_a7310_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b816bbbddbd50930000e1/140822_RC_Y14B06_L_2527_A7310_257x235.jpg"></a>
+            <p></p><h4>Brilliant &amp; Beautiful</h4>
+<p>Our Baltimore Pendant with the Copper Merchant Shade</p><p></p>
+            <p><a href="/catalog/categories/lighting/pendants">
+              Shop Now &gt;
             </a></p>
           </div>
 
@@ -492,66 +387,69 @@ create account
   </li>
   <li class="hardware">
     <a href="/catalog/categories/hardware">Hardware</a>
-            <div class="sub-nav fourcol">
+          <div class="sub-nav fourcol">
         <!--COLUMN 1-->
         <div class="col1">
-          <h4>Shop Hardware By Category</h4>
+          <h4>Door</h4>
           <ul class="col1 menua">
-              <li><a href="/catalog/categories/bath/hardware">Bath Hardware</a></li>
-              <li><a href="/catalog/categories/hardware/cabinet-hardware">Cabinet Hardware</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/doorbells-knockers">Doorbells &amp; Knockers</a></li>
-              <li><a href="/catalog/categories/hardware/door-hardware">Door Hardware</a></li>
               <li><a href="/catalog/categories/hardware/door-sets">Door Sets</a></li>
-              <li><a href="/catalog/categories/hardware/hooks-picture-hardware">Hooks &amp; Picture Hardware</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware/house-numbers-mailboxes">House Numbers &amp; Mailboxes</a></li>
-              <li><a href="/catalog/categories/hardware/registers">Registers</a></li>
-              <li><a href="/catalog/categories/hardware/switchplates-switches">Switchplates &amp; Switches</a></li>
-              <li><a href="/catalog/categories/hardware/window">Window Hardware</a></li>
+              <li><a href="/catalog/categories/hardware/door-hardware/barn-door-hardware">Barn Door</a></li>
+              <li><a href="/catalog/categories/hardware/door-hardware">Door Hardware</a></li>
+              <li><a href="/catalog/categories/outdoor/hardware/doorbells-knockers">Doorbells &amp; Knockers</a></li>
           </ul>
 
+            <h4 class="secondary">Wall</h4>
+            <ul class="col1 menub">
+                <li><a href="/catalog/categories/hardware/switchplates-switches">Switchplates &amp; Switches</a></li>
+                <li><a href="/catalog/categories/hardware/hooks-picture-hardware">Hooks &amp; Hook Racks</a></li>
+                <li><a href="/catalog/categories/hardware/shelf-brackets-shelving">Shelf Brackets &amp; Shelving</a></li>
+            </ul>
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Shop Hardware By Style</h4>
+          <h4>Cabinet</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/hardware/american-classics">American Classics</a></li>
-              <li><a href="/catalog/categories/hardware/arts-crafts">Arts &amp; Crafts</a></li>
-              <li><a href="/catalog/categories/hardware/colonial-revival">Colonial Revival </a></li>
-              <li><a href="/catalog/categories/hardware/deco">Deco</a></li>
-              <li><a href="/catalog/categories/hardware/mid-century-modern">Mid-Century Modern</a></li>
-              <li><a href="/catalog/categories/hardware/victorian">Victorian</a></li>
+              <li><a href="/catalog/categories/hardware/cabinet-hardware/drawer-pulls">Drawer Pulls</a></li>
+              <li><a href="/catalog/categories/hardware/cabinet-hardware/bin-pulls">Bin Pulls</a></li>
+              <li><a href="/catalog/categories/hardware/cabinet-hardware/cabinet-knobs">Cabinet Knobs</a></li>
+              <li><a href="/catalog/categories/hardware/cabinet-hardware/cabinet-hinges">Cabinet Hinges</a></li>
+              <li><a href="/catalog/categories/hardware/cabinet-hardware/latches-catches">Latches &amp; Catches</a></li>
           </ul>
 
+            <h4 class="secondary">Window &amp; Registers</h4>
+            <ul class="col2 menub">
+                <li><a href="/catalog/categories/hardware/window">Window Hardware</a></li>
+                <li><a href="/catalog/categories/hardware/registers">Registers</a></li>
+            </ul>
         </div>
 
         <!--COLUMN 3-->
         <div class="col3">
-          <h4>Shop Hardware By Room</h4>
+          <h4>Bath</h4>
           <ul class="col3 menua">
-              <li><a href="/catalog/categories/bath/hardware">Bath</a></li>
-              <li><a href="/catalog/categories/hardware/bedroom">Bedroom </a></li>
-              <li><a href="/catalog/categories/hardware/dining-room">Dining Room</a></li>
-              <li><a href="/catalog/categories/hardware/entryway">Entryway</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/hardware">Kitchen</a></li>
-              <li><a href="/catalog/categories/hardware/living-room">Living Room</a></li>
-              <li><a href="/catalog/categories/hardware/home-office">Home Office</a></li>
-              <li><a href="/catalog/categories/outdoor/hardware">Outdoor</a></li>
+              <li><a href="/catalog/categories/bath/hardware/towel-bars-rings">Towel Bars &amp; Rings</a></li>
+              <li><a href="/catalog/categories/bath/hardware/toilet-paper-holders">Toilet Paper Holders</a></li>
+              <li><a href="/catalog/categories/bath/hardware/soap-dishes">Soap Dishes &amp; Cup Holders</a></li>
+              <li><a href="/catalog/categories/bath/hardware/hooks">Bath Hooks</a></li>
+              <li><a href="/catalog/categories/bath/bathroom-faucets">Faucets &amp; Shower Sets</a></li>
           </ul>
 
-            <h4 class="secondary">Featured</h4>
+            <h4 class="secondary">Outdoor</h4>
             <ul class="col3 menub">
-                <li><a href="/catalog/categories/new/new-hardware">New</a></li>
-                <li><a href="/catalog/categories/new/free-shipping">Free Shipping on Select Hardware</a></li>
+                <li><a href="/catalog/categories/outdoor/hardware/house-numbers-mailboxes">House Numbers &amp; Mailboxes</a></li>
+                <li><a href="/catalog/categories/outdoor/hardware/doorbells-knockers">Doorbells &amp; Knockers</a></li>
+                <li><a href="/catalog/categories/outdoor/hardware/thermometers">Thermometers</a></li>
+                <li><a href="/catalog/categories/outdoor/hardware/flags-flagpole-holders">Flags &amp; Flagpole Holders</a></li>
             </ul>
         </div>
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/new/free-shipping"><img alt="Hardware-mix_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5079d773d5593029e900002f/Hardware-mix_257x235.jpg"></a>
-            <p></p><h4>Free Shipping on Select Hardware</h4>
-<p>Heavy-duty designs for your home</p><p></p>
-            <p><a href="/catalog/categories/new/free-shipping">
+            <a href="/catalog/categories/hardware/door-sets"><img alt="140715_mtech_doorset_02_31569_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5079d773d5593029e900002f/140715_MTech_Doorset_02_31569_257x235.jpg"></a>
+            <p></p><h4>New Door Set Combinations</h4>
+<p>Lever Handles, Updated Looks &amp; More</p><p></p>
+            <p><a href="/catalog/categories/hardware/door-sets">
               shop now &gt;
             </a></p>
           </div>
@@ -559,33 +457,43 @@ create account
       </div>
 
   </li>
-  <li class="faucets-fixtures">
-    <a href="/catalog/categories/faucets-fixtures">Faucets &amp; Fixtures</a>
-            <div class="sub-nav threecol">
+  <li class="bath">
+    <a href="/catalog/categories/bath">Bath</a>
+          <div class="sub-nav threecol">
         <!--COLUMN 1-->
         <div class="col1">
-          <h4>Shop By Category</h4>
+          <h4>Shop Bath By Category</h4>
           <ul class="col1 menua">
-              <li><a href="/catalog/categories/bath/bathroom-faucets/faucets">Faucets</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-faucets/shower-sets">Shower Sets</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-faucets/shower-heads">Shower Heads</a></li>
-              <li><a href="/catalog/categories/bath/bathroom-sinks-consoles">Sinks &amp; Consoles</a></li>
+              <li><a href="/catalog/categories/bath/lighting">Bath Lighting</a></li>
+              <li><a href="/catalog/categories/bath/hardware">Bath Hardware</a></li>
+              <li><a href="/catalog/categories/bath/bathroom-sinks-consoles">Bathroom Sinks, Consoles &amp; Tubs</a></li>
+              <li><a href="/catalog/categories/bath/bathroom-faucets">Bathroom Faucets &amp; Shower Sets</a></li>
+              <li><a href="/catalog/categories/bath/bath-furniture">Bath Furniture</a></li>
+              <li><a href="/catalog/categories/bath/medicine-cabinets">Medicine Cabinets</a></li>
+              <li><a href="/catalog/categories/bath/mirrors">Bathroom Mirrors</a></li>
+              <li><a href="/catalog/categories/bath/bath-towels-bath-mats">Bath Towels &amp; Bath Mats</a></li>
+              <li><a href="/catalog/categories/bath/bathroom-storage-hampers">Storage &amp; Hampers</a></li>
+              <li><a href="/catalog/categories/bath/decor">Bath Décor</a></li>
+              <li><a href="/catalog/categories/bath/bath-soaps-cleaning-personal-care">Soaps, Cleaning &amp; Personal Care</a></li>
           </ul>
 
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Shop By Collection</h4>
+          <h4>Shop Bath By Collection</h4>
           <ul class="col2 menua">
               <li><a href="/catalog/categories/bath/linfield">Linfield</a></li>
+              <li><a href="/catalog/categories/bath/chandler">Chandler</a></li>
+              <li><a href="/catalog/categories/bath/bixby">Bixby</a></li>
+              <li><a href="/catalog/categories/bath/bingham">Bingham</a></li>
+              <li><a href="/catalog/categories/bath/landry">Landry</a></li>
+              <li><a href="/catalog/categories/bath/dunbar">Dunbar </a></li>
+              <li><a href="/catalog/categories/bath/canfield">Canfield</a></li>
               <li><a href="/catalog/categories/bath/pittock">Pittock</a></li>
               <li><a href="/catalog/categories/bath/winslow">Winslow</a></li>
-              <li><a href="/catalog/categories/bath/dunbar">Dunbar</a></li>
-              <li><a href="/catalog/categories/bath/bixby">Bixby</a></li>
-              <li><a href="/catalog/categories/bath/canfield">Canfield</a></li>
-              <li><a href="/catalog/categories/bath/bingham">Bingham</a></li>
-              <li><a href="/catalog/categories/bath/chandler">Chandler</a></li>
+              <li><a href="/catalog/categories/bath/sellwood">Sellwood</a></li>
+              <li><a href="/catalog/categories/bath/coos-bay">Coos Bay</a></li>
           </ul>
 
         </div>
@@ -594,10 +502,10 @@ create account
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="http://www.rejuvenation.com/catalog/categories/faucets-fixtures"><img alt="Showerset-dunbar_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/532879a0ebad64a046001b5f/ShowerSet-Dunbar_257x235.jpg"></a>
-            <p></p><h4>Faucets &amp; Fixtures</h4>
-<p>New faucets and shower sets have arrived!</p><p></p>
-            <p><a href="http://www.rejuvenation.com/catalog/categories/faucets-fixtures">
+            <a href="/catalog/categories/bath/landry"><img alt="140710_rc_y14b05_b_f_feature_pg-72_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b802fd559305983000038/140710_RC_Y14B05_B_F_feature_pg-72_257x235.jpg"></a>
+            <p></p><h4>Introducing our Landry Collection</h4>
+<p>Simple, Sophisticated Styling For Your Bath</p><p></p>
+            <p><a href="/catalog/categories/bath/landry">
               shop now &gt;
             </a></p>
           </div>
@@ -605,51 +513,41 @@ create account
       </div>
 
   </li>
-  <li class="furniture-decor">
+  <li class="furniture">
     <a href="/catalog/categories/furniture-decor">Furniture</a>
-            <div class="sub-nav threecol">
+          <div class="sub-nav threecol">
         <!--COLUMN 1-->
         <div class="col1">
           <h4>Shop Furniture by Category</h4>
           <ul class="col1 menua">
-              <li><a href="/catalog/categories/furniture-decor/furniture/chairs">Chairs</a></li>
+              <li><a href="/catalog/categories/furniture-decor/furniture/chairs">Chairs &amp; Benches</a></li>
               <li><a href="/catalog/categories/furniture-decor/furniture/occasional">Occasional</a></li>
               <li><a href="/catalog/categories/furniture-decor/furniture/sofas">Sofas</a></li>
+              <li><a href="/catalog/categories/furniture-decor/furniture/ottomans">Ottomans</a></li>
               <li><a href="/catalog/categories/furniture-decor/furniture/stools">Stools</a></li>
               <li><a href="/catalog/categories/furniture-decor/furniture/tables-desks">Tables &amp; Desks</a></li>
           </ul>
 
-            <h4 class="secondary">Shop Furniture by Room</h4>
+            <h4 class="secondary">Shop Furniture by Collection</h4>
             <ul class="col1 menub">
-                <li><a href="/catalog/categories/kitchen-dining/furniture">Kitchen</a></li>
-                <li><a href="/catalog/categories/furniture-decor/home-office-furniture">Home Office</a></li>
-                <li><a href="/catalog/categories/furniture-decor/living-room-furniture">Living Room</a></li>
+                <li><a href="/catalog/categories/furniture-decor/furniture-collections">Furniture Collections</a></li>
             </ul>
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Shop Decor by Category</h4>
+          <h4>Shop Furniture by Room</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/furniture-decor/accessories">Accessories</a></li>
-              <li><a href="/catalog/categories/furniture-decor/books">Books</a></li>
-              <li><a href="/catalog/categories/furniture-decor/candles-lanterns">Candles &amp; Lanterns</a></li>
-              <li><a href="/catalog/categories/furniture-decor/clocks">Clocks</a></li>
-              <li><a href="/catalog/categories/furniture-decor/home-care-supplies">Home Care &amp; Supplies</a></li>
-              <li><a href="/catalog/categories/furniture-decor/mirrors">Mirrors</a></li>
-              <li><a href="/catalog/categories/furniture-decor/pillows-throws">Pillows &amp; Throws</a></li>
-              <li><a href="/catalog/categories/furniture-decor/rugs">Rugs</a></li>
-              <li><a href="/catalog/categories/furniture-decor/signs">Signs</a></li>
-              <li><a href="/catalog/categories/furniture-decor/storage-organization">Storage &amp; Organization</a></li>
-              <li><a href="/catalog/categories/furniture-decor/tabletop">Tabletop &amp; Serveware</a></li>
+              <li><a href="/catalog/categories/kitchen-dining/furniture">Kitchen Furniture</a></li>
+              <li><a href="/catalog/categories/furniture-decor/home-office-furniture">Home Office Furniture</a></li>
+              <li><a href="/catalog/categories/furniture-decor/living-room-furniture">Living Room</a></li>
+              <li><a href="/catalog/categories/bath/bath-furniture">Bath Furniture</a></li>
           </ul>
 
-            <h4 class="secondary">Shop Decor by Room </h4>
+            <h4 class="secondary">Appliances</h4>
             <ul class="col2 menub">
-                <li><a href="/catalog/categories/bath/decor">Bath</a></li>
-                <li><a href="/catalog/categories/kitchen-dining/decor">Kitchen</a></li>
-                <li><a href="/catalog/categories/furniture-decor/home-office">Home Office</a></li>
-                <li><a href="/catalog/categories/outdoor/decor">Outdoor</a></li>
+                <li><a href="/catalog/categories/furniture-decor/refrigerators">Refrigerators</a></li>
+                <li><a href="/catalog/categories/furniture-decor/ranges">Ranges</a></li>
             </ul>
         </div>
 
@@ -657,11 +555,11 @@ create account
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/furniture-decor/furniture/stools"><img alt="Industrialstool_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b819bbbddbd21260001e9/IndustrialStool_257x235.jpg"></a>
-            <p></p><h4>Stools</h4>
-<p>See our wide array of stools.</p>
+            <a href="/catalog/categories/furniture-decor/furniture/chairs"><img alt="140529_rc_y14b05_u_f_08_7995_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/507b819bbbddbd21260001e9/140529_RC_Y14B05_U_F_08_7995_257x235.jpg"></a>
+            <p></p><h4>New Upholstered Furniture</h4>
+<p>Beautifully Crafted with Color and Texture Choices</p>
 <p></p>
-            <p><a href="/catalog/categories/furniture-decor/furniture/stools">
+            <p><a href="/catalog/categories/furniture-decor/furniture/chairs">
               shop now &gt;
             </a></p>
           </div>
@@ -669,48 +567,73 @@ create account
       </div>
 
   </li>
-  <li class="storage-utility">
-    <a href="/catalog/categories/storage-utility">Storage &amp; Utility</a>
-            <div class="sub-nav threecol">
+  <li class="utility-decor">
+    <a href="/catalog/categories/storage-utility">Utility &amp; Decor</a>
+          <div class="sub-nav fourcol">
         <!--COLUMN 1-->
         <div class="col1">
-          <h4>Shop By Category</h4>
+          <h4>Storage &amp; Organization</h4>
           <ul class="col1 menua">
-              <li><a href="/catalog/categories/furniture-decor/storage-organization">Storage &amp; Organization</a></li>
-              <li><a href="/catalog/categories/furniture-decor/mirrors">Mirrors</a></li>
-              <li><a href="/catalog/categories/furniture-decor/clocks">Clocks</a></li>
-              <li><a href="/catalog/categories/furniture-decor/tabletop">Tabletop &amp; Serveware</a></li>
-              <li><a href="/catalog/categories/furniture-decor/accessories">Accessories</a></li>
-              <li><a href="/catalog/categories/furniture-decor/home-care-supplies">Home Care &amp; Supplies</a></li>
-              <li><a href="/catalog/categories/furniture-decor/candles-lanterns">Candles</a></li>
-              <li><a href="/catalog/categories/furniture-decor/rugs">Rugs</a></li>
-              <li><a href="/catalog/categories/furniture-decor/pillows-throws">Pillows &amp; Throws</a></li>
-              <li><a href="/catalog/categories/furniture-decor/signs">Signs</a></li>
-              <li><a href="/catalog/categories/furniture-decor/books">Books</a></li>
+              <li><a href="/catalog/categories/storage-utility/storage-organization/baskets-bins">Baskets &amp; Bins</a></li>
+              <li><a href="/catalog/categories/storage-utility/storage-organization/canisters">Canisters</a></li>
+              <li><a href="/catalog/categories/storage-utility/shelves-hooks">Shelves &amp; Hooks</a></li>
           </ul>
 
+            <h4 class="secondary">Homekeeping &amp; Utility</h4>
+            <ul class="col1 menub">
+                <li><a href="/catalog/categories/storage-utility/cleaning-supplies">Cleaning Supplies</a></li>
+                <li><a href="/catalog/categories/storage-utility/trash-recycling">Trash &amp; Recycling</a></li>
+                <li><a href="/catalog/categories/storage-utility/step-ladders-stools">Step Ladders &amp; Stools</a></li>
+                <li><a href="/catalog/categories/storage-utility/hearth">Hearth</a></li>
+                <li><a href="/catalog/categories/storage-utility/tools-toolboxes">Tools &amp; Toolboxes</a></li>
+                <li><a href="/catalog/categories/storage-utility/tools">Cooks' Tools</a></li>
+                <li><a href="/catalog/categories/storage-utility/gardening">Gardening</a></li>
+                <li><a href="/catalog/categories/storage-utility/soaps-candles">Soaps &amp; Candles</a></li>
+            </ul>
         </div>
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Shop By Room</h4>
+          <h4>Textiles &amp; Towels</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/bath/decor">Bath</a></li>
-              <li><a href="/catalog/categories/kitchen-dining/decor">Kitchen</a></li>
-              <li><a href="/catalog/categories/furniture-decor/home-office">Home Office</a></li>
-              <li><a href="/catalog/categories/outdoor/decor">Outdoor</a></li>
+              <li><a href="/catalog/categories/storage-utility/rugs">Rugs</a></li>
+              <li><a href="/catalog/categories/outdoor/decor/rugs-doormats">Doormats</a></li>
+              <li><a href="/catalog/categories/storage-utility/pillows-throws">Pillows &amp; Throws</a></li>
+              <li><a href="/catalog/categories/storage-utility/towels">Towels</a></li>
+              <li><a href="/catalog/categories/storage-utility/bath-mats-shower-curtains">Bath Mats &amp; Shower Curtains</a></li>
           </ul>
 
+            <h4 class="secondary">Decor</h4>
+            <ul class="col2 menub">
+                <li><a href="/catalog/categories/storage-utility/tabletop">Tabletop &amp; Serveware</a></li>
+                <li><a href="/catalog/categories/storage-utility/clocks">Clocks &amp; Timers</a></li>
+                <li><a href="/catalog/categories/storage-utility/fans">Fans</a></li>
+                <li><a href="/catalog/categories/storage-utility/mirrors">Mirrors</a></li>
+                <li><a href="/catalog/categories/storage-utility/signs">Signs</a></li>
+                <li><a href="/catalog/categories/storage-utility/books">Books</a></li>
+            </ul>
         </div>
 
         <!--COLUMN 3-->
+        <div class="col3">
+          <h4>Appliances</h4>
+          <ul class="col3 menua">
+              <li><a href="/catalog/categories/furniture-decor/refrigerators">Refrigerators</a></li>
+              <li><a href="/catalog/categories/furniture-decor/ranges">Ranges</a></li>
+          </ul>
+
+            <h4 class="secondary">Shop New</h4>
+            <ul class="col3 menub">
+                <li><a href="/catalog/categories/new/new-decor">New Arrivals</a></li>
+            </ul>
+        </div>
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/storage-utility"><img alt="Storage-utility_steel_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/532880e0ebad6446330007f9/Storage-Utility_Steel_257x235.jpg"></a>
-            <p></p><h4>Storage &amp; Utility</h4>
-<p>Everything to keep your home in order.</p><p></p>
-            <p><a href="/catalog/categories/storage-utility">
+            <a href="/catalog/categories/storage-utility/hearth"><img alt="140819_rc_y14b06_u_1733_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/532880e0ebad6446330007f9/140819_RC_Y14B06_U_1733_257x235.jpg"></a>
+            <p></p><h4>Introducing our Hearth Collection</h4>
+<p>Fire Screens, Log Holders, Mantle Hooks &amp; More</p><p></p>
+            <p><a href="/catalog/categories/storage-utility/hearth">
               shop now &gt;
             </a></p>
           </div>
@@ -720,18 +643,19 @@ create account
   </li>
   <li class="vintage">
     <a href="/catalog/categories/restored-antiques">Restored Antiques</a>
-            <div class="sub-nav fourcol">
+          <div class="sub-nav fourcol">
         <!--COLUMN 1-->
         <div class="col1">
           <h4>Restored Lighting</h4>
           <ul class="col1 menua">
               <li><a href="/catalog/categories/restored-antiques/lighting/new-arrivals">New Arrivals</a></li>
-              <li><a href="/catalog/categories/restored-antiques/lighting/industrial">Industrial</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/chandeliers">Chandeliers</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/flush-and-semi-flush">Flush and Semi-Flush</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/pendants">Pendants</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/wall">Wall</a></li>
-              <li><a href="/catalog/categories/restored-antiques/lighting/other-types">Other Types</a></li>
+              <li><a href="/catalog/categories/restored-antiques/lighting/lamps">Lamps</a></li>
+              <li><a href="/catalog/categories/restored-antiques/lighting/industrial">Industrial</a></li>
+              <li><a href="/catalog/categories/restored-antiques/lighting/porch">Porch</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/vintage-shades">Vintage Shades</a></li>
               <li><a href="/catalog/categories/restored-antiques/lighting/clearance">Clearance</a></li>
           </ul>
@@ -740,44 +664,154 @@ create account
 
         <!--COLUMN 2-->
         <div class="col2">
-          <h4>Restored Hardware</h4>
+          <h4>Vintage Finds</h4>
           <ul class="col2 menua">
-              <li><a href="/catalog/categories/restored-antiques/hardware/new-arrivals">New Arrivals</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/door">Door</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/hinges">Hinges</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/hooks">Hooks</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/knobs-and-pulls">Knobs and Pulls</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/latches">Latches</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/porch">Porch</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/pocket-door">Pocket Door</a></li>
-              <li><a href="/catalog/categories/restored-antiques/hardware/window">Window</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/new-arrivals">New Arrivals</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/furniture">Furniture</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/decor">Decor</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/signs">Signs</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/architectural">Architectural</a></li>
+              <li><a href="/catalog/categories/restored-antiques/vintage-finds/storage">Storage</a></li>
           </ul>
 
         </div>
 
         <!--COLUMN 3-->
         <div class="col3">
-          <h4>Featured Collections</h4>
+          <h4>Restored Hardware</h4>
           <ul class="col3 menua">
-              <li><a href="/catalog/categories/restored-antiques/featured/curated">Curated</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/natural-mcm">Natural MCM</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/mercury-shades">Mercury Shades</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/industrial-portables">Industrial Portables</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/swanky-70s">Swanky '70s</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/victorian">Victorian</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/porch">Porch</a></li>
-              <li><a href="/catalog/categories/restored-antiques/featured/prismatic">Prismatic</a></li>
-              <li><a href="/catalog/categories/restored-antiques/vintage-finds/new-arrivals">Vintage Finds</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/new-arrivals">New Arrivals</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/door-hardware">Door Hardware</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/hooks">Hooks</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/cabinet-hardware">Cabinet Hardware</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/window-hardware">Window Hardware</a></li>
+              <li><a href="/catalog/categories/restored-antiques/hardware/porch-hardware">Porch Hardware</a></li>
           </ul>
 
         </div>
 
         <!--COLUMN 4-->
           <div class="col4 feature">
-            <a href="/catalog/categories/restored-antiques"><img alt="Salvage-signs_257x235" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/513791ea01925b6c2900146a/Salvage-Signs_257x235.jpg"></a>
-            <p></p><h4>Restored Antiques</h4>
-<p>From signs to lighting, there's always something new to find in Restored Antiques.</p><p></p>
-            <p><a href="/catalog/categories/restored-antiques">
+            <a href="/catalog/categories/restored-antiques/lighting/new-arrivals"><img alt="Top_nav" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/513791ea01925b6c2900146a/top_nav.jpg"></a>
+            <p>THE PAST BECOMES PRESENT AGAIN WITH OUR LATEST COLLECTION OF RESTORED ANTIQUE LIGHTING.</p>
+            <p><a href="/catalog/categories/restored-antiques/lighting/new-arrivals">
+              shop now &gt;
+            </a></p>
+          </div>
+
+      </div>
+
+  </li>
+  <li class="shop-by-room">
+    <a href="/catalog/categories/shop-by-room">Shop by Room</a>
+          <div class="sub-nav threecol">
+        <!--COLUMN 1-->
+        <div class="col1">
+          <h4>Bath</h4>
+          <ul class="col1 menua">
+              <li><a href="/catalog/categories/shop-by-room/bath/lighting">Lighting</a></li>
+              <li><a href="/catalog/categories/shop-by-room/bath/hardware">Hardware</a></li>
+              <li><a href="/catalog/categories/shop-by-room/bath/furniture">Furniture</a></li>
+              <li><a href="/catalog/categories/shop-by-room/bath/utility-decor">Utility &amp; Decor</a></li>
+          </ul>
+
+            <h4 class="secondary">Laundry</h4>
+            <ul class="col1 menub">
+                <li><a href="/catalog/categories/shop-by-room/laundry/lighting">Lighting</a></li>
+                <li><a href="/catalog/categories/shop-by-room/laundry/hardware">Hardware</a></li>
+                <li><a href="/catalog/categories/shop-by-room/laundry/utility-decor">Utility &amp; Decor</a></li>
+            </ul>
+        </div>
+
+        <!--COLUMN 2-->
+        <div class="col2">
+          <h4>Kitchen</h4>
+          <ul class="col2 menua">
+              <li><a href="/catalog/categories/shop-by-room/kitchen/lighting">Lighting</a></li>
+              <li><a href="/catalog/categories/shop-by-room/kitchen/hardware">Hardware</a></li>
+              <li><a href="/catalog/categories/shop-by-room/kitchen/furniture">Furniture</a></li>
+              <li><a href="/catalog/categories/shop-by-room/kitchen/utility-decor">Utility &amp; Decor</a></li>
+              <li><a href="/catalog/categories/shop-by-room/kitchen/appliances">Appliances</a></li>
+          </ul>
+
+            <h4 class="secondary">Living &amp; Dining</h4>
+            <ul class="col2 menub">
+                <li><a href="/catalog/categories/shop-by-room/living-dining/lighting">Lighting</a></li>
+                <li><a href="/catalog/categories/shop-by-room/living-dining/hardware">Hardware</a></li>
+                <li><a href="/catalog/categories/shop-by-room/living-dining/furniture">Furniture</a></li>
+                <li><a href="/catalog/categories/shop-by-room/living-dining/utility-and-decor">Utility &amp; Decor</a></li>
+            </ul>
+        </div>
+
+        <!--COLUMN 3-->
+        <div class="col3">
+          <h4>Outdoor</h4>
+          <ul class="col3 menua">
+              <li><a href="/catalog/categories/shop-by-room/outdoor/lighting">Lighting</a></li>
+              <li><a href="/catalog/categories/shop-by-room/outdoor/hardware">Hardware</a></li>
+              <li><a href="/catalog/categories/shop-by-room/outdoor/furniture">Furniture</a></li>
+              <li><a href="/catalog/categories/shop-by-room/outdoor/utility-decor">Utility &amp; Decor</a></li>
+          </ul>
+
+            <h4 class="secondary">Entry</h4>
+            <ul class="col3 menub">
+                <li><a href="/catalog/categories/shop-by-room/entryway/lighting">Lighting</a></li>
+                <li><a href="/catalog/categories/shop-by-room/entryway/hardware">Hardware</a></li>
+                <li><a href="/catalog/categories/shop-by-room/entryway/furniture">Furniture</a></li>
+                <li><a href="/catalog/categories/shop-by-room/entryway/utility-decor">Utility &amp; Decor</a></li>
+            </ul>
+        </div>
+
+        <!--COLUMN 4-->
+
+      </div>
+
+  </li>
+  <li class="holiday">
+    <a class="special" href="/catalog/categories/holiday-gifts">Holiday</a>
+          <div class="sub-nav threecol">
+        <!--COLUMN 1-->
+        <div class="col1">
+          <h4>Holiday Preparations</h4>
+          <ul class="col1 menua">
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/decorate">Decorate</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/update">Update</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/welcome-guests">Welcome Guests</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/cook-and-dine">Cook and Dine</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/entertain">Entertain</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/rest-and-relax">Rest and Relax</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/holiday-preparations/stay-warm">Stay Warm</a></li>
+          </ul>
+
+            <h4 class="secondary">Featured</h4>
+            <ul class="col1 menub">
+                <li><a href="/catalog/categories/restored-antiques/featured/vintage-holiday">Vintage Holiday</a></li>
+            </ul>
+        </div>
+
+        <!--COLUMN 2-->
+        <div class="col2">
+          <h4>Gifts</h4>
+          <ul class="col2 menua">
+              <li><a href="/catalog/categories/holiday-gifts/gifts/under-100">Under 100</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/under-50">Under 50</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/under-25">Under 25</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/host-hostess">Host &amp; Hostess</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/made-in-the-usa">Made in the USA</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/gift-of-glow">Gift of Glow</a></li>
+              <li><a href="/catalog/categories/holiday-gifts/gifts/gift-of-home">Gift of Home</a></li>
+          </ul>
+
+        </div>
+
+        <!--COLUMN 3-->
+
+        <!--COLUMN 4-->
+          <div class="col4 feature">
+            <a href="/catalog/categories/holiday-gifts"><img alt="140818_rc_y14b06_u_1469_257x235a" src="https://rejuvenation.s3.amazonaws.com/uploads/model_field_mutants_image/value/5441601cbbddbd24d6000adc/140818_RC_Y14B06_U_1469_257x235a.jpg"></a>
+            <p></p><h4>Holiday &amp; Gifts</h4>
+<p>Give the Gift of Home</p><p></p>
+            <p><a href="/catalog/categories/holiday-gifts">
               shop now &gt;
             </a></p>
           </div>
@@ -786,15 +820,19 @@ create account
 
   </li>
   <li class="sale">
-    <a href="/catalog/categories/sale">Sale</a>
-            <div class="sub-nav twocol">
+    <a class="special" href="/catalog/categories/sale">Sale</a>
+          <div class="sub-nav twocol">
         <!--COLUMN 1-->
         <div class="col1">
           <h4>Shop Sale</h4>
           <ul class="col1 menua">
               <li><a href="/catalog/categories/campaigns/clearance">Clearance</a></li>
-              <li><a href="/catalog/categories/new/free-shipping">Free Shipping on Select Hardware</a></li>
-              <li><a href="/catalog/categories/campaigns/outdoor-event">Outdoor Event</a></li>
+              <li><a href="/catalog/categories/campaigns/get-guest-ready-lamps-sale">15% Off Lamps</a></li>
+              <li><a href="/catalog/categories/campaigns/get-guest-ready-utility-sale">15% Off Utility</a></li>
+              <li><a href="/catalog/categories/campaigns/stockings-hooks-sale">20% Off Stockings &amp; More</a></li>
+              <li><a href="/catalog/categories/new/free-shipping">Everyday Free Ship on 400+ Items</a></li>
+              <li><a href="/catalog/categories/campaigns/lighting-under-150">Lighting Under $150</a></li>
+              <li><a href="/catalog/categories/restored-antiques/lighting/clearance">Restored Antiques Clearance</a></li>
           </ul>
 
         </div>
@@ -820,12 +858,16 @@ create account
 <p>
   <a name="skipped" id="skipped"></a>
 </p>
+
+</div>
 </div>
 </div>
 <div class="promomessaging" id="promocopy-header">
-    <a href="/catalog/categories/campaigns/outdoor-event" id="promobanner-link"><img alt="" src="https://rejuvenation.s3.amazonaws.com/uploads/view_template_fields/51a66f2de694aad8d0000f82/OutdoorSale_MAR14_1000x54.png"></a>
+<div class="inner-wrapper">
+    <a href="http://www.rejuvenation.com/catalog/categories/sale" id="promobanner-link"><img alt="" src="https://rejuvenation.s3.amazonaws.com/uploads/view_template_fields/51a66f2de694aad8d0000f82/Lamp-Utility-Sale-LastDays_1000x54.png"></a>
     
 
+</div>
 </div>
 
 <div class="main-col">
@@ -847,6 +889,7 @@ create account
       <li><a href="/customer-service/terms">Terms &amp; Conditions</a></li>
       <li><a href="/customer-service/privacy">Privacy Policy</a></li>
       <li><a href="/customer-service/warranty">Warranty</a></li>
+      <li><a href="/customer-service/recalls">Safety Recalls</a></li>
   </ul>
 </div>
 
@@ -975,7 +1018,7 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 <div class="strict-wrapper footer-pad">
 <div class="footer-box">
 <h6>Rejuvenation</h6>
-<p>Rejuvenation is America's largest manufacturer and leading direct marketer of authentic reproduction lighting and house parts. Rejuvenation's products are handcrafted, made-to-order, and sold through the company's catalog, website, and retail stores. Our timeless and classic fixtures work beautifully in homes old and new.</p>
+<p>Rejuvenation is a classic American lighting and house parts general store for home improvement whose mission is to add real value to homes, buildings, and projects. From the front porch to the back door, we provide lighting, hardware, bath hardware and functional home goods based on the best pieces of the past, designed for today, and made to last for years to come. The majority of our hardwired lighting products are made to order at our manufacturing facility in Portland, Oregon, and we pride ourselves on partnering with American craftspeople and vendors whenever possible.</p>
 </div>
 <div class="footer-box middle">
 <h6>
@@ -1018,10 +1061,7 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 </h6>
 <ul>
 <li>
-<a href="https://www.rejuvenation.com/account/wishlist">Wish List</a>
-</li>
-<li>
-<a href="http://ideas.rejuvenation.com" target="_blank">Ideas &amp; Advice</a>
+<a href="https://www.rejuvenation.com/account/wishlists">Wish List</a>
 </li>
 </ul>
 <h6>
@@ -1035,10 +1075,16 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 <a href="/customer-service/contact">Contact Information</a>
 </li>
 <li>
+<a href="/about-us/design-services/">Design Services</a>
+</li>
+<li>
 <a href="/customer-service/shipping">Shipping &amp; Delivery</a>
 </li>
 <li>
 <a href="/customer-service/returns">Returns &amp; Exchanges</a>
+</li>
+<li>
+<a href="/customer-service/recalls">Safety Recalls</a>
 </li>
 <li>
 <a href="/customer-service/site-map">Site Map</a>
@@ -1052,9 +1098,10 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 <form action="/subscribe" class="signup-input" data-remote="" id="email-signup-form" method="post">
 <input name="subscription[type]" type="hidden" value="email">
 <input name="subscription[email]" placeholder="EMAIL" type="text">
-<span class="response-message" style="display:none;"></span>
+<span class="response-message">
+Sign up to receive special offers and promotions from Rejuvenation.
+</span>
 </form>
-<a class="footer-ideas sprite" href="http://ideas.rejuvenation.com" target="_blank">Ideas &amp; Advice</a>
 <div class="social-box">
 <a class="sprite facebook" href="http://www.facebook.com/rejuvenationlightingandhouseparts?ref=ts" target="_blank"></a>
 <a class="sprite twitter" href="http://twitter.com/#!/RejuvenationInc" target="_blank"></a>
@@ -1069,90 +1116,16 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 <div class="footer-wrap">
 <div class="base-footer">
 <div class="nav">
-© Copyright 1997 - 2014 Rejuvenation Inc.
+© 1997 - 2014 Rejuvenation Inc.
 <span class="spacer">|</span>
 <a href="/customer-service/privacy">Privacy Policy</a>
+<span class="spacer">|</span>
+<a href="/customer-service/terms">Terms &amp; Conditions</a>
 <span class="spacer">|</span>
 <a href="/customer-service/site-map">Site Map</a>
 </div>
 <a name="bottom"></a>
 </div>
-  <script type="text/javascript">
-    $(document).ready(function() {
-
-      $(".newWindow").attr("target","_blank");
-
-      $("#toggle-cul").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-cul").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-cul").html('[&ndash;]'); $("#nso-cul").show(); } else { $("#toggle-cul").text('[+]'); $("#nso-cul").hide(); }
-      });
-      $("#toggle-pb").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-pb").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-pb").html('[&ndash;]'); $("#nso-pb").show(); } else { $("#toggle-pb").text('[+]'); $("#nso-pb").hide(); }
-      });
-      $("#toggle-pk").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-pk").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-pk").html('[&ndash;]'); $("#nso-pk").show(); } else { $("#toggle-pk").text('[+]'); $("#nso-pk").hide(); }
-      });
-      $("#toggle-pt").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-pt").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-pt").html('[&ndash;]'); $("#nso-pt").show(); } else { $("#toggle-pt").text('[+]'); $("#nso-pt").hide(); }
-      });
-      $("#toggle-we").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-we").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-we").html('[&ndash;]'); $("#nso-we").show(); } else { $("#toggle-we").text('[+]'); $("#nso-we").hide(); }
-      });
-      $("#toggle-ws").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-ws").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-ws").html('[&ndash;]'); $("#nso-ws").show(); } else { $("#toggle-ws").text('[+]'); $("#nso-ws").hide(); }
-      });
-      $("#toggle-wh").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-wh").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-wh").html('[&ndash;]'); $("#nso-wh").show(); } else { $("#toggle-wh").text('[+]'); $("#nso-wh").hide(); }
-      });
-      $("#toggle-mg").click(function()
-      {
-        $(".nso-brand").hide();
-        if ($("#toggle-mg").text() == '[+]') { $(".toggle-controls").text('[+]'); $("#toggle-mg").html('[&ndash;]'); $("#nso-mg").show(); } else { $("#toggle-mg").text('[+]'); $("#nso-mg").hide(); }
-      });
-    });
-  </script>
-  <div id="nso">
-    <div id="nso-brands">
-      <div class="nso-title"><a href="http://www.potterybarn.com/" class="newWindow" title="Pottery Barn">Pottery Barn</a> <a class="toggle-controls" id="toggle-pb" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.potterybarnkids.com/" class="newWindow" title="Pottery Barn Kids">Pottery Barn Kids</a> <a class="toggle-controls" id="toggle-pk" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.pbteen.com/" title="Pottery Barn Teen" class="newWindow">PBteen</a> <a class="toggle-controls" id="toggle-pt" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.westelm.com/" class="newWindow" title="West Elm">West Elm</a> <a class="toggle-controls" id="toggle-we" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.williams-sonoma.com/" class="newWindow" title="Williams-Sonoma">Williams-Sonoma</a> <a class="toggle-controls" id="toggle-ws" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/" class="newWindow" title="Williams-Sonoma Home">Williams-Sonoma Home</a> <a class="toggle-controls" id="toggle-wh" href="javascript:void(0);">[+]</a>&nbsp;</div>
-      <div class="nso-title"><a href="http://www.markandgraham.com/" class="newWindow" title="Mark and Graham">Mark and Graham</a> <a class="toggle-controls" id="toggle-mg" href="javascript:void(0);">[+]</a>&nbsp;</div>
-    </div>
-    <div id="nso-links">
-
-      <div id="nso-pb" class="nso-brand" style="display:none;"><ul id="crossbrand-links-pb" class="crossbrand-links"><li class="first"><a href="http://www.potterybarn.com/shop/furniture-upholstery/" class="newWindow">furniture</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/dinnerware-entertaining/dinnerware/" class="newWindow">dinnerware</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/dinnerware-entertaining/glassware/" class="newWindow">glassware</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/accessories-decor/art/" class="newWindow">wall art decor</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/rugs-windows/" class="newWindow">area rugs</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/accessories-decor/laundry-decor/" class="newWindow">laundry room organization</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/registry/" class="newWindow">wedding registry</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/gifts/gifts-personalized/" class="newWindow">personalized gifts</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/shop/dinnerware-entertaining/party-planner/" class="newWindow">dinner party ideas</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarn.com/design-studio/" class="newWindow">interior design ideas</a></li></ul></div>
-
-      <div id="nso-pk" class="nso-brand" style="display:none;"><ul id="crossbrand-links-pk" class="crossbrand-links"><li class="first"><a href="http://www.potterybarnkids.com/shop/kids/backpacks-luggage/" class="newWindow">backpacks</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/kids/furniture/bunk-beds" class="newWindow">bunk beds</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/kids/bedding/" class="newWindow">kids bedding</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/kids/furniture/beanbags/" class="newWindow">bean bags</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/kids/storage/" class="newWindow">toy storage</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/baby/bedding/" class="newWindow">baby bedding</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/shop/baby/bedding/nursery-bedding-sets/" class="newWindow">crib bedding sets</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/registry" class="newWindow">baby registry</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/gift/thm/thmcip/thmcipbab/" class="newWindow">baby gifts</a>&nbsp;|&nbsp;</li><li><a href="http://www.potterybarnkids.com/design-studio/baby.html" class="newWindow">baby room ideas</a></li></ul></div>
-
-      <div id="nso-pt" class="nso-brand" style="display:none;"><ul id="crossbrand-links-pt" class="crossbrand-links"><li class="first"><a href="http://www.pbteen.com/shop/furniture/beds-mattresses/" class="newWindow">bunk beds</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/furniture/dressers-armoires/" class="newWindow">dressers</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/furniture/computer-desks-for-teens/" class="newWindow">desks</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/girls-bedding/girls-duvet-cases/" class="newWindow">duvet covers</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/furniture/beanbags/" class="newWindow">bean bag chairs</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/accessories/wall-decals/" class="newWindow">wall decals</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/backpacks-luggage/shop-backpacks/" class="newWindow">rolling backpacks</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/teen-rooms/spring-break-shop/" class="newWindow">beach gear</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/shop/gifts" class="newWindow">gift ideas for teenagers</a>&nbsp;|&nbsp;</li><li><a href="http://www.pbteen.com/pages/pbdorm/" class="newWindow">dorm room ideas</a></li></ul></div>
-
-      <div id="nso-we" class="nso-brand" style="display:none;"><ul id="crossbrand-links-we" class="crossbrand-links"><li class="first"><a href="http://www.westelm.com" class="newWindow">modern furniture</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/market-general-store/" class="newWindow">MARKET</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/furniture/sectionals/" class="newWindow">sectionals</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/furniture/coffee-side-tables/" class="newWindow">coffee tables</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/bedding/bedding-sets" class="newWindow">bedding sets</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/market-general-store/dinnerware-glassware/" class="newWindow">casual dinnerware</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/gifts/gifts-for-him/" class="newWindow">gifts for him</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/rugs-windows/" class="newWindow">curtains</a>&nbsp;|&nbsp;</li><li><a href="http://www.westelm.com/shop/accessories-pillows/storage-baskets-hampers/" class="newWindow">storage baskets</a>&nbsp;|&nbsp;</li><li><a href="http://blog.westelm.com/" class="newWindow">design blog</a></li></ul></div>
-
-      <div id="nso-ws" class="nso-brand" style="display:none;"><ul id="crossbrand-links-ws" class="crossbrand-links"><li class="first"><a href="http://www.williams-sonoma.com/shop/agrarian-garden/agrarian-garden-tools/" class="newWindow">garden tools</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/cookware/cookware-williams-sonoma/" class="newWindow">williams sonoma cookware</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/cooks-tools/cooks-tools-smart-products/" class="newWindow">smart tools</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/food/food-top-10-gifts/" class="newWindow">top food gifts</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/pages/juicing.html" class="newWindow">juicing recipes</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/gifts/gifts-for-him/" class="newWindow">gifts for him</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/agrarian-garden/" class="newWindow">agrarian</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/" class="newWindow">cookware</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/recipe/entertaining-ideas/" class="newWindow">dinner menus</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/registry/" class="newWindow">wedding registry</a></li></ul></div>
-
-      <div id="nso-wh" class="nso-brand" style="display:none;"><ul id="crossbrand-links-wh" class="crossbrand-links"><li class="first"><a href="http://www.williams-sonoma.com/" class="newWindow">luxury furniture</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/decor-pillow-throw-fabric/decor-throws/" class="newWindow">cashmere throws</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/dining-room-collections/" class="newWindow">dining room furniture</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/home-furniture-upholstery/furniture-occasional-chairs/" class="newWindow">occasional chairs</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/home-furniture-upholstery/furniture-beds-headboards/" class="newWindow">upholstered headboards</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/living-room-collections/" class="newWindow">living room furniture</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/decor-lighting/" class="newWindow">decorative lighting</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/decor-bedding-bath/" class="newWindow">bath linens</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/decor-accessories/" class="newWindow">classic home decor</a>&nbsp;|&nbsp;</li><li><a href="http://www.williams-sonoma.com/shop/williams-sonoma-home/home-furniture-upholstery/furniture-kitchen-island-carts/" class="newWindow">kitchen islands</a></li></ul></div>
-
-      <div id="nso-mg" class="nso-brand" style="display:none;"><ul id="crossbrand-links-mg" class="crossbrand-links"><li class="first"><a href="http://www.markandgraham.com/" class="newWindow">monogrammed gifts</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/gift-shops/" class="newWindow">gift shops</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/gift-shops/personalized-gifts-for-him/" class="newWindow">gifts for him</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/gift-shops/personalized-gifts-for-her/" class="newWindow">gifts for her</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/gift-shops/personalized-wedding-gifts-decor/" class="newWindow">bridal gifts</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/leather/" class="newWindow">leather gifts</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/jewelry-accessories/jewelry/" class="newWindow">personalized jewelry</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/linens/personalized-dinner-napkins/" class="newWindow">monogrammed napkins</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/gift-shops/hostess-gifts/" class="newWindow">hostess gifts</a></li>&nbsp;|&nbsp;<li><a href="http://www.markandgraham.com/shop/for-the-home/personalized-glassware/" class="newWindow">personalized glassware</a></li></ul></div>
-
-    </div>
-  </div>
-
 <script>
   //<![CDATA[
     $("form#email-signup-form #email-signup-submit").click(function(){
@@ -1220,9 +1193,27 @@ Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Priva
 </script>
 
 
+<!-- ClickTale Bottom part -->
+
+<script type="text/javascript">
+// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+// 
+//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+//
+// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+document.write(unescape("%3Cscript%20src='"+
+(document.location.protocol=='https:'?
+"https://clicktalecdn.sslcs.cdngc.net/www02/ptc/d772dd88-1984-452b-8b73-9c128f7df40a.js":
+"http://cdn.clicktale.net/www02/ptc/d772dd88-1984-452b-8b73-9c128f7df40a.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktalecdn.sslcs.cdngc.net/www02/ptc/d772dd88-1984-452b-8b73-9c128f7df40a.js" type="text/javascript"></script>
+
+<!-- ClickTale end of Bottom part -->
+
+
 
 </div>
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
