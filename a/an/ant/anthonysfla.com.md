@@ -1,47 +1,107 @@
-> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212032327id_/http%3A//anthonysfla.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122125655id_/http%3A//anthonysfla.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Anthony's Ladies Apparel > Home
+# Privacy Policy | Anthony's Ladies Apparel
 
-Anthony's Ladies Apparel is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Anthony's Ladies Apparel Web site and governs data collection and usage. By using the Anthony's Ladies Apparel website, you consent to the data practices described in this statement.
+**SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
 
-Collection of your Personal Information
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-Anthony's Ladies Apparel collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Anthony's Ladies Apparel also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-There is also information about your computer hardware and software that is automatically collected by Anthony's Ladies Apparel. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Anthony's Ladies Apparel for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Anthony's Ladies Apparel Web site.
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Anthony's Ladies Apparel public message boards, this information may be collected and used by others. Note: Anthony's Ladies Apparel does not read any of your private online communications.
+**SECTION 2 - CONSENT**
 
-Anthony's Ladies Apparel encourages you to review the privacy statements of Web sites you choose to link to from Anthony's Ladies Apparel so that you can understand how those Web sites collect, use and share your information. Anthony's Ladies Apparel is not responsible for the privacy statements or other content on Web sites outside of the Anthony's Ladies Apparel and Anthony's Ladies Apparel family of Web sites.
+How do you get my consent?
 
-Use of your Personal Information
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-Anthony's Ladies Apparel collects and uses your personal information to operate the Anthony's Ladies Apparel Web site and deliver the services you have requested. Anthony's Ladies Apparel also uses your personally identifiable information to inform you of other products or services available from Anthony's Ladies Apparel and its affiliates. Anthony's Ladies Apparel may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-Anthony's Ladies Apparel does not sell, rent or lease its customer lists to third parties. Anthony's Ladies Apparel may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Anthony's Ladies Apparel may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Anthony's Ladies Apparel, and they are required to maintain the confidentiality of your information.
+How do I withdraw my consent?
 
-Anthony's Ladies Apparel does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [customerservice@anthonysfla.com](mailto:customerservice@anthonysfla.com)  or mailing us at:
 
-Anthony's Ladies Apparel keeps track of the Web sites and pages our customers visit within Anthony's Ladies Apparel, in order to determine what Anthony's Ladies Apparel services are the most popular. This data is used to deliver customized content and advertising within Anthony's Ladies Apparel to customers whose behavior indicates that they are interested in a particular subject area.
+Anthony's Ladies Apparel
 
-Anthony's Ladies Apparel Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Anthony's Ladies Apparel or the site; (b) protect and defend the rights or property of Anthony's Ladies Apparel; and, (c) act under exigent circumstances to protect the personal safety of users of Anthony's Ladies Apparel, or the public.
+5000 Georgia Ave, West Palm Beach, FL 33405
 
-Use of Cookies
+**SECTION 3 - DISCLOSURE**
 
-The Anthony's Ladies Apparel Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Anthony's Ladies Apparel pages, or register with Anthony's Ladies Apparel site or services, a cookie helps Anthony's Ladies Apparel to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Anthony's Ladies Apparel Web site, the information you previously provided can be retrieved, so you can easily use the Anthony's Ladies Apparel features that you customized.
+**SECTION 4 - SHOPIFY**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Anthony's Ladies Apparel services or Web sites you visit.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-Security of your Personal Information
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Anthony's Ladies Apparel secures your personal information from unauthorized access, use or disclosure. Anthony's Ladies Apparel secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Payment:
 
-Changes to this Statement
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-Anthony's Ladies Apparel will occasionally update this Statement of Privacy to reflect company and customer feedback. Anthony's Ladies Apparel encourages you to periodically review this Statement to be informed of how Anthony's Ladies Apparel is protecting your information.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-Contact Information
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-Anthony's Ladies Apparel welcomes your comments regarding this Statement of Privacy. If you believe that Anthony's Ladies Apparel has not adhered to this Statement, please contact Anthony's Ladies Apparel at [pope@anthonysfla.com](mailto:pope@anthonysfla.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+
+**SECTION 5 - THIRD-PARTY SERVICES**
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+**SECTION 6 - SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+**SECTION 7 - COOKIES**
+
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+**SECTION 8 - AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [customerservice@anthonysfla.com](mailto:customerservice@anthonysfla.com)  or by mail at
+
+Anthony's Ladies Apparel
+
+[Re: Privacy Compliance Officer]
+
+5000 Georgia Ave, West Palm Beach, FL 33405
