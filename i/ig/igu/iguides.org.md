@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iguides.org privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530044955id_/http%3A//iguides.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iguides.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122063333id_/http%3A//www.iguides.org/privacy.php) for the most accurate reproduction.*
 
 # Internet Guide - Web Directory- Privacy Policy
 
