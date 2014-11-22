@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gecompany.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030641id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecompany.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122153822id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
 # GE Privacy Policy | Privacy Statement | GE
 
-Last Updated April 4, 2014
+Last Updated September 15, 2014
 
 ##  Web Privacy Policy 
 
@@ -18,18 +18,24 @@ This website is not directed to children under the age of thirteen and we do not
 
 #### Use of Cookies and Similar Technologies
 
-Like most companies we use cookies on our websites. We collect certain aggregate and non-personal information through a variety of technologies when you visit this website. Aggregate and non-personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors. Unless you disable such technologies, by using our website and online services, you agree that we can place these types of cookies and related technologies on your device. We explain below how you can manage your choices and opt-out of the collection of such aggregate information.
+Like most companies, GE uses cookies and similar technologies (“cookies”) on our websites to facilitate and improve your online experience.  
 
-  * Essential Cookies  
-Some cookies serve an essential function and the websites cannot work properly without them. Where such essential cookies are used, they cannot be disabled.
-  * Browser and Flash Cookies  
-Other cookies serve a functional purpose and improve the user experience of the websites. We use browser and Flash cookies to tell us, for example, whether you’ve visited us before, and to help us identify site features in which you may have the greatest interest. Browser and Flash cookies may enhance your online experience by saving your preferences while you are visiting a particular site so that you do not need to reset them each time you visit the website. Neither Browser nor Flash cookies can identify you as an individual. You can decline any Browser cookie through your browser however, without Browser cookies you may not be able to take full advantage of all our website features. For more information to manage Flash cookies please visit our [Cookie Notice & Disclosure](https://web.archive.org/cookies) page. Similar to Browser cookies, you may not be able to take full advantage of all website features once you have disabled Flash cookies.
-  * Web Beacons  
-Some types of cookies collect aggregate information which help us to improve our websites by providing information, for example, on loading errors and the most visited webpages. Certain pages on our site may contain web beacons (also known as Internet tags, pixel tags and clear GIFs). GE uses web beacons to help display content to visitors and to generate statistics regarding web traffic and trends. Web beacons cannot identify you as an individual. For more information to manage Web Beacons please visit our [Cookie Notice & Disclosure page](https://web.archive.org/cookies).
-  * Advertising Cookies  
-GE will provide notice and obtain consent to our visitors when cookies are used for targeted advertising purposes as required by local law. If a visitor declines to consent, they will not receive any advertising cookies.For further information on each type of cookie we use, including their function, the information they collect and how to manage your choices, please consult our separate [Cookie Notice & Disclosure](https://web.archive.org/cookies) section.
+  **How we use cookies**  
+Cookies contain small amounts of information which are downloaded to your device when you visit our website.  Cookies are sent back to our website to allow us to recognize your device.  
 
+  Recognizing your device with _Essential Cookies_ allows our site to help you navigate efficiently to obtain the information and services you have requested.  
 
+  _Analytical and Customization Cookies_ allow our site to remember your preferences such as language selection and help you to view information that is most relevant to your interests; these cookies also help us to maintain and improve our websites by providing information on how visitors find and use the sites, and how well the sites are performing.  
+
+  In some cases _Advertising Cookies_ may be used to make advertising messages more relevant to you.  
+
+**Unless you disable the cookies on our website, by using our website you agree to our use of those cookies.**
+
+  **Making cookie choices**  
+You may see the list of GE and selected partner cookies on our website and make choices about those cookies by visiting our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). In addition to our Cookie Consent Tool, most browsers allow you to manage cookie preferences.  If you decide to disable cookies on our site, you may not be able to take full advantage of all website features once you have done so,
+
+  **Sharing tools**  
+To enhance your experience on our websites, we sometimes embed content and sharing tools from other (third party) sites, such as “like” buttons from social networking sites; these third party sites may also place and access cookies on your device.  The third parties can be found in our Cookie Consent Tool [here](http://info.evidon.com/pub_info/3428). GE does not control the placement or access of these third party cookies.  You should check the relevant third party website(s) for more information about these cookies and whether and how you may make choices about them.
 
 #### Use of Personal Information
 
