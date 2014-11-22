@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10companiesinindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090540id_/http%3A//top10companiesinindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10companiesinindia.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122194704id_/http%3A//top10companiesinindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Top 10 Companies In India
 
   
 Privacy Policy for www.Top10CompaniesInIndia.com
