@@ -1,18 +1,23 @@
-<!--The following is the downloaded HTML source of the nurserylive.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625175158id_/http%3A//nurserylive.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nurserylive.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123000137id_/http%3A//www.nurserylive.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-gb"><head>
-      <base href="http://nurserylive.com/privacy-policy">
+
+      <base href="http://www.nurserylive.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="plant nursery in pune india, buy indoor plants in pune india, buying plants in pune online, buy plants online pune india. Largest collection of Annual Flowers, Aquatic Plants, Aromatic Plants, cactus, Ferns, Indoor Plants, Landscape Plants, Bamboo and more.">
   <meta name="description" content="Nursery live provides wide range of natural plants and accessories in pune india. We have largest collection of Annual Flowers, Aquatic Plants, Aromatic Plants, cactus, Ferns, Indoor Plants, Landscape Plants, Bamboo and more.">
   <meta name="generator" content="Haatopia.com">
   <title>Privacy Policy - buy nursery plants online in pune,pimpri chinchwad,mumbai,delhi,banglore,noida,chennai,indore,hyderabad,nasik,baroda,ahemadabad,chandigarh, india</title>
   <link href="/templates/nursery_live/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link rel="stylesheet" href="http://www.nurserylive.com/modules/mod_vm_ajax_search/css/mod_vm_ajax_search.css" type="text/css">
   <link rel="stylesheet" href="/components/com_virtuemart/assets/css/facebox.css" type="text/css">
   <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vmsite-ltr.css" type="text/css">
   <link rel="stylesheet" href="http://nurserylive.com/rupee.css" type="text/css">
   <style type="text/css">
+
+ #vm_ajax_search_results2286 {margin-left:0px;;}
+
 .nur-button
 {
   border-collapse: separate;
@@ -213,6 +218,7 @@ form.nur-search
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="http://s7.addthis.com/js/250/addthis_widget.js" type="text/javascript"></script>
   <script src="http://nurserylive.api.oneall.com/socialize/library.js" type="text/javascript"></script>
+  <script src="http://www.nurserylive.com/modules/mod_vm_ajax_search/js/vmajaxsearch.js" type="text/javascript"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
   <script src="/components/com_virtuemart/assets/js/jquery.noConflict.js" type="text/javascript"></script>
   <script src="/components/com_virtuemart/assets/js/vmsite.js" type="text/javascript"></script>
@@ -222,9 +228,53 @@ form.nur-search
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
-function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3600000); });
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(1140000); });
+ 
+          var search_timer = new Array(); 
+		  var search_has_focus = new Array(); 
+		  var op_active_el = null;
+		  var op_active_row = null;
+          var op_active_row_n = parseInt("0");
+		  var op_last_request = ""; 
+          var op_process_cmd = "href"; 
+		  var op_controller = ""; 
+		  var op_lastquery = "";
+		  var op_maxrows = 7; 
+		  var op_lastinputid = "vm_ajax_search_search_str2286";
+		  var op_currentlang = "en";
+		  var op_lastmyid = "286"; 
+		  var op_ajaxurl = "http://www.nurserylive.com/modules/mod_vm_ajax_search/ajax/index.php";
+		  var op_savedtext = new Array(); 
+ 
+ 
+  /* <![CDATA[ */
+  // global variable for js
+  
+   
+   search_timer[286] = null; 
+   search_has_focus[286] = false; 
+   //document.addEvent('onkeypress', function(e) { handleArrowKeys(e); });
+ 
+   window.addEvent('domready', function() {
+     document.onkeydown = function(event) { return handleArrowKeys(event); };
+     //jQuery(document).keydown(function(event) { handleArrowKeys(event); }); 
+     // document.onkeypress = function(e) { handleArrowKeys(e); };
+     if (document.body != null)
+	 {
+	   var div = document.createElement('div'); 
+	   div.setAttribute('id', "vm_ajax_search_results2286"); 
+	   div.setAttribute('class', "res_a_s"); 
+	   div.setAttribute('style', "width:400px");
+	   document.body.appendChild(div);
+	 }
+     //document.body.innerHTML += '<div class="res_a_s" id="vm_ajax_search_results2286" style="z-index: 999; width: 400px;">&nbsp;</div>';
+   });
+   /* ]]> */
+   
+   
+  
 //<![CDATA[
-		vmSiteurl = 'http://nurserylive.com/' ;
+		vmSiteurl = 'http://www.nurserylive.com/' ;
 vmLang = "";
 vmCartText = ' was added to your cart.' ;
 vmCartError = 'There was an error while updating your cart.' ;
@@ -268,16 +318,16 @@ faceboxHtml = '<div id="facebox" style="display:none;"><div class="popup"><div c
     <link rel="stylesheet" href="/templates/nursery_live/css/template.responsive.css" media="all">
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
-    <script src="/templates/nursery_live/jquery.js"></script>
-    <script>jQuery.noConflict();</script>
-
+    
     <script src="/templates/nursery_live/script.js"></script>
         <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
     <script src="/templates/nursery_live/script.responsive.js"></script>
     
     <!-- for language conversion -->
     <meta name="google-translate-customization" content="b76df3e1b3b5b8ec-e33a6b5e469e234d-g03cd44d59e9f2b12-f">
+    
+    
+    
 <style type="text/css"> @media print { body { display:none } } </style>
 </head>
 <body>
@@ -343,15 +393,15 @@ margin-top:2px;
 		<tbody>
 			<tr>
 				<td style="width: 570px;">
-					<span style="color: rgb(221, 221, 221);">To Order Call :</span>&nbsp;<a href="/contact-nursery-live"><span style="font-weight: bold;">(+91) 823-778-8552 / 823-778-8553</span></a>&nbsp;<span style="color: rgb(221, 221, 221);">(10AM - 7PM)</span>&nbsp;|&nbsp;<a href="/contact-nursery-live">
+					<span style="color: rgb(221, 221, 221);">To Order Call :</span>&nbsp;<a href="/contact-nursery-live"><span style="font-weight: bold;">(+91) 957-947-0011</span></a>&nbsp;<span style="color: rgb(221, 221, 221);">(10AM - 6PM)</span>&nbsp;|&nbsp;<a href="/contact-nursery-live">
  <script type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy16201 = 'c&#97;r&#101;' + '&#64;';
- addy16201 = addy16201 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy16201 + '\'>');
- document.write(addy16201);
+ var addy38253 = 'c&#97;r&#101;' + '&#64;';
+ addy38253 = addy38253 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy38253 + '\'>');
+ document.write(addy38253);
  document.write('<\/a>');
  //-->\n </script></a><a href="mailto:care@nurserylive.com">care@nurserylive.com</a><script type="text/javascript">
  <!--
@@ -384,7 +434,7 @@ margin-top:2px;
 	<input type="hidden" name="option" value="com_users" />
 	<input type="hidden" name="task" value="user.login" />
 	<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD00ODU=" />
-	<input type="hidden" name="ec2798fb790f2b2a27a3fe5dd07c19fc" value="1" />	</fieldset>
+	<input type="hidden" name="73810eac701a3125246710bb9c02d674" value="1" />	</fieldset>
 	<ul>
 		<li>
 			<a href="/component/users/?view=reset">
@@ -411,11 +461,10 @@ margin-top:2px;
 			<tr>
 				<td style="width: 200px;">
 					&nbsp;</td>
-				<td style="width: 550px; "><!-- START: Modules Anywhere -->	
-<!--BEGIN Search Box -->
+				<td style="width: 550px; "><!-- START: Modules Anywhere -->
 <script>
 function validateCode(){
-    var TCode = document.getElementById('mod_virtuemart_search').value;
+    var TCode = document.getElementById('vm_ajax_search_search_str2286').value;
     
     if(TCode.length < 4){
     	  alert('Input must have minimum 4 characters');
@@ -425,24 +474,39 @@ function validateCode(){
        return false;
     }
     else{
-    	 document.getElementById('mod_virtuemart_search_frm').submit();
+    	 document.getElementById('pp_search2.286').submit();
        return true;     
      }
  }
 </script>
-<!--form id="mod_virtuemart_search_frm1" action="/best-plants-to-keep-away-lizards/search" method="get"-->
-<!--form id="mod_virtuemart_search_frm2" action="/index.php?option=com_virtuemart&view=category&search=true&limitstart=0" method="get"-->
-<form class="nur-search" id="mod_virtuemart_search_frm" action="/component/virtuemart/" method="get">
-<div class="search">
-<table><tbody><tr><td width="84%"><input style="vertical-align :middle;padding-left:4px" name="keyword" id="mod_virtuemart_search" maxlength="46" alt="Search" class="nur-search-input inputbox" type="text" size="46" value="Search for rose, bamboo, tulsi,cactus, seeds etc (enter 4 char)" onblur="if(this.value=='') this.value='Search for rose, bamboo, tulsi,cactus, seeds etc (enter 4 char)';" onfocus="if(this.value=='Search for rose, bamboo, tulsi,cactus, seeds etc (enter 4 char)') this.value='';"></td><td><input type="button" value="Search" class="nur-button" onclick="javascript:validateCode();"></td></tr></tbody></table></div>
-		<!--input type="hidden" name="limitstart" value="0" />
-		<input type="hidden" name="option" value="com_virtuemart" /-->
-		<input type="hidden" name="view" value="category">
-		<input type="hidden" name="search" value="true">
-	
-	  </form>
 
-<!-- End Search Box --><!-- END: Modules Anywhere --></td>
+
+<div style="margin-top:4px">
+<form name="pp_search286" id="pp_search2.286" action="/privacy-policy" method="get">
+<div class="vmlpsearch ajax_srch" style="min-height: 45px;">
+<div id="results_re_2286">
+
+</div>
+	<div class="vm_ajax_search_pretext"></div>
+
+		 <div class="aj_label_wrapper" style="position: relative; height: 20px; clear: both;">
+	 <input style="width: 400px; position: relative; top: 0; left: 0;padding:9px 2px;font-size: 14px;border:1px solid #FF6600" class="inputbox_vm_ajax_search_search_str2" id="vm_ajax_search_search_str2286" name="keyword" type="text" value="" autocomplete="off" onblur="javascript: return search_setText('', this, '286');" onfocus="javascript: aj_inputclear(this, '8', 'en', '286', 'http://www.nurserylive.com/modules/mod_vm_ajax_search/ajax/index.php');" onkeyup="javascript:search_vm_ajax_live(this, '8', 'en', '286', 'http://www.nurserylive.com/modules/mod_vm_ajax_search/ajax/index.php'); ">
+	 <input type="hidden" id="saved_vm_ajax_search_search_str2286" value="Search for rose, bamboo, tulsi,cactus, seeds etc (enter 4 char)">
+	 <label for="vm_ajax_search_search_str2286" id="label_vm_ajax_search_search_str2286" style="position: absolute; left: 10px; top: 3px;">
+	  Search for rose, bamboo, tulsi,cactus, seeds etc (enter 4 char)	 </label>
+	 		<input type="hidden" name="option" value="com_virtuemart">
+		<input type="hidden" name="page" value="shop.browse">
+		<input type="hidden" name="search" value="true">
+		<input type="hidden" name="view" value="category">
+		<input type="hidden" name="limitstart" value="0">
+		<input type="hidden" name="virtuemart_category_id" value="0">		
+		
+	
+	<input class="button_ajax_search nur-button" type="button" onclick="javascript:validateCode();" value="Search" name="Search" style="display: block; ">	    </div>
+</div>
+</form>
+
+</div><!-- END: Modules Anywhere --></td>
 				<td style="text-align: right;background-color:#F9FAFB;border:1px #DFDFDF;padding-right:5px"><!-- START: Modules Anywhere -->
 <!-- Virtuemart 2 Ajax Card -->
 <div class="vmCartModule " id="vmCartModule">
@@ -464,7 +528,7 @@ Please wait</noscript>
 
 <!-- END: Modules Anywhere --></td>
 				<td style="width: 50px; text-align: right; vertical-align: bottom;">
-					<a href="http://www.nurserylive.com/shopping-cart" style="text-decoration:none;"><img alt="" src="http://www.nurserylive.com/images/shopping_cart_red.png"></a></td>
+					<a href="/shopping-cart" style="text-decoration:none;"><img alt="" src="http://www.nurserylive.com/images/shopping_cart_red.png"></a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -492,15 +556,15 @@ Please wait</noscript>
 <div class="custom">
 	<link href="/menu/css/dcmegamenu.css" rel="stylesheet" type="text/css">
 <link href="/menu/css/skins/white.css" rel="stylesheet" type="text/css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="/menu/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="/menu/js/jquery.dcmegamenu.1.3.3.js"></script><script type="text/javascript">
-$(document).ready(function($){
+<script type="text/javascript" src="/menu/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="/menu/js/jquery.dcmegamenu.1.3.3.js"></script><script type="text/javascript">
+jQuery(document).ready(function($){
 	$('#mega-menu-9').dcMegaMenu({
 		rowItems: '5',
 		speed: 'fast',
 		effect: 'slide'
 	});
     
-$(".wrap").css("visibility","");
+jQuery(".wrap").css("visibility","");
 
 });
 </script>
@@ -636,37 +700,6 @@ $(".wrap").css("visibility","");
 								<li class="item-933">
 									<a href="/buy-other-flowering-plants-online-in-india">Other Flowering Plants</a></li>
 							</ul>
-							<a href="/buy-tiny-plants-online-in-india">Tiny Plants</a>
-
-							<ul>
-								<li class="item-1091">
-									<a href="/buy-tiny-succulents-online-in-india">Tiny Succulents</a></li>
-								<li class="item-1092 current active">
-									<a class="active" href="/buy-other-tiny-plants-online-in-india">Other Tiny Plants</a></li>
-							</ul>
-						</li>
-						<li>
-							<a href="http://nurserylive.com/buy-indoor-outdoor-plants-online-in-india">Indoor Outdoor</a>
-							<ul>
-								<li class="item-648">
-									<a href="/buy-hanging-baskets-plants-online-in-india">Hanging Baskets</a></li>
-								<li class="item-753">
-									<a href="/buy-indoor-plants-online-in-india">Indoor Plants</a></li>
-								<li class="item-754">
-									<a href="/buy-outdoor-plants-online-in-india">Outdoor Plants</a></li>
-								<li class="item-786">
-									<a href="/buy-plants-for-bathroom-online-in-india">Plants for Bathroom</a></li>
-								<li class="item-784">
-									<a href="/buy-bedroom-plants-online-in-india">Plants for Bedroom</a></li>
-								<li class="item-781">
-									<a href="/buy-plants-for-living-room-online-in-india">Plants for Living Room</a></li>
-								<li class="item-785">
-									<a href="/buy-plants-for-office-desk-online-in-india">Plants for Office Desk</a></li>
-								<li class="item-780">
-									<a href="/buy-plants-for-terrace-balcony-online-in-india">Plants for Terrace</a></li>
-								<li class="item-836">
-									<a href="/buy-plants-for-flower-bed-online-in-india">Plants for Flower Bed</a></li>
-							</ul>
 							<a href="http://nurserylive.com/buy-plants-for-gift-online-in-india">Plants for Gift</a>
 
 							<ul>
@@ -690,6 +723,53 @@ $(".wrap").css("visibility","");
 									<a href="/buy-plant-for-gift-for-warm-wishes">Warm Wishes</a></li>
 								<li class="item-863">
 									<a href="/gift-plants-on-rakhi">Gift Plants on Rakhi</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="http://nurserylive.com/buy-all-indoor-plants-online-in-india">Indoor Plants</a>
+							<ul>
+								<li class="item-753">
+									<a href="/buy-indoor-plants-online-in-india">All Indoor Plants</a></li>
+								<li class="item-1098">
+									<a href="/buy-indoor-cactus-succulents-online-in-india">Indoor Cactus &amp; Succulents</a></li>
+								<li class="item-1099">
+									<a href="/buy-indoor-creeper-ferns-online-in-india">Indoor Creeper &amp; Ferns</a></li>
+								<li class="item-1100">
+									<a href="/buy-indoor-drought-tolerent-plants-online-in-india">Indoor Drought Tolerent Plants</a></li>
+								<li class="item-1101">
+									<a href="/buy-indoor-flowering-plants-online-in-india">Indoor Flowering Plants</a></li>
+								<li class="item-1102">
+									<a href="/buy-indoor-folliage-plants-online-in-india">Indoor Folliage Plants</a></li>
+								<li class="item-1103">
+									<a href="/buy-indoor-fragrant-plants-online-in-india">Indoor Fragrant Plants</a></li>
+								<li class="item-1104">
+									<a href="/buy-indoor-herbs-edibles-plants-online-in-india">Indoor Herbs &amp; Edibles</a></li>
+								<li class="item-1105">
+									<a href="/buy-indoor-low-maintenance-plants-online-in-india">Indoor Low Maintenance Plants</a></li>
+								<li class="item-1106">
+									<a href="/buy-indoor-lucky-vastu-plants-online-in-india">Indoor Lucky Vastu Plants</a></li>
+								<li class="item-1107">
+									<a href="/buy-other-indoor-plants-online-in-india">Other Indoor Plants</a></li>
+							</ul>
+							<a href="http://nurserylive.com/buy-plants-by-location-online-in-india">Plant by Location</a>
+
+							<ul>
+								<li class="item-648">
+									<a href="/buy-hanging-baskets-plants-online-in-india">Hanging Baskets</a></li>
+								<li class="item-754">
+									<a href="/buy-outdoor-plants-online-in-india">Outdoor Plants</a></li>
+								<li class="item-786">
+									<a href="/buy-plants-for-bathroom-online-in-india">Plants for Bathroom</a></li>
+								<li class="item-784">
+									<a href="/buy-bedroom-plants-online-in-india">Plants for Bedroom</a></li>
+								<li class="item-781">
+									<a href="/buy-plants-for-living-room-online-in-india">Plants for Living Room</a></li>
+								<li class="item-785">
+									<a href="/buy-plants-for-office-desk-online-in-india">Plants for Office Desk</a></li>
+								<li class="item-780">
+									<a href="/buy-plants-for-terrace-balcony-online-in-india">Plants for Terrace</a></li>
+								<li class="item-836">
+									<a href="/buy-plants-for-flower-bed-online-in-india">Plants for Flower Bed</a></li>
 							</ul>
 						</li>
 						<li>
@@ -720,6 +800,14 @@ $(".wrap").css("visibility","");
 								<li>
 									<a href="/buy-all-drought-tolerant-plants-online-in-india">Drought Tolerant Plants</a></li>
 							</ul>
+							<a href="/buy-tiny-plants-online-in-india">Tiny Plants</a>
+
+							<ul>
+								<li class="item-1091">
+									<a href="/buy-tiny-succulents-online-in-india">Tiny Succulents</a></li>
+								<li class="item-1092 current active">
+									<a class="active" href="/buy-other-tiny-plants-online-in-india">Other Tiny Plants</a></li>
+							</ul>
 						</li>
 					</ul>
 				</li>
@@ -728,16 +816,7 @@ $(".wrap").css("visibility","");
 					<ul>
 						<li>
 							<a href="http://nurserylive.com/buy-all-vegetable-garden-seeds-online-in-india">Vegetable Seeds</a>
-							<ul>
-								<li class="item-772">
-									<a href="/buy-all-vegetable-garden-seeds-online-in-india">All Vegetable Seeds</a></li>
-								<li class="item-539">
-									<a href="/buy-english-vegetables-seeds-online-in-india">English Vegetables &amp; Herbs</a></li>
-								<li class="item-1029">
-									<a href="/buy-herb-seeds-online-in-india">Herb Seeds</a></li>
-								<li class="item-509">
-									<a href="/buy-kitchen-garden-seeds-online-in-india">Kitchen Garden Seeds</a></li>
-							</ul>
+							<ul><li class="item-772 current active"><a class=" active" href="/buy-all-vegetable-garden-seeds-online-in-india">All Vegetable Seeds</a></li><li class="item-539"><a href="/buy-english-vegetables-seeds-online-in-india">English Vegetable Seeds</a></li><li class="item-1029"><a href="/buy-herb-seeds-online-in-india">Herb Seeds</a></li><li class="item-509"><a href="/buy-kitchen-garden-seeds-online-in-india">Indian Vegetable Seeds</a></li><li class="item-1170"><a href="/buy-pot-vegetable-seeds-online-in-india">Pot Vegetable Seeds</a></li><li class="item-1171"><a href="/buy-fall-vegetable-seeds-online-in-india">Fall Vegetable Seeds (20°C to 30°C)</a></li><li class="item-1172"><a href="/buy-rainy-vegetable-seeds-online-in-india">Rainy Vegetable Seeds (20°C to 30°C)</a></li><li class="item-1173"><a href="/buy-summer-vegetable-seeds-online-in-india">Summer Vegetable Seeds (25°C to 30°C)</a></li><li class="item-1174"><a href="/buy-winter-vegetable-seeds-online-in-india">Winter Vegetable Seeds (20°C to 25°C)</a></li></ul>
 						</li>
 						<li>
 							<a href="http://nurserylive.com/buy-all-flower-seeds-online-in-india">Flower Seeds &amp; Bulbs</a>
@@ -754,6 +833,10 @@ $(".wrap").css("visibility","");
 									<a href="/buy-summer-flower-seeds-online-in-india">Summer Flower Seeds (25°C to 30°C)</a></li>
 								<li class="item-757">
 									<a href="/buy-winter-flower-seeds-online-in-india">Winter Flower Seeds (20°C to 25°C)</a></li>
+								<li class="item-757">
+									<a href="/buy-special-flower-seeds-online-in-india">Special Flower Seeds</a></li>
+								<li class="item-757">
+									<a href="/buy-seeds-for-flower-bed-online-in-india">Seeds for Flower Bed</a></li>
 							</ul>
 						</li>
 						<li>
@@ -761,8 +844,8 @@ $(".wrap").css("visibility","");
 							<ul>
 								<li class="item-505">
 									<a href="/buy-forestry-seeds-online-in-india">Forestry Seeds</a></li>
-								<!--li class="item-1021">
-									<a href="/free-sample-seeds">Free Sample Seeds</a></li-->
+								<li class="item-1021">
+									<a href="/free-sample-seeds">Free Sample Seeds</a></li>
 								<li class="item-506">
 									<a href="/buy-fruit-seeds-online-in-india">Fruit Seeds</a></li>
 								<li class="item-510">
@@ -773,6 +856,8 @@ $(".wrap").css("visibility","");
 									<a href="/buy-medicinal-seeds-online-in-india">Medicinal Plant Seeds</a></li>
 								<li class="item-1030">
 									<a href="/buy-special-seeds-package-online-in-india"><b>Special Seed Package</b></a></li>
+								<li class="item-1096">
+									<a href="/buy-gardening-kits-online-in-india">Gardening Kits</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -792,8 +877,10 @@ $(".wrap").css("visibility","");
 							<a href="/buy-round-pots-online-in-india">Round Pots</a></li>
 						<li class="item-890">
 							<a href="/buy-square-pots-online-in-india">Square Pots</a></li>
-						<li class="item-890">
-							<a href="/buy-ceramic-pots-online-in-india">Ceramic Pots</a></li>
+						<!--li class="item-890">
+							<a href="/buy-ceramic-pots-online-in-india">Ceramic Pots</a></li-->
+						<li class="item-1109">
+							<a href="/buy-fiber-planters-online-in-india">Fiber Planters</a></li>
 					</ul>
 				</li>
 				<li>
@@ -826,7 +913,16 @@ $(".wrap").css("visibility","");
 				<li>
 					<a href="http://nurserylive.com/plant-fertilizers">Fertilizers</a></li>
 				<li>
-					<a href="http://nurserylive.com/nurserylive-special-gift-packs">Gift</a></li>
+					<a href="http://nurserylive.com/gifts">Gift</a>
+					<ul>
+						<li class="item-1094">
+							<a href="/buy-special-event-gift-online-in-india">NurseryLive Special Gift (Bulk)</a></li>
+						<li class="item-1083">
+							<a href="/nurserylive-special-gift-packs">NurseryLive Special Gift</a></li>
+						<li class="item-1025">
+							<a href="/buy-gift-plant">Gift Nursery Plants</a></li>
+					</ul>
+				</li>
 				<li>
 					<a href="http://nurserylive.com/top-10-plants">Top 10</a>
 					<ul>
@@ -882,66 +978,39 @@ $(".wrap").css("visibility","");
 					<a href="http://nurserylive.com/wiki">Wiki</a>
 					<ul>
 						<li>
-							<a href="#">Plant Facts</a>
+							<a href="#">Plants &amp; Vastu</a>
 							<ul>
-								<li class="item-705">
-									<a href="/lucky-bamboo-nursery-plant" title="So why is Lucky Bamboo considered lucky?">So why is bamboo lucky?</a></li>
-								<li class="item-900">
-									<a href="/what-rose-colour-means">What rose colour means ?</a></li>
-								<li class="item-996">
-									<a href="/tulsi-the-sacred-plant">Tulsi - the sacred plant</a></li>
+								<li class="item-1167">
+									<a href="/house-gardening-as-per-vastu-shashtra">House gardening as per Vastu Shashtra</a></li>
+								<li class="item-1168">
+									<a href="/plant-astrology">Plant Astrology - Remedies to get relief from sufferings</a></li>
+								<li class="item-1169">
+									<a href="/find-lucky-plant-as-per-your-raasi-zodiac-signs">Find lucky plant as per your Raasi (Zodiac signs)</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="#">Gardening Design Idea</a>
+							<ul>
 								<li class="item-1048">
 									<a href="/10-vegetables-herbs-you-can-regrow-from-waste">10 Vegetables Herbs you can regrow from waste</a></li>
-								<li class="item-1050">
-									<a href="/top-10-plants-that-will-kill-you">Top 10 Plants That Will Kill You</a></li>
-								<li class="item-1051">
-									<a href="/top-10-poisonous-foods-we-love-to-eat">Top 10 Poisonous Foods We Love To Eat</a></li>
+								<li class="item-1087">
+									<a href="/15-fast-growing-flowers-for-your-garden">15 Fast-Growing Flowers for your garden</a></li>
+								<li class="item-1084">
+									<a href="/8-rooftop-garden-idea">8 RoofTop Garden Idea</a></li>
 								<li class="item-880">
 									<a href="/grow-vegetables">Grow Vegetables at Home</a></li>
-								<li class="item-1053">
-									<a href="/5-best-good-luck-plants-for-your-home">5 Best Good Luck Plants For Your Home</a></li>
 								<li class="item-1069">
 									<a href="/the-15-easiest-vegetables-to-grow-in-container-for-beginner-gardeners">The 15 Easiest Vegetables to Grow in container for Beginner Gardeners</a></li>
-								<li class="item-1071">
-									<a href="/top-6-easy-summer-flowers">Top 6 easy summer flowers</a></li>
-								<li class="item-1072">
-									<a href="/adenium-the-desert-rose">Adenium - The Desert Rose</a></li>
-								<li class="item-1078">
-									<a href="/garlic-properties">Garlic - properties</a></li>
-								<li class="item-1079">
-									<a href="/mint-properties">Mint - Properties</a></li>
-								<li class="item-1082 current active">
-									<a class="active" href="/insect-repellent-plants">Insect Repellent Plants</a></li>
+								<li class="item-1048">
+									<a href="/can-you-grow-vegetables-in-the-shade">Can you grow vegetables in the shade?</a></li>
+								<li class="item-1048">
+									<a href="/why-succulents-are-the-best-plants-ever">Why succulents are the best plants ever</a></li>
+								<li class="item-1048">
+									<a href="/vegetable-garden-calendar-month-wise-for-indian-terrain"><b>Vegetable Garden Calender (monthwise)</b></a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="#">Health is Wealth</a>
-							<ul>
-								<li class="item-707">
-									<a href="/food-as-medicine">Food is medicine</a></li>
-								<li class="item-993">
-									<a href="/1-coil-equals-100-cigarettes">1 Mosquito Coil as Harmful as Smoking 100 Cigarettes</a></li>
-								<li class="item-1073">
-									<a href="/laughter-therapy">Laughter Therapy: What Happens When We Laugh?</a></li>
-								<li class="item-1075">
-									<a href="/10-tricks-to-make-your-diet-healthier">10 Tricks to make your diet Healthier</a></li>
-								<li class="item-1076">
-									<a href="/15-ways-italy-drinks-coffee">15 ways italy drinks coffee</a></li>
-								<li class="item-1077">
-									<a href="/beach-drinks-of-the-world">Beach drinks of the World</a></li>
-							</ul>
-						</li>
-						<li>
-							<a href="#">Plant of the day</a>
-							<ul>
-								<li class="item-783">
-									<a href="http://nurserylive.com/best-plants-for-an-office-desk">Best plants for an office desk</a></li>
-								<li class="item-788">
-									<a href="http://nurserylive.com/best-plants-for-drawing-hall">Best plants for drawing hall</a></li>
-							</ul>
-						</li>
-						<li>
-							<a href="#">How To</a>
+							<a href="#">How to ?</a>
 							<ul>
 								<li class="item-1049">
 									<a href="/peel-an-entire-garlic-in-10-seconds">Peel an entire garlic in 10 seconds</a></li>
@@ -957,6 +1026,70 @@ $(".wrap").css("visibility","");
 									<a href="/what-men-really-want">what men really want ?</a></li>
 								<li class="item-1081">
 									<a href="/how-romantic-is-your-zodiac-sign">How romantic is your zodiac sign</a></li>
+								<li class="item-1085">
+									<a href="/20-uses-for-leftover-fruit-and-vegetable">20 uses for leftover fruit and vegetable</a></li>
+								<li class="item-1095">
+									<a href="/what-your-engagement-ring-says-about-you">what your engagement ring says about you</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="#">Health &amp; Wealth</a>
+							<ul>
+								<li class="item-707">
+									<a href="/ebola-prevention-is-best-option">Ebola - Prevention is best option</a></li>
+								<li class="item-707">
+									<a href="/food-as-medicine">Food is medicine</a></li>
+								<li class="item-993">
+									<a href="/1-coil-equals-100-cigarettes">1 Mosquito Coil as Harmful as Smoking 100 Cigarettes</a></li>
+								<li class="item-1073">
+									<a href="/laughter-therapy">Laughter Therapy: What Happens When We Laugh?</a></li>
+								<li class="item-1075">
+									<a href="/10-tricks-to-make-your-diet-healthier">10 Tricks to make your diet Healthier</a></li>
+								<li class="item-1076">
+									<a href="/15-ways-italy-drinks-coffee">15 ways italy drinks coffee</a></li>
+								<li class="item-1077">
+									<a href="/beach-drinks-of-the-world">Beach drinks of the World</a></li>
+								<li class="item-1077">
+									<a href="/sleep-nature-s-greatest-inventions-of-life"><b>Sleep: nature’s greatest inventions of life</b></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="#">Plant Fact</a>
+							<ul>
+								<li class="item-705">
+									<a href="/lucky-bamboo-nursery-plant" title="So why is Lucky Bamboo considered lucky?">So why is bamboo lucky?</a></li>
+								<li class="item-900">
+									<a href="/what-rose-colour-means">What rose colour means ?</a></li>
+								<li class="item-996">
+									<a href="/tulsi-the-sacred-plant">Tulsi - the sacred plant</a></li>
+								<li class="item-1050">
+									<a href="/top-10-plants-that-will-kill-you">Top 10 Plants That Will Kill You</a></li>
+								<li class="item-1051">
+									<a href="/top-10-poisonous-foods-we-love-to-eat">Top 10 Poisonous Foods We Love To Eat</a></li>
+								<li class="item-1053">
+									<a href="/5-best-good-luck-plants-for-your-home">5 Best Good Luck Plants For Your Home</a></li>
+								<li class="item-1071">
+									<a href="/top-6-easy-summer-flowers">Top 6 easy summer flowers</a></li>
+								<li class="item-1072">
+									<a href="/adenium-the-desert-rose">Adenium - The Desert Rose</a></li>
+								<li class="item-1078">
+									<a href="/garlic-properties">Garlic - properties</a></li>
+								<li class="item-1079">
+									<a href="/mint-properties">Mint - Properties</a></li>
+								<li class="item-1082">
+									<a href="/insect-repellent-plants">Insect Repellent Plants</a></li>
+								<li class="item-1088">
+									<a href="/top-8-hardy-climber-vines">Top 8 hardy Climber Vines</a></li>
+								<li class="item-1086">
+									<a href="/10-best-houseplants-to-de-stress-your-home-and-purify-the-air">10 Best Houseplants To De-Stress Your Home And Purify The Air</a></li>
+								<li class="item-751">
+									<a href="/best-plants-for-drawing-hall">Best plants for drawing hall</a></li>
+								<li class="item-750">
+									<a href="/best-plants-for-an-office-desk">Best plants for an office desk</a></li>
+								<li class="item-1152">
+									<a href="/32-medicinal-plants-to-keep-at-your-home-always">32 Medicinal Plants to keep at your Home Always</a></li>
+								<li class="item-1157">
+									<a href="/10-fabulous-houseplants-that-work-as-living-air-purifier">10 Fabulous Living Air Purifier</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -979,7 +1112,7 @@ $(".wrap").css("visibility","");
 		<tbody>
 			<tr>
 				<td>
-					<a href="http://nurserylive.com/offers" style="text-decoration:none"><img alt="" src="http://nurserylive.com/images/stories/nurseylive-top-banner-view-todays-offer.png" style=" margin-bottom:-2px; padding:0px;"></a>​​</td>
+					<a href="http://nurserylive.com/offers" style="text-decoration:none"><img alt="" src="http://nurserylive.com/images/stories/nurseylive-top-banner-view-todays-offer-v3.png" style=" margin-bottom:-2px; padding:0px;"></a>​​</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1011,7 +1144,72 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 <div class="art-layout-wrapper">
                 <div class="art-content-layout">
                     <div class="art-content-layout-row">
-                                                <div class="art-layout-cell art-content">
+                        <div class="art-layout-cell art-sidebar1">
+<div class="art-block clearfix"><div class="art-blockcontent"><div class="custom">
+	<script>
+// set the date we're counting down to
+var target_date = new Date("Nov 24, 2014").getTime();
+ 
+// variables for time units
+var days, hours, minutes, seconds;
+ 
+// get tag element
+var countdown = document.getElementById("countdown");
+ 
+// update the tag with id "countdown" every 1 second
+setInterval(function () {
+ 
+    var countdown = document.getElementById("countdown");
+    
+    // find the amount of "seconds" between now and target
+    var current_date = new Date().getTime();
+    var seconds_left = (target_date - current_date) / 1000;
+ 
+    // do some time calculations
+    days = parseInt(seconds_left / 86400);
+    seconds_left = seconds_left % 86400;
+    
+    if(seconds_left<0){
+      document.getElementById("offerscreen").innerHTML = '<p></p>';
+return;
+    }
+     
+    hours = parseInt(seconds_left / 3600); //reduced one hour to keep offer till 11pm
+    seconds_left = seconds_left % 3600;
+     
+    minutes = parseInt(seconds_left / 60);
+    seconds = parseInt(seconds_left % 60);
+     
+    // format countdown string + set tag value
+    //countdown.innerHTML = days + "d, " + hours + "h, "  + minutes + "m, " + seconds + "s";  
+    countdown.innerHTML = hours + "h : "  + minutes + "m : " + seconds + "s left";  
+ 
+}, 1000);
+
+</script>
+<div id="offerscreen" style="background-color:#d62434; width:200px;color:#000000; text-align:center; font-size:12px;padding:4px">
+	<p style="margin:6px; padding:0px; color:#ffffff; font-size:20px; font-weight:bold; ">
+		<span style="font-family: rupee;">R</span>&nbsp;150 OFF</p>
+
+	<p style="margin:10px 0px; padding:0px; color:#ffffff; font-size:32px; font-weight:bold;border-bottom-style:1px solid white ">
+		Happy Hours</p>
+
+	<p style="color:white">
+		<br>
+		Coupon: <strong>NLHPHR9022</strong></p>
+
+	<p>
+		min Order <span style="font-family: rupee;">R</span>&nbsp;1099</p>
+
+	<p id="countdown" style="margin:0px; padding:0px; color:#ffffff; font-size:20px; font-weight:bold; ">
+		&nbsp;</p>
+</div>
+</div></div></div>
+
+
+
+                        </div>
+                        <div class="art-layout-cell art-content">
 <article class="art-post art-messages"><div class="art-postcontent clearfix">
 <div id="system-message-container">
 </div></div></article><div class="item-page"><article class="art-post"><div class="art-postcontent clearfix"><div class="art-article"><h3>
@@ -1141,10 +1339,10 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy34562 = 'c&#111;nt&#97;ct' + '&#64;';
- addy34562 = addy34562 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy34562 + '\'>');
- document.write(addy34562);
+ var addy39949 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy39949 = addy39949 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy39949 + '\'>');
+ document.write(addy39949);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:contact@nurserylive.com">contact@nurserylive.com</a><script type="text/javascript">
  <!--
@@ -1168,10 +1366,10 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy76661 = 'c&#111;nt&#97;ct' + '&#64;';
- addy76661 = addy76661 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy76661 + '\'>');
- document.write(addy76661);
+ var addy28643 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy28643 = addy28643 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy28643 + '\'>');
+ document.write(addy28643);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:contact@nurserylive.com">contact@nurserylive.com</a><script type="text/javascript">
  <!--
@@ -1218,10 +1416,10 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy75773 = 'c&#111;nt&#97;ct' + '&#64;';
- addy75773 = addy75773 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy75773 + '\'>');
- document.write(addy75773);
+ var addy19735 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy19735 = addy19735 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy19735 + '\'>');
+ document.write(addy19735);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:contact@nurserylive.com">contact@nurserylive.com</a><script type="text/javascript">
  <!--
@@ -1252,11 +1450,11 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 													<p class="oa_social_login_caption">
 									<strong>Sign in using:</strong>
 								</p>
-													<div class="oa_social_login_container" id="oa_social_login_container37311"></div>
+													<div class="oa_social_login_container" id="oa_social_login_container68099"></div>
 						<script type="text/javascript">
-					 		oneall.api.plugins.social_login.build("oa_social_login_container37311",{
+					 		oneall.api.plugins.social_login.build("oa_social_login_container68099",{
 					  	providers : ["facebook", "google", "yahoo", "openid", "wordpress", "windowslive"],
-					  	callback_uri: 'http://nurserylive.com/privacy-policy',
+					  	callback_uri: 'http://www.nurserylive.com/privacy-policy',
 					  	css_theme_uri: (("https:" == document.location.protocol) ? "https://secure" : "http://public") + ".oneallcdn.com/css/api/socialize/themes/joomla/default.css"
 					 	});
 						</script><!-- oneall.com / Social Login for Joomla! 2.5 -->
@@ -1276,10 +1474,7 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 
 
 <div class="custom">
-	<p>
-	​</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="width: 960px;">
+	<table border="0" cellpadding="0" cellspacing="0" style="width: 960px;">
 	<tbody>
 		<tr>
 			<td style="vertical-align: top; text-align: left; border-right: solid 1px #999999; padding-right:15px;">
@@ -1402,7 +1597,8 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 											<a href="/buy-annual-flowers-plants-online-in-india">Annual Plants</a></li>
 									</ul>
 								</div>
-<div style="font-size: 16px;">
+
+								<div style="font-size: 16px;">
 									&nbsp;</div>
 
 								<div style="font-size: 14px; border-bottom: dotted 1px;">
@@ -1413,12 +1609,12 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 										&nbsp;</div>
 
 									<ul class="itemdesc">
-										<li class="item-1091"><a href="/buy-tiny-succulents-online-in-india">Tiny Succulents</a></li>
-                          <li class="item-1092 current active"><a class=" active" href="/buy-other-tiny-plants-online-in-india">Other Tiny Plants</a></li>
+										<li class="item-1091">
+											<a href="/buy-tiny-succulents-online-in-india">Tiny Succulents</a></li>
+										<li class="item-1092 current active">
+											<a class="active" href="/buy-other-tiny-plants-online-in-india">Other Tiny Plants</a></li>
 									</ul>
 								</div>
-
-								
 							</td>
 							<td style="vertical-align: top; text-align: left; padding-left:15px; padding-right:15px;">
 								<div style="font-size: 14px; border-bottom: dotted 1px;">
@@ -1468,7 +1664,7 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 								</div>
 
 								<div style="font-size: 14px; border-bottom: dotted 1px;">
-									Indoor Outdoor</div>
+									Plants by Location</div>
 
 								<div style="text-align: left;">
 									<div style="font-size: 16px;">
@@ -1477,8 +1673,6 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 									<ul class="itemdesc">
 										<li class="item-648">
 											<a href="/buy-hanging-baskets-plants-online-in-india">Hanging Baskets</a></li>
-										<li class="item-753">
-											<a href="/buy-indoor-plants-online-in-india">Indoor Plants</a></li>
 										<li class="item-754">
 											<a href="/buy-outdoor-plants-online-in-india">Outdoor Plants</a></li>
 										<li class="item-786">
@@ -1533,9 +1727,6 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 											<a href="/buy-all-drought-tolerant-plants-online-in-india">Drought Tolerant Plants</a></li>
 									</ul>
 								</div>
-<div>									
-									<br>
-									<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=eSlgLLAapNJRtiHaARSI8Jiyn5Ibw3QTDwIKtAquoZbZkuF1H0fat"></script></span></div>
 							</td>
 							<td style="vertical-align: top; text-align: left; padding-left:15px;">
 								<div style="font-size: 14px; border-bottom: dotted 1px;">
@@ -1558,8 +1749,8 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 											<a href="/buy-round-pots-online-in-india">Round Pots</a></li>
 										<li class="item-890">
 											<a href="/buy-square-pots-online-in-india">Square Pots</a></li>
-										<li class="item-890">
-											<a href="/buy-ceramic-pots-online-in-india">Ceramic Pots</a></li>
+										<li class="item-1109">
+											<a href="/buy-fiber-planters-online-in-india">Fiber Planters</a></li>
 									</ul>
 								</div>
 
@@ -1705,10 +1896,10 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy85181 = 'c&#97;r&#101;' + '&#64;';
- addy85181 = addy85181 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy85181 + '\'>');
- document.write(addy85181);
+ var addy57015 = 'c&#97;r&#101;' + '&#64;';
+ addy57015 = addy57015 + 'n&#117;rs&#101;ryl&#105;v&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy57015 + '\'>');
+ document.write(addy57015);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:care@nurserylive.com">care@nurserylive.com</a><script type="text/javascript">
  <!--
@@ -1726,13 +1917,13 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 							<td>
 								Voice Support:</td>
 							<td>
-								+91-823 7788 552 / 553</td>
+								+91 957-947-0011</td>
 						</tr>
 						<tr>
 							<td>
 								Association &amp; Partnership:</td>
 							<td>
-								+91-823 7788 <span style="font-size: 13px;">552 / 553</span></td>
+								+91 957-947-0011</td>
 						</tr>
 					</tbody>
 				</table>
@@ -1771,7 +1962,7 @@ var addthis_config = {ui_click: false,ui_hover_direction: false,ui_use_addressbo
 					&nbsp;</div>
 
 				<div style="text-align: left;">
-					<a href="/buy-plants-online-in-ahmedabad">ahmedabad</a>, <a href="/buy-plants-online-in-bangalore">bangalore</a>, <a href="/buy-plants-online-in-baroda">baroda</a>, <a href="/buy-plants-online-in-chandigarh">chandigarh</a>, <a href="/buy-plants-online-in-chennai">chennai</a>, <a href="/buy-plants-online-in-gurgaon">gurgaon</a>, <a href="/buy-plants-online-in-hyderabad">hyderabad</a>, <a href="/buy-plants-online-in-indore">indore</a>, <a href="/buy-plants-online-in-kolkata">kolkata</a>, <a href="/buy-plants-online-in-mumbai">mumbai</a>, <a href="/buy-plants-online-in-nasik">nasik</a>, <a href="/buy-plants-online-in-new-delhi">new delhi</a>, <a href="/buy-plants-online-in-noida">noida</a>, <a href="/buy-plants-online-in-patna">patna</a>, <a href="/buy-plants-online-in-pimpri">pimpri</a>, <a href="/buy-plants-online-in-puducherry">puducherry</a>, <a href="/buy-plants-online-in-pune">pune</a>, <a href="/buy-plants-online-in-raipur">raipur</a>, <a href="/buy-plants-online-in-ranchi">ranchi</a>, <a href="/buy-plants-online-in-trivandrum">trivandrum</a>, and more</div>
+					<a href="/buy-plants-online-in-ahmedabad">ahmedabad</a>, <a href="/buy-plants-online-in-bangalore">bangalore</a>, <a href="/buy-plants-online-in-baroda">baroda</a>, <a href="/buy-plants-online-in-chandigarh">chandigarh</a>, <a href="/buy-plants-online-in-chennai">chennai</a>, <a href="/buy-plants-online-in-gurgaon">gurgaon</a>, <a href="/buy-plants-online-in-hyderabad">hyderabad</a>, <a href="/buy-plants-online-in-indore">indore</a>, <a href="/buy-plants-online-in-kolkata">kolkata</a>, <a href="/buy-plants-online-in-mumbai">mumbai</a>, <a href="/buy-plants-online-in-nasik">nasik</a>, <a href="/buy-plants-online-in-new-delhi">new delhi</a>, <a href="/buy-plants-online-in-noida">noida</a>, <a href="/buy-plants-online-in-patna">patna</a>, <a href="/buy-plants-online-in-pimpri">pimpri</a>, <a href="/buy-plants-online-in-puducherry">puducherry</a>, <a href="/buy-plants-online-in-pune">pune</a>, <a href="/buy-plants-online-in-raipur">raipur</a>, <a href="/buy-plants-online-in-ranchi">ranchi</a>, <a href="/buy-plants-online-in-trivandrum">trivandrum</a>,<a href="/buy-plants-online-in-nellore">nellore</a>, <a href="/buy-plants-online-in-vijayawada">vijayawada</a>, <a href="/buy-plants-online-in-visakhapatnam">visakhapatnam</a>, <a href="/buy-plants-online-in-warangal">warangal</a>, <a href="/buy-plants-online-in-guwahati">guwahati</a>, <a href="/buy-plants-online-in-dhanbad">dhanbad</a>, <a href="/buy-plants-online-in-jamshedpur">jamshedpur</a>, <a href="/buy-plants-online-in-jamnagar">jamnagar</a>, <a href="/buy-plants-online-in-rajkot">rajkot</a>, <a href="/buy-plants-online-in-surat">surat</a>, <a href="/buy-plants-online-in-faridabad">faridabad</a>, <a href="/buy-plants-online-in-srinagar">srinagar</a>, <a href="/buy-plants-online-in-belgaum">belgaum</a>, <a href="/buy-plants-online-in-mangalore">mangalore</a>, <a href="/buy-plants-online-in-mysore">mysore</a>, <a href="/buy-plants-online-in-kochi">kochi</a>, <a href="/buy-plants-online-in-kozhikode">kozhikode</a>, <a href="/buy-plants-online-in-aurangabad">aurangabad</a>, <a href="/buy-plants-online-in-kolhapur">kolhapur</a>, <a href="/buy-plants-online-in-nagpur">nagpur</a>,<a href="/buy-plants-online-in-siliguri">siliguri</a>, <a href="/buy-plants-online-in-bokaro">bokaro</a>, <a href="/buy-plants-online-in-durgapur">durgapur</a>, <a href="/buy-plants-online-in-bardhaman">bardhaman</a>, <a href="/buy-plants-online-in-cuttack">cuttack</a>, <a href="/buy-plants-online-in-rourkela">rourkela</a>, <a href="/buy-plants-online-in-bhilai">bhilai</a>, <a href="/buy-plants-online-in-rajahmundry">rajahmundry</a>, <a href="/buy-plants-online-in-kakinada">kakinada</a>, <a href="/buy-plants-online-in-brahmapur">brahmapur</a>, <a href="/buy-plants-online-in-guntur">guntur</a>, <a href="/buy-plants-online-in-tirupati">tirupati</a>, <a href="/buy-plants-online-in-tirunelveli">tirunelveli</a>, <a href="/buy-plants-online-in-kollam">kollam</a>, <a href="/buy-plants-online-in-thrissur">thrissur</a>, <a href="/buy-plants-online-in-tiruchirappalli">tiruchirappalli</a>, <a href="/buy-plants-online-in-salem">salem</a>, <a href="/buy-plants-online-in-anantapur">anantapur</a>, <a href="/buy-plants-online-in-kurnool">kurnool</a>, <a href="/buy-plants-online-in-bellary">bellary </a> and all over india</div>
 			</td>
 		</tr>
 	</tbody>
