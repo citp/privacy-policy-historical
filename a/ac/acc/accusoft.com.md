@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623184822id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080522id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Accusoft Privacy Statement
 
