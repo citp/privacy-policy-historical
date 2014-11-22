@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130415id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234440id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Moonbattery Privacy Statement
 
@@ -11,7 +11,7 @@ When a reader comments, Movable Type leaves a cookie on the reader's computer to
 
 Any information posted in the body of a comment will be visible to other readers and preserved in the Moonbattery archives.
 
-Email addresses are stored for those who communicate with Moonbattery at [vanhelsing@moonbattery.com](mailto:vanhelsing@moonbattery.com).
+Email addresses are stored for those who communicate with Moonbattery at [daveblount@moonbattery.com](mailto:daveblount@moonbattery.com).
 
 No information is collected by Moonbattery on readers who do not leave comments or send emails.
 
