@@ -1,79 +1,63 @@
-<!--The following is the downloaded HTML source of the kathmandu.com.au privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209200318id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kathmandu.com.au privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123000935id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang=""><!--<![endif]--><head>
 	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-	<meta charset="utf-8">
+	<meta charset="utf-8"><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/41529/bxu.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEOVVFSGwEJUFdVAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy</title>
+	<title>Privacy Policy</title>
 	<meta name="description" content="Kathmandu Australia Privacy Policy">
 	<meta name="keywords" content="outdoor clothing, outdoor supplies, camping supplies, hiking, tramping, equipment, boots, gore-tex, design, innovative, sleeping bag, tent, basecamp, travel, active">
 	<meta name="robots" content="INDEX,FOLLOW">
-	<link rel="alternate" href="http://m.kathmandu.com.au/privacy-policy">
+		<link rel="alternate" href="http://m.kathmandu.com.au/privacy-policy">
 	<meta name="viewport" content="width=device-width, maximum-scale=1">
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:description" content="Kathmandu Australia Privacy Policy">
 	<meta property="og:image" content="">
 	<meta property="og:site_name" content="Kathmandu">
-	<link rel="icon" href="/favicon.ico?v=1" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico?v=1" type="image/x-icon">
-	<link rel="stylesheet" type="text/css" href="//fast.fonts.com/cssapi/30f8b80e-fb8e-40bf-ba78-504e2cda2d14.css">
-	<link rel="stylesheet" type="text/css" href="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/css/styles.css?v=3.6">
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script type="text/javascript">
-	if (typeof jQuery == 'undefined') {
-		document.write(unescape('%3Cscript src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery-1.7.2.min.js" type="text/javascript"%3E%3C/script%3E'));
-	}
-	</script><script src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery-1.7.2.min.js" type="text/javascript"></script>
-	<!--[if lte IE 7]>
-<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/json2.min.js"></script>
-<![endif]-->
-<!--[if lte IE 8]>
-<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery.backgroundSize.min.js"></script>
-<![endif]-->
-<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
-<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
-	<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/plugins.js?v=2.0"></script>
+        <script type="text/javascript">
+        var cs=document.cookie.split("; "),qs=document.location.search.split("+").join(" "),p={},t,re=/[?&]?([^=]+)=([^&]*)/g,c,r=false,q=[],ct="currency";for(var i=0,parts;(parts=cs[i]&&cs[i].split("="));i++){if(decodeURIComponent(parts.shift().replace(/\+/g," "))===ct){c=decodeURIComponent(parts)}}while(t=re.exec(qs)){p[decodeURIComponent(t[1])]=decodeURIComponent(t[2])}if(typeof c!=="undefined"||p[ct]){if(typeof c!=="undefined"&&c!=p[ct]){p[ct]=c;r=true}else{if(c!=p[ct]){delete p[ct];r=true}}if(r){for(var k in p){q.push(k+"="+p[k])}}};
+    </script>
+    	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">	
+	<link rel="stylesheet" type="text/css" href="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/css/styles.css?v=1.4">
 	
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
+optionalZipCountries = ["CK","FJ","HK","MO","WS","TO","VU"];
 //]]>
 </script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 <script type="text/javascript">
-    //<![CDATA[
-    jQuery(function($) {
-		$('form').each(function() {
-			var action = $(this).attr('action');
-			if (action && action.match('contacts/index/post')) {
-				$(this).append($('<input />')
-					.attr({
-						'type': 'hidden',
-						'name': 'hdu_seed'
-					})
-					.val('8561c08e2a18efd66e73473f4b441978')
-				);
-			}
-		});
-	});
-    //]]>
+var slibaseurlsearch = 'http://gear.kathmandu.com.au/search';
+var slibaseurl = 'gear.kathmandu.com.au';
 </script>
-						<script type="text/javascript">var config = { country: 'AU', page: 'page', level: 0, symbol: '$', summit_club_card_id: '25556', renewal_summit_club_card_id: '23201', category_id: 0, background_image: 'https://www.kathmandu.com.au/media/wysiwyg/backgrounds_short/S13_Backgrounds_Short/Homepage_Background_Shortv2.jpg', in_outlet: false };</script>
-	<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/kmd.js?v=5.10"></script>
-	<style type="text/css">#header-wrapper { background-image: url(https://www.kathmandu.com.au/media/wysiwyg/backgrounds_short/S13_Backgrounds_Short/Homepage_Background_Shortv2.jpg); }.oldie #header-wrapper { background-image: none; }</style>
-	</head>
+<link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.6.css">
+<link rel="stylesheet" type="text/css" href="//kathmanduau.resultspage.com/rac/sli-rac.css">
+<script type="text/javascript">var ajaxsearch=true;</script><!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=88056,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=88056&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141123000935id_%2Fhttp%253A%2F%2Fwww.kathmandu.com.au%2Fprivacy-policy&amp;r=0.7920244323574595" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+	
+</head>
 
 
-<body class=" cms-page-view cms-privacy-policy">
+<body class=" cms-page-view cms-privacy-policy cms-privacy-policy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
     var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-4959739-2']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_setDomainName', 'kathmandu.com.au']);
-    
+        _gaq.push(['_setAccount', 'UA-4959739-2']);
+        _gaq.push(['_setDomainName', 'kathmandu.com.au']);
+        _gaq.push(['_trackPageview']);
+            
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		
@@ -91,31 +75,37 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 			<div class="navbar navbar-fixed-top">
 	<div class="navbar-inner navbar-top">
 		<div class="container">
-			<a class="brand" href="/"><img src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/images/kathmandu_small.png" width="167" height="16" alt="Kathmandu">&nbsp;</a>			<ul class="nav">
+			<a class="brand" href="/"><span class="logo_small sprite"></span>&nbsp;</a>			<ul class="nav">
 				<li><a class="no-pad-left" href="/storelocator" title="Store Locator">Store Locator</a></li>
 				<li><a href="/contacts/index" title="Contact Us">Contact Us</a></li>
 								<li><a href="/online-only-deals.html" title="Online Only Deals">Online Only Deals</a></li>
 							</ul>
 			<div class="navbar-form pull-right">
-				<a class="btn btn-default btn-large" href="/checkout"><span>Checkout <i class="icon-chevron-right icon-white"></i></span></a>
+				<a class="btn btn-default btn-large" href="/checkout/cart"><span>Checkout <i class="icon-chevron-right icon-white"></i></span></a>
 			</div>
 			<div class="pull-right">
 				<ul class="nav">
-					<li class="hide-on-load dropdown country">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#">AUS<b class="caret"></b></a>
-						<ul class="dropdown-menu">
-																												<li><a href="http://www.kathmandu.co.nz/?SID=ifsgdrf28dueak87e4k6v14ou4&amp;___store=nz_eng">New Zealand</a></li>
-																																										<li><a href="http://www.kathmandu.co.uk/?SID=ifsgdrf28dueak87e4k6v14ou4&amp;___store=uk_eng">United Kingdom</a></li>
-																																		</ul>
+					<li class="hide-on-load country">
+						<a class="country-popdown-trigger au_eng" href="#"><i></i><span>AUS</span><b class="caret"></b></a>
+						<div class="country-dropdown">
+							<form id="country-form">
+								<span>Change Country</span>
+																																<a class="nz_eng" href="http://www.kathmandu.co.nz/?___store=nz_eng"><i></i>New Zealand</a>
+																																<a class="au_eng" href="#"><i></i>Australia</a>
+																																<a class="uk_eng" href="http://www.kathmandu.co.uk/?___store=uk_eng"><i></i>United Kingdom</a>
+																																							</form>
+							<span class="arrow"></span>
+						</div>
 					</li>
 					<li class="hide-on-load logout">
 						Hi <span class="user-firstname"></span>,
-						<a id="logout-link" href="https://www.kathmandu.com.au/customer/account/logout/">Log Out</a>
+						<a id="logout-link" href="/customer/account/logout/">Log Out</a>
 					</li>
 					<li class="hide-on-load login">
 						<a class="login-popdown-trigger" href="/customer/account/create">Login</a>
 						<div class="login-dropdown">
 							<form id="login-form" class="form-vertical validation" method="post" action="https://www.kathmandu.com.au/customer/account/loginPost/">
+								<input type="hidden" name="form_key" value="EeuMfr76IL73dKuH">
 								<h4>Registered Customers</h4>
 								<div class="message"></div>
 								<label for="login-username">Email or Summit Club ID</label>
@@ -151,7 +141,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 						</div>
 					</li>
 					<li class="hide-on-load my-cart">
-												<a class="cart-contents-trigger" href="/checkout/cart"><img class="cart-icon" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/images/icon_minicart.png" alt="" width="24" height="19">My Cart<span class="cart-total"> $<span class="price">0.00</span></span></a>
+												<a class="cart-contents-trigger" href="/checkout/cart"><span class="my-cart sprite"></span>My Cart<span class="cart-total"> $<span class="price">0.00</span></span></a>
 						<div class="cart-dropdown">
 							<div class="cart-message"></div>
 							<div class="cart-contents hide">
@@ -163,17 +153,14 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 								<div id="cart-up"><a href="#up"><div class="icon">Up</div></a></div>
 								<div class="table-wrapper">
 									<table cellspacing="0" cellpadding="0">
-										<colgroup>
-											<col style="width:60px;">
-											<col style="width:140px;">
-											<col style="width:20px;">
-											<col style="width:45px;">
-											<col style="width:30px;">
-										</colgroup>
 										<tbody></tbody>
 									</table>
 								</div>
 								<div id="cart-down"><a href="#down"><div class="icon">Down</div></a></div>
+								<div class="row-fluid mt spend-more">
+									<h4>Spend an extra $<span class="spend"></span> to receive free shipping on your order</h4>
+									<a class="help-inline" href="/customer-service/delivery-and-shipping" data-placeholder="If you spend $<span class='threshold'></span> or more with us in a single transaction, we will deliver this to you for FREE! Under this and your delivery will be charged at $<span class='shipcost'></span>. </br>This is for all nationwide deliveries to your home or business address or post office box." data-original-title="">What is this?</a>
+								</div>
 								<div class="row-fluid mt">
 									<div class="span3 a-right">
 										<h4 class="subtotal">
@@ -192,7 +179,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 									</div>
 								</div>
 							</div>
-							<div class="no-items"><img src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/images/minicart_no_items.png" width="128" height="122" alt="No items in your cart"></div>
+							<div class="no-items"><span class="sprite minicart_no_items"></span></div>
 							<span class="arrow"></span>
 						</div>
 					</li>
@@ -205,15 +192,37 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 <div id="header">
 	<div class="container">
 		<noscript><div class="nojs pull-right">Please enable <strong><a href="http://enable-javascript.com/" target="_blank">JavaScript</a></strong> for an optimal experience.</div></noscript>
-		<form class="search-form clearfix form-inline" action="http://www.kathmandu.com.au/catalogsearch/result/" method="get">
-	<input type="text" name="q" placeholder="Search site…" value=""><button class="btn-search btn btn-dark pull-right" type="submit"><span>Search</span></button>
+		
+<form class="search-form clearfix form-inline" name="searchform" action="http://gear.kathmandu.com.au/search" method="get" id="SliSearchProductForm" onsubmit="ajaxsearchsubmit(this);return false;">
+        <input type="hidden" name="p" value="Q">
+        <input type="hidden" name="asug">
+        <input type="hidden" name="view" value="grid">
+        <input type="search" name="w" placeholder="Search site…" value="" onfocus="this.value=''" id="sli_search_1" class="input-text" autocomplete="off" size="20">
+        <button title="Search" value="Search" class="btn-search btn btn-dark pull-right submitbutton" type="submit"><span>Search</span></button>
+
 </form>
-		<a class="logo" href="/">			<img src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/images/kathmandu_large.png" alt="Kathmandu" width="183" height="61">
+<script type="text/javascript">
+function ajaxsearchsubmit(form){
+		        var search = encodeURIComponent(form.w.value);
+        if (ajaxsearch) {
+                window.location=slibaseurlsearch+"#w="+search
+        } else {
+                var asug = encodeURIComponent(form.asug.value);
+                window.location=slibaseurlsearch+"?w="+search+"&asug="+asug;
+        }
+        return false;
+}
+</script>
+
+
+		<a class="logo" href="/">			<span class="logo_large sprite" title="
+												Kathmandu Australia - Outdoor Clothing and Camping Equipment for travel and adventure
+											"></span>
 		</a>
 	</div>
 </div>
 
-<div class="top-menu nav-container">
+<div class="sprite top-menu nav-container">
 	<ul id="nav">
 		<li class="cat-1 mens first level-top parent">
 			<a href="/mens.html" class="level-top">
@@ -352,8 +361,8 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -362,7 +371,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		</li>
 		<li class="cat-2 womens level-top parent">
 			<a href="/womens.html" class="level-top">
-				<span><span class="menu-divider"></span>Women's</span>
+				<span><span class="menu-divider sprite"></span>Women's</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -506,8 +515,8 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -516,7 +525,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		</li>
 				<li class="cat-3 kids level-top parent">
 			<a href="/kids.html" class="level-top">
-				<span><span class="menu-divider"></span>Kids</span>
+				<span><span class="menu-divider sprite"></span>Kids'</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -776,8 +785,8 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -786,7 +795,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		</li>
 				<li class="cat-4 packs-and-bags level-top parent">
 			<a href="/packs-and-bags.html" class="level-top">
-				<span><span class="menu-divider"></span>Packs &amp; Bags</span>
+				<span><span class="menu-divider sprite"></span>Packs &amp; Bags</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -839,7 +848,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -848,7 +857,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		</li>
 		<li class="cat-5 camping level-top parent">
 			<a href="/camping.html" class="level-top">
-				<span><span class="menu-divider"></span>Camping</span>
+				<span><span class="menu-divider sprite"></span>Camping</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -950,8 +959,8 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -960,7 +969,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		</li>
 		<li class="cat-6 sleeping-gear level-top parent">
 			<a href="/sleeping-gear.html" class="level-top">
-				<span><span class="menu-divider"></span>Sleeping Gear</span>
+				<span><span class="menu-divider sprite"></span>Sleeping Gear</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -1028,90 +1037,16 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
 			</div>
 			<span class="arrow"></span>
 		</li>
-		<li class="cat-7 footwear level-top parent">
-			<a href="/footwear.html" class="level-top">
-				<span><span class="menu-divider"></span>Footwear</span>
-			</a>
-			<div class="menu-wrapper">
-				<div class="menu">
-					<div class="well">
-						<h2><a href="/footwear.html">Footwear</a></h2>
-						<div class="wrapper row-fluid">
-							<div class="span3">
-								<h4><a href="/footwear/mens.html">Men's</a></h4>
-																<ul>
-																		<li>
-																					<a href="/footwear/mens/boots.html"><span>Boots</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/mens/shoes.html"><span>Shoes</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/mens/sandals.html"><span>Sandals</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/mens/everyday.html"><span>Everyday</span></a>
-																			</li>
-																	</ul>
-															</div>
-							<div class="span3">
-								<h4><a href="/footwear/womens.html">Women's</a></h4>
-																<ul>
-																		<li>
-																					<a href="/footwear/womens/boots.html"><span>Boots</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/womens/shoes.html"><span>Shoes</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/womens/sandals.html"><span>Sandals</span></a>
-																			</li>
-																		<li>
-																					<a href="/footwear/womens/everyday.html"><span>Everyday</span></a>
-																			</li>
-																	</ul>
-															</div>
-														<div class="span3">
-								<h4><a href="/footwear/kids.html">Kids</a></h4>
-																<ul>
-																		<li>
-																					<a href="/footwear/kids/shoes.html"><span>Shoes</span></a>
-																			</li>
-																	</ul>
-								<div>
-									<h3><a href="/footwear/socks.html"><span>Socks</span></a></h3>
-									<h3><a href="/footwear/accessories.html"><span>Accessories</span></a></h3>
-								</div>
-															</div>
-														<div class="span3">
-																<h4><a href="/footwear/kathmandu.html">Kathmandu</a></h4>
-								<h4><a href="/footwear/keen.html">Keen</a></h4>
-								<h4><a href="/footwear/oboz.html">Oboz</a></h4>
-								<h4><a href="/footwear/salomon.html">Salomon</a></h4>
-								<h4><a href="/footwear/teva.html">Teva</a></h4>
-															</div>
-						</div>
-					</div>
-					<div class="well slots">
-						<div class="row-fluid">
-							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>						</div>
-					</div>
-				</div>
-			</div>
-			<span class="arrow"></span>
-		</li>
-		<li class="cat-8 accessories level-top parent">
+		<li class="cat-7 accessories level-top parent">
 			<a href="/accessories.html" class="level-top">
-				<span><span class="menu-divider"></span>Accessories</span>
+				<span><span class="menu-divider sprite"></span>Accessories</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -1148,7 +1083,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 																					<a href="/accessories/active/running.html"><span>Running</span></a>
 																			</li>
 																		<li>
-																					<a href="/accessories/active/walking-poles-htmls.html"><span>Walking Poles</span></a>
+																					<a href="/accessories/active/walking-poles.html"><span>Walking Poles</span></a>
 																			</li>
 																		<li>
 																					<a href="/accessories/active/compasses.html"><span>Compasses</span></a>
@@ -1237,8 +1172,41 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
+</div></div>						</div>
+					</div>
+				</div>
+			</div>
+			<span class="arrow"></span>
+		</li>
+		<li class="cat-8 shopbyactivity level-top parent">
+			<a href="/shop-by-activity" class="level-top">
+				<span><span class="menu-divider sprite"></span>Shop by Activity</span>
+			</a>
+			<div class="menu-wrapper">
+				<div class="menu">
+					<div class="well">
+						<h2><a href="/shop-by-activity">Shop by Activity</a></h2>
+						<div class="wrapper row-fluid">
+							                                <div class="span6">
+                                                                            <h4><a href="/active.html">Active &amp; Yoga</a></h4>
+                                                                            <h4><a href="/camping-activity.html">Camping</a></h4>
+                                                                            <h4><a href="/cycling.html">Cycling</a></h4>
+                                                                            <h4><a href="/hiking.html">Hiking</a></h4>
+                                                                    </div>
+                                                            <div class="span6">
+                                                                            <h4><a href="/running-and-fitness.html">Running &amp; Fitness</a></h4>
+                                                                            <h4><a href="/snow-and-alpine.html">Snow &amp; Alpine</a></h4>
+                                                                            <h4><a href="/travel.html">Travel</a></h4>
+                                                                            <h4><a href="/water-sports.html">Watersports</a></h4>
+                                                                    </div>
+                            						</div>
+					</div>
+					<div class="well slots">
+						<div class="row-fluid">
+							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
+</div></div>							<div class="span6"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -1246,13 +1214,13 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 			<span class="arrow"></span>
 		</li>
 		<li class="summit-club parent">
-			<a href="/summit-club" class="level-top">
-				<span><span class="menu-divider"></span>Summit Club</span>
+			<a href="/summit-club" class="level-top-sc">
+				<span><span class="menu-divider sprite"></span>Summit Club</span>
 			</a>
 		</li>
 		<li class="cat-9 outlet level-top parent ">
 			<a href="/outlet.html" class="level-top">
-				<span><span class="menu-divider"></span>Outlet</span>
+				<span><span class="menu-divider sprite"></span>Outlet</span>
 			</a>
 			<div class="menu-wrapper">
 				<div class="menu">
@@ -1500,8 +1468,8 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<div class="well slots">
 						<div class="row-fluid">
 							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/summit-club"><img src="/media/wysiwyg/Mega_Promotion_2.jpg" alt="Summit Club Membership. Join Today." width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="https://www.kathmandu.com.au/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
-</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/free-shipping"><img title="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" src="/media/wysiwyg/homepage_Promo_boxes/FREE_DELIVERY_ANZ.jpg" alt="Free Delivery when you spend $100 or more on Kathmandu Outdoor Clothing &amp; Outdoor Gear" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/online-only-deals.html"><img title="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" src="/media/wysiwyg/online-only.jpg" alt="Online Only Deals on Outdoor Clothing and Outdoor Gear | Shop Online at Kathmandu" width="226" height="97"></a></p></div>
+</div></div>							<div class="span4"><div class="slot"><div class="widget widget-static-block"><p><a href="/tonga"><img title="The Summit Tonga 2014 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Mega_Menu/Online_MegaMenu_226x97.jpg" alt="The Summit Tonga 2014 | Kathmandu" width="226" height="97"></a></p></div>
 </div></div>						</div>
 					</div>
 				</div>
@@ -1509,10 +1477,15 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 			<span class="arrow"></span>
 		</li>
 	</ul>
-</div>
-<div id="header-promotion" class="clear container">
+</div><div id="header-promotion" class="clear container">
 	<div class="inner">
-		<div class="widget widget-static-block"><p><a href="/outlet.html" target="_self"><img title="Summit Club Exclusive 15% Off Clearance " src="https://www.kathmandu.com.au/media/wysiwyg/Buttons/shippingbanners/ONLINE_Promo_Strip_SCClearance_030214.gif" alt="Summit Club Exclusive 15% Off Clearance | Kathmandu | Outdoor Clothing | Travel | Camping Gear" width="960" height="32"></a></p></div>
+		<div class="widget widget-static-block"><p><a href="/christmas-sale.html" target="_self"><img title="Up to 60% off a huge range | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Buttons/shippingbanners/Online_promostrip_316x32_60percent_121114.gif" alt="Up to 60% off a huge range | Kathmandu" width="316" height="32"></a></p></div>
+	</div>
+	<div class="inner middle">
+		<div class="widget widget-static-block"><p><a href="/free-shipping" target="_self"><img title="Free AU delivery over $100 | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Buttons/shippingbanners/ONLINE-PROMOSTRIP_316x32pxAU_1.png" alt="Free AU delivery over $100 | Kathmandu" width="316" height="32"></a></p></div>
+	</div>
+	<div class="inner">
+		<div class="widget widget-static-block"><p><a href="/christmas-gift-ideas.html"><img title="Great Christmas gift ideas | Kathmandu" src="http://www.kathmandu.com.au/media/wysiwyg/Buttons/shippingbanners/Online_promostrip_316x32_XmasGifts.jpg" alt="Great Christmas gift ideas | Kathmandu" width="316" height="32"></a></p></div>
 	</div>
 </div>
 
@@ -1534,6 +1507,20 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 									<strong>Privacy Policy</strong>
 								</li>
 					</ul>
+				<ul style="display: none !important;">
+			<div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<li class="home breadcrumb-divider">
+					
+													<div itemprop="child" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+								<a href="http://www.kathmandu.com.au/" title="Go to Home Page" itemprop="url"> <span itemprop="title">Home</span></a>
+							</div>
+						
+										</li>
+									<li class="cms_page">
+											<strong>Privacy Policy</strong>
+										</li>
+							</div>
+		</ul>
 			</div>
 </div>
 			
@@ -1543,21 +1530,186 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 		<div id="content" class="bg">
 			<div class="container">
 				    <div class="page-title">
-        <h1>Privacy Policy</h1>
+        <h1>Kathmandu's Privacy Policy</h1>
     </div>
-<div class="std"><h3>We understand that as a visitor to our website, you may be concerned about your privacy and about any information that we gain about you online. We are committed to protecting your privacy and to complying with the Privacy Act 1988 (Australia). The following terms tell you how information about you is treated as you access and interact with this website.</h3>
-<p><br>If you visit an area of the website where you are not required to log on, to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our system will not record any personally identifiable information about you without your consent.<br><br>If you complete an online form on our website, the information that you enter on that form will only be collected if you actually submit the form to us. If you change your mind and do not submit the information, any information you have entered up to that point will not be collected by our system and will be discarded (note that if your browser has an “auto complete” function, it might automatically fill in the form again the next time you visit that page).<br><br>Any personal information that you actually submit to us using our website or in an email will only be used for the following purposes:</p>
+<div class="std"><p><a href="/privacy-policy#commitment" target="_self">Our privacy commitment</a></p>
+<p><a href="/privacy-policy#obligations" target="_self">Our privacy obligations</a></p>
+<p><a href="/privacy-policy#personalinformation" target="_self">How and why does Kathmandu collect and hold your personal information?</a></p>
+<p><a href="/privacy-policy#collectandhold" target="_self">What kind of personal information does Kathmandu collect and hold?</a></p>
+<p><a href="/privacy-policy#useinformation" target="_self">How does Kathmandu use your personal information?</a></p>
+<p><a href="/privacy-policy#discloseinformation" target="_self">In what circumstances will Kathmandu disclose your personal information?</a></p>
+<p><a href="/privacy-policy#who" target="_self">Who do we disclose your personal information to?</a></p>
+<p><a href="/privacy-policy#directmarketing" target="_self">Direct marketing</a></p>
+<p><a href="/privacy-policy#overseas" target="_self">Does Kathmandu disclose your personal information to overseas recipients?</a></p>
+<p><a href="/privacy-policy#identifiers" target="_self">Use of Government Identifiers</a></p>
+<p><a href="/privacy-policy#datasecurity" target="_self">Data quality and Security</a></p>
+<p><a href="/privacy-policy#websiteusage" target="_self">Website usage</a></p>
+<p><a href="/privacy-policy#thirdparty" target="_self">Links to third party sites</a><a name="commitment"></a></p>
+<p><a href="/privacy-policy#correctpersonalinformation" target="_self">How you can access or correct your personal information</a></p>
+<p><a href="/privacy-policy#privacycontactofficer" target="_self">How you can notify us of a privacy concern or contact our Privacy Contact Officer</a></p>
+<h1>Our privacy commitment</h1>
+<p>Kathmandu is committed to protecting the privacy of your personal information. We manage your personal information in an open and transparent way.</p>
+<p>Kathmandu will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities.</p>
+<p>Kathmandu will not use or disclose your personal information for purposes unrelated to the services we provide, unless we first obtain your consent.<a name="obligations"></a></p>
+<p>Where we can, we will allow you to deal with us anonymously or by using a pseudonym. However, in some circumstances, this may not be possible, and Kathmandu may need to collect personal information from you to provide you with a delivery or other service. &nbsp;In some cases, if you do not provide the required personal information we will not be able to provide you with a service.</p>
+<h1>Our privacy obligations</h1>
+<p>This privacy policy sets out how we comply with our obligations under the:</p>
 <ul>
-<li>if you choose to allow us to do so, to send you promotional or other information about us, our website, the Services or our products, or our partners' products, either through email, ordinary mail, or some other means;</li>
-<li>to conduct research about our website, the Services, stores, sales or our products;</li>
-<li>to allow us to personalise our website or Services for you;</li>
-<li>to process any request that you make; or</li>
-<li>for security purposes.</li>
+<li>Privacy Act 1988 (Cth) (Australia);</li>
+<li>Privacy Act 1993 (NZ) (New Zealand); and</li>
+<li>Data Protection Act 1998 (United Kingdom).</li>
 </ul>
-<p>Your personal information will only be added to our customer database (to be used for purposes other than answering your specific request) if you opt in to receive communications or if you join our Summit Club. Your membership of the Summit Club may be governed by separate terms and conditions.<br><br>If you choose to use the Services and submit information to us about you for that purpose, you will be taken as authorising us to collect, use, store and disclose that information in the manner and for the purposes contemplated by these Terms. If you choose not to provide all of the personal information that we request from you, the Services you request may not be available to you.<br><br>If you provide us with personal information about you, you should advise us if the information changes, so we can update our records. You can either <a title="My Account" href="/customer/account/create" target="_self">update it online</a> or via <a title="Contact Us" href="/contacts/index" target="_self">Contact Us</a>. We may contact you from time to time to check that information we hold is still accurate.<br><br>The personal information that we collect about you is stored on our database server managed by Kathmandu Limited in Christchurch, New Zealand, and its collection, storage, use and disclosure is governed by the terms of the New Zealand Privacy Act 1993.<br><br>We may disclose personal information that we collect and retain about you to third parties but only for the purposes identified in these Terms or to which you have consented, or when we are required to do so by law. If we provide any contact details to our contracted suppliers who are responsible for processing our mail-outs, we require those suppliers to agree to use the information only to fulfil that purpose, and not to retain the details once that purpose has been fulfilled.<br><br>Under the Privacy Act 1993 (New Zealand), you have certain rights to access and request correction of your personal information held by us. Any such request, or any inquiry, should be sent to the following address: Group Online Manager, Kathmandu Ltd, PO Box 984, South Melbourne 3205, Victoria, Australia.<br><br>We may at any time disclose your personal information including, without limitation, your name and contact details to any relevant authorities, parties and/or applicable intellectual property right holders (or their representatives) if we consider that you are in breach of these Terms and that disclosure is required for those parties to enforce their rights.<br><br>If you subscribe to a mailing list that we maintain (including an email subscription list), you can ask us to remove you from that list at any time by using the “unsubscribe” facility referred to in our message to you, or sending us an email with your details via <a title="Contact Us" href="/contacts/index" target="_self">Contact Us</a>. We will comply with that request as soon as we reasonably can. However you should understand that sometimes we may have begun distributing a mail-out before we can process that request, and in those circumstances you might still receive that mail-out.<br><br>If you have accessed Third Party Websites through this website and if the operators of those Third Party Websites collect information about you, we may also collect or have access to that information as part of our arrangements with those third parties.<br><br>Where you access a Third Party Website from this website, cookie information, information about your preferences or other information you have provided about yourself may be shared between us and the third party. You usually cannot be identified from the information that is shared. If you can be identified from this information, we will seek your consent before sharing the information.<br><br>Third Party Websites should contain their own privacy statements and the operators of those Third Party Websites are responsible for their own privacy practices.</p>
-<p><span style="font-size: 13px;">Kathmandu has implemented and uses Display Advertising.&nbsp;</span><span style="font-size: 13px;">Kathmandu uses Remarketing with Google Analytics to advertise online.&nbsp;Third-party vendors, including Google, show Kathmandu ads on sites across the Internet.&nbsp;</span><span style="font-size: 13px;">Kathmandu and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Kathmandu website.</span></p>
-<p><span style="font-size: 13px;"><span>Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the&nbsp;</span><a href="https://www.google.com/settings/ads/onweb/?hl=en&amp;sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX">Ads Preferences Manager</a><span>&nbsp;or opt-out via</span><span>&nbsp;</span><a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics opt-out browser add-on</a><span>.</span></span></p>
-<p>We will save any email that you send us, if we believe that we have a legal or business requirement to do so. We may monitor email message content for security issues including where e-mail abuse is suspected.<br>If you have a dispute with us or want to know more about privacy issues in Australia, we encourage you to visit the Australian Office of The Privacy Commissioner’s website at <a title="Privacy.gov.au" href="http://www.privacy.gov.au" target="_blank">www.privacy.gov.au</a>.</p></div>			</div>
+<p>Kathmandu is bound by the requirements of these privacy laws, which regulate how we may collect, use, disclose and store personal information/data. These laws also specify how individuals may access and correct personal information/data held about them.</p>
+<p>“Personal Information” means information or an opinion about an identified individual (or an individual who is reasonably identifiable), whether true or not, or recorded in a material form or not.</p>
+<p>“Personal Data” means data which relates to a living individual who can be identified from the data, including an opinion about the individual.</p>
+<p>For example, these types of information/data could include your name, contact details, age and health information.</p>
+<p>In this policy ‘we’, ‘us’, ‘our’ and ‘Kathmandu’ refers to (and this policy applies to) Kathmandu Holdings Ltd and all of its subsidiary companies including Milford Group Holdings Ltd, Kathmandu Ltd, Kathmandu Pty Ltd, Kathmandu (U.K.) Ltd.</p>
+<p>If you have any questions regarding Kathmandu’s Privacy Policy, please call Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, or email us at <a href="mailto:privacy@kathmandu.co.nz">privacy@kathmandu.co.nz</a>. If you would like Kathmandu to send you a copy of this policy, please contact us and we will do so.</p>
+<p>By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our <a href="http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer">Privacy Contact Officer</a>.<a name="personalinformation"></a></p>
+<p>This privacy policy is effective from March 2014.&nbsp; From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.&nbsp; If any changes are made to this policy, these will be posted on our websites.</p>
+<h1>How and why does Kathmandu collect and hold your personal information?</h1>
+<p>Kathmandu will only collect personal information about you by lawful and fair means, and not in an unreasonably intrusive manner.</p>
+<p>It is Kathmandu’s usual practice to collect personal information [about you (and possibly about your family) directly from you (or from your authorised representative)], when you:</p>
+<ul>
+<li>complete an online form on one of our websites;</li>
+<li>visit and browse our website;</li>
+<li>complete a hard copy form;</li>
+<li>apply for membership of the Summit Club;</li>
+<li>purchase goods or services from us in certain circumstances such as through our website, or if you deal with us by reference to your Summit Club membership, or if you pay other than by cash;</li>
+<li>enter one of our competitions;</li>
+<li>apply for employment with us; or</li>
+<li>contact us by telephone, via mail, email or online.</li>
+</ul>
+<p><br>We may collect personal information about you from a third party or a publicly available source, but only if you have consented to such collection, or would reasonably expect us to collect your personal information in this way.&nbsp;</p>
+<p>Kathmandu only collects personal information for purposes that are directly related to our business activities, and only when it is necessary for or directly related to such purposes. We also collect personal information related to employment services, human resource management, and other corporate service functions.<a name="collectandhold"></a></p>
+<p>If we receive information about you from a third party and it is not information we need in respect of our business activities, we will destroy or de-identify that information (provided it is lawful to do so).</p>
+<p>No one under the age of 13 years is allowed to provide any personal information. &nbsp;Minors under the age of 18 years are prohibited from making purchases, including subscriptions, on our websites.</p>
+<h1>What kind of personal information does Kathmandu collect and hold?</h1>
+<p>Any personal information that you provide via our websites or directly (for example, when you apply to become a member of the Summit Club) is collected and managed by Kathmandu.</p>
+<p>If you provide your personal information to a third party via a link from the Kathmandu website, that information is collected and managed by those third parties. You should familiarise yourself with their privacy policy prior to deciding whether you wish to provide them with your information.</p>
+<p>The types of personal information Kathmandu may collect includes (but is not limited to) your:</p>
+<ul>
+<li>name;</li>
+<li>date of birth;</li>
+<li>gender;</li>
+<li>marital status and family details;</li>
+<li>residential address;</li>
+<li>email address;</li>
+<li>contact telephone numbers;</li>
+<li>identification details (e.g. student, YHA member, over 60s);</li>
+<li>Tax File Number;</li>
+<li>Passport details;</li>
+<li>testimonials or opinions;</li>
+<li>photos of you;</li>
+<li>financial information, such as credit card details;</li>
+<li>statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information;</li>
+<li>written or verbal contact with Kathmandu, including voice recordings of telephone conversations you have had with our employees; and</li>
+<li>activities, including but not limited to sporting and other lifestyle interests.</li>
+</ul>
+<p><a name="useinformation"></a><br>The nature of the information collected will depend on the purpose for which it is being collected.</p>
+<p>If you provide us with information about any third party, you must obtain that person’s permission to give us the information and inform them that you have given the information to us.</p>
+<h1>How does Kathmandu use your personal information?</h1>
+<p>&nbsp;We use your personal information for a variety of reasons including to:</p>
+<ul>
+<li>provide services and products to you;</li>
+<li>answer your inquiries and deliver customer service to you;</li>
+<li>to tell you about other products that we think may be of interest to you;</li>
+<li>maintain and improve customer services;</li>
+<li>administer our Summit Club program;</li>
+<li>facilitate your interaction with us on our website;</li>
+<li>consider any application for employment made by you;</li>
+<li>meet our legal obligations;</li>
+<li>manage and resolve any legal or commercial complaints and issues;</li>
+<li>carry out internal functions including training; and<a name="discloseinformation"></a></li>
+<li>conduct marketing research and analysis.</li>
+</ul>
+<p>Whilst you may opt not to provide us with your personal information, you should be aware that without this personal information, we may not be able to provide you with some of the services and/or products you are seeking.</p>
+<h1>In what circumstances will Kathmandu disclose your personal information?</h1>
+<p>In the course of conducting our business and providing our products and services to you, we may disclose your personal information.</p>
+<p>We only disclose personal information for the purposes for which it was given to us, or for purposes which are directly related to one of our functions or activities. We do not give it to anyone else unless one of the following applies:</p>
+<ul>
+<li>you have consented to the disclosure;</li>
+<li>you would reasonably expect, or have been told, that your information is passed to those individuals, bodies or agencies; or</li>
+<li>it is otherwise required or authorised by law.<a name="who"></a></li>
+</ul>
+<p><br>If we engage third party agents or contractors, we will take all reasonable steps to ensure that they do not breach privacy requirements in relation to the information, before we share your personal information with them.</p>
+<h1>Who do we disclose your personal information to?</h1>
+<p>We may disclose your personal information to:</p>
+<ul>
+<li>another Kathmandu business;</li>
+<li>professional advisers (such as lawyers or auditors);</li>
+<li>payment systems operators and financial institutions;</li>
+<li>third party agents or contractors with whom we contract in the ordinary course of business;</li>
+<li>organisations authorised by Kathmandu to conduct promotional, research or marketing activities;</li>
+<li>upon lawful request from law enforcement agencies or government authorities; and</li>
+<li>any persons acting on your behalf including those persons nominated by you, executors, trustees and legal representatives.<a name="directmarketing"></a></li>
+</ul>
+<p><br>In all circumstances where your personal information is disclosed, we will take all steps reasonable to ensure that these third parties undertake to protect your privacy.</p>
+<h1>Direct marketing</h1>
+<p>We are committed to compliance with all laws and requirements relating to the use of your personal information. We will only use or disclose your personal information for direct marketing purposes if you have provided your information for that purpose (and you would expect us to use the information for that purpose), or if you have provided consent for your information to be used in this way.</p>
+<p>From time to time, we may contact you with information about products and services offered by us and our related entities and our business partners, which we think may be of interest to you. When we contact you it may be by mail, telephone, email or SMS.</p>
+<p>We may also provide targeted marketing to you whether directly or through online advertisement networks such as those operated by Google, based on your viewing activity of our website. For more information, see “Website usage” below.</p>
+<p>Where we use or disclose your personal information for the purpose of direct marketing, we will:</p>
+<ul>
+<li>allow you to request not to receive direct marketing communications (also known as ‘opting-out’); and</li>
+<li>comply with your request to ‘opt-out’ of receiving further communications within a reasonable timeframe.</li>
+</ul>
+<p><br>You can opt out of receiving targeted advertising derived from your viewing habits by selecting from your browser’s privacy or security settings to reject, delete or block (as the case may be) the cookies or web beacons used by us in order to conduct such targeted marketing.</p>
+<p>Kathmandu will only ever contact you if you have consented to this, and you can ask to be removed from our marketing lists, at any time by contacting us directly.</p>
+<p>If you do not wish to be contacted by Kathmandu, please write to our Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.</p>
+<h1>Does Kathmandu disclose your personal information to overseas recipients?</h1>
+<p>In some circumstances, Kathmandu may disclose your personal information to overseas recipients. If this occurs, we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the relevant privacy laws in relation to that information.</p>
+<p>We share information between our businesses, located in Australia, New Zealand and the United Kingdom.</p>
+<p>Sometimes we use third party platforms and services to process sales, provide web support, send marketing messages, deliver products or otherwise deliver information. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand, the United Kingdom, Israel, China and the United States.<a name="identifiers"></a></p>
+<p>Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on Kathmandu’s behalf).<a name="datasecurity"></a></p>
+<h1>Use of Government Identifiers</h1>
+<p>Kathmandu will not use Government Identifiers, such as Medicare numbers, or a driver's licence number as its own identifier of individuals.</p>
+<h1>Data quality and Security</h1>
+<p>We will take all reasonable steps to ensure that your personal information is stored securely and is protected from misuse and loss and from unauthorised access, modification or disclosure.</p>
+<p>The personal information that we collect about you is stored on our database server managed by Kathmandu Limited in New Zealand.</p>
+<p>We have a range of systems and communication security measures, as well as the secure storage of any hard copy documents. Access to your personal information is restricted to those properly authorised to have access.</p>
+<p>Clear accountability for data sets and security sit with the Chief Information Officer and his respective Technology and Infrastructure Manager and Business Systems Manager. They ensure documentation and reviews of applications and data sets happen regularly along with regular audits on data security and roles.</p>
+<p>Kathmandu also has policies in place for data retention across all key areas. We keep your personal information for as long as it is required to provide you with the products you requested from us and to comply with legal requirements. If we no longer require your personal information for any purpose, including legal purposes, we will take reasonable steps to securely destroy or de-identify your personal information.</p>
+<p>All systems and applications are, where possible, one version behind the latest release from all vendors, and lifecycle management is a KPI of the Business Systems Manager.<a name="websiteusage"></a></p>
+<p>Kathmandu data resides across several tier three Data Centres that are PCI and ISO compliant and protected by an outsourced firewall and filtering system that is penetrated tested annually. In order to stay up to speed with changes in technology, the infrastructure team are certified and their professional development is an ongoing commitment.</p>
+<h1>Website usage</h1>
+<p>Our websites are professionally hosted and operate in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.</p>
+<p>We use Comodo and Cybersource to process online orders. Customers can see their cards being debited in real time, all in an SSL secure environment.</p>
+<p>We take website and credit card security extremely seriously, and always endeavour to provide a secure safe platform on which to conduct online transactions, all our websites use Comodo SSL. By using this, you guarantee the highest possible encryption levels for online transactions. Each certificate is signed with NIST recommended 2048 bit signatures and provides up to 256 bit encryption of customer data. This encryption scrambles details such as credit card number, billing details and delivery address so that generally, other computers are unable to decipher the information, ensuring privacy and security.</p>
+<p>To make sure you are accessing a secure server, check for the unbroken key or closed lock symbol located generally either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double check this by looking at the URL as well. If SSL is active, then the first characters of that line will read ‘https’ rather than just ‘http’. It is important for you to protect against unauthorised access to your password and to your computer.</p>
+<p>Ensure you logout when you have finished visiting our websites especially if you accessed them from a shared computer.</p>
+<p>Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by Kathmandu to improve your experience on our website. For example, if you wish to make a purchase using our online store, they will collect information about what is in your shopping cart and assist us to maintain that shopping cart during the transaction.</p>
+<p>We may also use web beacons, embedded in our website’s web pages, that work in conjunction with cookies to notify us what web pages on our website are visited by a particular IP address (including by reference to domain name), computer or device, the date and time of visit to our site, the duration of individual page views, information downloaded, hyperlinks selected and paths taken by the visitor through the site, the visitor's screen settings and other general information. That information will be collected either by us directly or by a service provider contracted for that purpose. By measuring how you interact with our website in this way, we may provide targeted marketing to you, based on your viewing activity of our website, whether directly or through online advertisement networks such as those operated by Google.</p>
+<p>If you are a registered customer or Summit Club member on our website, we will retain information about your account, including contact details, address details and, to the extent that you make orders while logged in or by reference to your Summit Club membership, the status of your orders.</p>
+<p>Any personal information that you submit to us using our website or in an email will only be used in accordance with this privacy policy.</p>
+<h1>Links to third party sites</h1>
+<p>Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.</p>
+<p>These links are provided for your convenience and do not represent Kathmandu's endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.<a name="correctpersonalinformation"></a></p>
+<p>No links may be made to this website without our prior written consent. Applications for consent must be made to our Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.</p>
+<h1>How you can access or correct your personal information</h1>
+<p>You can request access to the personal information we hold about you at any time, and we will</p>
+<p>provide you with that information unless we are prevented by law from giving it to you.</p>
+<p>If we are unable to give you access to the information you have requested, we will give you reasons for this decision when we respond to your request.</p>
+<p>You will not be charged for accessing your information, although we might have to charge the reasonable cost of processing your request, including photocopying, administration and postage. We will advise you of any fee payable before we process your request.</p>
+<p>If you believe that your personal information is not accurate, complete or up to date, please contact Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800&nbsp;066 5018, via email to <a href="mailto:privacy@kathmandu.co.nz">privacy@kathmandu.co.nz</a> or address your request to the Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.</p>
+<p>You are also able to update your personal information online by entering your Summit Club login details when visiting our website:<a name="privacycontactofficer"></a></p>
+<ul>
+<li>Australia: <a href="https://www.kathmandu.com.au/customer/account/create">https://www.kathmandu.com.au/customer/account/create</a></li>
+<li>New Zealand:&nbsp;<a href="https://www.kathmandu.co.nz/customer/account/create">https://www.kathmandu.co.nz/customer/account/create</a></li>
+<li>United Kingdom: <a href="https://www.kathmandu.co.uk/customer/account/create" target="_self">https://www.kathmandu.co.uk/customer/account/create</a></li>
+</ul>
+<h1>How you can notify us of a privacy concern or contact our Privacy Contact Officer</h1>
+<p>If you:</p>
+<ul>
+<li>have queries, concerns or complaints about the manner in which your personal information has been collected or handled by Kathmandu; or</li>
+<li>would like to request access to or correction of the personal information we hold about you;</li>
+</ul>
+<p><strong><br>please write to</strong>:</p>
+<p>Privacy Contact Officer<br>Kathmandu<br>PO Box 1234<br>Christchurch 8140, New Zealand.</p>
+<p><strong>Email:</strong>&nbsp;<a href="mailto:privacy@kathmandu.co.nz">privacy@kathmandu.co.nz<br></a>If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact:&nbsp;</p>
+<p><strong>Australia<br></strong>Office of the Australian Information Commissioner on 1300 363 992 or visit their website at <a href="http://www.oaic.gov.au/">www.oaic.gov.au</a></p>
+<p><strong>New Zealand<br></strong>Privacy Commissioner (New Zealand) on 0800 803 909 or visit their website at <a href="http://www.privacy.org.nz/">www.privacy.org.nz</a></p>
+<p><strong>United Kingdom<br></strong>Information Commissioner’s Office on 0303 123 1113 or visit their website at <a href="http://www.ico.org.uk/">www.ico.org.uk</a></p></div>			</div>
 		</div>
 
 				<div id="footer">
@@ -1573,7 +1725,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 				</div>
 						</div>
 			<div class="span4">
-				<div id="store-locator">
+				<div id="store-locator" class="sprite">
 					<h2>Find your<br>nearest store</h2>
 					<form class="form-inline pull-left validation" method="post" action="/storelocator">
 						<input class="span2 validate[required]" type="text" name="location" placeholder="Postcode or suburb"><button class="btn-locate btn btn-dark pull-right" type="submit"><span>Locate</span></button>
@@ -1581,7 +1733,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 				</div>
 			</div>
 			<div class="span4 pull-right">
-				<div id="summit-club">
+				<div id="summit-club" class="sprite">
 					<a class="btn-join btn btn-dark" href="/summit-club"><span>Join now</span></a>
 				</div>
 			</div>
@@ -1592,7 +1744,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 			<div class="row-fluid">
 				<div class="span7">
 					<strong class="secured-by">Secured by</strong>
-					<a class="comodo-secure" href="http://www.comodo.com/" target="_blank">Comodo Secure</a>
+					<a class="comodo-secure sprite" href="http://www.geotrust.com/" target="_blank">Geotrust</a>
 				</div>
 				<div class="span5">
 					<div class="social">
@@ -1617,7 +1769,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 								<a href="http://pinterest.com/kathmandulive/" target="_blank"><span>Pinterest</span></a>
 							</li>
 							<li class="icon twitter">
-								<a href="http://twitter.com/kathmandu_live" target="_blank"><span>Twitter</span></a>
+								<a href="http://twitter.com/kathmanduANZ" target="_blank"><span>Twitter</span></a>
 							</li>
 						</ul>
 					</div>
@@ -1630,8 +1782,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<ul>
 <li><a title="Our Story" href="/get-to-know-us/our-story">Our Story</a></li>
 <li><a title="Design &amp; Technology" href="/get-to-know-us/design-and-technology">Design &amp; Technology</a></li>
-<li><a title="Sustainability" href="/get-to-know-us/sustainability">Sustainability</a></li>
-<li><a title="Community" href="/get-to-know-us/community">Community</a></li>
+<li><a title="Kathmandu's Corporate Responsibility" href="/get-to-know-us/corporate-responsibility" target="_self">Corporate Responsibility</a></li>
 <li><a title="Careers" href="/get-to-know-us/careers">Careers</a></li>
 <li><a title="Company News" href="/get-to-know-us/company-news">Company News</a></li>
 <li><a title="Kathmandu Holdings" href="http://www.kathmanduholdings.com" target="_blank">Investor Site</a></li>
@@ -1640,12 +1791,12 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 					<strong>Expert Advice</strong>
 					<ul>
 <li><a href="/expert-advice/videos">Videos</a></li>
-<li><a href="/expert-advice/gear-lists">Expert Advice</a></li>
+<li><a href="/expert-advice/gear-lists">Gear Lists</a></li>
 <li><a href="/expert-advice/care-instructions">Care Instructions</a></li>
-<li><a href="/expert-advice/tent-pitching-instructions">Tent Pitching</a></li>
+<li><a href="/expert-advice/tent-pitching-instructions">Tent Pitching Instructions</a></li>
 <li><a href="/expert-advice/tech-sheets">Tech Sheets</a></li>
 <li><a href="/expert-advice/size-guides">Size Guides</a></li>
-<li><a title="Expert Advice Articles" href="/expert-advice/expert-advice-articles" target="_self">Expert Advice Articles</a></li>
+<li><a title="Expert Advice Articles" href="/expert-advice/expert-advice-articles" target="_self">Tips &amp; How-To Guides</a></li>
 <li><a title="Best in Field Gear Testers" href="/expert-advice/best-in-field" target="_self">Best in Field</a></li>
 </ul>				</div>
 				<div class="footer-col">
@@ -1669,18 +1820,16 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 <li><a title="How to Shop with eVoucher Gift Cards" href="/ways-to-shop/evoucher-gift-cards" target="_self">eVoucher Gift Cards</a></li>
 <li><a title="How to Shop with Gift Cards" href="/ways-to-shop/gift-cards" target="_self">Gift Cards</a></li>
 <li><a title="Information on Corporate and Group Sales" href="/ways-to-shop/corporate-group-sales" target="_self">Corporate &amp; Group Sales</a></li>
-<li><a title="Catalogues and Brochures" href="/ways-to-shop/catalogue" target="_self">Catalogues &amp; Brochures</a></li>
 </ul>				</div>
 				<div class="footer-col">
 					<strong>Customer Service</strong>
 					<ul>
+<li><a title="Help Centre" href="/help-centre" target="_self">Help Centre</a></li>
+<li><a title="Ordering &amp; Shipping" href="/help-centre/ordering-shipping" target="_self">Ordering &amp; Shipping</a></li>
+<li><a title="Returns &amp; Exchanges" href="/help-centre/returns-exchanges" target="_self">Returns &amp; Exchanges</a></li>
+<li><a title="Summit Club Membership" href="/help-centre/summit-club-membership" target="_self">Summit Club Membership</a></li>
+<li><a title="Product Information" href="/help-centre/product-information" target="_self">Product Information</a></li>
 <li><a title="Contact Kathmandu" href="/contacts/index" target="_self">Contact Us</a></li>
-<li><a title="Kathmandu Store Locator" href="/storelocator" target="_self">Store Locator</a></li>
-<li><a title="Frequently Asked Questions" href="/customer-service/frequently-asked-questions" target="_self">FAQs</a></li>
-<li><a title="Delivery and Shipping Information" href="/customer-service/delivery-and-shipping" target="_self">Delivery &amp; Shipping</a></li>
-<li><a title="Information on Returns and Exchanges" href="/customer-service/returns-and-exchanges" target="_self">Returns &amp; Exchanges</a></li>
-<li><a title="About My Account" href="/customer-service/about-my-account" target="_self">About&nbsp;My Account</a></li>
-<li><a title="Product Safety Information" href="/customer-service/product-safety" target="_self">Product Safety</a></li>
 </ul>				</div>
 			</div>
 			<hr class="plain">
@@ -1688,7 +1837,7 @@ _gaq.push(['_setDomainName', 'kathmandu.com.au']);
 				<div class="span12">
 					<a href="/terms">Terms &amp; Conditions</a>
 					<a href="/privacy-policy">Privacy Policy</a>
-					<a href="/sitemap">Sitemap</a>
+					<a href="/sitemap.html">Sitemap</a>
 					<a href="/accessibility">Accessibility</a>
 				</div>
 			</div>
@@ -1719,20 +1868,76 @@ var k_push_vars = {
 </script>
 <div><a href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=9289936&amp;lang=en&amp;form_id=84732" target="kampyleWindow" id="kampylink" onclick="javascript:k_button.open_ff('site_code=9289936&amp;lang=en&amp;form_id=84732');return false;"></a></div>
 <input type="hidden" name="k_host_server" id="k_host_server" value="www.kampyle.com">
-<script src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu//js/libs/k_button.js" type="text/javascript"></script>
-<div id="summit-club-reminder-modal" class="jqm-content hide">
-	<div class="inner">
-		<div class="modal-title">Renew Summit Club Membership<a href="#" class="jqmClose">Close</a></div>
-		<div class="inner">
-			<div id="message"></div>
-			<div class="choices">
-				<a class="summit-club-accept btn btn-dark" href="http://www.kathmandu.com.au/summit-club-membership-renewal.html">Yes</a>
-				<a class="summit-club-reject btn btn-dark" href="#">No</a>
-			</div>
-		</div>
-	</div>
-</div>					</div>
-</div>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","f671b7e581","2946778","blZQYxNSCEFYVhJRVlccc1QVWglcFlYLSxZJUlVSTkUPV04=",0,298,new Date().getTime(),"","","","",""]);</script>
+<script src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/k_button.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+			</div>
+</div>
+<script src="http://www.kathmandu.com.au/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script><script type="text/javascript">var config = { country: 'AU', page: 'page', level: 0, symbol: '$', summit_club_card_id: '25556', category_id: 0, background_image: 'http://www.kathmandu.com.au/media/wysiwyg/backgrounds_short/ONLINE_Backgrounds_Short_2014_Winter.jpg', in_outlet: false };</script>
+<style type="text/css">
+#header-wrapper { background-image: url(http://www.kathmandu.com.au/media/wysiwyg/backgrounds_short/ONLINE_Backgrounds_Short_2014_Winter.jpg); }
+.oldie #header-wrapper { background-image: none; }
+</style>
+
+<script type="text/javascript">
+	if (typeof jQuery == "undefined") {
+		document.write(unescape('%3Cscript src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery-1.11.0.min.js" type="text/javascript"%3E%3C/script%3E'));
+	}
+</script><script src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery-1.11.0.min.js" type="text/javascript"></script>
+<!--[if lte IE 7]>
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/json2.min.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/libs/jquery.backgroundSize.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu//css/temando/autocomplete.css" media="all">
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/temando/autocomplete.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/temando/avs.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/temando/custom.js"></script>
+<script type="text/javascript" src="http://www.kathmandu.com.au/skin/frontend/enterprise/kathmandu/js/kathmandu_v04.js?v=1.9"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    jQuery(function($) {
+		$('form').each(function() {
+			var action = $(this).attr('action');
+			if (action && action.match('contacts/index/post')) {
+				$(this).append($('<input />')
+					.attr({
+						'type': 'hidden',
+						'name': 'hdu_seed'
+					})
+					.val('2762f3e23feab814265af686031f4f03')
+				);
+			}
+		});
+	});
+    //]]>
+</script>
+<!-- Qualaroo for kathmandu -->
+<script type="text/javascript">
+	var _kiq = _kiq || [];
+	(function(){
+	setTimeout(function()
+	{ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//s3.amazonaws.com/ki.js/41529/bxu.js'; f.parentNode.insertBefore(s, f); }
+	, 1);
+	})();
+</script>
+<!-- END Qualaroo for kathmandu -->
+
+
+<!-- Clearance Product information icon -->
+<script type="text/javascript">
+  if ($('.Clearance').length) {
+    $('#clearanceInfo').show();
+  }
+</script>
+<!-- END Clearance Product information icon -->
+
+
+ 
+<script type="text/javascript">
+	var searchForm = jQuery('#SliSearchProductForm');
+		jQuery.cookie("username", null, {path: "/", domain: ""});
+	</script>
+<script type="text/javascript" src="//kathmanduau.resultspage.com/rac/sli-rac.config.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"f671b7e581","applicationID":"2946778","transactionName":"blZQYxNSCEFYVhJRVlccc1QVWglcFlYLSxZJUlVSTkUPV04=","queueTime":0,"applicationTime":310,"atts":"QhFTFVtIG08=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
