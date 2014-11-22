@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancountrytodaymedianetwork.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609174857id_/http%3A//indiancountrytodaymedianetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancountrytodaymedianetwork.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173028id_/http%3A//indiancountrytodaymedianetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ICTMN.com
 
@@ -14,9 +14,9 @@ You can visit and browse Indian Country Today Media Network.com without revealin
 
  _Registration_ – When you register on Indian Country Today Media Network.com,, you provide us with certain personally identifiable information, including your name, email address, postal address, and telephone number.  You also provide us with personally identifiable information when you register for the Social Network on Indian Country Today Media Network.com.
 
- _Newsletters_ – If you want to receive our newsletter, you will be asked to provide certain information so that we can fulfill your request.  We may ask you for certain personally identifiable information which includes, without limitation, your name, email address, postal address, telephone number, and areas of interest.
+ _Newsletters_ – When you register on Indian Country Today Media Network, you will automatically begin receiving our newsletter.  At certain times, we ask for additional personally identifiable information which includes, without limitation, your name, email address, postal address, telephone number, and areas of interest. If at any time you wish to stop receiving our newsletter, you may opt out by sending an email containing your request to customerservice@ictmn.com.  For additional information about how we collect and use the personally identifiable information of our Newsletter readers, please visit our eNewsletter privacy policy at <http://indiancountrytodaymedianetwork.com/enewsprivacy>
 
- _Transactional Information –_ We may retain the details of transactions or payments you make on Indian Country Today Media Network.com.  For more information on payments and security, see the section of this Privacy Policy titled “Security.”
+_Transactional Information –_ We may retain the details of transactions or payments you make on Indian Country Today Media Network.com.  For more information on payments and security, see the section of this Privacy Policy titled “Security.”
 
  _Site activity information_ –We keep track of some of the actions you take on Indian Country Today Media Network.com, such as adding connections (including joining a group or adding a friend) and creating a photo album. In some cases you are also taking an action when you provide information or content to us. For example, if you share a video, in addition to storing the actual content you uploaded, we might log the fact that you shared it.
 
@@ -28,9 +28,7 @@ Certain downloadable software applications and applets that we offer, such as ou
 
 When you visit Indian Country Today Media Network.com, like when you visit most other websites, certain anonymous information about your visit is automatically logged, includingthe server name, browser type and IP address through which you access the internet, the date and time you access our site, the pages you access while at Indian Country Today Media Network.com, and the internet address of the website, if any, from which you linked directly to Indian Country Today Media Network.com, which we sometimes aggregate with similar information from other customers to help improve or promote our service. 
 
- _“Cookies”_ \--  A cookie is a small piece of data stored on the user’s computer tied to information about the user.  We use session ID cookies and persistent cookies. A session ID cookie terminates when you close your browser.  A persistent cookie is stored for an extended period of time.  Cookies allow us to recognize your computer while you are on Indian Country Today Media Network.com and when you return to Indian Country Today Media Network.com and help customize your online experience and make it more convenient for you.  Cookies are also useful in tracking transaction histories and preserving information between sessions.  The information collected from cookies may also be used to improve the functionality of Indian Country Today Media Network.com.
-
-Most web browser applications (such as Google Chrome and Firefox) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, you may not be able to use certain personalized functions of this website.
+ _“Cookies”_ \--  A cookie is a small piece of data stored on the user’s computer tied to information about the user.  We use session ID cookies and persistent cookies. A session ID cookie terminates when you close your browser.  A persistent cookie is stored for an extended period of time.  Cookies allow us to recognize your computer while you are on Indian Country Today Media Network.com and when you return to Indian Country Today Media Network.com and help customize your online experience and make it more convenient for you.  Cookies are also useful in tracking transaction histories and preserving information between sessions.  The information collected from cookies may also be used to improve the functionality of Indian Country Today Media Network.com. Most web browser applications (such as Google Chrome and Firefox) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, you may not be able to use certain personalized functions of this website.
 
  _Clear GIFs (Web Beacons/Web Bugs)_ **\--** We employ a software technology called clear GIFs (sometimes called web beacons or web bugs), to learn what content users find effective.  Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users. We may tie information collected through the use of Clear GIFs to users’ personally identifiable information.
 
@@ -40,13 +38,13 @@ In addition, we use clear GIFs in our HTML-based emails to let us know which ema
 
  _Content_ – One of the reasons to use Indian Country Today Media Network.com is to share content with others. Examples include when you upload a photo, video, share a link, comment on a story, post an obituary or send someone a message. If you do not want us to store metadata associated with content you share on Indian Country Today Media Network.com (such as photos), please remove the metadata before uploading the content. We may display your user name and information from your profile (including your image if you have uploaded one) in connection with content you post.
 
- _Information from Other Sources –_ We may receive information about you from other sources, such as when you communicate with other site users, data compiled from our advertising partners, such as how you responded to an ad, or data from other social media sites.
+ _Information from Other Sources –_ We may receive information about you from other sources, such as when you communicate with other site users, data compiled from our advertising partners, such as how you responded to an ad or other sponsored content (e.g. articles), or data from other social media sites.
 
  _Location Data –_ We receive data from the computer, mobile device, or any other device you use to access Indian Country Today Media Network.com.  If you access Indian Country Today Media Network.com via a mobile device, we may receive information about your actual location through the GPS signals sent from your mobile device.
 
  **Sharing on the Indian Country Today Media Network.com**
 
-Please always consider your _Privacy Control Settings_ , which can be found on the left-hand column menu on all Profile Pages in Community, prior to sharing content or information on Indian Country Today Media Network.com.
+Please always consider your [_Privacy Controls_](http://community.indiancountrytodaymedianetwork.com/members/lmisita/ict-privacy-control/), prior to sharing content or information on Indian Country Today Media Network.com.
 
   
 
@@ -57,10 +55,10 @@ Please always consider your _Privacy Control Settings_ , which can be found on t
   * Information Visible to all Indian Country Today Media Network.com Users: Your friends, events and posts will always be visible to all Indian Country Today Media Network.com users, your groups will also be visible to all users, unless you select the “hidden group” option.
 
 
-  * Other Information: Your _Privacy Control Settings_ will also allow you to select who may see the various information you decide to provide in connection with your Indian Country Today Media Network.com profile, such as your Account Information (Birthday, Tribe), Basic Information (Sex, Relationship, Current City, etc), Your Work and Education, Your Likes and Interests and Your Contact Information.
+  * Other Information: Your [_Privacy Controls_](http://community.indiancountrytodaymedianetwork.com/members/lmisita/ict-privacy-control/) will also allow you to select who may see the various information you decide to provide in connection with your Indian Country Today Media Network.com profile, such as your Account Information (Birthday, Tribe), Basic Information (Sex, Relationship, Current City, etc), Your Work and Education, Your Likes and Interests and Your Contact Information.
 
 
-  *     * If you select “Everyone” for any of these categories (or subcategories) of information, such information will be publicly available to everyone on the internet, and not just Indian Country Today Media Network.com users or your friends.  It may also be indexed by third party search engines and may be distributed, exported and imported without restrictions regarding your privacy.  You may see such information be associated with you on other sites or on search engines. Our default setting for your information is Everyone, so if you are uncomfortable with sharing this information publicly, please customize your _Privacy Control Settings_  accordingly.
+  *     * If you select “Everyone” for any of these categories (or subcategories) of information, such information will be publicly available to everyone on the internet, and not just Indian Country Today Media Network.com users or your friends.  It may also be indexed by third party search engines and may be distributed, exported and imported without restrictions regarding your privacy.  You may see such information be associated with you on other sites or on search engines. Our default setting for your information is Everyone, so if you are uncomfortable with sharing this information publicly, please customize your [_Privacy Controls_](http://community.indiancountrytodaymedianetwork.com/members/lmisita/ict-privacy-control/) accordingly.
 
 
 
@@ -73,7 +71,7 @@ If you use a different source to share information on Indian Country Today Media
 Your information is important to us.  We use the personally identifiable information we collect through Indian Country Today Media Network.com only for such purposes described below:
 
   * Maintaining the security and integrity of our systems (e.g., helping to establish and verify the identity of users);
-  * providing services and support to users (e.g., responding to your questions, inquiries, comments and instructions, and opening, maintaining, administering and servicing users’ accounts);;improving Indian Country Today Media Network.com, including tailoring it to users’ preferences.  For example, we use cookies to serve personalized advertising to you based on the contents of the pages you view or previous interactions online; and
+  * providing services and support to users (e.g., responding to your questions, inquiries, comments and instructions, and opening, maintaining, administering and servicing users’ accounts); improving Indian Country Today Media Network.com, including tailoring it to users’ preferences.  For example, we use cookies and widgets to serve personalized advertising and other content to you based on the contents of the pages you view or previous interactions online; and
   * processing and servicing your works and other activities and sending related communications.
 
 
@@ -92,7 +90,7 @@ We will only share information we have received about you with others as set for
   * We may ask third party advertisers to display ads promoting our services.  We may ask them to deliver those ads based on the presence of a cookie, but in doing so will not share any other information with the advertiser.
   * We may disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise required by law. 
   * As our business develops, we may sell, buy, or transfer corporate assets, and in such transactions customer information may be one of the transferred business assets.  Also, in the event that Indian Country Today Media Network.com, ourselves, or substantially all of our assets are acquired, personally identifiable information may be one of the assets transferred in such acquisition.
-  * We use a third-party advertising company to serve ads when you visit our Web site. This company may collect and use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  If you would like more information about this practice and to know your choices about not having this information used by this company, please click here:  <http://www.doubleclick.net/us/corporate/privacy>
+  * We use third-party marketing companies to serve ads and other sponsored content when you visit our Web site. These companies may collect and use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements or other sponsored content to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser or a widget on our site.  If you would like more information about this practice and to know your choices about not having this information used by this company, please click here:  <http://www.doubleclick.net/us/corporate/privacy>
 
 
 
@@ -112,7 +110,7 @@ We will only share information we have received about you with others as set for
 
  **External Links**
 
-Indian Country Today Media Network.com may contain links to other websites, including those of advertisers. In addition to general links from Indian Country Today Media Network.com, the “Subscribe” tab on the navigation bar links to a site operated by Palm Coast Data LLC. Other tabs which may link to sites operated by third parties may also be included and added to improve the Indian Country Today Media Network.com user experience.  Please be aware that we are not responsible for the privacy practices or the content of other websites including those that may be linked to through the Indian Country Today Media Network.com navigation bar.  Websites that are accessible by hyperlinks from Indian Country Today Media Network.com may use Cookies [Link to "Cookies" section]. We encourage you to read the privacy policies provided by other websites before you provide personally identifiable information to them. 
+Indian Country Today Media Network.com may contain links to other websites, including those of advertisers. In addition to general links from Indian Country Today Media Network.com, the “Subscribe” tab on the navigation bar links to a site operated by Palm Coast Data LLC. Other tabs which may link to sites operated by third parties may also be included and added to improve the Indian Country Today Media Network.com user experience.  Please be aware that we are not responsible for the privacy practices or the content of other websites including those that may be linked to through the Indian Country Today Media Network.com navigation bar.  Websites that are accessible by hyperlinks from Indian Country Today Media Network.com may use Cookies . We encourage you to read the privacy policies provided by other websites before you provide personally identifiable information to them. 
 
  **Children’s Privacy**
 
@@ -146,4 +144,4 @@ We reserve the right in our sole discretion to change, modify, add or delete por
 
 In the event that you have any questions about this Privacy Policy or if you have reason to believe that we may have failed to adhere to this Privacy Policy, you may contact **Indian Country Today Media Network, LLC** at [customerservice@ictmn.com](mailto:customerservice@ictmn.com).  You may also contact **Indian Country Today Media Network, LLC** at [customerservice@ictmn.com](mailto:customerservice@ictmn.com) to request access to or correction or update of your personal information if you are registered user of this website.
 
-Revision date: October 7, 2012
+Revision date: September 19, 2014
