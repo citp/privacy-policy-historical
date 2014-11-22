@@ -1,27 +1,22 @@
-> *The following text is extracted and transformed from the runforthecure.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307002026id_/http%3A//www.runforthecure.com/site/PageServer%3Fpagename%3D2011_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runforthecure.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122131758id_/http%3A//www.cbcf.org/central/AboutUsMain/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Canadian Breast Cancer Foundation CIBC Run for the Cure - Canadian Breast Cancer Foundation CIBC Run for the Cure
+# Privacy Policy
 
-### **Privacy Policy**
+The Canadian Breast Cancer Foundation respects your privacy. We never sell, trade, or loan your information to any other organization. We will use your information only for follow-up contacts (such as our newsletters), statistical purposes, and to process and recognize your donations. We disclose your information only to our own employees and agents and only to accomplish the purposes listed above. By providing this information you consent to our collection and use of the information you provide. Please note that while providing your name and contact information is optional, tax receipts can only be issued when this information is provided. Therefore if you do not wish to be contacted by the Foundation, please check the anonymous box on the donation page, by doing so you will receive a tax receipt but there will be no further contact.   
 
-The Canadian Breast Cancer Foundation respects your privacy. We never sell, trade, or loan your information to any other organization. We will use your information only for follow-up contacts (such as our newsletters), statistical purposes, and to process and recognize your donations. We disclose your information only to our own employees and agents and only to accomplish the purpose listed above. By providing this information you consent to our collection and use of the information you provide. Please note that your name and contact information are optional. If you do not wish to be identified, please enter "Anonymous" for both the first and last name. Tax receipts cannot be issued to anonymous donors. If at any time you no longer wish to be contacted by the CBCF, please refer to the telephone listing below or email our privacy officers in one of the following locations:
 
- **Central Office:**  
-[connect@cbcf.org](mailto:connect@cbcf.org)   
-(416) 596-6773; 1-800-387-9816
+If at any time you no longer wish to be contacted by the Foundation, please contact our Privacy Officer through the following contact information:
 
-**BC/Yukon Region:**  
-[BC_YKprivacy@cbcf.org](mailto:bc_ykprivacy@cbcf.org)   
-(604) 683-2873; 1-800-561-6111
+**Alison Staples**  
+Privacy Officer
 
-**Prairies/NWT Region:**  
-[AB_NWTprivacy@cbcf.org](mailto:AB_NWTprivacy@cbcf.org)  
-(780) 452-1166; 1-866-302-2223
+Canadian Breast Cancer Foundation  
+375 University Avenue, Suite 301  
+Toronto, ON    M5G 2J5  
+Canada
 
-**Ontario Region:**  
-[ONprivacy@cbcf.org](mailto:ONprivacy@cbcf.org)   
-(416) 815-1313; 1-866-373-6313
+Toll-Free: 1-844-263-7990  
+Phone Number: 416-263-7990  
+[privacyofficer@cbcf.org](mailto:privacyofficer@cbcf.org "Email privacyofficer@cbcf.org")
 
-**Atlantic Region:**   
-[ATprivacy@cbcf.org](mailto:ATprivacy@cbcf.org)   
-(902) 422-5520; 1-866-273-2223
+View our [Privacy Policy](https://web.archive.org/central/AboutUsMain/Documents/CBCF_OP10_PrivacyPolicy.pdf "Privacy Policy")
