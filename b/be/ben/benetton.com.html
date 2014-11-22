@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the benetton.com privacy policy that was archived on 2014-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523210437id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benetton.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122120644id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
+
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W2W9KS"></script><script type="text/javascript">
 function loadScriptByCode(code, sleeptime)
 {
@@ -13,6 +14,7 @@ function loadScriptByCode(code, sleeptime)
     // Fire the loading
     setTimeout( function(){head.appendChild(script)} , sleeptime);
 }
+
 function loadScriptByUrl(url, sleeptime)
 {
     var head = document.getElementsByTagName('head')[0];
@@ -22,56 +24,83 @@ function loadScriptByUrl(url, sleeptime)
     // Fire the loading
     setTimeout( function(){head.appendChild(script)} , sleeptime);
 }
-
 </script>
 
+
+<!-- GEO IP TRACKING -->
+<script type="text/javascript" src="http://www.benetton.com/geoip/ip.php"></script>
+<!-- END OF GEO IP TRACKING -->
+
+
+<!-- patch for geoip: if maxmind fail to load, set a default geoip -->
+<script type="text/javascript">
+	
+	//for check
+	//function geoip_country_code(){return "CU"} function geoip_country_name(){return "CU"}
+
+	setTimeout( function(){
+		if( window.geoip_country_code == undefined || 
+		window.geoip_country_code == 'undefined' || 
+		window.geoip_country_code == null){
+			loadScriptByCode('function geoip_country_code(){return "A1";}function geoip_country_name(){return "Anonymous Proxy";}',5);
+		}
+		loadScriptByUrl('http://www.benetton.com/geoip/country.js', 100);
+	} , 250);
+
+
+</script>
+<!-- patch for geoip -->
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Privacy | United Colors of Benetton - International</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.benetton.com/xmlrpc.php">
-<link rel="icon" href="http://static.benetton.com/wp-content/themes/benetton13/images/benetton/favicon.ico" type="image/x-icon"> 
-<link rel="shortcut icon" href="http://static.benetton.com/wp-content/themes/benetton13/images/benetton/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://static.benetton.com/wp-content/themes/benetton14/images/benetton/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://static.benetton.com/wp-content/themes/benetton14/images/benetton/favicon.ico" type="image/x-icon">
+
+
 <link rel="alternate" type="application/rss+xml" title="United Colors of Benetton - International » Feed" href="http://www.benetton.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="United Colors of Benetton - International » Comments Feed" href="http://www.benetton.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="United Colors of Benetton - International » Privacy Comments Feed" href="http://www.benetton.com/privacy/feed/">
-<link rel="stylesheet" id="nextgen_gallery_related_images-css" href="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-css" href="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="pinboard-web-font-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic|Oswald:300,300italic,regular,italic,600,600italic&amp;subset=latin" type="text/css" media="all">
-<link rel="stylesheet" id="pinboard-css" href="http://static.benetton.com/wp-content/themes/benetton13/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelementplayer-css" href="http://static.benetton.com/wp-content/themes/benetton13/styles/mediaelementplayer.css" type="text/css" media="all">
+<link rel="stylesheet" id="nextgen_gallery_related_images-css" href="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.css?ver=4.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://static.benetton.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="pinboard-web-font-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic|Oswald:300,300italic,regular,italic,600,600italic&amp;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="pinboard-css" href="http://static.benetton.com/wp-content/themes/benetton14/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelementplayer-css" href="http://static.benetton.com/wp-content/themes/benetton14/styles/mediaelementplayer.css" type="text/css" media="all">
 
 	<!--[if lt IE 9]>
-	<script src="http://static.benetton.com/wp-content/themes/benetton13/scripts/html5.js" type="text/javascript"></script>
+	<script src="http://static.benetton.com/wp-content/themes/benetton14/scripts/html5.js" type="text/javascript"></script>
 	<![endif]-->
 <script type="text/javascript">
 /* <![CDATA[ */
 var photocrati_ajax = {"url":"http:\/\/www.benetton.com\/photocrati_ajax","wp_site_url":"http:\/\/www.benetton.com","wp_site_static_url":"http:\/\/www.benetton.com"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://static.benetton.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/persist.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/store.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ngg_store.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/scripts/ios-orientationchange-fix.js"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/scripts/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/scripts/fitvids.js"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/persist.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/store.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ngg_store.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/scripts/ios-orientationchange-fix.js"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/scripts/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/scripts/fitvids.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.14.2"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/scripts/mediaelementplayer.js"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.15.0"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/scripts/mediaelementplayer.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.benetton.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://static.benetton.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Please choose your newsletter and location" href="http://www.benetton.com/choose-your-newsletter-and-location/">
-<link rel="next" title="Newsletter" href="http://www.benetton.com/newsletter-mobile/">
-<meta name="generator" content="WordPress 3.9.1">
+<meta name="generator" content="WordPress 4.0.1">
 <link rel="shortlink" href="http://www.benetton.com/?p=375">
 <!-- <meta name="NextGEN" version="2.0.61" /> -->
 <script>
@@ -198,12 +227,12 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 		}
 																																											</style>
 
-<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[795,811] -->
-<meta name="description" content="This information describes how the personal data of users consulting the Bencom S.r.l. websites is managed and processed. This information, provided in">
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[1557,1573] -->
+<meta name="description" itemprop="description" content="This information describes how the personal data of users consulting the Bencom S.r.l. websites is managed and processed. This information, provided in">
 
 <link rel="canonical" href="http://www.benetton.com/privacy/">
 <!-- /all in one seo pack -->
-
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
 <style type="text/css">
 .vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
 </style>
@@ -224,15 +253,39 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #f5f5f5; }
 </style>
-<link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton13/css/benetton-light-1.1.css"> 
+<link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton14/css/benetton-light-1.2.css"> 
+<link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton14/css/cookie-bar.css">
+
+<link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton14/inc/shopmenu/benettonfix.css"><link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton14/inc/shopmenu/shopmenu.css"><link rel="stylesheet" href="http://static.benetton.com/wp-content/themes/benetton14/inc/shopmenu/shopmenu-query.css">	<meta property="og:site_name" content="  Privacy">
+	<meta property="og:url" content="http://www.benetton.com/privacy/">
+	<meta property="og:image" content="http://static.benetton.com/wp-content/themes/benetton14/images/benetton/defaultFbnew.jpg">
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/scripts/datalayerF.js"></script>
 
 
+<script>
+	dataLayer = [{
+		'pageTitle': 'United Colors of Benetton: clothing, accessories and the latest fashion trends', 
+		'pageCategory': 'Privacy', // categoria!
+		'pageLanguage': 'international' 
+	}];
+</script>
 
-<meta property="og:url" content="http://www.benetton.com/privacy/">
 
-</head>
+<script type="text/javascript">function geoip_country_code(){return "A1";}function geoip_country_name(){return "Anonymous Proxy";}</script><script type="text/javascript" src="http://www.benetton.com/geoip/country.js"></script></head>
 
 <body class="page page-id-375 page-template-default custom-background page-template-template-full-width-php">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W2W9KS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2W9KS');</script>
+<!-- End Google Tag Manager -->
+
+
 
 
 <div id="wrap" class="">
@@ -250,7 +303,7 @@ body.custom-background { background-color: #f5f5f5; }
            	                
 
                 <div id="top-bar-tools">
-					                                        <a href="#popup_newsletter" class="popup_newsletter"><span>NEWSLETTER</span></a>
+											<a href="#popup_newsletter" class="popup_newsletter"><span>NEWSLETTER</span></a>
                                     </div>
                 <div class="clear"></div>
             </div>
@@ -260,7 +313,7 @@ body.custom-background { background-color: #f5f5f5; }
         <div class="wrapper">
             <div id="logo">
                 <a href="http://www.benetton.com/" title="United Colors of Benetton – International" rel="home">
-                    <img src="http://static.benetton.com/wp-content/themes/benetton13/images/benetton/benettonlogo.png" alt="United Colors of Benetton – International">
+                    <img src="http://static.benetton.com/wp-content/themes/benetton14/images/benetton/benettonlogo.png" alt="United Colors of Benetton – International">
                 </a>
            </div>
            
@@ -268,7 +321,7 @@ body.custom-background { background-color: #f5f5f5; }
            	<div class="right-corner">
 			<input type="text" class="green-input" id="user_email" placeholder="Enter your e-mail">
             
-			<a href="#popup_newsletter" id="get-deals-button" class="popup_newsletter"><img src="http://static.benetton.com/wp-content/themes/benetton13/images/benetton/button-get-deals.png"></a>
+			<a href="#popup_newsletter" id="get-deals-button" class="popup_newsletter"><img src="http://static.benetton.com/wp-content/themes/benetton14/images/benetton/button-get-deals.png"></a>
 						
             </div>
            </div>
@@ -289,15 +342,14 @@ body.custom-background { background-color: #f5f5f5; }
 <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.benetton.com/kids/">KIDS</a></li>
 <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.benetton.com/undercolors/">UNDERCOLORS</a></li>
 <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.benetton.com/store-locator/">STORE LOCATOR</a></li>
-<li id="menu-item-1746" class="shop_online_link always-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-1746"><a href="#">SHOP ONLINE</a></li>
 </ul></div>
                 				<div class="clear"></div>
 			</nav><!-- #access -->
        </div>
         </div>
-		</header><!-- #header -->
-  
-
+</header><!-- #header -->
+ 
+ 
 <script>
 jQuery(document).ready(function(){
 
@@ -307,11 +359,34 @@ jQuery(document).ready(function(){
 	
 });
 
+
+
+var cookieBar = {
+	
+	c_name : 'accept_benetton_cookies',
+	
+	init : function(){
+			},
+	putBarCookie : function(){
+		var $this = this;
+		jQuery.cookie($this.c_name, "1", { path: '/', expires: 7 });
+		jQuery('div.cookie-bar').slideUp(400);
+	},
+	haveBarCookie : function(){
+		var $this = this;
+		return jQuery.cookie($this.c_name) == '1';	
+	},
+	printBar : function(){
+		jQuery('#wrap').append('<div class="cookie-bar"><div class="wrapper"><div style="float:left"><p>To guarantee a better online experience for our users United Colors of Benetton uses cookies.By continuing to navigate on our website you authorize the use of cookies. <a href="http://www.benetton.com/privacy/" class="know-more" target="_blank">For more info</a></p></div><div class="authorise"><a href="javascript:void(0);" onclick="cookieBar.putBarCookie();">AUTHORIZE <span class="close-cross"> </span></a></div></div></div>');
+	}
+	
+}
+
+
 </script>
    
 
-<div class="wrapper">
-		<div id="container" class="single-page">
+<div class="wrapper">		<div id="container" class="single-page">
 		<section id="content" class="column onecol">
 							<article class="post-375 page type-page status-publish hentry column onecol" id="post-375">
 					<div class="entry">
@@ -429,49 +504,50 @@ Any requests of this kind must be addressed to the Controller.</p>
             </div>
         </div>
 
-        <!--<div class="widget-copy">
+        <div class="widget-copy">
             <h3>CUSTOMER SERVICE</h3>
             <div class="menu-customer-service-container">
                 <select class="mobile-dropdown styled-select" onchange="goto(this.value)">
                     <option selected="selected" value="">Go to...</option>
-                    <option value="http://shop.benetton.com/it/index.php/customer/customer-service/contact-us.html">HELP</option>
-                    <option value="http://shop.benetton.com/it/index.php/customer/customer-service/faq.html">FAQ</option>
-                    <option value="http://shop.benetton.com/it/index.php/customer/customer-service/shipping.html">SHIPPING and RETURNS</option>
-                    <option value="/blog/2013/07/29/sizes/">SIZE GUIDE</option>
+                    <option value="http://shop.benetton.com/_/conditions-of-sale/">CONDITIONS OF SALE</option>
+                    <option value="http://shop.benetton.com/_/terms-of-use/">TERMS OF USE</option>
+                    <option value="http://shop.benetton.com/_/privacy/">PRIVACY</option>
+                    <option value="http://shop.benetton.com/_/cookies/">COOKIES</option>
+					<option value="http://shop.benetton.com/_/payments/">PAYMENTS</option>
+					<option value="http://shop.benetton.com/_/time-of-delivery/">TIME OF DELIVERY</option> 
+					<option value="http://shop.benetton.com/_/returns-and-refunds/">RETURNS AND REFUNDS</option> 
                 </select>
 
                 <ul id="menu-customer-service" class="menu">
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="http://shop.benetton.com/it/index.php/customer/customer-service/contact-us.html" target="_blank">HELP</a>
+                        <a href="http://shop.benetton.com/_/conditions-of-sale/" target="_blank">CONDITIONS OF SALE</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="http://shop.benetton.com/it/index.php/customer/customer-service/faq.html" target="_blank">FAQ</a>
+                        <a href="http://shop.benetton.com/_/terms-of-use/" target="_blank">TERMS OF USE</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="http://shop.benetton.com/it/index.php/customer/customer-service/shipping.html" target="_blank">SHIPPING and RETURNS</a>
+                        <a href="http://shop.benetton.com/_/privacy/" target="_blank">PRIVACY</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/blog/2013/07/29/sizes/" target="_blank">SIZE GUIDE</a>
+                        <a href="http://shop.benetton.com/_/cookies/" target="_blank">COOKIES</a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                        <a href="http://shop.benetton.com/_/payments/" target="_blank">PAYMENTS</a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                        <a href="http://shop.benetton.com/_/time-of-delivery/" target="_blank">TIME OF DELIVERY</a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                        <a href="http://shop.benetton.com/_/returns-and-refunds/" target="_blank">RETURNS AND REFUNDS</a>
                     </li>
                 </ul>
             </div>
-        </div>-->
-        
-        <div class="widget-copy">
-            <h3>DOWNLOAD APPS</h3>
-            <div class="menu-download-app-container">
-            	<a href="https://itunes.apple.com/en/app/benetton/id465046698?mt=8" target="_blank"><span id="dw-app-apple" class="dw-app"></span></a>
-            	<a href="http://appworld.blackberry.com/webstore/content/66975/?lang=en" target="_blank"><span id="dw-app-bb" class="dw-app"></span></a>
-            	<a href="https://market.android.com/details?id=com.benetton.benetton&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5iZW5ldHRvbi5iZW5ldHRvbiJd" target="_blank"><span id="dw-app-android" class="dw-app"></span></a>
-            	<a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dmobile-apps&amp;field-keywords=benetton&amp;x=0&amp;y=0" target="_blank"><span id="dw-app-4" class="dw-app"></span></a>
-            	<a href="http://apps.microsoft.com/windows/en-us/app/benetton/f4ff3a68-3d9c-48d2-96be-023485d347c8" target="_blank"><span id="dw-app-win" class="dw-app"></span></a>
-            </div>
         </div>
-
+        
         <div class="widget-copy">
             <h3>JOIN US</h3>
             <div class="menu-join-us-container">
-	            <a href="https://www.facebook.com/Benetton" target="_blank"><span id="social-icon-fb" class="social-icon"></span></a><a href="https://twitter.com/benetton" target="_blank"><span id="social-icon-tw" class="social-icon"></span></a><a href="http://pinterest.com/benetton/" target="_blank"><span id="social-icon-pt" class="social-icon"></span></a><a href="http://www.youtube.com/benetton" target="_blank"><span id="social-icon-yt" class="social-icon"></span></a><a href="http://foursquare.benetton.com/locator/" target="_blank"><span id="social-icon-fs" class="social-icon"></span></a>            </div>
+	            <a href="https://www.facebook.com/Benetton" target="_blank"><span id="social-icon-fb" class="social-icon"></span></a><a href="https://twitter.com/benetton" target="_blank"><span id="social-icon-tw" class="social-icon"></span></a><a href="http://pinterest.com/benetton/" target="_blank"><span id="social-icon-pt" class="social-icon"></span></a><a href="http://www.youtube.com/benetton" target="_blank"><span id="social-icon-yt" class="social-icon"></span></a><a href="http://foursquare.benetton.com/locator/" target="_blank"><span id="social-icon-fs" class="social-icon"></span></a><a href="http://instagram.com/benetton" target="_blank"><span id="social-icon-inst" class="social-icon"></span></a>            </div>
         </div>
 
 
@@ -490,12 +566,12 @@ Any requests of this kind must be addressed to the Controller.</p>
                 <select class="mobile-dropdown styled-select" onchange="goto(this.value)">
                     <option selected="selected" value="">Go to...</option>
                     <option value="/100x100-benetton/">100%</option>
-                    <option value="/man/">MAN</option>
-                    <option value="/woman/">WOMAN</option>
-                    <option value="/kids/">KIDS</option>
-                    <option value="/undercolors/">UNDERCOLORS</option>
-                    <!-- <option value="/official-licenses">OFFICIAL LICENSES</option> -->
-                    <option value="/store-locator/">STORE LOCATOR</option>
+                    <option value="http://shop.benetton.com/_/man.html">MAN</option>
+                    <option value="http://shop.benetton.com/_/woman.html">WOMAN</option>
+                    <option value="http://shop.benetton.com/_/kids.html">KIDS</option>
+                    <option value="http://shop.benetton.com/_/undercolors.html">UNDERCOLORS</option>
+                    <!-- <option value="/official-licenses/">OFFICIAL LICENSES</option> -->
+                    <option value="/store-locator">STORE LOCATOR</option>
                 </select>
 
                 <ul id="menu-categories" class="menu">
@@ -503,19 +579,19 @@ Any requests of this kind must be addressed to the Controller.</p>
                         <a href="/100x100-benetton/">100%</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/man/">MAN</a>
+                        <a href="http://shop.benetton.com/_/man.html">MAN</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/woman/">WOMAN</a>
+                        <a href="http://shop.benetton.com/_/woman.html">WOMAN</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/kids/">KIDS</a>
+                        <a href="http://shop.benetton.com/_/kids.html">KIDS</a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/undercolors/">UNDERCOLORS</a>
+                        <a href="http://shop.benetton.com/_/undercolors.html">UNDERCOLORS</a>
                     </li>
                    <!--  <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/official-licenses">OFFICIAL LICENSES</a>
+                        <a href="/official-licenses/">OFFICIAL LICENSES</a>
                     </li> -->
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
                         <a href="/store-locator/">STORE LOCATOR</a>
@@ -560,8 +636,7 @@ Any requests of this kind must be addressed to the Controller.</p>
                     <option selected="selected" value="">Go to...</option>
                     <option value="/100x100-benettons/video/">VIDEO GALLERY</option>
                     <option value="http://foursquare.benetton.com/locator/">FOURSQUARE MAP</option>
-                    <option value="/blog/2013/06/13/download-our-app/">ABOUT OUR APPS</option>
-                </select>
+					                </select>
                 <ul id="menu-goodies" class="menu">
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
                         <a href="/100x100-benettons/video/">VIDEO GALLERY</a>
@@ -569,10 +644,7 @@ Any requests of this kind must be addressed to the Controller.</p>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom">
                         <a href="http://foursquare.benetton.com/locator/" target="_blank">FOURSQUARE MAP</a>
                     </li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                        <a href="/blog/2013/06/13/download-our-app/">ABOUT OUR APPS</a>
-                    </li>
-                </ul>
+					                </ul>
             </div>
         </div>
 
@@ -604,101 +676,160 @@ Any requests of this kind must be addressed to the Controller.</p>
         
         <div class="wrapper">
 						<div id="copyright">
-				<p class="copyright twocol" style="width:100%;">
+				<p class="copyright twocol" style="width:100%">
 				<a href="http://www.benetton.com/privacy/">Privacy Policy</a> | <a href="http://www.benetton.com/legal-and-corporate-info/">Legal and Corporate Info</a> | VAT N. 03490770264
 				</p>
 				<div class="clear"></div>
 			</div><!-- #copyright -->
-            </div><!-- .wrapper -->
-	</div><!-- #footer -->
+            
+      
+    
+    
+    	</div><!-- .wrapper -->
+        
+
+</div><!-- #footer -->
 	
 </div><!-- #wrap -->
 
 <div id="fb-root"></div>
-<div id="popup_newsletter" style="display:none;">
-	<div id="content">
+
+
+
+<div id="pop-up-newsletter-wrapper" style="position:fixed; top:0; left:0; width:100%; height:100%; display:none; z-index:99999;">
+<div id="popup_newsletter" style="position:absolute; max-width:638px; left:50%; margin-left:-319px; height:auto;">
+	<div id="content" class="news-overlay">
 		<div style="position:relative;overflow:hidden;">
-			<img src="http://static.benetton.com/wp-content/themes/benetton13/newsletter/images/new-background-news.png"> 
-			<a href="javascript:close_popup();"><img class="close-cross" src="http://static.benetton.com/wp-content/themes/benetton13/newsletter/images/close.png"></a>
+			<img class="r-position" src="http://static.benetton.com/wp-content/themes/benetton14/newsletter/images/overlay-background-16.jpg"> 
+			<a href="javascript:close_popup();"><img class="close-cross" src="http://static.benetton.com/wp-content/themes/benetton14/newsletter/images/close_white.png"></a>
 			<div class="text-container" id="newsletter_email_form">
-				<div class="description">
-					<p class="welcome-first-line"> WELCOME TO BENETTON
-					</p><p class="welcome-t" style="font-size:22px;margin-bottom:10px;"><strong>SIGN UP FOR <br>OUR NEWSLETTER</strong></p>
-					<p class="subscribe" style="line-height:14px;font-size:12px;"> Be the first to hear about<br>fashion news and exclusive offers.<br>Stay up-to-date!</p>
+				<div class="description" style="float:left; margin-bottom: 20px;">
+					<p class="welcome-t"><strong> WELCOME TO BENETTON!</strong></p>
+					<p class="welcome-t"> SIGN UP FOR<font color="#009933"><br> OUR NEWSLETTER</font> </p>
+					<p class="welcome-t" style="font-size:14px;margin-bottom:20px"> Be the first to hear about<br>fashion news and exclusive offers.<br>Stay up-to-date!</p>
 				</div>
-					<div>
-						<div id="span_email_exists_msg" onmouseover="jQuery(this).empty();" style="position:absolute;bottom:70px;left:20px;"></div>
-						<input class="enter-address" id="user_email_nl" placeholder="Enter e-mail"> 
-						<div id="user_email_nl_info" onmouseover="this.style.display='none';" style="display: none;">Enter e-mail</div>
+				<!--<div class="list-vantaggi">
+					<p><span class="green-tick"> </span> EXCLUSIVE BENEFITS </p> 
+					<p><span class="green-tick"> </span> LATEST TRENDS </p> 
+					<p><span class="green-tick"> </span> SPECIAL OFFERS </p> 
+				
+				</div>-->
+					<div style="position:relative;">
+                    <div id="chkbox_i_agree_info" onmouseover="jQuery(this).empty();" style="position:absolute;bottom:-9px;left:0px; display:none;"></div>
+					<div id="span_email_exists_msg" onmouseover="jQuery(this).empty();" style="position:absolute;bottom:55px;left:20px;"></div>
+					<div id="user_email_nl_info" onmouseover="this.style.display='none';" style="position:absolute;bottom:40px;left:2px; display:none;">Please enter your E-Mail</div>
+					<input class="enter-address" id="user_email_nl" placeholder="Enter your e-mail"> 
 					
-						<a href="#" id="signup_button"><span class="button-ok"> <p> OK </p></span></a>
+						<a href="#" id="signup_button"><span class="button-ok"> <p> SEND </p></span></a>
 						
 					</div>	
-				<div class="p-policy"> 	
-					<a href="http://www.benetton.com/privacy" target="_blank" class="grey-link">Privacy policy</a><i> <font color="#666"> - we hate spam too </font> </i> 
-				</div>
-				
-				
+			<div class="p-policy">  
 			</div>
-			<div id="newsletter_thankyou" class="text-container" style="display:none">
-				<div class="thanks">	
-					<p class="welcome-t thankyou">THANK YOU</p>				
-					<p class="welcome-t" style="font-size:19px; font-weight:bold;"> FOR SUBSCRIBING!
+			
+			<div class="first-text-block">
+				<div class="radio-checkbox"><input type="checkbox" id="chkbox_i_agree" name="chkbox_i_agree" style="margin-bottom:0px;" value="1"></div>
+					<div class="text-confirm"><font color="#666"> I have read <a href="http://www.benetton.com/privacy" target="_blank" class="grey-link">the privacy statement</a></font></div>
+			</div>
+			
+			<div class="second-text-block">
+				<div class="autorise"> <font color="#666"> I authorize the use of my personal details solely for marketing purposes on behalf of Benetton Bencom S.r.l.</font> </div>
+				<div class="allow-not"> <form action=""> <input id="marketing_approved" type="radio" name="allow" style="margin-left:0px;" checked="checked"> I agree <input name="allow" id="marketing_not_approved" type="radio"> I disagree</form></div>
+			</div>
+		</div>
+			
+            <div id="newsletter_thankyou" class="text-container thankyou" style="display:none">
+				<div class="thanks">				
+					<p class="welcome-t thankyou">  Thanks for subscribing. </p>
+					<br><p></p>
+					<p class="welcome-t thankyou"> CTo complete registration, </p> 
+					<p class="welcome-t thankyou"> check your inbox for confirmation. </p> 
 					
-				</p></div>
+				</div>
 			</div>
-		</div>	
+			
+			<div id="newsletter_alreadyregister" class="text-container thankyou" style="display:none">
+				<div class="thanks">				
+					<p class="welcome-t thankyou">  Just a second, it appears this email</p> 
+					<p class="welcome-t thankyou"> is already registered. </p>
+					
+				</div>
+			</div>
+		</div>
+		
 	</div>
 
-</div> 
-<script src="http://static.benetton.com/wp-content/themes/benetton13/newsletter_js/jquery.cookie.js" type="text/javascript"></script>
-<script src="http://static.benetton.com/wp-content/themes/benetton13/newsletter_js/signup_overlay-1.2.js" type="text/javascript"></script>
+</div>
 
-<link href="http://static.benetton.com/wp-content/themes/benetton13/newsletter/css/style-1.1.css" rel="stylesheet" type="text/css">
-<link href="http://static.benetton.com/wp-content/themes/benetton13/fancybox/jquery.fancybox-newsletter.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/fancybox/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton13/fancybox/helpers/jquery.fancybox-media.js"></script>
+</div>			
+				
+				
+			
+ 
+<script src="http://static.benetton.com/wp-content/themes/benetton14/newsletter_js/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://static.benetton.com/wp-content/themes/benetton14/newsletter_js/signup_overlay-1.22.js" type="text/javascript"></script>
+
+<link href="http://static.benetton.com/wp-content/themes/benetton14/newsletter/css/style-1.3.css" rel="stylesheet" type="text/css">
+<link href="http://static.benetton.com/wp-content/themes/benetton14/fancybox/jquery.fancybox-newsletter.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-content/themes/benetton14/fancybox/helpers/jquery.fancybox-media.js"></script>
 
 
 
 <script type="text/javascript">
+
+var interval = null;
 jQuery(document).ready(function(){
 //init popup link
 	//jQuery('.fancybox').fancybox();
-
-
-	var interval = null;
-
+	var isiPad = navigator.userAgent.match(/iPad/i) != null;
+	
+/*
        jQuery('.popup_newsletter').fancybox({
         fitToView       : true,
         autoSize        : true,
         closeClick      : false,
         openEffect      : 'fade',
         closeEffect     : 'fade',
-        closeBtn                : false,
-                padding :0,
-                afterShow : function(current, previous){
-                                interval = setInterval(function(){jQuery.fancybox.update();} , 100);
-                        },
-                afterClose : function(){
-                                clearInterval(interval);
-                        }
+        closeBtn		: false,
+		padding :0,
+		afterShow : function(current, previous){
+				if(isiPad) { jQuery('.fancybox-inner').width('580px'); }
+				interval = setInterval(function(){jQuery.fancybox.update();} , 100);
+			},
+		afterClose : function(){
+				clearInterval(interval);
+			}
         });
+*/
+function resizePopup($popup){
+ if(jQuery(window).width() > $popup.width()) {
+  $popup.css('margin-left', (-1)*$popup.width()/2 );
+ }
+ $popup.css('top', (jQuery(window).height()/2) - $popup.height()/2 );
+}
 
 
-	jQuery('.popup_newsletter').click(function(){
-                //jQuery('#user_email_nl').val('');
-                jQuery('#span_email_exists_msg').empty();
-                jQuery('#newsletter_email_form').show();
-                jQuery('#newsletter_thankyou').hide();
-        });
+	jQuery('.popup_newsletter').click(function(ev){
+		ev.preventDefault();
+		//jQuery('#user_email_nl').val('');
+		jQuery('#span_email_exists_msg').empty();
+		jQuery('#newsletter_email_form').show();
+        jQuery('#newsletter_thankyou').hide();
+		jQuery('#newsletter_alreadyregister').hide();
+		
+		jQuery('body,html').css('overflow','hidden');
+		jQuery('#pop-up-newsletter-wrapper').fadeIn(400);
+		
+		interval = setInterval(function(){ resizePopup(jQuery('#popup_newsletter'));} , 400);
+		
+	});
 
 
-        jQuery('#user_email_nl').keyup(function(e) {
-                if(e.which == 13) {
-                        jQuery('#signup_button').click();
-                }
-        });
+	jQuery('#user_email_nl').keyup(function(e) {
+		if(e.which == 13) {
+			jQuery('#signup_button').click();
+		}
+	});
 
 
 	/*
@@ -717,34 +848,50 @@ jQuery(document).ready(function(){
 			media : {}
 		}
 	});
-
-
 });
+
+
 function close_popup(){
-jQuery.fancybox.close();
+	//jQuery.fancybox.close();
+	jQuery('body,html').css('overflow','inherit');
+	jQuery('#pop-up-newsletter-wrapper').fadeOut(400);
+	clearInterval(interval);
 }
 </script>
+	
 
 
+<script>
+// to show united dreams
 
+/*
+if (country_code=='NL'){
+	jQuery("#menu100x100 .ud_disabled").show();
+
+
+	//var slider='<li><article class=""><a href="http://ben.benetton.com/100x100-benetton/united-dreams/uniteddreams/" rel="bookmark" title="UNITED DREAMS"><img width="580" height="370" src="http://static.benetton.com/wp-content/uploads/sites/7/2014/08/united_dreams_slider.jpg" class="attachment-slider-thumb wp-post-image" alt="united_dreams_slider" /></a><h2 class="entry-title title-black"><p class="carousel-subtitle">Discover</p><a rel="bookmark" class="carousel-title" href="http://ben.benetton.com/100x100-benetton/united-dreams/uniteddreams/">UNITED DREAMS</a></h2><div class="clear"></div></article><!-- .post --></li><li><article class=""><a href="http://shop.benetton.com/_/woman/spring-summer-1.html" rel="bookmark" title="SUMMER DEALS"><img width="580" height="370" src="http://static.benetton.com/wp-content/uploads/sites/7/2014/07/SLIDER_SUMMER-DEALS.jpg" class="attachment-slider-thumb wp-post-image" alt="SLIDER_SUMMER-DEALS" /></a><h2 class="entry-title title-black"><p class="carousel-subtitle">COLLECTION </p><a rel="bookmark" class="carousel-title" href="http://shop.benetton.com/_/woman/spring-summer-1.html">SPRING SUMMER</a><div class="box_link_txt"><a href="http://shop.benetton.com/_/woman/spring-summer-1.html">SHOP NOW</a></div></h2><div class="clear"></div></article><!-- .post --></li>';
+        var slider='<li><article class=""><a href="http://ben.benetton.com/100x100-benetton/united-dreams/uniteddreams/" rel="bookmark" title="UNITED DREAMS"><img width="580" height="370" src="http://static.benetton.com/wp-content/uploads/sites/7/2014/08/united_dreams_slider.jpg" class="attachment-slider-thumb wp-post-image" alt="united_dreams_slider" /></a>		<h2 class="entry-title title-black">                             	<p class="carousel-subtitle"></p>                                	<a rel="bookmark" class="carousel-title" href="http://ben.benetton.com/100x100-benetton/united-dreams/uniteddreams/">										NEW FRAGRANCES                                    </a>                                    										<div class="box_link_txt">                                        	<a href="http://ben.benetton.com/100x100-benetton/united-dreams/uniteddreams/">DISCOVER NOW</a>                                        </div>									                                  </h2>														<div class="clear"></div>						</article><!-- .post -->					</li>';
+	jQuery("#slider .slides").html(slider);
+
+
+}
+*/
+</script>
 
 <!-- ngg_resource_manager_marker -->
 	<!--[if lt IE 9]>
-	<script src="http://static.benetton.com/wp-content/themes/benetton13/scripts/html5.js" type="text/javascript"></script>
+	<script src="http://static.benetton.com/wp-content/themes/benetton14/scripts/html5.js" type="text/javascript"></script>
 	<![endif]-->
-<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://static.benetton.com/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+
+<!-- Banners & flags -->
+<script type="text/javascript" src="http://www.benetton.com/geoip/allflags.js"></script>
+<!--<script type='text/javascript' src='http://www.benetton.com/geoip/ENlocalizer.js'></script>-->
+<!-- end of Banners and flags -->
 
 
 
-<!-- Google Tag Manager inizio codice -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W2W9KS"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W2W9KS');</script>
-<!-- Fine codice Google Tag Manager -->
+
 
 
 
@@ -753,4 +900,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 Content Delivery Network via static.benetton.com
 
- Served from: www.benetton.com @ 2014-05-19 16:04:52 by W3 Total Cache --></body></html>
+ Served from: www.benetton.com @ 2014-11-21 20:07:16 by W3 Total Cache --></body></html>
