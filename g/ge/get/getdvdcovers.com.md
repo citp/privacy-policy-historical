@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getdvdcovers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021842id_/http%3A//www.getdvdcovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdvdcovers.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122135543id_/http%3A//www.getdvdcovers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : GetDVDCovers.Com
+# Privacy Policy - GetDVDCovers.Com
 
 We here at GetDVDCovers.Com respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it.
 
