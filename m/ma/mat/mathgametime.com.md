@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathgametime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234832id_/http%3A//www.mathgametime.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgametime.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082426id_/http%3A//www.mathgametime.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Math Game Time
 
