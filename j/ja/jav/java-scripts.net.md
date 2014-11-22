@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604041729id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122053730id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
 
 # Javascripts by Java-Scripts.net: Free javascripts, tutorials, examples, and resources.
 
