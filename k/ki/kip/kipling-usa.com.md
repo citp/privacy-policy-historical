@@ -1,101 +1,121 @@
-> *The following text is extracted and transformed from the kipling-usa.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520111343id_/http%3A//www.kipling-usa.com/privacy-policy-kip/privacy-policy-kip.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipling-usa.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234618id_/http%3A//www.kipling-usa.com/privacy-policy-kip/privacy-policy-kip.html) for the most accurate reproduction.*
 
 # OUR PRIVACY POLICY
 
-Kipling Retail USA, Inc. ("Kipling") recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy informs you of how information is collected on and through Kipling-USA.com (the "Web Site") and how we use and disclose this information. Information collected on or through this Web Site may be collected by Kipling or by third-party service providers acting on our behalf. The term "we" as used in this Privacy Policy may include our third-party service providers, particularly with respect to the collection, use and storage of information. By accessing this Web Site, you agree to be bound by this Privacy Policy.
+_Last updated: September 26, 2014_
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through the Customer Service Department in connection with this Web Site. This Privacy Policy does not necessarily reflect our practices with respect to information gathered through other web sites that we operate or through off-line means.
+Kipling® recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy. 
 
-This Privacy Policy was lasted updated January 8, 2008. This Privacy Policy may be updated from time to time. Please check back periodically for further updates and changes.
+This Privacy Policy was last updated September 26, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
 
-**Please note** : The servers that make the Web Site available and that store the information that is collected on or through the Web Site are located in the United States of America ("USA"). If you are located outside the USA, please note that the information you provide will be transferred to the USA. The laws of the USA may not provide the same level of legal data protection as the country from which you access the Web Site. By using the Web Site and submitting Personal Information to us, you consent to and authorize such transfers and the use and processing by us of information as described in this Privacy Policy.
+**_WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?_**
 
-For the purposes of this Privacy Policy, "Personal Information" is personally identifiable information about an individual person including, but not limited to, a person's name, physical address, e-mail address, and telephone number, as more particularly described under applicable U.S. privacy laws.
+**Information You Provide**
 
-_**What Information About Me Is Collected and Stored?**_
+We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation.
 
-**Information You Provide:**
+You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer.  For example, you must provide certain personal information in order to place an order or to register for an account on or through this website. 
 
-We collect and store information that you provide on or through the Web Site and that you provide to our Customer Service Department in connection with your access and use of this Web Site. Though you may use portions of this Web Site without providing any Personal Information, in order to take advantage of the full capabilities of this Web Site, you will be required to provide certain Personal Information. For example, you must provide Personal Information in order to place an order or to register for an account on or through this Web Site. We may request, collect and store some or all of the following types of Personal Information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, and other similar information.
+We may request, collect and store some or all of the following types of personal information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, gender, personal interests, birthday, information about a third party you provide when we ship an order. We may also maintain a record of your product interest and purchases. 
 
-In addition, you may provide certain Personal Information about third parties on or through the Web Site. For example, you must provide us with Personal Information about a third party when you request that we ship an order to a third party or request that we send your "wish list" to a third party. The information collected regarding a third party may include that third party's name, address, phone number, fax number, e-mail address, physical address, and other similar information.
+If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Pinterest, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this to the information we have already collected from you via other interactions.
 
-If you provide Personal Information to us, including Personal Information about individuals other than yourself, you represent and warrant: (i) you have the authority to provide that Personal Information and to grant us the right to use that Personal Information consistently with this Privacy Policy, (ii) you have provided that Personal Information voluntarily, and (iii) you consent to the use of that Personal Information in the manner indicated by this Privacy Policy. If you provide a third party's e-mail address to us, you represent and warrant that you have the consent of that third party to provide his/her e-mail address to us.
+When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer.
 
-**Aggregate and Automatically Collected Information:**
+**Automatically Collected Information**
 
-We collect and store certain other non-personally identifiable information automatically whenever you interact with this Web Site. For example, we may collect your Internet Protocol (IP) address, browser information and reference site domain name when you visit this Web Site.
+We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics.
 
-**Use of Cookies/Web Beacons.** Like many other web sites, we may collect information regarding customer traffic patterns and site usage by using cookies, web beacons and related technologies. We use the information gathered from cookies, web beacons and related technologies to analyze and understand how the Web Site is used and to enhance your visits to the Web Site. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the Web Site. "Cookies" are small text files that a web site sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this Web Site. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.
+We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv)save your password so you do not have to provide it each time you visit the website.
 
-We use third-party service providers to provide Internet data hosting and to help us measure and determine how visitors use our Web Site and the effectiveness of our Web Site and promotions in order to help us improve and optimize our Web Site and the products and services we offer. Those third parties may place web beacons or pixel tags on certain pages of our Web Site or use cookies in order to facilitate collection of information regarding your use of the Web Site each time you visit the Web Site.
+"Cookies" are small text files that a website sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this website. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this website.
 
-In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the Web Site. By clicking on one of these URLs, you will automatically enter our Web Site and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
+We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers. 
 
-_**How is Information Used and Disclosed?**_
+Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information 
 
-**Personal Information:**
+[_here_](http://www.networkadvertising.org/choices/)
 
-Personal Information collected on or through this Web Site is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. When you provide your email address at checkout, we will use it to confirm your order, provide updates on your order status and to contact you about sales, special offers, new site features and other promotional communications. You may manage your preferences as described below under "Can I Indicate Whether or Not I Want To Receive Promotional Communications?"
+. Please note this does not opt you out of receiving marketing communications from us.
 
-If you request us to ship products to a third party and we are able to determine the information you provided pertains to a third party, we will use the Personal Information you provide regarding that third party only to process and ship the product to that third party and to confirm shipment. In addition, we may retain that Personal Information as reasonably necessary to appropriately document our business activities and for archival and record retention purposes. If you request us to send your "wish list" to a third party, we will use that third party's e-mail address only to send the requested e-mail.
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
 
-**Aggregate and Automatically Collected Information:**
+We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience. 
 
-Automatically collected information is used to analyze and improve this Web Site, gauge the effectiveness of our e-mail communications and your level of interest in particular areas and to provide our customers with a fulfilling shopping experience.
+**Information from Other Sources**
 
-We may aggregate and use certain automatically collected information and non-personally identifiable information for research or marketing purposes and may share, sell, rent, trade or publish that aggregate information and statistical data derived from such information with our marketing partners, advertisers or other third parties for research or marketing purposes. We do not use automatically collected information to identify a particular user.
+We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you. 
 
-We may on occasion combine information we received on or through this Web Site with information obtained from other sources and outside records to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+**_HOW IS INFORMATION USED?_**
 
-_**With Whom is Information Shared?**_
+We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance. 
 
-Except with your consent or as described in this Privacy Policy, we do not sell, rent or share with third parties any Personal Information that you provide to us on or through this Web Site or through the Customer Service Department in connection with the Web Site.
+You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled “Can I Indicate Whether or Not I Want to Receive Promotional Communications?” below.
 
-We may share Personal Information you provide to us with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating this Web Site, hosting this Web Site, providing the products and services you request through this Web Site, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose Personal Information you provide to us on or through this Web Site for any purpose other than to perform the services designated by us.
+Our blog, governed by this Privacy Policy, is managed by Us and may require you to register to post a comment. 
 
-We may share Personal Information you provide to us with a third party if we are required by law to disclose that Personal Information. For example, we may be required to disclose Personal Information to respond to a subpoena, court order or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our Web Site or as otherwise required or permitted by law. In addition, the Personal Information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Kipling or as part of a corporate reorganization, stock sale or other change of control.
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at Kipling Consumer Relations (see HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY, below).
 
-_**Children and Privacy**_
+**_WITH WHOM IS INFORMATION SHARED?_**
 
-This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided Personal Information on or through the Web Site, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
 
-_**What Steps Are Taken To Keep Personal Information Secure?**_
+We may share your personal information with other brands within the VF Corporation family of brands (including, for example, The North Face ®, Vans®, Timberland ®, Nautica ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®). 
 
-The security of your information is important to us. The Web Site employs various technical and security measures designed to help protect the Personal Information we collect about you. We have instituted security procedures and measures to protect our servers and networks that store Personal Information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information.
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
 
-In order to help protect Personal Information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Kipling or as part of a corporate reorganization, stock sale or other change of control. 
 
-_**How Can I Access, Correct and Update Personal Information?**_
+**_WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?_**
 
-You may access, correct and update certain Personal Information that you have provided to us by clicking on the "Manage Your Account" area of this Web Site and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-We reserve the right to retain any Personal Information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store Personal Information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
+**_WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?_**
 
-_**Can I Indicate Whether or Not I Want To Receive Promotional Communications?**_
+The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?" 
 
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "Manage Your Account" area of this Web Site, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of Personal Information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.
+**_HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?_**
 
-If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the Web Site.
+ You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-_**What Happens When I Link To or From Another Web Site?**_
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
 
-This Web Site may contain links to or from web sites to which this Privacy Policy does not apply ("Linked Web Sites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Web Sites or the owners or operators of those Linked Web Sites. Your use of Linked Web Sites will be governed by the terms of use, privacy policies and other terms, notices and policies set forth on or referenced in those Linked Web Sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every web site that you visit.
+**_CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?_**
 
-_**Surveys, Contests and Sweepstakes**_
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request. 
 
-We may conduct surveys and run contests or sweepstakes relating to this Web Site, either ourselves or through a third party. In the event we conduct surveys or run a contest or sweepstakes, a set of rules or terms governing the survey, contest or sweepstakes will be provided. The rules or terms for each survey, contest or sweepstakes will specify how the information gathered from you in connection with the survey, contest or sweepstakes will be used and disclosed and otherwise govern your participation in the survey, contest or sweepstakes. Please read such rules carefully before participating in or entering any survey, contest or sweepstakes relating to this Web Site or any other web site.
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
 
-_**Changes to This Privacy Policy**_
+**_WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?_**
 
-We reserve the right, in our sole discretion, to revise, change, or modify this Privacy Policy at any time. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred.
+This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
 
-_**How Can I Contact You Regarding This Privacy Policy?**_
+**_HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?_**
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
-Kipling Retail USA, Inc. 
+Attn: Kipling Consumer Relations
 
-40 W. 57th St.
+500 Nautica Way 
 
-New York, NY 10019
+Martinsville, VA 24112
+
+Phone: 866-798-0102
+
+**_WHAT IF I AM A RESIDENT OF CALIFORNIA?_**
+
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
+Kipling 
+
+Attn: Kipling Consumer Relations
+
+500 Nautica Way 
+
+Martinsville, VA 24112
+
+Phone: 866-798-0102
+
+**_WHAT IF I AM AN INTERNATIONAL USER?_**
+
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Kipling  to use and collect your personal information in accordance with this Privacy Policy.
