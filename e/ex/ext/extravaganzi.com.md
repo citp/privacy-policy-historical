@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530100112id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023421id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — eXtravaganzi
+# Privacy Policy - eXtravaganzi
 
 This Privacy Policy governs the manner in which Extravaganzi collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.extravaganzi.com](http://www.generateprivacypolicy.com/account/policies/edit/www.extravaganzi.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Extravaganzi.
 
@@ -66,4 +66,4 @@ a.arsenovic.sg@gmail.com
 
 This document was last updated on February 15, 2013
 
-(Visited 33 times, 1 visits today)
+(Visited 214 times, 1 visits today)
