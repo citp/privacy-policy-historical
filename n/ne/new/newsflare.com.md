@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040056id_/http%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122074704id_/http%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About Newsflare | Newsflare
 
@@ -22,7 +22,7 @@ This Privacy Policy describes our current policies and practices on Personal Dat
 
 Please note that by submitting Personal Data manually or in electronic form to us and/or by using our Website you give your consent that all Personal Data on each occasion that you submit may be processed by Newsflare, in the manner and for the purposes described in this Privacy Policy. 
 
-You may be accessing our Website from a computer or mobile phone device (through an iPhone application, for example) and this policy govern your use of our Website regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as [www.facebook.com/newsflare](http://www.facebook.com/newsflare) and [www.twitter.com/newsflare](https://web.archive.org/web/20140625040056id_/http%3A//www.newsflare.com/about/www.twitter.com/newsflare) ("Third Party Sites"). 
+You may be accessing our Website from a computer or mobile phone device (through an iPhone application, for example) and this policy govern your use of our Website regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as [www.facebook.com/newsflare](http://www.facebook.com/newsflare) and [www.twitter.com/newsflare](http://www.twitter.com/newsflare) ("Third Party Sites"). 
 
 ### Notification of changes to this Privacy Policy
 
