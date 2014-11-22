@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookelabs.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924054551id_/http%3A//hookelabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookelabs.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122060929id_/http%3A//hookelabs.com/privacy) for the most accurate reproduction.*
 
-# Hooke Laboratories - Privacy Policy
+# Hooke - Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
