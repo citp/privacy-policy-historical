@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxidermy.net privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423072908id_/http%3A//www.taxidermy.net/forum/index.php/topic%2C4048.msg2193247.html%23msg2193247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxidermy.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163020id_/http%3A//www.taxidermy.net/forum/index.php/topic%2C4048.msg2193247.html%23msg2193247) for the most accurate reproduction.*
 
 # Rules of the Taxidermy Net Forum
 
@@ -8,7 +8,7 @@ Taxidermy.Net Forum
 Administrator  
   
 Location: Monroe, GA USA  
-Posts: 1948
+Posts: 2030
 
 Redfish near Venice, Louisiana
 
