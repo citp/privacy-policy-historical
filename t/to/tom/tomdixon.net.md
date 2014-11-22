@@ -1,89 +1,69 @@
-> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629042733id_/http%3A//www.tomdixon.net/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122042340id_/http%3A//www.tomdixon.net/uk/privacy-policy) for the most accurate reproduction.*
 
-# Tom Dixon, Designer Lighting, Furniture, Accessories
+# Privacy Policy
 
-* * *
+Tom Dixon has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: [www.tomdixon.net](http://tomdixon.net/)
+
+Tom Dixon is the trading name and trade mark of Design Research Ltd.
+
+Any information that you provide to us will be stored and processed in accordance with the Data Protection Act 1998.
+
+We will hold and transmit your information in a safe, confidential and secure environment.
+
+We will not sell or rent your personal information to third parties except as described under the heading “your data” below or in our Privacy Policy. If you object to your Information being transferred or used in this way please do not register.
+
+## Your Data
+
+When becoming a new customer you agree to our terms and conditions and privacy policy. The information you provide shall be held and may be used by Design Research Ltd and disclosed to associated companies of Tom Dixon for the following purposes:
+
+\- Informing you about forthcoming events organized by or on behalf of Tom Dixon;
+
+\- Telling you about products, services and offers available from Tom Dixon;
+
+\- Operating and administering such products, services and offers;
+
+\- Processing of applications for, and administering membership of, this website;
+
+\- Providing you with updates and information about Tom Dixon;
+
+\- Helping Tom Dixon through analysis and assessment to better understand and develop our business, including new and innovative products and services.
+
+Tom Dixon may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.
+
+We may share your information with selected third parties including:
+
+\- Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.
+
+\- Advertisers, affiliate marketing agencies and advertising networks that require the data to select and serve relevant adverts to you and others (where you have consented to this happening).
+
+\- Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+
+\- Build and hosting services providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.
+
+\- Build and hosting service providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.
+
+Communication between Tom Dixon and you may be by letter, phone, fax and/or e-mail or other electronic means. IMPORTANT: By registering with Tom Dixon and/or using this website you consent to Tom Dixon using your data in this way.
+
+## Shopping
+
+When becoming a new customer online with Tom Dixon or purchasing goods online we record your Internet IP address for our records for reference to any fraudulent payment transactions.
+
+Opting out of Email Updates from Tom Dixon
+
+Tom Dixon will periodically send you marketing emails only if you opt-in using the sign up forms online or in the Tom Dixon showroom. If you no longer wish to receive Email updates from Tom Dixon you can unsubscribe by clicking on the link in the footer of the email or using the ‘unsubscribe from all’ link within the email preference centre accessible through the emails. Alternatively you can contact customers services on +44 (0)203 696 4950 or email [customerservice@tomdixon.net](mailto:customerservice@tomdixon.net)
+
+## New Customer Forms
+
+Our websites new customer form requires users to give us contact information (like their name, email, postal address). Contact information from this form is used to supply information about the Tom Dixon to you at a later date. Users may opt-in to receive future mailings from us via email and post. You can change these options within your profile at a later date under "my account".
 
 ## Security
 
-All Tom Dixon online purchases take place in a safe environment using the latest security technology to protect our customers.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-We encrypt your credit card information to ensure your transactions with us are private and protected as they travel over the Internet. We accept orders only from web browsers that permit communication through Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection. Most web browsers above version three support this security.
+## Data Quality/Access
 
-If you have questions regarding our credit card security policies, please call us on 0207 400 0500.
+This site gives users the following options for changing and modifying information previously provided once signed in, though the "my account" section.
 
-  
+## Contacting the Web Site
 
-
-## Privacy Policy
-
-Your privacy is important to us. We only use the information we collect about you carefully, lawfully and in accordance with the Data Protection Act 1998.
-
-Information we hold:
-
-  * If you have shopped with us we will hold your name, address, telephone number and email address.
-  * We will also hold the delivery address for future orders.
-  * If you have requested to receive our email newsletters we hold your name, address and email address. If you wish to unsubscribe please follow the unsubscribe link on the last newsletter you received from us.
-
-
-
-Information we use:
-
-  * We use the information we hold on your records for operational purposes; for example processing your order, dealing with queries, tracking deliveries.
-  * We use your email address to send out a newsletter to keep you up to date with our latest news and events if you have agreed to receive it. 
-
-  
-
-
-## Cookies
-
-'Cookies' are small text files that are stored by the browser (e.g. Internet Explorer or Safari) on your computer or mobile phone. They allow websites to store such things as user preferences. You can think of cookies as providing a "memory" for the website, enabling it to recognise a user and respond appropriately.
-
-A visit to a page on [tomdixon.net](http://www.tomdixon.net/) may generate the following types of cookie:
-
-Site performance cookies:
-
-This type of cookie remembers your preferences and previous actions, during your session on [tomdixon.net](http://www.tomdixon.net/), so you don't have to re-set them each time you visit.  
-These cookies do not gather information about you that could be used for marketing or remembering where you've been on the internet. 
-
-Anonymous analytics cookies:
-
-Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie.  
-These cookies can tell us whether or not you have visited the site before.  
-Your browser will tell us if you have these cookies, and if you don't, we generate new ones.  
-This allows us to track how many individual unique users we have, and how often they visit the site.  
-These cookies cannot be used to identify individuals, they are used for statistical purposes only. 
-
-Geotargetting cookies:
-
-These cookies are used by software which tries to work out what country you are in from information supplied by your browser when it requests a web page. This cookie is completely anonymous, and is only used to help target content to ensure you can view the products, news and events relevant to your location.
-
-Registration cookies:
-
-When you register with Tom Dixon, we generate cookies that signal whether you are signed in or not.
-
-Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username.
-
-If you have not selected ‘remember me' your cookies get deleted when you either close your browser or shut down your computer.
-
-How do I turn cookies off?:
-
-It is usually possible to stop your browser accepting cookies, or to stop it accepting cookies from a particular website. For example, we cannot tell if you are signed in without using cookies, so you would not be able to download product information or post comments.
-
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these setttings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
-
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)  
-[Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)  
-[Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)  
-[Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677). 
-
-If you have any further questions about the use of cookies on [tomdixon.net](http://www.tomdixon.net/), please email [reception@tomdixon.net](mailto:reception@tomdixon.net).
-
-  
-
-
-## Jurisdiction
-
-This website, its content and any contract brought into being as a result of using this site are governed by and construed in accordance with English Law.
-
-[Previous Page](javascript:history.back\(\); "Click to go to the previous page")
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact [customerservice@tomdixon.net](mailto:customerservice@tomdixon.net)
