@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yugiohcardguide.com privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623133550id_/http%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yugiohcardguide.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122163610id_/http%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>YuGiOhCardGuide.com Privacy Statement</title>
@@ -12,21 +12,35 @@
 <link rel="apple-touch-icon" sizes="114x114" href="http://ycg.chakra42.net/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="http://ycg.chakra42.net/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" href="http://ycg.chakra42.net/apple-touch-icon-57x57.png">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=151953171570706"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<!-- script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script -->
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=151953171570706"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
 <script src="http://ycg.chakra42.net/js/jquery.tablesorter.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://ycg.chakra42.net/inc/amazon-dd/css/msdropdown/dd.css">
+<link rel="stylesheet" type="text/css" href="http://ycg.chakra42.net/inc/amazon-dd/css/msdropdown/flags.css">
+<script src="http://ycg.chakra42.net/inc/amazon-dd/js/msdropdown/jquery.dd.min.js"></script>
+<style>
+  .ui-autocomplete-loading {
+    background: white url("/images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }
+  .ui-widget label{font-size:12px;margin-left:20px;}
+  .ui-widget input{font-size:12px;width:250px;}
+  .ui-autocomplete {font-size:12px;width:235px;}
+  .ui-menu-item {font-size:12px;width:235px;}
+</style>
+<script>
+  $(function() {
+    $( "#cards" ).autocomplete({
+      source: "/Templates/api-cards.php",
+      minLength: 3,
+      select: function( event, ui ) {
+      window.location = ui.item.id;
+      }
+    });
+  });
+</script>
 	<!-- include virtual="/inc/ads_def_sky.htm" -->
-<script type="text/javascript">
-var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node);})();
-</script>
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/3123476/YCG_Leaderboard_728x90', [728, 90], 'div-gpt-ad-1322920195702-1').addService(googletag.pubads());
-googletag.defineSlot('/3123476/YCG_Sky_160x600', [160, 600], 'div-gpt-ad-1322920195702-3').addService(googletag.pubads());
-googletag.defineSlot('/3123476/YCG_Leaderboard_Footer', [728, 90], 'div-gpt-ad-1322920195702-2').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
 	<script type="text/javascript">window.google_analytics_uacct = "UA-160737-5";</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -59,31 +73,21 @@ googletag.enableServices();
  | <a id="gn_duelist" t="dd_duelist" href="/yugioh-duelist-packs.html">Duelist Packs</a>
  | <a id="gn_promo" t="dd_promo" href="/spoilers/promos.html">Promos</a>
  | <a id="gn_reprints" t="dd_reprints" href="/yugioh-reprint-series.html">Reprint Series</a>
- | <a id="gn_archetype" t="dd_archetype" href="/yugioh-archetypes.html">Archetypes</a> 
+ | <a id="gn_archetype" t="dd_archetype" href="/yugioh-archetypes.html">Archetypes</a>
  | <a id="gn_limited" href="/limited-and-forbidden-card-list.html">Banned List</a>
  | <a id="gn_shop" t="dd_shop" href="http://astore.amazon.com/yugiohcardguide-20?node=0" target="_blank">Card Store</a>
  | <a id="gn_all" href="/card_list.html">All Yu-Gi-Oh! Cards</a>
 </nav>
 <!-- SiteSearch Google -->
 <table width="985" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr><td width="620" height="35">
-<form method="get" action="http://www.yugiohcardguide.com/search.html" target="_top" style="display:inline">
-<input type="hidden" name="client" value="pub-2965214113819332"><input type="hidden" name="forid" value="1"><input type="hidden" name="channel" value="0738660602"><input type="hidden" name="ie" value="ISO-8859-1"><input type="hidden" name="oe" value="ISO-8859-1"><input type="hidden" name="safe" value="active"><input type="hidden" name="flav" value="0000"><input type="hidden" name="sig" value="BqVntQ0MYvvf0Cv8"><input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#FFFFFF;VLC:663399;AH:center;BGC:FFFFFF;LBGC:993300;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:45;LW:468;L:http://www.scoutsongs.com/images/banner.jpg;S:http://www.scoutsongs.com;FORID:11"><input type="hidden" name="hl" value="en">
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr><td nowrap="nowrap" valign="top">&nbsp;&nbsp;<a href="http://www.google.com/"><img src="http://ycg.chakra42.net/images/Google.gif" alt="Google" width="75" height="32" border="0" align="middle"></a></td>
-	<td nowrap="nowrap">
-		<table cellspacing="0" cellpadding="0"><tbody><tr>
-		<td>&nbsp;<input type="radio" name="sitesearch" value="www.yugiohcardguide.com" style="border:0px;" checked="checked"> <span class="smaller">Yu-Gi-Oh! Card Guide</span></td>
-		<td>&nbsp;<input type="radio" name="sitesearch" value="" style="border:0px;"> <span class="smaller">Web</span></td>
-		</tr></tbody></table>
-	</td>
-	<td nowrap="nowrap"><input type="hidden" name="domains" value="www.yugiohcardguide.com">&nbsp;&nbsp;<input type="text" name="q" size="31" maxlength="255" value=""><input type="submit" name="sa" value="Search"></td>
-    </tr>
-	</tbody></table>
-</form>
+<tbody><tr><td width="520" height="35">
+    <div class="ui-widget">
+        <label for="cards">Search Cards: </label>
+        <input id="cards">
+    </div>
 </td>
 <td width="55"><g:plusone size="small"></g:plusone></td>
-<td width="320" align="right">
+<td width="420" align="right">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -99,14 +103,9 @@ googletag.enableServices();
 <table id="promo_row" width="985" border="0" cellspacing="0" cellpadding="0" bgcolor="#f0f0f0">
 <tbody><tr><td colspan="5">&nbsp;</td></tr>
 <tr style="padding-top:10px;">
-	<td width="10"></td>
-	<td width="755">
-        <!-- YCG_Leaderboard_728x90 -->
-        <div id="div-gpt-ad-1322920195702-1" style="width:728px; height:90px;">
-        <script type="text/javascript">
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1322920195702-1'); });
-        </script>
-        </div>
+<td width="10"></td>
+<td width="755">
+    <script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=131957&amp;u=chakrasites&amp;width=728&amp;height=90"></script>
 </td>
 <td width="10">&nbsp;</td>
 <td width="200" align="center"><a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;keywords=yugioh%20cards&amp;linkCode=ur2&amp;qid=1402275699&amp;rh=n%3A2522049011%2Ck%3Ayugioh%20cards&amp;rnid=2941120011&amp;tag=yugiohcardguide-20&amp;linkId=KT52Q6KCXMK2ZKPH" onclick="_gaq.push(['_trackEvent', 'Outbound Link', 'Chakra Sites', 'Amazon aStore']);" target="_blank"><img src="http://ycg.chakra42.net/images/aStore-header.png" width="200" height="90" alt="Yu-Gi-Oh! Store" border="0"></a></td>
@@ -156,25 +155,19 @@ If we decide to change our privacy policy, we will post those changes on our pri
 		<td width="200" align="center">
 
 			<div class="spacer10">&nbsp;</div>
-			<!-- YCG_Sky_160x600 -->
-<div id="div-gpt-ad-1322920195702-3" style="width:160px; height:600px;">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1322920195702-3'); });</script>
-</div>
+			<!-- include virtual="/inc/adtag-sky.htm" -->
+<script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=131958&amp;u=chakrasites&amp;width=160&amp;height=600"></script>
 			<div class="spacer10">&nbsp;</div>
 		</td>
 		<td width="10"></td>
 	</tr>
 	</tbody></table>
-		<table width="985" border="0" cellspacing="0" cellpadding="0">
+		<!-- include virtual="/inc/promo-row-ftr.htm" -->
+<table width="985" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td>
 <div class="spacer5">&nbsp;</div>
 <div align="center">
-    <!-- YCG_Leaderboard_Footer -->
-    <div id="div-gpt-ad-1322920195702-2" style="width:728px; height:90px;">
-    <script type="text/javascript">
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1322920195702-2'); });
-    </script>
-    </div>
+    <script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=270430&amp;u=chakrasites&amp;width=728&amp;height=90"></script>
 </div>
 </td></tr></tbody></table>
 		<div align="center">
@@ -210,7 +203,7 @@ $(document).ready(function() {
     // $("#shopCom").append('Get paid to shop at <a rel="nofollow" href="http://www.shop-consultant.com" onClick="_gaq.push([\'_trackEvent\', \'Outbound Link\', \'MA Sites\', \'SHOP.com\']);" target="_blank" title="Cash Back"><b>SHOP.com</b></a>');
 });
 </script>
-<!-- script src='http://Q1MediaHydraPlatform.com/ads/video/unit_desktop_slider.php?eid=12110'></script -->
+<script src="http://Q1MediaHydraPlatform.com/ads/video/unit_desktop_slider.php?eid=12110"></script>
 	</div>
 
 </body></html>
