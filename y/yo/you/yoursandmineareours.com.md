@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075515id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122191311id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yours and Mine ARE Ours
 
@@ -19,13 +19,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information
 
 Yours and Mine ARE Ours may collect and use Users personal information for the following purposes:  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
 How we protect your information
 
