@@ -1,57 +1,50 @@
-<!--The following is the downloaded HTML source of the ricochet.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625133434id_/http%3A//ricochet.com/recent-updates-to-this-agreement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ricochet.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122234615id_/http%3A//ricochet.com/recent-updates-to-this-agreement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAYHVlBADAIAUVlXBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="viewport" content="width=device-width">
-<title>Recent updates to this agreement | Ricochet</title>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://ricochet.com/xmlrpc.php">
-<!--[if lt IE 9]>
-<script src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/html5.js"></script>
-<![endif]-->
-<link rel="shortcut icon" href="http://cdn.ricochet.com/wp-content/themes/ricochet/favicon.ico">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Recent updates to this agreement | Ricochet</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://ricochet.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/html5.js"></script>
+	<![endif]-->
+	<link rel="shortcut icon" href="http://cdn.ricochet.com/wp-content/themes/ricochet/favicon.ico">
 <link rel="pingback" href="http://ricochet.com/xmlrpc.php">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.7 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://ricochet.com/recent-updates-to-this-agreement/">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://ricochet.com/recent-updates-to-this-agreement/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Recent updates to this agreement - Ricochet">
 <meta property="og:description" content="This Privacy Policy was last revised on September 15, 2011. Recent updates to this Privacy Policy Silent Cal Productions, LLC (“Ricochet,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Ricochet when you use the Ricochet Service, how the information will be…">
-<meta property="og:url" content="http://ricochet.com/recent-updates-to-this-agreement/">
+<meta property="og:url" content="https://ricochet.com/recent-updates-to-this-agreement/">
 <meta property="og:site_name" content="Ricochet">
-<meta property="article:published_time" content="2014-03-14T09:28:05+00:00">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@ricochet">
 <meta name="twitter:domain" content="Ricochet">
 <meta name="twitter:creator" content="@ricochet">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Ricochet » Feed" href="http://ricochet.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Ricochet » Comments Feed" href="http://ricochet.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Ricochet » Recent updates to this agreement Comments Feed" href="http://ricochet.com/recent-updates-to-this-agreement/feed/">
+<link rel="alternate" type="application/rss+xml" title="Ricochet » Recent updates to this agreement Comments Feed" href="https://ricochet.com/recent-updates-to-this-agreement/feed/">
 <link rel="stylesheet" id="normalize-css" href="http://cdn.ricochet.com/wp-content/themes/ricochet/css/normalize.css" type="text/css" media="all">
 <link rel="stylesheet" id="foundation-css" href="http://cdn.ricochet.com/wp-content/themes/ricochet/css/foundation.css" type="text/css" media="all">
 <link rel="stylesheet" id="fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" media="all">
 <link rel="stylesheet" id="custom-css" href="http://cdn.ricochet.com/wp-content/themes/ricochet/css/custom.css" type="text/css" media="all">
-<link rel="stylesheet" id="ricochet-css" href="http://cdn.ricochet.com/wp-content/themes/ricochet/css/ricochet.css" type="text/css" media="all">
+<link rel="stylesheet" id="ricochet-css" href="http://cdn.ricochet.com/wp-content/themes/ricochet/css/ricochet.css?v=20141121231917" type="text/css" media="all">
 <link rel="stylesheet" id="ricochet_media_css-css" href="http://cdn.ricochet.com/wp-content/plugins/ricochet-media/css/ricochet_media.css" type="text/css" media="all">
 <!--[if lte IE 8]>
 <link rel='stylesheet' id='ie8-style-css'  href='http://cdn.ricochet.com/wp-content/themes/ricochet/css/ie8.css' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="ws-plugin--s2member-css" href="http://cdn.ricochet.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&amp;qcABC=1" type="text/css" media="all">
-<link rel="stylesheet" id="ajax_read_more_all-css" href="http://cdn.ricochet.com/wp-content/plugins/ricochet-read-more/css/all.css" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/vendor/custom.modernizr.js"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<link rel="stylesheet" id="ws-plugin--s2member-css" href="http://ricochet.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&amp;qcABC=1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=016642565232849844263:vhvrt8zoycs"></script><script type="text/javascript" src="http://cdn.ricochet.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://cdn.ricochet.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/ads.js"></script>
-<script type="text/javascript" src="http://cdn.ricochet.com/wp-content/plugins/ricochet-read-more/jquery/ajax/readmore/jquery.ajax.readmore.js"></script>
-<script type="text/javascript" src="http://cdn.ricochet.com/wp-content/plugins/ricochet-read-more/ajax-read-more.js"></script>
-<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script></head>
-
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--></head>
 <body class="page page-id-58086 page-template-default recent-updates-to-this-agreement">
 <div id="top-ad">
 	<div class="row">
@@ -67,13 +60,12 @@
 		<div class="row">
 
 				<div class="medium-12  large-12 columns">
-          <div class="large-3 hide-for-medium-down columns">
+				<div class="large-3 hide-for-medium-down columns">
   					<form action="http://ricochet.com/search-results" id="searchbox_016642565232849844263:vhvrt8zoycs">
-  					<input type="hidden" name="cof" value="FORID:11">
-  					<input name="cx" type="hidden" value="016642565232849844263:vhvrt8zoycs">
-  					<input name="q" id="s" type="text" size="20" autocomplete="on" x-webkit-speech="x-webkit-speech">
+						<input type="hidden" name="cof" value="FORID:11">
+						<input name="cx" type="hidden" value="016642565232849844263:vhvrt8zoycs">
+						<input name="q" id="s" type="text" size="20" autocomplete="on" x-webkit-speech="x-webkit-speech">
   					</form>
-  					<script type="text/javascript" src="//google.com/coop/cse/brand?form=searchbox_016642565232849844263:vhvrt8zoycs"></script>
   				</div>
 					<div class="medium-10 large-7 columns">
 					<ul id="menu-top-menu">
@@ -84,7 +76,7 @@
   							<div id="join-box-interior">
     							<div class="header">Sign In</div>
     							
-		<form name="loginform" id="loginform" action="http://ricochet.com/login/?wpe-login=ricochet" method="post">
+		<form name="loginform" id="loginform" action="https://ricochet.com/login/" method="post">
 			
 			<p class="login-username">
 				<label for="user_login">Email Address</label>
@@ -101,7 +93,7 @@
 				<input type="hidden" name="redirect_to" value="http://ricochet.com/recent-updates-to-this-agreement/">
 			</p>
 			
-		</form>    							<a href="http://ricochet.com/login/?action=lostpassword" title="Lost Password">Lost Password?</a>
+		</form>    							<a href="https://ricochet.com/login/?action=lostpassword" title="Lost Password">Lost Password?</a>
     							<div class="break"></div>
     							<div id="join-info">
       							<div class="not-member">Not a Member?</div>
@@ -112,8 +104,8 @@
 											</ul>
 					</div>
 					<div class="medium-2 large-2 hide-for-small columns social-icons">
-						<a href="http://twitter.com/ricochet/" target="_blank" class="twitter social-icon"><img src="http://cdn.ricochet.com/wp-content/themes/ricochet/images/twitter.png" class="header-social-icon"></a>						<a href="https://www.facebook.com/pages/Ricochet/186019737491" target="_blank" class="facebook social-icon"><img src="http://cdn.ricochet.com/wp-content/themes/ricochet/images/facebook.png" class="header-social-icon"></a>					</div>
-				</div>	
+																	</div>
+				</div>
 		</div></nav>
 	<nav class="top-bar hide-for-medium-up small profile" data-topbar="">
 		<ul class="title-area">
@@ -136,17 +128,16 @@
 			<nav id="site-navigation" class="medium-12 large-6 hide-for-small main-navigation columns">
 				<div class="medium-4 large-3 show-for-medium-only columns">
 					<form action="http://ricochet.com/search-results" id="searchbox_016642565232849844263:vhvrt8zoycs">
-					<input type="hidden" name="cof" value="FORID:11">
-					<input name="cx" type="hidden" value="016642565232849844263:vhvrt8zoycs">
-					<input name="q" id="s" type="text" size="20" autocomplete="on" x-webkit-speech="x-webkit-speech">
+						<input type="hidden" name="cof" value="FORID:11">
+						<input name="cx" type="hidden" value="016642565232849844263:vhvrt8zoycs">
+						<input name="q" id="s" type="text" size="20" autocomplete="on" x-webkit-speech="x-webkit-speech">
 					</form>
-					<script type="text/javascript" src="//google.com/coop/cse/brand?form=searchbox_016642565232849844263:vhvrt8zoycs"></script>
 				</div>
 				<ul id="menu-main-menu" class="medium-8 large-12 columns">
 				<li id="menu-item-4167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4167"><a href="/">Home</a></li>
-<li id="menu-item-2135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2135"><a href="http://ricochet.com/my-feed/">My Feed</a></li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://ricochet.com/member-feed/">Member Feed</a></li>
-<li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2195"><a href="http://ricochet.com/podcasts/">Podcasts</a></li>
+<li id="menu-item-2135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2135"><a href="https://ricochet.com/my-feed/">My Feed</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://ricochet.com/member-feed/">Member Feed</a></li>
+<li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2195"><a href="https://ricochet.com/podcasts/">Podcasts</a></li>
 				<div class="clear"></div>
 				</ul>
 				</nav>
@@ -154,16 +145,23 @@
 	</div>
 	<nav class="top-bar hide-for-medium-up small account" data-topbar="">
   <ul class="title-area">
-    <li class="name">
-	<a href="http://twitter.com/ricochet/" target="_blank" class="twitter social-icon"><img src="http://cdn.ricochet.com/wp-content/themes/ricochet/images/twitter.png" class="header-social-icon"></a>	<a href="https://www.facebook.com/pages/Ricochet/186019737491" target="_blank" class="facebook social-icon"><img src="http://cdn.ricochet.com/wp-content/themes/ricochet/images/facebook.png" class="header-social-icon"></a></li>
+    <li class="name soc-icons">
+		</li>
+    <li class="another-srch">
+		<form action="http://ricochet.com/search-results" id="searchbox_016642565232849844263:vhvrt8zoycs">
+			<input type="hidden" name="cof" value="FORID:11">
+			<input name="cx" type="hidden" value="016642565232849844263:vhvrt8zoycs">
+			<input name="q" id="s" type="text" size="20" autocomplete="on" x-webkit-speech="x-webkit-speech">
+		</form>
+    </li>
     <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
   </ul>
   <section class="top-bar-section">
     <ul class="left">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4167"><a href="/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2135"><a href="http://ricochet.com/my-feed/">My Feed</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://ricochet.com/member-feed/">Member Feed</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2195"><a href="http://ricochet.com/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2135"><a href="https://ricochet.com/my-feed/">My Feed</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://ricochet.com/member-feed/">Member Feed</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2195"><a href="https://ricochet.com/podcasts/">Podcasts</a></li>
     <li class="divider"></li>
     </ul>
   </section>
@@ -194,7 +192,7 @@
 <p><a href="#recentupdates">Recent updates to this Privacy Policy</a></p>
 <p>Silent Cal Productions, LLC (“Ricochet,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Ricochet when you use the Ricochet Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our <a href="/terms-conditions">Terms of Use</a>.</p>
 <h3>Information We Collect</h3>
-<p><strong>User-Provided Information:</strong> You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. If you elect to use the paid aspects of the Service, we may collect and retain certain financial information in order to process your transaction.  All financial information collected hereunder shall be treated as personal information for purposes of this Privacy Policy.</p>
+<p><strong>User-Provided Information:</strong> You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. If you elect to use the paid aspects of the Service, we may collect and retain certain financial information in order to process your transaction. All financial information collected hereunder shall be treated as personal information for purposes of this Privacy Policy.</p>
 <p><strong>Cookies Information:</strong> When you visit the Service, we may send one or more cookies— a small text file containing a string of alphanumeric characters— to your computer that uniquely identifies your browser and lets Ricochet help you log in faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.</p>
 <p><strong>Log File Information:</strong> Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.</p>
 <p><strong>Clear Gifs Information:</strong> When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Ricochet account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Ricochet better for our users.</p>
@@ -203,7 +201,7 @@
 <p>By providing Ricochet your email address (including through a social network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your My Account page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.</p>
 <p>Following termination or deactivation of your Member account, Ricochet may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Ricochet may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Member account.</p>
 <p>If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person’s email address and automatically send an email invitation. Ricochet stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at privacy@ricochet.com.</p>
-<p>If you purchase a subscription to the Service which automatically renews, Ricochet reserves the right to extend the expiration date associated with the credit card you provide in order to ensure that your subscription to the Service is uninterrupted.  If you would like additional information about this practice, or if you would like to review or update any of the financial information we have on record, please click on the “Manage Subscription and Billing” button on the My Account page or <a href="mailto:support@ricochet.com">contact us</a>.</p>
+<p>If you purchase a subscription to the Service which automatically renews, Ricochet reserves the right to extend the expiration date associated with the credit card you provide in order to ensure that your subscription to the Service is uninterrupted. If you would like additional information about this practice, or if you would like to review or update any of the financial information we have on record, please click on the “Manage Subscription and Billing” button on the My Account page or <a href="mailto:support@ricochet.com">contact us</a>.</p>
 <p>Ricochet may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.</p>
 <p>Ricochet reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. Ricochet also reserves the right to remove information upon the request of any third party.</p>
 <p>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (g) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.</p>
@@ -243,20 +241,32 @@ Burlingame, CA 94010</p>
 					</main><!-- #content -->
 	</div><!-- #primary -->
 <div id="secondary" class="widget-area large-4 columns" role="complementary">
-			<div id="ricochet_start_conversation-8" class="widget widget_ricochet_start_conversation">
+			<div id="text-7" class="widget widget_text">			<div class="textwidget"><!-- Begin MailChimp Signup Form right sidebar top -->
+<div id="mc_embed_signup" style="background-color: #fff; border: 1px #d6d5d3 solid; padding:15px;">
+<img src="http://cdn.ricochet.com/wp-content/uploads/2014/10/the_daily_shot.png" alt="The Daily Shot logo">
+<form action="//ricochet.us2.list-manage.com/subscribe/post?u=74e18c106b6c198069b2b67b7&amp;id=016e75b883" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+  <div id="mc_embed_signup_scroll">
+    <h4 style="text-align:center;color:#666666;font-size:18px;padding:10px 0 10px 0;">New! Subscribe to Ricochet's Indispensable Daily Email</h4>
+    <div class="mc-field-group">
+      <label for="mce-EMAIL"><span style="display: none;">Email address</span>
+        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email address">
+      </label>
+    </div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_74e18c106b6c198069b2b67b7_016e75b883" tabindex="-1" value=""></div>
+    <div class="clear" style="text-align: center;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  </div>
+</form>
+</div>
+<!--End mc_embed_signup--></div>
+		</div><div id="ricochet_start_conversation-8" class="widget widget_ricochet_start_conversation">
 		
 		<div class="sidebar-cta">
             <a href="https://ricochet.com/membership">Join</a>
         </div>
 
 		
-        </div>		<!-- RCH_300_by_250_top -->
-	<div id="div-gpt-ad-1337271066913-1" class="sidead widget medium-6 large-12 top-ad">
-	<script type="text/javascript">
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337271066913-1'); });
-	</script>
-	</div>
-		<div id="ricochet_podcasts-3" class="widget widget_ricochet_podcasts">
+        </div><div id="ricochet_podcasts-3" class="widget widget_ricochet_podcasts">
 		<div class="sidebar-podcast-box">
 			<div class="sidebar-header">
 				<div class="sidebar-title">Ricochet</div>
@@ -267,61 +277,61 @@ Burlingame, CA 94010</p>
 			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/n2k_600x600-300x300.png"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
 					<div class="sidebar-podcast-category">Need To Know with Mona Charen and Jay Nordlinger</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/observations-fulminations/">Episode 80: Observations and Fulminations</a></div>
-					<div class="sidebar-podcast-date">Jun 23, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/observations-fulminations/">DISCUSS</a> | <a href="http://ricochet.com/series/need-to-know">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/faster-please/">Faster, Please</a></div>
+					<div class="sidebar-podcast-date">Nov 21, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/faster-please/">DISCUSS</a> | <a href="https://ricochet.com/series/need-to-know">SUBSCRIBE</a></div>
 				</div>
 			</li>
 						<li class="row sidebar-podcast-item">
 			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/rpodcast_600x600-300x300.png"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
 					<div class="sidebar-podcast-category">The Ricochet Podcast</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/murphy-kaus/">Episode 219: Murphy and Kaus</a></div>
-					<div class="sidebar-podcast-date">Jun 19, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/murphy-kaus/">DISCUSS</a> | <a href="http://ricochet.com/series/ricochet-podcast">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/news-duded/">The News Dudes</a></div>
+					<div class="sidebar-podcast-date">Nov 20, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/news-duded/">DISCUSS</a> | <a href="https://ricochet.com/series/ricochet-podcast">SUBSCRIBE</a></div>
 				</div>
 			</li>
 						<li class="row sidebar-podcast-item">
-			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/deli_600x600-300x300.png"></div>
+			<div class="small-4 medium-2 large-4 columns"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
-					<div class="sidebar-podcast-category">Radio Free Delingpole</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/doctor-will-see-now/">Episode 56: The Doctor Will See You Now</a></div>
-					<div class="sidebar-podcast-date">Jun 13, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/doctor-will-see-now/">DISCUSS</a> | <a href="http://ricochet.com/series/delingpole">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-category">Forward Observers</div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/governments-deceive-inveigle-obfuscate/">When Governments Deceive, Inveigle, Obfuscate</a></div>
+					<div class="sidebar-podcast-date">Nov 20, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/governments-deceive-inveigle-obfuscate/">DISCUSS</a> | <a href="https://ricochet.com/series/forward-observers">SUBSCRIBE</a></div>
 				</div>
 			</li>
 						<li class="row sidebar-podcast-item">
-			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/mrosenberg_750-300x300.jpg"></div>
+			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/hwx_600x600-300x300.png"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
-					<div class="sidebar-podcast-category">The Milt Rosenberg Show</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/negotiating-rogues-suckers-game/">Negotiating with "Rogues" is a Sucker's Game</a></div>
-					<div class="sidebar-podcast-date">Jun 12, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/negotiating-rogues-suckers-game/">DISCUSS</a> | <a href="http://ricochet.com/series/milt-rosenberg-show">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-category">The Hinderaker-Ward Experience</div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/brave-new-world/">Brave New World</a></div>
+					<div class="sidebar-podcast-date">Nov 19, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/brave-new-world/">DISCUSS</a> | <a href="https://ricochet.com/series/the-hinderaker-ward-experience">SUBSCRIBE</a></div>
 				</div>
 			</li>
 						<li class="row sidebar-podcast-item">
-			<div class="small-4 medium-2 large-4 columns"><img src="http://cdn.ricochet.com/wp-content/uploads/2014/03/LAW_001b_B1.png"></div>
+			<div class="small-4 medium-2 large-4 columns"><img src="http://cdn.ricochet.com/wp-content/uploads/2014/10/TnT_AlbumCover_final-2-960x960.jpg"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
-					<div class="sidebar-podcast-category">Law Talk With Epstein, Yoo, &amp; Senik</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/kick/">Episode 59: Kick It</a></div>
-					<div class="sidebar-podcast-date">Jun 10, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/kick/">DISCUSS</a> | <a href="http://ricochet.com/series/law-talk">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-category">Tracked and Targeted</div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/gop-shutdown-madness-2014s-space-oddities/">GOP Shutdown Madness and 2014's Space Oddities</a></div>
+					<div class="sidebar-podcast-date">Nov 19, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/gop-shutdown-madness-2014s-space-oddities/">DISCUSS</a> | <a href="https://ricochet.com/series/tracked-and-targeted">SUBSCRIBE</a></div>
 				</div>
 			</li>
 						<li class="row sidebar-podcast-item">
-			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/Ricochet-Member-Super-Feed_600-300x300.png"></div>
+			<div class="small-4 medium-2 large-4 columns"><img src="http://cdn.ricochet.com/wp-content/uploads/2014/03/WONK_001b1-500x500.png"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
-					<div class="sidebar-podcast-category">Ricochet Member Super Feed</div>
-					<div class="sidebar-podcast-title"><a href="http://ricochet.com/podcasts/216470/">Episode #1: In Conversation #1: Dr. Ben Carson</a></div>
-					<div class="sidebar-podcast-date">Jun 10, 2014</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/podcasts/216470/">DISCUSS</a> | <a href="http://ricochet.com/series/super-feed">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-category">American Wonk with Avik S. Roy</div>
+					<div class="sidebar-podcast-title"><a href="https://ricochet.com/podcasts/final-word-2014-first-look-2016s-presidential-race/">The Final Word on 2014 and a First Look at 2016's Presidential Race</a></div>
+					<div class="sidebar-podcast-date">Nov 17, 2014</div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/podcasts/final-word-2014-first-look-2016s-presidential-race/">DISCUSS</a> | <a href="https://ricochet.com/series/american-wonk">SUBSCRIBE</a></div>
 				</div>
 			</li>
 									<li class="row sidebar-podcast-item">
 			<div class="small-4 medium-2 large-4 columns"><img src="http://ricochet.wpengine.com/wp-content/uploads/2014/03/Ricochet-Member-Super-Feed_600-300x300.png"></div>
 				<div class="small-8 medium-10 large-8 columns sidebar-podcast-content">
 					<div class="sidebar-podcast-category">Ricochet Member Super Feed</div>
-					<div class="sidebar-podcast-links"><a href="http://ricochet.com/series/super-feed">SUBSCRIBE</a></div>
+					<div class="sidebar-podcast-links"><a href="https://ricochet.com/series/super-feed">SUBSCRIBE</a></div>
 				</div>
 			</li>
 			</ul>
@@ -333,12 +343,18 @@ Burlingame, CA 94010</p>
 
 
 
-		</div><div id="ricochet_ad_middle-2" class="widget widget_ricochet_ad_middle">				<!-- RCH_300_by_250_top -->
-	<div id="div-gpt-ad-1337270884897-1" class="sidead widget medium-6 large-12 top-ad">
+		</div><div id="ricochet_newsmax_widget-3" class="widget widget_ricochet_newsmax_widget">		<div class="newsmax-sidebar">
+		  <div id="nmWidgetContainer" data-client="1420"><script src="https://cdn.nmcdn.us/js/connectV2.js" async=""></script></div><script type="text/javascript">(function () {var e = document.createElement('script'); e.src = 'https://cdn.nmcdn.us/js/connectV2.js';e.async = true;document.getElementById('nmWidgetContainer').appendChild(e);}());window.NMClientInit = function() { NM.init({ClientID: 1420});}</script>
+		</div>
+		</div>		<!-- RCH_300_by_250_top -->
+	<div id="div-gpt-ad-1337271066913-1" class="sidead widget medium-6 large-12 top-ad">
 	<script type="text/javascript">
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337270884897-1'); });
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337271066913-1'); });
 	</script>
 	</div>
+		<div id="ricochet_amazon_search-2" class="widget widget_ricochet_amazon_search">		<div class="amazon-search-widget">
+		<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_sw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fricochet05-20%2F8002%2Fbf5f3afc-c739-4574-a74f-5b9e63919123"> </script> <noscript><A HREF="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_sw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fricochet05-20%2F8002%2Fbf5f3afc-c739-4574-a74f-5b9e63919123&Operation=NoScript">Amazon.com Widgets</A></noscript>
+		</div>
 		</div><div id="ricochet_popular-3" class="widget widget_ricochet_popular">		<div class="sidebar-podcast-box">
 			<div class="sidebar-header">
 				<div class="sidebar-title">Ricochet</div>
@@ -346,25 +362,25 @@ Burlingame, CA 94010</p>
 			</div>
 			<div class="sidebar-podcast-item">
 			<ol>
-							<li><h3><a href="http://ricochet.com/winning-the-hispanic-vote/">Winning the Hispanic Vote</a></h3>
-				<p class="small"><a href="http://ricochet.com/winning-the-hispanic-vote/">58 Comments</a></p>
+							<li><h3><a href="https://ricochet.com/ricochet-catholics/">Ricochet Catholics…</a></h3>
+				<p class="small"><a href="https://ricochet.com/ricochet-catholics/">65 Comments</a></p>
 				</li>
-								<li><h3><a href="http://ricochet.com/thecravenmembershipplan/">TheCravenMembershipPlan</a></h3>
-				<p class="small"><a href="http://ricochet.com/thecravenmembershipplan/">47 Comments</a></p>
+								<li><h3><a href="https://ricochet.com/ricochetyoutube-classical-music-repository/">Ricochet/Youtube Classical Music Repository</a></h3>
+				<p class="small"><a href="https://ricochet.com/ricochetyoutube-classical-music-repository/">58 Comments</a></p>
 				</li>
-								<li><h3><a href="http://ricochet.com/nuisance-neighborsi-mean-really/">Nuisance Neighbors…I Mean Really.</a></h3>
-				<p class="small"><a href="http://ricochet.com/nuisance-neighborsi-mean-really/">33 Comments</a></p>
+								<li><h3><a href="https://ricochet.com/fixing-divorce/">“Fixing” Divorce</a></h3>
+				<p class="small"><a href="https://ricochet.com/fixing-divorce/">57 Comments</a></p>
 				</li>
-								<li><h3><a href="http://ricochet.com/225-young-men-and-women-sworn-to-defend-the-constitution/">225 young men and women sworn to defend the Constitution</a></h3>
-				<p class="small"><a href="http://ricochet.com/225-young-men-and-women-sworn-to-defend-the-constitution/">33 Comments</a></p>
+								<li><h3><a href="https://ricochet.com/are-we-having-a-friday-night-rico-2-0-update/">Are we having a Friday night Rico 2.0 update?</a></h3>
+				<p class="small"><a href="https://ricochet.com/are-we-having-a-friday-night-rico-2-0-update/">39 Comments</a></p>
 				</li>
-								<li><h3><a href="http://ricochet.com/pride-and-pentecost/">Pride and Pentecost</a></h3>
-				<p class="small"><a href="http://ricochet.com/pride-and-pentecost/">22 Comments</a></p>
+								<li><h3><a href="https://ricochet.com/fluffy-seals-rape-murder-furry-penguins/">Fluffy Seals Rape, Murder Furry Penguins</a></h3>
+				<p class="small"><a href="https://ricochet.com/fluffy-seals-rape-murder-furry-penguins/">27 Comments</a></p>
 				</li>
 							</ol></div>
 
 		</div><div class="clear"></div>
-		</div><div id="ricochet_recommends-3" class="widget widget_ricochet_recommends">
+		</div><div id="ricochet_recommends-6" class="widget widget_ricochet_recommends">
 		<div class="sidebar-recommends-box">
 			<div class="sidebar-header">
 				<div class="sidebar-title">Ricochet</div>
@@ -372,137 +388,7 @@ Burlingame, CA 94010</p>
 			</div>
 			<div class="sidebar-podcast-item">
 				<ul class="recommended">
-				 <li><a href="http://APlebesSite.com" target="_blank">A Plebe's Site</a></li>
-<li><a href="http://abovethelaw.com" target="_blank">Above The Law</a></li>
-<li><a href="http://acculturated.com" target="_blank">Acculturated</a></li>
-<li><a href="http://advancingafreesociety.org" target="_blank">Advancing A Free Society</a></li>
-<li><a href="http://spectator.org/blog" target="_blank">AmSpec Blog</a></li>
-<li><a href="http://anncoulter.com" target="_blank">Ann Coulter</a></li>
-<li><a href="http://aldaily.com" target="_blank">Arts &amp; Letters Daily</a></li>
-<li><a href="http://biggovernment.com" target="_blank">Big Government</a></li>
-<li><a href="http://breitbart.com" target="_blank">Breitbart</a></li>
-<li><a href="http://city-journal.com" target="_blank">City Journal</a></li>
-<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html" target="_blank">David Brooks</a></li>
-<li><a href="http://www.hoover.org/publications/defining-ideas" target="_blank">Defining Ideas</a></li>
-<li><a href="http://drudgereport.com" target="_blank">Drudge Report</a></li>
-<li><a href="http://econtalk.org" target="_blank">EconTalk</a></li>
-<li><a href="http://pajamasmedia.com/eddriscoll" target="_blank">Ed Driscoll</a></li>
-<li><a href="http://ft.com/home/us" target="_blank">Financial Times</a></li>
-<li><a href="http://firstthings.com/index.php" target="_blank">First Things</a></li>
-<li><a href="http://forbes.com" target="_blank">Forbes</a></li>
-<li><a href="http://foxnews.com" target="_blank">Fox News</a></li>
-<li><a href="http://frontporchrepublic.com" target="_blank">Front Porch Republic</a></li>
-<li><a href="http://patheos.com/blogs/getreligion" target="_blank">Get Religion</a></li>
-<li><a href="http://hotair.com" target="_blank">Hot Air</a></li>
-<li><a href="http://huffingtonpost.com" target="_blank">Huffington Post</a></li>
-<li><a href="http://blogs.wsj.com/ideas-market" target="_blank">Ideas Market</a></li>
-<li><a href="http://pajamasmedia.com/instapundit" target="_blank">Instapundit</a></li>
-<li><a href="http://washingtonpost.com/blogs/right-turn" target="_blank">Jennifer Rubin</a></li>
-<li><a href="http://www.nationalreview.com/author/56454" target="_blank">Jonah Goldberg</a></li>
-<li><a href="http://lucianne.com" target="_blank">Lucianne</a></li>
-<li><a href="http://theatlantic.com/megan-mcardle" target="_blank">Megan McArdle</a></li>
-<li><a href="http://theatlantic.com/megan-mcardle" target="_blank">NYU Journal of Law And Liberty</a></li>
-<li><a href="http://ordinary-gentleman.com" target="_blank">Ordinary Gentleman</a></li>
-<li><a href="http://politico.com" target="_blank">Politico</a></li>
-<li><a href="http://www.firstthings.com/blogs/postmodernconservative/" target="_blank">Postmodern Conservative</a></li>
-<li><a href="http://powerlineblog.com" target="_blank">Power Line</a></li>
-<li><a href="http://prageruniversity.com" target="_blank">Prager University</a></li>
-<li><a href="http://reason.com/blog" target="_blank">Reason</a></li>
-<li><a href="http://redstate.com" target="_blank">Red State</a></li>
-<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/" target="_blank">Ross Douthat</a></li>
-<li><a href="http://steynonline.com" target="_blank">Steyn Online</a></li>
-<li><a href="http://amconmag.com" target="_blank">The American Conservative</a></li>
-<li><a href="http://theamericanscene.com" target="_blank">The American Scene</a></li>
-<li><a href="http://theblaze.com" target="_blank">The Blaze</a></li>
-<li><a href="http://www.nationalreview.com/corner" target="_blank">The Corner</a></li>
-<li><a href="http://thedailybeast.com" target="_blank">The Daily Beast</a></li>
-<li><a href="http://dailycaller.com" target="_blank">The Daily Caller</a></li>
-<li><a href="http://economist.com" target="_blank">The Economist</a></li>
-<li><a href="http://thefederalist.com" target="_blank">The Federalist</a></li>
-<li><a href="http://volokh.com" target="_blank">The Volokh Conspiracy</a></li>
-<li><a href="http://www.weeklystandard.com/Weblogs/TWSFP/TWSFPView.asp" target="_blank">TWS Blog</a></li>
-<li><a href="http://marginalrevolution.com" target="_blank">Tyler Cowen</a></li>
-<li><a href="http://online.wsj.com/home-page" target="_blank">Wall Street Journal</a></li>
-<li><a href="http://washingtonexaminer.com" target="_blank">Washington Examiner</a></li>
-<li><a href="http://freebeacon.com" target="_blank">Washington Free Beacon</a></li>
-<li><a href="http://washingtonpost.com" target="_blank">Washington Post</a></li>
-<li><a href="http://theyoungcons.com" target="_blank">Young Conservatives</a></li>
-				 </ul>
-			</div>
-		</div>
-		</div><div id="ricochet_amazon_search-2" class="widget widget_ricochet_amazon_search">		<div class="amazon-search-widget">
-		<script charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_sw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fricochet05-20%2F8002%2Fbf5f3afc-c739-4574-a74f-5b9e63919123"> </script> <noscript><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_sw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fricochet05-20%2F8002%2Fbf5f3afc-c739-4574-a74f-5b9e63919123&Operation=NoScript">Amazon.com Widgets</A></noscript>
-		</div>
-		</div>		<!-- RCH_300_by_250_bottom -->
-		<div id="div-gpt-ad-1337271066913-0" class="sidead widget medium-6 large-12 bottom-ad">
-		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337271066913-0'); });
-		</script>
-		</div>
-		<div id="ricochet_recommends-6" class="widget widget_ricochet_recommends">
-		<div class="sidebar-recommends-box">
-			<div class="sidebar-header">
-				<div class="sidebar-title">Ricochet</div>
-				<div class="sidebar-sub-title">Recommends</div>
-			</div>
-			<div class="sidebar-podcast-item">
-				<ul class="recommended">
-				 <li><a href="http://APlebesSite.com" target="_blank">A Plebe's Site</a></li>
-<li><a href="http://abovethelaw.com" target="_blank">Above The Law</a></li>
-<li><a href="http://acculturated.com" target="_blank">Acculturated</a></li>
-<li><a href="http://advancingafreesociety.org" target="_blank">Advancing A Free Society</a></li>
-<li><a href="http://spectator.org/blog" target="_blank">AmSpec Blog</a></li>
-<li><a href="http://anncoulter.com" target="_blank">Ann Coulter</a></li>
-<li><a href="http://aldaily.com" target="_blank">Arts &amp; Letters Daily</a></li>
-<li><a href="http://biggovernment.com" target="_blank">Big Government</a></li>
-<li><a href="http://breitbart.com" target="_blank">Breitbart</a></li>
-<li><a href="http://city-journal.com" target="_blank">City Journal</a></li>
-<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html" target="_blank">David Brooks</a></li>
-<li><a href="http://www.hoover.org/publications/defining-ideas" target="_blank">Defining Ideas</a></li>
-<li><a href="http://drudgereport.com" target="_blank">Drudge Report</a></li>
-<li><a href="http://econtalk.org" target="_blank">EconTalk</a></li>
-<li><a href="http://pajamasmedia.com/eddriscoll" target="_blank">Ed Driscoll</a></li>
-<li><a href="http://ft.com/home/us" target="_blank">Financial Times</a></li>
-<li><a href="http://firstthings.com/index.php" target="_blank">First Things</a></li>
-<li><a href="http://forbes.com" target="_blank">Forbes</a></li>
-<li><a href="http://foxnews.com" target="_blank">Fox News</a></li>
-<li><a href="http://frontporchrepublic.com" target="_blank">Front Porch Republic</a></li>
-<li><a href="http://patheos.com/blogs/getreligion" target="_blank">Get Religion</a></li>
-<li><a href="http://hotair.com" target="_blank">Hot Air</a></li>
-<li><a href="http://huffingtonpost.com" target="_blank">Huffington Post</a></li>
-<li><a href="http://blogs.wsj.com/ideas-market" target="_blank">Ideas Market</a></li>
-<li><a href="http://pajamasmedia.com/instapundit" target="_blank">Instapundit</a></li>
-<li><a href="http://washingtonpost.com/blogs/right-turn" target="_blank">Jennifer Rubin</a></li>
-<li><a href="http://www.nationalreview.com/author/56454" target="_blank">Jonah Goldberg</a></li>
-<li><a href="http://lucianne.com" target="_blank">Lucianne</a></li>
-<li><a href="http://theatlantic.com/megan-mcardle" target="_blank">Megan McArdle</a></li>
-<li><a href="http://theatlantic.com/megan-mcardle" target="_blank">NYU Journal of Law And Liberty</a></li>
-<li><a href="http://ordinary-gentleman.com" target="_blank">Ordinary Gentleman</a></li>
-<li><a href="http://politico.com" target="_blank">Politico</a></li>
-<li><a href="http://www.firstthings.com/blogs/postmodernconservative/" target="_blank">Postmodern Conservative</a></li>
-<li><a href="http://powerlineblog.com" target="_blank">Power Line</a></li>
-<li><a href="http://prageruniversity.com" target="_blank">Prager University</a></li>
-<li><a href="http://reason.com/blog" target="_blank">Reason</a></li>
-<li><a href="http://redstate.com" target="_blank">Red State</a></li>
-<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/" target="_blank">Ross Douthat</a></li>
-<li><a href="http://steynonline.com" target="_blank">Steyn Online</a></li>
-<li><a href="http://amconmag.com" target="_blank">The American Conservative</a></li>
-<li><a href="http://theamericanscene.com" target="_blank">The American Scene</a></li>
-<li><a href="http://theblaze.com" target="_blank">The Blaze</a></li>
-<li><a href="http://www.nationalreview.com/corner" target="_blank">The Corner</a></li>
-<li><a href="http://thedailybeast.com" target="_blank">The Daily Beast</a></li>
-<li><a href="http://dailycaller.com" target="_blank">The Daily Caller</a></li>
-<li><a href="http://economist.com" target="_blank">The Economist</a></li>
-<li><a href="http://thefederalist.com" target="_blank">The Federalist</a></li>
-<li><a href="http://volokh.com" target="_blank">The Volokh Conspiracy</a></li>
-<li><a href="http://www.weeklystandard.com/Weblogs/TWSFP/TWSFPView.asp" target="_blank">TWS Blog</a></li>
-<li><a href="http://marginalrevolution.com" target="_blank">Tyler Cowen</a></li>
-<li><a href="http://online.wsj.com/home-page" target="_blank">Wall Street Journal</a></li>
-<li><a href="http://washingtonexaminer.com" target="_blank">Washington Examiner</a></li>
-<li><a href="http://freebeacon.com" target="_blank">Washington Free Beacon</a></li>
-<li><a href="http://washingtonpost.com" target="_blank">Washington Post</a></li>
-<li><a href="http://theyoungcons.com" target="_blank">Young Conservatives</a></li>
-				 </ul>
+				 				 </ul>
 			</div>
 		</div>
 		</div>		</div><!-- #secondary -->	<div class="hide-for-medium-up">		<!-- RCH_300_by_250_bottom -->
@@ -514,7 +400,6 @@ Burlingame, CA 94010</p>
 		</div>
 </div>
 </section>
-
 <div id="bottom-ad">
 	<div class="row">
 	<!-- RCH_728_by_90_bottom -->
@@ -525,20 +410,19 @@ Burlingame, CA 94010</p>
 	</div>
 		</div>
 </div>
-
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="row">
 		<div class="site-info">
 			<div class="large-3 columns copyright">© 2014 Silent Cal Productions</div>
-			<div class="large-9 columns text-right footer-menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-217253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217253"><a href="http://ricochet.com/report-bug/">Help</a></li>
-<li id="menu-item-217400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217400"><a href="http://ricochet.com/report-bug/">Report A Bug</a></li>
-<li id="menu-item-58212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58212"><a href="http://ricochet.com/about/">About</a></li>
-<li id="menu-item-127697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127697"><a href="http://ricochet.com/archives/">Archives</a></li>
-<li id="menu-item-58220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58220"><a href="http://ricochet.com/contact-us/">Contact</a></li>
-<li id="menu-item-58218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58218"><a href="http://ricochet.com/faq/">FAQ</a></li>
-<li id="menu-item-58219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58219"><a href="http://ricochet.com/code-conduct/">Code of Conduct</a></li>
-<li id="menu-item-58237" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-58086 current_page_item menu-item-58237 active"><a href="http://ricochet.com/recent-updates-to-this-agreement/">Privacy</a></li>
-<li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="http://ricochet.com/terms-conditions/">Terms &amp; Conditions</a></li>
+			<div class="large-9 columns text-right footer-menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-217253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217253"><a href="https://ricochet.com/report-bug/">Help</a></li>
+<li id="menu-item-217400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217400"><a href="https://ricochet.com/report-bug/">Report A Bug</a></li>
+<li id="menu-item-58212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58212"><a href="https://ricochet.com/about/">About</a></li>
+<li id="menu-item-127697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127697"><a href="https://ricochet.com/archives/">Archives</a></li>
+<li id="menu-item-58220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58220"><a href="https://ricochet.com/contact-us/">Contact</a></li>
+<li id="menu-item-58218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58218"><a href="https://ricochet.com/faq/">FAQ</a></li>
+<li id="menu-item-58219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58219"><a href="https://ricochet.com/code-conduct/">Code of Conduct</a></li>
+<li id="menu-item-58237" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-58086 current_page_item menu-item-58237 active"><a href="https://ricochet.com/recent-updates-to-this-agreement/">Privacy</a></li>
+<li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="https://ricochet.com/terms-conditions/">Terms &amp; Conditions</a></li>
 <li id="menu-item-4110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4110"><a href="http://www.zazzle.com/ricochetstore">Store</a></li>
 </ul></div></div>
 		</div><!-- .site-info -->
@@ -548,7 +432,7 @@ Burlingame, CA 94010</p>
 							<div id="join-box-interior">
 							<div class="header">Sign In</div>
 							
-		<form name="loginform" id="loginform" action="http://ricochet.com/login/?wpe-login=ricochet" method="post">
+		<form name="loginform" id="loginform" action="https://ricochet.com/login/" method="post">
 			
 			<p class="login-username">
 				<label for="user_login">Username</label>
@@ -576,7 +460,7 @@ Burlingame, CA 94010</p>
 	<div id="join-box-interior">
 			<div class="header">Sign In</div>
 				
-		<form name="loginform" id="loginform" action="http://ricochet.com/login/?wpe-login=ricochet" method="post">
+		<form name="loginform" id="loginform" action="https://ricochet.com/login/" method="post">
 			
 			<p class="login-username">
 				<label for="user_login">Email Address</label>
@@ -593,7 +477,7 @@ Burlingame, CA 94010</p>
 				<input type="hidden" name="redirect_to" value="http://ricochet.com/recent-updates-to-this-agreement/">
 			</p>
 			
-		</form>				<a href="http://ricochet.com/login/?action=lostpassword" title="Lost Password">Lost Password?</a>
+		</form>				<a href="https://ricochet.com/login/?action=lostpassword" title="Lost Password">Lost Password?</a>
 				<div class="break"></div>
 				<div id="join-info">
 				<div class="not-member">Not a Member?</div>
@@ -601,9 +485,20 @@ Burlingame, CA 94010</p>
 				</div>
 			</div>
 </div>
-<script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/foundation.min.js"></script>
+<script>
+(function() {
+	var cx = '016642565232849844263:vhvrt8zoycs';
+	var gcse = document.createElement('script');
+	gcse.type = 'text/javascript';
+	gcse.async = true;
+	gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		'//www.google.com/cse/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(gcse, s);
+})();
+</script><script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/foundation.min.js"></script>
 <script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/footer.js"></script>
 <script type="text/javascript" src="http://cdn.ricochet.com/wp-content/themes/ricochet/js/jquery.scrollTo-min.js"></script>
-<script type="text/javascript" src="http://cdn.ricochet.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"71a830b76e","applicationID":"4105851","transactionName":"M1dWZEtWXxdXV0AMWgoddVNNXl4KGURVAlA=","queueTime":0,"applicationTime":1675,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript" src="http://ricochet.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1"></script>
+
+</body></html>
