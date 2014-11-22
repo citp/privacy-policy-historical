@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtbproject.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509071558id_/http%3A//www.mtbproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbproject.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031904id_/http%3A//www.mtbproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MTB Project
 
