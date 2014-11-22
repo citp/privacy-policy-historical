@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530214132id_/http%3A//www.national.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000237id_/http%3A//www.national.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | National American University
+# Privacy Statement | Online Degrees | NAU
 
 ******Introduction**  
 National American University recognizes the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance and protection of personal information that you provide to us through this website.
