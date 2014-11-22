@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dev-metal.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517021323id_/http%3A//www.dev-metal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev-metal.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141335id_/http%3A//www.dev-metal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dev Metal
-
-**0** Flares Twitter 0 Facebook 0 Reddit 0 Google+ 0 StumbleUpon 0 Buffer 0 Email \-- Filament.io **0** Flares ×
 
 **What information do we collect?**
 
