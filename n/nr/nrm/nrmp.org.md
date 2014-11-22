@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515114600id_/http%3A//www.nrmp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221100id_/http%3A//www.nrmp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Match
 
@@ -54,7 +54,7 @@ To learn more about protecting your personal information online, read 7 Practice
 
 ### How to Contact Us About This Policy
 
-If you have any questions, comments, requests, or concerns related to this Privacy Notice, please contact the **_NRMP_** at gro.pmrnnull@troppus or at:
+If you have any questions, comments, requests, or concerns related to this Privacy Notice, please contact the **_NRMP_** at support@nullnrmp.org or at:
 
 National Resident Matching Program  
 2121 K Street, NW  
