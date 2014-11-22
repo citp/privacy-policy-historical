@@ -1,47 +1,81 @@
-<!--The following is the downloaded HTML source of the loveknitting.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622123732id_/http%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loveknitting.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122080907id_/http%3A//www.loveknitting.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=512399348851471"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcAUlNUGwEHUFdUAAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<title>Privacy Policy</title>
-<meta name="description" content="Get knitting yarns, patterns, needles, books, buttons and accessories from all of your favourite brands. Fast delivery, excellent service.">
-<meta name="keywords" content="knitting, loveknitting, knitting yarn, knitting needles, knitting books, knitting patterns">
+<!DOCTYPE html><html lang="en" class=" js"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZ4LFT"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcAUlNUGwEHUFdUAAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://d38miat2jv0owc.cloudfront.net/media/favicon/default/favicon_3.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://d38miat2jv0owc.cloudfront.net/media/favicon/default/favicon_3.ico" type="image/x-icon">
+<link rel="icon" href="http://d29jb0i7owgqur.cloudfront.net/media/favicon/default/favicon_3.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://d29jb0i7owgqur.cloudfront.net/media/favicon/default/favicon_3.ico" type="image/x-icon">
+
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+
+<script>
+document.getElementsByTagName("html")[0].className += ' js';
+</script>
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.loveknitting.com/js/blank.html';
-    var BLANK_IMG = 'http://www.loveknitting.com/js/spacer.gif';
+    var BLANK_URL = 'http://dybz692aa31f9.cloudfront.net/js/blank.html';
+    var BLANK_IMG = 'http://dybz692aa31f9.cloudfront.net/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://dybz692aa31f9.cloudfront.net/media/css/01887567ab4c61b6f28ec82b432c1bb1.css?20140618120029" media="all">
-<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/21833bbd183e918836efbc0ec0d82d4d.js?20140618120029"></script>
-<link rel="alternate" hreflang="en-au" href="http://www.loveknitting.com/au/privacy-policy.html">
-<link rel="alternate" hreflang="en-ca" href="http://www.loveknitting.com/ca/privacy-policy.html">
-<link rel="alternate" hreflang="en-dk" href="http://www.loveknitting.com/dk/privacy-policy.html">
-<link rel="alternate" hreflang="en-de" href="http://www.loveknitting.com/eu/privacy-policy.html">
-<link rel="alternate" hreflang="en-fr" href="http://www.loveknitting.com/eu/privacy-policy.html">
-<link rel="alternate" hreflang="en-fi" href="http://www.loveknitting.com/fi/privacy-policy.html">
-<link rel="alternate" hreflang="en-ie" href="http://www.loveknitting.com/ie/privacy-policy.html">
-<link rel="alternate" hreflang="en-nz" href="http://www.loveknitting.com/nz/privacy-policy.html">
-<link rel="alternate" hreflang="en-no" href="http://www.loveknitting.com/no/privacy-policy.html">
-<link rel="alternate" hreflang="en-se" href="http://www.loveknitting.com/se/privacy-policy.html">
-<link rel="alternate" hreflang="en-gb" href="http://www.loveknitting.com/uk/privacy-policy.html">
-<link rel="alternate" hreflang="x-default" href="http://www.loveknitting.com/privacy-policy.html">
+<link rel="stylesheet" type="text/css" href="http://dybz692aa31f9.cloudfront.net/media/css/9dd0f8a1e5bf3dbdaec8d1d452b0a465.css?20141120165024" media="all">
+<link rel="stylesheet" type="text/css" href="http://dybz692aa31f9.cloudfront.net/media/css/642eb6dfebd84b9545bb8b7132d3ccf5.css?20141120165024" media="print">
+<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/cd45a4f0dea75ed623866250c0a7b158.js?20141120165024"></script>
 <link rel="alternate" hreflang="en-us" href="http://www.loveknitting.com/us/privacy-policy.html">
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://dybz692aa31f9.cloudfront.net/media/css/b9fdac8abffea53a69b8d4cfa8dcda36.css?20140618120029" media="all" />
-<![endif]-->
+<link rel="alternate" hreflang="en-ca" href="http://www.loveknitting.com/us/privacy-policy.html">
+<link rel="alternate" hreflang="x-default" href="http://www.loveknitting.com/privacy-policy.html">
+<link rel="alternate" hreflang="en-gb" href="http://www.loveknitting.com/privacy-policy.html">
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/17f2233d66672898c7d22b940d0d38c3.js?20140618120029"></script>
+<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/fea98ade6cf115b325cab26850800c37.js?20141120165024"></script>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://dybz692aa31f9.cloudfront.net/media/css/5cbe8141c5324b1d1be37477a9d14f20.css?20141120165024" media="all" />
 <![endif]-->
 <!--[if lt IE 9]>
-<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/8517eb07d0cb738447d8d1b45094b0b8.js?20140618120029"></script>
+<script type="text/javascript" src="http://dybz692aa31f9.cloudfront.net/media/js/b985d8f6c642164e464fb306d5eea906.js?20141120165024"></script>
 <![endif]-->
-<script type="text/javascript">document.observe("dom:loaded", function() {fontCache('http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/loveknitting/css/fonts.css');});</script>
+<script type="text/javascript">document.observe("dom:loaded", function() {fontCache('http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/css/fonts.css');});</script><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><link href="https://plus.google.com/110772907993163569944/" rel="publisher">
+<meta name="google-site-verification" content="njoikPLqd1fFc29859iso7VTB3punU46PiPrgNv6W4A">
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '262970487235294']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=262970487235294&amp;ev=PixelInitialized" /></noscript><title>Privacy Policy</title>
+<meta name="description" content="Get knitting yarns, patterns, needles, books, buttons and accessories from all of your favourite brands. Fast delivery, excellent service.">
+<meta name="keywords" content="knitting, loveknitting, knitting yarn, knitting needles, knitting books, knitting patterns">
+
+<meta property="fb:app_id" content="512399348851471">
+<meta property="og:url" content="http://www.loveknitting.com/us/privacy-policy.html">
+<meta property="og:site_name" content="LoveKnitting">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Get knitting yarns, patterns, needles, books, buttons and accessories from all of your favourite brands. Fast delivery, excellent service.">
+
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@Love_Knitting">
+<meta property="twitter:title" content="Privacy Policy">
+<meta property="twitter:description" content="Get knitting yarns, patterns, needles, books, buttons and accessories from all of your favourite brands. Fast delivery, excellent service.">
+<meta property="twitter:url" content="http://www.loveknitting.com/us/privacy-policy.html">
+<meta property="twitter:creator" content="@Love_Knitting">
+<meta property="twitter:domain" content="http://www.loveknitting.com/us/">
+
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
@@ -54,168 +88,371 @@ Mage.Cookies.domain   = '.www.loveknitting.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
+<script type="text/javascript">
+	/** 
+	* Magento Enhanced Ecommerce Event Tracking for Google Tag Manager
+	*
+	* @author Angel Kostadinov
+	* @see http://www.anowave.com/marketplace/magento-extensions/magento-google-tag-manager-enhanced-ecommerce-ua-tracking/
+	* @copyright Anowave
+	* @version 1.0
+	*/
+	var EC = [], Purchase = [], AEC = {}
 
-<!-- BEGIN GOOGLE ANALYTICS CODE --><script type="text/javascript">
-//<![CDATA[
-            (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://stats.g.doubleclick.net/dc.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-            var _gaq = _gaq || [];
+	window.dataLayer = window.dataLayer || [];
 
-            _gaq.push(["_setAccount", "UA-32675023-1"] ,["_setDomainName","loveknitting.com"]);
-            asyncDistilledFirstTouch(_gaq);
-            _gaq.push(["_trackPageview","/us/privacy-policy.html"], ["_trackPageLoadTime"]);
+	/* Dynamic remarketing */
+	window.google_tag_params = window.google_tag_params || {};
 
-            if(Ajax.Responders){
-                Ajax.Responders.register({
-                  onComplete: function(response){
-                    if(!response.url.include("progress")){
-                        if(response.url.include("saveOrder")){
-                            _gaq.push(["_trackPageview", "/us/privacy-policy.html"+ "/opc-review-placeOrderClicked"]);
-                        }else if(accordion.currentSection){
-                            _gaq.push(["_trackPageview", "/us/privacy-policy.html/"+ accordion.currentSection]);
-                        }
-                    }
-                  }
-                });
-            }
+	/* Grouped products collection */
+	window.G = [];
+	
+	/**
+	* EC Purchase
+	*
+	*/
+	
+	if (Purchase.length)
+	{			
+		EC.push(function(dataLayer)
+		{
+			var response = [];
+			
+			for (i = 0, l = Purchase.length; i < l; i++)
+			{
+				dataLayer.push(Purchase[i]);
+			}
+		});
+	}			
+</script><script type="text/javascript">
 
-//]]>
+	window.dataLayer = window.dataLayer || [], collection = [];
+
+	AEC.ajax = function(context,dataLayer)
+	{
+		var element = jQuery(context), qty = jQuery(':radio[name=qty]:checked, :text[name=qty], select[name=qty]').eq(0).val();
+
+		if (element.data('grouped'))
+		{
+			for (u = 0, y = window.G.length; u < y; u++)
+			{
+				var qty = Math.abs(jQuery('[name="super_group[' + window.G[u].id + ']"]').val());
+
+				if (qty)
+				{
+					collection.push(
+					{
+						'name': 		window.G[u].name,
+						'id': 		    window.G[u].id,
+						'price': 		window.G[u].price,
+						'category': 	window.G[u].category,
+						'quantity': 	qty
+					})
+				}
+			}
+		}
+		else 
+		{
+			collection.push(
+			{
+				'name': 		element.data('name'),
+				'id': 		    element.data('id'),
+				'price': 		element.data('price'),
+				'category': 	element.data('category'),
+				'variant':		element.data('variant'),
+				'quantity': 	qty
+			})
+		}
+		
+		var data = 
+		{
+			'event': 'addToCart',
+			'ecommerce': 
+			{
+				'currencyCode': 'USD',
+				'add': 
+				{
+					'products': collection
+				}
+			}
+		}
+		
+		dataLayer.push(data);
+
+		return productAddToCartForm.submit(context);
+	}
+	
+	
+	AEC.remove = function(context, dataLayer)
+	{
+		var element = jQuery(context);
+
+		var data = 
+		{
+			'event': 'removeFromCart',
+			'ecommerce': 
+			{
+				'remove': 
+				{   
+					'products': 
+					[
+						{ 
+							'name': 		element.data('name'),
+							'id': 			element.data('id'),
+							'price': 		element.data('price'),
+							'category': 	element.data('category'),
+							'quantity': 	element.data('quantity')
+						}
+					]
+				}
+			}
+		}
+
+		
+		if (confirm('Are you sure you would like to remove this item from the shopping cart?'))
+		{
+			dataLayer.push(data);
+
+			return true;	
+		}
+		
+		return false;
+	}
+
+	AEC.click = function(context,dataLayer)
+	{
+		var element = jQuery(context);
+
+		var data = 
+		{
+			'event': 'productClick',
+			'ecommerce': 
+			{
+				'click': 
+				{
+					'actionField': 
+					{
+						'list': 'Search Results'
+					},
+					'products': 
+					[
+						{
+							'name': 		element.data('name'),
+							'id': 			element.data('id'),
+							'price': 		element.data('price'),
+							'category': 	element.data('category'),
+							'quantity': 	element.data('quantity')
+						}
+					]
+				}
+			}
+		};
+
+		dataLayer.push(data);
+	}
+	
+	AEC.placeOrder = function(context, review)
+	{
+		return true;
+	}
 </script>
-
-<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+    window.google_tag_params.ecomm_pagetype = 'other';
+window.google_tag_params.ecomm_udevicetype = 'Desktop'; 
+window.google_tag_params.ecomm_ucurrency = 'USD'; 
+window.google_tag_params.ecomm_uwebsite = 'North America';
+window.google_tag_params.ecomm_ustoreview = 'English (NA)';
+window.google_tag_params.ecomm_uloggedin = 'false';
+ 
+    
+</script>
+</head>
+<body class=" cms-page-view cms-privacy-policy-html">
+<!--{TURPENTINE_NOTICES_bee77a6e512525a225179d6f9bd99c79}-->
+<!--/{TURPENTINE_NOTICES_bee77a6e512525a225179d6f9bd99c79}--><div id="fb-root"></div>
 <script>
-window['optimizely'] = window['optimizely'] || [];
-window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
-</script>
-<script src="//cdn.optimizely.com/js/122320309.js"></script><script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><link href="https://plus.google.com/110772907993163569944/" rel="publisher">
-<meta name="google-site-verification" content="njoikPLqd1fFc29859iso7VTB3punU46PiPrgNv6W4A">
-</head><body class=" cms-page-view cms-privacy-policy-html"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=512399348851471";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '512399348851471',
+            xfbml      : true,
+            version    : 'v2.0'
+        });
+    };
 
-
-    <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
             </div>
         </div>
     </noscript>
-<!-- header start -->
+<div id="header-overlay"></div>
 <header id="header">
-	<div class="top-panel">
-		<div class="container">
-			<div class="top-panel-inner">
-                <div class="top-cms-block" style="padding: 0 0 3px 2px !important;">&nbsp;&nbsp;<span style="color: #68c8c7 !important;"><a style="color: #68c8c7 !important;" href="http://www.loveknitting.com/us/refer-a-friend" target="_blank">Love LoveKnitting? Share with friends - you both save!</a></span>&nbsp;&nbsp;</div>
-<div class="top-cms-block" style="background-color: #bb224b; padding: 0 0 3px !important;">&nbsp;&nbsp;<span style="color: #ffffff;"><a style="color: #ffffff;" href="http://www.loveknitting.com/us/tax-free-shopping">Tax Free shopping</a></span>&nbsp;&nbsp;</div>                <!-- ESI START DUMMY COMMENT [] -->
+
+    <div class="wrapper">
+
+        <h1><a href="/" class="logo">Love Knitting</a></h1>
+
+        
+        <form class="search-form" action="/catalogsearch/result/">
+            <div>
+                <label for="q">Search</label>
+                <input type="text" id="q" name="q" placeholder="Search LoveKnitting" autocomplete="off">
+                <button type="submit"><span class="fa fa-search"></span> <span class="text">Search</span></button>
+            </div>
+        </form>
+
+        
+        <div class="mini-cart">
+            <div class="mini-cart-wrapper">
+                <a href="/checkout/cart/">
+                    
+<!--{CART_SIDEBAR_53f05b8a921feea808da36310d47782d}--><!-- ESI START DUMMY COMMENT [] -->
 <!-- ESI URL DUMMY COMMENT -->
 
- <div class="sign-in">
-            <a class="lnk" href="https://www.loveknitting.com/us/customer/account/login/">Log In</a>
-    </div> 
-<!-- ESI END DUMMY COMMENT [] -->
-												<a class="btn blue small" href="https://help.loveknitting.com">Help</a>				<span class="lang-holder">
-    <select class="lang has-icon" id="lang-switcher">
-            		<option class="au" value="http://www.loveknitting.com/au/privacy-policy.html">Australia</option>
-            		<option class="ca" value="http://www.loveknitting.com/ca/privacy-policy.html">Canada</option>
-            		<option class="dk" value="http://www.loveknitting.com/dk/privacy-policy.html">Denmark</option>
-            		<option class="eu" value="http://www.loveknitting.com/eu/privacy-policy.html">Europe</option>
-            		<option class="fi" value="http://www.loveknitting.com/fi/privacy-policy.html">Finland</option>
-            		<option class="ie" value="http://www.loveknitting.com/ie/privacy-policy.html">Ireland</option>
-            		<option class="nz" value="http://www.loveknitting.com/nz/privacy-policy.html">New Zealand</option>
-            		<option class="no" value="http://www.loveknitting.com/no/privacy-policy.html">Norway</option>
-            		<option class="se" value="http://www.loveknitting.com/se/privacy-policy.html">Sweden</option>
-            		<option class="uk" value="http://www.loveknitting.com/uk/privacy-policy.html">United Kingdom</option>
-            		<option class="us" value="http://www.loveknitting.com/us/privacy-policy.html" selected="selected">United States</option>
-        </select>
+ 
+<!--{CART_SIDEBAR_201b473da8feb506a54dbb9d749e51c5}-->
+<span class="items">
+    <span class="fa fa-shopping-cart"></span>
+    <span class="qty-count">0</span>
+    <span></span>
 </span>
+<span class="total">
+    <span class="price">$0.00</span></span><!--/{CART_SIDEBAR_201b473da8feb506a54dbb9d749e51c5}--> 
+<!-- ESI END DUMMY COMMENT [] -->
+<!--/{CART_SIDEBAR_53f05b8a921feea808da36310d47782d}-->                </a>
+                <div class="basket-dropdown"></div>
+            </div>
+        </div>
 
-<script type="text/javascript">
-    jQuery(document).ready(function(){
-        jQuery('#lang-switcher').change(function() {
-            // change the country logo when switching
-            var flag = jQuery('.lang-holder .text');
-            flag.addClass('text');
-            flag.addClass(jQuery(this).attr('css'));
-            // set geoip popup seen cookie so it prevents showing the popup
-            var d=new Date();d.setTime(d.getTime() + 604800);
-            jQuery.cookie('geoip-popup-seen', true, {'path':'/', 'expires':d});
-            // redirect
-            window.location.href=this.value;
-        });
-    });
-</script>
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<a href="http://www.loveknitting.com/us/" class="logo"></a>		<form class="form-search" id="search_mini_form" action="http://www.loveknitting.com/us/catalogsearch/result/" method="get">
-	<input id="search" type="search" name="q" value="" class="input">
-	<button type="submit" class="btn blue">Search</button>
-</form>
+        
+                    <div class="currency">
+    <div class="current-currency usd">
+        <span class="fullname">US Dollar</span>
+        <span class="code">USD</span>
+
+        <span class="fa fa-angle-double-down"></span>
+    </div>
+
+    <ul class="currency-menu">
+            <li class="aud">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/AUD/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">Australian Dollar</span>
+                <span class="code"></span>
+
+                AUD            </a>
+        </li>
+            <li class="gbp">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/GBP/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">British Pound Sterling</span>
+                <span class="code"></span>
+
+                GBP            </a>
+        </li>
+            <li class="cad">
+            <a href="http://www.loveknitting.com/us/multistore/currency/switch/currency/CAD/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3VzL3ByaXZhY3ktcG9saWN5Lmh0bWw_U0lEPTY0NTNkODc3OTVmZTQ1ZmU4OTBiNWE2MjQ4Nzg1YTYx/?SID=6453d87795fe45fe890b5a6248785a61">
+                <span class="fullname">Canadian Dollar</span>
+                <span class="code"></span>
+
+                CAD            </a>
+        </li>
+            <li class="dkk">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/DKK/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">Danish Krone</span>
+                <span class="code"></span>
+
+                DKK            </a>
+        </li>
+            <li class="eur">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/EUR/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">Euro</span>
+                <span class="code"></span>
+
+                EUR            </a>
+        </li>
+            <li class="nzd">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/NZD/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">New Zealand Dollar</span>
+                <span class="code"></span>
+
+                NZD            </a>
+        </li>
+            <li class="nok">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/NOK/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">Norwegian Krone</span>
+                <span class="code"></span>
+
+                NOK            </a>
+        </li>
+            <li class="sek">
+            <a href="http://www.loveknitting.com/multistore/currency/switch/currency/SEK/uenc/aHR0cDovL3d3dy5sb3Zla25pdHRpbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw_X19fc3RvcmU9d3dfbGtfZW4mX19fZnJvbV9zdG9yZT11c19sa19lbiZTSUQ9NjQ1M2Q4Nzc5NWZlNDVmZTg5MGI1YTYyNDg3ODVhNjE,/?SID=6453d87795fe45fe890b5a6248785a61&amp;___store=ww_lk_en">
+                <span class="fullname">Swedish Krona</span>
+                <span class="code"></span>
+
+                SEK            </a>
+        </li>
+        </ul>
+</div>
+
+
+
+        
+        
+    </div>
+
+    <nav class="main-nav"><div class="main-scroll"><ul><li class="blue " style="width:60px;"><a href="http://www.loveknitting.com/us/" title="Home"><span class="fa fa-home"><span>Home</span></span></a></li><li class="yarns red-dark"><a href="http://www.loveknitting.com/us/knitting-yarns">Yarns</a><div class="dropdown-holder"><ul class="dropdown items-16"><li class=" wide"><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-yarn">Araucania</a></li><li><a href="http://www.loveknitting.com/us/artesano-knitting-yarn">Artesano</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-yarn">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/berroco-knitting-yarn">Berroco</a></li><li><a href="http://www.loveknitting.com/us/blue-sky-alpacas-knitting-yarn">Blue Sky Alpacas</a></li><li><a href="http://www.loveknitting.com/us/cascade-knitting-yarn">Cascade</a></li><li><a href="http://www.loveknitting.com/us/classic-elite-yarns-knitting-yarn">Classic Elite Yarns</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-yarn">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/drops-knitting-yarn">Drops</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-yarn">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/fyberspates-knitting-yarn">Fyberspates</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-yarn">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/imperial-yarn-knitting-yarn">Imperial Yarn</a></li><li><a href="http://www.loveknitting.com/us/james-c-brett-knitting-yarn">James C Brett</a></li><li><a href="http://www.loveknitting.com/us/jenny-watson-knitting-yarn">Jenny Watson</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-yarn">Katia</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/king-cole-knitting-yarn">King Cole</a></li><li><a href="http://www.loveknitting.com/us/lion-brand-knitting-yarn">Lion Brand</a></li><li><a href="http://www.loveknitting.com/us/loopy-mango-knitting-yarn">Loopy Mango</a></li><li><a href="http://www.loveknitting.com/us/louisa-harding-knitting-yarn">Louisa Harding</a></li><li><a href="http://www.loveknitting.com/us/malabrigo-knitting-yarn">Malabrigo</a></li><li><a href="http://www.loveknitting.com/us/millamia-knitting-yarn">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-yarn">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-yarn">Noro</a></li><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-yarn">Peter Pan</a></li><li><a href="http://www.loveknitting.com/us/plymouth-yarn-knitting-yarn">Plymouth Yarn</a></li><li><a href="http://www.loveknitting.com/us/regia-knitting-yarn">Regia</a></li><li><a href="http://www.loveknitting.com/us/rico-knitting-yarn">Rico</a></li><li><a href="http://www.loveknitting.com/us/robin-knitting-yarn">Robin</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-yarn">Rowan</a></li><li><a href="http://www.loveknitting.com/us/schachenmayr-knitting-yarn">Schachenmayr</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-yarn">Sirdar</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/snuggly-knitting-yarn">Snuggly</a></li><li><a href="http://www.loveknitting.com/us/spud-and-chloe-knitting-yarn">Spud &amp; Chloe</a></li><li><a href="http://www.loveknitting.com/us/stylecraft-knitting-yarn">Stylecraft</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-yarn">Sublime</a></li><li><a href="http://www.loveknitting.com/us/toft-knitting-yarn">Toft</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-yarn">Twilleys</a></li><li><a href="http://www.loveknitting.com/us/uk-alpaca-knitting-yarn">UK Alpaca</a></li><li><a href="http://www.loveknitting.com/us/we-are-knitters-knitting-yarn">We Are Knitters</a></li><li><a href="http://www.loveknitting.com/us/wendy-knitting-yarn">Wendy</a></li><li><a href="http://www.loveknitting.com/us/west-yorkshire-spinners-knitting-yarn">West Yorkshire Spinners</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-weight">Yarn Weight</a><ul><li><a href="http://www.loveknitting.com/us/laceweight-knitting-yarn">Lace</a></li><li><a href="http://www.loveknitting.com/us/fingering-knitting-yarn">Fingering</a></li><li><a href="http://www.loveknitting.com/us/sport-4-ply-knitting-yarn">Sport</a></li><li><a href="http://www.loveknitting.com/us/dk-knitting-yarn">DK</a></li><li><a href="http://www.loveknitting.com/us/worsted-knitting-yarn">Worsted</a></li><li><a href="http://www.loveknitting.com/us/bulky-knitting-yarn">Bulky</a></li><li><a href="http://www.loveknitting.com/us/super-bulky-knitting-yarn">Super Bulky</a></li><li><a href="http://www.loveknitting.com/us/varied-knitting-yarn">Varied</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-fiber">Fiber</a><ul><li><a href="http://www.loveknitting.com/us/acrylic-knitting-yarn">Acrylic</a></li><li><a href="http://www.loveknitting.com/us/alpaca-knitting-yarn">Alpaca</a></li><li><a href="http://www.loveknitting.com/us/bamboo-knitting-yarn">Bamboo</a></li><li><a href="http://www.loveknitting.com/us/cashmere-knitting-yarn">Cashmere</a></li><li><a href="http://www.loveknitting.com/us/cotton-knitting-yarn">Cotton</a></li><li><a href="http://www.loveknitting.com/us/linen-knitting-yarn">Linen</a></li><li><a href="http://www.loveknitting.com/us/llama-knitting-yarn">Llama</a></li><li><a href="http://www.loveknitting.com/us/merino-wool-knitting-yarn">Merino Wool</a></li><li><a href="http://www.loveknitting.com/us/metallic-knitting-yarn">Metallic</a></li><li><a href="http://www.loveknitting.com/us/mohair-knitting-yarn">Mohair</a></li><li><a href="http://www.loveknitting.com/us/nylon-knitting-yarn">Nylon</a></li><li><a href="http://www.loveknitting.com/us/silk-knitting-yarn">Silk</a></li><li><a href="http://www.loveknitting.com/us/wool-knitting-yarn">Wool</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/favorite-knitting-yarns">Favorites</a><ul><li><a href="http://www.loveknitting.com/us/luxury-knitting-yarns">Luxury Yarns</a></li><li><a href="http://www.loveknitting.com/us/baby-knitting-yarn">Baby</a></li><li><a href="http://www.loveknitting.com/us/natural-fibres-knitting-yarns">Natural Fibers</a></li><li><a href="http://www.loveknitting.com/us/machine-washable-knitting-yarns">Machine Washable</a></li><li><a href="http://www.loveknitting.com/us/value-knitting-yarns">Value Yarns</a></li><li><a href="http://www.loveknitting.com/us/scarf-knitting-yarns">Scarf Yarns</a></li><li><a href="http://www.loveknitting.com/us/sock-knitting-yarns">Sock Yarns</a></li><li><a href="http://www.loveknitting.com/us/summer-knitting-yarns">Summer Yarns</a></li></ul></li><li class="colors"><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-color">Color</a><ul><li><a href="http://www.loveknitting.com/us/white-knitting-yarn" class="white">White</a></li><li><a href="http://www.loveknitting.com/us/black-knitting-yarn" class="black">Black</a></li><li><a href="http://www.loveknitting.com/us/gray-knitting-yarn" class="grey">Grey</a></li><li><a href="http://www.loveknitting.com/us/cream-knitting-yarn" class="cream">Cream</a></li><li><a href="http://www.loveknitting.com/us/beige-knitting-yarn" class="beige">Beige</a></li><li><a href="http://www.loveknitting.com/us/brown-knitting-yarn" class="brown">Brown</a></li><li><a href="http://www.loveknitting.com/us/yellow-knitting-yarn" class="yellow">Yellow</a></li><li><a href="http://www.loveknitting.com/us/orange-knitting-yarn" class="orange">Orange</a></li><li><a href="http://www.loveknitting.com/us/red-knitting-yarn" class="red">Red</a></li><li><a href="http://www.loveknitting.com/us/pink-knitting-yarn" class="pink">Pink</a></li><li><a href="http://www.loveknitting.com/us/purple-knitting-yarn" class="purple">Purple</a></li><li><a href="http://www.loveknitting.com/us/blue-knitting-yarn" class="blue">Blue</a></li><li><a href="http://www.loveknitting.com/us/green-knitting-yarn" class="green">Green</a></li><li><a href="http://www.loveknitting.com/us/multi-colored-knitting-yarn" class="multi">Multi</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-yarns" class="lnk-viewall">View all yarns</a></div></li><li class="needles orange"><a href="http://www.loveknitting.com/us/knitting-needles">Needles</a><div class="dropdown-holder"><ul class="dropdown items-16"><li><a class="section" href="http://www.loveknitting.com/us/knitting-needles-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/addi-knitting-needles">Addi</a></li><li><a href="http://www.loveknitting.com/us/knit-pro-knitting-needles">Knit Pro</a></li><li><a href="http://www.loveknitting.com/us/loopy-mango-knitting-needles">Loopy Mango</a></li><li><a href="http://www.loveknitting.com/us/pony-knitting-needles">Pony</a></li><li><a href="http://www.loveknitting.com/us/we-are-knitters-knitting-needles">We Are Knitters</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-needles-by-type">Type</a><ul><li><a href="http://www.loveknitting.com/us/circular-knitting-needles">Circular</a></li><li><a href="http://www.loveknitting.com/us/single-point-knitting-needles">Single Point</a></li><li><a href="http://www.loveknitting.com/us/double-point-knitting-needles">Double Point</a></li><li><a href="http://www.loveknitting.com/us/interchangeable-knitting-needles">Interchangeable</a></li><li><a href="http://www.loveknitting.com/us/knitting-needle-sets">Sets</a></li><li><a href="http://www.loveknitting.com/us/knitting-needles-for-children">For Children</a></li><li><a href="http://www.loveknitting.com/us/cable-needles">Cable Needles</a></li><li><a href="http://www.loveknitting.com/us/crochet-hooks">Crochet Hooks</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-needlles-by-material">Material</a><ul><li><a href="http://www.loveknitting.com/us/bamboo-knitting-needles">Bamboo</a></li><li><a href="http://www.loveknitting.com/us/metal-knitting-needles">Metal</a></li><li><a href="http://www.loveknitting.com/us/plastic-knitting-needles">Plastic</a></li><li><a href="http://www.loveknitting.com/us/wooden-knitting-needles">Wood</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-needles" class="lnk-viewall">View all needles</a></div></li><li class="patterns grey"><a href="http://www.loveknitting.com/us/knitting-patterns">Patterns</a><div class="dropdown-holder"><ul class="dropdown items-16"><li class=" wide"><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-patterns">Araucania</a></li><li><a href="http://www.loveknitting.com/us/artesano-knitting-patterns">Artesano</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-patterns">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/berroco-knitting-patterns">Berroco</a></li><li><a href="http://www.loveknitting.com/us/blue-sky-alpacas-knitting-patterns">Blue Sky Alpacas</a></li><li><a href="http://www.loveknitting.com/us/cascade-knitting-patterns">Cascade</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-patterns">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/dy-choice-knitting-patterns">DY Choice</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-patterns">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-patterns">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/independent-designers">Indie Designers</a></li><li><a href="http://www.loveknitting.com/us/imperial-yarn-knitting-patterns">Imperial Yarn</a></li><li><a href="http://www.loveknitting.com/us/james-c-brett-knitting-patterns">James C. Brett</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-patterns">Katia</a></li><li><a href="http://www.loveknitting.com/us/king-cole-knitting-patterns">King Cole</a></li><li><a href="http://www.loveknitting.com/us/lion-brand-knitting-patterns">Lion Brand</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/millamia-knitting-patterns">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-patterns">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-patterns">Noro</a></li><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-patterns">Peter Pan</a></li><li><a href="http://www.loveknitting.com/us/rico-knitting-patterns">Rico</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-patterns">Rowan</a></li><li><a href="http://www.loveknitting.com/us/schachenmayr-knitting-patterns">Schachenmayr</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-patterns">Sirdar</a></li><li><a href="http://www.loveknitting.com/us/snuggly-knitting-patterns">Snuggly</a></li><li><a href="http://www.loveknitting.com/us/spud-and-chloe-knitting-patterns">Spud &amp; Chloe</a></li><li><a href="http://www.loveknitting.com/us/stylecraft-knitting-patterns">Stylecraft</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-patterns">Sublime</a></li><li><a href="http://www.loveknitting.com/us/toft-knitting-patterns">Toft</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-patterns">Twilleys</a></li><li><a href="http://www.loveknitting.com/us/uk-alpaca-knitting-patterns">UK Alpaca</a></li><li><a href="http://www.loveknitting.com/us/wendy-knitting-patterns">Wendy</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-yarn-weight">Yarn Weight</a><ul><li><a href="http://www.loveknitting.com/us/fingering-knitting-patterns">Fingering</a></li><li><a href="http://www.loveknitting.com/us/4-ply-knitting-patterns">4 Ply</a></li><li><a href="http://www.loveknitting.com/us/dk-knitting-patterns">DK</a></li><li><a href="http://www.loveknitting.com/us/worsted-knitting-patterns">Worsted</a></li><li><a href="http://www.loveknitting.com/us/bulky-knitting-patterns">Bulky</a></li><li><a href="http://www.loveknitting.com/us/super-bulky-knitting-patterns">Super Bulky</a></li><li><a href="http://www.loveknitting.com/us/fashion-knitting-patterns">Fashion</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-for">For</a><ul><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-adults">Adults</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-babies">Babies</a></li><li><a href="http://www.loveknitting.com/us/childrens-knitting-patterns">Children</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-boys">Boys</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-girls">Girls</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-women">Women</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-men">Men</a></li><li><a href="http://www.loveknitting.com/us/plus-size-knitting-patterns">Plus Size</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-home">Home</a></li><li><a href="http://www.loveknitting.com/us/crochet-knitting-patterns">Crochet</a></li></ul></li><li class=" wide"><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-garment">Project</a><ul><li><a href="http://www.loveknitting.com/us/accessories-knitting-patterns">Accessories</a></li><li><a href="http://www.loveknitting.com/us/blanket-knitting-patterns">Blankets</a></li><li><a href="http://www.loveknitting.com/us/bolero-knitting-patterns">Boleros</a></li><li><a href="http://www.loveknitting.com/us/booties-knitting-patterns">Booties</a></li><li><a href="http://www.loveknitting.com/us/cardigan-knitting-patterns">Cardigans</a></li><li><a href="http://www.loveknitting.com/us/coat-knitting-patterns">Coats</a></li><li><a href="http://www.loveknitting.com/us/cushion-knitting-patterns">Cushions</a></li><li><a href="http://www.loveknitting.com/us/dress-knitting-patterns">Dresses</a></li><li><a href="http://www.loveknitting.com/us/gloves-knitting-patterns">Gloves &amp; Mittens</a></li><li><a href="http://www.loveknitting.com/us/hat-knitting-patterns">Hats</a></li><li><a href="http://www.loveknitting.com/us/jacket-knitting-patterns">Jackets</a></li><li><a href="http://www.loveknitting.com/us/jumper-knitting-patterns">Jumpers</a></li><li><a href="http://www.loveknitting.com/us/scarves-knitting-patterns">Scarves &amp; Shawls</a></li><li><a href="http://www.loveknitting.com/us/socks-knitting-patterns">Socks</a></li><li><a href="http://www.loveknitting.com/us/sweaters-knitting-patterns">Sweaters</a></li><li><a href="http://www.loveknitting.com/us/tops-knitting-patterns">Tops</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-toys">Toys</a></li><li><a href="http://www.loveknitting.com/us/waistcoat-knitting-patterns">Waistcoats</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-difficulty">Difficulty</a><ul><li><a href="http://www.loveknitting.com/us/beginner-knitting-patterns">Beginner</a></li><li><a href="http://www.loveknitting.com/us/intermediate-knitting-patterns">Intermediate</a></li><li><a href="http://www.loveknitting.com/us/advanced-knitting-patterns">Advanced</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-patterns" class="lnk-viewall">View all patterns</a><a href="http://www.loveknitting.com/us/free-knitting-patterns" class="lnk-viewall" style="position:absolute;right:5px; width:14%;top:120px;white-space:normal;">Free patterns</a><a href="http://www.loveknitting.com/us/independent-designers" class="lnk-viewall" style="position:absolute;top:170px; right:5px; width:14%;background-color:#e95557;white-space:normal;">Indie Designers</a></div></li><li class="books red-light"><a href="http://www.loveknitting.com/us/knitting-books">Books</a><div class="dropdown-holder"><ul class="dropdown items-16"><li class="red-light wide"><a class="section" href="http://www.loveknitting.com/us/knitting-books-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-books">Araucania</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-books">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-books">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/drops-knitting-books">Drops</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-books">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/fyberspates-knitting-books">Fyberspates</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-books">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-books">Katia</a></li><li><a href="http://www.loveknitting.com/us/king-cole-knitting-books">King Cole</a></li><li><a href="http://www.loveknitting.com/us/lang-yarns-knitting-books">Lang Yarns</a></li><li><a href="http://www.loveknitting.com/us/louisa-harding-knitting-books">Louisa Harding</a></li><li><a href="http://www.loveknitting.com/us/millamia-knitting-books">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-books">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-books">Noro</a></li><li><a href="http://www.loveknitting.com/us/patons-knitting-books">Patons</a></li><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-books">Peter Pan</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/regia-knitting-books">Regia</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-books">Rowan</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-books">Sirdar</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-books">Sublime</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-books">Twilleys</a></li><li><a href="http://www.loveknitting.com/us/wendy-knitting-books">Wendy</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-books-genre">Genre</a><ul><li><a href="http://www.loveknitting.com/us/accessories-knitting-books">Accessories</a></li><li><a href="http://www.loveknitting.com/us/children-knitting-books">Children</a></li><li><a href="http://www.loveknitting.com/us/clothing-knitting-books">Clothing</a></li><li><a href="http://www.loveknitting.com/us/crochet-knitting-books">Crochet</a></li><li><a href="http://www.loveknitting.com/us/homeware-knitting-books">Home</a></li><li><a href="http://www.loveknitting.com/us/skills-and-techniques-knitting-books">Skills &amp; Techniques</a></li><li><a href="http://www.loveknitting.com/us/toys-knitting-books">Toys</a></li><li><a href="http://www.loveknitting.com/us/beginners">Beginners</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-books-by-format">Format</a><ul><li><a href="http://www.loveknitting.com/us/booklet-knitting-books">Booklets</a></li><li><a href="http://www.loveknitting.com/us/hardback-knitting-books">Hardbacks</a></li><li><a href="http://www.loveknitting.com/us/knitting-magazines">Magazines</a></li><li><a href="http://www.loveknitting.com/us/paperback-knitting-books">Paperbacks</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-books" class="lnk-viewall">View all books</a></div></li><li class="accessories blue"><a href="http://www.loveknitting.com/us/knitting-accessories">Accessories</a><div class="dropdown-holder"><ul class="dropdown items-16"><li><a class="section" href="http://www.loveknitting.com/us/essentials">Essentials</a><ul><li><a href="http://www.loveknitting.com/us/tapestry-needles">Tapestry Needles</a></li><li><a href="http://www.loveknitting.com/us/stitch-holders">Stitch Holders</a></li><li><a href="http://www.loveknitting.com/us/point-protectors">Point Protectors</a></li><li><a href="http://www.loveknitting.com/us/knitting-cases">Knitting Cases</a></li><li><a href="http://www.loveknitting.com/us/knitting-gauges">Knitting Gauges</a></li><li><a href="http://www.loveknitting.com/us/row-counters">Row Counters</a></li><li><a href="http://www.loveknitting.com/us/stitch-markers">Stitch Markers</a></li><li><a href="http://www.loveknitting.com/us/fashion-accessories">Fashion Accessories</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-buttons">Buttons</a><ul><li><a href="http://www.loveknitting.com/us/metal-buttons">Metal</a></li><li><a href="http://www.loveknitting.com/us/plastic-buttons">Plastic</a></li><li><a href="http://www.loveknitting.com/us/shell-buttons">Shell</a></li><li><a href="http://www.loveknitting.com/us/wood-buttons">Wood</a></li><li><a href="http://www.loveknitting.com/us/toggles">Toggles</a></li><li><a href="http://www.loveknitting.com/us/all-buttons">All buttons</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/create-and-make">Create &amp; Make</a><ul><li><a href="http://www.loveknitting.com/us/felting">Felting</a></li><li><a href="http://www.loveknitting.com/us/pom-pom-makers">Pom-Pom Makers</a></li><li><a href="http://www.loveknitting.com/us/little-extras">Little Extras</a></li><li><a href="http://www.loveknitting.com/us/kits">Kits</a></li><li><a href="http://www.loveknitting.com/us/knitting-looms">Looms</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-accessories" class="lnk-viewall">View all Accessories</a></div></li><li class="new red-dark"><a href="http://www.loveknitting.com/us/christmas">Holiday</a></li></ul></div></nav>
+    <div class="additional-info">
+        <a class="blog-link" href="http://blog.loveknitting.com/">Blog</a>
+        <a href="http://help.loveknitting.com/hc/">Help</a>
+        <span class="fa fa-phone"></span> <a href="tel:1-866-677-0057">1-866-677-0057</a>
+    </div>
+
+    <div class="more">
+        <button class="btn-more"><span class="fa fa-plus-circle"></span> More</button>
+    </div>
+
         <!-- ESI START DUMMY COMMENT [] -->
 <!-- ESI URL DUMMY COMMENT -->
 
- <div class="basket-holder">
-    <div class="basket-inner">
-                <a href="http://www.loveknitting.com/us/checkout/cart/" class="basket-value">
-            <span class="basket-value-ajax qty-currency">
-                0 items            </span>
-        </a>
-        <div class="dropdown ajaxcart">
-            <div class="cart_side_ajax">
-                    <div class="block block-cart">
-                            <p class="empty">You have no items in your basket.</p>
-            </div>
-            </div>
-            <div id="back-ajax-add" class="back-ajax-add-top">
-                <a class="j2t-checkout-link view-cart-link" href="http://www.loveknitting.com/us/checkout/cart/"><span>View basket</span></a>
-                                    <a class="j2t-checkout-link" href="http://www.loveknitting.com/us/checkout/"><span>Checkout</span></a>
-                            </div>
-            <div class="minicart_info">
-                <p>Spend $50 to qualify for <span style="color: #ef3e34;">free delivery</span></p>            </div>
-        </div>
+ <div class="account">
+    <h2>Account Information</h2>
+            <p><span class="fa fa-user"></span> <a href="https://www.loveknitting.com/us/customer/account/login/">Sign In or Register</a></p>
     </div>
-            <a class="btn" href="https://www.loveknitting.com/us/checkout/onepage/">Checkout</a>
-    </div>
-
  
 <!-- ESI END DUMMY COMMENT [] -->
-                	</div>
-	<!-- Additional block -->
-		<!-- main navigation start -->
-	<nav class="main-nav"><ul><li class="blue"><a href="http://www.loveknitting.com/us/knitting-yarns">Yarns</a><div class="dropdown-holder"><ul class="dropdown"><li class="wide"><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-yarn">Araucania</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-yarn">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/cascade-knitting-yarn">Cascade</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-yarn">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/drops-knitting-yarn">Drops</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-yarn">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/fyberspates-knitting-yarn">Fyberspates</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-yarn">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/james-c-brett-knitting-yarn">James C Brett</a></li><li><a href="http://www.loveknitting.com/us/jenny-watson-knitting-yarn">Jenny Watson</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-yarn">Katia</a></li><li><a href="http://www.loveknitting.com/us/king-cole-knitting-yarn">King Cole</a></li><li><a href="http://www.loveknitting.com/us/loopy-mango-knitting-yarn">Loopy Mango</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/louisa-harding-knitting-yarn">Louisa Harding</a></li><li><a href="http://www.loveknitting.com/us/millamia-knitting-yarn">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-yarn">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-yarn">Noro</a></li><li><a href="http://www.loveknitting.com/us/patons-knitting-yarn">Patons</a></li><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-yarn">Peter Pan</a></li><li><a href="http://www.loveknitting.com/us/red-heart-knitting-yarn">Red Heart</a></li><li><a href="http://www.loveknitting.com/us/regia-knitting-yarn">Regia</a></li><li><a href="http://www.loveknitting.com/us/robin-knitting-yarn">Robin</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-yarn">Rowan</a></li><li><a href="http://www.loveknitting.com/us/schachenmayr-knitting-yarn">Schachenmayr</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-yarn">Sirdar</a></li><li><a href="http://www.loveknitting.com/us/snuggly-knitting-yarn">Snuggly</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/stylecraft-knitting-yarn">Stylecraft</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-yarn">Sublime</a></li><li><a href="http://www.loveknitting.com/us/toft-knitting-yarn">Toft</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-yarn">Twilleys</a></li><li><a href="http://www.loveknitting.com/us/wendy-knitting-yarn">Wendy</a></li><li><a href="http://www.loveknitting.com/us/uk-alpaca-knitting-yarn">UK Alpaca</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-weight">Yarn Weight</a><ul><li><a href="http://www.loveknitting.com/us/lace-1-ply-knitting-yarn">Lace (1 Ply)</a></li><li><a href="http://www.loveknitting.com/us/lace-2-ply-knitting-yarn">Lace (2 Ply)</a></li><li><a href="http://www.loveknitting.com/us/fingering-3-ply-knitting-yarn">Fingering (3 Ply)</a></li><li><a href="http://www.loveknitting.com/us/sport-4-ply-knitting-yarn">Sport (4 Ply)</a></li><li><a href="http://www.loveknitting.com/us/baby-knitting-yarn">Baby</a></li><li><a href="http://www.loveknitting.com/us/dk-knitting-yarn">DK</a></li><li><a href="http://www.loveknitting.com/us/worsted-knitting-yarn">Worsted</a></li><li><a href="http://www.loveknitting.com/us/bulky-knitting-yarn">Bulky</a></li><li><a href="http://www.loveknitting.com/us/super-bulky-knitting-yarn">Super Bulky</a></li><li><a href="http://www.loveknitting.com/us/novelty-knitting-yarn">Novelty</a></li><li><a href="http://www.loveknitting.com/us/scarf-knitting-yarn">Scarf Yarn</a></li><li><a href="http://www.loveknitting.com/us/sock-knitting-yarn">Sock Yarn</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-fiber">Fiber</a><ul><li><a href="http://www.loveknitting.com/us/acrylic-knitting-yarn">Acrylic</a></li><li><a href="http://www.loveknitting.com/us/alpaca-knitting-yarn">Alpaca</a></li><li><a href="http://www.loveknitting.com/us/bamboo-knitting-yarn">Bamboo</a></li><li><a href="http://www.loveknitting.com/us/cashmere-knitting-yarn">Cashmere</a></li><li><a href="http://www.loveknitting.com/us/cotton-knitting-yarn">Cotton</a></li><li><a href="http://www.loveknitting.com/us/linen-knitting-yarn">Linen</a></li><li><a href="http://www.loveknitting.com/us/llama-knitting-yarn">Llama</a></li><li><a href="http://www.loveknitting.com/us/merino-wool-knitting-yarn">Merino Wool</a></li><li><a href="http://www.loveknitting.com/us/metallic-knitting-yarn">Metallic</a></li><li><a href="http://www.loveknitting.com/us/mohair-knitting-yarn">Mohair</a></li><li><a href="http://www.loveknitting.com/us/nylon-knitting-yarn">Nylon</a></li><li><a href="http://www.loveknitting.com/us/silk-knitting-yarn">Silk</a></li><li><a href="http://www.loveknitting.com/us/wool-knitting-yarn">Wool</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/favorite-knitting-yarns">Favorites</a><ul><li><a href="http://www.loveknitting.com/us/luxury-knitting-yarns">Luxury Yarns</a></li><li><a href="http://www.loveknitting.com/us/super-soft-knitting-yarns">Soft Yarns</a></li><li><a href="http://www.loveknitting.com/us/natural-fibres-knitting-yarns">Natural Fibres</a></li><li><a href="http://www.loveknitting.com/us/machine-washable-knitting-yarns">Machine Washable</a></li><li><a href="http://www.loveknitting.com/us/cheap-knitting-yarns">Cheap Yarns</a></li><li><a href="http://www.loveknitting.com/us/summer-knitting-yarns">Summer Yarns</a></li></ul></li><li class="colors"><a class="section" href="http://www.loveknitting.com/us/knitting-yarns-by-color">Color</a><ul><li><a href="http://www.loveknitting.com/us/white-knitting-yarn" class="white">White</a></li><li><a href="http://www.loveknitting.com/us/black-knitting-yarn" class="black">Black</a></li><li><a href="http://www.loveknitting.com/us/gray-knitting-yarn-1" class="grey">Grey</a></li><li><a href="http://www.loveknitting.com/us/cream-knitting-yarn" class="cream">Cream</a></li><li><a href="http://www.loveknitting.com/us/beige-knitting-yarn" class="beige">Beige</a></li><li><a href="http://www.loveknitting.com/us/brown-knitting-yarn" class="brown">Brown</a></li><li><a href="http://www.loveknitting.com/us/yellow-knitting-yarn" class="yellow">Yellow</a></li><li><a href="http://www.loveknitting.com/us/orange-knitting-yarn" class="orange">Orange</a></li><li><a href="http://www.loveknitting.com/us/red-knitting-yarn" class="red">Red</a></li><li><a href="http://www.loveknitting.com/us/pink-knitting-yarn" class="pink">Pink</a></li><li><a href="http://www.loveknitting.com/us/purple-knitting-yarn" class="purple">Purple</a></li><li><a href="http://www.loveknitting.com/us/blue-knitting-yarn" class="blue">Blue</a></li><li><a href="http://www.loveknitting.com/us/green-knitting-yarn" class="green">Green</a></li><li><a href="http://www.loveknitting.com/us/multi-coloured-knitting-yarn" class="multi">Multi</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-yarns" class="lnk-viewall">View all yarns</a></div></li><li class="red-dark"><a href="http://www.loveknitting.com/us/knitting-needles">Needles</a><div class="dropdown-holder"><ul class="dropdown"><li><a class="section" href="http://www.loveknitting.com/us/knitting-needles-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/addi-knitting-needles">Addi</a></li><li><a href="http://www.loveknitting.com/us/knitpro-knitting-needles">KnitPro</a></li><li><a href="http://www.loveknitting.com/us/loopy-mango-knitting-needles">Loopy Mango</a></li><li><a href="http://www.loveknitting.com/us/pony-knitting-needles">Pony</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-needles-by-type">Type</a><ul><li><a href="http://www.loveknitting.com/us/circular-knitting-needles">Circular</a></li><li><a href="http://www.loveknitting.com/us/single-point-knitting-needles">Single Point</a></li><li><a href="http://www.loveknitting.com/us/double-point-knitting-needles">Double Point</a></li><li><a href="http://www.loveknitting.com/us/interchangeable-knitting-needles">Interchangeable</a></li><li><a href="http://www.loveknitting.com/us/knitting-needle-sets">Sets</a></li><li><a href="http://www.loveknitting.com/us/knitting-needles-for-children">For Children</a></li><li><a href="http://www.loveknitting.com/us/cable-needles">Cable Needles</a></li><li><a href="http://www.loveknitting.com/us/crochet-hooks">Crochet Hooks</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-needlles-by-material">Material</a><ul><li><a href="http://www.loveknitting.com/us/bamboo-knitting-needles">Bamboo</a></li><li><a href="http://www.loveknitting.com/us/metal-knitting-needles">Metal</a></li><li><a href="http://www.loveknitting.com/us/plastic-knitting-needles">Plastic</a></li><li><a href="http://www.loveknitting.com/us/wooden-knitting-needles">Wood</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-needles" class="lnk-viewall">View all needles</a></div></li><li class="orange"><a href="http://www.loveknitting.com/us/knitting-patterns">Patterns</a><div class="dropdown-holder"><ul class="dropdown"><li class="wide"><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-patterns">Araucania</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-patterns">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-patterns">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-patterns">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-patterns">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/james-c-brett-knitting-patterns">James C. Brett</a></li><li><a href="http://www.loveknitting.com/us/jenny-watson-knitting-patterns">Jenny Watson</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-patterns">Katia</a></li><li><a href="http://www.loveknitting.com/us/king-cole-knitting-patterns">King Cole</a></li><li><a href="http://www.loveknitting.com/us/louisa-harding-knitting-patterns">Louisa Harding</a></li><li><a href="http://www.loveknitting.com/us/millamia-knitting-patterns">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-patterns">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-patterns">Noro</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/patons-knitting-patterns">Patons</a></li><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-patterns">Peter Pan</a></li><li><a href="http://www.loveknitting.com/us/red-heart-knitting-patterns">Red Heart</a></li><li><a href="http://www.loveknitting.com/us/regia-knitting-patterns">Regia</a></li><li><a href="http://www.loveknitting.com/us/robin-knitting-patterns">Robin</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-patterns">Rowan</a></li><li><a href="http://www.loveknitting.com/us/schachenmayr-knitting-patterns">Schachenmayr</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-patterns">Sirdar</a></li><li><a href="http://www.loveknitting.com/us/snuggly-knitting-patterns">Snuggly</a></li><li><a href="http://www.loveknitting.com/us/stylecraft-knitting-patterns">Stylecraft</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-patterns">Sublime</a></li><li><a href="http://www.loveknitting.com/us/toft-knitting-patterns">Toft</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-patterns">Twilleys</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/wendy-knitting-patterns">Wendy</a></li><li><a href="http://www.loveknitting.com/us/uk-alpaca-knitting-patterns">UK Alpaca</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-yarn-weight">Yarn Weight</a><ul><li><a href="http://www.loveknitting.com/us/fingering-3-ply-knitting-patterns">Fingering (3 Ply)</a></li><li><a href="http://www.loveknitting.com/us/sport-4-ply-knitting-patterns">Sport (4 Ply)</a></li><li><a href="http://www.loveknitting.com/us/dk-knitting-patterns">DK</a></li><li><a href="http://www.loveknitting.com/us/worsted-knitting-patterns">Worsted</a></li><li><a href="http://www.loveknitting.com/us/bulky-knitting-patterns">Bulky</a></li><li><a href="http://www.loveknitting.com/us/super-bulky-knitting-patterns">Super Bulky</a></li><li><a href="http://www.loveknitting.com/us/novelty-knitting-patterns">Novelty</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-for">For</a><ul><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-adults">Adults</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-babies">Babies</a></li><li><a href="http://www.loveknitting.com/us/childrens-knitting-patterns">Children</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-boys">Boys</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-girls">Girls</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-women">Women</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-men">Men</a></li><li><a href="http://www.loveknitting.com/us/plus-size-knitting-patterns">Plus Size</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-home">Home</a></li><li><a href="http://www.loveknitting.com/us/crochet-knitting-patterns">Crochet</a></li></ul></li><li class="wide"><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-garment">Project</a><ul><li><a href="http://www.loveknitting.com/us/accessories-knitting-patterns">Accessories</a></li><li><a href="http://www.loveknitting.com/us/blanket-knitting-patterns">Blankets</a></li><li><a href="http://www.loveknitting.com/us/bolero-knitting-patterns">Boleros</a></li><li><a href="http://www.loveknitting.com/us/shoes-knitting-patterns">Bootees</a></li><li><a href="http://www.loveknitting.com/us/cardigan-knitting-patterns">Cardigans</a></li><li><a href="http://www.loveknitting.com/us/coat-knitting-patterns">Coats</a></li><li><a href="http://www.loveknitting.com/us/cushion-knitting-patterns">Cushions</a></li><li><a href="http://www.loveknitting.com/us/dress-knitting-patterns">Dresses</a></li><li><a href="http://www.loveknitting.com/us/mitten-knitting-patterns">Gloves &amp; Mittens</a></li><li><a href="http://www.loveknitting.com/us/hat-knitting-patterns">Hats</a></li><li><a href="http://www.loveknitting.com/us/jacket-knitting-patterns">Jackets</a></li><li><a href="http://www.loveknitting.com/us/jumper-knitting-patterns">Jumpers</a></li><li><a href="http://www.loveknitting.com/us/scarves-knitting-patterns">Scarves</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/socks-knitting-patterns">Socks</a></li><li><a href="http://www.loveknitting.com/us/sweaters-knitting-patterns">Sweaters</a></li><li><a href="http://www.loveknitting.com/us/tops-knitting-patterns">Tops</a></li><li><a href="http://www.loveknitting.com/us/knitting-patterns-for-toys">Toys</a></li><li><a href="http://www.loveknitting.com/us/waistcoat-knitting-patterns">Waistcoats</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-patterns-by-difficulty">Difficulty</a><ul><li><a href="http://www.loveknitting.com/us/easy-knitting-patterns">Easy</a></li><li><a href="http://www.loveknitting.com/us/intermediate-knitting-patterns">Intermediate</a></li><li><a href="http://www.loveknitting.com/us/expert-knitting-patterns">Expert</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-patterns" class="lnk-viewall">View all patterns</a></div></li><li class="grey"><a href="http://www.loveknitting.com/us/knitting-books">Books</a><div class="dropdown-holder"><ul class="dropdown"><li class="wide"><a class="section" href="http://www.loveknitting.com/us/knitting-books-by-brand">Brand</a><ul><li><a href="http://www.loveknitting.com/us/araucania-knitting-books">Araucania</a></li><li><a href="http://www.loveknitting.com/us/bergere-de-france-knitting-books">Bergere de France</a></li><li><a href="http://www.loveknitting.com/us/debbie-bliss-knitting-books">Debbie Bliss</a></li><li><a href="http://www.loveknitting.com/us/erika-knight-knitting-books">Erika Knight</a></li><li><a href="http://www.loveknitting.com/us/fyberspates-knitting-books">Fyberspates</a></li><li><a href="http://www.loveknitting.com/us/hayfield-knitting-books">Hayfield</a></li><li><a href="http://www.loveknitting.com/us/katia-knitting-books">Katia</a></li><li><a href="http://www.loveknitting.com/us/king-cole-knitting-books">King Cole</a></li><li><a href="http://www.loveknitting.com/us/louisa-harding-knitting-books">Louisa Harding</a></li><li><a href="http://www.loveknitting.com/us/millamia-knitting-books">MillaMia</a></li><li><a href="http://www.loveknitting.com/us/mirasol-knitting-books">Mirasol</a></li><li><a href="http://www.loveknitting.com/us/noro-knitting-books">Noro</a></li><li><a href="http://www.loveknitting.com/us/patons-knitting-books-1">Patons</a></li></ul><ul><li><a href="http://www.loveknitting.com/us/peter-pan-knitting-books">Peter Pan</a></li><li><a href="http://www.loveknitting.com/us/regia-knitting-books">Regia</a></li><li><a href="http://www.loveknitting.com/us/rowan-knitting-books">Rowan</a></li><li><a href="http://www.loveknitting.com/us/sirdar-knitting-books">Sirdar</a></li><li><a href="http://www.loveknitting.com/us/sublime-knitting-books">Sublime</a></li><li><a href="http://www.loveknitting.com/us/twilleys-knitting-books">Twilleys</a></li><li><a href="http://www.loveknitting.com/us/wendy-knitting-books">Wendy</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-books-genre">Genre</a><ul><li><a href="http://www.loveknitting.com/us/accessories-knitting-books">Accessories</a></li><li><a href="http://www.loveknitting.com/us/children-knitting-books">Children</a></li><li><a href="http://www.loveknitting.com/us/clothing-knitting-books">Clothing</a></li><li><a href="http://www.loveknitting.com/us/crochet-knitting-books">Crochet</a></li><li><a href="http://www.loveknitting.com/us/homeware-knitting-books">Home</a></li><li><a href="http://www.loveknitting.com/us/skills-and-techniques-knitting-books">Skills &amp; Techniques</a></li><li><a href="http://www.loveknitting.com/us/toys-knitting-books">Toys</a></li><li><a href="http://www.loveknitting.com/us/beginners">Beginners</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/knitting-books-by-format">Format</a><ul><li><a href="http://www.loveknitting.com/us/booklet-knitting-books">Booklets</a></li><li><a href="http://www.loveknitting.com/us/hardcover-knitting-books">Hardcovers</a></li><li><a href="http://www.loveknitting.com/us/knitting-magazines">Magazines</a></li><li><a href="http://www.loveknitting.com/us/paperback-knitting-books">Paperbacks</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-books" class="lnk-viewall">View all books</a></div></li><li class="red-light"><a href="http://www.loveknitting.com/us/knitting-accessories">Accessories</a><div class="dropdown-holder"><ul class="dropdown"><li><a class="section" href="http://www.loveknitting.com/us/knitting-buttons">Buttons</a><ul><li><a href="http://www.loveknitting.com/us/metal-buttons">Metal</a></li><li><a href="http://www.loveknitting.com/us/plastic-buttons">Plastic</a></li><li><a href="http://www.loveknitting.com/us/shell-buttons">Shell</a></li><li><a href="http://www.loveknitting.com/us/wood-buttons">Wood</a></li><li><a href="http://www.loveknitting.com/us/toggles">Toggles</a></li><li><a href="http://www.loveknitting.com/us/all-buttons">All buttons</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/essentials">Essentials</a><ul><li><a href="http://www.loveknitting.com/us/tapestry-needles">Tapestry Needles</a></li><li><a href="http://www.loveknitting.com/us/stitch-holders">Stitch Holders</a></li><li><a href="http://www.loveknitting.com/us/point-protectors">Point Protectors</a></li><li><a href="http://www.loveknitting.com/us/knitting-cases">Knitting Cases</a></li><li><a href="http://www.loveknitting.com/us/knitting-gauges">Knitting Gauges</a></li><li><a href="http://www.loveknitting.com/us/row-counters">Row Counters</a></li><li><a href="http://www.loveknitting.com/us/interchangeable-cables">Interchangeable Cables</a></li><li><a href="http://www.loveknitting.com/us/stitch-markers">Stitch Markers</a></li><li><a href="http://www.loveknitting.com/us/shawl-pins">Shawl Pins</a></li></ul></li><li><a class="section" href="http://www.loveknitting.com/us/create-and-make">Create &amp; Make</a><ul><li><a href="http://www.loveknitting.com/us/felting">Felting</a></li><li><a href="http://www.loveknitting.com/us/pom-pom-makers">Pom-Pom Makers</a></li><li><a href="http://www.loveknitting.com/us/little-extras">Little Extras</a></li><li><a href="http://www.loveknitting.com/us/knitting-kits">Knitting Kits</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-accessories" class="lnk-viewall">View all Accessories</a></div></li><li class="blue"><a href="http://www.loveknitting.com/us/knitting-gifts">Gifts</a><div class="dropdown-holder"><ul class="dropdown"><li><a class="section" href="http://www.loveknitting.com/us/knitting-gifts-by-difficulty">Difficulty</a><ul><li><a href="http://www.loveknitting.com/us/gifts-for-beginner-knitters">Beginner knitter</a></li><li><a href="http://www.loveknitting.com/us/gifts-for-intermediate-knitters">Intermediate knitter</a></li><li><a href="http://www.loveknitting.com/us/gifts-for-advanced-knitters">Advanced knitter</a></li><li><a href="http://www.loveknitting.com/us/gifts-for-knitters-of-all-abilities">All abilities</a></li></ul></li></ul><a href="http://www.loveknitting.com/us/knitting-gifts" class="lnk-viewall">View all gifts</a></div></li></ul></nav>	<!-- main navigation end -->
 </header>
-<!-- header end --><div id="main">
+<div id="main">
     <!-- CMS block benefits start --> 
 <ul class="block-benefits">
-<li class="love"><em><a style="color: #5f6062;" href="http://www.feefo.com/reviews/loveknitting_Love-Knitting/?logon=www.broadmargins.com/Love%20Knitting" target="_blank">Customers LOVE our service - 100%</a></em></li>
-<li class="delivery"><em><a style="color: #5f6062;" href="http://www.loveknitting.com/us/delivery.html">FREE delivery on orders over $50</a></em></li>
-<li class="returns"><em><a style="color: #5f6062;" href="http://www.loveknitting.com/us/returns-and-refunds.html/">EASY returns if you don’t love your order</a></em></li>
+<li class="love"><em><a style="color: #5f6062;" href="http://www.feefo.com/reviews/loveknitting_Love-Knitting/?logon=www.broadmargins.com/loveknitting" target="_blank">Customers LOVE our service - 100%</a></em></li>
+<li class="delivery"><em><a style="color: #5f6062;" href="http://www.loveknitting.com/us/delivery.html">FREE shipping on orders over $50</a></em></li>
+<li class="returns"><em><a style="color: #5f6062;" href="http://www.loveknitting.com/us/returns-and-refunds.html/">FREE returns if you don’t love your order</a></em></li>
 </ul>
-<!-- CMS block benefits end -->        <!-- breadcrumbs -->
+<!-- CMS block benefits end -->
+        <!-- breadcrumbs -->
     <nav class="breadcrumbs">
         <ul>
-                            <li>
-                    <a href="http://www.loveknitting.com/us/">Home</a>
+                            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span itemprop="title">Home</span>
                 </li>
-                            <li>
-                    <a href="">Privacy Policy</a>
+                                <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span itemprop="title">Privacy Policy</span>
                 </li>
-                    </ul>
+                        </ul>
     </nav>
     <!-- breadcrumbs end -->
-        <div class="wrapper">
+    <!--{GLOBAL_MESSAGES_ef69086a990924b710a3663d1329ab33}--><!--/{GLOBAL_MESSAGES_ef69086a990924b710a3663d1329ab33}-->    <div class="wrapper">
         <div class="content">
-            <div class="std"><div class="static-template terms">
+            <div class="std"><!--{MESSAGES_3b5714b69c1e72a526336afbdae18788}--><!--/{MESSAGES_3b5714b69c1e72a526336afbdae18788}--><div class="static-template terms">
 <h1>Privacy Policy</h1>
 <p>The coloured text on the right-hand side of each paragraph provides a short explanation of our Privacy Policy and is of no legal effect. The Privacy Policy is legally binding, and it is important that you find the time to read it all in full.</p>
 <div class="sections-wrap">
@@ -224,7 +461,7 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 <div class="side-box">
 <p>We are founded on the principle of ensuring that our customers enjoy the experience of shopping with us. We know that you may be concerned about the privacy of information you share with us. We take the privacy and security of your personal details very seriously and are committed to protecting them. Here we outline our privacy policy, which is deemed to be accepted by you by your visiting our website.</p>
 </div>
-<p>This Privacy Policy was first published and made effective on 16/04/2012. This is the privacy policy for Loveknitting Ltd, incorporated and registered in England and Wales (8072374), whose registered office is at 1 Shorts Gardens, London, WC2H 9AT, trading as loveknitting.com ("loveknitting", “www.loveknitting.com”, "we", "our", "us) and who is the data controller for the purposes of the Data Protection Act 1998 (the "Act"). We are committed to protecting and respecting the privacy rights of our online visitors (“ you”, “ your”, “yours”, “member”).</p>
+<p>This Privacy Policy was first published and made effective on 16/04/2012. This is the privacy policy for LoveKnitting Ltd, incorporated and registered in England and Wales (8072374), whose registered office is at 1 Shorts Gardens, London, WC2H 9AT, trading as loveknitting.com ("LoveKnitting", “www.loveknitting.com”, "we", "our", "us) and who is the data controller for the purposes of the Data Protection Act 1998 (the "Act"). We are committed to protecting and respecting the privacy rights of our online visitors (“ you”, “ your”, “yours”, “member”).</p>
 <p>This Privacy Policy, along with our Terms and Conditions (and any other documents referred to in them) sets out the basis on which we will process any personal data we collect from you, or that you provide to us. Please read the following carefully to understand our views and practices regarding your personal data. By visiting our website, you are accepting the practices outlined in this policy. Your personal information will not be used or disclosed for purposes other than as set out in this policy or which are not permitted under applicable law. You can ask us for a copy of this Privacy Policy by writing to the above address or by e-mailing us at info@loveknitting.com. This Privacy Policy applies to personal data we hold about individuals, not to information we hold about companies and other organisations.</p>
 </div>
 <div class="section red">
@@ -339,47 +576,44 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 <!--box-static end--></div></div>        </div>
     </div>
 </div>
-<!-- ESI START DUMMY COMMENT [] -->
-<!-- ESI URL DUMMY COMMENT -->
-
- <!-- footer start -->
+<!-- footer start -->
 <footer id="footer">
 	<div class="container">
 		<div class="sitemap">
 			<div class="col"><strong class="col-title">Your Purchase</strong> 
 <ul>
-<li><a href="http://www.loveknitting.com/us/terms-and-conditions.html?___SID=U">Terms &amp; Conditions</a></li>
-<li><a href="http://www.loveknitting.com/us/privacy-policy.html?___SID=U">Privacy Policy</a></li>
-<li><a href="http://www.loveknitting.com/us/security.html?___SID=U">Security</a></li>
-<li><a href="http://www.loveknitting.com/us/delivery.html?___SID=U">Delivery</a></li>
-<li><a href="http://www.loveknitting.com/us/returns-and-refunds.html?___SID=U">Refunds &amp; Returns</a></li>
-<li><a href="https://help.loveknitting.com">Help Centre</a></li>
+<li><a href="http://www.loveknitting.com/us/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+<li><a href="http://www.loveknitting.com/us/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="http://www.loveknitting.com/us/security.html">Security</a></li>
+<li><a href="http://www.loveknitting.com/us/delivery.html">Shipping</a></li>
+<li><a href="http://www.loveknitting.com/us/returns-and-refunds.html">Refunds &amp; Returns</a></li>
+<li><a href="https://help.loveknitting.com/hc/en-us">Help Center</a></li>
 </ul>
 </div>
 <div class="col"><strong class="col-title">What's In Store</strong> 
 <ul>
-<li><a href="http://www.loveknitting.com/us/knitting-yarns?___SID=U">Knitting Yarns</a></li>
-<li><a href="http://www.loveknitting.com/us/knitting-needles?___SID=U">Knitting Needles</a></li>
-<li><a href="http://www.loveknitting.com/us/knitting-patterns?___SID=U">Knitting Patterns</a></li>
-<li><a href="http://www.loveknitting.com/us/knitting-books?___SID=U">Knitting Books</a></li>
-<li><a href="http://www.loveknitting.com/us/knitting-buttons?___SID=U">Knitting Buttons</a></li>
-<li><a href="http://www.loveknitting.com/us/knitting-accessories?___SID=U">Knitting Accessories</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-yarns">Knitting Yarns</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-needles">Knitting Needles</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-patterns">Knitting Patterns</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-books">Knitting Books</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-buttons">Knitting Buttons</a></li>
+<li><a href="http://www.loveknitting.com/us/knitting-accessories">Knitting Accessories</a></li>
 </ul>
 </div>
 <div class="col"><strong class="col-title">Who We Are</strong> 
 <ul>
-<li><a href="http://www.loveknitting.com/us/about-us?___SID=U">About Us</a></li>
-<li><a href="http://www.loveknitting.com/us/our-values?___SID=U">Our Values</a></li>
+<li><a href="http://www.loveknitting.com/us/about-us">About Us</a></li>
+<li><a href="http://www.loveknitting.com/us/our-values">Our Values</a></li>
 <li><a href="https://help.loveknitting.com/hc/en-gb/requests/new">Contact Us</a></li>
 <li><a href="http://blog.loveknitting.com">Blog</a></li>
-<li><a href="http://www.loveknitting.com/us/jobs?___SID=U">Jobs</a></li>
+<li><a href="http://www.loveknitting.com/us/jobs">Jobs</a></li>
 </ul>
 </div>				<div class="col">
 		<strong class="col-title">Customer feedback</strong>
-        <a class="feefo-text" href="http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/Love Knitting" onclick="popWin('http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/Love Knitting', 'Feefo reviews', 'width=1000, height=600, toolbar=no, location=no, scrollbars=1'); return false;">
-			<span class="percent">99%</span>
+        <a class="feefo-text" href="http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/loveknitting" onclick="popWin('http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/loveknitting', 'Feefo reviews', 'width=1000, height=600, toolbar=no, location=no, scrollbars=1'); return false;">
+			<span class="percent">98%</span>
 			<span class="feefo-logo">feefo</span>
-			A valued customer is a happy customer!		</a>
+			Only smiles with LoveKnitting		</a>
 	</div>
     			<div class="col"><strong class="col-title">Follow us</strong> 
 <ul class="social-links">
@@ -392,41 +626,94 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 </ul>
 <p>Celebrate the joy of creating! Share your craft and knowledge or pick up some tips.</p>
 </div>		</div>
-		<a class="logo" href="http://www.loveknitting.com/us/?___SID=U"><strong></strong></a>
-		<p class="paymethods"><a href="http://www.loveknitting.com/us/security.html?___SID=U"><img src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/loveknitting/images/payment.png" alt="MasterCard VISA PayPal Comodo" width="313" height="34"></a></p>		<p class="copyright">Loveknitting Ltd registered in England and Wales (no. 8072374) at 1 Shorts Gardens, London, WC2H 9AT, UK</p>
+		<a class="logo" href="http://www.loveknitting.com/us/"><strong></strong></a>
+		<p class="paymethods"><a href="http://www.loveknitting.com/us/security.html"><img src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/images/payment.png" alt="MasterCard VISA PayPal Comodo" width="313" height="34"></a></p>		<p class="copyright">LoveCrafts Inc. registered in Delaware (no. 5538708) whose registered office is at 2711 Centerville Road, Suite 400, Wilmington, Delaware 19808</p>
 	</div>
     <input type="hidden" id="amshopby-url">
 </footer>
+<script>
+LoveKnitting = {};
+LoveKnitting.translations = {
+	'Show Filters': 'Show Filters',
+	'Hide Filters': 'Hide Filters',
+	'View more': 'View more',
+	'View less': 'View less'
+};
+</script>
 <!-- footer end -->
- 
-<!-- ESI END DUMMY COMMENT [] -->
-<div class="j2t-top-cart" id="j2t-top-cart" style="display:none; position:absolute;">
-<div class="block top-block-cart">
-        <div class="block-title">
-        <a href="#" onclick="return false;" class="close-j2t-ajax-top" id="close-j2t-ajax-top">x</a>
-        <strong><span><a href="http://www.loveknitting.com/us/checkout/cart/">My Basket</a></span></strong>
-    </div>
-    <div class="block-content">
-                        <p class="empty">You have no items in your basket.</p>
-        </div>
-</div>
-</div><script type="text/javascript">
+<script type="text/javascript">
+	if (typeof dataLayer !== "undefined")
+	{
+		for (a = 0, b = EC.length; a < b; a++)
+		{
+			EC[a].apply(this,[dataLayer]);
+		}
+
+		/* AdWords Remarketing */
+		if (window.google_tag_params)
+		{
+			dataLayer.push(
+			{  
+				'event':				'fireRemarketingTag',
+				'google_tag_params': 	window.google_tag_params
+			});
+		}
+	}
+	else
+	{
+		console.log('dataLayer[] is not intialized. Check if GTM is installed properly');
+	}
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><script type="text/javascript" charset="UTF-8">
+    var PeeriusCallbacks = {"track":{"type":"other","lang":"en-gb"}};
+</script>
+<script type="text/javascript" src="//loveknitting.peerius.com/tracker/peerius.page" charset="UTF-8"></script>
+
+<script type="text/javascript">
 //<![CDATA[    
     String.prototype.j2ttrim = function() {
       return this.replace(/^\s+|\s+$/g,"");
     }
     
-    var js_bundle_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/base/default/js/bundle.js";
-    var js_varien_product_url = "http://www.loveknitting.com/js/varien/product.js";
-    var js_varien_calendar_url = "http://www.loveknitting.com/js/calendar/calendar.js";
-    var js_varien_calendar_setup_url = "http://www.loveknitting.com/js/calendar/calendar-setup.js";
+    	
+	var cookie_available = (navigator.cookieEnabled)? true : false;
+    //if not IE4+ nor NS6+
+    if (typeof navigator.cookieEnabled == "undefined" && !cookie_available){
+        document.cookie = "testcookie";
+        cookie_available = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+    }
+        
+    var headercart_left_adjust = 0;
+    var headercart_top_adjust = 0;    
+        
+    /* EE Enterprise edition */    
+    var j2t_ajax_cart_header = '';
+    var j2t_ajax_cart_top = '';
+    var j2t_ajax_cart_empty = '';
+    var j2t_ajax_cart_title = '';
+    var j2t_ajax_cart_subtotal = '';
+    var j2t_ajax_cart_actions = '';
+    var j2t_ajax_cart_innerwrapper = '';
+    var j2t_ajax_cart_productlist = '';
+    var j2t_ajax_cart_giftcard = '';
+    var j2t_ajax_cart_giftcardamount = '';
+    /* EE Enterprise edition */
     
-    var js_skin_js_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/loveknitting/js";
-    var js_skin_css_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/loveknitting/css";
+    var cookie_redirect = 1;
+    var enable_cookie_url = "http://www.loveknitting.com/us/enable-cookies/";
+    
+    var js_bundle_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/js/bundle.js";
+    var js_varien_product_url = "http://dybz692aa31f9.cloudfront.net/js/varien/product.js";
+    var js_varien_calendar_url = "http://dybz692aa31f9.cloudfront.net/js/calendar/calendar.js";
+    var js_varien_calendar_setup_url = "http://dybz692aa31f9.cloudfront.net/js/calendar/calendar-setup.js";
+    
+    var js_skin_js_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/js";
+    var js_skin_css_url = "http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/css";
     
     var j2t_ajax_cart_on_show_option = '';
     var j2t_ajax_cart_on_show_confirm = 'AjaxCartCallback()';
-    
+    var j2t_ajax_cart_after_delete = '';
+ 
     var j2t_ajax_cart_appear_headercart = 'mouseover';
     
     var j2t_ajax_cart_options_restrictions = 0;
@@ -491,7 +778,7 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 
 <div class="j2t-loading-data" id="j2t-loading-data" style="display: none;">
     <div class="j2t-ajax-child"> 
-                        <img alt="loading..." src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/images/j2t/ajax-loader-circle.gif" width="16" height="16">
+                        <img alt="loading..." src="http://dybz692aa31f9.cloudfront.net/skin/frontend/base/default/images/j2t/ajax-loader-circle.gif">
         <p>loading...</p>
     </div>
 </div>
@@ -531,10 +818,10 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
 <div class="geoip-popup-elements geoip-popup-overlay" style="display:none;">&nbsp;</div>
 <div id="geoip-popup" class="geoip-popup-elements geoip-popup" style="display:none;">
     <div class="popup-inner">
-        <a href="http://www.loveknitting.com/us/" class="logo"><img src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/loveknitting/images/logo-geoip-popup.jpg" alt="Loveknitting" width="137" height="47"></a>
-        <p>You’ve clicked on a link to the <span class="geoip-popup-store geoip-popup-current-store">us</span> store, but we think you are in <span class="geoip-popup-store geoip-popup-geoip"></span>*.<br> What would you like to do? </p>
+        <a href="http://www.loveknitting.com/us/" class="logo"><img src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/images/logo-geoip-popup.jpg" alt="Loveknitting" width="137" height="47"></a>
+        <p>You’ve clicked on a link to the <span class="geoip-popup-store geoip-popup-current-store">us_lk_en</span> store, but we think you are in <span class="geoip-popup-store geoip-popup-geoip"></span>*.<br> What would you like to do? </p>
         <div class="buttons">
-            <a id="geoip-popup-current-link" href="#"><span><span class="icon us"></span>Proceed to <span class="geoip-popup-store geoip-popup-current-store">us</span> store</span></a>
+            <a id="geoip-popup-current-link" href="#"><span><span class="icon us_lk_en"></span>Proceed to <span class="geoip-popup-store geoip-popup-current-store">us_lk_en</span> store</span></a>
             <a id="geoip-popup-target-link" href="#"><span><span class="icon"></span>Go to <span class="geoip-popup-target-store"></span> store instead</span></a>
         </div>
         <p class="hint">*Our data shows that you’re browsing the Internet from an address based in <span class="geoip-popup-geoip"></span>.</p>
@@ -542,67 +829,18 @@ window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
     <button class="lnk-close" type="button">Close <span>x</span></button>
 </div>
 
-<div class="reviews-popup small" id="subscribe-popup">
-    <div class="newsletter-loading-data" id="newsletter-loading-data" style="display: none;">
-        <div class="j2t-ajax-child">
-            <p><img alt="loading..." src="http://dybz692aa31f9.cloudfront.net/skin/frontend/broadmargins/default/images/j2t/ajax-loader-circle.gif" width="16" height="16"></p>
-            <p>loading...</p>
-        </div>
-    </div>
-    <a class="close" href="#">Close</a>
-    <article class="article" id="article-welcome" style="display: none">
-        <h1>Thanks!</h1>
-<div class="text-block">
-<h2>Welcome to LoveKnitting</h2>
-<p>As a token of our appreciation here's a code to get <strong>10% off</strong> and <strong>free delivery</strong> on your first order with LoveKnitting. Simply enter the discount code <a style="padding: 0px 4px; border: 1px dashed #B4B0B0;" href="http://www.loveknitting.com/us/checkout/cart">HELLO</a> on the basket page.</p>
-</div>        <div class="list-box">
-            <h3>Other subscriber benefits</h3>
-<ul class="list">
-    <li class="ico01">FREE PATTERNS</li>
-    <li class="ico02">Amazing weekly deals on yarn</li>
-    <li class="ico03">Exclusive competitions</li>
-</ul>        </div>
-    </article>
-    <article class="article" id="article-form">
-        <h1>Exclusive offer</h1>
-<h2>Sign up to our newsletter for</h2>
-<div class="list-box">
-<ul class="list">
-<li class="ico04"><a href="#">10% OFF</a> and <a href="#">FREE DELIVERY</a><br>on your first order with us</li>
-<li class="ico01">FREE PATTERNS</li>
-<li class="ico02">Amazing weekly deals on yarn</li>
-<li class="ico03">Exclusive competitions</li>
-</ul>
-</div>        <form action="#" class="sign-form" id="newsletter-sign-form" name="newsletter-sign-form" onsubmit="if(popupNewsletter.validator.validate()){
-                new Ajax.Updater({success:'newsletter-sign-form'},'http://www.loveknitting.com/us/newsletter/subscriber/new/',
-                {
-                    asynchronous:true,
-                    evalScripts:false,
-                    onComplete:function(request, json){Element.hide('article-form');Element.hide('newsletter-loading-data');Element.show('article-welcome');},
-                    onLoading:function(request, json){Element.show('newsletter-loading-data')},
-                    parameters:Form.serialize(this)
-                });
-                return false;
-            }" method="post">
-            <fieldset>
-                <div class="holder">
-                    <input type="email" placeholder="Enter your email address" name="email" id="newsletter2" class="input-text required-entry validate-email">
-                </div>
-                <input type="submit" value="Sign up">
-            </fieldset>
-        </form>
-        <script type="text/javascript">
-            //<![CDATA[
-            var popupNewsletter = new VarienForm('newsletter-sign-form', true);
-            //]]>
-        </script>
-        <p></p><footer>
-<p>By joining I agree to the <a href="http://www.loveknitting.com/us/terms-and-conditions.html">Terms &amp; Conditions</a> and <a href="http://www.loveknitting.com/us/privacy-policy.html">Privacy Policy</a></p>
-<p>You can unsubscribe at any time.</p>
-</footer><p></p>    </article>
-</div><!-- begin olark code --><script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/
-window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('3464-450-10-4654');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/3464-450-10-4654/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e4d79d4fbf","applicationID":"2746677","transactionName":"M1BWMUJUXhFRBxdZWAoadxBDQV8PHwcOQxgUVFMAH0NZB0dES11YAEBYAAoVUw9DTQ==","queueTime":0,"applicationTime":318,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<!--{WISHLISTS_b8a3dac8f7f0529efa2d772b29809ee8}--><!--/{WISHLISTS_b8a3dac8f7f0529efa2d772b29809ee8}-->    <script type="text/javascript">
+        window.newsletter = {
+            'popup': 'http://www.loveknitting.com/us/newsletter/subscriber/popup/'
+        };
+    </script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TZ4LFT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZ4LFT');</script>
+<!-- End Google Tag Manager --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e4d79d4fbf","applicationID":"2746677","transactionName":"M1BWMUJUXhFRBxdZWAoadxBDQV8PHwcOQxgUVFMAH0NZB0dES11YAEBYAAoVUw9DTQ==","queueTime":0,"applicationTime":514,"ttGuid":"","agentToken":"","atts":"HxdVRwpOTR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
