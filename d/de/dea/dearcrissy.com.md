@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dearcrissy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015451id_/http%3A//dearcrissy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearcrissy.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000359id_/http%3A//dearcrissy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dear Crissy - Influential Mom Blog - Brand Ambassador
 
