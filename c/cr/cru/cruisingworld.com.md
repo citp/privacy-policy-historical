@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616035252id_/http%3A//www.cruisingworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233814id_/http%3A//www.cruisingworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cruising World
 
@@ -12,7 +12,7 @@ To better protect your privacy, we provide this notice explaining our privacy pr
 
 Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/eu/eg_main_018476.asp).
 
-**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** **cruisingworld@emailcustomerservice.com** **.**
+**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** ** @emailcustomerservice.com** **.**
 
 If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
 
@@ -89,7 +89,7 @@ Bonnier employees, agents, and contractors who have access to personally-identif
 
 Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[cruisingworld@emailcustomerservice.com](mailto:cruisingworld@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[@emailcustomerservice.com](mailto:%3C?php%20print%20$pp_email;%20?%3E@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
