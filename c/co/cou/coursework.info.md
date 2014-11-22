@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141637id_/http%3A//www.markedbyteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233743id_/http%3A//www.markedbyteachers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,18 @@ Personally identifiable information that is collected in response to the use of 
 It is your responsibility to keep your site log in information secure when it's in your possession. If you are using a shared computer, please ensure you log out of Marked by Teachers or close down the browser before leaving the computer for the next user. 
 
 This site contains links to other sites. We are not responsible for the privacy practices or content of such Websites. 
+
+## Email preferences
+
+Your email address may be used to send you details of our products that we think will be useful to you. We will only send you emails in accordance with your email preferences, which you chose when you completed the registration form. 
+
+If at any point you would like to opt-out of receiving communications from us by email, you can amend your preferences in the [My Account](http://www.markedbyteachers.com/customer/account/index/) section. 
+
+## Third party emails
+
+From time to time we would like to send you emails from carefully selected third parties that offer products or services that we think may be of interest to you. We will only do this if you have opted-in to receive such emails when you completed the registration form, or have since opted-in through your email preferences. 
+
+You can amend your preferences in the [My Account](http://www.markedbyteachers.com/customer/account/index/) section. 
 
 ## What is a cookie?
 
