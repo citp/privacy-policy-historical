@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huaweidevice.co.in privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501110728id_/http%3A//www.huaweidevice.co.in/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huaweidevice.co.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080232id_/http%3A//www.huaweidevice.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Huawei Device India - Privacy Policy
+# Privacy Policy | Huawei Device
 
 The following information describes how Huawei would collect and use your personal information to provide services that you request or when you choose to provide us with your personal information.
 
