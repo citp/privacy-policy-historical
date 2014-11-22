@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054109id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122090103id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
 
 # Outerspace Software - 3D Visual Effects Software - Privacy Policy
 
 ### Cookies
 
-Cookies are used by our online gallery to store your login information. This can be turned off by unmarking the **Remember me** checkbox on the login page.
+Cookies are used by our gallery to store your login information. This can be turned off by unmarking the **Remember me** checkbox on the login page.
 
 ### Your gallery nickname
 
