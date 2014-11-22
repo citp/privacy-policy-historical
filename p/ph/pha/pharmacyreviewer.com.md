@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacyreviewer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034425id_/http%3A//www.pharmacyreviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacyreviewer.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173738id_/http%3A//www.pharmacyreviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pharmacy Reviewer
 
@@ -40,13 +40,12 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on July 2, 2011
+This policy was last modified on September 17, 2014 to reflect the change of the site's domain name back to pharmacyreviewer.com from pharmacyrevie.ws.
 
-http://www.pharmacyreviewer.com/option,com_dfcontact/Itemid,100002/  
-
+http://www.pharmacyreviewer.com/option,com_dfcontact/Itemid,100002/
