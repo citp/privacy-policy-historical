@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023756id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122081955id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
-We appreciate the trust you place in Good Sam Enterprises, LLC, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this “Privacy Policy”) describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us.
+We appreciate the trust you place in Good Sam Enterprises, LLC, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this "Privacy Policy") describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us.
 
 Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.
 
@@ -102,4 +102,4 @@ This Privacy Policy shall not apply to any unsolicited information you provide u
 
 Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of August 17, 2012 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
 
-Copyright 2012 Good Sam Enterprises, LLC. All Rights Reserved.
+Copyright 2014-15 Good Sam Enterprises, LLC. All Rights Reserved.
