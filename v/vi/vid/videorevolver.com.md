@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053257id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233846id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
 
-# Privacy — VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online
+# Privacy - VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online
 
 **Policies and Procedures**
 
