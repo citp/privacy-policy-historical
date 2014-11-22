@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameraparadise.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117095942id_/http%3A//cameraparadise.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameraparadise.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164320id_/http%3A//cameraparadise.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Digital Camera Store - Buy Digital Cameras, Digital SLR Cameras, Lenses and Photography Accessories
 
