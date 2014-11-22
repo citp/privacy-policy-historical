@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630140644id_/http%3A//www.knok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082532id_/http%3A//www.knok.com/privacy-policy) for the most accurate reproduction.*
 
-# Knok, the new way for families to travel
+# Knok - Home Exchange, Apartment Rental and Travel Guide for Families
 
 Introduction
 
@@ -70,7 +70,7 @@ Transactional Purposes
 
 We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods or services that you order from us or any of our agents, or for the fulfillment of such transactions. The personal information you provide may be used by an authorized third party to fulfill that order.
 
-Home Sharing
+Home Exchange
 
 Your non-personally-identifying demographic information and your home details and photos are used to allow other members and visitors to find your home through a search or to check the quality and details of your home. Your contact information (e-mail address and home address) is never made available to other members or visitors; you can choose to provide members with this information yourself, should you wish to do so.
 
