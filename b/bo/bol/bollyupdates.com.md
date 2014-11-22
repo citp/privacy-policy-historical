@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524075048id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122165158id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bollywood Updates
 
