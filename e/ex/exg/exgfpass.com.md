@@ -1,39 +1,53 @@
-> *The following text is extracted and transformed from the exgfpass.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021004id_/http%3A//www.circledreams.com/privacy/ExGFPass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exgfpass.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122194859id_/http%3A//exgfpass.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ExGFPass
+# Privacy policy
 
-**Privacy Policy**
+## Privacy policy
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
-**Disclosures Made as Necessitated by Law or Safety**
+This Site does not knowingly seek or collect any personal information or data from persons under the age of 18.
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
+Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site.
 
-**Information We Collect From You**
+CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), along with �Demographic Information�. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-**How is this Information Used?**
+## What Information About Subscribers is Collected?
 
-We may use �cookies� and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.
+When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database.
 
-**You Are Responsible For Information You Provide to Third Parties**
+If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database.
 
-Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party�s terms and conditions and privacy policy.
+When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database.
 
-**Emails From Us and Use of Your Email Address**
+If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database.
 
-Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. These third parties include but are not limited to http://www.ExGFPass.com. If at any time you no longer wish to receive emails from us or from such third parties please visit the http://ExGFPass.com/index.php?op=remove section of our website. Or you may send us an email at postmaster@ExGFPass.com. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.
+## Use of Personal Subscriber Information.
 
-**Advertisements**
+Except for Subscribers who: (a) voluntarily register as an advertiser with the Site or, (b) provide a specific query or comment to the Site through the “contact us” link on the Site, the Site will not obtain, collect, copy, use, transfer, sell nor save any unique, personal or identifying information from any Subscribers that visit the Site and/or any Affiliate Sites (collectively, the “Prohibited Data”). Without limiting the foregoing, the Site may collect, use and store (but only in its own data facility), for no more than thirty (30) days, the IP address (i.e., the octet) of a Subscriber who accesses the Site, solely for the limited purpose of detecting “click fraud” (i.e., an automated method of linking to, or access of, the Site for the purpose of inflating the number of page views of the Site) and for no other reason; provided that, instead of collecting, using and storing the IP address (i.e., the octet) of a Subscriber who accesses the Site, the Site will “hash” or convert each IP address into a mathematical representation of the IP address which the Site may collect, use and store without limitation. For the avoidance of doubt, the Site will destroy each IP address (and any data containing such IP address) no later than thirty (30) days after the date the Site collected that IP address.] The Site will not use "cookie" or similar technology (e.g., clear gifs) on the Site for any purpose at any time; provided that the Site may display clear gif banner ads in connection with queries prohibited under this Agreement (e.g., illegal or “blacklisted” queries).
 
-We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or �action tags� to measure advertising effectiveness on an �anonymous basis�. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser�s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers� websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers� website(s).
+## Security of Personal Information Collected by the Site.
 
-**Changes to the Privacy Policy**
+Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.
 
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
+All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
-Changes in the Ownership of the Sites
+## "OPT-IN" and "OPT-OUT" Provisions.
 
-The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
+
+"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
+
+"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+## "OPT-OUT" Revocation Procedure.
+
+The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by going to the Site, and entering in the exact email address to be "Opted-Out".
+
+## Terms and Conditions of Membership.
+
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
+
+In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
