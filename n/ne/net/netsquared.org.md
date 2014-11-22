@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsquared.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331072309id_/http%3A//www.netsquared.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsquared.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033337id_/http%3A//www.netsquared.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetSquared
 
