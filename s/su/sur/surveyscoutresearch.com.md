@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyscoutresearch.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809113504id_/http%3A//www.surveyscoutresearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyscoutresearch.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122175527id_/http%3A//www.surveyscoutresearch.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Survey Scout Research
 
