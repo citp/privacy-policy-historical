@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mdgadvertising.com privacy policy that was archived on 2014-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140511110201id_/http%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mdgadvertising.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122181839id_/http%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
     <title>MDG Advertising - Marketing And Advertising Agency Boca Raton | Michael Del Gigante, Eric Norstrom, Joanne Pennisi, Karen Bleier, Hillary Lis, Julia Giordano, Schuyler Meder</title>
@@ -29,7 +29,7 @@
         <link href="http://www.mdgadvertising.com/css/ie6.css" rel="stylesheet" type="text/css"/>
     <![endif]-->
 	
-    </head><body style=""><div id="fb-root"></div>
+    </head><body class="" style=""><div id="fb-root"></div>
     <script id="hs-analytics" src="//js.hubspot.com/analytics/1580420700000/115641.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=115033468602840"></script><script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
@@ -79,6 +79,63 @@
 		});
 	
 	</script>
+    
+<link rel="stylesheet" href="http://www.mdgadvertising.com/css/fonts/mdg-interrupter/mdg-interrupter.css">
+
+
+<script>
+	function interrupt_open() {
+			$( "#signup-interrupter.open" ).animate({ bottom: 0	}, 600, function() {
+				// Animation complete.
+			});
+	}
+	
+	function interrupt_close() {
+			$( "#signup-interrupter.open" ).animate({ bottom: -215 }, 600, function() {
+					$( "#signup-interrupter.open" ).hide();
+					$( "#signup-interrupter.closed" ).animate({ bottom: 0 }, 200, function() {
+					// Animation complete.
+				});
+			});
+	}
+
+	var hasscrolled = false;
+	var yOffset = 200;
+	var forceTrigger = false;
+	
+	$(document).ready(function() {
+		var windowHeight = $( window ).height();
+		var htmlHeight = $("html").height();
+		var scrollRange = windowHeight + yOffset;
+		if (scrollRange >= htmlHeight) { forceTrigger = true; console.log (forceTrigger); }
+	});
+ 
+		console.log('no cookie');
+		$(document).ready(function() {
+			
+			if(forceTrigger) { 
+				interrupt_open();
+			}
+			
+			$(window).on('scroll', function(e) {
+				var top = $(window).scrollTop();
+				
+				if((top >= yOffset && !hasscrolled) || forceTrigger) { 
+				interrupt_open();
+				hasscrolled = true;
+				}
+			});
+			
+			$( ".signup-interrupter_close").click(function(){
+				interrupt_close()
+			});
+				
+		});
+	
+</script>
+
+   
+    
 	<noscript>
 	<div style="display:none;">
 	<img src="//pixel.quantserve.com/pixel/p-V08AGKqbKydVg.gif" border="0" height="1" width="1" alt="Quantcast"/>
@@ -89,6 +146,37 @@
 
 
 
+
+
+<!--SIGNUP INTERRUPTER-->
+    <div id="signup-interrupter" class="open">
+        <div class="signup-interrupter_content">
+            
+            <div class="signup-interrupter_line1">
+                You were smart enough to find us.
+            </div><!--.signup-interrupter_line1-->
+            
+            <div class="signup-interrupter_line2">
+                Don’t stop now! 
+            </div><!--.signup-interrupter_line2-->
+            
+            <div class="signup-interrupter_cta">
+                <a href="http://www.mdgadvertising.com/signup.html?utm_campaign=Email%20Signup&amp;utm_medium=Organic&amp;utm_source=Interrupter">Join Our Mailing List <span></span></a>
+            </div><!--.signup-interrupter_cta"-->
+            
+            <div class="signup-interrupter_close"></div><!--.signup-interrupter_close-->
+            
+        </div><!--.signup-interrupter_content-->
+    </div><!--#signup-interrupter-->
+    
+    <div id="signup-interrupter" class="closed">
+        <div class="signup-interrupter_content">
+            <div class="signup-interrupter_cta">
+                <a href="http://www.mdgadvertising.com/signup.html?utm_campaign=Email%20Signup&amp;utm_medium=Organic&amp;utm_source=Interrupter">Join Our Mailing List <span></span></a>
+            </div><!--.signup-interrupter_cta"-->
+        </div><!--.signup-interrupter_content-->
+    </div><!--#signup-interrupter-->
+<!--END SIGNUP INTERRUPTER-->
 	
 	<script src="/whitepaper/js/jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="/whitepaper/js/jquery.validate.min.js" type="text/javascript"></script>
@@ -125,7 +213,7 @@
     <div class="follow_link"><a href="http://twitter.com/MDGadvertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social/socialicon-twitter-24.gif" width="24" height="24" alt="Twitter"></a></div>
     <div class="follow_link"><a href="http://pinterest.com/MDGadvertising/" target="_blank"><img src="/images/social/socialicon-pinterest-24.gif" width="24" height="24" alt="Pinterest"></a></div>
 	<div class="follow_link"><a href="https://plus.google.com/108864206415845170256?prsrc=3" target="_blank"><img src="http://www.mdgadvertising.com/images/social/socialicon-googleplus-24.gif" width="24" height="24" alt="Google+"></a></div>
-    <div class="follow_link"><a href="http://www.linkedin.com/company/MDG-advertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social/socialicon-linkedin-24.gif" width="24" height="24" alt="LinkedIn"></a></div>
+    <div class="follow_link"><a href="http://www.linkedin.com/company/mdg-advertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social/socialicon-linkedin-24.gif" width="24" height="24" alt="LinkedIn"></a></div>
     <div class="follow_link"><a href="http://www.youtube.com/MDGadvertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social/socialicon-youtube-24.gif" width="24" height="24" alt="YouTube"></a></div>
 </div>			<div id="leftSidebar">
 				<div id="logoContainer"><a href="http://www.mdgadvertising.com/"><img src="http://www.mdgadvertising.com/images/mdg_logo.gif" alt="MDG Advertising" width="86" height="86"></a>
@@ -173,22 +261,9 @@
 
 
 <div id="contentContainer">
-		<div class="white_pad_nocut whitepad_top_promo">
-    	<a href="/advertising_awards/2013/" title="Click here to learn more">
-    	<img src="/images/spacer.gif" width="714" height="54" style="position: relative;z-index: 500;"></a>
-    	<div id="home-charity-box" class="x">
-        	<div id="home-charity-box-text">
-                <div id="home-charity-rt-arrow">
-                    <img src="/images/social_madness/rt-arrow.png" width="15" height="17">
-                </div>
-                <span>MDG Advertising Shakes Up the 2013 ADDY<span style="font-size:8px;vertical-align:super;">®</span> Awards</span>
-            </div>
-            
-            <a style="*margin-top:0px !important;" href="/advertising_awards/2013/" title="Click here to learn more">See How</a>
-        </div>
-    </div>	<div class="right_side_banner">
-				        <a href="http://www.mdgadvertising.com/contact.html"><img src="http://www.mdgadvertising.com/images/banners/MDG_bnr_socialMedia.gif"></a>
-        
+		<div class="right_side_banner">
+		        <a href="http://www.mdgadvertising.com/contact.html"><img src="http://www.mdgadvertising.com/images/banners/MDG_bnr_integrate.gif"></a>
+    		    
 </div>
 
 	<div class="white_pad_page short">
@@ -264,6 +339,17 @@ United States<br>
     </div>
 </div>
 	
+
+		<div id="signup-interrupter" class="mobile_footer">
+        <div class="signup-interrupter_content">
+            <div class="signup-interrupter_cta">
+                <a href="http://www.mdgadvertising.com/signup.html?utm_campaign=Email%20Signup&amp;utm_medium=Organic&amp;utm_source=Interrupter">Join Our Mailing List <span></span></a>
+            </div><!--.signup-interrupter_cta"-->
+        </div><!--.signup-interrupter_content-->
+    	</div><!--#signup-interrupter-->
+
+
+
         <div class="clearBoth"></div>
     </div>
     <div id="footer">
@@ -276,7 +362,7 @@ United States<br>
         		<a href="https://plus.google.com/108864206415845170256?prsrc=3" target="_blank"><img src="http://www.mdgadvertising.com/images/social-mobile_gp.gif" width="33" height="33"></a>
         	</div>
         	<div class="mobile-footer-social_icon">
-        		<a href="http://www.linkedin.com/company/MDG-advertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social-mobile_li.gif" width="33" height="33"></a>
+        		<a href="http://www.linkedin.com/company/mdg-advertising" target="_blank"><img src="http://www.mdgadvertising.com/images/social-mobile_li.gif" width="33" height="33"></a>
         	</div>
         	<div class="mobile-footer-social_icon">
         		<a href="http://pinterest.com/MDGadvertising/" target="_blank"><img src="http://www.mdgadvertising.com/images/social-mobile_pt.gif" width="33" height="33"></a>
