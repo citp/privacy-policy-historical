@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukandiet.co.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529214406id_/http%3A//www.dukandiet.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukandiet.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122065440id_/http%3A//www.dukandiet.co.uk/privacy) for the most accurate reproduction.*
 
 # Dukan Diet - Privacy Policy
 
