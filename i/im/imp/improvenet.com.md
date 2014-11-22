@@ -1,78 +1,171 @@
-> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031442id_/http%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034118id_/http%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy
+# CraftJack Privacy Policy
 
-Updated: 4/11/2011
+## Your Privacy Rights
 
-CraftJack, Inc respects your Privacy. We are an interactive information service that connects consumers with information. We are not licensed contractors and are not authorized, nor do we enter into contractual relationships with consumers or individuals that fill out our on-line forms. While we strive to connect each person that fills out our forms with local experts, it is not possible in all situations
+Last Updated: July, 18, 2014
 
-CraftJack, Inc takes your privacy seriously, and we have created this Privacy Statement, to disclose to you our information practices pertaining to the personal information collected about you on our Site. This Privacy Statement applies exclusively to the Site www.CraftJack.com . This statement discloses what information we collect, how we use it, with whom we share it and how we protect it. "Personal Information" refers to information such as Name, or Email, which can be used to identify a person.
+CraftJack respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of craftjack.com and/or improvenet.com (and all websites and URL's controlled or operated by CraftJack, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-CraftJack, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. CraftJack is a wholly-owned subsidiary of HomeAdvisor, and is a part of the IAC/InterActiveCorp family of businesses ([iac.com](http://iac.com/)), which includes Ask.com, Match.com, UrbanSpoon, and many others.
 
-For all questions and concerns about this Statement, or our Site, please contact us at: [support@craftjack.com](mailto:support@craftjack.com). If you are not satisfied with our response you can contact TRUSTe here.
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-## Information Collection and Use
+## Information we collect about you
 
-This Site is an information resource for individuals looking for painting quotes. A user can utilize our Site without disclosing any personal information. When you select to inquire about a quote, we request your zip code to determine the best quotes in your area. We also collect your name, email address, and phone number to send you the requested quotes.
+In General. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-We also use your email to send you newsletters when you express your choice to receive them on our Site. Our newsletter delivery is serviced by a third party affiliate with whom we share your email for this purpose. This third party is not authorized to use your personal information for any promotional purposes.
+  * Information you provide. We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, telephone number, credit card information, and other personally identifiable information.
+  * Information from other sources. We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
 
-This Site may also collect certain information from visitors to, and customers of the Site such as Internet addresses. This Web Site Navigational Information is logged to help diagnose technical problems, to analyze trends, to track users' movements around the Site, and to administer our Site in order to constantly improve the quality of the Site, and our Service. We may also track and analyze individual usage and volume statistical information ("Aggregated Information") from our visitors and customers.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@craftjack.com](mailto:support@craftjack.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Information Sharing
+Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site.
 
-We share your personal information collected above with an affiliate acting as a third party agent, to fulfill your request for quote information. The third party agent uses your personal information explicitly for the purpose of contacting you with the requested quotes. This third party agent is not authorized to use your personal information for any other purposes beyond that which they receive it for. Please note, any communications engaged between a user and the third party beyond the delivery of quotes, is not subject to this Statement.
+  * Information collected automatically. We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+  * Cookies. When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+  * Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+  * Information collected by third-parties. We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
-We may be legally obligated to share your personal information with government agencies, or other third parties under certain circumstances, such as illegal activity on our Site. We reserve the right to disclose your information to our Service Providers, law enforcement, or other government agencies, or in responding to a formal request, such as a judicial proceeding, subpoena, or court order as we, in our sole, and necessary discretion deem appropriate.
 
-In the event of a sale, merger, or acquisition of some or all of CraftJack, Inc's assets, your personal information could likely be a part of the transferred assets. In such an event, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We may also share aggregated information about users of our Site with third parties.
+## How we use the information we collect
 
-## Links
+In general. We may use information that we collect about you to:
 
-We provide links on our Site to other Web Sites. We are not responsible for the privacy practices of these other web sites. We encourage you to be aware when you leave our Site, and familiarize yourself with these Web Sites' privacy practices, prior to disclosing your personal information to them.
+  * deliver the products and services that you have requested;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices or send newsletters about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
+  * communicate with you with regard to partially completed service requests;
+  * develop and display content and advertising tailored to your interests on our site and other sites;
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * perform background screening, which may include the use of third parties, on Service Professionals;
+  * enforce our terms and conditions;
+  * publicly-display comments, ratings and reviews and other content provided by you;
+  * manage our business; and
+  * perform functions as otherwise described to you at the time of collection.
 
-## Access and Opt-Out
 
-To modify or update the personal information submitted to our Site, please send your request to us using the contact information provided below, and we shall address it.
 
-In the event that you change your mind about receiving newsletters from our Site, you may unsubscribe from them by selecting the "Unsubscribe" link present in every email we send out.
+Payment and Financial information. For our contractors (“Service Professionals”), we may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to pre-qualify Service Professionals to participate in our contractor network, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. For consumers, we may use credit card information to process payment for any payments made on our website.
 
-## Testimonials
+## Mobile Apps
 
-We post customer testimonials on our web site that may contain personal information such as the customer's Name, City, and State. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. Any personal information a user selects to include within their testimonial is not subject to this privacy policy.
+If you install one of our apps on your mobile device, your use of the app is subject to the applicable app license agreement.
 
-## Cookies
+## With whom we share your information
 
-We employ the use of cookies on our Site. A cookie is a small text file set by a web browser, which identifies whether you've visited a site previously. Cookies on our Site contain no personal information. We utilize cookies to provide users' customized content and keep track of the preferences you specify during your use of our Site.
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information.
+Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-## Clear Gifs (Web Beacons/Web Bugs)
+  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website or performing background checks of Service Professionals. We may also release information to collection and/or credit agencies for past due Service Professional accounts. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Marketing Affiliates: When you are referred to us via a third party marketing affiliate, we may share your email address, and other information that you provide, to such marketing affiliate.
+  * Business partners: When you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+  * Service Professionals. We match your information and service request against our list of Service Professionals. When you submit a service request through our website, you consent to our providing your personal information and request to the Service Professionals we match with your request. Sharing this information with Service Professionals allows them to contact you using the e-mail address or other contact information you provided. In addition, we have other approved contractual partners that fulfill service requests, or that utilize their own Service Professionals to supplement our network, and we share your information with them in order to attempt to provide the services requested. If using our services pursuant to a membership with one of our partners, CraftJackmay share your service request activity information with such partner.
+  * Direct mail partners. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you.
+  * Other IAC businesses. We are part of the IAC family of businesses (go to [iac.com](http://iac.com/) for a listing of these businesses). We may share information we collect, including personal information, with the IAC companies. Sharing information with our IAC companies enables us to provide you with information about a variety of products and services that might interest you.
+  * Other Situations. We also may disclose your information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
 
-## Security
+For Service Professionals, we may share your business contact information with third parties, including but not limited to, business name, address, telephone number, email address and name of owner or proprietor of the business.
 
-We employ industry-accepted standards in protecting the personal information you provide on our Site. We host the Site in a secure server environment.
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-We have security measures in place to help protect against the loss, misuse, and alteration of the personal information and Data under our control. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+Aggregated and non-personal information. We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
-## Changes to this Statement
+## How you can access your information
 
-We reserve the right to modify this Statement. Should we make a material change to the manner in which we use your collected personal information, we shall notify you by a notice on our Site prior to the changes taking effect. We encourage you to periodically review this page for the latest information on our privacy practices.
+You can review and update your personal information by contacting us. More information about how to contact us is provided below.
 
-## Contact Information
+For Service Professionals, you can also choose to have your account disabled by contacting support@craftjack.com. After you deactivate your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law.
 
+With respect to Service Professionals and consumers, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+
+### Your choices about collection and use of your information
+
+  * At any time a consumer user can choose to no longer receive commercial or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+  * If you prefer not to have us share your postal mailing information with these selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at support@craftjack.com.
+
+
+
+## Blogs, bulletin boards, reviews and chat rooms
+
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of products, establishments, contractors, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+
+## Children's privacy
+
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
+
+## Visiting our websites from outside the United States
+
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+## No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+## Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by posting the updated policy on our website, with a link denoting that the policy has been updated. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. To see the prior version of the CraftJack Privacy Policy you may send a written request to Legal Department, CraftJack, Inc., 825 Chicago Ave, Evanston, IL 60202.
+
+## How to contact us
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
+
+Privacy Policy Inquiry  
+CraftJack, Inc.  
 825 Chicago Ave.  
-Evanston, IL 60202
+Evanston, IL 60202  
+[support@craftjack.com](mailto:support@craftjack.com)
 
-(866) 332-7134
+### For our Canadian users:
 
-Email: [support@craftjack.com](mailto:support@craftjack.com)
+Your rights to access your personal information are not absolute. We may deny access:
+
+  * When denial of access is required by law
+  * When granting you access would have an unreasonable impact on other people's privacy;
+  * To protect our Company's rights and property; or
+  * Where the request if frivolous or vexatious.
+
+
+
+If we deny your request for access to, or refuse a request to correct personal information, we will explain why.
+
+## Your California Privacy Rights
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+
+  * the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  * the names and addresses of the third parties that received that information; and
+  * if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is support@craftjack.com.
+
+## Linked information
+
+### Cookies
+
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
+
+For example, when you sign in to our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+### Web Beacons
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+### Mobile Device IDs
+
+If you're using an app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We do this to store your preferences and track your use of our apps. Unlike cookies, device IDs cannot be deleted. Ad companies use device IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage. We share device IDs with service providers who power certain features, such as voice recognition.
