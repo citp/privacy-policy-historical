@@ -1,117 +1,176 @@
-> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525143426id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163307id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
-**[www.hockeysfuture.com](http://www.hockeysfuture.com/) ****(the “Website”)**
-
   **Privacy Policy**
 
-This privacy policy was last modified on March 13, 2013. 
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”).
 
-CraveOnline Media, LLC (“Crave”), a subsidiary of Evolve Media, LLC (“Evolve”), knows that you care how information about you is used and shared.  Evolve, Crave and any and all entities that control, are controlled by, or are affiliated or under common control with, Evolve are collectively referred to herein as "Company" "we," "us" or “our”.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy. 
+CraveOnline Media (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.hockeysfuture.com](http://www.hockeysfuture.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-Information We Collect 
+  1. [Scope](http://www.craveonline.com/privacy#scope)
+  2. [What information the Site collects](http://www.craveonline.com/privacy#collect)
+  3. [How we use the information that we collect](http://www.craveonline.com/privacy#info)
+  4. [Information sharing](http://www.craveonline.com/privacy#share)
+  5. [Your choices](http://www.craveonline.com/privacy#choices)
+  6. [Access](http://www.craveonline.com/privacy#access)
+  7. [Confidentiality and security](http://www.craveonline.com/privacy#security)
+  8. [Visitors from outside of the United States](http://www.craveonline.com/privacy#visitors)
+  9. [Children under 13](http://www.craveonline.com/privacy#children)
+  10. [Changes to the privacy policy](http://www.craveonline.com/privacy#policy)
+  11. [Questions and suggestions](http://www.craveonline.com/privacy#questions)
 
-**User-Provided Information:**   You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our Site.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
-**Cookies Information:   **When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the Site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
 
-**Log File Information:   **Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. 
+**1\. Scope**
 
-**Clear Gifs Information:   **When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users. 
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-**New Technology:**   As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way but are protected by confidentiality. 
+**2\. What information the Site collects**
 
-How We Use Your Information 
+**Information you provide directly to us:**
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content. 
+  * contact information, such as name and email address;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the Site; and
+  * correspondence you send to us.
 
-By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to legal[at]evolvemediallc.com with the words "No email" and the Site name in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. 
 
-Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
 
-Company reserves the right, but has no obligation, to monitor the User Content you post on the Site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party. 
+**Information automatically collected when you visit and interact with the Site:**
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in. 
+When you visit and interact with the Site, certain information may be collected automatically, including:
 
-How We Share Your Information 
+  * your computer’s Internet Protocol (IP) address;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * activities within community discussions;
+  * web pages and advertisements that you view, and links that you click on, within the Site;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * aggregated data about email click-through rates and user video viewing;
+  * standard server log information; and
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies.](http://www.hockeysfuture.com/cookies)
 
-**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers). 
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
 
-Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.  Please note we may not provide notice prior to disclosure in such cases. 
+**Information we collect from other sources:**
 
-**Non-Personally Identifiable Information:**  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services. 
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. 
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  * demographic data, such as age range, gender, and interests;
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
 
-How We Protect Your Information 
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
-Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+**3\. How we use the information that we collect**
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times. 
+**Email Communications:**
 
-Compromise of Personal Information 
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners’ products and services, and our email newsletters.
 
-In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+**Advertising:**
 
-Your Choices About Your Information 
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](http://www.hockeysfuture.com/cookies).
 
-You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you. 
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](http://www.hockeysfuture.com/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
 
-**Children's Privacy**
+**User Accounts:**
 
-Protecting the privacy of young children is especially important.  The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. 
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums.  For more information on this process, please see the Site’s community rules, forum rules or comment policies about comment moderation guidelines.
 
-If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other Service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.  
+**Request Fulfillment:**
 
-Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
 
-If you believe that we might have any information from or about a child under 13, please contact us at legal[at]evolvemediallc.com. 
+**Statistical Analysis:**
 
-Third Parties 
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
 
-We expect our partners, advertisers and affiliates to respect the privacy of our users.  Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. 
+**Enforcement:**
 
-You should also be aware that if you voluntarily disclose personally identifiable information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this document. 
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://www.hockeysfuture.com/termsofuse), and to otherwise protect our rights and the rights of our users.
 
-Links to Other Sites: We are not responsible for the practices employed by websites linked to or from our Site nor the information or content contained therein.  Please remember that when you use a link to go from our Site to another website, our Privacy Policy is no longer in effect.  User browsing and interaction on any other website, including those that have a link on our Site, is subject to that other website's own rules and policies. Please read over those rules and policies before proceeding. 
+By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-**Third Party Advertisements and Technologies:**
+**4\. Information sharing**
 
-We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser.  This advertising technology uses information derived from your visits to the Site to target advertising within this Site.  This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”).  We also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this Site, to learn which banner ads bring users to our Site and to deliver more relevant advertising. 
+The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
 
-In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Site and other websites.  We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites. 
+  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.
+  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
+  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://www.hockeysfuture.com/termsofuse), or as otherwise required by law.
+  * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-OBA Opt Out 
 
-If you would like to “opt-out” of being served OBA on the Site by our third-party advertising companies, click on the Ad Choices icon below and select the companies whose OBA technology you would like to block on the Site. 
 
-You may also “opt-out” of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting <http://www.aboutads.info/choices>  and (b) for users targeted in Europe by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/), selecting the country where you are located, and selecting “Your Ad Choices”. 
+Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](http://www.hockeysfuture.com/cookies) and [third-party online advertising](http://www.hockeysfuture.com/third-party).
 
-For more information about online advertising, please visit (a) [www.aboutads.info/consumers](http://www.aboutads.info/consumers/)   regarding United States online choices and/or (b) [www.youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices. 
+**5\. Your choices**
 
-Notification Procedures 
+**Deactivating your account**
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.hockeysfuture.com/termsofuse).
 
-Changes to Our Privacy Policy 
+**Cookies and other tracking technologies**
 
-We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.     
+As discussed in the sections on [cookies and other tracking technologies](http://www.hockeysfuture.com/cookies) and [third-party online advertising](http://www.hockeysfuture.com/third-party), some information is collected about you automatically through cookies and other tracking technologies.
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at legal[at]evolvemediallc.com, or send mail to: 
+  * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia .         
+  * _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
 
-Evolve Media, LLC 
 
-5140 W. Goldleaf Circle, Third Floor 
 
-Los Angeles, CA   90056 
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://www.hockeysfuture.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
 
+**Do Not Track**
+
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.  To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/).
+
+**California Residents**
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to legal@evolvemediallc.com.
+
+**6\. Access**
+
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
+
+**7\. Confidentiality and security**
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
+
+**8\. Visitors from outside the United States**
+
+The Site’s offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+
+**9\. Children under 13**
+
+Protecting the privacy of young children is especially important.  The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian.  If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.  
+
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+
+If you believe that we might have any information from or about a child under 13, please contact us at legal@evolvemediallc.com.
+
+**10\. Changes to the privacy policy**
+
+We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+**11\. Questions and suggestions**
+
+If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to:
+
+Evolve Media, LLC       
+5140 W. Goldleaf Circle, Third Floor    
+Los Angeles, CA   90056           
 Attn:  General Counsel 
