@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606143030id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163018id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | TAFE Courses & Degrees in Melbourne, Victoria
+# Privacy Policy | Melbourne TAFE Courses & Degrees, Victoria
 
-Holmesglen Institute of TAFE respects your right to privacy and any personal information provided by you to the Institute will be held in confidence. This policy outlines how Holmesglen handles personal and health information in accordance with the [Information Privacy Act 2000](http://www.legislation.vic.gov.au/) (Vic.) and the [Health Records Act 2001](http://www.legislation.vic.gov.au/) (Vic.). The Policy applies to all personal and health information provided to Holmesglen Institute of TAFE and information about individuals obtained from other sources. 
+Holmesglen Institute respects your right to privacy and any personal information provided by you to the Institute will be held in confidence. This policy outlines how Holmesglen handles personal and health information in accordance with the [Information Privacy Act 2000](http://www.legislation.vic.gov.au/) (Vic.) and the [Health Records Act 2001](http://www.legislation.vic.gov.au/) (Vic.). The Policy applies to all personal and health information provided to Holmesglen Institute and information about individuals obtained from other sources.
 
 Personal information collected by Holmesglen for the purposes of Commonwealth Supported Places or FEE-HELP/VET FEE-HELP assistance and the repayment of HELP loans is handled in accordance with the information privacy principles set out in the [Privacy Act 1988](http://www.comlaw.gov.au/) (Cth). Students who are eligible for Commonwealth Supported Places or FEE-HELP/VET FEE-HELP should refer to the Personal Information Procedure and Privacy Policy provided in your enrolment kit and/or available from the Information Office at any Holmesglen campus.
 
  **Collection of Information**
 
-We will only collect what information is necessary for us to provide an efficient and satisfactory service.  We will advise you if we collect information relating to you from other sources.  Your consent to use information for any other purpose will be requested.  The Institute monitors and records details of all incoming electronic traffic to ensure the inegrity of the Institute's networks.  This information will be used for statistical analysis to help improve the services delivered by the Institute.
+We will only collect what information is necessary for us to provide an efficient and satisfactory service.  We will advise you if we collect information relating to you from other sources.  Your consent to use information for any other purpose will be requested.  The Institute monitors and records details of all incoming electronic traffic to ensure the integrity of the Institute's networks.  This information will be used for statistical analysis to help improve the services delivered by the Institute.
+
+Some sections of the Holmesglen website use standard industry technologies such as ‘cookies’. This anonymous information is used for statistical analysis to improve and develop the website and its services. Most internet browsers accept cookies. If you prefer not to receive them you can adjust your browser settings.
 
  **Use of Information**
 
-The information you have provided will primarily only be used for the service you have requested of us. We are obliged to pass on information to Government agencies when legally requested but in general this is used only as a measure of Holmesglen?s compliance, efficiency and effectiveness.
+The information you have provided will primarily only be used for the service you have requested of us. We are obliged to pass on information to Government agencies when legally requested but in general this is used only as a measure of Holmesglen's compliance, efficiency and effectiveness.
 
  **Data Quality**
 
@@ -40,7 +42,7 @@ We will not collect any sensitive information about you except where directed fo
 
  **Anonymity**
 
-Holmesglen respects everyone?s right to anonymity except in circumstances where it is necessary for you to provide us with your identity.
+Holmesglen respects everyone's right to anonymity except in circumstances where it is necessary for you to provide us with your identity.
 
  **Openness**
 
@@ -52,4 +54,4 @@ The Institute has an established Information Privacy Committee whose responsibil
 
 **In the first Instance alleged breaches of this policy should be referred to the area where the information was initially lodged by you.**
 
-**If a satisfactory resolution cannot be reached at this level, the alleged breach should be submitted in writing to the Institute's Privacy Officer, P.O. Box 42, Holmesglen 3148.**
+ **If a satisfactory resolution cannot be reached at this level, the alleged breach should be submitted in writing to the Institute's Privacy Officer, P.O. Box 42, Holmesglen 3148.**
