@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wittyprofiles.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330091831id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittyprofiles.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172835id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on Witty Profiles
+# Privacy Policy
 
 **What information do we collect?**
 
