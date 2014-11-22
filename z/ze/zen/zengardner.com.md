@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zengardner.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020429id_/http%3A//www.zengardner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zengardner.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161504id_/http%3A//www.zengardner.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Zen Gardner
+# Privacy - Zen Gardner
 
 Thank you for visiting ZenGardner.com. ZenGardner.com respects your privacy and is committed to protecting the privacy of any personally identifiable information that we may collect from you as you use this web site. This notice describes our privacy policies. By accessing, using or registering at ZenGardner.com you are confirming your agreement to our privacy policies as described in this Privacy Policy. You also should review our Terms of Service for more information about the policies governing your use of this web site.
 
