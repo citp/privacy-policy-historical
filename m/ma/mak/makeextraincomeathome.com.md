@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001722id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122214705id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FTC Disclaimer
 
