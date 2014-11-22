@@ -1,174 +1,103 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516100614id_/http%3A//mathgames.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161215id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Math Games - Privacy Policy
 
-### DARK BLUE SEA - PRIVACY POLICY
+TeachMe, Inc. (TeachMe) feels strongly about protecting your privacy and not contributing to the endless volumes of spam on the Internet.
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+**TeachMe will not sell, trade, or assign any non-aggregated, personally identifiable personal information that it collects to third parties.**
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+If you have any questions, concerns or comments regarding this privacy policy please contact us.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+TeachMe, Inc owns and operates a number of applications and websites, this unified privacy policy applies to all information used and collected by TeachMe, Inc and applies to MathGames ([www.mathgames.com](http://www.mathgames.com/)).
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+1\. Information Collected by TeachMe
 
+In order for you to fully participate on various TeachMe websites and applications ("Services"), you must register on TeachMe. This registration process may require you to provide your name, email, location, phone number, school and grade level information of the students you're registering, and, if payment will be required for the Services, your payment information. Users can opt to use Services without registering (“Guest Mode”) however there is a chance of data loss and limited Services functionality. TeachMe makes every attempt to be as inclusive as possible towards all of our users whatever their privacy needs might be. TeachMe utilizes cookies to track, grade and create a non-identifiable profile of all users. Without cookies many aspects of our Services will not function. Information on cookies can be found in section 10 of this Privacy Policy.
 
+2\. How TeachMe will use the information collected from you
 
-#### ABOUT THIS PRIVACY POLICY
+Mailing Address: Your mailing address may be used to send you various Service materials and payment receipts. 
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+Email Address: Email addresses will be used to send a confirmation email at registration, as well as information and updates on current and future Services. We will also email progress reports on students as well as hints and tips on how to utilize our Services to their maximum potential. TeachMe has a dedicated area were you can control the level of email exchanged with TeachMe, a direct link to this profile control area is including in all emails. Users are free to change email preferences at any time and as often as they like – including opting out of all emails sent from TeachMe. **TeachMe will not send you unsolicited third-party promotional emails.**
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+Credit Card Information: With your consent, we may use and securely save your credit card information to bill you for Services provided.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+Phone Number: Your phone number may serve as an alternate way of contacting you for the same purposes as email. 
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+Student Name: A student's name will be used to generate their username, passwords, and customize student participation with TeachMe Services.
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+Relationship to Student: A parent/teacher's relationship to the student will be used for profile and tracking purposes, to personalize student reports, create assignments and lesson plans and general Service feature functionality.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+Additional Uses: Registration Information may be used for demographic profiling, statistical analysis, and targeted advertising. Information collected for these purposes will be aggregated as non-identifiable statistical information.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+3\. Information TeachMe collects directly from a student
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+TeachMe collects information indirectly from a student in the form of the interactions that users make when participating with our Services. We refer to the information resulting from such participation, which includes but is not limited to data on when a student starts and stops a lesson, the responses a student makes to questions asked, the timing of a student's answers, a student's choice of character and customizations, and the choice of lessons to play as "Data." We will use Data to measure a student's performance and to adapt Programs to personalize educational needs, analyze a student's Data, and provide the student and the associated parent/educator with progress reports about student performance in the Services. In addition, we may aggregate student Data with the Data of other students participating in the Services for marketing and other business related purposes. Aggregate information will not identify individual students or parent/student relationships.
 
-In order to do this, we share your personal information with our related companies.
+4\. Opting-out of providing the information we request
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+Because the TeachMe Services are individualized and customized for each student, all the information we request from you and students are required for you and a student to participate in the Services, with the exception of certain information to be used for our marketing purposes. At any time, you may revoke your consent to allowing a student to participate in TeachMe Services or refuse to allow TeachMe to further use or collect student personal information. Any non-identifiable student Data will be retained, but we will no longer use any identifiable information regarding you or a student that you have provided. However, if you do any of the foregoing, site functionally might be limited to Guest Mode functionality and previous Data cannot be recovered.
 
-#### HOW WE COLLECT INFORMATION
+5\. Reviewing and changing your information
 
-**Personal Information provided to us**
+You may review and modify your Registration Information at any time by accessing our website at www.teachme.com.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+6\. Consent
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+In order to use Service, you and/or your student(s)are asked to submit certain personal information about yourselves and to authorize TeachMe to use that information in a limited number of ways. We ask you and/or the student to ensure that the Parent/Teacher has reviewed and submitted Consent as part of the registration process, which will require you to consent to our collection and use of information as described above. A sample consent form is provided to parents/teachers at the time of account registration.
 
-**Website activity, cookies and related technology**
+7\. Password Protection
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+Parents and Teachers have the ability to update student password on student-linked accounts. Passwords on non-linked accounts will require user validation before they can be reset. Ensure all passwords are kept confidential and avoid password reuse between students.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+8\. Protecting your information
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. TeachMe has multiple security measures in place to protect the loss, misuse or alteration of information under our control. Services are hosted using cloud-based services provided by Amazon. If you are viewing from the European Union or other regions with laws governing data collection that may differ from U.S. laws, please note that you are transferring your personal data to the United States, which does not have the same data protection laws as the European Union or other regions and by providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy.
 
-**IP Addresses**
+9\. Your information and third parties
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+Except as provided in this Privacy Policy, TeachMe will not disclose the information that it obtains from you to third parties without your express written permission, or where we believe that the law requires us to disclose the information. TeachMe will not sell, trade, or assign any non-aggregated personal information that it collects to third parties. We may aggregate the information that we collect from users of our Service to create demographic profiles and performance profiles regarding the progress of students who use Service. TeachMe may share aggregated information with marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of non-identifiable group statistics only. Notwithstanding anything to the contrary, as TeachMe continues to develop its business, it might sell some or all of its assets. In such transactions, customer information is generally one of the transferred business assets. An acquiring company would be required to protect all information that TeachMe collects from users of our website and Programs in accordance with the terms of this Privacy Policy.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+10\. Use of cookies
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+As a standard practice, TeachMe uses "cookies". A cookie is a small amount of data sent to your browser from our server and stored on your computer, then sent back to our server by your browser each time you access our website. Cookies enable us to track usage of our Services. In addition, cookies are required for the operation of the Services. Please note that if you refuse cookies (by turning cookies off in your browser or by clicking "don't accept", or if you have set your browser to warn you before accepting cookies), our Services might not work correctly.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+11\. Children's Online Privacy Protection Act (COPPA)
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+The Children's Online Privacy Protection Act of 1998 (COPPA) is designed to protect children's privacy during use of the Internet. TeachMe has implemented practices consistent with the guidelines provided by the Federal Trade Commission to date. TeachMe will never knowingly request personally identifiable information or private content from anyone under the age of 13 without parental or educator consent. If you are a parent, legal guardian, or educator of a user under 13 you may, at any time, revoke your consent to allow a student to use the Services under your subscription, refuse to allow TeachMe to further use or collect a student's personal information, or direct TeachMe to delete all identifiable information regarding a student that you have provided. To do so, please contact our Privacy Officer at the contact information below. However, if you do any of the foregoing, site functionally might be limited to Guest Mode functionality. If you would like more information about COPPA, please go to <http://www.ftc.gov/ogc/coppa1.html>.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+12\. The Children's Internet Protection Act (CIPA)
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+The Children's Internet Protection Act (CIPA) is a law enacted December 2000 to address concerns about access to offensive content over the Internet on school and library computers. CIPA imposes certain types of requirements on any school or library that receives funding support for Internet access or internal connections from the "E-rate" program - a program that makes certain technology more affordable for eligible schools and libraries. Our Services do not provide links to external resources or chat rooms, and do not contain any offensive or inappropriate matter. As a result, any school or library that uses TeachMe Programs is fully compliant with CIPA. If you would like more information about CIPA, please go to <http://www.fcc.gov/cgb/consumerfacts/cipa.html>.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+13\. The Family Educational Rights and Privacy Act (FERPA)
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+The Family Educational Rights and Privacy Act (FERPA) is a law that protects the privacy of student education records. The law applies to all schools that receive funds from the U.S. Department of Education. FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. TeachMe is fully compliant with FERPA.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+  1. 1) Any sensitive online information is transmitted over secure channels.
+  2. 2) All student data are stored in ways that are not publicly accessible.
+  3. 3) Security audits are regularly performed to ensure data integrity.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+TeachMe does not share student information with any third parties. If a school requests that Data should be sent to a third party, with parental consent, TeachMe would send the data to the school and never directly to the third party. If you would like more information about FERPA, please go to <http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html>.
 
-#### EPP SHARING ARRANGEMENTS
+14\. Amendments
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+TeachMe may amend this Privacy Policy from time to time. We will notify you by email regarding any material changes to our privacy and security practices. Please review all revisions to the Privacy Policy. Your continued use of our Services after the date TeachMe has updated such policies will be deemed to be your agreement to the changed terms.
 
-#### PROTECTING KIDS PRIVACY
+Last Updated: April 1st 2014
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+15\. Contact Us
 
-**Notice to Kids**
+Mail (Snail):
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+Attention: Privacy Officer  
+TeachMe, Inc.  
+301, 10359-104 Street  
+Edmonton, Alberta Canada  
+T5J 1B9 
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+Mail (Electronic):
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
-
-**Notice to Parents**
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
-
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+info@teachme.com
