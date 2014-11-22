@@ -1,12 +1,70 @@
-<!--The following is the downloaded HTML source of the nextgov.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230102132id_/http%3A//www.nextgov.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextgov.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122152321id_/http%3A//www.nextgov.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+  <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  if(typeof String.prototype.trim !== 'function') {
+    String.prototype.trim = function() {
+      return this.replace(/^\s+|\s+$/g, '');
+    }
+  }
+
+  function hasCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+      var c = ca[i].trim();
+      if (c.indexOf(name)==0) return true;
+    }
+    return false;
+  }
+
+  function deleteCookie(cname) {
+    //set to a past expiration to delete cookie
+    setCookie(cname, "delete", -2);
+  }
+
+  function setCookie(cname,cvalue,exdays) {
+    if (typeof exdays != "undefined") {
+      var d = new Date();
+      d.setTime(exdays);
+      var expires = "expires="+d.toGMTString();
+      document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+    } else {
+      document.cookie = cname + "=" + cvalue + "; path=/";
+    }
+  }
+
+  function getCookie(cname) {
+      var name = cname + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0; i<ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1);
+          if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+      }
+      return "";
+  }
+</script>
+
+  
+
+
   
 
 	<meta charset="utf-8">
+
+  <meta property="article:publisher" content="http://www.facebook.com/Nextgov">
+  <meta property="fb:admins" content="578600878">
+  <meta property="og:site_name" content="Nextgov">
+  
+  
+<meta name="sailthru.date" content="2014-11-22T15:22:49Z">
+<meta name="sailthru.title" content="Privacy Policy">
+<meta name="sailthru.tags" content="type-static,site-nextgov">
+  
+
 	<title>Privacy Policy</title>
-	<link media="all" rel="stylesheet" href="http://cdn.nextgov.com/nextgov/css/all.css?v=2.1.5.1">
 
     
     
@@ -17,54 +75,27 @@
     
     
     
-	<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery-ui-1.8.21.custom.min.js"></script><!-- custom download: Core, Effects Core, Effect "Fade" -->
     <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery.main.js?v=2.1.2"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/newsletter.form.js?v=1.3.16"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.form.js"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/omniture/s-code.js?v=1.1"></script>
+    <script type="text/javascript" src="http://cdn.nextgov.com/js/disqus-loader.js?v=2.4.1.2"></script>
+    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery.main.js?v=2.4.1.2"></script>
+    <script type="text/javascript" src="http://cdn.nextgov.com/js/newsletter.form.js?v=2.4.1.2"></script>
+    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.form.js?v=2.4.1.2"></script>
+    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/omniture/s-code.js?v=2.4.1.2"></script>
 
-    
-    <script type="text/javascript">
-      //<![CDATA[
-      
-        var suppressWelcomeAd = false;
-      
-      var isiPad = navigator.userAgent.match(/iPad/i) != null;
-      // iPad detection and  check for onswipe_redirect=never in the URL
-      if (isiPad && !$.cookie("desktopPreferred")) {
-        function getUrlVar(key){
-          var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
-          return result && encodeURIComponent(result[1]) || "";
-        }
-        if (getUrlVar("onswipe_redirect") == "never") {
-          // set cookie to enable welcome ad for iPad
-          $.cookie("desktopPreferred", "1");
-        }
-      }
-      if (!$.cookie("welcomeAdViewed") && (!isiPad || isiPad && $.cookie("desktopPreferred"))) {
-        $.cookie("cookiesEnabled", "1");
-        if ($.cookie("cookiesEnabled"))	{
-          $.removeCookie("cookiesEnabled");
-          currentDate = new Date();
-          eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
-          $.cookie("welcomeAdViewed", "1", Math.round((eod.getTime() - currentDate.getTime()) / 1000));
-
-          if (!suppressWelcomeAd) {
-            window.location = 'http://cdn.nextgov.com/nextgov/interstitial.html?v=2.1.1&rf=' + encodeURIComponent(window.location);
-          }
-        }
-      }
-      //]]>
-    </script>
-    
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-all.css" media="screen"/><![endif]-->
-	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie.css" media="screen"/><![endif]-->
-	<!--[if lt IE 9]>
-    <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-8.css" media="screen"/>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
-  </script><![endif]-->
+  <link media="all" rel="stylesheet" href="http://cdn.nextgov.com/nextgov/css/all.css?v=2.4.1.2">
+  <link media="all" rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/css/responsive_embed.css?v=2.4.1.2">
+<!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-all.css?v=2.4.1.2" media="screen"/>
+<![endif]-->
+<!--[if lt IE 8]>
+  <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie.css?v=2.4.1.2" media="screen"/>
+<![endif]-->
+<!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-8.css?v=2.4.1.2" media="screen"/>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
   <script type="text/javascript">var switchTo5x=true;</script>
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -113,6 +144,33 @@
     </script>
   
 
+  
+    <script type="text/javascript">
+  __reach_config = {
+    authors: [],
+    channels: [],
+    
+    date: '2014-11-22T15:22:49Z',
+    
+    iframe: true,
+    pid: '543d862cd70ba01425000003',
+    tags: [],
+    title: 'Privacy Policy',
+    url: 'http://www.nextgov.com/about/privacy-policy/',
+    domain: 'www.nextgov.com',
+    ignore_errors: false
+  };
+  (function(){
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+  })();
+</script><script async="" type="text/javascript" src="https://d8rk54i4mohrb.cloudfront.net/js/reach.js"></script>
+  
+
+
 <script async="" type="text/javascript" src="http://cdn.nextgov.com/js/custom_disqus_count_ng.js?v=2.1.4"></script></head>
 <body class="">
 
@@ -157,6 +215,7 @@ s.prop35=""
 s.prop36=""
 s.prop37=""
 s.prop38=""
+s.prop39="Error: not set"
 s.hier1="static/privacy policy"
 s.hier2=""
 s.hier3=""
@@ -165,9 +224,41 @@ if ((typeof(Govexec) != "undefined") && (typeof(Govexec.get_format)=== 'function
   s.prop38 = Govexec.get_format();
 }
 
-if (adblock) {
+if (typeof(adblock) != 'undefined' && adblock) {
   s.prop32 = "True";
 }
+
+// Collect referrer; override omniture referrer; clear cookie
+var referrerCookieName = "referrer:" + window.location;
+var referredThroughInterstitial = document.referrer.indexOf("interstitial.html") > -1;
+s.prop50 = (referredThroughInterstitial) ? "true" : "false";
+if (referredThroughInterstitial) {
+  if (hasCookie(referrerCookieName)) {
+    var originalReferrer = getCookie(referrerCookieName);
+    deleteCookie(referrerCookieName);
+
+    // Might be Typed/Bookmarked or Referrer (see layout file)
+    s.prop39 = originalReferrer;
+  } else {
+    // Referrer cookie lost
+    s.prop39 = "Referrer Lost"
+  }
+} else {
+  // Not routed through interstitial
+  if (document.referrer != "") {
+    // Not routed through interstitial; set prop39 to standard referrer
+
+    // trick for getting the hostname
+    var host_tmp = document.createElement("a");
+    host_tmp.href = document.referrer;
+
+    s.prop39 = host_tmp.hostname;
+  } else {
+    // No referrer; URL was directly entered / bookmarked
+    s.prop39 = "Typed/Bookmarked";
+  }
+}
+
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code) document.write(s_code)
@@ -203,7 +294,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=top
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topleader;sz=728x90;tile=1;ord=655311127?"></script>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topleader;sz=728x90;tile=1;ord=497122437?"></script>
   
     <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=topleader;sz=728x90;" title="">
@@ -222,13 +313,13 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								<span class="text">TRENDING</span>
 								<ul class="menu" id="menu">
 								
-									<li><a href="/health/special-report-technology-behind-obamacare/72407/?oref=ng-trending">HealthCare.gov</a></li>
+									<li><a href="/cybersecurity/2014/11/postal-employees-youve-been-hacked/98627/?oref=ng-trending">Postal Hack</a></li>
 								
-									<li><a href="/defense/broken-warriors/55403/?oref=ng-trending">Broken Warriors</a></li>
+									<li><a href="/cio-briefing/2014/11/pennsylvania-nstic/98807/?oref=ng-trending">Killing the Password</a></li>
 								
-									<li><a href="/big-data/open-data/63211/?oref=ng-trending">Open Data</a></li>
+									<li><a href="/cio-briefing/2014/11/telework-trial-house-committees-probe-patent-office-telework-fraud/98759/?oref=ng-trending">Telework Fraud</a></li>
 								
-									<li class="last-child"><a href="https://itunes.apple.com/us/app/nextgov/id700993038?mt=8">Nextgov's App</a></li>
+									<li class="last-child"><a href="/cybersecurity/2014/10/are-white-house-hackers-gone/97775/?oref=ng-trending">White House Breach</a></li>
 								
 								</ul>
 							</nav>
@@ -241,11 +332,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/122713vthealthNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/cio-briefing/wired-workplace/2014/11/government-tech-recruiting-still-overshadowed-healthcaregov-blunder/99599/?oref=ng-skybox">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/11/20/112014toddparkNG/nextgov-skybox.jpg" alt="Todd Park, former chief technology officer of the US, prepares to testify on Capitol Hill" title="Todd Park, former chief technology officer of the US, prepares to testify on Capitol Hill" height="108" width="235">
 
 
-										<span class="text-holder"><span class="text-holder-inner">Wanted: Obamacare Site Refunds</span></span>
+										<span class="text-holder"><span class="text-holder-inner">Tech Recruiting after HealthCare.gov</span></span>
 									</a>
 								</div></li>
 							
@@ -254,11 +345,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/122713chinajapanNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/cybersecurity/2014/11/timeline-how-postal-service-data-breach-went-down/99494/?oref=ng-skybox">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/11/19/111914uspshackNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span class="text-holder-inner">At Odds in the Cloud</span></span>
+										<span class="text-holder"><span class="text-holder-inner">Timeline: USPS Data Breach</span></span>
 									</a>
 								</div></li>
 							
@@ -267,24 +358,47 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/health/2013/12/next-frontier-3-d-printing-human-organs/76013/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/6165114664_5fab6e38ff_b/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/cybersecurity/2014/11/report-government-has-only-5-years-secure-internet-things/99446/?oref=ng-skybox">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/11/19/111914internetofthingsNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span class="text-holder-inner">3-D Printing Human Organs</span></span>
+										<span class="text-holder"><span class="text-holder-inner">The Insecurity of the Internet of Things</span></span>
 									</a>
 								</div></li>
 							
 
 								<li>
 									
-											<div>
-										
-									<a href="/mobile/2013/12/census-dropping-blackberry-will-outfit-surveyors-iphones/75929/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/12/23/122313iphoneGE/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+
+  									<div class="ad ad-skybox-ng" id="skybox-ng-ad">
+	
+	<script type="text/javascript">
+//<![CDATA[
+if (typeof window.dart_random_ord == 'undefined') {
+	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
+}
+
+var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=skybox-ng;sz=235x108;tile=2;ord=' + window.dart_random_ord + '?';
+document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
+
+//]]>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=skybox-ng;sz=235x108;tile=2;ord=497122437?"></script>
+  
+    <noscript>
+      <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=skybox-ng;sz=235x108;" title="">
+        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/about;pos=skybox-ng;sz=235x108;tile=2;" alt="" />
+      </a>
+      </noscript>
+  
+</div>
+
+  									<div class="replacement-ad-content" id="skybox-ng-ad-replacement-content">
+  									  	
+									<a href="/cybersecurity/2014/11/hackers-possibly-copied-postal-employee-pay-records/99470/?oref=ng-skybox">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/11/19/111914lettercarrierNG/nextgov-skybox.jpg" alt="U.S. Postal Service letter carrier, Jamesa Euler, delivers mail, in Atlanta." title="U.S. Postal Service letter carrier, Jamesa Euler, delivers mail, in Atlanta." height="108" width="235">
 
 
-										<span class="text-holder"><span class="text-holder-inner">Census Drops BlackBerry</span></span>
+										<span class="text-holder"><span class="text-holder-inner">Postal Pay Records May Be At Risk</span></span>
 									</a>
 								</div></li>
 							
@@ -309,25 +423,26 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/?oref=ng-dropdown">
+              <a href="/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/29/122713targetNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114mickjaggerNG/thumb-large.jpg" alt="Singer Mick Jagger of British band, the Rolling Stones." title="Singer Mick Jagger of British band, the Rolling Stones." height="131" width="218">
                 </div>
                 <header class="heading">
-                  Target Says Encrypted PINs Were Stolen, Too
+                  Hackers Scam Uncle Sam, Upset Mick Jagger and Rob HSBC
                 </header>
               </a>
               
-                <p>The retailer says it's confident the PINs remain secured after Black Friday data theft. </p>
+                <p>Just another week in ThreatWatch, our regularly updated index of noteworthy data breaches.
+</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" st_title="Target Says Encrypted PINs Were Stolen, Too" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/#disqus_thread" data-disqus-identifier="post_76043"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" st_title="Hackers Scam Uncle Sam, Upset Mick Jagger and Rob HSBC" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/#disqus_thread" data-disqus-identifier="post_99692"></a></li>
                 </ul>
-                <span class="date">// December 27, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -339,11 +454,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/defense/2013/12/analysis-nsa-surveillance-constitutional/76046/?oref=ng-dropdown"><strong>Analysis: Is NSA Surveillance Constitutional? </strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/emerging-tech/emerging-tech-blog/2014/11/infographic-nasas-next-rocket/99680/?oref=ng-dropdown"><strong>Infographic: NASA's Next Rocket</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/?oref=ng-dropdown"><strong>Massachusetts, Vermont Want Refunds for Troubled Obamacare Websites</strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/technology-news/tech-insider/2014/11/why-do-so-few-feds-champion-customer-experience/99704/?oref=ng-dropdown"><strong>Why Do So Few Feds Champion User Experience?</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/?oref=ng-dropdown"><strong>LG Thinks It’s Time You Started Chatting With Your Appliances—via Line</strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/?oref=ng-dropdown"><strong>VA’s Aggressive Plan for Shedding Its 'Back-to-the-Future' Era Scheduling System </strong> <span class="date">// November 21, 2014</span></a></li>
                 
               </ul>
               
@@ -365,25 +480,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/?oref=ng-dropdown">
+              <a href="/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/26/122613emergencyNG/thumb-large.jpg" alt="Emergency responders train in Oregon in 2011." title="Emergency responders train in Oregon in 2011." height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114obamaNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Emergency Alert System May Go Commercial
+                  Obama's Net-Neutrality Plan Could Mean New Internet Fees
                 </header>
               </a>
               
-                <p>The current system is dogged by inefficiencies that could cost lives, FEMA says.</p>
+                <p>The president wants to treat the Internet like a utility, which could trigger new government tolls.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/" st_title="Emergency Alert System May Go Commercial" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/#disqus_thread" data-disqus-identifier="post_75974"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/" st_title="Obama's Net-Neutrality Plan Could Mean New Internet Fees" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/#disqus_thread" data-disqus-identifier="post_99656"></a></li>
                 </ul>
-                <span class="date">// December 26, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -395,11 +510,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/cio-briefing/2013/12/most-scientific-research-data-1990s-lost-forever/75941/?oref=ng-dropdown"><strong>Most Scientific Research Data From the 1990s Is Lost Forever</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/technology-news/tech-insider/2014/11/why-do-so-few-feds-champion-customer-experience/99704/?oref=ng-dropdown"><strong>Why Do So Few Feds Champion User Experience?</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/mobile/2013/12/census-dropping-blackberry-will-outfit-surveyors-iphones/75929/?oref=ng-dropdown"><strong>Census Dropping BlackBerry, Will Outfit Surveyors with iPhones</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/?oref=ng-dropdown"><strong>VA’s Aggressive Plan for Shedding Its 'Back-to-the-Future' Era Scheduling System </strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/cio-briefing/2013/12/10-biggest-scientific-breakthroughs-2013/75866/?oref=ng-dropdown"><strong>The 10 Biggest Scientific Breakthroughs of 2013</strong> <span class="date">// December 20, 2013</span></a></li>
+                  <li><a href="/cybersecurity/2014/11/public-and-private-sides-white-house-cyber-director-ari-schwartz/99605/?oref=ng-dropdown"><strong>What a Privacy Activist Turned Top White House Adviser Thinks About Cybersecurity</strong> <span class="date">// November 20, 2014</span></a></li>
                 
               </ul>
               
@@ -421,25 +536,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/?oref=ng-dropdown">
+              <a href="/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/122713washingmachineNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114socialmediaNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  LG Thinks It’s Time You Started Chatting With Your Appliances—via Line
+                  Immigrants Use Social Networking to Prove Residency
                 </header>
               </a>
               
-                <p>The brand's new washing machines, robotic vacuums and ovens will be able to accept remote instructions.</p>
+                <p>Applicants have submitted check-ins at restaurants and movie theaters, parties and sporting events, to show they were in the United States.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/" st_title="LG Thinks It’s Time You Started Chatting With Your Appliances—via Line" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/emerging-tech/2013/12/lg-thinks-its-time-you-started-chatting-your-appliances-line/76019/#disqus_thread" data-disqus-identifier="post_76019"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/" st_title="Immigrants Use Social Networking to Prove Residency" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/#disqus_thread" data-disqus-identifier="post_99659"></a></li>
                 </ul>
-                <span class="date">// December 27, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -451,11 +566,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/health/2013/12/next-frontier-3-d-printing-human-organs/76013/?oref=ng-dropdown"><strong>The Next Frontier for 3-D Printing: Human Organs</strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/emerging-tech/emerging-tech-blog/2014/11/infographic-nasas-next-rocket/99680/?oref=ng-dropdown"><strong>Infographic: NASA's Next Rocket</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/emerging-tech/2013/12/methane-hydrate-could-be-energy-source-future/75998/?oref=ng-dropdown"><strong>Methane Hydrate Could Be the Energy Source of the Future</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/?oref=ng-dropdown"><strong>Why Is Apple Gobbling Up a Quarter of the World’s Sapphire Supply?</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/emerging-tech/2013/12/2013-was-lost-year-tech-innovation/75986/?oref=ng-dropdown"><strong>2013 Was a Lost Year for Tech Innovation</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/cio-briefing/2014/11/obamas-net-neutrality-plan-could-mean-new-internet-fees/99656/?oref=ng-dropdown"><strong>Obama's Net-Neutrality Plan Could Mean New Internet Fees</strong> <span class="date">// November 21, 2014</span></a></li>
                 
               </ul>
               
@@ -477,25 +592,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/?oref=ng-dropdown">
+              <a href="/cloud-computing/2014/11/cloud-data-breaches-inevitable-2015-forrester-says/99257/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/122713chinajapanNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/17/111714cloudhackNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Even in the Cloud, Japan and China Are at Odds
+                  More Cloud Data Breaches ‘Inevitable’ in 2015, Forrester Says
                 </header>
               </a>
               
-                <p>Japan’s National Information Security Center has asked government ministries to wean themselves off foreign-made typing apps.</p>
+                <p>The findings should raise eyebrows particularly for government customers, who put a premium on protecting sensitive information.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/" st_title="Even in the Cloud, Japan and China Are at Odds" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cloud-computing/2013/12/even-cloud-japan-and-china-are-odds/76016/#disqus_thread" data-disqus-identifier="post_76016"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cloud-computing/2014/11/cloud-data-breaches-inevitable-2015-forrester-says/99257/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cloud-computing/2014/11/cloud-data-breaches-inevitable-2015-forrester-says/99257/" st_title="More Cloud Data Breaches ‘Inevitable’ in 2015, Forrester Says" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cloud-computing/2014/11/cloud-data-breaches-inevitable-2015-forrester-says/99257/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cloud-computing/2014/11/cloud-data-breaches-inevitable-2015-forrester-says/99257/#disqus_thread" data-disqus-identifier="post_99257"></a></li>
                 </ul>
-                <span class="date">// December 27, 2013</span>
+                <span class="date">// November 17, 2014</span>
               </div>
             </div>
             
@@ -507,11 +622,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/?oref=ng-dropdown"><strong>Emergency Alert System May Go Commercial</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/cybersecurity/2014/11/connectgov-governmentwide-login-portal-unaffected-hack/99350/?oref=ng-dropdown"><strong>Governmentwide Login Portal Connect.gov Unaffected by Hack</strong> <span class="date">// November 18, 2014</span></a></li>
                 
-                  <li><a href="/cloud-computing/2013/12/needs-be-invented-internet-things-can-take/75604/?oref=ng-dropdown"><strong>This Needs to Be Invented Before the Internet of Things Can Take Off</strong> <span class="date">// December 17, 2013</span></a></li>
+                  <li><a href="/cloud-computing/2014/11/nsa-turns-cloud-help-manage-data-deluge/99104/?oref=ng-dropdown"><strong>NSA Turns to the Cloud to Help Manage Data Deluge </strong> <span class="date">// November 14, 2014</span></a></li>
                 
-                  <li><a href="/cio-briefing/2013/12/proposed-budget-deal-offers-stability-federal-it/75356/?oref=ng-dropdown"><strong>Proposed Budget Deal Offers Stability for Federal IT</strong> <span class="date">// December 11, 2013</span></a></li>
+                  <li><a href="/cloud-computing/2014/11/cloud-chief-data-centers-government-will-be-thing-past/99020/?oref=ng-dropdown"><strong>Amazon's Cloud Chief: Government Data Centers Will Be a Thing of the Past</strong> <span class="date">// November 13, 2014</span></a></li>
                 
               </ul>
               
@@ -533,25 +648,26 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/?oref=ng-dropdown">
+              <a href="/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/29/122713targetNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114mickjaggerNG/thumb-large.jpg" alt="Singer Mick Jagger of British band, the Rolling Stones." title="Singer Mick Jagger of British band, the Rolling Stones." height="131" width="218">
                 </div>
                 <header class="heading">
-                  Target Says Encrypted PINs Were Stolen, Too
+                  Hackers Scam Uncle Sam, Upset Mick Jagger and Rob HSBC
                 </header>
               </a>
               
-                <p>The retailer says it's confident the PINs remain secured after Black Friday data theft. </p>
+                <p>Just another week in ThreatWatch, our regularly updated index of noteworthy data breaches.
+</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" st_title="Target Says Encrypted PINs Were Stolen, Too" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cybersecurity/2013/12/target-says-encrypted-pins-were-stolen-too/76043/#disqus_thread" data-disqus-identifier="post_76043"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" st_title="Hackers Scam Uncle Sam, Upset Mick Jagger and Rob HSBC" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cybersecurity/2014/11/hackers-scam-uncle-sam-upset-mick-jagger-and-rob-hsbc/99692/#disqus_thread" data-disqus-identifier="post_99692"></a></li>
                 </ul>
-                <span class="date">// December 27, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -563,11 +679,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/mobile/2013/12/census-dropping-blackberry-will-outfit-surveyors-iphones/75929/?oref=ng-dropdown"><strong>Census Dropping BlackBerry, Will Outfit Surveyors with iPhones</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/cybersecurity/2014/11/public-and-private-sides-white-house-cyber-director-ari-schwartz/99605/?oref=ng-dropdown"><strong>What a Privacy Activist Turned Top White House Adviser Thinks About Cybersecurity</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/?oref=ng-dropdown"><strong>NSA Panel Member Recommends Increased Data Collection</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/big-data/2014/11/lawmaker-says-nsa-should-end-phone-spying-its-own/99593/?oref=ng-dropdown"><strong>Lawmaker Says NSA Should End Phone Spying On Its Own</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="/cybersecurity/2013/12/inside-black-market-buys-and-sells-targets-stolen-credit-cards/75938/?oref=ng-dropdown"><strong>Inside the Black Market That Buys and Sells Target’s Stolen Credit Cards</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/?oref=ng-dropdown"><strong>Yes, Your Pacemaker Can Get Hacked</strong> <span class="date">// November 20, 2014</span></a></li>
                 
               </ul>
               
@@ -589,25 +705,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/mobile/2013/12/why-christmas-agonizing-time-app-developers/75992/?oref=ng-dropdown">
+              <a href="/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/26/122613appsNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114iphoneNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Why Christmas Is an Agonizing Time for App Developers
+                  Why Is Apple Gobbling Up a Quarter of the World’s Sapphire Supply?
                 </header>
               </a>
               
-                <p>A hit can mean millions of new downloads. But it also usually involves spending millions on marketing.</p>
+                <p>The sapphire is used to cover the iPhone’s camera lens and fingerprint reader.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/mobile/2013/12/why-christmas-agonizing-time-app-developers/75992/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/mobile/2013/12/why-christmas-agonizing-time-app-developers/75992/" st_title="Why Christmas Is an Agonizing Time for App Developers" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/mobile/2013/12/why-christmas-agonizing-time-app-developers/75992/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/mobile/2013/12/why-christmas-agonizing-time-app-developers/75992/#disqus_thread" data-disqus-identifier="post_75992"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/" st_title="Why Is Apple Gobbling Up a Quarter of the World’s Sapphire Supply?" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/mobile/2014/11/why-apple-gobbling-quarter-worlds-sapphire-supply/99665/#disqus_thread" data-disqus-identifier="post_99665"></a></li>
                 </ul>
-                <span class="date">// December 26, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -619,11 +735,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/mobile/2013/12/study-consumers-will-pay-5-app-respects-their-privacy/76007/?oref=ng-dropdown"><strong>Study: Consumers Will Pay $5 for an App That Respects Their Privacy</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/emerging-tech/2014/11/immigrants-are-using-facebook-check-ins-prove-residency/99659/?oref=ng-dropdown"><strong>Immigrants Use Social Networking to Prove Residency</strong> <span class="date">// November 21, 2014</span></a></li>
                 
-                  <li><a href="/cio-briefing/2013/12/emergency-alert-system-may-go-commercial/75974/?oref=ng-dropdown"><strong>Emergency Alert System May Go Commercial</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/mobile/2014/11/apple-pay-here-and-federal-agencies-need-be-ready/99365/?oref=ng-dropdown"><strong>Are Federal Agencies Ready for Apple Pay?</strong> <span class="date">// November 18, 2014</span></a></li>
                 
-                  <li><a href="/mobile/2013/12/christmas-biggest-app-downloading-day-year/75947/?oref=ng-dropdown"><strong>Christmas Is the Biggest App Downloading Day of the Year</strong> <span class="date">// December 24, 2013</span></a></li>
+                  <li><a href="/emerging-tech/2014/11/facebook-doomed/99314/?oref=ng-dropdown"><strong>Is Facebook Doomed?</strong> <span class="date">// November 18, 2014</span></a></li>
                 
               </ul>
               
@@ -645,25 +761,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/?oref=ng-dropdown">
+              <a href="/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/27/122713vthealthNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/20/112014pacemakerNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Massachusetts, Vermont Want Refunds for Troubled Obamacare Websites
+                  Yes, Your Pacemaker Can Get Hacked
                 </header>
               </a>
               
-                <p>CGI Federal engineered state-level exchanges, in addition to HealthCare.gov.</p>
+                <p>Lapses in cybersecurity leave hospital records and patients' medical devices open to exploitation.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/" st_title="Massachusetts, Vermont Want Refunds for Troubled Obamacare Websites" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/health/2013/12/massachusetts-vermont-want-refunds-troubled-obamacare-websites/76022/#disqus_thread" data-disqus-identifier="post_76022"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/" st_title="Yes, Your Pacemaker Can Get Hacked" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/health/2014/11/yes-your-pacemaker-can-get-hacked/99581/#disqus_thread" data-disqus-identifier="post_99581"></a></li>
                 </ul>
-                <span class="date">// December 27, 2013</span>
+                <span class="date">// November 20, 2014</span>
               </div>
             </div>
             
@@ -675,11 +791,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/health/2013/12/next-frontier-3-d-printing-human-organs/76013/?oref=ng-dropdown"><strong>The Next Frontier for 3-D Printing: Human Organs</strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/mobile/2014/11/iphone-case-can-call-police/98798/?oref=ng-dropdown"><strong>The iPhone Case That Can Call the Police</strong> <span class="date">// November 11, 2014</span></a></li>
                 
-                  <li><a href="/health/2013/12/many-people-signed-obamacare-last-minute/76010/?oref=ng-dropdown"><strong>Many People Signed Up for Obamacare at the Last Minute</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/health/2014/11/relaunched-healthcaregov-can-handle-twice-much-traffic-last-year/98672/?oref=ng-dropdown"><strong>Relaunched HealthCare.gov Can Handle Twice as Much Traffic as Last Year</strong> <span class="date">// November 10, 2014</span></a></li>
                 
-                  <li><a href="/health/2013/12/healthcaregov-warning-taken-out-context/75995/?oref=ng-dropdown"><strong>Analysis: A HealthCare.gov Warning Taken out of Context</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/health/2014/11/pentagon-casts-wider-net-avert-next-ebola-it-arrives/98390/?oref=ng-dropdown"><strong>Pentagon Casts Wider Net to Avert the Next Ebola Before It Arrives</strong> <span class="date">// November 6, 2014</span></a></li>
                 
               </ul>
               
@@ -701,25 +817,26 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/defense/2013/12/researchers-it-trivially-easy-match-metadata-real-people/75989/?oref=ng-dropdown">
+              <a href="/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/26/122613metadataNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114veteranspatientsNG/thumb-large.jpg" alt="A wheelchair sits outside the Atlanta VA Medical Center in Atlanta. " title="A wheelchair sits outside the Atlanta VA Medical Center in Atlanta. " height="131" width="218">
                 </div>
                 <header class="heading">
-                  Researchers<span class="font-override">:</span> It Is Trivially Easy to Match Metadata to Real People
+                  VA’s Aggressive Plan for Shedding Its 'Back-to-the-Future' Era Scheduling System 
                 </header>
               </a>
               
-                <p>Telephony metadata NSA collects does not include customer names, but it's easy to figure them out.</p>
+                <p>VA is now taking bids for commercial software to replace a clunky 1980s-era system for scheduling medical appointments. 
+</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2013/12/researchers-it-trivially-easy-match-metadata-real-people/75989/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2013/12/researchers-it-trivially-easy-match-metadata-real-people/75989/" st_title="Researchers: It Is Trivially Easy to Match Metadata to Real People" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2013/12/researchers-it-trivially-easy-match-metadata-real-people/75989/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/defense/2013/12/researchers-it-trivially-easy-match-metadata-real-people/75989/#disqus_thread" data-disqus-identifier="post_75989"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/" st_title="VA’s Aggressive Plan for Shedding Its 'Back-to-the-Future' Era Scheduling System " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/defense/2014/11/vas-aggressive-plan-shedding-its-back-future-era-scheduling-software/99683/#disqus_thread" data-disqus-identifier="post_99683"></a></li>
                 </ul>
-                <span class="date">// December 26, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -731,11 +848,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/defense/2013/12/analysis-nsa-surveillance-constitutional/76046/?oref=ng-dropdown"><strong>Analysis: Is NSA Surveillance Constitutional? </strong> <span class="date">// December 27, 2013</span></a></li>
+                  <li><a href="/cybersecurity/2014/11/public-and-private-sides-white-house-cyber-director-ari-schwartz/99605/?oref=ng-dropdown"><strong>What a Privacy Activist Turned Top White House Adviser Thinks About Cybersecurity</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="/big-data/2013/12/edward-snowden-congresss-failures-forced-my-hand/75983/?oref=ng-dropdown"><strong>Edward Snowden: Congress's Failures Forced My Hand</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/defense/2014/11/cias-official-book-reviewer-unimpressed-tomes-snowden/99587/?oref=ng-dropdown"><strong>CIA’s Official Book Reviewer Unimpressed with Tomes on Snowden</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="/defense/whats-brewin/2013/12/good-cheer-all/75968/?oref=ng-dropdown"><strong>Good Cheer to All</strong> <span class="date">// December 24, 2013</span></a></li>
+                  <li><a href="/big-data/2014/11/senate-vote-rein-nsa-spying-falls-short/99452/?oref=ng-dropdown"><strong>Senate Vote to Rein in NSA Spying Falls Short</strong> <span class="date">// November 19, 2014</span></a></li>
                 
               </ul>
               
@@ -757,25 +874,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/?oref=ng-dropdown">
+              <a href="/big-data/2014/11/number-works-licensed-under-creative-commons-will-surpass-1-billion-2015/99662/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2013/12/23/122313morellNG/thumb-large.jpg" alt=" &quot;I would argue actually that the email data is probably more valuable than the telephony data,&quot; Michael Morell said in a telephone interview." title=" &quot;I would argue actually that the email data is probably more valuable than the telephony data,&quot; Michael Morell said in a telephone interview." height="131" width="218">
+                  <img src="http://cdn.nextgov.com/media/img/upload/2014/11/21/112114creativecommonsNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  NSA Panel Member Recommends Increased Data Collection
+                   The Number of Works Licensed Under Creative Commons Will Surpass 1 Billion by 2015
                 </header>
               </a>
               
-                <p>Former CIA chief says controversial 'bulk' collection of data should be expanded to include email, and could prevent the next 9/11.</p>
+                <p>The number of creations under open 'Creative Commons' licenses has doubled since 2010</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/" st_title="NSA Panel Member Recommends Increased Data Collection" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/big-data/2013/12/nsa-panel-member-recommends-increased-data-collection/75890/#disqus_thread" data-disqus-identifier="post_75890"></a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/big-data/2014/11/number-works-licensed-under-creative-commons-will-surpass-1-billion-2015/99662/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/big-data/2014/11/number-works-licensed-under-creative-commons-will-surpass-1-billion-2015/99662/" st_title=" The Number of Works Licensed Under Creative Commons Will Surpass 1 Billion by 2015" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/big-data/2014/11/number-works-licensed-under-creative-commons-will-surpass-1-billion-2015/99662/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/big-data/2014/11/number-works-licensed-under-creative-commons-will-surpass-1-billion-2015/99662/#disqus_thread" data-disqus-identifier="post_99662"></a></li>
                 </ul>
-                <span class="date">// December 23, 2013</span>
+                <span class="date">// November 21, 2014</span>
               </div>
             </div>
             
@@ -787,11 +904,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/big-data/2013/12/edward-snowden-congresss-failures-forced-my-hand/75983/?oref=ng-dropdown"><strong>Edward Snowden: Congress's Failures Forced My Hand</strong> <span class="date">// December 26, 2013</span></a></li>
+                  <li><a href="/big-data/2014/11/lawmaker-says-nsa-should-end-phone-spying-its-own/99593/?oref=ng-dropdown"><strong>Lawmaker Says NSA Should End Phone Spying On Its Own</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="http://www.govexec.com/excellence/promising-practices/2013/12/how-va-using-big-data-keep-patients-out-hospital/75935/?oref=ng-dropdown"><strong>How VA Is Using Big Data to Keep Patients Out of the Hospital</strong> <span class="date">// December 23, 2013</span></a></li>
+                  <li><a href="/cybersecurity/2014/11/parsing-rand-pauls-no-vote-nsa-reform/99533/?oref=ng-dropdown"><strong> Parsing Rand Paul’s ‘No’ Vote on NSA Reform</strong> <span class="date">// November 20, 2014</span></a></li>
                 
-                  <li><a href="/defense/2013/12/congress-lops-35-million-funding-nsa-supercomputer-center/75770/?oref=ng-dropdown"><strong>Congress Lops $35 Million Off Funding for NSA Supercomputer Center</strong> <span class="date">// December 19, 2013</span></a></li>
+                  <li><a href="/big-data/2014/11/senate-vote-rein-nsa-spying-falls-short/99452/?oref=ng-dropdown"><strong>Senate Vote to Rein in NSA Spying Falls Short</strong> <span class="date">// November 19, 2014</span></a></li>
                 
               </ul>
               
@@ -818,11 +935,11 @@ if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
 
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=2;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=3;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=2;ord=655311127?"></script>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=3;ord=497122437?"></script>
   
 </div>
 
@@ -830,6 +947,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
           
         
 				<div class="main-holder container_12">
+          
 					<div class="tools-block">
 						<form action="/search/" method="get" class="search-form">
 							<fieldset>
@@ -842,9 +960,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 						<ul class="social">
 							<li><a class="facebook" href="http://www.facebook.com/Nextgov">facebook</a></li>
 							<li><a class="twitter" href="http://twitter.com/#!/nextgov/">twitter</a></li>
+							<li><a class="google-plus" href="https://plus.google.com/117520345336146276455" rel="publisher">google plus</a></li>
 							<li><a class="rss" href="/rss/all/">rss</a></li>
 						</ul>
 					</div>
+          
           
 					<div id="content" class="grid_8">
               
@@ -949,15 +1069,15 @@ if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
 
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=3;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=4;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=3;ord=655311127?"></script>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=4;ord=497122437?"></script>
   
     <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;" title="">
-        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=3;" alt="" />
+        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=4;" alt="" />
       </a>
       </noscript>
   
@@ -972,59 +1092,125 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 
 							
 								<li>
-									<a href="http://www.nextgov.com/tech-trends-2014/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/12/10/TechTrends-Highlight-box_6/promoted.jpg" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/reports/are-agencies-prepared-cyberwarfare-2/98114/?oref=ng-promotions">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/11/19/IntelligenceSeriesImage_2/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 
 											
-											<span class="sponsored">Tech Guide </span>
-											
 
-										<strong>New Ideas and Tools for Federal Managers </strong> // Download now!
+										<strong>Are Agencies Prepared for Cyberwarfare?</strong> // Read more
 
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/gbc/balancing-competing-cloud-demands-agencies-turn-infrastructure-service/66680/?oref=ng-promotions">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/10/02/Clouds/promoted.jpg" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/reports/going-hybrid/88984/?oref=ng-promotions">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/07/22/Hybridcloud/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 
 											
-											<span class="sponsored">Research</span>
+											<span class="sponsored">Need to Know</span>
 											
 
-										<strong>The Cloud Roadmap for Agencies: How to move fast (and safely) to capture huge savings</strong> // Download Now
+										<strong>3 Steps to Implement a Hybrid Cloud</strong> // Learn More
 
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/data-driven-security/70544/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/10/29/magnifying-glass_1/promoted.jpg" alt="Abstract 3D illustr, ... ]" title="Abstract 3D illustr, ... ]" height="50" width="80">
+									<a href="http://www.govexec.com/reports/ultimate-hybrid-cloud-migration-checklist/97070/?oref=ng-promotions">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/10/22/shutterstock_94487455_1/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 
 											
-											<span class="sponsored">Downloadable Report</span>
+											<span class="sponsored">Checklist</span>
 											
 
-										<strong>Need to Know Memo: How agencies can spot threats and trends amidst reams of data</strong> // Read More
+										<strong>The Ultimate Hybrid Cloud Migration Checklist</strong> // Get it now
 
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/generating-savings-and-efficiencies-through-strategic-creative-acquisition-practices/70762/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2013/10/23/savings_2/promoted.png" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/gbc/reports/bringing-your-agencys-it-out-shadows/92618/?oref=ng-promotions">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/08/27/network/promoted.jpg" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+
+											
+											<span class="sponsored">Issue Brief</span>
+											
+
+										<strong>Bring Your Agency's IT Out of the Shadows</strong> // Learn How
+
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/gbc/reports/making-grade-digital-government/96683/?oref=ng-promotions">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/10/21/final/promoted.png" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+
+											
+											<span class="sponsored">Issue Brief</span>
+											
+
+										<strong>Making the Grade in Digital Government</strong> // Learn more
+
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.nextgov.com/cio-briefing/challenge-federal-tech/">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/10/15/Earthbox-box-CIO_1/promoted.jpg" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+
+											
+											<span class="sponsored">Assessment Tool</span>
+											
+
+										<strong>How Do CIOs Make Difficult Decisions?</strong> // Take the Challenge
+
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/sponsored/reports-for-federal-managers/">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/09/11/iPadcharts_1/promoted.jpg" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+
+											
+											<span class="sponsored">Reports</span>
+											
+
+										<strong>Top Strategies for Tech-Savvy Federal Managers</strong> // Learn More
+
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/sponsored/pioneering-the-data-frontier/">
+										<img src="http://cdn.nextgov.com/media/img/upload/2014/07/15/bigdata_1/promoted.jpg" alt="Visualization of re, ... ]" title="Visualization of re, ... ]" height="50" width="80">
 
 
 										<span class="text-holder">
@@ -1033,7 +1219,22 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 											<span class="sponsored">Report</span>
 											
 
-										<strong> Acquisitions Insights: Generating Savings through Strategic, Creative Practices </strong> // Download Now
+										<strong>Pioneering the Data Frontier</strong> // Learn More
+
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/reports/forecasting-future-wit/99617/?oref=ng-promotions">
+										
+										<span class="text-holder">
+
+											
+											<span class="sponsored">Need to Know</span>
+											
+
+										<strong>Forecasting the Future with Predictive Analytics</strong> // Read more
 
 										</span>
 									</a>
@@ -1044,7 +1245,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 						
 						<div class="side-block">
 							<h3>FREE NEWSLETTERS</h3>
-							<form action="/newsletters/subscribe/" method="post" id="newsletter-signup" class="newsletters-form">
+							<form action="/newsletters/subscribe/" data-form-name="right-column-subscribe" method="post" id="newsletter-signup" class="newsletters-form">
 
 							<input name="list" value="GovExec" type="hidden">
 							<input name="subscribe_button_name:" value="Subscribe/Update" type="hidden">
@@ -1062,17 +1263,17 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 												<label for="field:nextgov_healthit">Health IT</label>
 											</li>
                       <li>
+                        <input type="checkbox" name="field:state_local" id="field:state_local" class="checkbox" value="1">
+                        <label for="field:state_local">State and Local</label>
+                      </li>
+                      <li>
+                        <input type="checkbox" name="field:gbc" id="field:gbc" class="checkbox" value="1">
+                        <label for="field:gbc">Research &amp; Insights</label>
+                      </li>
+                      <li>
 												<input type="checkbox" name="field:threatwatch" id="field:threatwatch" class="checkbox" value="1">
                         <label for="field:threatwatch">Nextgov ThreatWatch</label>
 											</li>
-											<li>
-												<input type="checkbox" name="field:cloud" id="field:cloud" class="checkbox" value="1">
-												<label for="field:cloud">Nextgov Cloud</label>
-											</li>
-                      <li>
-                        <input type="checkbox" name="field:nextgov_mobility" id="field:nextgov_mobility" class="checkbox" value="1">
-                        <label for="field:nextgov_mobility">Nextgov Mobility</label>
-                      </li>
 										</ul>
 										<div class="btn-holder">
 											<a href="http://www.govexec.com/newsletters/" class="link">see all</a>
@@ -1098,7 +1299,7 @@ if ($('#topblock-ad script[src*="widgetserver"]').length == 0 && $('#topblock-ad
       if ($("#topblock-ad").height() < 250) {
           top_right_ad_size_check();
       }
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=bottomblock;sz=300x250;tile=4;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=bottomblock;sz=300x250;tile=5;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 }
 //]]>
@@ -1106,7 +1307,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
   
     <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=bottomblock;sz=300x250;" title="">
-        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/about;pos=bottomblock;sz=300x250;tile=4;" alt="" />
+        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/about;pos=bottomblock;sz=300x250;tile=5;" alt="" />
       </a>
       </noscript>
   
@@ -1125,9 +1326,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
     
       <li>
-        <a href="/defense/whats-brewin/2013/12/good-cheer-all/75968/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-whats-brewin.jpg" alt="What's Brewin" width="142" height="54">
-          <span class="text-holder"><strong>Good Cheer to All </strong><em class="text">What's Brewin <em class="author">by 
+        <a href="/defense/whats-brewin/2014/11/disa-compliance-cloud-security-standards/98120/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-whats-brewin.jpg?v=2.4.1.2" alt="What's Brewin" width="142" height="54">
+          <span class="text-holder"><strong>DISA in Compliance with Cloud Security Standards </strong><em class="text">What's Brewin <em class="author">by 
   
     
     Bob Brewin</em></em></span>
@@ -1135,52 +1336,52 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       </li>
     
       <li>
-        <a href="/emerging-tech/emerging-tech-blog/2013/12/what-believe-about-security-risks-subpoenaed-healthcaregov-docs/75687/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg" alt="Emerging Tech" width="142" height="54">
-          <span class="text-holder"><strong>What to Believe About Security Risks in Subpoenaed HealthCare.gov Docs </strong><em class="text">Emerging Tech <em class="author">by 
+        <a href="/emerging-tech/emerging-tech-blog/2014/11/infographic-nasas-next-rocket/99680/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg?v=2.4.1.2" alt="Emerging Tech" width="142" height="54">
+          <span class="text-holder"><strong>Infographic: NASA's Next Rocket </strong><em class="text">Emerging Tech <em class="author">by 
   
     
-    Joseph Marks</em></em></span>
+    Caitlin Fairchild</em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/technology-news/tech-insider/2013/11/thanksgiving-turkey-all-digital-stuffing/74576/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-tech-insider.jpg" alt="Tech Insider" width="142" height="54">
-          <span class="text-holder"><strong> Thanksgiving Turkey With All the Digital Stuffing </strong><em class="text">Tech Insider <em class="author">by 
+        <a href="/technology-news/tech-insider/2014/11/why-do-so-few-feds-champion-customer-experience/99704/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-tech-insider.jpg?v=2.4.1.2" alt="Tech Insider" width="142" height="54">
+          <span class="text-holder"><strong>Why Do So Few Feds Champion User Experience? </strong><em class="text">Tech Insider <em class="author">by 
   
     
-    Joseph Marks</em></em></span>
+    Nextgov Staff</em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/cio-briefing/wired-workplace/2013/12/why-arent-more-feds-teleworking/75842/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-wired-workplace.jpg" alt="Wired Workplace" width="142" height="54">
-          <span class="text-holder"><strong>Why Aren’t More Feds Teleworking? </strong><em class="text">Wired Workplace <em class="author">by 
+        <a href="/cio-briefing/wired-workplace/2014/11/government-tech-recruiting-still-overshadowed-healthcaregov-blunder/99599/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-wired-workplace.jpg?v=2.4.1.2" alt="Wired Workplace" width="142" height="54">
+          <span class="text-holder"><strong>Government Tech Recruiting Still Overshadowed by HealthCare.gov Blunder </strong><em class="text">Wired Workplace <em class="author">by 
   
     
-    Brittany Ballenstedt</em></em></span>
+    Jack Moore</em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/health/health-it/2013/10/memo-president-obama-healthcaregov-more-just-website/72350/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-health-it.jpg" alt="Health IT" width="142" height="54">
-          <span class="text-holder"><strong>Memo to President Obama: HealthCare.gov Is More Than Just a Website </strong><em class="text">Health IT <em class="author">by 
+        <a href="/health/health-it/2014/11/-grid-west-africa-how-can-tech-fight-ebola/98378/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-health-it.jpg?v=2.4.1.2" alt="Health IT" width="142" height="54">
+          <span class="text-holder"><strong>In Off-the-Grid West Africa, How Can Tech Fight Ebola? </strong><em class="text">Health IT <em class="author">by 
   
     
-    Katherine McIntire Peters</em></em></span>
+    Jack Moore</em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/cybersecurity/cybersecurity-report/2013/12/agencies-focus-illegal-cyberweapons-trade-2014/75815/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-cybersecurity-report.jpg" alt="Cybersecurity Report" width="142" height="54">
-          <span class="text-holder"><strong>Agencies to Focus on Illegal Cyberweapons Trade in 2014 </strong><em class="text">Cybersecurity Report <em class="author">by 
+        <a href="/cybersecurity/cybersecurity-report/2014/10/cyber-policy-still-stuck-90s/97184/?oref=voicesmodule">
+          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-cybersecurity-report.jpg?v=2.4.1.2" alt="Cybersecurity Report" width="142" height="54">
+          <span class="text-holder"><strong>Cyber Policy Still Stuck in the ‘90s </strong><em class="text">Cybersecurity Report <em class="author">by 
   
     
-    Aliya Sternstein</em></em></span>
+    Jessica Herrera-Flanigan </em></em></span>
         </a>
       </li>
     
@@ -1200,28 +1401,21 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=70480175&amp;iu=/617/govexec.com/emailads">Information Integration: The Key to Leveraging Open Data</a></strong> Download the infographic to see what challenges agencies face and how to overcome <a href="http://pubads.g.doubleclick.net/gampad/clk?id=70480175&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/GBC/Infographic</a></span>
+			<span class="text-holder"><strong><a href="http://www.govexec.com/sponsored/beyond-digital/">Subscribe to Beyond Digital_</a></strong> Get the monthly newsletter on innovative technology powering the future of government <a href="http://www.govexec.com/sponsored/beyond-digital/" rel="external">www.GovExec.com/FedForward</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=70480535&amp;iu=/617/govexec.com/emailads">Cybersecurity and Cyberwar: What Everyone Needs to Know</a></strong> Do you understand how it all works, why it all matters, and what we can do? <a href="http://pubads.g.doubleclick.net/gampad/clk?id=70480535&amp;iu=/617/govexec.com/emailads" rel="external">cybersecuritybook.com</a></span>
+			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=74191535&amp;iu=/617/govexec.com/emailads">Strategies for Tech-Savvy Federal Managers</a></strong> Get the latest on how government leaders can address new technology challenges <a href="http://pubads.g.doubleclick.net/gampad/clk?id=74191535&amp;iu=/617/govexec.com/emailads" rel="external">govexec.com/reports-for-federal-managers/</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=70562135&amp;iu=/617/govexec.com/emailads">Register for AFCEA Bethesda’s Big Data Technology Symposium – January 14</a></strong> Government leaders discuss best practices &amp; lessons learned for big data projects.  <a href="http://pubads.g.doubleclick.net/gampad/clk?id=70562135&amp;iu=/617/govexec.com/emailads" rel="external">www.afceabethesda.org/BigData</a></span>
-		</li>
-	
-        
-          
-        
-		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=70563335&amp;iu=/617/govexec.com/emailads">Register for AFCEA Bethesda’s January 22 Breakfast</a></strong> Federal leaders discuss how social media is used to better understand public needs. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=70563335&amp;iu=/617/govexec.com/emailads" rel="external">www.afceabethesda.org/JanBreakfast</a></span>
+			<span class="text-holder"><strong><a href="http://www.govexec.com/reports/going-hybrid/88984/?oref=ng-promotions">3 Steps to Implement a Hybrid Cloud</a></strong> Learn why a hybrid cloud is the best of both worlds <a href="http://www.govexec.com/reports/going-hybrid/88984/?oref=ng-promotions" rel="external">govexec.com/hybridcloud</a></span>
 		</li>
 	
 	</ul>
@@ -1258,11 +1452,10 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								<li><a href="http://qz.com/" rel="external">Quartz</a></li>
 								<li><a href="http://www.nationaljournal.com/" rel="external">National Journal</a></li>
 								<li><a href="http://www.theatlantic.com/" rel="external">The Atlantic</a></li>
-								<li><a href="http://www.thewire.com/" rel="external">The Wire</a></li>
-								<li><a href="http://www.theatlanticcities.com/" rel="external">The Atlantic Cities</a></li>
+								<li><a href="http://www.citylab.com/" rel="external">CityLab</a></li>
 							</ul>
 						</div>
-						<p class="copyright">© 2013 by National Journal Group, Inc. All rights reserved. | <a href="http://www.edgecast.com/">CDN</a> powered by Edgecast Networks
+						<p class="copyright">© 2014 by National Journal Group, Inc. All rights reserved. | <a href="http://www.edgecast.com/">CDN</a> powered by Edgecast Networks
 						</p>
 					</div>
 				</div>
@@ -1339,25 +1532,6 @@ s.parentNode.insertBefore(b, s);
 <noscript>
 <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=1016&fmt=gif" />
 </noscript>
-      <script type="text/javascript">
-//<![CDATA[
-var _ca_id=85579;
-// Additional request query data. Uncomment next line and change parameters if needed.
-// var _ca_params={ oid:ORDERID, tp:1000, curr:"USD", accid:ACCOUNTID, gid:GOOGLEID, ... };
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-(function (){
-var p,s;
-p = document.createElement("script");
-p.type = "text/javascript";
-p.async = true;
-p.src = (document.location.protocol != "https:" ? "http" : "https") + "://p0.raasnet.com/partners/_ca.js";
-s = document.getElementsByTagName("script"); s[s.length-1].parentNode.appendChild(p);
-})();
-//]]>
-</script><script type="text/javascript" async="" src="https://p0.raasnet.com/partners/_ca.js"></script>
     
     <script type="text/javascript">
 //<![CDATA[
@@ -1371,6 +1545,28 @@ s = document.getElementsByTagName("script"); s[s.length-1].parentNode.appendChil
     }());
     //]]>
 </script>
+
+    
+    <script type="text/javascript" src="https://ak.sail-horizon.com/horizon/v1.js"></script>
+<script type="text/javascript">
+  $(function() {
+    // Sailthru Concierge
+    if (window.Sailthru) {
+    
+      Sailthru.setup({
+        domain: 'horizon.nextgov.com',
+        
+        spider: false,
+        
+        concierge: false
+      });
+    
+    }
+  });
+</script>
+    
   
+
+  <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
