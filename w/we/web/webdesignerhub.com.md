@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignerhub.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202527id_/http%3A//www.webdesignerhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignerhub.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190715id_/http%3A//www.webdesignerhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,9 @@ www.webdesignerhub.com does use cookies to store information about visitors pref
 
 **DoubleClick DART Cookie**
 
-\- Google, as a third party vendor, uses cookies to serve ads on www.webdesignerhub.com.  
-\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.webdesignerhub.com and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+– Google, as a third party vendor, uses cookies to serve ads on www.webdesignerhub.com.  
+– Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.webdesignerhub.com and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 **Google Adsense**
 
