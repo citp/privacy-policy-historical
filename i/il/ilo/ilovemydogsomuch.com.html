@@ -1,0 +1,437 @@
+<!--The following is the downloaded HTML source of the ilovemydogsomuch.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122111327id_/http%3A//www.ilovemydogsomuch.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+
+
+	<meta charset="UTF-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136911316406581"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgACUVBXGwAEVVhUAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	
+	<link rel="icon" href="http://www.ilovemydogsomuch.com/wp-content/uploads/2014/03/ILMDSM-Logo1_sm-150x150.png" type="image/x-icon">
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<!--iOS/android/handheld specific -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="prefetch" href="http://www.ilovemydogsomuch.com">
+	<link rel="prerender" href="http://www.ilovemydogsomuch.com">
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/style.css">
+	<link rel="pingback" href="http://www.ilovemydogsomuch.com/xmlrpc.php">
+			<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="I Love My Dog So Much » Feed" href="http://www.ilovemydogsomuch.com/feed/">
+	<!--start fonts-->
+<!--end fonts-->
+<style type="text/css">
+body {background-color:#CBE7F2;}
+body {background-image:url(http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/images/nobg.png);}
+.mts-subscribe input[type="submit"], .sbutton, .currenttext, .pagination a:hover, .readMore a, #tabber ul.tabs li a.selected, #commentform input#submit, .tagcloud a, .site-description {background-color:#125A88; }
+a:hover, .textwidget a, #commentform a, #navigation ul ul a:hover, .copyrights a:hover, a, .sidebar.c-4-12 a:hover, footer .widget li a:hover, #copyright-note span a, .icon-forward, .sidebar.c-4-12 .textwidget a {color:#125A88; }
+#tabber ul.tabs li a.selected:after { border-top-color: #125A88; }
+.shareit { top: 282px; left: auto; z-index: 0; margin: 0 0 0 -110px; width: 90px; position: fixed; overflow: hidden; }
+.share-item {margin: 2px;}
+</style>
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy - I Love My Dog So Much</title>
+<link rel="canonical" href="http://www.ilovemydogsomuch.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="ILoveMyDogSoMuch.com is a website for photos, stories and information about dogs and dog lovers. Your personal privacy is very important to us. The following policy explains how we collect, protect and use your personal identifying information. Please read this policy carefully, and if you have any questions, contact us at your convenience. By using ILoveMyDogSoMuch.com, …">
+<meta property="og:url" content="http://www.ilovemydogsomuch.com/privacy-policy/">
+<meta property="og:site_name" content="I Love My Dog So Much">
+<meta property="article:publisher" content="https://www.facebook.com/ilovemydogfans">
+<meta property="fb:app_id" content="591601367599084">
+<meta property="og:image" content="http://www.ilovemydogsomuch.com/wp-content/uploads/2014/03/ILMDSM-Logo1_sm.png">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" id="fv-player-pro-css" href="http://www.ilovemydogsomuch.com/wp-content/plugins/fv-player-pro/css/style.css?ver=0.1.11" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.ilovemydogsomuch.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="iconfonts-css" href="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/css/iconfonts.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto-css" href="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/css/prettyPhoto.css?ver=4.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wdfb_style-css" href="http://www.ilovemydogsomuch.com/wp-content/plugins/wpmu-dev-facebook/css/wdfb.css?ver=4.0.1" type="text/css" media="all">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.7.1"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=1.8.16"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/js/modernizr.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/js/customscript.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/themes/wildfire/js/jquery.prettyPhoto.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ilovemydogsomuch.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ilovemydogsomuch.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="http://www.ilovemydogsomuch.com/?p=57">
+
+<link rel="stylesheet" href="http://www.ilovemydogsomuch.com/wp-content/fv-flowplayer-custom/style-1.css?ver=1411857375" type="text/css" media="screen">
+
+<script type="text/javascript">var _wdfb_ajaxurl="http://www.ilovemydogsomuch.com/wp-admin/admin-ajax.php";var _wdfb_root_url="http://www.ilovemydogsomuch.com/wp-content/plugins/wpmu-dev-facebook";</script><!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-49193709-1', 'auto');
+ 
+	ga('send', 'pageview');
+	ga('require', 'displayfeatures');
+</script>
+<script async="" src="//www.googletagservices.com/tag/js/gpt.js"> </script> 
+<script>
+googletag = window.googletag || {cmd:[]};
+googletag.cmd.push(function() {
+
+var mapping3 = googletag.sizeMapping().                                    
+addSize([1024, 768], [300, 250]). // desktop
+addSize([980, 600], [300, 250]).
+addSize([747, 300], [300, 250]). //tablet
+addSize([300, 240], [300, 250]). //mobile
+addSize([0, 0], [300, 250]). //mobile
+build();
+googletag.defineSlot('/26136714/Middle3',[300, 250], 'Middle3').defineSizeMapping(mapping3).addService(googletag.pubads());
+   
+googletag.enableServices();
+});
+</script>
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/26136714/ILMDSM-300x250-GalleryContent', [300, 250], 'div-gpt-ad-1406427871037-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/11263100/Video', [300, 250], 'Companion').addService(googletag.companionAds()).addService(googletag.pubads());
+googletag.companionAds().setRefreshUnfilledSlots(true);
+googletag.pubads().enableVideoAds();
+googletag.enableServices();
+});
+</script>
+<script>(function() {
+	var _fbq = window._fbq || (window._fbq = []);
+	if (!_fbq.loaded) {
+	var fbds = document.createElement('script');
+	fbds.async = true;
+	fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(fbds, s);
+	_fbq.loaded = true;
+	}
+	_fbq.push(['addPixelId', '295056927317752']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=295056927317752&amp;ev=NoScript" /></noscript>
+</head>
+<body id="blog" class="page page-id-57 page-template-default main">
+	<header class="main-header">
+		<div class="secondary-navigation">
+			<nav id="navigation">
+									<ul id="menu-main-menu" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="http://www.ilovemydogsomuch.com">Home</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-32"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/">Dog Breeds</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/herding-dog/">Herding Dog</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/hound/">Hound</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/mutt/">Mutt!</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/non-sporting-dog/">Non-Sporting Dog</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/sporting-dog/">Sporting Dog</a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/terrier/">Terrier</a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/toy-dog/">Toy Dog</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="http://www.ilovemydogsomuch.com/category/dog-breeds/working-dog/">Working Dog</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-41"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/">Photos &amp; Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/adorable/">Adorable</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/barking-mad/">Barking Mad</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/funny/">Funny</a></li>
+	<li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/talented/">Talented</a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/">Health &amp; Behavior</a>
+<ul class="sub-menu">
+	<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/ask-a-vet/">Ask a Vet</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/behavior/">Behavior</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/health/">Health</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/tips/">Tips</a></li>
+</ul>
+</li>
+<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="http://www.ilovemydogsomuch.com/adopt-dog/">Adopt a Dog</a></li>
+<li id="menu-item-27605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27605"><a href="http://www.ilovemydogsomuch.com/category/news-events/">News &amp; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-27606" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27606"><a href="http://www.ilovemydogsomuch.com/category/news-events/dog-tech/">Dog Techonology</a></li>
+	<li id="menu-item-27607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27607"><a href="http://www.ilovemydogsomuch.com/category/news-events/in-the-news/">In the News</a></li>
+</ul>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-24"><a href="http://www.ilovemydogsomuch.com/us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.ilovemydogsomuch.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-57 current_page_item menu-item-62"><a href="http://www.ilovemydogsomuch.com/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://www.ilovemydogsomuch.com/terms-conditions/">Terms &amp; Conditions</a></li>
+</ul>
+</li>
+</ul>												<div class="social-icons">
+					<ul>
+						<li><a class="twt" href="http://twitter.com/https://twitter.com/ilovemydogfans"><div class="sicon icon-twitter"><div>Twitter</div></div></a></li>
+						<li><a class="fb" href="https://www.facebook.com/ilovemydogfans"><div class="sicon icon-facebook"><div>Facebook</div></div></a></li>
+						<li><a class="gp" href="https://plus.google.com/112004208828347103517/posts"><div class="sicon icon-gplus"><div>Google</div></div></a></li>
+					</ul>
+				</div>
+							</nav>
+		</div>
+					<div class="mob-nav-header">
+				<div id="pw-big-facebook">
+					<div class="pw-widget">
+					    <a href="#" class="pw-button-facebook">
+				            <span class="bkg"></span>
+				            <img src="http://demo.gwallet.com/sem/img/facebook-f.png">
+				            Share 
+					    </a>
+					</div>
+				</div>									
+				<div class="btnPrev">
+					<a href="http://www.ilovemydogsomuch.com/contact-us/" rel="prev">NEXT STORY »</a>				</div>
+			</div>
+				<div class="container">
+			<div id="header">
+				<div class="head-left">
+																			<h2 id="logo" class="image-logo">
+									<a href="http://www.ilovemydogsomuch.com"><img src="http://www.ilovemydogsomuch.com/wp-content/uploads/2014/03/ILMDSM-Logo1_sm.png" alt="I Love My Dog So Much"></a>
+								</h2><!-- END #logo -->
+															</div>
+				<div class="head-right">
+					<div id="Top" style="margin-bottom: 20px;">
+						<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"> </script>	
+						<!-- ILoveMyDog-TopRight-Responsive -->
+						<ins class="adsbygoogle adslot_1" style="display:block" data-ad-client="ca-pub-6480082032349665" data-ad-slot="9189838837" data-ad-format="auto"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+				</div>            
+			</div><!--#header-->
+		</div><!--.container-->        
+	</header>
+	<div class="main-container"><div id="page">
+	<div class="content">
+		<article class="article">
+			<div id="content_box">
+				<div id="content" class="hfeed">
+											<div id="post-57" class="post-57 page type-page status-publish hentry g post">
+							<div class="single_page">
+																	<div class="breadcrumb"><a href="http://www.ilovemydogsomuch.com" rel="nofollow">Home</a>&nbsp;&nbsp;»&nbsp;&nbsp;Privacy Policy</div>
+																<header>
+									<h1 class="title">Privacy Policy</h1>
+								</header>
+								<div class="post-content box mark-links">
+									<p>ILoveMyDogSoMuch.com is a website for photos, stories and information about dogs and dog lovers.</p>
+<p>Your personal privacy is very important to us. The following policy explains how we collect, protect and use your personal identifying information. Please read this policy carefully, and if you have any questions, contact us at your convenience.</p>
+<p>By using ILoveMyDogSoMuch.com, you consent to the collection and use of your personal information as described in this policy. We may update this privacy policy as we see fit and will post a notice of significant changes on the site. We invite you to visit this page periodically to review any such changes to the policy.</p>
+<p><b>The information we collect</b></p>
+<p>We only collect information that you voluntarily give us via email, submission form or other direct contact from you. This includes your name, email address, and potentially hometown, state and country. When you upload information about your dog, we collect only the information you choose to share about that dog. Your name and email will never be shared, rented, bartered or sold with other users or third-party companies. The information you share with us about your dog(s) will only be used by ILoveMyDogSoMuch.com for display and informational purposes on our site, and will never be shared, rented, bartered, sold or exchanged any other purposeful manner.</p>
+<p>Unless you request us not to, we may email you in the future to tell you about specials, new products or services, or changes to this policy.</p>
+<p>The website, however, can be accessed by anyone with an internet connection and a web browser; as such, any information, photos or videos you post can be copied by any other internet user.</p>
+<p>In order to provide you with the best possible experience and identify and correct site errors, we collect aggregate information about use of our site (such as most often viewed pages), and we collect information about your computer, such as such as browser type, browser language, and IP address. We do not share this information with anyone.</p>
+<p><b>How we use your information</b></p>
+<p>You have complete control over the information you submit to our site. You may edit this information or request to have your dog and personal accounts removed entirely at any time. We reserve the right to transfer your submitted information in the event of a transfer of ownership of ILoveMyDogSoMuch.com, such as acquisition by or merger with another company. In such an event, ILoveMyDogSoMuch.com will notify you before your information is transferred and becomes subject to a different privacy policy.</p>
+<p>We work with third parties who provide administrative services, including website hosting, e-commerce affiliation, data analysis, emailing and other services. Personally identifiable information is shared with these third parties in order for them to provide such services. Further, we may work with reputable third parties for marketing, targeting and analysis purposes. Some of these third parties may be given access to some or all of the information that you provide to us and may use cookies or other tracking technologies in connection with providing their services. To the extent that we provide your personally identifiable information to such third parties, we will attempt to restrict their ability to use your information for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties.</p>
+<p>The information, photos and videos you enter about your dog(s) are available to all users of the site as soon as they are published. ILoveMyDogSoMuch.com claims no rights over the photos or videos you upload or the information you add to the site. Please note, however, that this is a public site, so any information you provide is available to anyone with internet access. As such, so you should never post a photo or fact that you do not now or ever want to share on a public site.</p>
+<p><b>Your Access to and Control Over Your Information</b><br>
+You can opt out of any future contact from us at any time by contacting us via the email address or phone number listed on our site.</p>
+<p><b>Security&nbsp;</b><b><br>
+</b>In case we collect sensitive information (such as credit card data), it is encrypted and transmitted to us in a secure way. This is verified by the closed lock icon at the bottom of your web browser, or the “https” at the beginning of the address of the web page.</p>
+<p><b>Legal requests</b></p>
+<p>You understand and consent to the fact that ILoveMyDogSoMuch.com may access, preserve and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect the rights and property of ILoveMyDogSoMuch.com, its affiliates or the public.</p>
+<p><b>Cookies</b></p>
+<p>We send “cookies” to your computer and use them to improve the quality and ease of use of our service for our members. A cookie is a piece of data that identifies you as a unique user. We store user preferences in cookies and track user trends. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, note that some parts of this site may not function properly if you refuse cookies.</p>
+<p><b>External links</b></p>
+<p>ILoveMyDogSoMuch.com contains links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information.</p>
+<p><b>Security</b></p>
+<p>We use industry-standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding these measures and techniques, please contact us.</p>
+<p><b>Contacting Us</b></p>
+<p>You can always contact us at any time through <a href="/contact-us/">this form</a>.</p>
+<p><b>Unsubscribing</b></p>
+<p>You can unsubscribe at any time by clicking on the “unsubscribe” or “opt-out” link in the footer of the email you receive from us. Clicking on that link will take you immediately to a page where you can unsubscribe or opt-out from all email correspondence from ILoveMyDogSoMuch.com.</p>
+<p><b>Payments</b><br>
+All payments made via ILoveMyDogSoMuch.com are encrypted using SSL (Secure Sockets Layer) technology. Your credit card information is passed securely to our credit card processor but is not stored on our servers. ILoveMyDogSoMuch.com’s employees do not have access to your credit card information.</p>
+<p><b>Log Files</b><br>
+We collect and use data contained in log files, including your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Chrome), the time you visited our site and which pages you visited throughout our site.</p>
+<p><b>Affiliate Disclosure</b><br>
+Links to products on this website may generate an affiliate commission for ILoveMyDogSoMuch.com. We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited.</p>
+<p>You can chose to disable or turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs like Norton Internet Security. However, disabling cookies may affect how you interact with our site as well as other websites, including the inability to log in to services, forums or accounts.</p>
+<p><b>If you feel that we are not abiding by this privacy policy, you should contact us immediately using <a href="/contact-us/">this form</a>.</b></p>
+																	</div><!--.post-content box mark-links-->
+							</div>
+						</div>
+						<!-- You can start editing here. -->
+<!-- If comments are closed. -->
+<p class="nocomments"></p>
+
+									</div>
+			</div>
+		</article>
+		<aside class="sidebar c-4-12">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+			<ul class="sidebar_list">
+				<li id="widget_text enhanced-text-widget" class="widget widget-sidebar"><div class="textwidget widget-text"><!-- ILoveMyDog-RightSideBar-Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6480082032349665" data-ad-slot="4061635237" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></li><li id="widget_search" class="widget widget-sidebar"><form method="get" id="searchform" class="search-form" action="http://www.ilovemydogsomuch.com" _lpchecked="1">
+	<fieldset>
+		<span class="icon-search"></span><input type="text" name="s" id="s" value="Search the site" onblur="if (this.value == '') {this.value = 'Search the site';}" onfocus="if (this.value == 'Search the site') {this.value = '';}">
+		<input id="search-image" class="sbutton" type="submit" style="border:0; vertical-align: top;" value="Search">
+	</fieldset>
+</form></li><li id="facebook_like" class="widget widget-sidebar"><h3>Find us on Facebook</h3>		<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Filovemydogfans&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=240" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height: 240px;" allowtransparency="true"></iframe>
+		</li><div id="Middle3">
+<script>
+googletag.cmd.push(function() {
+googletag.display('Middle3') });
+</script>
+</div>			</ul>
+		</div>
+	</div><!--sidebars-->
+</aside>	</div>
+</div>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script><div id="fb-root"></div><script type="text/javascript">
+	         FB.init({
+	            appId: '591601367599084',
+	            status: true,
+	            cookie: true,
+	            xfbml: true,
+	            oauth: true
+	         });
+	      </script>		</div>
+	<!--#page-->
+<!--.main-container-->
+<footer>
+	<div class="container">
+		<div class="footer-widgets">
+				<div class="f-widget f-widget-1">
+		<div class="widget"><h3><span>About Us</span></h3>			<div class="textwidget"><p>Welcome to I Love My Dog So Much! I’m Max, the CEO &amp; Pug of this site, and I’m happy you stopped by! We created this site so that dog lovers everywhere could find, share and enjoy stories, videos and pictures of their dogs.</p>
+<p><img src="http://www.ilovemydogsomuch.com/wp-content/uploads/2014/03/ILMDSM-Logo1_sm.png" alt="Max Abbott" width="150"></p>
+</div>
+		</div>	</div>
+	<div class="f-widget f-widget-2">
+		<div class="widget"><h3><span>Partners</span></h3>			<div class="textwidget"></div>
+		</div><div id="Middle3">
+<script>
+googletag.cmd.push(function() {
+googletag.display('Middle3') });
+</script>
+</div>
+	</div>
+	<div class="f-widget last">
+		<div class="widget"><h3><span>Connect With Us</span></h3><div class="social-profile-icons"><ul class=""><li class="social-email"><a title="Email" href="mailto:contact@ilovemydogsomuch.com" target="_blank">Email</a></li><li class="social-facebook"><a title="Facebook" href="https://www.facebook.com/ilovemydogfans" target="_blank">Facebook</a></li><li class="social-gplus"><a title="Google+" href="http://www.google.com" target="_blank">Google+</a></li><li class="social-rss"><a title="RSS" href="/feed" target="_blank">RSS</a></li><li class="social-twitter"><a title="Twitter" href="http://www.twitter.com" target="_blank">Twitter</a></li><li class="social-youtube"><a title="YouTube" href="http://www.youtube.com/" target="_blank">YouTube</a></li></ul></div></div>	</div>
+		</div><!--.footer-widgets-->
+	</div><!--.container-->
+	<div class="copyrights">
+		<!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href="http://www.ilovemydogsomuch.com/" title="Max Abbott, CEO &amp; PUG">I Love My Dog So Much</a> Copyright © 2014. </span>
+<div class="top"><a href="#top" class="toplink">Back to Top ↑</a></div>
+<div class="footer-menu">
+			<ul id="menu-footer-menu" class="menu"><li id="menu-item-5762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5762"><a href="http://www.ilovemydogsomuch.com/">Home</a></li>
+<li id="menu-item-5760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5760"><a href="http://www.ilovemydogsomuch.com/category/photos-videos/">Photos &amp; Videos</a></li>
+<li id="menu-item-5761" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5761"><a href="http://www.ilovemydogsomuch.com/category/health-behavior/">Health &amp; Behavior</a></li>
+<li id="menu-item-5764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5764"><a href="http://www.ilovemydogsomuch.com/adopt-dog/">Adopt a Dog</a></li>
+<li id="menu-item-5763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5763"><a href="http://www.ilovemydogsomuch.com/us/">About Us</a></li>
+<li id="menu-item-5765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5765"><a href="http://www.ilovemydogsomuch.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-5766" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-57 current_page_item menu-item-5766"><a href="http://www.ilovemydogsomuch.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-5767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5767"><a href="http://www.ilovemydogsomuch.com/terms-conditions/">Terms &amp; Conditions</a></li>
+</ul>	</div>
+</div>
+<!--end copyrights-->
+	</div> 
+</footer><!--footer-->
+<!--Twitter Button Script------>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--Facebook Like Button Script------>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=136911316406581";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--start lightbox-->
+<script type="text/javascript">  
+jQuery(document).ready(function($) {
+$("a[href$='.jpg'], a[href$='.jpeg'], a[href$='.gif'], a[href$='.png']").prettyPhoto({
+slideshow: 5000,
+autoplay_slideshow: false,
+animationSpeed: 'normal',
+padding: 40,
+opacity: 0.35,
+showTitle: true,
+social_tools: false
+});
+})
+</script>
+<!--end lightbox-->
+<!--start footer code-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49193709-1', 'ilovemydogsomuch.com');
+  ga('send', 'pageview');
+
+</script><!--end footer code-->
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fv_vast_conf = {"ajax_url":"http:\/\/www.ilovemydogsomuch.com\/wp-admin\/admin-ajax.php","debug":"false","linear_preroll":"true","companion_preroll":"true","companion_placement":"below","swf":"http:\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/fv-player-vast\/swf\/fv-player-vast.swf?ver=0.2.5","version":"0.2.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/fv-player-vast/js/fv-player-vast.min.js?ver=0.2.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fv_flowplayer_playlists = [];
+var fv_fp_ajaxurl = "http:\/\/www.ilovemydogsomuch.com\/wp-admin\/admin-ajax.php";
+var fv_flowplayer_conf = {"embed":{"library":"\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/fv-flowplayer.min.js","script":"\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/embed.min.js","skin":"\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/css\/flowplayer.css","swf":"\/\/www.ilovemydogsomuch.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.swf?ver=2.3"},"key":"$604659664982931","logo":"http:\/\/www.ilovemydogsomuch.com\/wp-content\/uploads\/2014\/03\/ILMDSM-Logo1-60x60.png","volume":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js?ver=2.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fv_player_pro = {"playlist":[],"static_playlist":[],"lightbox":[],"ajaxurl":"http:\/\/www.ilovemydogsomuch.com\/wp-admin\/admin-ajax.php","debug":"","autoplay_once":"","lightbox_images":"","cloudfront":[""],"youtube":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.ilovemydogsomuch.com/wp-content/plugins/fv-player-pro/js/fv_player_pro.min.js?ver=0.1.11"></script>
+    	<script type="text/javascript">
+    	jQuery(document).ready(function() {
+    		jQuery('.post').fitVids({ customSelector: ""});
+    	});
+    	</script><script>
+//var FV_Flowplayer_VAST_current = FV_Flowplayer_VAST.init();
+FV_Player_IMA.init();
+</script>
+<script type="text/javascript">ggv2id='4d7b564e';</script>
+<script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"fb0975068a","applicationID":"3419653","transactionName":"YAcHNhRVWEAHW0ANDFlNJAESXVldSUhVAwY=","queueTime":0,"applicationTime":460,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
