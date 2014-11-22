@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619150314id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122131558id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -29,13 +29,13 @@ Personal information is information that can be used to identify you. It can inc
 
 By submitting personal data manually or in electronic form to this website, or by using this site, you give your consent that all personal data you submit may be processed in the manner and for the purposes described below.
 
-If you do nothing other than read pages or download information while using this web site, we will capture and store information about your visit. This information will not identify you, it relates to (i) the Internet domain and IP address from which you access the web site (ii) the type of browser and operating system you use (iii) the date and time of your visit, (iv) the pages you visit), and (v) the address of the website from which you linked to us (if applicable).
+If you do nothing other than read pages or download information while using this web site, we will collect information about your visit. This information will not personally identify you, it relates to (i) the Internet domain and IP address from which you access the web site (ii) the type of browser and operating system you use (iii) the date and time of your visit, (iv) the pages you visit), (v) demographic and interest information from Google and (vi) the address of the website from which you linked to us (if applicable).
 
 Back to top
 
 ##  Why do we collect personal information?
 
-We collect personal information to make each visit more rewarding, and to provide us with information to help improve our service. 
+We collect personal information to make each visit more rewarding, and to provide us with information to help improve our service and the information available to users.
 
 Back to top
 
@@ -43,13 +43,15 @@ Back to top
 
 We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims, including for fundraising activities. We may need to share your information with our service providers, associated organisations and agents for these purposes.
 
+The data we collect is used in aggregate (and therefore anonymously) to monitor the use of our website and to research our users' behaviour, demographics and interests. This allows us to gain a better understanding of how our users navigate and use the website and therefore improve our service to you and to the hospital. By using the demographic and interest reports, we are able to tailor sections of the website for the people who use it and in particular for the patients and their parents.
+
 We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Great Ormond Street Hospital’s Children’s Charity, 40 Bernard Street, London WC1N 1LE or email: [webcontent@gosh.org](mailto:webcontent@gosh.org "webmaster@gosh.org").
 
 Great Ormond Street Hospital Children’s Charity is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
 
 We reserve the right to share your personal information if we are legally obliged to and to enable us to apply our terms and conditions and other agreements. This includes exchanging information with other organisations for fraud and credit risk reduction and for police investigations.
 
-Unfortunately, no data transmission over the internet is 100% secure. As a result, while we use our best endeavours to protect your personal information, Great Ormond Street Hospital Children’s Charity cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access. 
+We use a secure server for any page which requires you to enter personal information. Unfortunately, no data transmission over the internet is 100% secure. As a result, while we use our best endeavours to protect your personal information, Great Ormond Street Hospital Children’s Charity cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access. 
 
 Back to top
 
