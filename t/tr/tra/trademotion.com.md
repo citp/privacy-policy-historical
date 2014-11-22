@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523073650id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122042140id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TradeMotion.com
 
@@ -158,7 +158,7 @@ You may also turn off cookies in your browser.
 
 If you have any complaints regarding our compliance with our privacy policy or statement, you should first [Contact Us.](http://cdn.trademotion.com/contact/)
 
-To find out more about our privacy practices, see the [TradeMotion Online Privacy Statement](http://www.trademotion.com/privacy-policy/).
+To find out more about our privacy practices, see the [TradeMotion Online Privacy Statement](http://cdn.trademotion.com/privacy-policy/).
 
 Questions about this statement or about TradeMotion’s handling of your information may be sent to:
 
