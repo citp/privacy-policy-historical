@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603231609id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122044750id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Musafir
 
@@ -8,7 +8,7 @@ The terms "we", "us", "our" and "Musafir" refer to Universal Travels & Tourism L
 
 ### What information we collect from you
 
-  * In General. We receive and store any information you enter on our Website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses. We also may request information about your traveler preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site.
+  * In General. We receive and store all non-sensitive information you enter on our Website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, but excludes sensitive information such as your credit/debit card number. We also may request information about your traveler preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site.
   * Passenger Information. When you make travel or other arrangements for someone else through Musafir.com, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing Musafir.com with their personal information and travel preferences, as any access to view or change their information will be available only through your account.
   * Information from Other Sources. We also may periodically obtain information about you from our business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, which we use to correct our records and to facilitate proper delivery of travel information; and demographic information, which we use to better understand your potential purchasing preferences.
   * Automatic Information. We automatically collect some information about your computer when you visit Musafir.com. For example, we will collect your IP address, Web browser software (such as Netscape Navigator or Internet Explorer), and referring Website. We also may collect information about your online activity, such as trips viewed and purchases made. One of our goals in collecting this automatic information is to help customize your user experience.
@@ -21,9 +21,9 @@ The terms "we", "us", "our" and "Musafir" refer to Universal Travels & Tourism L
 
 We want you to feel confident about using Musafir.com to plan and purchase your travel, so we are committed to protecting the information we collect. We have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions.
 
-In addition, we use 128-bit Secure Socket Layer (SSL) encryption when transmitting your sensitive personal information between your system and our Website, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+In addition, we use 128-bit Secure Socket Layer (SSL) or higher grade encryption when transmitting your sensitive personal information between your system and our Website, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
 
-All credit card transactions on Musafir.com are processed through a service provided by MashreqBank PSC on behalf of MasterCard International, which uses 128-bit Secure Socket Layer (SSL) encryption when transmitting your payment card details. We and Mashreqbank PSC do not receive and do not store sensitive billing information such as your credit card number, cardholder name, and expiration date.
+All payment transactions on our Website are processed through a service which uses 128-bit Secure Socket Layer (SSL) or higher grade encryption when transmitting your payment details. We do not process and do not store sensitive payment information such as your credit/debit card number, cardholder name, and expiry date.
 
 Despite these measures, we do not warrant that unauthorized access to your information can never happen and will not be liable for any such unauthorized access unless caused solely by our gross negligence, in which event you will be entitled to compensation up to a maximum of the value of the services purchased by you.
 
@@ -31,13 +31,14 @@ Despite these measures, we do not warrant that unauthorized access to your infor
 
 We use information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Musafir.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
 
+We do not share sensitive, confidential and personal information such as your credit/debit card number, trip details and name to any third parties, except as explicitly disclosed below.
+
 ### With whom we share your information
 
 Musafir.com may share your information with the following entities:
 
-  * Suppliers, such as hotel, airline, cruise, or car rental companies, or activity providers, who fulfill your travel reservations. Throughout Musafir.com, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on Musafir.com, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through Musafir.com. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your travel reservation.
-  * Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. These companies have access to personal information needed to perform their functions but are not permitted to share or use the information for any other purpose.
-  * Business partners with whom we may jointly offer products or services. You can tell when a third party is involved in a product or service you have requested because their name will appear with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners and recommend you evaluate their practices before deciding to provide your personal information.
+  * We share your trip details and personal information required to fulfill your purchase with suppliers, such as hotel, airline, cruise, or car rental companies, or activity providers, who fulfill your purchase. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on Musafir.com, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through Musafir.com. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your purchase.
+  * We may share your information with third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, and fraud prevention. These companies have access to personal information needed to perform their functions but are not permitted to share or use the information for any other purpose.
 
 
 
@@ -48,8 +49,6 @@ Musafir.com may share your information with the following entities:
   * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
 
-
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
 
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors a Website receives or what are the most popular vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
 
@@ -74,7 +73,7 @@ If any part of the Musafir.com Website links you to other websites, those websit
 
 ### Changes to this Privacy Policy
 
-Musafir.com may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website.
+The Website Policies and Terms & Conditions would be changed or updated occasionally to meet the requirements and standards. Therefore the Customers must be notified about these changes as well as the Payment Gateway Provider/ NBAD. Such modifications will become effective on the day they are posted, and encourages you to frequently review the Privacy Policy for any modifications.
 
 ### How you can contact us
 
@@ -88,4 +87,4 @@ Sharjah, United Arab Emirates
 Phone: +971 6 516 6666  
 Fax: +971 6 534 3338
 
-Revised January 29, 2014.
+Revised November 1, 2014.
