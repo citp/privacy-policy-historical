@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628090525id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221315id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
 
 # Restaurant Equipment Parts, Restaurant Parts, Restaurant Supply Parts, Commercial Kitchen Parts
 
