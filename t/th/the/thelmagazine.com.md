@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214191333id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173606id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | The L Magazine - New York City's Local Event and Arts & Culture Guide
 
@@ -18,6 +18,6 @@ You should be aware that if you voluntarily disclose personal information online
 **How to contact us:**  
 The L Magazine  
 45 Main St., suite 806, Brooklyn, NY. 11201  
-[info@thelmagazine.com](https://web.archive.org/web/20140214191333id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/info@thelmagazine.com)
+[info@thelmagazine.com](https://web.archive.org/web/20141122173606id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/info@thelmagazine.com)
 
 **Changes to this policy** The L Magazine reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms means you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
