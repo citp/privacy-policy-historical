@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellyfields.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506231746id_/http%3A//jellyfields.com/index/page/view/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellyfields.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221537id_/http%3A//www.jellyfields.com/index/page/view/policy) for the most accurate reproduction.*
 
 # JellyFields - Privacy Policy
 
