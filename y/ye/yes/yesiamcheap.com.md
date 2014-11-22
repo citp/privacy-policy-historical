@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122451id_/http%3A//yesiamcheap.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221530id_/http%3A//yesiamcheap.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Yes, I Am Cheap
-
-## Privacy
 
 This website displays advertisements from various sources. Please read this privacy policy as it may be updated occasionally with no notice to you.
 
@@ -12,7 +10,13 @@ The non-personally identifiable information we collect may include as an example
 
 We may use your non-personally identifiable information for the following general purposes: enhancement of our services; marketing; and to more effectively match advertisements and website content to your interests.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Yes, I Am Cheap uses cookies to help Yes, I Am Cheap identify and track visitors, their usage of the Yes, I Am Cheap website, and their website access preferences. Yes, I Am Cheap visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Yes, I Am Cheap’s websites, with the drawback that certain features of Yes, I Am Cheap’s websites may not function properly without the aid of cookies.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Yes, I Am Cheap and does not cover the use of cookies by any advertisers.
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
