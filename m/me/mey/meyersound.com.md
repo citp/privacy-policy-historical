@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyersound.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065915id_/http%3A//meyersound.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyersound.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234913id_/http%3A//www.meyersound.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal Notices | Meyer Sound
 
@@ -92,7 +92,7 @@ This web site contains trademarks and service marks of Meyer Sound and may conta
 MEYER SOUND and the Meyer Sound wave logo are trademarks of Meyer Sound Laboratories Inc. and are registered in the United States Patent and Trademark Office, as well as in other countries.
 
 The following is a partial list of additional Meyer Sound trademarks and service marks:  
-650-P*, 650-R2*, Acheron*, AlignALink, BroadbandQ*, CAL,Callisto, Compass*, Compass RMS, Composite EQ, Constellation*, CueConsole, CueStation, D-Mitri*, EXP*, Galileo*, GuideALink, Intelligent AC, LCS, LEO, LEO-M, LYON, M Series, M1D, M2D, M3D, MAPP Online Pro*, Matrix3,MatrixLink,M'elodie*, Meyer Sound MAPP Online, MICA*, MILO*, MINA, MSL-4*, MultiSense, QuickFly*, QuietCool, REM*, RMS, SIM*, SpaceMap*, SpeakerSense, Stella, Thinking Sound*, TM Array, TruPower*, TruShaping*, UltraSeries, U-Shaping*,VariO, VRAS, Wild Tracks 
+650-P*, 650-R2*, Acheron*, AlignALink, BroadbandQ*, CAL, Callisto*, Compass*, Compass RMS, Composite EQ, Constellation*, CueConsole, CueStation, D-Mitri*, EXP*, Galileo*, GuideALink, Intelligent AC, LCS, LEO*, LEO-M, LYON, M Series, M1D, M2D, M3D, MAPP Online Pro*, Matrix3, MatrixLink, M'elodie*, MICA*, MILO*, MINA, MSL-4*, MultiSense, QuickFly*, QuietCool, REM*, RMS, SIM*, SpaceMap*, SpeakerSense, Stella, Thinking Sound*, TM Array, TruPower*, TruShaping*, UltraSeries, U-Shaping*, VariO, VRAS, Wild Tracks
 
 *Registered in the United States Patent and Trademark Offices
 
@@ -100,8 +100,8 @@ The following is a partial list of additional Meyer Sound trademarks and service
 
 Meyer Sound has adopted policies regarding compliance with anti-corruption laws around the world and with the export control laws and regulations of the United States. These policies, which currently are set forth in policy documents entitled OFAC Compliance Guidelines Protocols, OFAC Compliance Manual, and FCPA Anti-Corruption Policy, can be found by following these links:
 
-  * [Meyer Sound Global Anti-Corruption Policy and Guidelines](https://web.archive.org/web/20140625065915id_/http://meyersound.com/legal/MeyerSoundFCPAAnti-CorruptionPolicy.pdf)
-  * [Meyer Sound OFAC Compliance Protocols](https://web.archive.org/web/20140625065915id_/http://meyersound.com/legal/MeyerSoundOFACComplianceGuidelinesProtocols.pdf)
-  * [Meyer Sound OFAC Compliance Policy](https://web.archive.org/web/20140625065915id_/http://meyersound.com/legal/MeyerSoundOFACComplianceManual.pdf)
+  * [Meyer Sound Global Anti-Corruption Policy and Guidelines](https://web.archive.org/web/20141122234913id_/http://www.meyersound.com/legal/MeyerSoundFCPAAnti-CorruptionPolicy.pdf)
+  * [Meyer Sound OFAC Compliance Protocols](https://web.archive.org/web/20141122234913id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceGuidelinesProtocols.pdf)
+  * [Meyer Sound OFAC Compliance Policy](https://web.archive.org/web/20141122234913id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceManual.pdf)
 
 
