@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the lowkickmma.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103151id_/http%3A//www.lowkickmma.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkickmma.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080907id_/http%3A//lowkickmma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LowKick MMA
+
+**LowKick.com’s Privacy Policy**
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and used to notify consumers about updates to our Web.
 
-With respect to cookies: We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitors preferences, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by contacting us at the contact us link below.
 
@@ -16,6 +18,8 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-LowKick.com does not sell ,rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission. 
+**E-Mail Policy**
+
+LowKick.com does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission. 
