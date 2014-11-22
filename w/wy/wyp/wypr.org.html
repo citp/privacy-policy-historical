@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the wypr.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625095114id_/http%3A//wypr.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wypr.org privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122161422id_/http%3A//wypr.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="og: http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aahj.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="og: http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aahj.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta property="og:url" content="http://wypr.org/privacy">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy">
 <meta property="og:description" content="WYPR is committed to protecting your privacy. Below you will find information about our commitment to ensuring the privacy of your personally identifiable">
 <meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
-<link rel="shortcut icon" href="/sites/wyprmain/themes/station/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="/sites/wypr.org/themes/station/favicon.ico" type="image/vnd.microsoft.icon">
 <meta content="Privacy" about="/privacy" property="dc:title">
 <meta property="twitter:site" content="@WYPR881FM">
 <meta property="twitter:card" content="summary">
@@ -27,18 +27,39 @@
   <link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_CKoWqiBj9gVXhPuDSnNphuEB0b0J2To76x0pX0EGqn4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_tNbmSqTYnHVC1ObDC2-m4ln4CJdlAuCm2cWQy1pBjBE.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_8H2KSl73YWgSnURQwL9eXKheJtmYCszMGkdAzIB5cUw.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_Vr76DlqprTUz8bqXPDeMObfMyu63j80a15GaDPl6qA4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_sEdSVYy-u5tHYPvEAbXL8O9Rm3sy-VOVIe3s9aBlnRM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_NOTPrIy74Ph8MbcaI6drli1eofrLtZPmBKG1bxa26_4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_spH3BlySPIdnRRvcETJpr6-8rmK35AJqP0HRwVkEFFs.css" media="print">
-<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_e0V9Mw2kcwfjWN2wPc730znQe8HO7B4C5smInMVxGVY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://wypr.org/sites/wypr.org/files/css/css_sSxY_6qhi-ixPwamHLoqs4Ab9fUN8Lpg4fOUbvQAPVg.css" media="all">
  
   <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/js/js_71ulivOsZAkmkoPBdBAgiAgrh0D5I_TiadS6vTmxLF4.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
-<script type="text/javascript" src="/misc/jquery.cookie.js?1403688903"></script>
-<script type="text/javascript" src="http://wypr.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1403688903"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?n7ebor"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/js/js_HuWotM9iOc80jj5rA_WUzZROQq6mBduOUeiXjy_xEck.js"></script>
+<script type="text/javascript" src="/misc/jquery.cookie.js?1416672661"></script>
+<script type="text/javascript" src="http://wypr.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1416672661"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?nfbn7s"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/js/js_cpxozcCpW_676UO4WTxzviXOYL9XYZ3Dkbxbjq5wiUM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GS_googleAddAdSenseService('ca-pub-1764691457002028');GS_googleEnableAllServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GA_googleAddSlot('ca-pub-1764691457002028', 'WYPR_Homepage_970');
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GA_googleAddAttr('path', 'node/918');
+GA_googleAddAttr('nid', '918');
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GA_googleFetchAds();
+//--><!]]>
+</script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 GS_googleAddAdSenseService('ca-pub-1764691457002028');GS_googleEnableAllServices();
@@ -101,7 +122,7 @@ var addthis_config = {data_ga_property: 'UA-18188937-11',data_ga_social : true}
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"rEQH1fwXaM_ltutNeEIAUCyxWk86Cz6zm0m8wH4Dnxo","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/themes\/pilot\/js\/rotate-header-images.js":1,"8":1,"9":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-4e09f49f6fe84d1e":1,"http:\/\/platform.twitter.com\/widgets.js":1,"10":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_blocks\/css\/pi_signup.css":1,"sites\/all\/modules\/custom\/pi_blocks\/css\/pi_give.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/wyprmain\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"wypr.org"},"googleCSE":{"cx":"010251366440257945544:3vaq6tf7hgu","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":6,"streams":[{"stream_mp3":"http:\/\/live.str3am.com:2410\/wypr","width":"","height":"","display":"1","weight":0,"streamName":"wypr","description":"WYPR 88.1 FM","ucs":"518934a7e1c8d34009f0ce7b"},{"stream_mp3":"http:\/\/live.str3am.com:9180\/wypr-hd2","width":"","height":"","display":"1","weight":"1","streamName":"wyprhd2","description":"WYPR Presents BBC","ucs":"5187fa65e1c895e88becb9bf"},{"stream_mp3":"http:\/\/live.str3am.com:9190\/wypr-hd3","width":"","height":"","display":"1","weight":"2","streamName":"wyprhd3","description":"WYPR Presents All Classical","ucs":"5187fa76e1c8bf34b3901211"},{"stream_mp3":"","width":"","height":"","weight":3},{"stream_mp3":"","width":"","height":"","weight":4},{"stream_mp3":"","width":"","height":"","weight":5}],"pi_header":["\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-1.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-2.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-3.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-4.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-5.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-6.jpg"],"pi_header_count":6});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"alWKeJ4EGLqAHChjtUIlfDpOhngeuEke3a2rectJOvw","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/themes\/pilot\/js\/rotate-header-images.js":1,"12":1,"13":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-4e09f49f6fe84d1e":1,"http:\/\/platform.twitter.com\/widgets.js":1,"14":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_blocks\/css\/pi_signup.css":1,"sites\/all\/modules\/custom\/pi_blocks\/css\/pi_give.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/wypr.org\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"wypr.org"},"googleCSE":{"cx":"010251366440257945544:3vaq6tf7hgu","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":6,"streams":[{"stream_mp3":"http:\/\/live.str3am.com:2410\/wypr","width":"","height":"","display":"1","weight":0,"streamName":"wypr","description":"WYPR 88.1 FM","ucs":"518934a7e1c8d34009f0ce7b"},{"stream_mp3":"http:\/\/live.str3am.com:9180\/wypr-hd2","width":"","height":"","display":"1","weight":"1","streamName":"wyprhd2","description":"WYPR Presents BBC","ucs":"5187fa65e1c895e88becb9bf"},{"stream_mp3":"http:\/\/live.str3am.com:9190\/wypr-hd3","width":"","height":"","display":"1","weight":"2","streamName":"wyprhd3","description":"WYPR Presents All Classical","ucs":"5187fa76e1c8bf34b3901211"},{"stream_mp3":"","width":"","height":"","weight":3},{"stream_mp3":"","width":"","height":"","weight":4},{"stream_mp3":"","width":"","height":"","weight":5}],"pi_header":["\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-1.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-2.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-3.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-4.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-5.jpg\r","\/sites\/wyprmain\/themes\/station\/images\/bg-header-wyprmain-6.jpg"],"pi_header_count":6});
 //--><!]]>
 </script>
 
@@ -174,7 +195,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="content-center-frame"><div class="table-queue" id="table-queue-utilitylinks">
   <div class="item-list"><ul class="menu" id="utility-bar"><li class="about first"><a href="http://news.wypr.org/schedule">On-Air Schedule</a></li>
 <li class="about"><a href="http://events.publicbroadcasting.net/wypr/events.eventsmain">Events</a></li>
-<li class="support last"><a href="https://secure.publicbroadcasting.net/wypr/shortenthedrive/pledge.pledgemain" target="_blank">SUPPORT THIS STATION</a></li>
+<li class="support last"><a href="https://secure.publicbroadcasting.net/wypr/Sustainer/form.pledgemain" target="_blank">DONATE</a></li>
 </ul></div></div>
 </div>
   </div>
@@ -298,6 +319,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="left">
 <a href="http://wypr.org/programs/elections">Elections</a>
 </li>
+<li class="left">
+<a href="http://news.wypr.org/topic/series">WYPR Series</a>
+</li>
+<li class="left">
+<a href="http://news.wypr.org/topic/features">WYPR Features</a>
+</li>
 </ul>
 </li>
 <li class="dd has-dropdown not-click">
@@ -305,6 +332,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <ul class="dropdown">
 <li class="left">
 <a href="/term/wypr-arts">WYPR Arts</a>
+</li>
+<li class="left">
+<a href="http://wypr.org/bma-art-quiz">BMA Art Question of the Week</a>
 </li>
 <li class="left">
 <a href="http://wypr.org/programs/choral-arts-classics">Choral Arts Classics</a>
@@ -324,9 +354,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="http://events.publicbroadcasting.net/wypr/events.eventsmain">Events</a>
 <ul class="dropdown">
 <li class="left">
-<a href="http://wypr.org/concerts-patterson-park">Concerts in Patterson Park</a>
-</li>
-<li class="left">
 <a href="http://wypr.org/baltimore-speakers-series-2014-2015">Baltimore Speakers Series</a>
 </li>
 <li class="left">
@@ -338,7 +365,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/support-wypr">Support</a>
 <ul class="dropdown">
 <li class="left">
-<a href="https://secure.publicbroadcasting.net/wypr/shortenthedrive/pledge.pledgemain">WYPR Membership</a>
+<a href="http://wypr.org/wwdtm-videos">WWDTM Videos</a>
+</li>
+<li class="left">
+<a href="https://secure.publicbroadcasting.net/wypr/Sustainer/form.pledgemain">WYPR Membership</a>
 </li>
 <li class="left">
 <a href="/corporate-support">Underwriting</a>
@@ -405,7 +435,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-92v0izKokXsN3frZqDy9A4n9hglD4--VL6FocOubHho">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-wprDioZ3vvAJcGEP_ZY8vasrgjszsWX5Ktqr6qV5Ow0">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form></div>
@@ -428,26 +458,34 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
 <ul> 
   <li><!-- Promo 0 -->
-    <a href="/post/primary-coverage"> 
-              <img src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/small_square/public/201406/voting_stock_image_by_justgrimes_via_flickr.JPG" alt="Election 2014"> 
-            <div><span class="promo-header-slug">Election 2014</span><span class="promo-header-title">Primary Coverage</span></div> 
+    <a href="/post/how-well-do-your-apps-protect-your-privacy"> 
+              <img src="http://mediad.publicbroadcasting.net/p/shared/npr/styles/small_square/nprshared/201411/365458314.jpg" alt="Shots - Health News"> 
+            <div><span class="promo-header-slug">Shots - Health News</span><span class="promo-header-title">How Well Do Your Apps Protect Your Privacy?</span></div> 
     </a> 
   </li> 
   <li class="promo-middle"><!-- Promo 1 -->
-    <a href="/post/fellow-owners-will-remind-snyder-tradition-doesnt-pay-bills"> 
-              <img src="http://mediad.publicbroadcasting.net/p/shared/npr/styles/small_square/nprshared/201406/324918153.jpg" alt="Sports at Large"> 
-            <div><span class="promo-header-slug">Sports at Large</span><span class="promo-header-title">Fellow Owners Will Remind Snyder That Tradition Doesn't Pay The Bills</span></div> 
+    <a href="/post/will-new-lawmakers-make-annapolis-more-partisan"> 
+              <img src="http://mediad.publicbroadcasting.net/p/shared/npr/styles/small_square/nprshared/201411/365502692.JPG" alt="General Assembly"> 
+            <div><span class="promo-header-slug">General Assembly</span><span class="promo-header-title">Will New Lawmakers Make Annapolis More Partisan?</span></div> 
     </a> 
   </li> 
   <li><!-- Promo 2 -->
-    <a href="/post/chronic-conditions-and-our-health-care-system"> 
-              <img src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/small_square/public/201406/Alex_Proimos_Flickr.jpg" alt="Maryland Morning"> 
-            <div><span class="promo-header-slug">Maryland Morning</span><span class="promo-header-title">Chronic Conditions and Our Health Care System</span></div> 
+    <a href="/post/what-president-obamas-executive-action-means-immigrants-maryland"> 
+              <img src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/small_square/public/201411/454300434_1410389406298_7935631_ver1.0_320_240_0.jpg" alt="Maryland Morning"> 
+            <div><span class="promo-header-slug">Maryland Morning</span><span class="promo-header-title">What President Obama's Executive Action Means For Immigrants In Maryland</span></div> 
     </a> 
   </li> 
 </ul> 
 </div>
 </div>
+  </div>
+
+</div> <!-- /.block -->
+<div id="block-pi_ads-banner_top" class="block block-pi-ads region-even region-count-2">
+ 
+      
+  <div class="content block-no-title">
+    <div class="content-center-frame"><script type="text/javascript">GA_googleFillSlot("WYPR_Homepage_970");</script></div>
   </div>
 
 </div> <!-- /.block -->
@@ -468,7 +506,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h2 class="block-title">Now Playing</h2>
     
   <div class="content">
-    <div class="content-center-frame"><div id="playlist-xml" generated="1403688903" station="">
+    <div class="content-center-frame"><div id="playlist-xml" generated="1416672661" station="">
 
 
 
@@ -537,7 +575,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <div class="person">
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201308/ABienstock.gif" alt="Andy Bienstock"></div>
             <div class="person-name"><a href="/people/andy-bienstock">Andy Bienstock</a></div>
-              <div class="person-title">Program Director, On Air-Personality Host, American  Songbook &amp; The Signal</div>
+              <div class="person-title">Vice-President, Program Director, On-Air Host</div>
           </div>
       <div class="person">
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201308/Skast.JPG" alt="Sheilah Kast"></div>
@@ -565,17 +603,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <div class="person-title">Host, Your Maryland</div>
           </div>
       <div class="person">
-              <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201310/JonPic.jpg" alt="Jonathan Ehrens"></div>
-            <div class="person-name"><a href="/people/jonathan-ehrens">Jonathan Ehrens</a></div>
-              <div class="person-title">Producer, Director Midday</div>
-          </div>
-      <div class="person">
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201310/Dianepastelhoriz.jpg" alt="Diane Finlayson"></div>
             <div class="person-name"><a href="/people/diane-finlayson">Diane Finlayson</a></div>
               <div class="person-title">On-Air Personality</div>
           </div>
       <div class="person">
-              <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201311/TONY_FOREMAN.png" alt="Tony Foreman"></div>
+              <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201411/Tony_Foreman05.jpg" alt="Tony Foreman"></div>
             <div class="person-name"><a href="/people/tony-foreman">Tony Foreman</a></div>
               <div class="person-title">Host, Foreman and Wolf on Food and Wine</div>
           </div>
@@ -598,11 +631,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201403/zhimowitz02.jpg" alt="Mike Himowitz"></div>
             <div class="person-name"><a href="/people/mike-himowitz">Mike Himowitz</a></div>
               <div class="person-title">Associate Producer, Midday</div>
-          </div>
-      <div class="person">
-              <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201308/JKay.JPG" alt="Jamyla Kay"></div>
-            <div class="person-name"><a href="/people/jamyla-kay">Jamyla Kay</a></div>
-              <div class="person-title">Producer, WYPR Programming</div>
           </div>
       <div class="person">
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wyprmain/files/styles/person_thumb/public/201308/LMorgan.gif" alt="Lisa Morgan"></div>
@@ -830,9 +858,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h4>Listen Live</h4>
         <div class="item_list">
           <ul>
-                                          <li class="ff-link-0"><a href="http://wypr.org/listen-live">Listen Live</a></li>
+                                          <li class="ff-link-0"><a target="_blank" href="http://wypr.org/listen-live">Listen Live</a></li>
                 
-                                          <li class="ff-link-1"><a href="http://programs.wypr.org/podcasts">Podcasts</a></li>
+                                          <li class="ff-link-1"><a href="http://wypr.org/rss">Podcasts</a></li>
                 
                                           <li class="ff-link-2"><a href="http://m.news.wypr.org">View on Mobile</a></li>
                 
@@ -843,7 +871,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h4>Support</h4>
         <div class="item_list">
           <ul>
-                                          <li class="ff-link-0"><a href="https://secure.publicbroadcasting.net/wypr/shortenthedrive/pledge.pledgemain">Become a Member</a></li>
+                                          <li class="ff-link-0"><a target="_blank" href="https://secure.publicbroadcasting.net/wypr/Sustainer/form.pledgemain">Become a Member</a></li>
                 
                       </ul>
         </div>
@@ -862,40 +890,64 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="column">
 	<!-- <h4>Events Calendar</h4>  -->
 	<ul class="events">
-					<li class="recurring-date">
+					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month"></div>
-					<div class="event-date-day"></div>
+					<div class="event-date-month">Nov</div>
+					<div class="event-date-day">22</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Art &amp; Museum Exhibits</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1518378">The Janet &amp; Walter Sondheim Artscape Prize 2014 Finalists</a></div>
-					<div class="event-description">June 21 - August 17, 2014<br>
- At The Walters Art Museum</div>
+					<div class="event-category">Theater &amp; Dance: Other</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1576500">Golden Dragon Acrobats</a></div>
+					<div class="event-description">
+ At Weinberg Center for the Arts</div>
 				</div>
 			</li>
-					<li class="recurring-date">
+					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month"></div>
-					<div class="event-date-day"></div>
+					<div class="event-date-month">Nov</div>
+					<div class="event-date-day">22</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Art &amp; Museum Exhibits</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1492206">Renoir Returns to the BMA</a></div>
-					<div class="event-description">March 30 - July 20, 2014<br>
- At The Baltimore Museum of Art</div>
+					<div class="event-category">Theater &amp; Dance: Other</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1576501">Golden Dragon Acrobats</a></div>
+					<div class="event-description">
+ At Weinberg Center for the Arts</div>
 				</div>
 			</li>
-					<li class="recurring-date">
+					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month"></div>
-					<div class="event-date-day"></div>
+					<div class="event-date-month">Nov</div>
+					<div class="event-date-day">23</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Art &amp; Museum Exhibits</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1465070">German Expressionism: A Revolutionary Spirit</a></div>
-					<div class="event-description">Wednesdays, Thursdays, Fridays, Saturdays, and Sundays, January 29 - September 14, 2014<br>
- At Baltimore Museum of Art </div>
+					<div class="event-category">Meetings &amp; Conventions</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1594521">Public Talk: Creating the Attitude of Gratittude</a></div>
+					<div class="event-description">
+ At Kadampa Meditation Center Maryland Temple for World Peace</div>
+				</div>
+			</li>
+					<li class="single-date">
+				<div class="event-date">
+					<div class="event-date-month">Nov</div>
+					<div class="event-date-day">23</div>
+				</div>
+				<div class="event-details">
+					<div class="event-category">Live Music: All</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1576479">The Last Waltz Tribute</a></div>
+					<div class="event-description">
+ At Weinberg Center for the Arts</div>
+				</div>
+			</li>
+					<li class="single-date">
+				<div class="event-date">
+					<div class="event-date-month">Nov</div>
+					<div class="event-date-day">27</div>
+				</div>
+				<div class="event-details">
+					<div class="event-category">WYPR Media Partners</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wypr/events.eventsmain?action=showEvent&amp;eventID=1577597">Towson Y Turkey Trot Charity 5K</a></div>
+					<div class="event-description">
+ At Orokawa Family Center Y</div>
 				</div>
 			</li>
 			</ul>
@@ -994,6 +1046,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     }());
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZNhQLSg9bVAdBGREJRg==","queueTime":0,"applicationTime":10,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZNhQLSg9bVAdBGREJRg==","queueTime":0,"applicationTime":11,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
