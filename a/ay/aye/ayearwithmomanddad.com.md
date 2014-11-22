@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ayearwithmomanddad.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215758id_/http%3A//ayearwithmomanddad.com/pr-friendly/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayearwithmomanddad.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201546id_/http%3A//happystronghome.com/pr-friendly/policies) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy | A Year with Mom & Dad
+# Disclosures & Privacy Policies
 
-**_DISCLOSURE_**  
-__
+**_DISCLOSURE_**
 
 _This policy is valid from 15 June 2010._
 
@@ -27,10 +26,10 @@ A Year With Mom and Dad respects your privacy.
 
 A Year With Mom and Dad and its affiliates may use cookies to store information about your preferences and other information. Cookies themselves do not contain any personal information, and A Year With Mom and Dad does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers. Some advertising partners may use cookies. Some of the partners include, but not limited to Groupon, Ebates, and others. A Year With Mom and Dad is not responsible for information obtained from affiliates.
 
+To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
 A Year With Mom and Dad is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
 A Year With Mom and Dad may on occasion ask for personal information, such as for giveaways. This information will not be sold or used for any purpose other than contacting the winner of the giveaway. Your information may be sent to giveaway providers for mailing the giveaway. A Year With Mom and Dad is not responsible for information shared with giveaway sponsors as a means of mailing a giveaway. It is the intent of A Year With Mom and Dad that this information be colleted for confirming winners of a giveaway as a method of prize distribution only.
 
-This privacy policy was written with the help of [This Mama Loves Her Bargains](http://www.mamalovesherbargains.com/).
-
-[](http://www.printfriendly.com/print/v2?url=http://ayearwithmomanddad.com/pr-friendly/disclosure-privacy-policy/)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
