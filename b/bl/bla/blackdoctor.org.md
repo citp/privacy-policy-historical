@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040420id_/http%3A//blackdoctor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221123id_/http%3A//blackdoctor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlackDoctor
 
