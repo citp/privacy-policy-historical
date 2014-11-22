@@ -1,60 +1,61 @@
-> *The following text is extracted and transformed from the bluewater.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624035106id_/http%3A//www.bluewater.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluewater.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122152029id_/http%3A//www.bluewater.co.uk/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Website Privacy Statement applies to the following websites - [www.bluewater.co.uk](http://www.bluewater.co.uk/) and [www.glowbluewater.co.uk](http://www.glowbluewater.co.uk/) which are operated by and on behalf of Blueco Limited (the "Websites").
+This Privacy & Cookies Policy relates to your use of the www.bluewater.co.uk and www.glowbluewater.co.uk websites and in each case reference to “website” should be construed accordingly. 
 
-Blueco Limited is part of the Lend Lease Group. Information collected through the Websites may be collected by Blueco Limited (referred to as "we", "us", "our”) in accordance with this Website Privacy Statement. We treat your personal identifiable details ("personal data") with respect and integrity, and we will keep your personal data secure and use the information you provide consistently with applicable privacy and data protection laws ("Laws") and the terms of this Website Privacy Statement.
+Blueco Limited (“we”, “us” or “our”) are committed to protecting the privacy of users of this website. This policy explains how we will use any personal information we collect about you when you use this website. Please read this policy carefully.
 
-This Website Privacy Statement explains how personal data will be treated as you access and interact with the Websites.
+For the purposes of the Data Protection Act 1998, the “data controller” for this website is Blueco Limited (company number 03196199) of 5 The Strand, London, WC2N 5AF.
 
-**Changes to the Website Privacy Statement**
+1 HOW DO WE COLLECT INFORMATION FROM YOU?  
+1.1 We collect information about you when you sign up for our email updates, provide us with feedback, enter a survey promotion or competition on our websites, miscrosites or other social media sites and/or contact us. This information may include details such as your name, email address, telephone number and any other information you provide, such as age group, interests and habits/preferences.   
+1.2 We may also collect information about your use of the website using cookies.
 
- **** We will post any changes to this Website Privacy Statement on the Websites, so we encourage you to check from time to time. Any personal data collected under this current Website Privacy Statement will be handled in accordance with this Website Privacy Statement. After the changes take effect, all new personal data collected, if any, will be subject to the revised Website Privacy Statement. We will of course notify you of any changes where we are required to do so.
+2 HOW DO WE USE THE INFORMATION WE COLLECT?  
+2.1 We will use the information you have provided as follows:  
+a) to provide the services or information which you have requested  
+b) tailor this website so the content you see is relevant to you  
+c) to collect statistics, responses to any surveys and questionnaires, traffic patterns and related site information. We aggregate this data and it does not identify any website users. We use it for research, analysis, testing, monitoring, risk management and administrative purposes. Furthermore we may disclose this aggregated data to third parties for marketing, advertising or other promotional purposes.  
+2.2 Additionally, if you agree, we may:  
+a) use the information to contact you by email or SMS about our new developments, services and any other information we think may be of interest to you based on your use of the website  
+b) pass the information on to companies within our group of companies so that they can contact you by email or SMS with details of developments and activities which may interest you;   
+c) pass the information on to other third parties so that they can contact you by email or SMS with details of developments and activities which may interest you.  
+2.3 We may pass on share or allow access to your information:  
+a) to our suppliers, contractors and professional advisors where this is necessary for them to provide services and facilities to us including marketing firms, postal services, recruitment firms and providers of other related services;  
+b) to any purchaser of all or part of our business or any of our properties to which this website relates;  
+c) where we are required to do so by law, court order or other legal process;  
+d) where, acting in good faith, we believe disclosure is necessary to assist in the investigation or reporting of suspected illegal or other wrongful activity;  
+e) to protect and defend our rights or property.
 
-**Additional terms**  
-In addition to the provisions of this Website Privacy Statement, there may also be additional provisions that apply to certain sections or functions of the Websites, or that apply to you if you are an employee, agent, contractor, or are otherwise employed by Blueco Limited (for example, provisions relating to your use of technology). Because those additional provisions also relate to your privacy, we recommend that you review them wherever they appear. In the event of any inconsistency between this Website Privacy Statement and those additional provisions, the additional provisions will prevail.
+3 YOUR RIGHTS  
+3.1 You have the right to opt out of receiving any marketing information which we send you.  
+3.2 If you have previously consented to receiving marketing information from us and change your mind, you can withdraw your consent by emailing us at websites@landsecurities.com.  
+3.3 You have the right to request a copy of the personal data which we hold about you. You can request this information by contacting us at websites@landsecurities.com . We may make a small charge for providing this information.  
+3.4 If you think any of the information we hold about you is out of date or incorrect, you can ask us to correct or remove this information, contact us at websites@landsecurities.com.
 
-**The personal data that we collect about you  
-**The personal data about you which the Websites may collect include:
+4 HOW DO WE USE COOKIES?  
+4.1 Cookies (and similar technologies) are small files which are sent by websites and stored on your device. They collect information about how the website is being used by those accessing it and allow websites to remember information. You can find out more about cookies at www.allaboutcookies.org.  
+4.2 In our website we use cookies to collect information of how many visitors there are to different parts of the website, which helps us keep our site up to date. We may also use cookies to tailor the content that you see to suit your interests. This facility also allows you to receive personalised advertising relating to products viewed whilst using our website.  
+4.3 Most devices will automatically accept all cookies. However you can change your browser settings so that cookies are refused. Guidance on how to change your settings can be found at the website named above or look at the “help” menu of your device. Please be aware however that blocking cookies may hamper the website’s functionality or restrict how much of the website you can access.  
+4.4 For details of all the cookies which are used on our websites, their purpose, categorisation, data collected, and their persistence or expiry please see our Cookies Usage declaration below:
 
-  * information collected when you register or update an online profile and/or membership, which may include personal data such as your name, contact details and shopping habits and preferences; 
-
-  * information collected when you submit your CV or application to us for consideration of employment; 
-
-  * the content of electronic forms, messages or comments you submit via the Websites, requesting us to provide services or information, or take actions, which may include personal data such as your name, contact details and the issues in question; 
-
-  * information inputted or submitted to online facilities such as search tools and calculators; 
-
-  * personalisation preferences you select as you use the Websites; 
-
-  * information submitted if you participate in an online survey or competition; and 
-
-  * your IP address (a unique identifier for your computer or other access device) which we may log when you visit the Websites. 
-
-
-
-
-You may browse some information-only areas of the Websites without providing any personal data (other than your IP address and cookies), however we may not be able to provide the full range of services through the Websites if we are not provided with the information outlined above.
-
-**Cookies  
-**Like many major websites, the Websites may use “cookies” which store some information on computers accessing the Websites. Cookies may be used by us for a variety of purposes. For example, we may use cookies to recognise a computer which has previously visited the Websites and then customise the Websites according to previous preferences and site behaviour. Cookies may also be used to manage security and store information about the type of browser being used. With most Internet browsers, users can erase cookies from their computer's hard drive, block all cookies, or receive a warning before a cookie is stored. However, some parts of the Websites may not function fully for users that disallow cookies. Further information on deleting or controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/ "Open this link in a new window"). Our cookies will have the file names: 
+Our cookies will have the file names:
 
 **Cookie**
 
- **** | 
+| 
 
 **Name**
 
- **** | 
+| 
 
 **Purpose**
 
- **** | 
+| 
 
-**More Info**
-
- ****  
+**More Info**  
+  
 ---|---|---|---  
   
 Google Maps
@@ -73,11 +74,11 @@ PREF
 
 | 
 
-Used by the Google Map on the 'Getting here' page. 
+Used by the Google Map on the 'Getting here' page.
 
 | 
 
-For more information please refer to Google's Privacy Policy: <http://www.google.com/policies/privacy/>  
+For more information please refer to Google's Privacy Policy:<http://www.google.com/policies/privacy/>  
   
 Right Media
 
@@ -95,7 +96,7 @@ For example, these cookies remember the ads that the Yield Manager technology 
 
 | 
 
-For more information please refer to Right Media's Yield Manager Privacy Policy: <http://content.yieldmanager.com/ym_privacy.html>  
+For more information please refer to Right Media's Yield Manager Privacy Policy:<http://content.yieldmanager.com/ym_privacy.html>  
   
 Google Analytics
 
@@ -115,9 +116,9 @@ These cookies are used to collect information about how visitors use our site. W
 
 | 
 
-More information from Google can be found here: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>[ ](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
+More information from Google can be found here:<http://www.google.co.uk/intl/en/analytics/privacyoverview.html>[ ](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
 
-You can opt-out of all Google Analytics cookies by installing a browser add-on, available here: <http://tools.google.com/dlpage/gaoptout?hl=en-GB>  
+You can opt-out of all Google Analytics cookies by installing a browser add-on, available here:<http://tools.google.com/dlpage/gaoptout?hl=en-GB>  
   
 Quantcast
 
@@ -125,15 +126,15 @@ Quantcast
 
 d
 
-MC 
+MC
 
 | 
 
-Gathers anonymous information about a user's browser and aggregates this information to surface targetted advertising at other browers with a similar profile. 
+Gathers anonymous information about a user's browser and aggregates this information to surface targetted advertising at other browers with a similar profile.
 
 | 
 
-For more information refer to the Quantcast privacy policy: <http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>  
+For more information refer to the Quantcast privacy policy:<http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>  
   
 Specific Media / Adviva
 
@@ -143,11 +144,11 @@ ug
 
 | 
 
-Collects anonymous data such as browser type, URL, IP address and computer operating system to create a usage profile for the purposes of targeted advertising. 
+Collects anonymous data such as browser type, URL, IP address and computer operating system to create a usage profile for the purposes of targeted advertising.
 
 | 
 
-Please refer to Specific Media's privacy policy for more information: <http://www.specificmedia.co.uk/privacy>  
+Please refer to Specific Media's privacy policy for more information: <http://www.specificmedia.co.uk/privacy>  
   
 Scorecard Research
 
@@ -159,11 +160,11 @@ UIDR
 
 | 
 
-Used for marketing purposes, to count users who have visited and seen a page or various parts of a page, and may also record a timestamp, the URL, and the title of the web page. 
+Used for marketing purposes, to count users who have visited and seen a page or various parts of a page, and may also record a timestamp, the URL, and the title of the web page.
 
 | 
 
-More information can be found in the ScorecardResearch Privacy Policy: <http://www.scorecardresearch.com/privacy.aspx>  
+More information can be found in the ScorecardResearch Privacy Policy: <http://www.scorecardresearch.com/privacy.aspx>  
   
 SagePay
 
@@ -179,7 +180,7 @@ Used to track the user's progress through the giftcard ordering process
 
 | 
 
-Please refer to the SagePay privacy policy for more information: <http://www.sagepay.com/privacy_policy>  
+Please refer to the SagePay privacy policy for more information:<http://www.sagepay.com/privacy_policy>  
   
 Bluewater Style Cookie
 
@@ -203,7 +204,7 @@ ASP.NET_SessionId
 
 | 
 
-Used by the website server to keep session state information, for example field settings on a form template or the current state of a form submission. 
+Used by the website server to keep session state information, for example field settings on a form template or the current state of a form submission.
 
 | 
 
@@ -217,7 +218,7 @@ bluewaterFashion
 
 | 
 
-Records user's response to the Bluewater Fashion promo popup. For example, if a user opts not to see the popup again, this cookie records that decision. 
+Records user's response to the Bluewater Fashion promo popup. For example, if a user opts not to see the popup again, this cookie records that decision.
 
 | 
 
@@ -233,7 +234,7 @@ bluewaterFestive2012V2
 
 | 
 
-Records user's response to the Bluewater Christmas 2012 promo popups. For example, if a user opts not to see the popup again, this cookie records that decision. 
+Records user's response to the Bluewater Christmas 2012 promo popups. For example, if a user opts not to see the popup again, this cookie records that decision.
 
 | 
 
@@ -251,67 +252,14 @@ Records user's response to the cookie popup on the Glow website
 
 |   
   
-**How we use your personal data  
-**In addition to providing our products and services to you, we may use personal data that we collect about you for purposes including the following:
+5 TRANSFERRING INFORMATION OVERSEAS  
+5.1 It is possible that personal data we collect from you may be transferred, stored and/or processed outside the European Economic Area (“EEA”). By submitting your personal data, you agree to this transfer, storing and/or processing. You should be aware that countries outside the EEA may not offer the same level of data protection as the United Kingdom however we will take all reasonable steps to ensure that your data is treated securely and in accordance with this privacy policy.
 
-  * where you have requested it, and/or in accordance with privacy laws, to provide you with information relating to Blueco Limited or other entities within the Lend Lease group or promotional details about our products and services that may be of interest to you (more information on this is set out below); 
+6 LINKS TO OTHER WEBSITE  
+6.1 This privacy and cookies policy only applies to this website. If you link to another website from here, you should remember to read and understand that website’s privacy and cookies policy as well. We are not responsible for any use of your information that is made by other websites.
 
-  * purposes related to research (including market research), planning, product and service development, security and testing by Blueco Limited and/or other entities within the Lend Lease group; 
+7 CHANGES TO THE PRIVACY & COOKIES POLICY  
+7.1 This policy was last updated on 22 July 2014. If it is necessary for us to alter the terms of the privacy and cookies policy, we will post the revised policy in this website.
 
-  * for www.mybluewater.co.uk, operation of membership and/or loyalty schemes, including sales tracking, the administration of rewards and offers and account management; 
-
-  * purposes connected with the operation, administration, development or enhancement of the Websites; 
-
-  * where a third party acquires or wishes to acquire, or makes inquiries in relation to acquiring, an interest in Blueco Limited or a member of the Lend Lease group. 
-
-
-
-
-**How we may share your personal data  
-**We may share personal data within Blueco Limited, Lend Lease group companies and with third party service providers. These include professional advisors, marketing firms, postal services, recruitment firms and providers of other related services. We may also be required to disclose your personal data by law. 
-
-**Overseas transfers  
-**If we do transfer personal data overseas we will ensure that it is appropriately protected. 
-
-**How we use your information for marketing  
-**We want to communicate with you only if you want to hear from us. We would like to send you offers and promotions which we believe will be of interest to you, both from ourselves and relevant third parties, by email, SMS, phone and/or post. If you prefer not to receive promotional information from us, you may opt out of receiving our promotional communications by following the instructions below or on each promotional communication. The relevant third parties may only send you offers and promotions by email and/or SMS where you have consented to this. However, if you wish to opt out of receiving offers and promotions from them by phone and/or post, please follow the instructions below or on each promotional communication. 
-
-**Retaining your personal data  
-**We may retain your personal data for an appropriate period of time in accordance with our data retention policies. Where you ask us to cease sending marketing communications to you, we will maintain your details on a suppression list for this purpose. 
-
-**Links to other websites**  
-The Websites may, from time to time, contain links to the websites of other organisations which may be of interest to you. Linked websites are responsible for their own privacy practices and you should check those websites for their respective privacy statements.
-
-**Security and monitoring  
-**We use a number of mechanisms to protect the security and integrity of personal data. Unfortunately, no data transmission over the Internet can be guaranteed as completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information transmitted to us and individuals do so at their own risk. Once any personal data comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
-
-A username and password may be essential for you to use some sections of the Websites. For your own protection, we require you to keep these confidential and to change your password regularly (if required).
-
-The use of our Websites and the information submitted may be monitored by our service providers or our employees for purposes including compliance auditing and maintenance or where inappropriate or illegal behaviour is suspected.
-
-**Access to information  
-**From time to time, the Websites may allow you to register to use the Websites or sections of them. If you are a registered user of a Website, you may be able to access and update the information on your profile in the applicable section of the Website, subject to any authentication and authorisation considerations, which exist to protect your security.
-
-If you wish to request access to any other personal data which we hold about you as a result of our information collection practices outlined in this Website Privacy Statement, please refer to the "Contact details" section below.
-
-**Contact details  
-**Please contact our Privacy Officer using the details set out below if you wish to:
-
-  * ask any questions or provide feedback about this Website Privacy Statement; 
-
-  * opt-in or opt-out of marketing communications; 
-
-  * make a request for access to any personal data that we may hold about you (for which we may charge a small fee) and to have any inaccuracies in your 
-
-  * information corrected; or 
-
-  * make a complaint about the way in which we have handled your personal data. 
-
-
-
-
-Any information that we provide in response may be limited to the extent permitted by any applicable law.  
-**Email** : bluewaterprivacy@lendlease.com   
-**Phone** : Outside of United Kingdom dial: + 44 1322 623 324   
-**Phone** : From the United Kingdom dial: 01322 623 324  
-**Mail** : Privacy Officer, Blueco Limited, c/o Lend Lease, 20 Triton Street, Regent's Place, London NW1 3BF
+8 HOW USERS CAN CONTACT US  
+8.1 If you have any questions about this privacy and cookies policy, please contact us at websites@landescurities.com 
