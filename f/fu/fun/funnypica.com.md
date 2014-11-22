@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnypica.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154231id_/http%3A//www.funnypica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnypica.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122015552id_/http%3A//www.funnypica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FunnyPica.com
 
