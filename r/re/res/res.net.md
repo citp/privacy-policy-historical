@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the res.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620095931id_/http%3A//www.res.net/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the res.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034430id_/http%3A//www.res.net/Privacy_Statement) for the most accurate reproduction.*
 
 # RES.NET - Privacy Statement
 
