@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techeyetech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142634id_/http%3A//www.techeyetech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techeyetech.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161255id_/http%3A//www.techeyetech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechEyeTech
 
@@ -86,6 +86,3 @@ India
 **techeyetech@gmail.com**
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
-
-  
-
