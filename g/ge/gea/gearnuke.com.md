@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearnuke.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114419id_/http%3A//gearnuke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearnuke.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173615id_/http%3A//gearnuke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GearNuke
 
@@ -66,5 +66,5 @@ By using this Site, you signify your acceptance of this policy If you do not agr
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [GearNuke](http://gearnuke.com/)  
 <http://gearnuke.com/>  
-3447, DHA Commercial, Lahore, Punjab, Pakistan  
+[](http://gearnuke.com/)7618 Cinder Freeway, Red Herring, West Virginia, 25055-6430, United States, (681) 776-5317  
 media@gearnuke.com
