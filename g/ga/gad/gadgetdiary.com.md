@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gadgetdiary.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628214558id_/http%3A//gadgetdiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetdiary.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221213id_/http%3A//www.gadgetdiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thankyou our visitor to stay in touch with us and spread the word. The privacy policy is about, how we collect your information, use it and secure your personal information from the outer world. Privacy is what we all need in this online environment because this world is not secure, but at [http://gadgetdiary.com](https://web.archive.org/web/20140628214558id_/http://www.gadgetdiary.com/), we respect that you share your private information with us and we will make our best efforts to protect your privacy.
+Thankyou our visitor to stay in touch with us and spread the word. The privacy policy is about, how we collect your information, use it and secure your personal information from the outer world. Privacy is what we all need in this online environment because this world is not secure, but at [http://gadgetdiary.com](https://web.archive.org/web/20141122221213id_/http://www.gadgetdiary.com/), we respect that you share your private information with us and we will make our best efforts to protect your privacy.
 
 So you can freely share your experience and thoughts with us without annoying of your personal data being shared here.
 
@@ -22,4 +22,4 @@ We take precautions to protect your information; we are committed to ensuring th
 
 We reserve the right to change this privacy policy without any prior notice.
 
- _If you have any questions regarding this policy please feel free to_[ _contact us_](https://web.archive.org/web/20140628214558id_/http://www.gadgetdiary.com/contact-us) _any time_
+ _If you have any questions regarding this policy please feel free to_[ _contact us_](https://web.archive.org/web/20141122221213id_/http://www.gadgetdiary.com/contact-us) _any time_
