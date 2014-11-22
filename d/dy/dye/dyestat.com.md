@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522175633id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122054753id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
 
 # About - Privacy Policy - Privacy Policy
 
