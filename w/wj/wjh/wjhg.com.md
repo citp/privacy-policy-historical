@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331193826id_/http%3A//www.wjhg.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173625id_/http%3A//www.wjhg.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -42,7 +42,7 @@ Under the California “Shine the Light Act,” if you reside in California and 
 • In your postal request, you must send a letter or post card to:
 
 Gray Television, Inc.  
-Attn: Lisa Bishop/Your California Privacy Rights  
+Attn: Mike Braun/Your California Privacy Rights  
 VP, Gray Digital Media  
 126 N. Washington Street  
 Albany, GA 31701
@@ -140,9 +140,9 @@ We reserve the right, at our discretion, to modify, add, or remove sections from
 If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to [privacyrights@gray.tv](mailto:privacyrights@gray.tv) or via postal mail to: 
 
 Gray Television, Inc.  
-Attn: Lisa Bishop  
+Attn: Mike Braun  
 VP Digital Media  
 126 N. Washington Street  
 Albany, GA 31701
 
-Copyright © 2012 Gray Television, Inc. All Rights Reserved.
+Copyright © 2014 Gray Television, Inc. All Rights Reserved.
