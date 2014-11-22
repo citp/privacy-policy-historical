@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915054533id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122183723id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # BullGuard - Privacy Policy
 
-Bullguard Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.bullguard.com](http://www.bullguard.com/) and does not cover information that may be collected behind the log in on our website. 
+  
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@bullguard.com](mailto:support@bullguard.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-[](https://privacy.truste.com/privacy-seal/Bullguard-Ltd-/validation?rid=4445fbef-ffed-4576-8d5e-9c6fffd0f6d7 "TRUSTe online privacy certification")
 
 BullGuard takes privacy issues very seriously. When you visit our Web site we want it to be completely transparent which personal data are collected and kept by BullGuard and our partners, and the choices you have to correct or avoid providing these data. Certain services, such as online payments, can only be performed with a transfer of personal details, whilst other details are collected to map the choices of our customers, in order to improve the BullGuard products and Web site. The important part is that you have to make an informed choice as to which data you wish to provide. The text below sets out what kind of data we collect, how we collect it, how we keep it, with whom we share it, how you can change it and how you can avoid providing it. Your trust is very important to us. 
 
@@ -18,8 +15,8 @@ The information we collect and how we collect it
 
 We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities. 
 
-If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <https://www.bullguard.com/my-account.aspx>  
-You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows.
+If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <https://www.bullguard.com/my-account.aspx>   
+You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows. 
 
 Personal information is requested when you place an order, register an account or in our forums, correspond with us or use the services offered on our Web site. These are the categories of data we request: Name, mailing address, e-mail address, phone number and credit card details. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. BullGuard stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme. 
 
@@ -27,7 +24,7 @@ Your friend may contact us at [support@bullguard.com](mailto:support@bullguard.c
 
 Cookies
 
-Cookies are small pieces of information that our Web sites provide to your browser when you visit our sites. We use these cookies to track which parts of our Web site you prefer and which particular services you have taken an interest in. We do not link the information we store in cookies to any personal information you submit while on our site. You can set your browser to reject cookies or notify you if a web site tries to place a cookie in your browser. Rejecting cookies may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about your cookie preferences. Web beacons
+Cookies are small pieces of information that our Web sites provide to your browser when you visit our sites. We use these cookies to track which parts of our Web site you prefer and which particular services you have taken an interest in. We do not link the information we store in cookies to any personal information you submit while on our site. You can set your browser to reject cookies or notify you if a web site tries to place a cookie in your browser. Rejecting cookies may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about your cookie preferences. Web beacons 
 
 Web beacons are invisible graphical images also known as single pixel GIFs. We use web beacons to assess which pages users access. We don't, however, link the information provided by web beacons to any personal information you submit whilst on our site. You can also set your browser not to display images. Using this setting may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about displaying images.
 
@@ -83,18 +80,18 @@ You can update, change or delete your personal information by:
 
 \- by regular mail to the following address: 
 
-BullGuard Ltd.  
-Customer Relations Dept.  
-823 Salisbury House  
-29 Finsbury Circus  
-EC2M 5QQ  
-London
+BullGuard Ltd.   
+Customer Relations Dept.   
+823 Salisbury House   
+29 Finsbury Circus   
+EC2M 5QQ   
+London 
 
-United Kingdom
+United Kingdom 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain the data you backed up to our servers for 30 more days from the moment your account expired.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain the data you backed up to our servers for 30 more days from the moment your account expired. 
 
-\-----
+\----- 
 
 BullGuard does not sell products for purchase by children. 
 
@@ -102,4 +99,4 @@ Third-Party Sites
 
 The Site contains links to other web sites. BullGuard is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies.
 
-Last updated: November 2012 
+Last updated: October 2014 
