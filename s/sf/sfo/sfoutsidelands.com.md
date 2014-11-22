@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfoutsidelands.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226001849id_/http%3A//www.sfoutsidelands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfoutsidelands.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163203id_/http%3A//www.sfoutsidelands.com/privacy-policy) for the most accurate reproduction.*
 
-# Outside Lands - 2013 : Music - Food - Wine - Beer - Art
+# Outside Lands - August 8-10, 2014 : Music - Food - Wine - Beer - Art
 
 This Privacy Policy.  
 The Web Site located at [www.SFOutsidelands.com](http://www.sfoutsidelands.com/) (the “Web Site”) is operated by OSL Group, LLC (hereinafter referred to as “Oustide Lands”).  This privacy policy describes Outside Lands’ current policies and practices with regard to personal data collected by Outside Lands through the Web Site. This privacy policy is independent from Outside Lands' offline personal data collection practices. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
