@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cranfield.ac.uk privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412222351id_/http%3A//www.cranfield.ac.uk/about/governance/policies-and-regulations/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cranfield.ac.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201350id_/http%3A//www.cranfield.ac.uk/about/governance/policies-and-regulations/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,6 +49,10 @@ Cookies are small text files that are placed on your computer by websites that y
 Your personally identifiable information will normally be stored in our own databases located in the United Kingdom, but some data may be stored elsewhere either in the European Economic Area, or in the United States under Safe Harbor agreements. Cranfield University is committed to keeping secure the data you provide us and will take reasonable precautions to protect your personally identifiable information from loss, misuse or alteration.
 
 Cranfield University has made substantial investments in security technology and security management processes. These technologies are deployed to guarantee maximum security of the information you provide us with.
+
+#### Online card payments
+
+The University does not hold or process electronic card payments; these transactions including all personal data are transferred to Worldpay and are governed by their [privacy policy](http://www.worldpay.co.uk/uk/privacy-policy).
 
 ### Email newsletters/communications (electronic communications)
 
