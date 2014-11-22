@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090747id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122165243id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
 
 # Web Privacy Policy - SUNY Empire State College | Policies, Procedures and Guidelines | SUNY Empire State College
 
@@ -158,4 +158,4 @@ This policy is consistent with the provisions of the Internet Security and Priva
 
 [Password and Information Security Practices at Empire State College](https://web.archive.org/integrated-technologies/technology-policies/password-information-security-practices/)
 
-[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20140626131008id_/http://www.esc.edu/policies/?search=cid%3D35655)
+[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20141122165243id_/http://www.esc.edu/policies/?search=cid%3D35655)
