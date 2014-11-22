@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cleansheetsallround.co.uk privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509040657id_/http%3A//www.cleansheetsallround.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleansheetsallround.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190748id_/http%3A//www.cleansheetsallround.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**IN RELATION TO CLEAN SHEETS ALL ROUND**
+**IN RELATION TO CSAR**
 
 This Privacy Policy applies to our website (“the Website”).
 
