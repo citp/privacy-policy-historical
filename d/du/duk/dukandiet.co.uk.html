@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dukandiet.co.uk privacy policy that was archived on 2014-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529214406id_/http%3A//www.dukandiet.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dukandiet.co.uk privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122065440id_/http%3A//www.dukandiet.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -62,7 +62,7 @@
         <script type="text/javascript" src="http://www.dukandiet.co.uk/templates/nurun/js/lib/xregexp-all-min.js"></script>
 
         
-          <base href="http://www.dukandiet.co.uk/privacy">
+          <base href="http://www.dukandiet.co.uk/privacy/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index,follow">
   <meta name="title" content="Dukan Diet - Privacy Policy">
@@ -82,7 +82,44 @@ if(!document.__defineGetter__) {
 	document.__defineGetter__("cookie", function() { return '';} );
 	document.__defineSetter__("cookie", function() {} );
 }
-jQuery( document ).ready( function() {content = "<table style=\"margin: auto; border-collapse:collapse;\"><tr><td><p style=\"font-size: 11px; color: #52575a;\">By browsing this website, you accept the use of cookies to deliver personalized content and targeted advertising tailored to your interests and to monitor visit statistics. Learn how cookies work and how to change your settings <a href= \"http://www.dukandiet.co.uk/privacy/\">here</a></p></td><td style=\"padding-left: 10px;\"><img src=\"/templates/system/images/cnil_close_cookies.png\" style=\"cursor: pointer;\" onclick=\"window.location = \'/privacy?eprivacy=1\';\" /></td></tr></table>";jQuery( "#banner_cnil" ).append( content );jQuery( "#banner_cnil" ).slideDown(1500);});
+jQuery( document ).ready( function() {content = "<table style=\"margin: auto; border-collapse:collapse;\"><tr><td><p style=\"font-size: 11px; color: #52575a;\">By browsing this website, you accept the use of cookies to deliver personalized content and targeted advertising tailored to your interests and to monitor visit statistics. Learn how cookies work and how to change your settings <a href= \"http://www.dukandiet.co.uk/privacy/\">here</a></p></td><td style=\"padding-left: 10px;\"><img src=\"/templates/system/images/cnil_close_cookies.png\" style=\"cursor: pointer;\" onclick=\"window.location = \'/privacy/?eprivacy=1\';\" /></td></tr></table>";jQuery( "#banner_cnil" ).append( content );jQuery( "#banner_cnil" ).slideDown(1500);});  jQuery( document ).ready( function() { 
+	            
+	                var reg = /\?/;
+                        var isJavas = /^javascript:/;
+                        
+			jQuery("a").each(function(){
+                            var target = jQuery(this);  
+	                    var href = target.attr("href");
+                            
+                            if(Object.prototype.toString.call(href) == "[object String]" && !isJavas.test(href)){
+                                
+                                if(target.parents("#coachingmenu").length || href.indexOf("#")==0){ return; }
+
+                                if(reg.test(href))
+                                {
+                                    href = href + "&eprivacy=1";
+                                }else{
+                                    href = href + "?eprivacy=1";
+                                }
+                                
+                                target.attr("href", href);
+                            }
+	                });
+	                
+	                jQuery("form").each(function(){
+                            var href = jQuery(this).attr("action");
+                            if(Object.prototype.toString.call(href) == "[object String]" && !isJavas.test(href)){
+                                if(reg.test(href))
+                                {
+                                   href = href + "&eprivacy=1";
+                                }else{
+                                    href = href + "?eprivacy=1";
+                                }
+
+                                jQuery(this).attr("action", href);
+                            }
+	                });
+	            });
   </script>
   <meta property="og:title" content="Privacy Policy">
   <meta property="og:type" content="article">
@@ -92,8 +129,10 @@ jQuery( document ).ready( function() {content = "<table style=\"margin: auto; bo
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
                                         <script type="text/javascript">stLight.options({publisher: "b151304d-41df-4254-89c3-6583964eced6"});</script>
 
+        
+                
     </head>
-    <body topmargin="0">
+    <body topmargin="0" class="en">
 
         <div id="banner_cnil" style="display: none; background-color: #e8f0f2;"></div>
 
@@ -137,7 +176,7 @@ jQuery( document ).ready( function() {content = "<table style=\"margin: auto; bo
 </li><li><a href="http://www.dukandieet.com" target="_blank" title="Dukan Dieet - Nederlands"><img src="http://www.dukandiet.co.uk/images/stories/nl-nl.png" alt="Dukan Dieet - Nederlands" border="none"></a>
 </li><li><a href="http://www.dietadukan.pl" target="_blank" title="Dieta Dukana - Polska"><img src="http://www.dukandiet.co.uk/images/stories/pl-pl.png" alt="Dieta Dukana - Polska" border="none"></a>
 </li><li><a href="http://www.dietadukan.com.br" target="_blank" title="Dieta Dukan - Brasil"><img src="http://www.dukandiet.co.uk/images/stories/pt-br.png" alt="Dieta Dukan - Brasil" border="none"></a>
-</li><li><a href="http://www.dietadukan.com.pt" target="_blank" title="Dieta Dukan – Рortugal"><img src="http://www.dukandiet.co.uk/images/stories/drapeau_pt.gif" alt="Dieta Dukan – Рortugal" border="none"></a>
+</li><li><a href="http://www.regimedukan.com.tr/" target="_blank" title="Dukan Rejimi - Turkiye"><img src="http://www.dukandiet.co.uk/images/stories/tr.png" alt="Dukan Rejimi - Turkiye" border="none"></a>
 </li>
     <div class="clearfix"></div>
 
@@ -175,7 +214,7 @@ jQuery( document ).ready( function() {content = "<table style=\"margin: auto; bo
                                 <input type="hidden" name="option" value="com_user">
                 <input type="hidden" name="task" value="login">
                 <input type="hidden" name="return" value="">
-                <input type="hidden" name="9a4b832f613b8172b0abbcc13becfe31" value="1">            </form>
+                <input type="hidden" name="289d8ba374705d65598210eff97b0d6f" value="1">            </form>
             <p> If you do not have an account, please calculate your <a href="/calculate-your-true-weight">True Weight</a></p>
                         <p><i><i>All information collected is subject to a digital analysis intended to establish your personal coaching programme. The data recipient is Regime Coach. According to the "Informatique et Libertés" law of January 6, 1978 amended in 2004, you have the right to access and rectify information concerning you, that you can modify using our contact form. You can also, for legitimate reasons, oppose the processing of data about you. You can unsubscribe from our newsletters by clicking on the unsubscribe link at the bottom of page mails. For more information we invite you to read our <a href="/terms-and-conditions" mce_href="/terms-and-conditions">Terms and Conditions</a>.</i></i></p>
                     </div>
@@ -186,72 +225,35 @@ jQuery( document ).ready( function() {content = "<table style=\"margin: auto; bo
                 <div id="nav">
                     
 <ul>
-<li class=" parent first item160 level0"><a class="" href="/weight-loss-coaching"><span>Dukan Coaching</span></a>
+<li class=" parent first item160 level0"><a class="" href="/dukan-coaching"><span>Dukan Coaching</span></a>
 <div class="expand">
 <div class="expand-inner">
 <ul>
-<li class=" first first item172 level1"><span class="separator "><span>Overview</span></span></li>
-<li class=" item275 level1"><a class="" href="/weight-loss-coaching/the-dukan-online-coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="The Dukan online coaching" class="img">The Dukan online coaching</span></a></li>
-<li class=" item1421 level1"><a class="" href="/weight-loss-coaching/coaching-a-la-carte"><span><img src="/images/stories/arrow-nav-1.png" alt="Coaching à la Carte" class="img">Coaching à la Carte</span></a></li>
-<li class=" item1426 level1"><a class="" href="/weight-loss-coaching/14-keys-to-coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="14 Keys to Coaching" class="img">14 Keys to Coaching</span></a></li>
-<li class=" item179 level1"><a class="" href="/weight-loss-coaching/interactive-coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="Daily Instructions" class="img">Daily Instructions</span></a></li>
-<li class=" item210 level1"><a class="" href="/weight-loss-coaching/slimming-apartment"><span><img src="/images/stories/arrow-nav-1.png" alt="Slimming Apartment" class="img">Slimming Apartment</span></a></li>
-<li class=" item291 level1"><a class="" href="/weight-loss-coaching/personalisation"><span><img src="/images/stories/arrow-nav-1.png" alt="Personalisation" class="img">Personalisation</span></a></li>
-<li class=" item239 level1"><a class="" href="/weight-loss-coaching/How-to-Join-the-Coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="How to Join the Coaching" class="img">How to Join the Coaching</span></a></li>
-<li class=" item240 last level1"><a class="" href="/weight-loss-coaching/success-rate"><span><img src="/images/stories/arrow-nav-1.png" alt="Success Rate" class="img">Success Rate</span></a></li>
-</ul>
+<li class=" parent first first item172 level1"><span class="separator "><span>DAILY INTERACTION</span></span>
 <ul>
-<li class=" first item213 level1"><a class="" href="/weight-loss-coaching/custom-plan"><span><img src="/images/stories/arrow-nav-1.png" alt="Is Coaching for me?" class="img">Is Coaching for me?</span></a></li>
-<li class=" item1368 level1"><a class="" href="/low-carb-diet/4-phases/stabilisation-phase"><span>The coaching stabilisation</span></a></li>
-<li class=" item1369 level1"><a class="" href="/weight-loss-coaching/how-to-stabilise-your-weight-permanently"><span><img src="/images/stories/arrow-nav-1.png" alt="how to stabilise your weight permanently" class="img">how to stabilise your weight permanently</span></a></li>
-<li class=" item183 level1"><a class="" href="/success-story-of-the-week"><span><img src="/images/stories/arrow-nav-1.png" alt="Success Story of the Week" class="img">Success Story of the Week</span></a></li>
-<li class=" parent item1412 level1"><span class="separator "><span><img src="/images/stories/arrow-nav-1.png" alt="Supermarket Dukan Products" class="img">Supermarket Dukan Products</span></span>
-<ul>
-<li class=" first item1415 last level2"><a class="" href="/weight-loss-coaching/supermarket-dukan-products/oat-bran-bars"><span><img src="/images/stories/arrow-nav-2.png" alt="Oat bran bars" class="img">Oat bran bars</span></a></li>
+<li class=" first item275 level2"><a class="" href="/dukan-coaching/program/dukan-online-coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="Dukan Online Coaching" class="img">Dukan Online Coaching</span></a></li>
+<li class=" item1421 level2"><a class="" href="/dukan-coaching/program/coaching-a-la-carte"><span><img src="/images/stories/arrow-nav-1.png" alt="Coaching à la Carte" class="img">Coaching à la Carte</span></a></li>
+<li class=" item1369 last level2"><a class="" href="/dukan-coaching/program/Stabilisation-coaching%20"><span><img src="/images/stories/arrow-nav-1.png" alt="Stabilisation Coaching" class="img">Stabilisation Coaching</span></a></li>
 </ul>
 </li>
 </ul>
 <ul>
-
-</ul>
-</div>
-</div>
-</li>
-<li class=" parent first item159 level0"><a class="" href="/low-carb-diet"><span>The Dukan Diet</span></a>
-<div class="expand">
-<div class="expand-inner">
+<li class=" parent first item1434 level1"><span class="separator "><span>COACHING TOOLS</span></span>
 <ul>
-<li class=" first item1365 level1"><a class="" href="/weight-loss-coaching/the-dukan-online-coaching"><span>An overview of the Dukan Diet</span></a></li>
-<li class=" parent item192 level1"><a class="" href="/low-carb-diet/4-phases"><span><img src="/images/stories/arrow-nav-1.png" alt="4 Phases" class="img">4 Phases</span></a>
-<ul>
-<li class=" first item204 level2"><a class="" href="/low-carb-diet/4-phases/attack-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Attack Phase" class="img">Attack Phase</span></a></li>
-<li class=" item203 level2"><a class="" href="/low-carb-diet/4-phases/cruise-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Cruise Phase" class="img">Cruise Phase</span></a></li>
-<li class=" item1328 level2"><a class="" href="/low-carb-diet/4-phases/consolidation-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Consolidation Phase" class="img">Consolidation Phase</span></a></li>
-<li class=" item1329 last level2"><a class="" href="/low-carb-diet/4-phases/stabilisation-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Stabilisation Phase" class="img">Stabilisation Phase</span></a></li>
+<li class=" first item291 level2"><a class="" href="/dukan-coaching/program/personalisation"><span><img src="/images/stories/arrow-nav-1.png" alt="Personalisation" class="img">Personalisation</span></a></li>
+<li class=" item179 level2"><a class="" href="/dukan-coaching/program/interactive-coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="Daily Instructions" class="img">Daily Instructions</span></a></li>
+<li class=" item210 last level2"><a class="" href="/dukan-coaching/program/slimming-apartment"><span><img src="/images/stories/arrow-nav-1.png" alt="Slimming Apartment" class="img">Slimming Apartment</span></a></li>
 </ul>
 </li>
-<li class=" item187 level1"><a class="" href="/low-carb-diet/food-list"><span><img src="/images/stories/arrow-nav-1.png" alt="The 100 Foods" class="img">The 100 Foods</span></a></li>
-<li class=" item292 level1"><a class="" href="/low-carb-diet/true-weight"><span><img src="/images/stories/arrow-nav-1.png" alt="True Weight" class="img">True Weight</span></a></li>
-<li class=" item189 last level1"><a class="" href="/low-carb-diet/how-to-cook-the-Dukan-way"><span><img src="/images/stories/arrow-nav-1.png" alt="How to cook the Dukan way" class="img">How to cook the Dukan way</span></a></li>
 </ul>
 <ul>
-<li class=" first item1371 level1"><a class="" href="/low-carb-diet/this-month-file"><span><img src="/images/stories/arrow-nav-1.png" alt="This month's file" class="img">This month's file</span></a></li>
-<li class=" item1370 level1"><a class="" href="/low-carb-diet/nutrition-zoom"><span><img src="/images/stories/arrow-nav-1.png" alt="Nutrition zoom" class="img">Nutrition zoom</span></a></li>
-<li class=" item1424 level1"><a class="" href="/low-carb-diet/uk-dietary-habits"><span><img src="/images/stories/arrow-nav-1.png" alt="UK Dietary Habits" class="img">UK Dietary Habits</span></a></li>
-<li class=" item238 level1"><a class="" href="/low-carb-diet/type-2-diabetes-diet"><span><img src="/images/stories/arrow-nav-1.png" alt="Type 2 Diabetes" class="img">Type 2 Diabetes</span></a></li>
-<li class=" item206 level1"><a class="" href="/low-carb-diet/weight-loss-secrets"><span><img src="/images/stories/arrow-nav-1.png" alt="Slimming Secrets" class="img">Slimming Secrets</span></a></li>
-<li class=" item185 level1"><a class="" href="/low-carb-diet/menu-of-the-month"><span><img src="/images/stories/arrow-nav-1.png" alt="Menu of the Month" class="img">Menu of the Month</span></a></li>
-<li class=" item211 last level1"><a class="" href="/low-carb-diet/medical-studies"><span><img src="/images/stories/arrow-nav-1.png" alt="Medical Studies" class="img">Medical Studies</span></a></li>
-</ul>
+<li class=" parent first item1437 level1"><span class="separator "><span>BECOME A MEMBER</span></span>
 <ul>
-<li class=" first item272 level1"><a class="" href="/low-carb-diet/oat-bran"><span><img src="/images/stories/arrow-nav-1.png" alt="Oat Bran" class="img">Oat Bran</span></a></li>
-<li class=" item1372 level1"><a class="" href="/low-carb-diet/konjac"><span><img src="/images/stories/arrow-nav-1.png" alt="Konjac" class="img">Konjac</span></a></li>
-<li class=" item1218 level1"><a class="" href="/getting-started"><span><img src="/images/stories/arrow-nav-1.png" alt="Getting Started" class="img">Getting Started</span></a></li>
-<li class=" item1219 level1"><a class="" href="/low-carb-diet/tips-from-dr-dukan"><span><img src="/images/stories/arrow-nav-1.png" alt="Tips from Dr. Dukan" class="img">Tips from Dr. Dukan</span></a></li>
-<li class=" item195 level1"><a class="" href="/low-carb-diet/about-dr-dukan"><span><img src="/images/stories/arrow-nav-1.png" alt="Who is Pierre Dukan" class="img">Who is Pierre Dukan</span></a></li>
-<li class=" item1376 level1"><a class="" href="/low-carb-diet/dukan-diet-slimming-cures"><span><img src="/images/stories/arrow-nav-1.png" alt="Dukan Diet slimming cures" class="img">Dukan Diet slimming cures</span></a></li>
-<li class=" item1377 level1"><a class="" href="/low-carb-diet/dukan-diet-lexicon%20"><span><img src="/images/stories/arrow-nav-1.png" alt="Dukan Diet lexicon" class="img">Dukan Diet lexicon</span></a></li>
-<li class=" item1222 last level1"><a class="" href="/low-carb-diet/dukan-book"><span><img src="/images/stories/arrow-nav-1.png" alt="Dukan books" class="img">Dukan books</span></a></li>
+<li class=" first item213 level2"><a class="" href="/dukan-coaching/program/custom-plan"><span><img src="/images/stories/arrow-nav-1.png" alt="Is Coaching for me?" class="img">Is Coaching for me?</span></a></li>
+<li class=" item1438 level2"><a class="" href="/dukan-coaching/program/How-to-Join-the-Coaching"><span><img src="/images/stories/arrow-nav-1.png" alt="How to Join the Coaching" class="img">How to Join the Coaching</span></a></li>
+<li class=" item240 last level2"><a class="" href="/dukan-coaching/program/success-rate"><span><img src="/images/stories/arrow-nav-1.png" alt="Success Rate" class="img">Success Rate</span></a></li>
+</ul>
+</li>
 </ul>
 <div class="pushes">
 <div class="push">
@@ -263,6 +265,51 @@ Our Frequently<br>Asked Questions</b><br>
 </a>
 </div>
 </div>
+</div>
+</div>
+</div>
+</li>
+<li class=" parent item159 level0"><a class="" href="/the-dukan-diet"><span>The Dukan Diet</span></a>
+<div class="expand">
+<div class="expand-inner">
+<ul>
+<li class=" parent first item186 level1"><span class="separator "><span>THE METHOD</span></span>
+<ul>
+<li class=" first item195 level2"><a class="" href="/the-dukan-diet/method/about-dr-dukan"><span><img src="/images/stories/arrow-nav-1.png" alt="Who is Pierre Dukan" class="img">Who is Pierre Dukan</span></a></li>
+<li class=" item1440 last level2"><a class="" href="/the-dukan-diet/method/the-original-diet"><span><img src="/images/stories/arrow-nav-1.png" alt="The Original Diet" class="img">The Original Diet</span></a></li>
+</ul>
+</li>
+<li class=" parent item192 level1"><a class="" href="/the-dukan-diet/4-phases"><span><img src="/images/stories/arrow-nav-1.png" alt="4 Phases" class="img">4 Phases</span></a>
+<ul>
+<li class=" first item204 level2"><a class="" href="/the-dukan-diet/4-phases/attack-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Attack Phase" class="img">Attack Phase</span></a></li>
+<li class=" item203 level2"><a class="" href="/the-dukan-diet/4-phases/cruise-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Cruise Phase" class="img">Cruise Phase</span></a></li>
+<li class=" item1328 level2"><a class="" href="/the-dukan-diet/4-phases/consolidation-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Consolidation Phase" class="img">Consolidation Phase</span></a></li>
+<li class=" item1329 last level2"><a class="" href="/the-dukan-diet/4-phases/stabilisation-phase"><span><img src="/images/stories/arrow-nav-2.png" alt="Stabilisation Phase" class="img">Stabilisation Phase</span></a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class=" parent first item1439 level1"><span class="separator "><span>THE BASIC PRINCIPLES</span></span>
+<ul>
+<li class=" first item292 level2"><a class="" href="/the-dukan-diet/method/true-weight"><span><img src="/images/stories/arrow-nav-1.png" alt="True Weight" class="img">True Weight</span></a></li>
+<li class=" item187 level2"><a class="" href="/the-dukan-diet/method/food-list"><span><img src="/images/stories/arrow-nav-1.png" alt="The 100 Foods" class="img">The 100 Foods</span></a></li>
+<li class=" item1452 level2"><a class="" href="/the-dukan-diet/method/calorie-quiz"><span><img src="/images/stories/arrow-nav-1.png" alt="Calorie Quiz" class="img">Calorie Quiz</span></a></li>
+<li class=" item1453 level2"><a class="" href="/the-dukan-diet/method/six-easy-exercises"><span><img src="/images/stories/arrow-nav-1.png" alt="Six Easy Exercises" class="img">Six Easy Exercises</span></a></li>
+<li class=" item1374 last level2"><a class="" href="/the-dukan-diet/method/calculate-your-bmi"><span><img src="/images/stories/arrow-nav-1.png" alt="Calculate Your BMI" class="img">Calculate Your BMI</span></a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class=" parent first item1441 level1"><span class="separator "><span>TIPS FROM DR. DUKAN</span></span>
+<ul>
+<li class=" first item189 level2"><a class="" href="/the-dukan-diet/method/cook-the-Dukan-way"><span><img src="/images/stories/arrow-nav-1.png" alt="Cook the Dukan way" class="img">Cook the Dukan way</span></a></li>
+<li class=" item1218 level2"><a class="" href="/getting-started"><span><img src="/images/stories/arrow-nav-1.png" alt="Getting Started" class="img">Getting Started</span></a></li>
+<li class=" item1426 level2"><a class="" href="/the-dukan-diet/method/The-14-keys-to-coaching%20"><span><img src="/images/stories/arrow-nav-1.png" alt="14 Keys to Coaching" class="img">14 Keys to Coaching</span></a></li>
+<li class=" item206 last level2"><a class="" href="/the-dukan-diet/method/weight-loss-secrets"><span><img src="/images/stories/arrow-nav-1.png" alt="Slimming Secrets" class="img">Slimming Secrets</span></a></li>
+</ul>
+</li>
+</ul>
+<div class="pushes">
 <div class="push">
 <div class="push-inner">
 <a href="/key-products" mce_href="/key-products" style="background: transparent url(http://media-mt.dukandiet.co.uk/articles/push/key-products-dukan-push.jpg) no-repeat top left; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; line-height:1.2em; width: 272px; min-height: 112px; padding: 8px 0px 0px 8px; text-decoration:none" target="_blank">
@@ -277,7 +324,42 @@ Key Products</b><br>
 </div>
 </div>
 </li>
-<li class=" item171 level0"><a class="" href="http://www.mydukandietshop.co.uk/en/?utm_source=coaching&amp;utm_medium=hp&amp;utm_campaign=hp" target="_blank"><span>Shop</span></a></li>
+<li class=" parent item1423 level0"><a class="" href="/news-files"><span>News &amp; Files</span></a>
+<div class="expand">
+<div class="expand-inner">
+<ul>
+<li class=" parent first item1442 level1"><span class="separator "><span>SUPERFOODS</span></span>
+<ul>
+<li class=" first item272 level2"><a class="" href="/news-files/method/oat-bran"><span><img src="/images/stories/arrow-nav-1.png" alt="Oat Bran" class="img">Oat Bran</span></a></li>
+<li class=" item1372 level2"><a class="" href="/news-files/method/konjac"><span><img src="/images/stories/arrow-nav-1.png" alt="Konjac" class="img">Konjac</span></a></li>
+<li class=" item1449 last level2"><a class="" href="/news-files/method/chia-seeds"><span><img src="/images/stories/arrow-nav-1.png" alt="Chia Seeds" class="img">Chia Seeds</span></a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class=" parent first item1443 level1"><span class="separator "><span>ENGAGED NUTRITION</span></span>
+<ul>
+<li class=" first item1370 level2"><a class="" href="/news-files/method/nutrition-zoom"><span><img src="/images/stories/arrow-nav-1.png" alt="Nutrition zoom" class="img">Nutrition zoom</span></a></li>
+<li class=" item185 level2"><a class="" href="/news-files/method/menu-of-the-month"><span><img src="/images/stories/arrow-nav-1.png" alt="Menu of the Month" class="img">Menu of the Month</span></a></li>
+<li class=" item1371 last level2"><a class="" href="/news-files/method/this-months-file"><span><img src="/images/stories/arrow-nav-1.png" alt="This month's file" class="img">This month's file</span></a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class=" parent first item1445 level1"><span class="separator "><span>MUST READS</span></span>
+<ul>
+<li class=" first item211 level2"><a class="" href="/news-files/must-reads/medical-studies"><span><img src="/images/stories/arrow-nav-1.png" alt="Medical Studies" class="img">Medical Studies</span></a></li>
+<li class=" item238 level2"><a class="" href="/news-files/must-reads/type-2-diabetes-diet"><span><img src="/images/stories/arrow-nav-1.png" alt="Type 2 Diabetes" class="img">Type 2 Diabetes</span></a></li>
+<li class=" item1424 level2"><a class="" href="/news-files/must-reads/uk-dietary-habits"><span><img src="/images/stories/arrow-nav-1.png" alt="UK Dietary Habits" class="img">UK Dietary Habits</span></a></li>
+<li class=" item1406 last level2"><a class="" href="/news-files/must-reads/little-black-dress-challenge"><span><img src="/images/stories/arrow-nav-2.png" alt="Little Black Dress Challenge" class="img">Little Black Dress Challenge</span></a></li>
+</ul>
+<div class="pushes">
+</div>
+</li></ul></div>
+</div>
+</li>
+
+<li class=" first item171 level0"><a class="" href="http://www.mydukandietshop.co.uk/en/?utm_source=coaching&amp;utm_medium=hp&amp;utm_campaign=hp" target="_blank"><span>Shop</span></a></li>
 <li class=" item170 level0"><a class="" href="/forum/forum.php" target="_blank"><span>Forum</span></a></li>
 </ul>
 
@@ -420,13 +502,15 @@ Key Products</b><br>
                                                 </div>
                                             </div>
                                             <div id="aside">
-                                                <div style="border: 0px none ; background: transparent url(http://media-mt.dukandiet.co.uk/articles/push/calculate-true-weight.jpg) no-repeat scroll left top; margin-left: 6px; margin-bottom: 20px; width: 304px; height: 199px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
-<p class="btn" style="padding-top: 135px; padding-left: 100px;" mce_style="padding-top:135px; *padding-top:135px; padding-left:100px;">
-<a href="/calculate-your-true-weight" mce_href="/calculate-your-true-weight">
-<span class="spanHover">Calculate</span>
-</a>
-</p>
-</div><div style="border: 0px none ; background: transparent url(http://media-mt.dukandiet.co.uk/articles/push/hotline-dukandiet.jpg) no-repeat scroll left top; margin-left: 6px; margin-bottom: 30px; margin-top: 20px; width: 304px; height: 199px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                                                <div style="border:0; background:transparent url(http://media-mt.dukandiet.co.uk/articles/push/181-true-weight.jpg) no-repeat left top; cursor:pointer; margin-left:6px; margin-bottom:20px; width:304px; height:199px; -moz-background-clip:-moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+		<a href="/calculate-your-true-weight" mce_href="/calculate-your-true-weight" title="Calculate your True Weight" target="_self" style="position:absolute; width:304px; height:199px">
+			<span class="btn" style="float:left; padding:145px 80px 20px 100px" mce_style="float:left; padding:145px 80px 20px 100px">
+				<span><span class="spanHover">Calculate it</span></span>
+			</span>
+		</a>
+		<h2 style="color:#A2246B; font-size:16px; padding:0.5em 0 0 0.7em; margin:0" mce_style="color:#A2246B; font-size:16px; padding:0.5em 0 0 0.7em; margin:0"><span mce_name="strong" mce_style="font-weight: bold;" style="font-weight: bold;" class="Apple-style-span">Calculate your True Weight*</span></h2>
+		<p style="margin-top:0.1em; padding:0 0 0 0.7em" mce_style="margin-top:0.1em; padding:0 0 0 0.7em">To discover your personalised programme
+		</p>
 </div><div style="border: 0px none ; background: transparent url(http://media-mt.dukandiet.co.uk/articles/push/dukan-shop.jpg) no-repeat scroll left top; margin-left: 6px; margin-bottom: 20px; width: 304px; height: 199px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
 		<a title="Selection Online Products Dukan" alt="Selection Online Products Dukan" href="http://www.mydukandietshop.co.uk/en/" mce_href="http://www.mydukandietshop.co.uk/en/" target="_blank">
 <p style="font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif; font-size: 18px; padding-left: 12px; padding-top: 13px; color: rgb(162, 36, 107); line-height: 16px;" mce_style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:16px; padding-left:12px; padding-top:13px;*margin-top:0px; color:#a2246b; font: bold; line-height:16px;"><span mce_name="strong" mce_style="font-weight: bold;" style="font-weight: bold;" class="Apple-style-span">Visit the Dukan Shop</span><br><br> <span style="color: rgb(66, 71, 75); font-size: 13px;" mce_style="font:lighter ; color:#42474b; font-size:13px;">Find products<br>that will help you live<br>a healthier lifestyle</span></p>
@@ -461,7 +545,8 @@ Key Products</b><br>
 		<li><a href="/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
 		<li><a href="/disclaimer" title="Disclaimer">Disclaimer</a></li>
 		<li><a href="/contact" title="Contact">Contact</a></li>
-		<li class="last"><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=3139700" target="_blank" title="Affiliate Programme">Affiliate Programme</a></li>
+		<li><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=3139700" target="_blank" title="Affiliate Programme">Affiliate Programme</a></li>
+		<li class="last"><a href="/Retraction" title="Retraction">Retraction</a></li>
 	</ul>
 	<!--
 	<ul class="mentions">
@@ -514,6 +599,7 @@ var google_remarketing_only = true;
 
 
 
+        
         <!-- DONT DELETE start of universal Google analytics technical tag -->
         <script type="text/javascript">
 
@@ -533,7 +619,7 @@ var google_remarketing_only = true;
             })();
 
         </script>
-        <!-- End of universal Google analytics technical tag -->
+        <!-- End of universal Google analytics technical tag -->        
         <!-- start of Cedexis tag -->
         <script type="text/javascript">
             (function(w, d) {
