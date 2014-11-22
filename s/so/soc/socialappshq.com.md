@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065059id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123001242id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
 
-# Social Media Marketing Made Really Simple - SocialAppsHQ
+# Apps to Engage and Grow your User base by SocialAppsHQ
 
 Last Updated: Jan 1, 2011
 
