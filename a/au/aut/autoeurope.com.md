@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214161237id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173941id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
-# Auto Europe's Privacy Policy Description | View Auto Europe Privacy Settings
+# Auto Europe's Privacy Policy | Auto Europe Privacy Settings
 
 **About Cookies**  
 The Auto Europe web site does make limited use of cookies to better serve you. However, we do not store any personal or credit card information about you in these cookies. They do contain a session id number and some other basic information about your visit (for instance, which country you chose when you came to the site).
