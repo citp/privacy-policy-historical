@@ -1,190 +1,76 @@
-> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218220753id_/http%3A//www.mobizill.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190507id_/http%3A//www.mobizill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Mobizill - Free Content For Your Mobile.
 
-[ ](http://www.etrust.org/cert/389767.html "Link to new window")
+[](http://www.etrust.org/cert/389767.html "Link to new window")
 
-[**www.Mobizill.com**](http://www.mobizill.com/ "www.mobizill.com") is committed to your privacy and makes every effort to ensure the secrecy of your personally identifiable information because our users are our assets. We respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Privacy Policy that guides how we collect, store and apply the information you provide. Please read this privacy policy carefully, as once you use our web site, you will be deemed to have read and accepted this privacy policy.
+[**www.Mobizill.com**](http://www.mobizill.com/ "mobizill.com") is committed to your privacy and makes every effort to ensure the secrecy of your personally identifiable information because our users are our assets. We respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Privacy Policy that guides how we collect, store and apply the information you provide. Please read this privacy policy carefully, as once you use our web site, you will be deemed to have read and accepted this privacy policy.
 
-If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows: 
-
+If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows:  
 6-3-1239/2/A,3rdFloor,Koti's court  
 Raj Bhavan Road  
 Somajiguda  
 Hyderabad 500 082  
-Email: [privacy@mobizill.com](mailto:privacy@mobizill.com)
+Email: [support@mobizill.com](mailto:support@mobizill.com)
 
 **1\. What personal information is collected?**
 
-**•  **The only personal information we collect about you is information which you provide yourself via forms on our website, or our billing partner’s websites. (E.g. when you register with us, contact customer support, or sign up for membership).
+ **•  **The only personal information we collect about you is information which you provide yourself via forms on our website, or our billing partner’s websites. (E.g. when you register with us, contact customer support, or sign up for membership).  
 
-**•  ** No personal information is collected when you access the public domain of our website. 
 
-**•  ** To subscribe for user membership you will need to endow with contact information including: your name, a valid email address, gender, home address, phone/fax number, zip/postal code, and country, together with payment details (such as credit card number and expiry date).
-
-**•  ** To make utilize of our customer support service you will need to provide an email address and information relating to your query. 
-
-**•  ** To enable us to provide a better customer support service we may also ask you provide contact information including: your name, email, postcode and country, and to provide a number of security questions which we can use to verify your identity if you require assistance in the future. 
-
-**•  ** The questions and the answers you provide are up to you. You may opt-out of providing some of this information but it will limit the effectiveness of our support service if you do. We also sometimes collect and store other information by way of a questionnaire to assist our advertisers and partners, affiliates.
-
+**•  ** No personal information is collected when you access the public domain of our website.  
+**•  ** To subscribe for user membership you will need to endow with contact information including: your name, a valid email address, gender, home address, phone/fax number, zip/postal code, and country, together with payment details (such as credit card number and expiry date).  
+**•  ** To make utilize of our customer support service you will need to provide an email address and information relating to your query.  
+**•  ** To enable us to provide a better customer support service we may also ask you provide contact information including: your name, email, postcode and country, and to provide a number of security questions which we can use to verify your identity if you require assistance in the future.  
+**•  ** The questions and the answers you provide are up to you. You may opt-out of providing some of this information but it will limit the effectiveness of our support service if you do. We also sometimes collect and store other information by way of a questionnaire to assist our advertisers and partners, affiliates.  
 **•  ** You may opt-out of providing any information by simply choosing not to complete the form requesting the information, and hence choosing not to use that particular service.
 
-2\. What happens to the information provided/collected?
+**2\. What happens to the information provided/collected?** The information may be used:  
+ **•  ** To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.  
 
-The information may be used:
 
-**•  ** To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
-
-**•  ** To implement our terms and conditions, and prevent hacking activities against our site.
-
-**•  ** To send service announcements which contain important information about our service, our site, or your account. (For example an email reminder is sent to members if a subscription payment is due).
-
-**•  ** To aggregate information to generate unidentified data concerning use of our services. We may share this anonymous information with our partners, affiliates and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-**•  ** For our own internal marketing and demographic studies, we can consistently improve our sites to meet our visitors' needs better.
-
-**•  ** To disclose information to the extent required by law, court order, as requested by other government or law enforcement authority, or to enforce legal rights.
-
-**•  ** In the case of a merger or bankruptcy, mobizill would not sell customer information to 3rd parties. The data would either become a part of the merger (keeping privacy in tact) or would destroy the information. 
-
-**•  ** Any personally identifiable information of yours will not be shared with third parties unless you have consented to the giving out of this information. We may use this information to present offers to you on behalf of business partners and advertisers. These business, affiliate partners and advertisers may receive aggregate data about various groups of our users, but do not receive information that personally identifies you.
-
-**•  ** We may occasionally present discounts, special contests, special offers or promotion that is sponsored by us or another company. To qualify for entry in those special offers, discounts, contests or promotions, we may ask you to provide personal information. If we plan to share that information with the sponsor(s)or with others, we will provide a statement to that effect in the options with terms.
-
+**•  ** To implement our terms and conditions, and prevent hacking activities against our site.  
+**•  ** To send service announcements which contain important information about our service, our site, or your account. (For example an email reminder is sent to members if a subscription payment is due).  
+**•  ** To aggregate information to generate unidentified data concerning use of our services. We may share this anonymous information with our partners, affiliates and advertisers. This is not linked to any personal information that can identify any individual person.  
+**•  ** For our own internal marketing and demographic studies, we can consistently improve our sites to meet our visitors' needs better.  
+**•  ** To disclose information to the extent required by law, court order, as requested by other government or law enforcement authority, or to enforce legal rights.  
+**•  ** In the case of a merger or bankruptcy, mobizill would not sell customer information to 3rd parties. The data would either become a part of the merger (keeping privacy in tact) or would destroy the information.   
+**•  ** Any personally identifiable information of yours will not be shared with third parties unless you have consented to the giving out of this information. We may use this information to present offers to you on behalf of business partners and advertisers. These business, affiliate partners and advertisers may receive aggregate data about various groups of our users, but do not receive information that personally identifies you.  
+**•  ** We may occasionally present discounts, special contests, special offers or promotion that is sponsored by us or another company. To qualify for entry in those special offers, discounts, contests or promotions, we may ask you to provide personal information. If we plan to share that information with the sponsor(s)or with others, we will provide a statement to that effect in the options with terms.  
 **•  ** IP Address. All communication on the internet takes place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from. We may use these IP addresses to aid analyze technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements consequently. We respect your privacy, except as specified above we will not sell, rent, or disclose your personal information to other companies. We will not use your email address to send you 'spam'.
 
-We will hold your personal information on our systems for as long as you use the service(s) you have requested, and remove it in the event that the purpose has been met, or, in the case of you no longer wish to continue your status as a mobizill member. In some circumstances it may be necessary to retain your personal information to deal with any disputes. Accordingly, mobizill may store messaging transcript data (including message content, member names, times and dates) arising from the use of mobizill Community services for a period necessary to fulfill such purpose. Where personal information is held for people who are not yet registered but have taken part in other mobizill services (e.g. competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely. 
+We will hold your personal information on our systems for as long as you use the service(s) you have requested, and remove it in the event that the purpose has been met, or, in the case of you no longer wish to continue your status as a mobizill member. In some circumstances it may be necessary to retain your personal information to deal with any disputes. Accordingly, mobizill may store messaging transcript data (including message content, member names, times and dates) arising from the use of mobizill Community services for a period necessary to fulfill such purpose. Where personal information is held for people who are not yet registered but have taken part in other mobizill services (e.g. competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely.
 
-Your personal data will be stored on our backup system, which is kept in case of loss of data. It may be that where data is lost, the personal data held on you as part of our backup system is used to restore your account to its status before the loss of data. All personal data (including communication data) stored on the backup system shall be held in accordance with the Data Retention Directive. 
+Your personal data will be stored on our backup system, which is kept in case of loss of data. It may be that where data is lost, the personal data held on you as part of our backup system is used to restore your account to its status before the loss of data. All personal data (including communication data) stored on the backup system shall be held in accordance with the Data Retention Directive.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorized access. mobizill may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that a particular service has been improved or suspended. The only way you can opt out of receiving these types of administration communications would be to close your registration, which can be accomplished by following the link indicated "To close your mobizill account" in the "My Profile" area. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorized access. mobizill may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that a particular service has been improved or suspended. The only way you can opt out of receiving these types of administration communications would be to close your registration, which can be accomplished by following the link indicated "To close your mobizill account" in the "My Profile" area.
 
-3\. More information about cookies  
-  
-When you enter a site that utilises "cookies" your computer will automatically be issued with a cookie, provided your internet 
+**3\. More information about cookies** When you enter a site that utilises "cookies" your computer will automatically be issued with a cookie, provided your internet browser is set to accept them (most are by default). Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user. We do not link the information. We just store in cookies to any personally identifiable information you submit while on our site. You can also disable the cookies from your browser and delete all cookies currently stored on your computer. For example, if you are using Internet Explorer, select "Tools > Internet Options" and then review your privacy settings or select "delete cookies".This may, however, prevent you from taking full advantage of the services that this website has to offer. **4\. User's uploads** We only welcome un-copyrighted/user created games, wallpapers, ringtones, readable text from the users. **5\. Sugessions/complements/comments** We warmly welcome the sugessions, complements and comments relating the website readable content, graphics, features, games etc. from the users. **6\. Prohibition of Explicit content, Copyrighted content & False information** We strictly prohibit any user uploads of Porn Images, Porn Videos, Copyrighted wallpapers, Copyrighted Games, Copyrighted Ringtones, Corrupted files, Virus files and false information about others. In such cases the users are liable for the severe punishment by the court of law. **7\. Users under 16 years of Age** If you are under the age of 16, you are not permitted to register as a user of the Mobizill website.
 
-browser is set to accept them (most are by default). Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user. We do not link the information. We just store in cookies to any personally identifiable information you submit while on our site. You can also disable the cookies from your browser and delete all cookies currently stored on your computer. For example, if you are using Internet Explorer, select "Tools > Internet Options" and then review your privacy settings or select "delete cookies".This may, however, prevent you from taking full advantage of the services that this website has to offer.
+A Note for Parents Concerning Privacy -  
+Our web site is not intended for use by children under the age of 16, and we do not knowingly collect personal information from children under the age of 16. Mobizill seeks to encourage children to consult with their parents before submitting their data. However, Mobizill believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission.
 
-  
-4\. User's uploads  
-  
-We only welcome un-copyrighted/user created games, wallpapers, ringtones, readable text from the users.
+**8\. Safeguarding your personally exclusive information** Mobizill.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and Mobizill.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom Mobizill.com transfer any data will provide sufficient protection of that personal information. **9\. Links to other websites** Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. We have no control over them. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Clicking on these links may also result in virus attacks in your computer system. Please check these policies before you submit any personal data to these websites. However we recommend the users to load an updated anti-virus protection in the systems for safety. **10\. Archived Information** Mobizill.com maintains archives of its database and other systems and information. Please note that it is possible some of this information may remain archived after Mobizill.com deletes the information from its active database (see the Web Logs paragraph above). Mobizill.com maintains archives for disaster recovery, legal and other non-marketing purposes. **11\. Update Your Profile** You can help Mobizill.com maintain the accuracy of your profile by notifying us when you change your name, zip code, and country of residence, age range or e-mail address. If at any time you wish to update your information or stop receiving communication from Mobizill.com, sign in to the applicable Mobizill.com site and then select 'update your profile' to modify your newsletter preferences. **12\. Acceptance of Privacy Policy** Use of the Mobizill.com site by you, including any dispute concerning privacy, is subject matter to this Privacy Policy. By using the Mobizill.com site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Mobizill.com Site following posting of the updated Privacy Policy will add up to your approval of the changes. **13.How do I report a child under the age of 16?** mobizill requires individuals to be at least 16 years old before they can create an account. In some jurisdictions, the age limit may be higher. Providing false information to create an account is always a violation of our Statement of Rights and Responsibilities. This includes accounts registered on the behalf of under 16 year old children by older parties. If your underage child (child under the age of 16) has created an account on mobizill, you can show them how to delete their account by having them log into their account and following this link. If you would like to report an account registered for an underage child to us, please do so here. We will promptly delete the account of any child under the age of 16 that is reported to us through this form. **14.How can I gain access to or delete my child's account if they are 16 years or older?** We appreciate your concern for your child's use of our website, but unfortunately we cannot give you access to the account or take any action on the account at your request. We are generally forbidden by privacy laws against giving unauthorized access to someone who is not an account holder. Please note that all users ages 16 and older are considered authorized account holders and are included in the scope of this policy. We encourage parents to exercise any discretion they can on their own computers and in overseeing their kids' internet use. If you are a parent, you might also consider using software tools on your own computer in order to do so. Please do a search for computer-based Internet control technology on your preferred search engine to discover options that you may wish to pursue. Please also talk to your kids, educate them about internet safety, and ask them to use our extensive privacy settings. **15.How should I help my child use this site wisely?** The best thing to do is to talk to your children and teach them about Internet safety. Remind them to: 
 
-5\. Sugessions/complements/comments  
-  
-We warmly welcome the sugessions, complements and comments relating the website readable content, graphics, features, games etc. from the users. 
-
-  
-6\. Prohibition of Explicit content, Copyrighted content & False information  
-  
-We strictly prohibit any user uploads of Porn Images, Porn Videos, Copyrighted wallpapers, Copyrighted Games, Copyrighted 
-
-videos, Copyrighted Ringtones, Corrupted files, Virus files and false information about others. In such cases the users are liable for the severe punishment by the court of law. 
-
-  
-7\. Users under 16 years of Age  
-  
-If you are under the age of 16, you are not permitted to register as a user of the Mobizill website.
-
-A Note for Parents Concerning Privacy -
-
-Our web site is not intended for use by children under the age of 16, and we do not knowingly collect personal information from children under the age of 16. Mobizill seeks to encourage children to consult with their parents before submitting their data. However, Mobizill believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission. 
-
-  
-8\. Safeguarding your personally exclusive information  
-  
-Mobizill.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate 
-
-business purposes, and Mobizill.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom Mobizill.com transfer any data will provide sufficient protection of that personal information. 
-
-  
-9\. Links to other websites  
-  
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. We have 
-
-no control over them. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Clicking on these links may also result in virus attacks in your computer system. Please check these policies before you submit any personal data to these websites. However we recommend the users to load an updated anti-virus protection in the systems for safety. 
-
-  
-10\. Archived Information  
-  
-Mobizill.com maintains archives of its database and other systems and information. Please note that it is possible some of this 
-
-information may remain archived after Mobizill.com deletes the information from its active database (see the Web Logs paragraph above). Mobizill.com maintains archives for disaster recovery, legal and other non-marketing purposes. 
-
-  
-11\. Update Your Profile  
-  
-You can help Mobizill.com maintain the accuracy of your profile by notifying us when you change your name, zip code, and 
-
-country of residence, age range or e-mail address. If at any time you wish to update your information or stop receiving communication from Mobizill.com, sign in to the applicable Mobizill.com site and then select 'update your profile' to modify your newsletter preferences. 
-
-  
-12\. Acceptance of Privacy Policy  
-  
-Use of the Mobizill.com site by you, including any dispute concerning privacy, is subject matter to this Privacy Policy. By using 
-
-the Mobizill.com site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Mobizill.com Site following posting of the updated Privacy Policy will add up to your approval of the changes. 
-
-  
-13.How do I report a child under the age of 16?  
-  
-mobizill requires individuals to be at least 16 years old before they can create an account. In some jurisdictions, the age limit 
-
-may be higher. Providing false information to create an account is always a violation of our Statement of Rights and Responsibilities. This includes accounts registered on the behalf of under 16 year old children by older parties. If your underage child (child under the age of 16) has created an account on mobizill, you can show them how to delete their account by having them log into their account and following this link. If you would like to report an account registered for an underage child to us, please do so here. We will promptly delete the account of any child under the age of 16 that is reported to us through this form. 
-
-  
-14.How can I gain access to or delete my child's account if they are 16 years or older?  
-  
-We appreciate your concern for your child's use of our website, but unfortunately we cannot give you access to the account or 
-
-take any action on the account at your request. We are generally forbidden by privacy laws against giving unauthorized access to someone who is not an account holder. Please note that all users ages 16 and older are considered authorized account holders and are included in the scope of this policy. We encourage parents to exercise any discretion they can on their own computers and in overseeing their kids' internet use. If you are a parent, you might also consider using software tools on your own computer in order to do so. Please do a search for computer-based Internet control technology on your preferred search engine to discover options that you may wish to pursue. Please also talk to your kids, educate them about internet safety, and ask them to use our extensive privacy settings. 
-
-  
-15.How should I help my child use this site wisely?  
-  
-The best thing to do is to talk to your children and teach them about Internet safety. Remind them to: 
-
-**•  ** Never share their password with anyone.
-
-**•  ** Understand their privacy settings.
-
-**•  ** Report people that violate our Statement of Rights and Responsibilities.
-
-**•  **Block anyone that might be sending unwanted content. 
-
-take any action on the account at your request. We are generally forbidden by privacy laws against giving unauthorized access to someone who is not an account holder. Please note that all users ages 16 and older are considered authorized account holders and are included in the scope of this policy. We encourage parents to exercise any discretion they can on their own computers and in overseeing their kids' internet use. If you are a parent, you might also consider using software tools on your own computer in order to do so. Please do a search for computer-based Internet control technology on your preferred search engine to discover options that you may wish to pursue. Please also talk to your kids, educate them about internet safety, and ask them to use our extensive privacy settings. 
-
-  
-16.How do I request data from my under 16 year old child's account?  
-  
-Applicable laws may give parents the right to access personal information their under 16 year old child has provided before 
-
-mobizill follows its policy of promptly deleting such accounts. Please be aware that you will be required to submit a copy of a notarized statement declaring your rights as a parent or guardian when submitting a report through this form. If you do not submit the necessary statement, we will not be able to provide you with any information and will delete the account. 
-
-**  
-17\. Ownership Changes   
-**  
-****
-
-If the ownership of all or substantially all of the mobizill business, or individual business units owned by mobizill Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of the current privacy policy.   
+**•  ** Never share their password with anyone.  
+**•  ** Understand their privacy settings.  
+**•  ** Report people that violate our Statement of Rights and Responsibilities.  
+**•  **Block anyone that might be sending unwanted content.  
 
 
-**  
-18\. Payment   
-**  
-****
+take any action on the account at your request. We are generally forbidden by privacy laws against giving unauthorized access to someone who is not an account holder. Please note that all users ages 16 and older are considered authorized account holders and are included in the scope of this policy. We encourage parents to exercise any discretion they can on their own computers and in overseeing their kids' internet use. If you are a parent, you might also consider using software tools on your own computer in order to do so. Please do a search for computer-based Internet control technology on your preferred search engine to discover options that you may wish to pursue. Please also talk to your kids, educate them about internet safety, and ask them to use our extensive privacy settings.
 
-Mobizill does not store credit card information submitted through our online payment system. Mobizill uses established payment gateways (PayPal or SWREG) to process credit cards to ensure PCI compliance and security.   
+**16.How do I request data from my under 16 year old child's account?** Applicable laws may give parents the right to access personal information their under 16 year old child has provided before mobizill follows its policy of promptly deleting such accounts. Please be aware that you will be required to submit a copy of a notarized statement declaring your rights as a parent or guardian when submitting a report through this form. If you do not submit the necessary statement, we will not be able to provide you with any information and will delete the account. **17\. Ownership Changes**
 
+If the ownership of all or substantially all of the mobizill business, or individual business units owned by mobizill Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of the current privacy policy.
 
-**  
-19\. Changes to this Privacy Policy   
-**  
-****
+**18\. Payment**
 
-If we decide to change our privacy policy, we will post those changes to this privacy policy page, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Mobizill does not store credit card information submitted through our online payment system. Mobizill uses established payment gateways (PayPal or SWREG) to process credit cards to ensure PCI compliance and security.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently, and at least each time you submit personal information to mobizill. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
+**19\. Changes to this Privacy Policy**
 
-Privacy Policy has modified at 20-08-2012. 
+If we decide to change our privacy policy, we will post those changes to this privacy policy page, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy policy at any time, so please review it frequently, and at least each time you submit personal information to mobizill. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.  
+Privacy Policy has modified at 05-03-2014.  
+
