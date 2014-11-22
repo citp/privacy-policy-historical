@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cigniti.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528114333id_/http%3A//www.cigniti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigniti.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122044732id_/http%3A//www.cigniti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Terms and Conditions | Cigniti Technologies
+# Privacy Policy and Terms and Conditions | Cigniti Technologies | Cigniti Technologies
 
 ### Privacy Policy and Terms and Conditions
 
