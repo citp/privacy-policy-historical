@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shanty-2-chic.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629153133id_/http%3A//www.shanty-2-chic.com/shanty2chic-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanty-2-chic.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122174407id_/http%3A//www.shanty-2-chic.com/shanty2chic-privacy-policy) for the most accurate reproduction.*
 
-# Shanty2Chic Privacy Policy
+# Shanty2Chic Privacy Policy - Shanty 2 Chic
 
 [](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.shanty-2-chic.com%2Fshanty2chic-privacy-policy&media=&description=Shanty2Chic%20Privacy%20Policy)
 
