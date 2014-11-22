@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researcherid.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609041538id_/http%3A//ip-science.thomsonreuters.com/privacy/researcherid) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researcherid.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122045027id_/http%3A//ip-science.thomsonreuters.com/privacy/researcherid) for the most accurate reproduction.*
 
 # ResearcherID Privacy Policy - IP & Science - Thomson Reuters
 
