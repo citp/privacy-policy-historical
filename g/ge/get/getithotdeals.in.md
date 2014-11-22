@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125093632id_/http%3A//www.getithotdeals.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161043id_/http%3A//www.getithotdeals.in/privacy) for the most accurate reproduction.*
 
 # Best daily deals in your city from getithotdeals.in
 
