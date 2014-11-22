@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefithub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065225id_/http%3A//benefithub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefithub.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034031id_/http%3A//www.benefithub.com/privacy.htm) for the most accurate reproduction.*
 
 # BenefitHub
 
@@ -40,15 +40,11 @@ It is important for you to protect against unauthorized access to your password 
 
 ### What About Third-Party Advertisers and Links to Other Websites?
 
-Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at BenefitHub, including personalized or interest-based ads, please read our Interest-Based Ads policy.
-
-### Which Information Can I Access?
-
-BenefitHub gives you access to information about your account and some of your interactions with BenefitHub, such as Cashback Coins, for the limited purpose of viewing and, in certain cases, updating that information.
+Our site includes third-party advertising and links to other Web sites. When linking to third party sites, please be aware of their privacy policies as they are certain to be different than ours.
 
 ### What Choices Do I Have?
 
-As discussed above, in some circumstances you can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such BenefitHub features as Your Profile, Subscriptions, Customer Reviews, and Cashback Coins. 
+As discussed above, in some circumstances you can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such BenefitHub features as Your Profile, Subscriptions, Customer Reviews, and Cash Back. 
 
 If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of BenefitHub, and it is your responsibility to review them for changes.) 
 
@@ -72,4 +68,4 @@ Examples of the information we collect and analyze include the Internet protocol
 
 ### Information You Can Access
 
-Examples of information you can access easily at BenefitHub include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, and address; e-mail notification settings; and Your Profile.
+Examples of information you can access easily at BenefitHub include personally identifiable information including name, e-mail, password, communications preferences, address, and notification settings.
