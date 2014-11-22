@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617075839id_/http%3A//www.onlinesheetmusic.com/privacyinfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122065033id_/http%3A//www.onlinesheetmusic.com/privacyinfo.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - OnlineSheetMusic.com
 
 **What information do we collect?**
 
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Conditions of Use](https://web.archive.org/web/20140617075839id_/http%3A//www.onlinesheetmusic.com/conditions-of-use-t3.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Conditions of Use](https://web.archive.org/web/20141122065033id_/http%3A//www.onlinesheetmusic.com/conditions-of-use-t3.aspx)
 
 **Your Consent**
 
