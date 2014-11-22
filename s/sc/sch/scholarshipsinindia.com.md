@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipsinindia.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605070913id_/http%3A//www.scholarshipsinindia.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipsinindia.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034536id_/http%3A//www.scholarshipsinindia.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
