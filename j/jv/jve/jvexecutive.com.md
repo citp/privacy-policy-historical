@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041030id_/http%3A//jvexecutive.com/PrivacyPolicyAntiSpam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075436id_/http%3A//www.jvexecutive.com/PrivacyPolicyAntiSpam.html) for the most accurate reproduction.*
 
 # Up To 75% RECURRING Commissions - Join The Unselfish Marketer's Affiliate Program
 
