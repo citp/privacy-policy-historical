@@ -1,100 +1,65 @@
-> *The following text is extracted and transformed from the myschoolapp.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035311id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolapp.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122095425id_/http%3A//www.whipplehill.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# WhippleHill I Privacy
 
-**Go Daddy Respects Your Privacy**
+## Welcome to the WhippleHill website (“Website”). The following discloses our information gathering and dissemination practices.  By using or accessing the Website, you are accepting the practices described in this Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+#### INFORMATION GATHERING
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We may use your Internet Protocol (“IP”) address to administer the Website by tracking Website and web page traffic, and by analyzing statistics relating to visitors’ IP addresses.  In some cases we may link IP addresses to personally identifiable information, and may share that information with your school (“School”) or third parties for the purposes of enforcement of our Terms of Use, School’s Terms of Use and law enforcement.  We may also share such information with third party service providers (“Partners”) who operate websites or other systems in conjunction with the Website (“Partner Systems,” which are included under the term “Website”) that you choose to access or otherwise patronize.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The Website may also use “cookies”, which are text packets sent by the a server to a user’s web browser and then sent back unchanged by the user’s browser each time it accesses that server. Cookies are used for authenticating, tracking, and maintaining specific information about users, such as site preferences.  No personally identifiable information is exchanged via cookies. user. We may use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to the Website. You can remove or block this cookie using the settings in your browser if you want to disable this feature.
 
-**Information Collection and Use**
+If you register or input personally identifiable information to the Website, you will not be anonymous to us.  WhippleHill, School and Partners may request your e-mail address or mailing address on some of the forms contained on the Website in order to communicate with you, and your provision of such information constitutes your agreement to allow WhippleHill, School and Partners to contact you. We may also monitor and aggregate data regarding search terms entered into the Website.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When you use the Website, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, download files, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you post user content to the Website, such as, profiles, messages, notes, text, information, images, photos, listings and other content that you upload, publish or display through the Website, or transmit to or share with other users, you do so at your own risk. WhippleHill cannot control the actions of other users, so we do not guarantee that your user content will not be viewed by unauthorized users. You agree that WhippleHill shall not be responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your user content may remain viewable in cached and archived pages, or if other users have copied or stored your user content.  Any improper collection or misuse of information provided on the Website is a violation of the WhippleHill Terms of Service, and should be reported to webmaster@WhippleHill.com.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#### CHILDREN UNDER 13
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If you are under 13 years of age, you are required to have your parent or guardian register or input personally identifiable information on your behalf.  WhippleHill will not contact children under age 13 for marketing purposes without your parent's permission.  WhippleHill will not, as a condition of use of the Website, ask a child under age 13 for more personally identifiable information than is reasonably necessary to use the Website.  You agree that WhippleHill shall not be responsible for the actions or inactions of School or any Partner.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### SHARING INFORMATION AND DISCLOSURE
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+WhippleHill does not rent, sell, or share personally identifiable information about users with other people or non-affiliated entities, except to provide our services, or under the following circumstances: 
 
-**Security**
+  * We will provide personally identifiable information to School for the purpose administering and hosting the Website and/or communicating with you.  The School may or may not share this information with other third parties, depending on its own privacy policy. You agree that WhippleHill shall have no liability with regard to the School’s use or dissemination of such information.
+  * We may provide personally identifiable information to Partners for the purpose administering and hosting Partner Systems and/or communicating with you.  If you use a Partner System, the Partner may or may not share this information with other third parties, depending on its own privacy policy. You agree that WhippleHill shall have no liability with regard to any Partner’s use or dissemination of such shared information.
+  * We will provide personally identifiable information in response to subpoenas, court orders, or legal process, or to exercise our legal rights or defend legal claims.
+  * We will provide personally identifiable information when WhippleHill, School or any Partner believes it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of any WhippleHill, School or Partner Terms of Use, violation of School’s code of conduct, or as otherwise required by law.
+  * We will transfer information about you, if School is acquired by or merged with another school or entity.  Refer to your School’s privacy policy before and after any such acquisition or merger.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### SECURITY
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+WhippleHill maintains physical, electronic, and procedural safeguards to protect your personally identifiable information.  We use commercially reasonable tools and techniques to protect against unauthorized access to the Website.  You agree that WhippleHill shall not be liable for School’s or any Partner’s security safeguards.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+#### LINKS
 
-      iii.      You may call us at: (480) 505-8800
+This Privacy Policy does not apply to the practices of websites that may be linked through the Website, for which the user agrees that WhippleHill shall have no liability.  Users are encouraged to read linked websites’ privacy policies.
 
-       iv.      You may fax us at: (480) 505-8844
+#### Terms of Use, Notices and Revisions
 
-**Sending Emails**
+Your use of the Website, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use.  WhippleHill may revise this Privacy Policy at any time. Users are encouraged to read this Privacy Policy on a frequent basis.  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+#### European Union and Switzerland - Safe Harbor
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+WhippleHill complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  WhippleHill has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and view the company's certification, please visit <http://www.export.gov/safeharbor>. 
 
-**Compliance with Laws and Law Enforcement**
+In compliance with the Safe Harbor Principles, WhippleHill Communications commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Paul Bielawski at: [compliance@whipplehill.com]()
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+WhippleHill Communications has further committed to refer unresolved privacy complaints under the US-EU and [and EU-Swiss] Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint or if your complaint is not satisfactorily addressed by WhippleHill Communications, please visit the BBB EU SAFE HARBOR web site at [www.export.gov/safeharbor](http://www.export.gov/safeharbor) for more information and to file a complaint.
 
-**Third Party Service Providers**
+#### CONTACT
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you have questions or suggestions regarding this Privacy Policy or the Website, please contact us at: 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+WhippleHill Communications, Inc.  
+5 East Point Drive, Building C  
+Bedford, New Hampshire  03110   
+(603) 669-5979  
+[webmaster@WhippleHill.com]()
