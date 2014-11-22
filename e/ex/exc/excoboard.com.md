@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excoboard.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094634id_/http%3A//excoboard.com/prv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excoboard.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164333id_/http%3A//excoboard.com/prv.html) for the most accurate reproduction.*
 
 # Excoboard.com - Free messsage board host
 
@@ -11,7 +11,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information may be used to contact the visitor when necessary. Users may opt-out of receiving future mailings by requesting it to [support](https://web.archive.org/web/20140625094634id_/http%3A//excoboard.com/contact.html)
+Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information may be used to contact the visitor when necessary. Users may opt-out of receiving future mailings by requesting it to [support](https://web.archive.org/web/20141122164333id_/http%3A//excoboard.com/contact.html)
 
 This site contains links to other sites. Excoboard is not responsible for the privacy practices or the content of such Web sites.
 
@@ -28,4 +28,4 @@ Security
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support](https://web.archive.org/web/20140625094634id_/http%3A//excoboard.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support](https://web.archive.org/web/20141122164333id_/http%3A//excoboard.com/contact.html). 
