@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnupon.com privacy policy that was archived on 2014-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140604002647id_/http%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnupon.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122235050id_/http%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -47,9 +47,9 @@
 
 <script type="text/javascript" src="http://www.learnupon.com/wp-content/themes/twentyeleven/js/jquery.masonry.min.js"></script>
 <script>
-$(document).ready(function() {			
+$(document).ready(function() {
   $(function(){
-	
+
 	if( !$.cookie("mysite_lead_source") )
 		$.cookie("mysite_lead_source", document.referrer, { expires: 1, domain: "learnupon.com" });
 
@@ -60,23 +60,23 @@ $(document).ready(function() {
 		$.cookie("tpr", $.url().param( "tpr"), { expires: 1, domain: "learnupon.com" });
 
 	if( $.url().param( "glt") )
-		$.cookie("glt", $.url().param( "glt"), { expires: 1, domain: "luptest.com" });
+		$.cookie("glt", $.url().param( "glt"), { expires: 1, domain: "learnupon.com" });
 
 	if( $.url().param( "gct") )
 		$.cookie("gct", $.url().param( "gct"), { expires: 1, domain: "learnupon.com" });
 
 	if( $.url().param( "gpt") )
 		$.cookie("gpt", $.url().param( "gpt"), { expires: 1, domain: "learnupon.com" });
-	
+
 	if( $.url().param( "cs") )
 		$.cookie("capterra", $.url().param( "cs"), { expires: 1, domain: "learnupon.com" });
-   
+
 	if( $.url().param( "li") )
 		$.cookie("li", $.url().param( "li"), { expires: 1, domain: "learnupon.com" });
-		
+
 	if( $.url().param( "se") )
 		$.cookie("se", $.url().param( "se"), { expires: 1, domain: "learnupon.com" });
- 
+
     $('#mascontainer').masonry({
       itemSelector: '.box'
     });
@@ -90,7 +90,7 @@ $(document).ready(function() {
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
+  
   ga('create', 'UA-26044016-1', 'learnupon.com');
   ga('send', 'pageview');
 
@@ -113,7 +113,21 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
-
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#myonoffswitch").bind("click", function(){
+      if($("#myonoffswitch").is(':checked')){
+        // Annual
+        $(".monthly_payments").hide();
+        $(".annual_payments").show();
+      }else{
+        // Monthly
+        $(".annual_payments").hide();
+        $(".monthly_payments").show();
+      }
+    });
+  });
+</script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
   <div class="mainTop">
@@ -124,11 +138,9 @@ window.onload = function(){
 				<img src="/wp-content/themes/twentyeleven/img/LearnUponLogo.png" width="178" height="37" alt="LearnUpon" title="LearnUpon" id="logo">
 		</a>
 
-      
-		<a href="http://app.learnupon.com/users/sign_in"><img src="http://www.learnupon.com/wp-content/themes/twentyeleven/img/signin.png" class="roller signin" alt="txt"></a>
+
 		<nav>
-<a href="/" class="">Home</a><a href="http://www.learnupon.com/features/" class="">Features</a><a href="http://www.learnupon.com/pricing/" class="">Pricing</a><a href="http://www.learnupon.com/customers/" class="">Customers</a><a href="http://www.learnupon.com/about/" class="">About</a><a href="http://www.learnupon.com/jobs/" class="">Jobs</a><a href="http://www.learnupon.com/blog/" class="">Blog</a><a href="http://www.learnupon.com/contact/" class="">Contact</a>    
-</nav>   
+<a href="/" class="">Home</a><a href="http://www.learnupon.com/features/" class="">Features</a><a href="http://www.learnupon.com/pricing/" class="">Pricing</a><a href="http://www.learnupon.com/customers/" class="">Customers</a><a href="http://www.learnupon.com/about/" class="">About</a><a href="http://www.learnupon.com/jobs/" class="">Jobs</a><a href="http://www.learnupon.com/blog/" class="">Blog</a><a href="http://www.learnupon.com/contact/" class="">Contact</a></nav>
  </div>
   </header>
   <div class="wrapper">
@@ -164,7 +176,7 @@ Any changes to this Website Privacy Policy will be posted on this website so you
 In accordance with our duties as data controllers under the Data Protection Acts 1988 and 2003 we aim to process data fairly. As mentioned above we are committed to keeping all personal data collected securely. If you wish to find out what personal data LearnUpon holds on you, you can write to the following address:</p>
 <p>Compliance Manager<br>
 LearnUpon Limited<br>
-127 Lower Baggot St,<br>
+33 Lower Leeson St,<br>
 Dublin 2</p>
 <p>or info@learnupon.com</p>
 <p>and we will respond to this data access request within 40 days. In accordance with the Data Protection Acts 1988 and 2003 you the data subject in addition to right to access to the data held, can also contact us to have any inaccurate information rectified or erased, to have personal data taken off a direct marketing or direct mailing list and the right to complain to the Data Commissioner.</p>
@@ -210,7 +222,7 @@ If you have any questions relating to privacy or data protection, please contact
 			  
 				<div class="col">
 					<aside id="text-5" class="widget widget_text"><h4>Get in touch</h4>			<div class="textwidget"><span class="address">
-				127 Lower Baggot St, <br>
+				33 Lower Leeson St, <br>
 				Dublin 2, Ireland
 				</span>
 
