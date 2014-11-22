@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bluesnap.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612060712id_/http%3A//www.bluesnap.com/ecommerce/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesnap.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023042id_/http%3A//www.bluesnap.com/ecommerce/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueSnap
 
-## BlueSnap’s policy on privacy and personal information use (Ver. 1.8 Date: July 7, 2013)
+## BlueSnap’s policy on privacy and personal information use (Ver. 1.9 Date: July 10, 2014)
 
 ### Introduction
 
@@ -12,7 +12,7 @@ BlueSnap respects each individual's right to personal privacy. We will collect a
 
 [](http://privacy.truste.com/privacy-seal/Bluesnap-Inc-/validation?rid=a8868a68-2ddb-466f-b13e-c7977e12d5a4 "TRUSTe European Safe Harbor certification")
 
-BlueSnap has been awarded TRUSTe's Privacy Seal signifying that the privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [PrivacyOptions@bluesnap.com](mailto:PrivacyOptions@bluesnap.com). If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program only covers information that is collected through this website and does not cover information collected through mobile applications or software downloaded from this site.
+BlueSnap has been awarded TRUSTe's Privacy Seal signifying that the privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [PrivacyOptions@bluesnap.com](mailto:PrivacyOptions@bluesnap.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program only covers information that is collected through this website and does not cover information collected through mobile applications or software downloaded from this site.
 
 BlueSnap complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. BlueSnap, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view BlueSnap, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -51,6 +51,7 @@ BlueSnap collects information through its website and related eCommerce services
 #### Part II. Information usage
 
   * The information collected by BlueSnap, Inc. will be used by BlueSnap in conjunction with the terms specified in this document. Users who provide information may receive email announcements regarding BlueSnap's services from time to time.
+  * ➢ BlueSnap will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
   * Registered product suppliers may receive additional announcements from BlueSnap about transactions generated through BlueSnap eCommerce services, instant notifications, BlueSnap service changes, revisions and updates, affiliate product opportunities, services, legal notices, special offers, and a newsletter.
   * BlueSnap may also use personal information to provide announcements about functions or services that users are registered to use, about any user account they may create, about fulfillment of a specific transaction that may be requested, or about other significant developments that may affect use of the Site and or eCommerce services. Users cannot normally opt-out of this kind of email communication.
   * Information we collect from customers may be used to create online invoices, transaction confirmation notices, delivery of licenses, access keys and product download files and associated documentation, subscription accounts, instant notifications relating to such transactions, refunds and refund notices, warranty and dispute records, and customer profiles based on browsing or purchasing history. As BlueSnap is acting as payment service provider, merchant and/or reseller for product suppliers we need to share relevant customer information with the specific product supplier involved in the transaction in order for them to fulfill the transaction. Such information, if provided to product suppliers, is supplied on the condition that it should not be used for spamming or direct marketing by another party.
@@ -116,6 +117,7 @@ BlueSnap protects user information both in our servers and on the users computer
 
 **Previous Versions:**
 
+v1.8 July 7, 2013  
 v1.7 December 2, 2012  
 v1.6 November 12, 2012*  
 v1.5 April 10, 2012  
