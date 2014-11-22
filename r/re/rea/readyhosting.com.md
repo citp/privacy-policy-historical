@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154655id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161420id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
