@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133321id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234100id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
 
 # Explore North Carolina
 
@@ -67,3 +67,11 @@ The VisitNC.com website contains links to other sites and we attempt to only lin
 ###  Contact Information
 
 Additional questions or concerns about these policies should be directed to the [contact page at VisitNC.com](http://www.visitnc.com/contactus).
+
+[See something wrong?](https://web.archive.org/see-something-wrong)
+
+Tell us about it.
+
+If you’re looking for a place where every day is a new experience, look no further than Durham, North Carolina. Enjoy a chef-driven food scene,…
+
+[](https://web.archive.org/sweep/fresh-daily-the-durham-sweepstakes "Enter to Win")
