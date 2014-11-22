@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235214id_/http%3A//www.coloniallife.com/footer/privacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122072413id_/http%3A//www.coloniallife.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Colonial Life
+# Privacy Policy
 
 ### Our Commitment to Privacy
 
-[PDF of this notice](https://web.archive.org/web/20140207235214id_/http%3A//www.coloniallife.com/footer/~/media/acrobat/Legal%20and%20Compliance/colonial-life-privacy-notice.ashx)
+[PDF of this notice](https://web.archive.org/web/20141122072413id_/http%3A//www.coloniallife.com/~/media/11BC4E9E235D4761B9950C384EA44040.pdf)
 
-We understand your privacy is important. We value our relationship with you and are committed to protecting the confidentiality of nonpublic personal information (NPI). This notice explains why we collect NPI, what we do with NPI and how we protect your privacy.  
-
+We understand your privacy is important. We value our relationship with you and are committed to protecting the confidentiality of nonpublic personal information (NPI). This notice explains why we collect NPI, what we do with NPI and how we protect your privacy.
 
 ### Collecting Information
 
@@ -31,13 +30,13 @@ We have physical, electronic and procedural safeguards that protect the confiden
 
 ### Access to Information
 
-You may request access to certain NPI we collect to provide you with insurance products and services. You must make your request in writing and send it to the address below. The letter should include your full name, address, telephone number and policy number if we have issued a policy. If you request, we will send copies of the NPI to you. If the NPI includes health information, we may provide the health information to you through a health care provider you designate. We will also send you information related to disclosures. We may charge a reasonable fee to cover our copying costs. 
+You may request access to certain NPI we collect to provide you with insurance products and services. You must make your request in writing and send it to the address below. The letter should include your full name, address, telephone number and policy number if we have issued a policy. If you request, we will send copies of the NPI to you. If the NPI includes health information, we may provide the health information to you through a health care provider you designate. We will also send you information related to disclosures. We may charge a reasonable fee to cover our copying costs.
 
 This section applies to NPI we collect to provide you with coverage. It does not apply to NPI we collect in anticipation of a claim or civil or criminal proceeding.
 
 ### Correction of Information
 
-If you believe the NPI we have about you is incorrect, please write to us. Your letter should include your full name, address, telephone number and policy number if we have issued a policy. Your letter should also explain why you believe the NPI is inaccurate. If we agree with you, we will correct the NPI and notify you of the correction. We will also notify any person who may have received the incorrect NPI from us in the past two years if you ask us to contact that person. 
+If you believe the NPI we have about you is incorrect, please write to us. Your letter should include your full name, address, telephone number and policy number if we have issued a policy. Your letter should also explain why you believe the NPI is inaccurate. If we agree with you, we will correct the NPI and notify you of the correction. We will also notify any person who may have received the incorrect NPI from us in the past two years if you ask us to contact that person.
 
 If we disagree with you, we will tell you we are not going to make the correction. We will give you the reason(s) for our refusal. We will also tell you that you may submit a statement to us. Your statement should include the NPI you believe is correct. It should also include the reason(s) why you disagree with our decision not to correct the NPI in our files. We will file your statement with the disputed NPI. We will include your statement any time we disclose the disputed NPI. We will also give the statement to any person designated by you if we may have disclosed the disputed NPI to that person in the past two years.
 
@@ -47,10 +46,8 @@ If we decide not to issue coverage to you, we will provide you with the specific
 
 ### Contacting Us
 
-For additional information about Unum’s commitment to privacy and to view a copy of our HIPAA Privacy Notice, please visit: unum.com/privacy or coloniallife.com. You may also write to: Privacy Officer, Unum, 2211 Congress Street, C476, Portland, Maine 04122. We reserve the right to modify this notice. We will provide you with a new notice if we make material changes to our privacy practices. 
+For additional information about Unum’s commitment to privacy and to view a copy of our HIPAA Privacy Notice, please visit: unum.com/privacy or coloniallife.com. You may also write to: Privacy Officer, Unum, 2211 Congress Street, C476, Portland, Maine 04122. We reserve the right to modify this notice. We will provide you with a new notice if we make material changes to our privacy practices. 
 
 Unum is providing this notice to you on behalf of the following insuring companies: Unum Life Insurance Company of America, First Unum Life Insurance Company, Provident Life and Accident Insurance Company, Provident Life and Casualty Insurance Company, Colonial Life & Accident Insurance Company, The Paul Revere Life Insurance Company and The Paul Revere Variable Annuity Insurance Company.
 
-Colonial Life products are underwritten by Colonial Life & Accident Insurance Company, for which Colonial Life is the marketing brand. 
-
-[View the HIPAA Privacy Notice >](https://web.archive.org/footer/HIPAA%20Compliance.aspx)
+Colonial Life products are underwritten by Colonial Life & Accident Insurance Company, for which Colonial Life is the marketing brand.
