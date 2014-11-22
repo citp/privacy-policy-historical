@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220070534id_/http%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122143734id_/https%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -96,7 +96,7 @@ Return to top
 
 ##  QUESTIONS AND SUGGESTIONS 
 
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+If you have questions or suggestions, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVVik8xGjMq26i14B7w5xr5vkw0GgpY9YySHm4mkb0qn0o%253D&locale=en_SG&page=contactform&selectedChannel=email-icon) or you can contact us at:
 
 Yahoo! Asia Pacific Pte. Ltd.   
 60 Anson Road, #13-01 Mapletree Anson, Singapore 079914 
