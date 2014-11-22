@@ -1,138 +1,59 @@
-> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531034133id_/http%3A//www.kissonline.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122145536id_/http%3A//www.kissonline.com/privacy) for the most accurate reproduction.*
 
-# KISSONLINE.com > Privacy Policy
+# KISS Online :: Privacy Policy | Official KISSOnline.com Privacy Policy
 
-## KISSONLINE.com Privacy Policy
+**This web site is powered by products and services from BubbleUp Ltd. (BubbleUp). BubbleUp's privacy policy is below.**
 
-(last updated January 17, 2013)
+**For KISSOnline's privacy policy, please contact them directly.**
 
-### _This Privacy Policy applies to the sites and apps where it appears._
+### Privacy Statement for BubbleU **p**
 
-This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [ Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html). 
+BubbleUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for BubbleUp and all other Web sites powered by BubbleUp.
 
-#### _We collect information from and about you._
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
-**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
+BubbleUp uses cookies to keep track of your shopping cart in the stores and to keep track of your membership status on the Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. The cookies we use only track your currently logged in status or your shopping cart status.
 
-**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
+Our registration form requires users to give us contact information (name and e-mail address) and demographic information (zip code). The customer's contact information is used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not share mailing address, credit card, or any personally identifiable information with other companies. Demographic and profile data are used only for personalized Web content and statistical information and are not shared with other companies except in ways that do not personally identify our users.
 
-**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
+This site contains links to other sites. BubbleUp is not responsible for the privacy practices or the content of such Web sites. We place advertising on our site that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Web site, cookies may be assigned by the advertisers themselves. BubbleUp does not control those cookies.
 
-**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (e-mail address) and financial information (credit card numbers). Contact information from the order form is used to send our customers' orders and information about our company and about companies we choose. The customer's contact information is also used to get in touch with the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial and contact information that is collected is used to bill the user for products and services and may be shared with companies that help us operate our site, such as the credit card companies that we use.
 
-**Other information.** If you use our website, we may collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
+BubbleUp runs contests on our site in which we ask visitors for contact information (e-mail address) and demographic information (zip code). We use contact data from our contests to send users information about our company and about companies we choose. The customer's contact information is also used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We may share your contact and demographic information with the contest prize providers.
 
-#### _We collect information in different ways._
+BubbleUp provides online ticketing to venues and artists in which we ask customers for contact information (e-mail address and mailing and billing addresses). BubbleUp provides your contact information to the venues, artists and/or promoters of the events for which you purchase tickets. By purchasing tickets, you acknowledge that BubbleUp has no control over and is not responsible for the privacy policies of those venues, artists or promoters or their subsequent use of your contact information.
 
-**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
+In addition, BubbleUp collects and stores statistics and other information about the online activities of our users on an aggregated (collected) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click here.
+You agree that we may assign, sell, license or otherwise transfer to a third party your personal information in connection with an assignment, sale, joint venture or other transfer or disposition of all or substantially all of the assets or capital stock of BubbleUp or its affiliated entities.
 
-**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
+### Public Forums
 
-#### _We use information as disclosed and described here._
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
+### Security
 
-**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our database servers are protected from intruders by a Cisco firewall router and your credit card transactions are enacted using 128-bit SSL encryption. We may be required to release personal information about you as a result of a lawsuit or subpoena or as immediately necessary to protect our rights or the rights and safety of others. Additionally, "perfect security" does not exist on the internet.
 
-**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
+### Children’s Guidelines
 
-**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
+BubbleUp strongly encourages parents and guardians to supervise their children's online activities and to consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personally identifiable information without parental permission. Tickets for sale are intended for purchase by adults. By making a purchase on the site, you agree that you are at least 13 years of age. Although the BubbleUp site is not directed to children under the age of 13, BubbleUp does
 
-**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
+NOT collect online contact information from children under the age of 13 without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
 
-**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
+NOT collect personally identifiable offline contact information from children under the age of 13 without prior parental consent.
 
-**We use information as otherwise permitted by law.**
+NOT distribute to third parties any personally identifiable information with respect to children under the age of 13 without prior parental consent.
 
-#### _We may share information with third parties._
+NOT give the ability to publicly post or otherwise distribute personally identifiable contact information with respect to children under the age of 13 without prior parental consent.
 
-**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
+NOT entice children under the age of 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
-**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
+### Choice/Opt-Out
 
-**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
+_This site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service._
 
-**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
-
-**We may share your information for reasons not described in this policy.** We will tell you before we do this.
-
-#### _You have certain choices about how we use your information._
-
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
-
-**You can modify information you have given us.** To modify or delete information you gave us, log into your account and follow the instructions to modify your profile. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
-
-**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, please click here.
-
-**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
-
-#### _Your California Privacy Rights._
-
-If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
-
-To exercise your rights, you can [email](mailto:privacy@livenation.com) us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
-
-#### _These sites and apps are not intended for children._
-
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@livenation.com) us here. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
-
-Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/controller/cp-children%E2%80%99s-online-privacy).
-
-#### _We use standard security measures._
-
-We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. 
-
-#### _We store information both in and outside of the United States._
-
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country. Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>. 
-
-#### _We may link to third party sites or services we don't control._
-
-If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. 
-
-#### _Feel free to contact us if you have more questions._
-
-If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email.You can also write us at:
-
-Live Nation Entertainment, Inc.  
-9348 Civic Center Drive  
-Beverly Hills, CA 90210  
-Attention: Privacy Officer, Legal
-
-####  _What we will do if there is an update to this policy._
-
-From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
-
-### Ad Choices
-
-#### _We use common tracking technologies._
-
-We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies.We use these tools: 
-
-  * To recognize new or past customers.
-  * To store your password if you are registered on our sites.
-  * To improve our website.
-  * To serve you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
-  * To better understand the interests of our customers and our website visitors.
-
-
-
-#### _You can control tracking tools._
-
-Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
-
-If you block cookies on your browser, certain features on our sites may not work.
-
-####  _Some ads may be served based on tracking._
-
-We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites.This second type of advertising is called "online behavioral advertising." 
-
-#### _You can opt-out of online behavioral advertising._
-
-To opt out of having your online behavioral advertising, click [here](http://www.aboutads.info/choices).
-
-© 2013 Live Nation Entertainment,Inc. All rights reserved. 
+Simply update your email preferences on the site.
