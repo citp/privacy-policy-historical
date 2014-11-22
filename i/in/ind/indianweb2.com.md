@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianweb2.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529200858id_/http%3A//www.indianweb2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianweb2.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122131910id_/http%3A//www.indianweb2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
