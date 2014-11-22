@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522002256id_/http%3A//goldsilverreports.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221058id_/http%3A//www.goldsilverreports.com/privacy-policy) for the most accurate reproduction.*
 
-# Gold Silver Reports – PRIVACY POLICY
+# Privacy Policy | Gold Silver Reports
 
 Our Privacy Policy
 
@@ -16,3 +16,5 @@ As a commited organization, the data we collect will not be leaked outside our o
 
 Personal Data  
 We are committed to protecting your personal information and do so with certain physical and technological procedures. However, we cannot ensure the security of the information as you transmit it to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. This includes using a secure browser like Mozilla Firefox, Google Chrome, Sea Monkey, Netscape or Opera where applicable. We do not recommend Internet Explorer.
+
+## Everything is Possible, Dream, Believe, Act & Achieve.
