@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fromquarkstoquasars.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531083947id_/http%3A//www.fromquarkstoquasars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromquarkstoquasars.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033501id_/http%3A//www.fromquarkstoquasars.com/privacy-policy) for the most accurate reproduction.*
 
-# From Quarks to Quasars – Privacy Policy:
+# Privacy Policy: - From Quarks to Quasars
 
 In the information age, privacy is a concern for everyone, and at From Quarks to Quasars we respect your concerns about the information that we collect. As such, this Privacy Notice is aimed at describing the types of personal information we collect on our websites, how we may use that information, and with whom we may share it. We also tell you how you can reach us to ask general questions, offer comments, inquire about our organization, or get more information about our privacy practices.
 
