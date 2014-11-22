@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629073236id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034147id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Budgeting In the Fun Stuff
 
