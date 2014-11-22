@@ -1,48 +1,80 @@
-> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223233id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221717id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Senheng
 
-**Privacy Notice**
+This privacy notice explains how we, **Senheng Electric (KL) Sdn. Bhd.** (Company No. 296691-X) process your personal data. 
 
-At "SENHENG.COM.MY", your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. We "SENHENG ELECTRIC (KL) SDN. BHD." do not guarantee complete security on stored information, however, have implemented many security policies and conditions to help protect your confidential information.
+**1.     Membership Programme**
 
-How Do We Use the Information We Collect?  
-When you become an "SENHENG.COM.MY" member, we ask you to fill out a form that requests your name, address and e-mail address as well as some demographic information such as gender and date of birth.  
-"SENHENG.COM.MY" will NOT share data with trusted partners to help us perform statistical analysis.
+When you join our membership programme, you will or have provided us with your personal data. Such personal data may include your name, identity card number, contact details, data of birth, gender, marital status, nationality, preferred language, occupation and monthly income and financial information. 
 
-Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment.
+It is mandatory for you to provide us with your name, identity card number, contact details, data of birth and gender and if you do not provide us with any of this information, we will not process your application or have complete information about you and may affect our membership service to you. We also process other personal data such as your purchasing habits. 
+
+We will be processing your personal data for the following purposes:-  
+•    evaluating your application to be our member; and  
+•    provision of subsequent services such administer the membership programme and benefits such as extended warranty and insurance, customer service, collection of payments from you and issuance of customer vouchers.
+
+ **2.     Contests**
+
+When you join our contests, we will be processing personal data such as name, identity card, address, contact details and signature. It is mandatory for you to provide the required information failing which we will not be able to process your application to join our contest. We will process your personal data to facilitate your participation in our contests.
+
+Periodically, we will organise contests. If you participate in these contests, we reserve the right to publish and/or use the above mentioned personal data for the purpose of advertisements, commerce and publicity whether online and/or offline. Your personal data may also be published on our website if you are one of the winners. We will never distribute your personal data to a third-party for financial gains
+
+ **3.     Website and Portal**
+
+When you register for an account or use the services provided through our electronic portal such as www.senheng.com.my ("Portal"), we will be processing your personal data such as your name, email address, identity card number, contact detail, billing information and some demographic information such as gender and date of birth. It is mandatory for you to provide us with your name, identity card number, contact information and email address to register for an account and also to use our services.
+
+We will process your personal data for the following purposes:-
+
+•    to register an account with us;   
+•    to process your orders and order fulfillment.  
+•    to provide a more personalized experience on our Portal. 
+
+We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our members receive the order and to lower costs associated with our programs.
+
+When you visit our Portal, we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
 
 Your demographic information (gender, date of birth, etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.
 
-Refer-A-Friend  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. "SENHENG.COM.MY" does not store this information and uses it for the sole purpose of sending this one-time email.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information and uses it for the sole purpose of sending this one-time email.
 
-Our Use of Log Files  
-When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
+From time to time we may send out messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from our Portal. 
 
-Site Security  
-All "SENHENG.COM.MY" employees take your personal information very seriously. All employees must learn and obey our security policies. Access to member personal information is limited to key management personnel and our member services department. The information is ID and password protected and our Web security is reviewed on a monthly basis.
+We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
 
-Correcting/Updating Your Personal Information  
-After becoming an "SENHENG.COM.MY" subscriber you may correct/update your personal information by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.
+We may also collect information about you in connection with social networking sites. When you interact with our social networking page such as Facebook, Twitter and YouTube, we may collect personal data such as your name, nickname and comments. We may use the information we collected about you for the purposes listed at paragraph 4 below. 
 
-Links To Other Sites  
-This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the "SENHENG.COM.MY" site and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+     **4.     Other Purposes**
 
-Communication  
-From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from "SENHENG.COM.MY".
+Other than the purposes stated above, we will generally process your personal data:-
 
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+•    for fulfilment purposes;  
+•    for research, statistical, data matching and product development; and   
+•    to communicate with you for all the above purposes. 
 
-Supplementation  
-We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our members receive the order and to lower costs associated with our programs.
+**5.     Disclosure**
 
-Contests  
-Periodically, contests are run on our site. Sometimes contests are sponsored by our customers. To enter these contests you need only to enter your ID and password and your guess. At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner. Winner's names are NEVER shared with our customers without their consent.
+Your personal data will also be disclosed to individual, service providers and organisations associated with us and any other selected parties (within or outside Malaysia) for all the purposes stated above. 
 
-Our Use of Cookies  
-Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
+We will also disclose your personal data to any other party to whom such disclosure is required by law or regulatory requirement or pursuant to a Court order. If we are merged or acquired by another entity, the personal data may be transferred to such entity as a part of the merger or acquisition. 
 
-Your Feedback is Always Welcome  
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us click here. You also can reach us via email 
+**6.     Marketing**
+
+Unless you opt-out, we will process your personal data for present and future marketing purposes. If you have opted to be contacted for these purposes, we may contact you by way of telephone, electronic communications or by post. 
+
+**7.     Contacting Us**
+
+If you would like to make any inquiries or complaints or request access or correction of the personal data or opt out from receiving direct marketing materials, please contact us at:-
+
+ **Customer Service**  
+Address: 44B, Jalan Pandan 3/2, Pandan Jaya, 55100 Kuala Lumpur   
+Tel : 03-9281 4040  
+Email: ccc@senheng.com.my 
+
+As a a subscriber of our Portal, you may correct or update your personal data by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.
+
+Any request of access or correction of personal data may be subject to a fee and also to any privacy or data protection laws. Where you elect to limit our right to process the personal data, you may contact us in writing. For avoidance of doubt, the limitation does not include processing of mandatory personal data.
+
+We have the right to amend the Privacy Notice at any time and if we do so, we will post those changes on our website www.senheng.com.my. 
+
+Dated: August 2014
