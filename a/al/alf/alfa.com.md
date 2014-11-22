@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224200635id_/http%3A//alfa.com/en/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221333id_/http%3A//www.alfa.com/en/html/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - Alfa Aesar
+# Privacy policy | Alfa Aesar
 
     This site requires that javascript be enabled. Please configure your browser in the tools or configuration section. 
 
-## Privacy Policy
-
-### Our Commitment To Privacy
+## Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-### The Information We Collect:
+## The Information We Collect:
 
 This notice applies to personally identifiable information collected or submitted on the Alfa Aesar website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages may include: 
 
@@ -24,13 +22,13 @@ This notice applies to personally identifiable information collected or submitte
 
 
 
-### The Way We Use Information
+## The Way We Use Information
 
-### IP Addresses
+## IP Addresses
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to provide the appropriate product information for your location. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-### Cookies 
+## Cookies 
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.
 
@@ -160,11 +158,11 @@ Finally, we are not in the business of selling information about our customers a
 
 Notwithstanding the foregoing, we may cooperate with certain federal, state, local or other governmental officials and in connection with the legal process, court orders, subpoenas and in certain other cases.
 
-### Our Commitment To Data Security 
+## Our Commitment To Data Security 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-###  How You Can Access Or Correct Your Information 
+##  How You Can Access Or Correct Your Information 
 
 You can access your personally identifiable information that we collect online and maintain by logging in to the website and selecting My Details from the My Account menu. We use this procedure to better safeguard your information. 
 
@@ -172,6 +170,6 @@ You can correct factual errors in your personally identifiable information throu
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-### How To Contact Us 
+## How To Contact Us 
 
 Should you have other questions or concerns about these privacy policies, please call us at 800-343-0660 or send us an email at [info@alfa.com.](mailto:info@alfa.com)
