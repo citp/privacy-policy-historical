@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174144id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234223id_/http%3A//www.pregnancy.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Site Info
+# Privacy Policy | Pregnancy.org
 
 **Introduction**
 
@@ -69,3 +69,7 @@ Security: We use reasonable security precautions to protect the security and int
 Links: The Pregnancy.org website may contain links to other websites. Pregnancy.org is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our website and review the privacy statements of each third party website before accessing, reviewing or providing any information to any other Website. The privacy policies and terms of use of other websites may not be the same as our Privacy Policy or as the Terms of Service for this Website. This Privacy Policy applies solely to information collected for our Website.
 
 Amendments: Pregnancy.org may modify or amend this policy from time to time. If we make any material changes, as determined by Pregnancy.org, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Website. Notwithstanding any modifications we may make, any Personal Information collected by Pregnancy.org from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
+
+Children: Pregnancy.org does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the Website is directed at persons under 13. If you are under 13 years of age, then please do not use the Website. If Pregnancy.org learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Pregnancy.org will take the appropriate steps to delete this information. To make such a request, please contact us at [support@Pregnancy.org](mailto:support@Pregnancy.org). 
+
+Effective Date: September 1, 2011
