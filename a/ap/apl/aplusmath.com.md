@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208041345id_/http%3A//www.aplusmath.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122090518id_/http%3A//www.aplusmath.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Aplusmath.com -> Sponsors
 
