@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011150id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122111412id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy | Level 3
+# Privacy Policy
+
+### Privacy Policy
 
 Privacy Policy of Level 3 Communications, Inc. and its group companies, including Level 3 Communications, LLC, Global Crossing Telecommunications, Inc., Global Crossing North America Inc., Level 3 Communications Limited, Level 3 Communications UK Limited and other affiliated Level 3 and Global Crossing entities (referred to throughout as ‘Level 3’, ‘we’ or ‘us’). 
 
