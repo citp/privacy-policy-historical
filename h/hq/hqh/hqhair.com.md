@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123239id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233830id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy | HQHair.com
 
@@ -30,4 +30,4 @@ We take the risk of internet fraud very seriously. With the volume of fraudulent
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.hqhair.com/hqhair/customerQuery.secure?action=postQuery&skeletonAccount=true).
+If you have any queries on any aspect of the above policy, please [contact us](https://www.hqhair.com/hqhair/customerQuery.account?action=postQuery&skeletonAccount=true).
