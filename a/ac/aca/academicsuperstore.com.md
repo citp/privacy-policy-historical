@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619203407id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080548id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
 
 # Academic Superstore : Academic Software discounts for students, teachers and schools
 
@@ -57,6 +57,7 @@ Your personal information provided to us will be processed on our computer serve
 _Our Use of Personal Information._ We may use personal information collected by us for the following purposes: 
 
   * to contact you if you have requested information or communication from us; 
+  * to partner with other parties to provide specific services. When you submit your information, we may share names, or other contact information that is necessary for the third party(s) to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services; 
   * to determine the country in which you are located for compliance purposes, including without limitation export compliance, and for security, anti-piracy, and fraud prevention purposes; 
   * to help verify that existing personal information about you in our possession is accurate and complete; 
   * for lead generation purposes; 
