@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606070816id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221723id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - King Jackpot UK
 
 ## Privacy
 
-In this Privacy Policy, as in the General terms and conditions, references to the "Company", "we" or "us" shall refer to the kingjackpot.co.uk website and/or Table Top Entertainment Limited. 
+In this Privacy Policy, as in the General terms and conditions, references to the "Company", "we" or "us" shall refer to the kingjackpot.co.uk website and/or Daub Alderney Ltd. 
 
-The Company has registered with the Data Protection Office of Guernsey (Registration number 012483).
+The Company has registered with the Data Protection Office of Guernsey (Registration number 012555).
 
 The Company respects your privacy and we are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you use the Website, and any online platform provided by us (the "Service"); why we collect this information and how we use the collected information.
 
@@ -43,7 +43,7 @@ We use the Personal Information we collect from you to deliver the Service, to p
 We may disclose your Personal Information to the Alderney Gambling Control Commission or any other relevant legal body with appropriate authority if required to do so by law, or if we believe in good faith that such action is necessary to: (1) comply with any legal process served on us, the Website or the Service; (2) protect and defend our rights or property; or (3) act to protect the personal safety of users of the Service or the public. If, in our sole determination, you are found to have cheated or attempted to defraud the Company or any other user of the Service in any way including but not limited to game manipulation or payment fraud, or if we suspect you of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), we reserve the right to share this information (together with your identity) with other online gaming sites, banks, credit card companies, and appropriate agencies. 
 
 **5\. Access and contact**  
-You may “opt out” of receiving any promotional communications by choosing to opt out where such option is made available on the Website or the Service or in an email you receive from us. To opt out from receiving email, [click here](http://www.kingjackpot.co.uk/mail/unsubscribe.aspx). Should you wish to confirm the accuracy of the Personal Information we have collected about you, or would like to update your Personal Information or delete your Personal Information, then while you are using the Service, you are able to do so by clicking on the ‘Options’ button and then on the ‘Registration’ button. Should you have any complaint regarding our use of your Personal Information, then you should make contact by clicking on the Contact Us tab in the My Accounts section of the Website, or send an email to [ bianca@kingjackpot.co.uk](mailto:bianca@kingjackpot.co.uk). Contact number +44 1481 710579. If you request us to change any information you have provided to us or mark any information to prohibit future use, then we shall do so on the premise that you provide evidence that we may reasonably require for such changes. 
+You may “opt out” of receiving any promotional communications by choosing to opt out where such option is made available on the Website or the Service or in an email you receive from us. To opt out from receiving email, [click here](http://www.kingjackpot.co.uk/mail/unsubscribe.aspx). Should you wish to confirm the accuracy of the Personal Information we have collected about you, or would like to update your Personal Information or delete your Personal Information, then while you are using the Service, you are able to do so by clicking on the ‘Options’ button and then on the ‘Registration’ button. Should you have any complaint regarding our use of your Personal Information, then you should make contact by clicking on the Contact Us tab in the My Accounts section of the Website, or send an email to [ bianca@kingjackpot.co.uk](mailto:bianca@kingjackpot.co.uk). If you request us to change any information you have provided to us or mark any information to prohibit future use, then we shall do so on the premise that you provide evidence that we may reasonably require for such changes. 
 
 **6\. Third Party Practices**  
 We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from the Service or any information collected by any third party administering our affiliate program or any other program, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third party’s information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and is not responsible for the content or privacy practices of such online sites. 
@@ -80,4 +80,4 @@ By clicking “Yes” during the registration process or by your continued use o
 
 
 **16\. Physical Address**   
-Table Top Entertainment Limited, Century House, Victoria Street, Alderney GY9 3U 
+Daub Alderney Ltd, Inchalla, Le Val, Alderney, Channel Islands, GY9 3UL 
