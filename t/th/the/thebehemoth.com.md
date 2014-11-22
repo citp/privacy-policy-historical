@@ -1,33 +1,19 @@
-> *The following text is extracted and transformed from the thebehemoth.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102163424id_/http%3A//www.thebehemoth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebehemoth.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075227id_/http%3A//www.thebehemoth.com/privacy-policy) for the most accurate reproduction.*
 
-# The Behemoth
+# The Behemoth - We Make Games!
 
-Privacy
+**The Behemoth has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site,[http://www.thebehemoth.com](http://www.thebehemoth.com/) **
 
-This is the web site of **The Behemoth**
+Information Automatically Logged 
 
-Our postal address is:   
-**1010 University Ave. #1880  
-San Diego, CA 92103**
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting. Cookies, Web Logs, When you log into the site, we set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. You may clear these cookies in your browser after a session in which you have logged in. 
 
-We can be reached via e-mail at [games@thebehemoth.com](mailto:games@thebehemoth.com)
+We use Google Analytics to automatically record information that your browser sends whenever you visit a website. This data is stored in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+We utilize a support ticket system located here, <http://www.thebehemoth.com/support/ticket/> This support site requires a user to open a support ticket with their Full Name and Email Address. This information is only used to track support requests and is not shared or distributed with anyone outside of the company. 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit. 
+To use our forums or leave comments on our blog we require users to register for an account. This information is only used to create and maintain the account and is not distributed or shared anywhere else. 
 
-The information we collect is used to improve the content of our Web page, not shared with other organizationsfor commercial purposes. 
+None of the data collected through log-ins, cookies, or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, and web logs with your user account. 
 
-With respect to cookies: We do not set any cookies. 
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
+Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: webadmin[at]thebehemoth[dot]com 
