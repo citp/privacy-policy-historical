@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015620id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164239id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.*
 
 # Rejuvenation
 
