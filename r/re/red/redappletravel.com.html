@@ -1,0 +1,296 @@
+<!--The following is the downloaded HTML source of the redappletravel.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122064237id_/http%3A//redappletravel.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Red Apple Travel</title>
+<link href="css/layout.css" rel="stylesheet" type="text/css">
+<link rel="SHORTCUT ICON" href="http://www.redapple.com/favicon.ico">
+<script type="text/javascript" src="js/jquery/jquery.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="js/global.js"></script>
+<script type="text/javascript" src="/js/dynamic/ajax.js"></script>
+<script type="text/javascript" src="js/validation.js"></script>
+<script src="js/jquery/ui/jquery.ui.datepicker.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.tabs.js"></script>
+<!--<script src="js/jquery.corner3.js" type="text/javascript"></script>-->
+
+<script type="text/javascript">
+	//$('.border-radius').corner("5px");
+	//$('.btnall').corner("5px");
+	//$('.btn_purple').corner("5px");
+	//$('.border-radius-top').corner("top 5px");
+	
+</script>
+
+<style>
+</style>
+
+</head>
+<body><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+<div id="main">
+<!-- including header file -->
+<!-- Header Starts here -->
+
+<div class="header">
+	<div class="float_left padd_10">
+        	<span class="fs_30 bold">Redappletravel.com</span><br>
+            Click your way to a journey of thousand Smiles...         
+        </div>
+	<a href="index.php"><img src="images/logo.png" class="logo " style="border:none"></a>
+	<br class="clear">
+</div>
+<!-- added by Dhiraj -->
+<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script> -->
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/js/tooltip/wz_tooltip.js"></script>
+<script type="text/javascript" src="/js/tooltip/tip_centerwindow.js"></script>
+<script type="text/javascript" src="/js/tooltip/tip_followscroll.js"></script>
+<script type="text/javascript" src="/js/jquery/external/bgiframe/jquery.bgiframe.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.slider.js"></script>
+
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.code.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.widget.js"></script>
+
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.resizable.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.dialog.js"></script>
+<script src="/js/jquery/ui/jquery.ui.datepicker.js"></script>
+<link type="text/css" href="/js/jquery/themes/redmond/ui_all.css" rel="stylesheet">
+<!--  End of code -->
+
+<script type="text/javascript">
+<!--
+$(function() {
+	$( "#select_package_interval_div").dialog({
+		autoOpen: false,
+		width: 825,
+		height: 400		
+	});
+	$( "#view_cart_div").dialog({
+		autoOpen: false,
+		width: 550,
+		height: 300		
+	});
+
+	 $(".ui-dialog-titlebar-close").click(function() { 
+		document.getElementById('ui-widget-overlay').style.display='none';
+	});
+	
+});
+
+function select_package_interval(url){
+	$( "#select_package_interval_div").html();
+	$( "#select_package_interval_div").dialog( "option", "width", 825 );
+	$( "#select_package_interval_div").dialog( "option", "height", 600 );
+	$( "#select_package_interval_div").dialog( "open" );	
+	$('#dialog-form').html('');$('#dialog-form').hide();
+	$('#dialog').hide();
+	var urlx=url.split('=');
+	if(urlx[1]!='1'){		
+		$('.active').removeClass('active');
+		$('#viewcartdet').hide();
+	}
+	$('#view_cart_div').hide();
+	$('#tour_cart_div').hide();
+	$('#transfer_cart_div').hide();
+	$.post(url,'ss', function(data)
+	{	
+		if(data=='Session expired')window.location="index.php";
+		$('#select_package_interval_div').html(data);      
+	});	
+	
+	$(".ui-widget-overlay").show();
+	$("#select_package_interval_div").siblings('div.ui-dialog-titlebar').remove();
+	$('.ui-dialog').css('display', 'block');
+	$("#view_cart_div").siblings('div.ui-dialog-titlebar').remove();
+}
+
+function view_cart(url){
+	$('#select_package_interval_div').hide();
+	$('#view_cart_div').show();
+	$("#view_cart_div").siblings('div.ui-dialog-titlebar').remove();
+	$( "#view_cart_div").dialog( "option", "width", 1050 );
+	$( "#view_cart_div").dialog( "option", "height", 600 );
+	$( "#view_cart_div").dialog( "open" );		
+	$.post(url,'', function(data)
+	{	
+		$('#view_cart_div').html(data);      
+	});	
+	document.getElementById('ui-widget-overlay').style.display='block';
+}
+
+//-->
+</script>
+
+<form name="main_frm" id="main_frm"></form>
+
+
+<div id="tour_cart_div" name="view_cart_div" style="text-align:left;"></div>
+<div id="transfer_cart_div" name="view_cart_div" style="text-align:left;"></div><div class="menu">
+	
+<link href="css/ct1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery/ct1.jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	// select all nav items with class 'listitm' and display any links with a title attribute
+	// color is set default at blue
+	// options include: red, blue, green, yellow, white, black
+	//$('li.listitm > a[title]').colorTip({color:'white'});
+});
+</script>
+
+ 
+<ul class="menu-link">
+	      	 <li class="listitm"><a href="index.php" class="" title="Home Page">Home</a> |</li>
+         <li class="listitm"><a href="about_us.php" class="" title="About Us">About Us</a> |</li>
+         <li class="listitm"><a href="destination.php" class="" title="Destination">Destinations</a> |</li>
+         <li class="listitm"><a href="news_events.php" class="" title="News &amp; Events">News &amp; Events</a> |</li>
+         <li class="listitm"><a href="our_services.php" class="" title="Our Services">Our Services</a> |</li>
+         <li class="listitm"><a href="our_team.php" class="" title="Our Team">Our Team</a> |</li>
+         <li class="listitm"><a href="careers.php" class="" title="Careers">Careers</a> |</li>
+         <li class="listitm"><a href="contact_us.php" class="" title="Contact Us">Contact Us</a></li>
+       </ul>
+<!-- div class="float_right">
+	
+ 	<script type="text/javascript">
+	var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+	var m_names = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+	var d = new Date();
+	var curr_day = d.getDay();
+	var curr_date = d.getDate();
+	var sup = "";
+	if (curr_date == 1 || curr_date == 21 || curr_date ==31)
+   		{
+   			sup = "st";
+   		}
+	else if (curr_date == 2 || curr_date == 22)
+   		{
+   			sup = "nd";
+   		}
+	else if (curr_date == 3 || curr_date == 23)
+   		{
+  			sup = "rd";
+   		}
+	else
+   		{
+   			//sup = "th";
+   		}
+	var curr_month = d.getMonth();
+	var curr_year = d.getFullYear();
+	document.write(d_names[curr_day] + " " + curr_date + "<SUP>"+ sup + "</SUP> " + m_names[curr_month] + " " + curr_year);
+	</script>
+	
+</div -->
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+<!--header ends here -->
+
+
+
+
+
+<div class="clear"></div><!-- logged block -->
+<div class="content"> <!-- main content -->
+	<img src="images/about_us.jpg" class="">
+<br class="clear">
+<br class="clear">
+<h3>Privacy Policy</h3>
+<br class="clear">
+<div class="padd_5">
+<p>
+Redappletravel.com respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, 
+address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our websites.<br><br>
+
+In general, you can visit Redappletravel.com website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the 
+domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.<br><br>
+
+Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which web sites send to the 
+browser on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not 
+to accept it. The information we collect and analyze is used to improve our service to you.<br><br>
+
+With specific reference to booking/e-commerce transactions, Redappletravel.com collects the following personal sensitive information 
+from you while transacting through Redappletravel.com:<br>
+</p><ul>
+	<li>Name and Sex</li>
+	<li>Phone Number</li>
+	<li>Address</li>
+	<li>Credit Card details</li>
+	<li>Date of birth in case of a child</li>
+</ul>
+<p></p>
+<p>Redappletravel.com does not sell or trade upon any of the above foregoing information without the consent of the user or customer.
+The foregoing information collected from the users/customers/travelers is put to the following use:<br>
+</p><ul>
+	<li>Customer name, address, phone number, traveler's name and age are shared with applicable service providers like the airlines, hotels, etc., for the purpose of reservation and booking the services for the customer/traveler.
+	</li>
+	<li>Information like Credit Card Details and Net Banking Details are usually collected directly by the payment gateways and banks and not by Redappletravel.com, but if ever stored or retained by us, 
+	 remain internal and is never shared, except that they may be shared with third party private/government security agencies to screen for fraudulent activities. These details are also shared with 
+	 certain third parties only for the purpose of processing 'Cash Back &amp; Discounts' and Charge Backs, if applicable.
+	</li>
+	<li>Information like Mobile no, e-mail address and postal address may be used for promotional purposes, unless the customer/user "opts-out" of such use. If you choose not to share this information, 
+		you can still visit the Redappletravel.com website, but you may be unable to access certain options, offers and services.</li>
+</ul>
+<p></p>
+<p>		
+Redappletravel.com takes appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy 
+of your personally identifiable information from unauthorized access and improper use or disclosure. Please contact us on legal@Redappletravel.com.com to obtain names and addresses of the specific 
+entitles that shall have access to your personal information in a given transaction.<br><br>
+
+Redappletravel.com will continue to enhance its security procedures as new technology becomes available, and ensures that its security procedures are compliant with current applicable regulations.<br><br>
+
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies.<br><br>
+Redappletravel.com takes your privacy concerns seriously and will not share your personal information without your consent.</p><br>
+<p>
+If you choose to use one of the features below, your information will be used as follows: Redappletravel.com will never disclose or sell any of your personal information, including your name, address, shopping, or transaction 
+history to any third party without your permission. If you are a member, we will use your e-mail address to send correspondence about Redappletravel.com, including:<br>
+</p><ul>
+	<li>Reservation confirmations</li>
+	<li>Important updates about your travel plans</li>
+	<li>Newsletters</li>
+	<li>Notifications of travel specials if you have additional questions or concerns regarding the Redappletravel.com site please 
+		e-mail us at contact@redappletravel.com. We read every customer e-mail and will respond as soon as possible.</li>
+</ul>
+<p></p>
+</div>
+    <div class="clear"></div>
+</div>
+
+<div class="clear"></div><!-- footer -->
+<div class="ui-widget-overlay" style="width:1583px; height:1191px; z-index:1001;display:none" id="ui-widget-overlay"></div>
+
+<div class="footer"><div class="float_left padd_10">
+ <a href="#">Booking Policies</a> |  
+ <a href="cards.php">Cards &amp; Refunds</a> |  
+ <a href="privacy_policy.php">Privacy Policies </a> |
+ <a href="disclaimer.php">Disclaimer</a> |                   
+ <a href="terms.php">Terms &amp; Conditions</a> 
+   	
+<span class="fc_gray"> ©  2012 Red Apple Travel. All rights reserved</span>
+<!--   <a href="index.php">Home</a> | <a href="about_us.php">About Us</a> | <a href="destination.php" class="">Destinations</a> | 
+  <a href="news_events.php" class="">News & Events</a> | <a href="our_services.php" class="">Our Services</a> |
+  <a href="our_team.php" class="">Our Team</a> | <a href="careers.php" class="">Careers</a> |
+  <a href="contact_us.php" class="">Contact Us</a>
+  -->
+ </div> 
+ <div class="float_right">
+        <a href="https://www.facebook.com/redappletravelgroup" target="_blank"><span class="fb_icon"></span></a>
+        <a href="https://twitter.com/redappletravel" target="_blank"><span class="tw_icon"></span></a>
+        <!-- a href="#"><span class="gp_icon"></span></a -->
+        <a href="http://www.youtube.com/watch?v=vMTEq1aV0as"><span class="yt_icon"></span></a>
+        <!-- a href="#"><span class="tadv_icon" target="_blank"></span></a -->
+		
+ </div>
+<br class="clear">
+</div> 
+</div>
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-select_package_interval_div" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-select_package_interval_div">Select Package</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="select_package_interval_div" name="select_package_interval_div" style="text-align:left;" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-view_cart_div" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-view_cart_div">View Cart Details</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="view_cart_div" name="view_cart_div" style="text-align:left;" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div></body></html>
