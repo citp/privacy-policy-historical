@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiggmin.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020739id_/http%3A//jiggmin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiggmin.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234621id_/http%3A//jiggmin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
