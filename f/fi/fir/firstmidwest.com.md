@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053028id_/http%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172940id_/http%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
 
 # First Midwest Bank | Privacy & Security: Overview
 
@@ -16,8 +16,8 @@ Overall, First Midwest recognizes your right to privacy, whether you are a prosp
 
 When using our web site, First Midwest will only retain information that you provide if you submit information for correspondence, planning, or transaction purposes. Such information is retained only for purposes of providing better service, handling your account, or completing a transaction. For a complete statement of our privacy practices, read our
 
-[Privacy Policy – 2013](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(354 KB\)")   
-(354 KB)
+[Privacy Policy – 2014](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
+(232 KB)
 
 ### Protecting the Privacy of Children Online
 
@@ -27,14 +27,18 @@ We do not knowingly collect or use personal information from children under 13 w
 
 Your use of this Website constitutes your consent and acceptance of the terms of our Consumer Privacy Policy.
 
-[Privacy Policy – 2013](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(300 KB\)")   
-(354 KB)
+[Privacy Policy – 2014](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
+(232 KB)
 
 ### Changes to our Privacy Practices
 
 If changes are made to our Consumer Privacy Policy, they will be posted here, and we will revise the policy’s date. ****
 
- **Please Note: You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.**
+ **
+
+Please Note: You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.
+
+**
 
 You can visit our site without providing us with any personal information about yourself to find out about our history, personal and business banking options, and career opportunities we have available.
 
