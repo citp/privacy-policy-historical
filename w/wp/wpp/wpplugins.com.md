@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpplugins.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616014148id_/http%3A//wpplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpplugins.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190625id_/http%3A//wpplugins.com/privacy-policy) for the most accurate reproduction.*
 
 # Premium WordPress Plugins at WP Plugins - Privacy Policy
+
+**Warning** : preg_match_all() [[function.preg-match-all](https://web.archive.org/web/20141122190625id_/http://wpplugins.com/about/privacy-policy/function.preg-match-all)]: Compilation failed: unrecognized character after (? or (?- at offset 14 in **/home/wpplugin/public_html/wp-content/plugins/fv-code-highlighter/FVCodeHighlighter.php** on line **358**
 
 This is the Privacy Policy for wpplugins.com
 
