@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magforwomen.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617154432id_/http%3A//www.magforwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magforwomen.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233603id_/http%3A//www.magforwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mag For Women
 
@@ -18,96 +18,6 @@ Before providing information to any party other than magforwomen.com, you should
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
 Google, as a third party vendor, uses cookies to serve ads on this website. Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
-
-
-Whoever comes up with such wild ideas? Someone boiled Coke and this video shows what happened next. Over 3 million people have already seen this Youtube video. Wow! People are so curious.
-
-
-
-
-Someone somewhere had this idea of experimenting by mixing milk and coke. Well, check out the result yourselves.
-
-
-
-
-Visual effects are used in movie production and tv shows. To know how extensively and effectively the effects are used, look at the before and after pictures below.
-
-#### 1\. Deadly Honeymoon
-
-  
-[lombok.com](http://elblogdelombok.com/efectos-especiales-12-ejemplos-del-antes-y-el-despues-cine/)
-
-#### 2\. District 9
-
-  
-[ foxrenderfarm.com](http://www.foxrenderfarm.com/blog/?p=1260)
-
-#### 3\. The Great Gatsby
-
-  
-[aeromental.com](http://www.aeromental.com/2013/07/05/los-increibles-efectos-especiales-en-the-great-gatsby/)
-
-#### 4\. Game Of Thrones
-
-  
-[pizzadeonshare](http://m.pizzadeontem.com.br/confira-os-bastidores-dos-efeitos-visuais-da-terceira-temporada-de-game-of-thrones/)
-
-#### 5\. The Hobbit
-
-  
-[ youtube.com](https://www.youtube.com/watch?v=kYeQNH6gJhE#t=77)
-
-#### 6\. Life of Pi
-
-  
-[lombok.com](http://elblogdelombok.com/efectos-especiales-12-ejemplos-del-antes-y-el-despues-cine/)
-
-#### 7\. Oz, the Great and Powerful
-
-  
-[hollywoodreporter.com](http://www.hollywoodreporter.com/gallery/disneys-oz-great-powerful-special-429589#18-interaction-marionette)
-
-#### 8\. The Secret In Their Eyes
-
-  
-[lombok.com](http://elblogdelombok.com/efectos-especiales-12-ejemplos-del-antes-y-el-despues-cine/)
-
-#### 9\. The Walking Dead
-
-  
-[lombok.com](http://elblogdelombok.com/efectos-especiales-12-ejemplos-del-antes-y-el-despues-cine/)
-
-#### 10\. The Wolf Of Wall Street
-
-  
-[businessinsider.com](http://www.businessinsider.com/movies-before-and-after-visual-effects-2014-2?op=1)
-
-#### 11\. Alice In Wonderland
-
-  
-[ youtube.com](https://www.youtube.com/watch?v=9BKFDqZfzT8)
-
-#### 12\. The Avengers
-
-  
-[alternativeart.com](http://www.alternativeart.com.br/blog/175/como-foram-feitas-cenas-de-filmes-utilizando-computacao-grafica)
-
-#### 13\. Boardwalk Empire
-
-  
-[vimeo](http://vimeo.com/34678075)
-
-
-
-
-Does your cat also behave like this? Letting your cat come inside the bathroom seems a big risk now. See this video and imagine yourself in the girl’s place.
-
-
-
-
-Most of the kids born after 2000 haven’t seen or used a Walkman, the portable cassette player of the 90′s and before. Well this is fun. Watch the funny reactions of the kids when they see and handle one for the first time.
 
 
 
@@ -145,9 +55,141 @@ These Swimming Pools are some of the most amazing you will find in the world. If
 
 
 
-Not every stranger would help a child who is freezing in the cold. But some would. This social experiment video will make you believe in humanity again.
+A guy decided to make a natural swimming pool in his backyard. And it looks like a forest pond. There are no chemicals in the water. Everything is eco-friendly. Check out how he did it.
 
 
 
 
-At 98 years, Evelyn was told that she was too old to drive. Well, she proved them otherwise and in fact started helping her neighbors. Incredible story!
+Holly Spring’s daughter has one hand due to Hirschsprung’s Disease from an early age. Holly happens to be an award winning photographer from New Zealand. She tried to encourage her daughter to follow her dreams by clicking beautiful photos of her. Her work will inspire one and all. Have a look. Also like her on Facebook
+
+
+
+
+Jessica Vigansky’s dad was waiting to hear the good news from his daughter. When he finally heard it, his daughter recorded and posted his reaction on Youtube. Watch the beautiful moment in this family’s life.
+
+
+
+
+These paths in the midst of natural beauty are the most beautiful you will find in the world. Just looking at these pictures makes me dreamy. 
+
+#### Hitachi Seaside Park Path In Japan
+
+  
+[ nipomen2](https://www.flickr.com/photos/nipomen2/6229295082/sizes/o/in/photostream/)
+
+#### Rhododendron Tunnel in Reenagross Park, Kenmare Ireland
+
+  
+[ Robert Ziegenfuss](http://500px.com/photo/74220839/rhododendron-tunnels-by-robert-ziegenfuss?from=user_favorites&user_id=1649489)
+
+#### Jacaranda Tree Alley
+
+  
+[ George Veltchev](http://500px.com/photo/65184671/jacaranda-by-george-veltchev?from=user_favorites&user_id=1649489)
+
+#### Spring In Spencer Smith Park, Burlington, Ontario, Canada
+
+  
+[Shawn Marshall](http://500px.com/photo/694140/leslie%27s-bench-by-shawn-marshall)
+
+#### Path Up To The Halnaker Windmill in Sussex, UK
+
+  
+[Sam Moore](http://500px.com/photo/52960644)
+
+#### Forest Path In Autumn
+
+  
+[Lars Van De Goor](http://500px.com/photo/57187756/watc-by-lars-van-de-goor)
+
+#### Forest Trail In Bavaria, Germany
+
+  
+[Kilian Schönberger](http://500px.com/photo/16526087/forest-trail-by-kilian-sch%C3%B6nberger)
+
+#### Autumn Path In Kyoto, Japan
+
+  
+[Takahiro Bessho](http://500px.com/photo/37904750/red-by-takahiro-bessho)
+
+#### Winter Forest Path, Czech Republic
+
+  
+[Jan Machata](http://500px.com/photo/5225418/may-it-be-by-jan-machata?from=popular)
+
+#### Migliarino San Rossore Park Path In Pisa, Italy
+
+  
+[Andrea Iorio](http://500px.com/photo/66676189/hobbit-forest-by-andrea-iorio)
+
+#### Autumn Path
+
+  
+[Lars Van Der Goor](http://500px.com/photo/22249209/the-cook-by-lars-van-de-goor)
+
+#### Cotton Tree Alley In Taiwan
+
+  
+[Sue Hsu](http://500px.com/photo/66834367/friends-by-sue-hsu?from=user_favorites&user_id=1649489)
+
+#### Spring In Hallerbos Forest, Belgium
+
+  
+[Kilian Schönberger](http://500px.com/photo/68179911/natural-wonder-by-kilian-sch%C3%B6nberger)
+
+#### Dark Hedges In Ireland
+
+  
+[Stephen Emerson](http://500px.com/photo/24751689)
+
+#### Bamboo Path In Kyoto, Japan
+
+  
+[Yuya Horikawa](http://500px.com/photo/9349539)
+
+#### Russian Forest Path
+
+  
+[Elena Shumilova](http://500px.com/photo/30912471/first-days-of-new-spring-by-elena-shumilova?from=user)
+
+#### Path Up To The Halnaker Windmill in Sussex, UK
+
+  
+[Sam Moore](http://500px.com/photo/52960644)
+
+#### Winter Sunrise On Path In Campigna National Park , Italy
+
+  
+[Roberto Meloti](http://500px.com/photo/53031020/sunrise-in-the-snowy-woods-by-roberto-melotti?from=editors&only=Nature)
+
+#### Spring In Woodburn, Oregon, USA
+
+  
+[Danielle Hughson](https://www.flickr.com/photos/manyfires/8651340483/)
+
+#### Taiping Mountain Path in Taiwan
+
+  
+[Justin Jones](http://500px.com/photo/9101128/taiping-path-%231-by-justin-jones?from=user)
+
+Share these magical pathways with your friends around the world.
+
+
+
+
+I love when I see people who help others. When this helpless turtle gets rescued by Colin Sutton & Cameron Dietrich, he swims away happily. The end moments will make you fill with joy.
+
+
+
+
+The fun starts when this Parakeet starts speaking. This bird should become a Hollywood movie star. He will mint money with his cool voice and style.
+
+
+
+
+Watch this video. Can you guess why the bride became furious after watching this video? here it is -
+
+  
+
+
+[Monica {+} Felix – Wedding Video](http://vimeo.com/56542431) from [Visualaz](http://vimeo.com/visualaz) on [Vimeo](https://vimeo.com/).
