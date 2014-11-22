@@ -1,44 +1,37 @@
-> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428153456id_/http%3A//mia.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080258id_/http%3A//www.mia.org.au/privacypolicy) for the most accurate reproduction.*
 
-# MIA privacy and data security policies
+# Privacy Policy - Migration Institute of Australia
 
-### Privacy Act 1988
+[Migration Institute of Australia](http://www.mia.org.au/) is committed to safeguarding your privacy online.
 
-The Migration Institute of Australia Limited (the MIA) is a company limited by guarantee. The MIA is currently appointed by the Minister for Immigration & Multicultural & Indigenous Affairs as the Migration Agents Registration Authority (the MARA) pursuant to s315 of the Migration Act 1958.
+[Migration Institute of Australia](http://www.mia.org.au/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for [Migration Institute of Australia](http://www.mia.org.au/)
 
-The MIA is not an organisation that is required to comply with the Privacy Act 1988 because:
+[Migration Institute of Australia](http://www.mia.org.au/) does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from the registration process for subscription or services and in connection with content submissions, community postings (e.g., forums), suggestions and transactional areas.
 
-  * While the MIA's total annual turnover in the last financial year was more than $3 million, the majority of that turnover of the MIA was derived from acts done as a contracted service provider for a Commonwealth contract (s.7(1)(ee) and s.7B(2));
-  * The personal information that the MIA discloses about individuals who are members of the MIA is done with those members' consent (s.6D(7)(a));
-  * The personal information that the MIA, through the MARA division of the MIA, discloses about individuals who have applied to be registered agents, is done with those applicants' consent (s.6D(7)(a)); and
-  * The personal information that the MIA, through the MARA division of the MIA, discloses about individuals who are registered agents is authorised under Part 3 of the Migration Act 1958 (s.6D(7)(b)).
+Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings and/or any third parties.
 
+Further, notwithstanding any opt out of promotional information by the user, we reserve the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected.
 
+We do reserve the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.
 
-If you are a member of the MIA and the information you request relates solely to your membership of the MIA, the MIA may provide that information as a member service, rather than pursuant to the Privacy Act 1988.
+Upon request, we will allow any user to "opt out" of further promotional contacts at any time.
 
-15 February 2008
+Additionally upon request, we will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, we will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions.
 
-### Data security
+Access to the database containing personal information is restricted to [Migration Institute of Australia](http://www.mia.org.au/) staff members with direct responsibility for customer service or management of the website. Authorised staff members are not allowed to pass on information about members to non-authorised staff without the express permission of the Managing Director.
 
-We take the security of our members' and customers' personal information seriously. All personal information entered is transmitted using a Secure Socket Layer (SSL) capable of up to 256-bit encryption. The SSL Certificate is issued by Rapid SSL, an established Certification Authority. Through SSL encryption, the certificate assures that information is kept private between the mia.org.au web server and the member's or customer's web browser. The certificate validates that the mia.org.au domain is registered and that the registered owner has authorised the use of SSL technology.
+[Migration Institute of Australia](http://www.mia.org.au/) reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Payment authorisations are conducted via a payment gateway. Payment gateways manage the process of transferring authorised credit card funds between different financial accounts. For security purposes, mia.org.au stores only the last 4 digits of our customers' credit card numbers.
+Choice/Opt-Out  
+Our site provides users the opportunity to opt-out of receiving communications.  
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
 
-### Personal details
+1\. You can send email to [info@mia.org.au](mailto:info@mia.org.au)  
+2\. You can call the following telephone number: 02 9249 9000  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :
 
-This site collects personal details from registered users including your name, address and contact details. We will not share information with other organisations without your permission, unless we are legally required to do so.
-
-### Email addresses
-
-We will only record your email address if you send us a message or if you subscribe to this website. We will only use your email address for the purpose for which you provided it. We will not disclose your email address to third parties without your consent.
-
-### Contacting MIA
-
-Should you wish to contact the MIA about your privacy, to gain access to or modify personal information previously provided, if you have any questions about this privacy policy or if you require any more information about the way the MIA manages the personal information it holds, you may use one of the [Contact Us](https://web.archive.org/contact/) forms on this website or email [info@mia.org.au](mailto:info@mia.org.au).
-
-### Policy updates
-
-The MIA reserves the right to modify this privacy policy at any time. If it is changed, the changes will be posted on the MIA's website so that you are always aware of the sort of information collected, how the information may be used and under what circumstances it may be disclosed by the MIA.
-
-_Last updated 1 April 2009_
+[Migration Institute of Australia](http://www.mia.org.au/)  
+PO Box Q102, QVB NSW 1230, Australia Level 1, 75 King St, SYDNEY 2000  
+Telephone: 02 9249 9000  
+Fax:   
+Email: [info@mia.org.au](mailto:info@mia.org.au)
