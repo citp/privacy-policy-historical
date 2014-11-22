@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527224330id_/http%3A//www.precisesecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234057id_/http%3A//www.precisesecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - precisesecurity.com
 
@@ -24,7 +24,7 @@ We use third party advertising campaign to support the operation of this web sit
 
 With respect to advertisements, we try and bring you offers that are of interest to you, we have relationships with companies that we allow to promote their products on this web site. As a result of your visit to our site, third party advertisers may set Internet cookies and collect information such as your domain type, your IP address and click-stream information. We have no jurisdiction over cookies implemented by third parties, as such, it is not covered in this Privacy Policy. You may view individual advertisers privacy policy below.
 
-  *  **Google Policies and Principles** – <http://www.google.com/policies/privacy/>
+  * **Google Policies and Principles** – <http://www.google.com/policies/privacy/>
   * **MalwareBytes Anti-Malware Privacy Policy** – <http://www.malwarebytes.org/privacy_policy>
   * **SuperAntiSPyware Privacy Policy** – <http://www.superantispyware.com/privacy_policy.html>
 
