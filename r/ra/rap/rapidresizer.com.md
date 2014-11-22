@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529234507id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/)
-
-[Resize Patterns](https://web.archive.org/index.php) | [Design Patterns](https://web.archive.org/designer.php) | [Try Free](https://web.archive.org/#download) | [Buy Now](https://web.archive.org/buy.php) | [Help](https://web.archive.org/contact.php)  
----|---|---|---|---  
-  
-This Privacy Policy governs the manner in which Patrick Roberts Software collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://rapidresizer.com](http://rapidresizer.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patrick Roberts Software.
+This Privacy Policy governs the manner in which Patrick Roberts collects, uses, maintains and discloses information collected from users (each, a "User") of the [RapidResizer.com](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patrick Roberts.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, social security number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -23,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Patrick Roberts Software may collect and use Users personal information for the following purposes:
+Patrick Roberts may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -36,7 +31,9 @@ We may use the information Users provide about themselves when placing an order 
   * _\- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+
 
 **How we protect your information**
 
@@ -58,19 +55,19 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-Patrick Roberts Software has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Patrick Roberts has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://online.rapidresizer.com/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Patrick Roberts Software](http://rapidresizer.com/)  
-[http://rapidresizer.com](http://rapidresizer.com/)  
-115 George St Suite # 144 Oakville ON L6J 0A2 Canada   
+[Patrick Roberts](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
+[RapidResizer.com](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
+Patrick Roberts 115 George St Suite # 144 Oakville, ON L6J 0A2 Canada   
 1-800-887-5709  
-patrick@rapidresizer.com
+patrick@RapidResizer.com
 
-This document was last updated on May 16, 2013
+This document was last updated on August 08, 2014
