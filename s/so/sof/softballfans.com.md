@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523003611id_/http%3A//www.softballfans.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122132808id_/http%3A//www.softballfans.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # Softball Gloves | Softball Cleats | Softballfans.com
 
