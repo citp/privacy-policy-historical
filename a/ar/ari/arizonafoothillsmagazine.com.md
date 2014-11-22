@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221111id_/http%3A//www.arizonafoothillsmagazine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161146id_/http%3A//www.arizonafoothillsmagazine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
