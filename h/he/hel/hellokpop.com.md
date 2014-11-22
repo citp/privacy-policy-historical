@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601000142id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234004id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hellokpop
 
