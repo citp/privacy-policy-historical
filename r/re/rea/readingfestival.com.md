@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504141453id_/http%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122044737id_/http%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reading Festival 2014
+# Privacy Policy | Reading Festival 2015
 
 This Policy explains what _personal information_ _Festival Republic and its group_ (known in this Policy as “ **we** ” or “ **Festival Republic** ”) _collect_ both online (including through apps) and offline and _how we use it_. Please read it carefully. ** __**
 
