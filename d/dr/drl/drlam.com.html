@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drlam.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331144938id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drlam.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122152356id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <title>www.DrLam.com Privacy Statement - DrLam® - Body. Mind. Nutrition®</title>
@@ -14,6 +14,93 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
+
+      var setCookie = function()
+      {
+        var dt = new Date("1/1/2100");
+        var dts = dt.toGMTString();
+        var s = "ODSVerify=HelpMyAdrenalExitStatus; expires=" + dts + "";
+        document.cookie = s;
+      }
+
+      function getCookie(cname)
+      {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++)
+        {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1);
+          if (c.indexOf(name) != -1)
+            return c.substring(name.length, c.length);
+        }
+        return "";
+      }
+
+      function checkCookie()
+      {
+        var ODS = getCookie("ODSVerify");
+        var rVal = false;
+        //alert("Test::" + ODS + "::");
+
+        if(ODS == "")
+        {
+          rVal = true;
+        }
+        return rVal;
+      }
+
+      var onExitNav = function()
+      {
+        return {
+          // are we getting ready to leave?
+          shouldFire: true,
+          execute: function()
+          {
+            if(onExitNav.shouldFire)
+            {
+              var width = 700;
+              var height = 550;
+
+              args = "width=" + width + ",";
+              args += "height=" + height + ",";
+              args += "location=0" + ",";
+              args += "menubar=0" + ",";
+              args += "resizable=1" + ",";
+              args += "scrollbars=0" + ",";
+              args += "status=0" + ",";
+              args += "titlebar=0" + ",";
+              args += "toolbar=0" + ",";
+              args += "hotkeys=0";
+
+              var exitNavWin = window.open("../AlldrenalExit.html", "exitNav", args);
+              setCookie();
+
+              try
+              {
+                exitNavWin.focus();
+              }
+              catch(err3)
+              {
+              };
+            }
+          },
+
+          cancel: function()
+          {
+            onExitNav.shouldFire = false;
+          }
+        }
+      }();
+
+
+      if(checkCookie())
+      {
+        //window.onunload = onExitNav.execute;
+      }
+
+      document.forms[0].onsubmit = onExitNav.cancel;
+
     </script>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <meta name="keywords" content="adrenal fatigue, adrenal, fatigue, estrogen dominance, hormonal imbalance, anti-aging, menopause, cholesterol, aging, alternative medicine, high blood pressure, anti aging, hgh, women's health, human growth hormone, herbal medicine, womens health, herbal remedy, vitamin e, growth hormone, herbal supplements, antiaging, vitamin supplements, longevity, Anti-Aging, Menopause, Cholesterol, Aging, Alternative Medicine, High Blood Pressure, Anti Aging, Hgh, Women's Health, Human Growth Hormone, Herbal Medicine, Womens Health, Herbal Remedy, Vitamin E, Growth Hormone, Herbal Supplements, Antiaging, Vitamin Supplements, Longevity, ANTI-AGING, MENOPAUSE, CHOLESTEROL, AGING, ALTERNATIVE MEDICINE, HIGH BLOOD PRESSURE, ANTI AGING, HGH, WOMEN'S HEALTH, HUMAN GROWTH HORMONE, HERBAL MEDICINE, WOMENS HEALTH, HERBAL REMEDY, VITAMIN E, GROWTH HORMONE, HERBAL SUPPLEMENTS, ANTIAGING, VITAMIN SUPPLEMENTS, LONGEVITY, Anti-aging, menopause, cholesterol, aging, Alternative medicine, High blood pressure, Anti aging, HGH, Women's health, Human growth hormone, Herbal medicine, Womens health, Herbal remedy, Vitamin e, Growth hormone, Herbal supplements, antiaging, Vitamin supplements, longevity">
@@ -109,6 +196,7 @@
             </head>
 
             <body oncopy="Copyright.showContext();return false;">
+              <iframe style="height:0px;width:0px;" src="..\ROI.asp?click="></iframe>
       <div id="copyright_protected" class="copyright_protected" style="display:none; position: absolute; z-index: 1500; top: 20%; left: 50%; margin-left: -340px; width: 560px;">
       <div class="box" style="border: solid 2px #000000; background: #FFFFFF; padding: 8px; border-radius: 8px" onclick="javascript:Copyright.hideContext();return false;">
         <h5 class="title" style="font-size: 16pt; margin: 4px">This content is copyright protected</h5>
@@ -213,7 +301,7 @@
                         <fieldset id="member_area" style="top: -3px">
                             <form action="./MyAccount.asp" method="post" target="_parent">
                             
-                                <input type="submit" id="signup_button" name="signup" value="SIGN UP" style="border: solid 1px #000000; cursor: pointer">
+                                <input type="submit" id="signup_button" name="signup" value="REGISTER" style="border: solid 1px #000000; cursor: pointer">
                             
                             </form>
                             <form action="./login.asp" method="post" target="_parent">
@@ -255,52 +343,70 @@
       </div>
 
 <div id="toolbarwrap" style="z-index: 9999">
-    <div id="toolbar" class="noPrint">
-        <ul id="toolbar_items" class="editable">
-            
-            <li id="share_link"><a href="#">Share This Page</a>
-            <!--[if IE]>
-            <ul id="share_list_ie">
-                <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a><img alt="" src="./include/images/email.gif" id="share_email_ie" /></li>
-                <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a><img alt="" src="./include/images/facebook.gif" id="share_facebook_ie" /></li>
-                <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a><img alt="" src="./include/images/twitter.gif" id="share_twitter_ie" /></li>
-                <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a><img alt="" src="./include/images/reddit.gif" id="share_reddit_ie" /></li>
-                <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a><img alt="" src="./include/images/digg.gif" id="share_digg_ie" /></li>
-                <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a><img alt="" src="./include/images/delicious.gif" id="share_delicious_ie" /></li>
-                <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a><img alt="" src="./include/images/stumbleupon.gif" id="share_stumbleupon_ie" /></li>
-                <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a><img id="share_pinterest_ie" src="/include/images/pinterest.gif" alt="" /></li>
-            </ul></li><![endif]-->
-            <ul id="share_list">
-                <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a>&nbsp;<img id="share_email" src="/include/images/email.gif" alt=""></li>
-                <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a>&nbsp;<img id="share_facebook" src="/include/images/facebook.gif" alt=""></li>
-                <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a>&nbsp;<img id="share_twitter" src="/include/images/twitter.gif" alt=""></li>
-                <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a>&nbsp;<img id="share_reddit" src="/include/images/reddit.gif" alt=""></li>
-                <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a>&nbsp;<img id="share_digg" src="/include/images/digg.gif" alt=""></li>
-                <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a>&nbsp;<img id="share_delicious" src="/include/images/delicious.gif" alt=""></li>
-                <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a>&nbsp;<img id="share_stumbleupon" src="/include/images/stumbleupon.gif" alt=""></li>
-                <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a>&nbsp;<img id="share_pinterest" src="/include/images/pinterest.gif" alt=""></li>
-            </ul>
-            </li>
-            <li><a onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '800', height: '570' } )" href=".//ask_me.asp">Ask Dr. Lam</a></li>
-            <li><g:plusone size="small"></g:plusone></li>
-        </ul>
-    </div>
+  <div id="toolbar" class="noPrint">
+    <ul id="toolbar_items" class="editable">
+      <li id="share_link"><a href="#">Share This Page</a>
+      <!--[if IE]>
+      <ul id="share_list_ie">
+        <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a><img alt="" src="./include/images/email.gif" id="share_email_ie" /></li>
+        <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a><img alt="" src="./include/images/facebook.gif" id="share_facebook_ie" /></li>
+        <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a><img alt="" src="./include/images/twitter.gif" id="share_twitter_ie" /></li>
+        <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a><img alt="" src="./include/images/reddit.gif" id="share_reddit_ie" /></li>
+        <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a><img alt="" src="./include/images/digg.gif" id="share_digg_ie" /></li>
+        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a><img alt="" src="./include/images/delicious.gif" id="share_delicious_ie" /></li>
+        <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a><img alt="" src="./include/images/stumbleupon.gif" id="share_stumbleupon_ie" /></li>
+        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a><img id="share_pinterest_ie" src="/include/images/pinterest.gif" alt="" /></li>
+      </ul></li><![endif]-->
+      <ul id="share_list">
+        <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a>&nbsp;<img id="share_email" src="/include/images/email.gif" alt=""></li>
+        <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a>&nbsp;<img id="share_facebook" src="/include/images/facebook.gif" alt=""></li>
+        <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a>&nbsp;<img id="share_twitter" src="/include/images/twitter.gif" alt=""></li>
+        <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a>&nbsp;<img id="share_reddit" src="/include/images/reddit.gif" alt=""></li>
+        <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a>&nbsp;<img id="share_digg" src="/include/images/digg.gif" alt=""></li>
+        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a>&nbsp;<img id="share_delicious" src="/include/images/delicious.gif" alt=""></li>
+        <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a>&nbsp;<img id="share_stumbleupon" src="/include/images/stumbleupon.gif" alt=""></li>
+        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a>&nbsp;<img id="share_pinterest" src="/include/images/pinterest.gif" alt=""></li>
+      </ul></li>
+      <li><a onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '800', height: '570' } )" href=".//ask_me.asp">Ask Dr. Lam</a></li>
+      <li><g:plusone size="small"></g:plusone></li>
+    </ul>
+  </div>
 </div>
+<script type="text/javascript" src="../../js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="../../js/jquery.sticky.js"></script>
+<script>
+  $(document).ready(function(){
+    $(".sidebar").sticky({topSpacing:64, bottomSpacing:$("#footer").height() + 48});
+  });
+</script>
+
+
 <table class="sidebar">
   <tbody><tr>
-		<td style="background:#FFFFFF;background-image:url('../images/sidebarplugbg.jpg');border-color:#669966">
-		<div style="background:#669966;color:#FFFFFF;">Dr. Lam's Adrenal Line</div>
-    <p style="text-align:center;padding:0px 6px;margin:0px;font-size:8pt;font-family:Arial">
-    <a href="../supplements/index.asp?aid=662425055432#662425055432"><img src="./images/ADN-Sidebar.png"></a><br>
-    Dr. Lam’s Adrenal Daily Nutrient comes in powder form and allows you the ability to consume your daily fruit and vegetable intake along with necessary nutrients to help support your adrenals.<br>This drink also acts as a complete multivitamin!<br>
-    <a href="../supplements/index.asp?aid=662425055432#662425055432"><img src="../images/sidebarplugbutton.png" style="border:0px"></a></p></td>
-	</tr>
+    <td style="border-color: #336699; background: #336699; background-position: center center; background-image: url('../images/ATDCtA.png')">
+    <div style="color: #FFFFFF; background: transparent; font-size: 24px; text-shadow: 2px 2px 2px #1F1F1F;">Have a Health<br>Question?<br><span style="text-shadow: 3px 3px 2px #1F1F1F; font-size: 19pt">Ask Me For Free!</span></div>
+    <form method="post" action="../Myaccount.asp" name="AskMe">
+      <div style="text-align: center; width: 208px; margin: auto; padding-bottom: 8px; background: transparent">
+        <textarea cols="25" rows="8" name="question" style="width: 200px; height: 100px; max-width: 200px; max-height: 200px; min-width: 200px; min-height: 100px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px; color: #969696; padding: 4px; margin: 8px 0px" onblur="if(this.value == '') {this.style.color = '#969696'; this.value = ''; } " onclick="if(this.style.color == 'rgb(150, 150, 150)' || this.style.color == '#969696') { this.value = ''; this.style.color = '#336699'; }"></textarea>
+        <input type="hidden" name="refPage" value="/privacystatement.asp">
+        <input type="button" name="go" value="Ask Me" style="cursor: pointer; vertical-align: middle; font-size: 14px; font-weight: 700; width: 78px; height: 22px; color: #FFFFFF; border: solid 2px #FFFFFF; background: #DFA5AA;" onclick="javascript:AskMe.submit(); void(0);"><br>
+      </div>
+    </form></td>
+  </tr>
   <tr>
     <td style="background: #FFFFFF; border-color: #7F0000">
     <div style="background: #7F0000; color: #FFFFFF">New From Dr. Lam!</div>
     <p style="font-style: italic; margin: 0px 2px"><br><a style="color: #7F0000; font-size: 14px; text-decoration: underline; font-weight: bold;" href="http://www.adrenalfatiguesyndromebook.com/"><img alt="" title="" src="./images/afs3D.png" style=""></a></p>
     <p style="font-size: 14px; font-weight: bold; margin: 0px">Click <a style="color: #7F0000; font-size: 14px; text-decoration: underline; font-weight: bold;" href="http://www.drlam.com/adrenalfatiguesyndromebook.com/">here</a>!<br>&nbsp;</p></td>
   </tr>
+   <tr>
+		<td style="background:#FFFFFF;border-color:#336699">
+		<div style="background:#336699;color:#FFFFFF">Join Us!</div>
+    <p style="text-align:center;padding:0px;margin:0px">
+    <a href="https://www.facebook.com/drlammd" target="_blank"><img src="../../../images/social-media-facebook.png" style="border:none;padding:16px 0 8px 0"></a>
+    <a href="https://plus.google.com/112025684392651951454/posts" target="_blank"><img src="../../../images/social-media-google.png" style="border:none;padding:8px 0"></a>
+    <a href="https://twitter.com/drlammd" target="_blank"><img src="../../../images/social-media-twitter.png" style="border:none;padding:8px 0 16px 0"></a></p></td>
+	</tr>
   <tr>
 		<td style="background:#FFFFFF;border-color:#AFC59D">
 		<div style="background:#AFC59D;">Change Font Size</div>
@@ -351,26 +457,15 @@
   </tr>
   <tr>
     <td style="border-color: #336699;">
-    <div style="background: #336699; color: #FFFFFF">Client Reviews</div><p style="font-size: 12pt; font-weight: 700; text-align: left; padding: 0px 4px; margin: 1.22em 0px 8px 0px">Ada talks about her success so far with Dr. Lam's Nutritional Coaching Program.</p>
+    <div style="background: #336699; color: #FFFFFF">Client Reviews</div><p style="font-size: 12pt; font-weight: 700; text-align: left; padding: 0px 4px; margin: 1.22em 0px 8px 0px">Andie expresses her gratitude for her improved quality of life that she found by following a personalized program from Dr. Lam's Nutritional Coaching Team.</p>
     <object style="margin-left: 4px; width: 200px; height: 122px;">
-      <param name="movie" value="http://www.youtube.com/v/sKQjqWz2RxI?version=3">
+      <param name="movie" value="http://www.youtube.com/v/FN717tEr6fI?version=3">
       <param name="allowFullScreen" value="true">
       <param name="allowScriptAccess" value="always">
       <param name="wmode" value="opaque">
-      <embed wmode="opaque" src="http://www.youtube.com/v/sKQjqWz2RxI?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="200" height="122">
+      <embed wmode="opaque" src="http://www.youtube.com/v/FN717tEr6fI?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="200" height="122">
     </object><br>&nbsp;<br>
     <a href="./our_services.asp#reviews">Click here to read other reviews!</a></td>
-  </tr>
-  <tr>
-    <td style="border-color: #336699; background: #336699">
-    <div style="color: #FFFFFF; background: #336699; font-size: 24px">Have a Health<br>Question?<br><span style="text-shadow: 3px 3px 2px #1F1F1F; font-size: 19pt">Ask Me For Free!</span></div>
-    <form method="post" action="../Myaccount.asp" name="AskMe">
-      <div style="text-align: center; width: 208px; margin: auto; padding-bottom: 8px; background: transparent">
-        <textarea cols="25" rows="8" name="question" style="width: 200px; height: 100px; max-width: 200px; max-height: 200px; min-width: 200px; min-height: 100px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px; color: #969696; padding: 4px; margin: 8px 0px" onblur="if(this.value == '') {this.style.color = '#969696'; this.value = ''; } " onclick="if(this.style.color == 'rgb(150, 150, 150)' || this.style.color == '#969696') { this.value = ''; this.style.color = '#336699'; }"></textarea>
-        <input type="hidden" name="refPage" value="/privacystatement.asp">
-        <input type="button" name="go" value="Ask Me" style="cursor: pointer; vertical-align: middle; font-size: 14px; font-weight: 700; width: 78px; height: 22px; color: #FFFFFF; border: solid 2px #FFFFFF; background: #DFA5AA;" onclick="javascript:AskMe.submit(); void(0);"><br>
-      </div>
-    </form></td>
   </tr>
   <tr>
     <td style="background: #336699; border: 0px">
@@ -389,18 +484,18 @@
       })
     </script>
     <div id="slideshow" class="glidecontentwrapper" style="background: #E8E8E8; width: 220px; height: 153px; border: 0px; border-bottom: solid 1px #000000">
-      <div class="glidecontent" style="background: rgb(232, 232, 232); width: 220px; height: 153px; left: 220px; visibility: visible;"><a href="./opinion/anti-agingstrategiesbrief.asp"><img alt="" src="./images/slide100strategies.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
-      <div class="glidecontent" style="background: rgb(232, 232, 232); width: 220px; height: 153px; left: 220px; visibility: visible;"><a href="./adrenalfatiguecenter/index.asp"><img alt="" src="./images/slideadrenalfatigue.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
-      <div class="glidecontent" style="background: rgb(232, 232, 232); width: 220px; height: 153px; left: 220px; visibility: visible;"><a href="./blood_type_diet/index.asp"><img alt="" src="./images/slidebloodtypediet.jpg" style="width: 220px; height: 153px" class="glideimage"></a></div>
+      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./opinion/anti-agingstrategiesbrief.asp"><img alt="" src="./images/slide100strategies.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
+      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./adrenalfatiguecenter/index.asp"><img alt="" src="./images/slideadrenalfatigue.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
+      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./blood_type_diet/index.asp"><img alt="" src="./images/slidebloodtypediet.jpg" style="width: 220px; height: 153px" class="glideimage"></a></div>
     </div>
     <div class="notranslate" style="background: #336699; width: 220px; position: relative; overflow: hidden; margin-top: 3px">
       <div class="notranslate" style="background: #336699; float: left; position: relative; left: 50%">
-        <div id="p-select" class="notranslate glidecontenttoggler" style="background: rgb(51, 102, 153); float: left; position: relative; left: -50%; display: block; opacity: 0.613666;">
-          <a href="#" class="white prev" buttontype="previous"><span style="line-height: 2.44em !important">«</span></a>
-          <a href="#" class="white toc" pagenumber="0pg"><span>Anti-<br>Aging</span></a>
-          <a href="#" class="white toc" pagenumber="1pg"><span>Adrenal<br>Fatigue</span></a>
+        <div id="p-select" class="notranslate glidecontenttoggler" style="background: #336699; float: left; position: relative; left: -50%">
+          <a href="#" class="white prev"><span style="line-height: 2.44em !important">«</span></a>
+          <a href="#" class="white toc"><span>Anti-<br>Aging</span></a>
+          <a href="#" class="white toc"><span>Adrenal<br>Fatigue</span></a>
           <!-- <a href="#" class="white toc"><span>Hormonal<br />Imbalance</span></a> -->
-          <a href="#" class="white toc" pagenumber="2pg"><span>Blood<br>Type Diet</span></a>
+          <a href="#" class="white toc"><span>Blood<br>Type Diet</span></a>
           <a href="#" class="white next"><span style="line-height: 2.44em !important">»</span></a>
         </div>
       </div>
@@ -508,6 +603,11 @@
     If you have any questions about this privacy policy or believe that the <a href="http://www.DrLam.com">www.DrLam.com</a> Web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at<a href="mailto:DrLam.com@gmail.com"> DrLam.com@gmail.com</a></p>
 <!---------------------------- End Body ----------------------------->
 
+<div style="background:#669966;color:#FFFFFF;text-align: center;font-size: 30px;height: 32px;line-height: 32px;border-radius: 8px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;">Dr. Lam’s Adrenal Line</div>
+  <p style="text-align:center;padding:0px 6px;margin:0px;font-size: 16px;font-family:Arial;border: solid 3px #696;background:#FFFFFF;background-image:url('../images/sidebarplugbg.jpg');border-radius: 8px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
+  <a href="../supplements/index.asp?aid=662425055432#662425055432"><img src="../images/ADN-Sidebar.png" style="width:90px;border:0px;float:left"></a><br>
+  Dr. Lam’s Adrenal Daily Nutrient comes in powder form and allows you the ability to consume your daily fruit and vegetable intake along with necessary nutrients to help support your adrenals.<br>This drink also acts as a complete multivitamin!<br>
+  <br><a href="../supplements/index.asp?aid=662425055432#662425055432" style=""><img src="../images/sidebarplugbutton.png" style="border:0px"></a><br>&nbsp;</p><br>&nbsp;
 </div>
         <div class="clear"></div>
         <div id="footer" class="clear" style="margin-top: 0px; padding-top: 0px">
@@ -647,6 +747,6 @@
     <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a title="customisable counter" class="statcounter" href="http://statcounter.com/free_hit_counter.html"><img class="statcounter" src="http://c.statcounter.com/4227100/0/63ec20c1/1/" alt="customisable counter" /></a></div></noscript>
     <!-- End of StatCounter Code -->
 
-
+    <a href="https://plus.google.com/112025684392651951454" rel="publisher">Google+</a>
   
-<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
+</body></html>
