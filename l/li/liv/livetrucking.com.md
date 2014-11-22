@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616133309id_/http%3A//livetrucking.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221727id_/http%3A//www.livetrucking.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Livetrucking.com
 
@@ -22,9 +22,9 @@ LiveTrucking.com may collect and use Users personal information for the followin
 
 \- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
 How we protect your information
