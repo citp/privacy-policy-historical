@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133757id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034045id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
-
-[Home](https://web.archive.org/ "Back to the frontpage") » Privacy Statement
+# Privacy Statement | The Pi Hut
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**  
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
@@ -21,17 +19,6 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?   
 If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@thepihut.com or mailing us at:
-
-  
-Mann Enterprises Ltd
-
-Unit G2, Blois Meadow Business Centre
-
-Steeple Bumpstead
-
-Haverhill,
-
-CB9 7BN
 
 **SECTION 3 - DISCLOSURE**  
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
@@ -89,15 +76,3 @@ If our store is acquired or merged with another company, your information may be
 **  
 QUESTIONS AND CONTACT INFORMATION**  
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@thepihut.com or by mail at 
-
-Mann Enterprises Ltd
-
-[Re: Privacy Compliance Officer]
-
-Unit G2, Blois Meadow Business Centre
-
-Steeple Bumpstead
-
-Haverhill,
-
-CB9 7BN
