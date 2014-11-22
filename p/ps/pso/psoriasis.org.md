@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625201054id_/https%3A//psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075425id_/http%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Psoriasis Foundation
 
