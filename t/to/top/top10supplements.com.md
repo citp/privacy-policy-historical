@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063351id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031404id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Top10supplements.com
 
 TOP10SUPPLEMENTS.COM respects the privacy needs and concerns of our customers and visitors. That is why how we handle any personal information, such as your name, address, email address or phone number (“Personal Information”) that you provide to us is important to us. To earn your trust, we respect your privacy in handling Personal Information relating to you and your transactions with us, whether at our website (TOP10SUPPLEMENTS.COM/STORE) store,  our Call Center or through TOP10SUPPLEMENTS.COM.com our website (“Site(s)”). This Privacy Statement describes the Personal Information we gather about you, what we do with it, the safeguards we have in place to protect it, and how you can control our use of it. By using the Site, the user agrees, without limitation or qualification, to be bound by this Privacy Statement.
 
