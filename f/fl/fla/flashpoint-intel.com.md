@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623000732id_/http%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122093001id_/http%3A//flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flashpoint
 
