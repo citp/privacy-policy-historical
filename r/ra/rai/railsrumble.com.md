@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the railsrumble.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615055444id_/http%3A//railsrumble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railsrumble.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082248id_/http%3A//railsrumble.com/privacy) for the most accurate reproduction.*
 
 # Rails Rumble
 
-#### Last revised on September 10th, 2012
+#### Last revised on July 21st, 2014
 
 ### The Big Picture
 
-Cloud Warmer, Inc. (“Rails Rumble”) is dedicated to safeguarding your privacy online. The following explains how we will treat information that you may provide to us as you make use of our Site and Services. By accessing our websites (the “Sites”) and accepting the Terms of Service (the “Terms of Service”), you consent to our collection, disclosure, storage and use of certain non-personally-identifying information about you as you use our Sites. We may use this data to better understand our users and build a better service. We can also publish this data, but only if the data will portray a large group of users, not individuals.
+Rails Rumble, LLC (“Rails Rumble”) is dedicated to safeguarding your privacy online. The following explains how we will treat information that you may provide to us as you make use of our Site and Services. By accessing our websites (the “Sites”) and accepting the Terms of Service (the “Terms of Service”), you consent to our collection, disclosure, storage and use of certain non-personally-identifying information about you as you use our Sites. We may use this data to better understand our users and build a better service. We can also publish this data, but only if the data will portray a large group of users, not individuals.
 
 We may also ask you to provide personal information, but you’ll always be able to opt out of providing such information.
 
@@ -22,7 +22,7 @@ This Privacy Policy may change over time. Such modifications will become effecti
 
 This document is based upon the [Automattic Privacy Policy](http://automattic.com/privacy/) and is licensed under [Creative Commons Attribution Share-Alike License 2.5](http://creativecommons.org/licenses/by-sa/2.5/). Basically, this means that you can use it verbatim or edited, but you must release new versions under the same license and you have to credit the original authors within the edited version (like in parentheses, perhaps!). Automattic is not connected with Rails Rumble in any way, nor do they sponsor or endorse Rails Rumble or its use of the work.
 
-Cloud Warmer, Inc. operates the Rails Rumble innovation competition and makes available to users certain services, including our Sites (railsrumble.com), our blog, our API, and any other software, sites, and services offered by Rails Rumble in connection to any of those (taken together, the “Service”). It is Rails Rumble’s policy to respect your privacy regarding any information we may collect while operating our Sites.
+Rails Rumble, LLC operates the Rails Rumble innovation competition and makes available to users certain services, including our Sites (railsrumble.com), our blog, our API, and any other software, sites, and services offered by Rails Rumble in connection to any of those (taken together, the “Service”). It is Rails Rumble’s policy to respect your privacy regarding any information we may collect while operating our Sites.
 
 ### Users
 
