@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestockshares.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504190424id_/http%3A//www.freestockshares.com/index.php%3Fwm%3D2189) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestockshares.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122144703id_/http%3A//www.cybersecuritywarning.com/index.php%3Fwm%3D2189) for the most accurate reproduction.*
 
-# Free Stock Shares
+# CW7 Marketing
 
 CWA, Inc's privacy policy (Privacy Policy) covers the collection and use of personal information, Personal Information, that we may gather any time you interact with us, such as when you visit our Web site, demo our products, purchase CWA, Inc. products, or when you call our customer support or sales departments.This policy describes our data privacy practices, including what type of information is gathered, how CWA, Inc uses the information, and how we safeguard your Personal Information.
 
