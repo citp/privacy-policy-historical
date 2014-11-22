@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elvoline.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322034730id_/http%3A//www.elvoline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elvoline.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122064839id_/http%3A//www.elvoline.com/privacy) for the most accurate reproduction.*
 
-# Elvoline.com - Cheap Hotel Booking World Wide
+# Privacy Policy - Elvoline.com - Cheap Hotel Booking World Wide
 
 **Elvoline** is owned and operated by **Elvoline Limited**. Floor 2, Heritage House, 235 Main street, Gibraltar, Gibraltar. Registered Company Number: 108473 ("henceforward Elvoline"). The following Privacy Policy describes how we collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Elvoline through the web site located at Elvoline ("Site"). By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy. All data that we collect and process is stored on servers located in Hungary, a country that may not provide an equivalent level of data protection to the laws in your home jurisdiction.
 
@@ -16,7 +16,7 @@ To prevent unauthorized access, we maintain reasonable physical, electronic and 
 
 * #### How we use the information we collect
 
-We use Personal Data and other information collected through the Site to register you with the Site and our Elvoline Rewards program, to provide you with the requested products and services, to build features that will make the services available on the Site easier to use, and to contact you about these services. This includes faster purchase requests, better customer service and timely notice of new services and special offers. From time to time, Elvoline may contact you to request feedback on your experience using the Site, to assist us in improving the Site, or to offer special savings or promotions to you as a Site user, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions, you may simply opt-out from receiving them by replying to Elvoline using the hyperlink provided in these notices.
+We use Personal Data and other information collected through the site to register you with the site and our rewards program, to provide you with the requested products and services, to build features that will make the services available on the Site easier to use, and to contact you about these services. This includes faster purchase requests, better customer service and timely notice of new services and special offers. From time to time, Elvoline may contact you to request feedback on your experience using the Site, to assist us in improving the Site, or to offer special savings or promotions to you as a Site user, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions, you may simply opt-out from receiving them by replying to Elvoline using the hyperlink provided in these notices.
 
 * #### Sharing your personal data
 
@@ -40,8 +40,12 @@ If you wish to update any Personal Data you have previously provided, or to exer
 
 Persons under the age of 18 are not eligible to use any services on our Site.
 
-* #### 8\. About Elvoline
+* #### 8\. About Elvoline Limited
 
-All services provided by Elvoline Limited, which is a registered Ltd company basen on laws of Gibraltar. Central office: Floor 2, Heritage House, 235 Main street, Gibraltar. Registered Company Number: 108473.
+Every service is provided by Elvoline Limited, which is a limited liability company, registered in accordance to Gibraltar laws. 
 
-The seat of Elvoline Limited is located in Gibraltar, Gibraltar. In addition the Elvoline Limited has got subsidiary companies, as well, all over the world. These companies only plays an assist role in favour of theirselves and Elvoline. The subsidiary companies do not claim to contract on behalf of Elvoline, represent Elvoline or provide Elvoline’s services.
+Central office:  
+Floor 2, Heritage House, 235 Main street, Gibraltar  
+Gibraltar  
+Registered Company Number: 108473  
+Company seat of Elvoline Limited is in Gibraltar, Gibraltar. In addition, it holds several branch offices worldwide. Branch offices maintain internal, supporting activities for themselves and for Elvoline Limited. Branch offices do not have permission to represent, provide services or make contracts in the name of Elvoline Limited. 
