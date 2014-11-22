@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215746id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122145626id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # www.efavormart.com. - Privacy Policy
 
@@ -18,7 +18,7 @@
 
 [](http://visitor.r20.constantcontact.com/manage/optin/ea?v=0014QkJ1EWEq_JxGCqXT3_ycg%3D%3D)
 
-[](http://www.efavormart.com/salepage.aspx "Efavormart.com super sale!")
+[](http://www.efavormart.com/salepage.aspx "Efavormart.com Special Labor Day Discount Code!")
 
 [Home](https://web.archive.org/) > Privacy Policy
 
