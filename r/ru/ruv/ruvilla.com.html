@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the ruvilla.com privacy policy that was archived on 2014-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140321044510id_/http%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruvilla.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122033101id_/http%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T4H85N"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVFJaGwEHXFBaAAI="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
-<title>Privacy Policy </title>
-<meta name="description" content="Villa | Join The Movement">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy | Villa</title>
+<meta name="description" content="RUVILLA.com strives to be the premier online lifestyle retailer by fusing the best of fashion and music into a high energy shopping experience without leaving home. VILLA carries an array of brands including Nike, Adidas, Timberland, Reebok, Beats by Dre, Jordan and more. By providing an always updated and easy to use online experience, we aim to welcome even more into the VILLA family.">
 <meta name="keywords" content="Footwear, Basketball,Boots, Casual, Running, Training, Retro Jordan,Air Force1, Lebron, Apparel, Outerwear, Pants, Shorts, Shirts, Sweat, shirts, T-Shirts,Tank">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://www.ruvilla.com/skin/frontend/villa/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.ruvilla.com/skin/frontend/villa/default/favicon.ico" type="image/x-icon">
+<meta name="p:domain_verify" content="5733f1966a91a0d63355f98020d9db63">
 <!--[if IE 7]><![] -->
 <!--[if IE 8]>
     <script type="text/javascript">
@@ -23,14 +24,44 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/media/css/5e0f87c7111c79dce9cfe1dae75ea5b3.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/media/css/112c95ba1ebbc4e2aed03335589a3ce1.css" media="print">
-<script type="text/javascript" src="http://www.ruvilla.com/media/js/22cefbcd343e9e70f12057af1350f22d.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/jquery.fancybox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/jqtransform.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/base/default/css/mirasvit_searchindex.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/base/default/css/recommendation_zone.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/print.css" media="print">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T4H85N"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ruvilla.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/megamenu/jquery1.9.0.min.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/megamenu/noconflict.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/storelocator/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery.overlaymask.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery.jqtransform.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/jquery.villa.allPages.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/enterprise/wishlist.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/media/css/565a983748fa2e8b912d3962648979a5.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ruvilla.com/skin/frontend/villa/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.ruvilla.com/media/js/89187431f8112cfe1c23512395033370.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.ruvilla.com/skin/frontend/villa/default/js/iehover-fix.js"></script>
 <![endif]-->
 <script type="text/javascript">
 //<![CDATA[
@@ -43,18 +74,13 @@ Mage.Cookies.domain   = '.www.ruvilla.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://www.ruvilla.com/privacy-policy">
-<meta property="og:image" content="http://www.ruvilla.com/skin/frontend/villa/default/images/logo_main.png">
-<meta property="og:description" content="Privacy Policy">
-<meta property="fb:app_id" content="457910410944313">
 <link href="https://t.p.mybuys.com/clients/RUVILLA/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
 <script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js"></script>
 <script type="text/javascript" src="http://t.p.mybuys.com/clients/RUVILLA/js/setup.js"></script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><script type="text/javascript" src="//product.reflektion.com/widget/recommendation/11123-190282920/init.js" async="true"></script><script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_sneakervilla.js" type="text/javascript"></script>
+</head>
 <body class=" cms-page-view cms-privacy-policy ">
  
 <script type="text/javascript">
@@ -85,17 +111,30 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </noscript>
 <div class="page">
 <div class="header-container">
-<div class="header">
+<div class="header-shop">
+<div class="header-shop-wrapper">
+<div class="header-tabs"><a href="http://blog.ruvilla.com/" title="Villa Lab">Villa Lab</a></div>
 <ul class="topNav">
-<li class="store-locator"><a href="http://www.ruvilla.com/storelocatoradmin/" title="Store Locator">Store Locator</a></li>
-<li class="join-the-movement"><a href="http://www.ruvilla.com/join-the-movement/" title="Join The Movement">Join The Movement</a></li>
+<li class="store-locator"><a href="https://www.ruvilla.com/index.php/storelocatoradmin/" title="Store Locator">STORE LOCATOR</a></li>
+<li class="join-the-movement"><a href="http://blog.ruvilla.com/index.php/category/jtm/" target="_blank" title="Join The Movement">JTM</a></li>
+<li class="release-dates"><a href="http://blog.ruvilla.com/index.php/calendar/" title="Release Dates">RELEASE DATES</a></li>
 <li class="icon-only facebook"><a href="http://www.facebook.com/VILLA" title="Follow Us on Faecebook" target="_blank">Facebook</a></li>
 <li class="icon-only twitter "><a href="http://twitter.com/RUVILLA" title="Follow Us on Twitter" target="_blank">Twitter</a></li>
 <li class="icon-only instagram"><a href="http://instagram.com/ruvilla" title="Follow Us on Instagram" target="_blank">Instagram</a></li>
-<li class="icon-only rss-feed"><a target="_blank" href="http://www.ruvilla.com/rss/" title="RSS Feed">RSS-feed</a></li>
 <li class="icon-only you-tube"><a href="http://www.youtube.com/user/VILLAJTM" title="Follow Us on YouTube" target="_blank">you-tube</a></li>
 </ul>
-<div class="header-promo">ORDERS OF $100 OR MORE SHIP FREE</div>
+<div class="header-promo"><strong style="background: none repeat scroll 0 0 #FCDA04;
+display: block;
+float: left;
+font: 16px 'TradeGothicBold2',san-serif;
+padding: 0 5px;">FREE SHIPPING</strong>
+<span style="background: none repeat scroll 0 0 #FCDA04;
+clear: left;
+float: left;
+padding: 0 5px;">ON ORDERS OF $100 OR MORE!</span></div>
+</div>
+</div>
+<div class="header">
 <div class="branding">
 <a href="http://www.ruvilla.com/" title="Villa | Join The Movement" class="logo"><strong>Villa | Join The Movement</strong><img src="http://www.ruvilla.com/skin/frontend/villa/default/images/logo_main.png" alt="Villa | Join The Movement"></a>
 </div>
@@ -122,10 +161,17 @@ Cart is empty </p>
     Enterprise.TopCart.showCart = function(){
         var $el = jQuery('.top-cart');
         $el.toggleClass('exp');
+		
+		var right = 0;
+		if (parseInt($el.css('right'),10) == 0) {
+			right = -270;
+			Mage.Cookies.set('top_cart_open',false);
+		} else {
+			right = 0;
+			Mage.Cookies.set('top_cart_open',true);
+		}
         $el.animate({
-          right: parseInt($el.css('right'),10) == 0 ?
-            -270 :
-            0
+          right: right
         });
         return ;
     }
@@ -133,31 +179,996 @@ Cart is empty </p>
     
 </script>
 </div>
-<style>.jcarousel-container-horizontal{width:250px;}.jcarousel-skin-minicart .jcarousel-clip-horizontal{
-}.jcarousel-skin-minicart .jcarousel-clip{overflow:hidden;}.jcarousel-skin-minicart .jcarousel-item-horizontal{margin-left:0;margin-right:10px;}.top-cart{position:fixed;right:-270px;top:170px;}.top-cart .block-title{float:left;}.top-cart .block-content{clear:none;float:left;position:static;width:270px;}.top-cart .product-details{display:none;}.top-cart .block-content .item{padding:5px;}</style> 
+<style>.jcarousel-container-horizontal{width:250px;}.jcarousel-skin-minicart .jcarousel-clip-horizontal{}.jcarousel-skin-minicart .jcarousel-clip{overflow:hidden;}.jcarousel-skin-minicart .jcarousel-item-horizontal{margin-left:0;margin-right:10px;}.top-cart{position:fixed;right:-270px;top:170px;}.top-cart .block-title{float:left;}.top-cart .block-content{clear:none;float:left;position:static;width:270px;}.top-cart .product-details{display:none;}.top-cart .block-content .item{padding:5px;}</style>
+ 
 </div>
 </div>
 <div class="nav-container">
-<ul id="nav">
-<li class="level0 nav-1 first level-top parent commonclass"><a href="http://www.ruvilla.com/new.html" class="level-top"><span>New</span></a><div class="mega-down"><ul class="level0"><li class="level  first parent"><a class="title" href="http://www.ruvilla.com/new/men.html"><span>Men</span></a><a href="http://www.ruvilla.com/new/men/footwear.html" class="sub-c"><span>Footwear</span></a><a href="http://www.ruvilla.com/new/men/apparel.html" class="sub-c"><span>Apparel</span></a><a href="http://www.ruvilla.com/new/men/accessories.html" class="sub-c"><span>Accessories</span></a></li><li class="level  parent"><a class="title" href="http://www.ruvilla.com/new/women.html"><span>Women</span></a><a href="http://www.ruvilla.com/new/women/footwear.html" class="sub-c"><span>Footwear</span></a><a href="http://www.ruvilla.com/new/women/apparel.html" class="sub-c"><span>Apparel</span></a><a href="http://www.ruvilla.com/new/women/accessories.html" class="sub-c"><span>Accessories</span></a></li><li class="level  last parent"><a class="title" href="http://www.ruvilla.com/new/kids.html"><span>Kids</span></a><a href="http://www.ruvilla.com/new/kids/footwear.html" class="sub-c"><span>Footwear</span></a><a href="http://www.ruvilla.com/new/kids/apparel.html" class="sub-c"><span>Apparel</span></a></li></ul><div class="feat-block"><img src="http://www.ruvilla.com/media/wysiwyg/megamenu/megamenu_New.png" alt=""></div></div></li><li class="level0 nav-2 level-top parent commonclass"><a href="http://www.ruvilla.com/men.html" class="level-top"><span>Men</span></a><div class="mega-down"><ul class="level0"><li class="level  first parent"><a class="title" href="http://www.ruvilla.com/men/footwear.html"><span>Footwear</span></a><a href="http://www.ruvilla.com/men/footwear/basketball.html" class="sub-c"><span>Basketball</span></a><a href="http://www.ruvilla.com/men/footwear/boots.html" class="sub-c"><span>Boots</span></a><a href="http://www.ruvilla.com/men/footwear/casual.html" class="sub-c"><span>Casual</span></a><a href="http://www.ruvilla.com/men/footwear/running.html" class="sub-c"><span>Running</span></a><a href="http://www.ruvilla.com/men/footwear/training.html" class="sub-c"><span>Training</span></a><a href="http://www.ruvilla.com/men/footwear/air-force1.html" class="sub-c"><span>Air Force1</span></a><a href="http://www.ruvilla.com/men/footwear/lebron.html" class="sub-c"><span>Lebron</span></a><a href="http://www.ruvilla.com/men/footwear/kobe.html" class="sub-c"><span>Kobe</span></a><a href="http://www.ruvilla.com/men/footwear/kd.html" class="sub-c"><span>KD</span></a><a href="http://www.ruvilla.com/men/footwear/foamposite.html" class="sub-c"><span>Foamposite</span></a><a href="http://www.ruvilla.com/men/footwear/roshe-run.html" class="sub-c"><span>Roshe Run</span></a><a href="http://www.ruvilla.com/men/footwear/sale.html" class="sub-c"><span>Sale</span></a></li><li class="level  parent"><a class="title" href="http://www.ruvilla.com/men/apparel.html"><span>Apparel</span></a><a href="http://www.ruvilla.com/men/apparel/outerwear.html" class="sub-c"><span>Outerwear</span></a><a href="http://www.ruvilla.com/men/apparel/pants.html" class="sub-c"><span>Pants</span></a><a href="http://www.ruvilla.com/men/apparel/shorts.html" class="sub-c"><span>Shorts</span></a><a href="http://www.ruvilla.com/men/apparel/shirts.html" class="sub-c"><span>Shirts</span></a><a href="http://www.ruvilla.com/men/apparel/sweaters.html" class="sub-c"><span>Sweaters</span></a><a href="http://www.ruvilla.com/men/apparel/sweatshirts.html" class="sub-c"><span>Sweatshirts</span></a><a href="http://www.ruvilla.com/men/apparel/t-shirts.html" class="sub-c"><span>T-Shirts</span></a><a href="http://www.ruvilla.com/men/apparel/tank-tops.html" class="sub-c"><span>Tank Tops</span></a><a href="http://www.ruvilla.com/men/apparel/track-jackets.html" class="sub-c"><span>Track Jackets</span></a><a href="http://www.ruvilla.com/men/apparel/sale.html" class="sub-c"><span>Sale</span></a></li><li class="level  last parent"><a class="title" href="http://www.ruvilla.com/men/accessories.html"><span>Accessories</span></a><a href="http://www.ruvilla.com/men/accessories/headwear.html" class="sub-c"><span>Headwear</span></a><a href="http://www.ruvilla.com/men/accessories/bags.html" class="sub-c"><span>Bags</span></a><a href="http://www.ruvilla.com/men/accessories/electronics.html" class="sub-c"><span>Electronics</span></a><a href="http://www.ruvilla.com/men/accessories/eyewear.html" class="sub-c"><span>Eyewear</span></a><a href="http://www.ruvilla.com/men/accessories/carry-items.html" class="sub-c"><span>Carry Items</span></a><a href="http://www.ruvilla.com/men/accessories/socks.html" class="sub-c"><span>Socks</span></a><a href="http://www.ruvilla.com/men/accessories/shoe-maintenance.html" class="sub-c"><span>Shoe Maintenance</span></a><a href="http://www.ruvilla.com/men/accessories/watches.html" class="sub-c"><span>Watches</span></a><a href="http://www.ruvilla.com/men/accessories/underwear.html" class="sub-c"><span>Underwear</span></a><a href="http://www.ruvilla.com/men/accessories/sale.html" class="sub-c"><span>Sale</span></a></li></ul><div class="feat-block"><img src="http://www.ruvilla.com/media/./wysiwyg/CLP-header/2014-Q1/megamenu_Men.png" alt=""></div></div></li><li class="level0 nav-3 level-top parent commonclass"><a href="http://www.ruvilla.com/women.html" class="level-top"><span>Women</span></a><div class="mega-down"><ul class="level0"><li class="level  first parent"><a class="title" href="http://www.ruvilla.com/women/footwear.html"><span>Footwear</span></a><a href="http://www.ruvilla.com/women/footwear/casual.html" class="sub-c"><span>Casual</span></a><a href="http://www.ruvilla.com/women/footwear/boots.html" class="sub-c"><span>Boots</span></a><a href="http://www.ruvilla.com/women/footwear/sneakers.html" class="sub-c"><span>Sneakers</span></a><a href="http://www.ruvilla.com/women/footwear/roshe-run.html" class="sub-c"><span>Roshe Run</span></a><a href="http://www.ruvilla.com/women/footwear/sale.html" class="sub-c"><span>Sale</span></a></li><li class="level  parent"><a class="title" href="http://www.ruvilla.com/women/apparel.html"><span>Apparel</span></a><a href="http://www.ruvilla.com/women/apparel/dresses.html" class="sub-c"><span>Dresses</span></a><a href="http://www.ruvilla.com/women/apparel/bras.html" class="sub-c"><span>Bras</span></a><a href="http://www.ruvilla.com/women/apparel/outerwear.html" class="sub-c"><span>Outerwear</span></a><a href="http://www.ruvilla.com/women/apparel/leggings.html" class="sub-c"><span>Leggings</span></a><a href="http://www.ruvilla.com/women/apparel/pants.html" class="sub-c"><span>Pants</span></a><a href="http://www.ruvilla.com/women/apparel/shorts.html" class="sub-c"><span>Shorts</span></a><a href="http://www.ruvilla.com/women/apparel/shirts-and-blouses.html" class="sub-c"><span>Shirts and Blouses</span></a><a href="http://www.ruvilla.com/women/apparel/skirts.html" class="sub-c"><span>Skirts</span></a><a href="http://www.ruvilla.com/women/apparel/sweaters.html" class="sub-c"><span>Sweaters</span></a><a href="http://www.ruvilla.com/women/apparel/sweatshirts.html" class="sub-c"><span>Sweatshirts</span></a><a href="http://www.ruvilla.com/women/apparel/t-shirts.html" class="sub-c"><span>T-Shirts</span></a><a href="http://www.ruvilla.com/women/apparel/tank-tops.html" class="sub-c"><span>Tank Tops</span></a><a href="http://www.ruvilla.com/women/apparel/track-jackets.html" class="sub-c"><span>Track Jackets</span></a><a href="http://www.ruvilla.com/women/apparel/sale.html" class="sub-c"><span>Sale</span></a></li><li class="level  last parent"><a class="title" href="http://www.ruvilla.com/women/accessories.html"><span>Accessories</span></a><a href="http://www.ruvilla.com/women/accessories/eyewear.html" class="sub-c"><span>Eyewear</span></a><a href="http://www.ruvilla.com/women/accessories/bags.html" class="sub-c"><span>Bags</span></a><a href="http://www.ruvilla.com/women/accessories/hats.html" class="sub-c"><span>Hats</span></a><a href="http://www.ruvilla.com/women/accessories/jewelry.html" class="sub-c"><span>Jewelry</span></a><a href="http://www.ruvilla.com/women/accessories/socks.html" class="sub-c"><span>Socks</span></a><a href="http://www.ruvilla.com/women/accessories/watches.html" class="sub-c"><span>Watches</span></a><a href="http://www.ruvilla.com/women/accessories/sale.html" class="sub-c"><span>Sale</span></a></li></ul><div class="feat-block"><img src="http://www.ruvilla.com/media/./wysiwyg/CLP-header/2014-Q1/menu_WMN.png" alt=""></div></div></li><li class="level0 nav-4 level-top parent commonclass"><a href="http://www.ruvilla.com/rookie-kids.html" class="level-top"><span>ROOKIE KIDS</span></a><div class="mega-down"><ul class="level0"><li class="level  first parent"><a class="title" href="http://www.ruvilla.com/rookie-kids/footwear.html"><span>Footwear</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/grade-school.html" class="sub-c"><span>Grade School</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/pre-school.html" class="sub-c"><span>Pre-School</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/infant.html" class="sub-c"><span>Infant</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/new-born.html" class="sub-c"><span>New Born</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/foamposite.html" class="sub-c"><span>Foamposite</span></a><a href="http://www.ruvilla.com/rookie-kids/footwear/sale.html" class="sub-c"><span>Sale</span></a></li><li class="level  parent"><a class="title" href="http://www.ruvilla.com/rookie-kids/apparel.html"><span>Apparel</span></a><a href="http://www.ruvilla.com/rookie-kids/apparel/pants.html" class="sub-c"><span>Pants</span></a><a href="http://www.ruvilla.com/rookie-kids/apparel/t-shirts.html" class="sub-c"><span>T-Shirts</span></a><a href="http://www.ruvilla.com/rookie-kids/apparel/sweatshirts.html" class="sub-c"><span>Sweatshirts</span></a><a href="http://www.ruvilla.com/rookie-kids/apparel/jackets.html" class="sub-c"><span>Jackets</span></a></li><li class="level  last parent"><a class="title" href="http://www.ruvilla.com/rookie-kids/accessories.html"><span>Accessories</span></a><a href="http://www.ruvilla.com/rookie-kids/accessories/headwear.html" class="sub-c"><span>Headwear</span></a><a href="http://www.ruvilla.com/rookie-kids/accessories/socks.html" class="sub-c"><span>Socks</span></a></li></ul><div class="feat-block"><img src="http://www.ruvilla.com/media/./wysiwyg/CLP-header/2014-Q1/megamenu_trend_Women.png" alt=""></div></div></li><li class="level0 nav-5 level-top refreshNav commonclass"><a href="http://www.ruvilla.com/refresh.html" class="level-top"><span>Refresh</span></a><div class="mega-down"><ul class="level0"><div class="feat-block"><a href="/refresh.html"><img src="http://www.ruvilla.com/media/./wysiwyg/megamenu/megamenu_refresh_02.png" alt=""></a></div></ul></div></li><li class="level0 nav-6 level-top parent homesewnNav commonclass"><a href="http://www.ruvilla.com/home-sewn.html" class="level-top"><span>Home Sewn</span></a><div class="mega-down"><ul class="level0"></ul><div class="feat-block"><a href="http://www.ruvilla.com/home-sewn.html/"><img src="http://www.ruvilla.com/media/wysiwyg/megamenu/megamenu_homesewn.png" alt=""></a></div></div></li><li class="level0 nav-7 level-top parent camo commonclass"><a href="http://www.ruvilla.com/run.html" class="level-top"><span>#RUN</span></a><div class="mega-down"><ul class="level0"></ul><div class="feat-block"><a href="http://www.ruvilla.com/run.html"><img src="http://www.ruvilla.com/media/./wysiwyg/CLP-header/2014-Q1/megamenu_RUN.gif" alt=""></a></div></div></li><li class="level0 nav-8 level-top parent commonclass"><a class="level-top"><span>Gifts</span></a><div class="mega-down"><ul class="level0"><ul>
-<li class="level  first parent"><a class="title" href="http://www.ruvilla.com/virtual-gift-cards.html"><span>eGift Card</span></a>
-<p><span style="color: #444444; font-size: 12px;">Want to purchase a gift? Don't know what to purchase? A VILLA eGift Card is the ideal gift for that someone special.</span></p>
+<link rel="stylesheet" type="text/css" href="https://www.ruvilla.com/skin/frontend/base/default/megamenu/css/megamenu_top_hover.css" media="all">
+<div class="megamenu nav-container">
+<ul id="nav" style="background:#000;width: px !important;height:px !important">
+<li id="nav-1" class="level0 nav-1" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/new.html">New</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="grid-categories-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width: 560px !important;">
+<ul class="level0-megamenu" id="grid-categories">
+<span class="block-title" style="color:#000000;font-size:px;">
+</span> <li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/new/men.html"><h2 style="color:#000000;font-size:px;">
+Men </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/men/footwear.html">
+<span>Footwear</span>
+</a>
 </li>
-<li class="level  last parent"><a class="title" href="http://www.ruvilla.com/villa-dollars.html"><span>Villa Dollars</span></a>
-<p><span style="color: #444444; font-size: 12px;">Send money directly to another VILLA account.</span></p>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/men/apparel.html">
+<span>Apparel</span>
+</a>
 </li>
-</ul></ul><div class="feat-block"><a href="http://www.ruvilla.com/virtual-gift-card.html/"><img src="http://www.ruvilla.com/media/wysiwyg/megamenu/Gifts2_Dropdown.jpg" alt=""></a></div></div></li><li class="level0 nav-9 last level-top brandNav commonclass"><a class="level-top"><span>Brands</span></a><div class="mega-down" style="width:910px"><ul class="level0"><li class="level brand parent"><ul class="level0"><li class="level brand parent subbrand"><a class="title"><span>#</span></a><a href="http://www.ruvilla.com/37.html" class="sub-c"><span>37</span></a></li><li class="level brand parent subbrand"><a class="title"><span>A</span></a><a href="http://www.ruvilla.com/abstract-thought.html" class="sub-c"><span>ABSTRACT THOUGHT</span></a><a href="http://www.ruvilla.com/air-head.html" class="sub-c"><span>AIR HEAD</span></a><a href="http://www.ruvilla.com/ali-kris.html" class="sub-c"><span>ALI&amp;KRIS</span></a><a href="http://www.ruvilla.com/andree-by-unit.html" class="sub-c"><span>ANDREE BY UNIT</span></a><a href="http://www.ruvilla.com/angie.html" class="sub-c"><span>ANGIE</span></a><a href="http://www.ruvilla.com/astronauts.html" class="sub-c"><span>ASTRONAUTS</span></a><a href="http://www.ruvilla.com/aura-gold.html" class="sub-c"><span>AURA GOLD</span></a></li><li class="level brand parent subbrand"><a class="title"><span>B</span></a><a href="http://www.ruvilla.com/basic-concepts.html" class="sub-c"><span>BASIC CONCEPTS</span></a><a href="http://www.ruvilla.com/beats-by-dr-dre.html" class="sub-c"><span>BEATS BY DR.DRE</span></a><a href="http://www.ruvilla.com/bench.html" class="sub-c"><span>BENCH</span></a><a href="http://www.ruvilla.com/blue-collar-gang.html" class="sub-c"><span>BLUE COLLAR GANG</span></a><a href="http://www.ruvilla.com/bobby-fresh.html" class="sub-c"><span>BOBBY FRESH</span></a><a href="http://www.ruvilla.com/born-fly.html" class="sub-c"><span>BORN FLY</span></a><a href="http://www.ruvilla.com/bravado-international-group.html" class="sub-c"><span>BRAVADO INTERNATIONAL GROUP</span></a><a href="http://www.ruvilla.com/bub-lib.html" class="sub-c"><span>BUB LIB</span></a></li><li class="level brand parent subbrand"><a class="title"><span>C</span></a><a href="http://www.ruvilla.com/casting-la.html" class="sub-c"><span>CASTING LA</span></a><a href="http://www.ruvilla.com/cazal.html" class="sub-c"><span>CAZAL</span></a><a href="http://www.ruvilla.com/cemi-ceri.html" class="sub-c"><span>CEMI CERI</span></a><a href="http://www.ruvilla.com/champion.html" class="sub-c"><span>CHAMPION</span></a><a href="http://www.ruvilla.com/chuck-originals.html" class="sub-c"><span>CHUCK ORIGINALS</span></a><a href="http://www.ruvilla.com/cleopatra.html" class="sub-c"><span>CLEOPATRA</span></a><a href="http://www.ruvilla.com/coffee-shop.html" class="sub-c"><span>COFFEE SHOP</span></a><a href="http://www.ruvilla.com/columbia.html" class="sub-c"><span>COLUMBIA</span></a><a href="http://www.ruvilla.com/converse.html" class="sub-c"><span>CONVERSE</span></a><a href="http://www.ruvilla.com/creative-recreation.html" class="sub-c"><span>CREATIVE RECREATION</span></a><a href="http://www.ruvilla.com/crooks--castles.html" class="sub-c"><span>CROOKS &amp; CASTLES</span></a><a href="http://www.ruvilla.com/cupcake-mafia.html" class="sub-c"><span>CUPCAKE MAFIA</span></a></li><li class="level brand parent subbrand"><a class="title"><span>D</span></a><a href="http://www.ruvilla.com/darn-designs.html" class="sub-c"><span>DARN DESIGNS</span></a><a href="http://www.ruvilla.com/denim-house.html" class="sub-c"><span>DENIM HOUSE</span></a><a href="http://www.ruvilla.com/dgk.html" class="sub-c"><span>DGK</span></a><a href="http://www.ruvilla.com/diamond-supply-co-.html" class="sub-c"><span>DIAMOND SUPPLY CO.</span></a><a href="http://www.ruvilla.com/dimepiece.html" class="sub-c"><span>DIMEPIECE</span></a><a href="http://www.ruvilla.com/dockers.html" class="sub-c"><span>DOCKERS</span></a><a href="http://www.ruvilla.com/dollhouse.html" class="sub-c"><span>DOLLHOUSE</span></a><a href="http://www.ruvilla.com/dr-martens.html" class="sub-c"><span>DR MARTENS</span></a><a href="http://www.ruvilla.com/dream-chasers.html" class="sub-c"><span>DREAM CHASERS</span></a><a href="http://www.ruvilla.com/dress-me.html" class="sub-c"><span>DRESS ME</span></a></li><li class="level brand parent subbrand"><a class="title"><span>E</span></a><a href="http://www.ruvilla.com/elite.html" class="sub-c"><span>ELITE</span></a><a href="http://www.ruvilla.com/ellison.html" class="sub-c"><span>ELLISON</span></a><a href="http://www.ruvilla.com/ethika.html" class="sub-c"><span>ETHIKA</span></a></li></ul></li><li class="level brand parent"><ul class="level0"><li class="level brand parent subbrand"><a class="title"><span>F</span></a><a href="http://www.ruvilla.com/fila.html" class="sub-c"><span>FILA</span></a><a href="http://www.ruvilla.com/filthy-dripped.html" class="sub-c"><span>FILTHY DRIPPED</span></a><a href="http://www.ruvilla.com/finally-famous.html" class="sub-c"><span>FINALLY FAMOUS</span></a><a href="http://www.ruvilla.com/fjallraven.html" class="sub-c"><span>FJALLRAVEN</span></a><a href="http://www.ruvilla.com/flud.html" class="sub-c"><span>FLUD</span></a><a href="http://www.ruvilla.com/for-bare-feet.html" class="sub-c"><span>FOR BARE FEET</span></a><a href="http://www.ruvilla.com/freeze.html" class="sub-c"><span>FREEZE</span></a><a href="http://www.ruvilla.com/fresh-goods.html" class="sub-c"><span>FRESH GOODS</span></a></li><li class="level brand parent subbrand"><a class="title"><span>G</span></a><a href="http://www.ruvilla.com/g-shock.html" class="sub-c"><span>G-SHOCK</span></a><a href="http://www.ruvilla.com/geek.html" class="sub-c"><span>GEEK</span></a><a href="http://www.ruvilla.com/get-fame.html" class="sub-c"><span>GET FAME</span></a><a href="http://www.ruvilla.com/gjg.html" class="sub-c"><span>GJG</span></a><a href="http://www.ruvilla.com/glamour-kills.html" class="sub-c"><span>GLAMOUR KILLS</span></a><a href="http://www.ruvilla.com/golden-touch.html" class="sub-c"><span>GOLDEN TOUCH</span></a></li><li class="level brand parent subbrand"><a class="title"><span>H</span></a><a href="http://www.ruvilla.com/hellz-bellz.html" class="sub-c"><span>HELLZ BELLZ</span></a><a href="http://www.ruvilla.com/hidden-jeans.html" class="sub-c"><span>HIDDEN JEANS</span></a><a href="http://www.ruvilla.com/hollywood-and-vine.html" class="sub-c"><span>HOLLYWOOD AND VINE</span></a><a href="http://www.ruvilla.com/hybrid.html" class="sub-c"><span>HYBRID</span></a></li><li class="level brand parent subbrand"><a class="title"><span>I</span></a><a href="http://www.ruvilla.com/icny.html" class="sub-c"><span>ICNY</span></a></li><li class="level brand parent subbrand"><a class="title"><span>J</span></a><a href="http://www.ruvilla.com/jansport.html" class="sub-c"><span>JANSPORT</span></a><a href="http://www.ruvilla.com/jason-markk.html" class="sub-c"><span>JASON MARKK</span></a><a href="http://www.ruvilla.com/jet-lag.html" class="sub-c"><span>JET LAG</span></a><a href="http://www.ruvilla.com/joia.html" class="sub-c"><span>JOIA</span></a><a href="http://www.ruvilla.com/jordan-craig.html" class="sub-c"><span>JORDAN CRAIG</span></a><a href="http://www.ruvilla.com/joyrich.html" class="sub-c"><span>JOYRICH</span></a></li><li class="level brand parent subbrand"><a class="title"><span>K</span></a><a href="http://www.ruvilla.com/komono.html" class="sub-c"><span>KOMONO</span></a></li></ul></li><li class="level brand parent"><ul class="level0"><li class="level brand parent subbrand"><a class="title"><span>L</span></a><a href="http://www.ruvilla.com/lathc.html" class="sub-c"><span>LATHC</span></a><a href="http://www.ruvilla.com/levi-s.html" class="sub-c"><span>LEVI'S</span></a><a href="http://www.ruvilla.com/lexdray.html" class="sub-c"><span>LEXDRAY</span></a><a href="http://www.ruvilla.com/love-tree.html" class="sub-c"><span>LOVE TREE</span></a><a href="http://www.ruvilla.com/lulu-marie.html" class="sub-c"><span>LULU MARIE</span></a></li><li class="level brand parent subbrand"><a class="title"><span>M</span></a><a href="http://www.ruvilla.com/madden-girl.html" class="sub-c"><span>MADDEN GIRL</span></a><a href="http://www.ruvilla.com/married-to-the-mob.html" class="sub-c"><span>MARRIED TO THE MOB</span></a><a href="http://www.ruvilla.com/meister.html" class="sub-c"><span>MEISTER</span></a><a href="http://www.ruvilla.com/melody-ehsani.html" class="sub-c"><span>MELODY EHSANI</span></a><a href="http://www.ruvilla.com/milkyway.html" class="sub-c"><span>MILKYWAY</span></a><a href="http://www.ruvilla.com/minnetonka.html" class="sub-c"><span>MINNETONKA</span></a><a href="http://www.ruvilla.com/mitchell-and-ness.html" class="sub-c"><span>MITCHELL AND NESS</span></a><a href="http://www.ruvilla.com/mystique-apparel.html" class="sub-c"><span>MYSTIQUE APPAREL</span></a></li><li class="level brand parent subbrand"><a class="title"><span>N</span></a><a href="http://www.ruvilla.com/navie.html" class="sub-c"><span>NAVIE</span></a><a href="http://www.ruvilla.com/nba-4-her.html" class="sub-c"><span>NBA 4 HER</span></a><a href="http://www.ruvilla.com/new-balance.html" class="sub-c"><span>NEW BALANCE</span></a><a href="http://www.ruvilla.com/new-era.html" class="sub-c"><span>NEW ERA</span></a><a href="http://www.ruvilla.com/nicethings.html" class="sub-c"><span>NICETHINGS</span></a><a href="http://www.ruvilla.com/nike.html" class="sub-c"><span>NIKE</span></a><a href="http://www.ruvilla.com/nike-sb.html" class="sub-c"><span>NIKE SB</span></a></li><li class="level brand parent subbrand"><a class="title"><span>P</span></a><a href="http://www.ruvilla.com/paislee.html" class="sub-c"><span>PAISLEE</span></a><a href="http://www.ruvilla.com/paper-doll.html" class="sub-c"><span>PAPER DOLL</span></a><a href="http://www.ruvilla.com/pelle-pelle.html" class="sub-c"><span>PELLE PELLE</span></a><a href="http://www.ruvilla.com/pendleton.html" class="sub-c"><span>PENDLETON</span></a><a href="http://www.ruvilla.com/polo.html" class="sub-c"><span>POLO</span></a><a href="http://www.ruvilla.com/popularity-products.html" class="sub-c"><span>POPULARITY PRODUCTS</span></a><a href="http://www.ruvilla.com/prdgy.html" class="sub-c"><span>PRDGY</span></a><a href="http://www.ruvilla.com/publish.html" class="sub-c"><span>PUBLISH</span></a><a href="http://www.ruvilla.com/puma.html" class="sub-c"><span>PUMA</span></a><a href="http://www.ruvilla.com/purple-cow.html" class="sub-c"><span>PURPLE COW</span></a></li><li class="level brand parent subbrand"><a class="title"><span>R</span></a><a href="http://www.ruvilla.com/rastaclat.html" class="sub-c"><span>RASTACLAT</span></a><a href="http://www.ruvilla.com/rdg.html" class="sub-c"><span>RDG</span></a><a href="http://www.ruvilla.com/red-fox.html" class="sub-c"><span>RED FOX</span></a><a href="http://www.ruvilla.com/red-wing.html" class="sub-c"><span>RED WING</span></a><a href="http://www.ruvilla.com/reebok.html" class="sub-c"><span>REEBOK</span></a><a href="http://www.ruvilla.com/rehab.html" class="sub-c"><span>REHAB</span></a><a href="http://www.ruvilla.com/rocksmith.html" class="sub-c"><span>ROCKSMITH</span></a><a href="http://www.ruvilla.com/rolling-paper.html" class="sub-c"><span>ROLLING PAPER</span></a><a href="http://www.ruvilla.com/rook.html" class="sub-c"><span>ROOK</span></a><a href="http://www.ruvilla.com/rothco.html" class="sub-c"><span>ROTHCO</span></a></li><li class="level brand parent subbrand"><a class="title"><span>S</span></a><a href="http://www.ruvilla.com/say-what.html" class="sub-c"><span>SAY WHAT</span></a><a href="http://www.ruvilla.com/schott-nyc.html" class="sub-c"><span>SCHOTT NYC</span></a><a href="http://www.ruvilla.com/see-you-monday.html" class="sub-c"><span>SEE YOU MONDAY</span></a><a href="http://www.ruvilla.com/silver-textile.html" class="sub-c"><span>SILVER TEXTILE</span></a><a href="http://www.ruvilla.com/slow-bucks.html" class="sub-c"><span>SLOW BUCKS</span></a><a href="http://www.ruvilla.com/sol-republic.html" class="sub-c"><span>SOL REPUBLIC</span></a><a href="http://www.ruvilla.com/sprayground.html" class="sub-c"><span>SPRAYGROUND</span></a><a href="http://www.ruvilla.com/stance.html" class="sub-c"><span>STANCE</span></a><a href="http://www.ruvilla.com/starter.html" class="sub-c"><span>STARTER</span></a><a href="http://www.ruvilla.com/steve-madden.html" class="sub-c"><span>STEVE MADDEN</span></a><a href="http://www.ruvilla.com/supra.html" class="sub-c"><span>SUPRA</span></a><a href="http://www.ruvilla.com/swagger-like-us.html" class="sub-c"><span>SWAGGER LIKE US</span></a></li></ul></li><li class="level brand parent"><ul class="level0"><li class="level brand parent subbrand"><a class="title"><span>T</span></a><a href="http://www.ruvilla.com/timberland.html" class="sub-c"><span>TIMBERLAND</span></a><a href="http://www.ruvilla.com/timex.html" class="sub-c"><span>TIMEX</span></a><a href="http://www.ruvilla.com/top-chic.html" class="sub-c"><span>TOP CHIC</span></a><a href="http://www.ruvilla.com/tres-bien.html" class="sub-c"><span>TRES BIEN</span></a><a href="http://www.ruvilla.com/triple-7.html" class="sub-c"><span>TRIPLE 7</span></a><a href="http://www.ruvilla.com/tripp-nyc.html" class="sub-c"><span>TRIPP NYC</span></a><a href="http://www.ruvilla.com/trukfit.html" class="sub-c"><span>TRUKFIT</span></a></li><li class="level brand parent subbrand"><a class="title"><span>U</span></a><a href="http://www.ruvilla.com/unleaded.html" class="sub-c"><span>UNLEADED</span></a></li><li class="level brand parent subbrand"><a class="title"><span>V</span></a><a href="http://www.ruvilla.com/vip-jeans.html" class="sub-c"><span>VIP JEANS</span></a></li><li class="level brand parent subbrand"><a class="title"><span>W</span></a><a href="http://www.ruvilla.com/winchester.html" class="sub-c"><span>WINCHESTER</span></a></li><li class="level brand parent subbrand"><a class="title"><span>X</span></a><a href="http://www.ruvilla.com/xt-apparel.html" class="sub-c"><span>XT APPAREL</span></a></li><li class="level brand parent subbrand"><a class="title"><span>Y</span></a><a href="http://www.ruvilla.com/young--reckless.html" class="sub-c"><span>YOUNG &amp; RECKLESS</span></a></li></ul></li><li class="level brand parent"><ul class="level0"><li class="level brand parent subbrand"><a class="title"><span>Z</span></a><a href="http://www.ruvilla.com/zenana.html" class="sub-c"><span>ZENANA</span></a><a href="http://www.ruvilla.com/zion.html" class="sub-c"><span>ZION</span></a></li></ul></li></ul></div></li> </ul>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/men/accessories.html">
+<span>Accessories</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/new/women.html"><h2 style="color:#000000;font-size:px;">
+Women </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/women/footwear.html">
+<span>Footwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/women/apparel.html">
+<span>Apparel</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/women/accessories.html">
+<span>Accessories</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;border-right:none !important">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/new/kids.html"><h2 style="color:#000000;font-size:px;">
+Kids </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/kids/footwear.html">
+<span>Footwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/new/kids/apparel.html">
+<span>Apparel</span>
+</a>
+</li>
+</ol>
+</li>
+<div class="footer-megamenu" style="color:#000000;font-size:px;">
+<img src="/media/wysiwyg/megamenu/menu-tpw-new.jpg"> </div>
+</ul>
+</div>
+</div>
+</li>
+<li id="nav-2" class="level0 nav-2" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/men.html">Men</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="grid-categories-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width: 560px !important;">
+<ul class="level0-megamenu" id="grid-categories">
+<span class="block-title" style="color:#000000;font-size:px;">
+</span> <li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/men/footwear.html"><h2 style="color:#000000;font-size:px;">
+Footwear </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/basketball.html">
+<span>Basketball</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/boots.html">
+<span>Boots</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/casual.html">
+<span>Casual</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/running.html">
+<span>Running</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/training.html">
+<span>Training</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/air-force1.html">
+<span>Air Force1</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/lebron.html">
+<span>Lebron</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/kd.html">
+<span>KD</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/kobe.html">
+<span>Kobe</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/roshe-run.html">
+<span>Roshe Run</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/footwear/foamposite.html">
+<span>Foamposite</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/men/apparel.html"><h2 style="color:#000000;font-size:px;">
+Apparel </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/outerwear.html">
+<span>Outerwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/pants.html">
+<span>Pants</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/shorts.html">
+<span>Shorts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/shirts.html">
+<span>Shirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/sweaters.html">
+<span>Sweaters</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/sweatshirts.html">
+<span>Sweatshirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/tank-tops.html">
+<span>Tank Tops</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/apparel/jerseys.html">
+<span>Jerseys</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;border-right:none !important">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/men/accessories.html"><h2 style="color:#000000;font-size:px;">
+Accessories </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/headwear.html">
+<span>Headwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/socks.html">
+<span>Socks</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/eyewear.html">
+<span>Eyewear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/shoe-maintenance.html">
+<span>Shoe Maintenance</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/electronics.html">
+<span>Electronics</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/bags.html">
+<span>Bags</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/carry-items.html">
+<span>Carry Items</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/watches.html">
+<span>Watches</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/men/accessories/underwear.html">
+<span>Underwear</span>
+</a>
+</li>
+</ol>
+</li>
+<div class="footer-megamenu" style="color:#000000;font-size:px;">
+<img src="/media/wysiwyg/megamenu/menu-tpw-men.jpg">
+<style>#nav-2 .footer-megamenu{float:right;}</style>
+<ul style="position:absolute;left:-525px;top:auto;bottom:-300px;width:500px;display:block;">
+<li class="level1-megamenu" style="width:100% !important;height:363px;">
+<div class="level1-title">
+<a href="#"><h2 style="color:#000000;font-size:px;">Shop Top Picks</h2></a>
+<label style="color:#000000;font-size:px;"></label>
+</div>
+<ol class="level2-megamenu">
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#a33038 !important;font-size:px !important;" href="/sol-republic.html">
+<span style="margin-bottom:10px;">Sol Republic<br>starting @ $59.99</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-joggers.html">
+<span style="margin-bottom:10px;">Men's Joggers $29.99</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-fleece.html">
+<span style="margin-bottom:10px;">Men's Fleece<br>2 for $40</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-cargos.html">
+<span style="margin-bottom:10px;">Men's Cargos<br>2 for $60</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-levis.html">
+<span style="margin-bottom:10px;">Men's Levi's Jeans $49.99</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/promos/mens-under-10.html">
+<span style="margin-bottom:10px;">Men's Under $10</span>
+</a>
+</li>
+</ol>
+</li>
+</ul> </div>
+</ul>
+</div>
+</div>
+</li>
+<li id="nav-3" class="level0 nav-3" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/women.html">Women</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="grid-categories-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width: 746px !important;">
+<ul class="level0-megamenu" id="grid-categories">
+<span class="block-title" style="color:#000000;font-size:px;">
+</span> <li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/women/footwear.html"><h2 style="color:#000000;font-size:px;">
+Footwear </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/footwear/casual.html">
+<span>Casual</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/footwear/boots.html">
+<span>Boots</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/footwear/sneakers.html">
+<span>Sneakers</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/footwear/roshe-run.html">
+<span>Roshe Run</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/footwear/womens-capris-sandals.html">
+<span>Sandals</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/women/apparel.html"><h2 style="color:#000000;font-size:px;">
+Apparel </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/dresses.html">
+<span>Dresses</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/outerwear.html">
+<span>Outerwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/pants.html">
+<span>Pants</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/shorts.html">
+<span>Shorts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/shirts-and-blouses.html">
+<span>Shirts and Blouses</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/skirts.html">
+<span>Skirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/sweaters.html">
+<span>Sweaters</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/sweatshirts.html">
+<span>Sweatshirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/tank-tops.html">
+<span>Tank Tops</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/outerwear/jackets.html">
+<span>Jackets</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/bras.html">
+<span>Bras</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/womens-misc-apparel.html">
+<span>Misc</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/apparel/womens-wovens.html">
+<span>Wovens</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/women/accessories.html"><h2 style="color:#000000;font-size:px;">
+Accessories </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/bags.html">
+<span>Bags</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/jewelry.html">
+<span>Jewelry</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/hats.html">
+<span>Hats</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/watches.html">
+<span>Watches</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/socks.html">
+<span>Socks</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/eyewear.html">
+<span>Eyewear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/womens-belts.html">
+<span>Belts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/women/accessories/womens-misc.html">
+<span>Other</span>
+</a>
+</li>
+</ol>
+</li>
+<div class="footer-megamenu" style="color:#000000;font-size:px;">
+<img src="/media/wysiwyg/megamenu/menu-tpw-women.jpg">
+<ul style="position:absolute;left:-525px;top:auto;bottom:-300px;width:500px;display:block;">
+<li class="level1-megamenu" style="width:100% !important;height:363px;">
+<div class="level1-title">
+<a href="#"><h2 style="color:#000000;font-size:px;">Shop Top Picks</h2></a>
+<label style="color:#000000;font-size:px;"></label>
+</div>
+<ol class="level2-megamenu">
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#a33038 !important;font-size:px !important;" href="/sol-republic.html">
+<span style="margin-bottom:10px;">Sol Republic<br>Headphone deals</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:120px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/promos/womens-outerwear-discount.html">
+<span style="margin-bottom:10px;">Women's Outerwear<br>25% off</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/crop-tight-bas-jt20422.html">
+<span style="margin-bottom:10px;">Women's Crop Tops<br>3 for $5</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/womens-jeans-25.html">
+<span style="margin-bottom:10px;">Women's Jeans $25</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/promos/womens-under-10.html">
+<span style="margin-bottom:10px;">Women's Under $10</span>
+</a>
+</li>
+</ol>
+</li>
+</ul> </div>
+</ul>
+</div>
+</div>
+</li>
+<li id="nav-4" class="level0 nav-4" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/rookie-kids.html">Rookie Kids</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="grid-categories-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width: 746px !important;">
+<ul class="level0-megamenu" id="grid-categories">
+<span class="block-title" style="color:#000000;font-size:px;">
+</span> <li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/rookie-kids/footwear.html"><h2 style="color:#000000;font-size:px;">
+Footwear </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/grade-school.html">
+<span>Grade School</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/pre-school.html">
+<span>Pre-School</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/infant.html">
+<span>Infant</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/foamposite.html">
+<span>Foamposite</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/kids-boots.html">
+<span>Boots</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/footwear/kids-footwear-casual.html">
+<span>Casual</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/rookie-kids/apparel.html"><h2 style="color:#000000;font-size:px;">
+Apparel </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/sweatshirts.html">
+<span>Sweatshirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/pants.html">
+<span>Pants</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/jackets.html">
+<span>Jackets</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/shorts.html">
+<span>Shorts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/onesies.html">
+<span>Onesies</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/tank-tops.html">
+<span>Tank Tops</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/kids-shirts.html">
+<span>Shirts</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/infant-sets.html">
+<span>Set</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/kids-sweaters.html">
+<span>Sweaters</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/kids-outerwear.html">
+<span>Outerwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/big-girls-7-16.html">
+<span>Big Girls 7-16</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/big-boys-8-20.html">
+<span>Big Boys 8-20</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/boys-youth-4-7.html">
+<span>Boys Youth 4-7</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/little-girls-4-6x.html">
+<span>Little Girls 4-6X</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/toddler-boys-2t-4t.html">
+<span>Toddler Boys 2T – 4T</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/toddler-girls-2t-4t.html">
+<span>Toddler Girls 2T – 4T</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/infant-boys.html">
+<span>Infant Boys</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/apparel/infant-girls.html">
+<span>Infant Girls</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/rookie-kids/accessories.html"><h2 style="color:#000000;font-size:px;">
+Accessories </h2></a>
+<label style="color:#000000;font-size:px;">
+Kid's Accessories </label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/accessories/headwear.html">
+<span>Headwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/accessories/socks.html">
+<span>Socks</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/rookie-kids/accessories/bags.html">
+<span>Bags</span>
+</a>
+</li>
+</ol>
+</li>
+<div class="footer-megamenu" style="color:#000000;font-size:px;">
+<img src="/media/wysiwyg/megamenu/menu_kids.jpg">
+<ul style="position:absolute;left:-525px;top:auto;bottom:-370px;width:500px;display:block;">
+<li class="level1-megamenu" style="width:100% !important;height:363px;">
+<div class="level1-title">
+<a href="#"><h2 style="color:#000000;font-size:px;">Shop Top Picks</h2></a>
+<label style="color:#000000;font-size:px;"></label>
+</div>
+<ol class="level2-megamenu">
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#a33038 !important;font-size:px !important;" href="/sol-republic.html">
+<span style="margin-bottom:10px;">Sol Republic<br>Headphone deals</span>
+</a>
+</li>
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/promos/kids-under-10.html">
+<span style="margin-bottom:10px;">Kid's Under $10</span>
+</a>
+</li>
+</ol>
+</li>
+</ul> </div>
+</ul>
+</div>
+</div>
+</li>
+<li id="nav-5" class="level0 nav-5" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/refresh.html">Refresh</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="block-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width:930px !important" id="menu1">
+<a href="/refresh.html" class="banner">
+<img src="/media/wysiwyg/CLP-header/CP_refresh.png">
+</a> <span style="float:left;width:96%;padding:0 2%;position:static;"></span>
+</div>
+</div>
+</li>
+<li id="nav-9" class="level0 nav-9" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/the-perfect-week">The Perfect Week</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="block-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width:930px !important" id="menu1">
+<a href="/the-perfect-week" class="banner">
+<img src="/media/wysiwyg/megamenu/menu-tpw.jpg">
+</a> <span style="float:left;width:96%;padding:0 2%;position:static;"></span>
+</div>
+</div>
+</li>
+<li id="nav-8" class="level0 nav-8" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/brand">Brands</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="block-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width:930px !important" id="menu1">
+<div class="brand-nav">
+<table>
+<tbody><tr><td><a href="/nike.html" alt="Nike"><img src="/media/logos/gray-nike.png"></a></td>
+<td><a href="/adidas.html" alt="Adidas"><img src="/media/logos/gray-adidas.png" style="width:90px;"></a></td>
+<td><a href="/timberland.html" alt="Timberland"><img src="/media/logos/gray-timberland.png" style="width:150px;"></a></td>
+<td><a href="/puma.html" alt="Puma"><img src="/media/logos/gray-puma.png"></a></td>
+<td><a href="/new-era.html" alt="New Era"><img src="/media/logos/gray-newera.png"></a></td>
+</tr></tbody></table>
+</div>
+<div class="brand-nav">
+<table>
+<tbody><tr><td><a href="/get-fame.html" alt="Get Fame.us"><img src="/media/logos/gray-fameus.png"></a></td>
+<td><a href="/stance.html" alt="Stance"><img src="/media/logos/gray-stance.png"></a></td>
+<td><a href="/levis.html" alt="Levis"><img src="/media/logos/gray-levis.png"></a></td>
+<td><a href="/reebok.html" alt="Reebok"><img src="/media/logos/gray-reebok.png"></a></td>
+<td><a href="/jason-markk.html" alt="Jason Markk"><img src="/media/logos/gray-jason-markk.png"></a></td>
+</tr></tbody></table>
+</div>
+<div class="brand-nav">
+<table>
+<tbody><tr><td><a href="/cupcake-mafia.html" alt="Cupcake Mafia"><img src="/media/logos/gray-cupcake-mafia.png" style="width:120px;"></a></td>
+<td><a href="/minnetonka.html" alt="Minnetonka"><img src="/media/logos/gray-minnetonka.png" style="width:160px;"></a></td>
+<td><a href="/converse.html" alt="Converse"><img src="/media/logos/gray-converse.png" style="width:120px;"></a></td>
+<td><a href="/new-balance.html" alt="New Balance"><img src="/media/logos/gray-newbalance.png"></a></td>
+<td><a href="/pink-dolphin.html" alt="Pink Dolphin"><img src="/media/logos/gray-pink-dolphin.png"></a></td>
+</tr></tbody></table>
+</div>
+<div class="brand-nav">
+<table>
+<tbody><tr style="height:20px;"><td><a href="/brand" alt="All brands">View all Brands</a></td></tr>
+</tbody></table>
+</div> <span style="float:left;width:96%;padding:0 2%;position:static;"></span>
+</div>
+</div>
+</li>
+<li id="nav-10" class="level0 nav-10" style="height:px !important;background:#;">
+<a class="megamenu-lable" style="line-height:-5px !important;color:#000000;font-size: 13px !important; font-family: ;" href="/sale.html">Sale</a>
+<div class="magestore-megamenu" style="top:px !important;left:% !important">
+<div class="grid-categories-megamenu sub-menu" style="border:1px solid #D5D5D5 !important;background:##FFFFFF !important;width: 560px !important;">
+<ul class="level0-megamenu" id="grid-categories">
+<span class="block-title" style="color:#000000;font-size:px;">
+</span> <li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/sale/kids.html"><h2 style="color:#000000;font-size:px;">
+Kids </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/kids/footwear.html">
+<span>Footwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/kids/apparel.html">
+<span>Apparel</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/kids/accessories.html">
+<span>Accessories</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/sale/men.html"><h2 style="color:#000000;font-size:px;">
+Men </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/men/footwear.html">
+<span>Footwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/men/apparel.html">
+<span>Apparel</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/men/accessories.html">
+<span>Accessories</span>
+</a>
+</li>
+</ol>
+</li>
+<li class="level1-megamenu" style="width:150px !important;border-right:none !important">
+<div class="level1-title">
+<a href="http://www.ruvilla.com/sale/women.html"><h2 style="color:#000000;font-size:px;">
+Women </h2></a>
+<label style="color:#000000;font-size:px;">
+</label>
+</div>
+<ol class="level2-megamenu">
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/women/footwear.html">
+<span>Footwear</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/women/apparel.html">
+<span>Apparel</span>
+</a>
+</li>
+<li>
+<a style="color:#000000 !important;font-size:px !important;" href="http://www.ruvilla.com/sale/women/accessories.html">
+<span>Accessories</span>
+</a>
+</li>
+</ol>
+</li>
+<div class="footer-megamenu" style="color:#000000;font-size:px;">
+<ul style="margin:-12px 0 0 10px;">
+<li class="level1-megamenu" style="width:150px !important;">
+<div class="level1-title">
+<a href="#"><h2 style="color:#000000;font-size:px;">Shop Top Picks</h2></a>
+<label style="color:#000000;font-size:px;"></label>
+</div>
+<ol class="level2-megamenu">
+<li style="margin-bottom:10px;width:110px;float:left;margin-right:10px;">
+<a style="color:#a33038 !important;font-size:px !important;" href="/sol-republic.html">
+<span style="margin-bottom:10px;">Sol Republic<br>starting @ $59.99</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/promos/womens-outerwear-discount.html">
+<span style="margin-bottom:10px;">Women's Outerwear<br>25% off</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/crop-tight-bas-jt20422.html">
+<span style="margin-bottom:10px;">Women's Crop Tops<br>3 for $5</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/womens-jeans-25.html">
+<span style="margin-bottom:10px;">Women's Jeans $25</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-joggers.html">
+<span style="margin-bottom:10px;">Men's Joggers $29.99</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-fleece.html">
+<span style="margin-bottom:10px;">Men's Fleece<br>2 for $40</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-cargos.html">
+<span style="margin-bottom:10px;">Men's Cargos<br>2 for $60</span>
+</a>
+</li>
+<li style="margin-bottom:10px;">
+<a style="color:#000000 !important;font-size:px !important;" href="/sale/promos/mens-levis.html">
+<span style="margin-bottom:10px;">Men's Levi's Jeans $49.99</span>
+</a>
+</li>
+</ol>
+</li>
+</ul> </div>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(document).ready(function($) {
+	
+        var nav		= $('#nav');	
+		$('.grid-categories-megamenu').parent().parent().mouseenter(function(){
+			height1=$(this).attr('id');
+			var max_height_title = 0;
+			$.each($('#'+height1+' .level1-title'),function(key,e){
+				if(max_height_title<$(this).height()) {
+					max_height_title=$(this).height();	
+				}
+			});
+			$('#'+height1+' .level1-title').height(max_height_title);
+			var max_height1=0;
+			$.each($('#'+height1+' .level1-megamenu'),function(key,e){
+				if(max_height1<$(this).height()) {
+					max_height1=$(this).height();	
+				}
+			});
+			$('#'+height1+' .level1-megamenu').height(max_height1);
+			
+		});
+		$('.list-categories-megamenu').parent().parent().mouseenter(function(){
+			height2=$(this).attr('id');
+			var max_height2=0;
+			$.each($('#'+height2+' .level1-megamenu'),function(key,e){
+				if(max_height2<$(this).height()) {
+					max_height2=$(this).height();	
+				}
+			});
+			$('#'+height2+' .level1-megamenu').height(max_height2);
+		});
+			
+		$('.group-category').parent().parent().parent().mouseenter(function(){
+			height3= $(this).attr('id');	
+			var max_height3=0;
+			$.each($('#'+height3+' .level1-megamenu'),function(){
+				if(max_height3<$(this).height()) {
+				max_height3=$(this).height();	
+				}					
+			});
+			$('#'+height3+' .level1-megamenu').height(max_height3);						
+		});
+		$('.products-megamenu-grid').parent().parent().mouseenter(function(){
+			height4 = $(this).attr('id');
+			var max_height_name=0;
+			$.each($('#'+height4+' .product-name'),function(key,e){
+				if(max_height_name<$(this).height()) {
+				max_height_name=$(this).height();	
+				}
+			});
+			$('#'+height4+' .product-name').height(max_height_name);
+		});
+	});
+</script>
 <ul id="nav-right">
 <li class="my-account"><a class="level-top" href="http://www.ruvilla.com/customer/account/login"><span>&nbsp;</span></a>
 <ul class="mega-down" style="width:211px;">
  
-<li class="level"> <div class="aw-fb-login">
-<a class="aw-fb-login-button facebookImg" href="#" onclick="aw_fb_login(); return false;"></a>
-</div>
-<div id="fb-loader" style="display:none;">
-<p class="loader" id="loading_mask_loader"><br>Please wait...</p>
-</div>
-</li>
+<li class="level"> </li>
 <li class="level">
 <div class="block block-login">
 <div class="block-title">
@@ -182,18 +1193,19 @@ Cart is empty </p>
 </div>
 </li>
 <li class="firstVisit level"> <p>New Customer</p>
-<span>First Visit? Click REGISTER below to<br>sign up for a new account</span><div class="buttons-set">
+<span>First Visit? Click REGISTER below to<br>sign up for a new account</span>
+<div class="buttons-set">
 <button style="float:left" onclick="window.location='http://www.ruvilla.com/customer/account/create/';" class="button" type="button"><span><span>Register</span></span></button>
-</div></li>
-</ul></li>
+</div>
+</li>
+</ul>
+</li>
 <li class="search-box-holder"><form id="search_mini_form" action="http://www.ruvilla.com/catalogsearch/result/" method="get">
 <div class="form-search">
-<input id="search" type="text" name="q" value="Search Products.." class="input-text" onfocus="this.value=='Search Products..'?this.value='':''" maxlength="128">&nbsp;<button type="submit" title="Go" class="button"><span><span>&nbsp;</span></span></button>
-<div id="search_autocomplete" class="search-autocomplete"></div>
+<input id="search" type="text" name="q" value="" class="input-text rfk_search_bar">&nbsp;<button type="submit" title="Go" class="button"><span><span>&nbsp;</span></span></button>
 <script type="text/javascript">
     //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Products..');
-        searchForm.initAutocomplete('http://www.ruvilla.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    	var searchForm = new Varien.searchForm('search_mini_form');
     //]]>
     </script>
 </div>
@@ -216,65 +1228,7 @@ Cart is empty </p>
 </div>
 <div class="main col1-layout">
 <div class="col-main">
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<form id="fb-connect" method="post" action="https://www.ruvilla.com/fbintegrator/facebook/connect/"></form>
-<script>
-    window.fbAsyncInit = function() {
-        FB.init({ appId: '457910410944313', 
-            status: true, 
-            cookie: true,
-            xfbml: true,
-            oauth: true});
-        
-    
-    };
-    
-    function aw_fb_like_response(transport){
-        var json = transport.responseText.evalJSON(true);
-        if("message" in json){
-             $$('.fb-points').first().update('<p>'+json.message+'</p>');
-        }
-    }
-
-    (function() {
-        var e = document.createElement('script'); e.async = true;
-        e.src = document.location.protocol 
-            + '//connect.facebook.net/en_US/all.js';
-        document.getElementById('fb-root').appendChild(e);
-    }());
-	
-    function aw_fb_login(){
-       
-        FB.getLoginStatus(function(response) {
-            $('fb-loader').setStyle({ display: 'block' });
-            if (response.status === 'connected') {
-                aw_fb_login_a(response);       
-            }else{
-                FB.login(function(response) {
-                    if (response.authResponse) {
-                        aw_fb_login_a(response);
-                    } else {
-                        $('fb-loader').setStyle({ display: 'none' });
-                    }
-                },{scope:'publish_stream,user_birthday,email'});
-            }
-        });
-    }
-
-    function aw_fb_login_a(response){
-
-        if (response.authResponse) {
-            for(var key in response.authResponse) {
-                var hiddenField = document.createElement("input");
-                hiddenField.setAttribute("type", "hidden");
-                hiddenField.setAttribute("name", key);
-                hiddenField.setAttribute("value", response.authResponse[key]);
-                $('fb-connect').appendChild(hiddenField);
-            }
-        }
-        $('fb-connect').submit();
-    }
-</script><div class="std">  <div class="cms-breadcrumb"><a href="http://www.ruvilla.com/">Home</a> / Privacy Policy</div>
+<div class="std">  <div class="cms-breadcrumb"><a href="http://www.ruvilla.com/">Home</a> / Privacy Policy</div>
 <div class="page-title">
 <h1>Privacy Policy</h1>
 </div>
@@ -371,7 +1325,6 @@ Cart is empty </p>
 <li class="col-5">
 <h2>CONNECT</h2>
 <a class="fb" title="Follow Us on Facebook" href="http://www.facebook.com/VILLA" target="_blank">1</a> <a class="tw" title="Follow Us on Twitter" href="http://twitter.com/RUVILLA" target="_blank">2</a> <a class="yt" title="Follow Us on Youtube" href="http://www.youtube.com/user/VILLAJTM" target="_blank">3</a> <a class="ig" title="Follow Us on Instagram" href="http://instagram.com/ruvilla" target="_blank">4</a></li>
-<li class="col-6"><a title="RSS Feed" href="http://www.ruvilla.com/rss/" target="_blank">RSS</a></li>
 </ul> </div>
 <div class="footer-bottom">
 <div class="lhs"><form action="https://www.ruvilla.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
@@ -386,7 +1339,7 @@ Cart is empty </p>
 //]]>
 </script>
 </div>
-<div class="rhs"><address class="copyright">Copyright © 2013 VILLA, All Rights Reserved</address>
+<div class="rhs"><address class="copyright">Copyright © 2014 VILLA, All Rights Reserved</address>
 <a href="http://www.ruvilla.com/privacy-policy">Privacy Policy</a>
 <a href="http://www.ruvilla.com/terms-and-conditions">Terms And Conditions</a>
 <a href="http://www.ruvilla.com/catalog/seo_sitemap/category/">Site Map</a>
@@ -466,10 +1419,10 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T4H85N');</script>
- <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"fd6e4c21b9","applicationID":"2781873","transactionName":"b1dXbUdXXBdTVRYLWVYdYEtcGVsKVlMaTEZQQg==","queueTime":0,"applicationTime":25,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script><script type="text/javascript">
+ <script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+</body></html>
