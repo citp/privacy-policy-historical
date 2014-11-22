@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitsandpieces.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101905id_/http%3A//bitsandpieces.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsandpieces.us privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075454id_/http%3A//bitsandpieces.us/privacy) for the most accurate reproduction.*
 
-# Privacy « Bits and Pieces
+# Privacy - Bits and PiecesBits and Pieces
 
 ## **Bits & Pieces Privacy Policy**
 
