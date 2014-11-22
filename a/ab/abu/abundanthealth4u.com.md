@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004434id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033324id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140508004434id_/http%3A//www.abundanthealth4u.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20141122033324id_/http%3A//www.abundanthealth4u.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
