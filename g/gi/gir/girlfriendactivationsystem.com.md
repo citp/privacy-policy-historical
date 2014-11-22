@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlfriendactivationsystem.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119232426id_/http%3A//www.girlfriendactivationsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlfriendactivationsystem.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122072207id_/http%3A//desiresystem.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
