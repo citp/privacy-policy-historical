@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327100655id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233555id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -32,7 +32,7 @@ TechForLess.com logs the user's Internet Protocol Address (IP). An IP address is
 
 ### Cookies:
 
-A cookie is a small piece of information that web sites use to remember information about users. Tech for Less, Inc. uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. From time to time we allow 3rd parties to collect anonymous non-personally identifiable usage data. To read more about the industry standards and practices at NAI (Network Advertising Initiative) and to opt-out of certain networks, click <http://www.networkadvertising.org/managing>
+A cookie is a small piece of information that web sites use to remember information about users. Tech for Less, Inc. uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. From time to time we allow 3rd parties to collect anonymous non-personally identifiable usage data. To read more about the industry standards and practices at NAI (Network Advertising Initiative) and to opt-out of certain networks, click [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 ### Transactional Information:
 
@@ -99,4 +99,4 @@ E-mail: [sales@techforless.com](mailto:sales@techforless.com)
   
 ---|---  
   
-*The Compare At price is the lowest price we've recently found on the Web from another reputable merchant. 
+*The Compare At price is the lowest price we've recently found on the Web from another reputable merchant and can include a shipping cost. 
