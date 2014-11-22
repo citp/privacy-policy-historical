@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506165503id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000541id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Truth About Cars
+# Privacy Policy - The Truth About Cars
 
 **VerticalScope Inc. – Privacy Statement**
 
@@ -74,31 +74,30 @@ If you have questions or suggestions about this privacy statement, or your own p
 
   * #### Editors
 
-  * [Jack Baruth](https://web.archive.org/about/)  
-Editor-In-Chief pro tempore 
   * [Derek Kreindler](https://web.archive.org/about/)  
 Managing Editor 
-  * [Alex Dykes](https://web.archive.org/about/)  
-Review Editor 
   * [Murilee Martin](https://web.archive.org/about/)  
-Heritage Editor 
+Editor 
   * [Sajeev Mehta](https://web.archive.org/about/)  
-Style Editor 
+Editor 
   * [Ronnie Schreiber](https://web.archive.org/about/)  
 Detroit Editor 
   * [Tim Cain](https://web.archive.org/about/)  
-Sales Analyst
+Sales Analyst 
+  * [Mike Smitka ](https://web.archive.org/about/)  
+Industry Editor
 
 
-  * #### Authors
+  * #### Contributing Writers
 
+  * Jack Baruth, United States 
   * Brendan McAleer, Canada 
   * Marcelo De Vasconcellos, Brazil 
+  * Vojta Dobes, Czech Republic 
   * Matthias Gasnier, Australia 
-  * J & J Sutherland, Canada 
-  * Tycho de Feyter, China 
   * W. Christian 'Mental' Ward, Abu Dhabi 
   * Mark Stevenson, Canada 
-  * Faisal Ali Khan, India
+  * Cameron Aubernon, United States 
+  * J Emerson, United States
 
 
