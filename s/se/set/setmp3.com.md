@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the setmp3.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125215618id_/http%3A//www.setkit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setmp3.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164447id_/http%3A//www.setkit.com/privacy.php) for the most accurate reproduction.*
 
 # Setkit | Privacy Policy
+
+We have the opportunity to move not only toward the rich society and the powerful society, but upward to the Great Society.  
+ **[Lyndon B. Johnson](http://www.setkit.com/literature/quotations/author/lyndon-b.-johnson/7121/)**
+
+| 
 
 You privacy is very important to us, accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose and make use of your personal information. Our privacy policies vary according to user preferences and specific tools on Setkit may have their specific policies that is valid only for that tool. For a better explanation we have split our privacy policy to the following categories:
 
@@ -8,9 +13,6 @@ You privacy is very important to us, accordingly, we have developed this policy 
   * Log Files
   * Cookies & Web Beacons
   * DoubleClick DART Cookie
-  * Crush Revealer
-  * Orkut Scrap All Friends
-  * Orkut Autoscrap Friends
 
 
 
@@ -63,18 +65,15 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-##  Crush revealer
+| 
 
-Crush Name Revealer is faked by the name 'Love Compatibility Checker', which may be used by your friends to fool you and get your crush names. We assume before using Setkit.com which includes using the crush name revealer you agree to all the terms & privacy policy which states that the actual name for the service is 'Crush Name Revealer'. The purpose of the tool is only 'fun & humor', we are not responsible of how it may be used.
+|  | Certain features are only available to members, to make the most of Setkit **join us** for free!  
+---|---  
+  
+  
 
-##  Orkut scrap all friends
 
-For this tool to work we require you to enter your third party username and password that you use to login to Orkut. We use that information **only** for the sole purpose of logging in to Orkut with your login credentials and scrap your friends, the information you provide is not stored for future use. However to promote Setkit and for you to find Setkit.com's community easily on Orkut by using this tool your Orkut profile will automatically join Setkit's Orkut community.
+## Updates
 
-Please note that this is an unofficial tool and we are not in any way affiliated or endorsed by Orkut, we are not responsible for any other unexpected effect using this tool may have on your Orkut account.
-
-##  Orkut autoscrap friends
-
-In order to automatically scrap your Orkut friends we need to **store** your login credentials for future use however the information you provide is only used for this tool and we do not disclose or use it for any other purpose that automatically scrapping your friends. For security purposes your passwords are encrypted before being stored. To promote Setkit and for you to find Setkit.com's community easily on Orkut by using this tool your Orkut profile will automatically join Setkit's Orkut community.
-
-Please note that this is an unofficial tool and we are not in any way affiliated or endorsed by Orkut, we are not responsible for any other unexpected effect using this tool may have on your Orkut account.
+| Be the **first to know** when we add new features & receive occasional set emails!  
+---|---
