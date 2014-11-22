@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506200839id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122150134id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # LauraIngraham.com: Privacy Policy
 
@@ -28,7 +28,7 @@ In addition, LauraIngraham.com may, and you hereby authorize us to, disclose you
 
 **Disputes.** LauraIngraham.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy. 
 
-**LauraIngraham.com Links.** LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the [Terms of Service Agreement](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp;jsessionid=1061447E51EEAFCE220F75E94B4E12F5). 
+**LauraIngraham.com Links.** LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the [Terms of Service Agreement](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp). 
 
 **A Special Note about Children.** Children are not eligible to use our services and LauraIngraham.com asks that minors (under the age of 18) do not submit any personal information to LauraIngraham.com. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
 
