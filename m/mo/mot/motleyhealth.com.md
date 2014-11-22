@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510193656id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172625id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice - MotleyHealth®
 
@@ -16,7 +16,8 @@ Your email address will never be shared, and it will only be used by us if you s
 
 ### Newsletters
 
-The newsletter is run on our own servers. Your email address and name will never be shared. It is a double opt in service (meaning after subscribing you will need to confirm by email) and each email sent to you will provide an unsubscribe link.
+The newsletter is run on our own servers. Your email address and name will never be shared. It is a double opt in service (meaning after subscribing you will need to confirm by email) and each email sent to you will provide an unsubscribe link.  
+
 
 ## Cookies
 
