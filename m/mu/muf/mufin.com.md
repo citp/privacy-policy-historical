@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mufin.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612030718id_/http%3A//www.mufin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mufin.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000308id_/http%3A//www.mufin.com/privacy) for the most accurate reproduction.*
 
 # Privacy - mufin GmbH
 
