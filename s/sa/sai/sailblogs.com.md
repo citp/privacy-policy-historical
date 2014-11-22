@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306083132id_/http%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122185909id_/http%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
 
-# SailBlogs | Sailing Blog Hosting, Map Tracking & Social Network
+# None
 
 SailBlogs.com is firmly committed to protecting your privacy. 
 
