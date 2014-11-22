@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523222741id_/http%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122111629id_/http%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trusted Psychic Mediums
-
-Sharing is Caring! Like and Share with your Friends
 
 We are committed to safeguarding the privacy of our website visitors; this policy[2] sets out how we will treat your personal information.[3]
 
@@ -28,21 +26,21 @@ We may collect, store and use the following kinds of personal information:
 
 [(f)     _other information_ _._ ][5]
 
-[Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.]
+[Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.]
 
 [ **(3)      Cookies**[6]
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We [may] use [both] ["session" cookies] [and "persistent" cookies] on the website. [Session cookies will be deleted from your computer when you close your browser.] [Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.]
+We [may] use [both] [“session” cookies] [and “persistent” cookies] on the website. [Session cookies will be deleted from your computer when you close your browser.] [Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.]
 
 [We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security; and [ _other uses_ ].] [We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to your use of our website; and [ _other uses_ ].]
 
-[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.] **[7]**
+[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.] **[7]**
 
 [Our [advertisers / payment services providers] may also send you cookies.] **[8]**
 
-[We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt out of the AdSense partner network cookie at: http://www.google.com/privacy/ads/ or by using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.][9]
+[We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt out of the AdSense partner network cookie at: http://www.google.com/privacy/ads/ or by using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.][9]
 
 [You can manage your preferences relating to the use of cookies on our website by visiting [ _URL_ ].]
 
