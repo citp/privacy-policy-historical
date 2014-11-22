@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philstockworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172320id_/http%3A//www.philstockworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philstockworld.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163422id_/http%3A//www.philstockworld.com/about/privacy) for the most accurate reproduction.*
 
 # PhilStockWorld.com Privacy Policy | Phil's Stock World
 
@@ -78,4 +78,4 @@ Please remember that voluntary postings submitted through our Submission Forms, 
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT. 
 
-MaddJack Enterprises, LLC d/b/a [PhilStockWorld.com](http://philstockworld.com/) reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
+PSW Investments, LLC d/b/a [PhilStockWorld.com](http://philstockworld.com/) reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
