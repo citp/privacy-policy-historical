@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pirateimghost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061217id_/http%3A//pirateimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirateimghost.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122162902id_/http%3A//pirateimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PirateImgHost.com » More Information » Privacy Policy
 
