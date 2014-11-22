@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the financially-blonde.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050445id_/http%3A//financially-blonde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financially-blonde.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122200651id_/http%3A//financially-blonde.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Financially BlondeFinancially Blonde
+# Privacy Policy | Financially Blonde
 
 **Financially Blonde, LLC Privacy Policy**
 
-Financially Blonde, LLC (“Financially Blonde” or “our”, “us” or “we”) understands that its customers, visitors, users, and others who use [www.financially-blonde.com](http://www.financially-blonde.com/) or other websites owned or operated by Financially Blonde (collectively or individually “Users” or “you”) value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Website (as hereinafter defined). Financially Blonde provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Website.
+Financially Blonde, LLC (“Financially Blonde” or “our”, “us” or “we”) understands that its customers, visitors, users, and others who use [www.financially-blonde.com](http://financially-blonde.com/) or other websites owned or operated by Financially Blonde (collectively or individually “Users” or “you”) value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Website (as hereinafter defined). Financially Blonde provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Website.
 
 **Effective Date.**
 
