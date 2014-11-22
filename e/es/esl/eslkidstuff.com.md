@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616034006id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122065121id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ESL KidStuff
 
@@ -16,4 +16,4 @@ Our advertisers and / or advertising agencies and / or other third parties may u
 
 Any email you send to us may be publicly posted on this site, unless you specifically request otherwise. We do not release email or other information to outside parties.
 
-If you have any questions, please [email us here](https://web.archive.org/web/20140616034006id_/http%3A//www.eslkidstuff.com/contact.htm). 
+If you have any questions, please [email us here](https://web.archive.org/web/20141122065121id_/http%3A//www.eslkidstuff.com/contact.htm). 
