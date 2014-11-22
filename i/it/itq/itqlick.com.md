@@ -1,32 +1,42 @@
-> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100141id_/http%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122231819id_/http%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
 
-# ITQlick.com Privacy policy - ITQlick.com
+# Privacy policy | ITQlick
 
-## ITQlick.com **Privacy Policy**
+Last update: Sept, 2014.
 
-Last update: June, 2013.
+You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by IT Media Ltd. (“IT Media Ltd”, “IT Media, "ITQlick") or (b) includes content, including but not limited to registration and other forms, owned by IT Media Ltd or drawn from a website owned and operated by IT Media Ltd. IT Media Ltd is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by IT Media Ltd. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy. 
 
-In using this website you are deemed to have read and agreed to the following privacy policy: 
+SO THAT WE MAY ASSIST YOU WITH YOUR SOFTWARE LICENSING/PURCHASE INQUIRY, PLEASE BE ADVISED THAT IT Media Ltd WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR PARTICIPATING SOFTWARE VENDORS SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS. WHEN YOU DOWNLOAD ARTICLES OF INTEREST WRITTEN (IN WHOLE OR IN PART) BY ONE OF OUR GUEST AUTHORS (AN "ADVISOR"), IT Media Ltd WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO SUCH ADVISOR SO THAT HE/SHE MAY CONTACT YOU ABOUT THE SUBJECT MATTER OF THE ARTICLE.
+
+IT Media may gather information about you from the Website and from other sources, such as information you provide to our affiliated companies, including affiliated websites (which may be owned and/or operated by persons having no ownership relationship with IT Media Ltd) or may be an entity directly or indirectly controlling, controlled by or under common control with IT Media Ltd ("Affiliates").
 
 ### Introduction:
 
-The mission of ITQlick is to connect the world’s technology professionals, business customers and service providers to enable them to be more productive and successful. To achieve our Mission, we make services available through our website, and mobile applications to help you, your connections, and other technology professionals meet, exchange ideas and projects, learn, make deals, find opportunities or employees, work, and make decisions in a network of trusted relationships and groups.  
+The mission of ITQlick is to help software buyers find the right software for their organization. To achieve our Mission, we make services available through our website.  
 Being part of ITQlick means sharing information about yourself with other professionals, communicating with them, as well as working privately on your own. By default, your account is set up to share the information that we have found the vast majority of our Users are interested in sharing. But the amount and type of information you decide to share, and with whom you share it, is up to you.  
-Here are the three main types of information on ITQlick:  
+Here are the purposes in which we may collect certain personally identifiable information from you :  
+
+
+  * Communication with other users: We help you communicate with connections, companies and other professionals. Some of this is one-to-one, some of it is in groups, and some of it is public discussion.  You decide how much or how little you wish to communicate to individuals or groups.
+  * providing information to us, to owners/operators of affiliate Websites, and/or to the vendor(s) of the software product(s) which you express an interest in purchasing or licensing so that we can contact you and help initiate contact and establish communication between you and such vendor(s) or Affiliates.
+  * providing information to an Advisor whose article you have specifically requested to download.
+  * conducting other transactions offered by IT Media that you may request.
+  * assisting us in providing better products and services (for example, we may contact you to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve the Website and our facilities and services).
+  * compiling and aggregating statistics and analyses about users' use of the Website, products and services, which statistics are used to enable us to provide better service and products to you and others in the future.
+
+
+
+Information we may collect:  
 
 
   * Information about yourself that you share: This is the information that your connections, other professionals, and companies see about you. This includes your profile, projects you post, companies and products you follow and your contributions to discussions on ITQlick, Questions, Answers, or other community features which, if you choose to opt-in, can show you who viewed your profile (and will show others when you visited their profiles).  You have control over what you share, and you can update information at any time.
-  * Communication with other users: We help you communicate with connections, companies and other professionals. Some of this is one-to-one, some of it is in groups, and some of it is public discussion.  You decide how much or how little you wish to communicate to individuals or groups.
-  * Private activity: We also provide tools that you can use privately on ITQlick (for example, searching, or contacting users or companies privately)  these actions and information are private and we don't share or distribute them to others on the website.
-
-
-
-Of course, maintaining your trust is our top concern, so we adhere to the following principles to protect your privacy:  
-
-
-  * We do not rent, sell, or otherwise provide your personally identifiable information to third parties without your consent, except as described in this policy or as required by law.
-  * We do not share any information you have not chosen to display on your ITQlick profile to other parties, unless compelled by law, or as necessary to enforce our User Agreement or protect the rights, property, or personal safety of ITQlick, its Users, and the public.
-  * All information that you provide will be protected with industry standard protocols and technology.
+  * names
+  * physical addresses
+  * telephone numbers
+  * e-mail addresses
+  * information regarding your business (e.g., business name, revenue thresholds, etc.)
+  * information regarding your business needs and software requirements
+  * all other personally identifiable information you affirmatively provide to us.
 
 
 
@@ -49,7 +59,7 @@ Please read this policy and [send us](http://www.itqlick.com/Contact) questions
 
 ### 1\. Information Collected
 
-The mission of ITQlick is to connect the world’s technology professionals, business customers and service providers to enable them to be more productive and successful. To achieve this mission, ITQlick makes features and functionality available through our website, including our mobile and other applications, premium services, and other information provided as part of the ITQlick services (“Services”) to enable professionals to develop, maintain and enhance a network of contacts, seek experts and consultants, fill job opportunities, create, share, and distribute information in collaboration with one another. By joining ITQlick, you voluntarily and willingly provide ITQlick Corporation in Tel Aviv, Israel, certain information, including personally identifiable information, which we collect in order to provide the Services. If you have any hesitation about providing information to us and/or having your information displayed on the ITQlick website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the ITQlick community; and, if you are already a member, you should close your account.  
+The mission of ITQlick is to help software buyers find the right software for their organization. To achieve our Mission, we make services available through our website. information provided as part of the ITQlick services (“Services”) to enable professionals to develop, maintain and enhance a network of contacts, seek experts and consultants, fill job opportunities, create, share, and distribute information in collaboration with one another. By joining ITQlick, you voluntarily and willingly provide ITQlick Corporation in Tel Aviv, Israel, certain information, including personally identifiable information, which we collect in order to provide the Services. If you have any hesitation about providing information to us and/or having your information displayed on the ITQlick website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the ITQlick community; and, if you are already a member, you should close your account.  
 We collect your personal information in the following ways:  
 
 
@@ -118,7 +128,24 @@ You have a right to access, modify, correct and eliminate the data you supplied 
 
 ITQlick will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months. If you wish to [close your account, you may do sohere](http://www.itqlick.com/Close). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
 
+#### L. Pixel Tracking
+
+IT Media may employ a common technique usually referred to as "pixel tracking" to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on the Website or in e-mail messages, involves the use of pixel tags (also known as "clear gifs," "Web beacons" or "1-by-1 gifs") that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit the Website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report Website activity to us.
+
+#### M. Third Party Advertising
+
+We use third-­‐party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/choices/)
+
 ### 2\. Uses of personal information
+
+PLEASE BE ADVISED THAT IT MEDIA LTD MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS' PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.
+
+Additionally, you may authorize us to share your e-mail address with our Affiliates business partners, and third parties, including vendors whose products are profiled on the Website. If you opt-in and/or receive an e-mail opt-in confirmation, our Affiliates and business partners and third parties may contact you via e-mail, U.S. post, and/or telephone with a variety of special promotions, offers, or other information that may be of interest to you.  
+IT Media may share personally identifiable information with its Affiliates and business partners necessary to complete transactions as part of its standard business operations and to assist us in offering products or services to you.  
+First, we may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, users of the Website, or anyone else who could be harmed by such activities. Second, we may disclose user information when we believe in good faith that such disclosure is required by applicable law.
+
+  
+
 
 #### A. Consent to ITQlick Processing Information About You
 
@@ -132,7 +159,7 @@ Please be aware that you cannot opt-out of receiving service messages from ITQli
 
 #### C. User Communications
 
-Many communications you initiate through ITQlick (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will not list the people to whom you’re directly connected. Other communications that you initiate through the ITQlick website, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
+Many communications you initiate through ITQlick (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will not list the people to whom you’re directly connected. Other communications that you initiate through the ITQlick website, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. 
 
 #### D. Customized Content
 
