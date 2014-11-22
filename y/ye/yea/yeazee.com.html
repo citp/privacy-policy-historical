@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yeazee.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134333id_/http%3A//yeazee.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yeazee.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122062404id_/http%3A//www.yeazee.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link rel="dns-prefetch" href="//csr.inspsearchapi.com">
@@ -14,6 +14,7 @@
     <link rel="apple-touch-icon" href="/resources/1/img/apple-touch-icon.png">
     <meta name="description" content=" Local, Places, Vendors And More">
 <title>Privacy Policy</title>
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" href="/resources/1/css/style.less" type="text/less" media="screen">
     <link rel="stylesheet" href="/resources/1/css/fancybox.css" type="text/css" media="screen">
@@ -65,9 +66,14 @@ border-bottom: 1px dashed red;
     <script src="/resources/1/js/jquery.icheck.min.js"></script>
     <script src="/resources/1/js/jquery.easydropdown.js"></script>
     <script src="/resources/1/js/toastr/toastr.min.js"></script>
-    <script type="text/javascript" src="//csr.inspsearchapi.com/lib/infospace.search.js"></script>
+<!--    <script type="text/javascript" src="//csr.inspsearchapi.com/lib/infospace.search.js"></script>-->
     <script src="http://cdn.trackingmax.com/sockjs-0.3.min.js"></script>
     <script type="text/javascript">
+        function hideAdBoxes(){
+            $('#topResultsContainer').hide();
+            $('#bottomResultsContainer').hide();
+        }
+
         $(function() {
             $('.flexslider').flexslider();
             $('.fancybox, a.fb_inline').fancybox();
@@ -93,13 +99,12 @@ border-bottom: 1px dashed red;
 
         });
     </script>
-
-</head>
+    </head>
 <body>
 <div id="center">
     <header>
         <div>
-            <a href="/" class="logo"><img src="/resources/1/img/logo_1.png" alt=""></a>
+            <a href="/" class="logo"><img src="/resources/1/img/logo.png" alt=""></a>
             <nav id="menu">
                 <a href="/local">Local</a>
                 <a href="/shop">Shop</a>
@@ -389,7 +394,6 @@ border-bottom: 1px dashed red;
 <footer>
   <div class="more_list">
     <ul>
-      <li><img src="/resources/1/img/footer_img.png" alt="Footer"></li>
       <li>
         <label>MY ACCOUNT</label>
         <a href="/user/registration">Register</a>
@@ -412,17 +416,23 @@ border-bottom: 1px dashed red;
         <span class="st_twitter_large"></span>
         <span class="st_googleplus_large"></span>
       </li>
+      <li class="logo-footer">
+            <img src="/resources/1/img/logo_footer.png" alt="">
+          Connect with Vendors in your Area, Compare Ratings, Quotes &amp; Prices
+      </li>
     </ul>
   </div>
   <div class="foo_bottom">
     <div>
-      <img src="/resources/1/img/footer_logo_1.png" alt="Footer logo">
-      <span>© 2013 All rights reserved. All Trademarks and Patents are the property of their respective owners.</span>
-    </div>
+      © 2013 All rights reserved. All Trademarks and Patents are the property of their respective owners.    </div>
   </div>
 </footer>
 <script>
     $(function(){
+        $('.yadsItem a').one('click',function(){
+            $(document.body).append('<iframe style="display: none;" src="/conversion?yh"></iframe>');
+        });
+
         setTimeout(function(){
             if (typeof aaaadddd === "undefined")
             {
@@ -432,7 +442,9 @@ border-bottom: 1px dashed red;
         },100);
 
         setTimeout(function(){
-            document.getElementById('loaderx').style.display='none';
+            var lx = document.getElementById('loaderx');
+            if (lx!=undefined)
+                lx.style.display='none';
         },4000);
     })
 </script>
