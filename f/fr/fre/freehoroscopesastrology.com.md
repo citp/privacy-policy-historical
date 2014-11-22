@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121449id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122200530id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Horoscopes Astrology Privacy Policy
 
