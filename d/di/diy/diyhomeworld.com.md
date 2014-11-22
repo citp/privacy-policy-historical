@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diyhomeworld.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030952id_/http%3A//diyhomeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyhomeworld.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234544id_/http%3A//diyhomeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.diyhomeworld.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This privacy policy sets out how DIYHomeWorld.com uses and protects any information that you provide when you use this website.
 
@@ -55,5 +53,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information please [email us here](http://diyhomeworld.com/contact-us/).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.diyhomeworld.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
