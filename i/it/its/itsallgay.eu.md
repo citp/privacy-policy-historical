@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518162951id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161209id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
 
 # Its All Gay
 
@@ -41,4 +41,4 @@ We do share non-personally-identifiable information (such as anonymous User usag
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England & Wales.  
 itsallgay also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that itsallgay believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the itsallgay Website, and to protect the rights, property, or personal safety of itsallgay, our users or others.
 
-GLBT Ltd, 145-147 St John Street, London, United Kingdon, EC1V 4PW 
+GF Networks Ltd, 145-147 St John Street, London, United Kingdon, EC1V 4PW 
