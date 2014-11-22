@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517212809id_/http%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190549id_/http%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Forex4you: Privacy Policy
 
 #### OVERVIEW
 
-E-Global Trade & Finance Group, Inc. (hereinafter – “Forex4you”, “we”, “our” or “us”) notifies you that your privacy is important to us. Maintaining the confidentiality of your personal data is a core principle of our entire business operations.
+E-Global Trade & Finance Group, Inc. (hereinafter - “Forex4you”, "we", “our” or "us") notifies you that your privacy is important to us. Maintaining the confidentiality of your personal data is a core principle of our entire business operations.
 
 During the rendering of services, we gather, collect and possess certain private information/personal data of yours. This is why we would like to inform you about the following privacy policy that is applicable to you while receiving or applying for any of our services.
 
@@ -43,7 +43,7 @@ Notwithstanding, we may disclose your personal data to third parties which have 
 
 You have the right to request us to reveal the personal data we hold about you. In this case we may charge a reasonable fee. You also hold the right to know what kind of personal data about you is in our possession, the right to change any inaccuracies or discrepancies of the data, the right to know about the use of your data and the right to block the use of it if your privacy is violated.
 
-You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you via e-mail – [info@forex4you.com](mailto:info@forex4you.com).
+You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you via e-mail - [info@forex4you.com](mailto:info@forex4you.com).
 
 #### HOW TO CORRECT YOUR INFORMATION
 
