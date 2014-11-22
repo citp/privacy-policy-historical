@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adstage.io privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524021106id_/http%3A//www.adstage.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adstage.io privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122085205id_/http%3A//www.adstage.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdStage
 
@@ -21,7 +21,7 @@ AdStage, Inc. (“we,” “us,” “our,” or “Company”) knows that you c
 
 This Privacy Policy covers Company’s treatment of personally identifiable information (“Personal Information”) that Company gathers when you access the Website and when you use Company’s services. This policy does not apply to the practices of companies that Company does not own or control (including any third-party products or services used for logging into the Website or that are integrated with the Website), or to individuals that Company does not employ or manage.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use [https://www.adstage.io/terms](https://www.adstage.io/terms-of-use). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: AdStage, Inc., 560 Mission Street, Suite 1300, San Francisco, CA 94105 – [sahil@adstage.io](mailto:sahil@adstage.io).
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use [https://www.adstage.io/terms](https://www.adstage.io/terms-of-use). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: AdStage, Inc., 461 Bush Street, 4 FL, San Francisco, CA 94018 – [sahil@adstage.io](mailto:sahil@adstage.io).
 
 ### What Personal Information Does Company Collect?
 
@@ -108,7 +108,7 @@ Company allows you to access the following information about you for the purpose
 
 
 
-If you have any questions about viewing or updating information we have on file about you, please contact us at AdStage, Inc., 560 Mission Street, Suite 1300, San Francisco, CA 94105 – [sahil@adstage.io](mailto:sahil@adstage.io). Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to AdStage, Inc., 560 Mission Street, Suite 1300, San Francisco, CA 94105 – [sahil@adstage.io](mailto:sahil@adstage.io).
+If you have any questions about viewing or updating information we have on file about you, please contact us at AdStage, Inc., 461 Bush Street, 4 FL, San Francisco, CA 94018 – [sahil@adstage.io](mailto:sahil@adstage.io). Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to AdStage, Inc., 461 Bush Street, 4 FL, San Francisco, CA 94018 – [sahil@adstage.io](mailto:sahil@adstage.io).
 
 ### What Choices Do I Have?
 
@@ -125,7 +125,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at AdStage, Inc., 560 Mission Street, Suite 1300, San Francisco, CA 94105 – [sahil@adstage.io](mailto:sahil@adstage.io). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at AdStage, Inc., 461 Bush Street, 4 FL, San Francisco, CA 94018 – [sahil@adstage.io](mailto:sahil@adstage.io). We will make every effort to resolve your concerns.
 
 ### Try AdStage risk-free  
-for 30 days
+for 14 days
