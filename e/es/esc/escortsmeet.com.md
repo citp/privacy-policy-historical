@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617235550id_/http%3A//www.escortsmeet.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122152136id_/http%3A//www.escortsmeet.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # EscortsMeet | Privacy Policy
 
