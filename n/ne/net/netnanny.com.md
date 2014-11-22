@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530164729id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141005id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
-# ContentWatch Privacy Policy
+# Privacy Policy | Net Nanny
 
 Your privacy is important to ContentWatch Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with ContentWatch Inc.
 
@@ -20,7 +20,7 @@ We will never disclose your credit card information or your personal identity in
 
 We may use or allow reputable third parties to present or serve the advertisements that you may see on our Web pages. In addition, some business advertisements are managed and placed on our Web pages by third party companies. This Privacy Statement does not cover any use of information that a third party ad server or network advertiser may collect from you.
 
-**4\. OPT OUT POLICY.** You may request at any time that ContentWatch Inc. not send any future email to you by unsubscribing from the communication within [My Account](https://web.archive.org/account/unsubscribe).
+**4\. OPT OUT POLICY.** You may request at any time that ContentWatch Inc. not send any future email to you by unsubscribing from the communication within [My Account](http://www.netnanny.com/account/unsubscribe).
 
 **5\. SECURITY WE PROVIDE.** We have attempted to place appropriate physical, electronic and managerial procedures to safeguard and help protect against unauthorized access, maintain data security and correctly use the information we collect. Agents and contractors of ContentWatch Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement. Although we take appropriate measures to safeguard against unauthorized disclosures of personally identifiable information, we cannot assure you that your personally identifiable information will never be disclosed in a manner that is inconsistent with this Privacy Statement. We protect the security of your credit card information using secure socket layer (SSL) encryption.
 
@@ -35,9 +35,3 @@ This Privacy Statement is subject to change at any time, at the discretion of Co
 ContentWatch Corporate Office:  
 6949 S High Tech Dr  
 Salt Lake City, Utah 84047 USA
-
-## Visit Our Learning Center
-
-If you've got questions or concerns, the Nanny's got answers. Everything you’ll need to know about protecting your family online can be found here.
-
-[Get Started](https://web.archive.org/learn_center/)
