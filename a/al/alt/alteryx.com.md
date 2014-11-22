@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420121412id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173102id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Big Data Analytics, Strategic Analytics | Alteryx
+# Privacy policy | Alteryx
 
 Alteryx.com is committed to protecting the privacy of our subscribers and prospective subscribers. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
@@ -22,4 +22,4 @@ Alteryx.com has an area on the site where you can submit feedback. Any feedback 
 
 ### Privacy commitment changes
 
-If we decide to change our privacy commitment for Alteryx.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Alteryx.com's privacy commitment, please feel free to [email us](https://web.archive.org/Pages/contact/contact-alteryx.aspx) or call +1 888 836 4274 and speak to one of our representatives.
+If we decide to change our privacy commitment for Alteryx.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Alteryx.com's privacy commitment, please feel free to [email us](https://web.archive.org/contact-us) or call +1 888 836 4274 and speak to one of our representatives.
