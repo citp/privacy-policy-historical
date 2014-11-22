@@ -1,50 +1,50 @@
-> *The following text is extracted and transformed from the envita.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050140id_/http%3A//www.envita.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envita.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234806id_/http%3A//envita.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/web/20140625152331id_/http://envita.com/index.php)
+[](https://web.archive.org/web/20141122234806id_/http://www.envita.com/index.php)
 
 #### To discuss your treatment options call **1-866-830-4576**
 
-  * [](https://web.archive.org/web/20140625152331id_/http://envita.com/about/ppmr.php)
+  * [](https://web.archive.org/web/20141122234806id_/http://www.envita.com/about/ppmr.php)
 
 ## Personalized Medicine
 
 A refreshing, new approach to medical care!
 
-[View details »](https://web.archive.org/web/20140625152331id_/http://envita.com/about/ppmr.php)
+[View details »](https://web.archive.org/web/20141122234806id_/http://www.envita.com/about/ppmr.php)
 
-  * [](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer.php)
+  * [](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer.php)
 
 ## Cancer Treatment
 
 Integrative cancer treatment that matters.
 
-[View details »](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer.php)
+[View details »](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer.php)
 
-  * [](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/lymedisease.php)
+  * [](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/lymedisease.php)
 
 ## Lyme Disease
 
 Learn about our approach to treating chronic Lyme disease complex.
 
-[View details »](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/lymedisease.php)
+[View details »](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/lymedisease.php)
 
-  * [](https://web.archive.org/web/20140625152331id_/http://envita.com/category/videos/testimonials.php)
+  * [](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/videos/testimonials.php)
 
 ## Success Stories
 
 Over a decade of treating thousands of patients and transforming lives!
 
-[View details »](https://web.archive.org/web/20140625152331id_/http://envita.com/category/videos/testimonials.php)
+[View details »](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/videos/testimonials.php)
 
-  * [](https://web.archive.org/web/20140625152331id_/http://envita.com/category/education.php)
+  * [](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/education.php)
 
 ## Envita Articles
 
 Become empowered! Explore our video/article library.
 
-[View details »](https://web.archive.org/web/20140625152331id_/http://envita.com/category/education.php)
+[View details »](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/education.php)
 
 
 
@@ -78,11 +78,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.envita.com/terms-of-use/](https://web.archive.org/web/20140625152331id_/http://envita.com/terms-of-use.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.envita.com/terms-of-use/](https://web.archive.org/web/20141122234806id_/http://www.envita.com/terms-of-use.php)
 
 ## Your Consent
 
-By using our site, you consent to our websites [privacy policy](https://web.archive.org/web/20140625152331id_/http://envita.com/privacy-policy/).
+By using our site, you consent to our websites [privacy policy](https://web.archive.org/web/20141122234806id_/http://www.envita.com/privacy-policy/).
 
 ## Changes to our Privacy Policy
 
@@ -109,30 +109,30 @@ If there are any questions regarding this privacy policy you may contact us usin
 **Phone** : 602.569.4144 | 602.569.4244 | [8759 E. Bell Road, Building G  
 Scottsdale, Arizona 85260](https://maps.google.com/maps?q=envita+medical+center&safe=off&hq=envita+medical+center&radius=15000&t=m&z=16)  
   
-  * [Home](https://web.archive.org/web/20140625152331id_/http://envita.com/index.php)
-  * [About](https://web.archive.org/web/20140625152331id_/http://envita.com/about-envita.php)
-    * [__The Envita Story](https://web.archive.org/web/20140625152331id_/http://envita.com/about/the-envita-story.php)
-    * [__Personalized Medicine](https://web.archive.org/web/20140625152331id_/http://envita.com/about/ppmr.php)
-  * [Conditions We Treat](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions.php)
-    * [__Cancer](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer.php)
-      * [__Chemotherapy](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/chemotherapy.php)
-      * [__Immunotherapy](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/immunotherapy.php)
-      * [__Cancer Nutrition](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/cancer-nutrition.php)
-      * [__Stage 4 Cancer](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/stage-4-cancer.php)
-        * [__Prostate Cancer](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4prostate-cancer.php)
-        * [__Colon Cancer](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4colon-cancer.php)
-        * [__Breast Cancer](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4breast-cancer-solutions-that-matter.php)
-      * [__Metastasis](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/metastasis.php)
-      * [__AAIT](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/cancer-conditions/aait.php)
-    * [__Lyme Disease](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/lymedisease.php)
-    * [__Chronic Disease](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/chronic-disease.php)
-    * [__Lupus](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/lupus.php)
-    * [__Fibromyalgia](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/fibromyalgia.php)
-    * [__Chronic Fatigue Syndrome](https://web.archive.org/web/20140625152331id_/http://envita.com/conditions-we-treat/chronic-fatigue-syndrome.php)
-  * [Education](https://web.archive.org/web/20140625152331id_/http://envita.com/category/education.php)
-    * [__Cancer Education](https://web.archive.org/web/20140625152331id_/http://envita.com/category/cancer.php)
-    * [__Lyme Disease Education](https://web.archive.org/web/20140625152331id_/http://envita.com/category/lyme-disease.php)
-  * [Testimonials](https://web.archive.org/web/20140625152331id_/http://envita.com/category/videos/testimonials.php)
-  * [Contact Us](https://web.archive.org/web/20140625152331id_/http://envita.com/contact.php)
+  * [Home](https://web.archive.org/web/20141122234806id_/http://www.envita.com/index.php)
+  * [About](https://web.archive.org/web/20141122234806id_/http://www.envita.com/about-envita.php)
+    * [__The Envita Story](https://web.archive.org/web/20141122234806id_/http://www.envita.com/about/the-envita-story.php)
+    * [__Personalized Medicine](https://web.archive.org/web/20141122234806id_/http://www.envita.com/about/ppmr.php)
+  * [Conditions We Treat](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions.php)
+    * [__Cancer](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer.php)
+      * [__Chemotherapy](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/chemotherapy.php)
+      * [__Immunotherapy](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/immunotherapy.php)
+      * [__Cancer Nutrition](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/cancer-nutrition.php)
+      * [__Stage 4 Cancer](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/stage-4-cancer.php)
+        * [__Prostate Cancer](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4prostate-cancer.php)
+        * [__Colon Cancer](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4colon-cancer.php)
+        * [__Breast Cancer](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/stage-4cancer/stage-4breast-cancer-solutions-that-matter.php)
+      * [__Metastasis](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/metastasis.php)
+      * [__AAIT](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/cancer-conditions/aait.php)
+    * [__Lyme Disease](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/lymedisease.php)
+    * [__Chronic Disease](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/chronic-disease.php)
+    * [__Lupus](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/lupus.php)
+    * [__Fibromyalgia](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/fibromyalgia.php)
+    * [__Chronic Fatigue Syndrome](https://web.archive.org/web/20141122234806id_/http://www.envita.com/conditions-we-treat/chronic-fatigue-syndrome.php)
+  * [Education](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/education.php)
+    * [__Cancer Education](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/cancer.php)
+    * [__Lyme Disease Education](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/lyme-disease.php)
+  * [Testimonials](https://web.archive.org/web/20141122234806id_/http://www.envita.com/category/videos/testimonials.php)
+  * [Contact Us](https://web.archive.org/web/20141122234806id_/http://www.envita.com/contact.php)
 
 
