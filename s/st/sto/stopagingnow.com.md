@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506223621id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122235058id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy Policy
 
