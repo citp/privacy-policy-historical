@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526063352id_/http%3A//www.wopg.org/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122091026id_/http%3A//www.wopg.org/privacy-policy) for the most accurate reproduction.*
 
-# Words of Peace Global - Privacy policy
-
-##  [ Privacy Policy](http://www.wopg.org/en/privacypolicy)
-
-**PRIVACY POLICY**
+# Privacy Policy - Words of Peace
 
 This website is administered by Foundation Words of Peace Global (WOPG), with domicile at Diemerhof 20-26, 1112 XN Diemen, Amsterdam, The Netherlands, and registered in the Amsterdam Trade Registry under number 34312991.
 
