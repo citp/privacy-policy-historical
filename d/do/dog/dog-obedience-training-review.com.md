@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072545id_/http%3A//dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221216id_/http%3A//www.dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dog-Obedience-Training-Review.com Privacy Policy and Disclaimer
 
