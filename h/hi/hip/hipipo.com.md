@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524075710id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122070643id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: HiPipo.com
 
@@ -128,4 +128,4 @@ I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
 |   
 ---  
   
-©2006 - 2014 Hipipo. All Rights Reserved. 
+©2006 - 2014 HiPipo. All Rights Reserved. 
