@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141008id_/http%3A//sms4smile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080359id_/http%3A//sms4smile.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy in English » SMS4Smile – 2014 SMS Messages/Love Sms/Friendship Sms/Good Morning Sms
+# Privacy Policy in English
 
 The privacy of our visitors to SMS4Smile.in is important to us.
 
