@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newton.k12.ma.us privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525084906id_/http%3A//www3.newton.k12.ma.us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newton.k12.ma.us privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122181833id_/http%3A//www3.newton.k12.ma.us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Newton Public Schools
 
