@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdn.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104213010id_/http%3A//tdn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdn.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172724id_/http%3A//tdn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
