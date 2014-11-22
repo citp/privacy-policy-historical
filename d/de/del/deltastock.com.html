@@ -1,20 +1,62 @@
-<!--The following is the downloaded HTML source of the deltastock.com privacy policy that was archived on 2014-02-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140223100848id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deltastock.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122083257id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="NOODP, NOYDIR">
 <link rel="shortcut icon" href="http://www.deltastock.com/favicon.ico">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/9958.js?438994" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-H37S"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20111007081554/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/release/jquery-1.11.0.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic-ext,latin" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="/style-new.css?ver=2" type="text/css">
+    <script type="text/jscript">
+        ;(function($){var ver="2.65";if($.support==undefined){$.support={opacity:!($.browser.msie)};}function log(){if(window.console&&window.console.log){window.console.log("[cycle] "+Array.prototype.join.call(arguments," "));}}$.fn.cycle=function(options,arg2){var o={s:this.selector,c:this.context};if(this.length==0&&options!="stop"){if(!$.isReady&&o.s){log("DOM not ready, queuing slideshow");$(function(){$(o.s,o.c).cycle(options,arg2);});return this;}log("terminating; zero elements found by selector"+($.isReady?"":" (DOM not ready)"));return this;}return this.each(function(){options=handleArguments(this,options,arg2);if(options===false){return;}if(this.cycleTimeout){clearTimeout(this.cycleTimeout);}this.cycleTimeout=this.cyclePause=0;var $cont=$(this);var $slides=options.slideExpr?$(options.slideExpr,this):$cont.children();var els=$slides.get();if(els.length<2){log("terminating; too few slides: "+els.length);return;}var opts=buildOptions($cont,$slides,els,options,o);if(opts===false){return;}if(opts.timeout||opts.continuous){this.cycleTimeout=setTimeout(function(){go(els,opts,0,!opts.rev);},opts.continuous?10:opts.timeout+(opts.delay||0));}});};function handleArguments(cont,options,arg2){if(cont.cycleStop==undefined){cont.cycleStop=0;}if(options===undefined||options===null){options={};}if(options.constructor==String){switch(options){case"stop":cont.cycleStop++;if(cont.cycleTimeout){clearTimeout(cont.cycleTimeout);}cont.cycleTimeout=0;$(cont).removeData("cycle.opts");return false;case"pause":cont.cyclePause=1;return false;case"resume":cont.cyclePause=0;if(arg2===true){options=$(cont).data("cycle.opts");if(!options){log("options not found, can not resume");return false;}if(cont.cycleTimeout){clearTimeout(cont.cycleTimeout);cont.cycleTimeout=0;}go(options.elements,options,1,1);}return false;default:options={fx:options};}}else{if(options.constructor==Number){var num=options;options=$(cont).data("cycle.opts");if(!options){log("options not found, can not advance slide");return false;}if(num<0||num>=options.elements.length){log("invalid slide index: "+num);return false;}options.nextSlide=num;if(cont.cycleTimeout){clearTimeout(cont.cycleTimeout);cont.cycleTimeout=0;}if(typeof arg2=="string"){options.oneTimeFx=arg2;}go(options.elements,options,1,num>=options.currSlide);return false;}}return options;}function removeFilter(el,opts){if(!$.support.opacity&&opts.cleartype&&el.style.filter){try{el.style.removeAttribute("filter");}catch(smother){}}}function buildOptions($cont,$slides,els,options,o){var opts=$.extend({},$.fn.cycle.defaults,options||{},$.metadata?$cont.metadata():$.meta?$cont.data():{});if(opts.autostop){opts.countdown=opts.autostopCount||els.length;}var cont=$cont[0];$cont.data("cycle.opts",opts);opts.$cont=$cont;opts.stopCount=cont.cycleStop;opts.elements=els;opts.before=opts.before?[opts.before]:[];opts.after=opts.after?[opts.after]:[];opts.after.unshift(function(){opts.busy=0;});if(!$.support.opacity&&opts.cleartype){opts.after.push(function(){removeFilter(this,opts);});}if(opts.continuous){opts.after.push(function(){go(els,opts,0,!opts.rev);});}saveOriginalOpts(opts);if(!$.support.opacity&&opts.cleartype&&!opts.cleartypeNoBg){clearTypeFix($slides);}if($cont.css("position")=="static"){$cont.css("position","relative");}if(opts.width){$cont.width(opts.width);}if(opts.height&&opts.height!="auto"){$cont.height(opts.height);}if(opts.startingSlide){opts.startingSlide=parseInt(opts.startingSlide);}if(opts.random){opts.randomMap=[];for(var i=0;i<els.length;i++){opts.randomMap.push(i);}opts.randomMap.sort(function(a,b){return Math.random()-0.5;});opts.randomIndex=0;opts.startingSlide=opts.randomMap[0];}else{if(opts.startingSlide>=els.length){opts.startingSlide=0;}}opts.currSlide=opts.startingSlide=opts.startingSlide||0;var first=opts.startingSlide;$slides.css({position:"absolute",top:0,left:0}).hide().each(function(i){var z=first?i>=first?els.length-(i-first):first-i:els.length-i;$(this).css("z-index",z);});$(els[first]).css("opacity",1).show();removeFilter(els[first],opts);if(opts.fit&&opts.width){$slides.width(opts.width);}if(opts.fit&&opts.height&&opts.height!="auto"){$slides.height(opts.height);}var reshape=opts.containerResize&&!$cont.innerHeight();if(reshape){var maxw=0,maxh=0;for(var i=0;i<els.length;i++){var $e=$(els[i]),e=$e[0],w=$e.outerWidth(),h=$e.outerHeight();if(!w){w=e.offsetWidth;}if(!h){h=e.offsetHeight;}maxw=w>maxw?w:maxw;maxh=h>maxh?h:maxh;}if(maxw>0&&maxh>0){$cont.css({width:maxw+"px",height:maxh+"px"});}}if(opts.pause){$cont.hover(function(){this.cyclePause++;},function(){this.cyclePause--;});}if(supportMultiTransitions(opts)===false){return false;}if(!opts.multiFx){var init=$.fn.cycle.transitions[opts.fx];if($.isFunction(init)){init($cont,$slides,opts);}else{if(opts.fx!="custom"&&!opts.multiFx){log("unknown transition: "+opts.fx,"; slideshow terminating");return false;}}}var requeue=false;options.requeueAttempts=options.requeueAttempts||0;$slides.each(function(){var $el=$(this);this.cycleH=(opts.fit&&opts.height)?opts.height:$el.height();this.cycleW=(opts.fit&&opts.width)?opts.width:$el.width();if($el.is("img")){var loadingIE=($.browser.msie&&this.cycleW==28&&this.cycleH==30&&!this.complete);var loadingOp=($.browser.opera&&this.cycleW==42&&this.cycleH==19&&!this.complete);var loadingOther=(this.cycleH==0&&this.cycleW==0&&!this.complete);if(loadingIE||loadingOp||loadingOther){if(o.s&&opts.requeueOnImageNotLoaded&&++options.requeueAttempts<100){log(options.requeueAttempts," - img slide not loaded, requeuing slideshow: ",this.src,this.cycleW,this.cycleH);setTimeout(function(){$(o.s,o.c).cycle(options);},opts.requeueTimeout);requeue=true;return false;}else{log("could not determine size of image: "+this.src,this.cycleW,this.cycleH);}}}return true;});if(requeue){return false;}opts.cssBefore=opts.cssBefore||{};opts.animIn=opts.animIn||{};opts.animOut=opts.animOut||{};$slides.not(":eq("+first+")").css(opts.cssBefore);if(opts.cssFirst){$($slides[first]).css(opts.cssFirst);}if(opts.timeout){opts.timeout=parseInt(opts.timeout);if(opts.speed.constructor==String){opts.speed=$.fx.speeds[opts.speed]||parseInt(opts.speed);}if(!opts.sync){opts.speed=opts.speed/2;}while((opts.timeout-opts.speed)<250){opts.timeout+=opts.speed;}}if(opts.easing){opts.easeIn=opts.easeOut=opts.easing;}if(!opts.speedIn){opts.speedIn=opts.speed;}if(!opts.speedOut){opts.speedOut=opts.speed;}opts.slideCount=els.length;opts.currSlide=opts.lastSlide=first;if(opts.random){opts.nextSlide=opts.currSlide;if(++opts.randomIndex==els.length){opts.randomIndex=0;}opts.nextSlide=opts.randomMap[opts.randomIndex];}else{opts.nextSlide=opts.startingSlide>=(els.length-1)?0:opts.startingSlide+1;}var e0=$slides[first];if(opts.before.length){opts.before[0].apply(e0,[e0,e0,opts,true]);}if(opts.after.length>1){opts.after[1].apply(e0,[e0,e0,opts,true]);}if(opts.next){$(opts.next).click(function(){return advance(opts,opts.rev?-1:1);});}if(opts.prev){$(opts.prev).click(function(){return advance(opts,opts.rev?1:-1);});}if(opts.pager){buildPager(els,opts);}exposeAddSlide(opts,els);return opts;}function saveOriginalOpts(opts){opts.original={before:[],after:[]};opts.original.cssBefore=$.extend({},opts.cssBefore);opts.original.cssAfter=$.extend({},opts.cssAfter);opts.original.animIn=$.extend({},opts.animIn);opts.original.animOut=$.extend({},opts.animOut);$.each(opts.before,function(){opts.original.before.push(this);});$.each(opts.after,function(){opts.original.after.push(this);});}function supportMultiTransitions(opts){var txs=$.fn.cycle.transitions;if(opts.fx.indexOf(",")>0){opts.multiFx=true;opts.fxs=opts.fx.replace(/\s*/g,"").split(",");for(var i=0;i<opts.fxs.length;i++){var fx=opts.fxs[i];var tx=txs[fx];if(!tx||!txs.hasOwnProperty(fx)||!$.isFunction(tx)){log("discarding unknown transition: ",fx);opts.fxs.splice(i,1);i--;}}if(!opts.fxs.length){log("No valid transitions named; slideshow terminating.");return false;}}else{if(opts.fx=="all"){opts.multiFx=true;opts.fxs=[];for(p in txs){var tx=txs[p];if(txs.hasOwnProperty(p)&&$.isFunction(tx)){opts.fxs.push(p);}}}}if(opts.multiFx&&opts.randomizeEffects){var r1=Math.floor(Math.random()*20)+30;for(var i=0;i<r1;i++){var r2=Math.floor(Math.random()*opts.fxs.length);opts.fxs.push(opts.fxs.splice(r2,1)[0]);}log("randomized fx sequence: ",opts.fxs);}return true;}function exposeAddSlide(opts,els){opts.addSlide=function(newSlide,prepend){var $s=$(newSlide),s=$s[0];if(!opts.autostopCount){opts.countdown++;}els[prepend?"unshift":"push"](s);if(opts.els){opts.els[prepend?"unshift":"push"](s);}opts.slideCount=els.length;$s.css("position","absolute");$s[prepend?"prependTo":"appendTo"](opts.$cont);if(prepend){opts.currSlide++;opts.nextSlide++;}if(!$.support.opacity&&opts.cleartype&&!opts.cleartypeNoBg){clearTypeFix($s);}if(opts.fit&&opts.width){$s.width(opts.width);}if(opts.fit&&opts.height&&opts.height!="auto"){$slides.height(opts.height);}s.cycleH=(opts.fit&&opts.height)?opts.height:$s.height();s.cycleW=(opts.fit&&opts.width)?opts.width:$s.width();$s.css(opts.cssBefore);if(opts.pager){$.fn.cycle.createPagerAnchor(els.length-1,s,$(opts.pager),els,opts);}if($.isFunction(opts.onAddSlide)){opts.onAddSlide($s);}else{$s.hide();}};}$.fn.cycle.resetState=function(opts,fx){fx=fx||opts.fx;opts.before=[];opts.after=[];opts.cssBefore=$.extend({},opts.original.cssBefore);opts.cssAfter=$.extend({},opts.original.cssAfter);opts.animIn=$.extend({},opts.original.animIn);opts.animOut=$.extend({},opts.original.animOut);opts.fxFn=null;$.each(opts.original.before,function(){opts.before.push(this);});$.each(opts.original.after,function(){opts.after.push(this);});var init=$.fn.cycle.transitions[fx];if($.isFunction(init)){init(opts.$cont,$(opts.elements),opts);}};function go(els,opts,manual,fwd){if(manual&&opts.busy&&opts.manualTrump){$(els).stop(true,true);opts.busy=false;}if(opts.busy){return;}var p=opts.$cont[0],curr=els[opts.currSlide],next=els[opts.nextSlide];if(p.cycleStop!=opts.stopCount||p.cycleTimeout===0&&!manual){return;}if(!manual&&!p.cyclePause&&((opts.autostop&&(--opts.countdown<=0))||(opts.nowrap&&!opts.random&&opts.nextSlide<opts.currSlide))){if(opts.end){opts.end(opts);}return;}if(manual||!p.cyclePause){var fx=opts.fx;curr.cycleH=curr.cycleH||$(curr).height();curr.cycleW=curr.cycleW||$(curr).width();next.cycleH=next.cycleH||$(next).height();next.cycleW=next.cycleW||$(next).width();if(opts.multiFx){if(opts.lastFx==undefined||++opts.lastFx>=opts.fxs.length){opts.lastFx=0;}fx=opts.fxs[opts.lastFx];opts.currFx=fx;}if(opts.oneTimeFx){fx=opts.oneTimeFx;opts.oneTimeFx=null;}$.fn.cycle.resetState(opts,fx);if(opts.before.length){$.each(opts.before,function(i,o){if(p.cycleStop!=opts.stopCount){return;}o.apply(next,[curr,next,opts,fwd]);});}var after=function(){$.each(opts.after,function(i,o){if(p.cycleStop!=opts.stopCount){return;}o.apply(next,[curr,next,opts,fwd]);});};if(opts.nextSlide!=opts.currSlide){opts.busy=1;if(opts.fxFn){opts.fxFn(curr,next,opts,after,fwd);}else{if($.isFunction($.fn.cycle[opts.fx])){$.fn.cycle[opts.fx](curr,next,opts,after);}else{$.fn.cycle.custom(curr,next,opts,after,manual&&opts.fastOnEvent);}}}opts.lastSlide=opts.currSlide;if(opts.random){opts.currSlide=opts.nextSlide;if(++opts.randomIndex==els.length){opts.randomIndex=0;}opts.nextSlide=opts.randomMap[opts.randomIndex];}else{var roll=(opts.nextSlide+1)==els.length;opts.nextSlide=roll?0:opts.nextSlide+1;opts.currSlide=roll?els.length-1:opts.nextSlide-1;}if(opts.pager){$.fn.cycle.updateActivePagerLink(opts.pager,opts.currSlide);}}var ms=0;if(opts.timeout&&!opts.continuous){ms=getTimeout(curr,next,opts,fwd);}else{if(opts.continuous&&p.cyclePause){ms=10;}}if(ms>0){p.cycleTimeout=setTimeout(function(){go(els,opts,0,!opts.rev);},ms);}}$.fn.cycle.updateActivePagerLink=function(pager,currSlide){$(pager).find("a").removeClass("activeSlide").filter("a:eq("+currSlide+")").addClass("activeSlide");};function getTimeout(curr,next,opts,fwd){if(opts.timeoutFn){var t=opts.timeoutFn(curr,next,opts,fwd);if(t!==false){return t;}}return opts.timeout;}$.fn.cycle.next=function(opts){advance(opts,opts.rev?-1:1);};$.fn.cycle.prev=function(opts){advance(opts,opts.rev?1:-1);};function advance(opts,val){var els=opts.elements;var p=opts.$cont[0],timeout=p.cycleTimeout;if(timeout){clearTimeout(timeout);p.cycleTimeout=0;}if(opts.random&&val<0){opts.randomIndex--;if(--opts.randomIndex==-2){opts.randomIndex=els.length-2;}else{if(opts.randomIndex==-1){opts.randomIndex=els.length-1;}}opts.nextSlide=opts.randomMap[opts.randomIndex];}else{if(opts.random){if(++opts.randomIndex==els.length){opts.randomIndex=0;}opts.nextSlide=opts.randomMap[opts.randomIndex];}else{opts.nextSlide=opts.currSlide+val;if(opts.nextSlide<0){if(opts.nowrap){return false;}opts.nextSlide=els.length-1;}else{if(opts.nextSlide>=els.length){if(opts.nowrap){return false;}opts.nextSlide=0;}}}}if($.isFunction(opts.prevNextClick)){opts.prevNextClick(val>0,opts.nextSlide,els[opts.nextSlide]);}go(els,opts,1,val>=0);return false;}function buildPager(els,opts){var $p=$(opts.pager);$.each(els,function(i,o){$.fn.cycle.createPagerAnchor(i,o,$p,els,opts);});$.fn.cycle.updateActivePagerLink(opts.pager,opts.startingSlide);}$.fn.cycle.createPagerAnchor=function(i,el,$p,els,opts){var a=($.isFunction(opts.pagerAnchorBuilder))?opts.pagerAnchorBuilder(i,el):'<a href="#">'+(i+1)+"</a>";if(!a){return;}var $a=$(a);if($a.parents("body").length==0){var arr=[];if($p.length>1){$p.each(function(){var $clone=$a.clone(true);$(this).append($clone);arr.push($clone);});$a=$(arr);}else{$a.appendTo($p);}}$a.bind(opts.pagerEvent,function(){opts.nextSlide=i;var p=opts.$cont[0],timeout=p.cycleTimeout;if(timeout){clearTimeout(timeout);p.cycleTimeout=0;}if($.isFunction(opts.pagerClick)){opts.pagerClick(opts.nextSlide,els[opts.nextSlide]);}go(els,opts,1,opts.currSlide<i);return false;});if(opts.pauseOnPagerHover){$a.hover(function(){opts.$cont[0].cyclePause++;},function(){opts.$cont[0].cyclePause--;});}};$.fn.cycle.hopsFromLast=function(opts,fwd){var hops,l=opts.lastSlide,c=opts.currSlide;if(fwd){hops=c>l?c-l:opts.slideCount-l;}else{hops=c<l?l-c:l+opts.slideCount-c;}return hops;};function clearTypeFix($slides){function hex(s){s=parseInt(s).toString(16);return s.length<2?"0"+s:s;}function getBg(e){for(;e&&e.nodeName.toLowerCase()!="html";e=e.parentNode){var v=$.css(e,"background-color");if(v.indexOf("rgb")>=0){var rgb=v.match(/\d+/g);return"#"+hex(rgb[0])+hex(rgb[1])+hex(rgb[2]);}if(v&&v!="transparent"){return v;}}return"#ffffff";}$slides.each(function(){$(this).css("background-color",getBg(this));});}$.fn.cycle.commonReset=function(curr,next,opts,w,h,rev){$(opts.elements).not(curr).hide();opts.cssBefore.opacity=1;opts.cssBefore.display="block";if(w!==false&&next.cycleW>0){opts.cssBefore.width=next.cycleW;}if(h!==false&&next.cycleH>0){opts.cssBefore.height=next.cycleH;}opts.cssAfter=opts.cssAfter||{};opts.cssAfter.display="none";$(curr).css("zIndex",opts.slideCount+(rev===true?1:0));$(next).css("zIndex",opts.slideCount+(rev===true?0:1));};$.fn.cycle.custom=function(curr,next,opts,cb,speedOverride){var $l=$(curr),$n=$(next);var speedIn=opts.speedIn,speedOut=opts.speedOut,easeIn=opts.easeIn,easeOut=opts.easeOut;$n.css(opts.cssBefore);if(speedOverride){if(typeof speedOverride=="number"){speedIn=speedOut=speedOverride;}else{speedIn=speedOut=1;}easeIn=easeOut=null;}var fn=function(){$n.animate(opts.animIn,speedIn,easeIn,cb);};$l.animate(opts.animOut,speedOut,easeOut,function(){if(opts.cssAfter){$l.css(opts.cssAfter);}if(!opts.sync){fn();}});if(opts.sync){fn();}};$.fn.cycle.transitions={fade:function($cont,$slides,opts){$slides.not(":eq("+opts.currSlide+")").css("opacity",0);opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts);opts.cssBefore.opacity=0;});opts.animIn={opacity:1};opts.animOut={opacity:0};opts.cssBefore={top:0,left:0};}};$.fn.cycle.ver=function(){return ver;};$.fn.cycle.defaults={fx:"fade",timeout:4000,timeoutFn:null,continuous:0,speed:1000,speedIn:null,speedOut:null,next:null,prev:null,prevNextClick:null,pager:null,pagerClick:null,pagerEvent:"click",pagerAnchorBuilder:null,before:null,after:null,end:null,easing:null,easeIn:null,easeOut:null,shuffle:null,animIn:null,animOut:null,cssBefore:null,cssAfter:null,fxFn:null,height:"auto",startingSlide:0,sync:1,random:0,fit:0,containerResize:1,pause:0,pauseOnPagerHover:0,autostop:0,autostopCount:0,delay:0,slideExpr:null,cleartype:!$.support.opacity,nowrap:0,fastOnEvent:0,randomizeEffects:1,rev:0,manualTrump:true,requeueOnImageNotLoaded:true,requeueTimeout:250};})(jQuery);;(function($){$.fn.cycle.transitions.scrollUp=function($cont,$slides,opts){$cont.css("overflow","hidden");opts.before.push($.fn.cycle.commonReset);var h=$cont.height();opts.cssBefore={top:h,left:0};opts.cssFirst={top:0};opts.animIn={top:0};opts.animOut={top:-h};};$.fn.cycle.transitions.scrollDown=function($cont,$slides,opts){$cont.css("overflow","hidden");opts.before.push($.fn.cycle.commonReset);var h=$cont.height();opts.cssFirst={top:0};opts.cssBefore={top:-h,left:0};opts.animIn={top:0};opts.animOut={top:h};};$.fn.cycle.transitions.scrollLeft=function($cont,$slides,opts){$cont.css("overflow","hidden");opts.before.push($.fn.cycle.commonReset);var w=$cont.width();opts.cssFirst={left:0};opts.cssBefore={left:w,top:0};opts.animIn={left:0};opts.animOut={left:0-w};};$.fn.cycle.transitions.scrollRight=function($cont,$slides,opts){$cont.css("overflow","hidden");opts.before.push($.fn.cycle.commonReset);var w=$cont.width();opts.cssFirst={left:0};opts.cssBefore={left:-w,top:0};opts.animIn={left:0};opts.animOut={left:w};};$.fn.cycle.transitions.scrollHorz=function($cont,$slides,opts){$cont.css("overflow","hidden").width();opts.before.push(function(curr,next,opts,fwd){$.fn.cycle.commonReset(curr,next,opts);opts.cssBefore.left=fwd?(next.cycleW-1):(1-next.cycleW);opts.animOut.left=fwd?-curr.cycleW:curr.cycleW;});opts.cssFirst={left:0};opts.cssBefore={top:0};opts.animIn={left:0};opts.animOut={top:0};};$.fn.cycle.transitions.scrollVert=function($cont,$slides,opts){$cont.css("overflow","hidden");opts.before.push(function(curr,next,opts,fwd){$.fn.cycle.commonReset(curr,next,opts);opts.cssBefore.top=fwd?(1-next.cycleH):(next.cycleH-1);opts.animOut.top=fwd?curr.cycleH:-curr.cycleH;});opts.cssFirst={top:0};opts.cssBefore={left:0};opts.animIn={top:0};opts.animOut={left:0};};$.fn.cycle.transitions.slideX=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$(opts.elements).not(curr).hide();$.fn.cycle.commonReset(curr,next,opts,false,true);opts.animIn.width=next.cycleW;});opts.cssBefore={left:0,top:0,width:0};opts.animIn={width:"show"};opts.animOut={width:0};};$.fn.cycle.transitions.slideY=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$(opts.elements).not(curr).hide();$.fn.cycle.commonReset(curr,next,opts,true,false);opts.animIn.height=next.cycleH;});opts.cssBefore={left:0,top:0,height:0};opts.animIn={height:"show"};opts.animOut={height:0};};$.fn.cycle.transitions.shuffle=function($cont,$slides,opts){var w=$cont.css("overflow","visible").width();$slides.css({left:0,top:0});opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,true,true);});opts.speed=opts.speed/2;opts.random=0;opts.shuffle=opts.shuffle||{left:-w,top:15};opts.els=[];for(var i=0;i<$slides.length;i++){opts.els.push($slides[i]);}for(var i=0;i<opts.currSlide;i++){opts.els.push(opts.els.shift());}opts.fxFn=function(curr,next,opts,cb,fwd){var $el=fwd?$(curr):$(next);$(next).css(opts.cssBefore);var count=opts.slideCount;$el.animate(opts.shuffle,opts.speedIn,opts.easeIn,function(){var hops=$.fn.cycle.hopsFromLast(opts,fwd);for(var k=0;k<hops;k++){fwd?opts.els.push(opts.els.shift()):opts.els.unshift(opts.els.pop());}if(fwd){for(var i=0,len=opts.els.length;i<len;i++){$(opts.els[i]).css("z-index",len-i+count);}}else{var z=$(curr).css("z-index");$el.css("z-index",parseInt(z)+1+count);}$el.animate({left:0,top:0},opts.speedOut,opts.easeOut,function(){$(fwd?this:curr).hide();if(cb){cb();}});});};opts.cssBefore={display:"block",opacity:1,top:0,left:0};};$.fn.cycle.transitions.turnUp=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,false);opts.cssBefore.top=next.cycleH;opts.animIn.height=next.cycleH;});opts.cssFirst={top:0};opts.cssBefore={left:0,height:0};opts.animIn={top:0};opts.animOut={height:0};};$.fn.cycle.transitions.turnDown=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,false);opts.animIn.height=next.cycleH;opts.animOut.top=curr.cycleH;});opts.cssFirst={top:0};opts.cssBefore={left:0,top:0,height:0};opts.animOut={height:0};};$.fn.cycle.transitions.turnLeft=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,true);opts.cssBefore.left=next.cycleW;opts.animIn.width=next.cycleW;});opts.cssBefore={top:0,width:0};opts.animIn={left:0};opts.animOut={width:0};};$.fn.cycle.transitions.turnRight=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,true);opts.animIn.width=next.cycleW;opts.animOut.left=curr.cycleW;});opts.cssBefore={top:0,left:0,width:0};opts.animIn={left:0};opts.animOut={width:0};};$.fn.cycle.transitions.zoom=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,false,true);opts.cssBefore.top=next.cycleH/2;opts.cssBefore.left=next.cycleW/2;opts.animIn={top:0,left:0,width:next.cycleW,height:next.cycleH};opts.animOut={width:0,height:0,top:curr.cycleH/2,left:curr.cycleW/2};});opts.cssFirst={top:0,left:0};opts.cssBefore={width:0,height:0};};$.fn.cycle.transitions.fadeZoom=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,false);opts.cssBefore.left=next.cycleW/2;opts.cssBefore.top=next.cycleH/2;opts.animIn={top:0,left:0,width:next.cycleW,height:next.cycleH};});opts.cssBefore={width:0,height:0};opts.animOut={opacity:0};};$.fn.cycle.transitions.blindX=function($cont,$slides,opts){var w=$cont.css("overflow","hidden").width();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts);opts.animIn.width=next.cycleW;opts.animOut.left=curr.cycleW;});opts.cssBefore={left:w,top:0};opts.animIn={left:0};opts.animOut={left:w};};$.fn.cycle.transitions.blindY=function($cont,$slides,opts){var h=$cont.css("overflow","hidden").height();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts);opts.animIn.height=next.cycleH;opts.animOut.top=curr.cycleH;});opts.cssBefore={top:h,left:0};opts.animIn={top:0};opts.animOut={top:h};};$.fn.cycle.transitions.blindZ=function($cont,$slides,opts){var h=$cont.css("overflow","hidden").height();var w=$cont.width();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts);opts.animIn.height=next.cycleH;opts.animOut.top=curr.cycleH;});opts.cssBefore={top:h,left:w};opts.animIn={top:0,left:0};opts.animOut={top:h,left:w};};$.fn.cycle.transitions.growX=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,true);opts.cssBefore.left=this.cycleW/2;opts.animIn={left:0,width:this.cycleW};opts.animOut={left:0};});opts.cssBefore={width:0,top:0};};$.fn.cycle.transitions.growY=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,false);opts.cssBefore.top=this.cycleH/2;opts.animIn={top:0,height:this.cycleH};opts.animOut={top:0};});opts.cssBefore={height:0,left:0};};$.fn.cycle.transitions.curtainX=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,false,true,true);opts.cssBefore.left=next.cycleW/2;opts.animIn={left:0,width:this.cycleW};opts.animOut={left:curr.cycleW/2,width:0};});opts.cssBefore={top:0,width:0};};$.fn.cycle.transitions.curtainY=function($cont,$slides,opts){opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,false,true);opts.cssBefore.top=next.cycleH/2;opts.animIn={top:0,height:next.cycleH};opts.animOut={top:curr.cycleH/2,height:0};});opts.cssBefore={left:0,height:0};};$.fn.cycle.transitions.cover=function($cont,$slides,opts){var d=opts.direction||"left";var w=$cont.css("overflow","hidden").width();var h=$cont.height();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts);if(d=="right"){opts.cssBefore.left=-w;}else{if(d=="up"){opts.cssBefore.top=h;}else{if(d=="down"){opts.cssBefore.top=-h;}else{opts.cssBefore.left=w;}}}});opts.animIn={left:0,top:0};opts.animOut={opacity:1};opts.cssBefore={top:0,left:0};};$.fn.cycle.transitions.uncover=function($cont,$slides,opts){var d=opts.direction||"left";var w=$cont.css("overflow","hidden").width();var h=$cont.height();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,true,true);if(d=="right"){opts.animOut.left=w;}else{if(d=="up"){opts.animOut.top=-h;}else{if(d=="down"){opts.animOut.top=h;}else{opts.animOut.left=-w;}}}});opts.animIn={left:0,top:0};opts.animOut={opacity:1};opts.cssBefore={top:0,left:0};};$.fn.cycle.transitions.toss=function($cont,$slides,opts){var w=$cont.css("overflow","visible").width();var h=$cont.height();opts.before.push(function(curr,next,opts){$.fn.cycle.commonReset(curr,next,opts,true,true,true);if(!opts.animOut.left&&!opts.animOut.top){opts.animOut={left:w*2,top:-h/2,opacity:0};}else{opts.animOut.opacity=0;}});opts.cssBefore={left:0,top:0};opts.animIn={left:0};};$.fn.cycle.transitions.wipe=function($cont,$slides,opts){var w=$cont.css("overflow","hidden").width();var h=$cont.height();opts.cssBefore=opts.cssBefore||{};var clip;if(opts.clip){if(/l2r/.test(opts.clip)){clip="rect(0px 0px "+h+"px 0px)";}else{if(/r2l/.test(opts.clip)){clip="rect(0px "+w+"px "+h+"px "+w+"px)";}else{if(/t2b/.test(opts.clip)){clip="rect(0px "+w+"px 0px 0px)";}else{if(/b2t/.test(opts.clip)){clip="rect("+h+"px "+w+"px "+h+"px 0px)";}else{if(/zoom/.test(opts.clip)){var t=parseInt(h/2);var l=parseInt(w/2);clip="rect("+t+"px "+l+"px "+t+"px "+l+"px)";}}}}}}opts.cssBefore.clip=opts.cssBefore.clip||clip||"rect(0px 0px 0px 0px)";var d=opts.cssBefore.clip.match(/(\d+)/g);var t=parseInt(d[0]),r=parseInt(d[1]),b=parseInt(d[2]),l=parseInt(d[3]);opts.before.push(function(curr,next,opts){if(curr==next){return;}var $curr=$(curr),$next=$(next);$.fn.cycle.commonReset(curr,next,opts,true,true,false);opts.cssAfter.display="block";var step=1,count=parseInt((opts.speedIn/13))-1;(function f(){var tt=t?t-parseInt(step*(t/count)):0;var ll=l?l-parseInt(step*(l/count)):0;var bb=b<h?b+parseInt(step*((h-b)/count||1)):h;var rr=r<w?r+parseInt(step*((w-r)/count||1)):w;$next.css({clip:"rect("+tt+"px "+rr+"px "+bb+"px "+ll+"px)"});(step++<=count)?setTimeout(f,13):$curr.css("display","none");})();});opts.cssBefore={display:"block",opacity:1,top:0,left:0};opts.animIn={left:0};opts.animOut={left:0};};})(jQuery);
+    </script>
 
 
-    <link rel="stylesheet" href="https://www.deltastock.com/style-new.css" type="text/css">
-    
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-H37S"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20111007081554/https://ssl.google-analytics.com/ga.js"></script><script src="/includes/scripts.js" type="text/javascript"></script>
+<script src="/includes/scripts.js?ver=1.1" type="text/javascript"></script>
 
 
-<title>Privacy Policy | Client Protection</title>
-<meta content="Deltastock.com - Online Forex &amp; Stock Broker. Privacy policy and client funds protection guaranteed. Trade forex online at fixed and variable spreads in one platform. Free Practice Trading Account." name="description">
+<script type="text/javascript">
+    function are_cookies_enabled()
+	{
+		var cookieEnabled = false;
+
+		//if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled)
+		//{ 
+			document.cookie="testcookie";
+			cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+		//}
+		return (cookieEnabled);		
+	}
+		
+    function setTimeDiff(){
+		if(are_cookies_enabled()){
+			 var timeDiff=getCookie('timeDiff');
+			 if (typeof(timeDiff)==="undefined"){
+			 	var x = new Date();
+			    var currUserTime = Date.UTC(x.getFullYear(), x.getMonth(), x.getDate(), x.getHours(), x.getMinutes(), x.getSeconds())
+
+			     
+
+			    var currServerTime1 = Date.UTC(2014, 10, 22, 10, 32);
+			   
+			    var shiftMinClient = (currUserTime-currServerTime1)/60000;
+			    
+			    if((Math.abs(shiftMinClient) > 24*60)||(Math.abs(shiftMinClient)<1))
+			    {
+			        shiftMinClient = 0
+			    }
+			    // setvame cookie shiftMinClient = Math.round(shiftMinClient/60)
+			    setCookie('timeDiff',""+Math.round(shiftMinClient/60));
+			 }
+			 //alert(getCookie('timeDiff'));
+		}
+	}
+	setTimeDiff();
+    </script>
+<title>Privacy Policy | Client Data Protection | Deltastock</title>
+<meta content="Deltastock: Online Forex &amp; CFD Broker. Our Privacy Policy explains how we use and protect non-public personal information and personal data that clients provide to us." name="description">
 
 <script type="text/javascript" src="/includes/google-analytics.js"></script>
 
@@ -42,20 +84,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="top-sp">
 			<h3 onclick="window.location='/'"><span>DeltaStock - Global Forex and CFD Broker</span></h3>
 			
-			<a id="green-button" href="/english/platforms/demo_registration.asp" onclick="_gaq.push(['_trackEvent', 'Demo Header Button', 'Click', 'Open Demo Account']);"><div id="green-button_l"><div id="green-button_r"><div class="but-text">Open a FREE Demo Account</div></div></div></a>
-			<a id="blue-button" href="/english/platforms/open_account.asp" onclick="_gaq.push(['_trackEvent', 'Live Header Button', 'Click', 'Open Line Account']);"><div id="blue-button_l"><div id="blue-button_r"><div class="but-text">Open a Live Account</div></div></div></a>
+			    <a id="green-button" href="/english/platforms/demo_registration.asp" onclick="_gaq.push(['_trackEvent', 'Demo Header Button', 'Click', 'Open Demo Account']);"><div id="green-button_l"><div id="green-button_r"><div class="but-text">Open a FREE Demo Account</div></div></div></a>
+			    <a id="blue-button" href="/english/platforms/open_account.asp" onclick="_gaq.push(['_trackEvent', 'Live Header Button', 'Click', 'Open Line Account']);"><div id="blue-button_l"><div id="blue-button_r"><div class="but-text">Open a Live Account</div></div></div></a>
 			
 		</div>
+        						
 		<div class="bottom-sp">
-
-			<a class="small-button weblogin" href="https://www.deltastock.com/dtweb/index.asp" target="_blank"><img src="/images/header/web-login.gif" alt="DTWeb">DTWeb Login</a>
-			<a class="small-button" href="/english/home/live-help.asp"><img src="/images/header/live-chat.gif" alt="Live Help">Live Help</a>
+		    
+			    <a class="small-button weblogin" href="https://www.deltastock.com/dtweb/index.asp?local=en" target="_blank"><img src="/images/header/web-login.gif" alt="DTWeb">DTWeb Login</a>
+			    <a class="small-button" href="/english/home/live-help.asp"><img src="/images/header/live-chat.gif" alt="Live Help">Live Help</a>
+			
 
 			<div class="my-profile">
 				
 			</div>
-			<span class="language-caption">Language:</span>
-<a id="langitems-ddheader" onclick="ShowHide('langitems-ddcontent')"><span class="uk">English</span></a><ul id="langitems-ddcontent" style="display: none;"><li><a href="/france/" onclick="javascript:return Translate('france','0')" class="fr">Français</a></li><li><a href="/spain/" onclick="javascript:return Translate('spain','0')" class="es">Español</a></li><li><a href="/italy/" onclick="javascript:return Translate('italy','0')" class="it">Italiano</a></li><li><a href="/germany/" onclick="javascript:return Translate('germany','0')" class="de">Deutsch</a></li><li><a href="/russia/" onclick="javascript:return Translate('russia','0')" class="ru">Русский</a></li><li><a href="/romania/" onclick="javascript:return Translate('romania','0')" class="ro">Romana</a></li><li><a href="/bulgaria/" onclick="javascript:return Translate('bulgaria','0')" class="bg">Български</a></li></ul>
+			
+			
+			    <span class="language-caption">Language:</span>
+			
+	        <div style="">
+	            <a id="langitems-ddheader" onclick="ShowHide('langitems-ddcontent')"><span class="uk">English</span></a><ul id="langitems-ddcontent" style="display: none;"><li><a href="/france/" onclick="javascript:return Translate('france','0')" class="fr">Français</a></li><li><a href="/spain/" onclick="javascript:return Translate('spain','0')" class="es">Español</a></li><li><a href="/italy/" onclick="javascript:return Translate('italy','0')" class="it">Italiano</a></li><li><a href="/germany/" onclick="javascript:return Translate('germany','0')" class="de">Deutsch</a></li><li><a href="/russia/" onclick="javascript:return Translate('russia','0')" class="ru">Русский</a></li><li><a href="/romania/" onclick="javascript:return Translate('romania','0')" class="ro">Romana</a></li><li><a href="/bulgaria/" onclick="javascript:return Translate('bulgaria','0')" class="bg">Български</a></li></ul>
 <script type="text/javascript">
 function Translate(site, uk) {
         //alert('about-us/privacy_policy.asp');
@@ -78,55 +126,71 @@ var e = document.getElementById(id);
 
 
 
+            </div>
+            
 		</div>
 
 	</div>
-	
+	<script type="text/javascript">
+	$(function(){
+	    $("#nav td").mouseenter(function(){
+	        $(this).children("ul.sub").slideDown(400);
+	    });
+	    $("#nav td").mouseleave(function(){
+	        $(this).children("ul.sub").stop(true, true).css("display", "none");
+	    });
+	    });
+	</script>
 	<div id="hdmenu">
 		<div id="hdmenu_r">
 			<div id="hdmenu_l">
-				<ul id="nav">	
-					<li><a id="menu-home" href="/">Home</a></li>
-					<li><a href="/english/instruments/forex.asp">Trading Conditions</a>
+				<table cellpadding="0" cellspacing="0" id="nav">
+				<tbody><tr>
+					<td><a id="menu-home" href="/">Home</a></td>
+					<td><a href="/english/instruments/forex.asp">Trading Conditions</a>
 						<ul class="sub">
 						<li><a href="/english/instruments/forex.asp">Forex</a></li>
 						<li><a href="/english/instruments/cfd-shares.asp">CFDs</a></li>
 						<li><a href="/english/instruments/gold-silver.asp">Gold &amp; Silver</a></li>
 						</ul>
-					</li>
-					<li><a href="/english/platforms/platforms.asp">Trading Platforms</a>
+					</td>
+					<td><a href="/english/platforms/platforms.asp">Trading Platforms</a>
 						<ul class="sub">
 						<li><a href="/english/platforms/platforms_delta_trading.asp">Delta Trading</a></li>
 						<li><a href="/english/platforms/Deltastock-MT4.asp">MetaTrader 4</a></li>
 						</ul>
-					</li>
-					<li><a href="/english/resources/resources.asp">Forex Resources</a>
+					</td>
+					<td><a href="/english/resources/resources.asp">Forex Resources</a>
 						<ul class="sub">
 						<li><a href="/english/resources/economic_calendar.asp">Economic Calendar</a></li>
-						<li><a href="/english/resources/resources_news.asp">News</a></li>
-						<li><a href="/english/resources/daily_tech_analyses.asp">Analysis</a></li>
-						<li><a href="/english/resources/quotes.asp">Quotes</a></li>
-						<li><a href="/english/resources/free-forex-web-tools.asp">Free Forex Tools</a></li>
+						<li><a href="/english/resources/daily_tech_analyses.asp">Forex Technical Analysis</a></li>
 						<li><a href="/english/resources/Currency_Converter.asp">Currency Converter</a></li>
+						<li><a href="/english/resources/quotes.asp">Quotes</a></li>
+						<li><a href="/english/resources/resistance_support.asp">Support / Resistance</a></li>
+						<li><a href="/english/resources/cfd_statistics.asp">Market Stats</a></li>
 						<li><a href="/english/resources/currency-relation.asp">Currency Relation</a></li>
+                        <li><a href="/english/resources/interest_rate_history.asp">Central Bank Interest Rates</a></li>
 						<li><a href="/english/resources/rss.asp">RSS Forex Feed</a></li>
 						</ul>
-					</li>
-					<li><a href="/english/promotions/15-years-deltastock.asp">Promotions</a>
+					</td>
+					<td><a href="/english/promotions/10percent-trading-bonus.asp">Promotions</a>
 						<ul class="sub">
-						<li><a href="/english/promotions/15-years-deltastock.asp">15 Years Deltastock</a></li>
+						<li><a href="/english/promotions/10percent-trading-bonus.asp">10% Trading Bonus</a></li>
+                        <li><a href="/english/promotions/15-years-deltastock.asp">15 Years Deltastock</a></li>
 						<li><a href="/english/promotions/skrill-bonus.asp?PC=036_Skrill">Skrill Bonus</a></li>
 						<li><a href="/english/promotions/form_friend.asp">Refer a Friend Program</a></li>
 						</ul>
-					</li>
-					<li><a href="/english/my-account/accounts.asp">My Account</a>
+					</td>
+					<td><a href="/english/my-account/accounts.asp">My Account</a>
 						<ul class="sub">
 						<li><a href="/english/my-account/my-dt-account.asp?ver=original&amp;cfrom=myacc">My Delta Trading Account</a></li>
 						<li><a href="/english/my-account/my-mt4-account.asp">My MT4 Account</a></li>
 						<li><a href="/english/my-account/deposit-withdraw.asp">Deposit/Withdrawal Info</a></li>
+						<li><a href="/english/platforms/open_account.asp">Open Live Account</a></li>
+						<li><a href="/english/platforms/demo_registration.asp">Open Demo Account</a></li>
 						</ul>
-					</li>
-					<li><a href="/english/about-us/about-us.asp" class="active">About Us</a>
+					</td>
+					<td><a href="/english/about-us/about-us.asp" class="active">About Us</a>
 						<ul class="sub">
 						<li><a href="/english/about-us/about-us.asp">About Deltastock</a></li>
 						<li><a href="/english/about-us/mifid.asp">MiFID Regulated</a></li>
@@ -136,16 +200,17 @@ var e = document.getElementById(id);
 						<li><a href="/english/about-us/privacy_policy.asp">Privacy Policy</a></li>
 						<li><a href="/english/about-us/contacts_sofia.asp">Contact Us</a></li>
 						</ul>
-					</li>
-                    <li class="menu-end"><a id="menu-last" href="/english/education/education.asp">Education</a>
+					</td>
+                    <td class="menu-end"><a id="menu-last" href="/english/education/education.asp">Education</a>
 						<ul class="sub">
 						<li><a href="/english/education/video-gallery.asp">Video gallery</a></li>
 						<li><a href="/english/education/forex-trading-basics.asp">Forex fundamentials</a></li>
 						<li><a href="/english/education/technical-analysis.asp">Forex advanced</a></li>
 						<li><a href="/english/education/dictionary.asp">Glossary</a></li>
 						</ul>
-					</li>
-				</ul>			
+					</td>
+					</tr>	
+				</tbody></table>			
 			</div>
 		</div>
 	</div><script type="text/javascript"> 
@@ -183,6 +248,11 @@ var e = document.getElementById(id);
 		};
 			
 		subTxt = TxtFolder.substring(pos1, pos2);
+		var h1StrShort = ""
+		if (h1string.length > 35) {
+			h1StrShort = h1string.substring(0,35) + "..."
+		}
+		if (h1StrShort != "") h1string = h1StrShort;
 
 		if (h1string != "" && h1string.toUpperCase() != subTxt.toUpperCase()) {
 			document.getElementById("last-loc-item").innerHTML = RaqStr + "&nbsp;" + h1string;
@@ -208,7 +278,7 @@ var e = document.getElementById(id);
 
 <a class="home" href="/">Home</a> <span id="folder"><a href="../about-us/about-us.asp"><img src="/images/header/loc-right.gif"> About Us</a></span><span id="last-loc-item"><img src="/images/header/loc-right.gif">&nbsp;Privacy Policy</span></div>
 
-<table style="float:right; width:330px;">
+<table style="float:right; width: 330px !important;">
 <tbody><tr>
 <td>
 <div id="top-social" text-align="right">
@@ -220,11 +290,13 @@ var e = document.getElementById(id);
 	
 </td>
 <td>
-<form class="searchform" action="http://www.google.com/cse" onsubmit="javascript:googlestatus();" target="_blank">
+
+	<form class="searchform" action="http://www.google.com/cse" onsubmit="javascript:googlestatus();" target="_blank">
 <input type="hidden" name="cx" value="007649939480139265277:k6nhrnzkdmm"><input type="hidden" name="ie" value="utf-8">
 <input class="searchfield" name="q" type="text" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">
 <button type="submit" name="button" title="Search Deltastock" id="searchButton"><img src="/images/header/search.gif" alt="Search"></button>
 </form>
+
 </td>
 </tr>
 </tbody></table>
@@ -267,113 +339,172 @@ var e = document.getElementById(id);
     
 <h3>Privacy Statement</h3>
 
-<p>Deltastock is committed to ensuring the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your information in accordance with this policy.</p>
-<p>The following statement explains how Deltastock collects and uses the non-public personal information provided by you.</p>
-
+<p>Deltastock is committed to ensuring the privacy of non-public information and personal data provided by all clients of the company as well as all visitors to and users of the website <a href="http://www.deltastock.com">www.deltastock.com</a> (the website). </p>
+<p>Please read the following Privacy Policy to understand how Deltastock collects, uses, discloses, and protects the non-public information and personal data provided by you.</p>
+<p>Deltastock will only use the non-public information and personal data it gathers in accordance with this Policy and the relevant regulation.</p>
 <h3>Collection of Information</h3>
-<p>If you decide to open an account with us, there is certain information that we will require from you. This information includes, but is not limited to, personal details such as name, address, date of birth, contact details, employment details, assets and liabilities and other necessary financial information. From time to time we may also request further information to help us improve our service to you.</p>
-<p>We obtain most of the information directly from our customers through application or other forms, and from maintaining records of information provided in the course of ongoing customer service.</p>
-<p>We may also collect information about your use of the website, such as pages visited, frequency and duration and visit and trading activities.</p>
-
-<p>Deltastock collects information from the following direct sources:</p> 
+<p>If a prospective client decides to open an account with Deltastock, there is certain information that will be required from them. This information includes, but is not limited to, personal data such as name, address, date and place of birth, phone number and other contact details, passport details, employment details, assets and liabilities, as well as other necessary financial information.</p>
+<p>From time to time Deltastock may request further information to help improve the services it provides and also to fulfill its regulatory duty to maintain the data through which Deltastock individualises a website user as its client in current form and volume.</p>
+<p>Deltastock collects information from the following direct sources:</p>
 <ul class="orange_list">
-<li>online application form;</li>
-<li>account opening documents;</li>
-<li>transactions made online;</li>
-<li>e-mail correspondence;</li>
-<li>visits to Deltastock's website, etc.</li>
-<li>Internet Protocol (IP) address;</li>
-<li>browser type;</li>
-<li>operating system;</li>
-<li>Internet Service Provider (ISP);</li>
-<li>time stamps;</li>
-<li>transactions placed;</li>
-<li>banner ads viewed, etc.</li>
+    <li>online application form for opening an account for trading in financial instruments;</li>
+    <li>documents necessary for opening an account for trading in financial instruments;</li>
+    <li>transactions made online related to the services offered by Deltastock;</li>
+    <li>email correspondence to and from Deltastock;</li>
+    <li>visits to Deltastock's website;</li>
+    <li>Internet Protocol (IP) address;</li>
+    <li>browser type;</li>
+    <li>operating system;</li>
+    <li>Internet Service Provider (ISP);</li>
+    <li>banner ads viewed, etc.</li>
 </ul>
-
-<p>Deltastock collects information indirectly through the use of cookies which are small text files sent from the web server to the Internet user's computer. Cookies provide us with operational data which we can use to improve the user's interaction with our website, its navigation and usability. Deltastock uses an SSL certificate to encrypt information transmitted by or to the visitor through our website.</p>
+<p>Deltastock collects information indirectly through the use of cookies, which are information packages sent by the web server to the user’s web browser, and which are sent back by the browser each time it accesses the same server. These information packages are saved and stored on the user’s computer by the web browser. Cookies provide operational data which can be used to improve the user's interaction with the website.</p>
+<p>To ensure the security of information transfer, Deltastock uses an SSL certificate to encrypt information transmitted by or to the visitor through the website.</p>
 
 <h3>Use of Information</h3>
-<p>Deltastock uses non-public personal information in order to establish and service clients' accounts and for security purposes. For example, Deltastock may use the personal information to open an account, create an account number, username and password, to contact clients and to verify a client's identity.</p>
-<p>We will use information collected from you to identify you in accordance with the Applicable Law, to provide the information and services requested by you and to improve the quality of our service. Unless you are informed otherwise, the personal information we hold is used for:</p>
+<p>Deltastock uses the non-public personal information containing personal data collected from clients in order to establish and service clients' accounts for trading in financial instruments.</p>
+<p>Deltastock will use the data collected from the client to establish their identity in accordance with the applicable law, as well as to enter into an agreement with the client for providing the services offered by the company. The data gathered will also be used to classify the client as a retail or unprofessional client – and with regard to this, to provide them with the legally established set of documents and other information.</p>
+<p>Unless the client is informed otherwise, the non-public information and personal data that Deltastock holds is also used for:</p>
 <ul class="orange_list">
-<li>Reviewing your ongoing needs;</li>
-<li>AML measures and fraud prevention;</li>
-<li>Enhancing customer service and products;</li>
-<li>Giving you ongoing information or opportunities that we believe may be relevant to you.</li>
+    <li>reviewing the client’s ongoing needs;</li>
+    <li>AML (anti-money laundering) measures and fraud prevention;</li>
+    <li>enhancing customer service and products;</li>
+    <li>providing ongoing information or opportunities that Deltastock believes may be of interest to the client.</li>
 </ul>
-
-<h3>Disclosing Information</h3>
-<p>We do not disclose clients' non-public personal information to any non-affiliated third parties or to affiliated entities, except as permitted by Applicable Law.</p>
-<p>Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:</p>
+<h3>Disclosure of Information</h3>
+<p>Deltastock does not disclose clients' non-public information and personal data to any non-affiliated third parties or to affiliated entities, except as permitted by applicable law.</p>
+<p>Depending on the product or service concerned and particular restrictions on confidential information, personal client data and information may be disclosed to:</p>
 <ul class="orange_list">
-<li>service providers and specialist advisers to us who have been contracted to provide us with administrative, financial, legal, research or other services;</li>
-<li>courts and regulatory authorities as agreed or authorised by law;</li>
-<li>anyone authorised by you, as specified by that individual or the contract.</li>
+    <li>service providers and specialist advisers who have been contracted to provide Deltastock with administrative, financial, legal, research, or other services;</li>
+    <li>courts and regulatory authorities, in accordance with or as prescribed by law;</li>
+    <li>anyone authorised by the client, as specified by that individual or the contract.</li>
 </ul>
-<p>If you do not want us to use your personal information, please inform us in writing. If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you, and we will have no liability to you in respect of the same.</p>
-
-<h3>Updating Your Information</h3>
-<p>You should inform Deltastock at any time that your personal details have changed or that you wish Deltastock to delete personal information we hold about you by emailing us at <a href="mailto:office@deltastock.com">office@deltastock.com</a>.</p>
-<p>Deltastock will change or delete your personal information in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes, to provide you with the services you have requested, or to maintain adequate business records.</p>
-
+<p>If the client does not wish Deltastock to use their personal information, they should inform the company in writing. If the client decides to do so, Deltastock may not be able to provide them with information about services and/or products requested by them, and also the products and services themselves; and with regard to this, Deltastock will have no liability to the client in respect of the same.</p>
+<h3>Updating or Deleting Client Data</h3>
+<p>The client should inform Deltastock in a timely manner that their personal data has changed by sending an email to <a href="mailto:office@deltastock.com">office@deltastock.com</a>.</p>
+<p>The client should inform Deltastock if they wish their personal data to be deleted by sending an email to <a href="mailto:office@deltastock.com">office@deltastock.com</a>.</p>
+<p>Deltastock will change or delete a client’s personal data in accordance with their instructions, except to the extent, terms and manner that Deltastock is required to hold clients’ personal data for regulatory or legal purposes, in order to provide the client with the services they have requested, or due to the fact that it has provided the services during a past period, and must now maintain certain information until a certain regulatory deadline.</p>
 <h3>Cookies and IP Addresses</h3>
-<p>To make using our website as straightforward as possible and to improve the services we offer to you, we use cookies and IP addresses.</p>
-<p>Cookies are harmless text files that web servers can store on your computer's hard drive when you visit a site. They allow the server to recognise you when you revisit. There are two main types of cookies:</p>
+<p>To make using the website as straightforward as possible and to improve the services it offers, Deltastock uses cookies and IP addresses.</p>
+<p>Cookies are information packages sent by the web server to the user’s or client’s Internet browser, and which are sent back by the browser each time it accesses the same server. These information packages are saved and stored on the user’s or client’s computer by the Internet browser.</p>
+<p>There are two main types of cookies:</p>
 <ul class="orange_list">
-<li>Transient (or per-session) cookies - these only exist for your site visit and are deleted on exit. They recognise you as you move between pages, for example, recording items added to an online shopping basket. These cookies also help maintain security;</li>
-<li>Persistent (or permanent) cookies - these stay on your machine until expiry or deletion. Many are built with an automatic deletion date to help ensure your hard drive doesn’t get overloaded. These cookies often store and re-enter your login information, so you don't need to remember membership details.</li>
+    <li>Transient (or per-session) cookies: These only exist during the user’s website visit, and are deleted on exit. These cookies recognise the user as they move between the website pages; for example, recording items added to an online shopping basket. These cookies also help maintain security.</li>
+    <li>Persistent (or permanent) cookies: These stay on the user’s computer until expiry or deletion. Many are built with an automatic deletion date to help ensure the computer’s hard drive doesn’t get overloaded. These cookies often store and re-enter login information, so the user doesn't need to remember their login details.</li>
 </ul>
-<p>They help you do things online, like remembering login details, so you don’t have to re-enter them when revisiting a site.</p>
-<p>We use cookies to:</p>
+<p>Deltastock would like to inform its clients and website users that it uses Google Analytics to analyse the use of the website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information gathered relating to the website is used to create reports about the use of the website. Google will store this information. Google’s Privacy Policy can be found here: <a href="http://www.google.com/privacypolicy.html">http://www.google.com/privacypolicy.html</a>.</p>
+<p>Deltastock uses cookies to:</p>
 <ul class="orange_list">
-<li>Gather customer journey information across our sites;</li>
-<li>Ensure your privacy in our secure sites;</li>
-<li>Store login details for our secure sites;</li>
-<li>Temporarily store details input into our calculators, tools, illustrations and demonstrations;</li>
-<li>Store details of your marketing, product and business unit preferences to improve our targeting and enhance your journey through our sites;</li>
-<li>Evaluate our sites advertising and promotional effectiveness (we own the anonymous data collected, which is not shared with anyone).</li>
+    <li>gather information about the journey across the website of website users and clients of the financial services offered by the company;</li>
+    <li>ensure client and user security on the website;</li>
+    <li>store login details for the website;</li>
+    <li>temporarily store data input into the calculators, tools, illustrations, and demonstrations provided by the company on the website;</li>
+    <li>store information about users’ marketing and product preferences, which helps improve targeting</li>
+    <li>store information about users’ dwell time on the website;</li>
+    <li>evaluate the website’s advertising and promotional effectiveness (the data collected by Deltastock is anonymous, and is not shared with any third parties).</li>            
 </ul>
-<p>We use both our own (first party) and partner companies’ (third party) cookies to support these activities.</p>
-<p>We don’t use cookies to track people’s Internet usage after leaving our sites and we don’t store personal information in them others could read and understand. We will not sell or distribute cookie information without your prior consent.</p>
+<p>Deltastock uses both its own (first party) and partner companies’ (third party) cookies to support these activities.</p>
+<p>Deltastock doesn’t use cookies to track users’ and clients’ Internet usage after leaving the website and doesn’t store information that third parties could read or track. Deltastock will not exchange, sell, or lease cookie information without the express consent of the user.</p>
+<p>The table below explains the cookies Deltastock uses and why:</p>
 
-<h3>Services Requiring Enabled Cookies</h3>
-<p>Some of our services require cookies in your browser to view and use them and to protect your financial and personal information.</p>
+			<table class="comodities" style="line-height: 18px;">
+			<tbody><tr>
+			<th>Name</th>
+			<th>Purpose</th>
+			<th>More Information</th>
+			</tr>
+			
+			<tr class="alternative">
+			<td>testcookie</td>
+			<td>This cookie represents if the user or client has enabled cookies on their browser or not.</td>
+			<td><a style="font-weight:normal;" href="http://www.aboutcookies.org/" target="_blank">www.aboutcookies.org</a></td>
+			</tr>
+			
+			<tr>
+			<td>ASP.NET_sessionId</td>
+			<td>These cookies ensure that the website content is personalised to the user’s or client’s preferences. They allow Deltastock’s web servers to respond to the user’s or client’s actions on the website.</td>
+			<td><a style="font-weight:normal;" href="http://support.microsoft.com/kb/899918" target="_blank">Microsoft</a></td>
+			</tr>
+			
+			<tr class="alternative">
+			<td>_utma<br>_utmb<br>_utmc<br>_utmd<br>_utmz<br></td>
+			<td>These cookies are used to collect information about how visitors use the website, which helps Deltastock improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where they have come to the website from and the pages they have visited. </td>
+			<td><a style="font-weight:normal;" href="http://bg.wikipedia.org/wiki/HTTP-%D0%B1%D0%B8%D1%81%D0%BA%D0%B2%D0%B8%D1%82%D0%BA%D0%B0" target="_blank">Wikipedia</a></td>
+			</tr>
+			
+			<tr>
+			<td>IBref</td>
+			<td>These cookies allow Deltastock to track traffic from affiliate websites.</td>
+			<td></td>
+			</tr>
+			
+			<tr class="alternative">
+			<td>timeDiff</td>
+			<td>This cookie is used to store the user’s time zone</td>
+			<td></td>
+			</tr>
+			
+			<tr>
+			<td>userCountry</td>
+			<td>This cookie is used to store the user’s language preferences</td>
+			<td></td>
+			</tr>
+			
+			<tr class="alternative">
+			<td>slidercookie</td>
+			<td>This cookie is used to store a certain state of the website.</td>
+			<td></td>
+			</tr>
+			</tbody></table>
 
-<h3>Changing Your Cookie Settings</h3>
-<p>To enable or disable cookies, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility).</p>
-<p>Alternatively, an external resource is available at <a href="http://www.allaboutcookies.org/manage-cookies" target="_blank">www.allaboutcookies.org/manage-cookies</a>, providing specific information about cookies and how to manage them to suit your preferences.</p>
-<p>Please note that should you choose to set your browser to disable cookies, you may not be able to access secure areas of this Site, for example, any online accounts you may hold.</p>
-
+<h3>Changing  Cookie Settings</h3>
+<p>To enable or disable cookies, it is necessary to follow the instructions provided by the web browser, which are usually located within the ‘Help’, ‘Tools’ or ‘Edit’ menus.</p>
+<p>Alternatively, an external resource is available at <a href="http://www.allaboutcookies.org/manage-cookies">www.allaboutcookies.org/manage-cookies</a>, providing specific information about cookies and how to manage them to suit the user’s preferences.</p>
+<p>Users and clients must be aware that should they choose to disable cookies in their browsers, they may not be able to access secure areas of the website; for example, online accounts.</p>
 <h3>Secure Online Services</h3>
-<p>Any secure online services you subscribe to with us may use cookies to enable information about you and your preferences to be stored, and to prevent unauthorised access to your services and information. Cookies must usually be accepted in such circumstances. Without them we cannot ensure your information is secure (and people rejecting cookies can’t use the services).</p>
-
+<p>Any secure online services the user or client has subscribed to with Deltastock may use cookies in order to enable information about the user and their preferences to be stored, and also to prevent unauthorised access to those services and information. In such circumstances, cookies must usually be accepted and enabled within the browser, since without them Deltastock cannot ensure that the user’s or client’s information is secure. This is the reason why users rejecting cookies can’t use the secure online services.</p>
 <h3>IP Address</h3>
-<p>An IP address is a unique number that identifies your computer while connected to the Internet. IP addresses are not linked to personally identifiable information. We also use IP addresses to analyse overall visitor behaviour and preferences on the Site.</p>
-
+<p>An IP address is a unique number that identifies the user’s or client’s computer while connected to the Internet. IP addresses are not linked to personal information. Besides for purposes of identification of the user’s or client’s computer, Deltastock also uses IP addresses to analyse overall user behaviour and preferences on the website.</p>
 <h3>Protection of Information</h3>
-<p>Clients' personal information is kept secure and strictly confidential, and is accessed and used only by the employees who service the client's account.</p>
+<p>Clients' non-public information and personal data are kept in a secure and strictly confidential manner, and are accessed and used only by employees who service the client's account.</p>
 <p>Deltastock uses advanced security software and technology to ensure a safe and secure trading environment and to protect clients' non-public personal, financial and trading information.</p>
-
-<h3>Opt-Out Procedure</h3>
-<p>It is Deltastock's policy not to disclose non-public client information to non-affiliated third parties. Under the Applicable Law, Deltastock is required to provide an opt-out procedure statement. You are not required to supply any of the personal information that Deltastock may request. However, failure to do so may result in the company's inability to open or maintain a client's account or to provide services to you.</p>
-
-<h3>Changes in Privacy Policy</h3>
-<p>Any changes or revisions to this privacy statement will be posted promptly on Deltastock's website and will serve as notification to clients.</p>
-
-<h3>Your Consent</h3>
-<p>By opening an account with Deltastock and (or) by using Deltastock’s website, you give your consent to the collection and use of non-public personal information by Deltastock, as explained in this Privacy Statement.</p>
-
+<h3>Opt-out Procedure</h3>
+<p>It is Deltastock's policy not to disclose non-public client information to third parties, except in legally defined cases.</p>
+<p>The client has no obligation to provide any part of their non-public information or personal data that may be requested by Deltastock.</p>
+<p>The client’s refusal to provide the information or personal data requested by Deltastock may result in Deltastock's inability to open or maintain the client's account for trading in financial instruments, or to provide financial services to them.</p>
+<h3>Amendments to Privacy Policy</h3>
+<p>Any changes to this Privacy Policy will be published promptly on Deltastock's website and will serve as notification to clients.</p>
+<h3>Client Consent</h3>
+<p>By opening an account for trading in financial instruments with Deltastock and/or by using Deltastock’s website, the company client and/or website user give their consent to the collection and use of non-public information and personal data by Deltastock, as provided in this Privacy Policy.</p>
+<h3>Law and Jurisdiction</h3>
+<p>This Policy shall be governed by and construed in accordance with the laws of the Republic of Bulgaria, and any disputes relating to this Policy shall be resolved between the parties themselves, and in case of failure to do so, they shall be subject to the jurisdiction of the courts of the Republic of Bulgaria.</p>
 
 
 </div>
-<br>
-<br>
 
 </div>
 <div class="clear"></div>
 </div>
+<style type="text/css">
+    td.footer-contacts {font-size:11px; color:#808080; width:20%; padding:0px;}
+    td.footer-contacts img {float:left; display:inline-block;}
+    td.footer-contacts div {float:right; width:139px; display:inline-block;}
+    .foot {text-align:right;}
+</style>
 <div class="footer-top-spacing"></div>
+<div style="width:100%; border-top:1px #DBDBDB solid;"></div>
+<div style="width:100%;"><a href="/english/about-us/contacts_sofia.asp">
+    <table align="center" cellpadding="6" cellspacing="0" width="1000" border="0" style="margin:10px auto;">
+        <tbody><tr>
+            <td class="footer-contacts"><img src="/images/New-Homepage-Images/subfooter-working-hours.png" alt=""><div>Working hours:<br>Monday to Friday,<br> 09:00 – 17:45 EET</div></td>
+            <td class="footer-contacts"><img src="/images/New-Homepage-Images/subfooter-mail.png" alt=""><div>E-mail:<br>office@deltastock.bg<br>frontoffice@deltastock.bg</div></td>
+            <td class="footer-contacts"><img src="/images/New-Homepage-Images/subfooter-phones.png" alt=""><div>Phone:<br>+359 2 811 50 10<br>0700 18 80</div></td>
+            <td class="footer-contacts"><img src="/images/New-Homepage-Images/subfooter-dealers.png" alt=""><div>Dealers/brokers:<br>+359 2 811 50 51<br>+359 2 811 50 61</div></td>
+            <td class="footer-contacts"><img src="/images/New-Homepage-Images/subfooter-address.png" alt=""><div>Head office:<br>Megapark Office Building<br>115G Tsarigradsko Shose<br>Sofia 1784, Bulgaria</div></td>
+        </tr>
+    </tbody></table>
+</a></div>
+<div style="width:100%; border-top:1px #DBDBDB solid;"></div>
 <table align="center" cellpadding="6" cellspacing="0" class="tblfooter" width="1000" border="0">
 <tbody><tr>
 	<td colspan="4" style="height: 5px; padding: 0px; margin: 0px; border: none;"></td>	
@@ -413,9 +544,9 @@ var e = document.getElementById(id);
 	<td valign="top">
 		<p class="footer-desc">Delta Trading</p>
 		<p class="inside"><a href="/english/platforms/demo_registration.asp">Open a Free Demo Account</a></p>
-		<p class="inside"><a href="http://212.95.167.179/deltatrading6.msi" target="_blank">Download DT 6</a></p>
+		<p class="inside"><a href="http://forex-deltastock-bg.com/deltatrading6.msi" target="_blank">Download DT 6</a></p>
 		<p class="inside"><a href="/manual/HTML_DT6/index.html?Main_toolbar_Intro.htm" target="_blank">User Guide</a></p>
-		<p class="inside"><a href="/english/resources/video-gallery.asp">Video Tutorials</a></p>
+		<p class="inside"><a href="/english/education/video-gallery.asp">Video Tutorials</a></p>
 		<br>
 		<p class="footer-desc">MetaTrader 4</p>
 		<p class="inside"><a href="/english/platforms/deltastock-mt4-demo.asp">Get a Free Demo</a></p>
@@ -429,27 +560,11 @@ var e = document.getElementById(id);
 		<p class="inside"><a href="/english/resources/quotes.asp">Forex and Index Quotes</a></p>
 		<p class="inside"><a href="/english/resources/Currency_Converter.asp">Currency Calculator</a></p>
 		<p class="inside"><a href="/english/resources/currency-relation.asp">Currency Relation</a></p>
-		<p class="inside"><a href="/english/resources/widgets.asp">Trading Widgets</a></p>
-		<br>
-		<p class="footer-desc">Webmaster Tools</p>
-		<p class="inside"><a href="/english/resources/free-forex-web-tools.asp">Free Forex Tools</a></p>
+
 	</td>
 </tr>
 <tr><td height="35"></td></tr>
-<tr>
-	<td colspan="4" class="mini-footer" width="100%">
-		<span class="fut-copy">Copyright © 1999-<span>2014</span>&nbsp;Deltastock AD</span>
-		<span class="fut-contact">
-			<img align="absmiddle" alt="phone" src="/images/home/phone2.gif"> +359 2 811 50 10&nbsp;						
-			<img align="absmiddle" alt="phone" src="/images/home/live-chat.gif" style="padding-left: 4px; padding-right: 4px;"><a href="/english/home/live-help.asp" style="text-decoration: underline;">24/5 Live Help</a>&nbsp;
-			<img align="absmiddle" alt="phone" src="/images/home/email.gif" style="padding-left: 4px;"> <a href="mailto:office@deltastock.com" style="text-decoration: underline;">office@deltastock.com</a>
-		
-		
-		
-	
-		</span>
-	</td>
-</tr>
+
 <tr>
 	<td colspan="4" style="border: none; padding: 0px; margin: 0px; padding-top: 2px;">
 		<table border="0" cellpadding="0" cellspacing="0" style="border-colapsed: colapsed; color: #555; width:1000px">
@@ -457,21 +572,26 @@ var e = document.getElementById(id);
 				<td nowrap="nowrap" class="foot-social">
 				
                 <a href="/english/my-account/deposit-withdraw.asp" title="Deposit Funds to your trading account">
-                    <img src="/images/my-account/visa.png" alt="Payment options: VISA"><img src="/images/my-account/mastercard.png" alt="Payment options: Mastercard"><img src="/images/my-account/wire.png" alt="Payment options: Wire Transfer"><img src="/images/my-account/skrill.png" alt="Payment options: Skrill">
+                    <img src="/images/New-Homepage-Images/payment-visa.png" alt="Payment options: VISA">
+                    <img src="/images/New-Homepage-Images/payment-mastercard.png" alt="Payment options: Mastercard">
+                    <img src="/images/New-Homepage-Images/payment-bank.png" alt="Payment options: Wire Transfer">
+                    <img src="/images/New-Homepage-Images/payment-skrill.png" alt="Payment options: Skrill">
                     </a>        
 				</td>
-				<td nowrap="nowrap" class="foot" style="border-left: none; text-align: right; text-transform: uppercase; font-family: Verdana;">
+				<td nowrap="nowrap" style="text-align: right; text-transform: uppercase; font-family:Helvetica, Verdana;">
+				<div class="foot">
 					<a href="/">Home</a>
-				&nbsp;<img src="/images/home/mini-spacer.gif" alt="">&nbsp;
+				&nbsp;
 					<a href="/english/about-us/contacts_london.asp">Contact us</a> 
-				&nbsp;<img src="/images/home/mini-spacer.gif" alt="">&nbsp;
+				&nbsp;
 					<a href="/english/about-us/legal-information.asp">Legal information</a>
-				&nbsp;<img src="/images/home/mini-spacer.gif" alt="">&nbsp;
+				&nbsp;
 					<a href="/english/about-us/privacy_policy.asp">Privacy</a> 
-				&nbsp;<img src="/images/home/mini-spacer.gif" alt="">&nbsp; 
+				&nbsp;
 					<a href="/english/docs/condEN/FI_RISKS.pdf" target="_blank">Risk warning</a>
-				&nbsp;<img src="/images/home/mini-spacer.gif" alt="">&nbsp; 
-					<a href="/english/sitemap/sitemap.asp">Site map</a>
+				&nbsp;
+					<a style="border-right:none;" href="/english/sitemap/sitemap.asp">Site map</a>
+					</div>
 				</td>
 			</tr>
 			<tr>
@@ -490,5 +610,14 @@ var e = document.getElementById(id);
 </tbody></table>
 
 </div>
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/9958.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
 
 </body></html>
