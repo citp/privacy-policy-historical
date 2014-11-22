@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123209id_/http%3A//isportsweb.com/community/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031634id_/http%3A//isportsweb.com/community/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - isportsweb
+# Privacy Policy | isportsweb
 
 isportsweb knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
