@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134057id_/http%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122020333id_/http%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Foreign Currency Exchange Rates and Currency Converter Calculator
-
-Privacy Policy
 
 **Personal Information**  
 All personal information held or collected by the <http://www.fx-exchange.com/> is protected under the federal Privacy Act. This means that at the point of collection you will be asked to give your consent, informed of the purpose for which personal information is being collected, and advised that you have a right of access to that information.
