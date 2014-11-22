@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331144938id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122152356id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
 
 # www.DrLam.com Privacy Statement - DrLam® - Body. Mind. Nutrition®
 
@@ -82,3 +82,14 @@ The [www.DrLam.com](http://www.drlam.com/) Web site does not knowingly collect o
 **Notification of Changes in Use of Information**  
 Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.  
 If you have any questions about this privacy policy or believe that the [www.DrLam.com](http://www.drlam.com/) Web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ DrLam.com@gmail.com](mailto:DrLam.com@gmail.com)
+
+Dr. Lam’s Adrenal Line
+
+[](https://web.archive.org/web/20141122152356id_/http%3A//supplements/index.asp?aid=662425055432#662425055432)  
+Dr. Lam’s Adrenal Daily Nutrient comes in powder form and allows you the ability to consume your daily fruit and vegetable intake along with necessary nutrients to help support your adrenals.  
+This drink also acts as a complete multivitamin!
+
+[](https://web.archive.org/web/20141122152356id_/http%3A//supplements/index.asp?aid=662425055432#662425055432)
+
+  
+ 
