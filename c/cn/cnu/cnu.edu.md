@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505194850id_/http%3A//cnu.edu/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122145902id_/http%3A//cnu.edu/privacy/index.asp) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -26,7 +26,7 @@ Christopher Newport University is committed to ensuring the security of your inf
 
 We contract with a third party to act on our behalf to accept credit card payments and donations. This third-party provider complies with all secure commerce guidelines and regulations to ensure the integrity and security of your information. We do not retain or store credit card information required to complete the transaction. We do not share the list of payee / contributors but may use this list to communicate news about Christopher Newport University.
 
-We contract with a third party to act on our behalf to manage the application processes. Data is submitted directly to this third party and at no time is personal information stored on CNU Web servers. Application information is transferred to the Student Information System for futher review and processing. The vendor complies with all privacy laws to ensure the security of private information and does not sell or share personal information.
+We contract with a third party to act on our behalf to manage the application processes. Data is submitted directly to this third party and at no time is personal information stored on CNU Web servers. Application information is transferred to the Student Information System for further review and processing. The vendor complies with all privacy laws to ensure the security of private information and does not sell or share personal information.
 
 ##### Marketing Materials
 
@@ -54,4 +54,4 @@ This site may contain links to other websites not affiliated with Christopher Ne
 
 We reserve the right to modify this privacy statement at any time and will post any changes on this Web page.
 
-[back to top](http://cnu.edu/privacy/#top)
+[back to top](https://web.archive.org/web/20141122145902id_/http://cnu.edu/privacy/index.asp)
