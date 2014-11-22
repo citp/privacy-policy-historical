@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wreckingballsms.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316160606id_/http%3A//woottext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wreckingballsms.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122053738id_/http%3A//woottext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | woottext.com
 
