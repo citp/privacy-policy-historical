@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avert.org privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528124239id_/http%3A//www.avert.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avert.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141356id_/http%3A//www.avert.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AVERT
 
@@ -30,4 +30,4 @@ Please note that where our website contains links to other websites, we are not 
 
 IP addresses are not linked to personally identifiable information. We only use IP addresses to analyse trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
 
-Furthermore please [be aware that we use cookies on our website](https://web.archive.org/web/20140528124239id_/http%3A//www.avert.org/cookies.htm). We use cookies to track the interests of our users so that we can subsequently enhance their experience on our website. If your browser rejects a cookie, you may still use our website.
+Furthermore please [be aware that we use cookies on our website](https://web.archive.org/web/20141122141356id_/http%3A//www.avert.org/cookies.htm). We use cookies to track the interests of our users so that we can subsequently enhance their experience on our website. If your browser rejects a cookie, you may still use our website.
