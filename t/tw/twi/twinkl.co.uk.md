@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328161452id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023025id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Primary Resources - FREE for Early Years (EYFS) KS1 & KS2 | twinkl
+# Primary Resources - FREE for Early Years (EYFS) KS1 & KS2 |
+
+  
+
+
+## A message from Jon Seaton about Twinkl’s commitment to your security and privacy.
+
+  At Twinkl, your trust means **everything** to us. That’s why we respect your privacy and protect it with the strongest form of commercial encryption available, plus we ensure that there are strict policies that govern how all data is handled.
+
+  We believe in telling you up front exactly what’s going to happen to your personal information and asking for your permission before you share it with us. And if you change your mind later, we make it easy to stop sharing with us. When we do ask to use your data, it’s to provide you with a better user experience and to be even more helpful to you.
+
+  You may have noticed that we used to feature advertising on the website, which has now been removed. This decision has a financial impact for the business and all our staff who depend financially on the materials you purchase from us, but we felt it was the right thing to do – because it was the right thing for you. No more annoying adverts and flashing banners – just 100% timesaving and life-enhancing resources.
+
+  Our business model is very straightforward: we sell beautifully designed and unique products, and we rely on you to purchase from us. We don’t build a profile based on your web browsing habits to sell to advertisers. Our website and services are designed to make the site experience and our teaching materials, better. Plain and simple.
+
+  Our commitment to protecting your privacy comes from the fact that Twinkl is a unique business – driven by teachers, for teachers. We know that your trust doesn’t come easy. That’s why we have and always will work as hard as we can to earn and keep it.
+
+  We ask that you continue to support and promote our hard work and beautiful teaching materials and we will continue to support you in every way we can. **We care about you.** We care about the children you teach and the path that primary education is taking. We’re here to support and fight with you in every step of that journey – that’s our promise.
+
+  Jon
 
 _Twinkl Limited_ __ takes your privacy very seriously and we are fully compliant with the principles of the Data Protection Act 1998 and are additionally a registered data controller under the Act. We ask that you read this privacy policy carefully as it contains important information about what to expect when _Twinkl Limited_ collects personal information about you and how _Twinkl Limited_ __ will use your personal data. This policy applies to information we collect about:
 
