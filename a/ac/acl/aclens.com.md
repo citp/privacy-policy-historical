@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613030732id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122151750id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 AC Lens will treat your information as we treat our own. We do not sell your information and will do everything we can to make sure your information is secure. For a more detailed look at our policies keep reading. 
 
-AC Lens collects information about its customers both during the order process and as customers navigate the http://www.aclens.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and AC Lens will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, AC Lens reserves the right to contact existing customers regarding store specials and other significant events. 
+AC Lens, owned and operated by Arlington Contact Lens Service, Inc. collects information about its customers both during the order process and as customers navigate the http://www.aclens.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and AC Lens will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, AC Lens reserves the right to contact existing customers regarding store specials and other significant events. 
 
 ## Opt-Out Provided
 
@@ -56,7 +56,7 @@ Top
 
 ## Legal Disclosure of Your Information
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If said website is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 Top
 
@@ -76,7 +76,7 @@ Top
 
 [](https://privacy.truste.com/privacy-seal/Arlington-Contact-Lens-Service,-Inc/validation?rid=27cd68a3-14fa-4429-bf0d-44dc7f8804dc "TRUSTe online privacy certification")
 
-AC Lens has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at http://www.aclens.com/. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+AC Lens has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at http://www.aclens.com/. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 Top
 
@@ -88,6 +88,6 @@ We will retain your information for as long as your account is active or as need
 
 If you have additional questions about the privacy of your information, please contact AC Lens at [service@aclens.com](mailto:service@aclens.com) or call us at **1-888-248-5367**. 
 
-Last Updated on: 10/22/12
+Last Updated on: 7/3/2014
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective. 
