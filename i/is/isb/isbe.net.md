@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423131101id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234455id_/http%3A//www.isbe.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,34 +18,27 @@ We collect no personal information about you unless you voluntarily participate 
 
 #### **What Information Is Automatically Collected?**
 
-If, during your visit to the ISBE Web site, you just browse or download information, the following information about your visit will be automatically collected and stored in the Web server's log:  
-
+If, during your visit to the ISBE Web site, you just browse or download information, the following information about your visit will be automatically collected and stored in the Web server's log: 
 
   1. Your Internet Protocol address (not the e-mail address).
-  2. The type of web browser used to access this site (Internet Explorer, Netscape, etc.). (Web pages do not always display the same on every type or version of web browser and thus must be coded for appropriate access.)  
+  2. The type of web browser used to access this site (Internet Explorer, Netscape, etc.). (Web pages do not always display the same on every type or version of web browser and thus must be coded for appropriate access.) 
 
 
 
-
-Our Web site logs do not contain personally identifiable information, and we make no attempt to link them with the individuals who browse this Web site.   
-
+Our Web site logs do not contain personally identifiable information, and we make no attempt to link them with the individuals who browse this Web site. 
 
 #### **What Information Is Collected Only with Your Permission?**
 
-If you visit our Web site and participate in a survey, fill out a Web-based form, or send an e-mail, the following additional information will be collected:   
-
+If you visit our Web site and participate in a survey, fill out a Web-based form, or send an e-mail, the following additional information will be collected: 
 
   1. Internet Correspondence: If an individual sends ISBE an e-mail message or fills out a Web-based form with a question or comment that contains personal identifying information, that information will only be used to respond to the request and to analyze trends. The message may be redirected to another government agency or person who is better able to answer the question. We may retain that email address and other information as appropriate for official business purposes. 
-  2. Surveys: Any information you volunteered in response to a survey. Survey information is used for the purpose designated.   
+  2. Surveys: Any information you volunteered in response to a survey. Survey information is used for the purpose designated. 
 
 
 
+#### **How Do We Use the Information We Collect?**
 
-#### **How Do We Use the Information We Collect?**   
-
-
-The information that we gather both automatically and with your permission during your visit to our Web site is used in the following ways:   
-
+The information that we gather both automatically and with your permission during your visit to our Web site is used in the following ways: 
 
   * Monitor, review, measure, and analyze Web site utilization
   * Modify and enhance the Web site 
@@ -65,8 +58,7 @@ The information that we gather both automatically and with your permission durin
 Upon request, we provide site visitors with access to the following: 
 
   * A description of information (e.g., name, address, phone number) that we maintain about them 
-  * Communications that the visitor has directed to our site  
-
+  * Communications that the visitor has directed to our site 
 
 
 
@@ -85,6 +77,9 @@ Your browser software can be set to reject all cookies, or to ask you if you wou
 The ISBE Web site does requires registration to access certain forms requiring digital signature via the ISBE Web Application System (IWAS). At registration, you are asked to provide name, login name, password, and an email address. Once registered, you may enter the password protected website by keying in your login name and password. If the login name and password match, you are granted access to forms requiring digital signature. 
 
 #### **Our Children's Privacy Policy**
+
+[Student Data Privacy Fact Sheet](https://web.archive.org/web/20141122234455id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-FactSheet.pdf) _(2014)_  
+[Student Data Privacy - Myth Busters](https://web.archive.org/web/20141122234455id_/http%3A//www.isbe.net/pdf/StudentDataPrivacy-MythBusters.pdf) _(2014)_
 
 ISBE and the State of Illinois are committed to protecting children's privacy and complying fully with the Children's Online Privacy Protection Act of 1998. (COPPA) (15 U.S.C. 6501 et seq.). 
 
@@ -106,16 +101,14 @@ We will make efforts to notify you when you are leaving our site and you may be 
 
 #### **Security of Communications**
 
-ISBE recognizes that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorized individuals to intercept any e-mail message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow Web sites to provide an increased level of security for your personal and health-related information when appropriate. We use the following practices on our Web site to enhance the level of security for communication and the transmission of personal information:   
-
+ISBE recognizes that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorized individuals to intercept any e-mail message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow Web sites to provide an increased level of security for your personal and health-related information when appropriate. We use the following practices on our Web site to enhance the level of security for communication and the transmission of personal information: 
 
   * We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
   * We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide.
   * When we transfer and receive certain types of sensitive information, we redirect visitors to a secure server.
   * We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site
   * We use e-mail forms to allow our customers to ask questions about our services and programs. However, these are not hosted on a secure server. The possibility exists that unauthorized individuals may intercept e-mail messages. 
-  * We are not responsible for the privacy of e-mail messages except those stored in our system.   
-
+  * We are not responsible for the privacy of e-mail messages except those stored in our system. 
 
 
 
@@ -135,5 +128,4 @@ If you have questions about our privacy policy, or believe that this site is not
 >  Springfield, IL  62777-0001  
 > 
 
-This Privacy Policy was last revised on February 10, 2003.  
-
+This Privacy Policy was last revised on February 10, 2003. 
