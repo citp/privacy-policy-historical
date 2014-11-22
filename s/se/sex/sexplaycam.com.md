@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413012357id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122182035id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
 
 # SexPlayCam - The web's most unique adult fantasy playground
 
@@ -21,13 +21,13 @@ For the purposes of this Policy, "personal information" shall mean any informati
 
 Each time a visitor visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor's IP Address, referral data and browser/platform type. This information is recorded by the standard operation of SexPlayCam.com's Internet servers. We also count, track and aggregate a visitor's activity into our analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.). The information collected here cannot identify who you are as an individual. However, we may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, the Website, users or others.
 
-We may merge information about visitors and visits into group data, which may then at our discretion be shared on an aggregated basis with our advertisers. We will not disclose your individual identity or personally identifiable data without your permission. 
+We may merge information about visitors and visits into group data, which may then at our discretion be shared on an aggregated basis with our advertisers. We will not disclose your individual identity or personally identifiable data without your permission.
 
-What are IP Addresses? An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Internet. We do not link IP addresses to personally identifiable information, which means that your session will be logged anonymously. 
+What are IP Addresses? An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Internet. We do not link IP addresses to personally identifiable information, which means that your session will be logged anonymously.
 
-What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently. 
+What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently.
 
-This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from SexPlayCam.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that SexPlayCam.com allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that SexPlayCam.com does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
+This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from SexPlayCam.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that SexPlayCam.com allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that SexPlayCam.com does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information.
 
 #### 2) Information Required for Registration. 
 
@@ -37,7 +37,7 @@ We encourage Users to fill out their profiles as completely as possible, with th
 
 The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your inquiries or provide you with the Services you requested. If a new purpose is identified for the use of the information collected, the new purpose will be explained prior to its new use. Unless the new purpose is required by law, your consent is required before information can be used for that purpose. Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time.
 
-Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. SexPlayCam.com retains information (name and address) to correctly identify you in dealings with third party billing agents. Additional information gathered by third party billing agents is not controlled by SexPlayCam.com or this Policy. 
+Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. SexPlayCam.com retainsinformation (name and address) to correctly identify you in dealings with third party billing agents. Additional information gathered by third party billing agents is not controlled bySexPlayCam.com or this Policy.
 
 #### 3) Voluntary Inclusion of Personal Information. 
 
@@ -45,9 +45,9 @@ Personally identifiable information that you enter into your profile, that you i
 
 #### 4) Communication. 
 
-The Website directly communicates with Members and Users through email, instant messaging, and in some cases, downloaded executables. This enables Members to receive information when they are not on the Website, so they remain current on internal communication and updates from other Users or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions. Should you not wish SexPlayCam.com to send you information on other services or products, please just contact us using the information provided in section 17 below. 
+The Website directly communicates with Members and Users through email, instant messaging, and in some cases, downloaded executables. This enables Members to receive information when they are not on the Website, so they remain current on internal communication and updates from other Users or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions. Should you not wish SexPlayCam.com to send you information on other services or products, please just contact us using the information provided in section 17 below.
 
-Members of the Website can directly communicate with you through messaging services that are part of the Service (mail, chat or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other Members by us. 
+Members of the Website can directly communicate with you through messaging services that are part of the Service (mail, chat or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other Members by us.
 
 #### 5) Referrals. 
 
@@ -59,21 +59,21 @@ You may not use other Users' information for commercial purposes, to send SPAM o
 
 If you receive communications that you find to have violated this Policy, please contact us using the information provided in section 17 below, being sure to include the message text and the User who sent the communication to you.
 
-#### 7) Accuracy of Personal Information, Information Review and Removal. 
+#### 7) Accuracy of Personal Information, Information Review and Removal.
 
-We shall make every reasonable effort to ensure your personal information is accurate, complete and up-to-date. You are responsible for advising SexPlayCam.com of any inaccuracies or changes to your personal information. 
+We shall make every reasonable effort to ensure your personal information is accurate, complete and up-to-date. You are responsible for advising SexPlayCam.com of any inaccuracies or changes to your personal information.
 
 Users may modify or remove any of their information associated with their profile at any time by logging into their account and accessing the Edit Profile feature.
 
 Users may, at any time, delete their profiles or remove any images or audio-visual material that they have posted to the Website.
 
-#### 8) Promotion. 
+#### 8) Promotion.
 
 From time to time, SexPlayCam.com may sponsor sweepstakes, contests or other events of interest to our users. SexPlayCam.com may co-sponsor these events with third party organizations, and may be required to share demographic information to be used for the event. Any shared demographic information will not be associated with individual users; it will only be presented as aggregated information. 
 
 In some cases, promotions or sweepstakes that may be of interest to our users may require us to share email information with third party sponsors or partners. A User's personal email information will not be released to any third party organization without the User's express consent and disclosure of the sponsor organization's name, and SexPlayCam.com will request that such named sponsors uphold the privacy of the registrant's information by not distributing or sharing such information with any other businesses or organizations, and we will ensure that such sponsors agree to be bound by the terms of this Policy. 
 
-Should you not wish to receive notices or be considered for sweepstakes, contests or other events, please contact us using the information provided in section 17 below. 
+Should you not wish to receive notices or be considered for sweepstakes, contests or other events, please contact us using the information provided in section 17 below.
 
 #### 9) Disclosure and Retention of Personal Information. 
 
@@ -84,14 +84,14 @@ We will only use or disclose your personal information in accordance with the pu
   3. To investigate and/or enforce violations of our Terms and Conditions and/or this Policy, or to protect our interests in our operation and our legal rights and protections.
   4. To investigate potentially fraudulent or questionable activities.
   5. When required or permitted by law. SexPlayCam.com (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement authority, and to court orders, requesting or directing SexPlayCam.com (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is using or has used the Website or the Service or has obtained any Content available through or in association with the Website. By accepting this Policy and using the Website and/or the Service, you waive and hold harmless SexPlayCam.com, our affiliates, content providers, and the operators of the Website from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement authority's investigations or inquiries.
-  6. In the course of a sale or potential sale, reorganization, consolidation, merger or amalgamation of our business. In order to ensure a smooth transition of the Service in the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by SexPlayCam.com, SexPlayCam.com may transfer your personally identifiable information to a third party as a part of such merger, acquisition, reorganization or sale. In the event the transaction proceeds, we will require that the receiving party agree that they will be similarly bound by the provisions of this privacy policy and that they will only use and disclose your personal information as we are similarly entitled under this privacy policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely erase the same.
+  6. In the course of a sale or potential sale, reorganization, consolidation, merger or amalgamation of our business. In order to ensure a smooth transition of the Service in the eventof a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by SexPlayCam.com, SexPlayCam.com may transfer your personally identifiable information to a third party as a part of such merger, acquisition, reorganization or sale. In the event the transaction proceeds, we will require that the receiving party agree that they will be similarly bound by the provisions of this privacy policy and that they will only use and disclose your personal information as we are similarly entitled under this privacy policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely erase the same.
   7. Where such disclosure is described elsewhere in this Policy.This Policy does not protect information you post to any online profile, bulletin board, e-note, video chat room, or any other forum accessible to other Users or other sites within SexPlayCam.com.
 
 
 
 #### 10) Location of Personal Information
 
-We are an international organization with servers located in various jurisdictions. As a result, User and Member personal information may be transferred to and stored in Canada, Ireland or elsewhere. We do the best we can to ensure your personal information is protected to the greatest extent possible. However, please note that the jurisdiction in which we store your personal information may not have similar standards for protecting your personal information as are provided for in your country. As well, government organizations from the jurisdiction in which the personal information is stored may have access to your personal information in accordance with the laws of such jurisdiction. 
+We are an international organization with servers located in various jurisdictions. As a result, User and Member personal information may be transferred to and stored in Canada, Ireland or elsewhere. We do the best we can to ensure your personal information is protected to the greatest extent possible. However, please note that the jurisdiction in which we store your personal information may not have similar standards for protecting your personal information as are provided for in your country. As well, government organizations from the jurisdiction in which the personal information is stored may have access to your personal information in accordance with the laws of such jurisdiction.
 
 #### 11) Employee Access to Your Personal Information. 
 
@@ -128,7 +128,7 @@ The Website that is governed by the provisions and practices stated in this Poli
 
 Your use of the Website, and any disputes arising from it, is subject to this Policy as well as our Terms and Conditions and all of its dispute resolution provisions including, but not limited to, limitations of liability and governing law.
 
-#### 16) Updating this Privacy Policy. 
+#### 16) Updating this Privacy Policy.
 
 This Policy is subject to change by SexPlayCam.com at any time. We may modify any of the terms contained in this Policy at any time in our sole discretion. Any changes to our privacy policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the date at the bottom of this privacy policy. 
 
@@ -138,12 +138,12 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 #### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ SexPlayCam.com](https://web.archive.org/myprofile/settings)
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [SexPlayCam.com](https://web.archive.org/myprofile/settings)
 
 If you have any further questions or concerns about SexPlayCam.com's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@SexPlayCam.com)
 
 #### 18) Dispute Resolution
 
-Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or SexPlayCam.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
+Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or SexPlayCam.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary.
 
 Version [06/23/10]
