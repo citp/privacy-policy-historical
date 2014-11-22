@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209163450id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122181746id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - SourceSecurity.com
 
 Cookie policy
+
+## Privacy policy
 
 This document sets out the privacy policy of Notting Hill Media Limited, of which SourceSecurity.com is a division (“We”/“Us” and “Our”) and it applies to the website [www.sourcesecurity.com](https://web.archive.org/) and any affiliated and/or satellite websites and any future, revised, updated, mobile and/or spin-off versions or applications (the “Website”) and explains how We use your personal information (“Your Information”). We reserve the right to update this Policy from time to time.
 
