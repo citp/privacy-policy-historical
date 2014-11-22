@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145713id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082340id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security | ePromos Education Center
-
-[Privacy Policy](http://www.epromos.com/support/privacy-security/#privacy)  
-[Security](http://www.epromos.com/support/privacy-security/#security)
-
-  
-**Privacy Policy**
+# Privacy and Security - ePromos Education Center
 
 This is the web site of **ePromos.com, Inc.**  
 Our postal address is:  
@@ -45,22 +39,6 @@ Consumers can access this information by e-mailing us at the above address.
 
 Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
 
-Consumers can have this information corrected by sending us e-mail at the above address or calling us at the above telephone number.
+Consumers can have this information corrected by sending us e-mail at the above address or calling us at the above telephone number. 
 
-  
-**Security**
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-We process credit card information by fax and phone. Internally your credit card information is kept highly secure. Please do not give us credit card information by email as it is not secure.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-[Back to Top](http://www.epromos.com/support/privacy-security/)
-
-Please log in
-
-  
-
-
-Or sign up for an account now
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.We process credit card information by fax and phone. Internally your credit card information is kept highly secure. Please do not give us credit card information by email as it is not secure.If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
