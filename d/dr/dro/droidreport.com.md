@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the droidreport.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519154027id_/http%3A//www.droidreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidreport.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080330id_/http%3A//www.droidreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This policy was last updated on March 3, 2014_
+_This policy was last updated on July 16, 2014_
 
-**INTRODUCTION:**   
+**INTRODUCTION:**  
 This Privacy Policy describes how IBT Media Inc. and its affiliated United States subsidiaries (collectively, "Company," "us" or "we") may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on its Web sites and other applications.
 
 This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to the online editions of IBT Media Inc (droidreport.com) and related services or sites that link to this Privacy Policy.
@@ -78,34 +78,34 @@ When an individual chooses to post information that will be publicly disclosed, 
 
 To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so for each of our publications separately, as indicated below:
 
-**International Business Times Online and any other IBT Media properties:**   
+**International Business Times Online and any other IBT Media properties:**  
 To opt out of receiving marketing from International Business Times Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com)
 
 If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
 
-**ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII**   
+**ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII**  
 You may review and update the PII that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
 
-**International Business Times Online and any other IBT Media properties:**   
+**International Business Times Online and any other IBT Media properties:**  
 Subscribers may contact Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com) Most subscribers to International Business Times Online may also update their information by going to Member Center.
 
-**SECURITY: WE PROTECT THE SECURITY OF PII**   
+**SECURITY: WE PROTECT THE SECURITY OF PII**  
 We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-**DATA RETENTION**   
+**DATA RETENTION**  
 We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
 
-**TRANSFER TO US OR OTHER COUNTRIES**   
+**TRANSFER TO US OR OTHER COUNTRIES**  
 Your information may be stored and processed in the United States, in Slovakia or in any country where Company has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country, except in the case of data transfers from the European Economic Area or Switzerland, which are covered under the EU and Swiss Safe Harbor Frameworks.
 
-**REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**   
+**REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**  
 If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBT Media.
 
 **Your California Privacy Rights**
 
-Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [newsweek@emailcustomerservice.com](mailto:newsweek@emailcustomerservice.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [support@newsweek.com](mailto:support@newsweek.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
 **SAFE HARBOR PRIVACY PRINCIPLES**
 
