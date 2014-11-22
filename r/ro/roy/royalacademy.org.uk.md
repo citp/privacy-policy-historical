@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalacademy.org.uk privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612000010id_/http%3A//www.royalacademy.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalacademy.org.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122010746id_/http%3A//www.royalacademy.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Royal Academy of Arts
 
