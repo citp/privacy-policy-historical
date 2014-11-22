@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bysymphony.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134955id_/http%3A//bysymphony.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bysymphony.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122091942id_/http%3A//bysymphony.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" charset="utf-8" src="//v2.zopim.com/?1yfQqCrXOym2dNgF9vVcHawNb3CG6ACi" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPG2QR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMGUFBVGwcBV1lQBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" charset="utf-8" src="//v2.zopim.com/?1yfQqCrXOym2dNgF9vVcHawNb3CG6ACi" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPG2QR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMGUFBVGwcBV1lQBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Privacy Policy | BySymphony</title>
 <meta name="description" content="Symphony (&quot;Symphony &quot;, &quot;we&quot;, &quot;our&quot;, &quot;us&quot;) is a trading name of Symphony Style. We respect the privacy rights of its online visitors (&quot;you&quot;, &quot;your&quot;, &quot;yours&quot;) and recognise the importance of protecting the information collected about them.">
 <meta name="keywords" content="">
@@ -20,9 +20,10 @@
 </script>
 <![endif]-->
 
+<style>.megamenu-en { display: inline-block !important; } </style>
 
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/220be364f5189291d7e9eb832fde975a.css" media="all">
-<script type="text/javascript" src="http://bysymphony.com/media/js/f8a0c2a0bb08143c5600af0c5af41996.js"></script>
+<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/6e214f83e97ab0925e848eb84c1bfea1.css" media="all">
+<script type="text/javascript" src="http://bysymphony.com/media/js/0a7e2062bd278c42f0177bae7cd300e2.js"></script>
 <link href="http://bysymphony.com/notes/rss/index/store_id/1/" title="" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/1daff8455a72a95cdec8c5aef00e2267.css" media="all" />
@@ -54,7 +55,9 @@ Mage.Cookies.domain   = '.bysymphony.com';
 </script>
 <link rel="alternate" hreflang="ar-ae" href="http://bysymphony.com/privacy-policy-ar"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><script type="text/javascript">
+</script>
+</head>
 <body class=" cms-page-view cms-privacy-policy">
 <!--
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
@@ -81,6 +84,31 @@ Mage.Cookies.domain   = '.bysymphony.com';
 
 <!--</script>-->
 <!--End 404 Tracking-->
+<script type="text/javascript">
+        EsNewsSubscribers.setCookieLiveTime(100);
+            EsNewsSubscribers.setCookieName('bysymphony_newsletterpopup');
+        EsNewsSubscribers.setBaseUrl('http://bysymphony.com/');
+</script>
+<div id="esns_background_layer">
+        <div id="esns_box_layer">
+        <div id="esns_box_close"></div>
+        <div id="esns_box_title">
+                        <div id="esns_box_block_1">
+               Become An Insider            </div>
+                                    <div id="esns_box_block_2">
+                Be the first to receive updates about new arrivals,  designers, deals, the latest trends and other fashion news now, from our editors to your inbox.            </div>
+                    </div>
+
+                <div id="esns_box_subscribe">
+            <div id="esns_box_subscribe_response_error"></div>
+            <div id="esns_box_subscribe_response_success"></div>
+            <div id="esns_box_subscribe_form">
+                <div id="esns_box_subscribe_input"><input placeholder="Your email address" id="esns_email" name="subscribe_email" type="text"></div>
+                <div id="esns_box_subscribe_submit"><a href="javascript:void(0)" id="esns_submit">Sign Up Now</a></div>
+            </div>
+        </div>
+    </div>
+    </div>
 <!-- Google Tag Manager -->
 <script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPG2QR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -165,20 +193,32 @@ Mage.Cookies.domain   = '.bysymphony.com';
 <p><strong>Symphony Style LLC</strong><br>Saaha Offices A (Office E519)<br>Souk Al Bahar<br>Downtown Burj Khalifa<br>Dubai, UAE<br>PO Box 121612</p></div>                </div>
             </div>
         </div>
-   		<div class="header-container">
+   		
+<div class="header-container">
     <div class="header">
+    
+    <ul class="mobile-store-switcher" style="display: none;">
+        <li>
+                                                <a href="http://bysymphony.com/privacy-policy?___store=ar&amp;___from_store=default" title="Switch to our العربية Store">العربية</a>
+            
+        </li>
+    </ul>
+    
         <div class="quick-access left">
             <ul class="links">
                 <li class="left-link first">
                     <img class="icon-telephone" src="http://bysymphony.com/skin/frontend/symphony/default/images/blank.gif">
                     <span class="telephone">+971 4 3106904</span>
                 </li>                
-                <li class="left-link last"><span class="free-ship">International Delivery &amp; Free Shipping in the UAE</span></li>
+                <li class="left-link last"><span class="free-ship">Available WorldWide Shipping</span></li>
                 <div class="clear"></div>
             </ul>
         </div>
         <div class="quick-access right">
-            <ul class="top-link-container">
+            
+
+
+<ul class="top-link-container">
             <li class="header-top-link first"><a class="top-anchor" href="https://bysymphony.com/customer/account/create/">Register</a></li>
         <li class="header-top-divide"></li>
         <li class="header-top-link"><a class="top-anchor" href="https://bysymphony.com/customer/account/login/">Sign In</a></li>
@@ -198,7 +238,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
     </li>
 
     <li class="header-top-divide"></li>
-    <li class="header-top-link last">
+    <li class="header-top-link second-last">
         <a class="top-anchor" id="cart-link" href="http://bysymphony.com/checkout/cart/">My Bag ( <span class="total_count">0</span> ) </a>
         <div class="shopping-bag-container hide" id="shopping-bag-dropdown" style="display:none;">
             <!--{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}--><div class="uparrow"></div>
@@ -214,8 +254,14 @@ Mage.Cookies.domain   = '.bysymphony.com';
 <!--/{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}-->        </div>
     </li>
 
+        <li class="header-top-divide"></li>
+    <li class="header-top-link last">
+	            <a href="http://bysymphony.com/privacy-policy?___store=ar&amp;___from_store=default" title="Switch to our العربية Store">العربية</a>
+        
+    </li>
                 
 </ul>
+
         </div>
         <div class="clear"></div>
 
@@ -327,7 +373,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://bysymphony.com/new-arrivals">All New Arrivals</a></div>
+        <div class="custom-url megamenu-en" style="display:none"><a href="http://bysymphony.com/new-arrivals">All New Arrivals</a></div>
+<div class="custom-url megamenu-ar" style="display:none"><a href="http://bysymphony.com/new-arrivals">جميع المنتجات التي وصلت حديثا</a></div>
 
 
 
@@ -391,7 +438,9 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://bysymphony.com/designers/all/">All Designers A - Z</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/designers/all/">All Designers A - Z</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/designers/all/">جميع المصممين من ال أ الى الياء</a></div>
+
 
 
 
@@ -407,19 +456,31 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
 
             
+                                    <li><a href="http://bysymphony.com/designers/alexander-mcqueen">Alexander McQueen</a></li>
+
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/designers/balenciaga">Balenciaga</a></li>
+
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/designers/bottega-veneta">Bottega Veneta</a></li>
+
+            
+            
+
+            
                                     <li><a href="http://bysymphony.com/designers/emporio-armani">Emporio Armani</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/issa">Issa</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designers/jil-sander">Jil Sander</a></li>
+                                    <li><a href="http://bysymphony.com/designers/gucci">Gucci</a></li>
 
             
             
@@ -427,13 +488,11 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
                                     <li><a href="http://bysymphony.com/designers/joseph">Joseph</a></li>
 
-                    </ul>
-        <ul class="left">
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/naeem-khan">Naeem Khan</a></li>
+                                    <li><a href="http://bysymphony.com/designers/msgm">MSGM</a></li>
 
             
             
@@ -441,26 +500,35 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
                                     <li><a href="http://bysymphony.com/designers/peter-pilotto">Peter Pilotto</a></li>
 
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designers/prabal-gurung">Prabal Gurung</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designers/roksanda-ilincic">Roksanda Ilincic</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designers/temperley-london">Temperley London </a></li>
-
                     </ul>
         <ul class="left">
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/designers/saint-laurent">Saint Laurent</a></li>
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
             
             
 
@@ -487,7 +555,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://bysymphony.com/clothing">All Clothing</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/clothing">All Clothing</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/clothing">جميع الملابس</a></div>
 
 
 
@@ -559,16 +628,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
 
             
-                                    <li><a href="http://bysymphony.com/clothing/designer-lingerie">Lingerie</a></li>
-
-            
-            
-
-            
                                     <li><a href="http://bysymphony.com/clothing/beachwear">Beachwear</a></li>
 
-                    </ul>
-        <ul class="left">
             
             
 
@@ -579,7 +640,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
 
     <div class="new-in">
         <div class="new-image">
-            <a href="/clothing/dresses"><img alt="" src="&#10;&#10;http://assets.bysymphonymedia.com/lvpGdMFn$fsaYP0vTed6Ce$uEdUj.jpg?q=90"></a>
+            <a href="/clothing/dresses"><img alt="" src="&#10;&#10;http://assets.bysymphonymedia.com/aH9SqOvG7FZwfhO$97NYvmRjaIwj.jpg?q=80&amp;p=2"></a>
         </div>
         <h5 class="gs"><a href="/clothing/dresses"></a></h5>
 
@@ -596,7 +657,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://bysymphony.com/designer-shoes">All Shoes</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/designer-shoes">All Shoes</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/designer-shoes">جميع الاحذيه</a></div>
 
 
 
@@ -614,22 +676,26 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
                                     <li><a href="http://bysymphony.com/designer-shoes/sandals">Sandals</a></li>
 
-                    </ul>
-        <ul class="left">
             
             
 
             
                                     <li><a href="http://bysymphony.com/designer-shoes/flats">Flats</a></li>
 
+                    </ul>
+        <ul class="left">
             
             
 
             
                                     <li><a href="http://bysymphony.com/designer-shoes/sneakers">Sneakers</a></li>
 
-                    </ul>
-        <ul class="left">
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/designer-shoes/boots">Boots</a></li>
+
             
             
 
@@ -640,7 +706,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
 
     <div class="new-in">
         <div class="new-image">
-            <a href="/designer-shoes"><img alt="" src="http://assets.bysymphonymedia.com/5tZA1VdHJdLcRsDmhc1n8vjGLRAj.jpg?q=90"></a>
+            <a href="/designer-shoes"><img alt="" src="http://assets.bysymphonymedia.com/ZOPvG2yjd511NsL3N9dwU8Tjw6oj.jpg?q=80&amp;p=2"></a>
         </div>
         <h5 class="gs"><a href="/designer-shoes"></a></h5>
 
@@ -657,12 +723,14 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://www.bysymphony.com/designer-handbags">All Bags</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="http://www.bysymphony.com/designer-handbags">All Bags</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="http://www.bysymphony.com/designer-handbags">جميع الحقائب</a></div>
+
 
 
 
     
-    <div class="subcategories ">
+    <div class="subcategories no-image">
         <ul class="left">
                         
             
@@ -691,15 +759,14 @@ Mage.Cookies.domain   = '.bysymphony.com';
     </div>
 
 
-    <div class="new-in">
-        <div class="new-image">
-            <a href="/designer-handbags"><img alt="" src="http://assets.bysymphonymedia.com/ENyiD8CsU1i8N1g4Fhp9p$Ydn2sj.jpg?q=90"></a>
-        </div>
-        <h5 class="gs"><a href="/designer-handbags"></a></h5>
-
-    </div>
     <div class="clear"></div>
 
+    <script type="text/javascript">
+        var menuItem = '#megamenu-5';
+        jQuery(menuItem).css({
+            'width' :'20%'
+        });
+    </script>
 
         <script type="text/javascript">
         megamenus['nav-item-5'] = 'megamenu-5';
@@ -710,7 +777,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url"><a href="http://www.bysymphony.com/accessories">All Accessories</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="http://www.bysymphony.com/accessories">All Accessories</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="http://www.bysymphony.com/accessories">جميع الاكسسوارا</a></div>
 
 
 
@@ -726,7 +794,19 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
 
             
+                                    <li><a href="http://bysymphony.com/accessories/designer-sunglasses">Sunglasses</a></li>
+
+            
+            
+
+            
                                     <li><a href="http://bysymphony.com/accessories/designer-scarves">Scarves</a></li>
+
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/accessories/designer-belts">Belts</a></li>
 
                     </ul>
         <ul class="left">
@@ -734,7 +814,19 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
 
             
-                                    <li><a href="http://bysymphony.com/accessories/designer-belts">Belts</a></li>
+                                    <li><a href="http://bysymphony.com/accessories/designer-gloves">Gloves</a></li>
+
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/accessories/designer-hats">Hats</a></li>
+
+            
+            
+
+            
+                                    <li><a href="http://bysymphony.com/accessories/key-fobs">Key Fobs</a></li>
 
             
             
@@ -746,7 +838,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
 
     <div class="new-in">
         <div class="new-image">
-            <a href="/accessories"><img alt="" src="http://assets.bysymphonymedia.com/qZOrraP8OSezsMa7cFEklL2YOX0j.jpg?q=90"></a>
+            <a href="/accessories"><img alt="" src="http://assets.bysymphonymedia.com/4L1ku8iIhvStK5vGGQuFir1BuHMj.jpg?q=80&amp;p=2"></a>
         </div>
         <h5 class="gs"><a href="/accessories"></a></h5>
 
@@ -950,48 +1042,30 @@ Mage.Cookies.domain   = '.bysymphony.com';
         </div>
 
         <div class="bottom_links left">
+        
             <div class="footer-inner cms_links english left">
-                <div class="about-us left">
-                    <h5>About Us</h5>
-                    <ul>
+<div class="about-us left">
+<h5>About Us</h5>
+<ul>
 <li><a href="http://bysymphony.com/about-us">Symphony</a></li>
 <li><a href="http://bysymphony.com/careers">Careers</a></li>
-</ul>                </div>
-                <div class="customer-care left">
-                    <h5>Customer Care</h5>
-                    <ul>
+</ul></div>
+<div class="customer-care left">
+<h5>Customer Care</h5>
+<ul>
 <li><a href="http://bysymphony.com/contact-us">Contact Us</a></li>
 <li><a href="http://bysymphony.com/terms-and-conditions">Terms &amp; Conditions</a></li>
 <li><a href="http://bysymphony.com/shipping-information">Shipping Information</a></li>
 <li><a href="http://bysymphony.com/returns">Returns &amp; Exchanges</a></li>
 <li><a href="http://bysymphony.com/cookie-policy">Cookie Policy</a></li>
 <li><a href="http://bysymphony.com/privacy-policy">Privacy Policy</a></li>
-<li><a class="no-popup" href="http://bysymphony.com/catalog/seo_sitemap/category">Site Map</a></li>
-</ul>                </div>
-                <div class="clear"></div>
-            </div>
+<li style="display: none;"><a class="no-popup" href="http://bysymphony.com/catalog/seo_sitemap/category">Site Map</a></li>
+</ul></div>
+<div class="clear">&nbsp;</div>
+</div> 
+            
+                        
 
-            <div class="footer-inner cms_links arabic right">
-                <div class="about-us left">
-                    <h5>من نحن</h5>
-                    <ul>
-<li><a href="http://bysymphony.com/about-us-ar">سيمفوني</a></li>
-<li><a href="http://bysymphony.com/careers-ar">وظائف</a></li>
-</ul>                </div>
-                <div class="customer-care left">
-                    <h5>خدمة العملاء</h5>
-                    <ul>
-<li><a href="http://bysymphony.com/contact-us-ar">اتصل بنا</a></li>
-<li><a href="http://bysymphony.com/terms-and-conditions-ar">الشروط والأحكام</a></li>
-<li><a href="http://bysymphony.com/shipping-information-ar">معلومات الشحن</a></li>
-<li><a href="http://bysymphony.com/returns-ar">التبديل والاسترجاع</a></li>
-<li><a href="http://bysymphony.com/cookie-policy-ar">سياسة الكوكيز</a></li>
-<li><a href="http://bysymphony.com/privacy-policy-ar">سياسة الخصوصية</a></li>
-<li><a class="no-popup" href="http://bysymphony.com/catalog/seo_sitemap/category">خريطة الموقع</a></li>
-</ul>                </div>
-                <div class="clear"></div>
-            </div>
-            <div class="clear"></div>
         </div>
 
         <div class="footer-inner social_links left">
@@ -1014,7 +1088,10 @@ Mage.Cookies.domain   = '.bysymphony.com';
         <div class="clear"></div>
 
         <div class="verisign left">
-            <p class="grey"><a target="_blank" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=bysymphony.com&amp;lang=en"><img src="http://bysymphony.com/skin/frontend/symphony/default/images/verisign.jpg" alt="Verisign" title="Verisign"></a> <span>© Copyright 2012-2014 BySymphony</span></p>
+            <p class="grey"><a target="_blank" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=bysymphony.com&amp;lang=en"><img src="http://bysymphony.com/skin/frontend/symphony/default/images/verisign.jpg" alt="Verisign" title="Verisign"></a> 
+            <span>© Copyright 2012-2014 BySymphony</span>
+            
+            </p>
         </div>
        
         <div class="clear"></div>
@@ -1043,47 +1120,9 @@ Mage.Cookies.domain   = '.bysymphony.com';
 </script>
         
                         <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/8c09c9f7-6da3-4510-aa0b-445071acfbf3.css">
-                        <script type="text/javascript">
-
-        function getParameterByName( name )
-        {
-            name        =   name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-            var regexS  =   "[\\?&]"+name+"=([^&#]*)";
-            var regex   =   new RegExp( regexS );
-            var results =   regex.exec( window.location.href );
-            if( results ==  null )
-                return "";
-            else
-                return  decodeURIComponent(results[1].replace(/\+/g, " "));
-        }
-
-
-        function SetCookie(cookieName,cookieValue,nDays)
-        {
-            var today   =   new Date();
-            var expire  =   new Date();
-            if (nDays==null || nDays==0) nDays=1;
-            expire.setTime(today.getTime() + 3600000*24*nDays);
-            document.cookie = cookieName+"="+escape(cookieValue)
-                + ";expires="+expire.toGMTString();
-        }
-
-        var utm_source  =   getParameterByName('utm_source');
-        var emst        =   getParameterByName('emst');
-        console.log(emst);
-
-
-        if(emst != "")
-        {
-            console.log('Set Cookie');
-            SetCookie('utm_source',utm_source,10);
-            SetCookie('emst',emst,10);
-           
-        }
-
-
-    </script>
-<!--Start of Zopim Live Chat Script-->
+                    
+                        <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/fb11d7d6-012f-45c2-aac7-142bceec9d49.css">
+                    <!--Start of Zopim Live Chat Script-->
 <script type="text/javascript">
     window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
         d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -1181,483 +1220,10 @@ Mage.Cookies.domain   = '.bysymphony.com';
         });
     });
 </script>
-<!--{MODAL_POPUP_f3c8a3372b55726080f3f15ec91c7bc7}-->
-    <div id="overlay" class="folk-modal-overlay"></div>
-    <div id="modal-container" class="folk-modal-container popup-newsletter-container" style="        width: 600px;
-                height: 500px;
-         padding:0px;  display:none;">
-        <div id="modal-close" class="folk-modal-close-icon"></div>
-        <script type="text/javascript">
-    var popupNewsletterSubscriberFormDetail;
-</script>
-
-
-
-
-<div class="popup-newsletter-inner">
-
-    <div class="popup-loading" style="display:none"></div>
-    <h1 class="uc">Newsletter Sign Up</h1>
-    <p>Stay up to date with all of our exclusive news, events and promotions.</p>
-
-    <div class="block-content">
-        <form action="https://bysymphony.com/newsletter/subscriber/new/" method="post" id="popup-newsletter-validate-detail" onsubmit="popupNewsletterSubscriberFormDetail.submit('http://bysymphony.com/ajax_newsletter/index/new/'); return false;">
-
-            <div class="newsletter-input">
-                <label for="email" style="display: none;">Email</label>
-                <input type="text" name="email" placeholder="Enter your email address" id="newsletterpopup" title="Sign up for our newsletter" class="input-text required-entry validate-email left">
-                <button type="submit" id="newsletter-popup-button" title="Sign Up" class="button right"><span><span>Sign Up</span></span></button>
-                <div class="clear"></div>
-            </div>
-
-            <div class="static-block">
-                &nbsp;            </div>
-
-
-        </form>
     </div>
-
-
-    <div class="popup-logo">
-        <img src="http://bysymphony.com/skin/frontend/symphony/default/images/popup-logo.png" alt="BySymphony Newsletter Signup">
-    </div>
-
-    <script type="text/javascript">
-        //<![CDATA[
-        var popupNewsletterSubscriberFormDetail = new VarienForm('popup-newsletter-validate-detail');
-
-        popupNewsletterSubscriberFormDetail.submit = function(url){
-            if( this.validator.validate())
-            {
-                //_gaq.push(['_trackPageview', '/goals/newsletter/success/']);
-                jQuery('.popup-newsletter-inner .popup-loading').show();
-                var form = this.form;
-
-                var jButton = jQuery(form).find('button.button');
-
-                if( ! url ) url = form.action;
-
-                jButton.attr('disabled','disabled');
-                jButton.fadeOut();
-
-                jQuery('#overlay').addClass('prevent-close');
-                jQuery('#modal-close').hide();
-
-                new Ajax.Request( url, {
-                    parameters: jQuery(form).serialize(),
-                    onFailure: function(transport)
-                    {
-                        jQuery('.popup-newsletter-inner .popup-loading').hide();
-                        jButton.removeAttr('disabled');
-                        jQuery("#newsletter-footer-button").show();
-                        jQuery('#overlay').removeClass('prevent-close');
-                        jQuery('#modal-close').show();
-                    },
-                    onSuccess: function(transport)
-                    {
-                        console.log(jQuery("#newsletter-footer-button"));
-                        if( transport.status == 200 )
-                        {
-                            try
-                            {
-                                var response = jQuery.parseJSON(transport.responseText);
-                            }
-                            catch(e)
-                            {
-                                console.log(e);
-                                this.onFailure();
-                            }
-
-                            jButton.removeAttr('disabled');
-                            jButton.fadeIn();
-                            jQuery('#overlay').removeClass('prevent-close');
-                            jQuery('#modal-close').show();
-
-                            if(response.success)
-                            {
-                                jQuery('.popup-newsletter-inner .popup-loading').hide();
-                                jQuery(form).parents('.block-content').addClass('success').html("Welcome to Symphony! We'll be sending you a confirmation email very shortly");
-                                //_gaq.push(['_trackPageview', '/goals/newsletter/new']);
-                            }
-                            else
-                            {
-                                jQuery('.popup-newsletter-inner .popup-loading').hide();
-                                jQuery(form).find('#newletterpopup').val('');
-                                Validation.createAdvice('validate-email',$('newsletterpopup'),false,response.message).show();
-                                if(response.code)
-                                {
-                                    //_gaq.push(['_trackPageview', '/goals/newsletter/'+response.code]);
-                                    //gaTrackGoal('/goals/newsletter/'+response.code);
-                                }
-                            }
-                        }
-                        else this.onFailure(transport);
-                    }
-                });
-            }
-        }.bind(popupNewsletterSubscriberFormDetail);
-
-        jQuery(document).ready(function() {
-            if (!Modernizr.input.placeholder)
-            {
-                var jNewsletter = jQuery("#newsletterpopup");
-                jNewsletter.val("Enter your email address");
-                jNewsletter.on("focus", function () {
-                    if (jQuery("#newsletterpopup").val() == "Enter your email address")
-                    {
-                        jQuery("#newsletterpopup").val("");
-                    }
-                });
-                jNewsletter.on("blur", function () {
-                    if (jQuery("#newsletterpopup").val() == "")
-                    {
-                        jQuery("#newsletterpopup").val("Enter your email address");
-                    }
-                });
-            }
-        });
-
-        //]]>
-    </script>
-</div>
-<div class="cookie-modal-overlay"></div>
-<div id="cookie-modal">
-    <div id="cookie-modal-close"></div>
-    <div id="cookie-modal-logo"></div>
-    <h1>Cookie Policy</h1>
-    <div id="cookie-modal-text">
-        <p>In order to provide our customers with an online shopping experience with personalised features and content you will need to allow your computer, tablet or mobile phone to accept cookies.</p>
-<p>The cookies we use do not store sensitive or personal information such as your name, address or payment details. The cookies used on our site simply provide the 'key' that is associated with the information once you are signed in.</p>
-<p><strong>First Party Cookies</strong></p>
-<p>The table below explains the cookies used by our platform provider Magento on our site www.bysymphony.com. Our site does not use all of the cookies below at the present time, but this list may be applicable in the future.</p>
-<table border="1px" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td style="padding: 5px;" valign="top" width="200px">
-<h4>Cookie Name</h4>
-</td>
-<td style="padding: 5px;" valign="top" width="450px">
-<h4>Cookie Description</h4>
-</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CART</td>
-<td style="padding: 5px;" valign="top">The association with your shopping cart.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CATEGORY_INFO</td>
-<td style="padding: 5px;" valign="top">Stores the category info on the page, that allows to display pages more quickly.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">COMPARE</td>
-<td style="padding: 5px;" valign="top">The items that you have in the Compare Products list.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CURRENCY</td>
-<td style="padding: 5px;" valign="top">Your preferred currency.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CUSTOMER</td>
-<td style="padding: 5px;" valign="top">An encrypted version of your customer id with the store.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CUSTOMER_AUTH</td>
-<td style="padding: 5px;" valign="top">An indicator if you are currently logged into the store.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CUSTOMER_INFO</td>
-<td style="padding: 5px;" valign="top">An encrypted version of the customer group you belong to.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">CUSTOMER_SEGMENT_IDS</td>
-<td style="padding: 5px;" valign="top">Stores the Customer Segment ID.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">EXTERNAL_NO_CACHE</td>
-<td style="padding: 5px;" valign="top">A flag, which indicates whether caching is disabled or not.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">FRONTEND</td>
-<td style="padding: 5px;" valign="top">Your sesssion ID on the server.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">GUEST-VIEW</td>
-<td style="padding: 5px;" valign="top">Allows guests to edit their orders.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">LAST_CATEGORY</td>
-<td style="padding: 5px;" valign="top">The last category you visited.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">LAST_PRODUCT</td>
-<td style="padding: 5px;" valign="top">The most recent product you have viewed.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">NEWMESSAGE</td>
-<td style="padding: 5px;" valign="top">Indicates whether a new message has been received.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">NO_CACHE</td>
-<td style="padding: 5px;" valign="top">Indicates whether it is allowed to use cache.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">PERSISTENT_SHOPPING_CART</td>
-<td style="padding: 5px;" valign="top">A link to information about your cart and viewing history if you have asked the site.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">POLL</td>
-<td style="padding: 5px;" valign="top">The ID of any polls you have recently voted in.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">POLLN</td>
-<td style="padding: 5px;" valign="top">Information on what polls you have voted on.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">RECENTLYCOMPARED</td>
-<td style="padding: 5px;" valign="top">The items that you have recently compared.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">STF</td>
-<td style="padding: 5px;" valign="top">Information on products you have emailed to friends.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">STORE</td>
-<td style="padding: 5px;" valign="top">The store view or language you have selected.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">USER_ALLOWED_SAVE_COOKIE</td>
-<td style="padding: 5px;" valign="top">Indicates whether a customer allowed to use cookies.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">VIEWED_PRODUCT_IDS</td>
-<td style="padding: 5px;" valign="top">The products that you have recently viewed.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">WISHLIST</td>
-<td style="padding: 5px;" valign="top">An encrypted list of products added to your Wishlist.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">WISHLIST_CNT</td>
-<td style="padding: 5px;" valign="top">The number of items in your Wishlist.</td>
-</tr>
-</tbody>
-</table>
-<p><strong><br></strong></p>
-<p><strong>Third Party Cookies</strong></p>
-<p>The table below explains the cookies we use in order to better understand our customers and their requirements.</p>
-<table border="1px" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td style="padding: 5px;" valign="top" width="200px">
-<h4>Cookie Name</h4>
-</td>
-<td style="padding: 5px;" valign="top" width="450px">
-<h4>Cookie Description</h4>
-</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">GOOGLE ANALYTICS
-<ul style="margin-left: 30px; list-style: none;">
-<li>_utma</li>
-<li>_utmb</li>
-<li>_utmc</li>
-<li>_utmz</li>
-</ul>
-</td>
-<td style="padding: 5px;" valign="top">Allows us to research usage trends and visitor trends.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">folk_cookiepop</td>
-<td style="padding: 5px;" valign="top">Notifies user of current cookie policy.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">modal_popup_viewed</td>
-<td style="padding: 5px;" valign="top">Registers that user has viewed newsletter sign up modal.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">modal_increment</td>
-<td style="padding: 5px;" valign="top">Used by system to display modal popups ion the site.</td>
-</tr>
-<tr>
-<td style="padding: 5px;" valign="top">landing_page_identifier</td>
-<td style="padding: 5px;" valign="top">Used to identify a type of category page by Magento.</td>
-</tr>
-</tbody>
-</table>
-<p><strong><br></strong></p>
-<p><strong>Adobe Flash Cookies</strong></p>
-<p>Parts of bysymphony.com may display video or animation content using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your experience as a user. Flash cookies are similar to usual cookies but they are managed differently by your browser.</p>
-<p>If you wish to disable or delete a Flash cookie, see <a href="https://www.google.ae/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;sqi=2&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager04.html&amp;ei=q4DeUYH4HsasrAehzYHwBg&amp;usg=AFQjCNGi2ALIp4EVt9bAbbJntiqNxpTyxQ" target="_blank"> Adobe Flashplayer Security Settings</a>. Please bear in mind, that if you disable Flash cookies for bysymphony.com you'll be unable to access certain types of content on the site, such as videos or animations.</p>
-<p><strong>YouTube cookies</strong></p>
-<p>We sometimes embed videos from YouTube channels using YouTube’s share/embed code feature. YouTube uses cookies to help maintain the integrity of video statistics, prevent fraud and to improve the site experience, among other things. YouTube uses cookies on both youtube.com and on videos embedded from youtube.com.</p>
-<p><strong>BySymphony 'share' options</strong></p>
-<p>If you wish to 'share' bysymphony.com content with friends through social networks – such as Facebook, Twitter or Google+ - you may be sent cookies from these social sites without our prior knowledge. We do not control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.</p>
-<!--
-<p>&nbsp;</p>
-<p><h3>More Information</h3></p>
-<p><a href="/legal-information/cookie-policy/about-cookies">About Cookies</a><br>
-<a href="/legal-information/cookie-policy/managing-your-cookies">Managing Your Cookies</a></p> 
--->    </div>
-</div>
-<script type="text/javascript">
-
-    jQuery("#cookie-modal-close").click(function(){
-        jQuery("#cookie-modal").fadeOut();
-        jQuery(".cookie-modal-overlay").fadeOut();
-    });
-    jQuery(".cookie-modal-overlay").click(function(){
-        jQuery("#cookie-modal").fadeOut();
-        jQuery(".cookie-modal-overlay").fadeOut();
-    });
-
-    jQuery(".open-cookie-modal").click(function(){
-        if ( jQuery(window).width() < 500) {
-
-            window.location = 'http://symphony.localhost/symphony/enable-cookies';
-
-        }
-        else {
-
-
-            jQuery("#cookie-modal").fadeIn();
-            jQuery(".cookie-modal-overlay").fadeIn();
-            jQuery("#cookiepop").slideUp();
-
-        }
-    });
-</script>    </div>
-
-
-    <script type="text/javascript">
-        /* Initialise the modal here, method should only be initialised and shown if modal popup is required
-         *
-         * @param Modal Container ID
-         * @param Overlay ID
-         */
-
-        var FolkModal = {
-            id: '#modal',
-            el: null,
-            active: false,
-            padding: 0,
-            speed: 1000,
-            mask: {
-                id: '#overlay',
-                width: jQuery(window).width(),
-                height: jQuery(document).height(),
-                el: null
-            },
-            window: {
-                width: jQuery(window).width(),
-                height: jQuery(window).height()
-            },
-            close: {
-                el: null,
-                id: '#modal-close'
-            },
-
-            init: function(id, overlayId, closeId){
-                FolkModal.id = id;
-                FolkModal.mask.id = overlayId;
-                FolkModal.close.id = closeId;
-
-                FolkModal.el = jQuery(id);
-                FolkModal.mask.el = jQuery(overlayId);
-                FolkModal.close.el = jQuery(closeId);
-
-                FolkModal.mask.el.click(FolkModal.hide);
-                FolkModal.close.el.click(FolkModal.hide);
-                jQuery(window).resize(FolkModal.resize);
-            },
-            resize: function(){
-                FolkModal.window.height = jQuery(window).height();
-                FolkModal.window.width = jQuery(window).width()
-                var modalTop = FolkModal.window.height / 2-(FolkModal.el.height() + FolkModal.padding) / 2
-                if(modalTop < 0)
-                {
-                    modalTop = 0;
-                }
-
-                var modalLeft = FolkModal.window.width / 2-(FolkModal.el.width() + FolkModal.padding) / 2
-                if(modalLeft < 0)
-                {
-                    modalLeft = 0;
-                }
-
-                FolkModal.el.css({
-                    'top':modalTop,
-                    'left':modalLeft
-                });
-
-                FolkModal.mask.el.css({
-                    'width': FolkModal.window.width,
-                    'height': FolkModal.window.height
-                });
-            },
-            show: function(){
-                FolkModal.active = true;
-                FolkModal.mask.el.css({'width':FolkModal.mask.width,'height':FolkModal.mask.height});
-
-
-                FolkModal.resize();
-
-                FolkModal.mask.el.fadeIn(FolkModal.speed);
-                //FolkModal.mask.el.fadeTo('fast', 0.8);
-                FolkModal.el.fadeIn(FolkModal.speed);
-            },
-            hide: function(){
-                if(FolkModal.mask.el.hasClass('prevent-close')) return false;
-
-                FolkModal.el.fadeOut(FolkModal.speed / 2);
-                FolkModal.mask.el.fadeOut(FolkModal.speed / 2);
-
-                FolkModal.active = false;
-            }
-        }
-
-
-        var modalPopup = function(){
-            jQuery(document).ready(function(){
-
-                if(!modalResponsivity.isMobile())
-                {
-                                        if (!jQuery.cookie('modal_popup_viewed')) {
-                        FolkModal.init('#modal-container', '#overlay', '#modal-close');
-                        FolkModal.show();
-                        jQuery.cookie( 'modal_popup_viewed', true, { expires: 365, path: '/' });
-                    }
-                                                        }
-            });
-        };
-
-        /*var modalPopup = function(){
-            jQuery(document).ready(function(){
-                if (!jQuery.cookie('modal_popup_viewed') && !modalResponsivity.isMobile()) {
-                    FolkModal.init('#modal-container', '#overlay', '#modal-close');
-                    FolkModal.show();
-                    jQuery.cookie( 'modal_popup_viewed', true, { expires: 365, path: '/' });
-                }
-            });
-        };*/
-
-
-        modalResponsivity = new responsivity({
-            listeners: {
-                desktop: [modalPopup],
-                mobile: []
-            },
-            mobileBreakpoint: 700
-        });
-
-        // Force test to init page
-        modalResponsivity.checkIsMobile(true);
-    </script>
-
-
-<!--/{MODAL_POPUP_f3c8a3372b55726080f3f15ec91c7bc7}-->    </div>
 
  
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"1da4038dc8","applicationID":"4138213","transactionName":"NF1XMUYAV0EHVxBRXQ0XdAZACFZcSVcJSx0TWVIAGxdQVxE=","queueTime":0,"applicationTime":198,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"1da4038dc8","applicationID":"4138213","transactionName":"NF1XMUYAV0EHVxBRXQ0XdAZACFZcSVcJSx0TWVIAGxdQVxE=","queueTime":0,"applicationTime":172,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
