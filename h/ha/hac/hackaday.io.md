@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hackaday.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130334id_/http%3A//hackaday.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackaday.io privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221012id_/http%3A//hackaday.io/privacy-policy) for the most accurate reproduction.*
 
 # Hackaday Privacy Policy • Hackaday Projects
 
-## Version 1.0
+## **Version 1.0**
 
-## Last Revised On: October 24, 2013
+## Last revised on: October 24, 2013
 
 We take the privacy and protection of personal information very seriously. This Privacy Policy describes our practices regarding the Personal Data (as defined below) we collect from users of the Hackaday website at [hackaday.com](http://hackaday.com/) (the “ **Site** ”), the Hackaday forums at [forums.hackaday.com](http://forums.hackaday.com/) (the “ **Forum** ”) and the services made available through the Site and Forum (together with the Site and the Forum, the “ **Services** ”) provided by Supply Frame, Inc. (“ **Supply Frame** ”, “ **us** ”, “ **our** ”, and “ **we** ”).
 
