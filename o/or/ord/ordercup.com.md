@@ -1,49 +1,29 @@
-> *The following text is extracted and transformed from the ordercup.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605230137id_/http%3A//www.ordercup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordercup.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082244id_/http%3A//www.ordercup.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – OrderCup
 
 This Privacy Policy applies to Kuberas’ products and services worldwide (Services). OrderCup and its related services (‘OrderCup) is part of the Services offered and operated by Kuberas, Inc.Kuberas is committed to protecting your personal privacy. This Policy outlines the type of information that is collected by Kuberas as a result of its Services and how we use and protect it. This Policy also tells you what to do if you do not want your Personal information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Kuberas’ Services listed here. For example, it does not apply to banners, advertisements, promotions or other services offered by third parties that we may participate in or sponsor.
 
-    1. **Your Consent to This Privacy Policy**
-
-
+**1\. Your Consent to This Privacy Policy**
 
 By using our Services, you agree with the terms of our current Policy as described here. If you do not agree with any of the terms in this Policy, you have the option of not using our Services, or not providing any Personal Information (defined below)wherever the Services provides you this choice. However, if you choose not to provide this Personal Information, some of our features or services may not function properly as a result, or you may not be able perform certain functionality like access certain features or send us e-mail.
 
-    1. **Collection of Personal Information**
-
-
-
+**2\. Collection of Personal Information**  
 As a result of providing these Services, Kuberas has access to personal information. “Personal Information” means personally identifiable information such as the name, street address, telephone number, credit card information, screen name and email address of you or your customers. The Services may collect some of all of these types of Personal Information. Kuberas will not collect any Personal Information from your visits to our sites unless you provide this information voluntarily. When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Policy, which includes your right to limit our use of the Personal Information as described in this Policy (see “Who to Contact” below). The Services may also collect Personal Information from you about a third party (e.g., they may allow you to send an email to a third-party such as the recipient of a gift, in which case we will need that person’s name and e-mail address). Please note that we use such information only for the specified purpose (e.g., to email the gift recipient) and we will not contact the third party unless they contact us, or we are authorized to do by you for some other purpose.
 
-    1. **How We Use Your Information**
-
-
-
+**3\. How We Use Your Information**  
 When you provide Personal Information as part of registering or using our Services, we may combine the Personal Information with information from other Kuberas’ services or third parties to provide a better user experience or customized content for you. Kuberas may also use this Personal Information to provide new or customized products or services that may be of interest to (including those we may offer jointly with other companies). We will however, provide you the option to opt out of receiving such future notifications or contact. (See “Who to Contact” below). Finally, we may share aggregated, anonymized Personal Information with other third parties outside of Kuberas.At times we may ourselves or via third parties to audit, analyze or research data we collect from our Services,including Personal Information, to help us improve our products and our web sites. In addition, if you order a product or service from us, we may share Personal Information with suppliers and other third parties to allow delivery of such product or service. These suppliers and other third parties are not authorized by us to use your Personal Information in any other way, and we require that they comply with our Privacy Policy and other confidentiality measures. Finally, please note that we may share your Personal Information if required to do so by law, or by search warrant, subpoena or court order, or for preventing fraud or ensuring the security of our Services.
 
-    1. **Other Information We May Collect**
-
-
-
+**4\. Other Information We May Collect**  
 Kuberas may use “cookies” or similar technologies, which are files or pieces of information that are stored by your browser on your computer’s hard drive to ensure proper user dentification, collect other information during your use of our Services, such as the particular areas you visit and the features you use. We collect this information for to enhance your user experience and to learn about how you use our Services in order to improve the quality of our Services to better match your interests and needs. Cookies  
 may also be used to help speed up your future activities at our site; the computer can remember that you have already previously provided information or settings and will not request that you provide any a second time. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when  
 cookies are being stored. Refusal of cookies on our Services may result in an inability to use certain features, or receive personalized or customized experience. In addition, information about your computer, such as your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using, any referral sites and the type of computer operating system you are using may also be collected and linked to your Personal Information.This is to ensure that our Services present the best web experience for visitors. Finally, we may supplement the information that you provided us with other information that we receive from third parties. We do this for marketing purposes in order to provide more targeted products and service to meet your needs.
 
-    1. **Security of Information**
-
-
-
+**5\. Security of Information**  
 We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
 
-    1. **Changes in Our Policy**
-
-
-
+**6\. Changes in Our Policy**  
 Kuberas reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
 
-    1. **Who to Contact**
-
-
-
+**7\. Who to Contact**  
 Please write to us at info@Kuberas.com or at Kuberas Inc., 22382 Avenida Empresa, Rancho Santa Margarita, CA 92688 or call us at (949) 709-2888 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 2 business days in most cases.
