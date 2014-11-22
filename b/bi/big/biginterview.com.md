@@ -1,118 +1,24 @@
-> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726173356id_/https%3A//privacy-policy.truste.com/verified-policy/biginterview.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122032035id_/http%3A//biginterview.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for biginterview.com
+# Big Interview
 
-Effective on January 7, 2011 
+Thank you for using Big Interview. We are committed to protecting your privacy and, for that reason, we have adopted this Privacy Policy (the “Policy”) to memorialize our data collection and disclosure practices for our website and the services we provide through our website and underlying technology (the “Services”). This Policy applies to all of the products, services and websites offered by Skillful Communications, LLC or Big Interview or its subsidiaries or affiliated companies ("Big Interview"). 
 
-This privacy statement describes how Skillful Communications collects and uses the personal information you provide on our Web site: [biginterview.com ](http://biginterview.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-Skillful Communications is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [support@biginterview.com ](mailto:support@biginterview.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-## Collection and Use of Personal Information
-
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-
-
-
-We also collect the following information from you
-
-  * Information about your business such as company name, company size, business type
-  * Demographic information such as age, education, gender, interests and zip code
+  1. **Consent** By using the Services or our website, you consent to this Policy. If you do not agree with this Policy, you may not use the Services or our website. Information gathered through the Services may be transferred, used, and stored in the United States and in foreign jurisdictions in which we, our agents, customers and other users of the Services are located. If you access the Services, you consent to the transfer, use and storage of your Personal Information in those jurisdictions. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. You further agree that all transactions relating to the Services or our website shall be deemed to have occurred in the United States. 
+  2. **Collection of Personal Information** We collect Personal Information in connection with our Services. When we use the term “Personal Information” we are talking about information that can be used to identify an individual and may include, but is not limited to, your name, address, email address, phone number and any profile information you choose to submit through our website.  Big Interview may also collect non-Personal Information (aggregate, non-individually identifiable or demographic). An example of non-Personal Information would be system-related information such as IP addresses, use information, browser and browser speed, bandwidth of your internet connectivity, general location of your server and the pages of our site that were viewed during a visit. We use this information for internal purposes to help us diagnose problems, monitor traffic patterns and otherwise continually improve our Services.  Furthermore, the Services may provide links to third party sites. We are not responsible for the privacy policies, practices or the content of websites owned by others that you may link to or that may be linked from the Services. Accordingly, we encourage you to review the privacy policies and terms of service of those websites so that you understand how those websites collect, use and share any Personal Information. 
+  3. **Use of Personal Information** Only authorized Big Interview employees and service providers and authorized designees have access to Personal Information. Big Interview uses the Personal Information to assist us in setting up accounts, improving online operations; processing transactions; providing customer service; providing your with newsletters, RSS feeds and/or other communications or services which you may have signed up for or otherwise agreed to receive; sending account- or transaction-related communications such as welcome letters and transaction confirmations; performing research and analysis aimed at improving our products, services and technologies; and managing our systems. We will only use your Personal Information in the way we specified when it was collected (including as described in this Privacy Policy). If we use Personal Information in a manner different than the purpose for which it was collected (including as described in this Privacy Policy), then we will ask for your consent prior to such use. If we propose to use Personal Information for any purposes other than those described in this Policy, we will offer you an effective way to opt out of the use of Personal Information for those other purposes. 
+  4. **Disclosure of Personal Information** We may disclose Personal Information and non-Personal Information to other users of the Services and to companies, agents, contractors, service providers or others engaged to perform functions on our behalf (such as processing payments, provision of data storage, hosting of our website, marketing of our products and services, conducting audits and performing web analytics) or on behalf of the interviewing companies. We may also disclose your Personal Information to third parties when we believe, in good faith and in our sole discretion, that such disclosure is reasonably necessary to (a) enforce or apply the terms and conditions of the Services, including investigation of potential violations thereof, (b) comply with legal or regulatory requirements or an enforceable governmental request, (c) protect the rights, property or safety of us, our users or other third parties, (d) prevent a crime or protect national security, or (e) detect, prevent or otherwise address fraud, security or technical issues. We may also disclose non-Personal Information to our clients, business partners, merchants, advertisers, investors, potential buyers and other third parties if we deem such disclosure, in our sole discretion, to have sound business reasons or justifications. We do not sell, rent, share or trade your Personal Information to third parties for marketing purposes unless you have granted up permission to do so. 
+  5. **Accessing and Updating Personal Information** When you use our Services, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct and delete users’ Personal Information.  Please email us at privacy [at] biginterview.com with any questions, if you need assistance accessing or changing your Personal Information, or if you would like to have your Personal Information deleted. Please be aware that if you delete your Personal Information, you may not be able to continue to use the website or the Services. 
+  6. **Cookies** Non-Personal Information (including aggregate, technical or demographic information) can also be collected through the standard operation of our internet servers and logs as well as other automatic data collection tools such as “cookies,” “beacons” and other similar technologies. A “cookie” is a small text file that is recorded either temporarily or persistently on your hard drive and that a website can use in order to recognize visitors who revisit a website so as to facilitate their ongoing access to and use of the website. “Beacons” are graphics designed to collect web log information such as pages viewed or messages opened. Cookies can be prevented by activating the facility that is available in most web browsers that enables the user to deny or accept cookies. Recognize, however, that cookies may be necessary in order to provide certain features such as the customized delivery of certain information. We do not use cookies or Beacons to collect Personal Information. 
+  7. **International Users** By visiting our website and by providing us with your Personal Information or data, you acknowledge and agree that due to the international dimension of Big Interview we may use the Personal Information or data collected in the course of our relationship for the purposes identified in this Policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such Personal Information and data may be stored on servers located in the United States. By providing us with your Personal Information or data, you consent to the transfer of such data. 
+  8. **Children** We do not knowingly or specifically collect Personal Information from users under 13 years of age. We do not authorize users under 13 years of age to use the Services or our website. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. 
+  9. **Information Security** We have built our entire technology system so that users can not access data without an appropriate password. In addition, we utilize Secure Socket Layer (SSL) encryption technology when data is transmitted over the Internet, and have installed firewalls to help prevent external access into our network. In addition, our servers are hosted at a leading third-party facility for added security and reliability. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its security.  We restrict access to Personal Information to Big Interview employees, contractors, service providers and agents who need to know that information in order to operate, develop or improve our Services or website. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+  10. **Sale of the Business** Big Interview reserves the right to transfer information (including your Personal Information) to a third party in the event of a sale, merger or transfer of all or substantially all of the assets of our company, or in the unlikely event of a bankruptcy, liquidation or receivership of our business, provided that the third party agrees to adhere to the terms of this Policy. 
+  11. **Your California Privacy Rights** A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California Customer”) is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed.  However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information to third parties for direct marketing purposes and providing a cost free means to exercise that right.  As stated in our Policy, we do not share information with third parties for their own direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific situation, as we do not share information with any third party for their own direct marketing purposes on a continual basis. To prevent disclosure of your Personal Information for use in direct marketing by a third party for its own purposes, do not opt in to such use when you provide Personal Information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.  California Customers may request further information about our compliance with this law by e-mailing privacy[at]biginterview.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
+  12. **Changes to this Policy** Big Interview reserves the right to change this Policy at any time. In particular, and without limiting the foregoing, we may modify this Policy to reflect changes in the way we collect, use or disclose information, or to reflect changes in privacy laws, regulations and/or industry standards. We encourage you to review this Policy when accessing the Services.  We will post a notice to this Policy and the home page link whenever this Policy is materially changed so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. Your continued use of the Big Interview website or Services after any change will signify and confirm your assent to those changes. However, we will not apply any material changes to Personal Information collected prior to the posting of such changes without obtaining your affirmative consent.  You can also check the “Revised and updated” date at the top of this Privacy Policy to see when the Privacy Policy was last changed. We encourage you to check this Privacy Policy from time to time to familiarize yourself with the most recent version of this Policy. 
+  13. **Questions** To ask questions about our Policy or to lodge a complaint, contact us at:  Skillful Communications, LLC  
+Attn: Privacy Matters  
+244 Fifth Avenue, 2nd Fl  
+New York, NY 10001  **Email:** privacy[at]biginterview.com 
 
 
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send product updates or warranty information
-  * Administer your account
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-
-
-
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
-
-**Information Obtained from Third Parties**
-
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Skillful Communications is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
-
-
-
-_PayPal_
-
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
-
-_Third Party E-Commerce Solutions Provider_
-
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
-
-## Cookies and Other Tracking Technologies
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
-
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
-
-_Web beacons_
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Skillful Communications. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@biginterview.com ](mailto:support@biginterview.com)
-
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
-
-## Additional Policy Information
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [support@biginterview.com ](mailto:support@biginterview.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Skillful Communications 
-
-244 Fifth Ave 2nd Fl 
-
-New York, NY, United States 10001
-
-Phone: 8888803322
