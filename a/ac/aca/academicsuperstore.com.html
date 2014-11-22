@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the academicsuperstore.com privacy policy that was archived on 2014-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619203407id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academicsuperstore.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122080548id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,15 +15,17 @@
 	<!-- May not need this -->
 	<title>Academic Superstore : Academic Software discounts for students, teachers and schools</title>
         
-        <link href="http://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet" type="text/css">
 	
-					<link rel="stylesheet" href="/css/master.css?v=1403108129" type="text/css" media="all" charset="utf-8">
+					<link rel="stylesheet" href="/css/master.css?v=1416253416" type="text/css" media="all" charset="utf-8">
+				
+					<link rel="stylesheet" href="/css/shared/fontawesome.css?v=1411152492" type="text/css" media="all" charset="utf-8">
 				
 					<link rel="stylesheet" href="/css//subCss/dialog.css?v=1400531901" type="text/css" media="all" charset="utf-8">
 				
 					<link rel="stylesheet" href="/css/jqueryui/jquery-ui-1.10.4.custom.css?v=1400531901" type="text/css" media="all" charset="utf-8">
 				
-					<link rel="stylesheet" href="/css/colorbox/colorbox.css?v=1400531901" type="text/css" media="all" charset="utf-8">
+					<link rel="stylesheet" href="/css/colorbox/colorbox.css?v=1416253416" type="text/css" media="all" charset="utf-8">
 				
 		<script type="text/javascript" charset="utf-8" src="/js/shared/jquery/jquery-1.11.0.min.js"></script>
 
@@ -40,22 +42,14 @@
 		<script type="text/javascript" charset="utf-8" src="/js/shared/jquery.crypt.js"></script>
 
 		
-		<script type="text/javascript" charset="utf-8" src="/js/shared/mega_menu/jquery.hoverIntent.minified.js"></script>
-
-		
-		<script type="text/javascript" charset="utf-8" src="/js/shared/mega_menu/jquery.dcmegamenu.1.3.3.min.js"></script>
+		<script type="text/javascript" charset="utf-8" src="/js/jqmenu.js"></script>
 
 		<!--[if lt IE 9]>
 <script src="/js/shared/html5shiv.min.js"></script>
 <![endif]-->
-	<script type="text/javascript">
-		
+	<script type="text/javascript">		
 	    $(document).ready(function(){
-		$('#mega-menu-1').dcMegaMenu({
-		    rowItems: '3',
-		    effect: 'fade',
-		    fullWidth:true
-		});
+		$('.menu').jqsimplemenu();
 		
 		var protectedParams = function(){
 		    var email = '';
@@ -72,18 +66,43 @@
 		};
 		Derived.prototype = new protectedParams();
 		var EMAIL  = new Derived();
-		//EMail.SetEmail('test');
-		//alert(EMail.GetEmail());		
-		$('#howToBuyDialog').dialog({
-		    autoOpen: false,
-		    modal: true,
-		    height: 600,
-		    width: 500,
-		    draggable: false
+		$('#howToBuy').click(function(e){
+		    e.stopPropagation();
+		    e.preventDefault();
+		    $.colorbox({
+		          top:'0px',
+			  inline:true,
+			  opacity: 0.5,
+			  transition: 'none',
+			  speed: 0,
+			  height: 600,
+			  width: 500,
+			  href:function(){
+                       		return "#howToBuyDialog";
+			  },
+			  close: ''
+		      });
 		});
-		$('#howToBuy').click(function(){
-		    $('#howToBuyDialog').dialog("open");
-		});
+		$('#signup').on('click', function(e) {
+		    e.stopPropagation();
+		    e.preventDefault();
+		    $.colorbox({
+		          top:'0px',
+			  inline:true,
+			  opacity: 0.5,
+			  transition: 'none',
+			  speed: 0,
+			  close: '',
+			  width:400,
+			  href:function(){
+                       		return "#signupDialog";
+			  },
+			  onComplete: function() {
+			  $('#cboxClose').empty();
+			}
+		      });
+		  });
+
 		});
 	</script>
 	
@@ -96,31 +115,17 @@
 	<meta name="robots" content="all">
 	
 	
-	
-    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script></head>
+	        <link rel="image_src" href="https://s3.amazonaws.com/acs-marketing/ACSFacebook.jpg?e=733636">
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" src="https://www.upsellit.com/launch/academicsuperstore.jsp"></script></head>
 
-    <body class="page-view page_controller" style="">
+    <body class="page-view page_controller">
         <div id="header-container">
             <div id="header-margin">
                 <div id="header-topdiv" style="margin-bottom: 10px;">
-                    <div id="header-text">Millions of Students &amp; Teachers SAVE BIG!</div>
-                    <div id="header-signupText">Sign up to receive Special Offers and Discounts</div>
-                    <div id="header-signupBox">
-                        <form id="bullseye" target="signup" onsubmit="return doSubmit();" name="bullseye" method="post" action="https://dr.bluehornet.com/phase2/bullseye/contactupdate1.php3">
-                            <input type="hidden" name="cid" value="c8bed1e617a0879aad21ee4449723dd1">
-                            <input type="hidden" name="grp[]" value="427733">
-                            <input type="hidden" name="field_array[45748]" value="Web_lead">
-                            <input type="hidden" name="field_array[45751]" value="Unknown">
-                            <input type="hidden" name="field_array[45750]" value="Academic Superstore">
-                            <input type="hidden" name="cd_year[46149]" value="2014">
-                            <input type="hidden" name="cd_mon[46149]" value="06">
-                            <input type="hidden" name="cd_day[46149]" value="19">
-                            <input type="hidden" name="field_array[49847]" value="">
-                            <input type="hidden" name="field_array[49247]" value="">
-                            <input type="hidden" name="field_array[49248]" value="">
-                            <input name="email" type="text" placeholder="Email" value="">
-                        </form>
-                    </div>
+		    <div class="signup-container">
+                    	<div id="header-text">Millions of students and teachers have SAVED BIG! Sign up to receive special offers and discounts.</div>
+			<button class="button-green" id="signup">Click Here</button>
+		    </div>
                 </div>
 				<div class="searchbox">
 					<div class="header-logo">
@@ -131,13 +136,17 @@
 					<div class="header-searchBox">
 						<form class="header-search" action="/product/search" method="get">
 							<div id="srch">
-								<input type="text" placeholder="Search..." value="" name="qk_srch">
+								<input type="text" placeholder="What are you looking for?" value="" name="qk_srch">
 							</div>
 							<div id="header-searchButton">
 								<input type="image" alt="Go" src="/images/Search-Icon.png" onclick="this.form.submit()">
 							</div>
 						</form>
 					</div>
+			                <div class="header-cart" onclick="window.location.href ='/cart';">
+			                    <div id="cartCount">
+			                        0			                    </div>
+			                </div>
 				</div>
 <!--
                 <div class="header-signIn">
@@ -145,16 +154,16 @@
                         <a href="#" id="clkSignIn">Sign In</a> or <a id="createAccount" href="#">Create Account</a>                    </div>
                 </div>
 -->
-                <div class="header-cart" onclick="window.location.href ='/cart';">
-                    <div id="cartCount">
-                        0                    </div>
-                </div>
 
                 <div style="clear:both;" class="top_menu">
 					<style media="screen">
 ul.newmenu {
     list-style-type: none;
 	border-bottom: solid 1px #d8d6x7;
+}
+ul.newmenu.sub
+{
+  background-color: #fff;
 }
 ul.newmenu li {
 	line-height: 15px;
@@ -218,416 +227,306 @@ ul.newmenu li:last-child {
 
 
 </style>
-<div id="topNavLButtons">
-
-    <ul id="mega-menu-1" class="mega-menu mega-menu-1 full-width" style="display: inline">
-	<li style="display: inline-block">Shop by Category
-	    <div class="sub-container non-mega" style="z-index: 1000;"><ul class="newmenu  sub">
-							<li class="linkCont" onmouseover="showDiv(this);" data-child_id="299814" id="sm299814">
+<div id="topNavLButtons" class="menu-container">
+    <ul id="mega-menu-1" class="mega-menu mega-menu-1 sub menu" style="display: inline">
+	<li style="display: inline-block" class="MainMenuItem pull-down">Shop by Category
+	    <ul class="brandmenu" style="margin-left:-15px;">
+						<li class="linkCont right-menu" data-child_id="299814" id="sm299814">
 						<a href="/category/Office+and+Productivity/299814">Office &amp; Productivity</a>
-													<div id="sub_menu-299814" style="display: none;">
-							<div id="submnu_299814" style="position: absolute; top: -0px;">
-								
-												<div class="linkSub">
-													<a href="/category/view/299818">Microsoft Solutions</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299852">Business &amp; Productivity</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300571">Business Training</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="300569" id="sm300569">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299818">Microsoft Solutions</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299852">Business &amp; Productivity</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300571">Business Training</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="300569" id="sm300569">
 						<a href="/category/Graphics,+Art+and+Design/300569">Graphics, Art &amp; Design</a>
-													<div id="sub_menu-300569" style="display: none;">
-							<div id="submnu_300569" style="position: absolute; top: -0px;">
-								
-												<div class="linkSub">
-													<a href="/category/view/299815">Adobe Tools</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299823">Animation &amp; Modeling</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299890">Color Management</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299887">Desktop Publishing</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299916">Graphics &amp; Illustration</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300045">Graphics Tablets</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299986">Web Publishing</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="300138" id="sm300138">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299815">Adobe Tools</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299823">Animation &amp; Modeling</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299890">Color Management</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299887">Desktop Publishing</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299916">Graphics &amp; Illustration</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300045">Graphics Tablets</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299986">Web Publishing</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300660">Design Training</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="300138" id="sm300138">
 						<a href="/category/Educational+Tools/300138">Educational Tools</a>
-													<div id="sub_menu-300138" style="display: none;">
-							<div id="submnu_300138" style="position: absolute; top: -0px;">
-								
-												<div class="linkSub">
-													<a href="/category/view/299933">Art &amp; Music Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299908">Critical Thinking Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299909">Graphing Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299923">Language Arts Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299965">Science Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299972">Social Studies Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299914">Typing Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300332">Classroom Electronics</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300580">Classroom Learning Aids</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300581">Leapfrog</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="299830" id="sm299830">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299933">Art &amp; Music Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299908">Critical Thinking Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299909">Graphing Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299923">Language Arts Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299965">Science Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299972">Social Studies Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299914">Typing Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300332">Classroom Electronics</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300580">Classroom Learning Aids</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="299830" id="sm299830">
 						<a href="/category/AntiVirus+and+Security/299830">AntiVirus &amp; Security</a>
-													<div id="sub_menu-299830" style="display: none;">
-							<div id="submnu_299830" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/299834">Anti-Virus</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299835">Content Filtering</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299836">Firewall &amp; Security</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="299881" id="sm299881">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299834">Anti-Virus</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299835">Content Filtering</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299836">Firewall &amp; Security</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="299881" id="sm299881">
 						<a href="/category/CAD+and+Engineering/299881">CAD &amp; Engineering</a>
-													<div id="sub_menu-299881" style="display: none;">
-							<div id="submnu_299881" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/299882">Architectural Design</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299885">CAD &amp; Modeling</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299884">Map Making/GIS</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299883">Mechanical Design</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299886">CAD Training</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="300022" id="sm300022">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299882">Architectural Design</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299885">CAD &amp; Modeling</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299884">Map Making/GIS</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299883">Mechanical Design</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299886">CAD Training</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="300022" id="sm300022">
 						<a href="/category/Laptops+and+Tablets/300022">Laptops &amp; Tablets</a>
-													<div id="sub_menu-300022" style="display: none;">
-							<div id="submnu_300022" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/300024">Notebook Computers</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300582">Notebook Accessories</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300026">Tablets</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300583">Tablet Accessories</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300577">Bags</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="299942" id="sm299942">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/300024">Notebook Computers</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300582">Notebook Accessories</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300026">Tablets</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300583">Tablet Accessories</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300577">Bags</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="299942" id="sm299942">
 						<a href="/category/OS+and+Utilities/299942">OS &amp; Utilities</a>
-													<div id="sub_menu-299942" style="display: none;">
-							<div id="submnu_299942" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/300574">Operating Systems</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299961">Programming</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299977">Utilities</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="300575" id="sm300575">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/300574">Operating Systems</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299961">Programming</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299977">Utilities</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="300575" id="sm300575">
 						<a href="/category/Music+and+Video/300575">Music &amp; Video</a>
-													<div id="sub_menu-300575" style="display: none;">
-							<div id="submnu_300575" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/299845">Audio Production</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299896">Digital Video Software</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300308">DJ Equipment</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300264">Headphones &amp; Earbuds</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300296">MIDI Devices</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300315">Music &amp; Video Training</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/299935">Notation</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300260">Recording Products</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300325">Sheet Music &amp; Guitar Tab</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300576">Video Hardware</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-									<li class="linkCont" onmouseover="showDiv(this);" data-child_id="300014" id="sm300014">
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/299845">Audio Production</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299896">Digital Video Software</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300308">DJ Equipment</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300264">Headphones &amp; Earbuds</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300296">MIDI Devices</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300315">Music &amp; Video Training</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/299935">Notation</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300260">Recording Products</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300325">Sheet Music &amp; Guitar Tab</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300576">Video Hardware</a>
+										</li>
+									</ul>					</li>
+									<li class="linkCont right-menu" data-child_id="300014" id="sm300014">
 						<a href="/category/Electronic+Accessories/300014">Electronic Accessories</a>
-													<div id="sub_menu-300014" style="display: none;">
-							<div id="submnu_300014" style="position: absolute; top: -0px;">
-								<div class="linkSub"><br></div><div class="linkSub"><br></div>
-												<div class="linkSub">
-													<a href="/category/view/300015">Cables</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300035">Expansion Cards</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300046">Headphones &amp; Headsets</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300047">Keyboards &amp; Mice</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300032">Monitors</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300579">MP3 &amp; Phone Accessories</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300054">Networking Products</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300069">Power Products</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300079">Printers &amp; Scanners</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300087">Security Cables</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300088">Speakers</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300089">Storage Devices</a>
-												</div>
-											
-												<div class="linkSub">
-													<a href="/category/view/300191">Web Cameras</a>
-												</div>
-																		</div>
-						</div>
-					</li>
-						<div class="corrector" id="flyOpenCntr"><div id="flyOutContent" style="position: relative;">&nbsp;</div><div id="topNavCol3">
-		    <div id="topNavCol3ImgCntnr">			
-                        <a href="http://www.academicsuperstore.com/product/search?qk_srch=Office+365+University+4+Year+Subscription&amp;x=0&amp;y=0"><img src="https://s3.amazonaws.com/acs-marketing/nav_banner.png"> </a>
-		    </div>
-		</div></div>
-		<div id="topNavCol3" style="display: none">
-		    <div id="topNavCol3ImgCntnr">			
-                        <a href="http://www.academicsuperstore.com/product/search?qk_srch=Office+365+University+4+Year+Subscription&amp;x=0&amp;y=0"><img src="https://s3.amazonaws.com/acs-marketing/nav_banner.png"> </a>
-		    </div>
-		</div> 
-		<div id="menu-footer">
-			<div class="icon"><img src="https://s3.amazonaws.com/acs-marketing/ACS_LOGO_ICON.png"></div>
-			<div class="description">
-				<h1>Advancing Education through Technology</h1>
-				We offer full-version software titles at great discounts, available only to students, schools, and teachers, from the top technology manufacturers including Adobe, Microsoft, Sibelius, Sony media Software, and Wacom.
-			</div>
-		</div>
-
-	    </ul></div>
-
+							<ul>
+										<li class="menuItem">
+											<a href="/category/view/300015">Cables</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300035">Expansion Cards</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300046">Headphones &amp; Headsets</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300047">Keyboards &amp; Mice</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300032">Monitors</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300579">MP3 &amp; Phone Accessories</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300054">Networking Products</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300069">Power Products</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300079">Printers &amp; Scanners</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300087">Security Cables</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300088">Speakers</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300089">Storage Devices</a>
+										</li>
+									
+										<li class="menuItem">
+											<a href="/category/view/300191">Web Cameras</a>
+										</li>
+									</ul>					</li>
+					    </ul>
 	</li>
 
-
-	<li style="display: inline-block" class="dc-mega-li">Shop by Brand
-	    <div class="sub-container mega" style="width: 1390px; left: 0px; z-index: 1000;"><ul class="brandmenu sub" style="width: 734px; display: none;">
-			<div class="row" style="width: 734px;"><li class="mega-unit mega-hdr last" style="height: 318px;">
-				<ul>
-					<li style="padding-left: 20px;">
-					<table cellpadding="0" cellspacing="0" border="0" style="width: 380px;" class="brandmnulist">
-						<tbody><tr>
-</tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/3DConnexion">3DConnexion</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Adobe">Adobe</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Avid">Avid</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Corel">Corel</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Final Draft">Final Draft</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Hewlett-Packard (HP)">Hewlett-Packard (HP)</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/IBM SPSS">IBM SPSS</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Inspiration Software">Inspiration Software</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/LeapFrog">LeapFrog</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Microsoft">Microsoft</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Rosetta Stone, Ltd.">Rosetta Stone, Ltd.</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/SolidWorks">SolidWorks</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Sony Creative Software">Sony Creative Software</a>
-					</div>
-</td><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Symantec">Symantec</a>
-					</div>
-</td></tr><tr><td>					<div class="linkCont" id="sm1">
-						<a href="/products/Toon Boom">Toon Boom</a>
-					</div>
-</td><td>					<div class="linkCont">
-						<a href="/brands">View All 450+ Brands</a>
-					</div>
-					</td>						</tr>
-					</tbody></table>
-					</li>
-				</ul>
-				<div class="corrector" id="flyOpenCntrMeow"><div id="flyOutContentMeow" style="position: relative;">&nbsp;</div><div id="topNavCol3Meow">
-					<div id="topNavCol3ImgCntnrMeow">
-						 <a href="http://www.academicsuperstore.com/product/search?qk_srch=Office+365+University+4+Year+Subscription&amp;x=0&amp;y=0"><img src="https://s3.amazonaws.com/acs-marketing/nav_banner.png"> </a>					</div>
-				</div></div>
-				<div id="topNavCol3Meow" style="display:none;">
-					<div id="topNavCol3ImgCntnrMeow">
-						 <a href="http://www.academicsuperstore.com/product/search?qk_srch=Office+365+University+4+Year+Subscription&amp;x=0&amp;y=0"><img src="https://s3.amazonaws.com/acs-marketing/nav_banner.png"> </a>					</div>
-				</div>
-				<div id="menu-footer2">
-					<div class="icon"><img src="https://s3.amazonaws.com/acs-marketing/ACS_LOGO_ICON.png"></div>
-					<div class="description">
-						<h1>Advancing Education through Technology</h1>
-						We offer full-version software titles at great discounts, available only to students, schools, and teachers, from the top technology manufacturers including Adobe, Microsoft, Sibelius, Sony media Software, and Wacom.
-					</div>
-				</div>
-			</li></div>
-		</ul></div>
+        <li style="display: inline-block" class="MainMenuItem pull-down">Shop by Brand
+            <ul class="brandmenu">
+<li class="linkCont right-menu">					    <a href="/products/Adobe" id="mfg-239246">Adobe</a><ul>
+<li class="menuItem"><a href="/products/Adobe/293689">Creative Cloud</a></li><li class="menuItem"><a href="/products/Adobe/273385">Photoshop Lightroom</a></li><li class="menuItem"><a href="/products/Adobe/270139">Acrobat</a></li><li class="menuItem"><a href="/products/Adobe/269880">Photoshop Elements &amp; Premiere Elements</a></li><li class="menuItem"><a href="/products/Adobe/273737">Photoshop</a></li><li class="menuItem"><a href="/products/Adobe/268005">Captivate</a></li><li class="menuItem"><a href="/products/Adobe/277145">Presenter</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Autodesk" id="mfg-239287">Autodesk</a><ul>
+<li class="menuItem"><a href="/products/Autodesk/244713">AutoCAD</a></li><li class="menuItem"><a href="/products/Autodesk/246168">3ds max</a></li><li class="menuItem"><a href="/products/Autodesk/287525">Maya</a></li><li class="menuItem"><a href="/products/Autodesk/244721">Inventor</a></li><li class="menuItem"><a href="/products/Autodesk/294181">Fusion 360</a></li><li class="menuItem"><a href="/products/Autodesk/251880">Revit</a></li><li class="menuItem"><a href="/products/Autodesk/292622">SketchBook Pro</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Avid" id="mfg-239292">Avid</a><ul>
+<li class="menuItem"><a href="/products/Avid/271156">Media Composer </a></li><li class="menuItem"><a href="/products/Avid/291273">Pro Tools</a></li><li class="menuItem"><a href="/products/Avid/292687">Sibelius</a></li><li class="menuItem"><a href="/products/Avid/293838">Headphones</a></li><li class="menuItem"><a href="/products/Avid/293840">Cables - Splitters</a></li><li class="menuItem"><a href="/products/Avid/292767">PhotoScore and AudioScore</a></li><li class="menuItem"><a href="/products/Avid/291361">iLok</a></li><li class="menuItem"><a href="/products/Avid/293841">Listening Centers</a></li><li class="menuItem"><a href="/products/Avid/293290">Artist Series</a></li><li class="menuItem"><a href="/products/Avid/246152">Auralia</a></li><li class="menuItem"><a href="/products/Avid/246158">Musition</a></li><li class="menuItem"><a href="/products/Avid/273677">Video Cables</a></li><li class="menuItem"><a href="/products/Avid">View all Titles</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Corel" id="mfg-239343">Corel</a><ul>
+<li class="menuItem"><a href="/products/Corel/244759">Painter</a></li><li class="menuItem"><a href="/products/Corel/244755">CorelDRAW Graphics Suite</a></li><li class="menuItem"><a href="/products/Corel/244761">WordPerfect Office</a></li><li class="menuItem"><a href="/products/Corel/293776">CorelDRAW Technical Suite</a></li><li class="menuItem"><a href="/products/Corel/262511">PaintShop Pro</a></li><li class="menuItem"><a href="/products/Corel/292538">CorelCAD</a></li><li class="menuItem"><a href="/products/Corel/273405">VideoStudio</a></li><li class="menuItem"><a href="/products/Corel/246485">Toast</a></li><li class="menuItem"><a href="/products/Corel/293857">Photo Video Studio</a></li><li class="menuItem"><a href="/products/Corel/293616">Pinnacle Studio</a></li><li class="menuItem"><a href="/products/Corel/293328">AfterShot</a></li><li class="menuItem"><a href="/products/Corel/293644">Dazzle Video</a></li><li class="menuItem"><a href="/products/Corel">View all Titles</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/FileMaker" id="mfg-239417">FileMaker</a><ul>
+<li class="menuItem"><a href="/products/FileMaker/245735">FileMaker Pro</a></li><li class="menuItem"><a href="/products/FileMaker/251574">FileMaker Advanced</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Microsoft" id="mfg-239538">Microsoft</a><ul>
+<li class="menuItem"><a href="/products/Microsoft/279023">Office</a></li><li class="menuItem"><a href="/products/Microsoft/245955">Office for Macintosh</a></li><li class="menuItem"><a href="/products/Microsoft/255343">Outlook</a></li><li class="menuItem"><a href="/products/Microsoft/293604">Windows 8.1</a></li><li class="menuItem"><a href="/products/Microsoft/245891">Access</a></li><li class="menuItem"><a href="/products/Microsoft/245273">Excel</a></li><li class="menuItem"><a href="/products/Microsoft/245969">Publisher</a></li><li class="menuItem"><a href="/products/Microsoft/245895">Word</a></li><li class="menuItem"><a href="/products/Microsoft/245989">Visual Studio</a></li><li class="menuItem"><a href="/products/Microsoft/293654">Surface</a></li><li class="menuItem"><a href="/products/Microsoft/254454">Xbox &amp; Kinect Consoles</a></li><li class="menuItem"><a href="/products/Microsoft/293672">Xbox 360 Games</a></li><li class="menuItem"><a href="/products/Microsoft">View all Titles</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Quark" id="mfg-239636">Quark</a><ul>
+<li class="menuItem"><a href="/products/Quark/240619">QuarkXPress</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Sony" id="mfg-239686">Sony</a><ul>
+<li class="menuItem"><a href="/products/Sony/246489">Memory Stick Media</a></li><li class="menuItem"><a href="/products/Sony/293362">PS Vita Accessories</a></li><li class="menuItem"><a href="/products/Sony/293227">PS Vita Games</a></li><li class="menuItem"><a href="/products/Sony/281985">PS3 Accessories</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Symantec" id="mfg-239709">Symantec</a><ul>
+<li class="menuItem"><a href="/products/Symantec/245051">Norton Internet Security</a></li><li class="menuItem"><a href="/products/Symantec/293867">Norton Hotspot Privacy</a></li><li class="menuItem"><a href="/products/Symantec/294177">Norton Security</a></li><li class="menuItem"><a href="/products/Symantec/294057">Norton Small Business</a></li><li class="menuItem"><a href="/products/Symantec/245065">Norton Utilities</a></li><li class="menuItem"><a href="/products/Symantec/293415">Norton Anti-Theft</a></li><li class="menuItem"><a href="/products/Symantec/293416">Norton Mobile Security</a></li></ul>
+</li><li class="linkCont right-menu">					    <a href="/products/Toon Boom" id="mfg-239732">Toon Boom</a><ul>
+<li class="menuItem"><a href="/products/Toon Boom/264702">Toon Boom Studio</a></li><li class="menuItem"><a href="/products/Toon Boom/288827">Storyboard</a></li><li class="menuItem"><a href="/products/Toon Boom/270759">Storyboard Pro</a></li><li class="menuItem"><a href="/products/Toon Boom/282723">Animate</a></li><li class="menuItem"><a href="/products/Toon Boom/276903">Flip Boom</a></li><li class="menuItem"><a href="/products/Toon Boom/279617">Pencil Check Pro</a></li></ul>
+</li>			<li class="linkCont"><a href="/brands">View all 450+ Brands</a></li>
+		</ul>
 	</li>
-</ul>
-</div>
 
-<div style="float: left; padding-top: 10px; text-align: center; width: 100px; height: 31px; background-color:#F26120">
-	<a style="color: #ffffff; font: normal 20px Lato, Arial, sans-serif; font-weight: 900; text-decoration: none;" href="/product/search?qk_srch=deals">Deals</a>
-</div>
+   </ul>
+   <div style="float: left; padding-top: 8px; margin-left:15px; text-align: center; width: 230px; height: 34px; background-color:#F26120">
+	<a style="color: #ffffff; font: normal 20px Roboto, calibri, sans-serif; font-weight: 900; text-decoration: none;" href="/product/search?qk_srch=download+now">Top Product Downloads</a>
+   </div>
 
 <div id="topNavRButtons">
   <!--  <div class="navComp" id="navCompFirst">
@@ -645,7 +544,110 @@ ul.newmenu li:last-child {
     </div>
 </div>
 
+</div>
 
+<div class="signup_dialog">
+	<div class="corrector" id="signupDialog" style="display: block; width: auto; min-height: 0px; max-height: none; padding:0px;">
+	<div class="hbContent">
+		<span class="page_title">
+			Sign Up For Special Offers
+		</span>
+		<hr>
+                    <div id="header-signupBox">
+                        <form id="bullseye" target="signup" name="bullseye" method="post" action="https://dr.bluehornet.com/phase2/bullseye/contactupdate1.php3">
+			<div style="margin-top:-10px; margin-bottom: 10px;">
+			Email Address:<br>
+                            <input type="hidden" name="cid" value="c8bed1e617a0879aad21ee4449723dd1">
+                            <input type="hidden" name="grp[]" value="427733">
+                            <input type="hidden" name="field_array[45748]" value="Web_lead">
+                            <input type="hidden" name="field_array[45751]" value="Unknown">
+                            <input type="hidden" name="field_array[45750]" value="Academic Superstore">
+                            <input type="hidden" name="cd_year[46149]" value="2014">
+                            <input type="hidden" name="cd_mon[46149]" value="11">
+                            <input type="hidden" name="cd_day[46149]" value="22">
+                            <input type="hidden" name="field_array[49847]" value="">
+                            <input type="hidden" name="field_array[49247]" value="">
+                            <input type="hidden" name="field_array[49248]" value="">
+                            <input name="email" type="text" placeholder="Email" value="" class="text input_login">
+			</div>
+			<div class="button-green" id="signupButton" style="margin-top: 15px; width:60px;">Sign Up</div>
+                        </form>
+                    </div>
+
+<script type="text/javascript">
+$('#signupButton').click(function(){
+	$('#bullseye').submit();
+});
+</script>
+
+	</div>
+	</div>
+	<div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div>
+</div><div class="how_to_buy_dialog">
+	<div class="corrector" id="howToBuyDialog" style="display: block; width: auto; min-height: 0px; max-height: none; height: 531px; padding-top:15px;">
+		<div class="hbTitle">
+			Ordering with Academic Superstore
+    		</div>
+	<div class="hbContent">
+		<div>
+   Academic Superstore knows how expensive it is to be a student, teacher or parent of a student. To help with those costs, we offer discounts of up to 85% on the software you need.
+		</div>
+		<div>
+   These low prices are made possible by educational discounts that you qualify for as part of the Academic Community. To qualify, simply send us a copy of your school ID or one of these <a href="/page/faqs#elig" class="otroDocumentos">other documents</a>.
+		</div>
+		<div>
+   To receive your order as quickly as possible, follow these steps:
+		</div>
+		<div>
+		    <ul>
+				<li>
+   Add the item(s) you would like to purchase to your cart.
+				</li>
+				<li>
+				    Complete your order online
+				</li>
+				<li>
+	Reference your order number and email, fax or electronically upload one of the <a href="/page/faqs#elig" class="otroDocumentos">accepted academic documents</a> to us.
+				</li>
+			</ul>
+		</div>
+    	</div>
+	<div class="hbTitle">
+	After Ordering
+	</div>
+		<div class="hbContent">
+			<div>
+			It typically takes us less than a business day to process your documents, and you will not be charged until after you have been approved. If there is any problem with the documents we receive we will notify you.
+			</div>
+			<div>
+				<a href="/my_account/order_status">Visit our order status page</a> to check on the progress of your order.
+			</div>
+		</div>
+		<div class="hbTitle">
+			Questions?
+		</div>
+		<div class="hbContent">
+			<div>
+				If you have any questions about this process please <a href="/contact_us">contact us</a>.
+			</div>
+    		</div>
+	</div>
+	<div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div>
+	<div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div>
+</div>
 <div class="corrector" id="otroDocumentosDialog" title="Valid Eligibility Documents">
     <div>You will need one of the following documents:</div>
     <div class="odTitle">College Students / Parents</div>
@@ -885,6 +887,7 @@ Your personal information provided to us will be processed on our computer serve
 <i>Our Use of Personal Information. </i> We may use personal information collected by us for the following purposes: <br>
 <ul>
 <li> to contact you if you have requested information or communication from us;
+</li><li> to partner with other parties to provide specific services. When you submit your information, we may share names, or other contact information that is necessary for the third party(s) to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services;
 </li><li> to determine the country in which you are located for compliance purposes, including without limitation export compliance, and for security, anti-piracy, and fraud prevention purposes;
 </li><li> to help verify that existing personal information about you in our possession is accurate and complete;
 </li><li> for lead generation purposes;
@@ -1021,12 +1024,31 @@ You may write to us in your own language.<br>
 		<div class="row topMargin10">
 			<ul class="buttonList">
 				<li class="links" style="margin: 5px 32px 5px 9px;"><a href="/page/privacy">Privacy Policy</a></li>
-				<li class="links" style="margin: 5px 32px 5px 32px;"><a href="/terms">Terms &amp; Conditions</a></li>
+				<li class="links" style="margin: 5px 32px 5px 32px;"><a href="/page/terms">Terms &amp; Conditions</a></li>
 				<li class="links" style="margin: 5px 0px 5px 32px;"><a href="/page/about">About Us</a></li>
 			</ul>
 		</div>
 	</div>
-</div></div>
+</div>
+
+<script type="text/javascript">
+adroll_adv_id = "YUH3EA73WZHQXH3TIN45LG";
+adroll_pix_id = "LT4IEJ6MLJE7TMOLPQ7SXZ";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+   document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</div>
 
 <script type="text/javascript">
     var addthis_config = {
@@ -1044,11 +1066,13 @@ You may write to us in your own language.<br>
 <script type="text/javascript">
 // <![CDATA[
 	var _gaq = _gaq || [];
+	var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 	_gaq.push(['_setAccount', 'UA-796562-1']);
 	_gaq.push(['_setDomainName', '.academicsuperstore.com']);
 	_gaq.push(['_setVar', 'sourcecode=s10074;promocode=Academic']);
 	_gaq.push(['_setCustomVar', 1, 'UUMC', 'None-None-None', 2]);
-	_gaq.push(['_setCustomVar', 2, 'strat', '77', 2]);
+	_gaq.push(['_setCustomVar', 2, 'strat', '15', 2]);
 
 	
 	_gaq.push(['_trackPageview']);
@@ -1057,65 +1081,31 @@ You may write to us in your own language.<br>
 		
 	(function(){
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = 'http://www.google-analytics.com/ga.js';
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 	})();
 // ]]>
 </script>
 
-
+<script type="text/javascript">
+   function USI_installCode() {
+   var USI_headID = document.getElementsByTagName("head")[0];
+   var USI_installID = document.createElement('script');
+	USI_installID.type = 'text/javascript';
+   USI_installID.src = 'http'+ (document.location.protocol=='https:'?'s://www':'://www')+ '.upsellit.com/launch/academicsuperstore.jsp';
+   USI_headID.appendChild(USI_installID);
+}
+   if (window.addEventListener){
+     window.addEventListener('load', USI_installCode, true);
+   } else if (window.attachEvent) {
+     window.attachEvent('onload', USI_installCode);
+} else {
+     USI_installCode();
+}
+</script>
     
 
 
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="howToBuyDialog" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">How To Buy</span><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div class="corrector ui-dialog-content ui-widget-content" id="howToBuyDialog">
-    <div class="hbTitle">
-		Ordering with Academic Superstore
-    </div>
-    <div class="hbContent">
-		<div>
-			Academic Superstore knows how expensive it is to be a student, teacher or parent of a student. To help with those costs, we offer discounts of up to 85% on the software you need.
-		</div>
-		<div>
-		    These low prices are made possible by educational discounts that you qualify for as part of the Academic Community. To qualify, simply send us a copy of your school ID or one of these <a href="/page/faqs#elig" class="otroDocumentos">other documents</a>.
-		</div>
-		<div>
-			To receive your order as quickly as possible, follow these steps:
-		</div>
-		<div>
-		    <ul>
-				<li>
-				    Add the item(s) you would like to purchase to your cart.
-				</li>
-				<li>
-				    Complete your order online
-				</li>
-				<li>
-				    Reference your order number and email, fax or electronically upload one of the <a href="/page/faqs#elig" class="otroDocumentos">accepted academic documents</a> to us.
-				</li>
-		    </ul>
-		</div>
-    </div>
-
-    <div class="hbTitle">
-		After Ordering
-    </div>
-    <div class="hbContent">
-		<div>
-		    It typically takes us less than a business day to process your documents, and you will not be charged until after you have been approved. If there is any problem with the documents we receive we will notify you.
-		</div>
-		<div>
-		    <a href="/my_account/order_status">Visit our order status page</a> to check on the progress of your order.
-		</div>
-    </div>
-
-    <div class="hbTitle">
-		Questions?
-    </div>
-    <div class="hbContent">
-		<div>
-			If you have any questions about this process please <a href="/contact_us">contact us</a>.
-		</div>
-    </div>
-</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
