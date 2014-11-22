@@ -1,68 +1,74 @@
-> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713043023id_/http%3A//www.teachanywhere.com/about-us/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233943id_/http%3A//www.teachanywhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# privacy policy
 
-**General**
+## Website operator
 
-This Privacy Statement sets out how Teachanywhere complies with European Union data protection requirements. This applies to the entire website. Any changes to these policies will be notified to you on the website homepage and will be included in the updated Privacy Statement. Teachanywhere and its subsidiaries are committed to respecting your privacy. We have structured our website so that, in general, you can visit Teachanywhere on the web without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this Privacy Statement. For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
+This website is operated by Randstad Education Ltd (registered number 3403530) whose registered office is at Randstad Court, Laporte Way, Luton, Beds, LU4 8SB ("Teachanywhere").
 
-**What information we collect**
+Your use of Teachanywhere's website is subject to the following terms & conditions, which you are deemed to accept each time you use the website.
 
-We may collect the following information as submitted to the Teachanywhere website by you:
+## Interruptions and Omissions in Service
 
-  * **Registering a vacancy**  
-The name of your organisation, the subject area, the location, a contact name (you should ensure that you have the consent of any individual's details submitted), your phone and fax numbers, your email address, your preferred user name, additional information and your preferred password. 
+Whilst we try to ensure that the standard of this website remains high and to maintain the continuity of it, the internet is not an inherently stable medium, and errors, omissions, interruptions of service and delays may occur at any time. We do not accept any liability arising from any such errors, omissions, interruptions or delays or any ongoing obligation or responsibility to operate this website (or any particular part of it) or to provide the service offered on this website. We may vary the specification of this site from time to time without notice.
 
+## Links to other Sites
 
-  * **Registering for work**  
-The area where you prefer to work, your preferred Teachanywhere office to deal with, your name, your address, telephone numbers (including mobile phone number), your date of birth, citizenship, the subject area you are registering for (e.g. primary/secondary), the term of employment sought (e.g. permanent, temporary), any comments, additional information and the time and date you are available to be contacted by Teachanywhere. 
+On this site you may be offered automatic links to other sites which we hope will be of interest to you. We do not accept any responsibility for or liability in respect of the content of those sites, the owners of which do not necessarily have any connection, commercial or otherwise, with us. Using automatic links to gain access to such sites is entirely at your own risk.
 
+## Information on this Site
 
-  * Some pages may use cookies, used for storing information about your current internet session. In order to learn more, please see the section on 'How we use cookies' below. 
+Whilst we make every effort to ensure that the information on this site is accurate and complete, some of the information is supplied to us by third parties and we are not able to check the accuracy or completeness of that information. We do not accept any liability arising from any inaccuracy or omission in any of the information on this site or any liability in respect of information on this site supplied by you, any other site user or any other person.
 
+## Your Use of this Site
 
-  * We may also ask you to provide us with information regarding your personal or professional interests, demographics, experiences with our products, and contact preferences in order to provide you with further correspondence about our products and services. 
+You may only use this Site for lawful purposes when seeking employment or help with your career or when recruiting staff. You must not under any circumstances seek to undermine the security of the Site or any information submitted to or available through it. In particular, but without limitation, you must not seek to access, alter or delete any information to which you do not have authorised access, seek to overload the system via spamming or flooding, take any action or use any device, routine or software to crash, delay, damage or otherwise interfere with the operation of this Site or attempt to decipher, disassemble or modify any of the software, coding or information comprised in the Site.
 
+You are solely responsible for any information submitted by you to this site. You are responsible for ensuring that all information supplied by you is true, accurate, up-to-date and not misleading or likely to mislead or deceive and that it is not discriminatory, obscene, offensive, defamatory or otherwise illegal, unlawful or in breach of any applicable legislation, regulations, guidelines or codes of practice or the copyright, trade mark or other intellectual property rights of any person in any jurisdiction. You are also responsible for ensuring that all information, data and files are free of viruses or other routines or engines that may damage or interfere with any system or data prior to being submitted to this site. We reserve the right to remove any information supplied by you from the website at our sole discretion, at any time and for any reason without being required to give any explanation.
 
+## Information Submitted by You
 
-**What do we do with the information we gather?**
+We will use information supplied by you (including, without limitation, sensitive personal data) to aid the recruitment process and associated administrative functions. This involves us, amongst other things, processing and storing information (including, without limitation, sensitive personal data) and passing or making available online such information to prospective employers and clients; information about vacancies and placements will be passed to candidates and may be posted directly onto the website. We use third parties to help us process your information as part of the recruitment process. We may collect and aggregate data from the information supplied by you to help us to understand our users as a group so that we can provide you with a better service. We may also share aggregate information with selected third parties, without disclosing individual names or identifying information. You consent to us using information provided by you (including, without limitation, sensitive personal data) in each of these ways.
 
-We require this information to understand your needs and provide you with a better service, and in particular: to register teaching staff for work, to register teaching vacancies and provide a recruitment service. Internal record keeping. We may use the information to improve our products and services and for research purposes. Our representatives will usually follow up, either by email, phone, fax or mail, to people who have registered their details or registered a vacancy. We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+We will process any data which you provide and any further forms, assessments or personal details which you complete or provide to us when using this site in accordance with UK data protection legislation.
 
-If you have supplied us with your details but do not wish Teachanywhere to contact you with promotional material or for market research purposes, simply send us an email using the form below with your full name so that we may remove you from our lists.
+## Cookies
 
-**Who do we share the information with and your choices**
+Cookies are small text files placed on your device when you visit a website. It is generated by a web page server and can be used by that server whenever the user visits the site.
 
-When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement. We may sell, distribute or lease your personal information to third parties, unless you tell us that you do not wish this to happen. This may include direct marketing agents. This process may include sending personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area. When you provide any information on line, you should look for the box which you can click to say that you do not want the information to be used by anyone for direct marketing purposes. If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:
+Teachanywhere uses the following cookies
 
-Data Protection Compliance Officer  
-Teachanywhere,  
-Regent Court,  
-Laporte Way,  
-Luton,  
-Beds,  
-LU4 8SB  
-or email us using the form below
+**Google Analytics**  \- These gather anonymised data about how you use the site  
+**3rd party Advertising -** If you entered our website through one of our online campaigns on other sites or via email, we will store information about this campaign along with your registration. This information will be used internally to measure the effectiveness of our campaigns. To support this functionality we use a cookie that expires after 60 days.  
+**Website Cookies**  \- This cookie allows us to remember user details  
+**Email**  \- This cookie allows us to track emails
 
-**What if you think we have incorrect information about you or you would like a copy of the information we hold about you?**
+We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10. If you would like a copy of the information held on you please write to: Data Protection Compliance Officer at the address above or email us using the form below.  
-If you believe that any information we are holding on you is incorrect or incomplete, please write or email us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer (including those from this visit) as well as more general information about cookies.
 
-**Security**
+## Terms of Business
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Each employment assignment or placement arising as a result of an introduction made by Randstad will be subject to our standard Terms of Business as they are applicable in the circumstances. All prospective employers and clients for whom we arrange assignments or placements will be provided with a copy of the Terms of Business applicable to them at or following registration.
 
-**Other websites**
+## Content Rights
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question.
+The rights in material on this site are protected by international copyright, software and trademark laws and you agree to use this site in a way which does not infringe these rights. You may copy material on this site for your own private or domestic purposes, but no copying for any commercial or business use is permitted.
 
-**How we use cookies**
+## Liability
 
-A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely.
+We accept no liability for any loss (whether direct or indirect, for loss of business, revenue or profits, wasted expenditure, corruption or destruction of data or for any other indirect or consequential loss whatsoever) arising from your use of the site and we hereby exclude any such liability, whether in contract, tort (including for negligence) or otherwise. We hereby exclude all representations, warranties and conditions relating to this website and your use of it to the maximum extent permitted by law.
 
-If you entered our website through one of our online campaigns on another site or via email, we will store information about this campaign along with your registration. This information will be used internally to measure the effectiveness of our campaigns. To support this functionality we use a cookie that expires after 60 days.
+You agree to indemnify us and keep us indemnified against all costs, expenses, claims, losses, liabilities or proceedings arising from use or misuse by you of this site.
 
-We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer (including those from this visit) as well as more general information about cookies.
+You must notify us immediately if anyone makes or threatens to make any claim against you relating to your use of this site.
 
-For further information, please contact us using the form below.
+## Choice of Law and Jurisdiction
+
+The use of this website and any agreements entered into through this website are to be governed by and construed in accordance with English law. The courts of England are to have exclusive jurisdiction to settle any dispute arising out of or in connection with the use of this website or any agreement made through this website.
+
+## Changes to Terms and Conditions and Invalidity
+
+These website terms and conditions may be changed by us at any time. You will be deemed to accept the terms and conditions (as amended) when you next use this site following any amendment.
+
+If any provision of these terms and conditions is held to be invalid by a court of competent jurisdiction, such invalidity shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
