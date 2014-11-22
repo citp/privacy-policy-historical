@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chakrahealing.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510111602id_/http%3A//www.chakrahealing.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chakrahealing.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122053104id_/http%3A//www.chakrahealing.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mindvalley
+# Privacy Policy
 
 * * *
 
@@ -82,7 +82,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 ### Introduction
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described below.
 
 ### Affiliate Links
 
