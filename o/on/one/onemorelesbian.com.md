@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611003321id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080709id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One More Lesbian | Film, Television and Video On Demand
 
