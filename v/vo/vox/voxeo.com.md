@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180052id_/http%3A//voxeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122191016id_/http%3A//voxeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voxeo |
 
 Welcome to aspect.com and voxeo.com.  Aspect.com, voxeo.com,  and related sites (together, “this Web site”) are owned and operated by Aspect Software, Inc., located at 300 Apollo Drive, Chelmsford, MA 01824, USA (“Aspect” or “we” or “us” or “our”). This privacy policy (“Privacy Policy”) explains how we collect, use, and disclose the Personal Information that we obtain through this Web site.
 
-This Privacy Policy was last updated on October 9, 2013.
+This Privacy Policy was last updated on September 3, 2014.
 
 **Consent**
 
-Your use of, and entry of Personal Information (as defined below under “Collection of Personal Information) into,  this Web site constitutes your consent to the use, processing, and transfer of your Personal Information in accordance with this Privacy Policy.  This Web site is hosted from servers in the United States.  Accordingly, if you are located in a different jurisdiction and enter Personal Information into this Web site, your Personal Information may be transferred to the United States or any other country as required by Aspect.  See “Transfer of Personal Information,” below.  This Web site does not normally collect “sensitive” Personal Information, such as information about ethnic or racial origin, religious or philosophical beliefs, and/or health or medical conditions. However, if this Web site collects any sensitive Personal Information, your use and voluntary entry of information into this Web site constitutes your explicit consent to the collection, use, and disclosure of that information for the purposes and in the manner described in this Privacy Policy.
+Your use of, and entry of personal information into this Web site constitutes your consent to the use, processing, and transfer of your personal information in accordance with this Privacy Policy.  This Web site is hosted from servers in the United States.  Accordingly, if you are located in a different jurisdiction and enter personal information into this Web site, your personal information may be transferred to the United States or any other country as required by Aspect.  See “Transfer of personal information,” below.  This Web site does not normally collect “sensitive” personal information, such as information about ethnic or racial origin, religious or philosophical beliefs, and/or health or medical conditions. However, if this Web site collects any sensitive personal information, your use and voluntary entry of information into this Web site constitutes your explicit consent to the collection, use, and disclosure of that information for the purposes and in the manner described in this Privacy Policy.
 
 **Types of Information We Collect**
 
@@ -78,6 +78,9 @@ This Web site contains links to other Web sites that are not owned by Aspect. Yo
 **Children’s Privacy  **
 
 Aspect does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information of a child under the age of 13, we will take reasonable steps to delete that data from our systems. Please visit the FTC’s website for more tips on protecting children’s privacy online.
+
+**Safe Harbor Privacy Statement**  
+Aspect complies with the U.S.-EU Safe Harbor program and the U.S.-Swiss Safe Harbor program for the collection, use, and retention of personal information Aspect receives from customers located in the European Economic Area and Switzerland using Voxeo CXP, Voxeo Prophecy IVR Platform, and Voxeo Cloud Service ([see Aspect’s Safe Harbor Policy](http://voxeo.com/privacy-policy/aspect-safe-harbor-policy/)). 
 
 **Changes to this Privacy Policy**
 
