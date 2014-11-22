@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imamother.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609153917id_/http%3A//www.imamother.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imamother.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080229id_/http%3A//www.imamother.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Imamother.com
 
@@ -17,12 +17,7 @@ Google's use of the DoubleClick cookie enables it and its partners to serve ads 
 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the[ ads preference manager](http://www.google.com/ads/preferences/).  
 You may opt out of third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
-
-Amazon.com  
-Zedo.com  
-Thejanet.net  
-Skimlinks.com
+Some of our advertising partners may use cookies and web beacons on our site. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Imamother.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
