@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235826id_/http%3A//aent.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aent.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122140917id_/http%3A//www.aent.com/Privacy) for the most accurate reproduction.*
 
-# Alliance | About Us
+# Alliance | Privacy Policy
 
 **COMMITMENT TO YOUR PRIVACY**  
 At Aent.com, your privacy is important to us. We understand that you entrust us with the management of your data. Please know that we protect your privacy. Under no circumstances will AENT.com sell or share any personal information about you to or with any person or organization except as provided in this Privacy Policy or as may be required by law or court order. This Privacy Policy describes the standards that we adhere to in handling information about you.
