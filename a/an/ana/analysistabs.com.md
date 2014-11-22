@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062546id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141211id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ANALYSISTABS - Innovating Awesome Tools for Data Analysis!
 
