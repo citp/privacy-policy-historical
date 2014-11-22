@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622114105id_/http%3A//www.appempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075511id_/http%3A//www.appempire.com/privacy-policy) for the most accurate reproduction.*
 
-# App Empire Privacy Policy
+# App Empire Privacy Policy - App Empire
 
-**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
-**What do we use your information for?**
+**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -102,7 +100,7 @@ App Empire
 930 Tahoe Blvd #802-504  
 Incline Village, NV 89451  
 USA  
-[info@appempire.com](mailto:info@appempire.com)
+[support@appempire.com](mailto:info@appempire.com)
 
 **Product Returns** **MUST** be sent to:  
 Corporate Disk Company  
