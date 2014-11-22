@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531010106id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233824id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Conditions of Use
+# Privacy | Legals
 
 This website is administered by the University of Adelaide. When you access the University of Adelaide's website, our server may log the following information:
 
