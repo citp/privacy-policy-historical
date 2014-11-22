@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldorchard.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085924id_/https%3A//oldorchard.com/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldorchard.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080424id_/http%3A//oldorchard.com/about/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Old Orchard Brands
 
