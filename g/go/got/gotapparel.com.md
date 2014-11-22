@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotapparel.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426023855id_/http%3A//www.gotapparel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapparel.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233735id_/http%3A//www.gotapparel.com/privacy.aspx) for the most accurate reproduction.*
 
-# Wholesale Blank T-shirts | Cheap Tee Shirts | Bulk Apparel | Shop GotApparel.com
+# GotApparel Privacy Policy| Shop GotApparel.com
 
 ### Privacy Notice
 
@@ -12,13 +12,21 @@ Throughout GotApparel.com’s years of operation, we have developed relationship
 
 Gotapparel.com does not sell, share, or rent any of your information under any circumstances. Financial information such as your credit card numbers are never stored on our servers and are destroyed as soon as your order is placed. You can also use Paypal to shop with GotApparel.com. We use information that we collect from our visitors and customers to personalize and improve your visit and shopping experience at the Site. We gather the following types of information:
 
-Information You Give to Us: We Collect Personal Information that is provided by Site users. "Personal Information" includes your name, address, telephone number, credit or debit card information, e-mail address, IP address. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our "email a friend" feature.
+Information You Give to Us:
 
-Cookies: Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
+We Collect Personal Information that is provided by Site users. "Personal Information" includes your name, address, telephone number, credit or debit card information, e-mail address, IP address. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our "email a friend" feature.
 
-Orders: If you place an order through the Site, you will be required to provide contact, billing, and payment information.
+Cookies:
 
-Catalog Requests and Email Newsletter Subscriptions: Upon placing an order through the Site, you will automatically begin receiving both the GotApparel.com catalog and the GotApparel.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from GotApparel.com.
+Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
+
+Orders:
+
+If you place an order through the Site, you will be required to provide contact, billing, and payment information.
+
+Catalog Requests and Email Newsletter Subscriptions:
+
+Upon placing an order through the Site, you will automatically begin receiving both the GotApparel.com catalog and the GotApparel.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from GotApparel.com.
 
 ### 2\. Use of Information Collected By Use
 
@@ -28,25 +36,45 @@ We use this information in an effort to improve your experience on the Site, to 
 
 We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Notice.
 
-Service Providers: We may employ other companies or individuals to provide certain services to or on behalf of us such as analyzing customer lists and data, or performing marketing or consulting services. These third parties ("Service Providers") will only have access to the information needed to perform these limited functions on our behalf and are required to provide your Personal Information with at least the same level of protection and security as we use on the Site. Such Service Providers are prohibited from using your Personal Information for any purpose other than that for which such party was engaged by us and/or as stated in this Privacy Notice. Any Service Providers that use data received from us may only do so in accordance with this Privacy Notice.
+Service Providers:
 
-Credit Card Companies: If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
+We may employ other companies or individuals to provide certain services to or on behalf of us such as analyzing customer lists and data, or performing marketing or consulting services. These third parties ("Service Providers") will only have access to the information needed to perform these limited functions on our behalf and are required to provide your Personal Information with at least the same level of protection and security as we use on the Site. Such Service Providers are prohibited from using your Personal Information for any purpose other than that for which such party was engaged by us and/or as stated in this Privacy Notice. Any Service Providers that use data received from us may only do so in accordance with this Privacy Notice.
 
-Third Party Marketing Partners: From time to time we might establish a business relationship with other third parties whom we believe are trustworthy. In such cases we might license, exchange, share and/or cross-reference information, including your name and postal mailing address that will enable such third parties to contact you regarding products and services that may be of interest to you. We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any such third party partner(s).
+Credit Card Companies:
 
-Related Companies: We may share your postal and e-mail address; telephone number(s), customer preferences, and purchase history with other subsidiaries of our parent company, Global Sportswear. We will never share any credit card information which you have given to us with any of these related companies.
+If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
 
-Aggregate Information: We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience.
+Third Party Marketing Partners:
 
-Shippers: If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX and the United States Postal Service to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
+From time to time we might establish a business relationship with other third parties whom we believe are trustworthy. In such cases we might license, exchange, share and/or cross-reference information, including your name and postal mailing address that will enable such third parties to contact you regarding products and services that may be of interest to you. We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any such third party partner(s).
 
-Third Party Transaction-Level Data: If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site.
+Related Companies:
 
-Links to Third Party Site: The Site contains certain links to third party websites, such as our vendors. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk.
+We may share your postal and e-mail address; telephone number(s), customer preferences, and purchase history with other subsidiaries of our parent company, Global Sportswear. We will never share any credit card information which you have given to us with any of these related companies.
 
-Catalog Requests: When you request a catalog from us, we share your name and postal address with a third party fulfillment company for the sole purpose of sending you the requested catalog. This third party is not permitted to store the information is only authorized to use this information to transmit catalogs to you.
+Aggregate Information:
 
-Law Enforcement and Protection of Users: To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law.
+We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience.
+
+Shippers:
+
+If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX and the United States Postal Service to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
+
+Third Party Transaction-Level Data:
+
+If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site.
+
+Links to Third Party Site:
+
+The Site contains certain links to third party websites, such as our vendors. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk.
+
+Catalog Requests:
+
+When you request a catalog from us, we share your name and postal address with a third party fulfillment company for the sole purpose of sending you the requested catalog. This third party is not permitted to store the information is only authorized to use this information to transmit catalogs to you.
+
+Law Enforcement and Protection of Users:
+
+To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law.
 
 ### 4\. Affiliate Programs
 
