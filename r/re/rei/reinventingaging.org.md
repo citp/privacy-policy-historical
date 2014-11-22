@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512194927id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122074925id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reinventing Aging
+# Privacy Policy : Reinventing Aging
 
 ### Privacy Policy
 
@@ -11,6 +11,20 @@ Your privacy is important to us. To better protect your privacy we provide this 
  **Collection of Personal Information**
 
 When visiting reinventingaging.org, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+ **Email Policy**
+
+Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+
+If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to support@reinventing.org for review.
+
+ **How can you stop receiving email from us?**
+
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the SafeUnsubscribe™ or Update Profile links at the end of any email.
+
+ **Cookies and other Technologies**
+
+As is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other technologies on your computer. Please note that third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers, may also set and access cookies, web beacons, Flash cookies, and other technologies on your computer when you visit the Site. For more information, please [click here to see our cookie policy](http://www.reinventingaging.org/cookie-policy/).
 
  **Private Information Security**
 
