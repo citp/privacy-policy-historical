@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadisaga.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417032731id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadisaga.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075947id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ShaadiSaga
 
