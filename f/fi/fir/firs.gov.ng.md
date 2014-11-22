@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firs.gov.ng privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513132113id_/http%3A//www.firs.gov.ng/aboutus/Pages/Privacy-Policy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firs.gov.ng privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034621id_/http%3A//www.firs.gov.ng/aboutus/Pages/Privacy-Policy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
