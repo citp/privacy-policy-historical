@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630141609id_/http%3A//www.pfaltzgraff.com/PRIVACY_SECURITY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221731id_/http%3A//www.pfaltzgraff.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Pfaltzgraff Privacy Policy | Serveware, Kitchen Organizers
+# Privacy Policy
 
 We are committed to protecting your privacy and security. We cherish the relationship we have with you, and will do nothing to violate your trust in us. Because of this commitment, we never sell, rent or trade email addresses with any other company. And we utilize state-of-the-art security software to protect your financial information.
 
@@ -36,13 +36,15 @@ After you make a purchase, for your convenience we will still send confirmations
 
 Pfaltzgraff.com does use cookies to make your shopping experience more efficient, convenient and personalized. Cookies are not required, however, for you to shop our site or to place an order. They can only be read by our servers, and are ready to go to work for you every time you return to Pfaltzgraff.com.
 
-Just so you'll know, a cookie is a very small text file placed on your hard drive. It helps us improve our site design, product selection, services and promotions in ways that serve you better. Cookies are your unique identifier and cannot be executed as a code to deliver viruses.
+Just so you'll know, a cookie is a very small text file placed on your hard drive. It helps us improve our site design, product selection, services and promotions in ways that serve you better. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here. Cookies are your unique identifier and cannot be executed as a code to deliver viruses.
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
+
+Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.
 
 ## How can you contact us with your questions or comments?
 
-[You can choose from several methods available to get in touch with us.](http://www.pfaltzgraff.com/on/demandware.store/Sites-Pfaltzgraff-Site/default/Link-Page?cid=CONTACT_US) We're always happy to answer your questions or listen to your comments.
-
-## Assuring your Security
+[You can choose from several methods available to get in touch with us.](http://www.pfaltzgraff.com/on/demandware.store/Sites-Pfaltzgraff-Site/default/Link-Page?cid=contact-us) We're always happy to answer your questions or listen to your comments.
 
 ## How do we protect your personal information?
 
