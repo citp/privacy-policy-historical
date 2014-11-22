@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirevolution.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504005301id_/http%3A//www.roirevolution.com/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirevolution.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161157id_/http%3A//www.roirevolution.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
