@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitelibrary.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525030548id_/http%3A//www.websitelibrary.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitelibrary.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122043557id_/http%3A//www.websitelibrary.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Free Web Directory | Add URL & Submit Site to WebsiteLibrary.org - Privacy Policy
 
