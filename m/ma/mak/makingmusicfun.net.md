@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530160502id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234130id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
 
 # Terms Of Use/Privacy Policy | MakingMusicFun.net
 
@@ -24,6 +24,9 @@ All printable materials may be used and/or duplicated, provided that:
 No commercial non-education use, resale, or exploitation of material from the site is permitted without the express written permission of MMF! (Wave Music, LLC).
 
 All published music teacher directory content (image and text) becomes property of MMF!, and may be used to promote the teacher directory for the purpose of enhancing the value of this resource.
+
+**Basically...**  
+MakingMusicFun.net was created for teachers, students, and folks that love music. Print or read anything you like. Just don't charge people for the resources you find on our website, or put our stuff on your website. Thanks!
 
 Privacy Policy  
 MMF! (Wave Music, LLC) respects the privacy of each visitor, especially kids!
@@ -55,4 +58,4 @@ From time to time objectionable ads are served to our site. If you come across o
   
 
 
-[Sign up](https://web.archive.org/web/20140530160502id_/http%3A//www.makingmusicfun.net/signup.htm) to receive the MakingMusicFun.net Newsletter so you don't miss a thing!
+[Sign up](https://web.archive.org/web/20141122234130id_/http%3A//www.makingmusicfun.net/signup.htm) to receive the MakingMusicFun.net Newsletter so you don't miss a thing!
