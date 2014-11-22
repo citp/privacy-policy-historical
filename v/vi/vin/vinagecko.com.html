@@ -1,30 +1,29 @@
-<!--The following is the downloaded HTML source of the vinagecko.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051225id_/http%3A//vinagecko.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinagecko.com privacy policy that was archived on 2014-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122112511id_/http%3A//vinagecko.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-gb"><!--<![endif]--><head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
           <base href="http://vinagecko.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="Joomla 3 templates, joomla 3 extensions, joomla 3 modules, joomla 3 plugins, free joomla 3 templates, free extensions, joomla 3 professional services.">
+  <meta name="keywords" content="joomla 3 templates, joomla 3 extensions, joomla 3 modules, joomla 3 plugins, free joomla 3 templates, free extensions, joomla 3 professional services.">
   <meta name="author" content="Hieu Ja">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="We provide premium Joomla! 3 Templates and Powerful Joomla! 3 Extensions. Use our templates with our extensions and create a website today. Simplify your work!">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/vina_gecko/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/templates/vina_gecko/css/k2.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/helix/css/bootstrap.min.css" type="text/css">
-  <link rel="stylesheet" href="/plugins/system/helix/css/bootstrap-responsive.min.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/helix/css/font-awesome.css" type="text/css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900" type="text/css">
   <link rel="stylesheet" href="/plugins/system/helix/css/mobile-menu.css" type="text/css">
   <link rel="stylesheet" href="/templates/vina_gecko/css/template.css" type="text/css">
   <link rel="stylesheet" href="/templates/vina_gecko/css/presets/preset1.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css?v=1399201529" type="text/css">
+  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css?v=1405767792" type="text/css">
   <link rel="stylesheet" href="/media/k2store/css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="/media/k2store/css/jquery-ui-custom.css" type="text/css">
   <link rel="stylesheet" href="/media/k2store/css/k2store.css" type="text/css">
   <style type="text/css">
-.container{max-width:1170px}
+.container{width:1170px}
 body{font-family:'Raleway';}
 
   </style>
@@ -39,10 +38,12 @@ body{font-family:'Raleway';}
   <script src="/plugins/system/helix/js/helix.core.js" type="text/javascript"></script>
   <script src="/plugins/system/helix/js/menu.js" type="text/javascript"></script>
   <script src="/templates/vina_gecko/js/theme.js" type="text/javascript"></script>
+  <script src="/media/com_acymailing/js/acymailing_module.js?v=472" type="text/javascript"></script>
   <script src="/media/k2store/js/k2storejq.js" type="text/javascript"></script>
-  <script src="/media/com_acymailing/js/acymailing_module.js?v=462" type="text/javascript"></script>
   <script src="/media/k2store/js/k2store-noconflict.js" type="text/javascript"></script>
+  <script src="/media/k2store/js/k2storejqui.js" type="text/javascript"></script>
   <script src="/media/k2store/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/k2store/js/jquery-ui-timepicker-addon.js" type="text/javascript"></script>
   <script src="/media/k2store/js/k2store.js" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
@@ -88,11 +89,66 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
 				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
+
+		if(typeof(k2store) == 'undefined') {
+		var k2store = {};
+		}
+
+		if(typeof(jQuery) != 'undefined') {
+		jQuery.noConflict();
+		}
+
+		if(typeof(k2store.jQuery) == 'undefined') {
+		k2store.jQuery = jQuery.noConflict();
+		}
+
+		if(typeof(k2store.jQuery) != 'undefined') {
+
+		(function($) {
+		$(document).ready(function(){
+		//date, time, datetime
+		if ($.browser.msie && $.browser.version == 6) {
+		$('.k2store_date, .k2store_datetime, .k2store_time').bgIframe();
+		}
+
+		$('.k2store_date').datepicker({dateFormat: 'yy-mm-dd'});
+		$('.k2store_datetime').datetimepicker({
+		dateFormat: 'yy-mm-dd',
+		timeFormat: 'HH:mm',
+		
+		currentText: 'Now',
+		closeText: 'Done',
+		timeOnlyTitle: 'Choose Time',
+		timeText: 'Time',
+		hourText: 'Hour',
+		minuteText: 'Minute',
+		secondText: 'Seconds',
+		millisecText: 'Milliseconds',
+		timezoneText: 'Time Zone'
+		
+		});
+
+		$('.k2store_time').timepicker({timeFormat: 'HH:mm', 
+		currentText: 'Now',
+		closeText: 'Done',
+		timeOnlyTitle: 'Choose Time',
+		timeText: 'Time',
+		hourText: 'Hour',
+		minuteText: 'Minute',
+		secondText: 'Seconds',
+		millisecText: 'Milliseconds',
+		timezoneText: 'Time Zone'
+		});
+
+		});
+		})(k2store.jQuery);
+		}
+		
   </script>
 
             
 </head>
-    <body class="article subpage  ltr preset1 menu-privacy-policy responsive bg hfeed clearfix">
+    <body class="article subpage  ltr preset1 menu-privacy-policy fixed bg hfeed clearfix">
 		<div class="body-innerwrapper">
 			<!--[if lt IE 8]>
 			<div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
@@ -103,7 +159,7 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 <div id="sp-menu" class="span7">	
 
 			<div id="sp-main-menu" class="visible-desktop">
-				<ul class="sp-menu level-0"><li class="menu-item first parent "><a href="/joomla-templates" class="menu-item first parent "><span class="menu"><span class="menu-title">Joomla Templates</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 225px;"><div class="megacol col1 first" style="width: 225px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/joomla-templates" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Template Showcase</span></span></a></li><li class="menu-item"><a href="/free-templates" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Templates</span></span></a></li><li class="menu-item last"><a href="http://templates.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Templates Demo</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/joomla-extensions" class="menu-item parent "><span class="menu"><span class="menu-title">Joomla Extensions</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 220px;"><div class="megacol col1 first" style="width: 220px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/joomla-modules" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Modules</span></span></a></li><li class="menu-item"><a href="/joomla-plugins" class="menu-item"><span class="menu"><span class="menu-title">Joomla! 3 Plugins</span></span></a></li><li class="menu-item"><a href="/free-extensions" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Extensions</span></span></a></li><li class="menu-item last"><a href="http://extensions.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Extensions Demo</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/custom-joomla-design" class="menu-item parent "><span class="menu"><span class="menu-title">Services</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 245px;"><div class="megacol col1 first" style="width: 245px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/custom-joomla-design" class="menu-item first"><span class="menu"><span class="menu-title">Custom Joomla Design</span></span></a></li><li class="menu-item"><a href="http://psd5s.com/psd-to-joomla-template.html" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">PSD to Joomla Template</span></span></a></li><li class="menu-item"><a href="/hacking-solving" class="menu-item"><span class="menu"><span class="menu-title">Joomla Hacking Solving</span></span></a></li><li class="menu-item"><a href="/joomla-migration-service" class="menu-item"><span class="menu"><span class="menu-title">Joomla Migration Service</span></span></a></li><li class="menu-item last"><a href="/website-and-extensions-upgrades" class="menu-item last"><span class="menu"><span class="menu-title">Website and Extension Upgrades</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/forum" class="menu-item parent "><span class="menu"><span class="menu-title">Support</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/forum" class="menu-item first"><span class="menu"><span class="menu-title">Forums</span></span></a></li><li class="menu-item"><a href="/faqs" class="menu-item"><span class="menu"><span class="menu-title">FAQs</span></span></a></li><li class="menu-item"><a href="http://docs.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Documentation</span></span></a></li><li class="menu-item"><a href="https://www.youtube.com/user/vinawebsolutions/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Video Tutorials</span></span></a></li><li class="menu-item last"><a href="/contact-us" class="menu-item last"><span class="menu"><span class="menu-title">Contact Us</span></span></a></li></ul></div></div></div></div></li><li class="menu-item last"><a href="/blog" class="menu-item last"><span class="menu"><span class="menu-title">Blog</span></span></a></li></ul>        
+				<ul class="sp-menu level-0"><li class="menu-item first parent "><a href="/joomla-templates" class="menu-item first parent "><span class="menu"><span class="menu-title">Joomla Templates</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 225px;"><div class="megacol col1 first" style="width: 225px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/joomla-templates" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Template Showcase</span></span></a></li><li class="menu-item"><a href="/free-templates" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Templates</span></span></a></li><li class="menu-item last"><a href="http://templates.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Templates Demo</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/joomla-extensions" class="menu-item parent "><span class="menu"><span class="menu-title">Joomla Extensions</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 220px;"><div class="megacol col1 first" style="width: 220px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/joomla-modules" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Modules</span></span></a></li><li class="menu-item"><a href="/joomla-plugins" class="menu-item"><span class="menu"><span class="menu-title">Joomla! 3 Plugins</span></span></a></li><li class="menu-item"><a href="/free-extensions" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Extensions</span></span></a></li><li class="menu-item last"><a href="http://extensions.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Extensions Demo</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/custom-joomla-design" class="menu-item parent "><span class="menu"><span class="menu-title">Services</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 245px;"><div class="megacol col1 first" style="width: 245px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/custom-joomla-design" class="menu-item first"><span class="menu"><span class="menu-title">Custom Joomla Design</span></span></a></li><li class="menu-item"><a href="http://psd5s.com/psd-to-joomla-template.html" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">PSD to Joomla Template</span></span></a></li><li class="menu-item"><a href="/hacking-solving" class="menu-item"><span class="menu"><span class="menu-title">Joomla Hacking Solving</span></span></a></li><li class="menu-item"><a href="/joomla-migration-service" class="menu-item"><span class="menu"><span class="menu-title">Joomla Migration Service</span></span></a></li><li class="menu-item"><a href="/website-and-extensions-upgrades" class="menu-item"><span class="menu"><span class="menu-title">Website and Extension Upgrades</span></span></a></li><li class="menu-item last"><a href="/copyright-removal" class="menu-item last"><span class="menu"><span class="menu-title">Template Copyright Removal</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="/forum" class="menu-item parent "><span class="menu"><span class="menu-title">Support</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/faqs" class="menu-item first"><span class="menu"><span class="menu-title">FAQs</span></span></a></li><li class="menu-item"><a href="http://docs.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Documentation</span></span></a></li><li class="menu-item"><a href="https://www.youtube.com/user/vinawebsolutions/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Video Tutorials</span></span></a></li><li class="menu-item"><a href="/forum" class="menu-item"><span class="menu"><span class="menu-title">Discussion Forums</span></span></a></li><li class="menu-item"><a href="http://tickets.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Submit a Ticket</span></span></a></li><li class="menu-item last"><a href="/contact-us" class="menu-item last"><span class="menu"><span class="menu-title">Contact Us</span></span></a></li></ul></div></div></div></div></li><li class="menu-item last"><a href="/blog" class="menu-item last"><span class="menu"><span class="menu-title">Blog</span></span></a></li></ul>        
 			</div> 
 
 			<div class="hidden-desktop">
@@ -111,14 +167,14 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 					<i class="icon-align-justify"></i>
 				</a>
 				<div class=" sp-mobile-menu nav-collapse collapse">
-					<ul class=""><li class="menu-item first parent"><a href="/joomla-templates" class="menu-item first parent"><span class="menu"><span class="menu-title">Joomla Templates</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-123"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-123"><li class="menu-item first"><a href="/joomla-templates" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Template Showcase</span></span></a></li><li class="menu-item"><a href="/free-templates" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Templates</span></span></a></li><li class="menu-item last"><a href="http://templates.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Templates Demo</span></span></a></li></ul></li><li class="menu-item parent"><a href="/joomla-extensions" class="menu-item parent"><span class="menu"><span class="menu-title">Joomla Extensions</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-124"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-124"><li class="menu-item first"><a href="/joomla-modules" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Modules</span></span></a></li><li class="menu-item"><a href="/joomla-plugins" class="menu-item"><span class="menu"><span class="menu-title">Joomla! 3 Plugins</span></span></a></li><li class="menu-item"><a href="/free-extensions" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Extensions</span></span></a></li><li class="menu-item last"><a href="http://extensions.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Extensions Demo</span></span></a></li></ul></li><li class="menu-item parent"><a href="/custom-joomla-design" class="menu-item parent"><span class="menu"><span class="menu-title">Services</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-125"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-125"><li class="menu-item first"><a href="/custom-joomla-design" class="menu-item first"><span class="menu"><span class="menu-title">Custom Joomla Design</span></span></a></li><li class="menu-item"><a href="http://psd5s.com/psd-to-joomla-template.html" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">PSD to Joomla Template</span></span></a></li><li class="menu-item"><a href="/hacking-solving" class="menu-item"><span class="menu"><span class="menu-title">Joomla Hacking Solving</span></span></a></li><li class="menu-item"><a href="/joomla-migration-service" class="menu-item"><span class="menu"><span class="menu-title">Joomla Migration Service</span></span></a></li><li class="menu-item last"><a href="/website-and-extensions-upgrades" class="menu-item last"><span class="menu"><span class="menu-title">Website and Extension Upgrades</span></span></a></li></ul></li><li class="menu-item parent"><a href="/forum" class="menu-item parent"><span class="menu"><span class="menu-title">Support</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-128"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-128"><li class="menu-item first"><a href="/forum" class="menu-item first"><span class="menu"><span class="menu-title">Forums</span></span></a></li><li class="menu-item"><a href="/faqs" class="menu-item"><span class="menu"><span class="menu-title">FAQs</span></span></a></li><li class="menu-item"><a href="http://docs.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Documentation</span></span></a></li><li class="menu-item"><a href="https://www.youtube.com/user/vinawebsolutions/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Video Tutorials</span></span></a></li><li class="menu-item last"><a href="/contact-us" class="menu-item last"><span class="menu"><span class="menu-title">Contact Us</span></span></a></li></ul></li><li class="menu-item last"><a href="/blog" class="menu-item last"><span class="menu"><span class="menu-title">Blog</span></span></a></li></ul>   
+					<ul class=""><li class="menu-item first parent"><a href="/joomla-templates" class="menu-item first parent"><span class="menu"><span class="menu-title">Joomla Templates</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-123"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-123"><li class="menu-item first"><a href="/joomla-templates" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Template Showcase</span></span></a></li><li class="menu-item"><a href="/free-templates" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Templates</span></span></a></li><li class="menu-item last"><a href="http://templates.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Templates Demo</span></span></a></li></ul></li><li class="menu-item parent"><a href="/joomla-extensions" class="menu-item parent"><span class="menu"><span class="menu-title">Joomla Extensions</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-124"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-124"><li class="menu-item first"><a href="/joomla-modules" class="menu-item first"><span class="menu"><span class="menu-title">Joomla! 3 Modules</span></span></a></li><li class="menu-item"><a href="/joomla-plugins" class="menu-item"><span class="menu"><span class="menu-title">Joomla! 3 Plugins</span></span></a></li><li class="menu-item"><a href="/free-extensions" class="menu-item"><span class="menu"><span class="menu-title">Free Joomla! 3 Extensions</span></span></a></li><li class="menu-item last"><a href="http://extensions.vinagecko.com" target="_blank" class="menu-item last"><span class="menu"><span class="menu-title">Joomla! 3 Extensions Demo</span></span></a></li></ul></li><li class="menu-item parent"><a href="/custom-joomla-design" class="menu-item parent"><span class="menu"><span class="menu-title">Services</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-125"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-125"><li class="menu-item first"><a href="/custom-joomla-design" class="menu-item first"><span class="menu"><span class="menu-title">Custom Joomla Design</span></span></a></li><li class="menu-item"><a href="http://psd5s.com/psd-to-joomla-template.html" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">PSD to Joomla Template</span></span></a></li><li class="menu-item"><a href="/hacking-solving" class="menu-item"><span class="menu"><span class="menu-title">Joomla Hacking Solving</span></span></a></li><li class="menu-item"><a href="/joomla-migration-service" class="menu-item"><span class="menu"><span class="menu-title">Joomla Migration Service</span></span></a></li><li class="menu-item"><a href="/website-and-extensions-upgrades" class="menu-item"><span class="menu"><span class="menu-title">Website and Extension Upgrades</span></span></a></li><li class="menu-item last"><a href="/copyright-removal" class="menu-item last"><span class="menu"><span class="menu-title">Template Copyright Removal</span></span></a></li></ul></li><li class="menu-item parent"><a href="/forum" class="menu-item parent"><span class="menu"><span class="menu-title">Support</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-128"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-128"><li class="menu-item first"><a href="/faqs" class="menu-item first"><span class="menu"><span class="menu-title">FAQs</span></span></a></li><li class="menu-item"><a href="http://docs.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Documentation</span></span></a></li><li class="menu-item"><a href="https://www.youtube.com/user/vinawebsolutions/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Video Tutorials</span></span></a></li><li class="menu-item"><a href="/forum" class="menu-item"><span class="menu"><span class="menu-title">Discussion Forums</span></span></a></li><li class="menu-item"><a href="http://tickets.vinagecko.com/" target="_blank" class="menu-item"><span class="menu"><span class="menu-title">Submit a Ticket</span></span></a></li><li class="menu-item last"><a href="/contact-us" class="menu-item last"><span class="menu"><span class="menu-title">Contact Us</span></span></a></li></ul></li><li class="menu-item last"><a href="/blog" class="menu-item last"><span class="menu"><span class="menu-title">Blog</span></span></a></li></ul>   
 				</div>
 			</div>
 			</div>
 
 <div id="sp-search" class="span3 visible-desktop">
 <div id="k2ModuleBox96" class="k2SearchBlock">
-	<form action="/free-templates/itemlist/search" method="get" autocomplete="off" class="k2SearchBlockForm form-search bg-color">
+	<form action="/component/k2/itemlist/search" method="get" autocomplete="off" class="k2SearchBlockForm form-search bg-color">
 		<input type="text" value="Search" name="searchword" maxlength="20" size="20" alt="Search" class="inputbox input-medium search-query" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
 
 								<!--<input type="submit" value="" class="button " onclick="this.form.searchword.focus();" />-->
@@ -150,7 +206,7 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 <div id="sp-position2" class="span4">	<div class="module vistor-only">	
 		<div class="mod-wrapper-menu clearfix">
 			<ul class="nav ">
-<li class="item-129"><a class="icon-lock" href="/sign-up">Sign up</a></li><li class="item-130"><a class="icon-user" href="/login">Login</a></li><li class="item-131"><a class="icon-shopping-cart" href="/my-cart">My Cart</a></li></ul>
+<li class="item-288"><a class="icon-lock" href="/join-now/levels">Join Now</a></li><li class="item-130"><a class="icon-user" href="/login">Login</a></li><li class="item-131"><a class="icon-shopping-cart" href="/my-cart">My Cart</a></li></ul>
 		</div>
 	</div>
 	</div>
@@ -199,26 +255,16 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 <h3>5. Links</h3>
 <p>This Web site contains links to other sites. Please be aware that We are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
 <h3>6. How To Contact Us</h3>
-<p>Should you have other questions or concerns about these privacy policies, please contact us: <strong><script type="text/javascript">
- <!--
+<p>Should you have other questions or concerns about these privacy policies, please contact us: <strong><span id="cloak26015"><a href="mailto:contact@vinagecko.com">contact@vinagecko.com</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak26015').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy38899 = 'c&#111;nt&#97;ct' + '&#64;';
- addy38899 = addy38899 + 'v&#105;n&#97;g&#101;ck&#111;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy38899 + '\'>');
- document.write(addy38899);
- document.write('<\/a>');
- //-->\n </script><a href="mailto:contact@vinagecko.com">contact@vinagecko.com</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>');
+ var addy26015 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy26015 = addy26015 + 'v&#105;n&#97;g&#101;ck&#111;' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak26015').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy26015 + '\'>' + addy26015+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.
- <script type="text/javascript">
- <!--
- document.write('</');
- document.write('span>');
- //-->
- </script></span></strong></p>
+ </script></strong></p>
 <h3>7. Changes to the Website Privacy Policy</h3>
 <p>Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.</p> 								
 					
@@ -238,48 +284,15 @@ function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"
 					<span>My Cart</span>				</h3>
 				<span class="sp-badge my-cart border"></span>							<div class="mod-content clearfix">	
 				<div class="mod-inner clearfix">
-					<script type="text/javascript">
-<!--
-if(typeof(k2store) == 'undefined') {
-	var k2store = {};
-}
-if(typeof(k2store.jQuery) == 'undefined') {
-	k2store.jQuery = jQuery.noConflict();
-}
+					<div id="miniK2StoreCart">
+				No items in cart	
+	<div class="k2store-minicart-button cart_link" style="padding-top: 10px">
+		<a class="btn btn-primary" href="/my-cart">
+	View Cart	</a>
+		</div>
 
-if(typeof(k2storeURL) == 'undefined') {
-	var k2storeURL = '';
-}
-
-(function($) {
-	$(document).ready(function(){
-		var murl = k2storeURL
-				+ 'index.php?option=com_k2store&view=mycart&task=ajaxmini';
-
-		if ($('#miniK2StoreCart').length > 0) {
-		$.ajax({
-			url : murl,
-			type: 'post',
-			success: function(response){
-				if ($('#miniK2StoreCart').length > 0) {
-					$('#miniK2StoreCart').html(response);
-				}
-			}
-
-		});
-		}
-	});
-})(k2store.jQuery);
-//-->
-</script>
-<div class="k2StoreCartBlock my-cart border">
-
-<div id="miniK2StoreCart">
-
-</div>
-<div class="cart_link"><a href="/my-cart" class="btn btn-primary">View Cart</a> </div>
-</div>
-				</div>
+	</div>
+					</div>
 			</div>
 		</div>
 	</div>
@@ -333,7 +346,7 @@ if(typeof(k2storeURL) == 'undefined') {
 				<input type="hidden" name="option" value="com_users">
 		<input type="hidden" name="task" value="user.login">
 		<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0yMTU=">
-		<input type="hidden" name="42c65e48f5c28d2a975278ffb0612bd2" value="1">	</div>
+		<input type="hidden" name="08373d8ffdb3eabf78864da80bcc3dae" value="1">	</div>
 	</form>
 				</div>
 			</div>
@@ -346,16 +359,16 @@ if(typeof(k2storeURL) == 'undefined') {
 					<span>Newsletter</span>				</h3>
 				<span class="sp-badge  border"></span>							<div class="mod-content clearfix">	
 				<div class="mod-inner clearfix">
-					<div class="acymailing_module border" id="acymailing_module_formAcymailing52261">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing52261">
-		<form id="formAcymailing52261" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing52261')" method="post" name="formAcymailing52261">
+					<div class="acymailing_module border" id="acymailing_module_formAcymailing26821">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing26821">
+		<form id="formAcymailing26821" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing26821')" method="post" name="formAcymailing26821">
 		<div class="acymailing_module_form">
 			<div class="acymailing_introtext">Keep up-to-date with our awesome products and news. Enter your e-mail and subscribe to our newsletter.</div>						<table class="acymailing_form">
 				<tbody><tr>
-												<td class="acyfield_name">
-								<input id="user_name_formAcymailing52261" onfocus="if(this.value == 'Your Name') this.value = '';" onblur="if(this.value=='') this.value='Your Name';" class="inputbox" type="text" name="user[name]" style="width:100%" value="Your Name">
-							</td> </tr><tr>							<td class="acyfield_email">
-								<input id="user_email_formAcymailing52261" onfocus="if(this.value == ' Your Mail') this.value = '';" onblur="if(this.value=='') this.value=' Your Mail';" class="inputbox" type="text" name="user[email]" style="width:100%" value=" Your Mail">
+												<td class="acyfield_name acy_requiredField">
+								<input id="user_name_formAcymailing26821" onfocus="if(this.value == 'Your Name') this.value = '';" onblur="if(this.value=='') this.value='Your Name';" class="inputbox" type="text" name="user[name]" style="width:100%" value="Your Name" title="Your Name">
+							</td> </tr><tr>							<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing26821" onfocus="if(this.value == ' Your Mail') this.value = '';" onblur="if(this.value=='') this.value=' Your Mail';" class="inputbox" type="text" name="user[email]" style="width:100%" value=" Your Mail" title=" Your Mail">
 							</td> </tr><tr>
 
 					
@@ -372,7 +385,7 @@ if(typeof(k2storeURL) == 'undefined') {
 
 
 					<td class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing52261'); }catch(err){alert('The form could not be submitted '+err);return false;}">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing26821'); }catch(err){alert('The form could not be submitted '+err);return false;}">
 											</td>
 				</tr>
 			</tbody></table>
@@ -383,7 +396,7 @@ if(typeof(k2storeURL) == 'undefined') {
 			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fvinagecko.com%2Fprivacy-policy">
 			<input type="hidden" name="option" value="com_acymailing">
 						<input type="hidden" name="hiddenlists" value="1">
-			<input type="hidden" name="acyformname" value="formAcymailing52261">
+			<input type="hidden" name="acyformname" value="formAcymailing26821">
 									</div>
 		</form>
 	</div>
@@ -407,10 +420,10 @@ if(typeof(k2storeURL) == 'undefined') {
 					M				</div>
 								<div class="media-body">
 										<div class="moduleItemTitle">
-						<a href="/joomla-modules/item/93-product-ticker-for-jshopping" title="Vina Product Ticker for JShopping">							Vina Product Ticker for JShopping						</a>
+						<a href="/joomla-modules/item/129-vertical-scroller-for-youtube" title="Vina Vertical Scroller for Youtube">							Vina Vertical Scroller for Youtube						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> June 25, 2014 | <strong>Hits:</strong> 14					</span>
+						<strong>Added:</strong> November 05, 2014 | <strong>Hits:</strong> 284					</span>
 				</div>
 			</div>
 		</li>
@@ -420,10 +433,10 @@ if(typeof(k2storeURL) == 'undefined') {
 					M				</div>
 								<div class="media-body">
 										<div class="moduleItemTitle">
-						<a href="/joomla-modules/item/92-item-scrollbar-for-k2" title="Vina Item Scrollbar for K2">							Vina Item Scrollbar for K2						</a>
+						<a href="/joomla-modules/item/128-vertical-timeline-for-k2" title="Vina Vertical Timeline for K2">							Vina Vertical Timeline for K2						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> June 19, 2014 | <strong>Hits:</strong> 120					</span>
+						<strong>Added:</strong> October 29, 2014 | <strong>Hits:</strong> 438					</span>
 				</div>
 			</div>
 		</li>
@@ -433,10 +446,10 @@ if(typeof(k2storeURL) == 'undefined') {
 					M				</div>
 								<div class="media-body">
 										<div class="moduleItemTitle">
-						<a href="/joomla-modules/item/91-vertical-news-ticker" title="Vina Vertical News Ticker">							Vina Vertical News Ticker						</a>
+						<a href="/joomla-modules/item/127-nivo-image-slider" title="Vina Nivo Image Slider">							Vina Nivo Image Slider						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> June 17, 2014 | <strong>Hits:</strong> 65					</span>
+						<strong>Added:</strong> October 21, 2014 | <strong>Hits:</strong> 1706					</span>
 				</div>
 			</div>
 		</li>
@@ -463,7 +476,7 @@ if(typeof(k2storeURL) == 'undefined') {
 						<a href="/joomla-modules/item/54-jssor-image-slider" title="Vina Jssor Image Slider">							Vina Jssor Image Slider						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> March 17, 2014 | <strong>Hits:</strong> 2500					</span>
+						<strong>Added:</strong> March 17, 2014 | <strong>Hits:</strong> 7245					</span>
 				</div>
 			</div>
 		</li>
@@ -473,10 +486,10 @@ if(typeof(k2storeURL) == 'undefined') {
 					M				</div>
 								<div class="media-body">
 										<div class="moduleItemTitle">
-						<a href="/joomla-modules/item/59-tilted-content-slideshow" title="Vina Tilted Content Slideshow">							Vina Tilted Content Slideshow						</a>
+						<a href="/joomla-modules/item/78-article-accordion" title="Vina Article Accordion">							Vina Article Accordion						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> March 24, 2014 | <strong>Hits:</strong> 2444					</span>
+						<strong>Added:</strong> May 19, 2014 | <strong>Hits:</strong> 5999					</span>
 				</div>
 			</div>
 		</li>
@@ -486,10 +499,10 @@ if(typeof(k2storeURL) == 'undefined') {
 					M				</div>
 								<div class="media-body">
 										<div class="moduleItemTitle">
-						<a href="/joomla-modules/item/53-jssor-content-slider" title="Vina Jssor Content Slider">							Vina Jssor Content Slider						</a>
+						<a href="/joomla-modules/item/80-awesome-image-slider" title="Vina Awesome Image Slider">							Vina Awesome Image Slider						</a>
 					</div>
 										<span class="moduleItemDateCreated">
-						<strong>Added:</strong> March 17, 2014 | <strong>Hits:</strong> 1465					</span>
+						<strong>Added:</strong> May 27, 2014 | <strong>Hits:</strong> 5954					</span>
 				</div>
 			</div>
 		</li>
@@ -520,59 +533,59 @@ if(typeof(k2storeURL) == 'undefined') {
 				<div class="media mod-blog-item">
 		<div class="pull-left">
 			<div class="blog-date media-object vina-box">
-												<span class="blog-day">13</span>
-				<span class="blog-month">Jun</span>
-							</div>
-		</div>
-		<div class="media-body">
-						<div class="moduleItemTitle">
-			<a href="/joomla-news/item/88-joomla-2522-released">Joomla 2.5.22 Stable has been released</a>
-			</div>
-						<div class="blog-item-info">
-
-								<span class="moduleItemAuthor">
-										Posted by										<a rel="author" title="Hieu Ja" href="javascript: void(0);">Hieu Ja</a>
-										
-						
-				</span>
-								
-									in <a class="moduleItemCategory" href="/joomla-news">Joomla News</a>
-							</div>
-		</div>
-	</div>
-				<div class="media mod-blog-item">
-		<div class="pull-left">
-			<div class="blog-date media-object vina-box">
-												<span class="blog-day">12</span>
-				<span class="blog-month">Jun</span>
-							</div>
-		</div>
-		<div class="media-body">
-						<div class="moduleItemTitle">
-			<a href="/joomla-news/item/87-joomla-2521-and-331-released">Joomla 2.5.21 and 3.3.1 Released</a>
-			</div>
-						<div class="blog-item-info">
-
-								<span class="moduleItemAuthor">
-										Posted by										<a rel="author" title="Hieu Ja" href="javascript: void(0);">Hieu Ja</a>
-										
-						
-				</span>
-								
-									in <a class="moduleItemCategory" href="/joomla-news">Joomla News</a>
-							</div>
-		</div>
-	</div>
-				<div class="media mod-blog-item">
-		<div class="pull-left">
-			<div class="blog-date media-object vina-box">
 												<span class="blog-day">04</span>
-				<span class="blog-month">May</span>
+				<span class="blog-month">Oct</span>
 							</div>
 		</div>
 		<div class="media-body">
 						<div class="moduleItemTitle">
-			<a href="/joomla-news/item/72-joomla-2520-and-330-released">Joomla 2.5.20 and 3.3.0 Released</a>
+			<a href="/joomla-news/item/122-joomla-3-3-6-released">Joomla 3.3.6 Security Updates have been released!</a>
+			</div>
+						<div class="blog-item-info">
+
+								<span class="moduleItemAuthor">
+										Posted by										<a rel="author" title="Hieu Ja" href="javascript: void(0);">Hieu Ja</a>
+										
+						
+				</span>
+								
+									in <a class="moduleItemCategory" href="/joomla-news">Joomla News</a>
+							</div>
+		</div>
+	</div>
+				<div class="media mod-blog-item">
+		<div class="pull-left">
+			<div class="blog-date media-object vina-box">
+												<span class="blog-day">24</span>
+				<span class="blog-month">Sep</span>
+							</div>
+		</div>
+		<div class="media-body">
+						<div class="moduleItemTitle">
+			<a href="/joomla-news/item/118-joomla-2525-joomla334-released">Joomla 2.5.25 and Joomla 3.3.4 Released</a>
+			</div>
+						<div class="blog-item-info">
+
+								<span class="moduleItemAuthor">
+										Posted by										<a rel="author" title="Hieu Ja" href="javascript: void(0);">Hieu Ja</a>
+										
+						
+				</span>
+								
+									in <a class="moduleItemCategory" href="/joomla-news">Joomla News</a>
+							</div>
+		</div>
+	</div>
+				<div class="media mod-blog-item">
+		<div class="pull-left">
+			<div class="blog-date media-object vina-box">
+												<span class="blog-day">28</span>
+				<span class="blog-month">Jul</span>
+							</div>
+		</div>
+		<div class="media-body">
+						<div class="moduleItemTitle">
+			<a href="/joomla-news/item/104-joomla-2525-joomla333-released">Joomla 2.5.24 and Joomla 3.3.3 Released</a>
 			</div>
 						<div class="blog-item-info">
 
@@ -634,7 +647,7 @@ if(typeof(k2storeURL) == 'undefined') {
 											<div class="mod-content clearfix">	
 				<div class="mod-inner clearfix">
 					
-			<p>We have 11&nbsp;guests and no members online</p>
+			<p>We have 180&nbsp;guests and 6&nbsp;members online</p>
 
 				</div>
 			</div>
@@ -687,6 +700,6 @@ if(typeof(k2storeURL) == 'undefined') {
 			}
 			(document,"script","twitter-wjs");
 		</script>
-		
+				<div id="x-our-time" style="display: none;">2014 11 22 18:25:09</div>
     
 </body></html>
