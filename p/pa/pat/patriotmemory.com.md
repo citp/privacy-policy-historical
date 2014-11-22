@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095715id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122194351id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -59,44 +59,11 @@ Fax: **+886 2 8228 0339**
 
 Thank you for your interest in Patriot Memory! We are excited that you are interested in our company.
 
-To submit your resume, e-mail your resume as an attachment or formatted as ASCII to [careers@patriotmem.com](mailto:careers@patriotmem.com).If you are interested in a specific position listed, please include the Job Title and/or Job Code found on the job posting in your e-mail.
+We do not currently have any open positions at Patriot Memory. Please check back soon or send your resume to us at [careers@patriotmem.com](mailto:careers@patriotmem.com).
 
 If you have any questions regarding employment with Patriot Memory, please e-mail [careers@patriotmem.com](mailto:careers@patriotmem.com).
 
 Patriot Memory is an equal opportunity employer.
-
-  * Customer Service Representative, Rotterdam, Netherlands
-
-
-
-
-JOB SUMMARY:
-
-We are looking for an organized and communicative person to complement our Rotterdam office and to support the sales team in as a CSR.  
-Under the general supervision of the European Sales Manager the CSR will work closely with the members of the Sales, Product Management and Operations teams to serve customers, sell products and manage the selling and backlog process.
-
-SPECIFIC JOB RESPONSIBILITIES:
-
-\- Services and supports existing accounts and the sales team in their daily queries and tasks
-
-\- Helps process orders, monitors backlog and invoicing  
-\- Provides product, promotion and pricing information by clarifying customer requests and in close collaboration with the sales managers; selecting appropriate information; answering customer questions.  
-\- Assists in setting up new customer contacts: following the proper procedure to set up Customer and Internal Credit Application Forms  
-\- Runs, creates and manages customer and sales reports to help monitor and evaluate programs and actions  
-\- Supports other strategic Sales initiatives as needed.
-
-REQUIREMENTS:  
-\- Higher education (Bachelor degree) in the field of business and/or relevant work experience  
-\- 1+ year in a CSR position with experience in customer relations/ B2B  
-\- Eye for detail, excellent organizational and time-management skills  
-\- Excellent interpersonal communication skills  
-\- ability to manage and work in a team  
-\- flexible and proactive
-
-JOB DESCRIPTION:  
-\- good Microsoft Office skills, including the use of databases; knowledge of Microsoft Dynamics Navision is a pro  
-\- General knowledge of the consumer electronics and IT/mobile market.  
-\- Language skills: Communication with multiple countries for which following language skills are a must/pro: fluent in English (must), German/France/Spanish/Polish (pro)
 
 Patriot's FUEL+ Mobile Rechargeable Battery to power re-charging station at O.co Coliseum for Oakland A's fans in need of charge
 
