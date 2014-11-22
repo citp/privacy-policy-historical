@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrkl.ac.in privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620141308id_/http%3A//nitrkl.ac.in/Links/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrkl.ac.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201947id_/http%3A//www.nitrkl.ac.in/Links/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # NIT Rourkela, Privacy Statement
 
