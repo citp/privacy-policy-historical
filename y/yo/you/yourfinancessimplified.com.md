@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607001214id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122043738id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Finances Simplified
 
