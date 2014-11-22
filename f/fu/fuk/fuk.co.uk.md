@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuk.co.uk privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616033837id_/http%3A//www.fuk.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuk.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031346id_/http%3A//www.fuk.co.uk/privacy) for the most accurate reproduction.*
 
 # fuk.co.uk | Privacy policy
 
