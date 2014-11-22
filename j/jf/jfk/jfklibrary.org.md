@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209140102id_/http%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233938id_/http%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
 
 # Privacy, Terms of Use, Accessibility - John F. Kennedy Presidential Library & Museum
 
-**Privacy Statement  
-**
+  * [JFK Challenge App Privacy Statement](https://web.archive.org/About-Us/Privacy-Terms-Accessibility.aspx#JFK+Challenge+App+Privacy+Statement)
+
+
+
+## Privacy Statement 
 
 This Web Site was funded by the John F. Kennedy Library Foundation and is a joint collaboration of the John F. Kennedy Presidential Library and Museum and the Foundation. 
 
