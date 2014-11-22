@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budde.com.au privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520094953id_/http%3A//www.budde.com.au/About/Policies/Privacy-Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budde.com.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221050id_/http%3A//www.budde.com.au/About/Policies/Privacy-Disclaimer.aspx) for the most accurate reproduction.*
 
 # Privacy Policy / Disclaimer - BuddeComm
 
