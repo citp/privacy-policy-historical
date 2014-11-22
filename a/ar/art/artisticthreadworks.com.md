@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520030117id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233838id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  Back To... [Home](http://www.artisticthreadworks.com/public/main.cfm "Home") | Privacy Policy  |   
----|---  
-  
+Back To... [Home](http://www.artisticthreadworks.com/public/main.cfm "Home") | Privacy Policy 
+
 We are strongly committed to safeguarding subscribers' privacy on this web site.
 
 We operate under the following strict privacy policy: The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason. Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. **Cookies**  
