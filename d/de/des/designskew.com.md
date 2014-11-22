@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the designskew.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214072507id_/http%3A//designskew.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designskew.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122090432id_/http%3A//designskew.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • DesignSkew
+# Privacy Policy • DesignSkewDesignSkew
+
+You are here: [Home](http://designskew.com/blog) » Privacy Policy
 
 The privacy for our visitors and readers to [DesignSkew](http://designskew.com/blog/ "DesignSkew") is very important to us. At DesignSkew, we recognize that privacy of your personal and additional information(s) is important. Below is the information on what types of personal information we receive and collect when you use visit or read at DesignSkew, and how we defend the info we recieve when you visit DesignSkew. We never share or sell your personal information to third parties.
 
