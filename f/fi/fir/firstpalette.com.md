@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstpalette.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044713id_/http%3A//www.firstpalette.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpalette.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221221id_/http%3A//www.firstpalette.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FirstPalette.com
 
