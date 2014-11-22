@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326141533id_/http%3A//www.allfreeessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221624id_/http%3A//www.brainia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Brainia.com
 
@@ -66,9 +66,10 @@ We give you choices and control over the collection and use of your personal inf
 
 If you have any questions or concerns about Brainia.com's Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows:
 
-By mail: Brainia,   
-8939 1/2 Santa Monica Blvd.,   
-West Hollywood, CA 90069
+By mail: Brainia   
+1680 Vine Street Suite 1200  
+Hollywood, CA 90028  
+USA
 
 By email: support@brainia.com
 
