@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyaproductreviewer.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628071123id_/http%3A//www.nyaproductreviewer.com/p/twitter-follow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyaproductreviewer.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122063045id_/http%3A//www.nyaproductreviewer.com/p/twitter-follow.html) for the most accurate reproduction.*
 
 # The Consumer Adviser: Privacy Policy
 
