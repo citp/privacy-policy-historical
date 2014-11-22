@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212235845id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122231440id_/http%3A//www.centurynovelty.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy at Century Novelty
 
@@ -20,19 +20,19 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the Century Novelty website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-  * Name 
-  * Address 
+  * Name
+  * Address
   * Email address
-  * Phone number 
-  * Credit/Debit Card Information 
+  * Phone number
+  * Credit/Debit Card Information
 
 
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-  * Name 
-  * Address 
-  * Phone Number 
+  * Name
+  * Address
+  * Phone Number
 
 
 
