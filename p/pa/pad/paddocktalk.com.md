@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524221302id_/http%3A//paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122162904id_/http%3A//paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
 
-# PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, ALMS, And More!
+# PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, Le Mans, And More!
 
 What is a Privacy Policy? 
 
