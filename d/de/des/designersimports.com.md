@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054146id_/http%3A//designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161429id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
 # Handbags, Wallets, Clothing, Shoes, Belts, Sunglasses Ed Hardy | DesignersImports.com
-
-|  | 
 
   
 
@@ -21,8 +19,8 @@ We use return email addresses to answer the email we receive. Such Addresses are
 You can request to remove or delete all information about you - and or you can access your maintained personally identifiable information by mailing signed and written request for access to:
 
 Designers Imports  
-290 Larkin Dr, Suite 103 #284  
-Monroe, NY 10950
+1170 Route 17M, Suite 4  
+Chester, NY 10918
 
 We require a signed and written request to better safeguard your information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
