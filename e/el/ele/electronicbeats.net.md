@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicbeats.net privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509070400id_/http%3A//www.electronicbeats.net/en/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicbeats.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122152412id_/http%3A//www.electronicbeats.net/en/terms-of-use) for the most accurate reproduction.*
 
 # Privacy policy – Electronic Beats
 
