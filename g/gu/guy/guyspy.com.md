@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606142752id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122182045id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
-GuySpy (“GuySpy,” “we” or “us”) is committed to protecting your privacy.  This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by Stark Mobile Technologies and its affiliates, which own and operate GuySpy services  (“GuySpy,” “we” or “us”).  This Policy applies to the online services offered by GuySpy, including any GuySpy branded URL (“the GuySpy Website”), GuySpy mobile app for iPhone, Android or Windows mobile devices (collectively, the “GuySpy Services” or our “Service”).  This Privacy Policy does not apply to the GuySpy Voice Chatline service, which is governed by [ a separate policy available here](http://www.guyspy.com/voice/privacy.php). This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control.
+GuySpy (“GuySpy,” “we” or “us”) is committed to protecting your privacy.  This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by GuySpy and its affiliates, which own and operate GuySpy services  (“GuySpy,” “we” or “us”).  This Policy applies to the online services offered by GuySpy, including any GuySpy branded URL (“the GuySpy Website”), GuySpy mobile app for iPhone, Android or Windows mobile devices (collectively, the “GuySpy Services” or our “Service”).  This Privacy Policy does not apply to the GuySpy Voice Chatline service, which is governed by [ a separate policy available here](http://www.guyspy.com/voice/privacy.php). This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control.
 
 Information We Collect  
 Sharing Personal Information with Third Parties  
@@ -76,7 +76,7 @@ We may also share your personal information with:
 
 
 We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.  
- 
+
 
   * **YOUR CHOICES REGARDING YOUR INFORMATION**
 
@@ -87,7 +87,7 @@ We may also share information with others in an aggregated and anonymous form th
 **Location Information.   **Our Service automatically collects location information from your browser or mobile device and uses your location to send you targeted advertisements, to show you profiles of other members on the Service who are located near you and to show your profile to other users.  You can prohibit this collection of location data by adjusting your settings on your browser or mobile device.  Additionally, you can choose to not display your location on the Service by adjusting your exact location switch in the settings page of the mobile app or by adjusting your location sharing settings on your device.
 
 **Data Retention:**   We will retain your information for as long as your account is active or as needed to provide you services.  If your account becomes inactive, we will maintain your personal information in the event you wish to re-engage in our Service.  
- 
+
 
   * **MONITORING**
 
@@ -100,7 +100,7 @@ When you communicate with other users of the Service through our mobile app and/
 
 
 GuySpy cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers.  However, no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.  
- 
+
 
   * ****PERSONS UNDER THE AGE OF 18****
 
@@ -113,14 +113,14 @@ Persons under the age of 18 are not eligible to use our Services. The Services a
 
 
 The Services may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.  Please check the individual policies before you submit any information to those websites.  
- 
+
 
   * **UPDATES TO THIS POLICY**
 
 
 
 We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the “Last Revision” date below and will post the updated Policy on this page.  
- 
+
 
   * **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -131,13 +131,13 @@ GuySpy collects various types of personal information about you both online and 
 In the United States:
 
 Attn: Privacy Officer  
-Stark Mobile Technologies LLC  
+GuySpy  
 176 E Jewett Blvd, Suite 185  
 White Salmon, WA 98672-0050  
 Email: [Privacy Officer](mailto:privacy@guyspy.com)
 
 Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@guyspy.com) with the words “California Privacy Rights” in the subject line.  
- 
+
 
   * **CONTACTING US**
 
@@ -146,7 +146,7 @@ Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@g
 If you have questions about this Policy, please contact us at [privacy@guyspy.com](mailto:privacy@guyspy.com) or by writing to us at:
 
 Attn: Privacy Officer  
-Stark Mobile Technologies LLC  
+GuySpy  
 176 E Jewett Blvd, Suite 185  
 White Salmon, WA 98672-0050  
 Email: [Privacy Officer](mailto:privacy@guyspy.com)
