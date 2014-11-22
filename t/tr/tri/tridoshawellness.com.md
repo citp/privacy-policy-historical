@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tridoshawellness.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203182557id_/http%3A//www.tridoshawellness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tridoshawellness.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122072809id_/http%3A//www.tridoshawellness.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
-# Tridosha wellness natural fitness and holistic medicine solutions.
+# Privacy Policy
 
 **Privacy Policy for** Tridoshawellness.com
 
@@ -71,3 +71,17 @@ support”at”tridoshawellness.com
 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+Affiliate Disclaimer
+
+Hi. Manu Kalia here. I’ve always believed in transparency on the web and so I am disclosing that I’ve included certain products and links to those products on this site that I will earn an affiliate commission for any purchases you make. My goal with the blog is to help educate you on natural health and fitness solutions, but please understand I am doing this as a for-profit business.
+
+You should assume that any links leading you to products or services are affiliate links that I will receive compensation from just to be safe. Having said that, there are millions of products and services on the web that relate to health and fitness. I only promote those products or services that I have investigated and truly feel deliver value to you.
+
+Please note that I have not been given any free products, services or anything else by these companies in exchange for mentioning them on the site. The only consideration is in the form of affiliate commissions.
+
+If you have any questions regarding the above, please do not hesitate to contact me by using the contact page.
+
+Cheers!
+
+Manu Kalia
