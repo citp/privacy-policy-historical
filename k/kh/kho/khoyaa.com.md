@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the khoyaa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091036id_/http%3A//khoyaa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khoyaa.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123142339id_/http%3A//khoyaa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Khoyaa.com
+
+##  Privacy Policy 
 
 The information that we collect from the user will be covered under our privacy policy as explained below.
 
