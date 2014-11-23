@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630230916id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031046id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BuyTimeWarnerCable.com
+# Privacy Policy - BuyTimeWarnerCable.com
 
 _Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications._
 
@@ -64,6 +64,3 @@ Upon request, Qology Direct, LLC will provide you with a readable copy of your p
   8. _**To view our Do Not Call Policy,  [click here](https://web.archive.org/dnc-policy/ "Do Not Call Policy \(TCPA 47 USCS § 227\)").**_
 
 
-
-[ Spanish](http://www.compratimewarnercable.com/)  
-**© Copyright 2014, BuyTimeWarnerCable.com. All Rights Reserved.**
