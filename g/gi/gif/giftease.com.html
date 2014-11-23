@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the giftease.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331010556id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giftease.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123210436id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<link rel="stylesheet" href="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/css/styles_v9.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/css/styles_v13.css" type="text/css" media="screen">
 <meta property="fb:app_id" content="484861771529478">
 <!--<meta property="fb:app_id" content="{425747210840742}"/>-->
-<script type="text/javascript" async="" src="https://chuknu.sokrati.com/333/tracker.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ83PQ"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var facebookHeaderAppId = '484861771529478';
 </script>
-
-
-<title>Privacy Policy	 | Giftease</title>    
+	<title>Privacy Policy	 | Giftease</title>
+    	    
  					<meta name="description" content="Default Description">
 			<meta name="keywords" content="Magento, Varien, E-commerce">
 					<meta name="robots" content="INDEX,FOLLOW">
@@ -35,15 +34,16 @@ var facebookHeaderAppId = '484861771529478';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="https://d1282y2d604czk.cloudfront.net/media/css/4d19974ef93827644589d88e0f0e7245_1394545951.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://d1282y2d604czk.cloudfront.net/media/css/4b7d1515dca658fab3e9a5fddca51de8_1394508484.css" media="print">
-<script type="text/javascript" src="https://d1282y2d604czk.cloudfront.net/media/js/38e72ba193a627442c12e29dd81f7ee3_1394508487.js"></script>
+<link rel="stylesheet" type="text/css" href="http://d1282y2d604czk.cloudfront.net/media/css/3815d1198667370b1bc168ea27a3069d_1412397086.css">
+<link rel="stylesheet" type="text/css" href="http://d1282y2d604czk.cloudfront.net/media/css/ddf471d0d16d764c71331baafecb73fd_1412397088.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://d1282y2d604czk.cloudfront.net/media/css/4b7d1515dca658fab3e9a5fddca51de8_1412397088.css" media="print">
+<script type="text/javascript" src="http://d1282y2d604czk.cloudfront.net/media/js/15a944dc1518c0802d6b2fb12054e1e6_1412397093.js"></script>
 <link href="http://www.giftease.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="https://d1282y2d604czk.cloudfront.net/media/css/730003b605643efb1af0346821d9701b_1394508482.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://d1282y2d604czk.cloudfront.net/media/css/730003b605643efb1af0346821d9701b_1412397093.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="https://d1282y2d604czk.cloudfront.net/media/js/67a2e94f670ebbceb80d6c4677172d68_1394508482.js"></script>
+<script type="text/javascript" src="http://d1282y2d604czk.cloudfront.net/media/js/67a2e94f670ebbceb80d6c4677172d68_1412397093.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -58,22 +58,214 @@ Mage.Cookies.domain   = '.www.giftease.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
+<script type="text/javascript">
+//<![CDATA[
+           
+Validation.add('aitcg-required', 'This option must be customized.', function(v, elm){
+    var isValid = !Validation.get('IsEmpty').test(v),
+        optionId = (/\d+/).exec( elm.id )[0],
+        targetLi = $('preview_container' + optionId).up();
+
+    if (!isValid) {
+        targetLi.addClassName('error')
+                .pulsate({
+                    duration: 1.5,
+                    pulses: 3
+                 });
+    } else {
+        targetLi.removeClassName('error');
+    }
+    return isValid;
+});
+
+//our own window onload events queue to prevent event bubbling in ie8 
+var aitcgWindowOnload = [];
+Event.observe(window, 'load', function(){
+    for (var i = 0; i < aitcgWindowOnload.length; i++) {
+        aitcgWindowOnload[i]();
+    }
+});
+
+var AitPopupHtml = '<div id="loading-mask" style="display:none">'+
+        '<p class="loader" id="loading_mask_loader">'+
+            '<img src="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/images/opc-ajax-loader.gif" alt="Please wait..." title="Please wait..." class="v-middle" /> Please wait...'+
+        '</p></div>';
+           
+var aitcgTooltipsStyle = 'dark';
+
+var aitcgBaseConfig = {
+    text: {
+        close: "Close",
+        save: "Save",
+        cancel: "Cancel",
+        apply: "Apply",
+        reset: "Reset",
+        edit: "Edit selected object",
+        required: "This is a required field.",
+        texttoadd: "Text:",
+        font: "Font:",
+        addtext: "Add text",
+        pickcolor: "Color:",
+        outline: "Outline",
+        shadow: "Shadow",
+        shadowalpha: "Alpha of Shadow (from 0 to 126)",
+        shadowoffsetx: "Offset X of Shadow",
+        shadowoffsety: "Offset Y of Shadow",
+        pickcoloroutline: "Pick outline color",
+        pickcolorshadow: "Pick outline shadow",
+        widthoutline: "Choose outline width",
+        addimage: "Add image",
+        addmasks: "Add mask",
+        delmasks: "Remove mask",
+        user_title: "Upload Image",
+        predefined_title: "Add Clip Art",
+        masks_title: "Add Mask",
+        text_title: "Add Text",
+        under_template_text: "Place behind product image",
+        save_title: "Save Graphics",
+        save_about: "Please upload the graphics and/or add the text first. This block will show links to images that were uploaded to the server.",
+        svg: "Save as SVG",
+        png: "Save as PNG",
+        pdf: "Save as PDF",
+        scale: "Graphics Scale:",
+        print_text: "Choose graphics layers to save:",
+        print_type_top: "Graphics placed above product image",
+        print_type_bottom: "Graphics placed behind product image",
+        print_type_bg: "Product image",
+        print_type_mask: "Custom shape mask",
+        print_type_error: "Please select at least one layer",
+        editorHelp: "Once you select your image, click Add Image to add it to the product.<br />Next move around or resize the image to suit your desired end state.<br />If you would like to add multiple images or text, you can select another image or text and click add to image.", 
+        buttonHelp: "Save custom image preview to your hard drive (optional)",
+        galleryTooltip: "Click on the image above to edit",
+        thumbTooltipEdit: "Click to start editing",
+        thumbTooltipPreview: "Click to view full version",
+        areYouSure: "Are you sure? Any unsaved changes will be lost!",
+        moreViews: "More Views",
+        confirm: "I confirm that the uploaded file is compliant for print",
+        confirm_title: "Confirmation",
+        agree: "Agree",
+        disagree: "Disagree",
+        saved_color: 'color:',
+        saved_text: 'text:',
+        save_type_text: 'Text image:',
+        save_type_image: 'Uploaded image:',
+        save_links_title: 'Open original size images in a new window'
+    },
+
+    emptyImgUrl: 'http://js.giftease.com/js/aitoc/aitcg/img/blank.gif',
+    toolsIconsStyle: 'dark'
+
+};
+
+//]]>
+</script>
+
+<style type="text/css">
+.aitcg-button {
+    background-color: #EA9335;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 14px !important;
+    font-weight: normal !important;
+}
+
+.aitcg-button:hover {
+    background-color: #EA9335;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.aitcg-toolbox-icons .toolTitle .icon {
+    background-color: #FFFFFF;
+    border: 2px solid #686868;
+}
+
+.aitcg-toolbox-icons .toolTitle.selected .icon,
+.aitcg-toolbox-icons .toolTitle:hover .icon {
+    background-color: #FFFFFF;
+    border: 2px solid #313131;
+}
+
+.aitcg-toolbox-icons .toolTitle {
+    color: #686868;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.aitcg-toolbox-icons .toolTitle.selected,
+.aitcg-toolbox-Gallery .toolTitle:hover {
+    color: #313131;
+}
+
+.aitcg-popup {
+    background-color: #FAFAFA;
+}
+
+.aitcg-popup .text {
+    text-align: center;
+}
+/* Custom css added */
+#aitcg-control-panel .reset-but{
+    float: right;
+    background-color: #8D8D8D;
+}
+.tools-bodies{
+    text-align: center;
+    padding-top: 10px;
+}
+.tools-icons{
+    width: 270px !important;
+    margin: 0 auto;
+}
+#aitcg-tool-Text{
+    width: 272px !important;
+    margin: 0 auto;
+}
+#aitcg-tool-Save{
+    width: 420px !important;
+    margin: 0 auto;
+    text-align: justify;
+}
+#saveas-buttons{
+    padding: 10px 0 !important;
+}
+#aitcg-tool-UserImage .aitcg-under-template-block {
+    width: 86% !important;
+}
+/* Custom css added */
+</style><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script>
-  <style type="text/css">
-        .bg-img{background:url(https://d1282y2d604czk.cloudfront.net/media/011614091110_background_img_1.jpg) repeat-y center top  fixed #EAEAEA;  }
-       /*.bg-right{background:url() repeat-y fixed; background-position: 87% top;}*/
-        
-        </style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+        //]]></script> 
+  <!-- For Social Media Addon JS Start Here -->
+<script type="text/javascript">var switchTo5x=true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({publisher: "7d47ae6c-008f-4961-baed-6b00b1d727ae", doNotHash: true, doNotCopy: false, hashAddressBar: true});</script>
+<script type="text/javascript">//stLight.options({publisher: "d1184783-8061-4176-9692-ab5f3efe8ae5"}); </script>
+<!-- For social Media Addon JS End Here -->
+<style type="text/css">
+         
+            .bg-img{background:url(http://d1282y2d604czk.cloudfront.net/media/011614091110_background_img_1.jpg) repeat-y center top  fixed #EAEAEA !important ; }
+         
+      </style><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
   
-                
+                   
          
        
 
 
 <body class="bg-img  cms-page-view cms-privacy-policy">
+<div id="loadingmessage" style="display:none;" class="brd">
+             <img src="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/images/ajax_loader.gif " class="loderImg" style="margin-top:22px;">
+             <p>Please wait</p>
+      </div>
+ <div class="outer-main" id="outer-fb" style="display:none;">
+      </div>
+
+
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
@@ -113,8 +305,9 @@ _atrk_opts = { atrk_acct:"eALdi1aoZM00ON", domain:"giftease.com",dynamic: true};
  End Alexa Certify Javascript -->
 
 
+
    <div class="wrapper">
-                     <noscript>
+    <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
                 <p>
@@ -124,9 +317,31 @@ _atrk_opts = { atrk_acct:"eALdi1aoZM00ON", domain:"giftease.com",dynamic: true};
         </div>
     </noscript>
                 <div class="page">
-                            
-<div class="header-container">    
-    <div class="topNav">
+                            <div class="header-container">
+	<div class="topNav" id="cartshowyes" style="display:none"><ul class="addonTob">	
+    <li><a href="http://www.giftease.com/shipping_policy" class="" target="_blank">Free Shipping</a></li>
+    <li><a href="http://www.giftease.com/cancellation-and-exchange" class="" target="_blank">Free Exchanges / Returns</a></li>
+    <li>
+    	<div class="helpline" style="background-image: none;width: auto;">
+        	<span class="txt">Cash On Delivery</span>
+            <span class="header-txt" style="width: 200px;">On orders above Rs. 500/-<br>Check Applicability for individual products</span>
+        </div>
+    </li>
+    <li>Secure Payment</li>
+    <li><a href="#" title="Gift Wrapping Available" onclick="opengiftcmswrap('https://www.giftease.com/gift-wrapping-options/')" id="giftcmswrap" class="cboxwrapElement"><span class="txt">Gift Wrapping</span></a>
+    </li>
+    <li>Preferred Date Delivery</li>
+    <li class="rt">
+    	<div class="helpline">
+        	<span class="txt">May We Help?</span>
+            <span class="header-txt" style="width:151px;">Call: +91-20-67314888<br><a href="mailto:customercare@giftease.com" target="_blank">customercare@giftease.com</a></span>
+        </div>
+    </li>
+</ul>
+	<div class="clr"></div>
+	<div class="top-shadow-image"></div>
+    </div>    
+    <div class="topNav" id="cartshowno">
         <ul class="addonTob">
             <li>
                 <a href="http://www.giftease.com/shipping_policy" class="">Free Shipping</a>
@@ -187,9 +402,9 @@ _atrk_opts = { atrk_acct:"eALdi1aoZM00ON", domain:"giftease.com",dynamic: true};
             <li class="rt">
                 <div class="helpline">
                     <span class="txt">May We Help?</span>
-                    <span class="header-txt">Call: +91-20-49005555<br>
-                        Toll-Free: 1800-102-8455</span>
-                    </div>
+                    <span class="header-txt">Call: +91-20-67314888<br>
+                    <a href="mailto:customercare@giftease.com" target="_blank">customercare@giftease.com</a>
+                    </span></div>
                 </li>
             </ul>
             
@@ -216,11 +431,14 @@ _atrk_opts = { atrk_acct:"eALdi1aoZM00ON", domain:"giftease.com",dynamic: true};
     <script type="text/javascript">
     //<![CDATA[
         var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gift by Name or Category...');
-        searchForm.initAutocomplete('http://www.giftease.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+      //  searchForm.initAutocomplete('http://www.giftease.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
     //]]>
     </script>
 </div>
 </form>
+<div>
+    <a href="http://www.giftease.com/gift_finder_page"><img src="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/images/find-a-gift-fast.jpg"></a>
+</div>
 <script>
     String.prototype.trim = function() {
     return this.replace(/^\s+|\s+$/g, "");
@@ -243,7 +461,7 @@ _atrk_opts = { atrk_acct:"eALdi1aoZM00ON", domain:"giftease.com",dynamic: true};
 var j = jQuery.noConflict();
 j( document ).ready(function() {
 var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gift by Name or Category...');
-        searchForm.initAutocomplete('http://www.giftease.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //searchForm.initAutocomplete('http://www.giftease.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
 });
 </script>
         </div>
@@ -290,7 +508,7 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
 
 	</div>
 <div class="clr"></div>
-<ul class="links">
+<ul class="links" id="accountlinks">
                         <li class="first"><a href="https://www.giftease.com/customer/account/create/" title="Create an Account">Create an Account</a></li>
                                 <li class=" last"><a href="https://www.giftease.com/customer/account/login/referer/aHR0cDovL3d3dy5naWZ0ZWFzZS5jb20vcHJpdmFjeS1wb2xpY3k,/" title="Customer Login">Login</a></li>
             </ul>
@@ -386,198 +604,213 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
                 <li>
                                     <div id="menu16" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup16');" onmouseout="wpHideMenuPopup(this, event, 'popup16', 'menu16')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/home-decor">
+<a onclick="startAjaxOtherMenu(16)" href="" rel="http://www.giftease.com/home-decor">
 <span>Home Decor</span>
 </a>
 </div>
 </div>
 <div id="popup16" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup16', 'menu16')" onmouseover="wpPopupOver(this, event, 'popup16', 'menu16')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/artifacts-showpieces"><span>Artifacts &amp; Showpieces</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/devotional-idols-picture-frames"><span>Devotional Idols &amp; Picture Frames</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/glassware-bar-accessories"><span>Glassware &amp; Bar Accessories</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/lamps"><span>Lamps</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/table-kitchenware"><span>Table &amp; Kitchenware</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/candles-diffusers-potpourri"><span>Candles, Diffusers &amp; Potpourri</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/candle-holders-votives"><span>Candle Holders &amp; Votives</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/cushions-throws"><span>Cushions &amp; Throws</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/clocks"><span>Clocks</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/photo-frames"><span>Photo Frames</span></a><a class="itemMenuName level1" href="http://www.giftease.com/home-decor/wall-decor"><span>Wall Decor</span></a></div></div><div class="itemMenu level"><a style="margin-left:6px;" class="itemMenuName level" href="http://www.giftease.com/home-decor"><span>more...</span></a></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(64)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/artifacts-showpieces"><span>Artifacts &amp; Showpieces</span></a><a onclick="startAjaxOtherMenu(169)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/devotional-idols-picture-frames"><span>Devotional Idols &amp; Picture Frames</span></a><a onclick="startAjaxOtherMenu(26)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/bar-accessories"><span>Bar Accessories</span></a><a onclick="startAjaxOtherMenu(24)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/glassware"><span>Glassware</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(513)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/lanterns"><span>Lanterns</span></a><a onclick="startAjaxOtherMenu(240)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/lamps"><span>Lamps</span></a><a onclick="startAjaxOtherMenu(162)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/table-kitchenware"><span>Table &amp; Kitchenware</span></a><a onclick="startAjaxOtherMenu(62)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/clocks"><span>Clocks</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(61)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/candles-diffusers"><span>Candles &amp; Diffusers</span></a><a onclick="startAjaxOtherMenu(63)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/candle-holders-votives"><span>Candle Holders &amp; Votives</span></a><a onclick="startAjaxOtherMenu(361)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/puja-accessories"><span>Puja Accessories</span></a><a onclick="startAjaxOtherMenu(266)" class="itemMenuName level1" href="http://www.giftease.com/home-decor/cushions-throws"><span>Cushions &amp; Throws</span></a></div></div><div class="itemMenu level"><a style="margin-left:6px;" class="itemMenuName level" href="http://www.giftease.com/home-decor"><span>more...</span></a></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_16" class="block2">
-<p><img title="Home Decor" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/home_decor_28.2.14.jpg" alt="Home Decor"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Home_Decor.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu417" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup417');" onmouseout="wpHideMenuPopup(this, event, 'popup417', 'menu417')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/jewellery">
+<a onclick="startAjaxOtherMenu(417)" href="" rel="http://www.giftease.com/jewellery">
 <span>Jewellery</span>
 </a>
 </div>
 </div>
 <div id="popup417" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup417', 'menu417')" onmouseover="wpPopupOver(this, event, 'popup417', 'menu417')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/jewellery/fashion-jewellery"><span>Fashion Jewellery</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/jewellery/silver-pearl-jewellery"><span>Silver &amp; Pearl Jewellery</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/jewellery/gold-diamond-jewellery"><span>Gold &amp; Diamond Jewellery</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/jewellery/kids-fashion-accessories"><span>Kids Fashion Accessories</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(34)" class="itemMenuName level1" href="http://www.giftease.com/jewellery/fashion-jewellery"><span>Fashion Jewellery</span></a><a onclick="startAjaxOtherMenu(346)" class="itemMenuName level1" href="http://www.giftease.com/jewellery/silver-pearl-jewellery"><span>Silver &amp; Pearl Jewellery</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(518)" class="itemMenuName level1" href="http://www.giftease.com/jewellery/silver-coins"><span>Silver Coins</span></a><a onclick="startAjaxOtherMenu(282)" class="itemMenuName level1" href="http://www.giftease.com/jewellery/gold-diamond-jewellery"><span>Gold &amp; Diamond Jewellery</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(284)" class="itemMenuName level1" href="http://www.giftease.com/jewellery/jewellery-boxes"><span>Jewellery Boxes</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_417" class="block2">
-<p><img title="Jewellery" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/jewellery_28.2_14.jpg" alt="Jewellery"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/jewellery_1.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu18" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup18');" onmouseout="wpHideMenuPopup(this, event, 'popup18', 'menu18')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/fashion-accessories">
+<a onclick="startAjaxOtherMenu(18)" href="" rel="http://www.giftease.com/fashion-accessories">
 <span>Fashion Accessories</span>
 </a>
 </div>
 </div>
 <div id="popup18" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup18', 'menu18')" onmouseover="wpPopupOver(this, event, 'popup18', 'menu18')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/handbags-clutches"><span>Handbags &amp; Clutches</span></a><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/wallets-portfolios"><span>Wallets &amp; Portfolios</span></a><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-watches"><span>Men's Watches</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-watches"><span>Women's Watches</span></a><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-sunglasses"><span>Men's Sunglasses</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-sunglasses"><span>Women's Sunglasses</span></a><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/premium-stationery-pens"><span>Premium Stationery &amp; Pens</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-fashion-accessories"><span>Men's Fashion Accessories</span></a><a class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-fashion-accessories"><span>Women's Fashion Accessories</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(35)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/handbags-clutches"><span>Handbags &amp; Clutches</span></a><a onclick="startAjaxOtherMenu(249)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/wallets-portfolios"><span>Wallets &amp; Portfolios</span></a><a onclick="startAjaxOtherMenu(102)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-watches"><span>Men's Watches</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(103)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-watches"><span>Women's Watches</span></a><a onclick="startAjaxOtherMenu(438)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/kids-fashion-accessories-198"><span>Kids Fashion Accessories</span></a><a onclick="startAjaxOtherMenu(424)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-sunglasses"><span>Men's Sunglasses</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(425)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-sunglasses"><span>Women's Sunglasses</span></a><a onclick="startAjaxOtherMenu(439)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-belts"><span>Women's Belts</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(256)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/mens-fashion-accessories"><span>Men's Fashion Accessories</span></a><a onclick="startAjaxOtherMenu(377)" class="itemMenuName level1" href="http://www.giftease.com/fashion-accessories/womens-fashion-accessories"><span>Women's Fashion Accessories</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_18" class="block2">
-<p><img title="Fashion Accessories" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/fashion_jewellery_28_2_14.jpg" alt="Fashion Accessories"></p>
-</div>
-</div>                                  <div id="menu422" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup422');" onmouseout="wpHideMenuPopup(this, event, 'popup422', 'menu422')">
-<div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/womens-apparel">
-<span>Women's Apparel</span>
-</a>
-</div>
-</div>
-<div id="popup422" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup422', 'menu422')" onmouseover="wpPopupOver(this, event, 'popup422', 'menu422')">
-<div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/womens-apparel/sarees"><span>Sarees</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/womens-apparel/dress-material"><span>Dress Material</span></a></div></div>
-<div class="clearBoth"></div>
-</div>
-<div id="wp_custom_menu_422" class="block2">
-<p><img title="Women's Apparel" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/women_apparel_28_2_14.jpg" alt="Women's Apparel"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/fashion_accessories_.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu20" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup20');" onmouseout="wpHideMenuPopup(this, event, 'popup20', 'menu20')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/quirky-gifts">
+<a onclick="startAjaxOtherMenu(20)" href="" rel="http://www.giftease.com/quirky-gifts">
 <span>Quirky Gifts</span>
 </a>
 </div>
 </div>
 <div id="popup20" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup20', 'menu20')" onmouseover="wpPopupOver(this, event, 'popup20', 'menu20')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/home-lifestyle"><span>Home &amp; Lifestyle</span></a><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/bar-accessories"><span>Bar Accessories</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/fashion-accessories"><span>Fashion Accessories</span></a><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/party-games-accessories"><span>Party Games &amp; Accessories</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/stationery-utility"><span>Stationery &amp; Utility</span></a><a class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/gadgets-accessories"><span>Gadgets &amp; Accessories</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(202)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/home-lifestyle"><span>Home &amp; Lifestyle</span></a><a onclick="startAjaxOtherMenu(45)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/bar-accessories"><span>Bar Accessories</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(44)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/fashion-accessories"><span>Fashion Accessories</span></a><a onclick="startAjaxOtherMenu(181)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/party-games-accessories"><span>Party Games &amp; Accessories</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(221)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/stationery-utility"><span>Stationery &amp; Utility</span></a><a onclick="startAjaxOtherMenu(184)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/gadgets-accessories"><span>Gadgets &amp; Accessories</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(511)" class="itemMenuName level1" href="http://www.giftease.com/quirky-gifts/posters"><span>Posters</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_20" class="block2">
-<p><img title="Quirky Gifts" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/quircky_28_2_14.jpg" alt="Quirky Gifts"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Quirky-gifts_01-09.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu17" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup17');" onmouseout="wpHideMenuPopup(this, event, 'popup17', 'menu17')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/toys-games">
+<a onclick="startAjaxOtherMenu(17)" href="" rel="http://www.giftease.com/toys-games">
 <span>Toys &amp; Games</span>
 </a>
 </div>
 </div>
 <div id="popup17" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup17', 'menu17')" onmouseover="wpPopupOver(this, event, 'popup17', 'menu17')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/toddlers-infants"><span>Toddlers &amp; Infants</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/cars-action-toys"><span>Cars &amp; Action Toys</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/gadgets-for-kids"><span>Gadgets For Kids</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/learning-activity-toys"><span>Learning &amp; Activity Toys</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/dolls-doll-houses"><span>Dolls &amp; Doll Houses</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/soft-toys"><span>Soft Toys</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/board-games"><span>Board Games</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/puzzles"><span>Puzzles</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/back-to-school"><span>Back To School</span></a><a class="itemMenuName level1" href="http://www.giftease.com/toys-games/kids-fashion-accessories"><span>Kids Fashion Accessories</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(27)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/toddlers-infants"><span>Toddlers &amp; Infants</span></a><a onclick="startAjaxOtherMenu(29)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/cars-action-toys"><span>Cars &amp; Action Toys</span></a><a onclick="startAjaxOtherMenu(87)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/outdoor-toys"><span>Outdoor Toys</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(406)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/gadgets-for-kids"><span>Gadgets For Kids</span></a><a onclick="startAjaxOtherMenu(31)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/learning-activity-toys"><span>Learning &amp; Activity Toys</span></a><a onclick="startAjaxOtherMenu(30)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/dolls-doll-houses"><span>Dolls &amp; Doll Houses</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(28)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/soft-toys"><span>Soft Toys</span></a><a onclick="startAjaxOtherMenu(307)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/board-games"><span>Board Games</span></a><a onclick="startAjaxOtherMenu(33)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/puzzles"><span>Puzzles</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(32)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/school-supplies"><span>School Supplies</span></a><a onclick="startAjaxOtherMenu(437)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/kids-watches"><span>Kids Watches</span></a><a onclick="startAjaxOtherMenu(399)" class="itemMenuName level1" href="http://www.giftease.com/toys-games/kids-fashion-accessories"><span>Kids Fashion Accessories</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_17" class="block2">
-<p><img title="Toys &amp; Games" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/home_linen_28_2_14.jpg" alt="Toys &amp; Games"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/toys311014.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu245" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup245');" onmouseout="wpHideMenuPopup(this, event, 'popup245', 'menu245')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/chocolates-gift-sets">
+<a onclick="startAjaxOtherMenu(245)" href="" rel="http://www.giftease.com/chocolates-gift-sets">
 <span>Chocolates &amp; Gift Sets</span>
 </a>
 </div>
 </div>
 <div id="popup245" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup245', 'menu245')" onmouseover="wpPopupOver(this, event, 'popup245', 'menu245')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gourmet-chocolates"><span>Gourmet Chocolates</span></a><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/celebration-favourites"><span>Celebration Favourites</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gift-sets-52"><span>Gift Sets</span></a><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/fine-tea-gift-sets"><span>Fine Tea Gift Sets</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/mithai"><span>Mithai</span></a><a class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/dry-fruits"><span>Dry Fruits</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(364)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gourmet-chocolates"><span>Gourmet Chocolates</span></a><a onclick="startAjaxOtherMenu(365)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/celebration-favourites"><span>Celebration Favourites</span></a><a onclick="startAjaxOtherMenu(491)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/chocolate-combos"><span>Chocolate Combos</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(430)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gift-sets-444"><span>Gift Sets</span></a><a onclick="startAjaxOtherMenu(402)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gourmet-tea"><span>Gourmet Tea</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(508)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gourmet-coffee"><span>Gourmet Coffee</span></a><a onclick="startAjaxOtherMenu(512)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/gourmet-food"><span>Gourmet Food</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(247)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/mithai"><span>Mithai</span></a><a onclick="startAjaxOtherMenu(320)" class="itemMenuName level1" href="http://www.giftease.com/chocolates-gift-sets/dry-fruits"><span>Dry Fruits</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_245" class="block2">
-<p><img title="Chocolates &amp; Gift Sets" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/chocolates_and_giftsets_14.1.14_2.jpg" alt="Chocolates &amp; Gift Sets"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/chocolates_and_giftsets.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu3" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup3');" onmouseout="wpHideMenuPopup(this, event, 'popup3', 'menu3')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/flowers">
+<a onclick="startAjaxOtherMenu(3)" href="" rel="http://www.giftease.com/flowers">
 <span>Flowers</span>
 </a>
 </div>
 </div>
 <div id="popup3" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup3', 'menu3')" onmouseover="wpPopupOver(this, event, 'popup3', 'menu3')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/flowers/baskets"><span>Baskets</span></a><a class="itemMenuName level1" href="http://www.giftease.com/flowers/bunches"><span>Bunches</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/flowers/combos"><span>Combos</span></a><a class="itemMenuName level1" href="http://www.giftease.com/flowers/exclusive-arrangements"><span>Exclusive Arrangements</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/flowers/glass-vase-arrangements"><span>Glass Vase Arrangements</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(195)" class="itemMenuName level1" href="http://www.giftease.com/flowers/baskets"><span>Baskets</span></a><a onclick="startAjaxOtherMenu(196)" class="itemMenuName level1" href="http://www.giftease.com/flowers/bunches"><span>Bunches</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(197)" class="itemMenuName level1" href="http://www.giftease.com/flowers/combos"><span>Combos</span></a><a onclick="startAjaxOtherMenu(198)" class="itemMenuName level1" href="http://www.giftease.com/flowers/exclusive-arrangements"><span>Exclusive Arrangements</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(199)" class="itemMenuName level1" href="http://www.giftease.com/flowers/glass-vase-arrangements"><span>Glass Vase Arrangements</span></a><a onclick="startAjaxOtherMenu(442)" class="itemMenuName level1" href="http://www.giftease.com/flowers/indoor-plants"><span>Indoor Plants</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_3" class="block2">
-<p><img title="Flowers" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/flowers_14.1.14_2.jpg" alt="Flowers"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/flowers_1.jpg" alt=""></p>
+</div>
+</div>                                  <div id="menu422" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup422');" onmouseout="wpHideMenuPopup(this, event, 'popup422', 'menu422')">
+<div class="parentMenu">
+<a onclick="startAjaxOtherMenu(422)" href="" rel="http://www.giftease.com/womens-apparel">
+<span>Women's Apparel</span>
+</a>
+</div>
+</div>
+<div id="popup422" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup422', 'menu422')" onmouseover="wpPopupOver(this, event, 'popup422', 'menu422')">
+<div class="block1">
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(423)" class="itemMenuName level1" href="http://www.giftease.com/womens-apparel/sarees"><span>Sarees</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(426)" class="itemMenuName level1" href="http://www.giftease.com/womens-apparel/dress-material"><span>Dress Material</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+<div id="wp_custom_menu_422" class="block2">
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Women_s-Apparel_1.jpg" alt=""></p>
+</div>
+</div>                                  <div id="menu435" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup435');" onmouseout="wpHideMenuPopup(this, event, 'popup435', 'menu435')">
+<div class="parentMenu">
+<a onclick="startAjaxOtherMenu(435)" href="" rel="http://www.giftease.com/mens-apparel">
+<span>Men's Apparel</span>
+</a>
+</div>
+</div>
+<div id="popup435" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup435', 'menu435')" onmouseover="wpPopupOver(this, event, 'popup435', 'menu435')">
+<div class="block1">
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(436)" class="itemMenuName level1" href="http://www.giftease.com/mens-apparel/t-shirts"><span>T-Shirts</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(440)" class="itemMenuName level1" href="http://www.giftease.com/mens-apparel/combos"><span>Combos</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(460)" class="itemMenuName level1" href="http://www.giftease.com/mens-apparel/kurtas"><span>Kurtas</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+<div id="wp_custom_menu_435" class="block2">
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Men_s_Apparel.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu416" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup416');" onmouseout="wpHideMenuPopup(this, event, 'popup416', 'menu416')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/home-linen">
+<a onclick="startAjaxOtherMenu(416)" href="" rel="http://www.giftease.com/home-linen">
 <span>Home Linen</span>
 </a>
 </div>
 </div>
 <div id="popup416" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup416', 'menu416')" onmouseover="wpPopupOver(this, event, 'popup416', 'menu416')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-linen/kitchen-table-linen"><span>Kitchen &amp; Table Linen</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-linen/bed-bath-linen"><span>Bed &amp; Bath Linen</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/home-linen/kids-linen-furnishing"><span>Kids Linen &amp; Furnishing</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(264)" class="itemMenuName level1" href="http://www.giftease.com/home-linen/kitchen-table-linen"><span>Kitchen &amp; Table Linen</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(265)" class="itemMenuName level1" href="http://www.giftease.com/home-linen/bed-bath-linen"><span>Bed &amp; Bath Linen</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(360)" class="itemMenuName level1" href="http://www.giftease.com/home-linen/kids-linen-furnishing"><span>Kids Linen &amp; Furnishing</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(539)" class="itemMenuName level1" href="http://www.giftease.com/home-linen/bean-bags"><span>Bean Bags</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_416" class="block2">
-<p><img title="Home Linen" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/home_linen_28_2_14_1.jpg" alt="Home Linen"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/home_linen.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu380" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup380');" onmouseout="wpHideMenuPopup(this, event, 'popup380', 'menu380')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/party-stuff">
+<a onclick="startAjaxOtherMenu(380)" href="" rel="http://www.giftease.com/party-stuff">
 <span>Party Stuff</span>
 </a>
 </div>
 </div>
 <div id="popup380" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup380', 'menu380')" onmouseover="wpPopupOver(this, event, 'popup380', 'menu380')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/party-stuff/kids-parties"><span>Kids Parties</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/party-stuff/adult-parties"><span>Adult Parties</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/party-stuff/baby-shower"><span>Baby Shower</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(381)" class="itemMenuName level1" href="http://www.giftease.com/party-stuff/kids-parties"><span>Kids Parties</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(391)" class="itemMenuName level1" href="http://www.giftease.com/party-stuff/adult-parties"><span>Adult Parties</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(395)" class="itemMenuName level1" href="http://www.giftease.com/party-stuff/baby-shower"><span>Baby Shower</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_380" class="block2">
-<p><img title="Party Stuff" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/party_stuff_28_2_14.jpg" alt="Party Stuff"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/party_stuff.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu19" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup19');" onmouseout="wpHideMenuPopup(this, event, 'popup19', 'menu19')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/gadgets">
+<a onclick="startAjaxOtherMenu(19)" href="" rel="http://www.giftease.com/gadgets">
 <span>Gadgets</span>
 </a>
 </div>
 </div>
 <div id="popup19" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup19', 'menu19')" onmouseover="wpPopupOver(this, event, 'popup19', 'menu19')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/accessories"><span>Accessories</span></a><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/audio-visual-accessories"><span>Audio Visual Accessories</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/personal-utility"><span>Personal Utility</span></a><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/kitchen-gadgets"><span>Kitchen Gadgets</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/gadgets-for-kids-405"><span>Gadgets For Kids</span></a><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/gaming-consoles"><span>Gaming Consoles</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/gadgets/car-accessories"><span>Car Accessories</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(38)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/accessories"><span>Accessories</span></a><a onclick="startAjaxOtherMenu(39)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/audio-visual-accessories"><span>Audio Visual Accessories</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(40)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/personal-utility"><span>Personal Utility</span></a><a onclick="startAjaxOtherMenu(419)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/kitchen-gadgets"><span>Kitchen Gadgets</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(405)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/gadgets-for-kids-405"><span>Gadgets For Kids</span></a><a onclick="startAjaxOtherMenu(37)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/gaming-consoles"><span>Gaming Consoles</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(418)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/car-accessories"><span>Car Accessories</span></a><a onclick="startAjaxOtherMenu(519)" class="itemMenuName level1" href="http://www.giftease.com/gadgets/car-cushions"><span>Car Cushions</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_19" class="block2">
-<p><img title="Gadgets" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/gadgets_28_2_14.jpg" alt="Gadgets"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/gadgets_1.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu114" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup114');" onmouseout="wpHideMenuPopup(this, event, 'popup114', 'menu114')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/wellness-beauty">
+<a onclick="startAjaxOtherMenu(114)" href="" rel="http://www.giftease.com/wellness-beauty">
 <span>Wellness &amp; Beauty</span>
 </a>
 </div>
 </div>
 <div id="popup114" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup114', 'menu114')" onmouseover="wpPopupOver(this, event, 'popup114', 'menu114')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/mens-fragrances"><span>Men's Fragrances</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/womens-fragrances"><span>Women's Fragrances</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/mens-grooming-55"><span>Men's Grooming</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/womens-grooming"><span>Women's Grooming</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(115)" class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/mens-fragrances"><span>Men's Fragrances</span></a><a onclick="startAjaxOtherMenu(116)" class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/womens-fragrances"><span>Women's Fragrances</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(327)" class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/mens-grooming-447"><span>Men's Grooming</span></a><a onclick="startAjaxOtherMenu(328)" class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/womens-grooming"><span>Women's Grooming</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(498)" class="itemMenuName level1" href="http://www.giftease.com/wellness-beauty/bath-body"><span>Bath &amp; Body</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_114" class="block2">
-<p><img title="Wellness &amp; Beauty" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/wellness_beauty_28_2_14_1.jpg" alt="Wellness &amp; Beauty"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/wellness_beauty_1.jpg" alt=""></p>
 </div>
 </div>                                  <div id="menu421" class="menu" onmouseover="wpShowMenuPopup(this, event, 'popup421');" onmouseout="wpHideMenuPopup(this, event, 'popup421', 'menu421')">
 <div class="parentMenu">
-<a href="javascript:void(0);" rel="http://www.giftease.com/books-gift-cards-experiences">
+<a onclick="startAjaxOtherMenu(421)" href="" rel="http://www.giftease.com/books-gift-cards-experiences">
 <span>More Categories</span>
 </a>
 </div>
 </div>
 <div id="popup421" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup421', 'menu421')" onmouseover="wpPopupOver(this, event, 'popup421', 'menu421')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/books"><span>Books</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/gift-cards"><span>Gift Cards</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/experiences"><span>Experiences</span></a></div></div>
+<div class="column first odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(21)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/books"><span>Books</span></a><a onclick="startAjaxOtherMenu(283)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/premium-stationery-pens"><span>Premium Stationery &amp; Pens</span></a></div></div><div class="column even"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(366)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/gift-cards"><span>Gift Cards</span></a><a onclick="startAjaxOtherMenu(373)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/experiences"><span>Experiences</span></a></div></div><div class="column last odd"><div class="itemMenu level1"><a onclick="startAjaxOtherMenu(492)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/pet-accessories"><span>Pet Accessories</span></a><a onclick="startAjaxOtherMenu(514)" class="itemMenuName level1" href="http://www.giftease.com/books-gift-cards-experiences/international-shipping"><span>International Shipping</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 <div id="wp_custom_menu_421" class="block2">
-<p><img title="More Categories" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/more_categories_28_2_14.jpg" alt="More Categories"></p>
+<p><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/more_Categories.jpg" alt=""></p>
 </div>
 </div>                              </li>
             </ul>
@@ -591,58 +824,76 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             <ul class="levelset2 menSet">
               <h3 class="subMenuTitle">Top Categories</h3>
 
-                              <li><a href="http://www.giftease.com/home-decor/glassware-bar-accessories/beer-glasses-mugs/shopby/men">Beer Glasses &amp; Mugs</a></li>
-                                <li><a href="http://www.giftease.com/home-decor/glassware-bar-accessories/bar-accessories/shopby/men">Bar Accessories</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/wallets-portfolios/shopby/men">Wallets &amp; Portfolios</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/mens-watches/shopby/men">Men's Watches</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/premium-stationery-pens/shopby/men">Premium Stationery &amp; Pens</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/mens-fashion-accessories/shopby/men">Men's Fashion Accessories</a></li>
-                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/men">Quirky Gifts</a></li>
-                                <li><a href="http://www.giftease.com/gadgets/audio-visual-accessories/shopby/men">Audio Visual Accessories</a></li>
-                                <li><a href="http://www.giftease.com/wellness-beauty/mens-fragrances/shopby/men">Men's Fragrances</a></li>
+                              <li><a href="http://www.giftease.com/home-decor/bar-accessories/shopby/men" onclick="startAjaxOtherMenu();">
+                  Bar Accessories</a></li>
+                                <li><a href="http://www.giftease.com/home-decor/glassware/beer-glasses-mugs/shopby/men" onclick="startAjaxOtherMenu();">
+                  Beer Glasses &amp; Mugs</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/wallets-portfolios/shopby/men" onclick="startAjaxOtherMenu();">
+                  Wallets &amp; Portfolios</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/mens-watches/shopby/men" onclick="startAjaxOtherMenu();">
+                  Men's Watches</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/mens-fashion-accessories/shopby/men" onclick="startAjaxOtherMenu();">
+                  Men's Fashion Accessories</a></li>
+                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/men" onclick="startAjaxOtherMenu();">
+                  Quirky Gifts</a></li>
+                                <li><a href="http://www.giftease.com/gadgets/audio-visual-accessories/shopby/men" onclick="startAjaxOtherMenu();">
+                  Audio Visual Accessories</a></li>
+                                <li><a href="http://www.giftease.com/wellness-beauty/mens-fragrances/shopby/men" onclick="startAjaxOtherMenu();">
+                  Men's Fragrances</a></li>
+                                <li><a href="http://www.giftease.com/books-gift-cards-experiences/premium-stationery-pens/shopby/men" onclick="startAjaxOtherMenu();">
+                  Premium Stationery &amp; Pens</a></li>
                 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Price Range</h3>
               <li>
-                <a href="http://www.giftease.com/shopby/men/price-0,500">
+                <a href="http://www.giftease.com/shopby/men/price-0,500" onclick="startAjaxOtherMenu();">
                   <span class="price">Upto <span class="WebRupee"> Rs. </span>500</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/men/price-500,1000">
+                <a href="http://www.giftease.com/shopby/men/price-500,1000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>500</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/men/price-1000,2000">
+                <a href="http://www.giftease.com/shopby/men/price-1000,2000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/men/price-2000,5000">
+                <a href="http://www.giftease.com/shopby/men/price-2000,5000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/men/price-5000,100000">
+                <a href="http://www.giftease.com/shopby/men/price-5000,100000" onclick="startAjaxOtherMenu();">
                   <span class="price">Above <span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Occasion</h3>
 
-                              <li><a href="http://www.giftease.com/shopby/men/gudi_padwa ">Gudi Padwa</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/birthday ">Birthday</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/wedding ">Wedding</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/anniversary ">Anniversary</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/house_warming ">House Warming</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/congratulations ">Congratulations</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/sorry_thank_you ">Sorry/Thank You</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/party_night ">Party Night</a></li>
-                                <li><a href="http://www.giftease.com/shopby/men/jlt ">JLT</a></li>
+                              <li><a href="http://www.giftease.com/shopby/men/christmas " onclick="startAjaxOtherMenu();">
+                  Christmas</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/birthday " onclick="startAjaxOtherMenu();">
+                  Birthday</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/wedding " onclick="startAjaxOtherMenu();">
+                  Wedding</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/anniversary " onclick="startAjaxOtherMenu();">
+                  Anniversary</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/house_warming " onclick="startAjaxOtherMenu();">
+                  House Warming</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/congratulations " onclick="startAjaxOtherMenu();">
+                  Congratulations</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/sorry_thank_you " onclick="startAjaxOtherMenu();">
+                  Sorry/Thank You</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/party_night " onclick="startAjaxOtherMenu();">
+                  Party Night</a></li>
+                                <li><a href="http://www.giftease.com/shopby/men/jlt " onclick="startAjaxOtherMenu();">
+                  JLT</a></li>
                             </ul>
           </li>
           <li onclick="wpShowMenuPopup(this, 'popup');" class="menu ">
@@ -653,57 +904,66 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             </div>
             <ul class="levelset2 womenSet">
               <h3 class="subMenuTitle">Top Categories</h3>
-                              <li><a href="http://www.giftease.com/jewellery/fashion-jewellery/shopby/women">Fashion Jewellery</a></li>
-                                <li><a href="http://www.giftease.com/jewellery/silver-pearl-jewellery/shopby/women">Silver &amp; Pearl Jewellery</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/handbags-clutches/shopby/women">Handbags &amp; Clutches</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/womens-watches/shopby/women">Women's Watches</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/womens-fashion-accessories/shopby/women">Women's Fashion Accessories</a></li>
-                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/women">Quirky Gifts</a></li>
-                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/women">Chocolates &amp; Gift Sets</a></li>
-                                <li><a href="http://www.giftease.com/flowers/shopby/women">Flowers</a></li>
+                              <li><a href="http://www.giftease.com/jewellery/fashion-jewellery/shopby/women" onclick="startAjaxOtherMenu();">Fashion Jewellery</a></li>
+                                <li><a href="http://www.giftease.com/jewellery/silver-pearl-jewellery/shopby/women" onclick="startAjaxOtherMenu();">Silver &amp; Pearl Jewellery</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/handbags-clutches/shopby/women" onclick="startAjaxOtherMenu();">Handbags &amp; Clutches</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/womens-watches/shopby/women" onclick="startAjaxOtherMenu();">Women's Watches</a></li>
+                                <li><a href="http://www.giftease.com/fashion-accessories/womens-fashion-accessories/shopby/women" onclick="startAjaxOtherMenu();">Women's Fashion Accessories</a></li>
+                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/women" onclick="startAjaxOtherMenu();">Quirky Gifts</a></li>
+                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/women" onclick="startAjaxOtherMenu();">Chocolates &amp; Gift Sets</a></li>
+                                <li><a href="http://www.giftease.com/flowers/shopby/women" onclick="startAjaxOtherMenu();">Flowers</a></li>
                 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Price Range</h3>
               <li>
-                <a href="http://www.giftease.com/shopby/women/price-0,500">
+                <a href="http://www.giftease.com/shopby/women/price-0,500" onclick="startAjaxOtherMenu();">
                   <span class="price">Upto <span class="WebRupee"> Rs. </span>500</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/women/price-500,1000">
+                <a href="http://www.giftease.com/shopby/women/price-500,1000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>500</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/women/price-1000,2000">
+                <a href="http://www.giftease.com/shopby/women/price-1000,2000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/women/price-2000,5000">
+                <a href="http://www.giftease.com/shopby/women/price-2000,5000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/women/price-5000,100000">
+                <a href="http://www.giftease.com/shopby/women/price-5000,100000" onclick="startAjaxOtherMenu();">
                   <span class="price">Above <span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Occasion</h3>
-                              <li><a href="http://www.giftease.com/shopby/women/gudi_padwa ">Gudi Padwa</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/birthday ">Birthday</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/wedding ">Wedding</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/anniversary ">Anniversary</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/house_warming ">House Warming</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/congratulations ">Congratulations</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/sorry_thank_you ">Sorry/Thank You</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/party_night ">Party Night</a></li>
-                                <li><a href="http://www.giftease.com/shopby/women/jlt ">JLT</a></li>
+                              <li><a href="http://www.giftease.com/shopby/women/christmas " onclick="startAjaxOtherMenu();">
+                  Christmas</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/birthday " onclick="startAjaxOtherMenu();">
+                  Birthday</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/wedding " onclick="startAjaxOtherMenu();">
+                  Wedding</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/anniversary " onclick="startAjaxOtherMenu();">
+                  Anniversary</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/house_warming " onclick="startAjaxOtherMenu();">
+                  House Warming</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/congratulations " onclick="startAjaxOtherMenu();">
+                  Congratulations</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/sorry_thank_you " onclick="startAjaxOtherMenu();">
+                  Sorry/Thank You</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/party_night " onclick="startAjaxOtherMenu();">
+                  Party Night</a></li>
+                                <li><a href="http://www.giftease.com/shopby/women/jlt " onclick="startAjaxOtherMenu();">
+                  JLT</a></li>
                             </ul>
           </li>
           <li onclick="wpShowMenuPopup(this, 'popup');" class="menu ">
@@ -714,56 +974,64 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             </div>
             <ul class="levelset2 homeLifestyle">
               <h3 class="subMenuTitle">Top Categories</h3>
-                              <li><a href="http://www.giftease.com/home-decor/artifacts-showpieces/shopby/family">Artifacts &amp; Showpieces</a></li>
-                                <li><a href="http://www.giftease.com/home-decor/devotional-idols-picture-frames/shopby/family">Devotional Idols &amp; Picture Frames</a></li>
-                                <li><a href="http://www.giftease.com/home-decor/glassware-bar-accessories/shopby/family">Glassware &amp; Bar Accessories</a></li>
-                                <li><a href="http://www.giftease.com/home-decor/table-kitchenware/shopby/family">Table &amp; Kitchenware</a></li>
-                                <li><a href="http://www.giftease.com/home-decor/clocks/shopby/family">Clocks</a></li>
-                                <li><a href="http://www.giftease.com/flowers/shopby/family">Flowers</a></li>
-                                <li><a href="http://www.giftease.com/home-linen/kitchen-table-linen/shopby/family">Kitchen &amp; Table Linen</a></li>
-                                <li><a href="http://www.giftease.com/home-linen/bed-bath-linen/shopby/family">Bed &amp; Bath Linen</a></li>
+                              <li><a href="http://www.giftease.com/home-decor/artifacts-showpieces/shopby/family" onclick="startAjaxOtherMenu();">Artifacts &amp; Showpieces</a></li>
+                                <li><a href="http://www.giftease.com/home-decor/devotional-idols-picture-frames/shopby/family" onclick="startAjaxOtherMenu();">Devotional Idols &amp; Picture Frames</a></li>
+                                <li><a href="http://www.giftease.com/home-decor/glassware/shopby/family" onclick="startAjaxOtherMenu();">Glassware</a></li>
+                                <li><a href="http://www.giftease.com/home-decor/table-kitchenware/shopby/family" onclick="startAjaxOtherMenu();">Table &amp; Kitchenware</a></li>
+                                <li><a href="http://www.giftease.com/home-decor/clocks/shopby/family" onclick="startAjaxOtherMenu();">Clocks</a></li>
+                                <li><a href="http://www.giftease.com/flowers/shopby/family" onclick="startAjaxOtherMenu();">Flowers</a></li>
+                                <li><a href="http://www.giftease.com/home-linen/kitchen-table-linen/shopby/family" onclick="startAjaxOtherMenu();">Kitchen &amp; Table Linen</a></li>
+                                <li><a href="http://www.giftease.com/home-linen/bed-bath-linen/shopby/family" onclick="startAjaxOtherMenu();">Bed &amp; Bath Linen</a></li>
                 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Price Range</h3>
               <li>
-                <a href="http://www.giftease.com/shopby/family/price-0,500">
+                <a href="http://www.giftease.com/shopby/family/price-0,500" onclick="startAjaxOtherMenu();">
                   <span class="price">Upto <span class="WebRupee"> Rs. </span>500</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/family/price-500,1000">
+                <a href="http://www.giftease.com/shopby/family/price-500,1000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>500</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/family/price-1000,2000">
+                <a href="http://www.giftease.com/shopby/family/price-1000,2000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/family/price-2000,5000">
+                <a href="http://www.giftease.com/shopby/family/price-2000,5000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/family/price-5000,100000">
+                <a href="http://www.giftease.com/shopby/family/price-5000,100000" onclick="startAjaxOtherMenu();">
                   <span class="price">Above <span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Occasion</h3>
-                              <li><a href="http://www.giftease.com/shopby/family/gudi_padwa ">Gudi Padwa</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/wedding ">Wedding</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/anniversary ">Anniversary</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/house_warming ">House Warming</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/congratulations ">Congratulations</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/sorry_thank_you ">Sorry/Thank You</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/party_night ">Party Night</a></li>
-                                <li><a href="http://www.giftease.com/shopby/family/jlt ">JLT</a></li>
+                              <li><a href="http://www.giftease.com/shopby/family/christmas " onclick="startAjaxOtherMenu();">
+                  Christmas</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/wedding " onclick="startAjaxOtherMenu();">
+                  Wedding</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/anniversary " onclick="startAjaxOtherMenu();">
+                  Anniversary</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/house_warming " onclick="startAjaxOtherMenu();">
+                  House Warming</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/congratulations " onclick="startAjaxOtherMenu();">
+                  Congratulations</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/sorry_thank_you " onclick="startAjaxOtherMenu();">
+                  Sorry/Thank You</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/party_night " onclick="startAjaxOtherMenu();">
+                  Party Night</a></li>
+                                <li><a href="http://www.giftease.com/shopby/family/jlt " onclick="startAjaxOtherMenu();">
+                  JLT</a></li>
                             </ul>
           </li>
           <li onclick="wpShowMenuPopup(this, 'popup');" class="menu ">
@@ -774,55 +1042,61 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             </div>
             <ul class="levelset2 kidSet">
               <h3 class="subMenuTitle">Top Categories</h3>
-                              <li><a href="http://www.giftease.com/toys-games/toddlers-infants/shopby/kids">Toddlers &amp; Infants</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/cars-action-toys/shopby/kids">Cars &amp; Action Toys</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/learning-activity-toys/shopby/kids">Learning &amp; Activity Toys</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/dolls-doll-houses/shopby/kids">Dolls &amp; Doll Houses</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/soft-toys/shopby/kids">Soft Toys</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/board-games/shopby/kids">Board Games</a></li>
-                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/kids">Chocolates &amp; Gift Sets</a></li>
-                                <li><a href="http://www.giftease.com/home-linen/kids-linen-furnishing/shopby/kids">Kids Linen &amp; Furnishing</a></li>
-                                <li><a href="http://www.giftease.com/books-gift-cards-experiences/books/childrens-books/shopby/kids">Children's Books</a></li>
+                              <li><a href="http://www.giftease.com/toys-games/toddlers-infants/shopby/kids" onclick="startAjaxOtherMenu();">Toddlers &amp; Infants</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/cars-action-toys/shopby/kids" onclick="startAjaxOtherMenu();">Cars &amp; Action Toys</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/learning-activity-toys/shopby/kids" onclick="startAjaxOtherMenu();">Learning &amp; Activity Toys</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/dolls-doll-houses/shopby/kids" onclick="startAjaxOtherMenu();">Dolls &amp; Doll Houses</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/soft-toys/shopby/kids" onclick="startAjaxOtherMenu();">Soft Toys</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/board-games/shopby/kids" onclick="startAjaxOtherMenu();">Board Games</a></li>
+                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/kids" onclick="startAjaxOtherMenu();">Chocolates &amp; Gift Sets</a></li>
+                                <li><a href="http://www.giftease.com/home-linen/kids-linen-furnishing/shopby/kids" onclick="startAjaxOtherMenu();">Kids Linen &amp; Furnishing</a></li>
+                                <li><a href="http://www.giftease.com/books-gift-cards-experiences/books/childrens-books/shopby/kids" onclick="startAjaxOtherMenu();">Children's Books</a></li>
                 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Price Range</h3>
               <li>
-                <a href="http://www.giftease.com/shopby/kids/price-0,500">
+                <a href="http://www.giftease.com/shopby/kids/price-0,500" onclick="startAjaxOtherMenu();">
                   <span class="price">Upto <span class="WebRupee"> Rs. </span>500</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/kids/price-500,1000">
+                <a href="http://www.giftease.com/shopby/kids/price-500,1000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>500</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/kids/price-1000,2000">
+                <a href="http://www.giftease.com/shopby/kids/price-1000,2000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/kids/price-2000,5000">
+                <a href="http://www.giftease.com/shopby/kids/price-2000,5000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/kids/price-5000,100000">
+                <a href="http://www.giftease.com/shopby/kids/price-5000,100000" onclick="startAjaxOtherMenu();">
                   <span class="price">Above <span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Occasion</h3>
-                              <li><a href="http://www.giftease.com/shopby/kids/gudi_padwa ">Gudi Padwa</a></li>
-                                <li><a href="http://www.giftease.com/shopby/kids/birthday ">Birthday</a></li>
-                                <li><a href="http://www.giftease.com/shopby/kids/just_born ">Just Born</a></li>
-                                <li><a href="http://www.giftease.com/shopby/kids/congratulations ">Congratulations</a></li>
-                                <li><a href="http://www.giftease.com/shopby/kids/sorry_thank_you ">Sorry/Thank You</a></li>
-                                <li><a href="http://www.giftease.com/shopby/kids/jlt ">JLT</a></li>
+                              <li><a href="http://www.giftease.com/shopby/kids/christmas " onclick="startAjaxOtherMenu();">
+                  Christmas</a></li>
+                                <li><a href="http://www.giftease.com/shopby/kids/birthday " onclick="startAjaxOtherMenu();">
+                  Birthday</a></li>
+                                <li><a href="http://www.giftease.com/shopby/kids/just_born " onclick="startAjaxOtherMenu();">
+                  Just Born</a></li>
+                                <li><a href="http://www.giftease.com/shopby/kids/congratulations " onclick="startAjaxOtherMenu();">
+                  Congratulations</a></li>
+                                <li><a href="http://www.giftease.com/shopby/kids/sorry_thank_you " onclick="startAjaxOtherMenu();">
+                  Sorry/Thank You</a></li>
+                                <li><a href="http://www.giftease.com/shopby/kids/jlt " onclick="startAjaxOtherMenu();">
+                  JLT</a></li>
                 
             </ul>
           </li>
@@ -834,55 +1108,61 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             </div>
             <ul class="levelset2 teensSet">
               <h3 class="subMenuTitle">Top Categories</h3>
-                              <li><a href="http://www.giftease.com/jewellery/fashion-jewellery/shopby/teens">Fashion Jewellery</a></li>
-                                <li><a href="http://www.giftease.com/fashion-accessories/premium-stationery-pens/shopby/teens">Premium Stationery &amp; Pens</a></li>
-                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/teens">Quirky Gifts</a></li>
-                                <li><a href="http://www.giftease.com/quirky-gifts/fashion-accessories/shopby/teens">Fashion Accessories</a></li>
-                                <li><a href="http://www.giftease.com/toys-games/board-games/shopby/teens">Board Games</a></li>
-                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/teens">Chocolates &amp; Gift Sets</a></li>
-                                <li><a href="http://www.giftease.com/gadgets/shopby/teens">Gadgets</a></li>
-                                <li><a href="http://www.giftease.com/gadgets/audio-visual-accessories/shopby/teens">Audio Visual Accessories</a></li>
-                                <li><a href="http://www.giftease.com/gadgets/gaming-consoles/shopby/teens">Gaming Consoles</a></li>
+                              <li><a href="http://www.giftease.com/jewellery/fashion-jewellery/shopby/teens" onclick="startAjaxOtherMenu();">Fashion Jewellery</a></li>
+                                <li><a href="http://www.giftease.com/quirky-gifts/shopby/teens" onclick="startAjaxOtherMenu();">Quirky Gifts</a></li>
+                                <li><a href="http://www.giftease.com/quirky-gifts/fashion-accessories/shopby/teens" onclick="startAjaxOtherMenu();">Fashion Accessories</a></li>
+                                <li><a href="http://www.giftease.com/toys-games/board-games/shopby/teens" onclick="startAjaxOtherMenu();">Board Games</a></li>
+                                <li><a href="http://www.giftease.com/chocolates-gift-sets/shopby/teens" onclick="startAjaxOtherMenu();">Chocolates &amp; Gift Sets</a></li>
+                                <li><a href="http://www.giftease.com/gadgets/shopby/teens" onclick="startAjaxOtherMenu();">Gadgets</a></li>
+                                <li><a href="http://www.giftease.com/gadgets/audio-visual-accessories/shopby/teens" onclick="startAjaxOtherMenu();">Audio Visual Accessories</a></li>
+                                <li><a href="http://www.giftease.com/gadgets/gaming-consoles/shopby/teens" onclick="startAjaxOtherMenu();">Gaming Consoles</a></li>
+                                <li><a href="http://www.giftease.com/books-gift-cards-experiences/premium-stationery-pens/shopby/teens" onclick="startAjaxOtherMenu();">Premium Stationery &amp; Pens</a></li>
                 
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Price Range</h3>
               <li>
-                <a href="http://www.giftease.com/shopby/teens/price-0,500">
+                <a href="http://www.giftease.com/shopby/teens/price-0,500" onclick="startAjaxOtherMenu();">
                   <span class="price">Upto <span class="WebRupee"> Rs. </span>500</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/teens/price-500,1000">
+                <a href="http://www.giftease.com/shopby/teens/price-500,1000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>500</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/teens/price-1000,2000">
+                <a href="http://www.giftease.com/shopby/teens/price-1000,2000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>1000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/teens/price-2000,5000">
+                <a href="http://www.giftease.com/shopby/teens/price-2000,5000" onclick="startAjaxOtherMenu();">
                   <span class="price"><span class="WebRupee"> Rs. </span>2000</span> - 
                   <span class="price"><span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               <li>
-                <a href="http://www.giftease.com/shopby/teens/price-5000,100000">
+                <a href="http://www.giftease.com/shopby/teens/price-5000,100000" onclick="startAjaxOtherMenu();">
                   <span class="price">Above <span class="WebRupee"> Rs. </span>5000</span>
                 </a>
               </li>
               
               <div class="clr space1"></div>
               <h3 class="subMenuTitle">Shop by Occasion</h3>
-                              <li><a href="http://www.giftease.com/shopby/teens/gudi_padwa ">Gudi Padwa</a></li>
-                                <li><a href="http://www.giftease.com/shopby/teens/birthday ">Birthday</a></li>
-                                <li><a href="http://www.giftease.com/shopby/teens/congratulations ">Congratulations</a></li>
-                                <li><a href="http://www.giftease.com/shopby/teens/sorry_thank_you ">Sorry/Thank You</a></li>
-                                <li><a href="http://www.giftease.com/shopby/teens/party_night ">Party Night</a></li>
-                                <li><a href="http://www.giftease.com/shopby/teens/jlt ">JLT</a></li>
+                              <li><a href="http://www.giftease.com/shopby/teens/christmas " onclick="startAjaxOtherMenu();">
+                  Christmas</a></li>
+                                <li><a href="http://www.giftease.com/shopby/teens/birthday " onclick="startAjaxOtherMenu();">
+                  Birthday</a></li>
+                                <li><a href="http://www.giftease.com/shopby/teens/congratulations " onclick="startAjaxOtherMenu();">
+                  Congratulations</a></li>
+                                <li><a href="http://www.giftease.com/shopby/teens/sorry_thank_you " onclick="startAjaxOtherMenu();">
+                  Sorry/Thank You</a></li>
+                                <li><a href="http://www.giftease.com/shopby/teens/party_night " onclick="startAjaxOtherMenu();">
+                  Party Night</a></li>
+                                <li><a href="http://www.giftease.com/shopby/teens/jlt " onclick="startAjaxOtherMenu();">
+                  JLT</a></li>
                             </ul>
           </li>                            
           <li onclick="wpShowMenuPopup(this, 'popup');" class="menu ">
@@ -893,7 +1173,7 @@ var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search Gif
             </div>
             <ul class="levelset2 occasionSet">
               <h3 class="subMenuTitle">Top Occasions<a href="http://www.giftease.com/customer/address/upcomingoccasions/">My Occasions</a></h3>
-                                <li><a href="http://www.giftease.com/shopby/gudi_padwa" ;="">Gudi Padwa</a></li>
+                                <li><a href="http://www.giftease.com/occasion?oid=26">Christmas</a></li>
                                     <li><a href="http://www.giftease.com/occasion?oid=9">Birthday</a></li>
                                     <li><a href="http://www.giftease.com/occasion?oid=15">Wedding</a></li>
                                     <li><a href="http://www.giftease.com/occasion?oid=7">Anniversary</a></li>
@@ -1025,6 +1305,29 @@ function removeclassfirst()
 }
 
 </script>
+<script type="text/javascript">
+   
+     //AJAX function
+      function startAjaxOtherMenu(msg) {
+
+       var hp = jQuery.noConflict(); 
+       var ooid = 'menu';
+      
+       //alert("bye");
+
+      hp.ajax({
+      type: "POST",
+      url: "http://www.giftease.com/topmenu.php",
+       data: {
+            'myString': ooid,
+            'ajax': true
+            },
+      success: function(){
+      //alert( "Data Saved: " + msg );
+      }
+      });
+      }
+    </script>
 </div>
 <style type="text/css">
 .messages ul li{
@@ -1036,9 +1339,45 @@ function removeclassfirst()
 }
 </style>
 
+
+    <script>
+     window.fbAsyncInit = function(){
+        FB.init({ appId:'484861771529478', status:true,  cookie:true, xfbml:true});
+        FB.getLoginStatus(function(response) {
+          document.cookie='fbstatus=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+          if (response.status === 'connected') {
+            document.cookie="fbstatus=" + '3' + ";path=/";
+          } else if (response.status === 'not_authorized') {
+            document.cookie="fbstatus=" + '2' + ";path=/";
+          } else {
+            document.cookie="fbstatus=" + '1' + ";path=/";
+          }
+       });
+     };
+     (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js";
+      d.getElementsByTagName('head')[0].appendChild(js);
+     }(document));
+    </script>
+    <script>
+    $tool1 = jQuery.noConflict();
+	function opengiftcmswrap(t) {
+    $tool1("#giftcmswrap").colorboxwrap({
+        href: t,
+        iframe: true,
+        width: "983",
+        top: "0",
+        left: "15%",
+        height: "628"
+    })
+    }
+	</script>
+
+
                     <div class="main col1-layout"> 
-                         
-<div class="breadcrumbs">
+                         <div class="breadcrumbs">
     <span class="youAreHere">You are here: </span>
     <ul class="product-detail-breadcrumbs-ul">
                     <li class="home">
@@ -1116,7 +1455,7 @@ $cmspageconflict(document).ready(function() {
 <p>In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:</p>
 <p><br> Mr. Vivek Mathur</p>
 <p>Giftease Technologies India Pvt. Ltd.</p>
-<p>A-6, 2<sup>nd</sup> floor, Liberty Society,&nbsp; Phase II, North Main Road, Koregaon&nbsp; Park, Pune 411 001</p>
+<p>Trade Centre, 401/2 &amp; 403,&nbsp; 4<sup>th</sup> Floor, North Main Road, Koregaon Park, Pune – 411001</p>
 <p>Phone: +91- (0)20 26153001</p>
 <p>Email: <a href="mailto:complainces@giftease.com" target="_blank">complainces@giftease.com</a></p>
 <p>Time: Mon – Fri (10:00 – 19:00)</p>
@@ -1126,7 +1465,7 @@ $cmspageconflict(document).ready(function() {
                     </div>
                                         <!-- Start Alexa Certify Javascript -->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
 _atrk_opts = { atrk_acct:"3HVti1aUS/00aB", domain:"giftease.com",dynamic: true};
 
@@ -1134,7 +1473,7 @@ _atrk_opts = { atrk_acct:"3HVti1aUS/00aB", domain:"giftease.com",dynamic: true};
 
 </script>
 
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=3HVti1aUS/00aB" style="display:none" height="1" width="1" alt="" /></noscript>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=3HVti1aUS/00aB" style="display:none" height="1" width="1" alt="" /></noscript> -->
 
  <!--End Alexa Certify Javascript -->
 <div class="footer-container" style="position:relative">
@@ -1155,7 +1494,9 @@ $tool("#codhovertext").mouseout(function() { $tool("#codtooltip").css('visibilit
 
 
     <div class="footer">
-        
+        <style type="text/css">
+.pin img { margin-top: 5px !important;}
+</style>
 <div class="footer-colum4">
 	<!-- <div class="footer-col-headtxt"><span></span> </div> -->
 	<div class="footer-col-headtxt"><span style="font-size: 13px; text-transform: capitalize;">Sign up to receive special offers and updates</span> </div>
@@ -1169,16 +1510,18 @@ $tool("#codhovertext").mouseout(function() { $tool("#codtooltip").css('visibilit
 		        </button>
 	    	</div>
 	    	<div class="footer-info"><span>Your data will not be shared with others and you can unsubscribe at any time.</span></div>
-		    <div class="footer-col-headtxt" style="padding-top:10px;"><span>FOLLOW US</span> </div>
-		    <div class="addthis_toolbox addthis_default_style addthis_32x32_style followUs">
-		        <a href="http://www.facebook.com/Giftease" title="Facebook" class="fb" target="_blank">Facebook</a>
-		        <a href="http://twitter.com/GifteaseIndia" title="Twitter" class="tw" target="_blank">Twitter</a>
-		       <!--  <a href="http://www.linkedin.com/" title="Linked In" class="in" target="_blank">In</a> -->
-		    </div>
-
+		    <div class="footer-col-headtxt" style="padding-top:10px;"><span style="float:left;">FOLLOW US</span> 
+		    <div class="addthis_toolbox addthis_default_style addthis_32x32_style followUs" style="margin-top: -8px;"><a class="fb" title="Facebook" href="http://www.facebook.com/Giftease" target="_blank">Facebook</a> <a class="tw" title="Twitter" href="http://twitter.com/GifteaseIndia" target="_blank">Twitter</a> <a class="in" title="Linked In" href="https://www.linkedin.com/company/giftease-technologies-pvt-ltd" target="_blank">In</a><a class="pin" href="http://www.pinterest.com/giftease/" target="_blank" data-pin-do="buttonFollow"><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/pinterestx2_72.png" alt="Follow Me on Pinterest" width="30" height="30"></a><a class="blog" href="http://www.giftease.com/blog" target="_blank"><img style="margin-top: 5px; margin-left: 2px;" src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/blogger.png" alt="Blog" width="30" height="30"></a></div>		    
 		    <!-- HTML included for facebook like button box-->
-		    <div class="fb-like" data-href="https://www.facebook.com/Giftease" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
-		    <div id="fb-root"></div>
+		    <div class="fb-like" style="margin-top:-8px;" data-href="https://www.facebook.com/Giftease" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
+		    <div id="fb-root"></div>	
+		    </div>
+		    <!--<div class="addthis_toolbox addthis_default_style addthis_32x32_style followUs">
+		        <a href="http://www.facebook.com/Giftease" title="Facebook" class="fb" target="_blank">Facebook</a>
+		        <a href="http://twitter.com/GifteaseIndia" title="Twitter" class="tw" target="_blank">Twitter</a>-->
+		       <!--  <a href="http://www.linkedin.com/" title="Linked In" class="in" target="_blank">In</a> 
+		    </div>-->
+		    
 	</form>
 </div>
 
@@ -1237,15 +1580,15 @@ $tool("#codhovertext").mouseout(function() { $tool("#codtooltip").css('visibilit
 		   <div class="head" style="text-transform: uppercase;">Payment Options</div>
 		   <div class="poweredbyMenu">
 <ul class="bank">
-<li><img src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/Payment_Option_Logos_Left.jpg" alt=""></li>
-<li style="margin-left: 2px;"><img id="codhovertext" src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/ic_cod.png" alt="COD"></li>
+<li><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Payment_Option_Logos_Left.jpg" alt=""></li>
+<li style="margin-left: 2px;"><img id="codhovertext" src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/ic_cod.png" alt="COD"></li>
 </ul>
 </div>	    </div>
 	    <div class="paysecurely">	      
 	      <div class="head">SAFE &amp; SECURE SHOPPING</div>
 	      <div class="poweredbyMenu">
 <ul class="bank">
-<li style="margin-top: 3px;"><img src="https://d1282y2d604czk.cloudfront.net/media/wysiwyg/Payment_Option_Logos_Right.jpg" alt=""></li>
+<li style="margin-top: 3px;"><img src="http://d1282y2d604czk.cloudfront.net/media/wysiwyg/Payment_Option_Logos_Right.jpg" alt=""></li>
 <li id="DigiCertClickID_tIuHbs9E" style="margin-left: 5px;" data-language="en_US"></li>
 </ul>
 <script type="text/javascript">// <![CDATA[
@@ -1260,7 +1603,7 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_tIuHbs9E", "10", "s", "b
  
 <!--<script src="https://connect.facebook.net/en_US/all.js"></script> -->
 <!--<script type="text/javascript" src=""></script>-->
-<script type="text/javascript" src="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/giftease_js/customer_giftease_v3.js"></script>
+<script type="text/javascript" src="http://style.giftease.com/skin/frontend/giftease_bk12-12/default/giftease_js/customer_giftease_v7.js"></script>
 
 <script type="text/javascript">
     var pincode = readCookie('pincode');
@@ -1297,28 +1640,31 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_tIuHbs9E", "10", "s", "b
 <!-- Remarketing using Google remarketing engine -->
 
 
+
+<script type="text/javascript">
+    if (typeof ecomm_pagetype === 'undefined' && typeof ecomm_totalvalue === 'undefined' && typeof ecomm_prodid === 'undefined') {
+        
+        var ecomm_pagetype= "siteview";
+        var ecomm_totalvalue = "";
+        var ecomm_prodid = "";
+        
+        var dataLayer = [];
+        var google_tag_params = {
+                ecomm_prodid: "", 
+                ecomm_pagetype: "siteview",
+                ecomm_totalvalue: ""
+            };
+            dataLayer.push({
+                google_tag_params:window.google_tag_params
+        });
+        
+    }
+</script>
+   
 <!-- Remarketing using Google remarketing engine -->
 
 
 <!-- Advertiser 'Giftease Technologies Pvt Ltd',  Include user in segment 'Giftease_SRT_Pixel_052013' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-  <script type="text/javascript">
-
-(function() {
-
-var a = document.createElement('script');a.type = 'text/javascript'; a.async = true;
-
-a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/333/tracker.js';
-
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
-
-})();
-    function addLoginCookie(value)
-    {
-        setCookie('eventname',value);
-    }
-
-</script>
-<img src="http://ad.yieldmanager.com/pixel?id=2375766&amp;t=2" width="1" height="1">  
  
 <!-- End of segment tag -->
 
@@ -1326,37 +1672,138 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a,
 
             </div> 
 
-<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-var _weq = _weq || {};
-_weq['webengage.licenseCode'] = '~10a5cb943';
-_weq['webengage.widgetVersion'] = "4.0";
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZ83PQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZ83PQ');</script>
+<!-- End Google Tag Manager -->
 
-(function(d){
-    var _we = d.createElement('script');
-    _we.type = 'text/javascript';
-    _we.async = true;
-    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
-    var _sNode = d.getElementById('_webengage_script_tag');
-    _sNode.parentNode.insertBefore(_we, _sNode);
-  })(document);
+<style>
+.jstop {width:98%;font-size:14px;font-family:Arial, Helvetica, sans-serif;background:lightgray;text-align: center;padding:9px;border:1px solid #ededed;color:#242424;margin-bottom: 10px;}
+.jstop span{color:#ee0b00;font-weight: bold;}
+.jstop span a{color:#ee0b00;font-weight: bold;}
+#rakhi {position: fixed;  margin:240px 0 0 10px; display: none;}
+</style>
+<script>
+function expCookie(str) {
+    document.cookie = str + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+}
+var str = window.location.href;
+if (str[str.length - 1] != '/') {
+    str += '/';
+}
+var chk = new RegExp("(.*)checkout/cart/");
+if (chk.test(str)) {
+    if (typeof (ecomm_totalvalue) != 'undefined') {
+        /* cart page: drop cookies start */
+        var ntype = Math.floor(ecomm_totalvalue / 250);
+        document.cookie = "ntype=" + ntype + ";" + "path=/;";
+        var prodcat = ",";
+        jQuery('h2.product-name a').each(function () {
+            var parts = jQuery(this).attr('href').split('/');
+            for (i = 3; i < parts.length; i++) {
+                prodcat = prodcat + parts[i] + ",";
+            }
+        });
+        document.cookie = "prodcat=" + prodcat + ";path=/;";
+        document.cookie = "cartval=" + ecomm_totalvalue + ";path=/;";
+        /* cart page: drop cookies end */
+    } else {
+        /* cart page: clear cookie if cart empty - start */
+        expCookie("cartval");
+        /* cart page: clear cookie if cart empty - end */
+    }
+} else {
+    /* non-cart page: clear cookies, which are not required - start */
+    expCookie("ntype");
+    expCookie("prodcat");
+    /* non-cart page: clear cookies, which are not required - end */
+}
+/* function required to add blinking text - start */
+function blinkme() {
+    jQuery(".blink").animate({
+        opacity: 1
+    }, 200, "linear");
+    jQuery(".blink").animate({
+        opacity: 0
+    }, 1000, "linear", blinkme);
+}
+/* function required to add blinking text - end */
+function handleResize() {
+    if (jQuery('body').width() >= 1320) {
+        jQuery('#rakhi').fadeIn('slow');
+    } else {
+        jQuery('#rakhi').fadeOut(0);
+    }
+}
+
+if (typeof (ecomm_pagetype) != 'undefined' && ecomm_pagetype === "product") {
+    var prodCatList = jQuery('link[rel="canonical"]').attr('href').split('/');
+    var exCat15Off = new RegExp("(.*)(gift-cards|flowers|chocolates-gift-sets|experiences|kitchen-gadgets|-grooming)");
+    var exCat100Off = new RegExp("(.*)(gift-cards)");
+    var exSubCat20Off = new RegExp("(.*)(kitchen-gadgets|-grooming|\/gift-cards\/|toys-games|childrens-books|children-young-adult)");
+    /* PDP: Discount display: SHARE THE JOY & 20% OFF excluding sp. categories - start */
+    if (ecomm_totalvalue > 1499) {
+        if (!exCat15Off.test(prodCatList[3])) {
+            jQuery('div.proDls').before('<div id="mothers-day-offer" class="jstop">Get <span class="blink">EXTRA 20% OFF</span> on this item! Apply Coupon JOY20 in Shopping Cart. <span>ORDER NOW</span>');
+        }
+    } else if (ecomm_totalvalue > 499 && ecomm_totalvalue <= 1499) {
+        /*        if (!exCat100Off.test(prodCatList[3])) {*/
+        var fbshareurlfunc = jQuery('div.sharing-tools.lt ul.tabSet li span a').attr('onclick');
+        var fbshareurl = fbshareurlfunc.toString();
+        var fbshareurltxt = fbshareurl.substring(fbshareurl.indexOf('{') + 1, fbshareurl.lastIndexOf('}'));
+        var newmsg = '<div id="mothers-day-offer" class="jstop" style="line-height: 30px;">Like This? <a href="javascript:void(0)" onclick="' + fbshareurltxt + '"><img src="//www.giftease.com/skin/frontend/giftease_bk12-12/default/images/fb_btn.png" style="width: 178px;height: 29px;"><span style="height: 300px;color:white;margin-left: -144px;">Share on Facebook&nbsp;</span></a><span style="margin-left: 15px;color: black;font-weight: normal;">and get your<span style="margin-left: 6px;" class="blink">instant Rs.100 off</span> coupon.&nbsp;</span> <span>SHARE NOW!!</span></div>';
+        jQuery('div.proDls').before(newmsg);
+        /*        }*/
+    }
+    if (exSubCat20Off.test(jQuery('link[rel="canonical"]').attr('href'))) {
+        jQuery("#mothers-day-offer").css("display", "none");
+    }
+    blinkme();
+    /* PDP: Discount display: SHARE THE JOY & 20% OFF excluding sp. categories - end */
+
+    /* Last Mile Price display on Gadgets, Fragrances and Watches product pages for products with price > 1499 - start */
+    var lmPriceCat = new RegExp("(.*)(gift-sets\/gift-sets|gift-sets\/gourmet|flowers|gift-cards-experiences\/gift-cards|gift-cards-experiences\/experiences|kitchen-gadgets|-grooming|-diwali-combo|chocolates-gift-sets|toys-games|childrens-books|children-young-adult)");
+    var showLMPrice = false;
+    var threshold=750;
+    for (var i = 0; i < prodCatList.length; i++) {
+        if (!lmPriceCat.test(jQuery('link[rel="canonical"]').attr('href'))) {
+            showLMPrice = true;
+        }
+    }
+    if (showLMPrice === true) {
+        var mrpSel = jQuery('div.product-main-info p.old-price');
+        var mrpText;
+        var mrp;
+        var curPriceText = jQuery('div.product-main-info span.priceRed').text().trim().replace(",", "");
+        var curPrice = parseFloat(curPriceText.substring(4, curPriceText.length));
+        if (curPrice >= 1499) {
+            if (mrpSel.length <= 0) {
+                mrp = curPrice;
+            } else {
+                mrpText = jQuery('div.product-main-info p.old-price').text().trim().replace(",", "");
+                mrp = parseFloat(mrpText.substring(4, mrpText.length));
+            }
+            var splOfferVal = curPrice - threshold;
+            if(curPrice * 0.20 < 750) {
+            splOfferVal= parseFloat(curPrice * 0.80).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+            }
+            jQuery("#mothers-day-offer").css("display", "none");
+            jQuery('div.product-main-info').after('<div id="special-offer" class="lt" style=" width: 100%; display:none;"><div style="margin: 5px 0 5px 0;padding: 7px 0 7px 0;border: 2px solid #D5D5D5;border-left: 0;border-right: 0;"><div class="f-right yousave" style="margin: -3px 0 0 0;"><div class="price">+20%</div><div class="off">OFF</div></div><div class="special-offer" style="text-align: center;"><div class="productCode" style="font-weight: bold !important;text-align: center;color: black !important;font-size: 16px !important;text-transform: none;">Get this TODAY for <span class="priceRed" style="font-weight: bold;">Rs.&nbsp;' + splOfferVal + '</span><br></div><div>*Apply coupon <b>JOY20</b> on the Shopping Cart.</div></div></div></div>');
+            if (jQuery('#product-options-wrapper').length > 0) {
+                jQuery('#special-offer').css("margin-bottom", "16px");
+            }
+            jQuery('#special-offer').fadeIn(2000);
+        }
+    }
+    /* Last Mile Price display on Gadgets, Fragrances and Watches product pages for products with price > 1499 - end */
+}
 </script>
 
-<script type="text/javascript">
-adroll_adv_id = "LAJCTZPA4JFKNKY6KU3WE2";
-adroll_pix_id = "A24XI2GXJFBLBAEY27E4V2";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
-</script>
+
 
 </body></html>
