@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcontent.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524123649id_/http%3A//www.madcontent.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcontent.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123052502id_/http%3A//www.madcontent.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Content Writing | Premium Content Writing, Buy Articles, SEO Articles | MadContent.com
 
