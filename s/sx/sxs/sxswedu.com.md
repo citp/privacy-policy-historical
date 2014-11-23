@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113608id_/http%3A//sxswedu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195027id_/http%3A//www.sxswedu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SXSWedu.com
 
-This privacy policy ("Privacy Policy") will tell you what information we collect about you and about your use of our Web site (“Site”). It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly how SOUTH BY SOUTHWEST, LLC or SXSW, LLC ("SXSW") may collect and use information provided by you.
+This privacy policy ("Privacy Policy") will tell you what information we collect about you and about your use of our Web site (“Site”). It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly how SXSW, LLC ("SXSW") may collect and use information provided by you.
 
 SXSW will inform you of the following in this privacy policy:
 
