@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055446id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124001447id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nursing Crib
 
