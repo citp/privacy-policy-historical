@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629173414id_/http%3A//www.colgate.edu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000407id_/http%3A//colgate.edu/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Colgate University
 
