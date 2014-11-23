@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetask.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216093940id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetask.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064553id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
 
 # Intervals Privacy Policy
 
@@ -66,10 +66,10 @@ Pelago offers you a means to choose how we may use information you provided. If,
 
 ##  Additional Information
 
-Questions regarding this Privacy Policy should be directed to Pelago by emailing such questions to support@myintervals.com or by U.S. mail to Pelago, 423 N. Milpas Street, Santa Barbara, CA 93103.
+Questions regarding this Privacy Policy should be directed to Pelago by emailing such questions to support@myintervals.com or by U.S. mail to Pelago, 414 E. Haley St, Santa Barbara, CA 93101.
 
 ##  Last Update
 
-This Privacy Policy was last updated on February 20, 2013, and became effective on the same date.
+This Privacy Policy was last updated on July 15, 2014, and became effective on the same date.
 
 » Top of page
