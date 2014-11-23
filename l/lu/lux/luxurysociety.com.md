@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053603id_/http%3A//luxurysociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123093953id_/http%3A//luxurysociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Luxury Society - Privacy Policy
 
-This Website is edited by Digital Luxury Group, DLG SA, a Swiss Company incorporated under n° CHE-101.525.197 in Geneva and hosted by WOPATA, 73, rue Leyteire, 33000 Bordeaux FRANCE.
+This Website is edited and hosted by Digital Luxury Group, DLG SA, a Swiss Company incorporated under n° CHE-101.525.197 in Geneva.
 
 As LUXURY SOCIETY is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) or alternatively you can contact us at: LUXURY SOCIETY - Privacy Policy, Digital Luxury Group, DLG SA at 7 avenue Krieg, 1208 Geneva, Switzerland.
 
@@ -82,11 +82,7 @@ However, Luxury Society reserves the right to review the Log files from the last
 
 **Access to and Modification of Your Information**
 
-In compliance with French statute n° 78-17 dated January, 6 1978, you have the rights to access, modify, rectify and suppress any personal information at any time by logging into your account and accessing features such as Edit Profile and Account Settings.
-
-CNIL reference:   
-Declaration n° 1344673   
-Date: 06.02.2009
+In compliance with the Swiss Federal Act on Data Protection, you have the rights to access, modify, rectify and suppress any personal information at any time by logging into your account and accessing features such as Edit Profile and Account Settings.
 
 **Children**
 
@@ -96,4 +92,4 @@ The Luxury Society website is not intended for children under 18 years of age. W
 
 If we decide to materially change our Privacy Policy for Luxury Society and Luxury Society Networking, we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-This policy became effective December, 2008. 
+This policy became effective December, 2008, as updated on April 1st, 2014. 
