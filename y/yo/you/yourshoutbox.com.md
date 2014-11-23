@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525010526id_/http%3A//www.yourshoutbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123020909id_/http%3A//www.yourshoutbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | YourShoutbox.com
 
-This Privacy Policy governs the manner in which www2.yourshoutbox.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www2.yourshoutbox.com](http://www2.yourshoutbox.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by www2.yourshoutbox.com.
+This Privacy Policy governs the manner in which www.yourshoutbox.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yourshoutbox.com](http://www.yourshoutbox.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by www.yourshoutbox.com.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-www2.yourshoutbox.com may collect and use Users personal information for the following purposes:
+www.yourshoutbox.com may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -55,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-www2.yourshoutbox.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+www.yourshoutbox.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
