@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the testbook.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208093601id_/https%3A//testbook.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testbook.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022909id_/http%3A//testbook.com/privacy-policy) for the most accurate reproduction.*
 
-# TestBook: Privacy Policy
+# Testbook: Privacy Policy
 
 * General
 
-By using, accessing or participating in the Service, you agree to the terms of this privacy policy (the "Privacy Policy"). Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms and Conditions, located [here](https://web.archive.org/web/20140208093601id_/https%3A//testbook.com/tos.php). We reserve the right to change our Privacy Policy at any time. If we do this, we will post a notice that we have made changes to this Privacy Policy on the Website for at least 7 days after the changes are posted and will indicate at the bottom of the Privacy Policy the date these terms were last revised. Any revisions to this Privacy Policy will become effective the earlier of (i) the end of the foregoing 7-day period or (ii) the first time you access or use the Service after any such changes. If you do not agree to abide by this Privacy Policy, you are not authorized to use, access or participate in the Service. 
+By using, accessing or participating in the Service, you agree to the terms of this privacy policy (the "Privacy Policy"). Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms and Conditions, located [here](https://web.archive.org/terms-of-service). We reserve the right to change our Privacy Policy at any time. If we do this, we will post a notice that we have made changes to this Privacy Policy on the Website for at least 7 days after the changes are posted and will indicate at the bottom of the Privacy Policy the date these terms were last revised. Any revisions to this Privacy Policy will become effective the earlier of (i) the end of the foregoing 7-day period or (ii) the first time you access or use the Service after any such changes. If you do not agree to abide by this Privacy Policy, you are not authorized to use, access or participate in the Service. 
 
 * Information We Collect
 
