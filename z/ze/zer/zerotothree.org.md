@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerotothree.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173410id_/http%3A//www.zerotothree.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerotothree.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123015047id_/http%3A//www.zerotothree.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # ZERO TO THREE: Privacy Policy
 
