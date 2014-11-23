@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswala.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051322id_/http%3A//www.newswala.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswala.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123014915id_/http%3A//www.newswala.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.NewsWala.com
 
@@ -44,7 +44,7 @@ We may share your personal information with other companies within our group of 
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at editor@newswala.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at editor@newswala.com.
 
 **Log Files**
 
