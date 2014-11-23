@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gramophone.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531181619id_/http%3A//www.gramophone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gramophone.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195432id_/http%3A//www.gramophone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gramophone.co.uk
 
