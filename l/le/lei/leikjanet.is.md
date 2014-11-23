@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leikjanet.is privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809034326id_/http%3A//www.leikjanet.is/%3Fgluggi%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leikjanet.is privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123174038id_/http%3A//www.leikjanet.is/%3Fgluggi%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
