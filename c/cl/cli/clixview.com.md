@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixview.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518212807id_/http%3A//www.clixview.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixview.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123060510id_/http%3A//www.clixview.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # ClixView : Privacy
 
