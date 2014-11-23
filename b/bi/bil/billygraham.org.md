@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630123911id_/http%3A//billygraham.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131009id_/http%3A//billygraham.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BGEA
 
@@ -34,6 +34,10 @@ In addition, we collect the personal information that you submit to our website,
 
 
 Where you request information from us, we may use the e-mail address that you provide to send you information about our ministry and resources that may be of interest to you. If you have agreed to receive communications from us, such as by e-mail, you may ask us to remove you from the list at any time (using the unsubscribe instructions provided with each e-mail).
+
+**Children’s Online Privacy**
+
+We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on our sites. We encourage you to become involved with your child’s access to the Internet and to our site in order to ensure that his or her privacy is well protected. To read more about online safety and how to become more involved with your child’s online experience, visit [OnGuardOnline.gov](https://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online/).
 
 **How Do We Use Cookies?**
 
