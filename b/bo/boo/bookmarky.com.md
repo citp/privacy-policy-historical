@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarky.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513020227id_/http%3A//www.bookmarky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarky.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123023114id_/http%3A//www.bookmarky.com/privacy) for the most accurate reproduction.*
 
 # Bookmarky - Privacy
 
