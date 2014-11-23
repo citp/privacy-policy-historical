@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zcric.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516002359id_/http%3A//www.zcric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zcric.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164211id_/http%3A//www.zcric.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Cricket Highlights Online - Zcic.com | Cricket Highlights Online - Zcic.com
 
 Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting Zcric.com, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers Zcric.com ’s treatment of personal information that Zcric.com gathers when you are on the Zcric.com website and when you use Zcric.com services. This policy does not apply to the practices of third parties that Zcric.com does not own or control, or to individuals that Zcric.com does not employ or manage.
 
