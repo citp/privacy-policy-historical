@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickupflowers.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917092649id_/http%3A//www.pickupflowers.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickupflowers.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123174040id_/http%3A//www.pickupflowers.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Pickupflowers gives highest importance to the private information of the browsers.
 
@@ -10,6 +10,12 @@
   * How we protect your Personal Information? - **We use a high grade encryption (256 bit) to protect your information** when it is transmitted across computers. Please go through our [security policy](https://web.archive.org/info/security-policy) for more details. 
 
 
+
+**Remarketing**  
+Pickupflowers.com also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system. The third-party vendors, will place cookies on web browsers in order to serve ads based on past visits to our website. Third party vendors, use cookies to serve ads based on a user’s prior visits to our website. This allows us to make special offers and continue to market our services to those who have shown interest in our service. 
+
+**Opt-Out**  
+You may opt out of Google’s use of cookies by visiting the Ads Preferences Manager. Also, you can opt out of other third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. 
 
 We believe in reducing the SPAM on the Internet and would not be sending you any marketing material unless you specifically request for it.
 
