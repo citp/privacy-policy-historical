@@ -1,82 +1,84 @@
-<!--The following is the downloaded HTML source of the dicksmith.co.nz privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623133030id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dicksmith.co.nz privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123032251id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-9NJ4"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6RMR"></script><script type="text/javascript">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6RMR"></script><script type="text/javascript">
             var BASE_URL = 'http://www.dicksmith.co.nz/';
     </script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8HV1VbGwEIVVFXAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8HV1VbGwEIVVFXAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Privacy policy</title>
 
 <meta name="description" content="Default Description">
-<meta name="keywords" content="Magento, Varien, E-commerce">
-<meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/favicon.ico?v=3229" type="image/x-icon">
-<link rel="shortcut icon" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/favicon.ico?v=3229" type="image/x-icon">
+<meta name="keywords" content="Dicksmith, Apple iPhones, TVs, Cameras, Kindles, Laptops">
+<meta name="robots" content="INDEX, FOLLOW">
+<link rel="icon" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/favicon.ico?v=4052" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/favicon.ico?v=4052" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://media3.dicksmith.co.nz/js/blank.html';
-    var BLANK_IMG = 'http://media3.dicksmith.co.nz/js/spacer.gif';
+    var BLANK_URL = 'http://www.dicksmith.co.nz/js/blank.html';
+    var BLANK_IMG = 'http://www.dicksmith.co.nz/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://media3.dicksmith.co.nz/js/colorbox/css/colorbox.css?v=3229">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/widgets.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/common.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/multizoom.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/content.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/content2.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/homeslider.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/jquery-ui-1.10.1.custom.min.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/account.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/catalog.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/base/default/css/temando/autocomplete.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/base/default/css/temando/datepicker.css?v=3229" media="all">
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/print.css?v=3229" media="print">
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/jquery-1.7.2.min.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/locator.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/postcode.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/addToCart.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/prototype/prototype.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/lib/ccard.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/prototype/validation.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/scriptaculous/builder.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/scriptaculous/effects.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/scriptaculous/dragdrop.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/scriptaculous/controls.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/scriptaculous/slider.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/varien/js.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/varien/form.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/varien/menu.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/mage/translate.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/mage/cookies.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/email/validation.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/colorbox/jquery.colorbox.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/temando/autocomplete.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/temando/avs.js?v=3229"></script>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/temando/datepicker.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.easing.1.3.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/multizoom.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery-ui-1.10.1.custom.min.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/common.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.cycle.all.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.nicescroll.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/scripts.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/enterprise/catalogevent.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/enterprise/wishlist.js?v=3229"></script>
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/js/colorbox/css/colorbox.css?v=4052">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/widgets.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/default/css/subscribepopup/subscribepopup.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/default/css/subscribepopup/jquery.fancybox.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/base/default/css/temando/autocomplete.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/base/default/css/temando/datepicker.css?v=4052" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/print.css?v=4052" media="print">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/common.css?v=4052" common="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/multizoom.css?v=4052" external="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/homeslider.css?v=4052" external="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/jquery-ui-1.10.1.custom.min.css?v=4052" external="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/content.css?v=4052" content1="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/content2.css?v=4052" content2="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/account.css?v=4052" account_catalog="">
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/catalog.css?v=4052" account_catalog="">
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/jquery-1.7.2.min.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/locator.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/postcode.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/addToCart.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/prototype/prototype.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/lib/ccard.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/prototype/validation.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/scriptaculous/builder.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/scriptaculous/effects.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/scriptaculous/dragdrop.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/scriptaculous/controls.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/scriptaculous/slider.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/varien/js.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/varien/form.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/varien/menu.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/mage/translate.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/mage/cookies.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/email/validation.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/temando/autocomplete.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/temando/avs.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/temando/datepicker.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/colorbox/jquery.colorbox.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.easing.1.3.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/multizoom.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery-ui-1.10.1.custom.min.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/common.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.cycle.all.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/jquery.nicescroll.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/scripts.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/enterprise/catalogevent.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/enterprise/wishlist.js?v=4052"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles-ie.css?v=3229" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles-ie.css?v=4052" media="all" />
 <![endif]-->
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles-ie-ns.css?v=3229" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/css/styles-ie-ns.css?v=4052" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://media3.dicksmith.co.nz/js/lib/ds-sleight.js?v=3229"></script>
-<script type="text/javascript" src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/js/iehover-fix.js?v=3229"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/js/lib/ds-sleight.js?v=4052"></script>
+<script type="text/javascript" src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/js/iehover-fix.js?v=4052"></script>
 <![endif]-->
-
+<script src="//assets.adobedtm.com/7127916e73ac9d102aec7537f570ab4da0ce063c/satelliteLib-63b0e315a7835b20e77265b3dbf7dda4ab214f88.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
@@ -89,7 +91,11 @@ Mage.Cookies.domain   = '.dicksmith.co.nz';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-
+<script type="text/javascript">
+//<![CDATA[
+	var popupCookieExpireAfter = 1;
+//]]>
+</script>
 <script type="text/javascript">
 var slibaseurlsearch = 'http://search.dicksmith.co.nz/search';
 var slibaseurl = 'search.dicksmith.co.nz';
@@ -100,7 +106,7 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + slibaseurl + '/rac/sli-rac.css" /%3E'));
 </script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.1.4.css"><link rel="stylesheet" type="text/css" href="https://search.dicksmith.co.nz/rac/sli-rac.css"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><meta name="google-site-verification" content="RYTa4GjqkkmOwGJsvA2tcHdLXLH3XRSga7aalmHThMw"><!-- Start Visual Website Optimizer Asynchronous Code -->
+        //]]></script><meta name="google-site-verification" content="h9qZ9-tDhi8tri4i6ttB9-rtOa6enfztDBpurC_0vjI"><!-- Start Visual Website Optimizer Asynchronous Code -->
 <!--<script type='text/javascript'>
     var _vwo_code=(function(){
         var account_id=33339,
@@ -113,24 +119,31 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 <!-- End Visual Website Optimizer Asynchronous Code -->
 </head>
 <body class=" cms-page-view cms-privacy-policy">
+<!--{CACHE_SEO_d55e39109a24fe4a9abcd7003be0a260}--><script>
+dataLayer1 = [{
+'visitorStatus' : 'guest',
+'device' : 'd'
+}];
+</script><!--/{CACHE_SEO_d55e39109a24fe4a9abcd7003be0a260}--><span id="tagmgr"><script>
+dataLayer2 = [{
+'pageName' : 'Privacy policy',
+'pageType' : 'cms page'
+}];
+        if (typeof dataLayer != 'undefined'){
+            dataLayer = dataLayer1.concat(dataLayer2,dataLayer);
+        }
+        else{
+            dataLayer = dataLayer1.concat(dataLayer2);
+        }
+        
+</script></span>
+<!-- BEGIN GOOGLE TAG MANAGER CODE  -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6RMR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6RMR"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-6RMR');</script>
-    <!-- End Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-9NJ4');</script>
-<!-- End Google Tag Manager -->
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-6RMR');</script>
+<!-- END GOOGLE TAG MANAGER CODE --><!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
     var _gaq = _gaq || [];
@@ -164,12 +177,12 @@ _gaq.push(['_trackPageview']);
     <div class="header-panel">
     		<div class="memberArea">
                 <div class="switches"></div>
-                <p class="welcome-msg"><!--{WELCOME_19c8a23423151aed229eec6ec41de314}-->Welcome Guest<!--/{WELCOME_19c8a23423151aed229eec6ec41de314}--></p>
-                <!--{ACCLINKS_cfe00579e092939fc23f6983fece36c8}--><ul class="links">
+                <p class="welcome-msg"><!--{WELCOME_8c76a7ace987f87cc5c2ec6a9b080cba}-->Welcome Guest<!--/{WELCOME_8c76a7ace987f87cc5c2ec6a9b080cba}--></p>
+                <!--{ACCLINKS_a308452ac037a389ccac4adbb01a6aec}--><ul class="links">
                         <li class="first"><a href="https://www.dicksmith.co.nz/customer/account/login/" title="Login">Login</a></li>
                                 <li class=" last"><a href="https://www.dicksmith.co.nz/customer/account/create/" title="Register">Register</a></li>
             </ul>
-<!--/{ACCLINKS_cfe00579e092939fc23f6983fece36c8}-->            </div>
+<!--/{ACCLINKS_a308452ac037a389ccac4adbb01a6aec}-->            </div>
             <div class="quickLinkContainer">
     <ul> 
         <li class="first "><a title="Home" href="http://www.dicksmith.co.nz/">Home</a></li>
@@ -187,7 +200,7 @@ _gaq.push(['_trackPageview']);
     </div>
     <div class="header">
         <div class="branding">
-                    <a href="http://www.dicksmith.co.nz/" title="DickSmith" class="logo"><strong>DickSmith</strong><img src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/images/dse-logo_nz.gif?v=3229" alt="DickSmith"></a>
+                    <a href="http://www.dicksmith.co.nz/" title="DickSmith" class="logo"><strong>DickSmith</strong><img src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/images/dse-logo_nz.gif?v=4052" alt="DickSmith"></a>
                                 </div>
 		<div id="searchContainer"> 
 		    <form name="searchform" action="http://search.dicksmith.co.nz/search" method="get" id="SliSearchProductForm" onsubmit="ajaxsearchsubmit(this);return false;">
@@ -220,7 +233,7 @@ _gaq.push(['_trackPageview']);
     </script>
         </div>
         <div id="cart-box">
-        <!--{CART_SIDEBAR_a245564cb945d894bf94c13a35793107}--><div class="top-cart">
+        <!--{CART_SIDEBAR_6beb96621f28f8de388eb2d039ceb900}--><div class="top-cart">
                     <div class="block-title no-items">
             <div class="cart-items">
                 0                <span class="cartItems">Items</span>                <span class="price">$0</span>                <ul class="links">
@@ -250,7 +263,7 @@ _gaq.push(['_trackPageview']);
     </div>
 
  
-<!--/{CART_SIDEBAR_a245564cb945d894bf94c13a35793107}-->                        
+<!--/{CART_SIDEBAR_6beb96621f28f8de388eb2d039ceb900}-->                        
         </div>
 <!--        <div class="quick-access">
 		
@@ -267,16 +280,16 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-1-1 first parent"><a href="http://www.dicksmith.co.nz/tv-video/antennas"><span>Antennas</span></a></li><li id="item2" class="level1 nav-1-2 parent"><a href="http://www.dicksmith.co.nz/tv-video/blu-ray-dvd-players"><span>Blu-ray &amp; DVD Players</span></a></li><li id="item3" class="level1 nav-1-3"><a href="http://www.dicksmith.co.nz/tv-video/lcd-tv"><span>LCD TV</span></a></li><li id="item4" class="level1 nav-1-4"><a href="http://www.dicksmith.co.nz/tv-video/led-tv"><span>LED TV</span></a></li><li id="item5" class="level1 nav-1-5"><a href="http://www.dicksmith.co.nz/tv-video/personal-video-recorders"><span>Personal Video Recorders</span></a></li><li id="item6" class="level1 nav-1-6"><a href="http://www.dicksmith.co.nz/tv-video/plasma-tv"><span>Plasma TV</span></a></li><li id="item7" class="level1 nav-1-7"><a href="http://www.dicksmith.co.nz/tv-video/projectors"><span>Projectors</span></a></li><li id="item8" class="level1 nav-1-8"><a href="http://www.dicksmith.co.nz/tv-video/set-top-boxes-freeview"><span>Set Top Boxes (Freeview)</span></a></li><li id="item9" class="level1 nav-1-9 parent"><a href="http://www.dicksmith.co.nz/tv-video/tv-video-accessories"><span>TV &amp; Video Accessories</span></a></li><li id="item10" class="level1 nav-1-10 parent"><a href="http://www.dicksmith.co.nz/tv-video/tv-video-cables"><span>TV &amp; Video Cables</span></a></li><li id="item11" class="level1 nav-1-11 last"><a href="http://www.dicksmith.co.nz/tv-video/3d-tv"><span>3D TV</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/tv-video?price=100-200">$100 - $200 (18)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=300-400">$300 - $400 (8)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=400-500">$400 - $500 (8)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=500-1000">$500 - $1,000 (13)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=1000-">$1,000 or more (15)</a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/tv-video?brand=20">Apple (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=25">Belkin (7)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=35">Dick Smith (160)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=38">Digitor (2)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=39">Dish TV (4)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=66">Hot Wheels (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=1313">JVC (4)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=79">Kingray (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=1446">Konka (4)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=88">Magna Digital (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=90">Matchmaster (3)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=103">Panasonic (13)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=106">Philips (11)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=112">PX (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=116">Samsung (21)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-1-1 first parent"><a href="http://www.dicksmith.co.nz/tv-video/blu-ray-dvd-players"><span>Blu-ray &amp; DVD Players</span></a></li><li id="item2" class="level1 nav-1-2"><a href="http://www.dicksmith.co.nz/tv-video/lcd-tv"><span>LCD TV</span></a></li><li id="item3" class="level1 nav-1-3"><a href="http://www.dicksmith.co.nz/tv-video/led-tv"><span>LED TV</span></a></li><li id="item4" class="level1 nav-1-4"><a href="http://www.dicksmith.co.nz/tv-video/3d-tv"><span>3D TV</span></a></li><li id="item5" class="level1 nav-1-5"><a href="http://www.dicksmith.co.nz/tv-video/personal-video-recorders"><span>Personal Video Recorders</span></a></li><li id="item6" class="level1 nav-1-6"><a href="http://www.dicksmith.co.nz/tv-video/set-top-boxes-freeview"><span>Set Top Boxes (Freeview)</span></a></li><li id="item7" class="level1 nav-1-7 parent"><a href="http://www.dicksmith.co.nz/tv-video/antennas"><span>Antennas</span></a></li><li id="item8" class="level1 nav-1-8 parent"><a href="http://www.dicksmith.co.nz/tv-video/tv-video-accessories"><span>TV &amp; Video Accessories</span></a></li><li id="item9" class="level1 nav-1-9 last parent"><a href="http://www.dicksmith.co.nz/tv-video/tv-video-cables"><span>TV &amp; Video Cables</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/tv-video?price=100-200">$100 - $200 (18)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=200-300">$200 - $300 (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=300-400">$300 - $400 (6)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=400-500">$400 - $500 (2)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=500-1000">$500 - $1,000 (29)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/tv-video?brand=20">Apple (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=25">Belkin (6)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=35">Dick Smith (158)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=38">Digitor (2)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=39">Dish TV (4)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=2930">Distinct (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=66">Hot Wheels (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=1313">JVC (4)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=79">Kingray (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=1446">Konka (3)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=90">Matchmaster (3)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=103">Panasonic (12)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=106">Philips (11)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=112">PX (1)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=116">Samsung (17)</a></li><li><a href="http://www.dicksmith.co.nz/tv-video?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Dick Smith" href="http://www.dicksmith.co.nz/brand/dick-smith-electronics/tv-video?icn=_bau&amp;icc=tv_category_meganav_dicksmith"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/dicksmith-logo.jpg" alt="Dick Smith"></a></li>
-<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/tv-video?icn=_bau&amp;icc=tv_category_meganav_samsung"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/tv-video?icn=_bau&amp;icc=tv_category_meganav_sony"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/tv-video?icn=_bau&amp;icc=tv_category_meganav_panasonic"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt="Panasonic"></a></li>
-                         <li style="border:0px"><a class="flt-l" title="Philips" href="/brand/philips/tv-video?icn=_bau&amp;icc=tv_category_meganav_philips"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Philips_v3.png" alt="Philips"></a></li>
-<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/tv-video?icn=_bau&amp;icc=tv_category_meganav_belkin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Dick Smith" href="http://www.dicksmith.co.nz/brand/dick-smith-electronics/tv-video?icn=_bau&amp;icc=tv_category_meganav_dicksmith"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/dicksmith-logo.jpg" alt="Dick Smith"></a></li>
+<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/tv-video?icn=_bau&amp;icc=tv_category_meganav_samsung"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/tv-video?icn=_bau&amp;icc=tv_category_meganav_sony"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/tv-video?icn=_bau&amp;icc=tv_category_meganav_panasonic"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt="Panasonic"></a></li>
+                         <li style="border:0px"><a class="flt-l" title="Philips" href="/brand/philips/tv-video?icn=_bau&amp;icc=tv_category_meganav_philips"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Philips_v3.png" alt="Philips"></a></li>
+<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/tv-video?icn=_bau&amp;icc=tv_category_meganav_belkin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
 </ul>
          </div>
 </div>
@@ -304,18 +317,26 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-2-1 first"><a href="http://www.dicksmith.co.nz/audio-mp3/ipod-docks"><span>iPod Docks</span></a></li><li id="item2" class="level1 nav-2-2 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/accessories-cables"><span>Accessories &amp; Cables</span></a></li><li id="item3" class="level1 nav-2-3 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/apple-ipod"><span>Apple iPod</span></a></li><li id="item4" class="level1 nav-2-4"><a href="http://www.dicksmith.co.nz/audio-mp3/apple-itunes"><span>Apple iTunes</span></a></li><li id="item5" class="level1 nav-2-5 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/audio-systems"><span>Audio Systems</span></a></li><li id="item6" class="level1 nav-2-6"><a href="http://www.dicksmith.co.nz/audio-mp3/earphones"><span>Earphones</span></a></li><li id="item7" class="level1 nav-2-7"><a href="http://www.dicksmith.co.nz/audio-mp3/headphones"><span>Headphones</span></a></li><li id="item8" class="level1 nav-2-8"><a href="http://www.dicksmith.co.nz/audio-mp3/mp3-players"><span>MP3 Players</span></a></li><li id="item9" class="level1 nav-2-9 last parent"><a href="http://www.dicksmith.co.nz/audio-mp3/portable-audio"><span>Portable Audio</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=100-200">$100 - $200 (33)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=200-300">$200 - $300 (28)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=300-400">$300 - $400 (10)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=400-500">$400 - $500 (10)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=500-1000">$500 - $1,000 (5)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1274">airbeatz portable speakers (5)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=20">Apple (26)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=24">Beats by Dre (4)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=25">Belkin (36)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1388">Bose (26)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=35">Dick Smith (66)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=62">Griffin (3)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1667">ISOUND (1)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=77">Kensington (4)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=83">Logitech (24)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=92">MOSHI (19)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=103">Panasonic (26)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=106">Philips (38)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=113">QV Software (5)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1693">RAR (3)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-2-1 first"><a href="http://www.dicksmith.co.nz/audio-mp3/ipod-docks"><span>iPod Docks</span></a></li><li id="item2" class="level1 nav-2-2 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/accessories-cables"><span>Accessories &amp; Cables</span></a></li><li id="item3" class="level1 nav-2-3 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/apple-ipod"><span>Apple iPod</span></a></li><li id="item4" class="level1 nav-2-4"><a href="http://www.dicksmith.co.nz/audio-mp3/apple-itunes"><span>Apple iTunes</span></a></li><li id="item5" class="level1 nav-2-5 parent"><a href="http://www.dicksmith.co.nz/audio-mp3/audio-systems"><span>Audio Systems</span></a></li><li id="item6" class="level1 nav-2-6"><a href="http://www.dicksmith.co.nz/audio-mp3/earphones"><span>Earphones</span></a></li><li id="item7" class="level1 nav-2-7"><a href="http://www.dicksmith.co.nz/audio-mp3/headphones"><span>Headphones</span></a></li><li id="item8" class="level1 nav-2-8"><a href="http://www.dicksmith.co.nz/audio-mp3/mp3-players"><span>MP3 Players</span></a></li><li id="item9" class="level1 nav-2-9 last parent"><a href="http://www.dicksmith.co.nz/audio-mp3/portable-audio"><span>Portable Audio</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=100-200">$100 - $200 (39)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=200-300">$200 - $300 (35)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=300-400">$300 - $400 (16)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=400-500">$400 - $500 (13)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=500-1000">$500 - $1,000 (4)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1274">airbeatz portable speakers (5)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=20">Apple (32)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=24">Beats by Dre (12)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=25">Belkin (34)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1388">Bose (33)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=35">Dick Smith (74)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=62">Griffin (1)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1793">Hahnel (1)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=2198">iLuv (3)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=75">Jabra (1)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=77">Kensington (4)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=1446">Konka (1)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=83">Logitech (27)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=92">MOSHI (27)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=103">Panasonic (37)</a></li><li><a href="http://www.dicksmith.co.nz/audio-mp3?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Logitech" href="/brand/logitech/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_logitech"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/logtitech.png" alt="Logitech"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_belkin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Sennheiser" href="/brand/sennheiser/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_sennheiser"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/sennheiser.png" alt="Sennheiser"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_panasonic"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt=""></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Philips" href="/brand/philips/audio-mp3?icn=_bau&amp;icc=tv_category_meganav_philips"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Philips_v3.png" alt="Philips"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Skullcandy" href="http://www.dicksmith.co.nz/skullcandy?icn=_bau&amp;icc=audio_category_meganav_skullcandy"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/scandy.png" alt="Skullcandy"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_sony"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Moshi" href="/brand/moshi/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_moshi"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/MOSHI.png" alt="Moshi"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Logitech" href="/brand/logitech/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_logitech"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/logtitech.png" alt="Logitech"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_belkin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Sennheiser" href="/brand/sennheiser/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_sennheiser"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/sennheiser.png" alt="Sennheiser"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Beats by Dre" href="/beats-by-dre?icn=_bau&amp;icc=audio_category_meganav_beatsbydre"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Beats-by-Dre.png" alt="Beat by Dre"></a></li>
+                       <li style="border:0px"><a class="flt-l" title="Bose" href="audio-mp3?brand=1388"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/BoseV2.png" alt="Bose"></a></li>
+
+
+
+                        <li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_panasonic"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt=""></a></li>
+                        <li style="border:0px"><a class="flt-l" title="Philips" href="/brand/philips/audio-mp3?icn=_bau&amp;icc=tv_category_meganav_philips"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Philips_v3.png" alt="Philips"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Skullcandy" href="http://www.dicksmith.co.nz/skullcandy?icn=_bau&amp;icc=audio_category_meganav_skullcandy"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/scandy.png" alt="Skullcandy"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/audio-mp3?icn=_bau&amp;icc=audio_category_meganav_sony"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
+<!--                  <li style="border:0px"><a class="flt-l" title="Moshi" href="/brand/moshi/audio-mp3?icn=_bau&icc=audio_category_meganav_moshi"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/MOSHI.png" alt="Moshi" /></a></li>-->
+
+
+
 		</ul>
 	</div>
 </div> 
@@ -344,15 +365,15 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-3-1 first"><a href="http://www.dicksmith.co.nz/photography/bags-cases"><span>Bags &amp; Cases</span></a></li><li id="item2" class="level1 nav-3-2"><a href="http://www.dicksmith.co.nz/photography/batteries-chargers"><span>Batteries &amp; Chargers</span></a></li><li id="item3" class="level1 nav-3-3"><a href="http://www.dicksmith.co.nz/photography/cables"><span>Cables</span></a></li><li id="item4" class="level1 nav-3-4"><a href="http://www.dicksmith.co.nz/photography/camcorders"><span>Camcorders</span></a></li><li id="item5" class="level1 nav-3-5"><a href="http://www.dicksmith.co.nz/photography/digital-slrs"><span>Digital SLRs</span></a></li><li id="item6" class="level1 nav-3-6"><a href="http://www.dicksmith.co.nz/photography/lenses-filters-flashes"><span>Lenses, Filters &amp; Flashes</span></a></li><li id="item7" class="level1 nav-3-7"><a href="http://www.dicksmith.co.nz/photography/memory-cards"><span>Memory Cards</span></a></li><li id="item8" class="level1 nav-3-8 parent"><a href="http://www.dicksmith.co.nz/photography/photo-frames"><span>Photo Frames</span></a></li><li id="item9" class="level1 nav-3-9"><a href="http://www.dicksmith.co.nz/photography/point-shoot"><span>Point &amp; Shoot</span></a></li><li id="item10" class="level1 nav-3-10 last"><a href="http://www.dicksmith.co.nz/photography/tripods"><span>Tripods</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/photography?price=100-200">$100 - $200 (13)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=200-300">$200 - $300 (4)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=300-400">$300 - $400 (7)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=400-500">$400 - $500 (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=500-1000">$500 - $1,000 (17)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/photography?brand=14">Acme Made (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=2235">action cam (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=30">Canon (19)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=35">Dick Smith (48)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=47">Eneloop (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1504">First In (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1369">Go Pro (16)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=85">Lowepro (15)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=97">Nikon (7)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=103">Panasonic (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=116">Samsung (9)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=117">Sandisk (13)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=132">Tandy (5)</a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-3-1 first"><a href="http://www.dicksmith.co.nz/photography/bags-cases"><span>Bags &amp; Cases</span></a></li><li id="item2" class="level1 nav-3-2"><a href="http://www.dicksmith.co.nz/photography/batteries-chargers"><span>Batteries &amp; Chargers</span></a></li><li id="item3" class="level1 nav-3-3"><a href="http://www.dicksmith.co.nz/photography/cables"><span>Cables</span></a></li><li id="item4" class="level1 nav-3-4"><a href="http://www.dicksmith.co.nz/photography/camcorders"><span>Camcorders</span></a></li><li id="item5" class="level1 nav-3-5"><a href="http://www.dicksmith.co.nz/photography/digital-slrs"><span>Digital SLRs</span></a></li><li id="item6" class="level1 nav-3-6"><a href="http://www.dicksmith.co.nz/photography/lenses-filters-flashes"><span>Lenses, Filters &amp; Flashes</span></a></li><li id="item7" class="level1 nav-3-7"><a href="http://www.dicksmith.co.nz/photography/memory-cards"><span>Memory Cards</span></a></li><li id="item8" class="level1 nav-3-8 parent"><a href="http://www.dicksmith.co.nz/photography/photo-frames"><span>Photo Frames</span></a></li><li id="item9" class="level1 nav-3-9"><a href="http://www.dicksmith.co.nz/photography/point-shoot"><span>Point &amp; Shoot</span></a></li><li id="item10" class="level1 nav-3-10 last"><a href="http://www.dicksmith.co.nz/photography/tripods"><span>Tripods</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/photography?price=100-200">$100 - $200 (15)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=200-300">$200 - $300 (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=300-400">$300 - $400 (7)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=400-500">$400 - $500 (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=500-1000">$500 - $1,000 (5)</a></li><li><a href="http://www.dicksmith.co.nz/photography?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/photography?brand=14">Acme Made (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=2235">action cam (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=30">Canon (10)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=35">Dick Smith (55)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1504">First In (2)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1369">Go Pro (21)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1793">Hahnel (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=85">Lowepro (13)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=97">Nikon (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=103">Panasonic (3)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=116">Samsung (8)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=117">Sandisk (13)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=126">Sony (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=1651">SP (1)</a></li><li><a href="http://www.dicksmith.co.nz/photography?brand=132">Tandy (4)</a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Nikon" href="/brand/nikon/photography?icn=_bau&amp;icc=photography_category_meganav_nikon"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Nikon_V2.png" alt="Nikon"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Canon" href="/brand/canon/photography?icn=_bau&amp;icc=photography_category_meganav_canon"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/canon_2.png" alt="Canon"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/photography?icn=_bau&amp;icc=photography_category_meganav_sony"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="GoPro" href="/gopro?icn=_bau&amp;icc=photography_category_meganav_gopro"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/GoPro.png" alt="Go Pro"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/photography?icn=_bau&amp;icc=photography_category_meganav_samsung"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Nikon" href="/brand/nikon/photography?icn=_bau&amp;icc=photography_category_meganav_nikon"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Nikon_V2.png" alt="Nikon"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Canon" href="/brand/canon/photography?icn=_bau&amp;icc=photography_category_meganav_canon"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/canon_2.png" alt="Canon"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Sony" href="/brand/sony/photography?icn=_bau&amp;icc=photography_category_meganav_sony"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/song.png" alt="Sony"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="GoPro" href="/gopro?icn=_bau&amp;icc=photography_category_meganav_gopro"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/GoPro.png" alt="Go Pro"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/photography?icn=_bau&amp;icc=photography_category_meganav_samsung"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
 
 		</ul>
 	</div>
@@ -377,25 +398,27 @@ _gaq.push(['_trackPageview']);
                                     <div class="col3"></div>
                                 </div>
                             </div>
-                        </div></div></li><li id="item4" class="level0 nav-4 level-top parent"><a href="http://www.dicksmith.co.nz/computers" class="level-top"><span>Computers &amp; Tablets</span></a><div class="level0">
+                        </div></div></li><li id="item4" class="level0 nav-4 level-top parent"><a href="http://www.dicksmith.co.nz/computers-tablets" class="level-top"><span>Computers &amp; Tablets</span></a><div class="level0">
                     <div class="nav-wrapper">
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-4-1 first"><a href="http://www.dicksmith.co.nz/computers/ereaders"><span>eReaders</span></a></li><li id="item2" class="level1 nav-4-2 parent"><a href="http://www.dicksmith.co.nz/computers/accessories"><span>Accessories</span></a></li><li id="item3" class="level1 nav-4-3 parent"><a href="http://www.dicksmith.co.nz/computers/apple-ipad"><span>Apple iPad</span></a></li><li id="item4" class="level1 nav-4-4 parent"><a href="http://www.dicksmith.co.nz/computers/apple-computers"><span>Apple Computers</span></a></li><li id="item5" class="level1 nav-4-5 parent"><a href="http://www.dicksmith.co.nz/computers/drives-storage"><span>Drives &amp; Storage</span></a></li><li id="item6" class="level1 nav-4-6"><a href="http://www.dicksmith.co.nz/computers/laptops-notebooks"><span>Laptops &amp; Notebooks</span></a></li><li id="item7" class="level1 nav-4-7"><a href="http://www.dicksmith.co.nz/computers/monitors"><span>Monitors</span></a></li><li id="item8" class="level1 nav-4-8 parent"><a href="http://www.dicksmith.co.nz/computers/software"><span>Software</span></a></li><li id="item9" class="level1 nav-4-9 last"><a href="http://www.dicksmith.co.nz/computers/tablets"><span>Tablets</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/computers?price=100-200">$100 - $200 (51)</a></li><li><a href="http://www.dicksmith.co.nz/computers?price=200-300">$200 - $300 (14)</a></li><li><a href="http://www.dicksmith.co.nz/computers?price=300-400">$300 - $400 (9)</a></li><li><a href="http://www.dicksmith.co.nz/computers?price=400-500">$400 - $500 (5)</a></li><li><a href="http://www.dicksmith.co.nz/computers?price=500-1000">$500 - $1,000 (18)</a></li><li><a href="http://www.dicksmith.co.nz/computers?price=1000-">$1,000 or more (20)</a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/computers?brand=13">Acer (9)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=18">Amazon Kindle (5)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=20">Apple (66)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=22">Asus (6)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=25">Belkin (106)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=1388">Bose (2)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=31">Caselogic (4)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=35">Dick Smith (101)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=46">EMTEC Media (2)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=52">EVERKI (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=62">Griffin (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=64">Hewlett Packard (4)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=72">Incipio (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=77">Kensington (17)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=82">LifeProof (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-4-1 first"><a href="http://www.dicksmith.co.nz/computers-tablets/ereaders"><span>eReaders</span></a></li><li id="item2" class="level1 nav-4-2 parent"><a href="http://www.dicksmith.co.nz/computers-tablets/accessories"><span>Accessories</span></a></li><li id="item3" class="level1 nav-4-3"><a href="http://www.dicksmith.co.nz/computers-tablets/all-in-one-pcs"><span>All-in-One PCs</span></a></li><li id="item4" class="level1 nav-4-4 parent"><a href="http://www.dicksmith.co.nz/computers-tablets/apple-ipad"><span>Apple iPad</span></a></li><li id="item5" class="level1 nav-4-5 parent"><a href="http://www.dicksmith.co.nz/computers-tablets/apple-computers"><span>Apple Computers</span></a></li><li id="item6" class="level1 nav-4-6 parent"><a href="http://www.dicksmith.co.nz/computers-tablets/drives-storage"><span>Drives &amp; Storage</span></a></li><li id="item7" class="level1 nav-4-7"><a href="http://www.dicksmith.co.nz/computers-tablets/laptops-notebooks"><span>Laptops &amp; Notebooks</span></a></li><li id="item8" class="level1 nav-4-8"><a href="http://www.dicksmith.co.nz/computers-tablets/monitors"><span>Monitors</span></a></li><li id="item9" class="level1 nav-4-9 parent"><a href="http://www.dicksmith.co.nz/computers-tablets/software"><span>Software</span></a></li><li id="item10" class="level1 nav-4-10 last"><a href="http://www.dicksmith.co.nz/computers-tablets/tablets"><span>Tablets</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/computers-tablets?price=100-200">$100 - $200 (64)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?price=200-300">$200 - $300 (15)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?price=300-400">$300 - $400 (11)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?price=400-500">$400 - $500 (11)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?price=500-1000">$500 - $1,000 (85)</a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=13">Acer (7)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=18">Amazon Kindle (9)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=20">Apple (97)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=22">Asus (4)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=25">Belkin (100)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=31">Caselogic (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=35">Dick Smith (107)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=46">EMTEC Media (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=48">Energizer (1)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=52">EVERKI (1)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=62">Griffin (1)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=64">Hewlett Packard (20)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=72">Incipio (2)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=77">Kensington (18)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=82">LifeProof (3)</a></li><li><a href="http://www.dicksmith.co.nz/computers-tablets?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-<li style="border:0px"><a class="flt-l" title="Windows" href="meet-windows-devices?icn=_bau&amp;icc=computers_category_meganav_windows&#10;"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Windows_Meganav.gif" alt="Windows">.</a></li>
-			<li style="border:0px"><a class="flt-l" title="Office" href="/microsoft-office-2013?icn=_bau&amp;icc=computers_category_meganav_office"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/office2013-meganav.gif" alt="Office"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Asus" href="/brand/asus/computers?icn=_bau&amp;icc=computers_category_meganav_asus"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Asus_V2.png" alt="Asus"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Acer" href="/brand/acer/computers?icn=_bau&amp;icc=computers_category_meganav_acer"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Acer.png" alt="Acer"></a></li>		
-			<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/computers?icn=_bau&amp;icc=computers_category_meganav_samsung"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Toshiba" href="/brand/toshiba/computers?icn=_bau&amp;icc=computers_category_meganav_toshiba"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Toshiba.png" alt="Toshiba"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Kindle" href="/brand/amazon-kindle/computers?icn=_bau&amp;icc=computers_category_meganav_amazonkindle"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/KINDLE.png" alt="Amazon Kindle"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Seagate" href="/brand/seagate/computers?icn=_bau&amp;icc=computers_category_meganav_seagate"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/SEAGATE.png" alt="Seagate"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/computers?icn=_bau&amp;icc=computers_category_meganav_belkin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
-<li style="border:0px"><a class="flt-l" title="Dick Smith" href="/brand/dick-smith-electronics/computers?icn=_bau&amp;icc=computers_category_meganav_dick-smith-electronics"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/dicksmith-logo.jpg" alt="Dick Smith"></a></li>
+<li style="border:0px"><a class="flt-l" title="Windows" href="meet-windows-devices?icn=_bau&amp;icc=computers_category_meganav_windows&#10;"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Windows_Meganav.gif" alt="Windows">.</a></li>
+			<li style="border:0px"><a class="flt-l" title="Office" href="/microsoft-office-2013?icn=_bau&amp;icc=computers_category_meganav_office"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/office2013-meganav.gif" alt="Office"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Asus" href="/brand/asus/computers?icn=_bau&amp;icc=computers_category_meganav_asus"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Asus_V2.png" alt="Asus"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Acer" href="/brand/acer/computers?icn=_bau&amp;icc=computers_category_meganav_acer"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Acer.png" alt="Acer"></a></li>		
+			<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/computers?icn=_bau&amp;icc=computers_category_meganav_samsung"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Toshiba" href="/brand/toshiba/computers?icn=_bau&amp;icc=computers_category_meganav_toshiba"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Toshiba.png" alt="Toshiba"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Kindle" href="/brand/amazon-kindle/computers?icn=_bau&amp;icc=computers_category_meganav_amazonkindle"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/KINDLE.png" alt="Amazon Kindle"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Seagate" href="/brand/seagate/computers?icn=_bau&amp;icc=computers_category_meganav_seagate"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/SEAGATE.png" alt="Seagate"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/computers?icn=_bau&amp;icc=computers_category_meganav_belkin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
+<li style="border:0px"><a class="flt-l" title="Dick Smith" href="/brand/dick-smith-electronics/computers?icn=_bau&amp;icc=computers_category_meganav_dick-smith-electronics"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/dicksmith-logo.jpg" alt="Dick Smith"></a></li>
+<li style="border:0px"><a class="flt-l" title="D-link" href="/d-link">
+			<img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Meganav_D-Link.png" alt="D-Link"></a></li>
 
 		</ul>
 	</div>
@@ -425,16 +448,16 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-5-1 first parent"><a href="http://www.dicksmith.co.nz/printers-office/adaptors-power-supplies"><span>Adaptors Power Supplies</span></a></li><li id="item2" class="level1 nav-5-2 parent"><a href="http://www.dicksmith.co.nz/printers-office/batteries"><span>Batteries</span></a></li><li id="item3" class="level1 nav-5-3 parent"><a href="http://www.dicksmith.co.nz/printers-office/ink-toner-paper"><span>Ink, Toner &amp; Paper</span></a></li><li id="item4" class="level1 nav-5-4"><a href="http://www.dicksmith.co.nz/printers-office/laser-printers"><span>Laser Printers</span></a></li><li id="item5" class="level1 nav-5-5"><a href="http://www.dicksmith.co.nz/printers-office/multifunction-scanners"><span>Multifunction Printers</span></a></li><li id="item6" class="level1 nav-5-6 parent"><a href="http://www.dicksmith.co.nz/printers-office/office-accessories"><span>Office Accessories</span></a></li><li id="item7" class="level1 nav-5-7 last parent"><a href="http://www.dicksmith.co.nz/printers-office/telephones-accessories"><span>Telephones &amp; Accessories</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/printers-office?price=100-200">$100 - $200 (47)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?price=200-300">$200 - $300 (10)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?price=300-400">$300 - $400 (7)</a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/printers-office?brand=21">Arlec (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=25">Belkin (5)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=28">Brother (58)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=30">Canon (71)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=35">Dick Smith (76)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=38">Digitor (6)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=45">Elto (5)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=48">Energizer (22)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=51">Epson (44)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=53">Fellowes (2)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=58">Garmin (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=61">GP (2)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=64">Hewlett Packard (65)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=67">HPM (15)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=71">Imation (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-5-1 first parent"><a href="http://www.dicksmith.co.nz/printers-office/adaptors-power-supplies"><span>Adaptors Power Supplies</span></a></li><li id="item2" class="level1 nav-5-2 parent"><a href="http://www.dicksmith.co.nz/printers-office/batteries"><span>Batteries</span></a></li><li id="item3" class="level1 nav-5-3 parent"><a href="http://www.dicksmith.co.nz/printers-office/ink-toner-paper"><span>Ink, Toner &amp; Paper</span></a></li><li id="item4" class="level1 nav-5-4"><a href="http://www.dicksmith.co.nz/printers-office/laser-printers"><span>Laser Printers</span></a></li><li id="item5" class="level1 nav-5-5"><a href="http://www.dicksmith.co.nz/printers-office/multifunction-scanners"><span>Multifunction Printers</span></a></li><li id="item6" class="level1 nav-5-6 parent"><a href="http://www.dicksmith.co.nz/printers-office/office-accessories"><span>Office Accessories</span></a></li><li id="item7" class="level1 nav-5-7 last parent"><a href="http://www.dicksmith.co.nz/printers-office/telephones-accessories"><span>Telephones &amp; Accessories</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/printers-office?price=100-200">$100 - $200 (37)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?price=200-300">$200 - $300 (8)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?price=300-400">$300 - $400 (3)</a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/printers-office?brand=21">Arlec (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=25">Belkin (3)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=28">Brother (79)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=1467">Calidad (15)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=1761">Camelion (2)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=30">Canon (71)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=35">Dick Smith (92)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=38">Digitor (7)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=45">Elto (6)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=47">Eneloop (10)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=48">Energizer (36)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=51">Epson (45)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=53">Fellowes (2)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=58">Garmin (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=61">GP (1)</a></li><li><a href="http://www.dicksmith.co.nz/printers-office?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-<li style="border:0px"><a class="flt-l" title="Epson" href="/brand/epson/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_epson"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/EPSON-4.png" alt=""></a></li>
-			<li style="border:0px"><a class="flt-l" title="Canon" href="/brand/canon/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_canon"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/canon_2.png" alt=""></a></li>	
-			<li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_panasonic"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt=""></a></li>
-			<li style="border:0px"><a class="flt-l" title="Uniden" href="/brand/uniden/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_uniden"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/uniden_3.png" alt=""></a></li>
-	                <li style="border:0px"><a class="flt-l" title="Brother" href="/brand/brother/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_brother"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/BROTHER-2.png" alt=""></a></li>
-	                <li style="border:0px"><a class="flt-l" title="HP" href="/brand/hewlett-packard/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_hp"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/hp.png" alt=""></a></li>
+<li style="border:0px"><a class="flt-l" title="Epson" href="/brand/epson/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_epson"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/EPSON-4.png" alt=""></a></li>
+			<li style="border:0px"><a class="flt-l" title="Canon" href="/brand/canon/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_canon"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/canon_2.png" alt=""></a></li>	
+			<li style="border:0px"><a class="flt-l" title="Panasonic" href="/brand/panasonic/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_panasonic"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/panasonic.png" alt=""></a></li>
+			<li style="border:0px"><a class="flt-l" title="Uniden" href="/brand/uniden/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_uniden"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/uniden_3.png" alt=""></a></li>
+	                <li style="border:0px"><a class="flt-l" title="Brother" href="/brand/brother/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_brother"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/BROTHER-2.png" alt=""></a></li>
+	                <li style="border:0px"><a class="flt-l" title="HP" href="/brand/hewlett-packard/printers-office?icn=_bau&amp;icc=printersoffice_category_meganav_hp"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/hp.png" alt=""></a></li>
 
 		</ul>
 	</div>
@@ -464,18 +487,19 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-6-1 first"><a href="http://www.dicksmith.co.nz/mobiles-wireless/iphone"><span>iPhone</span></a></li><li id="item2" class="level1 nav-6-2"><a href="http://www.dicksmith.co.nz/mobiles-wireless/apple-iphone-accessories"><span>Apple iPhone Accessories</span></a></li><li id="item3" class="level1 nav-6-3 parent"><a href="http://www.dicksmith.co.nz/mobiles-wireless/mobile-phone-accessories"><span>Mobile Phone Accessories</span></a></li><li id="item4" class="level1 nav-6-4"><a href="http://www.dicksmith.co.nz/mobiles-wireless/mobile-phones"><span>Mobile Phones</span></a></li><li id="item5" class="level1 nav-6-5 parent"><a href="http://www.dicksmith.co.nz/mobiles-wireless/networking-wireless"><span>Networking &amp; Wireless</span></a></li><li id="item6" class="level1 nav-6-6"><a href="http://www.dicksmith.co.nz/mobiles-wireless/skinny-mobile"><span>Skinny Mobile</span></a></li><li id="item7" class="level1 nav-6-7"><a href="http://www.dicksmith.co.nz/mobiles-wireless/smart-phones"><span>Smart Phones</span></a></li><li id="item8" class="level1 nav-6-8"><a href="http://www.dicksmith.co.nz/mobiles-wireless/telecom-xt"><span>Telecom XT</span></a></li><li id="item9" class="level1 nav-6-9"><a href="http://www.dicksmith.co.nz/mobiles-wireless/vodafone"><span>Vodafone</span></a></li><li id="item10" class="level1 nav-6-10 last"><a href="http://www.dicksmith.co.nz/mobiles-wireless/2degrees-2g"><span>2degrees</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=100-200">$100 - $200 (23)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=200-300">$200 - $300 (13)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=300-400">$300 - $400 (3)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=400-500">$400 - $500 (4)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=500-1000">$500 - $1,000 (12)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=12">2Degrees Mobile (8)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=2177">ADONIT (2)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1275">Alcatel (6)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=20">Apple (18)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=25">Belkin (44)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1388">Bose (3)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1437">casemate (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=35">Dick Smith (80)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=47">Eneloop (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=48">Energizer (4)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=49">Enspire (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=58">Garmin (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=62">Griffin (4)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=68">HTC (2)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1667">ISOUND (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-6-1 first"><a href="http://www.dicksmith.co.nz/mobiles-wireless/iphone"><span>iPhone</span></a></li><li id="item2" class="level1 nav-6-2"><a href="http://www.dicksmith.co.nz/mobiles-wireless/apple-iphone-accessories"><span>Apple iPhone Accessories</span></a></li><li id="item3" class="level1 nav-6-3 parent"><a href="http://www.dicksmith.co.nz/mobiles-wireless/mobile-phone-accessories"><span>Mobile Phone Accessories</span></a></li><li id="item4" class="level1 nav-6-4"><a href="http://www.dicksmith.co.nz/mobiles-wireless/mobile-phones"><span>Mobile Phones</span></a></li><li id="item5" class="level1 nav-6-5 parent"><a href="http://www.dicksmith.co.nz/mobiles-wireless/networking-wireless"><span>Networking &amp; Wireless</span></a></li><li id="item6" class="level1 nav-6-6"><a href="http://www.dicksmith.co.nz/mobiles-wireless/skinny-mobile"><span>Skinny Mobile</span></a></li><li id="item7" class="level1 nav-6-7"><a href="http://www.dicksmith.co.nz/mobiles-wireless/smart-phones"><span>Smart Phones</span></a></li><li id="item8" class="level1 nav-6-8"><a href="http://www.dicksmith.co.nz/mobiles-wireless/telecom-xt"><span>Spark</span></a></li><li id="item9" class="level1 nav-6-9"><a href="http://www.dicksmith.co.nz/mobiles-wireless/vodafone"><span>Vodafone</span></a></li><li id="item10" class="level1 nav-6-10 last"><a href="http://www.dicksmith.co.nz/mobiles-wireless/2degrees-2g"><span>2degrees</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=100-200">$100 - $200 (30)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=200-300">$200 - $300 (14)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=300-400">$300 - $400 (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=400-500">$400 - $500 (4)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=500-1000">$500 - $1,000 (17)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=12">2Degrees Mobile (10)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=3278">3SIXT (13)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1275">Alcatel (6)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=20">Apple (11)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=25">Belkin (51)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1388">Bose (3)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1437">casemate (8)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1393">Cygnett (7)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=35">Dick Smith (92)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=48">Energizer (4)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=49">Enspire (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1296">Force Technology (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=58">Garmin (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=62">Griffin (2)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=1793">Hahnel (1)</a></li><li><a href="http://www.dicksmith.co.nz/mobiles-wireless?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_samsung"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="HTC" href="http://www.dicksmith.co.nz/htc-one-m8?icn=_bau&amp;icc=mobilewireless_category_meganav_htc"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/htc.png" alt="HTC"></a></li>
-			<!--<li style="border:0px" ><a class="flt-l" title="Nokia" href="/brand/nokia/mobiles-wireless?icn=_bau&icc=mobilewireless_category_meganav_nokia"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/nokia.png" alt="Nokia" /></a></li>-->
-			<li style="border:0px"><a class="flt-l" title="Netgear" href="/brand/netgear/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_netgear"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/netgear_1.png" alt="Netgear"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_belkin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
-                        <li style="border:0px"><a class="flt-l" title="Moshi" href="/brand/moshi/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_moshi"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/MOSHI.png" alt="Moshi"></a></li>
-			<!-- <li style="border:0px" ><a class="flt-l" title="Lifeproof" href="/brand/Lifeproof/mobiles-wireless?icn=_bau&icc=mobilewireless_category_meganav_lifeproof"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/lifeproof.gif" alt="Lifeproof" /></a></li> -->
-			<!-- <li style="border:0px" ><a class="flt-l" title="Charge On The Go" href="/brand/Charge-On-The-Go/mobiles-wireless?icn=_bau&icc=mobilewireless_category_meganav_onthego"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Meganav_Charge_OnTheGo.gif" alt="On the Go" /></a></li> -->
+			<li style="border:0px"><a class="flt-l" title="Samsung" href="/brand/samsung/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_samsung"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/samsung_4.png" alt="Samsung"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="HTC" href="http://www.dicksmith.co.nz/htc-one-m8?icn=_bau&amp;icc=mobilewireless_category_meganav_htc"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/htc.png" alt="HTC"></a></li>
+			<!--<li style="border:0px" ><a class="flt-l" title="Nokia" href="/brand/nokia/mobiles-wireless?icn=_bau&icc=mobilewireless_category_meganav_nokia"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/nokia.png" alt="Nokia" /></a></li>-->
+			<li style="border:0px"><a class="flt-l" title="Netgear" href="/brand/netgear/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_netgear"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/netgear_1.png" alt="Netgear"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_belkin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="Moshi" href="/brand/moshi/mobiles-wireless?icn=_bau&amp;icc=mobilewireless_category_meganav_moshi"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/MOSHI.png" alt="Moshi"></a></li>
+                       <li style="border:0px"><a class="flt-l" title="Skinny Mobile" href="http://www.dicksmith.co.nz/skinny-mobile?icn=wk51_skinnycampaign&amp;icc=mobility_category_herobanner_skinnycampaign"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Skinny_Meganav.png" alt="Skinny Mobile"></a></li>
+                        <li style="border:0px"><a class="flt-l" title="Lifeproof" href="http://www.dicksmith.co.nz/lifeproof?icn=_bau_sis&amp;icc=mobilewireless_category_meganav_lifeproof"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Lifeproof_V3.png" alt="Lifeproof"></a></li>
+			<!-- <li style="border:0px" ><a class="flt-l" title="Charge On The Go" href="/brand/Charge-On-The-Go/mobiles-wireless?icn=_bau&icc=mobilewireless_category_meganav_onthego"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Meganav_Charge_OnTheGo.gif" alt="On the Go" /></a></li> -->
 		</ul>
 	</div>
 </div>
@@ -504,16 +528,16 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-7-1 first parent"><a href="http://www.dicksmith.co.nz/navigation-travel/cb-radios"><span>CB Radios</span></a></li><li id="item2" class="level1 nav-7-2 parent"><a href="http://www.dicksmith.co.nz/navigation-travel/gps-accessories"><span>GPS Accessories</span></a></li><li id="item3" class="level1 nav-7-3"><a href="http://www.dicksmith.co.nz/navigation-travel/handheld-gps"><span>Handheld GPS</span></a></li><li id="item4" class="level1 nav-7-4"><a href="http://www.dicksmith.co.nz/navigation-travel/in-car-gps"><span>In-Car GPS</span></a></li><li id="item5" class="level1 nav-7-5 last parent"><a href="http://www.dicksmith.co.nz/navigation-travel/navigation-accessories"><span>Navigation Accessories</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=100-200">$100 - $200 (10)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=200-300">$200 - $300 (8)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=300-400">$300 - $400 (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=400-500">$400 - $500 (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=500-1000">$500 - $1,000 (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=25">Belkin (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=35">Dick Smith (9)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=1293">E3 Style (3)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=58">Garmin (5)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=75">Jabra (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=78">Kerio (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=87">Magellan (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=95">Navman (7)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=137">TomTom (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=142">Unbranded (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=144">Uniden (8)</a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-7-1 first parent"><a href="http://www.dicksmith.co.nz/navigation-travel/cb-radios"><span>CB Radios</span></a></li><li id="item2" class="level1 nav-7-2 parent"><a href="http://www.dicksmith.co.nz/navigation-travel/gps-accessories"><span>GPS Accessories</span></a></li><li id="item3" class="level1 nav-7-3"><a href="http://www.dicksmith.co.nz/navigation-travel/handheld-gps"><span>Handheld GPS</span></a></li><li id="item4" class="level1 nav-7-4"><a href="http://www.dicksmith.co.nz/navigation-travel/in-car-gps"><span>In-Car GPS</span></a></li><li id="item5" class="level1 nav-7-5 last parent"><a href="http://www.dicksmith.co.nz/navigation-travel/navigation-accessories"><span>Navigation Accessories</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=100-200">$100 - $200 (14)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=200-300">$200 - $300 (14)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=300-400">$300 - $400 (6)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=400-500">$400 - $500 (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=500-1000">$500 - $1,000 (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=25">Belkin (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=35">Dick Smith (11)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=1293">E3 Style (3)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=58">Garmin (10)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=75">Jabra (3)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=78">Kerio (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=80">Korjo (11)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=87">Magellan (2)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=95">Navman (12)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=137">TomTom (6)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=142">Unbranded (1)</a></li><li><a href="http://www.dicksmith.co.nz/navigation-travel?brand=144">Uniden (10)</a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Navman" href="/brand/navman/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_navman"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/navman.png" alt="Navman"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Tomtom" href="/brand/tomtom/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_tomtom"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/tomtom_1.png" alt="Tomtom"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Garmin" href="/brand/garmin/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_garmin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/garmin_3.png" alt="Garmin"></a></li>
-                        <li style="border:0px;margin-top: 10px;"><a class="flt-l" title="Magellan" href="/brand/magellan/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_magellan"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/magellan.png" alt="Magellan"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Uniden" href="/brand/uniden/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_uniden"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/uniden_3.png" alt="Uniden"></a></li>
-			<!-- <li style="border:0px" ><a class="flt-l" title="Travel Range" href="/navigation-travel?icn=_bau&icc=navigationtravel_category_meganav_gotravel"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/Go-Travel_Meganav.gif" alt="Go Travel" /></a></li> -->
+			<li style="border:0px"><a class="flt-l" title="Navman" href="/brand/navman/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_navman"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/navman.png" alt="Navman"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Tomtom" href="/brand/tomtom/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_tomtom"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/tomtom_1.png" alt="Tomtom"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Garmin" href="/brand/garmin/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_garmin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/garmin_3.png" alt="Garmin"></a></li>
+                        <li style="border:0px;margin-top: 10px;"><a class="flt-l" title="Magellan" href="/brand/magellan/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_magellan"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/magellan.png" alt="Magellan"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Uniden" href="/brand/uniden/navigation-travel?icn=_bau&amp;icc=navigationtravel_category_meganav_uniden"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/uniden_3.png" alt="Uniden"></a></li>
+			<!-- <li style="border:0px" ><a class="flt-l" title="Travel Range" href="/navigation-travel?icn=_bau&icc=navigationtravel_category_meganav_gotravel"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Go-Travel_Meganav.gif" alt="Go Travel" /></a></li> -->
 		</ul>
 	</div>
 </div>
@@ -540,17 +564,17 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-8-1 first parent"><a href="http://www.dicksmith.co.nz/gaming/nintendo-ds-handhelds"><span>Nintendo DS Handhelds</span></a></li><li id="item2" class="level1 nav-8-2 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-4"><span>Playstation 4</span></a></li><li id="item3" class="level1 nav-8-3 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-vita"><span>PlayStation Vita</span></a></li><li id="item4" class="level1 nav-8-4 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-3"><span>PlayStation 3</span></a></li><li id="item5" class="level1 nav-8-5 parent"><a href="http://www.dicksmith.co.nz/gaming/pc-games"><span>PC Games</span></a></li><li id="item6" class="level1 nav-8-6 parent"><a href="http://www.dicksmith.co.nz/gaming/psp"><span>PSP</span></a></li><li id="item7" class="level1 nav-8-7 parent"><a href="http://www.dicksmith.co.nz/gaming/xbox-one"><span>Xbox One</span></a></li><li id="item8" class="level1 nav-8-8 last parent"><a href="http://www.dicksmith.co.nz/gaming/xbox-360"><span>Xbox 360</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/gaming?price=100-200">$100 - $200 (22)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=200-300">$200 - $300 (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=300-400">$300 - $400 (3)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=400-500">$400 - $500 (5)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=500-1000">$500 - $1,000 (11)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/gaming?brand=15">Activision (18)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=17">All Interactive (3)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=35">Dick Smith (9)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=44">Electronic Arts (22)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=91">Microsoft (16)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=94">NAMCO BANDAI (3)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=113">QV Software (6)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=120">SEGA (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=126">Sony (57)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=131">Take2 Interactive (21)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1353">THQ (2)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=141">Ubisoft (18)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=142">Unbranded (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1372">Walt Disney (17)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1362">Warner (4)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-8-1 first parent"><a href="http://www.dicksmith.co.nz/gaming/nintendo-ds-handhelds"><span>Nintendo DS Handhelds</span></a></li><li id="item2" class="level1 nav-8-2 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-4"><span>Playstation 4</span></a></li><li id="item3" class="level1 nav-8-3 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-vita"><span>PlayStation Vita</span></a></li><li id="item4" class="level1 nav-8-4 parent"><a href="http://www.dicksmith.co.nz/gaming/playstation-3"><span>PlayStation 3</span></a></li><li id="item5" class="level1 nav-8-5 parent"><a href="http://www.dicksmith.co.nz/gaming/pc-games"><span>PC Games</span></a></li><li id="item6" class="level1 nav-8-6 parent"><a href="http://www.dicksmith.co.nz/gaming/psp"><span>PSP</span></a></li><li id="item7" class="level1 nav-8-7 parent"><a href="http://www.dicksmith.co.nz/gaming/xbox-one"><span>Xbox One</span></a></li><li id="item8" class="level1 nav-8-8 last parent"><a href="http://www.dicksmith.co.nz/gaming/xbox-360"><span>Xbox 360</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/gaming?price=100-200">$100 - $200 (11)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=200-300">$200 - $300 (2)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=300-400">$300 - $400 (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=400-500">$400 - $500 (2)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=500-1000">$500 - $1,000 (8)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/gaming?brand=15">Activision (14)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=17">All Interactive (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=35">Dick Smith (9)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=44">Electronic Arts (20)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=57">Futuretronics (8)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=91">Microsoft (11)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=113">QV Software (8)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1382">Razer (10)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=126">Sony (52)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=131">Take2 Interactive (18)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1353">THQ (2)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=141">Ubisoft (17)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1372">Walt Disney (16)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1362">Warner (3)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=1375">YG Call of Duty (1)</a></li><li><a href="http://www.dicksmith.co.nz/gaming?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Playstation 4" href="http://www.dicksmith.co.nz/sony-ps4-console-dsnz-yg10068?icn=_bau&amp;icc=gaming_category_meganav_ps4"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/ps4.png" alt="Playstation 4"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Playstation 3" href="/gaming/playstation-3?icn=_bau&amp;icc=gaming_category_meganav_ps3"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/ps3.png" alt="Playstation 3"></a></li>
-                         <li style="border:0px"><a class="flt-l" title="Playstation Vita" href="/gaming/playstation-vita?icn=_bau&amp;icc=gaming_category_meganav_psvita"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/PS-VITA-2.png" alt="Playstation Vita"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Xbox One" href="http://www.dicksmith.co.nz/xbox-one?icn=_bau&amp;icc=gaming_category_meganav_xboxone"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/xbox1.png" alt="Xbox One"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Xbox 360" href="/gaming/xbox-360?icn=_bau&amp;icc=gaming_category_meganav_xbox360"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/xbox360_1.png" alt="Xbox 360"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Logitech" href="/gaming?icn=_bau&amp;icc=gaming_category_meganav_logitech"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/logtitech.png" alt="Logitech"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Turtle Beach" href="http://www.dicksmith.co.nz/turtle-beach-headsets?icn=_bau&amp;icc=gaming_category_meganav_turtlebeach"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/turtlebeach.png" alt="Turtle Beach"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Playstation 4" href="http://www.dicksmith.co.nz/sony-ps4-console-dsnz-yg10068?icn=_bau&amp;icc=gaming_category_meganav_ps4"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/ps4.png" alt="Playstation 4"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Playstation 3" href="/gaming/playstation-3?icn=_bau&amp;icc=gaming_category_meganav_ps3"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/ps3.png" alt="Playstation 3"></a></li>
+                         <li style="border:0px"><a class="flt-l" title="Playstation Vita" href="/gaming/playstation-vita?icn=_bau&amp;icc=gaming_category_meganav_psvita"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/PS-VITA-2.png" alt="Playstation Vita"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Xbox One" href="http://www.dicksmith.co.nz/xbox-one?icn=_bau&amp;icc=gaming_category_meganav_xboxone"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/xbox1.png" alt="Xbox One"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Xbox 360" href="/gaming/xbox-360?icn=_bau&amp;icc=gaming_category_meganav_xbox360"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/xbox360_1.png" alt="Xbox 360"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Logitech" href="/gaming?icn=_bau&amp;icc=gaming_category_meganav_logitech"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/logtitech.png" alt="Logitech"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Turtle Beach" href="http://www.dicksmith.co.nz/turtle-beach-headsets?icn=_bau&amp;icc=gaming_category_meganav_turtlebeach"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/turtlebeach.png" alt="Turtle Beach"></a></li>
 		</ul>
 	</div>
 </div>
@@ -579,12 +603,14 @@ _gaq.push(['_trackPageview']);
                     <div class="outer">
                     <div class="inner">
                     <div class="inner nav-sep-bg">
-                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-9-1 first parent"><a href="http://www.dicksmith.co.nz/home-security/babies-kids"><span>Babies &amp; Kids</span></a></li><li id="item2" class="level1 nav-9-2 parent"><a href="http://www.dicksmith.co.nz/home-security/health-fitness"><span>Health &amp; Fitness</span></a></li><li id="item3" class="level1 nav-9-3 parent"><a href="http://www.dicksmith.co.nz/home-security/home-appliances"><span>Home Appliances</span></a></li><li id="item4" class="level1 nav-9-4 parent"><a href="http://www.dicksmith.co.nz/home-security/lighting"><span>Lighting</span></a></li><li id="item5" class="level1 nav-9-5 parent"><a href="http://www.dicksmith.co.nz/home-security/security"><span>Security</span></a></li><li id="item6" class="level1 nav-9-6 last parent"><a href="http://www.dicksmith.co.nz/home-security/tools-hobbyist"><span>Tools Hobbyist</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/home-security?price=100-200">$100 - $200 (17)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=200-300">$200 - $300 (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=300-400">$300 - $400 (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=400-500">$400 - $500 (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=500-1000">$500 - $1,000 (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/home-security?brand=25">Belkin (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1665">BLUELOUNGE ACC (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=35">Dick Smith (29)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=38">Digitor (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=41">Dorcy (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1666">Dotz (5)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=45">Elto (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=48">Energizer (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=54">Fit Bit (9)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=66">Hot Wheels (5)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1883">Jawbone UP (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=98">Nintendo (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=103">Panasonic (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=106">Philips (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=111">Prima (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
+                    <div class="block block-layered-nav"><dl class="first-col" style="float:left;"><dt><h3>Category</h3></dt><dd><ol><li id="item1" class="level1 nav-9-1 first parent"><a href="http://www.dicksmith.co.nz/home-security/babies-kids"><span>Babies &amp; Kids</span></a></li><li id="item2" class="level1 nav-9-2 parent"><a href="http://www.dicksmith.co.nz/home-security/health-fitness"><span>Health &amp; Fitness</span></a></li><li id="item3" class="level1 nav-9-3 parent"><a href="http://www.dicksmith.co.nz/home-security/home-appliances"><span>Home Appliances</span></a></li><li id="item4" class="level1 nav-9-4 parent"><a href="http://www.dicksmith.co.nz/home-security/lighting"><span>Lighting</span></a></li><li id="item5" class="level1 nav-9-5 parent"><a href="http://www.dicksmith.co.nz/home-security/security"><span>Security</span></a></li><li id="item6" class="level1 nav-9-6 last parent"><a href="http://www.dicksmith.co.nz/home-security/tools-hobbyist"><span>Tools Hobbyist</span></a></li></ol></dd><dl class="second-col" style="float:left;"><dt><h3>Price</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/home-security?price=100-200">$100 - $200 (40)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=200-300">$200 - $300 (13)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=300-400">$300 - $400 (4)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=400-500">$400 - $500 (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=500-1000">$500 - $1,000 (4)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?price=more">more </a></li></ol></dd></dl></dl><dl class="second-col" style="float:left;"><dt><h3>Brand</h3></dt><dd><ol><li><a href="http://www.dicksmith.co.nz/home-security?brand=25">Belkin (5)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1665">BLUELOUNGE ACC (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1761">Camelion (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1288">Conair (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1241">D-Link (5)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=35">Dick Smith (44)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=38">Digitor (2)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=41">Dorcy (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=1666">Dotz (5)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=45">Elto (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=48">Energizer (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=54">Fit Bit (16)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=58">Garmin (15)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=66">Hot Wheels (3)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=75">Jabra (1)</a></li><li><a href="http://www.dicksmith.co.nz/home-security?brand=more">more </a></li></ol></dd></dl></div><div class="adnav-last-col"><div class="techsperts">
 	<h3 class="techspert">Brands</h3>
 	<div class="techsperts-content">
 		<ul>
-			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/home-security?icn=_bau&amp;icc=homesecurity_category_meganav_belkin"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
-			<li style="border:0px"><a class="flt-l" title="Swann" href="/brand/swann/home-security?icn=_bau&amp;icc=homesecurity_category_meganav_swann"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/Category_Brands/swann_1.png" alt="Swann"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Belkin" href="/brand/belkin/home-security?icn=_bau&amp;icc=homesecurity_category_meganav_belkin"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/belkin_2.png" alt="Belkin"></a></li>
+			<li style="border:0px"><a class="flt-l" title="Swann" href="/brand/swann/home-security?icn=_bau&amp;icc=homesecurity_category_meganav_swann"><img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/swann_1.png" alt="Swann"></a></li>
+<li style="border:0px"><a class="flt-l" title="D-link" href="/d-link">
+			<img src="http://www.dicksmith.co.nz/media/wysiwyg/Category_Brands/Meganav_D-Link.png" alt="D-Link"></a></li>
 
 		</ul>
 	</div>
@@ -597,6 +623,7 @@ _gaq.push(['_trackPageview']);
 			<li><a class=" flt-l" title="Hot Deals" href="/promotions/hot-deals/home-security"><img src="/media/wysiwyg/promotions/hot_1.png" alt="Hot Deals"><span>Hot Deals</span></a></li>
 			<li><a class=" flt-l" title="New Products" href="/promotions/new-products/home-security"><img src="/media/wysiwyg/promotions/new_1.png" alt="New Products"><span>New Products</span></a></li>
 			<li><a class=" flt-l" title="Reduced To Clear" href="/promotions/reduced-to-clear/home-security"><img src="/media/wysiwyg/promotions/reduced-to-clear.png" alt="Reduced To Clear"><span>Reduced To Clear</span></a></li>
+
 		</ul>
 	</div>
 </div></div></div></div></div></div><div class="footer">
@@ -624,24 +651,101 @@ _gaq.push(['_trackPageview']);
 </div>
         
 </div>
-        <!--{GLOBAL_MESSAGES_2b1dde912bdb853c15fe06ed902dd7f1}--><!--/{GLOBAL_MESSAGES_2b1dde912bdb853c15fe06ed902dd7f1}-->        <div class="cms_top_banners"><!--{WIDGET_ENTERPRISE_BANNER_df2249d537b615e6e139a60b2b3a184f}--><div class="widget widget-banner">
+        <!--{GLOBAL_MESSAGES_b8842bd792e1bc76eed044b13018edc2}--><!--/{GLOBAL_MESSAGES_b8842bd792e1bc76eed044b13018edc2}-->        <div class="cms_top_banners"><!--{WIDGET_ENTERPRISE_BANNER_d5a90eac47155c64051ca36236e9d02e}--><div class="widget widget-banner">
         <ul>
-            <li><a href="http://www.dicksmith.co.nz/delivery-information-nz?icn=wk52_midyearmarkdownmadness&amp;icc=homepage_topleftleaderstrip_freedeliveryonordersover$99"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/banner/NZ/478x50_Leaderstrip_N/GENERIC_FD_2503BrochureBanners_478x60_NZ.jpg" alt="Delivery"></a>
+            <li><!--<img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/NZ/960x60_Leaderstrips/Wk21/Wk21_Fri_Leaderstrip_960x230_NZ.png" alt="" usemap="#Map" />
+<map name="Map" id="Map">
+    <area alt="" title="" href="/online-deals#9am" shape="rect" coords="2,42,244,187" />
+    <area alt="" title="" href="/online-deals#11am" shape="rect" coords="248,42,476,187" />
+    <area alt="" title="" href="/online-deals#1pm" shape="rect" coords="479,42,718,187" />
+    <area alt="" title="" href="/online-deals#3pm" shape="rect" coords="723,41,957,186" />
+    <!--<area alt="" title="" href="/delivery-information" shape="rect" coords="2,190,960,216" />-->
 
-<!--<a href="https://www.dicksmith.co.nz/delivery-information-nz"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/banner/AU/478x50_Leaderstrip/Wk48/Free_Freight_Friday_Leaderstrip.gif" alt="Free Fright Friday" /></a>--></li>
-            <li><a href="http://catalogues.dicksmith.co.nz/home.html?icn=wk50_midyearpriceslam&amp;icc=homepage_toprightleaderstrip_newbrochureavailable" target="_blank"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/banner/NZ/478x50_Leaderstrip_N/GENERIC_LeaderStip_1006BrochureBanners_478x60_NZ.jpg" alt="Brochure"></a></li>
+
+
+
+
+<!--<a href="/shopping-with-us/delivery-information-nz">
+<img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/AU/980xX_Leaderstrips/2delivery_leaderstrip_960x200_1.png" alt="$2 Delivery - Ends Friday!" /></a>-->
+
+
+<!--<a href="http://www.dicksmith.co.nz/delivery-information?icn=wk12_thursfrifreefreight&icc=homepage_leaderstrip_freefreight"><img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/AU/478x50_Leaderstrip/Wk7/Free-Freight_Leaderstrip.gif" alt="Free Freight" /></a> -->
+
+
+<style>
+#privacy a:hover{
+text-decoration:none;
+}
+</style>
+
+<div id="container" style="position:relative; margin-bottom:97px;">
+  <div id="privacy" style="position:absolute; top: 80px; z-index:2;left: 872px;width: 90px;"><a href="http://www.dicksmith.com.au/help/my-account/privacy-policy"><span style="color: white; font-family: vagroundedlight;font-size: 14px;">Privacy Policy</span></a></div>
+<div id="signup_form" style="position:absolute; z-index:2;left: 560px;top: 7px;">
+<form action="https://www.dicksmith.co.nz/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+            <div class="form">
+                <ul>
+                    <li>
+                        <label style="
+    font-family: vagroundedbold, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+">First Name <span>*</span></label>
+                    </li>
+                    <li>
+                        <input class="input-text required-entry" name="firstname" value="" type="text" id="firstname" maxlength="50" style="
+    margin-top: 23px;
+    margin-left: -103px;
+">
+                    </li>
+  <div style="position:absolute; left: 195px;">
+                    <li>
+                        <label style="
+    font-size: 18px;
+    font-family: vagroundedbold, Arial, Helvetica, sans-serif;
+    margin-left: -15px;
+">Email Address<span>*</span></label>
+                    </li>
+                    <li>
+                        <input class="input-text required-entry" name="email" type="text" id="email_popup" oncopy="return false;" maxlength="50" value="" style="
+    margin-left: -10px;
+    margin-top: -9px;
+">
+                        <div style="display:none" id="advice-validate-email-popup" class="validation-advice">Enter a valid Email Address</div>
+                    </li>
+  </div>
+              </ul>
+        </div>
+        <div class="flt-l div2" style="margin-left: 90px;margin-top: -2px;">
+            <button type="submit" id="netsnewsletter_submit" class="button singup-btn" title="Sign up now!" style="
+    font-family: vagroundedbold, Arial, Helvetica, sans-serif;
+"><span style="
+"><span style="
+    font-family: vagroundedbold, Arial, Helvetica, sans-serif;
+    font-size: 23px;
+">Sign up now!</span></span></button>
+        </div>
+</form>
+</div>
+<div id="image" style="position:absolute;">
+<img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/AU/980xX_Leaderstrips/Wk19/NewsletterSignUp_Leaderstrip_960x100_EXAMPLE_NOV.png">
+</div>
+</div>
+
+<!--<a href="http://www.dicksmith.co.nz/shopping-with-us/delivery-information-nz?icn=wk16_thursfri&icc=homepage_leaderstrip_2dollardelivery">
+<img src="http://media2.dicksmith.com.au/get.php/media/wysiwyg/banner/AU/980xX_Leaderstrips/2delivery_leaderstrip_960x200_red.png" alt="Delivery Starting from Only $2" /></a>-->
+
+<!--<a href="http://www.dicksmith.co.nz/delivery-information?icn=wk11_thursfri&icc=homepage_leaderstrip_freefreight"><img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/AU/478x50_Leaderstrip/Wk7/Free-Freight_Leaderstrip.gif" alt="Free Freight" /></a>--></li>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_df2249d537b615e6e139a60b2b3a184f}--></div><div class="cms_top_banners"><!--{WIDGET_ENTERPRISE_BANNER_6203a85f94d612c7a3ae5d5e0c8083fa}--><div class="widget widget-banner">
+<!--/{WIDGET_ENTERPRISE_BANNER_d5a90eac47155c64051ca36236e9d02e}--></div><div class="cms_top_banners"><!--{WIDGET_ENTERPRISE_BANNER_3b1dccd2a104ef9201954fb5f3b3b747}--><div class="widget widget-banner">
         <ul>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_6203a85f94d612c7a3ae5d5e0c8083fa}--></div><!--{PAGE_BREADCRUMBS_1d1d23f4ec1a4f93378f61b7d34eff5c}--><div class="breadcrumbs">
+<!--/{WIDGET_ENTERPRISE_BANNER_3b1dccd2a104ef9201954fb5f3b3b747}--></div><div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.dicksmith.co.nz/" title="Go to Home Page">Home</a>
                                     <span>
-               <img src="http://media1.dicksmith.co.nz/skin/frontend/enterprise/dse/images/bullet-single.gif?v=3229">
+               <img src="http://www.dicksmith.co.nz/skin/frontend/enterprise/dse/images/bullet-single.gif?v=4052">
                         </span>
             </li>
                     <li class="cms_page">
@@ -651,12 +755,12 @@ _gaq.push(['_trackPageview']);
             </ul>
 </div>
 
-<!--/{PAGE_BREADCRUMBS_1d1d23f4ec1a4f93378f61b7d34eff5c}-->        <div class="main col2-right-layout">
+        <div class="main col2-right-layout">
             <div class="col-main">
                     <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><!--{MESSAGES_6f8296d91e1c35a1d6c55620478c504a}--><!--/{MESSAGES_6f8296d91e1c35a1d6c55620478c504a}--><p>We respect your privacy and are committed to providing our customers with a secure, private shopping experience. We collect, hold, use and disclose your personal information in accordance with the Privacy Act 1993. The manner in which we generally collect, hold, use and disclose your personal information is set out in our Privacy Policy.</p>
+<div class="std"><!--{MESSAGES_7cc2af252a0052f5d952eab5ec7244a8}--><!--/{MESSAGES_7cc2af252a0052f5d952eab5ec7244a8}--><p>We respect your privacy and are committed to providing our customers with a secure, private shopping experience. We collect, hold, use and disclose your personal information in accordance with the Privacy Act 1993. The manner in which we generally collect, hold, use and disclose your personal information is set out in our Privacy Policy.</p>
 <div class="separator">&nbsp;</div>
 <h2>Collection of information</h2>
 <ol>
@@ -707,137 +811,190 @@ _gaq.push(['_trackPageview']);
 <div class="separator">&nbsp;</div>
 <h2>More information</h2>
 <p>More information about the Privacy Act and Codes is available from the Privacy Commissioner at <a href="http://privacy.org.nz/" target="_blank"><strong>privacy.org.nz</strong></a>.</p></div>            </div>
-            <div class="col-right sidebar"><!--{WIDGET_ENTERPRISE_BANNER_9654c63abe15cee41b370c3363bff3f2}--><div class="widget widget-banner">
+            <div class="col-right sidebar"><!--{WIDGET_ENTERPRISE_BANNER_a6b1317308cdfed40bc72bd456cf96f8}--><div class="widget widget-banner">
         <ul>
-            <li><a href="/contacts/"><img src="http://media2.dicksmith.co.nz/media/wysiwyg/banner/ContactUsImage.jpg" alt="Contact Us" title="Contact Us"></a></li>
+            <li><a href="/contacts/"><img src="http://www.dicksmith.co.nz/media/wysiwyg/banner/ContactUsImage.jpg" alt="Contact Us" title="Contact Us"></a></li>
             <li><a href="\store-locator\">
-<img src="http://media2.dicksmith.co.nz/media/wysiwyg/StoreFinderImageContent.jpg" alt=""></a></li>
+<img src="http://www.dicksmith.co.nz/media/wysiwyg/StoreFinderImageContent.jpg" alt=""></a></li>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_9654c63abe15cee41b370c3363bff3f2}--><!--{POLL_4bf43f84c2d30bf474d4a892232f9afc}--><!--/{POLL_4bf43f84c2d30bf474d4a892232f9afc}--><!--{ORDERS_12a803b87810d0faef67a4b81711eb8f}--><!--/{ORDERS_12a803b87810d0faef67a4b81711eb8f}--></div>
+<!--/{WIDGET_ENTERPRISE_BANNER_a6b1317308cdfed40bc72bd456cf96f8}--><!--{POLL_60c69554834d9a3d4769aed241e504f0}--><!--/{POLL_60c69554834d9a3d4769aed241e504f0}--><!--{ORDERS_a78c6df0766045a2d4d2cfd2a54993df}--><!--/{ORDERS_a78c6df0766045a2d4d2cfd2a54993df}--></div>
         </div>
                 <div class="footer-container">
     <div class="footer">
-        <div class="footer-main-container"><div class="footer-main-container">
-<div class="set-one-links"><strong><span class="title">Techxpert Advice</span></strong>
+        <div class="stay-connected"></div>
+        <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="footer_before_content">
+    <div class="footer-top-banner"></div>
+
+    <div class="footer-befor-box-wrapper">
+    <div class="social-community-wrapper">
+        <h4>Social Community</h4>
+        <div class="social-community-content">
+                        <div class="fb-like-box" data-href="https://www.facebook.com/dicksmithnz" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false" data-height="180" data-width="235" data-max-rows="1" data-size="small"></div>
+        </div>
+
+        <a href="https://twitter.com/DickSmithNZ" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @DickSmithNZ</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        <script src="https://apis.google.com/js/platform.js"></script>
+        <div class="g-ytsubscribe" data-channelid="UC2Dd4tE_gsP9ZKLuY9TO1eQ" data-layout="default" data-count="hidden"></div>
+    </div>
+
+    <div class="email-signup-wrapper">
+        <h4>Email sign up</h4>
+        <div class="email-signup-content">
+            
+<div class="form-subscribe">
+    <div class="form-subscribe-content">
+        <span>Join our email list for exclusive news, deals and competitions</span>
+    </div>
+    <div class="v-fix">
+        <span>Email</span>
+        <input name="email" type="text" id="newsletter" onclick="this.value == 'Enter your email address' ? this.value = '' : ''" onblur="this.value == '' ? this.value = 'Enter your email address' : ''" class="input-text required-entry validate-email">
+        <div style="display:none" id="advice-validate-email-footer-right" class="validation-advice">Enter a valid Email Address</div>
+    </div>
+
+    <a class="netsnewsletter-link" href="">Sign Up<span> &gt;</span>  </a>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery(".netsnewsletter-link").colorbox();
+        jQuery(".netsnewsletter-link").click(function(e) {
+            href = '/netsnewsletter/manage/footerloadwindow/email/';
+            emailaddress = jQuery("#newsletter").val();
+            if (validateEmail(emailaddress)) {
+                jQuery(this).attr("href", href + emailaddress);
+            }
+            else {
+                jQuery("#advice-validate-email-footer-right").show("slow");
+                e.preventDefault();
+                return false;
+            }
+        });
+        jQuery("#newsletter").keyup(function() {
+            emailaddress = jQuery("#newsletter").val();
+            if (validateEmail(emailaddress)) {
+                jQuery("#advice-validate-email-footer-right").hide("slow");
+            }
+        });
+    });
+    function validateEmail($email) {
+        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+        if (!emailReg.test($email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+</script>
+        </div>
+    </div>
+    <div class="customer-care-wrapper">
+        <h4>Customer Care</h4>
+        <div class="customer-care-content">
+            <div class="customer-care-text">
+                Give us a call or send us a message for assistance.
+            </div>
+            <a href="http://www.dicksmith.co.nz/contacts" class="contact-link">Contact us<span> &gt;</span></a>
+        </div>
+    </div>
+    <div class="find-store-wrapper">
+        <h4>Find a store</h4>
+        <div class="find-store-content">
+            
+<div class="find-store">
+    <form action="/store-locator" method="post" id="storefinder-validate-detail">
+    <div class="find-store-text">
+        Locate your closest store or view your local store opening hours
+    </div>
+    <div class="v-fix">    
+     <span>Postcode or Suburb</span>
+        <input autocomplete="off" type="text" class="blurrable input-text required-entry validate-length maximum-length-4 minimum-length-3" id="footer-right-find-store-input" value="" name="footer-right-find-store-input">
+            <input type="hidden" class="exact" name="exact">
+            <input type="hidden" class="suburbid" name="suburbid">
+    </div>
+    
+    <button type="submit" id="btn_footer_storefinder" class="button-store" title="Store Locator >"><span>Store Locator  &gt;</span></button>
+    </form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+//    var storefinderValidateDetail = new VarienForm('storefinder-validate-detail');
+//]]>
+</script>        </div>
+    </div>
+    </div>
+</div>
+
+
+<div class="footer-main-container-wrapper"><div class="footer-main-container">
+<div class="set-one-links"><span class="title">Techxpert Advice</span>
 <ul>
 <ul>
 <li class="cms-link-level-1"><a href="/techxpert-advice/help-centre">Help Centre</a></li>
 <li class="cms-link-level-1"><a href="/techxpert-advice/techxpert-zone-nz">Techxpert Zone</a></li>
 <li class="cms-link-level-1"><a href="/techxpert-advice/clever-dick-content-nz">Clever Dick</a></li>
-<li class="cms-link-level-1"><a href="/techxpert-advice/techxpert-tv-nz">Techxpert TV </a></li>
+<li class="cms-link-level-1"><a href="techxpert-tv-nz">Techxpert TV</a></li>
 <li class="cms-link-level-1"><a href="/price-matching">Price Matching</a></li>
-<li class="cms-link-level-1"><a href="/techxpert-advice/community-nz">Community</a></li>
+<li class="cms-link-level-1"><a href="/ratings-and-reviews">Ratings &amp; Reviews</a></li>
+<!-- <li class="cms-link-level-1"><a href="/techxpert-advice/community-nz">Community</a></li> -->
 </ul>
 </ul>
 </div>
-<div class="set-two-links"><strong><span class="title">Shopping with Us</span></strong>
+<div class="set-two-links"><span class="title">Shopping with Us</span>
 <ul>
 <ul>
-<li class="cms-link-level-1"><a href="/store-locator/">Store Locations &amp; Hours</a></li>
+<li class="cms-link-level-1"><a href="/shopping-with-us/our-returns-policy-nz">Our Returns Policy</a></li>
 <li class="cms-link-level-1"><a href="/shopping-with-us/delivery-information-nz">Delivery Information</a></li>
 <li class="cms-link-level-1"><a href="/shopping-with-us/tracking-your-order-status-nz">Tracking your Order</a></li>
-<li class="cms-link-level-1"><a href="/ratings-and-reviews">Ratings &amp; Reviews</a></li>
-<li class="cms-link-level-1"><a href="/our-returns-policy">Our Returns Policy</a></li>
-<li class="cms-link-level-1"><a href="/shopping-with-us/international-customers-nz">International Customers</a></li>
+<li class="cms-link-level-1"><a href="http://catalogues.dicksmith.co.nz/">Latest Catalogue</a></li>
+<li class="cms-link-level-1"><a href="http://search.dicksmith.co.nz/">Popular Searches</a></li>
+<!-- <li class="cms-link-level-1"><a href="/catalogue-terms-conditions">Catalogue Terms</a></li> -->
 </ul>
 </ul>
 </div>
-<div class="set-three-links"><strong><span class="title">Our Services</span></strong>
+<div class="set-three-links"><span class="title">Our Services</span>
 <ul>
 <ul>
-<li class="cms-link-level-1"><a href="/after-sales-support">After Sales Support</a></li>
-<li class="cms-link-level-1"><a href="/our-services/our-warranties-nz">Our Warranties</a></li>
+<!-- <li class="cms-link-level-1"><a href="/our-services/finance-options">Finance Options</a></li> -->
+<li class="cms-link-level-1"><a href="/our-services/after-sales-support-nz">After Sales Support</a></li>
 <li class="cms-link-level-1"><a href="/our-services/dick-smith-extended-warranty-nz">Extended Warranty</a></li>
-<li class="cms-link-level-1"><a href="/click-and-collect/">Click &amp; Collect</a></li>
-<li class="cms-link-level-1"><a href="http://www.snapfish.co.nz/dsnz_website_footer" target="_blank">Photo Centre</a></li>
+<li class="cms-link-level-1"><a href="/our-services/click-and-collect">Click &amp; Collect</a></li>
+<li class="cms-link-level-1"><a title="" href="http://www.snapfish.co.nz/dsnz_website_footer" target="_blank">Photo Centre</a></li>
+<li class="cms-link-level-1"><a href="/gift-cards">Gift Cards</a></li>
 </ul>
 </ul>
 </div>
-<div class="set-four-links"><strong><span class="title">About Dick Smith</span></strong>
+<div class="set-four-links"><span class="title">About Dick Smith</span>
 <ul>
 <ul>
 <li class="cms-link-level-1"><a href="http://dicksmithholdings.co.nz/work-with-us/" target="_blank">Careers at Dick Smith</a></li>
-<li class="cms-link-level-1"><a href="http://dicksmithholdings.co.nz/investor-centre/" target="_blank">Investor Centre</a></li>
-<li class="cms-link-level-1"><a href="http://dicksmithholdings.co.nz/" target="_blank">Dick Smith Holdings</a></li>
-<li class="cms-link-level-1"><a href="http://dicksmithholdings.co.nz/media-centre/" target="_blank">Media Centre</a></li>
+<li class="cms-link-level-1"><a href="http://dicksmithholdings.com.au/investor-centre/" target="_blank">Investor Centre</a></li>
+<li class="cms-link-level-1"><a href="http://dicksmithholdings.com.au/" target="_blank">Dick Smith Holdings</a></li>
+<li class="cms-link-level-1"><a href="http://dicksmithholdings.com.au/media-centre/" target="_blank">Media Centre</a></li>
 <li class="cms-link-level-1"><a href="/contacts">Contact Us</a></li>
 <li class="cms-link-level-1"><a href="/about-dick-smith/commercial-sales-nz">Commercial Sales</a></li>
 </ul>
 </ul>
 </div>
 </div>
-
 <!-- hot fix for the float issue in the trading hours block -->
 <style type="text/css">
 .time-row .value { 
 display: block; 
 float: none !important;
 } 
-</style></div><div class="footer-right-container"><div class="find-store">
-    <form action="https://www.dicksmith.co.nz/newsletter/subscriber/new/" method="post" id="storefinder-validate-detail">
-    <h4>Find a Dick Smith Store</h4>
-    <p>Enter Postcode</p>
-    <div class="v-fix">    
-     <input autocomplete="off" type="text" class="blurrable input-text required-entry validate-length maximum-length-4 minimum-length-3" id="footer-right-find-store-input" maxlength="4" value="" name="footer-right-find-store-input">
-            <input type="hidden" class="exact" name="exact">
-            <input type="hidden" class="suburbid" name="suburbid">
-    </div>
-    
-    <button type="submit" id="btn_footer_storefinder" class="button" title="Find a Store"><span><span> </span></span></button>
-    </form>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-    var storefinderValidateDetail = new VarienForm('storefinder-validate-detail');
-//]]>
-</script>
-<div class="form-subscribe">
-    <div class="form-subscribe-header">
-        <h4 for="newsletter">Sign up to great deals:</h4>
-        <div class="form-subscribe-content">
-            <span>Our best offers direct to your inbox </span>
-            <span>Enter your email address below</span>
-        </div>
-    </div>
-    <div class="v-fix">
-        <input name="email" type="text" id="newsletter" onclick="this.value == '' ? this.value = '' : ''" onblur="this.value == '' ? this.value = '' : ''" class="input-text required-entry validate-email">
-    <div style="display:none" id="advice-validate-email-footer-right" class="validation-advice">Enter a valid Email Address</div>
-         </div>
-    
-    <a class="netsnewsletter-link" href=""><span><span>  &nbsp; </span></span></a>
-</div>
-<script type="text/javascript">
-            jQuery(document).ready(function() {
-                jQuery(".netsnewsletter-link").colorbox();
-                jQuery(".netsnewsletter-link").click(function(e) {
-                    href = '/netsnewsletter/manage/footerloadwindow/email/';
-                    emailaddress = jQuery("#newsletter").val();
-                    if (validateEmail(emailaddress)) {
-                        jQuery(this).attr("href", href + emailaddress);
-                    }
-                    else {
-                        jQuery("#advice-validate-email-footer-right").show("slow");
-                        e.preventDefault();
-                        return false;
-                    }
-                });
-                jQuery("#newsletter").keyup(function() {
-                    emailaddress = jQuery("#newsletter").val();
-                    if (validateEmail(emailaddress)) {
-                        jQuery("#advice-validate-email-footer-right").hide("slow");
-                    }
-                });
-            });
-            function validateEmail($email) {
-                var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-                if (!emailReg.test($email)) {
-                    return false;
-                } else {
-                    return true;
-                }
-            }
-</script></div>    </div>
+</style></div>    </div>
 </div>
 <div class="footerBottomContainer">
 <address class="copyright">© 1997 - 2014 Dick Smith Electronics Pty Limited. All Rights Reserved.</address>
@@ -849,16 +1006,7 @@ float: none !important;
 <li class="last privacy"><a href="/online-terms-of-use-nz">Terms Of Use</a></li>
 <li class="last privacy"><a href="http://dicksmith.com.au" target="_blank">Dick Smith Australia </a></li>
 </ul>
-</div></div>        <!--{WISHLISTS_d0dc7cca1b2b04bfaafb9ab0c057d37f}--><!--/{WISHLISTS_d0dc7cca1b2b04bfaafb9ab0c057d37f}--><script language="javascript" type="text/javascript">
-document.write(unescape('%3Cscript src="' + sliJsHost + slibaseurl + '/rac/sli-rac.config.js" type="text/javascript"%3E%3C/script%3E'));
-</script><script src="https://search.dicksmith.co.nz/rac/sli-rac.config.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-     function ajaxsearchsubmit(form){
-          var search = encodeURIComponent(form.w.value);
-          window.location="http://search.dicksmith.co.nz/search#w=" +search
-          return false;
-         }
-</script><script type="text/javascript">
+</div></div>        <!--{WISHLISTS_4620179131c201399da67dfd90bc5a68}--><!--/{WISHLISTS_4620179131c201399da67dfd90bc5a68}--><!--{CACHE_SUBSCRIBE_POPUP_61069c545ef788c33406ef0506279818}--><!--/{CACHE_SUBSCRIBE_POPUP_61069c545ef788c33406ef0506279818}--><script type="text/javascript">
 
 new Avs(
 	"http://www.dicksmith.co.nz/etemando/pcs/autocompletecart/",
@@ -873,10 +1021,19 @@ new Avs(
 	'shipping:city',
 	'shipping:country_id'
 );
-    
-</script>
-    </div>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"3c4a353474","applicationID":"2810575","transactionName":"YVZTbEMFXkJZBkRYWVgccFtFDV9fFwZdQhlGUlZdHhJZVE8=","queueTime":0,"applicationTime":2025,"ttGuid":"","agentToken":"","atts":"TRFQGgsfTUw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</script>
+<script language="javascript" type="text/javascript">
+document.write(unescape('%3Cscript src="' + sliJsHost + slibaseurl + '/rac/sli-rac.config.js" type="text/javascript"%3E%3C/script%3E'));
+</script><script src="https://search.dicksmith.co.nz/rac/sli-rac.config.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+     function ajaxsearchsubmit(form){
+          var search = encodeURIComponent(form.w.value);
+          window.location="http://search.dicksmith.co.nz/search#w=" +search
+          return false;
+         }
+</script>    </div>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"3c4a353474","applicationID":"2810575","transactionName":"YVZTbEMFXkJZBkRYWVgccFtFDV9fFwZdQhlGUlZdHhJZVE8=","queueTime":0,"applicationTime":3327,"ttGuid":"","agentToken":"","atts":"TRFQGgsfTUw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
