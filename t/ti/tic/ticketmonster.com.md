@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmonster.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629113521id_/http%3A//www.ticketmonster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmonster.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123184310id_/http%3A//www.ticketmonster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ If you choose to subscribe to our newsletter (which you should, it's awesome), w
 
 When you chat with a representative online, we collect your e-mail address and any other order information that might be needed to respond to your question/concern and provide a hassle-free shopping experience. 
 
-If any of your personal information changes, or if you no longer require our services, you can correct or update what is in the system by e-mailing our customer support at sales@ticketmonster.com, or calling us at (866) 217-4777
+If any of your personal information changes, or if you no longer require our services, you can correct or update what is in the system by e-mailing our customer support at service@ticketmonster.com, or calling us at (866) 217-4777
 
 Please note that that for legal obligations, we retain all personal information as long as your account is active or needed to provide you services. In the event of a dispute or to enforce our agreements, we may need client information, which is never shared with third parties.
 
@@ -86,7 +86,7 @@ Send you updates on important information about our company and services
 
 ### Public Forums/Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at sales@ticketmonster.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at service@ticketmonster.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -94,8 +94,8 @@ We partner with a third party ad network to either display advertising on our We
 
 ### Questions/Comments/Concerns/Feedback:
 
-You can reach us by email sales@ticketmonster.com or you can call us toll-free at (866) 217-4777. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+You can reach us by email service@ticketmonster.com or you can call us toll-free at (866) 217-4777. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
 Ticket Monster Inc. - www.ticketmonster.com
 
-Email: sales@ticketmonster.com
+Email: service@ticketmonster.com
