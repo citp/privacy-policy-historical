@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000322id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075247id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.*
 
 # Store Policy - Privacy Policy - SuperMediaStore.com
 
