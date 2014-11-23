@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truiton.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612232848id_/http%3A//www.truiton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truiton.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123190053id_/http%3A//www.truiton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ← Truiton.com
+# Privacy Policy - Truiton.com
 
 **Truiton.com respects your privacy.**
 
