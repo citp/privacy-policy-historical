@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055444id_/http%3A//www.nrsc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075638id_/http%3A//www.nrsc.org/privacy-policy) for the most accurate reproduction.*
 
 # | NRSC | National Republican Senatorial Committee
 
-**Last updated: June 24, 2014**
+**Last updated: October 9, 2014**
 
 **Overview**
 
-Welcome to the official website or mobile application (the Sites) of the National Republican Senatorial Committee (“NRSC”). 
+Welcome to the official website or mobile application (the Sites) of NRSC. 
 
 This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other NRSC mobile applications that display this policy (the Sites). By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy and our Terms of Service. From time to time, we may update this Privacy Policy. We encourage you to periodically check this Site for updates. We will alert you to changes that have been made by indicating on the Policy the date it was last updated. Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
 
