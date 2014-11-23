@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alphadigits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053851id_/http%3A//alphadigits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphadigits.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123132830id_/http%3A//alphadigits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AlphaDigits - iPhone, iPad and Android app reviews
+# Privacy PolicyAlphaDigits | AlphaDigits
 
 [**alphadigits.com**  ](http://alphadigits.com/)(“we” or “us”) takes your privacy very seriously and we work hard to earn and keep your trust. This Privacy Policy applies to data collected by us through our website and services. It applies to all sites, services and products that display or link to this statement.
 
