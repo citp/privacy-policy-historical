@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the skimbacolifestyle.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328211624id_/http%3A//www.skimbacolifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skimbacolifestyle.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123083416id_/http%3A//www.skimbacolifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skimbaco Lifestyle | online magazine
-
-##  Privacy Policy  
-
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
