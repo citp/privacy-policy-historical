@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the steelmasterusa.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209080156id_/http%3A//www.steelmasterusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelmasterusa.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131605id_/http%3A//www.steelmasterusa.com/privacy-policy) for the most accurate reproduction.*
 
 # SteelMaster - View Our Privacy Policy | SteelMaster USA
-
-## Privacy Policy
 
 ##  SteelMaster Buildings Email Privacy Policy
 
@@ -32,20 +30,20 @@ We will never share, sell, or rent individual personal information with anyone w
 
 Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [marketing@steelmasterusa.com](mailto:marketing@steelmasterusa.com) for review.
 
-### SteelMaster hangar lets Minnesota pilot soar
+### Urbavore’s Dilemma: Extreme Makeover, Chicken Coop SteelMaster Edition
 
-Mark Hobson is an aviation enthusiast who has flown various types of aircraft and has his pilot’s license. But when the time came for Mark to purchase his first airplane, he decided it would be best…
+Very cool! Check out the article written about the Urban SteelMaster Chicken Coops that was featured in a web series called Urbavore's Dilemma. It's high time for a chicken-coop makeover. After…
 
-[READ MORE »](http://www.steelmasterusa.com/blog/entry/steelmaster-hangar-lets-minnesota-pilot-soar)
+[READ MORE »](http://www.steelmasterusa.com/blog/entry/urbavores-dilemma-extreme-makeover-chicken-coop-steelmaster-edition1)
 
-### SteelMaster survives Snowmageddon
+### New Record! Another project in Romania built in less than 3 days
 
-Above: A snow angel made by a SteelMaster employee. Winter storm Leon swept through the southeastern United States on Tuesday, creating unthinkable traffic jams and forcing some children to sleep in their…
+Ovidiu Popa, considered to be a master builder by every standard, is a longtime client and friend of SteelMaster. The reason? Over the course of 7 years, he has successfully bought and installed thousands…
 
-[READ MORE »](http://www.steelmasterusa.com/blog/entry/steelmaster-survives-snowmageddon)
+[READ MORE »](http://www.steelmasterusa.com/blog/entry/new-record-another-project-in-romania-built-in-less-than-3-days)
 
-### SteelMaster wins Roaring 20 for third consecutive year
+### SteelMaster Gets International Attention
 
-SteelMaster Buildings is proud to announce it has received Inside Business’s Roaring 20 award for the third year in a row. The award recognizes the 20 fastest growing businesses in Hampton Roads.…
+SteelMaster is reaching out to customers all over the world, and getting excellent feedback.   In April of 2009, a group of engineers, architects, and construction company representatives…
 
-[READ MORE »](http://www.steelmasterusa.com/blog/entry/steelmaster-wins-roaring-20-for-third-consecutive-year)
+[READ MORE »](http://www.steelmasterusa.com/blog/entry/steelmaster-gets-international-attention)
