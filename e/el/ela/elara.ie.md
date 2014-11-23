@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301112734id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123014652id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
 
-# Elara Online Ireland - Buy Laptops, Web Tablets, Computers ,Printers, LED Monitors, Hard Disk Drives, Memory, Projectors, Motherboards, Routers, HP Store and more
+# Elara Online Ireland - Buy Laptops, Tablets, Computers ,Printers, Monitors, Hard Disks Drives, Memory, Projectors, Motherboards, Routers, HP Store and more
 
 **Personal Information**
 
@@ -48,7 +48,7 @@ Elara Online
 Parkwest  
 Dublin 12  
 Ireland  
-Email: [info [at] elara.ie](https://web.archive.org/web/20140301112734id_/http%3A//www.elara.ie/info%20\[at\]%20elara.ie)  
+Email: [info [at] elara.ie](https://web.archive.org/web/20141123014652id_/http%3A//www.elara.ie/info%20\[at\]%20elara.ie)  
 Tel: 01-6251320
 
 In keeping with our policies as an electronic retailer, Elara Online use email as a primary form of communication. It is very important to insure your registered email address is up to date. You can change the email address at any time. To find out how; go to the Help Section and see Your Account > Changing Email or Password. 
