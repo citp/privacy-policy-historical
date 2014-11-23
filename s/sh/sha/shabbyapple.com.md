@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629211923id_/https%3A//www.shabbyapple.com/privacy-policy/%3Fsource%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123162624id_/https%3A//www.shabbyapple.com/privacy-policy/%3Fsource%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy - Shabby Apple
-
-Privacy Policy 
+# Privacy Policy
 
 Shabby Apple understands and respects your concerns about privacy and is committed to providing you with a safe online experience. The information below describes the type of information we collect, how it is used, and steps we take to protect your personally identifiable information. This policy applies only to website or phone orders. Periodically, we may update our Privacy and Security policies and encourage you to check this section for any changes.
 
@@ -12,9 +10,9 @@ Shabby Apple has carefully selected a third-party service provider to transmit a
 
 Shabby Apple is PCI DSS compliant. We also have a policy for employees to safeguard client information designed to prevent unauthorized access, disclosure, or use in any way.
 
-Any visitors who do not want their personal information collected online are offered the opportunity to not submit such information to shabbyapple.com. We also offer the option for you to place your order by telephone or fax.
+Any visitors who do not want their personal information collected online are offered the opportunity to not submit such information to shabbyapple.com. We also offer the option for you to place your order by telephone or fax.
 
-What personally identifiable information does shabbyapple.com collect and how is it used?
+What personally identifiable information does shabbyapple.com collect and how is it used?
 
 We collect only the client information we need to administer our business, provide superior service to our clients, and communicate information relating to our products and services we believe to be of interest to our clients.
 
@@ -32,7 +30,7 @@ What are “cookies” and how are they used?
 
 A “cookie” is a small amount of data sent to your browser from a website server that may be stored on your computer’s hard drive. When you visit our website, this site may store a “cookie” or similar file on your computer. This information may be used for general purposes such as providing you with more personalized service, storing your zip code, and even helping us track our website visits and traffic patterns.
 
-Most Internet browsers allow users to exercise control over such files on their computers by blocking them, erasing them, or possibly notifying users when such a file is stored. We encourage you to refer to your Internet browser’s instructions to learn about those functions and options. 
+Most Internet browsers allow users to exercise control over such files on their computers by blocking them, erasing them, or possibly notifying users when such a file is stored. We encourage you to refer to your Internet browser’s instructions to learn about those functions and options.
 
 How may I stop the use of my personally identifiable information?
 
