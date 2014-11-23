@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525065636id_/http%3A//www.loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123082034id_/http%3A//loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Adult Affiliate Programs and Adult Affiliate Marketing
 
@@ -23,7 +23,19 @@ During the online application process to become a Website Operator, we ask for i
 
   * #### 2.
 
-We directly communicate with Website Operators through e-mail, instant messages and/or telephone. We may use personally identifiable information from your account to send communications to you, but your personally identifiable information is not disclosed to other Website Operators.
+We directly communicate with Website Operators through e-mail, instant messages and/or telephone. We may use personally identifiable information from your account to send communications to you, but your personally identifiable information is not disclosed to other Website Operators. 
+
+LoadedCash may contact you from time to time for such things as special promotions, new products, its newsletter and offers. LoadedCash will use the information you have provided within this form to contact you in order to help increase your use of LoadedCash. 
+
+Rest assured, LoadedCash will not sell and/or share your personal information with other companies for marketing purposes. 
+
+You may withdraw your consent at any time by clicking on the remove link that will be sent with each email or contacting us below: 
+
+LoadedCash  
+2nd Floor 13 Upper Baggot Street  
+Dublin 4 Ireland  
+sales@loadedcash.com 
+
 
 
   * #### 3.
@@ -43,12 +55,12 @@ Please note that we cannot guarantee the security of your account information. U
 
   * #### 6.
 
-LoadedCash (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement or governmental authority, and to court orders, requesting or directing LoadedCash (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is or was participating in the Program. By accepting our Terms and Conditions and this Policy and by participating in the Program, you waive and hold LoadedCash (including our affiliates, advertisers and content providers) harmless from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement or governmental authority’s investigations or inquiries.
+LoadedCash (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement or governmental authority, and to court orders, requesting or directing LoadedCash (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is or was participating in the Program. By accepting our Terms and Conditions and this Policy and by participating in the Program, you waive and hold LoadedCash (including our affiliates, advertisers and content providers) harmless from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement or governmental authority's investigations or inquiries.
 
 
   * #### 7.
 
-LoadedCash (including our affiliates, advertisers and content providers) independently reserves the right to cooperate with information requests from any third party entities investigating complaints related to bulk electronic communication complaints (SPAM, SPIM) requesting LoadedCash (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is or was participating in the Program. By accepting our Terms and Conditions and this Policy and by participating in the Program, you waive and hold LoadedCash (including our affiliates, advertisers and content providers) harmless from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any such third party’s investigations or inquiries.
+LoadedCash (including our affiliates, advertisers and content providers) independently reserves the right to cooperate with information requests from any third party entities investigating complaints related to bulk electronic communication complaints (SPAM, SPIM) requesting LoadedCash (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is or was participating in the Program. By accepting our Terms and Conditions and this Policy and by participating in the Program, you waive and hold LoadedCash (including our affiliates, advertisers and content providers) harmless from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any such third party's investigations or inquiries.
 
 
   * #### 8.
@@ -94,7 +106,7 @@ Notices by LoadedCash to Website Operators may be given by electronic messages t
   * Notices to LoadedCash by Website Operators may be given by electronic messages using our interface [here.](https://web.archive.org/?c=contact)
 
 
-  * To contact LoadedCash’s Privacy Officer, please use our online contact form [here.](https://web.archive.org/?c=contact)
+  * To contact LoadedCash's Privacy Officer, please use our online contact form [here.](https://web.archive.org/?c=contact)
 
 
   * Version [05/01/11]
