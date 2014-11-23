@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043828id_/http%3A//uopeople.edu/167625) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123054051id_/http%3A//uopeople.edu/167625) for the most accurate reproduction.*
 
 # Privacy Statement
 
