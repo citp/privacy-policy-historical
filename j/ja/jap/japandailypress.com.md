@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055636id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123134003id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Japan Daily Press
 
