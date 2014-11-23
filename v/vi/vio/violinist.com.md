@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082820id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181556id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -15,10 +15,10 @@ We may use third-party advertising companies to serve ads when you visit our web
 Information collected by Violinist.com may be transferred along with the other assets of Violinist.com to any subsequent owners of the site. Violinist.com is private property and its owners reserve the right to remove from the site any user and/or his or her information at any time.
 
   
+[](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A)
 
+### Galamian's Principles of the Violin
 
-### [What makes an elite violinist?](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri)
+Long one of the standards for violin teachers and students, **Ivan Galamian** 's [Principles of Violin Playing and Teaching](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A) offers both principles and practice exercises to help develop violinists of all ages and abilities. This new edition includes a foreword by **Sally Thomas**.
 
-[](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri) Our interview with **Sarah Chang** is one of more than two dozen in [The Violinist.com Interviews: Volume 1](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri), which also features talks with **Joshua Bell** , **Maxim Vengerov** , and **David Garrett** , as well as a foreword by **Hilary Hahn**.
-
-**Get it now!** [For Kindle](http://www.amazon.com/gp/product/B00IT7P1CI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT7P1CI&linkCode=as2&tag=statistieverywri) | [For iBooks](https://itunes.apple.com/us/book/violinist.com-interviews-volume/id859273345?mt=11&uo=4&at=1l3vbiv) | [In Paperback](http://www.amazon.com/gp/product/0983813078/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983813078&linkCode=as2&tag=statistieverywri)
+**Get it now!** [In Paperback](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A) | [For Kindle](https://web.archive.org/web/20141123181556id_/http%3A//www.violinist.com/directory/%3Ca%20href=)
