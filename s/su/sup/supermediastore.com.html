@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the supermediastore.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626000322id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supermediastore.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123075247id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Store Policy - Privacy Policy - SuperMediaStore.com</title>
@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="http://static9.supermediastore.com/css/jquery.cluetip.css">
     <link rel="stylesheet" href="http://static4.supermediastore.com/css/bannerGroup.css">
     <link rel="publisher" href="https://plus.google.com/115649804681261947328">
-    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://static0.supermediastore.com/js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://static0.supermediastore.com/js/jquery-1.4.2.min.js"></script>
 
     <script type="text/javascript" src="http://static5.supermediastore.com/js/jquery-ui-1.8.4.min.js"></script>
 
@@ -61,16 +61,28 @@
                     </script>
                 
     <script type="text/javascript">
-        <!-- BEGIN: Google Trusted Store Part1 -->
+        //BEGIN: Google Trusted Store Part1
         var gts = gts || [];
         gts.push(["id", "28985"]);
         gts.push(["google_base_subaccount_id", "1189916"]);
         gts.push(["google_base_country", "US"]);
         gts.push(["google_base_language", "EN"]);
-        <!-- END: Google Trusted Store Part1 -->
-
-
     </script>
+    
+                   <script type="text/javascript">
+                        var _prum = [
+                            ['id', '53bae227abe53d4d5e6a906b'],
+                            ['mark', 'firstbyte', (new Date()).getTime()]
+                        ];
+                        (function () {
+                            var s = document.getElementsByTagName('script')[0]
+                                    , p = document.createElement('script');
+                            p.async = 'async';
+                            p.src = '//rum-static.pingdom.net/prum.min.js';
+                            s.parentNode.insertBefore(p, s);
+                        })();
+                    </script>
+               
 </head>
 
 <body>
@@ -175,7 +187,7 @@
 <script type="text/javascript">
     var isHomePage = '';
     var pageType = '';
-    var clientIP = '207.241.237.224';
+    var clientIP = '10.10.0.59';
 
     
 
@@ -454,7 +466,7 @@
         </div>
 
         <div class="item" style="float: left; padding-left: 20px; padding-top: 12px;">
-            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=zfm5bx22LKt2DWcSlPPea1Y6FEUEtPJx8ronS1ptc0U8KzInBvWlkEWfk4rM"></script>
+            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=s0ulMEXDEkTUELnJZUqzHZjnq3HsskHj38qMiiOMHThbmONxdXg6k3IFK62O"></script>
         </div>
     </div>
 </div>
@@ -465,8 +477,36 @@
         </div>
     </div>
 </div>
+
+
+<div id="emailSignUpBox" title="" style="display:none; cursor: default">
+    <div id="emailSignUpBoxTitle" style="font-size:26pt">Never Miss A Deal!!</div>
+
+    <div style="font-size:12pt;padding-top:10px">Save $20 Off Your $100 Purchase <br> When You Sign Up for Our Emails</div>
+
+    <div style="padding-top:30px">
+        <form action="/article/index/emailSignUpForm" method="post" name="emailSignUpForm" id="emailSignUpForm">
+            <input type="text" value="Enter e-mail address" name="email" id="emailAddress">
+            <input type="button" value="Sign Me Up!" id="emailAddressButton" onclick="_gaq.push(['_trackEvent', '', 'EmailSignUp', 'Signed']);">
+        </form>
+    </div>
+</div>
+
+<div id="emailSignUpThanks" title="" style="display:none; cursor: default">
+    <div style="font-size:26pt">Thank You for Subscribing!</div>
+
+    <div style="font-size:12pt;padding-top:10px">
+        <p style="padding-bottom:5px;">Here's Your Promo Code for $20 OFF $100</p>
+    </div>
+
+    <div style="font-size:16pt;padding-top:20px;color:red">
+        <span style="border: 1px solid white;background-color: white;padding:8px">NEWEMAIL</span>
+    </div>
+
+</div>
+
 <script type="text/javascript">
-    <!-- BEGIN: Google Trusted Store Part3 -->
+    //BEGIN: Google Trusted Store Part3
     (function () {
         var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
         var gts = document.createElement("script");
@@ -475,9 +515,74 @@
         gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(gts, s);
-        <!-- END: Google Trusted Store part3 -->
     })();
+
+    //Email SignUp Box
+
+    $(document).ready(function () {
+        $("#emailSignUpBox").dialog({
+            modal: true,
+            open: true,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+            autoOpen: false,
+            height: 240,
+            width: 500,
+            dialogClass: 'emailSignUp',
+            title: ''
+        });
+        $('.ui-widget-overlay').live('click', function () {
+            $('#emailSignUpBox').dialog("close");
+        });
+
+
+        var cookie_display = $.cookie('email_display');
+        if (cookie_display == null) {
+            _gaq.push(['_trackEvent', '', 'EmailSignUp', 'Display']);
+            $("#emailSignUpBox").dialog("open");
+            $(".emailSignUp").focus();
+            $.cookie('email_display', 'y', { expires: 180, path: '/' });
+        }
+
+        $("#emailAddress").click(function () {
+            $("#emailAddress").val("");
+        });
+
+        $("#emailSignUpThanks").dialog({
+            modal: true,
+            open: true,
+            resizable: false,
+            draggable: false,
+            closeOnEscape: true,
+            autoOpen: false,
+            height: 240,
+            width: 500,
+            dialogClass: 'emailSignUp',
+            title: ''
+        });
+        $('.ui-widget-overlay').live('click', function () {
+            $('#emailSignUpThanks').dialog("close");
+        });
+
+        $("#emailAddressButton").click(function () {
+            $.ajaxSetup({cache: false});
+            $.ajax({
+                type: "POST",
+                url: "/home/doEmailSignUp",
+                data: $("#emailSignUpForm").serialize(),
+                success: function (msg) {
+                    $("#emailSignUpBox").dialog("close");
+                    $("#emailSignUpThanks").dialog("open");
+                },
+                error: function (msg) {
+                    alert("We're sorry, System can not receive your request now, please try later.");
+                }
+            });
+        });
+    });
 </script>
+
 
 </div>
 
@@ -486,7 +591,7 @@
                   </script>
                   <script type="text/javascript">
                   /* <![CDATA[ */
-                      var google_conversion_id = '1072642247';
+                      var google_conversion_id = 1072642247;
                       var google_custom_params = window.google_tag_params;
                       var google_remarketing_only = true;
                   /* ]]> */
