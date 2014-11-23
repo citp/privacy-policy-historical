@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512205533id_/http%3A//www.yugioh.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164726id_/http%3A//www.yugioh.com/news/privacy-policy) for the most accurate reproduction.*
 
 # Yu-Gi-Oh! News : Privacy Policy
 
