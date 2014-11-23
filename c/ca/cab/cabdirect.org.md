@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065801id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130834id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -16,6 +16,7 @@ Improving lives by solving problems in agriculture and the environment...
     * [ Project locations](https://web.archive.org/projects/search/)
     * [ CABI centres](https://web.archive.org/about-cabi/cabi-centres/)
     * [ How we are managed](https://web.archive.org/about-cabi/how-we-are-managed/)
+    * [ CABI Policies](https://web.archive.org/about-cabi/business-policies-and-strategies/)
     * [ CABI history](https://web.archive.org/about-cabi/history/)
     * [ Conferences](https://web.archive.org/about-cabi/conferences/)
     * [ Work for us](https://web.archive.org/about-cabi/work-for-us/)
