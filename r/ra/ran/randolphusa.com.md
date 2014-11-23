@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621083945id_/http%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123014717id_/http%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Randolph Engineering :: Sunglasses and Shooting Eyewear
 
