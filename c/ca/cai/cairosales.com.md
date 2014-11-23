@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairosales.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051711id_/http%3A//cairosales.com/en/content/14-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairosales.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123035830id_/http%3A//cairosales.com/en/content/14-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cairo Sales Stores - Buy Online with Free Home Delivery in Egypt.
 
