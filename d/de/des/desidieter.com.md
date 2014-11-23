@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desidieter.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529023313id_/http%3A//www.desidieter.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desidieter.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123140906id_/http%3A//www.desidieter.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DesiDieter
 
@@ -19,11 +19,11 @@ At DesiDieter, we respect your privacy and believe you should be informed about 
   
 #### Terms of Use  
   
-Your use of the Website is subject to the terms of this Privacy Policy and [the Term of Use](https://web.archive.org/web/20140529023313id_/http%3A//www.desidieter.com/terms-condition.html "Terms to use"), so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use.   
+Your use of the Website is subject to the terms of this Privacy Policy and [the Term of Use](https://web.archive.org/web/20141123140906id_/http%3A//www.desidieter.com/terms-condition.html "Terms to use"), so please read this policy and the Terms of Use before using the Website.All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use.   
   
 #### Age Requirement  
   
-In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the [Terms of Use ](https://web.archive.org/web/20140529023313id_/http%3A//www.desidieter.com/terms-condition.html "Terms to use")for additional information regarding this requirement.  
+In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age.Please see the [Terms of Use ](https://web.archive.org/web/20141123140906id_/http%3A//www.desidieter.com/terms-condition.html "Terms to use")for additional information regarding this requirement.  
   
 #### Personal Information  
   
@@ -44,21 +44,23 @@ We may also collect information automatically about the use of the Website, thro
 ## DesiDieter Expert Chat  
 
 
-[](https://web.archive.org/web/20140529023313id_/http%3A//www.desidieter.com/login.html)
+[](https://web.archive.org/web/20141123140906id_/http%3A//www.desidieter.com/login.html)
 
-[](https://web.archive.org/web/20140529023313id_/http%3A//www.desidieter.com/login.html)  
+[](https://web.archive.org/web/20141123140906id_/http%3A//www.desidieter.com/login.html)  
   
 ---  
   
 |   |    
 ---|---  
-| Non Veg Wholesome Meal  
+| Veg Wholesome Meal
+
+1/2 bowl tomato bhat + 1 katori sprouts salad + Buttermilk + Cherries  
   
 Get Eat Smart Alert in Your Inbox  
   
 News & Articles
 
-It is best to let your emotions pass. You are angry; so be i...  
+DesiDieter does not have a fitness trainer, anymore. We obse...  
 [Read More](http://www.desidieter.com/articles-main.html)
 
 [ ](http://www.healthji.com/) [](http://www.desidieter.com/get-in-shape-2012/)
