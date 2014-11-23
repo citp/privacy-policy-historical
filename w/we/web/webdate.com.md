@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162619id_/http%3A//www.webdate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123091124id_/http%3A//www.webdate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Webdate.com
 
