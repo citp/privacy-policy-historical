@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503184046id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164607id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy - CatTipper: Saving $ and Saving Cats with America's Pet Economist
+# Privacy-CatTipper
 
 This privacy policy applies to the use of CatTipper.com.
 
