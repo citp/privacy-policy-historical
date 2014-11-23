@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207190931id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022418id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The High Tech Society
 
-At [thehightechsociety.com](http://thehightechsociety.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [thehightechsociety.com](http://thehightechsociety.com/) and how it is used.
+**Privacy Policy**
 
-**Log Files**  
-Like many other Web sites, [thehightechsociety.com](http://thehightechsociety.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+At The High Tech Society we not only respect your privacy concerns, but we also understand the issues behind them. We live in a world where information is a currency, and your private data might be sold by unscrupulous web-site owners looking to make a buck. In fact, most of our writers and admins have been a victim of this sort of data transfer at one point or another. That’s one of the reasons why we respect your privacy. Not only do we promise not to share or sell your private or anonymous information with anyone in any capacity other than site analytics, or the purpose for which you have given it, but we also promise to protect your information using the highest standards of web security. The following privacy policy applies to The High Tech Society and it’s sub-domains, newsletters, social pages, and other content.
 
-**Cookies and Web Beacons**  
-[thehightechsociety.com](http://thehightechsociety.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**What Information Does The Hi** **gh Tech Society Collect?**
 
-**DoubleClick DART Cookie**
+The High Tech Society collects both personal and non-personal data.
 
-  * Google, as a third party vendor, uses cookies to serve ads on [thehightechsociety.com](http://thehightechsociety.com/).
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [thehightechsociety.com](http://thehightechsociety.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+**Personal Data  **\- We collect personal data such as email and IP addresses, your name, and other contact details when you voluntarily give it to us. This could be signing up for our newsletter, leaving a comment on one of our blog posts, liking or following one of our social pages, or sending us an email. When you do any of these things, you are voluntarily sharing your personal information. We do not use any of this data in any way except for how you intended us to use it when you sent it. So, if you send us an email, the only thing we will do with your data is reply to you. Or if you leave us a comment, we will not use your data in any way. We believe that your personal information is yours so we do not share it, or benefit in any way from it.
 
+**Anonymous Data**  – The High Tech Society automatically collects anonymous data for analytics purposes. This includes your location, computer and browser, your IP address if this is allowed by your browser, the length of time spent on the site, which pages you visit, your ISP (Internet Service Provider), and if applicable, how you accessed the site. This is for internal purposes only and is not shared in any way.
 
+**How Do We Protect Your Data?**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [thehightechsociety.com](http://thehightechsociety.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+The High Tech Society uses the most recent web-security standards including Transport Layer Security, Secure File Transfer, and basic Data Encryption. In addition, any content that you give us, is protected by passwords and firewalls, so that only administrators of our website can access your data.
 
-[thehightechsociety.com](http://thehightechsociety.com/) has no access to or control over these cookies that are used by third-party advertisers.
+**Cookies**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [thehightechsociety.com’s](http://thehightechsociety.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+While The High Tech Society does not use cookies ourselves, some of our third party services do.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**DoubleClick Dart Cookie:**  Google’s DoubleClick Dart Cookie enables Google ads (of which The High Tech Society has very few) to enable ads based on your previous website visits. These cookies are not associated with The High Tech Society, but you may opt out by visiting <http://www.google.com/privacy_ads.html>.
+
+Other Cookies that may be present on The High Tech Society include Java, Web Beacons, and any cookies from social sites or plugins that you use in your browser. None of these are related to The High Tech Society, but data collected may relate to your use of our website.
+
+**  Consent **
+
+By using or accessing The High Tech Society you are agreeing to our privacy policy. While you may opt out of our policy at any time by sending us an email, we ask that you avoid our websites, social pages, and blogs if you do not agree with our privacy policy.
+
+**Contact Information**
+
+For questions, comments, or more information, please contact us at info@thehightechsociety.com
