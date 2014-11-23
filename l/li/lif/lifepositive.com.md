@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifepositive.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327192317id_/http%3A//lifepositive.com/%3Fpage_id%3D46409) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifepositive.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173331id_/http%3A//lifepositive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Life Positive | Life Positive
+# Privacy Policy - Life Positive
 
 This statement discloses the privacy practices for Lifepositive.com on the Internet. For further information please also consult our online Help Center, where you can view the [Terms and Conditions of Service Agreement](https://web.archive.org/?page_id=46411).
 
