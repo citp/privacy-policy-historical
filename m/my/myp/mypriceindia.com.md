@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypriceindia.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329041458id_/http%3A//www.mypriceindia.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypriceindia.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173929id_/http%3A//www.mypriceindia.com/site/privacy) for the most accurate reproduction.*
 
 # MyPrice - Privacy Site
 
