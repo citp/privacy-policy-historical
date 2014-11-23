@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402014654id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123201005id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Latest in Bollywood, Movie Review, tv news & Celebrity hot photos
 
@@ -30,5 +30,3 @@ Filmyfriday.com delivers content from third-parties editor, Filmyfriday.com does
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using feedback form.
-
-**Tags:** [Google](http://www.filmyfriday.com/tag/google), [privacy statement](http://www.filmyfriday.com/tag/privacy-statement)
