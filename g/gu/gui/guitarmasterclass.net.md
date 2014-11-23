@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617010048id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123145000id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy at Guitar Masterclass
 
