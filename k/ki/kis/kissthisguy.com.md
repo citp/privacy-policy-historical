@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235307id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064831id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
 
 # KissThisGuy.com Privacy Notice
 
@@ -46,7 +46,7 @@ The continuation of the policy below address additional personally identifiable 
 ### Your Choices
 
   * You may, of course, decline to submit personally identifiable information to KissThisGuy or affiliated sites, in which case you can still view our content and explore (surf) the site(s), but KissThisGuy and affiliates may not be able to provide certain services or features to you. 
-  * You may update or correct your personal profile information and email preferences at any time by visiting your [Profile](https://web.archive.org/web/20140207235307id_/http%3A//www.kissthisguy.com/myaccount.php). 
+  * You may update or correct your personal profile information and email preferences at any time by visiting your [Profile](https://web.archive.org/web/20141123064831id_/http%3A//www.kissthisguy.com/myaccount.php). 
 
 
 
