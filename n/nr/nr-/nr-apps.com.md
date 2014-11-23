@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nr-apps.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514141337id_/http%3A//www.nr-apps.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nr-apps.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042432id_/http%3A//nr-apps.com/store/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nr-apps.com Magento modules & extensions
 
@@ -97,7 +97,7 @@ nr-apps.com will not assume responsibility for the processing of personal data i
 
 #### 10\. Information/ correction / deletion/ blocking
 
-According to the Federal Data Protection Act the client has the right to receive free information about their stored data. Moreover, the client has the opportunity to have the data blocked and deleted unless these data are needed to fulfil the contract or issued tasks or if these data are required for the enforcement of rights or if the data must be preserved by law. 
+According to the Federal Data Protection Act the client has the right to receive free information about their stored data. Moreover, the client has the opportunity to have the data corrected, blocked and/ or deleted unless these data are needed to fulfil the contract or issued tasks or if these data are required for the enforcement of rights or if the data must be preserved by law. 
 
 #### 11\. Safety
 
