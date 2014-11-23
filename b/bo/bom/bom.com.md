@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213214253id_/http%3A//www.arenasolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131654id_/http%3A//www.arenasolutions.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Arena Solutions
 
@@ -72,7 +72,7 @@ The Arena Sites and Services include social media features, such as a Facebook �
 
 ## Security
 
-Arena Solutions takes every precaution to protect our users’ and visitors’ information and data against loss, misuse and alteration. As a cloud service, our success is predicated on the security of that information and data. We use standard industry practices as outlined in our [Security Statement](http://www.arenasolutions.com/security/) to help prevent unauthorized use of, access to or alteration of visitor and user information and hosted data. These practices include the appropriate use of firewalls, SSL encryption, system redundancies, and co-location at a 24/7 secured, controlled environment.
+Arena Solutions takes every precaution to protect our users’ and visitors’ information and data against loss, misuse and alteration. As a cloud service, our success is predicated on the security of that information and data. We use standard industry practices as outlined in our [Security Statement](https://web.archive.org/security/) to help prevent unauthorized use of, access to or alteration of visitor and user information and hosted data. These practices include the appropriate use of firewalls, SSL encryption, system redundancies, and co-location at a 24/7 secured, controlled environment.
 
 Arena Solutions personnel with access to information gathered from visitors and users have been advised of the importance of maintaining the confidentiality of such information and of using it only for the purposes described in this Privacy Policy.
 
