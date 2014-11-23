@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dts.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604012054id_/http%3A//www.dts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dts.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071607id_/http%3A//www.dts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | DTS
 
@@ -10,7 +10,7 @@ DTS, Inc. ("DTS") respects your privacy. This DTS Privacy Statement ("Privacy St
 DTS complies with the US-EU Safe Harbor framework and the US-Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. DTS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To view DTS' certification, please visit <http://www.export.gov/safeharbor/>. If you wish to contact DTS about the Safe Harbor program, please send an e-mail to [safeharbor@dts.com](mailto:safeharbor@dts.com). If you wish to view our Safe Harbor Privacy Policy, please visit [http://www.dts.com/safeharborpolicy.aspx](https://web.archive.org/safeharborpolicy.aspx).  
 
 
-DTS has committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if DTS does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140604012054id_/http%3A//www.dts.com/www.bbb.org/us/safe-harbor-complaints).  
+DTS has committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if DTS does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20141123071607id_/http%3A//www.dts.com/www.bbb.org/us/safe-harbor-complaints).  
 
 
 Your use of our Sites or Services, and any dispute over privacy, is subject to this Privacy Statement and our Terms of Use ([http://www.dts.com/terms-of-use.aspx](https://web.archive.org/terms-of-use.aspx)), except that residents of the European Union and Switzerland will be subject to dispute resolution in accordance with our Safe Harbor Privacy Policy.   
