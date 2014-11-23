@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217194630id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124001619id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Acellus — The Science of Learning
 
@@ -54,6 +54,6 @@ We may share your personal information with:
 Acellus will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy. 
 
 Changes to this policy  
-We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. We last modified this Policy on May 21, 2012. 
+We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. We last modified this Policy on February 18, 2014. 
 
-If you have questions or concerns regarding this policy, please contact us through our website or by writing to us at Acellus Corporation, Attn: Privacy Department, 26900 E. Pink Hill Rd., Independence, MO 64057. 
+If you have questions or concerns regarding this policy, please contact us through our website or by writing to us at Acellus Academy, Attn: Privacy Department, 26900 E. Pink Hill Rd., Independence, MO 64057. 
