@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohsoft.net privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212130031id_/http%3A//ohsoft.net/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsoft.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031232id_/http%3A//ohsoft.net/en/privatepolicy.php) for the most accurate reproduction.*
 
 # OhSoft(ohsoft.net) - Best Software Developer
 
