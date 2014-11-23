@@ -1,0 +1,1907 @@
+<!--The following is the downloaded HTML source of the revolveclothing.com.au privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123072058id_/http%3A//www.revolveclothing.com.au/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+<!-- start hreflang tag-->
+<!-- end hreflang tag-->
+
+
+<!-- start canonical tag-->
+<!-- end canonical tag-->
+
+<base href="http://www.revolveclothing.com.au/r/">
+
+
+
+<meta charset="utf-8">
+
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="robots" content="noodp,noydir,index,follow">
+
+
+
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+<!-- IE 8 and IE9 CSS Compatability - Issue to solve IE selector # limitation -->
+<!--[if lt IE 10 ]><link rel="stylesheet" href="css/styles_ie_01.css"><link rel="stylesheet" href="css/styles_ie_02.css"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script><link rel="stylesheet" href="css/styles.css"><!--<![endif]-->
+
+<link href="css/header.css" type="text/css" rel="stylesheet">
+	
+<script src="http://is4.revolveclothing.com/r/js/head.js?v1.6"></script>
+
+
+<script src="//cdn.optimizely.com/js/1014643949.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+	var blueHeart = false;
+
+
+
+var mensHeart = false;
+
+
+
+function heartBrand(elem, bcode){
+    heartProduct(elem, bcode, "brand");
+}
+
+function heartProduct(elem, pcode,size,view){
+
+ 	var bn = elem;
+	var brand = false;
+	var plpHeartClass = "plp_main_img_heart";
+	var plpHeartActiveClass = "active";
+	if(blueHeart){
+		plpHeartClass = "plp_main_img_heartm";
+// 		plpHeartActiveClass = "activem";
+		
+	}
+
+	if(typeof arguments[2] !== "undefined" && arguments[2] === "brand" ) brand = true;
+	
+	if(typeof elem.id === "undefined" || elem.id !== "heart_active_"+pcode){
+		//alert("to add");
+		if(brand)	submitHeart("brand", pcode, "add");
+		else submitHeart("product", pcode, "add");
+		for(var j=0; j< bn.childNodes.length; j++){
+ 			var bn2 = bn.childNodes[j];
+// 		 	alert("j="+j+"=="+bn2.nodeType+", "+bn2.nodeName+", "+bn2.tagName+", "+bn2.className );
+	 		switch(bn2.nodeType){
+			case 3:
+			   //text Node
+			   break;
+			case 1:
+			   //Element node (anchor, div)
+			   if(bn2.nodeName.toLowerCase() === "div" || bn2.className.toLowerCase() === plpHeartClass ){
+				   bn2.className += " "+plpHeartActiveClass;
+			   }
+			   break;
+			default:
+			    //break;
+			}
+ 		}
+ 		elem.id = "heart_active_"+pcode;
+ 
+ 		
+ 		 if(typeof arguments[3] === "undefined"){
+ 		
+ 			if(document.getElementById("plp_quickview_wrap_"+pcode)!=null){	
+	 			var pd = document.getElementById("plp_quickview_wrap_"+pcode);
+	 			heartingUnhearting(pd,pcode,"add",plpHeartActiveClass);
+	 		}
+ 		}else{
+ 		
+ 			if(arguments[3]  === "qv"){
+ 			
+ 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){	
+ 					var pd = document.getElementById("plp_prod_wrap_"+pcode);
+ 					heartingUnhearting(pd,pcode,"add",plpHeartActiveClass);
+ 				}	
+ 			
+ 			}
+ 		
+ 		}
+ 		
+	}else{
+		//alert("to remove");
+		if(brand)	submitHeart("brand", pcode, "remove");
+		else{ 
+		
+			//alert(typeof arguments[2]);
+			if(typeof arguments[2] !== "undefined" && arguments[2] !== ""){
+				//alert(size);
+				submitHeart("product", pcode, "remove",size);
+			}else{
+				submitHeart("product", pcode, "remove");
+			}
+		
+		}
+		for(var j=0; j< bn.childNodes.length; j++){
+ 			var bn2 = bn.childNodes[j];
+// 		 	alert("j="+j+"=="+bn2.nodeType+", "+bn2.nodeName+", "+bn2.tagName+", "+bn2.className );
+	 		switch(bn2.nodeType){
+			case 3:
+			   //text Node
+			   break;
+			case 1:
+			   //Element node (anchor, div)
+			   if(bn2.nodeName.toLowerCase() === "div" || bn2.className.toLowerCase() === plpHeartClass ){
+				   if(bn2.className.toLowerCase().indexOf(plpHeartActiveClass) !== -1 )	bn2.className = plpHeartClass;
+			   }
+			   break;
+			default:
+			    //break;
+			}
+ 		}
+ 		elem.id = "";
+ 		
+ 		
+ 				
+ 		 if(typeof arguments[3] === "undefined"){
+ 		
+ 			if(document.getElementById("plp_quickview_wrap_"+pcode)!=null){
+	 			var pd = document.getElementById("plp_quickview_wrap_"+pcode);
+	 			heartingUnhearting(pd,pcode,"remove",plpHeartClass);
+ 			}
+ 		}else{
+ 		
+ 			if(arguments[3]  === "qv"){
+ 			
+ 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){	
+ 					var pd = document.getElementById("plp_prod_wrap_"+pcode);
+ 					heartingUnhearting(pd,pcode,"remove",plpHeartClass);
+ 				}	
+ 			
+ 			}
+ 		
+ 		}
+ 		
+		
+	}
+	
+}
+function submitHeart(paramtype, paramvalue){
+	if(typeof paramtype ==="undefined" || typeof paramvalue ==="undefined" ) return;
+	if(typeof arguments[2] ==="undefined" ) return;
+	var psize = "";
+	// optional argument
+	if(typeof arguments[3] !=="undefined" ) {
+		psize = arguments[3];
+	}
+
+    /*
+	if (window.XMLHttpRequest){
+		// for IE7+, FF, Chrome, Opera, Safari
+		xhttp2 = new XMLHttpRequest();
+	}
+	else{
+		// for IE6 and older
+		xhttp2 = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	var URL = "/r/ajaxHeartProduct.jsp?";
+	var dataToSend="";
+	if(paramtype === "product")	{
+		dataToSend += "&pcode="+encodeURIComponent(paramvalue);
+	}else if(paramtype === "brand")	{
+		dataToSend += "&bcode="+encodeURIComponent(paramvalue);
+	}
+	dataToSend += "&action_T="+encodeURIComponent(arguments[2]);
+	if(psize !=="")	dataToSend += "&psize="+encodeURIComponent(psize);
+	
+// 	alert(dataToSend);
+	
+// 	xhttp2.open(method, URL, async); 
+	xhttp2.open("POST", URL, false); // async
+	xhttp2.setRequestHeader("Content-type","application/x-www-form-urlencoded"); // this is needed
+	xhttp2.send(dataToSend);
+	var res = xhttp2.responseText;
+
+	
+	
+		updateHeartCount();
+		*/
+    var dataToSend="";
+    if(paramtype === "product")	{
+        dataToSend += "&pcode="+encodeURIComponent(paramvalue);
+    }else if(paramtype === "brand")	{
+        dataToSend += "&bcode="+encodeURIComponent(paramvalue);
+    }
+    dataToSend += "&action_T="+encodeURIComponent(arguments[2]);
+    if(mensHeart)dataToSend += "&mensBrand="+encodeURIComponent("true");
+    else dataToSend += "&mensBrand="+encodeURIComponent("false");
+    if(psize !=="")
+        dataToSend += "&psize="+encodeURIComponent(psize);
+
+    $.ajax({
+        type: 'POST',
+        url: '/r/ajaxHeartProduct.jsp',
+        data: dataToSend,
+        success: function(response){
+            /*
+            // alert("jsp response="+res);
+            res = res.replace(/^\s+|\s+$/g,"");
+            // alert("jsp response="+res);
+            */
+            updateHeartCount();
+        }
+    });
+}
+
+function updateHeartCount(){
+    $.ajax({
+        type: "POST",
+        url: "AjaxHeartTotalCount.jsp",
+        success: function(response) {
+            var responseObj = eval('(' + response + ')');
+            $("#heart_total_count").html(responseObj);
+        }
+    });
+
+}
+
+</script>
+
+
+
+
+
+<!-- page specific CSS here -->
+<title>Security &amp; Privacy | REVOLVE</title>
+<meta name="description" content="We value our customer's privacy. Please visit our Security and Privacy page to find out more information.">
+<meta name="keywords" content="REVOLVE security and privacy, REVOLVE">
+</head>
+<body>
+	
+	<!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+	<!-- Add your site or application content here -->
+	<div class="rev_wrapper rev_wrapper">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.tt-suggestion.tt-cursor, .tt-suggestion.tt-cursor p{
+    text-decoration: underline;
+}
+
+.tt-hint {
+    color: #888
+}
+</style>
+<!-- //////////////////////////// Header - Starts //////////////////////////// -->
+<div class="hdr_search_overlay"></div>
+<!-- servername=www.revolveclothing.com.au -->
+<!-- regionInSession=VIRGINIA,ASHBURN -->
+<!-- remote address =174.129.237.157 -->
+
+    <div class="rev_container rev_global_marketing">
+        <div class="rev_content" id="marketingBanner">
+            <div class="launch_survey">
+              <p><span>THE HOLIDAY GIFT GUIDE:</span>ALL YOU WANT FOR PARTIES AND PRESENTS THIS SEASON  </p> <a href="http://www.revolveclothing.com/r/spotlight/lookbooks/holidaygiftguide.jsp?navsrc=topglobalbnr">SHOP NOW</a>
+            </div>
+            <div class="ipad_text"><p>THE HOLIDAY GIFT GUIDE</p> <a href="http://www.revolveclothing.com/r/spotlight/lookbooks/holidaygiftguide.jsp?navsrc=topglobalbnr">SHOP NOW</a></div>
+        </div>
+    </div>
+
+<div id="rev_head-sticky-wrapper2" class="sticky-wrapper">
+<div id="rev_head-sticky-wrapper" class="sticky-wrapper">
+<header class="rev_head">
+<div class="rev_container rev_header">
+<div class="rev_content">
+<h1 class="rev_logo">
+
+		<a href="/women/?navsrc=logo"><img src="/r/i/REV_logo.png" width="223" height="33" alt="Revolve Clothing"></a> 
+
+</h1>
+<div class="rev_topbar">
+    <div class="customer_care">CUSTOMER CARE:
+        <span>1-888-442-5830</span>
+    </div>
+    <div class="header_selects">
+        <ul>
+            
+            <li class="currency_select parent"><a href="javascript:;" class="dd">$ USD</a>
+                <div class="currency_small sub" id="currency_small_menu">
+                    <ul>
+                        <p>Select Currency</p>
+                        <li id="usd_currency_main" class="usd_currency"><a class="currency" href="javascript:;"><span>flag</span> United States of America ($)</a></li>
+                        <li id="eur_currency_main" class="eur_currency"><a class="currency" href="javascript:;"><span>flag</span> Euro (€)</a></li>
+                        <li id="gbp_currency_main" class="gbp_currency"><a class="currency" href="javascript:;"><span>flag</span> United Kingdom (£)</a></li>
+                        <li id="cny_currency_main" class="cny_currency"><a class="currency" href="javascript:;"><span>flag</span> China (¥)</a></li>
+                        <li id="jpy_currency_main" class="jpy_currency"><a class="currency" href="javascript:;"><span>flag</span> Japan (¥)</a></li>
+                        <li id="krw_currency_main" class="krw_currency"><a class="currency" href="javascript:;"><span>flag</span> Korea, South (₩) </a></li>
+                        <li id="rub_currency_main" class="rub_currency"><a class="currency" href="javascript:;"><span>flag</span> Russia (руб)</a></li>
+                        <li id="brl_currency_main" class="brl_currency"><a class="currency" href="javascript:;"><span>flag</span> Brazil (R$)</a></li>
+                        <div class="more_currency"><a href="javascript:;" onclick="showMoreCurrencies()">MORE OPTIONS</a></div>
+                    </ul>
+                </div>
+                <!-- Currency Dropdown - Start -->
+                <div class="currency_sub sub" id="currency_large_menu" style="display:none;">
+                    <ul>
+                        <li id="ars_currency" class="ars_currency"><a class="currency" href="javascript:;"><span>flag</span> Argentina (ARS$)</a></li>
+                        <li id="aud_currency" class="aud_currency"><a class="currency" href="javascript:;"><span>flag</span> Australia (AU$)</a></li>
+                        <li id="bsd_currency" class="bsd_currency"><a class="currency" href="javascript:;"><span>flag</span> Bahamas (BSD$)</a></li>
+                        <li id="brl_currency" class="brl_currency"><a class="currency" href="javascript:;"><span>flag</span> Brazil (R$)</a></li>
+                        <li id="cad_currency" class="cad_currency"><a class="currency" href="javascript:;"><span>flag</span> Canada (C$)</a></li>
+                        <li id="xaf_currency" class="xaf_currency"><a class="currency" href="javascript:;"><span>flag</span> CFA Franc BEAC (XAF)</a></li>
+                        <li id="xbf_currency" class="xbf_currency"><a class="currency" href="javascript:;"><span>flag</span> CFP Franc (XBF)</a></li>
+                        <li id="clp_currency" class="clp_currency"><a class="currency" href="javascript:;"><span>flag</span> Chile (CLP$)</a></li>
+                        <li id="cny_currency" class="cny_currency"><a class="currency" href="javascript:;"><span>flag</span> China (¥)</a></li>
+                        <li id="cop_currency" class="cop_currency"><a class="currency" href="javascript:;"><span>flag</span> Colombia (COP$)</a></li>
+                        <li id="krk_currency" class="krk_currency"><a class="currency" href="javascript:;"><span>flag</span> Croatia (kn)</a></li>
+                        <li id="czr_currency" class="czr_currency"><a class="currency" href="javascript:;"><span>flag</span> Czech Republic (Kč)</a></li>
+                        <li id="dkk_currency" class="dkk_currency"><a class="currency" href="javascript:;"><span>flag</span> Denmark (DKK$)</a></li>
+                        <li id="xcd_currency" class="xcd_currency"><a class="currency" href="javascript:;"><span>flag</span> East Caribbean (XV$)</a></li>
+                        <li id="eur_currency" class="eur_currency"><a class="currency" href="javascript:;"><span>flag</span> Euro (€)</a></li>
+                        <li id="fjd_currency" class="fjd_currency"><a class="currency" href="javascript:;"><span>flag</span> Fiji (FJ$)</a></li>
+                        <li id="ghc_currency" class="ghc_currency"><a class="currency" href="javascript:;"><span>flag</span> Ghana (C)</a></li>
+                        <li id="gtq_currency" class="gtq_currency"><a class="currency" href="javascript:;"><span>flag</span> Guatemala (Q)</a></li>
+                        <li id="hnl_currency" class="hnl_currency"><a class="currency" href="javascript:;"><span>flag</span> Honduras (L)</a></li>
+                        <li id="hkd_currency" class="hkd_currency"><a class="currency" href="javascript:;"><span>flag</span> Hong Kong (HK$)</a></li>
+                    </ul>
+                    <ul>
+                        <li id="huf_currency" class="huf_currency"><a class="currency" href="javascript:;"><span>flag</span> Hungary (Ft)</a></li>
+                        <li id="isk_currency" class="isk_currency"><a class="currency" href="javascript:;"><span>flag</span> Iceland (kr)</a></li>
+                        <li id="inr_currency" class="inr_currency"><a class="currency" href="javascript:;"><span>flag</span> India (INR)</a></li>
+                        <li id="idr_currency" class="idr_currency"><a class="currency" href="javascript:;"><span>flag</span> Indonesia (IDR)</a></li>
+                        <li id="ils_currency" class="ils_currency"><a class="currency" href="javascript:;"><span>flag</span> Israel (ILS)</a></li>
+                        <li id="jmd_currency" class="jmd_currency"><a class="currency" href="javascript:;"><span>flag</span> Jamaica (J$)</a></li>
+                        <li id="jpy_currency" class="jpy_currency"><a class="currency" href="javascript:;"><span>flag</span> Japan (¥)</a></li>
+                        <li id="krw_currency" class="krw_currency"><a class="currency" href="javascript:;"><span>flag</span> Korea, South (₩) </a></li>
+                        <li id="chf_currency" class="chf_currency"><a class="currency" href="javascript:;"><span>flag</span> Liechtenstein (CHF)</a></li>
+                        <li id="myr_currency" class="myr_currency"><a class="currency" href="javascript:;"><span>flag</span> Malaysia (RM)</a></li>
+                        <li id="mxn_currency" class="mxn_currency"><a class="currency" href="javascript:;"><span>flag</span> Mexico (MX$)</a></li>
+                        <li id="mad_currency" class="mad_currency"><a class="currency" href="javascript:;"><span>flag</span> Morocco (MAD)</a></li>
+                        <li id="mmk_currency" class="mmk_currency"><a class="currency" href="javascript:;"><span>flag</span> Myanmar (MMK)</a></li>
+                        <li id="ang_currency" class="ang_currency"><a class="currency" href="javascript:;"><span>flag</span> Netherlands (ƒ)</a></li>
+                        <li id="nzd_currency" class="nzd_currency"><a class="currency" href="javascript:;"><span>flag</span> New Zealand (Rp)</a></li>
+                        <li id="nok_currency" class="nok_currency"><a class="currency" href="javascript:;"><span>flag</span> Norway (Rp)</a></li>
+                        <li id="pkr_currency" class="pkr_currency"><a class="currency" href="javascript:;"><span>flag</span> Pakistan (Rs)</a></li>
+                        <li id="pab_currency" class="pab_currency"><a class="currency" href="javascript:;"><span>flag</span> Panama (B/.)</a></li>
+                        <li id="pen_currency" class="pen_currency"><a class="currency" href="javascript:;"><span>flag</span> Peru (S/.)</a></li>
+                        <li id="php_currency" class="php_currency"><a class="currency" href="javascript:;"><span>flag</span> Philippines (PHP)</a></li>
+                    </ul>
+                    <ul>
+                        <li id="pln_currency" class="pln_currency"><a class="currency" href="javascript:;"><span>flag</span> Poland (zł)</a></li>
+                        <li id="ron_currency" class="ron_currency"><a class="currency" href="javascript:;"><span>flag</span> Romania (lei)</a></li>
+                        <li id="rub_currency" class="rub_currency"><a class="currency" href="javascript:;"><span>flag</span> Russia (руб)</a></li>
+                        <li id="rsd_currency" class="rsd_currency"><a class="currency" href="javascript:;"><span>flag</span> Serbia (kr)</a></li>
+                        <li id="sgd_currency" class="sgd_currency"><a class="currency" href="javascript:;"><span>flag</span> Singapore (SD$)</a></li>
+                        <li id="zar_currency" class="zar_currency"><a class="currency" href="javascript:;"><span>flag</span> South Africa (R)</a></li>
+                        <li id="lkr_currency" class="lkr_currency"><a class="currency" href="javascript:;"><span>flag</span> Sri Lanka (₨)</a></li>
+                        <li id="sek_currency" class="sek_currency"><a class="currency" href="javascript:;"><span>flag</span> Sweden (Kr)</a></li>
+                        <li id="twd_currency" class="twd_currency"><a class="currency" href="javascript:;"><span>flag</span> Taiwan (NT$)</a></li>
+                        <li id="thb_currency" class="thb_currency"><a class="currency" href="javascript:;"><span>flag</span> Thailand (฿)</a></li>
+                        <li id="ttd_currency" class="ttd_currency"><a class="currency" href="javascript:;"><span>flag</span> Trinidad and Tobago (TT$)</a></li>
+                        <li id="tnd_currency" class="tnd_currency"><a class="currency" href="javascript:;"><span>flag</span> Tunisia (TND)</a></li>
+                        <li id="trl_currency" class="trl_currency"><a class="currency" href="javascript:;"><span>flag</span> Turkey (₤)</a></li>
+                        <li id="aed_currency" class="aed_currency"><a class="currency" href="javascript:;"><span>flag</span> United Arab Emirates (AED)</a></li>
+                        <li id="gbp_currency" class="gbp_currency"><a class="currency" href="javascript:;"><span>flag</span> United Kingdom (£)</a></li>
+                        <li id="usd_currency" class="usd_currency"><a class="currency" href="javascript:;"><span>flag</span> United States of America ($)</a></li>
+                        <li id="vef_currency" class="vef_currency"><a class="currency" href="javascript:;"><span>flag</span> Venezuela (Bs)</a></li>
+                        <li id="vnd_currency" class="vnd_currency"><a class="currency" href="javascript:;"><span>flag</span> Vietnam (₫)</a></li>
+                    </ul>
+                </div>
+                <!-- Currency Dropdown - End -->
+            </li>
+            <li class="sep">&nbsp;</li>
+            <li class="language_select parent"><a href="javascript:;" class="dd">EN</a>
+                <!-- Language Dropdown - Start -->
+                <div class="language_sub sub">
+                    <ul id="active_languages">
+                        <p>Select Language</p>
+                        <li id="en_language"><a href="javascript:;">English</a></li>
+                        <li id="es_language"><a href="javascript:;">Español</a></li>
+                        <li id="zh_language"><a href="javascript:;">中文</a></li>
+                        <li id="pt_language"><a href="javascript:;">Português</a></li>
+                        <li id="ru_language"><a href="javascript:;">Pусский</a></li>
+                        <li id="fr_language"><a href="javascript:;">Français</a></li>
+                        <li id="ko_language"><a href="javascript:;">한국어</a></li>
+
+                        
+                    </ul>
+                    <ul id="future_languages">
+                        <p>Coming Soon</p>
+                        <li>日本語</li>
+                    </ul>
+                </div> <!-- Language Dropdown - End -->
+            </li>
+        </ul>
+    </div>
+    <div class="rev_search">
+        <form action="SearchSelect.jsp" onsubmit="validateSearchInput();" id="search_form">
+            <input type="text" name="search" autocomplete="off" id="search_term_new" placeholder="Search" data-dep="">
+            
+            <input type="hidden" name="dept" value="Womens">
+            <input type="hidden" name="searchFormTabID" id="searchFormTabID" value="-1">
+            
+            <input class="search_submit" type="submit" value="Search" name="submit">
+        </form>
+    </div>
+</div>
+<!-- .rev_topbar -->
+<div class="top_message">
+    <p>
+        
+        <a href="/shipping">FREE SHIPPING &amp; RETURNS</a>
+    </p>
+</div>
+<div class="clear"></div>
+<div class="rev_section_marker">
+    <ul>
+    
+
+        <li class="current"><a href="/women/?navsrc=global">Womens</a></li>
+        <li><a href="/mens/?navsrc=global">Mens</a></li>
+
+    </ul>
+</div>
+<!-- .rev_section_marker -->
+
+
+<div class="holiday_shop_tab">
+    <div class="womens"><a href="/r/spotlight/lookbooks/holidaygiftguide.jsp?"><span>Shop</span> The Holiday Gift Guide</a></div>
+    <div class="mens"><a href="/r/mens/spotlight/lookbooks/holidaygiftguidem.jsp?&amp;d=Mens">Shop The Holiday Gift Guide</a></div>
+</div>
+
+
+
+<div id="rev_account_links" class="rev_account_links account_womens">
+    <!-- Specify customer preference womens/mens here -->
+    <ul>
+        <li class="hdr_search"><a href="#">Search</a></li> <!-- ipad -->
+        <li id="my_bag_link" class="rev_mybag parent">
+            <a href="ShoppingBag.jsp">
+                 <span class="icon">Bag</span>
+                <p>My Bag</p>
+            </a><span id="my_bag_item_count">0</span>
+            <!-- Mini Cart Dropdown - Start -->
+            <div class="rev_minicart sub">
+                <!-- /////// ITEM ADDED TO CART /////// -->
+                <div id="item_added_container" class="rev_minicart_container" style="display:none;">
+                    <div class="rev_minicart_item item_added">
+                        <div class="item_added">Item Added to Bag</div>
+                        <div class="product_image"><img src="i/dot.png" id="item_added_image"></div>
+                        <div class="product_info">
+                            <div class="designer_brand"><a href="#" id="item_added_designer_link"></a></div>
+                            <div class="product_name"></div>
+                            <div class="price_box">
+                                <span class="price"></span>
+                                <span class="discount_price"></span>
+                                <span class="original_price"></span>
+                            </div>
+                        </div>
+                    </div><!-- .rev_minicart_item -->
+                    <div class="rev_minicart_totals">
+                        <div class="rev_minicart_checkout">
+                            <input onclick="window.location='https://www.revolveclothing.com.au/r/ShoppingBag.jsp'" class="submit_checkout" type="submit" value="View Bag / Checkout">
+                        </div>
+                        <a href="#" onclick="closeJustAdded()">Continue Shopping</a>
+                    </div>
+                </div>
+                <div id="mini_cart" class="rev_minicart_container">
+                    <div style="" id="minicart_item_empty" class="rev_minicart_item">
+                        <div class="bag_empty">Your Bag is Empty.</div>
+                    </div>
+
+                    <div id="minicart_item0" class="rev_minicart_item  " style="display:none;">
+                        <div class="product_image"><a href="#"><img src="i/dot.png"></a></div>
+                        <div class="product_info">
+                            <div class="designer_brand"><a href="#"></a></div>
+                            <div class="product_name"></div>
+                            <div class="price_box">
+                                <span style="" class="price"></span>
+                                <span style="display:none;" class="discount_price"></span>
+                                <span style="display:none;" class="original_price"></span>
+                            </div>
+                            <div style="display:none;" class="item_message">null</div>
+                        </div>
+                    </div>
+
+                    <div id="minicart_item1" class="rev_minicart_item  " style="display:none;">
+                        <div class="product_image"><a href="#"><img src="i/dot.png"></a></div>
+                        <div class="product_info">
+                            <div class="designer_brand"><a href="#"></a></div>
+                            <div class="product_name"></div>
+                            <div class="price_box">
+                                <span style="" class="price"></span>
+                                <span style="display:none;" class="discount_price"></span>
+                                <span style="display:none;" class="original_price"></span>
+                            </div>
+                            <div style="display:none;" class="item_message">null</div>
+                        </div>
+                    </div>
+
+                    <div id="minicart_item2" class="rev_minicart_item  " style="display:none;">
+                        <div class="product_image"><a href="#"><img src="i/dot.png"></a></div>
+                        <div class="product_info">
+                            <div class="designer_brand"><a href="#"></a></div>
+                            <div class="product_name"></div>
+                            <div class="price_box">
+                                <span style="" class="price"></span>
+                                <span style="display:none;" class="discount_price"></span>
+                                <span style="display:none;" class="original_price"></span>
+                            </div>
+                            <div style="display:none;" class="item_message">null</div>
+                        </div>
+                    </div>
+
+                    <div class="rev_minicart_totals">
+
+                        <div id="my_bag_addl_msg" class="totals_message" style="display:none;">
+                            You have <span id="my_bag_addl_item_count">0</span> more item(s) in your bag
+                        </div>
+                        <div class="totals_price">Total:
+                            <span id="my_bag_total">$0.00</span>
+                        </div>
+                        <div class="rev_minicart_checkout">
+                            <input class="submit_checkout" type="button" value="Checkout">
+                        </div>
+                        <a href="ShoppingBag.jsp">View my bag</a>
+                    </div>
+                </div>
+                <!-- .rev_mincart_container -->
+            </div> <!-- .rev_minicart --> <!-- Mini Cart Dropdown - End --></li>
+            <li class="rev_hearted">
+                <a href="MyFavorite.jsp" onmouseover="$('#wishlist_heart').show();" onmouseout="$('#wishlist_heart').hide()">
+                    <span class="icon">Hearted</span>
+                    <p>My Favorites</p></a>
+                
+                <span id="heart_total_count">0</span>
+            </li>
+        <li class="rev_welcome parent">
+        
+            <a class="welcome_new_text" href="/r/SignIn.jsp?page=http%3A%2F%2Fwww.revolveclothing.com.au%2Fr%2FinfoSecurity.jsp">Sign In / Create Account</a>
+        
+        </li>
+    </ul>
+</div>
+<!-- .rev_account_links -->
+<div class="clear"></div>
+</div>
+<!-- rev_content -->
+</div>
+<!-- .rev_header -->
+
+<div class="rev_container rev_search_tray">
+    <div class="rev_content">
+    </div>    
+</div> <!-- .rev_search_tray -->
+
+<nav class="main_navigation">
+    
+    	
+
+
+
+
+
+
+<div class="nav_menu womens_nav">
+
+	<ul>
+		<li class="page_item first parent menu_spotlight"><a href="spotlight/spotlight.jsp?navsrc=main">SPOTLIGHT</a>
+	        <ul class="sub_menu womens_spotlight">
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sub_wrap">
+	<li>
+	    <ol>
+	        <li class="dd_main"><a href="/r/spotlight/personalities.jsp?navsrc=subspotlight">PERSONALITIES</a></li>
+	        <li><a href="/r/spotlight/lookbooks/haileysfaves.jsp?navsrc=subspotlight">Hailey Baldwin</a></li>
+	        <li><a href="/r/spotlight/personalities/jadenemunson.jsp">Jadene Munson</a></li>
+	        <li><a href="/r/spotlight/personalities/margaretzhang.jsp?navsrc=subspotlight">Margaret Zhang</a></li>
+	    </ol>
+	    <ol>
+	        <li class="dd_main"><a href="/r/spotlight/lookbooks.jsp?navsrc=subspotlight?&amp;navsrc=subspotlight">LOOKBOOKS</a></li>
+	        <li><a href="/r/spotlight/lookbooks/editorspicksnewbrands.jsp?navsrc=subspotlight">New Brands We Love</a></li>
+	        <li><a href="/r/Editorials.jsp?listname=Cabin+Fever&amp;navsrc=subspotlight">Gone Glamping</a></li>
+	        <li><a href="/r/spotlight/lookbooks/thesexyscorpio.jsp?navsrc=subspotlight">The Sexy Scorpio</a></li>
+	    </ol>
+	    <ol>
+	        <li class="dd_main"><a href="/r/spotlight/revolveme.jsp?navsrc=subspotlight">#REVOLVEME</a></li>
+	        <li><a href="/r/spotlight/revolveme.jsp?hashtag=xrevolve&amp;navsrc=subspotlight">#xREVOLVE</a></li>
+	        <li><a href="/r/spotlight/revolveme.jsp?hashtag=revolveclothing&amp;navsrc=subspotlight">#REVOLVEclothing</a></li>
+	        <li><a href="/r/spotlight/revolveme.jsp?hashtag=thenewnew&amp;navsrc=subspotlight">#THENEWNEW</a></li>
+	    </ol>
+	    <ol>
+	        <li class="dd_main"><a href="/r/spotlight/designers.jsp?navsrc=subspotlight">FEATURED DESIGNERS</a></li>
+	        <li><a href="/r/spotlight/lookbooks/xrevolve.jsp?navsrc=subspotlight">x REVOLVE</a></li>
+	        <li><a href="/r/spotlight/lookbooks/nbd.jsp?navsrc=subspotlight">NBD by the Naven Twins</a></li>
+	        <li><a href="/r/spotlight/designers/velvetbygrahamspencer.jsp?navsrc=subspotlight">Velvet by Graham &amp; Spencer</a></li>
+	    </ol>
+
+	     <div class="sub_feature_links">
+	        <a href="/r/spotlight/lookbooks/haileysfaves.jsp?navsrc=subspotlight_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/spotlight_personality111414_dd_w.jpg"></a>
+	        <a href="/r/spotlight/lookbooks/editorspicksnewbrands.jsp?navsrc=subspotlight_i2"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/spotlight_newbrands111414_dd_w.jpg"></a>
+	        <a href="/r/spotlight/revolveme.jsp?navsrc=subspotlight_i3"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/spotlight_revolveme111414_dd_w.jpg"></a>
+	        <a href="/r/spotlight/lookbooks/xrevolve.jsp?navsrc=subspotlight_i4" class="last"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/spotlight_designer111414_dd_w.jpg"></a>
+	    </div>
+
+	</li>
+</div>
+
+
+	        </ul>
+	    </li>
+	    <li class="page_item parent menu_new"><a href="/new/20141121/br/112ddc/?navsrc=main">NEW</a>
+			<ul class="sub_menu womens_new">
+                <div class="sub_wrap">
+                <li>
+                	
+		                <ol class="dd_main_image">
+    <!-- EDIT HTML NEW START -->
+    <li><a href="/r/hotlist.jsp?navsrc=subnew_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/new_hotlist111414_dd_w.jpg"></a></li>
+    <!-- EDIT HTML NEW END -->
+</ol>
+
+		            
+                    <ol>
+                        <li class="dd_main"><a href="/new/all-new-items/br/7f5946/?&amp;navsrc=subnew">Shop All</a></li>
+                        <li><a href="/bestSeller/all-best-sellers/br/2022d4/?&amp;navsrc=subnew">Top Sellers</a></li>
+                        <li><a href="/bestSeller/revolve-exclusives/br/f8ae60/?&amp;navsrc=subnew">REVOLVE Exclusives</a></li>
+                        <li><a href="/new/clothing/br/b3d209/?&amp;navsrc=subnew">Clothing</a></li>
+                    </ol>
+                 	<ol>
+                        <li><a href="/new/shoes/br/9127db/?&amp;navsrc=subnew">Shoes</a></li>
+                        <li><a href="/new/handbags/br/3dee42/?&amp;navsrc=subnew">Bags</a></li>
+                        <li><a href="/new/accessories/br/7d31e0/?&amp;navsrc=subnew">Accessories</a></li>
+                    </ol>
+                </li>
+                </div><!-- .sub_wrap -->
+			</ul>
+		</li>
+		<li class="page_item parent menu_clothing"><a href="/clothing/br/3699fc/?navsrc=main">CLOTHING</a>
+	        <ul class="sub_menu womens_clothing">
+	            <div class="sub_wrap">
+	            <li>
+	            	
+		                <ol class="dd_main_image">
+    <!-- EDIT HTML CLOTHING START -->
+    <li><a href="/dresses-lace/br/cec96b/?navsrc=subclothing_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/clothing_lace111414_dd_w.jpg"></a></li>
+    <!-- EDIT HTML CLOTHING END -->
+</ol>
+                    
+		            
+                    <ol>
+                        <li class="dd_main"><a href="/clothing/br/3699fc/?&amp;navsrc=subclothing">All Clothing</a></li>
+                        <li><a href="/dresses/br/a8e981/?&amp;navsrc=subclothing">Dresses</a></li>
+                        <li><a href="/tops/br/db773d/?&amp;navsrc=subclothing">Tops</a></li>
+                        <li><a href="/denim/br/2664ce/?&amp;navsrc=subclothing">Denim</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/jackets-coats/br/e4012a/?&amp;navsrc=subclothing">Jackets &amp; Coats</a></li>
+                        <li><a href="/sweaters-knits/br/a49835/?&amp;navsrc=subclothing">Sweaters &amp; Knits</a></li>
+                        <li><a href="/skirts/br/8b6a66/?&amp;navsrc=subclothing">Skirts</a></li>
+                        <li><a href="/rompers/br/7b019d/?&amp;navsrc=subclothing">Rompers</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/jumpsuits/br/8e3089/?&amp;navsrc=subclothing">Jumpsuits</a></li>
+                        <li><a href="/pants/br/44d522/?&amp;navsrc=subclothing">Pants</a></li>
+                        <li><a href="/shorts/br/9d2482/?&amp;navsrc=subclothing">Shorts</a></li>
+                        <li><a href="/leather/br/b25593/?&amp;navsrc=subclothing">Leather</a></li>
+                    </ol>
+                     <ol>
+                        <li><a href="/swimwear/br/6bd2e6/?&amp;navsrc=subclothing">Swimwear</a></li>
+                        <li><a href="/intimates/br/dad0f5/?&amp;navsrc=subclothing">Intimates</a></li>
+                        <li><a href="/loungewear/br/97c04e/?&amp;navsrc=subclothing">Loungewear</a></li>
+                        <li><a href="/activewear/br/fcda16/?&amp;navsrc=subclothing">Activewear</a></li>
+                    </ol>
+                </li>
+
+	            </div><!-- .sub_wrap -->
+	        </ul>
+	    </li>
+	    <li class="page_item parent menu_shoes"><a href="/shoes/br/3f40a9/?bt=1&amp;navsrc=main">SHOES</a>
+
+	    	<ul class="sub_menu womens_shoes">
+                <div class="sub_wrap">
+                <li>
+                	
+		                <ol class="dd_main_image">
+    <!-- EDIT HTML SHOES START -->
+    <li><a href="/r/shoes-booties/br/5356e7/?navsrc=subshoes_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/shoes_booties111414_dd_w.jpg"></a></li>
+    <!-- EDIT HTML SHOES END -->
+</ol>
+
+		            
+                    <ol>
+                        <li class="dd_main"><a href="/shoes/br/3f40a9/?bt=1&amp;navsrc=subshoes">All Shoes</a></li>
+                        <li><a href="/shoes-boots/br/59da4f/?bt=1&amp;navsrc=subshoes">Boots</a></li>
+                        <li><a href="/shoes-booties/br/5356e7/?bt=1&amp;navsrc=subshoes">Booties</a></li>
+                        <li><a href="/shoes-heels/br/51fd9f/?bt=1&amp;navsrc=subshoes">Heels</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/shoes-sandals/br/016eb5/?bt=1&amp;navsrc=subshoes">Sandals</a></li>
+                        <li><a href="/shoes-sneakers/br/2aec17/?bt=1&amp;navsrc=subshoes">Sneakers</a></li>
+                        <li><a href="/shoes-flats/br/f39c40/?bt=1&amp;navsrc=subshoes">Flats</a></li>
+                        <li><a href="/shoes-wedges/br/1f0dec/?bt=1&amp;navsrc=subshoes">Wedges</a></li>
+                    </ol>
+                </li>
+                </div><!-- .sub_wrap -->
+            </ul>
+	    </li>
+	    
+	    <li class="page_item parent menu_bags"><a href="/bags/br/2df9df/?bt=1&amp;navsrc=main">BAGS</a>
+
+	    	<ul class="sub_menu womens_bags">
+                <div class="sub_wrap">
+                <li>
+                	
+			            <ol class="dd_main_image">
+    <!-- EDIT HTML BAGS START -->
+    <li><a href="/r/bags-clutches/br/cc5b36/?navsrc=subbags_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/bag_clutches111414_dd_w.jpg"></a></li>
+    <!-- EDIT HTML BAGS END -->
+</ol>
+
+			        
+                    <ol>
+                        <li class="dd_main"><a href="/bags/br/2df9df/?bt=1&amp;navsrc=subbags">All Bags</a></li>
+                        <li><a href="/bags-crossbody-bags/br/f8c179/?bt=1&amp;navsrc=subbags">Crossbody Bags</a></li>
+                        <li><a href="/bags-shoulder-bags/br/276024/?bt=1&amp;navsrc=subbags">Shoulder Bags</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/bags-totes/br/317dcf/?bt=1&amp;navsrc=subbags">Totes</a></li>
+                        <li><a href="/bags-clutches/br/cc5b36/?bt=1&amp;navsrc=subbags">Clutches</a></li>
+                        <li><a href="/bags-backpacks/br/63ac04/?bt=1&amp;navsrc=subbags">Backpacks</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/bags-satchels/br/89927a/?bt=1&amp;navsrc=subbags">Satchels</a></li>
+                        <li><a href="/bags-wallets/br/c2506c/?bt=1&amp;navsrc=subbags">Wallets</a></li>
+                        <li><a href="/bags-travel-bags/br/97907e/?bt=1&amp;navsrc=subbags">Travel Bags</a></li>
+                    </ol>
+                </li>
+                </div><!-- .sub_wrap -->
+            </ul>
+	    
+	    </li>
+	    
+	    <li class="page_item parent menu_accessories"><a href="/jewelry-accessories/br/946fac/?bt=1&amp;navsrc=main">ACCESSORIES</a>
+
+	     	<ul class="sub_menu womens_accessories">
+                <div class="sub_wrap">
+                <li>
+                	
+			            <ol class="dd_main_image">
+    <!-- EDIT HTML ACCESSORIES START -->
+    <li><a href="/r/jewelry-accessories-hats-hair-accessories/br/dcfd6d/?navsrc=subaccessories_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/images/emailpics/accessories_hat111414_dd_w.jpg"></a></li>
+    <!-- EDIT HTML ACCESSORIES END -->
+</ol>
+
+			        
+                    <ol>
+                        <li class="dd_main"><a href="/jewelry-accessories/br/946fac/?bt=1&amp;navsrc=subaccessories">All Accessories</a></li>
+                        <li><a href="/jewelry-accessories-jewelry/br/c7e3a4/?bt=1&amp;navsrc=subaccessories">Jewelry</a></li>
+                        <li><a href="/jewelry-accessories-sunglasses-eyewear/br/4c27de/?bt=1&amp;navsrc=subaccessories">Sunglasses &amp; Eyewear</a></li>
+                        <li><a href="/jewelry-accessories-hats-hair-accessories/br/dcfd6d/?bt=1&amp;navsrc=subaccessories">Hats &amp; Hair Accessories</a></li>
+                        <li><a href="/jewelry-accessories-watches/br/f1c9fd/?bt=1&amp;navsrc=subaccessories">Watches</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/jewelry-accessories-scarves/br/b95ee6/?bt=1&amp;navsrc=subaccessories">Scarves</a></li>
+                        <li><a href="/jewelry-accessories-beauty/br/49fd78/?bt=1&amp;navsrc=subaccessories">Beauty</a></li>
+                        <li><a href="/jewelry-accessories-hosiery-socks/br/c5ef6b/?bt=1&amp;navsrc=subaccessories">Hosiery &amp; Socks</a></li>
+                        <li><a href="/jewelry-accessories-belts/br/ea8542/?bt=1&amp;navsrc=subaccessories">Belts</a></li>
+                        <li><a href="/jewelry-accessories-gloves/br/6ddfca/?bt=1&amp;navsrc=subaccessories">Gloves</a></li>
+                    </ol>
+                    <ol>
+                        <li><a href="/jewelry-accessories-tech-accessories/br/6bbea0/?bt=1&amp;navsrc=subaccessories">Tech Accessories</a></li>
+                        <li><a href="/jewelry-accessories-lifestyle-gifts/br/509195/?bt=1&amp;navsrc=subaccessories">Lifestyle &amp; Gifts</a></li>
+                    </ol>
+                </li>
+                </div><!-- .sub_wrap -->
+            </ul>
+	    </li>
+	    
+	    <li class="page_item parent menu_designers"><a href="/designers/?d=Womens&amp;orderBy=A-Z&amp;navsrc=main">DESIGNERS</a>
+	        <ul class="sub_menu womens_designers">
+	            <div class="sub_wrap">
+	            <li>
+	 				  <ol>
+	                    <li class="dd_main"><a href="/designers/?d=Womens&amp;orderBy=A-Z&amp;&amp;navsrc=subdesigners">Designers A-Z</a></li>
+	                    <li class="dd_main"><a href="/designers/?d=Womens&amp;orderBy=emerging&amp;&amp;navsrc=subdesigners">Emerging Designers</a></li>
+	                    <li class="dd_main"><a href="/designers/?d=Womens&amp;orderBy=my&amp;&amp;navsrc=subdesigners">My Designers</a></li>
+	                    <li class="dd_main"><a href="/designers/?d=Womens&amp;orderBy=popular&amp;&amp;navsrc=subdesigners">Popular Designers</a></li>
+	                    
+			                <li class="dd_featured_designer">
+    <a href="/lovers-friends/br/ed29ab/?navsrc=subdesigner_i1" alt="Revolve Featured Designer"><div class="featured_des_img">LOVERS + FRIENDS</div>
+   	<img src="http://is4.revolveclothing.com/images/emailpics/designer_lf111414_dd_w.jpg"></a>
+</li>
+
+			            
+	                </ol>
+	 				 <ol><li><span id="360 Sweater" onclick="heartDesigner(this, '360 Sweater');" class="designers_heart">heart</span><a href="/360-sweater/br/1d2b17/?navsrc=subdesigner_list">360 Sweater</a></li><li><span id="7 For All Mankind" onclick="heartDesigner(this, '7 For All Mankind');" class="designers_heart">heart</span><a href="/7-for-all-mankind/br/f6d16b/?navsrc=subdesigner_list">7 For All Mankind</a></li><li><span id="A.L.C." onclick="heartDesigner(this, 'A.L.C.');" class="designers_heart">heart</span><a href="/alc/br/80ff4b/?navsrc=subdesigner_list">A.L.C.</a></li><li><span id="AG Adriano Goldschmied" onclick="heartDesigner(this, 'AG Adriano Goldschmied');" class="designers_heart">heart</span><a href="/ag-adriano-goldschmied/br/53e702/?navsrc=subdesigner_list">AG Adriano Goldschmied</a></li><li><span id="Alice + Olivia" onclick="heartDesigner(this, 'Alice + Olivia');" class="designers_heart">heart</span><a href="/alice-olivia/br/58278f/?navsrc=subdesigner_list">Alice + Olivia</a></li><li><span id="Bailey 44" onclick="heartDesigner(this, 'Bailey 44');" class="designers_heart">heart</span><a href="/bailey-44/br/3ce11b/?navsrc=subdesigner_list">Bailey 44</a></li><li><span id="BB Dakota" onclick="heartDesigner(this, 'BB Dakota');" class="designers_heart">heart</span><a href="/bb-dakota/br/32f7fe/?navsrc=subdesigner_list">BB Dakota</a></li><li><span id="BCBGMAXAZRIA" onclick="heartDesigner(this, 'BCBGMAXAZRIA');" class="designers_heart">heart</span><a href="/bcbgmaxazria/br/559320/?navsrc=subdesigner_list">BCBGMAXAZRIA</a></li><li><span id="Canada Goose" onclick="heartDesigner(this, 'Canada Goose');" class="designers_heart">heart</span><a href="/canada-goose/br/62225a/?navsrc=subdesigner_list">Canada Goose</a></li><li><span id="Citizens of Humanity" onclick="heartDesigner(this, 'Citizens of Humanity');" class="designers_heart">heart</span><a href="/citizens-of-humanity/br/dd7835/?navsrc=subdesigner_list">Citizens of Humanity</a></li><li><span id="Clover Canyon" onclick="heartDesigner(this, 'Clover Canyon');" class="designers_heart">heart</span><a href="/clover-canyon/br/c36880/?navsrc=subdesigner_list">Clover Canyon</a></li><li><span id="Current/Elliott" onclick="heartDesigner(this, 'Current/Elliott');" class="designers_heart">heart</span><a href="/currentelliott/br/b4a532/?navsrc=subdesigner_list">Current/Elliott</a></li></ol><ol><li><span id="Diane von Furstenberg" onclick="heartDesigner(this, 'Diane von Furstenberg');" class="designers_heart">heart</span><a href="/diane-von-furstenberg/br/9d3811/?navsrc=subdesigner_list">Diane von Furstenberg</a></li><li><span id="Dolce Vita" onclick="heartDesigner(this, 'Dolce Vita');" class="designers_heart">heart</span><a href="/dolce-vita/br/448c90/?navsrc=subdesigner_list">Dolce Vita</a></li><li><span id="Elizabeth and James" onclick="heartDesigner(this, 'Elizabeth and James');" class="designers_heart">heart</span><a href="/elizabeth-and-james/br/4177cb/?navsrc=subdesigner_list">Elizabeth and James</a></li><li><span id="Equipment" onclick="heartDesigner(this, 'Equipment');" class="designers_heart">heart</span><a href="/equipment/br/9fef84/?navsrc=subdesigner_list">Equipment</a></li><li><span id="For Love &amp; Lemons" onclick="heartDesigner(this, 'For Love &amp; Lemons');" class="designers_heart">heart</span><a href="/for-love-lemons/br/cec5a0/?navsrc=subdesigner_list">For Love &amp; Lemons</a></li><li><span id="Free People" onclick="heartDesigner(this, 'Free People');" class="designers_heart">heart</span><a href="/free-people/br/edbbc8/?navsrc=subdesigner_list">Free People</a></li><li><span id="Haute Hippie" onclick="heartDesigner(this, 'Haute Hippie');" class="designers_heart">heart</span><a href="/haute-hippie/br/4f8ef0/?navsrc=subdesigner_list">Haute Hippie</a></li><li><span id="Hudson Jeans" onclick="heartDesigner(this, 'Hudson Jeans');" class="designers_heart">heart</span><a href="/hudson-jeans/br/18bd2d/?navsrc=subdesigner_list">Hudson Jeans</a></li><li><span id="IRO" onclick="heartDesigner(this, 'IRO');" class="designers_heart">heart</span><a href="/iro/br/3305ed/?navsrc=subdesigner_list">IRO</a></li><li><span id="J Brand" onclick="heartDesigner(this, 'J Brand');" class="designers_heart">heart</span><a href="/j-brand/br/a650e1/?navsrc=subdesigner_list">J Brand</a></li><li><span id="James Perse" onclick="heartDesigner(this, 'James Perse');" class="designers_heart">heart</span><a href="/james-perse/br/91e877/?navsrc=subdesigner_list">James Perse</a></li><li><span id="Jeffrey Campbell" onclick="heartDesigner(this, 'Jeffrey Campbell');" class="designers_heart">heart</span><a href="/jeffrey-campbell/br/ea5bbb/?navsrc=subdesigner_list">Jeffrey Campbell</a></li></ol><ol><li><span id="Joie" onclick="heartDesigner(this, 'Joie');" class="designers_heart">heart</span><a href="/joie/br/095bc6/?navsrc=subdesigner_list">Joie</a></li><li><span id="kate spade new york" onclick="heartDesigner(this, 'kate spade new york');" class="designers_heart">heart</span><a href="/kate-spade-new-york/br/a0ed07/?navsrc=subdesigner_list">kate spade new york</a></li><li><span id="Lauren Moshi" onclick="heartDesigner(this, 'Lauren Moshi');" class="designers_heart">heart</span><a href="/lauren-moshi/br/79c5b9/?navsrc=subdesigner_list">Lauren Moshi</a></li><li><span id="Lovers + Friends" onclick="heartDesigner(this, 'Lovers + Friends');" class="designers_heart">heart</span><a href="/lovers-friends/br/ed29ab/?navsrc=subdesigner_list">Lovers + Friends</a></li><li><span id="Marc by Marc Jacobs" onclick="heartDesigner(this, 'Marc by Marc Jacobs');" class="designers_heart">heart</span><a href="/marc-by-marc-jacobs/br/f4ddfc/?navsrc=subdesigner_list">Marc by Marc Jacobs</a></li><li><span id="MILLY" onclick="heartDesigner(this, 'MILLY');" class="designers_heart">heart</span><a href="/milly/br/6e8c8e/?navsrc=subdesigner_list">MILLY</a></li><li><span id="NBD" onclick="heartDesigner(this, 'NBD');" class="designers_heart">heart</span><a href="/nbd/br/c38930/?navsrc=subdesigner_list">NBD</a></li><li><span id="Paige Denim" onclick="heartDesigner(this, 'Paige Denim');" class="designers_heart">heart</span><a href="/paige-denim/br/6dc649/?navsrc=subdesigner_list">Paige Denim</a></li><li><span id="Parker" onclick="heartDesigner(this, 'Parker');" class="designers_heart">heart</span><a href="/parker/br/c6ad5d/?navsrc=subdesigner_list">Parker</a></li><li><span id="Patagonia" onclick="heartDesigner(this, 'Patagonia');" class="designers_heart">heart</span><a href="/patagonia/br/4cda86/?navsrc=subdesigner_list">Patagonia</a></li><li><span id="rag &amp; bone/JEAN" onclick="heartDesigner(this, 'rag &amp; bone/JEAN');" class="designers_heart">heart</span><a href="/rag-bonejean/br/479400/?navsrc=subdesigner_list">rag &amp; bone/JEAN</a></li><li><span id="Rails" onclick="heartDesigner(this, 'Rails');" class="designers_heart">heart</span><a href="/rails/br/7b191c/?navsrc=subdesigner_list">Rails</a></li></ol><ol><li><span id="Rebecca Minkoff" onclick="heartDesigner(this, 'Rebecca Minkoff');" class="designers_heart">heart</span><a href="/rebecca-minkoff/br/0a762a/?navsrc=subdesigner_list">Rebecca Minkoff</a></li><li><span id="Splendid" onclick="heartDesigner(this, 'Splendid');" class="designers_heart">heart</span><a href="/splendid/br/5f9491/?navsrc=subdesigner_list">Splendid</a></li><li><span id="STONE_COLD_FOX" onclick="heartDesigner(this, 'STONE_COLD_FOX');" class="designers_heart">heart</span><a href="/stone_cold_fox/br/09e643/?navsrc=subdesigner_list">STONE_COLD_FOX</a></li><li><span id="T by Alexander Wang" onclick="heartDesigner(this, 'T by Alexander Wang');" class="designers_heart">heart</span><a href="/t-by-alexander-wang/br/ea7322/?navsrc=subdesigner_list">T by Alexander Wang</a></li><li><span id="Theory" onclick="heartDesigner(this, 'Theory');" class="designers_heart">heart</span><a href="/theory/br/f59c5e/?navsrc=subdesigner_list">Theory</a></li><li><span id="Tibi" onclick="heartDesigner(this, 'Tibi');" class="designers_heart">heart</span><a href="/tibi/br/daeeee/?navsrc=subdesigner_list">Tibi</a></li><li><span id="Tularosa" onclick="heartDesigner(this, 'Tularosa');" class="designers_heart">heart</span><a href="/tularosa/br/1bc68b/?navsrc=subdesigner_list">Tularosa</a></li><li><span id="Velvet by Graham &amp; Spencer" onclick="heartDesigner(this, 'Velvet by Graham &amp; Spencer');" class="designers_heart">heart</span><a href="/velvet-by-graham-spencer/br/41ba29/?navsrc=subdesigner_list">Velvet by Graham &amp; Spencer</a></li><li><span id="Vince" onclick="heartDesigner(this, 'Vince');" class="designers_heart">heart</span><a href="/vince/br/f2f60e/?navsrc=subdesigner_list">Vince</a></li><li><span id="Wildfox Couture" onclick="heartDesigner(this, 'Wildfox Couture');" class="designers_heart">heart</span><a href="/wildfox-couture/br/c5447f/?navsrc=subdesigner_list">Wildfox Couture</a></li><li><span id="Young, Fabulous &amp; Broke" onclick="heartDesigner(this, 'Young, Fabulous &amp; Broke');" class="designers_heart">heart</span><a href="/young-fabulous-broke/br/0a0342/?navsrc=subdesigner_list">Young, Fabulous &amp; Broke</a></li></ol>
+                     <div class="designers_view_all"><a href="/designers/?d=Womens&amp;orderBy=A-Z&amp;navsrc=subdesigner_all">View All Designers</a></div>
+	            </li>
+	            </div><!-- .sub_wrap -->
+	
+	        </ul>
+	    </li>
+
+	    
+
+	    <li class="page_item parent menu_hotlist"><a href="/r/hotlist.jsp?navsrc=main">HOT LIST</a></li>
+	    	    
+	    <li class="page_item last parent menu_sale"><a href="/sale/all-sale-items/br/54cc7b/?navsrc=main">SALE</a>
+            <ul class="sub_menu womens_sale">
+                <div class="sub_wrap">
+                <li>
+                	
+			            <ol class="dd_main_image">
+    <!-- EDIT HTML SALE START -->
+    <li><a href="/sale/final-sale/br/d3ef1a/?navsrc=subsale_i1"><img alt="Revolve Clothing" src="http://is4.revolveclothing.com/r/i/DD/FinalSale_dd_40.jpg"></a></li>
+    <!-- EDIT HTML SALE END -->
+</ol>
+
+			        
+                    <ol>
+                        <li class="dd_main"><a href="/sale/all-sale-items/br/54cc7b/?&amp;navsrc=subsale">All Sale</a></li>
+                        <li><a href="/sale/dresses/br/28a4b1/?&amp;navsrc=subsale">Dress</a></li>
+                        <li><a href="/sale/denim/br/ddcf61/?&amp;navsrc=subsale">Denim</a></li>
+                        <li><a href="/sale/tops/br/94dfe5/?&amp;navsrc=subsale">Tops</a></li>
+                        <li><a href="/sale/sweaters-knits/br/179c67/?&amp;navsrc=subsale">Sweaters &amp; Knits</a></li>
+                    </ol>
+                    <ol>
+                    	<li><a href="/sale/jackets-coats/br/61c971/?&amp;navsrc=subsale">Jackets &amp; Coats</a></li>
+                        <li><a href="/sale/shoes/br/ba4e3d/?&amp;navsrc=subsale">Shoes</a></li>
+                        <li><a href="/sale/accessories/br/c05a09/?&amp;navsrc=subsale">Accessories</a></li>
+                        <li><a href="/sale/final-sale/br/d3ef1a/?&amp;navsrc=subsale">Final Sales</a></li>
+                    </ol>
+                </li>
+                </div><!-- .sub_wrap -->
+            </ul>
+	    </li>
+	</ul>
+	<script type="text/javascript">
+	function heartDesigner(elem, bcode){
+    	if(typeof elem.className === "undefined" || elem.className === "designers_heart"){
+    			submitHeart("brand", bcode, "add");
+    			elem.className = "designers_hearted";
+    	}else{
+    		submitHeart("brand", bcode, "remove");
+    		elem.className = "designers_heart";
+    	}
+	}
+	
+// 		function heartProduct(elem, pcode){
+// 		// 	alert(elem.nodeName);
+// 		// 	alert(pcode);
+// 			var bn = elem;
+// 			var brand = false;
+// 			var plpHeartClass = "plp_main_img_heart";
+// 			var plpHeartActiveClass = "active";
+// 			if(blueHeart){
+// 				plpHeartClass = "plp_main_img_heartm";
+// 		// 		plpHeartActiveClass = "activem";
+				
+// 			}
+// 			if(typeof arguments[2] !== "undefined" && arguments[2] === "brand" ) brand = true;
+			
+// 			if(typeof elem.id === "undefined" || elem.id !== "heart_active_"+pcode){
+// 				if(brand)	submitHeart("brand", pcode, "add");
+// 				else submitHeart("product", pcode, "add");
+// 				for(var j=0; j< bn.childNodes.length; j++){
+// 		 			var bn2 = bn.childNodes[j];
+// 		// 		 	alert("j="+j+"=="+bn2.nodeType+", "+bn2.nodeName+", "+bn2.tagName+", "+bn2.className );
+// 			 		switch(bn2.nodeType){
+// 					case 3:
+// 					   //text Node
+// 					   break;
+// 					case 1:
+// 					   //Element node (anchor, div)
+// 					   if(bn2.nodeName.toLowerCase() === "div" || bn2.className.toLowerCase() === plpHeartClass ){
+// 						   bn2.className += " "+plpHeartActiveClass;
+// 					   }
+// 					   break;
+// 					default:
+// 					    //break;
+// 					}
+// 		 		}
+// 		 		elem.id = "heart_active_"+pcode;
+// 			}else{
+// 				if(brand)	submitHeart("brand", pcode, "remove");
+// 				else submitHeart("product", pcode, "remove");
+// 				for(var j=0; j< bn.childNodes.length; j++){
+// 		 			var bn2 = bn.childNodes[j];
+// 		// 		 	alert("j="+j+"=="+bn2.nodeType+", "+bn2.nodeName+", "+bn2.tagName+", "+bn2.className );
+// 			 		switch(bn2.nodeType){
+// 					case 3:
+// 					   //text Node
+// 					   break;
+// 					case 1:
+// 					   //Element node (anchor, div)
+// 					   if(bn2.nodeName.toLowerCase() === "div" || bn2.className.toLowerCase() === plpHeartClass ){
+// 						   if(bn2.className.toLowerCase().indexOf(plpHeartActiveClass) !== -1 )	bn2.className = plpHeartClass;
+// 					   }
+// 					   break;
+// 					default:
+// 					    //break;
+// 					}
+// 		 		}
+// 		 		elem.id = "";
+				
+// 			}
+			
+// 		}
+		
+// 		function submitHeart(paramtype, paramvalue){
+// 			if(typeof paramtype ==="undefined" || typeof paramvalue ==="undefined" ) return;
+// 			if(typeof arguments[2] ==="undefined" ) return;
+			
+// 			if (window.XMLHttpRequest){
+// 				// for IE7+, FF, Chrome, Opera, Safari
+// 				xhttp2 = new XMLHttpRequest();
+// 			}
+// 			else{
+// 				// for IE6 and older
+// 				xhttp2 = new ActiveXObject("Microsoft.XMLHTTP");
+// 			}
+// 			var URL = "/r/ajaxHeartProduct.jsp?";
+		
+// 			var dataToSend="";
+// 			if(paramtype === "product")	{
+// 				dataToSend += "&pcode="+encodeURIComponent(paramvalue);
+// 			}else if(paramtype === "brand")	{
+// 				dataToSend += "&bcode="+encodeURIComponent(paramvalue);
+// 			}
+// 			dataToSend += "&action_T="+encodeURIComponent(arguments[2]);
+			
+// 		// 	alert(dataToSend);
+			
+// 		// 	xhttp2.open(method, URL, async); 
+// 			xhttp2.open("POST", URL, false); // async
+// 			xhttp2.setRequestHeader("Content-type","application/x-www-form-urlencoded"); // this is needed
+// 			xhttp2.send(dataToSend);
+// 			var res = xhttp2.responseText;
+// 		// 	alert("jsp response="+res);
+// 			res = res.replace(/^\s+|\s+$/g,"");
+// 		//   	alert("jsp response="+res);
+			
+// 			   $.ajax({ 
+// 		                          type: "POST", 
+// 		                          url: "AjaxHeartTotalCount.jsp", 
+// 		                          success: function(response) { 
+// 		                                  var responseObj = eval('(' + response + ')');
+// 		                                 $("#heart_total_count").html(responseObj);               
+// 		                          } 
+// 		                        });
+// 		}
+	</script>
+</div>
+
+
+    	
+
+</nav>
+<!-- start LOGIN HEADER & MYREVOLVE SECTION-->
+
+</header>
+</div>
+</div>
+<div class="clear"></div>
+<!-- //////////////////////////// Header - End //////////////////////////// -->
+
+        <div class="rev_page">
+            <!-- //////////////////////////// Content Wrap - Start //////////////////////////// -->
+
+            <div class="rev_container">
+     
+
+                <div class="rev_content rev_info_page"> <!-- SHIPPING & RETURNS -->
+                    <!-- //////////////////////////// Content - Start //////////////////////////// -->
+
+                <!--Breadcrumbs-->
+                <div class="rev_breadcrumb">
+                    <div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                        <a href="/"><span itemprop="title">Home</span></a> /
+                        <div itemprop="child" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a href="/privacypolicy"><span itemprop="title">Privacy Policy</span></a>
+                        </div>
+                    </div>
+                </div>
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="rev_left_navigation">
+    <div class="info_menu">
+            <h2>Customer Care</h2>
+            <ul>
+            	<li><a href="/contactus">Contact Us</a></li>
+                <li>FAQs
+                	<ul>
+                        <li><a href="/faqus" id="faq_domestic_id">US</a>
+                        </li><li><a href="/faqinternational" id="faq_international_id">International</a>
+                    </li></ul>
+                </li>
+
+                <li>Shipping &amp; Returns
+					<ul>
+						<li><a href="/shippingus" id="ship_domestic_id">US</a>
+                        </li><li><a href="/shippinginternational" id="ship_international_id">International</a>
+                    </li></ul>
+                
+                </li>
+                <li><a href="/guarantee">Guarantee</a></li>
+                <li><a href="/privacypolicy">Security &amp; Privacy</a></li>
+                <li><a href="/feedback">Feedback</a></li>
+            </ul>
+        </div>
+</div> <!-- .rev_left_navigation -->
+
+
+            <div class="rev_main">
+                <div class="plp_main_title">
+                   <h1>PRIVACY POLICY</h1>
+                </div>
+
+        <div class="rev_security">
+
+            <div class="section">
+               <h2>SAFE AND SECURE SHOPPING</h2>
+
+                <p>REVOLVE knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <span class="info_page_black">By visiting REVOLVE, you are accepting the practices described in this Privacy Policy.</span></p>
+
+            </div>
+            <div class="section rev_guarantee">
+                <h2>What Personal Information Does REVOLVE Gather About Customers?</h2>
+
+                <ul>
+                    <li><span class="info_page_black">Information That You Provide:</span> We receive and store any information that a customer enters on our website or gives us in any way. This information is used to enhance your experience on our website, to respond to your requests, to customize your shopping experience and to communicate with you.
+                    </li>
+                    <li><span class="info_page_black">Automatic Information:</span> Some information is received and stored automatically whenever you interact with us. "Cookies" are one example of this type of information.  In internet terms, a "cookie" is a text file that websites send to visiting computers/devices to identify the visiting computer/device.   We also may use third-party website analytics tools.  These tools collect information about visitor traffic on our website and mobile applications.
+                    </li>
+                    <li><span class="info_page_black">Mobile:</span> When you download or use the REVOLVE mobile application, we may receive information about your location and your mobile device. This information may be used to provide you with personalized content.
+                    </li>
+                    <li><span class="info_page_black">Information from Other Sources:</span> We might also receive information about you from other sources and add it to our account information.  All information gathered is for the sole purpose of personalizing and improving your user experience.
+                    </li>
+                </ul>
+               
+             </div>
+
+             <div class="section rev_guarantee">
+                <h2>How Does REVOLVE Use Your Contact Information?</h2>
+                <p>We use your contact information for the following purposes only:</p>
+
+                <ul>
+                    <li>Register you as a user on our website;</li>
+                    <li>Manage and/or maintain your user account and wish list on our website;</li>
+                    <li>Process and deliver purchases, returns, backorders etc;</li>
+                    <li>Communicate with you and provide customer support;</li>
+                    <li>Let you know about products, promotions and events that might be of special interest to you;</li>
+                </ul>
+
+                <p>If for some reason you would prefer not to receive emails from REVOLVE simply email a request <a href="mailto:sales@revolveclothing.com">sales@revolveclothing.com</a> with the word "UNSUBSCRIBE" in the subject line.  Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.</p>
+
+            
+            </div>
+            <div class="section rev_guarantee">
+                <h2>How does REVOLVE Use Your Other Customer Information?</h2>
+                <ul>
+                    <li>Customize our services and product offerings to suit your needs and interests;</li>
+                    <li>Record purchases that you have made on our website;</li>
+                    <li>Let you communicate with us through social networks and other media;</li>
+                    <li>Allow you to post comments on our website, on social networks and other media;</li>
+                    <li>Protect you against fraud and unauthorized transactions, including identifying potential unauthorized users and/or hackers;</li>
+                    <li>Enforce our Terms of Use;</li>
+                    <li>Comply with applicable legal requirements, industry standards and our policies.</li>
+                </ul>
+
+
+            </div>
+            <div class="section">
+               <h2>Does REVOLVE Share Customer Information?</h2>
+
+                <p>Your privacy is always respected when you shop with REVOLVE or use the REVOLVE  mobile application.  From time to time we might establish business relationships with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours.  Your customer information is sometimes shared with such carefully selected partners in order to enhance your shopping experience.  We also sometimes allow third-party companies to collect certain anonymous information (e.g. mouse clicks, mouse movements, scroll behavior and/or keystroke activity) during your visits in order to further enhance your shopping experience.</p>
+
+                <p>
+                    <span class="info_page_black">Notice to California Residents:</span> If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by REVOLVE to any third parties,  including (i) a list of the categories of personal information about you that REVOLVE has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed sufficient to give you a reasonable indication of the nature of the third parties' business.  To submit a request with the subject heading "CALIFORNIA PRIVACY REQUEST" to <a href="mailto:sales@revolveclothing.com">sales@revolveclothing.com</a>.
+                </p>
+            </div>
+            
+            <div class="section">    
+
+                <h2>How Secure Is My Customer Information?</h2>
+
+                <p>
+                    All transactions submitted to us are encrypted with 128 SSL software which encrypts information you input to protect it from interception by outside parties.  REVOLVE is committed to maintaining the highest levels of security and protection against fraud.  We stay up-to-date with the latest in security technologies to ensure that your credit card information, contact information and shipping/billing information are confidential and safe.  Unfortunately, however, no data transmission over the internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our websites, you do so at your own risk.
+                </p>
+            </div>  
+             
+            <div class="section"> 
+
+                <h2>What Choices Do I Have?</h2>
+
+                <p>
+                   As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain REVOLVE and REVOLVE mobile application features.  If you do not want to receive e-mail or other mail from us or if you have any questions about how your information is being used, please simply send a request to <a href="mailto:sales@revolveclothing.com">sales@revolveclothing.com</a>. 
+                </p>
+            </div>   
+            <div class="section">
+
+                <h2>Are Children Allowed to Use REVOLVE?</h2>
+
+                <p>
+                   REVOLVE does not sell products for purchase by children.  If you are under 18, you may use REVOLVE only with the involvement of a parent or guardian. 
+                </p>
+            </div>   
+            <div class="section">
+                <h2>Conditions of Use, Notices, and Revisions</h2>
+
+                <p>
+                  If you choose to visit REVOLVE, your visit and any dispute over privacy is subject to this Policy and our Terms of Use.  If you have any concern about privacy at REVOLVE please contact us at <a href="mailto:sales@revolveclothing.com">sales@revolveclothing.com</a> with a description of your concern, and we will try to resolve it. Our Privacy Policy and the Terms of Use for REVOLVE are subject to change without notice.  Such changes will go into effect on the date that the notice is posted, will apply to all current and past users of our website and will replace any prior policies that are inconsistent.  Your continued use of our website or other services constitutes your acceptance of the practices described in the revised Privacy Policy and Terms of Use.
+                </p>
+
+            </div>
+        
+        <div class="rev_security"><!-- .rev_security --> 
+
+            </div><!-- .rev_main -->
+                    <!-- //////////////////////////// Content - End //////////////////////////// -->
+                </div><!-- .rev_content -->
+
+            </div><!-- .rev_container -->
+
+            <!-- //////////////////////////// Content Wrap - End //////////////////////////// -->
+        </div><!-- .rev_page -->
+
+		
+
+	
+
+	<div class="push"></div>
+
+	</div>
+	<!-- .rev_wrapper -->
+
+		<!-- //////////////////////////// Footer - Start //////////////////////////// -->
+	<footer class="rev_footer rev_footer">
+		<div class="rev_container">
+			<div class="rev_content footer_content">
+				<div class="footer_one">
+					<div class="title">Customer Care</div>
+	                <ul class="footer_care">
+						<li><a href="/contactus">Contact Us</a></li>
+						<li><a href="/faqus">FAQs</a></li>
+						
+						<li><a href="/shippingus">Shipping &amp; Returns</a></li>
+						
+						<li><a href="/guarantee">Guarantee</a></li>
+	                </ul>
+	                <ul class="footer_care">
+	                    <li><a href="/privacypolicy">Privacy Policy</a></li>
+	                    <li><a href="/termsofuse">Terms of Use</a></li>
+	                    <li><a href="/feedback">Feedback</a></li>
+	                    <li><a href="/giftcertificates">Gift Certificates</a></li>
+	                </ul>
+	                <div class="clear"></div>
+					<div class="footer_payments">
+
+						<ul>
+						<a href="/faq">
+
+							<li class="f_cc_visa"></li>
+							<li class="f_cc_mc"></li>
+							<li class="f_cc_amex"></li>
+
+							<li class="f_cc_jcb"></li>
+
+
+							<br>
+							<li class="faq_paypal_icon2 iconbreak"></li>
+							<li class="paypal_int_icon iconbreak"></li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+				<div class="footer_two">
+					<div class="title">Information</div>
+					<ul class="footer_info"> 
+						<li><a href="/aboutus">About Us</a></li>
+						<li><a href="/careers">Careers</a></li>
+	                    <!-- <li><a href="javascript:alert('Coming Soon....');">Careers</a></li> -->
+	                    <li><a href="/affiliate">Affiliate</a></li>
+	                </ul>
+	                <ul class="footer_info"> 
+	                    <li><a href="/press">Press</a></li>
+	                    <!-- <li><a href="javascript:alert('Coming Soon...');">Site Map</a></li> -->
+	                </ul>
+					<br class="clear">
+					<div class="track_ship_area">
+
+					<div class="title">Fast, Trackable Shipping</div>
+					<div class="footer_postal_us"></div>
+
+
+					<div class="footer_postal_aupost"></div>
+
+					</div><!-- track_ship_area -->
+				</div>
+				<div class="footer_three">
+					<ul class="footer_connect">
+						<div class="title">Connect</div>
+						
+							
+							<li class="ftr_fb">
+							
+						       <a href="http://www.facebook.com/REVOLVEclothing" target="_blank" alt="Revolve Facebook">Facebook</a></li>
+						    
+
+								<li class="ftr_tw"><a href="http://www.twitter.com/REVOLVEclothing" target="_blank" alt="Revolve Twitter">Twitter</a></li>
+
+								<li class="ftr_pn"><a href="http://pinterest.com/follow/revolveclothing/" target="_blank" alt="Revolve Pinterest">Pinterest</a></li>
+
+									<li class="ftr_ig"><a href="http://instagram.com/revolveclothing/" target="_blank" alt="Revolve Instagram">Instagram</a></li>
+
+								<li class="ftr_gg"><a href="http://plus.google.com/+revolveclothing" target="_blank" alt="Revolve Google+">Google+</a></li>
+
+                            <li class="fb-like">
+                            
+                                <div class="facebook_link_2" target="_blank" href="http://www.facebook.com/REVOLVEclothing">
+                                    <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FREVOLVEclothing&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="float:left;border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+                                </div>
+                            
+                            </li>
+                        
+					</ul>
+						
+					<div class="footer_customercare">CUSTOMER CARE:&nbsp;<span>1-888-442-5830</span></div>
+					<div class="footer_myrev">
+						<div class="title">Get in the Know!</div>
+						
+                        <form action="javascript:signUpEmail('Error, please try again!','newsletterEmail','F', 'en');">
+                            <input id="newsletterEmail" type="text" value="Enter your e-mail for the latest in style." name="email" onclick="resetNewsletter('Enter your e-mail for the latest in style.',false,'newsletterEmail');" onblur="resetNewsletter('Enter your e-mail for the latest in style.', true,'newsletterEmail');" autocomplete="off">
+                            <input class="submit" type="Submit" value="Submit" name="submit">
+                        </form>
+					</div>
+					<!--<div class="clear"></div>-->
+					<div class="footer_etrust2"><span></span>Secure Shopping</div>
+					<div class="clear"></div>
+					<div class="footer_copyright">2014 Eminent, Inc. All Rights Reserved.</div>
+				</div>
+				<div class="footer_bottom">
+				</div>
+				<div class="clear"></div>
+			</div><!-- .footer_content -->
+		</div><!-- .rev_container -->
+	</footer><!-- .rev_footer -->
+	<!-- //////////////////////////// Footer - End //////////////////////////// -->
+    
+	
+	
+
+
+
+<script type="text/javascript">
+if(window.sessionStorage){
+	if(typeof sessionStorage["tabID"] === "undefined"){
+		var TS = new Date().getTime();
+		sessionStorage["tabID"]=TS;
+	}
+// 	alert(sessionStorage["tabID"]);
+}
+
+
+var searchDepartmentScript = 'Womens';
+
+function assignTabID()
+{
+	document.getElementById('searchFormTabID').value=sessionStorage["tabID"];	
+}	
+
+function validateSearchInput()
+{
+	assignTabID();
+	return true;
+}
+
+</script>
+
+<script src="/r/js/ready.js?v1.3"></script>
+
+
+
+<div id="fb-root"></div>
+
+
+
+
+
+<script src="js/info.js"></script>
+
+
+
+<script type="text/javascript">
+
+	function loadJSFile(filename, async) {
+	    var fileref=document.createElement('script');
+	    fileref.setAttribute("type","text/javascript");
+	    fileref.setAttribute("src", filename);
+	    if (async) {
+	        fileref.setAttribute("async", "async");
+	    }
+	    if (typeof fileref!="undefined") {
+			document.getElementsByTagName("head")[0].appendChild(fileref);
+	    }
+	}
+
+
+    function getViewportInfo(){
+        var width = window.innerWidth ||
+                document.documentElement.clientWidth ||
+                document.body.clientWidth;
+        var height = window.innerHeight ||
+                 document.documentElement.clientHeight ||
+                 document.body.clientHeight;
+        if (width != undefined && height != undefined){
+            return '&w='+width+'&h='+height;
+        } else {
+            return '';
+        }
+    }
+
+    function insertPageTrack() {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = 'Direct Hit';
+        var link = "/r/infoSecurity.jsp";
+        var query =  "";
+        var uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '');
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=b' + '&cat=' + escape("") + '&subsection=' + '&subcat=' + escape("") + '&subsubcat=' + escape("") + '&sortBy=featured' + '&maxProducts=100' + '&pageNum=1';
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + "&u=" + escape(uri) + smsParams + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+    }
+    function insertPageTrackWithInfo(uriData) {
+        insertPageTrackWithInfo(uriData, false);
+    }
+    function insertPageTrackWithInfo(uriData, dataIsFullURL) {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = 'null';
+        var uri;
+        var link = "/r/infoSecurity.jsp";
+        var query = "";
+        if (!dataIsFullURL)
+            uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '') + "&" + uriData;
+        else
+            uri = uriData;
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=b' + '&cat=' + escape("") + '&subsection=' + '&subcat=' + escape("") + '&subsubcat=' + escape("") + '&sortBy=featured' + '&maxProducts=100' + '&pageNum=1';
+
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + "&u=" + escape(uri) + smsParams + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+    }
+
+    function insertPageTrackForColorChange(product, fromColor, toColor, defaultColor) {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = 'null';
+        var link = "/r/infoSecurity.jsp";
+        var query = "";
+        var uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '');
+        uri += "&Product=" + product + "&colorchng=&frmcolor=" + fromColor + "&tocolor=" + toColor + "&defaultColor=" + defaultColor;
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=b' + '&cat=' + escape("") + '&subsection=' + '&subcat=' + escape("") + '&subsubcat=' + escape("") + '&sortBy=featured' + '&maxProducts=100' + '&pageNum=1';
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + "&u=" + escape(uri) + smsParams + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+    }
+
+    function insertPageTrackForProductPosition(row, column, sort) {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = 'Direct Hit';
+        var link = "/r/infoSecurity.jsp";
+        var query = "";
+        var uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '');
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=b' + '&cat=' + escape("") + '&subsection=' + '&subcat=' + escape("") + '&subsubcat=' + escape("") + '&sortBy=featured' + '&maxProducts=100' + '&pageNum=1';
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&row=" + row + "&column=" + column + "&sort=" + sort + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + "&u=" + escape(uri) + smsParams + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+        window.location.href = url;
+    }
+
+    function insertPageTrackForQuickView(url) {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = "null";
+        var uri = url;
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=&cat=&subsection=&subcat=&subsubcat=&sortBy=&maxProducts=&pageNum=';
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + "&u=" + escape(uri) + smsParams + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+    }
+
+    function insertPageTrackSlider(pageNum) {
+        var cartAmount = '0.0';
+        var cartContent = '';
+        var referrer = "null";
+        var link = "/r/infoSecurity.jsp";
+        var query = "";
+        var uri = link + query;
+        var smsParams = '&dep=F' + '&boutique=' + '&newFlag=' + '&section=b' + '&cat=' + escape("") + '&subsection=' + '&subcat=' + escape("") + '&subsubcat=' + escape("") + '&sortBy=featured' + '&maxProducts=100' + '&pageNum=1';
+        $.ajax({
+            url: 'PageTrack.jsp',
+            data: "cC=" + escape(cartContent) + "&cT=" + escape(cartAmount) + "&r=" + escape(referrer) + smsParams + "&u=" + escape(uri + "&page" + pageNum) + getViewportInfo(),
+            cache: false,
+            success: function (msg) {
+            }
+        });
+    }
+
+
+</script>
+
+<script>
+    
+    function doReady() {
+       // loadJSFile('http://is4.revolveclothing.com/r/js/ready.js', true);
+        
+       // loadJSFile('http://is4.revolveclothing.com/r/js/vendor/jquery.rating.pack.js', true);
+       
+       
+	    
+        
+        insertPageTrack();
+        
+        $("#colorbox").addClass("colorbox");
+        var link = "/r/infoSecurity.jsp";
+        var query = "";
+        if (backButtonHit(link+query)){
+            updateMiniBag();
+        }
+    }
+
+    function doOnLoad() {
+
+		
+		insertGoogleAnalytics();
+		insertConvertro();
+		insertYandexMetrika();
+		insertNaver();
+		insertChannelAdvisor();
+		insertFacebook();
+		insertMarin();
+		insertFitPredictor();
+		insertViralNinjas();
+		insertCriteo();
+		insertGooglePlus();
+		insertWeibo();
+		insertNanigans();
+		insertTellApart();
+		insertBloomReach();
+		insertVk();  // russian facebook
+
+		
+
+        
+        var bodyID = document.getElementsByTagName("body")[0];
+		var trackingNode = document.createElement("div");
+		trackingNode.innerHTML = '<iframe style="display:none;" frameborder=0 width="1" height="1" src="ThirdParty.jsp"></iframe>';
+		bodyID.appendChild(trackingNode);
+        
+
+    }
+
+    $(document).ready(function(){
+    	doReady();
+    });
+   
+    $(window).load(function() {
+        doOnLoad();
+        if(typeof donOnLoad2 == 'function')
+        { donOnLoad2(); }
+  	});
+</script>
+
+
+
+
+
+
+
+<script>
+
+	
+
+	function insertGoogleAnalytics() {
+		loadJSFile('http://is4.revolveclothing.com/r/js/google_analytics.js', true);
+	}
+
+
+	function insertConvertro() {
+
+			loadJSFile('http://is4.revolveclothing.com/r/js/convertro.js', true);
+
+	}
+
+	function insertYandexMetrika() {
+
+	}
+
+	function insertNaver() {
+
+	}
+
+	function insertChannelAdvisor() {
+
+	}
+
+	function insertMarin() {
+		var _marinClientId = "vxn6dlnn50";
+		var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+		(function() {
+			var mt  = document.createElement('script'); mt.type = 'text/javascript'; mt.async = true;
+			var f = function(e){
+				window.backupWrite = document.write;
+				document.write = function(html){
+					$(document.getElementsByTagName('script')[0].parentNode).append(html);
+				};
+				try{
+					_marinTrack.trackPage();
+				} catch (err){
+					// alert('error with marin' + err);
+				}
+				document.write = window.backupWrite;
+			};
+			// Hack: support older IE versions (e.g., IE8)
+			if (!mt.addEventListener){
+				mt.attachEvent('onload', f);
+			} else {
+				mt.addEventListener('load', f, false);
+			}
+			mt.src = _marinProto + 'tracker.marinsm.com/tracker/' + _marinClientId + '.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mt, s);
+		})();
+	}
+
+	function insertFacebook() {
+
+			if (typeof blockFB == 'undefined' || blockFB == false){
+				(function (d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id))
+						return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			}
+
+	}
+
+	function insertFitPredictor() {
+
+				//<!-- fit predictor production library -->
+				//
+				loadJSFile("http://dnmpbe216ptzf.cloudfront.net/revolve/fitpredictor.js");
+
+	}
+
+	function insertViralNinjas() {
+
+			(function(){
+				var s = document.createElement('script');
+				s.type = 'text/javascript';
+				s.async = true;
+				s.defer = true;
+				//s.src = 'https://tag.testing.viralninjas.com/revolve/von.js';
+				//s.src = 'https://revolve.testing.viralninjas.com/static/singletag/von.js';// test
+				s.src = 'https://revolve.viralninjas.com/static/singletag/von.js'; // production
+				//s.src = 'https://tag.testing.viralninjas.com/revolve/von.js?runOnLoad=false';
+				document.getElementsByTagName('head')
+					[0].appendChild(s);
+			})();
+
+			/* if 'runOnLoad' parameter is set to false, App can run in external Javascript
+			 function with : ViralNinjas.run(); */
+
+	}
+
+	function insertCriteo() {
+
+	}
+
+	function insertGooglePlus() {
+
+	}
+
+	function insertWeibo() {
+
+	}
+
+	function insertNanigans() {
+
+	}
+
+
+	function insertTellApart() {
+
+				//<!-- Add Item to ShoppingCart tracking Start-->
+
+				//<!-- /Add Item to ShoppingCart tracking End-->
+
+	}
+
+	function insertVk() {
+
+	}
+
+	function insertBloomReach() {
+
+	}
+
+</script>
+
+
+<!-- yandex metrika noscript tracking -->
+<noscript><div><img src="//mc.yandex.ru/watch/24965960" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- Marin noscript tracking -->
+<noscript><img src="https://tracker.marinsm.com/tp?act=1&cid=vxn6dlnn50&script=no"></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 	page specific javaScript here -->
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"3024500,3057826","applicationTime":11,"beacon":"beacon-5.newrelic.com","queueTime":0,"licenseKey":"1ea52cf247","transactionName":"MgYGMRRYCkRZAENZCwtMLjY2FhYYUQ1RXzcAABEXD00dGVIQRw==","agent":"js-agent.newrelic.com\/nr-476.min.js","errorBeacon":"bam.nr-data.net"}</script>
+
+
+</div></div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
