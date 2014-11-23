@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062514id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164815id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,3 +39,6 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ##  Security 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+
+  
+
