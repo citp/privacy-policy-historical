@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515115032id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071540id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -131,7 +131,7 @@ If you change your mind and decide you do not wish to receive the Offspring news
 
 Please note: On receipt of the goods a signature will be required.
 
-In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20140515115032id_/http%3A//www.offspring.co.uk/view/content/www.allaboutcookies.org) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
+In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20141123071540id_/http%3A//www.offspring.co.uk/view/content/www.allaboutcookies.org) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.
 
