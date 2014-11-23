@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615033015id_/http%3A//www.clickandchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123101837id_/http%3A//www.clickandchat.com/dev/privacy) for the most accurate reproduction.*
 
 # ClickAndChat | Privacy
 
@@ -97,8 +97,8 @@ ClickAndChat reserves the right to change or update this Privacy Policy, or any 
 
 Web Technologies, Inc.  
 ClickAndChat.com  
-225 E Broadway Suite 201  
-Glendale, CA 91205
+550 N Brand Blvd Suite 1850  
+Glendale, CA 91203
 
 [support@clickandchat.com](mailto:support@clickandchat.com)  
 (888) 456-1147
