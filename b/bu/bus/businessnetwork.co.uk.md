@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnetwork.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071714id_/http%3A//businessnetwork.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnetwork.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123153413id_/http%3A//businessnetwork.co.uk/privacy) for the most accurate reproduction.*
 
 # Business Network Privacy Policy
 
