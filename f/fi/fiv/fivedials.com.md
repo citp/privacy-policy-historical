@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivedials.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611152619id_/http%3A//fivedials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivedials.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042348id_/http%3A//www.fivedials.com/privacy) for the most accurate reproduction.*
 
 # Hamish Hamilton: Privacy
 
