@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileforever.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053943id_/http%3A//fileforever.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileforever.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123212153id_/http%3A//fileforever.net/privacy_policy.html) for the most accurate reproduction.*
 
 # FileForever > Fast , Safe And Keep Files Forever
 
