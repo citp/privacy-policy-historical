@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supremesoloads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134917id_/http%3A//supremesoloads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremesoloads.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164900id_/http%3A//www.supremesoloads.com/privacy.php) for the most accurate reproduction.*
 
 # Solo Ad - Supreme Solo Ad - Increase Website Traffic With Solo Ad To 16,500
 
-[](http://www.supremesoloads.com/bannerclick.php?id=14246)  
+[](http://www.supremesoloads.com/bannerclick.php?id=16088)  
 
 
 Supreme-Solo-Ads Privacy Policy
