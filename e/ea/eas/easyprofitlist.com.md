@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102504id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123055634id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Profit List - Get Hits | More Traffic | To Build A List
 
-[](http://easyprofitlist.com/banclick.php?code=723bd01f65708dcab0548d00d78b0741&id=14024)
+[](http://easyprofitlist.com/banclick.php?code=fad68b730c6c465f6a6630b0ed0199cb&id=15834)
 
 Easy Profit List Privacy Policy
 
