@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localvigyapan.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609190812id_/http%3A//www.localvigyapan.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvigyapan.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123145110id_/http%3A//www.localvigyapan.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Local Vigyapan Privacy Policy
 
