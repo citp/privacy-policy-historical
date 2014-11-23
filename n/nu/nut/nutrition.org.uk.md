@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627045341id_/http%3A//nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123214302id_/http%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy / Legal Disclaimer
+# Privacy Policy - British Nutrition Foundation
 
 **Privacy / Legal Disclaimer**
 
@@ -129,8 +129,4 @@ Session cookie
 
 Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.
 
-|   
-  
-  * © British Nutrition Foundation 2011 
-
-
+| 
