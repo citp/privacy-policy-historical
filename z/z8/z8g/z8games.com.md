@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105158id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123033136id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Z8Games - Privacy Policy
 
 The following section describes the "Privacy Policy" that governs the player information act in our website ([www.z8games.com](http://www.z8games.com/)).
 
-All personal information, which is voluntarily given to "www.z8games.com" or G4BOX Inc. will not be issued, sold or redistributed to a third party in any way. 
+All personal information, which is voluntarily given to "www.z8games.com" or Smilegate West Inc. will not be issued, sold or redistributed to a third party in any way. 
 
 Each player's computer establishes an active connection to the website ([www.z8games.com](http://www.z8games.com/)) or its game servers by utilizing a particular IP (Internet Protocol) address. This type of link to the servers may provide us with the following information: what part of the world the connection is linked to, and who is the internet service provider of the account/player. This obtained information will only be used for billing purposes, and may be referenced for account verication by the website (www.z8games.com) unless the IP in question has been found to be acting illegally or maliciously against the website ([www.z8games.com](http://www.z8games.com/)) or its affiliates.
 
 By involving yourself in the game, you acknowledge that you agree to these rules and will abide by them regardless of the circumstances. In addition you also agree that these rules will apply to anyone that you allow to use your Z8Games' account or user ID. By allowing another user to use your account, you are personally responsible for all the consequences (including termination of your account) which may result, if the above discussed person violates any of the above discussed rules at any time.
 
-Further, you acknowledge that if your account and right to use the Z8Games' service is terminated by G4BOX Inc. for any reason, you will not be entitled to a refund of any fees paid by you.
+Further, you acknowledge that if your account and right to use the Z8Games' service is terminated by Smilegate West Inc. for any reason, you will not be entitled to a refund of any fees paid by you.
 
-G4BOX Inc. reserves the right to change rules and/or add new rules at any time. Therefore, it is your responsibility to check the Z8Games'website from time to time to review any rule(s) alterations that G4BOX Inc. may have made.
+Smilegate West Inc. reserves the right to change rules and/or add new rules at any time. Therefore, it is your responsibility to check the Z8Games'website from time to time to review any rule(s) alterations that Smilegate West Inc. may have made.
 
 Lastly, you agree to read carefully the terms and conditions set forth on the Z8Games' service agreement that is posted on the Z8Games website.
 
