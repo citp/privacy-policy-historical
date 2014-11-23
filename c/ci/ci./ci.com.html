@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ci.com privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517013848id_/http%3A//www.ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ci.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123124212id_/http%3A//www.ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Expires" content="-10000">
@@ -23,8 +23,7 @@
 <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
 <link rel="stylesheet" href="/web/common/camera.css" type="text/css">
 
-<!--script type="text/javascript" src="/web/common/jquery-1.6.2.min.js"></script-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="/web/common/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="/web/include/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/web/include/rollover.js"></script><!-- legacy code -->
@@ -87,7 +86,7 @@ _gaq.push(['_setAccount', 'UA-20401239-3']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
@@ -98,9 +97,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <!-- Body tag start -->
 <body id="" onload="MM_preloadImages('/web/images/topnav/contact_us_on_e.gif')">
 
-<!--
-<div style="width:100%;position:relative;top:0;font:12px/1.1 Arial,sans-serif;background:#000;color:#eee;margin-bottom:5px;"><div style="width:742px;margin:0 auto;padding:8px;text-align:center">Due to scheduled server maintenance, this website will be temporarily unavailable from 10 a.m. to 10 p.m. on October 19, 2013.<br/>We apologize for the inconvenience and thank you for your patience.</div></div>
--->
+
+
+
 
 
 <center>
@@ -115,17 +114,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
        <td width="396" align="right" valign="bottom">
 	   
 	   <!-- search hidden form submissions start-->
-		<form target="_blank" name="globalfund_search_name" id="globalfund_search_name" method="get" action="http://fund.ci.com/gishome/plsql/cif.process_fr">
-		<input type="hidden" name="fr_param1" value="">
-		<input type="hidden" name="fr_mode" value="">
-		<input type="hidden" name="pi_universe" value="CI_FUNDS">
-	   	</form>
-
-		<form target="_blank" name="globalfund_search_fid" id="globalfund_search_fid" method="get" action="http://fund.ci.com/gishome/plsql/cif.fund_pro">
-		<input type="hidden" name="fundsymbol" value="">
-		<input type="hidden" name="pi_universe" value="CI_FUNDS">
-	   	</form>
-	   
+   
 		<!--<FORM 	target="_blank" name="google_search" 	 id="google_search"			method="get"	action="http://www.google.com/cse" >-->
         <form target="_blank" name="google_search" id="google_search" method="get" action="/web/cse_e.jsp">
 		<input type="hidden" name="q" value="">
@@ -143,32 +132,108 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
            <td width="26%" align="right" valign="middle">Search:</td>
            <td width="2%" valign="middle">&nbsp;</td>
            <td width="36%" align="right" valign="middle">
-		   <input type="text" name="search_text" id="search_text" size="20" maxlength="50" alt="Enter text to search for." class="arial_black_8pt" onkeydown="return SubmitOnEnter(this,event)"></td>
+           
+		   		<input type="text" name="search_text" id="search_text" size="20" maxlength="50" alt="Enter text to search for." class="arial_black_8pt" onkeydown="return SubmitOnEnter(this,event)">
+		   </td>
            <td width="2%" valign="middle">&nbsp;</td>
            <td width="22%" valign="middle">
-		   <select name="search_criteria" id="search_criteria" class="arial_black_8pt" onchange="javascript:AddPre()">
-           		<option value="ci">ci.com									</option>
-               	<option value="CIG" selected="">by Fund Code </option>
-               	<option value="fname">by Fund Name </option>
+		   <select name="search_criteria" id="search_criteria" class="arial_black_8pt">
+           		<option value="ci">ci.com</option>
+                <option value="fsearch" selected="">by Fund Name/Code </option>
+
+               	<!--option value="fcode" selected>by Fund Code </option>
+               	<option value="fname">by Fund Name </option-->
            </select>
 		   
 			<!-- set search textfiled value to 'CIG' and set focus on it -->
-			<script language="javascript">
+			<!--script language="javascript">
 			document.search_template.search_text.value="";
 			insertAtCaret(document.search_template.search_text, "CIG");
 			document.search_template.search_text.focus();
-			</script>
+			</script-->
+            
+            <script language="javascript">
+			//-- submit via go button click
+			function doSearchSubmit()
+			{
+				
+				//check if user typed cigXYZ or CIGXYZ in input field
+				var search_term = "";
+                var sb_flag = 1; //flag to determine if searchby is code or name. sb = 1 means fundcode; sb= 0 means fund name
+				var flag = false; //flag to determine if user typed cig in the beginning
+              //  console.log(document.search_template.search_text.value);
+                
+				if (/^(cig[0-9]{1}[a-zA-Z0-9]*)\d$/i.test(document.search_template.search_text.value)){
+					flag = true;
+					var temp = document.search_template.search_text.value;
+					search_term = temp.substring(3, temp.length);
+					
+				}
+               
+                
+				if(document.search_template.search_criteria.value=="ci") {
+					submit_google_search();
+				}
+				else if(document.search_template.search_criteria.value=="fsearch") {
+					//window.open('http://funds.ci.com?bc=ci&Language=en&fc='+document.search_template.search_text.value);
+					
+					
+					if (flag){
+							$('input#search_text').val(search_term);
+                           
+							window.open('http://funds.ci.com?bc=ci&Language=en&st='+search_term + '&sb=' + sb_flag);	
+								  	
+					}
+					else{
+                        //check if the search_term starts with number_format
+                        if (/^([0-9][a-zA-Z0-9]*)/i.test(document.search_template.search_text.value)){
+                           // console.info("starts with number");
+                            sb_flag = 1;    
+                        }
+                        else{
+                            sb_flag = 0;
+                           // console.info("starts with letter");
+                        }
+                        window.open('http://funds.ci.com?bc=ci&Language=en&st='+document.search_template.search_text.value + '&sb=' + sb_flag);
+                     
+						//window.open('http://funds.ci.com?bc=ci&Language=en&fc='+document.search_template.search_text.value);
+					}					  	
+				}	
+			}
+			//-- submit via keyboard enter
+			function SubmitOnEnter(myfield,e)
+			{
+				var keycode;
+				if (window.event) keycode = window.event.keyCode;
+				else if (e) keycode = e.which;
+				else return true;
+				
+				if (keycode && keycode == 13) { // enter key = 13
+					doSearchSubmit();
+					return false;
+				} else {
+					return true;
+				}
+			}			
+			//-- google search form 
+			function submit_google_search()
+			{
+				document.google_search.q.value	=document.search_template.search_text.value;
+				document.google_search.submit();
+			}
+            </script>
 		   
 		   </td>
            <td width="1%" valign="middle">&nbsp;</td>
-           <td width="11%" valign="middle"><a href="javascript: doSubmit()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('search','','/web/images/topnav/btn_go_on_e.png',1)"><img src="/web/images/topnav/btn_go_off_e.png" name="search" width="32" border="0" alt="Go" align="left"></a></td>
+           <td width="11%" valign="middle"><a href="javascript: doSearchSubmit()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('search','','/web/images/topnav/btn_go_on_e.png',1)"><img src="/web/images/topnav/btn_go_off_e.png" name="search" width="32" border="0" alt="Go" align="left"></a></td>
          </tr>
 		 
          <tr>
            <th valign="bottom" scope="row">&nbsp;</th>
-           <td height="25" colspan="4" align="center" valign="middle"><a href="http://fund.ci.com/gishome/plsql/cif.analyser?pi_universe=CI_FUNDS" class="searchlink">Advanced Fund Search</a></td>
+           
+           <!--<td height="25" colspan="2" align="left" valign="middle" style="padding-left:5px;"><a href=' http://ci.com/fundfacts/ui/search.faces?lang=en' class="searchlink" target="_blank">Fund Facts Search</a></td>-->
            <td valign="bottom">&nbsp;</td>
-           <td valign="bottom">&nbsp;</td>
+           <td height="25" colspan="4" align="left" valign="middle" style="padding-left:2px;"><a href="http://funds.ci.com?bc=ci&amp;Language=en" class="searchlink" target="_blank">Advanced Fund Search</a></td>
          </tr>
        </tbody></table>
 	   </form>
@@ -190,7 +255,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <td width="103"><a href="http://www.cifinancial.com" target="_blank" onmouseover="MM_swapImage('ci_financial','','/web/images/topnav/ci_financial_on_e.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/web/images/topnav/ci_financial_e.gif" name="ci_financial" border="0" width="103"></a></td>
       <td bgcolor="#FFFFFF">&nbsp;</td>
       <td align="right" width="62"><a href="/web/company/sitemap.jsp?lang=ENG" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sitemap','','/web/images/topnav/sitemap_on_e.gif',1)"><img src="/web/images/topnav/sitemap_e.gif" name="sitemap" border="0" width="62"></a></td>
-      <td align="right" width="82"><a href="/web/company/privacy.jsp?lang=FR" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('language','','/web/images/topnav/language_on_e.gif',1)"><img src="/web/images/topnav/language_e.gif" name="language" border="0" width="82"></a></td>
+      <td align="right" width="82"><a href="privacy.jsp?lang=FR" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('language','','/web/images/topnav/language_on_e.gif',1)"><img src="/web/images/topnav/language_e.gif" name="language" border="0" width="82"></a></td>
     </tr>
 </tbody></table>
 
@@ -227,6 +292,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <tr>
 	<td colspan="2"><a href="/web/portfolio_mgmt/portfolio_mgmt.jsp?lang=ENG" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('management','','/web/images/sidemenu/nav_management_on_e.gif',1)"><img src="/web/images/sidemenu/nav_management_off_e.gif" alt="Portfolio Management" name="management" hspace="0" vspace="0" border="0" align="top"></a></td>
 </tr>
+  
 <tr>
 	<td colspan="2"><a href="/web/learningcentre/learning_index.jsp?lang=ENG" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('learning','','/web/images/sidemenu/nav_learning_on_e.gif',1)"><img src="/web/images/sidemenu/nav_learning_off_e.gif" alt="Learning Centre" name="learning" hspace="0" vspace="0" border="0" align="top"></a></td>
 </tr>
@@ -499,7 +565,7 @@ Before we make information available to third parties, other than an agent or se
       You may register a privacy-related complaint by contacting CI’s Privacy Officer.  We will explain CI’s complaint procedure to you and investigate all complaints.  If a complaint is justified, we will take all appropriate steps to set the situation right, including changing our policies and practices if necessary.  We will also let you know what other complaint procedures may be available to you.</p>
       <p><span class="listheading"><strong>For more information</strong></span><br>
         For more information, please contact CI’s Privacy Officer. <br>
-        Email: <a href="mailto:privacyoffice@ci.com">privacyoffice@ci.com</a><br> 
+        Email: <a href="mailto:privacy@ci.com">privacy@ci.com</a><br> 
         Mail: 2 Queen Street East 20th Floor, Toronto, Ontario, M5C 3G7<br> 
         Phone: (416) 364-1145</p>
       <hr size="1" class="arial_blue_9pt">
@@ -542,7 +608,7 @@ Before we make information available to third parties, other than an agent or se
       <p><span class="listheading"><strong>Principle 10 – Handling Customer Complaints 
         and Suggestions</strong></span><br>
         Individuals can address any complaint regarding compliance with the above 
-        principles with our Privacy Officer at <a href="mailto:privacyoffice@ci.com">privacyoffice@ci.com</a>.<br>
+        principles with our Privacy Officer at <a href="mailto:privacy@ci.com">privacy@ci.com</a>.<br>
       </p></td>
     <td width="20">&nbsp;</td>
   </tr>
