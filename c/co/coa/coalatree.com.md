@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coalatree.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615040049id_/https%3A//www.coalatree.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coalatree.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124004352id_/https%3A//www.coalatree.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Coalatree Privacy Policy | Coalatree Help and FAQs
 
