@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemyname.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615201622id_/http%3A//www.pokemyname.com/info.php%3Fdo%3Dtos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemyname.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123132620id_/http%3A//www.pokemyname.com/info.php%3Fdo%3Dtos) for the most accurate reproduction.*
 
 # Site Agreement and Copyright Notice - PokeMyName.com
 
