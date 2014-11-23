@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213233553id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072038id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
 | | |   
 ---|---|---  
-| Top Rankings |   
+| Compare |   
 | 
 
-  * [Best Credit Cards](http://www.creditdonkey.com/best-credit-cards.html)
+  * [Credit Card Offers](http://www.creditdonkey.com/best-credit-cards.html)
   * [Student Credit Cards](http://www.creditdonkey.com/student/)
   * [Business Credit Cards](http://www.creditdonkey.com/business/)
   * [Low Interest Credit Cards](http://www.creditdonkey.com/low-interest.html)
@@ -24,7 +24,7 @@
   * [Cash Back Credit Cards](http://www.creditdonkey.com/cash-back/)
   * [Gas Credit Cards](http://www.creditdonkey.com/gas/)
   * [Airline Credit Cards](http://www.creditdonkey.com/airline-miles/)
-  * [Travel Credit Cards](http://www.creditdonkey.com/best-travel.html)
+  * [Travel Credit Cards](http://www.creditdonkey.com/travel/)
 
 |   
 | |   
@@ -47,7 +47,6 @@
 | 
 
   * [Money Tips](http://www.creditdonkey.com/tip.html)
-  * [News and Trends](http://www.creditdonkey.com/news.html)
   * [Reviews and Ratings](http://www.creditdonkey.com/review.html)
   * [Like us on Facebook](https://www.facebook.com/CreditDonkey)
   * [Follow us on Twitter](https://twitter.com/CreditDonkey)
