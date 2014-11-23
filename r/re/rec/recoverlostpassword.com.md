@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recoverlostpassword.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628110239id_/http%3A//www.recoverlostpassword.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recoverlostpassword.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064543id_/http%3A//www.recoverlostpassword.com/privacy.html) for the most accurate reproduction.*
 
 # Sitemap for SmartKey site - Find more password recovery solution faster
 
