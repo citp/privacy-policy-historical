@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091009id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123094018id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Catalog Spree
 
@@ -86,4 +86,4 @@ This Privacy Policy may be revised periodically, and this will be reflected by a
 
 ### Padopolis Contact Information
 
-Please contact Padopolis with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Padopolis, Inc., 4962 El Camino Real, Suite 218 Los Altos, CA 94022, USA or by email at [info@catalogspree.com](mailto:info@catalogspree.com). We will respond to your inquiry within 30 days of its receipt.
+Please contact Padopolis with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Padopolis, Inc., 400 Logue Avenue, Mountain View, CA 94043, USA or by email at [info@catalogspree.com](mailto:info@catalogspree.com). We will respond to your inquiry within 30 days of its receipt.
