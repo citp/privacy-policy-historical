@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportballa.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320021206id_/http%3A//www.sportballa.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportballa.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123123606id_/http%3A//www.sportballa.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sport Balla
 
