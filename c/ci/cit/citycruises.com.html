@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the citycruises.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625091607id_/http%3A//www.citycruises.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citycruises.com privacy policy that was archived on 2014-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124001712id_/http%3A//www.citycruises.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="google-site-verification" content="Dw0x3XTac4S7kP5_m2WTM_jkrLD8dyVzCOmwTRJS2mM"><title>
 	City Cruises    | privacy policy
 </title><link rel="stylesheet" type="text/css" href="/css/reset.css">
     <link rel="stylesheet" href="/App_Themes/citycruises/style.css">
@@ -20,7 +20,7 @@
     <![endif]-->
     <link rel="stylesheet" href="/css/jquery-ui.css" type="text/css" media="all">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.7.js" type="text/javascript"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.7.js" type="text/javascript"></script>
 
     <script src="/js/jquery.scrollTo.js" type="text/javascript"></script>
 
@@ -54,6 +54,38 @@
             $(elementclass).css({ boxShadow: '' })
         }
 
+        function addGroups() {
+        try{
+            var elementname1="#ctl00_ctl00_ContentPlaceHolder1_SelectJourneyUserControl1_JourneyEventControl_ddlEvents"
+            var elementname2="#ctl00_ContentPlaceHolder1_JourneyControl_JourneyEventControl_ddlEvents"
+            var elementname=""
+            if( $(elementname1).length )
+	    {
+	     elementname=elementname1
+	    }
+            if( $(elementname2).length )
+	    {
+	     elementname=elementname2
+	    }
+        
+            var currentval
+            currentval=$(elementname).val();
+            
+            
+            console.log("Add Groups");
+            console.log(currentval);
+            var groups = {};
+            $("select option[data-category]").each(function() {
+                groups[$.trim($(this).attr("data-category"))] = true;
+            });
+            $.each(groups, function(c) {
+
+                $("select option[data-category='" + c + "']").wrapAll('<optgroup label="' + c + '">');
+            });
+
+            $(elementname).val(currentval);
+            }catch(err){}
+        }
 </script>
     <style>
         .editPanel a
@@ -95,36 +127,27 @@
         var __stormJs = 't1.stormiq.com/dcv4/jslib/5489_B607B3A8_259A_4994_BEE2_3B8AEE8FEF88.js';
     </script>
     <script type="text/javascript" src="/track.js"></script>
+
+
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-29527761-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
     
 </head>
 
     <body id="ID54" class="GP" runat="server">
   
 <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMTkwODEyMzEPZBYCZg9kFgJmD2QWBGYPZBYCAgQPZBYCAgEPZBYCAgEPFgIeBFRleHQF5QE8TUVUQSBOQU1FPSJEZXNjcmlwdGlvbiIgQ09OVEVOVD0iQ2l0eSBDcnVpc2VzIFByaXZhY3kgUG9saWN5IGZvciBvdXIgcml2ZXIgVGhhbWVzIHJpdmVyIGNydWlzZXMgYW5kIHNpZ2h0c2VlaW5nIHRvdXJzIj4NCjxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSJjaXR5IGNydWlzZXMscml2ZXIgdGhhbWVzLGxvbmRvbiByaXZlciBjcnVpc2VzLHNpZ2h0c2VlaW5nIHRvdXJzLGxvbmRvbj8/PyI+ZAICD2QWBgIBDw8WAh4HVmlzaWJsZWhkZAIJDxYCHwFoZAILD2QWAgIFD2QWAgICDw8WAh8BaGQWCmYPZBYCZg9kFgJmD2QWCAILDxBkZBYAZAINDxBkZBYAZAIPDxBkZBYAZAIQDxBkZBYAZAIBD2QWAmYPZBYCZg9kFgQCBw8QZGQWAGQCCQ8QZGQWAGQCAg9kFgICAQ9kFgJmD2QWAgIDDxBkZBYAZAIEDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAmYPFQG6BTx1bD4NCgk8bGk+DQoJCUJlIHN1cmUgdG8gPHN0cm9uZz5ib29rIG9ubGluZSA8L3N0cm9uZz5mb3IgdGhlIGNoZWFwZXN0IHBvc3NpYmxlIHRpY2tldCBwcmljZSE8L2xpPg0KCTxsaT4NCgkJUGFzc2VuZ2VycyB0cmF2ZWxsaW5nIGluIDxzdHJvbmc+ZWxlY3RyaWMgd2hlZWxjaGFpcnM8L3N0cm9uZz4sIHBsZWFzZSBjYWxsJm5ic3A7PHN0cm9uZz4rNDQgKDApIDIwIDc3IDQwMCA0MDAmbmJzcDs8L3N0cm9uZz50byZuYnNwO2NvbmZpcm0gc2FpbGluZyB0aW1lcyBvZiB0aGUmbmJzcDtsYXJnZXIgTTIgdmVzc2VsPC9saT4NCgk8bGk+DQoJCUFsdGhvdWdoIHdlIGFzayB5b3UgdG8gc2VsZWN0IGEgdHJhdmVsIHRpbWUgd2hlbiBib29raW5nLDxzdHJvbmc+IGlmIHlvdSBtaXNzIHRoZSBib2F0IDwvc3Ryb25nPnlvdSBjYW4gc3RpbGwgdHJhdmVsIG9uIGFub3RoZXIgdG91ciBvbiB0aGF0IGRheTwvbGk+DQoJPGxpPg0KCQk8c3Ryb25nPlBsZWFzZSBjaGVjayB0aGUgbGFzdCBib2F0cyB0aW1lczwvc3Ryb25nPiBzbyB5b3UgZG9uJiMzOTt0IGdldCBzdHJhbmRlZCE8L2xpPg0KCTxsaT4NCgkJUGxlYXNlIHJlbWVtYmVyIHRvIHByaW50IHlvdXIgdGlja2V0cy4gVGlja2V0cyBwcmVzZW50ZWQgb24mbmJzcDthIG1vYmlsZSBwaG9uZSBtaWdodCBub3QgYmUgYWNjZXB0ZWQuPGJyIC8+DQoJCSZuYnNwOzwvbGk+DQo8L3VsPg0KZAIGDxYCHwICARYCZg9kFgJmDxUBrQQ8dWw+DQoJPGxpPg0KCQlEb24mIzM5O3QgZm9yZ2V0IHRvIGNoZWNrIGFsbCBvdXIgPHN0cm9uZz5sYXRlc3QgZGVhbHM8L3N0cm9uZz4gb25saW5lITwvbGk+DQoJPGxpPg0KCQlHdWVzdHMgc2hvdWxkIGJlIDxzdHJvbmc+cmVhZHkgdG8gYm9hcmQmbmJzcDsxNSBtaW51dGVzIGJlZm9yZTwvc3Ryb25nPiB0aGUgZGVwYXJ0dXJlIHRpbWU8L2xpPg0KCTxsaT4NCgkJQWxsIHRpY2tldHMgPHN0cm9uZz5tdXN0IGJlIGJvb2tlZCBwcmlvcjwvc3Ryb25nPiB0byBkZXBhcnR1cmU8L2xpPg0KCTxsaT4NCgkJUGxlYXNlIDxzdHJvbmc+cmVtZW1iZXIgdG88L3N0cm9uZz4gPHN0cm9uZz5jaGVjayB3aGljaCBwaWVyPC9zdHJvbmc+IHlvdXIgY3J1aXNlIGRlcGFydHMgZnJvbTwvbGk+DQoJPGxpPg0KCQlXaGVuIGJvb2tpbmcgYSA8c3Ryb25nPkNydWlzZSArIEF0dHJhY3Rpb24gcGFja2FnZTwvc3Ryb25nPiwmbmJzcDtpZiB5b3UgbWlzcyB5b3VyIHNlbGVjdGVkIGJvYXQgeW91IGNhbiBzdGlsbCB0cmF2ZWwgb24gYW5vdGhlciB0b3VyJm5ic3A7dGhhdCBkYXk8L2xpPg0KPC91bD4NCmRkdXY8qduWoDJNB4GnU0U6Zz0FLkA=">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=cXc0o_Yb6uUVG56G4c6eRWC3Ppz3RO_GEjcL0G-VpUn-nIb3PBKO2zmArCArkQU35VTQU9ePaYuSVSLNfQqOM7Mf1Jo1&amp;t=635198935129146460" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMTkwODEyMzEPZBYCZg9kFgJmD2QWBGYPZBYCAgUPZBYCAgEPZBYCAgEPFgIeBFRleHQF5QE8TUVUQSBOQU1FPSJEZXNjcmlwdGlvbiIgQ09OVEVOVD0iQ2l0eSBDcnVpc2VzIFByaXZhY3kgUG9saWN5IGZvciBvdXIgcml2ZXIgVGhhbWVzIHJpdmVyIGNydWlzZXMgYW5kIHNpZ2h0c2VlaW5nIHRvdXJzIj4NCjxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSJjaXR5IGNydWlzZXMscml2ZXIgdGhhbWVzLGxvbmRvbiByaXZlciBjcnVpc2VzLHNpZ2h0c2VlaW5nIHRvdXJzLGxvbmRvbj8/PyI+ZAICD2QWBmYPDxYCHgdWaXNpYmxlaGRkAgQPFgIfAWhkAgUPZBYCAgYPZBYCAgIPDxYCHwFoZBYOZg9kFgJmD2QWAmYPZBYIAgwPEGRkFgBkAg4PEGRkFgBkAhAPEGRkFgBkAhEPEGRkFgBkAgEPDxYCHwFoZGQCAg9kFgJmD2QWAmYPZBYEAgcPEGRkFgBkAgkPEGRkFgBkAgMPZBYCAgEPZBYCZg9kFgICAw8QZGQWAGQCBA8PFgIfAWhkZAIGDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAmYPFQG6BTx1bD4NCgk8bGk+DQoJCUJlIHN1cmUgdG8gPHN0cm9uZz5ib29rIG9ubGluZSA8L3N0cm9uZz5mb3IgdGhlIGNoZWFwZXN0IHBvc3NpYmxlIHRpY2tldCBwcmljZSE8L2xpPg0KCTxsaT4NCgkJUGFzc2VuZ2VycyB0cmF2ZWxsaW5nIGluIDxzdHJvbmc+ZWxlY3RyaWMgd2hlZWxjaGFpcnM8L3N0cm9uZz4sIHBsZWFzZSBjYWxsJm5ic3A7PHN0cm9uZz4rNDQgKDApIDIwIDc3IDQwMCA0MDAmbmJzcDs8L3N0cm9uZz50byZuYnNwO2NvbmZpcm0gc2FpbGluZyB0aW1lcyBvZiB0aGUmbmJzcDtsYXJnZXIgTTIgdmVzc2VsPC9saT4NCgk8bGk+DQoJCUFsdGhvdWdoIHdlIGFzayB5b3UgdG8gc2VsZWN0IGEgdHJhdmVsIHRpbWUgd2hlbiBib29raW5nLDxzdHJvbmc+IGlmIHlvdSBtaXNzIHRoZSBib2F0IDwvc3Ryb25nPnlvdSBjYW4gc3RpbGwgdHJhdmVsIG9uIGFub3RoZXIgdG91ciBvbiB0aGF0IGRheTwvbGk+DQoJPGxpPg0KCQk8c3Ryb25nPlBsZWFzZSBjaGVjayB0aGUgbGFzdCBib2F0cyB0aW1lczwvc3Ryb25nPiBzbyB5b3UgZG9uJiMzOTt0IGdldCBzdHJhbmRlZCE8L2xpPg0KCTxsaT4NCgkJUGxlYXNlIHJlbWVtYmVyIHRvIHByaW50IHlvdXIgdGlja2V0cy4gVGlja2V0cyBwcmVzZW50ZWQgb24mbmJzcDthIG1vYmlsZSBwaG9uZSBtaWdodCBub3QgYmUgYWNjZXB0ZWQuPGJyIC8+DQoJCSZuYnNwOzwvbGk+DQo8L3VsPg0KZAIIDxYCHwICARYCZg9kFgJmDxUBrQQ8dWw+DQoJPGxpPg0KCQlEb24mIzM5O3QgZm9yZ2V0IHRvIGNoZWNrIGFsbCBvdXIgPHN0cm9uZz5sYXRlc3QgZGVhbHM8L3N0cm9uZz4gb25saW5lITwvbGk+DQoJPGxpPg0KCQlHdWVzdHMgc2hvdWxkIGJlIDxzdHJvbmc+cmVhZHkgdG8gYm9hcmQmbmJzcDsxNSBtaW51dGVzIGJlZm9yZTwvc3Ryb25nPiB0aGUgZGVwYXJ0dXJlIHRpbWU8L2xpPg0KCTxsaT4NCgkJQWxsIHRpY2tldHMgPHN0cm9uZz5tdXN0IGJlIGJvb2tlZCBwcmlvcjwvc3Ryb25nPiB0byBkZXBhcnR1cmU8L2xpPg0KCTxsaT4NCgkJUGxlYXNlIDxzdHJvbmc+cmVtZW1iZXIgdG88L3N0cm9uZz4gPHN0cm9uZz5jaGVjayB3aGljaCBwaWVyPC9zdHJvbmc+IHlvdXIgY3J1aXNlIGRlcGFydHMgZnJvbTwvbGk+DQoJPGxpPg0KCQlXaGVuIGJvb2tpbmcgYSA8c3Ryb25nPkNydWlzZSArIEF0dHJhY3Rpb24gcGFja2FnZTwvc3Ryb25nPiwmbmJzcDtpZiB5b3UgbWlzcyB5b3VyIHNlbGVjdGVkIGJvYXQgeW91IGNhbiBzdGlsbCB0cmF2ZWwgb24gYW5vdGhlciB0b3VyJm5ic3A7dGhhdCBkYXk8L2xpPg0KPC91bD4NCmRkx2jxj0ttkWuz89o9fyFw9ivbkB0=">
 
 
 <script src="/ScriptResource.axd?d=bQwiP1dnHXe9tAgxsdwNTx-XLTqMMloAm4afTbwTJvhsjbPqJrhWexAubRglGEJKWOAYsJPeE7pACn0nBIua6jlXH7oBslYZVLsOgNWTh0E6u_2TTZC5sGJHwF7BSGH9UNlNl2mS8RokPjC9fzxYoxDnkAR3rUv8weRee-iNeSn0U2zg0&amp;t=ffffffffc76ad25b" type="text/javascript"></script>
@@ -134,7 +157,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=97l4tSLZgfIp7mFOsImXLx-qoW8zjFXEPzjFzQFMM9ihH_oW2JmyTVVMv_0IJ9JePkLo81636VHB4-Z2emCM-WX_pP6DFtWo_EeBGUZLa3TEPl_SG89lNx_Te2FqzXBGXuEQbkne5jJgctgsUz7Trr5203fgnBf1PTFGDE1lygdffL720&amp;t=ffffffffc76ad25b" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EB92673F">
 
 
 
@@ -328,6 +351,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             			
             </div>
 
+            <div class="main-content repeater-54-22">                
+               			     
+            </div>
 			<!-- END GENERAL PAGE CONTENT -->
 		    <div class="page-text">
 		        
@@ -371,13 +397,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			<!-- BOOK ONLINE LEFT -->
             <div class="left-content">
                     <div style="width:270px;">						    			
-                        <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ContentPlaceHolder1$SelectJourneyUserControl1$ScriptManager1', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
-//]]>
-</script>
-
+                        
 <script type="text/javascript">
     function beginRequest(sender, args) {
         //alert("start");
@@ -482,19 +502,19 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	            
 	            </li>
             
-	            <li><a href="/sightseeing.aspx" alt="" title="">
-	            
-	            Sightseeing guide
-	            
-	            </a></li>
-            
-	            <li><a href="/city-cruises-sightseeing-prices-timetable.aspx" alt="" title="">
+	            <li><a href="/city-cruises-sightseeing-prices-timetable.aspx" alt="Prices &amp; Timetable Sightseeing Cruise" title="Prices &amp; Timetable Sightseeing Cruise">
 	            
 	            Prices &amp; timetable
 	            
 	            </a></li>
             
-	            <li><a href="/journey.aspx" alt="" title="">
+	            <li><a href="/sightseeing.aspx" alt="Sightseeing Guide" title="Sightseeing Guide">
+	            
+	            Sightseeing guide
+	            
+	            </a></li>
+            
+	            <li><a href="/journey.aspx" alt="Buy your ticket" title="Buy your ticket">
 	            
 	            Booking your ticket
 	            
@@ -527,12 +547,6 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	            <li><a href="/city-cruises-experiences-rivernights-river-lights.aspx" alt="" title="">
 	            
 	            River Lights
-	            
-	            </a></li>
-            
-	            <li><a href="/city-cruises-experiences-rivernights-river-party.aspx" alt="" title="">
-	            
-	            London River Party
 	            
 	            </a></li>
             
@@ -584,13 +598,31 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	            
 	            </li>
             
-	            <li><a href="/city-cruises-experiences-christmas-office-party.aspx" alt="" title="">
+	            <li><a href="/summer-party.aspx" alt="" title="">
+	            
+	            Summer Party 
+	            
+	            </a></li>
+            
+	            <li><a href="/totallythames.aspx" alt="" title="">
+	            
+	            Totally Thames
+	            
+	            </a></li>
+            
+	            <li><a href="/city-cruises-experiences-festive-season.aspx" alt="" title="">
 	            
 	            Christmas
 	            
 	            </a></li>
             
-	            <li><a href="/city-cruises-experiences-special-events-new-years-eve.aspx" alt="" title="">
+	            <li><a href="/city-cruises-experiences-christmas-office-party.aspx" alt="" title="">
+	            
+	            Xmas Office Party
+	            
+	            </a></li>
+            
+	            <li><a href="/city-cruises-experiences-special-events-new-years-eve.aspx" alt="New Year’s Eve" title="New Year’s Eve">
 	            
 	            New Year's Eve
 	            
@@ -647,6 +679,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	            <li><a href="/about-us.aspx" alt="" title="">
 	            
 	            About us
+	            
+	            </a></li>
+            
+	            <li><a href="/city-cruises-poole.aspx" alt="" title="">
+	            
+	            City Cruises Poole
 	            
 	            </a></li>
             
@@ -765,17 +803,21 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	<!--END FOOTER CONTENTS -->
 </div>
 
+<input id="feefoproduct" type="hidden" value="">
+
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+$(function() {addGroups();});Sys.Application.initialize();
 //]]>
 </script>
 </form>
 
 
 
-<script type="text/javascript">
+
+
+<!--script type="text/javascript">
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-29527761-1']);    
@@ -788,15 +830,15 @@ Sys.Application.initialize();
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
-</script>
+</script-->
 
-<script type="text/javascript">
+<!--script type="text/javascript">
   (function () {
     var cachebust = (Math.random() + "").substr(2);
     var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';    
     new Image().src = protocol+"//20551367p.rfihub.com/ca.gif?rb=8539&ca=20551367&ra="+cachebust;
   })();
-</script>
+</script-->
 
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -813,7 +855,9 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
+<img src="http://tr.mobiadserv.com/postback/conversion/veinteractive/?amount=1&amp;subid=CC-/privacy-policy.aspx" border="0" width="1" height="1" alt="Advertisement">
 
+<script type="text/javascript" src="https://www.feefo.com/reviewjs/www.citycruises.com/citycruises"> </script>
 
 
 </body></html>
