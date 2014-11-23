@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslconversationquestions.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620115251id_/http%3A//www.eslconversationquestions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslconversationquestions.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031457id_/http%3A//www.eslconversationquestions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ESL Conversation Questions
 
@@ -6,13 +6,15 @@ ESL Conversation Questions operates eslconversationquestions.com and may operate
 
 ## Website Visitors
 
-Like most website operators, ESL Conversation Questions collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website. An example being our use of Google Analytics to better understand visitor behavior.
+Like most website operators, ESL Conversation Questions collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, usage patterns and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website. An example being our use of Google Analytics to better understand visitor behavior.
 
 ESL Conversation Questions uses Google Analytics reports to better understand visitor behavior to better serve the needs of our visitors. We have implemented Google Analytics Demographics and Interest Reporting. This uses data from Google’s Interest-based advertising and 3rd-party audience data (such as age, gender, and interests) to provide demographic and interest information to Google Analytics. ESL Conversation Questions uses this data to better understand it’s audience and to improve product development. ESL Conversation Questions will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless ESL Conversation Questions has robust notice of, and the user’s prior affirmative (i.e., opt-in) consent to, that merger. Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 Google also has a browser addon to opt-out of Google Analytics which can be found [here](https://tools.google.com/dlpage/gaoptout/).
 
-From time to time, ESL Conversation Questions may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+ESL Conversation Questions also uses Inspectlet which anonymously tracks some user usage patterns to create heat maps or record how the site is being used. Data that is collected is non-personally identifying and will only be used to further improve the layout of the site.
+
+ESL Conversation Questions also uses the Amazon Affiliate program on the site. Some links may be affiliate links.
 
 ESL Conversation Questions also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on eslconversationquestions.com blogs/sites. ESL Conversation Questions only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
