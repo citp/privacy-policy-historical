@@ -1,35 +1,63 @@
-> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112802id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131126id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Nutrition Studies
 
-This website is maintained by The T. Colin Campbell Center for Nutrition Studies, a nonprofit organization. This website may also include services provided by third parties and distributed through the website by virtue of a license, grant, or some other form of agreement between the third party and The T. Colin Campbell Cneter for Nutrition Studies. In the policies that follow, “we,” “us,” “our,” and “TCCCNS” refers to The T. Colin Campbell Center for Nutrition Studies.  
-TCCCNS provides this website under the following conditions. If you visit this website, you agree to accept our Privacy Policy and Terms Of Use. Please read them carefully.
+## Privacy Policy
 
-TCCCNS recognizes the need to treat any personal information that you share with us with a high degree of care, sensitivity, and security. We appreciate your trust.  
-This version of our Privacy Policy is effective as of November 1st, 2013.
+The T. Colin Campbell Center for Nutrition Studies (“CNS”) values the private information of visitors to our website (the “Site”) and understands the need for security surrounding such information. The following policies outline the ways in which we collect, store and use personally identifiable information in providing our services. It also explains our use of cookies and delineates our legal policy. Except for very limited exceptions we do not share any personally identifiable information with third parties. We reserve the right to modify, alter or otherwise update this Privacy Policy at any time and you are encouraged to periodically review it.
 
-### E-mail addresses you provide
+## Information Collected
 
-If you supply us with your e-mail address, we will use it only to communicate with you regarding questions you have asked. If you are a subscriber to our Newsletter, you may also receive periodic e-mails from us with information, services, upcoming events, fundraising efforts, and special announcements.
+For each use of the Site, information about you is collected such as your IP address, the website from which you are redirected to the Site or search query, the date and duration of your visit, your browser, operating system, your browsing activity on the Site and particularly the pages you visit on the Site. This information, some of which may be considered personally identifiable information, is only used for statistical purposes and to analyze and optimize the functioning and the use of our Site. To this end, CNS uses the services of third parties to which such information is communicated for these purposes. 
 
-If you do not want to receive e-mail from us in the future, please let us know by unsubscribing using the tools provided (e.g., unsubscribing from our e-newsletter) or by contacting us. We will honor your request as quickly as possible.  
-Regarding e-mails you send to us: Please be aware that e-mail is not a secure method of transmitting information; therefore, please do not disclose sensitive information by e-mail. As our website’s Terms Of Use indicates, tccCNS is not responsible for any loss or damage that results from interception and/or unauthorized use by third parties of any information that you send us by e-mail.
+We also obtain personal data from you when you send or receive electronic communications with us such as as signing up for our newsletter, sending online donations or otherwise voluntarily providing us with personal information.
 
-Except as set forth in this Privacy Policy, we will not disclose any personal information you provide to us.
+## Newsletters
 
-tccCNS may release personal information as required by law — for example, to comply with a court order. In very limited circumstances, we also may release personal information if we believe in good faith that disclosing such information is necessary to protect the safety of our subscribers, our website visitors, this website, and/or the general public.
+If you wish to subscribe to our electronic newsletter(s) or receive other materials in electronic or print form, we will use your e-mail or mailing address, as applicable, to send the requested materials.
 
-tccCNS is committed to maintaining the security and confidentiality of the personal information you provide to us. We have a combination of physical, electronic, and procedural measures in place to help protect against the loss, misuse, or alteration of your personal information. Access to your personal information is limited to those who need it to perform their duties.  
-Our commitment to security notwithstanding, please be aware that there is always some risk when transmitting personal information over the internet, and no method of storing electronic data is completely secure. A risk remains that others could find a way to thwart our security measures. Therefore, despite the fact that we strive to protect your personal information, tccCNS cannot and does not warrant or guarantee the security or privacy of any information you send to us. You do so at your own risk.
+## Use of Collected Information
 
-tccCNS maintains a general-audience website. We do not knowingly collect any personal information from children under the age of 13 and are particularly concerned about children’s privacy online. If you are under 13, please do not send us any of your personal information, and you may use this website only with the involvement and consent of a parent or guardian.
+The information collected is used for the following purposes: to manage and improve our Site; to enable you to get involved in CNS activities; to allow you to receive information such as updates and newsletters on our activities to enable you to support CNS; to apply for a position of employment at CNS; and to respond to your inquiries, requests or communications. If you choose to provide your information to CNS, you may receive information from CNS about various projects and activities. 
 
-tccCNS is not responsible for the privacy policies, data-collection practices, contents, or terms of use of other websites to which we link. If you visit external websites, please review their privacy policies and terms of use.
+## Disclosure of Information
 
-The personal information you provide to us will be transferred to and stored in the United States. By submitting your personal information, you consent to its transfer and storage in the United States. You also consent to its use in accordance with the purposes for which it was collected and as set forth in this Privacy Policy.
+We may employ third parties to perform functions on our behalf including, without limitation, administering components of this Site. We may share personal data with these third parties in order to provide these services. We make commercially reasonable efforts to confirm that these third parties are prohibited from using your personal data for any other purpose.
 
-In the future, we may use customer information for new, unanticipated uses not outlined in this Privacy Policy. If our information practices change, we will post the changes on our website and give you the choice to opt out of these new uses. If you are concerned about how your information is being used, please check our website periodically.
+We may also share your personal data with CNS partner organizations, independent contractors and other entities and individuals to further CNS’s charitable purposes. We make commercially reasonable efforts to confirm that these third parties are prohibited from using your personal data for any other purpose.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us.
+We will not sell your personal data or any other information we collect about your activity on our Site.
 
-If you feel that our website is not following the Privacy Policy outlined above, please contact us. Alternatively, you can contact your state or local chapters of the Better Business Bureau, state or local consumer protection office, or the Federal Trade Commission at 202-FTC-HELP (202-382-4357).
+We reserve the right to disclose your personal data information as required by law, when we believe that disclosure is necessary to protect our rights, to comply with a legal obligation or a request from governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing the Site, or to protect the legal rights, interests, or safety of CNS, the Site, our users or others.
+
+## Your Consent
+
+By providing us with your personal data, you consent to the collection and use of this information in accordance with the purposes described in this Privacy Policy.
+
+## International Transfers
+
+By using the Site, you expressly acknowledge and agree that, in the framework of the processing of personal data, such information can be transferred to countries which do not offer a similar level of protection for personal data as your country of residence, and specifically to the United States.
+
+## Links to Other Sites
+
+This Site may contain links to other sites that are not owned or controlled by CNS. We are not responsible for the use of cookies or the privacy practices or content of such other sites. Please consult the linked sites’ respective terms of use for more information.
+
+## How Do We Protect Personal Information
+
+We take appropriate measures to ensure that the personal data you disclose to us is kept secure, accurate and up to date and is kept only for so long as is necessary for the purposes for which it is used.
+
+## Right of Access, Modification and Rectification
+
+You have a right of access, modification and rectification of your personal data, at any time and free of charge. Some of the functionalities of our Site, via third party providers, may enable you to manage and modify your account settings yourself and to choose to stop receiving emails from CNS. Similarly, you can oppose the processing of your personal data by contacting CNS using [info@nutritionstudies.org](mailto:info@nutritionstudies.org).
+
+## COOKIES POLICY
+
+Our Site uses several cookies. By using our Site, you agree that we may place these and other similar types of cookies on your device and access them when you visit the Site in the future. A cookie is a small file of letters and numbers that, with your agreement, we put on your computer. The cookies we use are primarily analytical cookies that aid us in improving both our Site and your experience by tracking which areas and features of our Site are popular, making the Site easier to navigate, and to count visits. We may also use cookies placed on our Site by third parties acting on our behalf.
+
+If you want to delete these cookies or any other cookies that are already on your computer, please refer to the help and support areas on your internet browser for instructions on how to locate the file or directory that stores cookies.
+
+Information on cookies, including deleting or controlling them, can be found at: [http//www.AboutCookies.org](https://web.archive.org/web/20141123131126id_/http://nutritionstudies.org/privacy/http//www.AboutCookies.org "website") or at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "website"). Please note that, by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Site and the Site may not function properly.
+
+## Enforcement
+
+If you feel that our Site is not following the Privacy Policy outlined above, please contact us. Alternatively, you can contact your state or local chapters of the Better Business Bureau, state or local consumer protection office, or the Federal Trade Commission at 202-FTC-HELP (202-382-4357).
