@@ -1,27 +1,21 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604125230id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195528id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
 # Free Psychic Reading & Tarot Reading: Privacy Policy | Psychic center.com
 
-  |  Last Revised: March 25th, 2014
+  |  Last Revised: November 11th, 2014
 
 Horoscope.com, Inc. ( **"we"** or **"Horoscope.com"** ) has created this privacy policy ( **"Privacy Policy"** ) to demonstrate our commitment to privacy. This Privacy Policy applies to www.astrocenter.com, www.psychiccenter.com, www.horoscope.com and www.horoscopo.com owned and operated by Horoscope.com, Inc. and to all Mobile and Facebook Apps operated by Horoscope.com, Inc. This privacy policy describes how Horoscope.com, Inc. collects and uses the Personal Data you provide on our websites: www.astrocenter.com, www.psychiccenter.com, www.horoscope.com and www.horoscopo.com, and in our Mobile and Facebook Apps, as well as the choices available to you regarding our use of your personal data and how you can access and update this information. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, **"Offerings"** ) and exchanging information on websites of Horoscope.com, Inc., its affiliates or agents ( **"Company"** or **"We"** ) with links to this Privacy Policy (collectively, the **"Website"** ) and our mobile applications (the **"Application(s)"** ).
 
 **1.    QUESTIONS; CONTACTING COMPANY; REPORTING VIOLATIONS**
 
-Horoscope.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these websites, www.astrocenter.com, www.psychiccenter.com and www.horoscope.com.
-
 If you have any questions, concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
       Horoscope.com, Inc.  
-      126 South Park  
-      San Francisco, CA 94107-1809
+      369 Sutter Street  
+      San Francisco, CA 94108
 
       Email: privacy@horoscope.com  
       Tel: 415 615 9028
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-Horoscope.com, Inc. complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Data from the from European Union member countries. Horoscope.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Horoscope.com, Inc.'s certification, please visit http://www.export.gov/safeharbor/
 
 **2.    USER CONSENT**
 
@@ -152,8 +146,8 @@ We may amend this Privacy Policy at any time in our sole discretion. We will not
 If you have any questions about this Privacy Policy, the practices of the Company Properties, or your dealings with the Company Properties, you can contact us using the following contact information:
 
       Horoscope.com, Inc.  
-      126 South Park  
-      San Francisco, CA 94107-1809
+      369 Sutter Street  
+      San Francisco, CA 94108
 
       Email: privacy@horoscope.com  
       Tel: 415 615 9028
