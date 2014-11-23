@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054619id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123210238id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Daily News Dig
 
@@ -31,5 +31,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 ### Other Stories From the Web
-
-## Join In The Conversation
