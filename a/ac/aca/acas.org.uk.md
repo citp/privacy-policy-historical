@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203148id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195004id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
-# Acas - Acas privacy policy
-
-Website URL : http://www.acas.org.uk/index.aspx?articleid=1922&dm_i=YXD,1WLVF,6TRO2M,6U3HN,1
+# Acas website: privacy policy | Acas
 
 ## Introduction
 
@@ -76,7 +74,7 @@ Email: [webteam@acas.org.uk](mailto:webteam@acas.org.uk)
 
 If you have a query or complaint about this Privacy Policy or about the Website, you can contact Us at [webteam@acas.org.uk](mailto:webteam@acas.org.uk).
 
-Note that we cannot answer personal situations or queries by email. You should call the dedicated National Helpline 08457 47 47 47 for free confidential help and information on work issues.
+Note that we cannot answer personal situations or queries by email. You should call the dedicated National Helpline 0300 123 1100 for free confidential help and information on work issues.
 
 ## Links to external sites from the Website
 
