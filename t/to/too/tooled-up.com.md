@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tooled-up.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306212551id_/http%3A//www.tooled-up.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tooled-up.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022454id_/http%3A//www.tooled-up.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement : Tooled-Up.com
 
