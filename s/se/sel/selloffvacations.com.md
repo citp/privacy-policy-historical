@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619000632id_/http%3A//www.selloffvacations.com/About-Us/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071408id_/http%3A//www.selloffvacations.com/About-Us/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # SellOffVacations.com
 
