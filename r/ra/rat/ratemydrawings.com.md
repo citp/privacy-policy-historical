@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084521id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130818id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.*
 
 # RateMyDrawings - Privacy
 
