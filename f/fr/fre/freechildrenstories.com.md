@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freechildrenstories.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328224254id_/http%3A//www.freechildrenstories.com/inner.php%3Fpage_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freechildrenstories.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123080201id_/http%3A//www.freechildrenstories.com/inner.php%3Fpage_id%3D3) for the most accurate reproduction.*
 
 # Free Children Stories
 
