@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607222501id_/http%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072103id_/http%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Eat Well 101
+# — Eatwell 101
+
+**Editorial Policy  
+**Eatwell 101’s recommendations are selected by our editorial staff and trusted contributors.  
+Most important, our taste is not for sale. Brands and establishments cannot pay to be recommended by Eatwell 101. Our sponsors and advertisers are featured in obvious positions on our website and emails, because we believe your trust is essential to our success.
+
+If you’re a business owner or publicist or just an ardent fan of a local establishment, a brand or a website, you can suggest it to our editors. See our Contact page for information by clicking [here](http://www.eatwell101.com/contact-us).
+
+**Tip/Advertorial Email  
+**Occasionally we’ll send you a Partner Tip email from one of our advertisers. These advertorial features are clearly marked as such by the email’s subject line and a note at the top of the article itself. The content of these Partner Tips is paid for by our sponsors, and does not reflect the opinions of the Eatwell 101 editorial staff.
 
 **Privacy Policy**  
 Eatwell101.com is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Eatwell101.com website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
