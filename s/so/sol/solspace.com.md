@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solspace.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603171759id_/http%3A//www.solspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solspace.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075601id_/http%3A//www.solspace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Solspace
 
