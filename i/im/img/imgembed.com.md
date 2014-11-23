@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgembed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055755id_/http%3A//imgembed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgembed.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195137id_/http%3A//imgembed.com/privacy) for the most accurate reproduction.*
 
 # IMGembed - The new standard for ethical image use online
 
