@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bible-knowledge.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606162604id_/http%3A//www.bible-knowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bible-knowledge.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075206id_/http%3A//www.bible-knowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Like many other Web sites, [www.bible-knowledge.com](http://www.bible-knowledge
 
   * Google, as a third party vendor, uses cookies to serve ads on [www.bible-knowledge.com](http://www.bible-knowledge.com/).
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.bible-knowledge.com](http://www.bible-knowledge.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html.
 
 
 
