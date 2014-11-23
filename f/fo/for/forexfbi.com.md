@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexfbi.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623040719id_/http%3A//www.forexfbi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexfbi.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123234928id_/http%3A//www.forexfbi.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
