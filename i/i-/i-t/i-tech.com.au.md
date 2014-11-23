@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090232id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072305id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20140625090232id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20141123072305id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -60,41 +60,27 @@ We use cookies as a way to give you better service. They personalize your shoppi
   
 | [Specials](http://www.i-tech.com.au/Special.aspx)  
 ---  
-| [ ASUS SABERTOOTH-990FX-R2 990X/ 4 x DDR3/ 4 x PCI-E2.0 x 16/ 8 x SATA3/ 2x eSATA/ 6 x USB3.0/ 8 ](http://www.i-tech.com.au/products/129320_ASUS_SABERTOOTH_990FX_R2_990X__4.aspx)  
+| [ QNAP TS-EC1679U-RP 16 Bay Rackmount Hotswap NAS-Quad Core E3-1225 3.1GHz, 4Gb DDR3 (ext.16Gb) ](http://www.i-tech.com.au/products/138109_QNAP_TS_EC1679U_RP_16_Bay_Rackmount.aspx)  
 ---  
-$242.00   
-Regular Price $261.00  
-Your save $19.00  
-[ Silverstone ML06B Black Mini ITX Desktop, 1x multi-function bay, Aluminum front panel, 4X2.5", ](http://www.i-tech.com.au/products/163550_Silverstone_ML06B_Black_Mini_ITX.aspx)  
-$69.00   
-Regular Price $80.00  
-Your save $11.00  
-[ WACOM Intuos Small Pen and Touch 3.7in x 6in CTH-480/S0-CX ](http://www.i-tech.com.au/products/159140_WACOM_Intuos_Small_Pen_and_Touch.aspx)  
-$108.00   
-Regular Price $128.00  
-Your save $20.00  
-[ TP-LINK TL-WN851ND Wireless N PCI Adapter, Atheros, 2T2R, 2.4GHz, 802.11n/ g/ b, with 2 detachable ](http://www.i-tech.com.au/products/94385_TP_LINK_TL_WN851ND_Wireless_N_PCI.aspx)  
-$23.00   
-Regular Price $37.00  
-Your save $14.00  
-[ EPSON EB-425W 2500 LUMEN WXGA PROJECTOR V11H448053 ](http://www.i-tech.com.au/products/151617_EPSON_EB_425W_2500_LUMEN_WXGA_PROJECTOR.aspx)  
-$1,048.00   
-Regular Price $1,241.00  
-Your save $193.00  
-| Recent Purchases  
----  
-| [ CISCO ASA 5545-X with SW, 8GE Data, 1GE Mgmt, AC, 3DES/ AES ASA5545-K9 ](http://www.i-tech.com.au/products/143110_CISCO_ASA_5545_X_with_SW__8GE_Data.aspx)  
----  
-$15,899.00   
-[ HP 70 Ink Cartridge 130 ml Magenta C9453A ](http://www.i-tech.com.au/products/86002_HP_70_Ink_Cartridge_130_ml_Magenta.aspx)  
-$86.00   
-[ Astrotek USB 3.0 A-A extension cable, blue, 3m ](http://www.i-tech.com.au/products/87899_Astrotek_USB_3_0_A_A_extension_cable.aspx)  
-$9.00   
-[ Kguard CCD dome type CCTV cameras 1/ 3 SONY Supper HADII CCD, 420 TV Lines, Lens 3.6 mm(Not include ](http://www.i-tech.com.au/products/113801_Kguard_CCD_dome_type_CCTV_cameras.aspx)  
-$55.00   
-[ Netgear XSM7224S 24PORT L2 10G MANAGED SWITCH XSM7224S-100AJS ](http://www.i-tech.com.au/products/127064_Netgear_XSM7224S_24PORT_L2_10G_MANAGED.aspx)  
-$8,994.00   
-   
+$6,131.00   
+Regular Price $7,536.00  
+Your save $1,405.00  
+[ NETGEAR PR2000 WIRELESS-N TRAVEL ROUTER & RANGE EXTENDER, ETH(2), USB(1), 300MBPS, 2YR PR2000-100AUS ](http://www.i-tech.com.au/products/171111_NETGEAR_PR2000_WIRELESS_N_TRAVEL.aspx)  
+$60.00   
+Regular Price $68.00  
+Your save $8.00  
+[ HP T620 (F5A62AA) t620 PLUS 4Core WES7E 16GF/ 4GR WiFi TC ](http://www.i-tech.com.au/products/165932_HP_T620__F5A62AA__t620_PLUS_4Core.aspx)  
+$692.00   
+Regular Price $925.00  
+Your save $233.00  
+[ Western Digital Red Pro WD3001FFSX 3TB SATA3 Hard Drive for 8 to 16-bay NAS ](http://www.i-tech.com.au/products/182822_Western_Digital_Red_Pro_WD3001FFSX.aspx)  
+$263.00   
+Regular Price $300.00  
+Your save $37.00  
+[ Western Digital WDBVHT0060JCH-AESN MY BOOK LIVE DUO PERSONAL CLOUD STORAGE, 6TB, NAS ](http://www.i-tech.com.au/products/170272_Western_Digital_WDBVHT0060JCH_AESN.aspx)  
+$537.00   
+Regular Price $596.00  
+Your save $59.00  
   
   
 ---  
