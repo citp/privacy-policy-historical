@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331010556id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123210436id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giftease
 
@@ -92,7 +92,7 @@ Mr. Vivek Mathur
 
 Giftease Technologies India Pvt. Ltd.
 
-A-6, 2nd floor, Liberty Society,  Phase II, North Main Road, Koregaon  Park, Pune 411 001
+Trade Centre, 401/2 & 403,  4th Floor, North Main Road, Koregaon Park, Pune – 411001
 
 Phone: +91- (0)20 26153001
 
