@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ci.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517013848id_/http%3A//www.ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ci.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123124212id_/http%3A//www.ci.com/web/company/privacy.jsp%3Flang%3DENG) for the most accurate reproduction.*
 
 # CI Investments
 
@@ -77,7 +77,7 @@ You may register a privacy-related complaint by contacting CI’s Privacy Office
 
 **For more information**  
 For more information, please contact CI’s Privacy Officer.   
-Email: [privacyoffice@ci.com](mailto:privacyoffice@ci.com)  
+Email: [privacy@ci.com](mailto:privacy@ci.com)  
 Mail: 2 Queen Street East 20th Floor, Toronto, Ontario, M5C 3G7  
 Phone: (416) 364-1145
 
@@ -113,5 +113,5 @@ CI will make readily available to its customers and employees specific informati
 Upon request, an individual will be informed of the existence, use and disclosure of his or her personal information and shall be given access to it. An individual will be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
 **Principle 10 – Handling Customer Complaints and Suggestions**  
-Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer at [privacyoffice@ci.com](mailto:privacyoffice@ci.com).  
+Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer at [privacy@ci.com](mailto:privacy@ci.com).  
 
