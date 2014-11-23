@@ -1,0 +1,575 @@
+<!--The following is the downloaded HTML source of the the-line-up.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123130743id_/http%3A//www.openroadmedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><!--<![endif]--><!-- conditional HTML tag based on http://goo.gl/CRQY --><head>
+    <!--<meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta property="og:site_name" content="Open Road Integrated Media">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.openroadmedia.com/privacy-policy.aspx">
+<meta property="og:image" content="http://www.openroadmedia.com/images/logo.gif">
+<meta name="title" content="Privacy Policy">
+<link rel="image_src" href="http://www.openroadmedia.com/images/logo.gif">
+<link rel="share_icon" href="http://www.openroadmedia.com/images/r2/logo-footer.png">
+
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKJ4HT&amp;l=GtmDataLayer"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <link id="css1" media="all" rel="stylesheet" href="css/all.css?cachev=5" type="text/css"><link id="ctl00_css2" rel="stylesheet" type="text/css" href="css/jquery.fancybox-1.3.0.css" media="all"><link id="ctl00_css3" rel="stylesheet" type="text/css" href="css/360publishing-buttons-box.css" media="all">
+    <!--[if lt IE 7]><link id="ctl00_css4" rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+    <link id="ctl00_FavIcon" rel="Shortcut Icon" href="favicon.ico">
+    
+    <script type="text/javascript" src="http://use.typekit.com/ssx5tta.js"></script>
+    <script type="text/javascript">        try { Typekit.load(); } catch (e) { }</script>
+    
+<script type="text/javascript">
+
+	//Initialize 'ORIM' namespace
+	window.ORIM = {
+		appRoot: '/',
+		appRootFull: 'http://www.openroadmedia.com/',
+		uniqueUrl: '/privacy-policy.aspx',
+		defaultItemCount: 10, //Can be overridden in "div.item-count-aware" with the attribute "data-default-item-count"
+		logs: [],
+		trackEvent: function () { /* Overwritten in JS_Foot if GA is enabled */ }
+	};
+
+	var appRoot = ORIM.appRoot;
+	var appRootFull = ORIM.appRootFull;
+	var uniqueUrl = ORIM.uniqueUrl;
+
+	/**
+	* Extend native objects */
+	String.prototype.has = function (str) {
+		return this.indexOf(str) != -1;
+	};
+	Array.prototype.has = function (val) {
+		var has = false;
+		for (i = 0, j = this.length; i < j; i++) {
+			if (this[i] == val) {
+				has = true;
+				break;
+			}
+		}
+		return has;
+	};
+
+	//Create / change log function to handle arrays of log messages
+	window.log = (function (console_exists) {
+	    var log = function () { };
+	    if (console_exists) {
+
+	        //CHECK FOR GROUP SUPPORT
+	        if (!window['_log_initialized']) {
+	            window._log_initialized = true;
+	            window._log_group = window['groupCollapsed'] ? window.groupCollapsed : (window['group'] ? window.group : console.log);
+	            window._log_group_end = window['groupEnd'] ? window.groupEnd : console.log;
+	            window._log_initialized = true;
+	        }
+
+	        //Create window.log FUNCTION
+	        log = function (msg) {
+
+	            //IF THIS IS AN ARRAY,
+	            var is_array = (Object.prototype.toString.call(msg) === '[object Array]' && msg.length);
+	            if (is_array) {
+
+	                if ($.browser.msie) {
+	                    for (var i = 0, j = msg.length; i < j; i++) {
+	                        console.log(msg[i]);
+	                    }
+	                }
+	                else {
+	                    //GROUP THESE
+	                    try {
+	                        window._log_group(msg[0]);
+	                        for (var i = 1, j = msg.length; i < j; i++) {
+	                            console.log(msg[i]);
+	                        }
+	                        window._log_group_end();
+	                    }
+	                    catch (e) {
+	                        //Do nothing
+	                    }
+	                }
+
+	            }
+	            else {
+
+	                //WRITE SINGLE LOG
+	                try {
+	                    console.log(msg);
+	                    
+	                }
+	                catch (e) {
+	                    //Do nothing
+	                }
+
+	            }
+
+	        };
+	    }
+
+	    return log;
+	})(window['console'] && window.console['log']);
+
+</script><link href="App_Themes/Open%20Road/Menu/styles.css" type="text/css" rel="stylesheet"><link href="App_Themes/Open%20Road/orim.css" type="text/css" rel="stylesheet"><meta name="Generator" content="Sitefinity 3.7.2136.240:1"><title>
+	Privacy Policy
+</title></head>
+<body id="body" class="privacy-policy">
+    <script type="text/javascript">
+        GtmDataLayer = [{  }];
+    </script>
+    
+    <script>
+        ORIM = window['ORIM'] || {};
+    	ORIM.gtmEnabled = true;
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKJ4HT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true; 
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'GtmDataLayer', 'GTM-MKJ4HT');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAgIDDxYCHgVjbGFzcwUOcHJpdmFjeS1wb2xpY3kWBAIBDxYCHgRUZXh0BRZHdG1EYXRhTGF5ZXIgPSBbeyAgfV07ZAIFEBYCHgZhY3Rpb24FFC9wcml2YWN5LXBvbGljeS5hc3B4ZBYIAgMPZBYEAgEPZBYCZg8WAh4HVmlzaWJsZWhkAgIPZBYCZg8WAh8DaGQCBQ9kFgICAQ9kFggCAw9kFghmDxYCHwEFKzxoMSBjbGFzcz0idGstbGVnZW5kdW0iPlBSSVZBQ1kgUE9MSUNZPC9oMT5kAgEPFgIfA2hkAgIPFgIfA2hkAgMPFgIfA2hkAgUPFgIfA2hkAgsPDxYCHwNoZBYCZg8WAh8ABRpib3ggc3R5bGUwMyBnMSBhZENvbnRhaW5lcmQCDQ9kFgJmDxYCHwNoZAIHDxYCHwEFbzxpbWcgc3JjPSIvaW1hZ2VzL2xvYWRpbmdfYW5pbWF0aW9uXzIuZ2lmIiBhbHQ9ImxvYWRpbmciIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogMTk4cHg7IGxlZnQ6IDQzMHB4OyIvPmQCCQ8PFgIfA2hkZGSVYFMQxe1lr4uP2IDZxF0pmZDBkA==">
+
+
+<script src="/ScriptResource.axd?d=8I9fkpq-QX4-LBeIQ10zv4w9VPQSCbF7k30NFWbiIzzmWkFO145FO-sfBGM-arh53sG4_5DYQ1kuJmYSZyg_8TLAtA5QHqJeq3S7OUUNE4ufz-kAO_guXMzorAbHVdKSC6Zd3yWaAZmNo8_jjGYl3NlYRAXTIETb-JSzC-62ahvqi5hY0&amp;t=7e632e9f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HC0SPEdG2tfpCpGNFN8YM8649x5s_qdX8KlDiM7TRgx8aSKTL8RVhyvqn02h1pZLvYMoI-oTzasUwmmAdhj3hYiR26GGgGxKHuxb1wnV9PBylO7l4gPW6fzcZStzw_K5FIqaqXnsir-7hkO2iiiyDSS9h6uQQRe6fCov9iTqV0vQ2GLoabSW6Kq9N7_KrpJH8wEnUHT_Coqny_vjtF_3tYeNySj7HqMswoz0x0SiGhP47pihzz30W27lkKsWdlzK4vv_lxY8Y14LsOEyLaiowisFYufllKnK0KaWBuGBo65cZTNhzAq0AdINK-_yHzHQckCWf7nuw3rUogplvfmwOXm8KV5pDm4sZF_zvUL7npLN2vr45kdGyAX-HeJG6nh8C9pPEnl1QeN0gwUNTbebs0GRHMZhC2wOfDZaWY5fjqr2pJI4F68vdMVRDsyCHLESrsGxOVa-mnn7v3KHm-jqpikhMiQBz7V4NZx19uaSRVA3v_AAgLCaBwebixuoWGbvvn_JdEsvIn0IzH_hXbMmkoy7Sk7OT6ky71trECKLHFHocF1z3-lRT-FDIRI-25bC2r7V09pqR8reSd5A00Mt4pFHs1nA9nmggkJ92ZXEbNSGx2Cj5WSsIEFFfzgaaEVMkGRkdmF8jLYOlQ8ZUpvP1BLxPkDG30lKiNMx85i-9GY4XiJkfn19Gvcz_HG7Hj2aAKvsxU1UblSZVheY_SiMUVKONvDPbotNYOyvBmWHsD13NEO_8nsZ6qCrVvitLtwIGp88ZLg-6j21y05TGVhOISkvIZOIkjk9adT9TwQE3gc2qVaS4ooV9SUn2ilVVDpWoI4Je4j7fh7cF82zZ354y2-toAPnSocD1aEVWQkQXiX2SEHiIITb2FZy2stPFed0u5qYuUNtYgo_MaVqvxncXgM_h6CKWa2TQYb5xqgD0dnBLNwrBHgvBFUc1chnWUdQMjQjByon8cViV1Ou_8Rt989ur3Pl-sSY_yaiRncVH0mSg3BLRZlz10ojQyFFeyeqW_UkG9AKymLoDpUnLkPJdPj56rVp9WTpzK04VEFmz824nX-R0ZUOr81uIHjenc9pPE5DVdY5mAu7EPFozBeKDZhWYmM2nFKfwMjgOPpyJc723_MI20xR40wuIBFbeWjcjUUDRF2gRBxX1d1M-6XPj-i5uMpO5JWucY6LDi3KVB9rYSI8gmeHMt_dZ8llbGfZRNAR3QRnqxOSkyyMLHsB8FZhcVD6apq1vKPADkAwOKhXqo2J0" type="text/javascript"></script>
+<script src="js/search.js?cachev=2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="15E68AF1">
+    
+
+    
+    
+    
+    
+<div class="header-container">
+	<header id="header" class="g3">
+        <div class="header-holder">
+            
+
+
+
+
+
+<div class="logo vcard">
+    <a href="http://www.openroadmedia.com/" id="ctl00_Contentplaceholder1_ctl00_PageHeader2_logoLink" class="fn org url" title="Open Road Integrated Media is a digital content company that publishes and markets ebooks by creating connections between authors and their audiences across multiple platforms.">
+        Open Road</a></div>
+
+<nav id="nav">
+    <a href="#" class="opener">open</a>
+    <div class="slide">
+        <ul class="tk-legendum">
+		    <li><a href="./">home</a></li>
+            <li><a href="authors.aspx">authors</a></li>
+			<li><a href="ebooks.aspx" id="ctl00_Contentplaceholder1_ctl00_PageHeader2_MainNavigation_A1">ebooks</a></li>
+            <li><a href="http://video.openroadmedia.com">videos</a></li>
+            <!--<li><a href="partners.aspx">partners</a></li>-->
+            <li><a href="imprints.aspx" id="ctl00_Contentplaceholder1_ctl00_PageHeader2_MainNavigation_A3">imprints &amp; partners</a></li>
+            <li><a href="blog/">blog</a></li>
+			<!--<li><a href="newsletters" id="ctl00_Contentplaceholder1_ctl00_PageHeader2_MainNavigation_A2">newsletters</a></li>-->
+            <li><a href="newsletters">newsletters</a></li>
+	    </ul>
+        <div class="search">
+			<input id="navSearch" type="search" class="global-search">
+			<input class="btn-search" type="submit" value="Search">
+	    </div>
+    </div>
+</nav>
+
+
+        </div>
+	</header>
+	
+</div>
+	<div id="content" class="customHtml">
+		
+			<div class="box g3 post-block">
+				<article>
+					
+<hgroup style="padding-bottom: 5px;">
+	<h1 class="tk-legendum">PRIVACY POLICY</h1>
+	
+	
+	
+</hgroup>
+					
+					<p style="text-align: justify;">Open Road Integrated Media, Inc. (“<span style="text-decoration: underline;">Open Road Media</span>”) respects your privacy. Therefore, we created this Privacy Policy to demonstrate our firm commitment to your privacy and to help you understand how your information is collected and used and make informed decisions regarding your information.</p><p style="text-align: justify;">The Privacy Policy below discloses our practices regarding information collection and usage solely for Open Road Media’s website and services (the “<span style="text-decoration: underline;">Service</span>”). This Privacy Policy applies only to the Service and does not govern any other websites or services, unless it appears on such website or service.</p><p style="text-align: justify;">By using or accessing the Service, you agree to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.</p><p style="text-align: justify;"><strong>PERSONALLY IDENTIFIABLE INFORMATION THAT WE COLLECT</strong></p><p style="text-align: justify;">Open Road Media only collects personally identifiable information about you that you voluntarily submit to us. We may collect this information in a variety ways, including without limitation when you subscribe to our newsletter, register for a membership account, post content on the Service, send us emails, and purchase, redeem or request products and services through the Service. You may visit the Service anonymously, and you may always refuse to supply personally identifiably information, although it may prevent you from using certain features on the Service. The personally identifiable information which you voluntarily provide to us and we collect could include, without limitation:</p><ul> <li style="color: black; text-align: justify;">Your name, email address and telephone number.</li> <li style="color: black; text-align: justify;">If you register for a membership account, your username, password, and e-mail address.</li> <li style="color: black; text-align: justify;">If you make a purchase through the Service, your credit or debit card information and billing address.</li> <li style="color: black; text-align: justify;">Any content (<span style="text-decoration: underline;">e.g.</span>, comments, photographs, information and other materials) that you post on the Service.</li> <li style="color: black; text-align: justify;">Communications between you and us (<span style="text-decoration: underline;">e.g.</span>, emails).</li></ul><p style="text-align: justify;"><strong>NON-PERSONALLY IDENTIFIABLE INFORMATION THAT WE COLLECT</strong></p><p style="text-align: justify;">When you visit the Service, we may automatically collect certain non-identifying information about you, such as the computer operating system or mobile device that you use to access the Service, your Internet Protocol address, your browser type and settings, the date and time that you access the Service, the domain name of the website from which you linked to the Service, and other technical information that assists us in improving the Service.</p><p style="text-align: justify;"><strong>COOKIES AND SIMILAR TECHNOLOGIES</strong></p><p style="text-align: justify;">We may use “cookies,” “device identifiers” or similar types of technology (<span style="text-decoration: underline;">e.g.</span>, pixels tags, web beacons, clear GIFs, and local storage) to collect information about your use of the Service. We may use this information to help us enhance the efficiency and usefulness of the Service, to customize your visit to the Service, and for other purposes to make your visit more convenient or to enable us to enhance our service. For your information, “cookies” are files that are stored on your computer’s hard drive by a website, and “device identifiers” are files that are stored on your mobile device that identify your device. In addition, we may use third parties to provide products and services to you through the Service. These third parties may employ cookies, device identifiers, or similar technologies. Your browser may allow you to control cookies or other types of local data storage, and your mobile device may provide you with information and choices on what data is shared with us.</p><p style="text-align: justify;"><strong>HOW WE USE YOUR INFORMATION</strong></p><p style="text-align: justify;">In addition to other specific uses that we describe in this Privacy Policy, we may use any information that we collect (including personally and non-personally identifiable information) to:</p><ul> <li style="color: black;">Provide our products and services and information to you.</li> <li style="color: black;">Develop and test new products and services.</li> <li style="color: black;">Respond to your inquiries and comments and provide customer service.</li> <li style="color: black;">Send you updates (e.g., relating to special offers, features, and promotions), newsletters, marketing materials and other information from time to time.</li> <li style="color: black;">Offer customized content and information to you.</li> <li>Provide, improve, test, and monitor the Service.</li> <li>Diagnose or fix technology problems.</li> <li>Manage our business.</li></ul><p style="text-align: justify;"><strong>DISCLOSURE OF YOUR INFORMATION</strong></p><p style="text-align: justify;">We may share your personally identifiable information when we have your consent. For example, when you post any content to the Service, you grant us permission to share that information. We will not disclose your personally identifiable information to third parties without your consent, except as set forth below or provided elsewhere in this Privacy Policy:</p><ul> <li style="color: black;">We may disclose your personally identifiable information to our vendors, subcontractors, and partners, and other third parties who provide services to us. However, they are only permitted to access your information in connection with performing such services and are not authorized by us to use the information for their own benefit.</li> <li style="color: black;">We may disclose your personally identifiable information to third parties who provide products and services you may purchase, redeem or request through the Service. The use of your information by such third parties will be subject to the privacy policies of such third parties once such information is transferred.</li> <li style="color: black;">We may disclose your personally identifiable information to our partners that provide products and services or technologies that we believe may be of interest to you. The use of your information by our partners and their vendors and contractors will be subject to the privacy policies of our partners once such information is transferred.</li> <li>We may disclose your personally identifiable information to protect the safety, rights, or property of the public, any person, or Open Road Media; to investigate, prevent, or otherwise address suspected fraud, harassment or other violations of any law, rule or regulation or the Terms of Use for the Service; to detect, prevent or otherwise address security or technical issues; or as we believe is required by law, regulation, or legal process.</li> <li>We do not sell or rent your personally identifiable information to third parties; provided, however, we may engage in a merger, acquisition, disposition, change of control, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of your information.</li></ul><p>We may share non-personally identifiable information or generic aggregated demographic information with our partners or other third parties for any purpose.</p><p><strong>Credit Card Companies</strong></p><p>Credit card transactions are handled by third party financial institutions and their vendors and contractors who receive credit card numbers and other personal information from us to verify the credit card numbers and process transactions. Although our treatment of this information is governed by this Privacy Policy, the use of your information by the third party financial institutions and their vendors and contractors will be subject to their own privacy policies.</p><p><strong>SECURITY</strong></p><p style="text-align: justify;">The security of your information is very important to us. We attempt to provide for the secure storage of your information by using commercially reasonable safeguards and taking reasonable steps to verify your identity before granting you access to your account. Unfortunately, due to the inherent nature of the Internet and online communications, we cannot ensure the security of any information you transmit to us or guarantee that information on the Service or our servers will be free from unauthorized access by third parties such as hackers. Your use of the Service demonstrates your assumption of this risk.</p><h2>OTHER WEBSITES AND SERVICES</h2><p>As a convenience to you, we may provide links to third-party websites and services from within the Service. We are not responsible for the privacy practices or content of these third-party websites and services, and by providing a link we are not endorsing or promoting such third-party websites and services. This Privacy Policy and our Terms of Use do not apply to any third party website or service. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party's own rules and policies. When you link away from our Service, you do so at your own risk.</p><p style="background: none repeat scroll 0% 0% white; text-align: justify;"><strong>SOCIAL MEDIA</strong></p><p style="text-align: justify;">The Service may contain links to our presence on various social media platforms. As we do not operate or control such platforms, this Privacy Policy and our Terms of Use do not apply to your use of such platforms. In addition, you should be aware that personally identifiable information which you voluntarily include and transmit online in a publicly accessible blog, social network or other social media platform may be viewed and used by others. We are unable to control such uses of your personally identifiable information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties.</p><p style="text-align: justify;"><strong>USER CONTENT AND COMMUNICATION WITH US</strong></p><p style="text-align: justify;">Any material or communications you post on the Service or transmit to us by email, including, without limitation, any information, photographs, data, questions, comments, or suggestions, will be treated as non-confidential and non-proprietary and may be used by us for any purpose, including, without limitation, reproduction, disclosure, transmission, publication, broadcast and posting. <strong></strong></p><p style="text-align: justify;"><strong>PROTECTION FOR CHILDREN</strong></p><p style="text-align: justify;">We do not seek to collect personally identifiable information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database. If you believe that we might have collected any information from or about a child under the age of 13, please contact us at privacy@openroadmedia.com.</p><p style="text-align: justify;"><strong>RIGHTS OF CALIFORNIA RESIDENTS</strong></p><p style="text-align: justify;">If you are a California resident, you have the right to request and obtain from us a list of what personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge.</p><p style="text-align: justify;"><strong>CHANGES TO PRIVACY POLICY</strong></p><p style="text-align: justify;">Please review this Privacy Policy from time to time. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of the Service following the posting of any changes to this Privacy Policy means you accept such changes. If we make material changes to this Privacy Policy, we may provide you with additional forms of notice, as appropriate.</p><p><strong>OPT-OUT PROCESS</strong>&nbsp; </p><p>To opt-out of any future promotional messages from us, you should send an unsubscribe request to us at privacy@openroadmedia.com.</p><p>We will process your request within a reasonable time after receipt. However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy or your consent. </p><p style="text-align: justify;"><strong>TERMS OF USE</strong></p><p style="text-align: justify;">This Privacy Policy, and the use of the Service, is subject to our Terms of Use. </p><p style="text-align: justify;"><strong>UNITED STATES OF AMERICA</strong></p><p style="text-align: justify;">Our Service is maintained in the United States of America. By accessing the Service from a jurisdiction outside of the United States, you freely and specifically give us your consent to export your personally identifiable information from your local jurisdiction to our servers in the United States and to store and use such information in the United States as set forth in this Privacy Policy.</p><p style="text-align: justify;"><strong>CONTACT</strong></p><p style="text-align: justify;">For questions or concerns relating to Privacy Policy or your information, we can be contacted at: privacy@openroadmedia.com.</p><p style="text-align: justify;"><strong>EFFECTIVE DATE</strong></p><p style="text-align: justify;">This Privacy Policy was last updated on July 1, 2013.</p>
+
+				</article>
+
+			</div>
+
+			
+
+
+    
+    
+
+    
+<!-- BEGIN BottomSignUp.ascx -->
+
+
+
+<div id="newsletter-signup-module-container" data-signup-type="road" class="box g2 same-height same-height-left newsletter-signup-module-type-road">
+    
+                <div class="newsletter-signup-module-images">
+                    <img src="/images/newsletter_subs/newsletter_signup_road_1024.png" class="newsletter-signup-module-header-1024" alt="Open Road Reader Newsletter Signup">
+                    <img src="/images/newsletter_subs/newsletter_signup_road_1024.png" class="newsletter-signup-module-header-768" alt="Open Road Reader Newsletter Signup">
+                    <img src="/images/newsletter_subs/newsletter_signup_road_480.png" class="newsletter-signup-module-header-480" alt="Open Road Reader Newsletter Signup">
+                    <img src="/images/newsletter_subs/newsletter_signup_road_320.png" class="newsletter-signup-module-header-320" alt="Open Road Reader Newsletter Signup">
+                    
+                </div>
+                
+    <div id="newsletter-signup-module">
+        <div id="newsletter-signup-module-intro">
+            Curated for Book Nerds Everywhere.  Are you one of us?</div>
+        <div class="newsletter-signup-form-controls">
+            <div class="newsletter-signup-module-form-controls">
+                <div class="newsletter-signup-module-email">
+                    <input type="text" placeholder="YOUR EMAIL" id="newsletter_signup_email_skinned" class="text"></div>
+                <div class="newsletter-signup-module-submit">
+                    <input type="submit" value="" name="subscribe" class="btn-submit-newsletter btn-submit-newsletter-thin"></div>
+                <div class="cf">
+                    &nbsp;</div>
+            </div>
+            
+        </div>
+    </div>
+    <div class="cf">
+        &nbsp;</div>
+</div>
+
+<!-- END BottomSignUp.ascx -->
+
+	
+</div>
+
+<!-- BEGIN PageFooter.ascx -->
+<footer id="footer2" class="cf">
+    <div class="footer2-holder">
+        <div class="g3">
+            <strong class="sub-logo"><a href="http://www.openroadmedia.com/">
+                <img src="images/r2/logo-footer.png" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_Img1" style="display: none;" alt="Open Road Logo"></a></strong>
+            <nav class="footer2-nav">
+                <div class="footer2-menu">
+                    <ul>
+                        <li><b>about open road media</b></li>
+                        <li><a href="about-open-road-integrated-media.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A11">history</a></li>
+                        <li><a href="imprints.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A12">imprint &amp; partners</a></li>
+                        <li><a href="careers.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A13">careers</a></li>
+                        <li><a href="news.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A14">press</a></li>
+                        <li><a href="about-open-road-integrated-media.aspx#ContactUs" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A15">
+                            contact us</a></li>
+                    </ul>
+                </div>
+                <div class="footer2-menu">
+                    <ul>
+                        <li><b>website</b></li>
+                        <li><a href="authors.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A2">authors</a></li>
+                        <li><a href="ebooks.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A3">ebooks</a></li>
+                        <li><a href="http://video.openroadmedia.com">videos</a></li>
+                        <li><a href="blog/" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A5">blog</a></li>
+                        <li><a href="privacy-policy.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A1">privacy policy</a></li>
+                        <li><a href="terms-of-use.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A4">terms of use</a></li>
+                    </ul>
+                </div>
+                <div class="footer2-menu">
+                    <ul>
+                        <li><b>services</b></li>
+                        <li><a href="distribution.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A6">distribution</a></li>
+                        <li><a href="film-digital.aspx" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A7">film &amp; television</a></li>
+                        <li><a href="newsletters" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A10">newsletters</a></li>
+                        <li><a href="education-library" id="ctl00_Contentplaceholder1_ctl00_PageFooter1_A8">education &amp; library</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="search-share">
+                <div class="footer2-search">
+                    <span class="join">Find Us On</span>
+                    <ul class="social-networks">
+                        <li class="twitterDirect"><a data-ga-action="Social Network Button Clicked - Twitter" data-ga-label="Twitter; Join the Conversation" title="Open Road Integrated Media on Twitter" data-event-name="social-property-click" data-social="Twitter" href="http://twitter.com/OpenRoadMedia" id="twitter" target="_blank">
+                            <img src="/images/r2/ico1.png" alt="Twitter button"></a></li>
+                        <li class="facebookDirect"><a data-ga-action="Social Network Button Clicked - Facebook" data-ga-label="Facebook; Join the Conversation" title="Open Road Integrated Media on Facebook" data-event-name="social-property-click" data-social="Facebook" href="http://www.facebook.com/openroadmedia" id="facebook" target="_blank">
+                            <img src="/images/r2/ico2.png" alt="Facebook button"></a></li>
+                        <li class="youtubeDirect"><a data-ga-action="Social Network Button Clicked - YouTube" data-ga-label="YouTube; Join the Conversation" title="Open Road Integrated Media on YouTube" data-event-name="social-property-click" data-social="YouTube" href="http://www.youtube.com/user/OpenRoadMediaVideos" id="youtube" target="_blank">
+                            <img src="/images/r2/ico3.png" alt="YouTube button"></a></li>
+                        <li class="pinterestDirect"><a data-ga-action="Social Network Button Clicked - Pinterest" data-ga-label="Pinterest; Join the Conversation" title="Open Road Integrated Media on Pinterest" data-event-name="social-property-click" data-social="Pinterest" href="http://www.pinterest.com/openroadmedia/" id="pinterest" target="_blank">
+                            <img src="/images/r2/ico4.png" alt="Pinterest button"></a></li>
+                        <li class="tumblrDirect"><a data-ga-action="Social Network Button Clicked - Tumblr" data-ga-label="Tumblr; Join the Conversation" title="Open Road Integrated Media on Tumblr" data-event-name="social-property-click" data-social="Tumblr" href="http://openroadmedia.tumblr.com/" id="tumblr" target="_blank">
+                            <img src="/images/r2/ico5.png" alt="Tumblr button"></a></li>
+                        <li class="googleplusDirect"><a data-ga-action="Social Network Button Clicked - Google+" data-ga-label="Google+; Join the Conversation" title="Open Road Integrated Media on Google Plus" data-event-name="social-property-click" data-social="Google+" href="http://plus.google.com/b/101339367400237003757/101339367400237003757/posts" id="googleplus" target="_blank">
+                            <img src="/images/r2/ico6.png" alt="Google+ button"></a></li>
+                        <li class="linkedinDirect"><a data-ga-action="Social Network Button Clicked - LinkedIn" data-ga-label="LinkedIn; Join the Conversation" title="Open Road Integrated Media on LinkedIn" data-event-name="social-property-click" data-social="LinkedIn" href="http://www.linkedin.com/company/712702" id="linkedin" target="_blank">
+                            <img src="/images/r2/ico7.png" alt="LinkedIn button"></a></li>
+                        <li class="rssDirect"><a data-ga-action="RSS Button Clicked" href="http://www.openroadmedia.com/blog.rss.ashx">
+                            <img src="images/r2/ico8.png"></a></li>
+                    </ul>
+                </div>
+                <div class="footer2-search">
+                    <div id="footerSearch" class="search">
+                        <input id="footerNavSearch" type="search" class="global-search">
+                        <input type="submit" value="search" class="btn-search">
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <span class="copy">Copyright ©
+                    2014
+                    Open Road Integrated Media, Inc.</span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- END PageFooter.ascx -->
+
+				<script type="text/javascript">
+					//Script added via WTKUserControl.InsertJSON() (8734769)
+					//log('-----------------> PageInfo');
+					ORIM.PageInfo = ORIM.PageInfo || new Object();
+					if(ORIM.PageInfo.data){
+						log('!!!WARNING!!! Overwriting ORIM.PageInfo.data! (6392008)');
+						try{log('existing value --> ' + JSON.stringify(ORIM.PageInfo.data));}catch(e){}
+					};
+					ORIM.PageInfo.data = {"name":"custom"};
+					ORIM.loaded.notify({data: 'PageInfo'});
+				</script>
+			
+    <div class="lightbox-holder">
+        <div class="popup" id="lightbox1">
+            <div style="height: 450px; width: 905px;">
+                <img src="/images/loading_animation_2.gif" alt="loading" style="position: absolute; top: 198px; left: 430px;">
+            </div>
+        </div>
+    </div>
+    
+    </form>
+    
+<!-- BEGIN JS_Foot.ascx -->
+
+<br> <!-- Site Analytics code goes here --> <script type="text/javascript">
+
+// Do nothing.
+</script>
+<!-- http://www.google.com/intl/en/webmasters/+1/button/index.html -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!-- https://dev.twitter.com/docs/tweet-button -->
+<script type="text/javascript">
+    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");
+</script>
+<!-- http://pinterest.com/about/goodies/ -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- http://platform.tumblr.com -->
+<script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
+<script type="text/javascript">
+	var gaenabled = true;
+	var gtmenabled = true;
+    document.write('<style type="text/css">div.item-count-aware ul li {display: none}</style>');
+    function getClientBrowserData() {
+        var data = "browserWidth=" + $('body').width() + ":userAgent=" + navigator.userAgent;
+        return data;
+    }
+    function initItemCountAwareLists() {
+
+		//Wait for client settings to be returned
+		ORIM.require({ data: 'BrowserClientData' }).done(function(){
+		
+			$('div.item-count-aware').each(function (index, elem) {
+        		var div = $(elem);
+        		var list = div.children('ul');
+        		var items = list.children('li');
+				//For each .item-count-aware, optionally override ORIM.defaultItemCount
+        		var defaultItemCount = div.data('default-item-count') || ORIM.defaultItemCount;
+					
+        		if (items.length > defaultItemCount) {
+        			items.slice(0, defaultItemCount).css('display', 'inline-block');
+        			div.attr('itemCount', defaultItemCount);
+        			div.attr('expanded', false);
+        			div.nextAll('.see-all').click(function () {
+        				if (div.attr('expanded') == 'true') {
+        					items.slice(div.attr('itemCount'), 9999).css('display', 'none');
+        					div.attr('expanded', false);
+        					$(this).find('a span').css('background-image', 'url(' + appRoot + 'images/r2/bullet1.png)');
+        					$(this).find('a span').text('SEE ALL');
+        				} else {
+        					items.slice(div.attr('itemCount'), 9999).css('display', 'inline-block');
+                            div.attr('expanded', true);
+        					$(this).find('a span').css('background-image', 'url(' + appRoot + 'images/r2/bullet1_rev.png)');
+        					$(this).find('a span').text('SEE FEWER');
+
+        				}
+        				return false;
+        			});
+        		} else {
+        			items.css('display', 'inline-block');
+        			div.nextAll('div.see-all').hide();
+        		}
+        	});
+		
+		});
+    }
+    initItemCountAwareLists();
+    $('.expandable').each(function (index, elem) {
+    	$(elem).css('overflow', 'hidden');
+    	var rel = $(elem).attr('rel');
+    	var relArr = rel.split(',');
+    	var fullHeight = $(elem).outerHeight();
+    	var height = 0;
+    	for (var i = 0; i < relArr.length; i++) {
+    		var tagName = relArr[i];
+    		if (tagName.indexOf('[') > 0) {
+    			var bracketIndex = tagName.indexOf('[');
+    			var endBracketIndex = tagName.indexOf(']');
+    			var count = tagName.substring(bracketIndex + 1, endBracketIndex);
+    			tagName = tagName.substring(0, bracketIndex);
+    			$(elem).find(tagName + ':lt(' + count + ')').each(function (index, elem) {
+    				height += $(elem).outerHeight();
+    			}
+				);
+    		} else {
+    			height += $(elem).find(tagName).eq(0).outerHeight();
+    		}
+    	}
+    	var minHeight = height;
+    	$(elem).height(minHeight);
+    	$(elem).attr('full-height', fullHeight + 'px');
+    	$(elem).attr('min-height', minHeight + 'px');
+    	$(elem).attr('expanded', false);
+    	$(elem).nextAll('.see-all').click(function () {
+    		if ($(elem).attr('expanded') == 'true') {
+    			$(elem).stop().animate({ height: $(elem).attr('min-height') });
+    			$(elem).attr('expanded', false);
+    			$(this).find('a span').css('background-image', 'url(' + appRoot + 'images/r2/bullet1.png)');
+    			$(this).find('a span').text('SEE ALL');
+    		} else {
+                $(elem).stop().animate({ height: $(elem).attr('full-height') });
+    			$(elem).attr('expanded', true);
+    			$(this).find('a span').css('background-image', 'url(' + appRoot + 'images/r2/bullet1_rev.png)');
+    			$(this).find('a span').text('SEE LESS');
+    		}
+    		return false;
+    	});
+    });
+
+
+</script><style type="text/css">div.item-count-aware ul li {display: none}</style>
+
+    <script type="text/javascript">
+
+        (function () {
+
+            ORIM.trackEventParams = function (params) {
+                if (gtmenabled) {
+                    GtmDataLayer.push(arguments[0]);
+                } else {
+                    log('pushing GtmDataLayer data:');
+                    log(params);
+                }
+            }
+
+            // tracks events via data attributes
+            // see ORIM.initTrackableEvents in ORIM.js and ready/showBook in Dialog.js (microsites)
+            ORIM.trackEventParamsByElement = function (el) {
+
+                var $el = $(el);
+                var event = null;
+                var gtm = {};
+
+                // if the element has no event-name data attribute, ignore it
+                if (!$($el).data('event-name')) {
+                    return;
+                } else {
+                    event = $el.data('event-name');
+                    gtm.event = event;
+                }
+
+                if (gtm.event === 'buy-click') {
+                    // track buy clicks
+                    gtm.titleDisplayTitle = $el.data('ebook-title') || '';
+                    gtm.titleId = $el.data('ebook-id') || '';
+                } else if (gtm.event === 'retailer-click') {
+                    // track retailer clicks
+                    gtm.titleDisplayTitle = $el.data('ebook-title') || '';
+                    gtm.titleId = $el.data('ebook-id') || '';
+                    gtm.retailer = $el.data('ebook-retailer') || '';
+                } else if (gtm.event === 'share-click') {
+                    // track share clicks
+                    gtm.titleDisplayTitle = $el.data('ebook-title') || '';
+                    gtm.titleId = $el.data('ebook-id') || '';
+                } else if (gtm.event === 'social-click') {
+                    // track social clicks
+                    gtm.titleDisplayTitle = $el.data('ebook-title') || '';
+                    gtm.titleId = $el.data('ebook-id') || '';
+                    gtm.social = $el.data('social-name') || '';
+                } else if (gtm.event === 'microsite-tab-click') {
+                    // track microsite tab clicks (book clicks are tracked in Dialog.js)
+                    gtm.tab = $el.data('tab-label') || '';
+                } else if (gtm.event === 'ad-click') {
+                    // track ad clicks
+                    gtm.adName = $el.data('ad-name') || '';
+                } else if (gtm.event === 'social-property-click' || gtm.event === 'social-microsite-click') {
+                    // track social clicks in footer
+                    gtm.social = $el.data('social-name') || '';
+                } else if (gtm.event === 'gifting-click') {
+                    // track social clicks in footer
+                    gtm.titleDisplayTitle = $el.data('ebook-title') || '';
+                    gtm.titleId = $el.data('ebook-id') || '';
+                }
+
+                ORIM.trackEventParams(gtm);
+            }
+
+            //Overwrite empty trackEvent function
+            ORIM.trackEvent = function (category, action, label) {
+                return;
+            };
+
+            // Add function to track a click on an element (for cases where a previously-bound event 
+            // is prevented from propagating)
+            ORIM.trackEventByElement = function (el) {
+                return;
+            };
+
+            //Listen for URL changes
+            $(window).bind('popstate', function (event) {
+                ORIM.urlChanged(event);
+            });
+
+            //Always request BrowserClientData
+            ORIM.getBrowserClientData();
+
+            //Show any logs emitted by the code-behind
+            if (ORIM.logs.length) {
+                if (document.location.toString().has('logs=true')) {
+                    ORIM.require({ namespace: 'Dialog' }).done(function () {
+                        ORIM.Dialog.open('<ol><li>' + ORIM.logs.join('</li><li>') + '</li></ol>');
+                        ORIM.Dialog.loading(false);
+                    });
+                }
+                else {
+                    log(ORIM.logs);
+                }
+            }
+
+        })();
+
+    </script>
+
+<!-- END JS_Foot.ascx -->
+
+
+
+</body></html>
