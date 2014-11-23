@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107150528id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090810id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Safe, Secure Shopping at Movies Unlimited
 
 ## Safe, Secure Shopping at Movies Unlimited...
+
+**NOTE: MoviesUnlimited.com is NOT vulnerable to the Heartbleed virus. Your passwords and account information are safe and secure. However, if you feel the need to change your password for your EZ Checkout account you are welcome to do so.**
 
 ### We take your security very seriously…
 
@@ -18,9 +20,9 @@ Philadelphia, PA 19154 **
 
 Email us at: [cusserv@moviesunlimited.com](mailto:cusserv@moviesunlimited.com)
 
-### Over 20 years experience in protecting confidentiality…
+### Over 35 years experience in protecting confidentiality…
 
-Movies Unlimited has been processing customers' video orders for over 20 years through our world-renowned print catalog. Over the years, more than one million customers' personal information has always been protected against unauthorized usage and now, shopping online remains just as safe. 
+Movies Unlimited has been processing customers' video orders for over 35 years through our world-renowned print catalog. Over the years, more than one million customers' personal information has always been protected against unauthorized usage and now, shopping online remains just as safe. 
 
 ### Your privacy is most important to us…
 
@@ -28,7 +30,11 @@ We ask for your email address only so that we can confirm your order and to let 
 
 ### Our Mailing List…
 
-Movies Unlimited maintains two discrete mailing lists for our online and off-line customer bases. When a consumer joins either customer base, we add their name to our mailing list to receive our print catalogs, which give additional information about our products. Our catalog is respected throughout the industry and recommended by critics everywhere. **Movies Unlimited does not share its online customer mailing list with outside companies.** The Movies Unlimited off-line customer mailing list is occasionally made available to very carefully screened companies who offer products and services that may be of interest to our customers. If any customer prefers NOT receiving our mailings, or any off-line customer wishes not to have their information released to outside companies, please send a note with your name and address to: Movies Unlimited, 3015 Darnell Road., Phila., PA 19154. Allow 6-8 weeks for your request to be processed. 
+Movies Unlimited maintains two discrete mailing lists for our online and off-line customer bases. When a consumer joins either customer base, we add their name to our mailing list to receive our print catalogs, which give additional information about our products. Our catalog is respected throughout the industry and recommended by critics everywhere. **Movies Unlimited does not share its online customer mailing list with outside companies.** The Movies Unlimited off-line customer mailing list is occasionally made available to very carefully screened companies who offer products and services that may be of interest to our customers. If any customer prefers NOT receiving our mailings, or any off-line customer wishes not to have their information released to outside companies, please send a note with your name and address to:  
+Movies Unlimited  
+3015 Darnell Road  
+Philadelphia, PA 19154  
+Allow 6-8 weeks for your request to be processed. 
 
 ### We're always up front with our customers…
 
