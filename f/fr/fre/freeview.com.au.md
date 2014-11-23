@@ -1,44 +1,130 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155849id_/http%3A//freeview.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123070925id_/http%3A//www.freeview.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freeview – Digital Television
+# Privacy Policy
 
-Your privacy is important to Freeview Australia. Please read our Privacy Policy carefully to understand how we will deal with any personal information you provide us by registering your interest with Freeview.
+Freeview Australia Limited (ABN: 72 130 448 510) and its related companies (together we, us, our and other similar expressions) are committed to protecting your personal privacy.  This Privacy Policy tells you how we collect, store, use and disclose your personal information.  We encourage you to read this policy carefully so that you understand our information handling practices
 
-#### 1) What is covered by the Freeview Australia Privacy Policy?
+**Information we collect**
 
-Our Privacy Policy covers how we will handle personally identifiable information you supply to us by using a Freeview Australia service, and any information we collect on a third party site, or that is supplied to us by a third party. This policy does not cover practices of third party businesses that are not owned by Freeview Australia.
+In order to provide our customers with our products and services, we may collect and use personal information about you and others. If we are not provided with all the personal information we request, we may not be able to supply our products and services.
 
-#### 2) Collection of Personal Information
+The type of information we collect includes names, addresses, phone numbers, email addresses and other contact details.  
 
-Freeview may collect personally identifiable information when you register for a Freeview Service or promotion or from third parties. Freeview also receives, and may retain information from your browser including, but not limited to, your IP address and the Freeview pages you visit. We may also collect information from Freeview Cookies (please see below). We may use information we collect to: 
+If you use our FreeviewPlusTM service, we may also collect your IP address and postcode, although this information is collected on an anonymous basis – which means we do not match that information with personal information we may hold about you and we are not able to identify you from your IP address and postcode.
+
+**How we collect personal information**
+
+Generally, we collect an individual’s personal information from that individual.  For example we collect personal information when you enter a promotion or provide us with feedback or make a complaint through our website or other means of communication.
+
+**How we store personal information**
+
+We take all reasonable steps to keep secure any personal information which we hold about you and to protect your personal information from loss, misuse or unauthorised alteration. Any personal information you provide to us is stored on secure servers. Access to personal information is limited to those of our personnel who specifically need it to carry out their business responsibilities. We also maintain physical security procedures to manage and protect the use and storage of records containing personal information.
+
+**Purpose of collection**
+
+We collect personal information so we can:
 
   * revise and enhance our service;
-  * fulfil your requests;
-  * contact you as to changes or revisions to the Freeview service;
+  * fulfil your requests and respond to your queries and complaints;
+  * contact you about changes to our services;
   * send news, information about our activities and general promotional material which we believe may be useful to you;
-  * monitor who is accessing the website or using services offered on the website;
+  * monitor who is accessing our website or using our services;
+  * seek your opinion or comments about our products and services;
+  * carry out our management, administrative quality assurance and complaint handling activities in a professional and efficient manner;
+  * develop and implement initiatives to improve our products and services; and
   * report to our stakeholders and other interested parties as to Freeview performance.
 
 
 
-If you do not wish to have your personal information used in this manner you may opt out of the Freeview Service by [clicking here](mailto:generalenquiries@freeview.com.au)
+**  Use and Disclosure**
 
-#### (3) Cookies
+We use and disclose the personal information we collect for the purposes indicated above, and for other secondary purposes. 
 
-We may set and access Freeview "cookies" on your computer. Freeview cookies enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. A cookie does not identify you personally, but does identify your computer. You may set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance. We may also allow third parties to set and access their cookies via the Freeview Service. The way third parties use their cookies is subject to their own privacy policies. Advertisers do not have access to the Freeview service. 
+We usually disclose the personal information we collect to our related entities, service providers and contractors, who help us supply our products and services.
 
-#### (4) Information Sharing and Disclosure
+Except where indicated above, we will not use or disclose personal information unless:
 
-We will not sell or rent your personally identifiably information to anyone without your consent unless we need to share your information in order to provide the service you have requested or if we need to provide information we collect to government agencies, including in response to subpoenas, court order or other legal process.
+  * the individual concerned has consented to the use and disclosure;
+  * the third party is our service provider or contractor, in which case we will require them to use and disclose the personal information only for the purpose for which it was provided to them;
+  * the third party is a person involved in a dealing or proposed dealing (including a sale) of all or part of our assets and business;
+  * the disclosure is to a related body corporate; or
+  * the disclosure is permitted, required or authorised by or under law.
 
-#### (5) How to Access and Update Personal Information
 
-You may access, update, revise or delete any personal information you have supplied to us over this website. Should you wish to access, check or update or remove your personal information on the website, please email freeview by [clicking here](mailto:generalenquiries@freeview.com.au)
 
-#### (6) Changes to freeview Privacy Policy
+**Marketing**
 
-Freeview may revise its Privacy Policy at any time for any reason. We will include a notice on the Freeview website to alert Freeview users to any changes made.
+We may use personal information to advise the individual concerned of new products and marketing initiatives that we think may be of interest to them. This may include product and service offerings, newsletters and general information about us.
 
-#### (7) How to Contact freeview
+Those who prefer not to receive information about our products and services can either:
 
-Please [contact](mailto:generalenquiries@freeview.com.au) Freeview if you have any questions or concerns in relation to the privacy of your personal information.
+  * ask to be removed from the relevant circulation list by contacting contact us, using the contact details listed below; or
+  * follow the unsubscribe link in any relevant electronic communication.  
+
+
+
+We never disclose personal information to a third party for the purpose of allowing them to direct market their products or service on an individual, unless individuals have expressly consented to that disclosure.
+
+**Access**
+
+If at any time you want to know what personal information we hold about you, you are welcome to request access to that information by contacting us, using the details listed below. However, where:
+
+  * the access impacts on the privacy of others;
+  * the request for access is frivolous or vexatious;
+  * there are existing or anticipated legal proceedings; or
+  * such access can be denied under law or by a law enforcement agency,  
+   
+we may deny your request for access.If we deny your request for access, we will let you know why.We may also charge a fee to cover the reasonable costs we incur in processing your request
+
+
+
+**Quality & correction**
+
+At all times we strive to ensure that the information we hold about you is accurate, complete and up-to-date. If at any time you believe the personal information that we hold about you is incorrect, incomplete or inaccurate, you should let us know. We will use all reasonable efforts to correct the information. 
+
+**Website, cookies & tracking**
+
+  
+To ensure we are meeting the needs and wants of our website users, and to develop our online services, we may collect aggregated information by using cookies or similar electronic tools.
+
+Cookies are small amounts of information sent from a web server to your computer.  These cookies are used to retain login and location information in order to make your experience more convenient and personal.  We do not use cookies to track your internet activity before or after you leave our website.  No other business has access to our cookies.
+
+Cookies do not identify you personally, but do identify your computer. You may set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
+
+We may allow third parties to set and access their cookies while you are using our website, or the Freeview PlusTM service. The way third parties use their cookies is subject to their own privacy policies.
+
+We may also track and analyse the use of our services through an analytics and optimisation service. We use this service to collect aggregate information such as the number of users and time spent using our services. We do not use this service to collect information which can be used to identify you personally.
+
+**Changes to our Privacy Policy**
+
+As our business evolves our business processes and policies will be reviewed and may be revised. We may change our Privacy Policy at any time. We will notify you of any change by posting an updated version of our Privacy Policy on our website.
+
+**Complaints**
+
+We are committed to constantly improving our procedures so that personal information is treated appropriately. If you feel that we have failed to deal with your personal information in accordance with this policy, please contact us, using the details listed below, so we have an opportunity to resolve the issue to your satisfaction.
+
+We will log your complaint and our privacy officer will:
+
+  * listen to your concerns and grievances;
+  * discuss with you the ways in which we can remedy the situation; and
+  * put in place an action plan to resolve your complaint and improve our information handling procedures if appropriate.  
+ 
+
+
+
+No disclosure to overseas recipients
+
+We are not likely to disclose personal information to overseas recipients.
+
+**Contact us**
+
+If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by contacting us at:
+
+  
+**Privacy Officer**
+
+Freeview Australia Limited
+
+Email: [privacy@freeview.com.au](mailto:privacy@freeview.com.au)
+
+We will endeavour to respond to your concerns as quickly as possible.
