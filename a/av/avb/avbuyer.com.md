@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505010232id_/http%3A//www.avbuyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071448id_/http%3A//www.avbuyer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AvBuyer.com - The Global Aircraft Market Online
 
