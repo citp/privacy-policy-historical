@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivetechnology.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110221id_/http%3A//www.definitivetech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivetechnology.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022341id_/http%3A//www.definitivetech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Definitive Technology®
 
