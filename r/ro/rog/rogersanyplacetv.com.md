@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rogersanyplacetv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145941id_/http%3A//www.rogersondemand.com/Privacy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogersanyplacetv.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130709id_/http%3A//www.rogersondemand.com/Privacy%3Flang%3Den) for the most accurate reproduction.*
 
-# Privacy policy - Rogers Anyplace TV
+# Privacy Policy - Rogers Anyplace TV
 
 * This policy applies to all Rogers Anyplace TV services, including all associated applications. At Rogers, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect.
 
