@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232646id_/http%3A//ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123081048id_/http%3A//ikofx.com/en/index.php/en/trader-area/privacy-policy) for the most accurate reproduction.*
 
 # Online Forex Broker | Best Forex Broker | IKOFX
 
 ## Security and Disclosure
 
-IKO FOREX LIMITED ("IKOFX" or "IKOfx") considers your privacy as our upmost concerns and we respect each individual's right of privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
+IKO LIMITED ("IKOFX" or "IKOfx") considers your privacy as our upmost concerns and we respect each individual's right of privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
 
 ## Personal Information
 
