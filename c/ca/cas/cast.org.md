@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cast.org privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208032845id_/http%3A//www.cast.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cast.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123025756id_/http%3A//www.cast.org/site/privacy.html) for the most accurate reproduction.*
 
 # CAST: Privacy Policy
 
