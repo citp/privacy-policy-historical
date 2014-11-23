@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529233005id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123025944id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy and cookie policy
 
@@ -33,7 +33,7 @@ If you want to view the data that you have input when you obtained a quote you c
 
 We reserve the right to amend or modify this privacy policy at any time and any changes will be published on this website
 
-You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, or email enquiries@contact-comparethemarket.com. Please provide your full name, email address, date of birth and quote number when contacting us.
+You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, or email [service@contact-ctm.com](mailto:service@contact-ctm.com). Please provide your full name, email address, date of birth and quote number when contacting us.
 
 Back to top
 
@@ -56,6 +56,10 @@ Data will also be used to track sales and to administer our reward scheme.  Ple
 We may use third parties to process personal information on our behalf. Where third parties process your personal information on our behalf, we will ensure that they have the necessary high standards of security in place so that your data is kept secure and only used in accordance with this Privacy Policy.   
 
 We will release your personal information when we are required to do so for legal or regulatory purposes or as part of legal proceedings.
+
+Driving Licence Number
+
+If you provide your driving licence number this may be passed to the DVLA in order for a search to be carried out to confirm your (or any named driver’s) licence status, entitlement and relevant restriction information and endorsement/conviction data. Searches may be carried out as part of your quote and at any point throughout the duration of your insurance policy. A search with the DVLA will not show on your (or your named driver’s) driving licence record. For details relating to information held about you by the DVLA, please visit [www.dvla.gov.uk](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency). Undertaking searches using your driving licence number helps insurers check information to prevent fraud and reduce incidences of negligent misrepresentation and non-disclosure. The searches may be carried out by the insurers directly or we may carry out the search and pass the relevant information to the insurers for these purposes. This is a new scheme which is being rolled out. If you provide your driving licence number before the scheme is operational, we will keep your driving licence so that it may be used for future quotes.
 
 Back to top
 
@@ -83,15 +87,15 @@ Back to top
 
 **6\. Credit and data checks**
 
-Some of our product and service providers will carry out checks with credit reference and fraud prevention agencies in order to verify your identity, assess your application for a quotation or credit and offer you the best terms.  The checks may be against both public data (such as information from the electoral roll) and private data (such as your credit history) The providers do not make these checks purely because you are using our service, and may make them if you request a quote via any other source.   
+Some of our product and service providers will carry out checks with credit reference and fraud prevention agencies in order to verify your identity, assess your application for a quotation or credit and offer you the best terms.  The checks may be against both public data (such as information from the electoral roll) and private data (such as your credit history) The providers do not make these checks purely because you are using our service, and may make them if you request a quote via any other source. As part of the quote process, some product providers will exchange information with various industry databases in order to verify the information that you have provided such as the Claims and Underwriting Exchange (CUE), the Hunter Database, the Motor Insurance Anti-Fraud and Theft Register or  the No Claims Discount Database.
 
-A record of the search will appear on your credit report.  Some product providers may also carry out checks against data they already hold on you (or is held by the company whose brand they administer the product for, or members of their group of companies) such as data from existing products, account data or loyalty scheme data.    They may use this data to help them assess and rate your application for a quote and determine your premiums.  They may also pass this data to their insurance underwriters for these purposes where applicable.
+A record of the search will appear on your credit report. Some product providers may also carry out checks against data they already hold on you (or is held by the company whose brand they administer the product for, or members of their group of companies) such as data from existing products, account data or loyalty scheme data. They may use this data to help them assess and rate your application for a quote and determine your premiums.  They may also pass this data to their insurance underwriters for these purposes where applicable.
 
 Back to top
 
 **7. Crime and fraud prevention**
 
-We may share data with third parties including our product and service providers or the police and fraud prevention agencies if we believe that it is reasonably required for the prevention or detection of crime or fraud or to protect our customers. Data may also be released to third parties if we are required to do so under the terms of a court order.
+We may share data (including electronic identifiers such as IP addresses) with third parties including our product and service providers or the police and fraud prevention agencies if we believe that it is reasonably required for the prevention or detection of crime or fraud or to protect our customers. Data may also be released to third parties if we are required to do so under the terms of a court order.
 
 Back to top
 
