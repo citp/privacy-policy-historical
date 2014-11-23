@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mymusclevideo.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymusclevideo.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123021248id_/http%3A//mymusclevideo.com/static/privacy) for the most accurate reproduction.*
 
-# MyMuscleVideo - Information
+# Privacy Policy
 
 Privacy Policy
 
-**MyMuscleVideo.com** ("MyMuscleVideo") recognizes that its customers, visitors, users, and others who use [www.MyMuscleVideo.com](http://mymusclevideo.com/) or other web sites owned or operated by MyMuscleVideo (the "MyMuscleVideo Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the MyMuscleVideo Sites. MyMuscleVideo provides this Privacy Notice to help you make an informed decision about whether to use or continue using the MyMuscleVideo Sites. 
+**MyMuscleVideo.com** ("MyMuscleVideo") recognizes that its customers, visitors, users, and others who use [www.MyMuscleVideo.com](http://mymusclevideo.com/) or other web sites owned or operated by MyMuscleVideo (the "MyMuscleVideo Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the MyMuscleVideo Sites. MyMuscleVideo provides this Privacy Notice to help you make an informed decision about whether to use or continue using the MyMuscleVideo Sites.
 
-This Privacy Notice is incorporated into and is subject to the [MyMuscleVideo Terms of Use](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/terms.php). Your use of the MyMuscleVideo Sites and any personal information you provide on the MyMuscleVideo Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/terms.php).
+This Privacy Notice is incorporated into and is subject to the [MyMuscleVideo Terms of Use](http://mymusclevideo.com/static/terms/). Your use of the MyMuscleVideo Sites and any personal information you provide on the MyMuscleVideo Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://mymusclevideo.com/static/terms/).
 
 Please note that any video, image, or other content posted at the direction of Users onto the MyMuscleVideo Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
-### The Information MyMuscleVideo Collects
+###  The Information MyMuscleVideo Collects
 
 **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to MyMuscleVideo when choosing to participate in various activities on the MyMuscleVideo Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
 
@@ -19,14 +19,14 @@ Please note that any video, image, or other content posted at the direction of U
 
 
 
-### The Way MyMuscleVideo Retains Information
+###  The Way MyMuscleVideo Retains Information
 
   * To preserve the integrity of website databases MyMuscleVideo's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to MyMuscleVideo you are consenting to store that information indefinitely.
-  * If required by law, such as the Children's Online Privacy Protection Act (COPPA,) MyMuscleVideo will scramble and/or encrypt that information to make it unrecognizable. MyMuscleVideo will also respond to written member requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, contact the MyMuscleVideo Policy Manager.  needs to link to the contact info
+  * If required by law, such as the Children's Online Privacy Protection Act (COPPA,) MyMuscleVideo will scramble and/or encrypt that information to make it unrecognizable. MyMuscleVideo will also respond to written member requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, contact the MyMuscleVideo Policy Manager. ï¿½ needs to link to the contact info
 
 
 
-### The Way MyMuscleVideo Uses Information
+###  The Way MyMuscleVideo Uses Information
 
   * If you submit personally identifiable information to us through the MyMuscleVideo Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the MyMuscleVideo Sites.
   * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the MyMuscleVideo Sites and other Users can contact you through messages and comments. Any videos that you submit to the MyMuscleVideo Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
@@ -36,25 +36,25 @@ Please note that any video, image, or other content posted at the direction of U
 
 
 
-### When MyMuscleVideo Discloses Information
+###  When MyMuscleVideo Discloses Information
 
   * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the MyMuscleVideo Sites.
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * MyMuscleVideo also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that MyMuscleVideo believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/terms.jsp), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of MyMuscleVideo, our Users or others.
+  * MyMuscleVideo also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that MyMuscleVideo believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://monstercockland.com/index.php?view=info_terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of MyMuscleVideo, our Users or others.
 
 
 
-### Your Choices
+###  Your Choices
 
 You may, of course, decline to submit personally identifiable information through the MyMuscleVideo Sites, in which case MyMuscleVideo may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please contact MyMuscleVideo with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [customer service](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/static_contact.jsp).
+Please contact MyMuscleVideo with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [customer service](http://monstercockland.com/index.php?view=contact).
 
-### Third-party Advertisers, Links to Other Sites
+###  Third-party Advertisers, Links to Other Sites
 
 MyMuscleVideo allows other companies, called third-party ad servers or ad networks, to serve advertisements within the MyMuscleVideo Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the MyMuscleVideo Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
@@ -62,21 +62,21 @@ MyMuscleVideo does not provide any personally identifiable information to these 
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. MyMuscleVideo's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-### Our Commitment To Data Security:
+###  Our Commitment To Data Security:
 
 MyMuscleVideo uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to MyMuscleVideo and you do so at your own risk. Once we receive your transmission of information, MyMuscleVideo makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If MyMuscleVideo learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. MyMuscleVideo may post a notice on the MyMuscleVideo Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify [customer service](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/static_contact.jsp).
+If MyMuscleVideo learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. MyMuscleVideo may post a notice on the MyMuscleVideo Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify [customer service](http://mymusclevideo.com/help/).
 
-### Our Commitment to Legal-Age Usage
+###  Our Commitment to Legal-Age Usage
 
 Protecting children from adult ocntent is especially important. For that reason, MyMuscleVideo does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the MyMuscleVideo Sites from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the MyMuscleVideo Sites at any time or in any manner. If MyMuscleVideo learns that personally identifiable information of persons under 18 years of age has been collected on the MyMuscleVideo Sites then MyMuscleVideo will take the appropriate steps to delete this information.
 
-### Special Note to International Users:
+###  Special Note to International Users:
 
-The MyMuscleVideo Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the MyMuscleVideo Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the MyMuscleVideo Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20131121160744id_/http%3A//mymusclevideo.com/terms.jsp), you are transferring your personal information to the United States and you consent to that transfer.
+The MyMuscleVideo Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the MyMuscleVideo Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the MyMuscleVideo Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](http://mymusclevideo.com/static/terms), you are transferring your personal information to the United States and you consent to that transfer.
 
-### Changes and updates to this Privacy Notice
+###  Changes and updates to this Privacy Notice
 
 This Privacy Notice may be revised periodically and users are encouraged to review the Notices periodically to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the MyMuscleVideo Sites constitutes your agreement to this Privacy Notice and any future revisions.
 
