@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145829id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031400id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
 
 # Every Filipina Teen's Best-est Friend Online | CandyMag.com
 
