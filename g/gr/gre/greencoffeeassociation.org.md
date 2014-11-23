@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516070259id_/http%3A//www.greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123121209id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -30,25 +30,31 @@ We are committed to conducting our business in accordance with these principles 
 
 #### Upcoming Event
 
-#### GCA 2014 Convention
+#### GCA Holiday Party
 
-Register Now!  
-June 4-6, 2014
-
-[DETAILS](http://www.greencoffeeassociation.org/announcements/details/2014_gca_convention)
+December 5, 2014
 
 #### Recent Events
 
-#### GCA Annual Golf Outing & Dinner
+#### GCA ANNUAL GOLF OUTING & DINNER
 
-[DETAILS](http://www.greencoffeeassociation.org/announcements/details/green_coffee_association_annual_golf_outing_dinner)
+September 9, 2014
 
-#### GCA Annual   
-Holiday Party
+[DETAILS](http://greencoffeeassociation.org/announcements/details/gca_annual_golf_outing_dinner)
 
-[DETAILS](http://www.greencoffeeassociation.org/announcements/details/green_coffee_association_annual_holiday_party)
+#### GCA Webinar
+
+June 18, 2014
+
+[DETAILS](http://greencoffeeassociation.org/announcements/details/gca_webinars)
+
+#### GCA 2014 Convention
+
+June 4-6, 2014
+
+[DETAILS](http://greencoffeeassociation.org/announcements/details/2014_gca_convention)
 
 #### Become a Member
 
 Benefits include arbitration, networking, and more.  
-[LEARN MORE](http://www.greencoffeeassociation.org/membership/benefits_of_membership)
+[LEARN MORE](http://greencoffeeassociation.org/membership/benefits_of_membership)
