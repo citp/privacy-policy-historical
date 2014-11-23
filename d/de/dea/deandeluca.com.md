@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628183811id_/http%3A//www.deandeluca.com/CustomerCare/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031047id_/http%3A//www.deandeluca.com/CustomerCare/Privacy.aspx) for the most accurate reproduction.*
 
 # Dean & DeLuca - Privacy
-
-[](http://www.deandeluca.com/CustomerCare/Privacy.aspx#ContentPlaceHolder1_SiteMapPath1_SkipLink) [](http://www.deandeluca.com/) > [Customer Care](http://www.deandeluca.com/CustomerCare/CustomerCare.aspx "Customer Care") >
 
 **Updated April 2012  
 **  
