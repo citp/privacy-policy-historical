@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145657id_/http%3A//www.idt.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123223750id_/http%3A//www.idt.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IDT
 
@@ -23,6 +23,8 @@ We maintain the personal information described above for statistical purposes to
  **Cookies**
 
 Our site utilizes cookie technology to authenticate your access to some areas of our website and to prevent you from having to enter redundant and duplicate data.  Cookies also allow us to analyze user trends  to better understand your needs.  Cookies are small text files that our website places on your hard drive for identification purposes.  A cookie can contain information such as the URL you came from, your computer’s IP address (i.e., the Internet address of your computer) and domain type (e.g., “.com”, “.org”, etc.), your browser type, the country, state, and telephone area code where your server is located, the pages of our site that were viewed during a visit, and any search terms that you entered on our site.  Cookies are a common web site practice. They cannot access, read or modify any data on your computer or provide us with your personal data. If you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies, although it is possible that some areas of our web site will not function properly if you do so.
+
+IDT and third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on someone’s past visits to our website. IDT uses data from Google’s interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics. You may opt-out to prevent your data from being used by IDT and Google Analytics here at [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) .
 
  **Correspondence and Notifications**
 
