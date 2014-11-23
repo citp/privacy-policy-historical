@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627121007id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130630id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- iUniverse
 
-_Updated: June 13, 2012_
+_Updated: July 8, 2014_
 
 Our privacy policy, as detailed below, answers questions you may have about access, security and control of personal information. It also describes how the information will be used, and whether it will be provided to third parties.
 
 All companies that are part of Author Solutions, LLC believe that your personal information – including your name, mailing address, telephone number, e-mail address and credit card data – belongs to you. While we collect this type of information when you provide it to us, we do not rent or sell it to third parties. We use it only to process orders and to provide a more personalized shopping experience.
 
-The United States Federal Trade Commission has created a Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec01.shtm), which provides general tips about navigating the Internet. The Web site is filled with information about how to use the Internet wisely, how to avoid fraud and deception online, and how to keep personal information private.
+The United States Federal Trade Commission has created a Web site, [OnGuard Online](http://www.onguardonline.gov/ "On Guard Online"), which provides general tips about navigating the Internet. The Web site is filled with information about how to use the Internet wisely, how to avoid fraud and deception online, and how to keep personal information private.
 
 WHAT INFORMATION DO AUTHOR SOLUTIONS COMPANIES COLLECT?  
 DOES AUTHOR SOLUTIONS USE NON-PERSONALLY IDENTIFIABLE INFORMATION?  
@@ -31,9 +31,9 @@ If you choose not to provide private information to this Web site, alternate ord
 
 To better serve you, iUniverse may share your name and contact information with companies that are part of Author Solutions, LLC, which offer products or services desirable or useful to you. Author Solutions, LLC companies share aspects of common ownership and control.
 
-Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, AuthorHive and Wordclay.
+Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, and Trafford.
 
-We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services and special offers we think you’ll find valuable.
+We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services and special offers we think you’ll find valuable. If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt-out by emailing us stating your request at _[unsubscribe@iuniverse.com](mailto:unsubscribe@iuniverse.com "unsubscribe@iuniverse.com")_  and so specifying. This opt out does not apply to information  exchanged via email to facilitate, complete or confirm our transaction with you, to provide warranty or security information, to notify you of a change in terms or features, or to deliver to you goods or services, including updates or upgrades, that you are entitled to receive.
 
 We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users or others.
 
@@ -97,21 +97,19 @@ Author Solutions, LLC strives to maintain the highest standards of ethical condu
 
 No employee or agent of Author Solutions, LLC shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulations.
 
-If you do not want to receive sales calls from any imprint of Author Solutions, LLC, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 30 days. You can make this request by phone, email, or mail as follows:
+If you do not want to receive sales calls from any imprint of Author Solutions, LLC, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 10 days. You can make this request by email or mail as follows:
 
-  * Call (800) AUTHORS (288-4677)
-  * Email us at [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) or
-  * Mail to 1663 Liberty Drive, Bloomington, IN 47403
+Email us at [donotcall@iuniverse.com](mailto:donotcall@iuniverse.com "donotcall@iuniverse.com") or
 
+Mail to iUniverse, Attn: Do Not Call List, 1663 Liberty Drive, Bloomington, IN 47403 
 
-
-When submitting a request, be sure to include all the relevant information that you want added to our Do Not Contact List, i.e., **full name, address, and telephone number(s)**. Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
+When submitting a request, be sure to include all the relevant information that you want added to our Do Not Call List, i.e., full name, address, and telephone number(s). Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
 
 If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service.
 
-Please note that the Author Solutions, LLC, Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. If you would like to add your number to the Global Do Not Call List, you may do so by relaying this request to the Customer Service Representative or via e-mail through [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com)
+Please note that the Author Solutions, LLC, Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. 
 
-Being on the Author Solutions Do Not Call List restricts telephone solicitations only. We may still contact you about service-related issues, surveys, billing, and other topics.
+Being on the iUniverse Do Not Call List restricts telephone offers for sales only. We may still call you about service and fulfillment issues, surveys, billing, and other topics.
 
 _Back to Top_
 
