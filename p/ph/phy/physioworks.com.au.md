@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioworks.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629190431id_/http%3A//www.physioworks.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioworks.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123233114id_/http%3A//www.physioworks.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ PHYSIOWORKS respects your privacy and is committed to protecting your personal i
 
 8\. Terms of Use. Please also see our [Terms of Use](https://web.archive.org/terms), which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the entire PHYSIOWORKS web site.
 
-9\. General. If you have questions regarding our Privacy Statement, please contact PHYSIOWORKS via our [Contact Us](https://web.archive.org/contact-us) page. Updated 09-Nov-2013 12:15 AM 
+9\. General. If you have questions regarding our Privacy Statement, please contact PHYSIOWORKS via our [Contact Us](https://web.archive.org/contact-us) page. Updated 29-Oct-2014 01:22 PM 
 
 ### Receive Special Offers and the Latest Injury Information
 
