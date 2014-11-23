@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523195224id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031413id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Bend & Central Oregon News, Weather, Sports | BendBulletin.com
+# Privacy Policy
+
+Jul 26, 2013 at 03:54PM
 
 This policy discloses the privacy and security practices for bendbulletin.com and bendhomes.com, which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. Bendbulletin.com and bendhomes.com are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. This policy applies to the web sites (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated, distributed, or created by us and post this policy. If you have any questions about bendbulletin.com's privacy practices, please contact us via e-mail at [privacy@bendbulletin.com](mailto:privacy@bendbulletin.com).
 
