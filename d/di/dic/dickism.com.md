@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509065944id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123161847id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Dickism
 
