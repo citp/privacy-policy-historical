@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqwallbase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111657id_/http%3A//hqwallbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqwallbase.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123135311id_/http%3A//hqwallbase.com/privacy-policy) for the most accurate reproduction.*
 
 # hqWallbase.com - Privacy policy
 
