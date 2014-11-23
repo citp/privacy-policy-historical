@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donq.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525081612id_/http%3A//donq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donq.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123162838id_/http%3A//donq.com/privacy) for the most accurate reproduction.*
 
-# DonQ Rum | Privacy Policy
+# Don Q Rum | Privacy Policy
 
 ### September 2009
 
