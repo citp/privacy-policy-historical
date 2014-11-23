@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010034id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031834id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # THE OFFICIAL WEBSITE OF MONSTER JAM - Privacy Policy
 
