@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dialrequest.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060252id_/http%3A//dialrequest.com/Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialrequest.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123140857id_/http%3A//www.dialrequest.com/Policies) for the most accurate reproduction.*
 
-# Dial Request - Chennai Yellow Pages | Local Business Directory | Free Business Listings Chennai
+# Dial Request-Beyond Search – Chennai's local search engine - Car, Bike, Mobile Dealer List in Chennai | Hotel, Restaurant in Chennai | Shopping Malls, banks in Chennai
 
 ###  PRIVACY POLICY:
 
