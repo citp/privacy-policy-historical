@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpgpl.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055818id_/http%3A//wpgpl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpgpl.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071234id_/http%3A//wpgpl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / WordPress Themes, Plugins & Development
 
