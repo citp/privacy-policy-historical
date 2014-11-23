@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517191331id_/http%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042711id_/http%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[**Memotoo.com**](http://www.memotoo.com/) will store your personal data with great care because 
+[**Memotoo.com**](https://www.memotoo.com/) will store your personal data with great care because 
 
 _**your data are your property**_
 
 .  
-This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20140517191331id_/http%3A//www.memotoo.com/index.php?rub=conditions).  
+This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20141123042711id_/http%3A//www.memotoo.com/index.php?rub=conditions).  
 By using this site, you agree to be bound by this Privacy Policy and respect it.
 
 **
@@ -22,11 +22,11 @@ In no case, we do not collect or handle personal data revealing, directly or ind
   
 
   * **Cookies**   
-When you access to [**Memotoo**](http://www.memotoo.com/) pages, we can send one or more cookies (small files containing a string of characters) to your computer to store data in your browser. They are used to improve the functioning of our service.
+When you access to [**Memotoo**](https://www.memotoo.com/) pages, we can send one or more cookies (small files containing a string of characters) to your computer to store data in your browser. They are used to improve the functioning of our service.
   
 
   * **Login Information**   
-When you connect to [**Memotoo**](http://www.memotoo.com/), it may be that we store your connection information such as your browser, IP address, ...
+When you connect to [**Memotoo**](https://www.memotoo.com/), it may be that we store your connection information such as your browser, IP address, ...
   
 
   * **Communications with other people**   
@@ -40,9 +40,9 @@ When you send an e-mail, SMS, ... we do not store the content of these messages.
 
 **
 
-**[**Memotoo**](http://www.memotoo.com/) will NEVER distribute your information to third persons whether for commercial purposes or not (eg: sell the e-mail addresses, ...).**
+**[**Memotoo**](https://www.memotoo.com/) will NEVER distribute your information to third persons whether for commercial purposes or not (eg: sell the e-mail addresses, ...).**
 
-**Your personal information are your property and[ **Memotoo**](http://www.memotoo.com/) is only a means to use them with innovative and useful features.**
+**Your personal information are your property and[ **Memotoo**](https://www.memotoo.com/) is only a means to use them with innovative and useful features.**
 
 **
 
@@ -50,9 +50,9 @@ When you send an e-mail, SMS, ... we do not store the content of these messages.
 
 **
 
-To access the site, you connect with a login and password. It is necessary to choose a password that is not readily available to avoid any risk of piracy. To not steal your login, it is important to know which place you enter and it is strongly recommended to use SSL connections to encrypt data exchanged during the connection [**Memotoo**](http://www.memotoo.com/).  
-[ **Memotoo**](http://www.memotoo.com/) sets up ways for the attackers can not access your data, and encryption of your data.  
-Your data are only accessible by you, the people you have shared your information, and [**Memotoo**](http://www.memotoo.com/) team.
+To access the site, you connect with a login and password. It is necessary to choose a password that is not readily available to avoid any risk of piracy. To not steal your login, it is important to know which place you enter and it is strongly recommended to use SSL connections to encrypt data exchanged during the connection [**Memotoo**](https://www.memotoo.com/).  
+[ **Memotoo**](https://www.memotoo.com/) sets up ways for the attackers can not access your data, and encryption of your data.  
+Your data are only accessible by you, the people you have shared your information, and [**Memotoo**](https://www.memotoo.com/) team.
 
 **
 
