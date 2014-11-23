@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611080744id_/http%3A//www.wmmr.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071412id_/http%3A//www.wmmr.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 93.3 WMMR: Everything That Rocks
 
