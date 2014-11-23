@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123075828id_/http%3A//www.lovelyskin.com/customer-service/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123084554id_/http%3A//www.lovelyskin.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ We may ask you to provide us information if you use one or more of the following
 
 ### Creating an Account on LovelySkin.com
 
-To create an account on LovelySkin.com, you need to share some of your personal information, including your name and email address. You do not have to register for an account to visit the site. You will have to create one in order to place orders or make full use of our services. If you would only like to make a single purchase, you may select the guest checkout process.
+To create an account on LovelySkin.com, you need to share some of your personal information, including your name and email address. You do not have to register for an account to visit the site. You will have to create one in order to place orders or make full use of our services.
 
 Once you create a LovelySkin account, you will use your email address and a selected password to access that account. You cannot use another person’s account without permission and you cannot create duplicate accounts with the same email address. You should keep your account information complete and up-to-date to ensure the best service. You are responsible for maintaining the confidentiality of your account information and password.
 
