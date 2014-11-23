@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031044536id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042744id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.*
 
 # Before & After | Privacy policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
  **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Before & After magazine. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Before & After magazine. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. In the event that we decide to sell all or part of our stock or assets or enter into a merger, we reserve the right to include personally identifiable information and non-personally identifiable information among the assets transferred to the acquiring or surviving company.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -47,7 +47,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 To modify your e-mail subscriptions, please let us know by modifying your preferences in the ["My Account"](http://www.bamagazine.com/myaccount.asp) section. Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, sign into the ["My Account"](http://www.bamagazine.com/myaccount.asp) section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+To delete all of your online account information from our database, sign into the ["My Account"](http://www.bamagazine.com/myaccount.asp) section of our site. Choose your last order and edit/delete your shipping addresses, billing addresses & payment information. Please note that we maintain information about individual sales transactions in order to service that transaction and for record keeping.
 
  **Third party links**
 
@@ -55,7 +55,7 @@ In an attempt to provide you with increased value, we may include third party li
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on January, 19, 2012.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 20, 2014.** Revisions highlighted.
 
  **[Questions and feedback](http://www.bamagazine.com/bacontact)**
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20131029233643id_/http://www.bamagazine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20141123042744id_/http://www.bamagazine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
