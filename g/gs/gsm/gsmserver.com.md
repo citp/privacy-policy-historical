@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsmserver.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208042605id_/http%3A//gsmserver.com/content/information/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmserver.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123035740id_/http%3A//gsmserver.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - GsmServer
 
 GsmServer understands that security and privacy are important issues for visitors of our web site and undertakes to keep your information secure and confidential. That is why we maintain the following standards to protect personal information. We reserve the right to change this Privacy Policy at any time without prior notice.
 
@@ -29,7 +29,7 @@ GsmServer uses your personal information for the following purposes: to process 
 
 ## Disclosure of Information to Third Parties
 
-Information about our customers is an important part of our business and we share customer information only as described below: 
+Information about our customers is an important part of our business and we share customer information only as described below:
 
   * **Third-party service providers.** We cooperate with other companies and individuals to deliver packages, send postal mail and e-mail, processing credit card payments, and providing customer service, etc. They have access to personal information required to perform their functions, but may not use it for other purposes.
   * **Protection of GsmServer.** We release account and other personal information when we believe release is appropriate to comply with the law, protect the rights, property, or safety of GsmServer, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
@@ -49,7 +49,7 @@ Please note! Be sure to sign off when finished using a shared computer in order 
 
 ## Links to Other Websites
 
-Our website may contain links to other sites on the Internet that are owned by third parties. GsmServer is not responsible for the collection or use of your personal information at any third party sites. 
+Our website may contain links to other sites on the Internet that are owned by third parties. GsmServer is not responsible for the collection or use of your personal information at any third party sites.
 
 ## Access to Information
 
