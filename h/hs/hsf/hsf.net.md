@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627054545id_/http%3A//www.hsf.net/en/about-hsf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031407id_/http%3A//hsf.net/en/about-hsf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HSF
 
@@ -80,7 +80,7 @@ This privacy policy was last modified on 8/30/2013.
 
 **HSF DONOR PRIVACY STATEMENT**
 
-HSF respects the privacy of every individual who visits [www.hsf.net](http://hsf.net/en/).  Our website [Privacy Policy](http://hsf.net/en/about-hsf/privacy-policy) provides helpful information about our data practices. We have summarized terms relating to our donors below. Please see the full Privacy Policy for details. 
+HSF respects the privacy of every individual who visits [www.hsf.net](https://web.archive.org/en/).  Our website [Privacy Policy](https://web.archive.org/en/about-hsf/privacy-policy/) provides helpful information about our data practices. We have summarized terms relating to our donors below. Please see the full Privacy Policy for details. 
 
 HSF will never exchange, share or sell any of the information you provide, except as set forth in our Privacy Policy.  Your contact information is solely to inform you of opportunities to participate in and/or support the mission and work of the Hispanic Scholarship Fund. At any time, you may request to be removed from our contact list. To do so, simply email Alba Peña at apena@hsf.net.
 
@@ -131,4 +131,4 @@ Philanthropy is based on voluntary action for the common good.  It is a traditi
  
 
  **CONTACT US**  
-If you have any questions about our policy or our compliance, you may send us an email or write to us. To contact us, please [click here](http://hsf.net/en/contact-us).
+If you have any questions about our policy or our compliance, you may send us an email or write to us. To contact us, please [click here](https://web.archive.org/en/contact-us/).
