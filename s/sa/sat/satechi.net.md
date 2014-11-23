@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527131817id_/http%3A//www.satechi.net/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031558id_/http%3A//www.satechi.net/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
