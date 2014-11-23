@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813051927id_/https%3A//www.jv-extensions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173455id_/http%3A//www.jv-extensions.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - JV-Extensions
+# Privacy Policy | Policies
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.  
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
@@ -71,7 +71,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 44/6, First Floor, Singarachari street, Triplicane  
 Chennai, TamilNadu, 600005  
 India  
-support@jv-extensions.com
+[support@jv-extensions.com](mailto:support@jv-extensions.com)
 
 **Privacy Policy Customer Pledge**
 
