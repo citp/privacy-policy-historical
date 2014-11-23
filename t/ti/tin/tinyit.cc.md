@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyit.cc privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074804id_/http%3A//tinyit.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyit.cc privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123045144id_/http%3A//tinyit.cc/privacy.html) for the most accurate reproduction.*
 
 # Tinyit.cc - Privacy Policy
 
