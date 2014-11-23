@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034406id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123024413id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Online Charity Donations Privacy Policy | Qgiv, Inc.
 
