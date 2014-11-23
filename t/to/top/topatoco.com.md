@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216204457id_/http%3A//www.topatoco.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DTO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123093035id_/http%3A//www.topatoco.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DTO) for the most accurate reproduction.*
 
 # TopatoCo: Privacy Policy
 
@@ -19,5 +19,5 @@ If you have any questions or comments about anything, contact us at:
 support [at] topatoco [dot] com
 
 TopatoCo.com  
-116 Pleasant ST #203  
+14 Industrial Pkwy  
 Easthampton MA 01027
