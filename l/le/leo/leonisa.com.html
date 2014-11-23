@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the leonisa.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606223625id_/http%3A//www.leonisa.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leonisa.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123181617id_/http%3A//www.leonisa.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head id="head"><script async="" src="https://d2xgf76oeu9pbh.cloudfront.net/7ef969034c47248c2ab148392d95e200.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://3b4891cae6b72fff4a5b-58fea04f9f66159dae555a71b0aa91a4.ssl.cf2.rackcdn.com/gascript.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e8b4ad5ade","applicationID":"3771663","transactionName":"MQEAMUBTWUNRABVdVghLIzZiHUdRVwZPVUoWHA==","queueTime":0,"applicationTime":301,"ttGuid":"331A5A40B3E427A3","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUBUVVaGwAHU1BUAQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="canonical" href="http://www.leonisa.com/en/privacy-policy/"><meta name="description" content="Leonisa is committed to respect the privacy rights of all the site users and of the clients who register in this website."><link rel="alternate" hreflang="es-ES" href="http://www.leonisa.com/eu-sp/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="es-MX" href="http://www.leonisa.com/mx/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="en-ES" href="http://www.leonisa.com/eu/privacy-policy/"><link rel="alternate" hreflang="es-US" href="http://www.leonisa.com/sp/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="en-US" href="http://www.leonisa.com/en/privacy-policy/"><title>
+<!DOCTYPE html><html lang="en"><head id="head"><link rel="canonical" href="http://www.leonisa.com/en/privacy-policy/"><meta name="description" content="Leonisa is committed to respect the privacy rights of all the site users and of the clients who register in this website."><link rel="alternate" hreflang="es-PR" href="http://www.leonisa.com/pr/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="es-ES" href="http://www.leonisa.com/eu-sp/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="en" href="http://www.leonisa.com/en/privacy-policy/"><link rel="alternate" hreflang="en-US" href="http://www.leonisa.com/en/privacy-policy/"><link rel="alternate" hreflang="es-CO" href="http://www.leonisa.com/col/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="es-MX" href="http://www.leonisa.com/mx/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="en-ES" href="http://www.leonisa.com/eu/privacy-policy/"><link rel="alternate" hreflang="es" href="http://www.leonisa.com/sp/politica-de-seguridad-y-privacidad/"><link rel="alternate" hreflang="es-US" href="http://www.leonisa.com/sp/politica-de-seguridad-y-privacidad/"><title>
 	Privacy Policy | Leonisa
-</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="X-Frame-Options" content="deny"><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/cms/includes/style.css?g=vMcNYLzK40Os92cdYdaZO1h2EyIU59V6Mt0bbKj8DedVTSNpldSiPQhXoLFjqvv%2b">
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="X-Frame-Options" content="deny"><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/cms/includes/style.css?g=KiiU0ZQsLSITSqs67Hvbp%2blvt4GTqMMlkR2YpmW77yLGvsJXhmjn5QWWRJ8xk4Qu">
 <link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/FAQs.css?g=3dKYb0SwacVtI16TryyFIvvH2JHdJN1kfae2t4fp%2bLevC0L%2fULDmjy4QQLP3gqza">
 <link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/newsletter.css?g=bWD0WCfhHdwWq5XHFWMYKRM9LG%2fLemWQ7jvtznhs5hRl0RxUgL%2fHWBetg3Sicvk8">
 <link rel="stylesheet" type="text/css" href="/cms/includes/subCSS/videos.css?g=eOAiFbcwQ7r82tkx7KIIvQBv57acqbFWRvd9JEFr%2fs5NnioeaGSGzfpXbV4WmlxG">
 <link rel="stylesheet" type="text/css" href="/assets/custom/css/leonisa-css-1.css?g=PgiwSOPebuOdNDRuhTaachVi9o3JqsIaCJwlcrej5SK9if26A9JBDOoQoUHeaAxk">
 <link rel="stylesheet" type="text/css" href="/assets/custom/css/leonisa-css-4.css?g=7RifIpcIIGIaLd%2f%2bU6%2fR6pTRsJTrXl5vF4CjU2SwbX4%2fal9KWraPF1KQ5Tpdc3xf">
-<script type="text/javascript" src="/cms/includes/jquery-core.js?Guid=kBCQxS22e77aZjZpOPwN4Pp9%2fYt7uUovrq3x9liyAHHlhShv4guyC3auf9Y8OShl"></script>
-<script type="text/javascript" src="/cms/includes/jquery-plugins.js?Guid=RV7H%2f0izpD%2bt7%2fO2JrpjGZhdcqWW7O06Rbtb2CKqrGsOv5nBjX7C4TPqYlhi6p1H"></script>
+<script async="" src="https://d2xgf76oeu9pbh.cloudfront.net/7ef969034c47248c2ab148392d95e200.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://3b4891cae6b72fff4a5b-58fea04f9f66159dae555a71b0aa91a4.ssl.cf2.rackcdn.com/gascript.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/cms/includes/jquery-core.js?Guid=kBCQxS22e77aZjZpOPwN4Pp9%2fYt7uUovrq3x9liyAHHlhShv4guyC3auf9Y8OShl"></script>
+<script type="text/javascript" src="/cms/includes/jquery-plugins.js?Guid=Y5vWFBnd2jThwUiy9Y1Y6MD08BKd%2bnByUjTCTwuXLZYfiCdtUYVx%2feqx7uCjet8j"></script>
 <script type="text/javascript" src="/cms/includes/jquery-functions.js?Guid=%2fA0%2fMOsyOT0XG5mQJkS3mdOsy1HD8%2f%2bJH4gDaqLEl%2b5kuJ%2fdRjJCm%2fNDWOpTAU9e"></script>
 <script type="text/javascript" src="/cms/includes/FunctionsC.js?Guid=KTUfDujE9l4uGftRMR%2fC2wq69X1XzZa9ALU2JCfzMwQM6pRDjE9%2bZBrAGz3GStj5"></script>
 <script type="text/javascript" src="/cms/includes/moc.js?Guid=wIlUErkh1Dey5Dho5kz89K55OLRrI65d%2f%2fHmKYUx6ImJOFRWXrUwX5oYVE1B0U5U"></script>
-<script type="text/javascript" src="/cms/includes/jquery-functions-store.js?Guid=LNZBcQYyQ0lL%2bv6msd%2fE3PKqxE%2bOtXTPAt4aApONhgiDWjGAI5yFMQP3v%2bxj6VYS"></script>
-<script type="text/javascript" src="/includes/store/IdevSelections.js?Guid=22klYNe8i0q4aq4P2tx1d%2bMTnnrPKt5dIvNCgu1LESTni0NXWF1SymOUIGemdi%2fD"></script>
+<script type="text/javascript" src="/cms/includes/jquery-functions-store.js?Guid=AUvXEQdLd7p7A5kctpcgONv7m4fvbi%2b2p7horwiPS%2b4DJJdp76%2bH6occqz%2b%2bogzI"></script>
+<script type="text/javascript" src="/includes/store/IdevSelections.js?Guid=NYvsesZbwbsznWT6KYZ3YHLZSkR%2baWWCBnhO2j6QfWugz7IS3tRTE%2f1xaYNaEbkP"></script>
 <script type="text/javascript" src="/cms/includes/moc.js?Guid=wIlUErkh1Dey5Dho5kz89K55OLRrI65d%2f%2fHmKYUx6ImJOFRWXrUwX5oYVE1B0U5U"></script>
-<script type="text/javascript" src="/cms/includes/mafunctions_en.js?Guid=mNrXXbcADLKAEvaIFuzYukwIGzu80DbWqZDss3%2f28UnR3vEZIacNS3o5r3AfYHBj"></script>
+<script type="text/javascript" src="/cms/includes/mafunctions_en.js?Guid=h%2brlzYR7p%2fsBCIe8%2bBgT25RPVE%2bwx5wfDvW1gvdHFRZZCWJKXVcP2Q3D40NOBHAA"></script>
 <script type="text/javascript" src="/cms/includes/jquery.pager.js?Guid=2GvhnY83nZ%2fG5fImP3gDy6IEmHlCYgD9gKqT5%2fnOhMNSGVYJUr262C98RfOH5cjh"></script>
 <script type="text/javascript" src="/cms/includes/jquery.colorbox.js?Guid=22m82rWDBMocSohSWZ%2bGmlCfqeC1S0%2bO5pjuOq0ONX1SznEh%2b3z662w7FB9mObte"></script>
 <script type="text/javascript" src="/assets/custom/js/leonisa-js-1.js?Guid=UrDvN8SMiiywdNfE%2fikXPtYqEdpn5muycoiYqDwnnCJx2GuGX5HiVusUeq04LLT5"></script>
@@ -50,7 +50,7 @@
     var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
     var _vis_opt_url = typeof (_vis_opt_url) == "undefined" ? document.URL : _vis_opt_url;
     document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a=' + _vis_opt_account_id + '&url=' + encodeURIComponent(_vis_opt_url) + '&random=' + Math.random() + '" type="text/javascript">' + '<\/s' + 'cript>');
-</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=40304&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140606223625id_%2Fhttp%3A%2F%2Fwww.leonisa.com%2Fen%2Fprivacy-policy%2F&amp;random=0.6156077880584077" type="text/javascript"></script>
+</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=40304&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141123181617id_%2Fhttp%3A%2F%2Fwww.leonisa.com%2Fen%2Fprivacy-policy%2F&amp;random=0.09814985050956415" type="text/javascript"></script>
 <script type="text/javascript">
     if (typeof (_vis_opt_settings_loaded) == "boolean") {
         document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>');
@@ -81,7 +81,7 @@
 function banner_track(el,id){el.href='/banners.aspx?BannerId='+id;el.mousedown='';return true;}//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=SAM-R55Jbyx7jHbEsUnlrHm08_dLOAlzN--Z10xp4mCoXACVcUtMEFHPCYOmv1n7sDM9wFX-8GJIm8hJ2vY6v3ISNnXwYupo685pPNUMMxB54ElvVAxoUYikeCh2SGu4BSjtSkF20QaQXBINRW38qX8g2EzAF2VB7rsishaAw-M1&amp;t=ffffffff94f72c4c" type="text/javascript"></script><input type="hidden" name="hdnSubDirectory" id="hdnSubDirectory" value="/en">
+<script src="/ScriptResource.axd?d=amOPaYjVPaCYnraP63i_sIfpz15IMiyCZEAuxIyz1ctNoQt17ocHZLiicvBa_onfvCxjMeyiRiCOEZBnp-E1mfqhLL8v3GYCt029CtKIodclPwHCWUJ34spodFEhcjONtAf7zPzZNH7Gi9wHCbhYvAfkFsJ5PQVfIr_cmJHnqEI1&amp;t=1c6ae475" type="text/javascript"></script><input type="hidden" name="hdnSubDirectory" id="hdnSubDirectory" value="/en">
 
 
 
@@ -95,16 +95,18 @@ function banner_track(el,id){el.href='/banners.aspx?BannerId='+id;el.mousedown='
 
 
     
-
-
     <div class="selector">
         <span class="current"><img src="/cms/images/layout/icon_flag_us.jpg" id="CT_SiteToolBar_0_imgSelectedCountry" alt="us"><span id="CT_SiteToolBar_0_spanSelectedCountry">United States</span></span>
         
                 <ul>
             
-                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl01_lnkCountry" onclick="document.location.href='/eu-sp/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_eu.jpg" id="CT_SiteToolBar_0_rptCountries_ctl01_imgCountry" alt="europe"><span id="CT_SiteToolBar_0_rptCountries_ctl01_spanCountry">Europe</span></a></li>
+                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl01_lnkCountry" onclick="document.location.href='/col/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_co.jpg" id="CT_SiteToolBar_0_rptCountries_ctl01_imgCountry" alt="colombia"><span id="CT_SiteToolBar_0_rptCountries_ctl01_spanCountry">Colombia</span></a></li>
             
-                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl02_lnkCountry" onclick="document.location.href='/mx/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_mx.jpg" id="CT_SiteToolBar_0_rptCountries_ctl02_imgCountry" alt="mexico"><span id="CT_SiteToolBar_0_rptCountries_ctl02_spanCountry">Mexico</span></a></li>
+                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl02_lnkCountry" onclick="document.location.href='/eu-sp/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_eu.jpg" id="CT_SiteToolBar_0_rptCountries_ctl02_imgCountry" alt="europe"><span id="CT_SiteToolBar_0_rptCountries_ctl02_spanCountry">Europe</span></a></li>
+            
+                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl03_lnkCountry" onclick="document.location.href='/mx/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_mx.jpg" id="CT_SiteToolBar_0_rptCountries_ctl03_imgCountry" alt="mexico"><span id="CT_SiteToolBar_0_rptCountries_ctl03_spanCountry">Mexico</span></a></li>
+            
+                  <li><a href="javscript:void();" id="CT_SiteToolBar_0_rptCountries_ctl04_lnkCountry" onclick="document.location.href='/pr/politica-de-seguridad-y-privacidad/'; return false;"><img src="/cms/images/layout/icon_flag_pr.jpg" id="CT_SiteToolBar_0_rptCountries_ctl04_imgCountry" alt="puertorico"><span id="CT_SiteToolBar_0_rptCountries_ctl04_spanCountry">Puerto Rico</span></a></li>
             
                 </ul>
             
@@ -133,10 +135,10 @@ function banner_track(el,id){el.href='/banners.aspx?BannerId='+id;el.mousedown='
 	
 			<div class="announcementBlock"> </div>
 			<ul class="toolLinks">
-				<li class="">
+				<li style="border-right:1px solid;">
 					<a href="http://www.leonisa.com/en/member-sign-in/">Sign In</a>						
-				</li>
-				<li class="">
+				</li>                
+				<li style="padding-left: 3px;">
 					<a href="http://www.leonisa.com/en/member-register/">Register</a>						
 				</li>
 			</ul>            
@@ -144,7 +146,8 @@ function banner_track(el,id){el.href='/banners.aspx?BannerId='+id;el.mousedown='
 </div>
 <div class="cartBlock">
 	<div class="dropdownLink">
-		<a class="cart main" href="http://www.leonisa.com/en/shopping-bag/" style="font-size: 11px;">Shopping Bag <span class="cartSummary">
+		<a class="cart main" href="http://www.leonisa.com/en/shopping-bag/" style="font-size: 11px;font-weight:normal;">Shopping Bag <span class="cartSummary">
+
 <span class="spanCartTotal" id="spanCartTotal">
     0 items, US $0.00
 </span>
@@ -189,22 +192,40 @@ Test needs to include a tranlation
     <img src="/cms/images/layout/site_logo.png" alt="Leonisa"></a>
 <div class="clear">&nbsp;</div>
 
+<div id="tiModal"></div>
+
 <a name="itemAdded"></a>
 <div id="item-dialog">
     <div id="slideOutCartHeader" class="hdng2 hdng-item-dialog">
-        <div style="float: left; width: 270px;">This item was added to your bag</div>
+        <div style="float: left; width: 400px; text-align: left; margin-left: 15px;">This item was added to your bag</div>
         <div style="width: 32px; float: right;">
-            <img alt="close" style="cursor: pointer; vertical-align: middle; float: right; margin-right: 5px;" src="/cms/images/layout/close_off.png" onclick="hideItemSlider(); return false;" onmouseover="this.src='/cms/images/layout/close_on.png';" onmouseout="this.src='/cms/images/layout/close_off.png';">
+            <img alt="close" class="closeModal" style="cursor: pointer; vertical-align: middle; float: right; margin-right: 5px;" src="/cms/images/layout/close_off.png" onclick="hideItemSlider(); return false;" onmouseover="this.src='/cms/images/layout/close_on.png';" onmouseout="this.src='/cms/images/layout/close_off.png';">
         </div>
         <div class="clear"></div>
     </div>
-    <div class="item-dialog-content" id="divItemAdded"></div>
-    <div style="padding: 8px;" class="center">
-        <span class="btnWrapper btnContinueShopping">
-            <input type="button" class="imgbtn" value="Continue Shopping" onclick="hideItemSlider(); return false;"></span>
-        <span class="btnWrapper btnProceedCheckout">
-            <input type="button" class="imgbtnAlt" value="CHECKOUT" onclick="window.location='http://www.leonisa.com/en/shopping-bag/    ';return false;"></span>
-    </div>
+	<div style="cartWrap">
+		<div style="width:50%; display:inline-block; float:left;">
+			<div style="padding: 20px 20px 20px 10px">
+				<div class="item-dialog-content" id="divItemAdded"></div>
+			</div>
+		</div>
+		<div style="width:48%; display:inline-block">
+			<div style="padding: 25px 0px 0px 40px;">
+				<div class="item-dialog-content" id="divCartTotal">something</div>
+				<div class="center">
+                    <a href="#" class="btnProceedCheckout" onclick="window.location='http://www.leonisa.com/en/shopping-bag/    '; return false;" "="">
+                        <span class="icon">&nbsp;</span>
+                        <span id="spanCartText">VIEW SHOPPING BAG</span>
+                    </a>
+					<br>
+					<span class="btnWrapper btnContinueShopping" style="cursor:pointer">
+						<a class="closeModal" onclick="hideItemSlider(); return false;">Continue Shopping</a>
+					</span>
+				</div>
+			</div>
+		</div>		
+		<div id="tiCust"></div>
+	</div>	
 </div>
 
 <script type="text/javascript">
@@ -212,13 +233,13 @@ Test needs to include a tranlation
 
     function popupSignup(pageSection) {
         var txtSignupEmail = (pageSection == 'header' ? $("#txtSignupEmail") : $("#txtSignupEmail2"));
-        
+
         window.location = 'http://www.leonisa.com/en/signup/?e=' + txtSignupEmail.val();
     }
 
     function popupSignupCancel(pageSection) {
         var txtSignupEmail = (pageSection == 'header' ? $("#txtSignupEmail") : $("#txtSignupEmail2"));
-        
+
         $("#txtSignupEmail").val('');
     }
     $("#txtSignupEmail").focus();
@@ -232,7 +253,7 @@ Test needs to include a tranlation
 
                                         </div>
                                         <div class="headerMid">
- 				                <div>
+ 				                <div><link href="http://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet" type="text/css">
 <link href="https://www.leonisa.com/assets/1/7/estilos-tablas-todo.css" media="all" rel="stylesheet" type="text/css">
 <!-- estilos para HOME AGOSTO --><div>
 	<style type="text/css">
@@ -372,11 +393,11 @@ $(function() {
   }
 
 });</script>--><!-- FIN estilos para banners small rotativos -->	<div id="container">
-  <div class="display shortDescvent" id="div2" style="cursor:hand !important;">
-	<img alt="Swimwear" border="0" height="94" src="http://www.leonisa.com/en/assets/1/7/header-swimwearoffer-en1.jpg" usemap="#MapHeader2" width="230"><map id="MapHeader2" name="MapHeader2"><area class="itemCO" coords="-2,0,217,88" href="#" id="Offer-Swimwear" onclick="_gaq.push(['_trackEvent', 'Banner', 'Click', 'panties-header-en/home']);" shape="rect"></map></div>
+<!--<div class="display shortDescvent" id="div2" style="cursor:hand !important;  display: none">
+			<a href="http://www.leonisa.com/en/aboutus/breast-cancer/"><img alt="Breast self exam" border="0" height="94" src="http://www.leonisa.com/en/assets/1/7/BHOffer-BreastCancer-1014N1-En.jpg" usemap="#MapHeader2" width="230" /></a></div>-->		<div class="display shortDescvent" id="div1" style="cursor:hand !important;">
+			<img alt="Shapewear &amp; Lingerie with Black Friday savings!" border="0" height="94" src="http://www.leonisa.com/en/assets/1/7/BHOffer-BlackFriday-1114N7-En.gif" usemap="#MapHeader3" width="230"><map id="MapHeader3" name="MapHeader3" onclick="_gaq.push(['_trackEvent', 'banner', 'Click', 'Offer-en/home']);"><area class="itemCO" coords="4,18,226,84" href="#" id="offer-blackfriday" shape="rect"></map></div>
 	</div>
 </div>
-
 </div>
 
 
@@ -417,7 +438,8 @@ $(function() {
 </div>
 <div class="clear">&nbsp;</div>
 
-<div><!-- Librerias para el correcto cargar de la pagina HOME --><!-- <script type="text/javascript" src="/UserFiles/image/estilos-especiales/slider-home/js/animate.js"></script>--><!-- <script type="text/javascript" src="/UserFiles/image/estilos-especiales/slider-home/js/jquerybackgroundPosition.js"></script>--><!-- <link href="/UserFiles/image/estilos-especiales/slider-home/css/style.css" media="all" rel="stylesheet" type="text/css" />--><script type="text/javascript" async="async" src="https://www.leonisa.com/en/assets/1/7/ventana-items.js"></script><!--para idioma Ingles--><!-- Contiene el java para abrir la tabla de DETALLE -->
+<div>
+<!-- Librerias para el correcto cargar de la pagina HOME --><!-- <script type="text/javascript" src="/UserFiles/image/estilos-especiales/slider-home/js/animate.js"></script>--><!-- <script type="text/javascript" src="/UserFiles/image/estilos-especiales/slider-home/js/jquerybackgroundPosition.js"></script>--><!-- <link href="/UserFiles/image/estilos-especiales/slider-home/css/style.css" media="all" rel="stylesheet" type="text/css" />--><script type="text/javascript" async="async" src="https://www.leonisa.com/en/assets/1/7/ventana-items.js"></script><!--para idioma Ingles--><!-- Contiene el java para abrir la tabla de DETALLE -->
 <div style="position:relative;">
 	<div id="layer_ppal" style="position: absolute; bottom: -89px; right: 0; z-index: 999; display: none;">
 <script language="javascript">
@@ -431,10 +453,8 @@ $(function() {
 </script><!-- Tabla para almacenar los DETALLES de la oferta -->		<table border="0" cellpadding="0" cellspacing="0" height="57" style="background-color: #F3F4EF; font-size: 10px; text-align: left; font-family: Arial, Helvetica, sans-serif; padding: 11px; border: 1px solid #B2B2B2;" width="290">
 			<tbody>
 				<tr>
-					<td height="55" valign="top">
-						Receive FREE Shipping and FREE Returns.<br>
-						<br>
-						FREE shipping applies to shipments through USPS Ground (delivery 2-5 business days) to the USA &amp; Puerto Rico.<br>
+					<td height="55" valign="top">FREE shipping applies to shipments through USPS Ground (delivery 2-5 business days) to the USA &amp; Puerto Rico.<br>
+					  <br>
 						For each U.S. order you place, enjoy a return or exchange 100% FREE.<br>
 						<table border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #e4e4e4; border-bottom:1px solid #fefefe; margin:4px 0;" width="100%">
 							<tbody>
@@ -460,6 +480,7 @@ $(function() {
 	<div style="height:16px; width:290px; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; color:#039; font-size:8pt; text-align:right; padding:3px 0 0 0; float:right">
 		Need assistance? Call us 1 800 657 9107</div>
 </div>
+
 </div>
 
 
@@ -620,53 +641,54 @@ $(function() {
 
 	                     <div class="sitefooter">
                                        <div class="sitefooterLinks">
-                                               <div><link href="https://www.leonisa.com/en/assets/1/7/estilos-modulo.css" rel="stylesheet" type="text/css">
+                                               <div>
+<link href="https://www.leonisa.com/en/assets/1/7/estilos-modulo.css" rel="stylesheet" type="text/css">
 <div class="sitefooterLinks">
-<div class="lef-box">
-&nbsp;</div>
-<div class="ppal-box" style="width: 864px;">
-<div class="facebook-bottom">
-<a href="http://www.facebook.com/LeonisaIntimateApparel" target="_blank"><img alt="" height="24" src="/UserFiles/image/Email-SignUp/images/facebook_icon.gif" style="" title="Find us on Facebook" width="25"></a></div>
-<div class="twitter-bottom">
-<a class="twitter" href="http://twitter.com/Leonisausa" target="_blank"><img alt="" height="24" src="/UserFiles/image/Email-SignUp/images/twitter_icon.gif" title="Follow us on Twitter" width="25"></a></div>
-<div class="gplus-bottom">
-<a class="gplus" href="https://plus.google.com/u/0/111773685654610997640/posts" target="_blank"><img alt="" height="22" src="/UserFiles/image/Email-SignUp/images/g-google.png" title="Follow us on Google +" width="33"></a></div>
-<div class="pint-bottom">
-<a class="pinterest" href="http://pinterest.com/leonisa/" target="_blank"><img alt="" height="20" src="/UserFiles/image/Email-SignUp/images/pinterestLeonisa.png" title="Pin it us" width="20"></a></div>
-<div class="separator-line">
-<img alt="" height="44" src="/UserFiles/image/Email-SignUp/images/separator.jpg" width="2"></div>
-<div id="cuadro-title">
-<span style="font-size:13px">Be the first</span><br>
-<span style="font-size:10px">to know it all!</span></div>
-<div id="search_wrapper" style="position:static;">
-<input id="search_field" name="search" placeholder="Enter your email address" type="text">
-<div id="search_button">
-<input class="imgbtnAlt" onclick="popupSignup('header');return false;" type="button" value="Sign up now!"></div>
-<div id="SignupTooltip" style="display:none;position: relative; top: 39px; left: 6px; min-height: 60px; background-color: white; z-index: 99; border: 1px solid #ACACAC; padding: 10px 15px;">
-<span style="color:#37588f; font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-weight:lighter;">Let´s stay connected, shall we?</span>
-<div style="padding: 4px 0px; font-weight:lighter;">
-Be among the first to hear about products trends, articles, coupons and special offers.</div>
-<div style="background:url('/assets/1/7/arrow.png') no-repeat scroll 0 0 transparent;left:22px;min-height:10px;position:absolute;top:-10px;width:20px;">
-&nbsp;</div>
-</div>
-</div>
-<div class="separator-line">
-<img alt="" height="44" src="/assets/1/7/separator.jpg" width="2"></div>
-<div id="cuadro-title-videos">
-<span style="font-size:10px; font-weight: bold;">see our videos</span><br>
-<span style="font-size:10px; text-transform:lowercase">Top models &amp; runways</span></div>
-<div id="play_button">
-<a href="http://www.leonisa.com/en/videos/"><img alt="" height="23" src="/UserFiles/image/Email-SignUp/images/play-boton.png" title="See our videos" width="25"></a></div>
-<div class="separator-line">
-<img alt="" height="44" src="/UserFiles/image/Email-SignUp/images/separator.jpg" width="2"></div>
-<div id="cuadro-title-cancer">
-<span style="font-size:10px">YOUR OPINION<br>
-COUNTS</span></div>
-<div id="play_button">
-<a href="http://www.encuestafacil.com/RespWeb/Qn.aspx?EID=1575932" target="_blank"><img alt="icon-cuestion" src="/assets/1/7/icon-cuestion.png" style="width: 25px; height: 23px;" title="HELP US TO IMPROVE OUR WEBSITE-PLEASE ANSWER THIS SHORT SURVEY"></a></div>
-</div>
-<div class="right-box">
-&nbsp;</div>
+	<div class="lef-box">
+		&nbsp;</div>
+	<div class="ppal-box" style="width: 864px;">
+		<div class="facebook-bottom">
+			<a href="http://www.facebook.com/LeonisaIntimateApparel" target="_blank"><img alt="Find us on Facebook" height="24" src="/UserFiles/image/Email-SignUp/images/facebook_icon.gif" style="" title="Find us on Facebook" width="25"></a></div>
+		<div class="twitter-bottom">
+			<a class="twitter" href="http://twitter.com/Leonisausa" target="_blank"><img alt="Follow us on Twitter" height="24" src="/UserFiles/image/Email-SignUp/images/twitter_icon.gif" title="Follow us on Twitter" width="25"></a></div>
+		<div class="gplus-bottom">
+			<a class="gplus" href="https://plus.google.com/u/0/111773685654610997640/posts" target="_blank"><img alt="Follow us on Google +" height="22" src="/UserFiles/image/Email-SignUp/images/g-google.png" title="Follow us on Google +" width="33"></a></div>
+		<div class="pint-bottom">
+			<a class="pinterest" href="http://pinterest.com/leonisa/" target="_blank"><img alt="Pin it us" height="20" src="/UserFiles/image/Email-SignUp/images/pinterestLeonisa.png" title="Pin it us" width="20"></a></div>
+		<div class="separator-line">
+			<img alt="" height="44" src="/UserFiles/image/Email-SignUp/images/separator.jpg" width="2"></div>
+		<div id="cuadro-title">
+			<span style="font-size:13px">Be the first</span><br>
+			<span style="font-size:10px">to know it all!</span></div>
+		<div id="search_wrapper" style="position:static;">
+			<input id="search_field" name="search" placeholder="Enter your email address" type="text">
+			<div id="search_button">
+				<input class="imgbtnAlt" onclick="popupSignup('header');return false;" type="button" value="Sign up now!"></div>
+			<div id="SignupTooltip" style="display:none;position: relative; top: 39px; left: 6px; min-height: 60px; background-color: white; z-index: 99; border: 1px solid #ACACAC; padding: 10px 15px;">
+				<span style="color:#37588f; font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-weight:lighter;">Let´s stay connected, shall we?</span>
+				<div style="padding: 4px 0px; font-weight:lighter;">
+					Be among the first to hear about products trends, articles, coupons and special offers.</div>
+				<div style="background:url('/assets/1/7/arrow.png') no-repeat scroll 0 0 transparent;left:22px;min-height:10px;position:absolute;top:-10px;width:20px;">
+					&nbsp;</div>
+			</div>
+		</div>
+		<div class="separator-line">
+			<img alt="" height="44" src="/assets/1/7/separator.jpg" width="2"></div>
+		<div id="cuadro-title-videos">
+			<span style="font-size:10px; font-weight: bold;">TOP MODELS</span><br>
+			<span style="font-size:10px; text-transform:lowercase">Videos-Photos-Runways</span></div>
+		<div id="play_button">
+			<a href="http://www.leonisa.com/en/aboutus/top-models/"><img alt="Videos Leonisa" height="23" src="/UserFiles/image/Email-SignUp/images/play-boton.png" title="See our videos" width="25"></a></div>
+		<div class="separator-line">
+			<img alt="" height="44" src="/UserFiles/image/Email-SignUp/images/separator.jpg" width="2"></div>
+		<div id="cuadro-title-cancer">
+			<span style="font-size:10px">YOUR OPINION<br>
+			COUNTS</span></div>
+		<div id="play_button">
+			<a href="http://www.encuestafacil.com/RespWeb/Qn.aspx?EID=1575932" target="_blank"><img alt="icon-cuestion" src="/assets/1/7/icon-cuestion.png" style="width: 25px; height: 23px;" title="HELP US TO IMPROVE OUR WEBSITE-PLEASE ANSWER THIS SHORT SURVEY"></a></div>
+	</div>
+	<div class="right-box">
+		&nbsp;</div>
 </div>
 <script>
 
@@ -703,8 +725,9 @@ $(this).val('').css('opacity',1);
                                        </div>
                                        <div class="clear">&nbsp;</div>
                                        <div class="sitefooterBox">
-                                              <div><div class="about">
-	<a href="http://www.leonisa.com/en/aboutus/"><img alt="" height="57" src="/UserFiles/image/acerca-de_En.jpg" width="159"></a></div>
+                                              <div>
+<div class="about">
+	<a href="http://www.leonisa.com/en/aboutus/"><img alt="About Leonisa" height="62" src="http://www.leonisa.com/en/assets/1/7/BH-Footer-LoveLeonisa-En.jpg" width="160"></a></div>
 <div class="service" style="width:250px">
 	<ul style="float: left; display: inline;">
 		<li style="list-style-type: disc; font-weight: bold;">
@@ -737,16 +760,16 @@ $(this).val('').css('opacity',1);
 			<a href="http://www.leonisa.com/en/store-locator/">Store Locator</a></li>
 		<li>
 			<a href="http://www.leonisa.com/en/affiliates/">Affiliate Program</a></li>
-		<li>
-			<a href="http://www.leonisa.com/en/leonisa-magazine/">Magazine</a></li>
-	</ul>
+<!--<li>
+			<a href="http://www.leonisa.com/en/leonisa-magazine/">Magazine</a></li>-->	</ul>
 	<div class="clear">
 		&nbsp;</div>
 </div>
 <div class="catalogSales">
-	<a href="http://www.catalogoleonisa.com/ClubComprasUSA/" target="_blank"><img alt="Banner-home-elite-En" src="https://www.leonisa.com/en/assets/1/7/ventas_en_ok.jpg" style="width: 202px; height: 78px;"></a></div>
+	<a href="http://www.catalogoleonisa.com/ClubComprasUSA/" target="_blank"><img alt="Catalog Sale Leonisa" src="http://www.leonisa.com/en/assets/1/7/BFooter-CatalogSales-En.jpg" style="width: 202px; height: 78px;"></a></div>
 <div class="clear">
 	&nbsp;</div>
+
 </div>
 
 
@@ -858,9 +881,6 @@ $(this).val('').css('opacity',1);
 
 
 
-    <!--START CA Natural CODE-->
-    <img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=50000133&amp;x=" style="width:1px;height:1px;display:none;">
-    <!--END CA Natural CODE-->
 
 
 
@@ -877,11 +897,6 @@ $(this).val('').css('opacity',1);
 
 
 
-
-
-    <!--START linkshare Pixel -->
-    
-    <!--END linkshare Pixel -->
 
     
 
@@ -902,8 +917,9 @@ $(this).val('').css('opacity',1);
 <!-- end of global MOC wrapper -->
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLx1PbQBgKCjKBYAqWLwuoMAtrI4osJAuvg9IADhiSPWsiCt0Mf0le+HQ1cNhZUqrcFxle1c/Ze5QenTV0=">
-</div><div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICBQ9kFggCBw9kFgJmD2QWAmYPFgIeB1Zpc2libGVoZAILD2QWAmYPZBYCZg8WAh8AaGQCDQ9kFgJmD2QWAgICD2QWAgIDDw8WAh4EVGV4dAUGU2VhcmNoZGQCIQ9kFghmDxYCHwBnZAIGDxYCHwBnZAISDxYCHwBoZAIUDxYCHwBoZBgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUWQ1RfSGVhZGVyU2VjdGlvbl8wJGZjawUNQ1RfTWFpbl8wJGZjawUZQ1RfU2l0ZVRvb2xCYXJfMCRtdk1lbWJlcg8PZGZkBRZDVF9Gb290ZXJfMCRtdlZlcmlzaWduDw9kZmRQaeOn343Lxm5raLF0JbSTxASVZjO3iFWzFd3NpcFnIQ=="></div></form>
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3989C74E">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLqtJHZBgKCjKBYAqWLwuoMAtrI4osJAuvg9IAD+TBkt+3ofas1gEOITa1CmEwBxjjIMD+v47fiJguhSfg=">
+</div><div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICBQ9kFggCBw9kFgJmD2QWAmYPFgIeB1Zpc2libGVoZAILD2QWAmYPZBYCZg8WAh8AaGQCDQ9kFgJmD2QWAgICD2QWAgIDDw8WAh4EVGV4dAUGU2VhcmNoZGQCIQ9kFgRmDxYCHwBnZAISDxYCHwBoZBgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUWQ1RfSGVhZGVyU2VjdGlvbl8wJGZjawUNQ1RfTWFpbl8wJGZjawUZQ1RfU2l0ZVRvb2xCYXJfMCRtdk1lbWJlcg8PZGZkBRZDVF9Gb290ZXJfMCRtdlZlcmlzaWduDw9kZmQ5OXBq99NI1/IlWwG6HQMhdouYulLFw1Cwvhlzu42ojQ=="></div></form>
 <!-- PadiAct Code -->
 <script type="text/javascript">
 (function() {
@@ -913,4 +929,4 @@ $(this).val('').css('opacity',1);
 })();
 </script>
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
