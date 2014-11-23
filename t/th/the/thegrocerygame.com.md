@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524200601id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181731id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
@@ -81,27 +81,27 @@ The Privacy Notice posted on this site was updated on or about June 18, 2013
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 14,955
+  * 17,088
 
 ###### Deals Valid Today in the US
 
-  * 8,973
+  * 10,253
 
 ###### Unadvertised Sales this week
 
-  * 86,884
+  * 78,033
 
 ###### Deals Members Shopped For This Week
 
-  * $288,136
+  * $264,565
 
 ###### Amount Members Saved this week
 
-  * 105
+  * 69
 
 ###### Local lists in the US
 
-  * $996,442
+  * $965,204
 
 ###### Amount Members Saved this month
 
