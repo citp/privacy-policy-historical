@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522070517id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031537id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - London Cyclist Blog
 
@@ -185,7 +185,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Occasionally on the site you’ll see a link such as: http://www.londoncyclist.co.uk/go/wpengine/
 
-This will link to something along the lines of: http://www.londoncyclist.co.uk/go/wpengine/
+This will link to something along the lines of: http://www.shareasale.com/r.cfm?u=370911&b=398424&m=41388&afftrack=wpengine%2Dlondoncyclist&urllink=wpengine%2Ecom%2F%3FSSAID%3D370911
 
 This is an affiliate link. If you end up purchasing a product from this outside vendor, London Cyclist makes a percentage of the sale, which helps us run the site with minimum advertising and without charging users or requesting donations.
 
