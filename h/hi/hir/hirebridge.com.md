@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050701id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124003130id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Hirebridge Applicant Tracking Solutions :: Privacy Policy
 
 **Hirebridge is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.  **
-
-**Hirebridge also has a separate policy that applies to certain personal data that Hirebridge receives in the United States from the European Union and Switzerland, called the Hirebridge Safe Harbor Privacy Statement which can be reached by[clicking here](http://www.hirebridge.com/corp/eusafeharbor.asp) or visiting [ http://www.hirebridge.com/corp/eusafeharbor.asp](http://www.hirebridge.com/corp/eusafeharbor.asp)**
-
-  
-[ We self-certify compliance with](http://safeharbor.export.gov/companyinfo.aspx?id=10179)  
- [](http://safeharbor.export.gov/companyinfo.aspx?id=10179)
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Hirebridge's Web pages without telling us who you are or revealing any Personal Information about yourself. 
 
@@ -48,7 +42,7 @@ Hirebridge does not intend to transfer Personal Information without your consent
 
 * * *
 
-Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20140625050701id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
+Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20141124003130id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
 
 Our [free trial account](http://www.hirebridge.com/corp/demo_form.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
 
