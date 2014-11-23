@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617175037id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123015108id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
 
-# Rapid Electronics Privacy & Cookie Policy
+# Rapid Electronics Privacy & Cookie Policy | Rapid Online
 
 Overview
 
