@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614140006id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164711id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Please be sure to indicate your full name, and specifically what information you
 
 ### Protecting Children
 
-Cafe Britt takes special care to protect the safety and privacy of children. Our web site is a [General Audience](https://www.truste.org/docs/How_to_Comply_with_COPPA.doc) site. Don't forget, Cafe Britt is a great resource for all kinds of research projects on coffee. We'd love to hear from you and your children. Cafe Britt encourages children under 16 to get their parents permission before contacting us or submitting any information to us. Of course, there is nothing better than personal supervision of children while they surf the Internet.
+Cafe Britt takes special care to protect the safety and privacy of children. Our web site is a [General Audience](https://www.truste.org/docs/How_to_Comply_with_COPPA.doc) site. Don't forget, Cafe Britt is a great resource for all kinds of research projects on coffee. We'd love to hear from you and your children. Cafe Britt encourages children under 16 to get their parents’ permission before contacting us or submitting any information to us. Of course, there is nothing better than personal supervision of children while they surf the Internet.
 
 ### Security
 
@@ -34,7 +34,7 @@ Note: Most banks either cover all the charges that result from unauthorized use 
 
 ### Disclosure to Outside Third Parties
 
-**Cafe Britt respects your privacy**. Any information you give us is held with the utmost care and security. However Cafe Britt may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties. The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with our third party service providers that assist us with our marketing efforts and with other marketers whose products or services we feel may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [info@cafebritt.com](mailto:info@cafebritt.com). Cafe Britt cannot control and thus assumes no responsibility in relation with the use third parties may give to information they collect in contests run as co-promotions.
+**Cafe Britt respects your privacy**. Any information you give us is held with the utmost care and security. However, Cafe Britt may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties. The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with our third party service providers that assist us with our marketing efforts and with other marketers whose products or services we feel may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [info@cafebritt.com](mailto:info@cafebritt.com). Cafe Britt cannot control and thus assumes no responsibility in relation with the use third parties may give to information they collect in contests run as co-promotions.
 
 We didn't use the OpenSSL in CafeBritt.com. As a result, HeartBleed does not present a risk to our web properties and more importantly our customer data.
 
