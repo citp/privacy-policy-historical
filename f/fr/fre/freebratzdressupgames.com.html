@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freebratzdressupgames.com privacy policy that was archived on 2014-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140208012908id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freebratzdressupgames.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123115514id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Bratz Games | Free Bratz Dress Up Games | Online Bratz Games  - Privacy Policy</title>
@@ -18,8 +18,217 @@
 <meta name="expires" content="never">
 <meta name="Rating" content="General">
 
+<!--Start Popunder-->
+<script>
+var puShown = false;
+var PopWidth = 1400;
+var PopHeight = 800;
+var PopFocus = 0;
+var _Top = null;
 
-<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;rotateur=59048"></script>
+
+function GetWindowHeight() {
+var myHeight = 0;
+if( typeof( _Top.window.innerHeight ) == 'number' ) {
+myHeight = _Top.window.innerHeight;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientHeight ) {
+myHeight = _Top.document.documentElement.clientHeight;
+} else if( _Top.document.body && _Top.document.body.clientHeight ) {
+myHeight = _Top.document.body.clientHeight;
+}
+return myHeight;
+}
+
+
+function GetWindowWidth() {
+var myWidth = 0;
+if( typeof( _Top.window.innerWidth ) == 'number' ) {
+myWidth = _Top.window.innerWidth;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientWidth ) {
+myWidth = _Top.document.documentElement.clientWidth;
+} else if( _Top.document.body && _Top.document.body.clientWidth ) {
+myWidth = _Top.document.body.clientWidth;
+}
+return myWidth;
+}
+
+
+function GetWindowTop() {
+return (_Top.window.screenTop != undefined) ? _Top.window.screenTop : _Top.window.screenY;
+}
+
+
+function GetWindowLeft() {
+return (_Top.window.screenLeft != undefined) ? _Top.window.screenLeft : _Top.window.screenX;
+}
+
+
+function doOpen(url)
+{
+var popURL = "about:blank"
+var popID = "ad_" + Math.floor(89999999*Math.random()+10000000);
+var pxLeft = 0;
+var pxTop = 0;
+pxLeft = (GetWindowLeft() + (GetWindowWidth() / 2) - (PopWidth / 2));
+pxTop = (GetWindowTop() + (GetWindowHeight() / 2) - (PopHeight / 2));
+
+
+if ( puShown == true )
+{
+return true;
+}
+
+
+var PopWin=_Top.window.open(popURL,popID,'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,top=' + pxTop + ',left=' + pxLeft + ',width=' + PopWidth + ',height=' + PopHeight);
+
+
+if (PopWin)
+{
+puShown = true;
+
+
+if (PopFocus == 0)
+{
+PopWin.blur();
+
+
+if (navigator.userAgent.toLowerCase().indexOf("applewebkit") > -1)
+{
+_Top.window.blur();
+_Top.window.focus();
+}
+}
+
+
+PopWin.Init = function(e) {
+
+
+with (e) {
+
+
+Params = e.Params;
+Main = function(){
+
+
+if (typeof window.mozPaintCount != "undefined") {
+var x = window.open("about:blank");
+x.close();
+
+
+}
+
+
+var popURL = Params.PopURL;
+
+
+try { opener.window.focus(); }
+catch (err) { }
+
+
+window.location = popURL;
+}
+
+
+Main();
+}
+};
+
+
+PopWin.Params = {
+PopURL: url
+}
+
+
+PopWin.Init(PopWin);
+}
+
+
+return PopWin;
+}
+
+
+function setCookie(name, value, time)
+{
+var expires = new Date();
+
+
+expires.setTime( expires.getTime() + time );
+
+
+document.cookie = name + '=' + value + '; path=/;' + '; expires=' + expires.toGMTString() ;
+}
+
+
+function getCookie(name) {
+var cookies = document.cookie.toString().split('; ');
+var cookie, c_name, c_value;
+
+
+for (var n=0; n<cookies.length; n++) {
+cookie  = cookies[n].split('=');
+c_name  = cookie[0];
+c_value = cookie[1];
+
+
+if ( c_name == name ) {
+return c_value;
+}
+}
+
+
+return null;
+}
+
+
+function initPu()
+{
+
+
+_Top = self;
+
+
+if (top != self)
+{
+try
+{
+if (top.document.location.toString())
+_Top = top;
+}
+catch(err) { }
+}
+
+
+if ( document.attachEvent )
+{
+document.attachEvent( 'onclick', checkTarget );
+}
+else if ( document.addEventListener )
+{
+document.addEventListener( 'click', checkTarget, false );
+}
+}
+
+
+function checkTarget(e)
+{
+if ( !getCookie('popundr') ) {
+var e = e || window.event;
+var win = doOpen('http://www.frozengamesforgirls.com/popunder.php?utm_source=&utm_medium=popunder');
+
+
+setCookie('popundr', 1, 24*60*60*1000);
+}
+}
+
+
+initPu();
+</script>
+<!--End Popunder-->
+
+<!-- Conversant Media POP-UNDER CODE for FreeBratzDressupGames (0.25 hour) -->
+<script type="text/javascript">var vclk_options = {sid:48296,media_id:2,media_type:2,version:"1.4",pfc:900000};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=48296&amp;media_id=2&amp;media_type=2&amp;version=1.4&amp;exc=1&amp;pfc=900000"></script>
+<!-- Conversant Media POP-UNDER CODE for FreeBratzDressupGames -->
+
 
 </head>
 
@@ -62,21 +271,6 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-
-
- <div class="side_add_left">
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for freebratzdressupgames.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=48296&amp;tp=7&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=48296&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=48296&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for freebratzdressupgames.com -->
-  
-</div>
-
-<div class="side_add_right">
-<a rel="nofollow" href="http://www.egamesforkids.com/?utm_source=freebratzdressupgames.com&amp;utm_medium=banner&amp;utm_campaign=ads" target="_blank" title="Girl Games"><img src="http://www.egamesforkids.com/ads/barbiegames160x600.jpg" width="160" height="600" alt="Girl Games" border="0"></a>
-</div>
- 
 
 
 <table width="1024" border="0" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0"> 
@@ -167,25 +361,31 @@
    <div class="boxestext">
 
 
-<a href="http://www.gamesforgirls247.com/sleeping-beauty-games.html" title="Sleeping Beauty Games" target="_blank"><img src="http://www.gamesforgirls247.com/files/image/PrincessAuroraFacialMakeover.gif" width="160" height="135" border="0" alt="Sleeping Beauty Games"><br>Sleeping Beauty Games</a><br>
-<a href="http://www.gamesforgirls247.com/curious-george-games.html" title="Curious George Games" target="_blank"><img src="http://www.gamesforgirls247.com/files/image/CuriousGeorgeDressUp250x200.gif" width="160" height="135" border="0" alt="Curious George Games"><br>Curious George Games</a><br>
-<a href="http://www.gamesforgirls247.com/pucca-games.html" title="Pucca Games" target="_blank"><img src="http://www.gamesforgirls247.com/files/image/puccadressup.gif" width="160" height="135" border="0" alt="Pucca Games"><br>Pucca Games</a><br>
-<a href="http://www.gamesforgirls247.com/doraemon-games.html" title="Doraemon Games" target="_blank"><img src="http://www.gamesforgirls247.com/files/image/doraemondressup250x200.gif" width="160" height="135" border="0" alt="Doraemon Games"><br>Doraemon Games</a><br>
-<a href="http://www.gamesforgirls247.com/toy-story-games.html" title="Toy Story Games" target="_blank"><img src="http://www.gamesforgirls247.com/files/image/ToyStoryWoodyDressUp250x200.gif" width="160" height="135" border="0" alt="Toy Story Games"><br>Toy Story Games</a>
 
 
-    </div>
-    </div>
-   
-	<div class="contentheader">
+<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for freebratzdressupgames.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=48296&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=48296&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=48296&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for freebratzdressupgames.com -->
+  
+
+  
+   </div>
+
+  	   <div class="contentheader">
  <strong>Sponsor </strong>
   </div>
 	<a rel="nofollow" href="http://www.cartoongames.org/?utm_source=freebratzdressupgames.com&amp;utm_medium=banner&amp;utm_campaign=ads" target="_blank" title=" Cartoon Games"><img src="http://www.cartoongames.org/images/cartoon160x600.png" width="160" height="570" alt=" Cartoon Games" border="0"></a><br>
     
   
+   
+  <a rel="nofollow" href="http://www.dailydressup.com/?utm_source=freebratzdressupgames.com&amp;utm_medium=banner&amp;utm_campaign=ads" target="_blank" title=" Dress Up Games"><img src="http://www.dailydressup.com/images/barbiegames160x600.jpg" width="160" height="575" alt="Dress Up Games" border="0"></a>
+ 
+    </div>
+    
+   
 
-    
-    
    </td>
      <td width="900" valign="top">
 	  <div class="contentbox">
@@ -256,7 +456,7 @@ advertising practice or to opt-out of this type of advertising, you can visit
 		<a class="bottom-link" href="http://www.freebratzdressupgames.com/contact" rel="nofollow" title="Contact">Contact </a> <br>
 
 
-There are 5 users online and 830 
+There are 1 users online and 256 
         games played today.
 
 
@@ -301,6 +501,12 @@ var cpmstar_popunder_settings = {
 };
 t =document.getElementsByTagName('script');s =document.createElement('script');s.src = (document.location.protocol== 'https:' ? '//server' : '//cdn') + '.cpmstar.com/cached/js/popunder_v100.pack.js';s.type='text/javascript';s.async='';t[0].parentNode.insertBefore(s,t[0]);
 </script>
+
+<script language="Javascript">
+<!--
+document.write(unescape('%3C%69%66%72%61%6D%65%20%73%72%63%3D%22%68%74%74%70%3A%2F%2F%77%77%77%2E%66%72%65%65%62%72%61%74%7A%64%72%65%73%73%75%70%67%61%6D%65%73%2E%63%6F%6D%2F%69%66%72%61%6D%65%2F%69%2E%68%74%6D%22%20%61%6C%6C%6F%77%74%72%61%6E%73%70%61%72%65%6E%63%79%3D%74%72%75%65%20%77%69%64%74%68%3D%30%20%68%65%69%67%68%74%3D%30%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%30%20%6D%61%72%67%69%6E%68%65%69%67%68%74%3D%30%20%6D%61%72%67%69%6E%77%69%64%74%68%3D%30%20%73%63%72%6F%6C%6C%69%6E%67%3D%6E%6F%3E%3C%2F%69%66%72%61%6D%65%3E'));
+//-->
+</script><iframe src="http://www.freebratzdressupgames.com/iframe/i.htm" allowtransparency="true" width="0" height="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 
 
 
