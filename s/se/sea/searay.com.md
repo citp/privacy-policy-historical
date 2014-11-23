@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051515id_/http%3A//searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031706id_/http%3A//www.searay.com/page.aspx/pageid/160690/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sea Ray Boats
 
@@ -104,7 +104,7 @@ Websites to which this Privacy Notice applies are United States-based websites a
 
 **CANADA AND OTHER INTERNATIONAL JURISDICTIONS  
 **  
-This Privacy Policy also applies to citizens of Canada and other international jurisdictions not otherwise specifically covered by the jurisdiction-specific policies, except where the provisions of this Privacy Policy and the Canadian Policy cannot be construed consistently, then the provisions of the Canadian Policy will govern. [Click here](https://web.archive.org/page.aspx/pageid/12632/page.aspx) to view our Canadian Privacy Policy in English and French.
+This Privacy Policy also applies to citizens of Canada and other international jurisdictions not otherwise specifically covered by the jurisdiction-specific policies, except where the provisions of this Privacy Policy and the Canadian Policy cannot be construed consistently, then the provisions of the Canadian Policy will govern. [Click here](https://web.archive.org/page.aspx/pageid/160706/canadian-privacy-policy.aspx) to view our Canadian Privacy Policy in English and French.
 
 **ACCESS AND CORRECTION**
 
