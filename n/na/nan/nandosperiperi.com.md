@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095930id_/http%3A//www.nandosperiperi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123205921id_/http%3A//www.nandosperiperi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Nando’s USA
 
@@ -7,7 +7,7 @@
 1.1 Thank you for visiting the [<http://www.nandosperiperi.com/>] website (the "Website"). Nando’s Peri-Peri [“Nando’s] is registered as [Nando’s Restaurant Group, Inc.] ("we", "us" or "our") and is committed to protecting and respecting your privacy.   
  
 
-1.2 This Privacy Policy, together with our Website terms and conditions available at [[www.nandosperiperi.com/terms-service](https://web.archive.org/web/20140624061318id_/http://www.nandosperiperi.com/terms-service)], sets out the basis on which any personal information we collect from you, or that you provide to us, will be used, stored and processed by us ("Collect").  Please read the following carefully to understand our views and practices regarding your Personal Data (as defined below) and how we will treat it.  
+1.2 This Privacy Policy, together with our Website terms and conditions available at [[www.nandosperiperi.com/terms-service](https://web.archive.org/web/20141123205921id_/http://www.nandosperiperi.com/terms-service)], sets out the basis on which any personal information we collect from you, or that you provide to us, will be used, stored and processed by us ("Collect").  Please read the following carefully to understand our views and practices regarding your Personal Data (as defined below) and how we will treat it.  
  
 
 1.3 In adopting this Privacy Policy, we wish to balance our legitimate business interests and your reasonable expectation of privacy.  Accordingly, we will take reasonable steps to prevent unauthorised access to, or disclosure of your Personal Data.  However, we do not guarantee that your Personal Data shall be 100% secure.  
@@ -94,7 +94,7 @@
 
 ##  How will Nando’s store my Personal Data?
 
-8.1 We store your Personal Data. We may also or alternatively store your Personal Data on and transfer your Personal Data to a central database located in [ **AWS** ].  If the location of the central database is located in a country that does not have substantially similar laws which provide for the protection of personal data, we will take the necessary steps to ensure that your Personal Data is adequately protected in that jurisdiction.
+8.1 We store your Personal Data. We may also or alternatively store your Personal Data on and transfer your Personal Data to a central database located in [ **Amazon Web Services** ].  If the location of the central database is located in a country that does not have substantially similar laws which provide for the protection of personal data, we will take the necessary steps to ensure that your Personal Data is adequately protected in that jurisdiction.
 
 8.2 Your information will not be stored for longer than is necessary for the purposes described in this Privacy Policy.
 
@@ -110,7 +110,7 @@
 
 10.1 To see the Personal Data we have collected through this Website that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at [customerservice@nandosperiperi.com]. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. 
 
-10.2 To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us at or visit [http://www.nandosperiperi.com/contact](https://web.archive.org/web/20140624061318id_/http://www.nandosperiperi.com/contact)].
+10.2 To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us at or visit [http://www.nandosperiperi.com/contact](https://web.archive.org/web/20141123205921id_/http://www.nandosperiperi.com/contact)].
 
 ##  Nando’s application and our use of Facebook user data (where applicable)
 
