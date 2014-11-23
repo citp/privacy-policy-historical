@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnisecu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100018id_/http%3A//www.omnisecu.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnisecu.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071617id_/http%3A//www.omnisecu.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - omnisecu.com
 
@@ -56,7 +56,7 @@ At www.omnisecu.com, we NEVER ask for user's personal information like email ids
 
 Any personal information voluntarily disclosed by you on this site on bulletin board, in chat rooms, comment boxes or other user generated pages, may be collected and used by others. Please DO NOT disclose any of your personal information in bulletin board, in chat rooms, comment boxes or other user generated pages inside www.omnisecu.com.
 
-If you require any more information or have any questions about our privacy policy, feel free to contact us by visiting the [Contact Us](https://web.archive.org/web/20140625100018id_/http%3A//www.omnisecu.com/contact.php) page. 
+If you require any more information or have any questions about our privacy policy, feel free to contact us by visiting the [Contact Us](https://web.archive.org/web/20141123071617id_/http%3A//www.omnisecu.com/contact.php) page. 
 
 You can track the changes in Privacy Policy by recording the date of update shown below.
 
