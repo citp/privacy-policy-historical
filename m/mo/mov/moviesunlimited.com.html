@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moviesunlimited.com privacy policy that was archived on 2013-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107150528id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviesunlimited.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123090810id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- Keep this here for Yahoo! SiteExplorer --><head><meta name="y_key" content="aa4ba14087515680">
     
@@ -10,6 +10,9 @@
 
         <meta http-equiv="Pragma" content="no-cache">
         <meta http-equiv="Expires" content="-1">
+        
+        <!-- Keep this here for mobile view -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Keep this here for Google Webmaster Tools -->
         <meta name="google-site-verification" content="ILvFPw3bb8NOgubAI1R-Y8b08QzG1pxiyro3JP5jA4U">
@@ -19,15 +22,15 @@
         <script type="text/javascript" src="/musite/scripts/jquery-1.3.2.js"></script>
         <script type="text/javascript" src="/musite/scripts/watermark.js"></script>
         <script type="text/javascript" src="/musite/scripts/jquery.dropdownPlain.js"></script>
-        <link href="/musite/ss.css?version=2" type="text/css" rel="stylesheet" media="screen">
-        <link href="/musite/styles/main.css?version=5" type="text/css" rel="stylesheet" media="screen">
-        <link href="/musite/styles/navbasket.css?version=4" type="text/css" rel="stylesheet" media="screen">
+        <link href="/musite/ss.css?version=a" type="text/css" rel="stylesheet" media="screen">
+        <link href="/musite/styles/main.css?version=a" type="text/css" rel="stylesheet" media="screen">
+        <link href="/musite/styles/navbasket.css?version=a" type="text/css" rel="stylesheet" media="screen">
 	    <!--[if lte IE 7]>
-            <link rel="stylesheet" type="text/css" href="/musite/styles/navbasket_ie.css?version=4" media="screen" />
+            <link rel="stylesheet" type="text/css" href="/musite/styles/navbasket_ie.css?version=a" media="screen" />
         <![endif]-->
 
         
-        <link href="/musite/styles/static.css?version=6" type="text/css" rel="stylesheet" media="screen">
+        <link href="/musite/styles/static.css?version=a" type="text/css" rel="stylesheet" media="screen">
         <!--[if lt IE 8]>
         <style type="text/css">
             li.row1 a {display:inline-block;}
@@ -47,6 +50,24 @@
 
                 $("#movies_phone").hover(function () { $(this).html('1-800-466-8437') });
                 $("#movies_phone").mouseout(function () { $(this).html('1-800-4-MOVIES') });
+
+                // amp 2014-09-10: scripts for mobile
+                ResizeForMobile();
+                $(".mobileMenu").click(function () { $("#topNav").toggle(); $(".tabsMenu").toggle(); });
+                //for browser resize
+                $(window).resize(function () {
+                    ResizeForMobile();
+                });
+                
+                function ResizeForMobile()
+                {
+                    if ($("bMobile").val == 'False') {
+                        //restore desktop defaults
+                        $(document).unbind('click'); $(".searchForm").show(); $("#topNav").show(); $(".tabsMenu").show();
+                    }
+                    
+                    
+                }
 	        });
 			
 			function validateEmail(elementValue){        
@@ -80,13 +101,14 @@
         </style>
         <![endif]-->        
     </head>
-    <body>
+	<body>
     
+        <input type="hidden" id="isMobile" name="isMobile" value="False">
     	<div id="mainWrapper">
         <div id="hdrWrapper">
             <div id="header">
                 <div id="tabs">
-                    <ul>
+                    <ul class="tabsMenu mobileMenuList">
                         <li><a href="http://www.moviesunlimited.com/musite/wn.asp" target="_parent" title="New DVD Releases">NEW RELEASES</a></li>
                         <li><a href="http://www.moviesunlimited.com/musite/wn.asp?cat=wn" target="_parent" title="Our Hottest Picks">OUR HOTTEST PICKS</a></li>                        
                         <li><a href="http://www.moviesunlimited.com/musite/blu-ray.asp" target="_parent" title="Blu-ray Movies">BLU-RAY</a></li>
@@ -94,7 +116,11 @@
                     </ul>
                     <div style="float:left;margin:2px 0 0 145px; ">
                         <div style="font-size:14px;">Call toll-free 24 hours a day</div>
-                        <div id="movies_phone" style="font-size:18px;font-weight:bold;margin:0 0 0 6px;">1-800-4-MOVIES</div>
+                        <div class="show-mobile callHotline"><a href="tel:+18004668437">1-800-4-MOVIES</a></div>
+                        <div class="hidden-mobile" id="movies_phone" style="font-size:18px;font-weight:bold;margin:0 0 0 6px;">
+                            1-800-4-MOVIES
+
+                        </div>
                     </div>
                 </div>
                 <div id="hdrExtra">
@@ -103,8 +129,11 @@
 							<h3>Movies Unlimited - The Movie Collector's Website</h3>
 						
 					</a>
+                    <a href="http://www.moviesunlimited.com/musite/member/basket.asp" class="mobileCart"></a>
+                    <div class="mobileMenu"></div>
+                    <div class="nav_basket_info_mobile"></div>
                     <div class="searchForm">
-                        <form method="post" action="/musite/siteSearch.asp">
+                        <form method="get" action="/musite/siteSearch.asp">
                             <input type="hidden" name="search_type" value="title">
                             <input type="text" name="search" id="search" onfocus="$('#searchTips').css('display', 'block');" onblur="$('#searchTips').css('display','none');" class="searchFormInput">
                             <input type="image" value="Search" src="/musite/images/btnSearch.jpg" name="submit_search">
@@ -119,27 +148,124 @@
                 </div>
             </div>
         </div>
-        <div id="topNav">
-            <div class="store_links">
-            <a href="http://www.moviesunlimited.com/musite/default.asp" target="_parent" title="Home Page">Home</a>
-            <a href="http://www.moviesunlimited.com/musite/buy_online1.asp" target="_parent" title="Order Using Our Catalog">Order Using Our Catalog</a>
-            <a href="http://www.moviesunlimited.com/musite/contact.asp" target="_parent" title="Contact Us">Contact Us</a>
-            <a href="http://www.moviesunlimited.com/musite/about.asp" target="_parent" title="About Us">About Us</a>
-            <a href="http://www.moviesunlimited.com/musite/member/profile.asp" target="_parent" title="My Account">My Account</a>
-        </div>
+        <div id="topNav" class="mobileMenuList">
+            <div class="mobileMenutopNav">
+                <div class="store_links">
+                <a href="http://www.moviesunlimited.com/musite/default.asp" target="_parent" title="Home Page">Home</a>
+                <a href="http://www.moviesunlimited.com/musite/buy_online1.asp" target="_parent" title="Order Using Our Catalog">Order Using Our Catalog</a>
+                <a href="http://www.moviesunlimited.com/musite/contact.asp" target="_parent" title="Contact Us">Contact Us</a>
+                <a href="http://www.moviesunlimited.com/musite/about.asp" target="_parent" title="About Us">About Us</a>
+                <a href="http://www.moviesunlimited.com/musite/member/profile.asp" target="_parent" title="My Account">My Account</a>
+            </div>
             <div class="nav_basket_info" id="nav_basket_info"></div>
+            
             <div class="sec_pol">
                 <a href="http://www.moviesunlimited.com/musite/security.asp" class="sec_pol" target="_parent" title="Security &amp; Privacy"><img src="/musite/images/sec_pri.jpg">Security &amp; Privacy</a>
                 <a href="http://www.moviesunlimited.com/musite/orders.asp" class="sec_pol" target="_parent" title="Policies &amp; Procedures"><img src="/musite/images/pol_pro.jpg">Policies &amp; Procedures</a>
             </div>
+            </div>
+            
         </div>
+
         <div id="main">
+            <!-- 1902-update- amp 2014-09-10 transfer content of <div class=leftNav in the end of <div id=content under footer.asp file -->
+			<div id="content">    
+            <!--[if lte IE 6]>
+            <div style="margin: 20px; padding: 10px; background: #abc2f0; border: 1px solid red;">
+                <strong>Attention IE6 Users: </strong>
+                Due to recent internet vulnerability called <a target="_blank" href="http://en.wikipedia.org/wiki/POODLE">POODLE</a>, we can no longer support
+                Internet Explorer 6. We suggest that you start using Chrome, Firefox, or a newer version of Internet Explorer. This is a vulnerability
+                that will result in most, if not all, websites having to drop support for Internet Explorer 6.
+                We apologize for any inconvenience. But know that we are doing this to better serve you and secure your data.
+            </div>
+            <![endif]-->
+
+<div class="pad10px">
+    <h2>Safe, Secure Shopping at Movies Unlimited...</h2>
+    <p style="color:red"><strong>NOTE:  MoviesUnlimited.com is NOT vulnerable to the Heartbleed virus.  Your passwords and account information are safe and secure.  However, if you feel the need to change your password for your EZ Checkout account you are welcome to do so.</strong></p>
+
+    <h3>We take your security very seriously…</h3>
+    <p>
+        When you shop online at
+        Movies Unlimited, you can be sure that your personal information is scrambled before it is
+        sent through the Internet. We use SSL (Secure Socket Layer) technology that uses the most
+        secure and up-to-the-minute encryption available in commercial transactions today. Our
+        process makes it possible for your private information to travel to our server only and it
+        cannot be read by outsiders. For those who prefer not entering credit card information on
+        our site, we welcome orders placed on our toll-free line by calling:
+    </p>
+    <p class="indented">
+
+        <strong>1-800-4-MOVIES</strong> (24 hours a day, 7 days a week.)
+    </p>
+    <p class="indented">
+        Our mailing address is:
+    </p>
+    <p class="indented">
+        <strong>
+            MOVIES UNLIMITED<br>
+            3015 Darnell Road<br>
+            Philadelphia, PA  19154
+        </strong>
+    </p>
+    <p class="indented">
+        Email us at: <a href="mailto:cusserv@moviesunlimited.com">cusserv@moviesunlimited.com</a>
+    </p>
+    <h3>Over 35 years experience in protecting confidentiality…</h3>
+    <p>
+        Movies Unlimited has been
+        processing customers' video orders for over 35 years through our world-renowned print
+        catalog. Over the years, more than one million customers' personal information has always
+        been protected against unauthorized usage and now, shopping online remains just as safe.
+    </p>
+    <h3>Your privacy is most important to us…</h3>
+    <p>
+        We ask for your email address only so that we can confirm your order and to let you know about video information that we are sure will be of interest to you. We do not sell or rent your email address to outside parties. We do not consent to the use of your email addresses and other information by third parties except as needed to complete your transaction. In addition, we do not provide statistics about our customers or their sales histories, shopping patterns, or other website related information to any other company. If ever a decision is made to provide such data, we pledge that these statistics will never include any information that can identify you personally in any way. 
+    </p>
+    <h3>Our Mailing List…</h3>
+    <p>
+        Movies Unlimited maintains two discrete mailing lists for our online and off-line customer bases. 
+        When a consumer joins either customer base, we add their name to our mailing list to receive our 
+        print catalogs, which give additional information about our products. Our catalog is respected 
+        throughout the industry and recommended by critics everywhere. <b>Movies Unlimited does not share 
+        its online customer mailing list with outside companies.</b> The Movies Unlimited off-line 
+        customer mailing list is occasionally made available to very carefully screened companies who 
+        offer products and services that may be of interest to our customers. If any customer prefers NOT 
+        receiving our mailings, or any off-line customer wishes not to have their information released 
+        to outside companies, please send a note with your name and address to:<br>Movies Unlimited<br>3015 
+        Darnell Road<br>Philadelphia, PA 19154<br>Allow 6-8 weeks for your request to be processed.
+    </p>
+    <h3>We're always up front with our customers…</h3>
+    <p>
+        When you shop with us, you
+        are in effect, giving your consent to use your email address to confirm your order and to
+        keep you informed about new releases and upcoming specials. If we ever decide to change
+        our policies about your email address, we will make those changes available on our website
+        so that you will always be made aware of how we use that information.
+    </p>
+    <h3>Google Analytics for Display Advertisers…</h3>
+    <p>
+        MoviesUnlimited.com participates in a Google remarketing program for online advertising, where third-party vendors, 
+        including Google, show our ads on sites across the Internet. This is accomplished through the use of first-party cookies 
+        (such as the Google Analytics cookie), and third-party cookies (such as the DoubleClick cookie) together to 
+        inform, optimize, and serve ads based on past visits to our site.
+        <br><br>
+        Those who wish to opt out of this type of advertising can visit 
+        <a target="_blank" href="http://www.google.com/settings/ads/onweb/?hl=en&amp;sig=ACi0TChHUhsS66OmcTrTkIPkQDcgkW37E8tH4ZwIIbFD60wO1xvCy3ZkukN9z_aLgkLynzpZAx1s1ReBkO3rQhL014WxwufMMHFGSGNxHiGb4QLz2txh6NmAz7B8sVNLmslPgcz0Kw9_uuTsTsu2NHxJYDI-ebkCbGo_IXqlzbmBlxwrjJowTO5PI_u7RAiKyRinRBH9wpQBujVBqDFdN3sP2Lt3ZTMN4Q">Ads Preferences Manager</a>, 
+        or <a target="_blank" href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>.
+    </p>
+</div>
+                <div id="copyright" class="clearfix hidden-mobile">© 1978-2014 Movies Unlimited</div>
+            </div><!-- end of class=content -->
+            </div>
+            <!-- swap leftNav for mobile purpose -->
+            
             <div id="leftNav">
                 <div id="signupBox">
                     <div><img src="/musite/images/signUpEnvelope.jpg"></div>
                     <div class="signUpSpecial">
-                        <span style="color:#0149dc;font-weight:bold;">Get Movie Specials</span><br>and <span style="color:#0149dc;font-weight:bold;">Movie Trivia</span><br>via email.
-                        </div>
+                            <span style="color:#0149dc;font-weight:bold;">Get Movie Specials</span><br>and <span style="color:#0149dc;font-weight:bold;">Movie Trivia</span><br>via email.
+                    </div>
 					<form method="post" action="http://eflash.moviesunlimitedeflash.com/q/4ILFwa2tJ9GySZMJR7cABZVleCsKJ0HEX">
 					<input type="hidden" name="crvs" value="MU_rQFjgwPruOJsJsft0wY6CW-Vl4lonIp8k3uTzCXODAF0cDlaE2ejfOdZCwaNdmwtn21GEjUld6D8Lizh0-Bq1bOneuVeykc3_cptQYgo7bnnV7PGFmHwhrgIDkJJ0mXitbS6V8m9rAv2zoN7fQGtJoiIgo8w1aTHzLHo2BwI">
                         <div><input type="text" name="email" id="email" class="signupFormInput" maxlength="100"></div>
@@ -147,11 +273,13 @@
                     </form>
                 </div>    
             
-                <div id="navBanners"><a href=""><img src="/musite/images/LeftNav/We-Now-Accept-PayPalR.jpg" class="leftBanner" alt=""></a><br><a href="http://www.moviesunlimited.com/aarp/default.asp"><img src="/musite/images/LeftNav/AARP 1.gif" class="leftBanner" alt="Special Offer For AARP Members!"></a><br><a href="http://www.moviefanfare.com" target="_blank"><img src="/musite/images/LeftNav/Movie FanFare.gif" class="leftBanner" alt="Visit Movie FanFare!"></a><br><a href="/musite/special_list.asp?id=s1&amp;sort=7&amp;display=3"><img src="/musite/images/LeftNav/DVD Dump Bin.gif" class="leftBanner" alt="$2.99 Sale!"></a><br><a href="/musite/giftcert.asp"><img src="/musite/images/LeftNav/Gift_Certificates.gif" class="leftBanner" alt="Can't Decide? Go For A Gift Certificate!"></a><br><a href="/musite/special_list.asp?id=r7"><img src="/musite/images/LeftNav/Pre_Viewed_DVD_2.gif" class="leftBanner" alt="Previously Viewed DVD Blowout!"></a><br></div>
+                <div id="navBanners"><a href=""><img src="/musite/images/LeftNav/We-Now-Accept-PayPalR.jpg" class="leftBanner" alt=""></a><br><a href="http://www.moviesunlimited.com/aarp/default.asp"><img src="/musite/images/LeftNav/AARP 1.gif" class="leftBanner" alt="Special Offer For AARP Members!"></a><br><a href="/musite/special_list.asp?id=s8&amp;display=3&amp;sort=7"><img src="/musite/images/LeftNav/WB Archive 2.gif" class="leftBanner" alt="Classic Warner Archive Titles Up To 50% Off!"></a><br><a href="/musite/special_list.asp?id=r5&amp;display=3&amp;sort=7"><img src="/musite/images/LeftNav/big_savings_box_setsB.gif" class="leftBanner" alt="Big Savings On Boxed Film Collections!"></a><br><a href="http://www.moviefanfare.com" target="_blank"><img src="/musite/images/LeftNav/Movie FanFare.gif" class="leftBanner" alt="Visit Movie FanFare!"></a><br><a href="/musite/special_list.asp?id=r7"><img src="/musite/images/LeftNav/Pre_Viewed_DVD_2.gif" class="leftBanner" alt="Previously Viewed DVD Blowout!"></a><br><a href="/musite/giftcert.asp"><img src="/musite/images/LeftNav/Gift_Certificates.gif" class="leftBanner" alt="Can't Decide? Go For A Gift Certificate!"></a><br></div>
                 <div style="height:5px;clear:both;">&nbsp;</div>
                 <div id="leftBrowse">
+                    <div class="mobileBrowseTitle show-mobile">Browse Top Genres:</div>
                     <div id="leftBrowseTop">
                         <ul>
+                            
                             <li class="row1"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=tv&amp;media=d&amp;t=1" target="_parent" title="Browse TV Movies">TV</a></li>
                             <li class="row2"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=dr&amp;media=d&amp;t=1" target="_parent" title="Browse Drama Movies">Drama</a></li>
                             <li class="row1"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=co&amp;media=d&amp;t=1" target="_parent" title="Browse Comedy Movies">Comedy</a></li>
@@ -163,8 +291,10 @@
                             <li class="row1"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=sc&amp;media=d&amp;t=1" target="_parent" title="Browse Sci-Fi &amp; Fantasy Movies">Sci-Fi &amp; Fantasy</a></li>                                                      
                         </ul>
                     </div>
+                    <div class="mobileBrowseTitle show-mobile">More Genres:</div>
                     <div id="leftBrowseMore">
                         <ul>
+                            
                             <li class="row1"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=cp&amp;media=d&amp;t=1" target="_parent" title="Browse Concerts &amp; Performing Arts Movies">Concerts &amp; Performing Arts</a></li>
                             <li class="row2"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=cu&amp;media=d&amp;t=1" target="_parent" title="Browse Cult Movies">Cult</a></li>
                             <li class="row1"><a href="http://www.moviesunlimited.com/musite/browse_master.asp?cid=do&amp;media=d&amp;t=1" target="_parent" title="Browse Documentary Movies">Documentary</a></li>
@@ -195,89 +325,16 @@
 				</ul>
                 
             </div>
-            <div id="content">
-            
+            <div class="clearfix copyright show-mobile">© 1978-2014 Movies Unlimited</div>
 
-<div class="pad10px">
-    <h2>Safe, Secure Shopping at Movies Unlimited...</h2>
-    <h3>We take your security very seriously…</h3>
-    <p>
-        When you shop online at
-        Movies Unlimited, you can be sure that your personal information is scrambled before it is
-        sent through the Internet. We use SSL (Secure Socket Layer) technology that uses the most
-        secure and up-to-the-minute encryption available in commercial transactions today. Our
-        process makes it possible for your private information to travel to our server only and it
-        cannot be read by outsiders. For those who prefer not entering credit card information on
-        our site, we welcome orders placed on our toll-free line by calling:
-    </p>
-    <p class="indented">
-
-        <strong>1-800-4-MOVIES</strong> (24 hours a day, 7 days a week.)
-    </p>
-    <p class="indented">
-        Our mailing address is:
-    </p>
-    <p class="indented">
-        <strong>
-            MOVIES UNLIMITED<br>
-            3015 Darnell Road<br>
-            Philadelphia, PA  19154
-        </strong>
-    </p>
-    <p class="indented">
-        Email us at: <a href="mailto:cusserv@moviesunlimited.com">cusserv@moviesunlimited.com</a>
-    </p>
-    <h3>Over 20 years experience in protecting confidentiality…</h3>
-    <p>
-        Movies Unlimited has been
-        processing customers' video orders for over 20 years through our world-renowned print
-        catalog. Over the years, more than one million customers' personal information has always
-        been protected against unauthorized usage and now, shopping online remains just as safe.
-    </p>
-    <h3>Your privacy is most important to us…</h3>
-    <p>
-        We ask for your email address only so that we can confirm your order and to let you know about video information that we are sure will be of interest to you. We do not sell or rent your email address to outside parties. We do not consent to the use of your email addresses and other information by third parties except as needed to complete your transaction. In addition, we do not provide statistics about our customers or their sales histories, shopping patterns, or other website related information to any other company. If ever a decision is made to provide such data, we pledge that these statistics will never include any information that can identify you personally in any way. 
-    </p>
-    <h3>Our Mailing List…</h3>
-    <p>
-        Movies Unlimited maintains two discrete mailing lists for our online and off-line customer bases. 
-        When a consumer joins either customer base, we add their name to our mailing list to receive our 
-        print catalogs, which give additional information about our products. Our catalog is respected 
-        throughout the industry and recommended by critics everywhere. <b>Movies Unlimited does not share 
-        its online customer mailing list with outside companies.</b> The Movies Unlimited off-line 
-        customer mailing list is occasionally made available to very carefully screened companies who 
-        offer products and services that may be of interest to our customers. If any customer prefers NOT 
-        receiving our mailings, or any off-line customer wishes not to have their information released 
-        to outside companies, please send a note with your name and address to: Movies Unlimited, 3015 
-        Darnell Road., Phila., PA 19154. Allow 6-8 weeks for your request to be processed.
-    </p>
-    <h3>We're always up front with our customers…</h3>
-    <p>
-        When you shop with us, you
-        are in effect, giving your consent to use your email address to confirm your order and to
-        keep you informed about new releases and upcoming specials. If we ever decide to change
-        our policies about your email address, we will make those changes available on our website
-        so that you will always be made aware of how we use that information.
-    </p>
-    <h3>Google Analytics for Display Advertisers…</h3>
-    <p>
-        MoviesUnlimited.com participates in a Google remarketing program for online advertising, where third-party vendors, 
-        including Google, show our ads on sites across the Internet. This is accomplished through the use of first-party cookies 
-        (such as the Google Analytics cookie), and third-party cookies (such as the DoubleClick cookie) together to 
-        inform, optimize, and serve ads based on past visits to our site.
-        <br><br>
-        Those who wish to opt out of this type of advertising can visit 
-        <a target="_blank" href="http://www.google.com/settings/ads/onweb/?hl=en&amp;sig=ACi0TChHUhsS66OmcTrTkIPkQDcgkW37E8tH4ZwIIbFD60wO1xvCy3ZkukN9z_aLgkLynzpZAx1s1ReBkO3rQhL014WxwufMMHFGSGNxHiGb4QLz2txh6NmAz7B8sVNLmslPgcz0Kw9_uuTsTsu2NHxJYDI-ebkCbGo_IXqlzbmBlxwrjJowTO5PI_u7RAiKyRinRBH9wpQBujVBqDFdN3sP2Lt3ZTMN4Q">Ads Preferences Manager</a>, 
-        or <a target="_blank" href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>.
-    </p>
-</div>
-                <div id="copyright" class="clearfix">© 1978-2013 Movies Unlimited</div>
-            </div>
-        </div>
         </div>
         <script type="text/javascript">
             $(function () {
-                $('#nav_basket_info').load('/musite/include/nav_cart_ajax.asp?' + Math.random() * 99999);
+               
+                $('#nav_basket_info').load('/musite/include/nav_cart_ajax.asp?' + Math.random() * 99999, function(){
+                    UpdateMobileNavCart();//1902-update- amp 2014-09-25 created global function
+                });
+
 				$("#emailsubmit").click(function() {
 					//validate email
 					var str = $("#email").val();
@@ -289,11 +346,9 @@
             });
         </script>
         <script type="text/javascript">
-            
-                var gaJsHost = ('https:' == document.location.protocol ? 'https://ssl.' : 'http://www.');
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            var gaJsHost = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            document.write(unescape("%3Cscript src='" + gaJsHost + "stats.g.doubleclick.net/dc.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://stats.g.doubleclick.net/dc.js" type="text/javascript"></script>
         
         <script type="text/javascript">
 
@@ -313,6 +368,7 @@
 		    }
 		});
 	</script>
+
     <!-- SCA Code -->
     
 <!-- Listrak Analytics � Script Source-->  
@@ -327,8 +383,61 @@
 </script>
 
 <script type="text/javascript">
+(function () {
+	try {
+		var templates = document.querySelectorAll("[data-merchandise-block]");
+		for (var i = 0; i < templates.length; i++) {
+			var template = templates[i];
+			var render = new Function("with(this) { return \"" + template.innerHTML.replace(/[\r\n]+/g, "\\n").replace(/"/g, "\\\"").replace(/\#=([a-z0-9]+)\#/gi, "\" + (data.$1 || \"\") + \"") + "\" }");
+			var merchandiseBlockID = template.getAttribute("data-merchandise-block");
+			var sku = template.getAttribute("data-sku");
+			var json = { "activities" : sku };
+			_ltk.MerchandiseBlock.GetRecommendations(merchandiseBlockID, json, function (recommendations) {
+				var skus = $.map(recommendations, function (r) { return r.Sku; }).join(",");
+				$.ajax({
+					url: "/musite/recs_detail.asp?skus=" + skus,
+					dataType: "json",
+					success: function (productInfo) {
+						$(recommendations).each(function (index) {
+							if (productInfo[this.Sku]) {
+								this.Year = productInfo[this.Sku].Year;
+								this.Media = productInfo[this.Sku].Media;
+								this.Button = productInfo[this.Sku].Button;
+								this.Boxcover = productInfo[this.Sku].Boxcover;
+								this.Actors = productInfo[this.Sku].Actors;
+								this.Title = this.Title.replace(/\s*\[(.*)\]/g, '');
+							} else {
+								recommendations.remove(index);
+							}
+						});
+						var container = document.createElement("div");
+						for (var j = 0; j < recommendations.length; j++) container.innerHTML = render.call({ data: recommendations[j] }) + container.innerHTML;
+						for (var j = 0; j < container.childNodes.length;) template.parentNode.insertBefore(container.childNodes[j], template.nextSibling);
+						_ltk.MerchandiseBlock.SetTracking(recommendations,function(){});
+						$(".RecsWrap").slideDown();
+					}
+				});
+			});
+		}
+	}
+	catch (err) {
+		if (typeof window.console != 'undefined') {
+				console.log(err.message);
+			}
+	}
+})();
+// Array Remove - By John Resig (MIT Licensed)
+Array.prototype.remove = function(from, to) {
+  var rest = this.slice((to || from) + 1 || this.length);
+  this.length = from < 0 ? this.length + from : from;
+  return this.push.apply(this, rest);
+};
+</script>
 
-	//_ltk.Activity.Submit();
+<script type="text/javascript">
+		_ltk.Activity.AddActivity('PageBrowse');
+
+	_ltk.Activity.Submit();
 	_ltk.SCA.CaptureEmail('email');
 </script>
 
