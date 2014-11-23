@@ -1,360 +1,1097 @@
-<!--The following is the downloaded HTML source of the gsmserver.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208042605id_/http%3A//gsmserver.com/content/information/Privacy-Policy.php) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru"><head>
-<link rel="shortcut icon" href="/favicon.ico">
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<meta name="Robots" content="INDEX">
-<title>Privacy Policy</title>
-  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4Z2S"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/_scripts/swfobject.js"></script>
-  <script type="text/javascript" src="/_scripts/main.js"></script>
-
-  <script type="text/javascript" src="/scripts/outerHTML.js"></script>
-
-  <script type="text/javascript" src="/_scripts/mn.js?1267101572"></script>
-  <script type="text/javascript" src="/_scripts/countdown.js?1311345310"></script>
-
-
-<link rel="stylesheet" href="/_css/__optimized.css" type="text/css"> <!-- 
-  <link rel="stylesheet" href="/_css/main.css" type="text/css" />
-  <link rel="stylesheet" href="/css/dscr.css" type="text/css" />
-
-  <link rel="stylesheet" href="/css/mn.css" type="text/css" />
-  -->
-
-<meta name="keywords" http-equiv="keywords" content="Privacy Policy">
-<meta name="description" content="Privacy Policy">
-
-<script language="JavaScript" type="text/JavaScript">
-
-function globalFailure( req )	{
-  $("item_"+req.request.parameters.addid).className = "cart_add2" ;
-  $("blt_"+req.request.parameters.addid).innerHTML = "";
-
-  if ($("item2_"+req.request.parameters.addid) != null){
-    $("item2_"+req.request.parameters.addid).className = "cart_add2" ;
-    $("blt2_"+req.request.parameters.addid).innerHTML = "";
-  };
-
-  alert("Error: "+req.status+" / "+req.statusText);
-}
-
-function globalFailureMainPage( req )	{
-  $("item_"+req.request.parameters.addid).className = "cart_add2_sm" ;
-
-  if ($("item2_"+req.request.parameters.addid) != null){
-    $("item2_"+req.request.parameters.addid).className = "cart_add2_sm" ;
-  };
-
-  alert("Error: "+req.status+" / "+req.statusText);
-}
-
-function loadDeliverySuccess(req){
-
-  if ( $("g_right_cart_count") != null ){
-    if (req.responseText == 1){
-      $("g_right_cart_count").innerHTML = "1 "+"item";
-    } else {
-      $("g_right_cart_count").innerHTML = req.responseText+" "+"items";
-    };
-  };
-
-  
-  $("item_"+req.request.parameters.addid).href = "/orders/order1.php";
-  $("item_"+req.request.parameters.addid).innerHTML = "<span>GO TO CART</span>";
-  $("item_"+req.request.parameters.addid).className = "cart_add4" ;
-
-  if ($("blt_"+req.request.parameters.addid) != null){
-    $("blt_"+req.request.parameters.addid).innerHTML = "Product added to cart&nbsp;&nbsp;&nbsp;";
-  };
-  
-  if ($("item2_"+req.request.parameters.addid) != null){
-    $("item2_"+req.request.parameters.addid).href = "/orders/order1.php";
-    $("item2_"+req.request.parameters.addid).innerHTML = "<span>GO TO CART</span>";
-    $("item2_"+req.request.parameters.addid).className = "cart_add4" ;
-
-    if ($("blt2_"+req.request.parameters.addid) != null){
-      $("blt2_"+req.request.parameters.addid).innerHTML = "Product added to cart";
-    };
-  };
-
-}
-
-
-function loadDeliverySuccessMainPage(req){
-  $("item_"+req.request.parameters.addid).href = "/orders/order1.php";
-  $("item_"+req.request.parameters.addid).innerHTML = "<span>CART</span>";
-  $("item_"+req.request.parameters.addid).className = "cart_add4_sm" ;
-  
-  if ($("item2_"+req.request.parameters.addid) != null){
-    $("item2_"+req.request.parameters.addid).href = "/orders/order1.php";
-    $("item2_"+req.request.parameters.addid).innerHTML = "<span>CART</span>";
-    $("item2_"+req.request.parameters.addid).className = "cart_add4_sm" ;
-  };
-
-  if ( $("g_right_cart_count") != null ){
-    if (req.responseText == 1){
-      $("g_right_cart_count").innerHTML = "1 "+"item";
-    } else {
-      $("g_right_cart_count").innerHTML = req.responseText+" "+"items";
-    };
-  };
-}
-
-
-function AddItem(Id){
-  if (Id == 814723){
-  	window.alert('Happy international laughter day! Of course, Mega Cool Box - is just a joke. On this occasion we give you a 5% discount on all Flash and Unlock products. Offer is valid from April 1 to 3.');
-    return false;
-  }
-
-  $("item_"+Id).className = "cart_add3" ;
-  $("item_"+Id).innerHTML = "<span>Please wait</span>";
-
-  if ($("item2_"+Id) != null){
-    $("item2_"+Id).className = "cart_add3" ;
-    $("item2_"+Id).innerHTML = "<span>Please wait</span>";
-  };
-
-  var opt = {
-    encoding: "windows-1251",
-    method: "get",
-    parameters: {addid: Id },
-    onFailure: globalFailure,
-    onSuccess: loadDeliverySuccess
-    }
-
-  new Ajax.Updater("", "/orders/ajax/add_item.php", opt); 
-};
-
-function AddItemMainPage(Id){
-  $("item_"+Id).className = "cart_add3_sm" ;
-  $("item_"+Id).innerHTML = "<span>Wait</span>";
-
-  if ($("item2_"+Id) != null){
-    $("item2_"+Id).className = "cart_add3_sm" ;
-    $("item2_"+Id).innerHTML = "<span>Wait</span>";
-  };
-
-  var opt = {
-    encoding: "windows-1251",
-    method: "get",
-    parameters: {addid: Id },
-    onFailure: globalFailureMainPage,
-    onSuccess: loadDeliverySuccessMainPage
-    }
-
-  new Ajax.Updater("", "/orders/ajax/add_item.php", opt); 
-};
-
-</script>
-
-<script type="text/javascript" src="/scripts/prototype.js"></script>
-
-
-<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script><script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/1234152/gsmserver-top_468x60', [468, 60], 'div-gpt-ad-1377242181362-0').addService(googletag.pubads());
-googletag.defineSlot('/1234152/gsmserver-bomba-550x200', [550, 200], 'div-gpt-ad-1377242181362-1').addService(googletag.pubads());
-googletag.defineSlot('/1234152/gsmserver-right_171x300', [171, 300], 'div-gpt-ad-1377242181362-2').addService(googletag.pubads());
-googletag.defineSlot('/1234152/gsmserver-right_171x500', [171, 500], 'div-gpt-ad-1377242181362-3').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script></head>
-
-
-
-
-
-
-
-
-
-<body bgcolor="#ffffff">
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4Z2S"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-4Z2S');</script>
-<!-- End Google Tag Manager -->
-
-<!--UdmComment-->
-
-
-
-  
-<script language="javascript" type="text/javascript">
-<!--
-    function checkSearchField(field)
-    {
-       if (field.value == "Search..."){
-          field.value = "";
-       } else {
-          if (field.value == "") {
-            field.value = "Search...";
-          }
-       }
-    }
-//-->
-</script>
-
-
-  <div align="center">
-
-    <div id="top_menu">
-
-      <div id="top_menu_cont">
-
-        <div id="top_menu_left">
-                          <a href="/orders/login.php">Login</a>|
-                <a href="/orders/login.php#reg" style="color:#cccccc;">Register</a>|
-                        <a href="http://forum.gsmserver.com/" style="color:#cccccc;">Forum</a>|
-          <a href="/hd/" style="color:#cccccc;">Tech Support</a>|
-          <a href="/news/subscr.php">Subscribe</a>
-        </div>
-
-        
-        <div id="currency_block">
-          
-              <form id="valuta" action="" method="post">
-                Currency : <select name="valuta_short" onchange="document.getElementById('valuta').submit()">
-                  <option value="USD" selected="selected">USD (USA dollar)</option>
-<option value="EURO">EURO (Euro)</option>
-<option value="GBP">GBP (UK pound)</option>
-<option value="HKD">HKD (Hong Kong dollar)</option>
-<option value="RUB">RUB (Russian rouble)</option>
-<option value="BRL">BRL (Brazilian real)</option>
-<option value="ARS">ARS (Argentine peso)</option>
-<option value="COP">COP (Colombian peso)</option>
-<option value="MXN">MXN (Mexican peso)</option>
-<option value="CAD">CAD (Canadian dollar)</option>
-<option value="UAH">UAH (Ukrainian hrivna)</option>
-<option value="PLZ">PLZ (Polish Zloty)</option>
-<option value="INR">INR (India Rupees)</option>
-                </select>
-              </form>
-
-                  </div>
-
-      </div>
-    </div>
-
-    <style type="text/css">
-      .s222 { background-image: url("/_img/o/header_back.png"); background-position:center;  height: 77px;}
-    </style>
-
-    <div id="g_head">
-      <div class="s222">
-      	<div style="width:960px; margin-left:auto;margin-right:auto;">
-            <noindex>
-            <div id="flag"><div>
-            <img src="/_img/o/eng_act.gif" alt="en"> 
-                  <a rel="nofollow" href="http://www.gsmserver.es/content/information/Privacy-Policy.php" onmouseover="this.firstChild.src='/_img/o/esp_over.gif';return true;" onmouseout="this.firstChild.src='/_img/o/esp.gif';return true;"><img src="/_img/o/esp.gif" alt="es"></a>
-                 
-                  <a rel="nofollow" href="http://www.gsmserver.ru/content/information/Privacy-Policy.php" onmouseover="this.firstChild.src='/_img/o/rus_over.gif';return true;" onmouseout="this.firstChild.src='/_img/o/rus.gif';return true;"><img src="/_img/o/rus.gif" alt="ru"></a>
-                 
-                  <a rel="nofollow" href="http://www.gsmserver.com.ua/content/information/Privacy-Policy.php" onmouseover="this.firstChild.src='/_img/o/ukr_over.gif';return true;" onmouseout="this.firstChild.src='/_img/o/ukr.gif';return true;"><img src="/_img/o/ukr.gif" alt="ua"></a>
-                              
-              </div>
-            </div>
-            </noindex>
-            
-                	  <div align="left" style="margin-right:331px;">	
-        	  <a href="/"><img src="/_img/o/ny_2013_2logo.png"></a><img src="/_img/o/ny_2013_3.png">
-          </div>
-
-          <div style="top:-103px; left: -375px; width:210px; position: relative; background-image:url('/_img/o/ny_2013_1.png'); background-repeat: no-repeat; background-position:top left; height:26px;"></div>
-          
-          
-      </div>
-    </div>
-    
-    <div id="g_top2">
-
-      <div id="g_top2_cont">
-        <div id="g_top2_left">
-          <div id="g_top2_right_input">
-          
-            <form method="get" action="/search.php" name="qsearch">
-              <input type="text" id="search" name="q" size="20" value="Search..." onblur="checkSearchField(this)" onfocus="checkSearchField(this)">
-            </form>
-          </div>
-
-          <div id="g_top2_right_btn">
-              <a href="javascript:document.qsearch.submit()">&nbsp;</a>
-          </div>
-        </div>
-
-        <div class="g_top2_center">
-
-	  <div class="dz">    
-	    <a id="dealer_zone" href="/content/news/Brand-New-Shopping-Tool-for-Professionals.php">&nbsp;</a>
-	  </div>
-	  <div style="margin-left:129px;">
-          
-
-	  	<a href="/contacts/about_us.php">About Us</a>|
-        	<a href="/gb/">Testimonials</a>|
-          	<a href="/contacts/contacts.php">Contact Us</a>|
-          	<a href="/faq/faq.php">FAQ</a>
-          </div>
-        </div>
-
-        <div id="g_top2_right">
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <div id="g_top3"></div>
-
-    <div id="main">
-
-      <div id="g_center">
-        <div id="g1_center">
-
-        <!-- begin content block -->
-
-          <div id="cat_list_all">
-
-            <div align="center"><!-- gsmserver-top_468x60 -->
-<div id="div-gpt-ad-1377242181362-0" style="width:468px; height:60px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377242181362-0'); });
-</script>
-</div></div>
-                    <div style="height:35px;"> </div>
-                                      
-
-            
-
-    	
-<!-- #################################################### -->
-<!-- #					Content		# -->
-<!-- #################################################### -->
-<!--/UdmComment--><div style="font-size:11px; margin-bottom:18px;"><span style="color:#999;">2010.11.17 | </span><a style="text-decoration:underline;" href="/content/information/">Information</a></div><h1>Privacy Policy</h1><p>GsmServer understands that security and privacy are important issues for visitors of our web site and undertakes to keep your
+<!--The following is the downloaded HTML source of the gsmserver.com privacy policy that was archived on 2014-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123035740id_/http%3A//gsmserver.com/information/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/cache/6c1c78c278d213504751d08e44debb4c.css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4Z2S"></script><script type="text/javascript" src="/cache/1308589c48ebee98d3172cbfcd780859.js"></script>
+<title>Privacy Policy - GsmServer</title>
+	<meta name="description" content="Privacy Policy. We offer software/hardware solutions, spare parts and equipment for GSM/CDMA mobile phones servicing.">
+
+	<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+	<script type="text/javascript">window.language = "en";</script>
+
+	<!--[if lt IE 9]>
+		<script src="/scripts/html5.js"></script>
+	<![endif]-->
+
+	
+	<link rel="stylesheet" type="text/css" href="/styles/print.css" media="print">
+
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/styles/ie8lte.css" />
+	<![endif]-->
+
+	<script type="text/javascript">
+	//var dropdownMenuEnterDelay = 150; // затримка при показі підменю (в мілісекундах)
+	//var dropdownMenuLeaveDelay = 550; // затримка при хованні підменю
+	var mainMenuShowDuration = 500; // тривалість анімації для головного меню при показі підтипів
+	var mainMenuHideDuration = 450; // тривалість анімації для головного меню при хованні підтипів
+	var sidebarFindSubcatDelay = 500; // затримка для пошуку підкатегорій в сайдбарі
+	//var productCountTitle = "Категория содержит %s товар(а/ов)"; // підказка для блоку з кількостями товарів
+	</script>
+</head>
+
+<body data-special-type="">
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4Z2S"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-4Z2S');</script>
+	<!-- End Google Tag Manager -->
+
+	<script type="text/javascript">$(function() {
+		ui.initialize();
+	})</script>
+
+	<div id="fb-root"></div>
+
+	<div id="wrapper">
+
+		<div id="top-links-wrapper">
+		<div id="top-links" class="container">
+
+			<div class="container-inner">
+
+				<div class="left">
+					<a target="_blank" href="/oldsite/" rel="nofollow" class="return_to_old_design">Old website version<span></span></a>
+				</div>
+
+				<div class="right">
+
+					<ul class="menu">
+						
+												<li><a href="/information/about-us/">About us</a></li>
+						
+												<li><a href="/information/how-to-shop/">How to buy</a></li>
+						
+												<li><a href="/information/contacts/">Contacts</a></li>
+						
+						<li><a href="/account/subscription">Subscriptions</a></li>
+
+						<li class="menu-item">
+	<a href="javascript:void(0);" class="worldwide">
+		Region		<span class="sprite-arrow"></span>
+	</a>
+
+	<noindex>
+	<ul class="submenu shadow">
+		<li>
+			<a href="/site/gsmserver.com">
+				<span class="left">COM</span>
+				<span class="right">
+					<span class="title">WORLDWIDE</span>
+					<span class="desc">International English version</span>
+				</span>
+			</a>
+		</li>
+		<li>
+			<a href="/site/gsmserver.es">
+				<span class="left">ES</span>
+				<span class="right">
+					<span class="title">ESPAÑOL GLOBAL</span>
+					<span class="desc">Versión en español</span>
+				</span>
+			</a>
+		</li>
+		<li>
+			<a href="/site/gsmserver.ru">
+				<span class="left">RU</span>
+				<span class="right">
+					<span class="title">РОССИЯ и СНГ</span>
+					<span class="desc">Версия для России и стран СНГ</span>
+				</span>
+			</a>
+		</li>
+	</ul>
+	</noindex>
+</li>
+						<!-- My account item
+						<li class="menu-item">
+							<a href="javascript:void(0);" class="account">My Account<span class="sprite-arrow"></span></a>
+
+							<ul class="submenu shadow">
+								<li>
+									<br/>text<br/><br/>
+								</li>
+							</ul>
+						</li>
+						-->
+						<li class="menu-item">
+														<a class="login" href="/user/login" data-target="lightbox">Log in</a>
+													</li>
+											</ul>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</div>
+
+		</div>
+</div>
+
+<div id="header-wrapper">
+		<header class="container">
+
+			<div class="container-inner">
+
+				<div class="left">
+					<div class="logo-wrapper">
+													<a href="/" class="sprite-header logo"></a>
+											</div>
+				</div>
+
+				<div class="right">
+					<ul class="cart-wrapper">
+						<li class="header-forum-livezilla">
+							<div class="header-right-icons"><a target="_blank" href="http://forum.gsmserver.com/">Forum</a></div>
+							<div class="header-right-icons livezilla">Chat with us							<ul class="livezilla-dropdown submenu shadow">
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">English<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Espanol-gsmserver&amp;acid=11c8f&amp;intgroup=RXNwYW5vbC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Español<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Russian-gsmserver&amp;acid=ece38&amp;intgroup=UnVzc2lhbi1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Русский<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Portuguese-gsmserver&amp;acid=14cac&amp;intgroup=UG9ydHVndWVzZS1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Português<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Techsupport-gsmserver&amp;acid=c7cc0&amp;intgroup=VGVjaHN1cHBvcnQtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Tech Support<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Francais-gsmserver&amp;acid=2adb3&amp;intgroup=RnJhbmNhaXMtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2FpZC9Xb3JrZmxvd1Rhc2tzL0F0dGFjaG1lbnRzLzE4OTUvc2FsZXNfY2hhdC5wbmc_','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Francais<span>Offline</span></a></li>
+</ul>							</div>
+						</li>
+						<li class="last">
+							<div class="cart-indicator">
+								<div class="cart">
+	<a href="/cart">
+		<span>USD</span> 0	</a>
+</div>
+<a href="/cart" class="header-right-icons cart-icon empty " title="Go to Cart" data-cart-quantity="0"></a>							</div>
+							<div class="menu">
+																								<div class="currency "> 									<a href="javascript:void(0);" class="chosen-currency" data-rate="1">USD (US dollar)<span class="sprite-arrow"></span></a>
+									<ul class="submenu shadow">
+																					<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="1">
+													<span class="left">USD</span>
+													<span class="right">US dollar</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="2">
+													<span class="left">EURO</span>
+													<span class="right">Euro</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="3">
+													<span class="left">GBP</span>
+													<span class="right">UK pound</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="4">
+													<span class="left">HKD</span>
+													<span class="right">Hong Kong dollar</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="12">
+													<span class="left">RUB</span>
+													<span class="right">Russian rouble</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="13">
+													<span class="left">BRL</span>
+													<span class="right">Brazilian real</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="14">
+													<span class="left">ARS</span>
+													<span class="right">Argentine peso</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="15">
+													<span class="left">COP</span>
+													<span class="right">Colombian peso</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="16">
+													<span class="left">MXN</span>
+													<span class="right">Mexican peso</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="17">
+													<span class="left">CAD</span>
+													<span class="right">Canadian dollar</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="19">
+													<span class="left">UAH</span>
+													<span class="right">Ukrainian hrivna</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="20">
+													<span class="left">PLN</span>
+													<span class="right">Polski złoty</span>
+												</a>
+											</li>
+																						<li>
+												<a href="javascript:void(0);" data-action-click="site.setSiteCurrency" data-id="105">
+													<span class="left">INR</span>
+													<span class="right">India Rupee</span>
+												</a>
+											</li>
+																														</ul>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="search-wrapper">
+					<form action="/search" method="get">
+<div class="search-input-control can-submit" data-hint="search hint">
+	<div class="search-facet-selector">
+		<div id="search_facet_selector" data-name="all">
+			All		</div>
+		<ul class="facet-popup shadow">
+			<li class="facet-item" data-name="all" style="display: none">
+				All			</li>
+							<li class="facet-item" data-name="gsm">
+					Flash and Unlock				</li>
+							<li class="facet-item" data-name="cellphones">
+					Cell Phone Parts				</li>
+							<li class="facet-item" data-name="equipment">
+					Repair Equipment				</li>
+							<li class="facet-item" data-name="cars">
+					Car Electronics				</li>
+							<li class="facet-item" data-name="spares">
+					Parts and Components				</li>
+							<li class="facet-item" data-name="other">
+					Other				</li>
+							<li class="facet-item" data-name="ordering">
+					Spare parts to order				</li>
+					</ul>
+	</div>
+	<input type="hidden" name="f" value="all">
+	<label><input type="text" name="q" class="hide-outline" placeholder="search" maxlength="1000"></label>
+	<a href="javascript:void(0)" class="search-input-clear"></a>
+	<a href="javascript:void(0)" class="search-input-submit"></a>
+</div>
+</form>					<div class="search-example">
+						Popular:
+						<span class="items">sigma</span> <span class="items">octoplus</span> <span class="items">smart clip2</span> 					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</header>
+</div>		<div class="main-menu-wrapper-outside">
+	<div id="main-menu-wrapper" class="container">
+
+		<div class="container-inner">
+
+			<nav>
+				<table id="main-menu" class="menu">
+						<tbody><tr>
+																																<td class="main-menu-item-gsm" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/gsm/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Flash and Unlock</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence">
+
+					<div class="submenu-items">
+				<ul>
+					<li class="top"><a href="/gsm/boxes-and-dongles/">Boxes and Dongles</a></li>
+																<li><a href="/gsm/boxes-and-dongles/box/">Boxes</a></li>
+											<li><a href="/gsm/boxes-and-dongles/dongle/">Dongles</a></li>
+											<li><a href="/gsm/boxes-and-dongles/sim-card-solution/">SIM Card Solutions</a></li>
+														</ul>
+				<a href="/gsm/boxes-and-dongles/" class="category-image"><img src="/nfs/product-type/645/file/gsm_en.png"></a>
+			</div>
+					<div class="submenu-items">
+				<ul>
+					<li class="top"><a href="/gsm/cables-and-adapters/">Cables and Adapters</a></li>
+																<li><a href="/gsm/cables-and-adapters/adapters/">Adapters</a></li>
+											<li><a href="/gsm/cables-and-adapters/cable-set/">Cable Set</a></li>
+											<li><a href="/gsm/cables-and-adapters/cables/">Cables</a></li>
+														</ul>
+				<a href="/gsm/cables-and-adapters/" class="category-image"><img src="/nfs/product-type/646/file/gsm_en.png"></a>
+			</div>
+					<div class="submenu-items">
+				<ul>
+					<li class="top"><a href="/gsm/credits-and-activations/">Credits and Activations</a></li>
+																<li><a href="/gsm/credits-and-activations/activation/">Activations</a></li>
+											<li><a href="/gsm/credits-and-activations/credits/">Credits</a></li>
+														</ul>
+				<a href="/gsm/credits-and-activations/" class="category-image"><img src="/nfs/product-type/647/file/gsm_en.png"></a>
+			</div>
+					<div class="submenu-items">
+				<ul>
+					<li class="top"><a href="/gsm/the-stock-shop/">The Stock Shop</a></li>
+									</ul>
+				<a href="/gsm/the-stock-shop/" class="category-image"><img src="/nfs/product-type/840/file/gsm_en.png"></a>
+			</div>
+		
+	<div class="view-all-products">
+		<a href="/gsm/">All products</a>
+	</div>
+</div>											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																																	<td class="main-menu-item-cellphones" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/cellphones/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Cell Phone Parts</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence">
+
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/cellphones/antenna/">Antennas</a>
+					</li>
+									<li>
+						<a href="/cellphones/batteries/">Batteries</a>
+					</li>
+									<li>
+						<a href="/cellphones/buttons-and-joysticks/">Buttons and Joysticks</a>
+					</li>
+									<li>
+						<a href="/cellphones/camera/">Cameras</a>
+					</li>
+									<li>
+						<a href="/cellphones/charger/">Charger</a>
+					</li>
+									<li>
+						<a href="/cellphones/connectors/">Connectors</a>
+					</li>
+									<li>
+						<a href="/cellphones/flat-cables/">Flat Cables</a>
+					</li>
+									<li>
+						<a href="/cellphones/ic-and-processors/">IC and Processors</a>
+					</li>
+									<li>
+						<a href="/cellphones/inner-housing-part/">Inner Housing Parts</a>
+					</li>
+									<li>
+						<a href="/cellphones/keyboard-modules-and-membranes/">Keyboard Modules and Membranes</a>
+					</li>
+						
+			</ul>
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/cellphones/lcds-sensors-boards/">LCDs, Sensors, Boards</a>
+					</li>
+									<li>
+						<a href="/cellphones/led/">LEDs</a>
+					</li>
+									<li>
+						<a href="/cellphones/micro-sim-adapter/">Micro SIM Adapter</a>
+					</li>
+									<li>
+						<a href="/cellphones/micro-sim-nano-sim-adapters/">Micro-SIM, Nano-SIM Adapters</a>
+					</li>
+									<li>
+						<a href="/cellphones/opening-tool/">Opening Tools</a>
+					</li>
+									<li>
+						<a href="/cellphones/outer-housing-parts/">Outer Housing Parts</a>
+					</li>
+									<li>
+						<a href="/cellphones/protective-film/">Protective Films</a>
+					</li>
+									<li>
+						<a href="/cellphones/sound-and-vibro-spares/">Sound and Vibrating Spares</a>
+					</li>
+									<li>
+						<a href="/cellphones/usb-data-cable/">USB Data Cables</a>
+					</li>
+						
+			</ul>
+				
+	<div class="view-all-products">
+		<a href="/cellphones/">All products</a>
+	</div>
+</div>
+											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																																	<td class="main-menu-item-equipment" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/equipment/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Repair Equipment</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence">
+
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/equipment/auxiliary-equipment/">Auxiliary Equipment</a>
+					</li>
+									<li>
+						<a href="/equipment/consumables/">Consumables</a>
+					</li>
+									<li>
+						<a href="/equipment/electrical-value-meters/">Electrical Value Meters</a>
+					</li>
+									<li>
+						<a href="/equipment/esd-safety/">ESD Safety</a>
+					</li>
+									<li>
+						<a href="/equipment/fiber-optic-network-maintenance/">Fiber Optic Network Maintenance</a>
+					</li>
+									<li>
+						<a href="/equipment/lenses-and-magnifiers/">Lenses and Magnifiers</a>
+					</li>
+									<li>
+						<a href="/equipment/microscopes-and-lenses/">Microscopes and Lenses</a>
+					</li>
+									<li>
+						<a href="/equipment/network-equipment/">Network Equipment</a>
+					</li>
+									<li>
+						<a href="/equipment/non-electrical-value-meters/">Non-electrical Value Meters</a>
+					</li>
+						
+			</ul>
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/equipment/power-hand-tool/">Power Hand Tools</a>
+					</li>
+									<li>
+						<a href="/equipment/power-source/">Power Supplies</a>
+					</li>
+									<li>
+						<a href="/equipment/soldering-equipment/">Soldering Equipment</a>
+					</li>
+									<li>
+						<a href="/equipment/spare-parts/">Spare Parts</a>
+					</li>
+									<li>
+						<a href="/equipment/telecommunication-networks-maintenance-tools/">Telecommunication Networks Maintenance Tools</a>
+					</li>
+									<li>
+						<a href="/equipment/tool-kits/">Tool Kits</a>
+					</li>
+									<li>
+						<a href="/equipment/tools/">Tools</a>
+					</li>
+									<li>
+						<a href="/equipment/ultrasonic-cleaner/">Ultrasonic Cleaners</a>
+					</li>
+									<li>
+						<a href="/equipment/utility-component-storage-boxes/">Utility Component Storage Boxes</a>
+					</li>
+						
+			</ul>
+				
+	<div class="view-all-products">
+		<a href="/equipment/">All products</a>
+	</div>
+</div>
+											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																																	<td class="main-menu-item-cars" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/cars/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Car Electronics</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence" data-active-type="category">
+	
+	<div class="entry-points">
+		<ul>
+							<li data-type="category">
+					<span class="name">Category</span><span class="green-arrow"></span>
+				</li>
+							<li data-type="brand">
+					<span class="name">Brand</span><span class="green-arrow"></span>
+				</li>
+							<li data-type="solution">
+					<span class="name">Solution</span><span class="green-arrow"></span>
+				</li>
+						
+		</ul>
+	
+		<div class="view-all-products">
+			<a href="/cars/">All products</a>
+		</div>
+	</div>
+		
+	<div class="entry-point-items">
+					
+			<div data-type="category" class="items">
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/car-audio-interfaces/">Car Audio Interfaces</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/car-camera/">Car Cameras</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/car-multimedia/">Car Multimedia</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/car-video-interface/">Car Video Interfaces</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/control/">Control</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/gps-navigation/">GPS Navigation</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/kits/">Kits</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/oem-head-units/">OEM Head Units</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/tools-and-power/">Tools and Power</a>
+							</li>
+							
+											</ul>
+					
+								
+			</div>
+					
+			<div data-type="brand" class="items">
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/?filter[B]=97508">Acura</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97509">Alfa Romeo</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97510">Aston Martin</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97511">Audi</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97512">Bentley</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97513">Buick</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97514">Cadillac</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97515">Chevrolet</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97516">Chrysler</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97517">Citroën</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97518">Dodge</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97519">Fiat</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97520">Ford</a>
+							</li>
+							
+											</ul>
+					
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/?filter[B]=97521">General Motors</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97522">Holden</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97523">Honda</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97524">Hummer</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97525">Hyundai</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97526">Infiniti</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97527">Jaguar</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97528">Jeep</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97529">Kia</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97531">Lamborghini</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97532">Land Rover</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97533">Lexus</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97534">BMW</a>
+							</li>
+							
+											</ul>
+					
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/?filter[B]=97535">Lincoln</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97536">Maserati</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97537">Mazda</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97538">Mini</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97539">Mitsubishi</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97540">Mercedes-Benz</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97541">Nissan</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97542">Opel</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97543">Peugeot</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97544">Porsche</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97545">Range Rover</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97546">Renault</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97547">Rolls Royce</a>
+							</li>
+							
+											</ul>
+					
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/?filter[B]=97548">Rover</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97549">Saab</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97550">Seat</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97551">Skoda</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97552">Smart</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97553">Subaru</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97554">Suzuki</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97555">Toyota</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97557">Volkswagen</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=97558">Volvo</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[B]=105347">Dacia</a>
+							</li>
+							
+											</ul>
+					
+								
+			</div>
+					
+			<div data-type="solution" class="items">
+								
+					<ul class="submenu-items">
+												
+							<li>
+								<a href="/cars/?filter[S]=94593">Car Audio</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94592">Car Video</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94598">Control</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94591">GPS Navigation</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94596">In-Car Entertainment</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94599">Installation</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94594">iPhone/Smartphone in the Car</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94595">OEM Electronics</a>
+							</li>
+							
+												
+							<li>
+								<a href="/cars/?filter[S]=94597">Parking Assistance</a>
+							</li>
+							
+											</ul>
+					
+								
+			</div>
+			</div>
+</div>
+											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																																	<td class="main-menu-item-spares" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/spares/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Parts and Components</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence">
+
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/spares/spare-parts-for-bluetooth/">Spare Parts for Bluetooth</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-car-navigators/">Spare Parts for Car Navigators</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-digital-cameras/">Spare Parts for Digital Cameras</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-e-readers/">Spare Parts for E-Readers</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-game-consoles/">Spare Parts for Game Consoles</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-laptops/">Spare Parts for Laptops</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-mp3-players/">Spare Parts for Mp3-Players</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-tablets/">Spare Parts for Tablets</a>
+					</li>
+									<li>
+						<a href="/spares/spare-parts-for-video-cameras/">Spare Parts for Video Cameras</a>
+					</li>
+						
+			</ul>
+				
+	<div class="view-all-products">
+		<a href="/spares/">All products</a>
+	</div>
+</div>
+											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																																	<td class="main-menu-item-other" data-action-click="site.mainmenu.OnMainMenuParentItemClick">
+										<a href="/other/" class="mainmenu-item-link" data-action-click="site.mainmenu.OnMainMenuItemClick">Other</a>
+										<div class="submenu shadow-2">
+
+											<div class="submenu-inner">
+												<div class="submenu-sequence">
+
+					<ul class="submenu-items">
+		
+									<li>
+						<a href="/other/ic-microcontrollers/">IC / Microcontrollers</a>
+					</li>
+									<li>
+						<a href="/other/multimedia-cables-and-adapters/">Multimedia Cables and Adapters</a>
+					</li>
+									<li>
+						<a href="/other/smart-cards-and-accessories/">Smart Cards and Accessories</a>
+					</li>
+									<li>
+						<a href="/other/souvenirs/">Souvenirs</a>
+					</li>
+						
+			</ul>
+				
+	<div class="view-all-products">
+		<a href="/other/">All products</a>
+	</div>
+</div>
+											</div>
+
+										</div>
+									</td>
+									<td class="sep"></td>
+																								<td class="last sale">
+									<span class="sprite-header"></span>
+									<a href="/promotions">Sale</a>
+								</td>
+						</tr>
+				</tbody></table>
+			</nav>
+
+		</div>
+
+	</div>
+</div>		
+		<div id="content-wrapper" class="container">
+			<div class="container-inner">
+				<div class="content-container" id="content-page">
+	<aside class="left">
+		<div>
+	<h2>
+		<span>News</span>
+	</h2>
+	<div class="left-menu">
+		<ul class="">
+					<li><a id="content_9359" data-id="9359" data-parent-id="1" data-action-click="site.content.OnOpenContentPage" href="/news/join-octopus-box-5th-birthday-celebration-benefit-from-the-wholesale-price-on-octopus-credits/" class="h2-link ">Join Octopus Box 5th Birthday Celebration! Benefit from the Wholesale Price on Octopus Credits!</a></li>
+						<li><a id="content_8724" data-id="8724" data-parent-id="1" data-action-click="site.content.OnOpenContentPage" href="/news/save-buying-medusa-box/" class="h2-link ">Save $48 Buying Medusa Box!</a></li>
+						<li><a id="content_9314" data-id="9314" data-parent-id="1" data-action-click="site.content.OnOpenContentPage" href="/news/join-gsmserver-loyalty-program-and-get-up-to-15-lifetime-discount-on-gsmserver-products/" class="h2-link ">Join GsmServer Loyalty Program and Get Up to 15% Lifetime Discount on GsmServer Products!</a></li>
+						<li><a id="content_9195" data-id="9195" data-parent-id="1" data-action-click="site.content.OnOpenContentPage" href="/news/technical-support-new-schedule/" class="h2-link ">Technical Support New Schedule</a></li>
+						<li><a id="content_9158" data-id="9158" data-parent-id="1" data-action-click="site.content.OnOpenContentPage" href="/news/new-items-in-our-virtual-stock/" class="h2-link ">New Items in Our Virtual Stock!</a></li>
+					</ul>
+					<a class="see-all-button" href="/news/">See all</a>
+			</div>
+
+	<h2>
+		<span>Articles</span>
+	</h2>
+	<div class="left-menu">
+		<ul class="">
+					<li><a id="content_8989" data-id="8989" data-parent-id="2" data-action-click="site.content.OnOpenContentPage" href="/articles-and-video/rcd510-hu-and-gps-module-video-review/" class="h2-link ">RCD510 HU and GPS Module Video Review</a></li>
+						<li><a id="content_8887" data-id="8887" data-parent-id="2" data-action-click="site.content.OnOpenContentPage" href="/articles-and-video/do-it-yourself-blackberry-phone-unlocking-is-possible/" class="h2-link ">Do-it-Yourself BlackBerry Phone Unlocking is Possible!</a></li>
+						<li><a id="content_8886" data-id="8886" data-parent-id="2" data-action-click="site.content.OnOpenContentPage" href="/articles-and-video/samsung-galaxy-s-iii-phone-servicing-tools/" class="h2-link ">Samsung Galaxy S III Phone Servicing Tools</a></li>
+						<li><a id="content_8865" data-id="8865" data-parent-id="2" data-action-click="site.content.OnOpenContentPage" href="/articles-and-video/code-reading-or-direct-unlock-what-is-the-right-choice/" class="h2-link ">Code Reading or Direct Unlock – What is the Right Choice?</a></li>
+					</ul>
+					<a class="see-all-button" href="/articles-and-video/">See all</a>
+			</div>
+
+	<h2>
+		<span>GsmServer Updates</span>
+	</h2>
+	<div class="left-menu">
+		<ul class="">
+					<li><a id="content_9405" data-id="9405" data-parent-id="6" data-action-click="site.content.OnOpenContentPage" href="/updates/octoplus-box-jtag-software-v-1-7-2-is-out/" class="h2-link ">Octoplus Box JTAG Software v.1.7.2 is out!</a></li>
+						<li><a id="content_9406" data-id="9406" data-parent-id="6" data-action-click="site.content.OnOpenContentPage" href="/updates/octoplus-octopus-box-samsung-software-v-1-7-6-is-out/" class="h2-link ">Octoplus/Octopus Box Samsung Software v.1.7.6 is out!</a></li>
+						<li><a id="content_9407" data-id="9407" data-parent-id="6" data-action-click="site.content.OnOpenContentPage" href="/updates/medusa-box-v-2-3-8-is-out/" class="h2-link ">Medusa Box v.2.3.8 is out!</a></li>
+						<li><a id="content_9398" data-id="9398" data-parent-id="6" data-action-click="site.content.OnOpenContentPage" href="/updates/sigma-software-v-2-07-00/" class="h2-link ">Sigma Software v.2.07.00</a></li>
+						<li><a id="content_9400" data-id="9400" data-parent-id="6" data-action-click="site.content.OnOpenContentPage" href="/updates/smart-clip2-software-v-2-07-00/" class="h2-link ">Smart-Clip2 Software v.1.07.00</a></li>
+					</ul>
+					<a class="see-all-button" href="/updates/">See all</a>
+			</div>
+
+	<h2>
+		<span>General Info</span>
+	</h2>
+	<div class="left-menu">
+		<ul class="larger">
+					<li><a id="content_8775" data-id="8775" data-parent-id="-1" data-action-click="site.content.OnOpenContentPage" href="/information/shipment/" class="h2-link ">Shipment</a></li>
+						<li><a id="content_8774" data-id="8774" data-parent-id="-1" data-action-click="site.content.OnOpenContentPage" href="/information/payment/" class="h2-link ">Payment</a></li>
+					</ul>
+			</div>
+</div>
+		<a href="javascript:void(0);" class="sidebar-tab"></a>
+	</aside>
+		<aside class="right">
+		<div class="right-aside-inner">
+						<!-- gsmserver-right_250x250 -->
+			<div id="div-gpt-ad-1395303130111-0" style="width:250px; height:250px;">
+				<script type="text/javascript">
+				$(function(){
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395303130111-0'); });
+				});
+				</script>
+			</div>
+						<div id="you-may-also-like"></div>
+		</div>
+	</aside>
+		<div id="content" class="withLeftPanel">
+		<div class="breadcrumbs-wrapper">	<div class="breadbrumbs-links">
+	<span itemscope="1" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/"><span itemprop="title">GsmServer</span></a></span>
+	</div>
+</div>	<h1>Privacy Policy</h1>
+		<div class="hr">&nbsp;</div>
+<div id="inner-content">
+<div class="content-details content-information-wrapper">
+	<p>GsmServer understands that security and privacy are important issues for visitors of our web site and undertakes to keep your
 information secure and confidential. That is why we maintain the following standards to protect personal information.
 We reserve the right to change this Privacy Policy at any time without prior notice.</p>
 <ul>
@@ -366,7 +1103,7 @@ We reserve the right to change this Privacy Policy at any time without prior not
 <li><a href="#access">Access to Information</a></li>
 </ul>
 								
-<h2><a name="gather">Collection of Information</a></h2>
+<h2><a name="gather"></a>Collection of Information</h2>
 <p>The information we learn from customers helps us to perform transactions, 
 dispatch goods and provide customer support and continually improve your shopping experience at GsmServer 
 online store. Here are the types of information we collect:</p>
@@ -385,12 +1122,12 @@ website improvement.
 account information. We can use updated delivery and address information from our carriers or other third 
 parties to correct our records and deliver your next purchase more quickly and communicate with you more easily.</li>
 </ul>
-<h2><a name="use">Use of Information</a></h2>
+<h2><a name="use"></a>Use of Information</h2>
 <p>GsmServer uses your personal information for the following purposes: to process your orders and administer your account, to administer and
 improve the site and related services, to notify you of our products, services, promotional events or special offers that may interest
 you, etc.</p>
-<h2><a name="share">Disclosure of Information to Third Parties</a></h2>
-Information about our customers is an important part of our business and we share customer information only as described below:
+<h2><a name="share"></a>Disclosure of Information to Third Parties</h2>
+<p>Information about our customers is an important part of our business and we share customer information only as described below:</p>
 <ul>
 <li><strong>Third-party service providers.</strong> We cooperate with other companies and individuals to 
 deliver packages, send postal mail and e-mail, 
@@ -402,7 +1139,7 @@ other companies and organizations for fraud protection and credit risk reduction
 renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial 
 purposes in violation of the commitments set forth in this Privacy Policy. </li>
 </ul>
-<h2><a name="secure">Security of Information</a></h2>
+<h2><a name="secure"></a>Security of Information</h2>
 <p>GsmServer is committed to protect customer personal information. </p>
 <ul>
 <li>We implement the following security measures: secure servers, firewalls and other technologies and procedures to protect customer personal 
@@ -412,316 +1149,353 @@ number to the appropriate credit card company during order processing.</li>
 </ul>
 
 <p>Please note! Be sure to sign off when finished using a shared computer in order to protect your account against unauthorized access.</p>
-<h2><a name="third_party">Links to Other Websites</a></h2>Our website may contain links to other sites on the Internet that are owned by third parties. GsmServer is not responsible for the collection or use of your personal information at any third 
-party sites.
-<h2><a name="access">Access to Information</a></h2>
-<p>You have an access to information about your account at GsmServer and you can view, update or delete it.</p><!--UdmComment-->
+<h2><a name="third_party"></a>Links to Other Websites</h2>
+<p>Our website may contain links to other sites on the Internet that are owned by third parties. GsmServer is not responsible for the collection or use of your personal information at any third 
+party sites.</p>
+<h2><a name="access"></a>Access to Information</h2>
+<p>You have an access to information about your account at GsmServer and you can view, update or delete it.</p></div></div>
 
+<div class="pagination-wrapper pagination-wrapper-bottom" style="display: none;">
+	<a href="javascript:void(0);" data-pagination="page-prev" data-value="0" class="button-arrow prev">Previous page</a>
+	<div class="empty-page-block-prev"></div>
+	<div class="pagination-ellipsis-wrapper pagination-wrapper-left invisible">
+		<a href="?page=1" data-pagination="page-first" data-value="1">1</a>
+		<div class="dropdown page-list">
+			...
+					</div>
+	</div>
 
+	<div class="pagination-range-wrapper" data-pagination="page">
+			<a data-value="1" href="?page=1" class="current">1</a>
+		</div>
 
-
-          </div>
-        <!-- end content block -->
-        
-        </div>
-      </div>
-      
-      <div id="g_left">
-
-        
-      <div class="vspan">&nbsp;</div><div class="lml1">Flash and Unlock</div>
-<div class="lml2">
-<div id="lev3_1"></div><a href="/shop/happy_new_sale/" onmouseover="mnO(1)" onmouseout="mnC(1)" id="mna1">Happy New Sale</a><s> </s><div id="lev3_2"></div><a href="/software/software.php" onmouseover="mnO(2)" onmouseout="mnC(2)" id="mna2">Boxes and Dongles</a><s> </s><div id="lev3_61"></div><a href="/shop/gsm/brands/" onmouseover="mnO(61)" onmouseout="mnC(61)" id="mna61">By Phone Brand</a><s> </s><div id="lev3_150"></div><a href="/shop/credits_activations/" onmouseover="mnO(150)" onmouseout="mnC(150)" id="mna150">Credits and Activations</a><s> </s><div id="lev3_166"></div><a href="/shop/cables/" onmouseover="mnO(166)" onmouseout="mnC(166)" id="mna166">Cables and Adapters</a></div>
-
-<div class="vspan">&nbsp;</div><div class="lml1">Cell Phone Parts</div>
-<div class="lml2">
-<div id="lev3_255"></div><a href="/shop/spares/lcd/" onmouseover="mnO(255)" onmouseout="mnC(255)" id="mna255">Displays</a><s> </s><div id="lev3_288"></div><a href="/shop/spares/flat_cable/" onmouseover="mnO(288)" onmouseout="mnC(288)" id="mna288">Flat Cables</a><s> </s><div id="lev3_310"></div><a href="/shop/spares/housings-and-accessories/" onmouseover="mnO(310)" onmouseout="mnC(310)" id="mna310">Housings and Accessories</a><s> </s><div id="lev3_358"></div><a href="/shop/spares/other/" onmouseover="mnO(358)" onmouseout="mnC(358)" id="mna358">More</a></div>
-
-<div class="vspan">&nbsp;</div><div class="lml1">Repair Equipment</div>
-<div class="lml2">
-<div id="lev3_505"></div><a href="/shop/equipment/soldering_assembly/" onmouseover="mnO(505)" onmouseout="mnC(505)" id="mna505">Soldering Equipment</a><s> </s><div id="lev3_535"></div><a href="/shop/equipment/measuring_equipment/" onmouseover="mnO(535)" onmouseout="mnC(535)" id="mna535">Measuring Equipment</a><s> </s><div id="lev3_586"></div><a href="/shop/instruments/" onmouseover="mnO(586)" onmouseout="mnC(586)" id="mna586">Hand Tools</a><s> </s><div id="lev3_624"></div><a href="/shop/equipment/more/" onmouseover="mnO(624)" onmouseout="mnC(624)" id="mna624">More Repair Tools and Equipment</a></div>
-
-<div class="vspan">&nbsp;</div><div class="lml1">Car Electronics</div>
-<div class="lml2">
-<div id="lev3_666"></div><a href="/shop/car/multimedia_interfaces/" onmouseover="mnO(666)" onmouseout="mnC(666)" id="mna666">Multimedia Interfaces</a><s> </s><div id="lev3_674"></div><a href="/shop/car/cameras/" onmouseover="mnO(674)" onmouseout="mnC(674)" id="mna674">Car Cameras</a><s> </s><div id="lev3_681"></div><a href="/shop/car/night-vision/" onmouseover="mnO(681)" onmouseout="mnC(681)" id="mna681">Car Night Vision</a><s> </s><div id="lev3_684"></div><a href="/shop/car/GPS_products/" onmouseover="mnO(684)" onmouseout="mnC(684)" id="mna684">GPS Navigation</a><s> </s><div id="lev3_688"></div><a href="/shop/car/car_accessories/" onmouseover="mnO(688)" onmouseout="mnC(688)" id="mna688">Accessories</a><s> </s><div id="lev3_696"></div><a href="/shop/car/multimedia-systems/" onmouseover="mnO(696)" onmouseout="mnC(696)" id="mna696">Entertainment Systems</a><s> </s><div id="lev3_704"></div><a href="/shop/car/car-oem-radios/" onmouseover="mnO(704)" onmouseout="mnC(704)" id="mna704">OEM Radios</a></div>
-
-<div class="vspan">&nbsp;</div><div class="lml1">Parts and Components</div>
-<div class="lml2">
-<div id="lev3_707"></div><a href="/shop/components-and-parts/spare-parts-for-GPS" onmouseover="mnO(707)" onmouseout="mnC(707)" id="mna707">Spare parts for GPS</a><s> </s><div id="lev3_712"></div><a href="/shop/components-and-parts/smart_card/" onmouseover="mnO(712)" onmouseout="mnC(712)" id="mna712">Smart Cards and Accessories</a><s> </s><div id="lev3_713"></div><a href="/shop/components-and-parts/game-stations/" onmouseover="mnO(713)" onmouseout="mnC(713)" id="mna713">Game Console Parts and Accessories</a><s> </s><div id="lev3_719"></div><a href="/shop/components-and-parts/digital-cameras" onmouseover="mnO(719)" onmouseout="mnC(719)" id="mna719">Camera Replacement Parts</a><s> </s><div id="lev3_793"></div><a href="/shop/components-and-parts/digital-video-cameras/" onmouseover="mnO(793)" onmouseout="mnC(793)" id="mna793">Video Camera Replacement Parts</a><s> </s><div id="lev3_800"></div><a href="/shop/components-and-parts/eBook-Spare-Parts" onmouseover="mnO(800)" onmouseout="mnC(800)" id="mna800">eBook Reader Spare Parts</a><s> </s><div id="lev3_801"></div><a href="/shop/components-and-parts/microcontrollers/" onmouseover="mnO(801)" onmouseout="mnC(801)" id="mna801">IC / Microcontrollers</a><s> </s><div id="lev3_802"></div><a href="/shop/components-and-parts/spare-parts-for-apple-ipad/" style="background-image:none" onmouseover="mnO(802)" onmouseout="mnC(802)" id="mna802">Spare parts for Apple iPad</a><s> </s><div id="lev3_803"></div><a href="/shop/components-and-parts/mp3-players-spare-parts" onmouseover="mnO(803)" onmouseout="mnC(803)" id="mna803">Spare Parts for Apple iPod</a><s> </s><div id="lev3_813"></div><a href="/shop/components-and-parts/tablet-spare-parts" onmouseover="mnO(813)" onmouseout="mnC(813)" id="mna813">Tablet Spare Parts</a></div>
-
-<div class="vspan">&nbsp;</div><div class="lml1">Miscellaneous</div>
-<div class="lml2">
-<div id="lev3_857"></div><a href="/shop/gps-products" onmouseover="mnO(857)" onmouseout="mnC(857)" id="mna857">GPS Products</a><s> </s><div id="lev3_860"></div><a href="/shop/spare-parts-for-GPS" onmouseover="mnO(860)" onmouseout="mnC(860)" id="mna860">Spare parts for GPS</a><s> </s><div id="lev3_865"></div><a href="/shop/accessories/cellphone_accessories/" onmouseover="mnO(865)" onmouseout="mnC(865)" id="mna865">Cell Phone Accessories</a><s> </s><div id="lev3_903"></div><a href="/shop/accessories/notebooks/" onmouseover="mnO(903)" onmouseout="mnC(903)" id="mna903">Laptop Repair Parts</a><s> </s><div id="lev3_914"></div><a href="/shop/miscellaneous/Souvenirs" onmouseover="mnO(914)" onmouseout="mnC(914)" id="mna914">GsmServer Souvenirs</a></div>
-
-
-        <script type="text/javascript"><!--
-
-          function param_n()
-          {
-              return "?filter=new";
-          }
-          function param_p()
-          {
-              return "?filter=promotions";
-          }
-          function param()
-          {
-              return "";
-          }
-
-        --></script>
-
-                
-
-        <div id="g_right_upgrade"><a href="/smartclip/SmartClip_Update_Zone.php"><img src="/_img/o/smartclip.jpg"></a></div>
-
-        <div id="g_left_proj_logo"><img src="/_img/o/our_projects.gif"></div>
-        <div id="g_left_proj_list" style="background-color:#454444;">
-          <div class="span_v_3"></div>          
-          
-
-          <a href="/shop/cables/gsm_products_cables/rextor/">Rextor cables</a>
-          <!--noindex-->
-          <a href="http://all-spares.com/" rel="nofollow" target="blank">All Spares</a>
-          <a href="http://car-solutions.com/" rel="nofollow" target="blank">Car Solutions</a>
-          <a href="http://toolboom.com/" rel="nofollow" target="blank">ToolBoom</a>
-          <!--/noindex-->
-
-
-        </div>
-      </div>
-
-
-
-
-      <div id="g_right">
-        <div id="g_right_cart" onclick="javascript:window.location = '/orders/order1.php'">
-          <div id="g_right_cart_img"></div>
-
-          
-          <div id="g_right_cart_text">
-            <span>In your cart:</span>
-            <a href="/orders/order1.php" id="g_right_cart_count">
-              0 items           </a>
-          </div>
-        </div>
-
-        <div style="height:12px;line-height:12px;font-size:1px;"> </div>
-<!-- gsmserver-right_171x300 -->
-<div id="div-gpt-ad-1377242181362-2" style="width:171px; height:300px; border: 1px solid #eee;">
+	<div class="pagination-ellipsis-wrapper pagination-wrapper-right invisible">
+		<div class="dropdown page-list">
+			...
+					</div>
+		<a href="?page=1" data-pagination="page-last" data-value="1">1</a>
+	</div>
+	<div class="empty-page-block-next"></div>
+	<a href="javascript:void(0);" data-pagination="page-next" data-value="2" class="button-arrow next">Next page</a>
+</div>
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377242181362-2'); });
-</script>
+$(function(){
+
+site.pagination.initialize(1,20,1,"popularity_desc","List");
+
+});
+</script><script type="text/javascript">
+$(function(){
+	site.pagination.initialize(1,10,1,"name_asc"	);
+	site.content.initialize(8975);
+});
+</script>	</div>
+	<div class="clear"></div>
+</div>			</div>
+		</div>
+
+		<div id="html_templates" style="display: none;">
+<div class="add-to-cart">
+	<div class="icon-wrapper"><span class="icon instock-ico">In stock</span></div>
+	<a href="javascript:void(0)" data-action-click="site.cart.add" data-product="" data-min="" class="product-button ga-add-to-cart">
+		Add to cart	</a>
+</div>
+		<div class="add-to-preorder">
+<div class="icon-wrapper"><span class="icon out-of-stock-ico">Out of stock</span></div>
+<a data-product="" href="javascript:void(0)" data-action-click="site.cart.addAvailabilityRequest" class="product-button button-preorder two-lines-title">Notify<br>when in stock</a>
+<a class="analogue-link small" href="">Similar items</a>
+</div>
+		<div class="analog" data-analogue="on">
+<div class="icon-wrapper"><span class="icon discontinued-ico">Discontinued</span></div>
+<a href="javascript:void(0)" data-action-click="site.product.OnLoadProductInfoTab" data-target="analogue" data-value="" class="analogue-link product-button button-analog">
+	Substitution</a>
+</div>
+		<div class="contact-manager">
+<div class="icon-wrapper"><span class="icon instock-ico">In stock</span></div>
+<a href="javascript:void(0)" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')" class="product-button button-contact-manager two-lines-title">
+	Contact<br>manager</a>
+<a class="analogue-link small" href="">Similar items</a>
+</div>
+		<div class="in-cart-spin">
+	<div class="icon-wrapper"><span class="icon instock-ico">In stock</span></div>
+	<span class="in-cart"><a href="/cart" class="product-button">
+	</a></span><div class="quantity-input">
+		<a href="#" name="btn-minus" class="minus btn" data-field="quantity">-</a><input type="text" name="quantity" value="1" data-action-updated="site.cart.edit" data-max="" data-min="" data-value="1" data-update-trigger="force_update" data-product=""><a href="#" name="btn-plus" class="plus btn" data-field="quantity">+</a>
+	</div><div class="only-in-stock"></div></div><div class="in-cart-scale">
+	<div class="icon-wrapper"><span class="icon instock-ico">In stock</span></div>
+	<span class="in-cart"><a href="/cart" class="product-button"></a>
+	</span><div class="quantity-input" data-action-updated="site.cart.edit" data-max="" data-min="" data-value="1" data-product="" data-update-trigger="force_update">
+		<a href="#" name="btn-minus" class="minus btn">-</a><div class="value">1</div><a href="#" name="btn-plus" class="plus btn">+</a><ul name="available-counts" class="hidden" tabindex="-1">
+				</ul>
+	</div><div class="only-in-stock"></div></div><div class="in-preorder">
+<div class="icon-wrapper"><span class="icon out-of-stock-ico">Out of stock</span></div>
+<a href="/account/availability" data-action-click="" class="product-button button-inpreorder two-lines-title">Already<br>in preorder</a>
+<a class="analogue-link small" href="">Similar items</a>
+</div>
+		<div class="not-for-sale" data-hint="Our online store does not sell this item in your country.">
+	<a href="javascript:void(0)" data-action-click="site.cart.onShowNotForSaleMessage" class="product-button button-not-for-sale"></a>
+	<span>Not for Sale</span>
+	<a class="analogue-link small" href="">Similar items</a>
+</div>
+		<div class="contact-manager-out-of-stock">
+<div class="icon-wrapper"><span class="icon out-of-stock-ico">Out of stock</span></div>
+<a href="javascript:void(0)" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')" class="product-button button-contact-manager two-lines-title">
+	Contact<br>manager</a>
+<a class="analogue-link small" href="">Similar items</a>
+</div>
+					<div class="price price-unavailable">
+				<span class="old-price" data-old-price=""></span>
+				<span class="product-price" data-price=""></span>
+			</div>
+			</div>
+
+		<footer>
+			<div class="footer-top-wrapper">
+	<div class="footer-top container">
+		<div class="container-inner">
+						
+				<div class="left">
+											<div class="col-33">
+							<h3>Company Info</h3>
+							<ul>
+																											<li>
+											<a href="/information/about-us/">
+												About us											</a>
+										</li>
+																																				<li>
+											<a href="/information/contacts/">
+												Contacts											</a>
+										</li>
+																																				<li>
+											<a href="/news/">
+												News											</a>
+										</li>
+																																				<li>
+											<a href="/information/feedback/">
+												Customers Feedback											</a>
+										</li>
+																																				<li>
+											<a href="/information/benefits/">
+												Benefits											</a>
+										</li>
+																								</ul>
+						</div>
+											<div class="col-33">
+							<h3>Customer Service</h3>
+							<ul>
+																											<li>
+											<a href="/information/payment/">
+												Payment Info											</a>
+										</li>
+																																				<li>
+											<a href="/information/shipment/">
+												Shipment Info											</a>
+										</li>
+																																				<li>
+											<a href="/information/warranty/">
+												Warranty Terms											</a>
+										</li>
+																																				<li>
+											<a href="/information/privacy-policy/">
+												Privacy Policy											</a>
+										</li>
+																																				<li>
+											<a href="/pricelist">
+												Price List											</a>
+										</li>
+																								</ul>
+						</div>
+											<div class="col-33">
+							<h3>Help</h3>
+							<ul>
+																											<li>
+											<a href="/information/how-to-shop/">
+												How to Shop											</a>
+										</li>
+																																				<li>
+											<a href="/information/making-order-via-price-list/">
+												Order via price list											</a>
+										</li>
+																																				<li>
+											<a href="/information/activation-panel/">
+												Activation Panel											</a>
+										</li>
+																								</ul>
+						</div>
+											<div class="col-33">
+							<h3>Support</h3>
+							<ul>
+																											<li>
+											<a href="javascript:void(0)" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Techsupport-gsmserver&amp;acid=c7cc0&amp;intgroup=VGVjaHN1cHBvcnQtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">
+												Sales Chat											</a>
+										</li>
+																																				<li>
+											<a href="/information/faq/">
+												FAQ											</a>
+										</li>
+																																				<li>
+											<a href="http://forum.gsmserver.com">
+												Forum											</a>
+										</li>
+																																				<li>
+											<a href="mailto:techsupport@gsmserver.com">
+												Tech Support											</a>
+										</li>
+																								</ul>
+						</div>
+									</div>
+
+				<div class="right">
+					<div class="contacts-wrapper">
+						<div class="col-33">
+	<h3>Contact Info</h3>
+	<ul>
+		<li class="hongkong">+852 397 33 882</li>
+		<li class="us">+1 323 7044552</li>
+	</ul>
 </div>
 
-        <div style="height:12px;line-height:12px;font-size:1px;"> </div>
+<div class="col-33 margin-top">
+	<ul>
+		<li class="mexico">+52 55 1163 8901</li>
+		<li class="brazil">+55 61 3717 2121</li>
+	</ul>
+</div>
 
-        <div id="g_right_chat_logo"><img src="/_img/o/chat.gif"></div>
+<div class="col-33 email">
+	<ul>
+		<li class="email"><a href="mailto:info@gsmserver.com">info@gsmserver.com</a></li>
+	</ul>
+</div>					</div>
+				</div>
+
+				<div class="clear"></div>
+
+		</div>
+	</div>
+</div>
+<div class="footer-middle-wrapper">
+	<div class="footer-middle container">
+		<div class="container-inner">
+
+			<div class="left">
+				<h3>Join us:</h3>
+				<ul class="social">
+										<li><a href="/information/contacts/" class="email" title="Contact page"></a></li>
+										<li><a target="_blank" href="https://twitter.com/GsmServerCom" class="twitter" title="Twitter"></a></li>
+					<li><a target="_blank" href="http://www.youtube.com/user/gsmservers/feed" class="youtube" title="YouTube"></a></li>
+					<li><a target="_blank" href="https://www.facebook.com/gsmserver" class="facebook" title="Facebook"></a></li>
+					<li><a target="_blank" href="http://forum.gsmserver.com/" class="forum" title="Go to the forum"></a></li>
+					<li><a href="/rss/" class="rss" title="RSS feed"></a></li>
+					<li><a target="_blank" href="https://plus.google.com/+gsmserver/posts" class="gplus" title="Google+"></a></li>
+				</ul>
+			</div>
+
+											<div class="verified-wrapper">
+					<ul class="verified">
+													<li><a href="/information/payment/" class="paypal first"></a></li>
+													<li><a href="/information/payment/" class="webmoney"></a></li>
+													<li><a href="/information/payment/" class="visa"></a></li>
+													<li><a href="/information/payment/" class="mastercard"></a></li>
+													<li><a href="/information/payment/" class="safe"></a></li>
+											</ul>
+				</div>
+			
+			<div class="clear"></div>
+
+		</div>
+	</div>
+</div>					</footer>
+
+	</div>
+
+	<div id="r-buttons" class="shadow-4">
+	<ul>
+
+		
+		<li>
+			<a href="/cart" class="icon cart-icon empty"></a>
+			<div class="r-buttons-submenu">
+				<div class="my-cart shadow-4">
+					<h4>My Cart</h4>
+					
+					<table class="top">
+						<tbody><tr>
+							<td class="col col-left">
+								<div class="title">Items:</div>
+								<div class="value">
+									0								</div>
+							</td>
+							<td class="col col-right">
+								<div class="title">Total Price:</div>
+								<div class="value">
+									<span>USD</span> 0								</div>
+							</td>
+						</tr>
+					</tbody></table>
+
+					<div class="bottom"><a href="/cart">Go to Cart</a></div>
+
+				</div>
+			</div>
+		</li>
+		<li>
+			<a href="javascript:void(0)" class="icon chat-icon"></a>
+			<div class="r-buttons-submenu">
+				<div class="shadow-4">
+					<h4>Sales Chat</h4>
+					<ul class="livezilla-dropdown ">
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">English<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Espanol-gsmserver&amp;acid=11c8f&amp;intgroup=RXNwYW5vbC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Español<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Russian-gsmserver&amp;acid=ece38&amp;intgroup=UnVzc2lhbi1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Русский<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Portuguese-gsmserver&amp;acid=14cac&amp;intgroup=UG9ydHVndWVzZS1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Português<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Techsupport-gsmserver&amp;acid=c7cc0&amp;intgroup=VGVjaHN1cHBvcnQtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Tech Support<span>Offline</span></a></li>
+	<li><a href="javascript:void(0);" onclick="window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Francais-gsmserver&amp;acid=2adb3&amp;intgroup=RnJhbmNhaXMtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2FpZC9Xb3JrZmxvd1Rhc2tzL0F0dGFjaG1lbnRzLzE4OTUvc2FsZXNfY2hhdC5wbmc_','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes')">Francais<span>Offline</span></a></li>
+</ul>				</div>
+			</div>
+		</li>
+
+					<li><a href="/account/subscription" class="icon subscription-icon"></a></li>
+		
+		<li><a href="http://forum.gsmserver.com/" class="icon forum-icon"></a></li>
+
+		<li>
+			<a href="javascript:void(0)" class="icon compare-icon"></a>
+			<div class="r-buttons-submenu">
+				<div class="compare shadow-4">
+					<h4>Compare</h4>
+					<ul class="type-list"></ul>
+					<div class="empty-list-message">No products in compare list</div>
+					<div class="bottom">
+						<a href="javascript:void(0)" data-action-click="site.comparsion.clearAll">Clear</a>
+					</div>
+				</div>
+			</div>
+		</li>
+
+	</ul>
+</div>
+	<script type="text/javascript">
+	$(function(){
+		t.set("contains product amount","facet","The number of goods in the category: [product amount]");
+	});
+	</script>
 
 
-        
-
-        <div id="g_right_chat_list">
+<!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) -->
 <!--
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=1&page=">English</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=5&page=">Deutsch</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=2&page=">Espa&ntilde;ol</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=3&page=">Fran&ccedil;ais</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=6&page=">Portuguese</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=11&page=">Українська</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=4&page=">Русский</a>
-          <a class="offline" target="_blank" href="http://chat.gsmserver.com/request.php?l=admin&x=1&deptid=9&page=">Technical support</a>
--->
-
-          <a id="sc_gsmservercom" class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">English</a>
-
-<!--          <a class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&utm_source=gsmserver.com&utm_medium=Deutsch-gsmserver&lang=de&intgroup=RGV1dHNjaC1nc21zZXJ2ZXI=&amp;hg=Pw__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__&amp;reset=true','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Deutsch</a> -->
-
-          <a id="sc_gsmserveres" class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Espanol-gsmserver&amp;acid=11c8f&amp;intgroup=RXNwYW5vbC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Español</a>
-
-          <a class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Francais-gsmserver&amp;acid=2adb3&amp;intgroup=RnJhbmNhaXMtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2FpZC9Xb3JrZmxvd1Rhc2tzL0F0dGFjaG1lbnRzLzE4OTUvc2FsZXNfY2hhdC5wbmc_','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Français</a>
+<div id="livezilla_tracking" style="display:none"></div><script
+type="text/javascript">
+var script =
+document.createElement("script");script.async=true;script.type="text/javascript";var
+src =
+"http://livezilla.prosteergroup.com/server.php?a=dea1b&request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><h1><img
+src="http://livezilla.prosteergroup.com/server.php?a=dea1b&amp;request=track&amp;output=nojcrpt" 
+width="0" height="0" style="visibility:hidden;" 
+alt=""></h1></noscript>
+--><!-- http://www.LiveZilla.net Tracking Code -->
 
 
-          <a class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Portuguese-gsmserver&amp;acid=14cac&amp;intgroup=UG9ydHVndWVzZS1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Portuguese</a>
-          <a id="sc_gsmserverru" class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Russian-gsmserver&amp;acid=ece38&amp;intgroup=UnVzc2lhbi1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Русский</a>
-      <a class="offline" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=Techsupport-gsmserver&amp;acid=c7cc0&amp;intgroup=VGVjaHN1cHBvcnQtZ3Ntc2VydmVy&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Technical support</a> 
-          
-        </div>
+<script type="text/javascript" src="/cache/96c82f1be0cc76dfb64002d984eb6845.js"></script>
 
-        <div style="height:3px;line-height:3px;font-size:1px;"> </div>
-        
-        
-
-
-        <div style="height:25px;"> </div>
-
-<!-- gsmserver-right_171x500 -->
-<div id="div-gpt-ad-1377242181362-3" style="width:171px; height:500px; border: 1px solid #eee;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377242181362-3'); });
-</script>
-</div>
-
-
-            </div>
-    </div>
-    
-    <div style="background-color: #e5e5e5;">
-      <div style="height:24px;font-size:1px;">&nbsp;</div>
-      <div id="g_bottom_cont">
-        <table width="100%" border="0" celpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="188" valign="top">
-              <div id="g_bottom_left">
-      
-                <div class="b_f_b">
-                  <div align="center"><b>Sales Department:</b></div>
-                  <div class="contact_line"><div class="flag hk_flag"></div><div class="tel">Tel: +852 397 33 882</div></div>
-                  <div class="contact_line"><div class="flag usa_flag"></div><div class="tel">Tel: +1 323 7044552</div></div>
-                  <div class="contact_line"><div class="flag me_flag"></div><div class="tel">Tel: +52 55 1163 8901</div></div>
-                  <div class="contact_line"><div class="flag br_flag"></div><div class="tel">Tel: +55 61 3717 2121</div></div>
-                </div>
-
-                <div id="mail" style="text-align: center;"></div>
-                <script type="text/javascript">
-
-                      var so = new SWFObject("/_img/flash/fm.swf", "mymovie", "120", "20", "6", "#e5e5e5");
-                    so.addVariable("passiveColor", "0x343434");
-                    so.addVariable("activeColor", "0x343434");
-                    so.addVariable("maddr", "kphqBiuougtxgt0eqo");
-  
-                  so.write("mail");
-                </script>
-                    
-
-              </div>
-            </td>
-
-            <td width="154" valign="top">
-              <div class="b_f_b">
-                <b>Company Info</b><br>
-                <a href="/contacts/about_us.php">About Us</a><br>
-                <a href="/contacts/contacts.php">Contact Us</a><br>
-                <a href="/content/news/">News</a><br>
-                <a href="/gb/">Testimonials</a><br>
-                <a href="/benefits.php">Benefits</a><br>
-              </div>
-            </td>
-            <td width="154" valign="top">
-              <div class="b_f_b">
-                <b>Customer Service</b><br>
-                <a href="/contacts/payment_info.php">Payment Info</a><br>
-                <a href="/contacts/shipment.php">Shipment Info</a><br>
-                <a href="/warranty/warranty.php">Warranty Terms</a><br>
-
-                <a href="/content/information/Privacy-Policy.php ">Privacy Policy </a><br>
-                
-                  <a href="http://www.gsmserver.com/price/GsmServerPriceList_EN.zip">Price List</a><br>
-
-
-
-              </div>
-            </td>
-            <td width="154" valign="top">
-              <div class="b_f_b">
-                <b>Help</b><br>
-                <a href="/common/how_to_shop.php">How to Shop</a><br>
-
-                  <a href="/common/making_order_via_price_list.php">Order via price list</a><br>
-                  <a href="/orders/activation.php">Activation Panel</a><br>
-
-              </div>
-            </td>
-            <td width="154" valign="top">
-              <div class="b_f_b">
-                <b>Support</b><br>
-
-                <a id="sc_footer" href="javascript:void(window.open('http://livezilla.prosteergroup.com/chat.php?utm_campaign=chat&amp;utm_source=gsmserver.com&amp;utm_medium=English-gsmserver&amp;acid=f6620&amp;intgroup=RW5nbGlzaC1nc21zZXJ2ZXI_&amp;hg=Pw__&amp;hcgs=MQ__&amp;htgs=MQ__&amp;eh=aHR0cDovL2xpdmV6aWxsYS5wcm9zdGVlcmdyb3VwLmNvbS9pbWFnZXMvaGVhZGVycy9lbi1nc21zZXJ2ZXIuY29tLnBuZw__','','width=590,height=590,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Sales Chat</a><br>
-
-                <script type="text/javascript">
-                  $("sc_footer").href = $("sc_gsmservercom").href;
-                </script>
-
-                
-                <a href="/faq/faq.php">FAQ</a><br>
-
-                <a href="http://forum.gsmserver.com/">Forum</a><br>
-                <a href="/hd/">Tech Support</a>
-              </div>
-            </td>
-            <td width="156" valign="top">
-              <div class="b_f_b">
-                <b>Follow Us</b><br>
-                <a href="http://twitter.com/#!/GsmServerCom">Twitter</a><br>
-                <a href="http://www.facebook.com/gsmserver">Facebook</a><br>
-                <a href="https://plus.google.com/101333067344797485030/posts">Google+</a><br>
-                <a href="http://www.youtube.com/user/gsmservers/feed">YouTube</a><br>
-                <a href="/rss.xml">RSS</a>
-              </div>
-            </td>
-          </tr>
-        </tbody></table>
-    </div>
-
-    <div id="g_bottom">
-      <div id="g_bottom_cont2">
-       
-        <div id="g_bottom_left2">&nbsp;</div>
-
-        <div id="g_bottom_c_r">
-          <div class="g_top2_center2">&nbsp;</div>
-
-            <div id="g_bottom_right">
-               <a target="_blank" href="/content/information/PayPal-Verified.php" style="display:block; float:right;height:27px; width:112px;">&nbsp;</a>
-            </div>
-
-            <div id="g_bottom_c_r2">
-              <a target="_blank" href="/content/information/PayPal-Verified.php" style="display:block; float:right; height:61px; width:112px;">&nbsp;</a>
-
-              <a href="/contacts/payment_info.php">
-                <span title="Visa" id="pay_visa">&nbsp;</span>
-                <span title="MasterCard" id="pay_mastercard">&nbsp;</span>
-                <span title="Western Union" id="pay_westUnion">&nbsp;</span>
-                <span title="Bank transfer" id="pay_bank">&nbsp;</span>
-                <span title="MoneyGramm" id="pay_moneyGram">&nbsp;</span>
-                <span title="Moneybookers" id="pay_mbookers">&nbsp;</span>
-                <span title="PayPal" id="pay_paypal">&nbsp;</span>
-                <span title="WebMoney" id="pay_webmoney">&nbsp;</span>
-              </a>
-            </div>
-
-
-
-
-          <div id="g_bottom_r2">© 2002-2013 GsmServer Team</div>
-
-        </div>
-
-      </div>
-    </div>
-
-
-  </div>
-
-  <div id="mnFrame"></div>
-
-
-  
-<!-- меню -->
-<script src="/scripts/mnv_all_s.js?1386362838" type="text/javascript"></script>
-
-<script src="/scripts/mnv_all.js?1386362838" type="text/javascript"></script>
-
-
-
-<!--/UdmComment-->
-
-
-<script async="" type="text/javascript" src="http://mail.elbroos.com/scripts/analitics.js"></script>
-
-
-
-
-
-
-</div></div></body></HTML>
+</body></html>
