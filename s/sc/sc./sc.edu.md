@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sc.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101726id_/http%3A//www.sc.edu/about/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123060051id_/http%3A//sc.edu/about/notices/privacy) for the most accurate reproduction.*
 
 # Privacy | University of South Carolina
 
-This Privacy Statement governs the manner in which the University of South Carolina collects, uses, maintains and discloses information collected from users (each, a “User”) of the sc.edu website (“Site”). This privacy statement applies to the Site and all products and services offered by University of South Carolina. 
+This Privacy Statement governs the manner in which the University of South Carolina collects, uses, maintains and discloses information collected from users (each, a “User”) of the [sc.edu](http://www.sc.edu/) website (“Site”). This privacy statement applies to the Site and all products and services offered by University of South Carolina.
 
 **Personal identification information**
 
