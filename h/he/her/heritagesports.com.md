@@ -1,13 +1,34 @@
-> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108163532id_/http%3A//www.heritagesports.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090524id_/http%3A//heritagesports.eu/legal/privacy-policy) for the most accurate reproduction.*
 
-# Heritage Sports is the best online wagering sports book authority.
+# Privacy Policy - Heritage Sports
 
-Privacy Policy 
+**General Provisions**
 
-Our commitment: Heritage Sports is committed to providing a safe, confidential, and professional environment for its clients to enjoy sports and other events.
+This privacy policy sets out how The Website uses and protects any information that is submitted to us. We are committed to ensuring the privacy of the information collected through our site. The Website does not intend to collect information, unless you as a visitor choose to provide us the information for communication and/or providing you with ongoing updates.
 
-Our promise: Heritage Sports respects the privacy of its clients. Heritage will never give out private information received by any of its clients to any third party. Client information WILL NEVER be sold, distributed in any form, or used for any other purpose unless first approved by the client. Client's personal information is held in the strictest confidence.
+**Information Collection**
 
-Our intention: Member information is used internally to deliver the highest level of service, to improve and maintain our website, to provide a consistent and reliable player experience, and to comply with international money laundering regulations. Access to this data is restricted only to those highly trained personnel whose tasks involve customer interaction.
+Visitors of our site do not have to submit any personally identifiable information to use/view our site. The Website does not collect personally identifiable information unless visitors specifically and voluntarily provide it. Personally identifiable information may consist of, but not limited to, Name, Job Title, Company Name, Company Address, Email Address, Telephone/Mobile and Fax Numbers.
 
-Our security: Heritage Sports is equipped with state of the art hardware and software technologies to prevent unauthorized entry into our system. All private information is stored in our secure network. We perform regular security checks to ensure that our system and the information contained therein, is secure at all times. 
+**Cookies**
+
+To ensure that our site is well managed and to facilitate improved experience, cookies (text files stored in user’s browser) are used for collecting data and tracking visitors through information like IP address, domain, browser type and pages visited. Such information is used to analyze number of visitors and enable us to serve in an effective and efficient way. The cookies are not used for collecting personal information such as name, email etc. Visitors can reject cookies through browser configuration, however some part of the website may be inaccessible if cookies are blocked.
+
+**Information Use**
+
+Personal information submitted via our site is used only for communication, as intended by the visitor when submitting the information. The Website uses the information for improving your user experience.
+
+**Third Party Disclosure**
+
+The Website does not share personal information with third parties unless it is required for processing related to third party services that the Website uses for its business purpose. The Website obeys and respects international privacy laws and ensures that personal information is handled with due care as required by such regulations.
+
+**Change to this policy**
+
+The Website reserves the right to modify this privacy policy at any time. To ensure this policy remains effective and feasible, the Website shall periodically review and make changes without prior notice to its visitors. Visitors are required on their own to check for any updates made to this policy before providing personal information
+
+**Queries**
+
+If you have queries regarding the privacy while using our site, please direct them to us via phone or email.
+
+  
+
