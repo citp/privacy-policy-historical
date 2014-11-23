@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505102347id_/http%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031603id_/http%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dance Urban Radio - Capital XTRA
 
 Any information you provide about yourself to Capital XTRA will only be used in accordance with our Privacy Policy Statement. Read all about it here. 
 
-Capital XTRA is owned and operated by Global Radio UK Limited company registered in England and Wales under number 6251684 with its registered office at 30 Leicester Square, London WC2H 7LA ("Global Radio").
+Capital XTRA is owned and operated by This Is Global Limited company registered in England and Wales under number 6251684 with its registered office at 30 Leicester Square, London WC2H 7LA ("Global Radio").
 
 Any information you provide about yourself (personal information) to This Is Global Limited (Global Radio) will only be used in accordance with our Privacy Policy, detailed below.
 
