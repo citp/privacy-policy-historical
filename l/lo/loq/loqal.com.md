@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608112138id_/http%3A//www.loqal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123132953id_/http%3A//www.loqal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Ashburn Yellow Pages
+# Brooklyn Yellow Pages
 
 Effective Date: December 20, 2013
 
