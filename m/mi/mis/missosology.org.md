@@ -1,115 +1,105 @@
-> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930060856id_/http%3A//missosology.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000427id_/http%3A//missosology.org/privacy-policy) for the most accurate reproduction.*
 
-# MISSOSOLOGY - Privacy Policy
+# Privacy Policy - Missosology
 
-##  [ Privacy Policy](http://missosology.org/privacy-policy)
+* * *
 
-Details
-     Created on Tuesday, 16 October 2012 02:31 
-     Written by [Missosology](http://missosology.org/component/contact/contact/9)
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-The Missosology Group is committed to protecting the privacy of our users. Because we operate from around the world, we have taken steps to ensure that high standards of data protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Definitions**
+When ordering or registering on our site, as appropriate, you may be asked to enter your Email address or other details to help you with your experience.
 
-"The Missosology Group" comprises  Missosology.org and its subsidiaries, which together operate a number of services, including the following:
+**When do we collect information?**
 
-  *     Missosology Website (Missosology.org)
-  *     Missosology Forum (Missosology.info)
-  *     Missosology Live (live.missosology.org)
+We collect information from you when you subscribe to a newsletter or enter information on our site.
 
+**How do we use your information?**
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  
-A "user" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Missosology Group.
+**•**  To send periodic emails regarding your order or other products and services.
 
-**Collection and use of user information**
+**How do we protect visitor information?**
 
-Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.  Information is collected by the subsidiaries of the Missosology Group. 
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-In addition, when you visit any of our websites or use any of our digital applications , we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.
+We implement a variety of security measures enters, submits, or accesses their information
 
-This information is collected to help us:
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-  *     fulfil your order
-  *     manage your registration preferences
-  *     send you renewal notifications and/or service notifications
-  *     personalise web content and advertising based on your personal characteristics or preferences
-  *    ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
-  *     conduct user satisfaction surveys
+**Do we use ‘cookies’?**
 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+**We use cookies to:**
 
-And, if you allow us to*, we may also:
+**•**  Understand and save user’s preferences for future visits.
 
-  *     tell you about additional products and services
-  *   tell you about other promotional activities across The Missosology Group of subsidiaries or other subsidiaries with whom we have a business relationship
-  *     invite you to participate in market research and surveys
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
+If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
+However, you can still place orders .
 
-* Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing or by mailing us at [privacy@missosology.org](mailto:privacy@missosology.org).
+**Third Party Disclosure**
 
-We also use your information for in-house research and analysis. This helps us to:
+**Third party links**
 
-  *     improve our understanding of user needs
-  *     create marketing profiles
-  *     support strategic development
+We do not include or offer third party products or services on our website.
 
+**Google**
 
+We have not enabled Google AdSense on our site but we may do so in the future.
 
-    To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual users.
+**California Online Privacy Protection Act**
 
- **Cookies**
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
-A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites (directly or via our applications). We use information from cookies for purposes which may include:
+**According to CalOPPA we agree to the following:**
 
-  *     identifying returning users, registrants and subscribers
-  *     eliminating the need for returning users to re-enter their login details
-  *     enabling you to move more easily around our sites and applications
-  *    tracking your use of our sites to better develop our sites and applications in accordance with your requirements
-  *    building up an anonymous profile based on your browsing patterns across our sites, applications and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
+Users can visit our site anonymously
 
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
 
-You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
+Users will be notified of any privacy policy changes:
 
-You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
+**•**  Via Email
 
-By visiting an Missosology Group website, you consent to the use of cookies as explained above. Some of our websites also have a separate cookies section giving more details on the types of cookies used.
+Users are able to change their personal information:
 
-You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at http://www.cookiecentral.com.
+**•**  By emailing us
 
-Further information on the use of cookies can be found at: www.cookiecentral.com/faq.
+**Does our site allow third party behavioral tracking?**
 
-**E-mails**
+It’s also important to note that we allow third party behavioral tracking
 
-The Missosology Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Missosology Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
+**COPPA (Children Online Privacy Protection Act)**
 
-To find out more about the technologies used in these e-mails sent on our behalf, please visit http://www.doubleclick.com/privacy/index.aspx. Content and some ad services in these e-mails are provided by Missosology Group servers or by a third party.
+When it comes to the collection of personal information from children under 13, the Childrenâ€™s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nationâ€™s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect childrenâ€™s privacy and safety online.
 
-**Advertisements**
+We do not specifically market to children under 13.
 
-The Missosology Group uses Google Adsense to deliver the advertisements displayed on our websites. Google Adsense may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, Google Adsense may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use Google Adsense ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by Google Adsense, please visit http://www.doubleclick.com/privacy/index.aspx.
+**Fair Information Practices**
 
-For advertisements appearing on in our digital applications, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual users.  
-External links
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-Our websites may, from time to time, contain links to external sites. The Missosology Group is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use.
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-**Security policy**
+We will notify the users via email
 
-The Missosology Group does its utmost to protect your privacy and ensure your personal details are not misused, accidentally destroyed, lost or altered within The Missosology Group.
+**•**  Within 7 business days
 
-Occasionally we share your details with other subsidiaries who are managing data for us (eg fulfilment bureaux, database consultants etc.). They are only permitted to process your data with explicit permission from The Missosology Group, enabling them to perform the services required.  
-Transfer of personal data overseas
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the Country of your residence. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
+**Contacting Us**
 
-**Children under 13**
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-The Missosology Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
+contactus@missosology.org
 
-**Changes to this statement**
++63335108120
 
-From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here from time to time.
+Last Edited on 2014-09-11
