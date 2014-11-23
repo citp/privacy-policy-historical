@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528004414id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064322id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
@@ -49,5 +49,9 @@ You can also make a request under the Freedom of Information (Scotland) Act (FOI
   * [More about Freedom of Information](https://web.archive.org/about-us/freedom-of-information)
 
 
+
+### Suppliers' data
+
+Audit Scotland may use personal data and other information about National Library of Scotland suppliers for data matching as part of the National Fraud Initiative. See the [Suppliers' data](https://web.archive.org/about-us/privacy-statement/suppliers-data) page for details.
 
 [About us](https://web.archive.org/about-us)
