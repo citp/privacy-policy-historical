@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beltkart.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523051902id_/http%3A//www.beltkart.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beltkart.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123162829id_/http%3A//www.beltkart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
