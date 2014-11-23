@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulseway.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611073142id_/http%3A//pulseway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulseway.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123083640id_/http%3A//www.pulseway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulseway
 
@@ -6,13 +6,13 @@ This privacy policy sets out how MMSOFT Design Ltd. uses and protects any inform
 
 MMSOFT Design Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using the Pulseway solution, then you can be assured that it will only be used in accordance with this privacy statement.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at: 
-
+If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:   
 MMSOFT Design Ltd.   
-Ground Floor   
-14 Herbert Street   
-Dublin 2   
-Ireland 
+NCI Business Centre   
+Mayor Street   
+Dublin 1   
+Ireland   
+
 
 ####  Types of information collected
 
