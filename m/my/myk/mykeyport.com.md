@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykeyport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141238id_/http%3A//mykeyport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykeyport.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123091242id_/http%3A//mykeyport.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
