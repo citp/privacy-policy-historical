@@ -1,21 +1,32 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230153352id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123032120id_/http%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shooting Supplies | MidsouthShootersSupply.com
 
-Midsouth Shooters Supply takes your privacy very important. We do not sell, trade, rent or share your information. Below are our policy specifics if you care to read.
+## Privacy Policy
 
-### What we collect:
+* * *
+
+Midsouth Shooters Supply takes your privacy very important. We do not sell, trade, rent or share your information. Below are our policy specifics if you care to read. 
+
+### What We Collect:
 
 Our server in its logs records each visit. This can include but not limited to IP addresses, length of visit, referring ip and number of clicks. When placing an order you must log in, this is where we record the information you provided when you first registered e.g. name, address, phone numbers and email addresses. This is to protect what we sell and to whom we sell it to. When using our website your email address is used and the main communication is done through email as well as our promotional / marketing messages. You may opt out of the later at any time by sending email to no_email@midsouthshooterssupply.com. 
 
-### Cookies: Which ones and Why
+### Cookies: Which Ones and Why
 
-We set cookies that are necessary to operate certain features such as but not limited to user login, shopping carts,  and wish lists. Without the use of cookies we could not offer you these time saving features. 
+We set cookies that are necessary to operate certain features such as but not limited to user login, shopping carts, and wish lists. Without the use of cookies we could not offer you these time saving features. 
 
 ### Sharing Information:
 
-Only under legal reason or subpoena will we release your information to anyone not employed by Midsouth.
+Only under legal reason or subpoena will we release your information to anyone not employed by Midsouth. 
 
 ### Security:
 
-We use the Secure Socket Layer (SSL) protocol to transmit the data from your secure browsers to us. This is the industry standard and is noted by the lock, and different color bar or many other ways. One way to ensure you are in a secure area is to look at the address line and it should begin with https:// . We use Network Solution s SiteSafe to make each visit as secure as possible.
+We use the Secure Socket Layer (SSL) protocol to transmit the data from your secure browsers to us. This is the industry standard and is noted by the lock, and different color bar or many other ways. One way to ensure you are in a secure area is to look at the address line and it should begin with https:// . We use Network Solution s SiteSafe to make each visit as secure as possible. 
+
+All images and content on this website are intended for use by Midsouth Shooters Supply. Any usage or reproduction of content or images from this website is prohibited! 
+
+©2011 Midsouth Shooters Supply Company. All rights Reserved. 
+
+  
+
