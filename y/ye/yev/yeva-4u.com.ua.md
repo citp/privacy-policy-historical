@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeva-4u.com.ua privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114115id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeva-4u.com.ua privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123040517id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.*
 
 # Russian women are waiting for you
 
