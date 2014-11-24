@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084336id_/http%3A//profoto.com/int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124164659id_/http%3A//profoto.com/int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
