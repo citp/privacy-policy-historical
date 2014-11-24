@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ephifonts.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523011500id_/http%3A//www.ephifonts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ephifonts.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124125558id_/http%3A//www.ephifonts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Helvetica, Gotham, Futura and DIN Font Downloads Online
 
