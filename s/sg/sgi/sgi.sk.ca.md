@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522044208id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124143907id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
 
 # SGI - Privacy statement
 
@@ -287,8 +287,7 @@ Toronto, ON   M8Z 1N5
 ### SGI affiliates
 
 SGI CANADA Insurance Services Ltd.  
-Coachman Insurance Company  
-Insurance Company of Prince Edward Island
+Coachman Insurance Company 
 
 • • •
 
@@ -298,4 +297,4 @@ _Footnotes_
 
 
 
-Rev: 1.0 
+Rev: 1.1 
