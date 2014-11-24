@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080111id_/http%3A//www.ahealthblog.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124215506id_/http%3A//www.ahealthblog.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
+
+This blog is a collaborative blog written by a group of individuals. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+
+The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
+
+The owner(s) of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
+
+This blog does not contain any content which might present a conflict of interest.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us via our contact form
 
