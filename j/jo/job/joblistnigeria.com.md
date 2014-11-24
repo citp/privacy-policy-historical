@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091209id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124175227id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Joblistnigeria.com - Jobs in Nigeria
 
