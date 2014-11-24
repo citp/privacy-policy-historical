@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012923id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124044810id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FREE Chat Rooms - online chat rooms, local chat rooms, Chat Rooms
 
