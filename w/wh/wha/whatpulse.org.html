@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whatpulse.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625091842id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatpulse.org privacy policy that was archived on 2014-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124164701id_/http%3A//www.whatpulse.org/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head> 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"> 
@@ -57,6 +57,40 @@
 			title: ''
 		});
 		
+		var playingTweets = true;
+		var cookieDisableTwitter = wpGetCookie("WPTWITTERFEEDDISABLE");
+		if (cookieDisableTwitter == "true") {
+			playingTweets = false;
+			jQuery('#twitterfeed').hide();
+			jQuery('#pausetweets').text(" Play");
+			jQuery('#pausetweets').removeClass("fa-pause");
+			jQuery('#pausetweets').addClass("fa-play");
+			jQuery('#twitterfeed').twitterSearch.pauseFeed(true);
+		}
+
+		jQuery('#pausetweets').click(function(event) {
+			if (playingTweets == true) {
+				jQuery('#twitterfeed').hide("slow");
+				jQuery('#pausetweets').text(" Play");
+				jQuery('#pausetweets').removeClass("fa-pause");
+				jQuery('#pausetweets').addClass("fa-play");
+				jQuery('#twitterfeed').twitterSearch.pauseFeed(true);
+				wpSetCookie("WPTWITTERFEEDDISABLE", "true", 100);
+				playingTweets = false;
+			}
+			else {
+				jQuery('#twitterfeed').show("slow");
+				jQuery('#pausetweets').text(" Pause");
+				jQuery('#pausetweets').removeClass("fa-play");
+				jQuery('#pausetweets').addClass("fa-pause");
+				jQuery('#twitterfeed').twitterSearch.pauseFeed(false);
+				wpSetCookie("WPTWITTERFEEDDISABLE", "false", 100);
+				playingTweets = true;
+			}
+			
+			event.preventDefault();
+		});
+		
 		// lazy image loading
 		jQuery("img.lazy").lazyload({effect: 'fadeIn', placeholder: ''});
 		// forum posts ticker
@@ -73,9 +107,7 @@
 		<div id="rt-page-surround"> 
 			<div class="rt-container"> 
 				<div class="rt-container-bg"> 
-					<div id="rt-drawer"> 
-						<div class="clear"></div> 
-					</div> 
+					
 					
 					<div id="rt-header">
 
@@ -88,43 +120,33 @@
 						</div>
 						
 												
-											<div class="rt-grid-2 rt-omega" style="position: absolute; top: 30px; right: 85px; z-index: 2;">
-							<div class="rt-block">
-								<div class="module-content">
-									<p align="right">
-										</p><form action="/search/" method="get">
-											<input id="whatpulse_search_str" name="str" type="text" class="inputbox" placeholder=" Search...">
-										</form>
-									<p></p>
-									<div class="clear"></div>
-								</div>
-							</div>
+											<div class="rt-grid-2 rt-omega rt-block" style="position: absolute; top: 30px; right: 65px; z-index: 2;">
+
+							<p align="right">
+								</p><form action="/search/" method="get">
+									<input id="whatpulse_search_str" name="str" type="text" class="inputbox" placeholder=" Search...">
+								</form>
+							<p></p>
+
 						</div>
 						
-																			<div class="rt-grid-12 rt-omega" style="position: absolute; top: -35px; left: 740px; z-index: 2;">
-							<div class="flushbottom nomarginbottom">
-								<div class="rt-block">
-									<p align="right">
-										</p><div><a href="#" class="fb_button fb_button_large" onclick="fbLogin('https://www.facebook.com/dialog/oauth?client_id=280865548660110&amp;redirect_uri=http%3A%2F%2Fwhatpulse.org%2Ffacebook%2Flogin%2F&amp;state=ce59de7b45bf2406ce2a4548eddfac78&amp;scope=email%2C+user_birthday%2C+user_location&amp;display=popup'); return false;"><span class="fb_button_text">Login with Facebook</span></a></div>
-									<p></p>
-								</div>
-							</div>
+																		<div class="rt-grid-12 rt-omega rt-block flushbottom nomarginbottom" style="position: absolute; top: -35px; left: 795px; z-index: 2;">
+							<p align="right">
+								</p><div><a href="#" class="fb_button fb_button_large" onclick="fbLogin('https://www.facebook.com/dialog/oauth?client_id=280865548660110&amp;redirect_uri=http%3A%2F%2Fwhatpulse.org%2Ffacebook%2Flogin%2F&amp;state=b1f93ee1c737c170170a048912a69947&amp;scope=email%2C+user_birthday%2C+user_location&amp;display=popup'); return false;"><span class="fb_button_text">Login with Facebook</span></a></div>
+							<p></p>
 						</div>
-																								<div class="clear"></div>
+																					<div class="clear"></div>
 					</div>
 				
 						
 					
-									<div id="rt-navigation"><div id="rt-navigation2"> 
-						
+									<div id="rt-navigation">
 						<div class="rt-grid-12 rt-alpha"> 
-					    	<div class="rt-block menu-block"> 
-						<div class="rt-fusionmenu"> 
-								<div class="rt-menubar"> 
-									<ul class="menutop level1 sf-menu" id="wp-menu">
-<li class="root " style="width: 100px"><a class="item bullet orphan" href="/"><span>Home</span></a></li>
-<li class="root " style="width: 150px"><a class="item bullet orphan" href="/downloads/"><span>Downloads</span></a></li>
-<li class="root parent " style="width: 150px"><a class="item bullet daddy" href="/stats/"><span>Statistics<span class="daddyicon"></span></span></a>
+							<div class="rt-fusionmenu"> 
+								<ul class="menutop level1 sf-menu" id="wp-menu">
+<li class="root " style="width: 110px"><a class="item bullet orphan" href="/"><span>Home</span></a></li>
+<li class="root " style="width: 151px"><a class="item bullet orphan" href="/downloads/"><span>Downloads</span></a></li>
+<li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/stats/"><span>Statistics<span class="daddyicon"></span></span></a>
   <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
     <ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/stats/apps/"><span>Applications</span></a></li>
@@ -153,16 +175,16 @@
 <li class=""><a class="item bullet daddy " href="/stats/overall/"><span>Overall<span class="daddyicon"></span></span></a>
   <div class="fusion-submenu-wrapper level3" style="width:180px;"> 
     <ul class="level3" style="width:180px;">
-<li class=""><a class="item bullet orphan " href="/stats/overall/numbers/"><span>Project numbers</span></a></li>
+<li class=""><a class="item bullet orphan " href="/stats/overall/numbers/"><span>Project Numbers</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/overall/signups/"><span>Signups</span></a></li>
-<li class=""><a class="item bullet orphan " href="/stats/overall/map/"><span>Map of top countries</span></a></li>
+<li class=""><a class="item bullet orphan " href="/stats/overall/map/"><span>Map Overlay</span></a></li>
 </ul>   <div class="drop-bot"></div>
   </div>
  </li>
 </ul>   <div class="drop-bot"></div>
   </div>
  </li>
-<li class="root parent " style="width: 150px"><a class="item bullet daddy" href="/support/"><span>Support<span class="daddyicon"></span></span></a>
+<li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/support/"><span>Support<span class="daddyicon"></span></span></a>
   <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
     <ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/kb/"><span>Help Center</span></a></li>
@@ -173,25 +195,21 @@
 </ul>   <div class="drop-bot"></div>
   </div>
  </li>
-<li class="root parent " style="width: 150px"><a class="item bullet daddy" href="/my/premium"><span>Premium<span class="daddyicon"></span></span></a>
+<li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/my/premium"><span>Premium<span class="daddyicon"></span></span></a>
   <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
     <ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/premium/"><span>What is Premium?</span></a></li>
 </ul>   <div class="drop-bot"></div>
   </div>
  </li>
-<li class="root " style="width: 150px"><a class="item bullet orphan colorbox_login" href="/my/login-mini/"><span>Login/Register</span></a></li>
+<li class="root " style="width: 123px"><a class="item bullet orphan colorbox_login" href="/my/login-mini/"><span>Login</span></a></li>
+<li class="root " style="width: 123px"><a class="item bullet orphan" href="/register/"><span>Register</span></a></li>
 </ul>
-								</div> <!-- end rt-menubar -->
 							</div>
-								<div class="clear"></div> 
-
-							</div> <!-- end rt-block menu-block -->
+							<div class="clear"></div>
 						</div> <!-- end rt-grid-12 rt-alpha -->
-					
 						<div class="clear"></div> 
-					</div> <!-- end rt-navigation2 -->
-				</div>  <!-- end rt-navigation -->
+					</div>  <!-- end rt-navigation -->
 								
 								
 				
@@ -222,6 +240,7 @@
 											<div class="rt-articletitle"> 
 												<div class="module-title">
 													<h1 class="title">Privacy Policy</h1>
+													
 												</div>
 											</div>
 																						<div class="module-content">
@@ -304,80 +323,74 @@
 </div> <!-- end rt-body-surround -->		</div> <!-- end rt-container-content -->
 
 		<div id="rt-footer-surround"> 
-			<div id="rt-footer"> 
-				<div class="rt-grid-4 rt-alpha"> 
-					<div class="nopaddingleft"> 
-                    	<div class="rt-block"> 
-							<div class="module-title"><h2 class="title">Latest forum posts</h2></div> 
-                			<div class="module-content"> 
-	
-								<div id="latest_forum_posts">
-								</div>
-								
-                				<div class="clear"></div> 
-							</div> 
-            			</div> 
-                	</div> 
-				</div> 
-				<div class="rt-grid-4"> 
-					<div class="rt-block"> 
-						<div class="module-title"><h2 class="title">People Tweeting</h2></div> 
-                		<div class="module-content"> 
+			<div id="rt-footer">
+				
+				<div class="rt-grid-4 rt-alpha rt-block" style="padding-left: 25px"> 
 
-							<div id="twitterfeed" class="twitter" title="Mouse away to resume scrolling tweets" style="height: 250px; width: 200px"></div>
-							
-							<div class="clear"></div> 
-						</div> 
-		        </div> 
-			</div> 
-			<div class="rt-grid-4 rt-omega"> 
-				<div class="nopaddingright nopaddingbottom nomarginbottom fp-footer-gallery"> 
-					<div class="rt-block"> 
-						<div class="module-title"><h2 class="title">Get Social!</h2></div> 
-							<div class="module-content"> 
-								<p>
-									<a href="http://twitter.com/whatpulse" target="_blank">
-										<img data-original="http://amcdn.whatpulse.org/images/icons/twitter.png" width="45px" class="lazy" alt="Follow us on twitter!" border="0">
-									</a>
-									&nbsp;&nbsp;&nbsp;
-									<a href="https://www.facebook.com/whatpulseofficial" target="_blank">
-										<img data-original="http://amcdn.whatpulse.org/images/icons/facebook.png" width="45px" class="lazy" alt="Facebook me" border="0">
-									</a>
-									&nbsp;&nbsp;&nbsp;
-									<a href="http://www.youtube.com/OfficialWhatPulse" target="_blank">
-										<img data-original="http://amcdn.whatpulse.org/images/icons/youtube.png" width="45px" class="lazy" alt="YouTube channel" border="0">
-									</a>
-									
-									&nbsp;&nbsp;&nbsp;
-									<a href="https://google.com/+WhatpulseOrg" target="_blank">
-										<img data-original="http://amcdn.whatpulse.org/images/icons/googleplus.png" class="lazy" width="45px" alt="Google Plus" border="0">
-									</a>
-									
-								</p>
-      							<div class="clear"></div> 
-							</div> 
-						</div> 
+					<div class="module-title"><h2 class="title">Latest forum posts</h2></div> 
+					<div class="module-content"> 
+	
+						<div id="latest_forum_posts">
+						</div>
+								
+						<div class="clear"></div> 
 					</div> 
+				</div>
+				
+				<div class="rt-grid-4 rt-block"> 
+					<div class="module-title"><h2 class="title">People Tweeting</h2></div> 
+					<div class="module-content"> 
+
+						<div id="twitterfeed" class="twitter" title="Mouse away to resume scrolling tweets" style="height: 250px; width: 200px"></div>
+						<div style="padding: 5px"><a href="#" class="fa fa-pause" id="pausetweets" onclick="return false"> Pause</a></div>
+						<div class="clear"></div> 
+					</div> 
+				</div>
+				
+				<div class="rt-grid-4 rt-omega rt-block"> 
+				
+					<div class="module-title"><h2 class="title">Get Social!</h2></div> 
+					<div class="module-content"> 
+						<p>
+							<a href="http://twitter.com/whatpulse" target="_blank">
+								<img data-original="http://amcdn.whatpulse.org/images/icons/twitter.png" width="45px" class="lazy" alt="Follow us on twitter!" border="0">
+							</a>
+							&nbsp;&nbsp;&nbsp;
+							<a href="https://www.facebook.com/whatpulseofficial" target="_blank">
+								<img data-original="http://amcdn.whatpulse.org/images/icons/facebook.png" width="45px" class="lazy" alt="Facebook me" border="0">
+							</a>
+							&nbsp;&nbsp;&nbsp;
+							<a href="http://www.youtube.com/OfficialWhatPulse" target="_blank">
+								<img data-original="http://amcdn.whatpulse.org/images/icons/youtube.png" width="45px" class="lazy" alt="YouTube channel" border="0">
+							</a>
+									
+							&nbsp;&nbsp;&nbsp;
+							<a href="https://google.com/+WhatpulseOrg" target="_blank">
+								<img data-original="http://amcdn.whatpulse.org/images/icons/googleplus.png" class="lazy" width="45px" alt="Google Plus" border="0">
+							</a>
+									
+						</p>
+						<div class="clear"></div> 
+					</div> 
+					
 				</div> 
 				<div class="clear"></div> 
-			</div> 
+			</div>
+			
 			<div id="rt-copyright"> 
-				<div class="rt-grid-4 rt-alpha"> 
-    	    		<div class="rt-block"><span class="copytext">Designed by <a href="http://www.rockettheme.com/" target="_blank">RocketTheme</a> - © 2003-2014 WhatPulse</span> </div> 
+				<div class="rt-grid-4 rt-alpha rt-block"> 
+					<span class="copytext">Designed by <a href="http://www.rockettheme.com/" target="_blank">RocketTheme</a> - © 2003-2014 WhatPulse</span> 
 				</div>	 
-				<div class="rt-grid-4"> 
-		    	    <div class="rt-block totop-block"> <a href="#" id="wp-totop"><span class="totop-desc">Back to Top</span></a></div> 
+				<div class="rt-grid-4 rt-block totop-block"> 
+					<a href="#" id="wp-totop"><span class="totop-desc">Back to Top</span></a>
 				</div> 
-				<div class="rt-grid-4 rt-omega"> 
-		    	    <div class="rt-block"> 
-						<div id="rt-block">
-							<span class="copytext">
-								<a href="/pages/about/">About Us</a> - <a href="/pages/privacy/">Privacy</a> - 
-								<a href="/pages/tos/">Terms</a> - <a href="/kb/">Help Center</a>
-							</span>
-							<span class="copytext">All times are in <span id="disptz">2014-06-25</span>. Click <a href="/pages/change/timezone">here</a> to change.</span>
-						</div> 
-					</div> 
+				<div class="rt-grid-4 rt-omega rt-block"> 
+					<span class="copytext">
+						<a href="/pages/about/">About Us</a> - <a href="/pages/privacy/">Privacy</a> - 
+						<a href="/pages/tos/">Terms</a> - <a href="/kb/">Help Center</a>
+					</span>
+					<span class="copytext">All times are in <span id="disptz">2014-11-24</span>. Click <a href="/pages/change/timezone">here</a> to change.</span>
+					
 				</div> 
 				<div class="clear"></div> 
 			</div> 
@@ -414,8 +427,8 @@ jQuery('#disptz').timezone({
 	Memory: 4.50MB
 	
 	SQL time: 0.0000008
-	PHP time: 0.2888298
-	total time: 0.2888298
+	PHP time: 0.2363888
+	total time: 0.2363888
 	
 -->
  
