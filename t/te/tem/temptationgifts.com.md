@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619180512id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124191629id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | TemptationGifts.com
-
-[Help & FAQs](http://www.temptationgifts.com/help-faqs)   |    [UK Delivery](http://www.temptationgifts.com/uk-delivery)   |   [International Delivery](http://www.temptationgifts.com/international-delivery)   |   [Returns Policy](http://www.temptationgifts.com/returns-policy)   |   [Privacy & Cookies](http://www.temptationgifts.com/privacy-cookies)   |   [Full Ts & Cs](http://www.temptationgifts.com/terms-conditions)
 
 Temptation Gifts prides itself on providing exceptional customer service online, just as we do in our stores. You can find helpful and useful information on these pages, and you can always take a look at what other customers have said about us on our [Customer Comments](http://www.temptationgifts.com/customer-comments) page.
 
@@ -40,7 +38,7 @@ We also use cookies to provide a remarketing service through Google Adwords, whi
 
 You can easily change the way cookies are handled on your computer by adjusting the cookie settings within your internet browser. It is possible to manage which websites are allowed to create cookies on your computer as well as view or delete cookies that have already been stored.
 
-There are many different internet browsers so we aren't able to give instructions on how to change the privacy and cookie settings in all of them, but we've provided links to the websites of the most popular browsers below. Please note: Blocking all cookies from TemptationGifts.com will prevent the Shopping Cart from functioning correctly and you will be unable to place an order through the website. You can still place an order over the phone with our Customer Service team on 01494 790420.
+There are many different internet browsers so we aren't able to give instructions on how to change the privacy and cookie settings in all of them, but we've provided links to the websites of the most popular browsers below. Please note: Blocking all cookies from TemptationGifts.com will prevent the Shopping Cart from functioning correctly and you will be unable to place an order through the website. You can still place an order over the phone with our Customer Service team on 01494 790424.
 
 Microsoft Internet Explorer 9-11 - <http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11>
 
