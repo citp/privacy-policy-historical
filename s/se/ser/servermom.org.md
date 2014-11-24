@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the servermom.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619235715id_/http%3A//www.servermom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servermom.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174839id_/http%3A//www.servermom.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ServerMom
+# Privacy Policy - ServerMom
 
 **Privacy Notice:** Please read our privacy policy carefully..
 
