@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the watchserie.ch privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119015720id_/http%3A//watchserie.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchserie.ch privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124060309id_/http%3A//watchserie.ch/privacy-policy) for the most accurate reproduction.*
 
-# Watch Privacy Policy online free | Watch Serie Online free, Hdtv episodes - Watch Serie
-
-Watch Privacy Policy Online
+# Privacy Policy - watchserie
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
@@ -21,6 +19,6 @@ Your personally identifiable information is kept secure. Only authorized staff o
 Privacy Contact Information  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: watchserie[at] gmail [dot] com
+By e-mail: contactmeowner[at] gmail [dot] com
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
