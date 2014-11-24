@@ -1,112 +1,165 @@
-> *The following text is extracted and transformed from the westlaw.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114508id_/http%3A//web2.westlaw.com/events/tracking.aspx%3Ftf%3D90%26tc%3D17%26redirectto%3Dhttp%253A%252F%252Fwest%252Ethomson%252Ecom%252Fprivacy%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174450id_/http%3A//web2.westlaw.com/events/tracking.aspx%3Ftf%3D90%26tc%3D17%26redirectto%3Dhttp%253A%252F%252Fstore%252Ewestlaw%252Ecom%252Flegal%252Dnotices%252Fwestlaw%252Fprivacy%252Fdefault%252Easpx) for the most accurate reproduction.*
 
-# West Privacy Policy–Law Books and Legal Information–West
+# Westlaw Classic Online Privacy Statement | Legal Solutions
 
-West, a Thomson Reuters business, is committed to fair information practices. West respects the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. 
+### SCOPE
 
-In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. We will not disclose it to any person or organization outside Thomson Reuters, except as described in this Privacy Policy. 
+Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by Thomson Reuters and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
 
-To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. Here, you will learn what personal identifying information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. 
+This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
-## Information We Collect and How We Use It
+### HIGHLIGHTS
 
-West collects certain information from and about its users three ways: from our Web server logs, with cookies, and directly from the user. 
+#### What personal information is collected and how is that information used?
 
-Web server logs: When you visit our West websites, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
-
-  1. Your Internet protocol address
-  2. What kind of browser or computer you use
-  3. The number of links you click within the site
-  4. The state or country from which you accessed the site
-  5. The date and time of your visit
-  6. The name of your Internet service provider
-  7. The Web page you linked to our site from
-  8. The pages you viewed on the site
+  * We collect information about our users in three ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web server logs, and through cookies. 
+  * We use the information primarily to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you. 
+  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
 
 
-Cookies: Our websites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). This is used to save your preferences and login information, and provide personalized functionality. We use third-party advertising technology to provide you with information about our products when you visit this website. This technology uses information derived from unique visits and page views on the site to identify product promotions that may be of interest to you. In order to provide you with relevant promotions, a unique third-party cookie or cookies may be placed on your browser. To opt out of this service, please call West Customer Service at 1-800-328-4880. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our websites. 
+More Details »
 
-Personal information provided by the user: On some of our websites, visitors can register to purchase products or services, receive personalized content, and participate in surveys or contests. When you register, we will ask you for some personal information. 
+#### How is my personal information protected?
 
-If you're purchasing a product, we'll request financial information (e.g., What is your credit card number?). Any financial information we collect is used only to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. 
-
-For other types of registrations, we will ask for your name, address, email address, or telephone number. We may then contact you with information about other West products and services. 
-
-Finally, you may be asked to disclose personal information to us so that we can provide assistance and information to you. For example, we may collect personal information from you (such as an email address, system information, and problem descriptions) in order to provide online technical support and troubleshooting. 
-
-If you don't want to receive promotional materials from West or our marketing partners, you can opt out at any time. You simply need to update your preferences with each West service to which you are registered. Here's how: 
-
-  * FindLaw & West Legal Directory: send an email message to [ wld.update@thomson.com](mailto:wld.update@thomson.com) Include your name and contact information, and a message saying you'd like to stop receiving promotional materials
-  * West and Westlaw: update your preferences on [ this site](https://web.archive.org/store/promotions/newsletterssignin.aspx)
-  * West LegalEdcenter: update your preferences on [ this site ](http://westlegaledcenter.com/home/homepage.jsf)
+  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. 
+  * We store the information about you in a data center with restricted access and appropriate monitoring.
+  * We use intrusion detection and virus protection software. 
+  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
 
 
 
-If you have questions about opting out, send an email message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com). 
+More Details »
 
-## More Details About Information We Collect on our Web Sites
+#### Who has access to the personal information?
 
-Westlaw: Information about Westlaw subscribers and their Westlaw usage is maintained in a secure environment. This information is not shared with third parties for marketing purposes. West does not disclose any information about any subscriber's usage of Westlaw, except to enforce the terms of our subscriber agreements or as required by law. 
-
-FindLaw Public Forums and West Legal Directory: Some West websites (such as www.findlaw.com) make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
-
-Additionally, West offers legal professionals the ability to provide personal information for inclusion in the [West Legal Directory (WLD)](http://www.profileupdate.findlaw.com/) If you submit your information, know that: 
-
-  * It must be accurate, complete, and current. It will be distributed to third parties in multiple formats (including online), and you will not be compensated by West in any way for its use
-  * West has no control over how third parties use your profile information, and these third parties may contact you for any purpose, including marketing
+  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement.
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. 
 
 
 
-Visit the [FindLaw Privacy Policy ](http://findlaw.com/privacy/) for information on terms of service. 
+More Details »
 
-West LegalEdcenter: West's online Continuing Legal Education (CLE) service, West LegalEdcenter, collects personal identification information and tracks all site usage. West LegalEdcenter also provides a discussion forum and interactivity features that use personal identification information. 
+#### How may I correct, amend, or delete my personal information, or update my preferences?
 
-If you view our CLE content, West LegalEdcenter is obligated to pass along your name, attorney identification number, and contact information to third-party content providers and some state accreditation agencies. They may contact you as a result. 
-
-West LegalEdcenter also may provide summary statistics about our customers' interests and preferences, products sold, traffic patterns, and related site information to reputable third parties. These statistics do not include personal identification information; they are used only to enhance the design of our website and customize new product offerings to our customers. For more information, including the Click-Wrap license agreement, please see the [ West LegalEdcenter Terms and Conditions](http://westlegaledcenter.com/misc/terms.jsf) statement. 
-
-Public Records, Including Social Security Numbers and Credit Histories:  
-Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/about/privacy/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an email message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com). 
-
-## How We Protect Your Information
-
-West uses technical security measures to prevent the loss, misuse, and alteration of information under our control.
-
-For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. [Learn more](https://web.archive.org/web/20090617172756id_/http://west.thomson.com/about/privacy/ssl.aspx) about SSL. 
-
-## Who Has Access to the Information?
-
-West will share your personal data in four ways: 
-
-  * As required by law, in a matter of public safety or policy, or as needed in connection with the transfer of other business assets. In compliance with U.S. law, West does not share information with any unaffiliated third parties for marketing purposes unless you expressly ask us to do so
-  * With other Thomson businesses
-  * With agents and contractors who use it on West's behalf or in connection with their relationship with us. For example, if you register for a contest, the company that manages the contest for us will have access to your personal data
-  * In the case of continuing legal education classes from West LegalEdcenter, West will share your class credit information with Mandatory Continuing Legal Education regulators and content providers who track online continuing legal education usage
+  * You may cancel your registration or update your preferences at any time. 
+  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
+  * If you have any additional questions or concerns related to this statement and/or our practices, email us at [westlaw.privacypolicy@thomsonreuters.com](mailto:westlaw.privacypolicy@thomsonreuters.com), or mail your request to Online Marketing at 610 Opperman Drive, D5-N982, Eagan, MN 55123-1396 
 
 
 
-## Links to Other Companies' Sites
+More Details »  
+Back to top »
 
-Our websites contain links to sites maintained by companies that are not affiliated with West. We are not responsible for the privacy practices or the content of those sites, and we encourage you to use caution when visiting them. In particular, we recommend you view the privacy policy posted on each site. 
+### FULL PRIVACY STATEMENT
 
-For users of Microsoft Virtual Earth mapping features available on Westlaw, please refer to the [Microsoft Online Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=21970) on the Microsoft site. 
+#### WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DO WE USE IT? 
 
-## How to Correct Inaccuracies
+We collect information about our users in three ways: directly from the user, from our web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
-If you've registered with our websites, you can access and update your information online using these links:
+#### User-Supplied Information
 
-  * [FindLaw](http://www.findlaw.com/) & West Legal Directory
-  * [lawschool.westlaw.com and The West Education Network (TWEN)](http://lawschool.westlaw.com/)
-  * [West](http://west.thomson.com/) and [Westlaw](http://westlaw.com/)
-  * [West LegalEdcenter](http://westlegaledcenter.com/)
+When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) as described below.
+
+  * **FindLaw promotions:** Email [wld.update@thomsonreuters.com](mailto:wld.update@thomsonreuters.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
+  * **Legal Solutions book/CD-ROM promotions:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **Westlaw promotions:**[Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **West LegalEdcenter promotions:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **Free newsletters:**[Update your preferences ](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
 
 
 
-## Privacy Policy Changes
+If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
 
-If our information practices change in a significant way, we will post and highlight the policy changes. 
+Some Thomson Reuters websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
 
-## Questions?
+Additionally, Thomson Reuters offers legal professionals the ability to provide personal information for inclusion in the FindLaw Lawyer Directory. If you submit your information, know that: 
 
-Please send an email message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com)    
+  * It must be accurate, complete, and current. It will be distributed to third parties in multiple formats (including online), and you will not be compensated by Thomson Reuters in any way for its use. 
+  * Thomson Reuters has no control over how third parties use your profile information; these third parties may contact you for any purpose, including marketing. 
+
+
+
+#### Web server logs
+
+When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
+
+  * Your unique Internet protocol address
+  * The name of your unique Internet service provider 
+  * The city, state, and country from which you access our website 
+  * The kind of browser or computer you use 
+  * The number of links you click within the site 
+  * The date and time of your visit 
+  * The web page from which you arrived to our site 
+  * The pages you viewed on the site
+  * Certain searches/queries that you conducted via our website(s) 
+
+
+
+The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use, and improve the user's experience.
+
+#### Cookies 
+
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won't have to reenter them each time you visit.
+
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You should understand that some features of many sites may not function properly if you don't accept cookies.
+
+#### Third Party Services
+
+We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+
+Back to top »
+
+#### HOW DOES THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.**
+
+Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement.
+
+Back to top »
+
+#### WHO HAS ACCESS TO THE PERSONAL INFORMATION?
+
+We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
+
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
+  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
+
+
+
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+
+We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. For example, if you view our Continuing Legal Education (CLE) content, West LegalEdcenter is obligated to pass along your name, attorney identification number, and contact information to third-party content providers and some state accreditation agencies. They may contact you as a result. 
+
+We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
+
+Your access to some of our services and content may be password protected, such as via OnePass. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+
+Back to top »
+
+#### HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
+
+You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
+
+  * **FindLaw promotions:** Email [wld.update@thomsonreuters.com](mailto:wld.update@thomsonreuters.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
+  * **Legal Solutions book/CD-ROM promotions:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **Westlaw promotions:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **West LegalEdcenter promotions:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+  * **Free newsletters:** [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=NEWSLETTERS)
+
+
+
+#### QUESTIONS?
+
+If you have any additional questions or concerns related to this statement and/or our practices, please email us at [westlaw.privacypolicy@thomsonreuters.com](mailto:westlaw.privacypolicy@thomsonreuters.com).
+
+#### PUBLIC RECORDS PRIVACY STATEMENT
+
+Please review the [Privacy and Public Records Policy Statement](https://web.archive.org/about/legal-notices/privacy/records) to learn about the kinds of public records, including social security numbers and credit histories, Thomson Reuters Westlaw gathers and makes available via certain of its restricted sites. If you have further questions, please send an email message to [westlaw.privacypolicy@thomsonreuters.com](mailto:westlaw.privacypolicy@thomsonreuters.com).
+
+#### PRIVACY STATEMENT CHANGES
+
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 03-27-13.
+
+Back to top »
