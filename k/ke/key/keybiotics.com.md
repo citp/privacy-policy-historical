@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybiotics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055741id_/http%3A//keybiotics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybiotics.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124024118id_/http%3A//keybiotics.com/privacy.html) for the most accurate reproduction.*
 
 # Keybiotics, 14 strains, 37.5 billion CFUs
 
