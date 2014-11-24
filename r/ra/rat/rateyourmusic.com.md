@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401071720id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124235804id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Rate Your Music
 
