@@ -1,28 +1,47 @@
-> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230832id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124221221id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Welcome to Phlearn’s website! The use of our website, [www.phlearn.com](http://www.phlearn.com/) and our tutorials (collectively, the “Services”) is governed by our terms and conditions of use and the following privacy policy (“Legal Notices”). Our Services are provided by Phlearn, LLC, an Illinois limited liability company. By using our Services, whether you are a registered user or not, you expressly agree to these Legal Notices which are provisioned to protect both you and us.
 
-    ****PHLEARN.COM WEBSITE PRIVACY POLICY****
+Information Collected from Users
 
-This PRIVACY POLICY is to inform you, the visitor of [www.phlearn.com](http://www.phlearn.com/) (the “Web Site”) about the policies for collection and use of personally identifiable information on the Web Site, which is owned solely by PHLEARN, LLC. (“PHLEARN”). Sites which are linked to the Web Site may have different policies; please review the privacy policy notices on those sites for details. PHLEARN is always respectful about the privacy concerns of the visitors to the Web Site. As a general policy, no personal information is automatically collected from visitors to the Web Site. The personal information collected through the Web Site will be used solely to allow you to participate in the Web Site activities for which the information is collected.
+We collect information from you in two ways: 1) some personal information is gathered when you register and create an account to use our Services; and 2) some information is collected automatically when you use our Services, such as your Internet Protocol address, certain webpages that you visited, browser type and settings, the date and time of your use, how you used our Services, and cookie data.
 
-While you can visit the Web Site without providing us any personal information, we may be required to provide certain forms of personal information for the services provided by PHLEARN to function properly, including, but not limited to, your name, age, sex, address, telephone number and email address. For example, we may ask you for your physical address or email address if you make a purchase or if we hold contests which would require you to provide your name, sex and address and/or contact information. Further, personal information collected in order to participate in bulletin boards or chat rooms is also collected for the purpose of maintaining Site integrity and security and may be used to take action against visitors who post inappropriate material, harass other visitors, or otherwise abuse the activity.
+Generally, we use this information to: 1) remind us who you are and to access your account information (stored on our computers) in order to deliver to you better, more personalized Services; 2) estimate the size of our user community; and 3) measure certain traffic patterns, and your visiting patterns in the aggregate.
 
-Even if you do not provide us with personal information, your visits to the Web Site may allow us to collect such non-personal information as the type of your computer operating system, your browser and your Internet service provider. In addition, when you visit the Web Site, we may store some information in the form of a “Cookie” on your computer. Most Internet browsers allow you to erase Cookies from your hard drive, block Cookies, or receive word before a Cookie is stored. Please refer to your browser instructions to learn more about these functions. Other use of this information may include internal review of the number of visitors to the Web Site but only in an aggregate and non-personally-identifiable form.
+Information we Share with Third Parties
 
-We will collect such information only if you provide it to us voluntarily. If you provide personal information, we will not give or sell your personal information to third parties unless we disclose that intention to you at the time of collecting your personal information. We may, however, provide aggregated information about the Web Site users as a whole, not as individuals, to third parties for certain marketing, advertising or other reasonable purposes.
+As a general rule, we will not share or otherwise disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as we believe in good faith that the law requires it or under the following circumstances: 1) under confidentiality agreement, we may match user information with third party data; and 2) we may disclose aggregated user statistics (for example, 45% of our users are female) in order to describe our Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-PHLEARN bears no responsibility for any action or policies of any third parties who collect any information visitors may disclose on the bulletin boards, communication areas or other public forums, if any, on the Web Site.  Further, PHLEARN bears no responsibility once you leave the Site by clicking on any of the links contained within the Web Site.
+Sharing by You
 
-If the Web Site requests credit card information for payment purposes, PHLEARN will take all commercially reasonable steps to protect that information by establishing a secure connection with your web browser.
+You will have the ability to share your User Content with another user(s). If you share your User Content with anyone, we shall have no liability to you (or anyone you share your User Content). We will not make any User Content that you keep private and do no share available to any third party except to a third party authorized by you to access such information or if the law requires.
 
-To maintain the accuracy of personal information you provide us, please notify us of any changes you wish us to make. To update or remove your personal information from our files, you can contact us by sending an email to info@phlearn.com.  Include your name, address and email address in the message. We will use reasonable efforts to make the changes.
+Information You Generate, Submit and/or Post
 
-PHLEARN.COM “KIDS” NOTICE
+You are solely responsible for the information you generate, submit and/or post on our website using our Services (as outlined in our Terms and Conditions of Use). Phlearn assumes no liability for the information you generate, submit and/or post on our website using our Services.
 
-PHLEARN will not solicit and does not intend to collect personal information from people under eighteen (18) years of age. We will specifically instruct people under eighteen (18) not to submit personal information on the Web Site. If a person under eighteen (18) provides us with personal information and that person’s parent or guardian wants it removed from our records, the parent or guardian should contact us by sending an email to info@phlearn.com. We will use reasonable efforts to delete the person’s information from our existing files. For additional information about parental control tools, please consult the “Consumer Assistance” page of the Direct Marketing Association home page (www.the-dma.org).
+Accessing Your Personal Information
+
+You may edit your personal account information with Phlearn at any time by using your unique identifier and password.
+
+Protecting Your Information
+
+Your personal account information with Phlearn is password protected so that you and only you have access to this personal information and the User Content therein. We recommend that you do not disclose your unique identifier or password to anyone. Also remember to sign out of your account and close your browser window when you have finished using our Services. This is to ensure that others cannot access your personal information or User Content.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online Services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+For Additional Information
+
+If you have any questions regarding our Legal Notices, please contact info@phlearn.com.
+
+IF YOU DO NOT AGREE TO ALL OF OUR LEGAL NOTICES, YOU MUST NOT USE OUR WEBSITE OR OUR SERVICES. BY USING OUR WEBSITE AND OUR SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND OUR LEGAL NOTICES AND YOU AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS.
+
+### PHLEARN.COM “KIDS” NOTICE
+
+PHLEARN will not solicit and does not intend to collect personal information from people under eighteen (18) years of age. We will specifically instruct people under eighteen (18) not to submit personal information on the Web Site. If a person under eighteen (18) provides us with personal information and that person’s parent or guardian wants it removed from our records, the parent or guardian should contact us by sending an email to [info@phlearn.com](mailto:info@phlearn.com). We will use reasonable efforts to delete the person’s information from our existing files. For additional information about parental control tools, please consult the “Consumer Assistance” page of the Direct Marketing Association home page ([www.the-dma.org).](http://www.the-dma.org/)
 
 PHLEARN reserves the right to change this Privacy Policy at any time but will use reasonable efforts to post a notice of such modifications within the Web Site.
 
-CONTACT US: For questions or comments regarding our Privacy Policy and/or the Web Site, please send an email to info@phlearn.com.
+CONTACT US: For questions or comments regarding our Privacy Policy and/or the Web Site, please send an email to [info@phlearn.com](mailto:info@phlearn.com).
