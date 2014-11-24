@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153138id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124040136id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Revising
 
@@ -7,7 +7,7 @@ Get Revising is owned and operated by The Student Room Group Limited company num
 
 This is about protecting the information you give us. It is standard for a site of this type. The principles are the key thing.
 
-**Our principles**  
+ **Our principles**  
 We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: we will not share your information with others without your prior consent. We have also established the following principles:  
 1\. We will respect your e-mail privacy, and will send you unsolicited mail from getrevising.co.uk only if you have agreed to this.  
 2\. We will not pass on any individual user details (including your e-mail address) unless we have your prior consent.  
@@ -15,7 +15,7 @@ We are absolutely committed to protecting your privacy. Our policy can be summar
 
 1) Information Collected
 
-(a) It is necessary for getrevising.co.uk to collect your personal information for the purposes of registering you as a user of the website [www.getrevising.co.uk](http://www.getrevising.co.uk/) (the "Site"). Your responses also help us to provide as complete a service as possible for you by ensuring that the Site and any appropriate advertising or sponsorship space that we sell reflects your needs and requirements.  
+(a) It is necessary for getrevising.co.uk to collect your personal information for the purposes of registering you as a user of the website [g​etrevising.co.uk](http://getrevising.co.uk/) (the "Site"). Your responses also help us to provide as complete a service as possible for you by ensuring that the Site and any appropriate advertising or sponsorship space that we sell reflects your needs and requirements.  
 (b) If your contact details change please amend details in your control panel.  
 (c) Getrevising.co.uk collects data listing which of its pages are most frequently visited and by which type of users.
 
