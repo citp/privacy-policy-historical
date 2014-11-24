@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526084628id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124162255id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# 
+# Auction Ad City .com
 
 [ [Stores](http://www.auctionadcity.com/stores/buy/) ] Welcome  Guest  click here to [Register](http://www.auctionadcity.com/register.php) or [Login](http://www.auctionadcity.com/index.php?a=10) to buy products or post free auctions and free classifieds! 
 
