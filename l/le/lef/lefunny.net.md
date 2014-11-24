@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lefunny.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121517id_/http%3A//lefunny.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefunny.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124192031id_/http%3A//itsfunny.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Pictures | Funny Quotes | Funny Jokes – Photos, Images, Pics
 
@@ -38,11 +38,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://lefunny.net](http://lefunny.net/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://itsfunny.net](http://itsfunny.net/)
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.lefunny.net/).
+By using our site, you consent to our [online privacy policy](http://www.itsfunny.net/).
 
 **Changes to our Privacy Policy**
 
