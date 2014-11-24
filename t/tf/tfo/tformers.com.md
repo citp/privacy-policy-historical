@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tformers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135304id_/http%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tformers.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124165204id_/http%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
 
 # ENewsi.com - Pop Culture Entertainment Iron Man, Batman, Star Trek, Transformers, Twilight, Harry Potter and more<%endif%>
 
