@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215035805id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124055556id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
 
 # Telerivet: Privacy Policy
 
-_Updated: January 13, 2013_
+_Updated: March 30, 2014_
 
 Welcome to Telerivet, the online and mobile service of Telerivet, Inc. ("Telerivet," "we," "us," or "our"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
@@ -25,13 +25,13 @@ Correspondence
 URL and IP address
     Like many other websites, Telerivet collects information about users' utilization and navigation of our Service. This information helps us to design our Service to better suit our users' needs. For example, our Service will track the URL that you visited before you came to our Service, the URL to which you next go, and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer our Service. Your IP address also is used to help identify you and to gather broad demographic information.
 Analytics information
-    Telerivet may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+    Telerivet may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. This analytics data may enable Telerivet to relate your use of our Service to personally identifying information that you previously submitted.
 Log file information
     Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
 Information Collected With Cookies
     
 
-Like most major websites, Telerivet uses cookies on certain pages of our Service. Our cookies may enable us to relate your use of our Service to personally identifying information that you previously submitted. The information that we collect with cookies allows us to statistically analyze Service usage, to improve our content and product offerings, to improve our marketing and promotional efforts, and to customize our Service's content, layout and services. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
+Like most major websites, Telerivet uses cookies on certain pages of our Service. Our cookies may enable us to relate your use of our Service to personally identifying information that you previously submitted. The information that we collect with cookies allows us to statistically analyze Service usage, to improve our content and product offerings, to improve our marketing and promotional efforts, and to customize our Service's content, layout and services. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
 
 In addition, Telerivet uses third-party vendors, such as Google, to show ads for Telerivet on sites across the internet. These third-party vendors use cookies to serve ads based on your previous visits to Telerivet's website. To opt-out of these targeted ads, visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). 
 
