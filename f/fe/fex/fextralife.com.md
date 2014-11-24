@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063631id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124030240id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fextralife
 
@@ -18,7 +18,7 @@ We may collect, store and use the following kinds of personal information:
 
 (b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
 
-(c)    information that you provide to us for the purpose of registering with us. You may chose to not reveal this information.
+(c)    information that you provide to us for the purpose of registering with us. You may chose to not reveal this information. A valid email address is however, required for registration.
 
 (d)    information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
 
@@ -58,7 +58,7 @@ We may use your personal information to:
 
 (g)    send you email notifications which you have specifically requested or send you post items of sweepstakes winnings;
 
-(h)    send you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (and you can inform us at any time if you no longer require marketing communications);
+(h)    send you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (if you want to be removed from this list please check your user settings or contact administration for deactivation);
 
 (i)     provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
