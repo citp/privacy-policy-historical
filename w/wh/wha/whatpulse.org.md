@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091842id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124164701id_/http%3A//www.whatpulse.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhatPulse
 
