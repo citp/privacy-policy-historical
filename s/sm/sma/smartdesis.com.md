@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smartdesis.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618073610id_/http%3A//videos.smartdesis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdesis.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124094231id_/http%3A//videos.smartdesis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Movies - SmartDesis
-
-## Privacy Policy
 
 We at [Videos.smartdesis.com](http://videos.smartdesis.com/) respect the privacy concerns of our users and have created this privacy policy to explain
 
@@ -49,5 +47,3 @@ We reserve the right to modify or otherwise update this Privacy Policy at any ti
 ## Questions
 
 For any questions related to this Privacy Policy, please contact us at smartdesis@gmail.com.
-
-### Leave a Reply
