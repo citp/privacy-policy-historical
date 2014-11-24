@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehappierhomemaker.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327133030id_/http%3A//www.thehappierhomemaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehappierhomemaker.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181701id_/http%3A//www.thehappierhomemaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Happier Homemaker
+# Privacy Policy - The Happier Homemaker
 
 **What information do we collect?**
 
