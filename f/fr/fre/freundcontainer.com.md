@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freundcontainer.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208013334id_/http%3A//www.freundcontainer.com/privacy/a/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freundcontainer.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124035914id_/http%3A//www.freundcontainer.com/privacy/a/7) for the most accurate reproduction.*
 
 # Privacy Policy | Freund Container, a Division of Berlin Packaging
 
@@ -37,6 +37,8 @@ After a transaction, your private information (credit cards, social security num
 Our Website uses cookies and other web technologies. A cookie is a small text file that is stored on your computer or device by a website’s server. When you visit or interact with our Websites, we may use cookies to improve your experience on our Website. For example, cookies help us understand whether or not you are already logged in as you click throughout our Website. We do not use cookies to collect and/or store your personal information. Most browsers have options that allow you to choose what cookies can be placed on your computer and to delete or disable cookies, but setting a browser to reject cookies may affect and limit your experience on our Websites. 
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+We use cookies to serve ads based on a user's prior visits to our website. Site visitors may opt out of the cookies by visiting the Google advertising opt-out page or they may opt out of Google Analytics by visiting the Google Analytics opt-out page. Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions. We do not require that you accept cookies and/or you may withdraw your consent to our use of cookies at any time by adjusting your browser's privacy settings, however, some functionality on our Website (e.g. “functionality cookies”), our check-out process, and products and services may be disabled if you decline to accept cookies ( e.g. “necessary cookies”). You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. 
 
 **Do we disclose any information to outside parties?**
 
