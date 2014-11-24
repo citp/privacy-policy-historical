@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073311id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052948id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Carrington.edu
+# Privacy Policy - Carrington.edu
 
 ### 1) General.
 
