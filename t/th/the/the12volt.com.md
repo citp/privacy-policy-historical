@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430223215id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052148id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,8 +86,7 @@ General Information
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Et Cetera  
 [About the12volt](http://www.the12volt.com/about/about.asp "About the12volt")  
-[Link to Us](http://www.the12volt.com/links/linktous.asp "Link to the12volt.com")  
-[Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Make a donation and link to us. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
+[Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
   
   |  |    
   
