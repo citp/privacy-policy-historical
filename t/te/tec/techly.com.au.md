@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526084539id_/http%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124043647id_/http%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Techly
+# Privacy Policy - Techly
 
 As used in this Privacy Policy, “Techly” refers to all websites (including Techly.com.au), mobile sites, applications, social media, and other properties or services owned or operated by Conversant Media, Pty Ltd.
 
