@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shemrock.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025348id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemrock.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124185416id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.*
 
-# privacy policy
-
-##  Privacy policy 
+# Privacy Policy for SHEMROCK Pre Schools India
 
 All visitors which come and make any use of our web pages at www.shemrock.com are recognized and their IP addresses are saved for records. Email addresses of only those users are collected by us who communicate through e-mail or are a part of our mailing lists. 
 
@@ -12,3 +10,6 @@ All the pages that have been visited by the users, the duration of the visits an
 If you have subscribed to our mailing lists but wish to discontinue the service, you can click on the unsubscribe option. The service will be discontinued there and then. Also, the email addresses that are subscribed to the lists are kept confidential and not made public on the website of SHEMROCK. 
 
 For any new changes or modifications to the privacy policy, please visit the website regularly.
+
+  
+
