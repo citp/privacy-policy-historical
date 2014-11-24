@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055727id_/http%3A//www.environment.gov.au/node/13271) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124152827id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# F
+# Privacy policy
 
 ## Background
 
@@ -11,7 +11,7 @@ The Department of the Environment ( **Department** ) is responsible for implemen
 We have arrangements in place to assist our Minister and Parliamentary Secretary and their offices, and certain offices in the portfolio in complying with the _Privacy Act 1988 (Cth)_ ( **Privacy Act** ). Specific offices in the portfolio include:
 
   * [Water Efficiency Labelling Scheme Regulator ( **WELS** )](http://www.waterrating.gov.au/);
-  * [Commonwealth Environmental Water Holder ( **CEWH** );](https://web.archive.org/aggregation/commonwealth-environmental-water-office "Commonwealth Environmental Water Office")
+  * [Commonwealth Environmental Water Holder ( **CEWH** );](https://web.archive.org/water/cewo "Commonwealth Environmental Water Office")
   * [National Environmental Protection Council ( **NEPC** )](http://www.scew.gov.au/about-us/nepc);
   * [National Environmental Protection Council Service Corporation ( **NEPCSC** )](http://www.scew.gov.au/about-us/nepc-service-corporation);
   * [Australian Heritage Council ( **AHC** )](https://web.archive.org/heritage/organisations/australian-heritage-council "Australian Heritage Council"); and
