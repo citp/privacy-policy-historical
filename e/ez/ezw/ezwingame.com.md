@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403155936id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124053742id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
 
-# Win Free, Win Big, Free Prizes, Free Giveaway Contests - EZWinGame
+# Win Free, Win Big, Free Prizes, Free Giveaway Contests
 
 We are committed to keeping your personal information private. Please review our Terms and Conditions (“T&Cs”), any other rules, which also govern your visit and use of our website(s), including but not limited to any Sweepstakes or Game Rules. 
 
@@ -152,3 +152,5 @@ EZWin Game LLC
 Ft. Lauderdale, FL 33309
 
 [info@ezwingame.com](mailto:info@ezwingame.com)
+
+EZWinGame is the best place to find free prizes, registration is absolutely free. Play free contests where you can win free nintendo wii, free apple itouch, free garmin navigational system, free designer watches plus as well as many other great free prizes. So win big come to the everything free contests & sweepstakes site of Ezwingame.com
