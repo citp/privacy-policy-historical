@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231926id_/http%3A//www.choice.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181640id_/http%3A//www.choice.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # CHOICE privacy statement - CHOICE
 
