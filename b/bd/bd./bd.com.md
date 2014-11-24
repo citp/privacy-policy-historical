@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131001id_/https%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124211711id_/http%3A//www.bd.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Legal - Privacy Statement and Consent to Use of Data | BD Worldwide
+# Legal - Privacy Statement and Consent to Use of Data
 
 ###  **IMPORTANT**
 
@@ -100,7 +100,18 @@ BD uses the Personal Data you provide for our business purposes in a manner that
 
 If at any time you wish not to receive any future communications or to have your name deleted from our mailing lists, you may follow the "unsubscribe" procedure included with our communication. In addition, you may e-mail us at [privacy@bd.com](mailto:privacy@bd.com). See How to Contact BD below.
 
-**_Do We Share the Information that We Receive?_ **
+**_Do Not Track browser settings: _ **
+
+[BD.com](http://www.bd.com/) does not use pervasive online web tracking for behavioral advertisements. Enabling of the Do Not Track setting in your browser will have no effect on the types of data BD collects and uses as follows:
+
+  * Personally non-identifiable information is used only for commonly accepted practices such as visit and click-through rates collected to improve site design and navigation
+  * Personally identifiable information is only gathered when data is explicitly entered into a BD on-line form and you have explicitly accepted the BD privacy policy. At any time, you can also opt-out of receiving any future communications.
+
+
+
+[ Return to Table of Contents. ] 
+
+**_Do We Share the Information that We Receive?_**
 
 BD considers your information to be a vital part of our relationship with you. BD will share information including Personal Data with its subsidiaries and affiliates that have also agreed to be bound by this Privacy Statement and Consent. In addition, BD, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we retain another non-affiliated company to perform a function of this nature, we seek to provide them with only the information that they need to perform their specific functions, and we require them to protect your Personal Data in accordance with this Privacy Statement and Consent and BD's restrictions.
 
@@ -108,13 +119,13 @@ In addition, if you input Personal Data on a co-branded registration page, relat
 
 There are also a limited number of circumstances in which we may share your Personal Data and other information in our possession with certain additional third parties without further notice to you, as set forth below:
 
-**Legal Requirements:**   BD may disclose your Personal Data, User Data and other information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of BD or its affiliates, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
+ **Legal Requirements:**  BD may disclose your Personal Data, User Data and other information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of BD or its affiliates, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
 
-**Business Transfers, Combinations and Related Activities: ** As we develop our business, we might sell, buy, restructure or reorganize businesses or assets. In the event of any sale, merger, reorganization, restructuring, dissolution or similar event involving our business or assets, Personal Data may be part of the transferred assets.
+ **Business Transfers, Combinations and Related Activities: ** As we develop our business, we might sell, buy, restructure or reorganize businesses or assets. In the event of any sale, merger, reorganization, restructuring, dissolution or similar event involving our business or assets, Personal Data may be part of the transferred assets.
 
 BD is the parent company of a large international group of companies. In light of this fact, we may, from time to time transfer your Personal Data to one of our databases in another country as provided above under the heading Transfer of Your Data Abroad.
 
-**_Public and Unsolicited Information_ **  
+ ** _Public and Unsolicited Information_** 
 
 This Privacy Statement and Consent shall not apply to Public Information you provide to BD through this Site or through any other means. If you include Personal Data in such Public Information, we will use such Personal Data only as provided herein, but we caution you that, because such information (including your Personal Data) was made available in a forum accessible by the public, the use and disclosure of information by others accessing the Site is not monitored or controlled in any way by BD nor are their activities governed by this Privacy Statement and Consent.
 
@@ -126,15 +137,15 @@ Please note that, as set forth above, this Privacy Statement and Consent does no
 
 
   
-**_Links to Other Websites_   **
+**_Links to Other Websites_ **
 
 This Privacy Statement and Consent applies only to this Site. This Site may frame or contain references or links to other BD web sites as well as other web sites not operated or controlled by BD (the “Third Party Sites”) none of which sites are governed by the policies and procedures we describe here. The links from this Site do not imply BD’s review or endorsement of the Third Party Sites. We suggest that you contact those sites directly for information on their privacy, security, data collection and distribution policies.
 
-**_Security_ **  
+ ** _Security_** 
 
 BD takes reasonable steps to protect any Personal Data you provide to us and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Unless otherwise stated on the relevant page of the Site, BD uses general security standards but has not taken additional action to secure data provided to its sites, and such transmissions are subject to normal Internet security risks. As noted, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure, and you should therefore take special care in deciding what information you send to us. Please keep this in mind when disclosing any Personal Data to BD or to any other party via the Internet. Moreover, when you use passwords, ID numbers, or other special access features on this Site, it is your responsibility to safeguard them, in this respect please refer to the [Terms and Conditions](https://web.archive.org/legal/terms/) of Site Use.
 
-**_How to Contact BD_ **  
+ ** _How to Contact BD_** 
 
 Please also feel free to contact us if you have any questions about BD’s Privacy Statement and Consent or the information practices of this Site.
 
