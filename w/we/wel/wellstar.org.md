@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520191747id_/http%3A//www.wellstar.org/about-us/Pages/Internet-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124024400id_/http%3A//www.wellstar.org/about-us/Pages/Internet-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # WellStar Health System's Internet Privacy Policy - WellStar Health System
 
