@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053502id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124144137id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Conservative Intelligence Briefing
+# Privacy Policy » Conservative Intelligence Briefing
 
 Your privacy is critically important to us.
 
