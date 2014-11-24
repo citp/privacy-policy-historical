@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520092035id_/http%3A//www.cpxcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124152350id_/http%3A//www.cpxcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPX Center - Affiliate Software
 
