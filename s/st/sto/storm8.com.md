@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171154id_/http%3A//www.storm8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124164753id_/http%3A//www.storm8.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Storm8
 
