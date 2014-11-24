@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414104001id_/http%3A//www.animestatic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124112243id_/http%3A//www.animestatic.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Anime Online - English Dubbed Anime - Free Anime Episodes
 
