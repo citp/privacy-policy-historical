@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508125927id_/http%3A//www.kvia.com/news/Privacy-Policy/-/391068/559096/-/9k8vaw/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124143812id_/http%3A//www.kvia.com/news/Privacy-Policy/559096) for the most accurate reproduction.*
 
 # Privacy Policy | News - Home
 
@@ -18,7 +18,13 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
+  * _Copyright 2013[KVIA](https://web.archive.org/). All rights reserved. This material may not be published, broadcast, rewritten or redistributed._
+
+
+
+
+[](http://www.kvia.com/news/ABC-7-Special-Reports/29648878)
+
+[](http://www.kvia.com/news/latest-on-ebola-2nd-dallas-health-care-worker-diagnosed-with-ebola-myths-about-ebola-and-more/29145244)
+
 Advertisement
-
-[](http://www.kvia.com/demolition/-/19700846/-/139ctsyz/-/index.html)  
-
