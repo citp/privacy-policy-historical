@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebyshomes.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508154741id_/http%3A//www.sothebyshomes.com/aboutus/privacypolicy.rails) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebyshomes.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124130059id_/http%3A//www.sothebyshomes.com/aboutus/privacypolicy.rails) for the most accurate reproduction.*
 
 # Sotheby's International Realty, Inc.
 
