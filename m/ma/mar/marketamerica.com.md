@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603154937id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125000119id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy - Market America
 
