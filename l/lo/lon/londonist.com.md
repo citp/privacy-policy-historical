@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053116id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124214943id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -66,20 +66,20 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line ‘Complaint’.
 
-[ ](http://londonist.com/2014/06/up-to-50000-london-homes-to-be-built-on-brownfield-sites.php)
+[ ](http://londonist.com/2014/11/our-pick-of-londons-most-talked-about-art-exhibitions.php)
 
-[ ](http://londonist.com/2014/06/london-is-just-97-away-from-electric-vehicle-target.php)
+[ ](http://londonist.com/2014/11/brixton-tube-chaos-will-last-until-july-2015.php)
 
-[ ](http://londonist.com/2014/06/new-hand-drawn-map-of-central-london.php)
+[ ](http://londonist.com/2014/11/who-were-the-seven-sisters.php)
 
-[ ](http://londonist.com/2014/06/meltdown-festival-round-up-review-and-pictures.php)
+[ ](http://londonist.com/2014/11/mapped-the-decline-of-londons-housing-affordability.php)
 
-[ ](http://londonist.com/2014/06/crowdfunding-london-june.php)
+[ ](http://londonist.com/2014/11/little-london-victories-tube-triumphs-acts-of-kindness-and-giving-directions.php)
 
-[ ](http://londonist.com/2014/06/secrets-of-the-circle-line.php)
+[ ](http://londonist.com/2014/11/no-drum-roll-please-mayor-launches-luke-warm-london-music-pledge.php)
 
-[ ](http://londonist.com/2014/06/transform-your-green-space-at-grow-london.php)
+[ ](http://londonist.com/2014/11/festival-of-chocolate-makes-sweet-return.php)
 
-[ ](http://londonist.com/2014/06/banksy-the-unauthorised-retrospective-at-sothebys.php)
+[ ](http://londonist.com/2014/11/our-pick-of-londons-most-talked-about-art-exhibitions.php)
 
-[ ](http://londonist.com/2014/06/friday-photos-street-name-signs.php)
+[ ](http://londonist.com/2014/11/five-cocktails-to-try-in-london-this-month-4.php)
