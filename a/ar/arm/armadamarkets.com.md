@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the armadamarkets.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154542id_/http%3A//www.armadamarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armadamarkets.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124173355id_/http%3A//www.armadamarkets.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY » Armada Markets
+# PRIVACY POLICY - Armada Markets
 
 This privacy statement covers the website www.armadamarkets.com, and any other related websites that are registered and operated by Armada Markets AS (Armada).
 
 ## Application
 
-In order to open an account with Armada, you must first complete and send the application form attaching the required documents. By completing the application form you are requested to give private information in order to enable Armada to evaluate your application and comply with Laws and Regulations governing the provision of services. This information is also used to contact you about Armada’s services.
+In order to open an account with Armada, you must first complete and send the application form attaching the required documents. By completing the application form you are requested to give private information in order to enable Armada to evaluate your application and comply with Laws and Regulations governing the provision of services. This information is also used to contact you about trading services.
 
 Any clients’ personal data is kept by Armada according to the Personal Data Protection Act of 2007 (No. RT I 2007, 24, 127) of the Republic of Estonia.
 
@@ -46,7 +46,7 @@ Personal information provided to Armada that is not Registration Information als
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, you must inform us by emailing our Customer Support at info@armadamarkets.com or by contacting us by telephone, fax or postal mail at the contact information listed below or on the Site.
+Armada Markets does not license, lease or otherwise disclose your personal information to any affiliate or third party for any reason, unless the law requires it or the information is a subject of transfer agreement. If your personally identifiable information changes, you must inform us by emailing our Customer Support at info@armadamarkets.com or by contacting us by telephone, fax or postal mail at the contact information listed below or on the Site.
 
 ## Legal Disclaimer
 
@@ -59,7 +59,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our Site.
 
 Armada Markets AS  
-Tornimae 7-71, 10145 Tallinn, Estonia  
+Roosikrantsi 2, 10119 Tallinn, Estonia  
 E-mail: [info@armadamarkets.com](mailto:info@armadamarkets.com)
 
-Last Updated: 28 August 2012
+Last Updated: 20 November 2014
