@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxboost.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530170550id_/http%3A//www.fxboost.com/privacyy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxboost.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124100126id_/http%3A//www.fxboost.com/privacyy) for the most accurate reproduction.*
 
 # FxBoost - Forex Trading Social Network, Forex Trading tool, Automated Trading analytical tool
 
