@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeandi.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624072227id_/http%3A//www.yeandi.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeandi.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124231742id_/http%3A//www.yeandi.com/privacy.asp) for the most accurate reproduction.*
 
 # Yeandi Directory
 
