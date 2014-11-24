@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072408id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124060008id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodEasily.com
-
-You are here: [Home](http://codeasily.com/ "CodEasily.com") / Privacy Policy
 
 CodEasily.com, has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -62,5 +60,3 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
   * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [gmediafolder@gmail.com](mailto:gmediafolder@gmail.com).
 
 
-
-Scroll to top
