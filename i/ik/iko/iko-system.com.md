@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508005949id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124151552id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - IKO Sales Intelligence
+# Privacy policy - Lead Generation Technology
 
 ### **Our commitment to privacy and security**
 
