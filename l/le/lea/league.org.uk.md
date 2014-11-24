@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521055405id_/http%3A//www.league.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124123234id_/http%3A//www.league.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - League Against Cruel Sports
 
@@ -26,7 +26,7 @@ When you supply any personal information to the League, the League has legal obl
 
 If you are under 18, please get your parent/guardian's permission beforehand whenever you provide personal information to this site.  Users without this consent are not allowed to provide us with personal information.
 
-## DONATE TO SAVE ANIMALS
+## Donate to save animals
 
 £10  
 £20  
