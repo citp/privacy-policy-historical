@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090844id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124041730id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
 
 # National Portrait Gallery - Privacy & cookies
 
