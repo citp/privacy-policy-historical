@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devilonwheels.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140134id_/http%3A//devilonwheels.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devilonwheels.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124093604id_/http%3A//devilonwheels.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeViL on WheeLs
 
