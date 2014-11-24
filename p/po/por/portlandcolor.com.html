@@ -1,0 +1,745 @@
+<!--The following is the downloaded HTML source of the portlandcolor.com privacy policy that was archived on 2014-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124152648id_/http%3A//designtex.com/privacy_policy_cnav.aspx%3Ff%3D40034) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_MainMasterHead"><title>
+	Designtex, A Steelcase Company  - Privacy Policy
+</title>
+
+    <link id="ctl00_BluePrintCssScreen" rel="stylesheet" href="http://cdn.designtex.com//css/blueprint/screen.css" type="text/css" media="screen, projection"><link id="ctl00_BluePrintCssPrint" rel="stylesheet" href="http://cdn.designtex.com//css/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]>
+      <link id="ctl00_BluePrintCssInternetExplorer" rel="stylesheet" href="http://cdn.designtex.com//css/blueprint/ie.css" type="text/css" media="screen, projection" />
+    <![endif]-->
+
+        <meta id="ctl00_MainMasterHeadDescription" name="description"><meta id="ctl00_MainMasterHeadKeywords" name="keywords">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4DSPV"></script><script type="text/javascript" src="http://cdn.designtex.com//jQuery.aspx"></script>
+        <script type="text/javascript" src="http://cdn.designtex.com//jQueryHoverIntentFunction.aspx"></script>
+        <script type="text/javascript" language="javascript" src="http://cdn.designtex.com//script/lytebox.js"></script>
+
+        <script type="text/javascript">
+
+            var selected = null;
+            document.onkeypress = trapEnter;
+
+            function displayobject(id) {
+                document.getElementById(id).style.visibility = 'visible';
+                document.getElementById(id).style.display = 'inline';
+            }
+
+            function trapEnter() {
+                if (window.event.keyCode == 13)
+                    return false;
+            }
+
+            function login(stylenumber) {
+                __doPostBack('__Page', stylenumber + '|fill|fill|fill|fill|fill|fill|fill|fill');
+            }
+
+            function displayimage(imagepath, maincontent, maincontentheader, imagePathExtraLarge, productName) {
+                document.getElementById("MainImage").innerHTML = "<img width=222px; height=222px; src='" + imagepath + "'/>";
+                document.getElementById("MainContent").innerHTML = maincontent;
+                document.getElementById("MainContentHeader").innerHTML = maincontentheader;
+                document.getElementById("MainContentDocument").innerHTML = '';
+                document.getElementById("MainContentButtons").innerHTML = '';
+
+                if (imagePathExtraLarge != '' && productName != '') {
+                    var DivHtml = "<a href=\'#\' onclick=\"CreateWnd(\'" + imagePathExtraLarge + "\', \'" + productName + "\', 606, 610, false, false);\">";
+                    DivHtml = DivHtml + "<img src='http://cdn.designtex.com/images/85b7bc8f89dc48cfacc48771bd47ef33.gif' alt=\'view larger\' />";
+                    DivHtml = DivHtml + "</a>";
+                    //alert(DivHtml);
+                    document.getElementById("ViewLargerIcon").innerHTML = DivHtml;
+                }
+                else {
+                    document.getElementById("ViewLargerIcon").innerHTML = '';
+                }
+
+            }
+
+            function addSampleItemToCart(stylenumber, productname, colorcode, colorname) {
+                __doPostBack('__Page', stylenumber + '|' + productname + '|' + colorcode + '|' + colorname);
+            }
+
+            function addRetailItemToCart(stylenumber, productname, colorcode, colorname, unitprice, lineitemweight, categorycode) {
+                __doPostBack('__Page', stylenumber + '|' + productname + '|' + colorcode + '|' + colorname + '|' + unitprice + '|' + lineitemweight + '|' + categorycode);
+            }
+
+            function setColorHover(elem, col, current) {
+                if (selected == null && current == 'true')
+                    return;
+
+                if (elem == selected || elem == null)
+                    return;
+                elem.style.background = col;
+                elem.style.cursor = 'default';
+            }
+
+            function setColor(elem, col) {
+                if (elem == selected || elem == null)
+                    return;
+                elem.style.background = col;
+                elem.style.cursor = 'default';
+            }
+
+            function select(elem, hidctrl, prevValue, value) {
+                if (selected == null) {
+                    var identity;
+                    if (prevValue == '')
+                        identity = '0';
+                    else
+                        identity = prevValue
+
+                    document.getElementById(identity).style.background = "white";
+                    document.getElementById(identity).style.color = "#666666";
+                }
+
+                if (elem == selected || elem == null)
+                    return;
+                else if (selected != null) {
+                    selected.style.background = "white";
+                    selected.style.color = "#666666";        // light grey
+                }
+
+                setColor(elem, "#0A246A");                  // dark blue selection
+                selected = elem;
+                elem.style.color = "white";
+
+                document.getElementById(hidctrl).value = value;
+            }
+
+            var popup = null;
+            //Workarea Button
+            function CreateWnd(file, title, width, height, resize, showbrowserbars) {
+                var doCenter = false;
+                if ((popup == null) || popup.closed) {
+                    if (!(navigator.appName == "Netscape")) { width += 18; }
+                    attribs = "";
+                    if (resize) size = "yes"; else size = "no";
+                    for (var item in window)
+                    { if (item == "screen") { doCenter = true; break; } }
+                    if (doCenter) {
+                        if (width > screen.availWidth) { width = screen.availWidth }
+                        if (height > (screen.availHeight - 38)) { height = screen.availHeight - 38 }
+                        if (screen.availWidth <= width || screen.availHeight <= height) size = "yes";
+                        WndTop = ((screen.availHeight - 38) - height) / 2;
+                        WndLeft = (screen.availWidth - width) / 2;
+                        attribs = "width=" + width + ",height=" + height + ",resizable=" + size + ",scrollbars=" + size + "," +
+			"status=" + showbrowserbars + ",toolbar=" + showbrowserbars + ",directories=" + showbrowserbars + ",menubar=" + showbrowserbars + ",location=" + showbrowserbars + ",top=" + WndTop + ",left=" + WndLeft;
+                    }
+                    else {
+                        if (navigator.appName == "Netscape" && navigator.javaEnabled()) {
+                            var toolkit = java.awt.Toolkit.getDefaultToolkit();
+                            var screen_size = toolkit.getScreenSize();
+                            if (screen_size.width <= width || screen_size.height <= height) size = "yes";
+                            WndTop = (screen_size.height - height) / 2;
+                            WndLeft = (screen_size.width - width) / 2;
+                            attribs = "width=" + width + ",height=" + height + ",resizable=" + size + ",scrollbars=" + size + "," +
+				"status=" + showbrowserbars + ",toolbar=" + showbrowserbars + ",directories=" + showbrowserbars + ",menubar=" + showbrowserbars + ",location=" + showbrowserbars + ",top=" + WndTop + ",left=" + WndLeft;
+                        }
+                        else {
+                            size = "yes";
+                            attribs = "width=" + width + ",height=" + height + ",resizable=" + size + ",scrollbars=" + size + "," +
+				"status=no,toolbar=no,directories=no,menubar=no,location=no";
+                        }
+                    }
+
+                    if (!(file.indexOf('images') < 0)) {
+                        popup = open('', 'SteelcaseFullImage', attribs);
+                        popup.window.document.write('<html xmlns="http://schemas.microsoft.com/intellisense/html-401"><head><title3>' + title + '</title3></head><body style="margin:0;font-family:Arial;"><img src="' + file + '"></body></html>');
+                    }
+                    else {
+                        popup = open(file, 'SteelcasePopUp', attribs);
+                    }
+                }
+                else {
+                    DestroyWnd();
+                    CreateWnd(file, title, width, height, resize, showbrowserbars);
+                }
+            }
+
+            function DestroyWnd() {
+                if (popup != null) {
+                    popup.close();
+                    popup = null;
+                }
+            }
+              
+        </script>        
+
+        <link id="ctl00_DesigntexCss" rel="stylesheet" href="/css/designtex.css?random=9419" type="text/css" media="screen, projection"><link id="ctl00_LyteBoxCss" rel="stylesheet" href="http://cdn.designtex.com//css/lytebox.css" type="text/css" media="screen"><meta name="google-site-verification" content="WoLykZyufkiwgiBH4GTcugYvSvh8UwPkK1_vzBxRasE"></head>
+<body id="ctl00_DesigntexBody">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4DSPV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function(w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K4DSPV');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-8628744-1', 'designtex.com');
+    ga('send', 'pageview');
+</script>
+
+    <form name="aspnetForm" method="post" action="privacy_policy_cnav.aspx?f=40034" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA2MTM3MjgzOA8WAh4NQ2FjaGVBc1B1YmxpY2QWAmYPZBYEAgEPZBYKAgIPFgIeBGhyZWYFMmh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS8vY3NzL2JsdWVwcmludC9zY3JlZW4uY3NzZAIDDxYCHwEFMWh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS8vY3NzL2JsdWVwcmludC9wcmludC5jc3NkAgQPFgIfAQUuaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9jc3MvYmx1ZXByaW50L2llLmNzc2QCBw8WAh8BBR4vY3NzL2Rlc2lnbnRleC5jc3M/cmFuZG9tPTk0MTlkAggPFgIfAQUpaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9jc3MvbHl0ZWJveC5jc3NkAgMPZBYCZg9kFg5mDw8WDB4NQWx0ZXJuYXRlVGV4dAUESG9tZR4GSGVpZ2h0GwAAAAAAAD5AAQAAAB4FV2lkdGgbAAAAAADAa0ABAAAAHghJbWFnZVVybAVEaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tL2ltYWdlcy8yOGU4MTUyNGI1Njc0ODM4OWI3ZWU3ODAxMDBjYjQ5NS5wbmceCENzc0NsYXNzBQRsb2dvHgRfIVNCAoIDZGQCAQ9kFhICAQ8PFgofAgUKUHJpbnQgUGFnZR8DGwAAAAAAADBAAQAAAB8EGwAAAAAAADRAAQAAAB8FBURodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzM5ZjI0NGI1OGUwYjQzMzk4ZjdkZmI3NzU3MTNlMmE3LnBuZx8HAoADZGQCAw8PFgIeC05hdmlnYXRlVXJsBRlqYXZhc2NyaXB0OndpbmRvdy5wcmludCgpZGQCBQ8PFgofAgUHQ29ubmVjdB8DGwAAAAAAADBAAQAAAB8EGwAAAAAAADRAAQAAAB8FBURodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzM0Njc2MGIzMGIwZjQxNjZhYmY1MTk2OGMwMWI2NmE0LnBuZx8HAoADZGQCBw8PFgIfCAUcbWFpbHRvOmNvbm5lY3RAZGVzaWdudGV4LmNvbWRkAgkPDxYIHwMbAAAAAAAAMEABAAAAHwQbAAAAAAAANEABAAAAHwUFRGh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS9pbWFnZXMvMDlmNmMyZTdkNTRhNDAxYmIxN2YyYmVhYjIwYmY1N2EucG5nHwcCgANkZAILDw8WAh8IBQsvTG9naW4uYXNweGRkAg0PZBYEAgEPDxYKHwIFClZpZXcgT3JkZXIfAxsAAAAAAAAzQAEAAAAfBBsAAAAAAAA+QAEAAAAfBQVEaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tL2ltYWdlcy8xN2YyMzI2OTFiMTQ0YTc1Yjk3MDQzOTk3YzkwN2E4Yi5naWYfBwKAA2RkAgMPDxYCHwgFCi9DYXJ0LmFzcHhkZAIPDw8WAh4HVmlzaWJsZWdkFgQCAQ8PFgofAgUSU2FtcGxlIFJlY2xhbWF0aW9uHwMbAAAAAAAAMEABAAAAHwQbAAAAAAAANEABAAAAHwUFRGh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS9pbWFnZXMvMWZiMDVjZDAxZjMwNGIzYTg3MGQ2YTc2ZGUzODc0MjAucG5nHwcCgANkZAIDDw8WAh8IBSAvc2FtcGxlX3JlY2xhbWF0aW9uLmFzcHg/Zj0zNzIyNGRkAhEPZBYEAgEPDxYKHwIFFUJhY2sgdG8gRGVzaWdudGV4LmNvbR8DGwAAAAAAADRAAQAAAB8EGwAAAAAAADRAAQAAAB8FBURodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzkwMWY2MGRhZDBiNDRlMWE4MjQ3NTFmNWQ0YzU1ODIwLmpwZx8HAoADZGQCAw8PFgIfCAUYaHR0cDovL3d3dy5kZXNpZ250ZXguY29tZGQCAg9kFgICBg8PFgIeBFRleHQF6QE8YSBocmVmPSJodHRwOi8vd3d3LmRlc2lnbnRleC5jb20iPkhvbWU8L2E+PHNwYW4gY2xhc3M9InVuY2xpY2thYmxldGV4dCI+ID4gPC9zcGFuPjxhIGhyZWY9Im91cmNvbXBhbnkuYXNweD9mPTM1Mzk4Ij5PdXIgQ29tcGFueTwvYT48c3BhbiBjbGFzcz0idW5jbGlja2FibGV0ZXh0Ij4gPiA8L3NwYW4+PGEgaHJlZj0icHJpdmFjeV9wb2xpY3lfY25hdi5hc3B4P2Y9NDAwMzQiPlByaXZhY3kgUG9saWN5PC9hPmRkAgMPZBYEAgEPZBYEAgMPFgIfCgXgATxpbWcgY2xhc3M9IlRyaWFuZ2xlSGlkZSIgaWQ9IlRyaWFuZ2xlX2xlZnRuYXZzdWJfcHJvZHVjdF9zZWFyY2giIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tL2ltYWdlcy8xMGY4MzcxYzVjM2Q0NmZkOWYzMTk5MTFjYmJjMzU2NC5wbmciLz4mbmJzcDxhIGhyZWY9IiMiIGlkPSJsZWZ0bmF2c3ViX3Byb2R1Y3Rfc2VhcmNoIiBjbGFzcz0iTGVmdE5hdiI+UHJvZHVjdCBTZWFyY2g8L2E+ZAIFD2QWBAIBD2QWBGYPZBYEAgEPEGQQFQUDYWxsDSQxMCBhbmQgdW5kZXINJDI1IGFuZCB1bmRlcg0kNDUgYW5kIHVuZGVyDCQ0NiBhbmQgb3ZlchUFAAQwLTEwBDAtMjUEMC00NSA0Ni03OTIyODE2MjUxNDI2NDMzNzU5MzU0Mzk1MDMzNRQrAwVnZ2dnZxYBZmQCAw8PFggfAxsAAAAAAAAcQAEAAAAfBBsAAAAAAAAcQAEAAAAfBQVEaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tL2ltYWdlcy8xMGY4MzcxYzVjM2Q0NmZkOWYzMTk5MTFjYmJjMzU2NC5wbmcfBwKAA2RkAgEPZBYaAgEPD2QWAh4Kb25rZXlwcmVzcwUSc2VhcmNoX2tleXByZXNzKDEpZAIDDw8WCB8DGwAAAAAAABxAAQAAAB8EGwAAAAAAABxAAQAAAB8FBURodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzEwZjgzNzFjNWMzZDQ2ZmQ5ZjMxOTkxMWNiYmMzNTY0LnBuZx8HAoADZGQCBw8PZBYCHwsFf3NlYXJjaF9rZXlwcmVzc19zdHlsZSgyLCBjdGwwMF9jdGxOZXdMZWZ0TWVudV9jdGxQcm9kdWN0U2VhcmNoX3R4dFN0eWxlTnVtLCBjdGwwMF9jdGxOZXdMZWZ0TWVudV9jdGxQcm9kdWN0U2VhcmNoX3R4dENvbG9yQ29kZSlkAgkPD2QWAh8LBX9zZWFyY2hfa2V5cHJlc3Nfc3R5bGUoMiwgY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF90eHRTdHlsZU51bSwgY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF90eHRDb2xvckNvZGUpZAILDw8WCB8DGwAAAAAAABxAAQAAAB8EGwAAAAAAABxAAQAAAB8FBURodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzEwZjgzNzFjNWMzZDQ2ZmQ5ZjMxOTkxMWNiYmMzNTY0LnBuZx8HAoADZGQCDQ8PZBYCHgdvbmNsaWNrBRZyZXR1cm4gc3R5bGVzZWFyY2goLCApZAIPD2QWAgIBDxAPZBYCHwsFEnNlYXJjaF9rZXlwcmVzcygzKRAVBQNhbGwNJDEwIGFuZCB1bmRlcg0kMjUgYW5kIHVuZGVyDSQ0NSBhbmQgdW5kZXIMJDQ2IGFuZCBvdmVyFQUABDAtMTAEMC0yNQQwLTQ1IDQ2LTc5MjI4MTYyNTE0MjY0MzM3NTkzNTQzOTUwMzM1FCsDBWdnZ2dnZGQCEw8PZBYCHwsFEnNlYXJjaF9rZXlwcmVzcygzKRYCAgEPFgIfCgWQGTxUQUJMRSBvbnNlbGVjdHN0YXJ0PSJyZXR1cm4gZmFsc2U7IiB3aWR0aD0iMTAwJSIgYmdDb2xvcj0id2hpdGUiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmcgPSIwIiBjZWxsc3BhY2luZz0iMCIgPiA8VEJPRFkgY2xhc3M9ImltYWdlbGlzdGJveHRhYmxlIj48dHI+PHRkPjwvdGQ+PHRkIGlkPSIwIiBzdHlsZT0iYmFja2dyb3VuZDojMEEyNDZBO2NvbG9yOndoaXRlOyIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAndHJ1ZScpOyIgb25tb3VzZW91dD0ic2V0Q29sb3JIb3Zlcih0aGlzLCAnd2hpdGUnLCAndHJ1ZScpOyIgb25jbGljaz0ic2VsZWN0KHRoaXMsJ2N0bDAwX2N0bE5ld0xlZnRNZW51X2N0bFByb2R1Y3RTZWFyY2hfc2VsVmFsJywgJycsICcwJyk7Ij4gYWxsPC90ZD48L3RyPjx0cj48dGQ+PGltZyBzcmM9Imh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS8vaW1hZ2VzL0Rlc2lnbnRleC9Mb2dvLzEwMC5wbmciPjwvdGQ+PHRkIGlkPSIxMDAiIG9ubW91c2VvdmVyPSJzZXRDb2xvckhvdmVyKHRoaXMsICdMaWdodEdyZWVuJywgJ2ZhbHNlJyk7IiBvbm1vdXNlb3V0PSJzZXRDb2xvckhvdmVyKHRoaXMsICd3aGl0ZScsICdmYWxzZScpOyIgb25jbGljaz0ic2VsZWN0KHRoaXMsJ2N0bDAwX2N0bE5ld0xlZnRNZW51X2N0bFByb2R1Y3RTZWFyY2hfc2VsVmFsJywgJycsICcxMDAnKTsiPiB3aGl0ZSBuZXV0cmFscyBicm93bjwvdGQ+PC90cj48dHI+PHRkPjxpbWcgc3JjPSJodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vL2ltYWdlcy9EZXNpZ250ZXgvTG9nby8yMDAucG5nIj48L3RkPjx0ZCBpZD0iMjAwIiBvbm1vdXNlb3Zlcj0ic2V0Q29sb3JIb3Zlcih0aGlzLCAnTGlnaHRHcmVlbicsICdmYWxzZScpOyIgb25tb3VzZW91dD0ic2V0Q29sb3JIb3Zlcih0aGlzLCAnd2hpdGUnLCAnZmFsc2UnKTsiIG9uY2xpY2s9InNlbGVjdCh0aGlzLCdjdGwwMF9jdGxOZXdMZWZ0TWVudV9jdGxQcm9kdWN0U2VhcmNoX3NlbFZhbCcsICcnLCAnMjAwJyk7Ij4geWVsbG93IGdvbGQ8L3RkPjwvdHI+PHRyPjx0ZD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9pbWFnZXMvRGVzaWdudGV4L0xvZ28vMzAwLnBuZyI+PC90ZD48dGQgaWQ9IjMwMCIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAnZmFsc2UnKTsiIG9ubW91c2VvdXQ9InNldENvbG9ySG92ZXIodGhpcywgJ3doaXRlJywgJ2ZhbHNlJyk7IiBvbmNsaWNrPSJzZWxlY3QodGhpcywnY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF9zZWxWYWwnLCAnJywgJzMwMCcpOyI+IHJlZCBidXJndW5keSBwaW5rPC90ZD48L3RyPjx0cj48dGQ+PGltZyBzcmM9Imh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS8vaW1hZ2VzL0Rlc2lnbnRleC9Mb2dvLzQwMC5wbmciPjwvdGQ+PHRkIGlkPSI0MDAiIG9ubW91c2VvdmVyPSJzZXRDb2xvckhvdmVyKHRoaXMsICdMaWdodEdyZWVuJywgJ2ZhbHNlJyk7IiBvbm1vdXNlb3V0PSJzZXRDb2xvckhvdmVyKHRoaXMsICd3aGl0ZScsICdmYWxzZScpOyIgb25jbGljaz0ic2VsZWN0KHRoaXMsJ2N0bDAwX2N0bE5ld0xlZnRNZW51X2N0bFByb2R1Y3RTZWFyY2hfc2VsVmFsJywgJycsICc0MDAnKTsiPiBibHVlIG5hdnk8L3RkPjwvdHI+PHRyPjx0ZD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9pbWFnZXMvRGVzaWdudGV4L0xvZ28vNTAwLnBuZyI+PC90ZD48dGQgaWQ9IjUwMCIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAnZmFsc2UnKTsiIG9ubW91c2VvdXQ9InNldENvbG9ySG92ZXIodGhpcywgJ3doaXRlJywgJ2ZhbHNlJyk7IiBvbmNsaWNrPSJzZWxlY3QodGhpcywnY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF9zZWxWYWwnLCAnJywgJzUwMCcpOyI+IGdyZWVuIGFxdWFtYXJpbmU8L3RkPjwvdHI+PHRyPjx0ZD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9pbWFnZXMvRGVzaWdudGV4L0xvZ28vNjAwLnBuZyI+PC90ZD48dGQgaWQ9IjYwMCIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAnZmFsc2UnKTsiIG9ubW91c2VvdXQ9InNldENvbG9ySG92ZXIodGhpcywgJ3doaXRlJywgJ2ZhbHNlJyk7IiBvbmNsaWNrPSJzZWxlY3QodGhpcywnY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF9zZWxWYWwnLCAnJywgJzYwMCcpOyI+IHB1cnBsZSByb3NlPC90ZD48L3RyPjx0cj48dGQ+PGltZyBzcmM9Imh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS8vaW1hZ2VzL0Rlc2lnbnRleC9Mb2dvLzcwMC5wbmciPjwvdGQ+PHRkIGlkPSI3MDAiIG9ubW91c2VvdmVyPSJzZXRDb2xvckhvdmVyKHRoaXMsICdMaWdodEdyZWVuJywgJ2ZhbHNlJyk7IiBvbm1vdXNlb3V0PSJzZXRDb2xvckhvdmVyKHRoaXMsICd3aGl0ZScsICdmYWxzZScpOyIgb25jbGljaz0ic2VsZWN0KHRoaXMsJ2N0bDAwX2N0bE5ld0xlZnRNZW51X2N0bFByb2R1Y3RTZWFyY2hfc2VsVmFsJywgJycsICc3MDAnKTsiPiBvcmFuZ2UgcnVzdCBuZWN0YXI8L3RkPjwvdHI+PHRyPjx0ZD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9pbWFnZXMvRGVzaWdudGV4L0xvZ28vODAwLnBuZyI+PC90ZD48dGQgaWQ9IjgwMCIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAnZmFsc2UnKTsiIG9ubW91c2VvdXQ9InNldENvbG9ySG92ZXIodGhpcywgJ3doaXRlJywgJ2ZhbHNlJyk7IiBvbmNsaWNrPSJzZWxlY3QodGhpcywnY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF9zZWxWYWwnLCAnJywgJzgwMCcpOyI+IGJsYWNrIGdyZXk8L3RkPjwvdHI+PHRyPjx0ZD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9pbWFnZXMvRGVzaWdudGV4L0xvZ28vOTAwLnBuZyI+PC90ZD48dGQgaWQ9IjkwMCIgb25tb3VzZW92ZXI9InNldENvbG9ySG92ZXIodGhpcywgJ0xpZ2h0R3JlZW4nLCAnZmFsc2UnKTsiIG9ubW91c2VvdXQ9InNldENvbG9ySG92ZXIodGhpcywgJ3doaXRlJywgJ2ZhbHNlJyk7IiBvbmNsaWNrPSJzZWxlY3QodGhpcywnY3RsMDBfY3RsTmV3TGVmdE1lbnVfY3RsUHJvZHVjdFNlYXJjaF9zZWxWYWwnLCAnJywgJzkwMCcpOyI+IG11bHRpLWNvbG9yZWQ8L3RkPjwvdHI+PC90Ym9keT48L3RhYmxlPmQCFQ8QD2QWAh8LBRJzZWFyY2hfa2V5cHJlc3MoMykQFRQDYWxsB2Jlc3Bva2UIY3ViaWNsZXMHZHJhcGVyeQZmdXNpb24McGFuZWwgZmFicmljEHByaXZhY3kgdGV4dGlsZXMSc2hhZGVzIGFuZCBzY3JlZW5zCnVwaG9sc3RlcnkZdXBob2xzdGVyeSBlbnZ0bC4gLyBwZXJmLhh1cGhvbHN0ZXJ5IGVudnRsLiBkZXNpZ24YdXBob2xzdGVyeSBleHRyZW1lIHBlcmYuEnVwaG9sc3RlcnkgbGVhdGhlchB1cGhvbHN0ZXJ5IHZpbnlsEHVwaG9sc3Rlcnkgd292ZW4Md2FsbGNvdmVyaW5nFXdhbGxjb3ZlcmluZyBwdmMgZnJlZRl3YWxsY292ZXJpbmcgcmVjLiBjb250ZW50EndhbGxjb3ZlcmluZyB2aW55bBJ3YWxsY292ZXJpbmcgd292ZW4VFAAEQkVTUARDVUJFBERSQVAERlVTSQRWRVJUBFBURVgEU0hBRARVUEhPBFVQUEUEVVBFRARVUEVQBFVQTFQEVVBWTgRVUFdWBFdBTEwEUFZDRgRSRUNPBFZOWUwEV09WThQrAxRnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAhcPEA9kFgIfCwUSc2VhcmNoX2tleXByZXNzKDMpEBUJA2FsbAZhbmltYWwJYm90YW5pY2FsCWdlb21ldHJpYwdvcmdhbmljBXBsYWlkEHNvbGlkICYgdGV4dHVyZWQGc3RyaXBlCXdvb2RncmFpbhUJAANQMDQDUDA1A0dFTwNPUkcDUExEA1AwNgNTVFIDUDA3FCsDCWdnZ2dnZ2dnZ2RkAhkPEA9kFgIfCwUSc2VhcmNoX2tleXByZXNzKDMpEBUCAm5vA3llcxUCATABMRQrAwJnZ2RkAhsPEA9kFgIfCwUSc2VhcmNoX2tleXByZXNzKDMpEBUCAm5vA3llcxUCATABMRQrAwJnZ2RkAh0PDxYIHwMbAAAAAAAAHEABAAAAHwQbAAAAAAAAHEABAAAAHwUFRGh0dHA6Ly9jZG4uZGVzaWdudGV4LmNvbS9pbWFnZXMvMTBmODM3MWM1YzNkNDZmZDlmMzE5OTExY2JiYzM1NjQucG5nHwcCgANkZAIDDw8WAh8KBZsDPCEtLVByb2R1Y3RzIFRvdGFsIDogODI4ODxici8+ODI4ODxici8+U2FtcGxlIFRvdGFsIDogNzEwNTxici8+UmV0YWlsIFRvdGFsIDogODxici8+UHJvZHVjdHMgRm91bmQgOiBOYW1lIDogU3R5bGUgOiBDb2xvciBDb2RlIDogTG93IFByaWNlIDogSGlnaCBQcmljZSA6IENvbG9yIFR5cGUgOiBDYXRlZ29yeSA6IFBhdHRlcm4gOiBFRCA6IEVQIDogQ3VzdG9tZXIgU2NvcGUgOiBBbGw8YnIvPkN1c3RvbWVyIE51bWJlciA6IDA8YnIvPlByb2R1Y3QgU2NvcGUgOiBBbGw8YnIvPlNlYXJjaCBNb2RlIDogMDxici8+TWFzdGVyIFByb2R1Y3QgQ291bnQgOiBSZXRhaWwgUHJvZHVjdCBDb3VudCA6IE91dGxldCBQcm9kdWN0IENvdW50IDogQ3VzdG9tZXIgUHJvZHVjdCBDb3VudCA6IE92ZXJzdG9jayBPbmx5IENvdW50IDogLS0+ZGQCAg9kFgRmD2QWAgIDDxYCHwoF7gE8aW1nIGNsYXNzPSJUcmlhbmdsZURpc3BsYXkiIGlkPSJUcmlhbmdsZUNsb3NlZF9SaWdodE5hdk1lbnVQcmljZSIgaGVpZ2h0PSI3IiB3aWR0aD0iNyIgc3JjPSJodHRwOi8vY2RuLmRlc2lnbnRleC5jb20vaW1hZ2VzLzEwZjgzNzFjNWMzZDQ2ZmQ5ZjMxOTkxMWNiYmMzNTY0LnBuZyIvPiZuYnNwPGEgaHJlZj0iIyIgaWQ9ImxlZnRuYXZzdWJfcHJpY2VfbGlzdCIgY2xhc3M9IkxlZnROYXYiPnByaWNlIGxpc3Q8L2E+ZAICDxYCHwoF+QI8c3BhbiBjbGFzcz0ibGVmdG5hdnN1Yl9wcmljZV9saXN0IiBzdHlsZT0iZGlzcGxheTpub25lOyI+PHVsPjxsaT48YSB0YXJnZXQ9J19ibGFuaycgaHJlZj0nL1ByaWNlTGlzdC5hc3B4P2Z1bGxMaXN0PTEnIGNsYXNzPSJMZWZ0TmF2Q2hpbGQiPnZpZXcgcHJvZHVjdCBwcmljZSBsaXN0LnBkZjwvYT48L2xpPjxsaT48YSB0YXJnZXQ9J19ibGFuaycgaHJlZj0naHR0cDovL2Nkbi5kZXNpZ250ZXguY29tLy9maWxlcy81YTRlNzk0NGM3Y2Y0OTEwYTE3NTdlMDI2NDE1YzhkNy9zcGVjaWFsIGZpbmlzaCBwcmljZSBsaXN0LnBkZicgY2xhc3M9IkxlZnROYXZDaGlsZCI+dmlldyBzcGVjaWFsIGZpbmlzaCBwcmljZSBsaXN0LnBkZjwvYT48L2xpPjwvdWw+PC9zcGFuPmQCBA8PFgIfCWhkFgYCBw9kFggCAQ8PFgIfCAULfi9DYXJ0LmFzcHhkZAIDDw8WAh8IBRJ+L1NhdmVkT3JkZXJzLmFzcHhkZAIFDw8WAh8IBRN+L09yZGVySGlzdG9yeS5hc3B4ZGQCBw8PFgIfCAUSfi9BZGRyZXNzQm9vay5hc3B4ZGQCCQ9kFgICAQ8PFgIfCAUSfi9FZGl0QWNjb3VudC5hc3B4ZGQCCw9kFgICAQ8PFgIfCAUNfi9Mb2dvdXQuYXNweGRkAgYPZBYEZg8WAh8KBWE8IS0tIChjKSAyMDA1LCAyMDEwLiBBdXRob3JpemUuTmV0IGlzIGEgcmVnaXN0ZXJlZCB0cmFkZW1hcmsgb2YgQ3liZXJTb3VyY2UgQ29ycG9yYXRpb24gLS0+Jm5ic3A7ZAIBDw8WAh8JaGRkAgcPZBYEZg9kFgwCAQ8PFgIeB1Rvb2xUaXAFY1dvcmthcmVhOiBMYXVuY2hlcyBhIG5ldyBicm93c2VyIHdpbmRvdywgZm9yd2FyZGluZyB0byB0aGUgRWt0cm9uIHdvcmthcmVhLCBmb3IgY29udGVudCBtYW5hZ2VtZW50LhYCHwwFWkNyZWF0ZVduZCgnaHR0cDovL2Ntcy5zdGVlbGNhc2UuY29tL3dvcmthcmVhL3dvcmthcmVhLmFzcHgnLCd3b3JrYXJlYScsODAwLDYwMCwnbm8nLCdubycpO2QCAw9kFgQCAQ8PFgQfDQVpSW5pdGlhdGVzIHRoZSBQcm9kdWN0IENhY2hlIGJ1aWxkIHByb2Nlc3MgYXQgdGhlIHdlYiBzZXJ2aWNlIHNlcnZlciBbaHR0cHM6Ly93ZWJzZXJ2aWNlcy5kZXNpZ250ZXguY29tL10uHgdFbmFibGVkaGRkAgcPDxYCHw0FxAFDb3BpZXMgdGhlIGNhY2hlIGZpbGUgZnJvbSB3ZWIgc2VydmljZSBzZXJ2ZXIgW2h0dHBzOi8vd2Vic2VydmljZXMuZGVzaWdudGV4LmNvbS9dIHRvIEFwcGxpY2F0aW9uIFNlcnZlciBbR1JSQVBYV1c5M10gYXQgZmlsZSBsb2NhdGlvbiBbRDpcaW5ldFxXZWJzXGVjb21tZXJjZS5kZXNpZ250ZXguY29tLmNhY2hlXEZpbGVzXENNU0NhY2hlXF0uZGQCBQ8PFgIfDQWqAVJlZnJlc2g6IENsZWFycyB0aGUgY3VycmVudCBpbi1tZW1vcnkgY2FjaGUsIHRoZW4gZm9yY2VzIHRoZSBhcHBsaWNhdGlvbiB0byBnZXQgdGhlIGNvbnRlbnQgZnJvbSB0aGUgY2FjaGUgZmlsZSBvbiB0aGUgZmlsZSBzeXN0ZW0sIGluIG9yZGVyIHRvIHJlcGxhY2UgaXQgYmFjayBpbi1tZW1vcnkuZGQCBw8PFgQfDQV3TG9hZDogRm9yY2VzIHRoZSBhcHBsaWNhdGlvbiB0byBnZXQgdGhlIGNvbnRlbnQgZnJvbSB0aGUgY2FjaGUgZmlsZSBvbiB0aGUgZmlsZSBzeXN0ZW0sIGluIG9yZGVyIHRvIHBsYWNlIGl0IGluLW1lbW9yeS4fCWhkZAIJDw8WBB8NBVpTYXZlOiBGb3JjZXMgdGhlIGN1cnJlbnQgaW4tbWVtb3J5IGNhY2hlIHRvIGJlIHNhdmVkIHRvIHRoZSBjYWNoZSBmaWxlIG9uIHRoZSBmaWxlIHN5c3RlbS4fCWhkZAINDw8WAh8KBYAIQ01TQ2FjaGUuSXNTYXZlZFRvRGlzayA9IFRydWU8YnIvPjAga2V5ID0gRHRleEFsbENvbG9yVHlwZXM8YnIvPjEga2V5ID0gRHRleEFsbENvbXBhbmllczxici8+MiBrZXkgPSBEdGV4QWxsQ29tcGFueVByb2R1Y3RNYXBwaW5nczxici8+MyBrZXkgPSBEdGV4QWxsRmFicmljVHlwZXM8YnIvPjQga2V5ID0gRHRleEFsbEZpbmlzaFR5cGVzPGJyLz41IGtleSA9IER0ZXhBbGxHcm91cGluZ3M8YnIvPjYga2V5ID0gRHRleFByaWNlTGlzdDxici8+OCBrZXkgPSBEdGV4QWxsU2VhcmNoYWJsZVByb2R1Y3RzPGJyLz45IGtleSA9IER0ZXhBbGxVc2FnZVR5cGVzPGJyLz5XRUIgQVBQIFRJRVIgOjogPGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxHcm91cGluZ3MgPSA2OTxici8+RGVzaWduVGV4Q2FjaGUuQWxsRmluaXNoVHlwZXMgPSAyOTxici8+RGVzaWduVGV4Q2FjaGUuQWxsVXNhZ2VUeXBlcyA9IDIyPGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxGYWJyaWNUeXBlcyA9IDg8YnIvPkRlc2lnblRleENhY2hlLkFsbENvbG9yVHlwZXMgPSA5PGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxDb21wYW5pZXMgPSAxNDIxMDU8YnIvPkRlc2lnblRleENhY2hlLkFsbENvbXBhbnlQcm9kdWN0TWFwcGluZ3MgPSA3MDA2PGJyLz5EZXNpZ25UZXhDYWNoZS5QcmljZUxpc3QgPSA1OTk8YnIvPkRlc2lnblRleENhY2hlLkFsbFNlYXJjaGFibGVQcm9kdWN0cyA9IDgyODg8YnIvPldFQiBTRVJWSUNFIFRJRVIgOjogPGJyLz5sUHJveHkuQWxsR3JvdXBpbmdzID0gNjk8YnIvPmxQcm94eS5BbGxGaW5pc2hUeXBlcyA9IDI5PGJyLz5sUHJveHkuQWxsVXNhZ2VUeXBlcyA9IDIwPGJyLz5sUHJveHkuQWxsRmFicmljVHlwZXMgPSA4PGJyLz5sUHJveHkuQWxsQ29sb3JUeXBlcyA9IDk8YnIvPmxQcm94eS5BbGxDb21wYW5pZXMgPSAxNDIxMDU8YnIvPmxQcm94eS5BbGxDb21wYW55UHJvZHVjdE1hcHBpbmdzID0gNzAwNjxici8+bFByb3h5LlByaWNlTGlzdCA9IDU5OTxici8+bFByb3h5LkFsbFNlYXJjaGFibGVQcm9kdWN0cyA9IDgyODg8YnIvPmRkAgIPDxYCHwoFiQg8IS0tIENNU0NhY2hlLklzU2F2ZWRUb0Rpc2sgPSBUcnVlPGJyLz4wIGtleSA9IER0ZXhBbGxDb2xvclR5cGVzPGJyLz4xIGtleSA9IER0ZXhBbGxDb21wYW5pZXM8YnIvPjIga2V5ID0gRHRleEFsbENvbXBhbnlQcm9kdWN0TWFwcGluZ3M8YnIvPjMga2V5ID0gRHRleEFsbEZhYnJpY1R5cGVzPGJyLz40IGtleSA9IER0ZXhBbGxGaW5pc2hUeXBlczxici8+NSBrZXkgPSBEdGV4QWxsR3JvdXBpbmdzPGJyLz42IGtleSA9IER0ZXhQcmljZUxpc3Q8YnIvPjgga2V5ID0gRHRleEFsbFNlYXJjaGFibGVQcm9kdWN0czxici8+OSBrZXkgPSBEdGV4QWxsVXNhZ2VUeXBlczxici8+V0VCIEFQUCBUSUVSIDo6IDxici8+RGVzaWduVGV4Q2FjaGUuQWxsR3JvdXBpbmdzID0gNjk8YnIvPkRlc2lnblRleENhY2hlLkFsbEZpbmlzaFR5cGVzID0gMjk8YnIvPkRlc2lnblRleENhY2hlLkFsbFVzYWdlVHlwZXMgPSAyMjxici8+RGVzaWduVGV4Q2FjaGUuQWxsRmFicmljVHlwZXMgPSA4PGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxDb2xvclR5cGVzID0gOTxici8+RGVzaWduVGV4Q2FjaGUuQWxsQ29tcGFuaWVzID0gMTQyMTA1PGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxDb21wYW55UHJvZHVjdE1hcHBpbmdzID0gNzAwNjxici8+RGVzaWduVGV4Q2FjaGUuUHJpY2VMaXN0ID0gNTk5PGJyLz5EZXNpZ25UZXhDYWNoZS5BbGxTZWFyY2hhYmxlUHJvZHVjdHMgPSA4Mjg4PGJyLz5XRUIgU0VSVklDRSBUSUVSIDo6IDxici8+bFByb3h5LkFsbEdyb3VwaW5ncyA9IDY5PGJyLz5sUHJveHkuQWxsRmluaXNoVHlwZXMgPSAyOTxici8+bFByb3h5LkFsbFVzYWdlVHlwZXMgPSAyMDxici8+bFByb3h5LkFsbEZhYnJpY1R5cGVzID0gODxici8+bFByb3h5LkFsbENvbG9yVHlwZXMgPSA5PGJyLz5sUHJveHkuQWxsQ29tcGFuaWVzID0gMTQyMTA1PGJyLz5sUHJveHkuQWxsQ29tcGFueVByb2R1Y3RNYXBwaW5ncyA9IDcwMDY8YnIvPmxQcm94eS5QcmljZUxpc3QgPSA1OTk8YnIvPmxQcm94eS5BbGxTZWFyY2hhYmxlUHJvZHVjdHMgPSA4Mjg4PGJyLz4gLS0+ZGQYAQU2Y3RsMDAkY3RsTmV3TGVmdE1lbnUkY3RsUHJvZHVjdFNlYXJjaCRtbHZTZWFyY2hPcHRpb25zDw9kAgFk">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWMgLlsNy1BQL/qIvQAwL1iKybCAK+6c+JBQLuo/TkCAKgmbPhCgKJ+t+VDwKgmc+eAgLvyceGDwKRk/PWBgLRiKCOAQKUn5eSCwKxiNHnCQLH24yaDAKQ1IjMBwKy65ODAgKytciPBwKbw+uNBAKPlbfJAwKTgtmjBgKXw+fBAwKouP6PAQKT6ejVCAKAgqGDBAKPsamaBALXj7LHCgKu6cjtDAKu6diODQKbnPzaDAK1h/FJApCuvzsClZyY9AIC2bzNjgEC27yd8QUCle/t5wMCt4e1SgLn2srgAwKRic7vBwL25+jEDQKPvoPkBwKv9M7PBgLhqciPBQLL/IrZCwL618CRDAKg1ZSuAQLbyqHzAQLEyqHzAQLIhvyvDwLXhvyvDwLkmu/9Dg==">
+
+  <div class="container">
+  	<div class="span-5 first prepend-5 logo toprow">
+  		<a href="http://www.designtex.com"><img id="ctl00_imgLogo" class="logo" src="http://cdn.designtex.com/images/28e81524b56748389b7ee780100cb495.png" alt="Home" height="30" width="222" border="0"></a>
+  	</div>
+  	<div class="span-5 prepend-9 last toprow">
+        
+<!--  BSSI:KMW:11/6/2012 - 12/01/2012 Changes Remove Print and Connect from Header Navigation
+<table style="margin-bottom:5px;" cellpadding="1" cellspacing="1" class="headerlinks">
+    <tr>
+        <td class="HeaderLinkIcon"><img id="ctl00_ctlTopMenuNavigation_imgPrintIcon" src="http://cdn.designtex.com/images/39f244b58e0b43398f7dfb775713e2a7.png" alt="Print Page" height="16" width="20" border="0" /></td>
+        <td style="padding-left:5px">&nbsp;<a id="ctl00_ctlTopMenuNavigation_lnkPrint" href="javascript:window.print()">print page</a></td>
+    </tr>
+</table>
+
+<table style="margin-bottom:2px;" cellpadding="1" cellspacing="1" class="headerlinks">
+    <tr>
+        <td class="HeaderLinkIcon"><img id="ctl00_ctlTopMenuNavigation_imgConnectIcon" src="http://cdn.designtex.com/images/346760b30b0f4166abf51968c01b66a4.png" alt="Connect" height="16" width="20" border="0" /></td>
+        <td style="padding-left:5px">&nbsp;<a id="ctl00_ctlTopMenuNavigation_lnkConnect" href="mailto:connect@designtex.com">connect</a></td>
+    </tr>
+</table>
+-->
+<table style="margin-bottom:2px;" cellpadding="1" cellspacing="1" class="headerlinks">    
+    <tbody><tr>
+        <!--<td class="HeaderLinkIcon"></td>-->
+        <td style="padding-left:8px; text-align:right;">
+            <!--<img id="ctl00_ctlTopMenuNavigation_imgLogin" src="http://cdn.designtex.com/images/09f6c2e7d54a401bb17f2beab20bf57a.png" height="16" width="20" border="0" />&nbsp;-->
+            <a id="ctl00_ctlTopMenuNavigation_lnkLoginCartHyperlink" href="/Login.aspx">Login / Register</a>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+<!--<div id="ctl00_ctlTopMenuNavigation_pnlReclamationInfo">
+	
+    <table cellpadding="1" cellspacing="1" class="headerlinks">    
+        <tr>
+            <td class="HeaderLinkIcon"><img id="ctl00_ctlTopMenuNavigation_imgRecycleIcon" src="http://cdn.designtex.com/images/1fb05cd01f304b3a870d6a76de387420.png" alt="Sample Reclamation" height="16" width="20" border="0" /></td>
+            <td style="padding-left:8px">
+                <a id="ctl00_ctlTopMenuNavigation_lnkReclamationHyperLink" href="/sample_reclamation.aspx?f=37224">sample reclamation</a>
+            </td>
+        </tr>
+    </table>
+
+</div>-->
+
+<!--
+ -->
+
+  	</div>
+
+    <div class="clearfix"></div>
+
+  	<div class="span-13 prepend-11 first last">
+        <input type="hidden" name="ctl00$ctlBreadcrumb$hidSearch" id="ctl00_ctlBreadcrumb_hidSearch">
+<input type="hidden" name="ctl00$ctlBreadcrumb$hidCustomerLogin" id="ctl00_ctlBreadcrumb_hidCustomerLogin" value="false">
+<input type="hidden" name="ctl00$ctlBreadcrumb$hidChildProductName" id="ctl00_ctlBreadcrumb_hidChildProductName">
+<div class="BreadCrumbText"><span id="ctl00_ctlBreadcrumb_lblBreadCrumb"><a href="http://www.designtex.com">Home</a><span class="unclickabletext"> &gt; </span><a href="ourcompany.aspx?f=35398">Our Company</a><span class="unclickabletext"> &gt; </span><a href="privacy_policy_cnav.aspx?f=40034">Privacy Policy</a></span></div>
+
+
+
+  	</div>
+
+    <div class="clearfix"></div>
+
+  	<div class="span-5 first">
+        
+<div class="menu" id="leftMenu12-1">
+    <div id="products" class="leftnavmenu"><img class="TriangleHide" id="Triangle_leftnavsub_products" src="//cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png">&nbsp;<a id="leftnavsub_products" href="products_Product.aspx?f=35536" class="LeftNav">Products</a></div><span class="leftnavsub_products" style="display:none"><ul><li><a href="upholstery_Product.aspx?f=39718" class="LeftNavChild">Upholstery</a></li><li><a href="wallcovering_Product.aspx?f=37172" class="LeftNavChild">Wallcovering</a></li><li><a href="panel_fabric_Product.aspx?f=35542" class="LeftNavChild">Panel Fabric</a></li><li><a href="privacy_textiles_Product.aspx?f=37182" class="LeftNavChild">Privacy Textiles</a></li><li><a href="handmade_rugs_Product.aspx?f=38638" class="LeftNavChild">Handmade Rugs</a></li><li><a href="fusion_Product.aspx?f=35622" class="LeftNavChild">Fusion</a></li><li><a href="http://www.designtexarchitecturalfinishes.com" class="LeftNavChild">Architectural Finishes</a></li><li><a href="http://www.designtexbespoke.com" class="LeftNavChild">Designtex Bespoke</a></li><li><a href="writeup1_Product.aspx?f=39958" class="LeftNavChild">writeup1</a></li><li><a href="custom_solutions_Product.aspx?f=35630" class="LeftNavChild">Custom Solutions</a></li><li><a href="environmental_design_Product.aspx?f=35632" class="LeftNavChild">Environmental Design</a></li><li><a href="extreme_performance_Product.aspx?f=35628" class="LeftNavChild">Extreme Performance</a></li></ul></span>
+                        <div class="leftnavmenu" id="product_catalogs"><img class="TriangleHide" id="Triangle_leftnavsub_product_catalogs" src="//cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png">&nbsp;<a class="LeftNav" id="leftnavsub_product_catalogs" href="#">Product Catalogs</a></div><span class="leftnavsub_product_catalogs" style="display:none;"><ul><li><a href="/ProductCatalog/CUBE/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Cubicles</a></li><li><a href="/ProductCatalog/VERT/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Panel Fabric</a></li><li><a href="/ProductCatalog/UPPE/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Envtl. / Perf.</a></li><li><a href="/ProductCatalog/UPED/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Envtl. Design</a></li><li><a href="/ProductCatalog/UPEP/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Extreme Perf.</a></li><li><a href="/ProductCatalog/UPLT/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Leather</a></li><li><a href="/ProductCatalog/UPVN/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Vinyl</a></li><li><a href="/ProductCatalog/UPWV/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Upholstery Woven</a></li><li><a href="/ProductCatalog/SHTR/index.html" target="_blank" title="" id="idFlippingBook" class="LeftNavChild">Shelter Collection</a></li></ul></span>
+
+                    
+
+
+<script type="text/javascript" language="javascript">
+               
+    function stylesearch(txtStyle, txtColor)
+    {
+        if(document.getElementById(txtStyle.id).value == "" && document.getElementById(txtColor.id).value != "")
+        {
+            document.getElementById(txtStyle.id).style.border = "1px solid red";
+            return false;
+        }
+        
+        document.getElementById(txtStyle.id).style.border = "1px solid black";
+        return true;
+    }    
+    
+    function search_keypress(searchtype)
+    {
+        if (window.event.keyCode == 13)
+            //alert('search - keypress' + searchtype);        
+            __doPostBack('__Page', searchtype);
+    }
+
+    function search_keypress_style(searchtype, txtStyle, txtColor)
+    {
+        if(window.event.keyCode==13)        
+        {
+           if(stylesearch(txtStyle, txtColor)==true)
+               //alert('search - keypress - style' + searchtype);
+           __doPostBack('__Page', searchtype);                        
+        }        
+    }
+
+    $(document).ready(function() {
+
+        var search = $("[ID$='hidMenu']").val();
+        if (search == "selected") {
+            $("[ID$='ctlProductSearch_divContent']").slideDown(1, function() { });
+            //setSelected(this.id); 
+        };
+    });
+
+    </script>
+<div class="leftnavmenu" id="product_search">
+    <input name="ctl00$ctlNewLeftMenu$ctlProductSearch$hidMenu" type="hidden" id="ctl00_ctlNewLeftMenu_ctlProductSearch_hidMenu"> 
+    <img class="TriangleHide" id="Triangle_leftnavsub_product_search" src="http://cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png">&nbsp;<a href="#" id="leftnavsub_product_search" class="LeftNav">Product Search</a>
+</div>
+
+<span id="ctl00_ctlNewLeftMenu_ctlProductSearch_divContent" style="display:none;" class="leftnavsub_product_search">
+<table class="productsearch" style="width: 100%;">
+    <tbody><tr>
+        <td>
+            
+                    <div id="ctl00_ctlNewLeftMenu_ctlProductSearch_pnlSearchCriteriaSamplePriceList">
+	
+                        </div><table id="tblAdvSearch">
+                        <tbody><tr>
+                            <td>
+                                Name
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input name="ctl00$ctlNewLeftMenu$ctlProductSearch$txtStyleName" type="text" id="ctl00_ctlNewLeftMenu_ctlProductSearch_txtStyleName" class="searchtextbox" onkeypress="search_keypress(1)">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img id="ctl00_ctlNewLeftMenu_ctlProductSearch_imgTriangleSearch2" src="http://cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png" height="7" width="7" border="0">                            
+                                <a id="ctl00_ctlNewLeftMenu_ctlProductSearch_hlnkNameSearch" href="javascript:__doPostBack('ctl00$ctlNewLeftMenu$ctlProductSearch$hlnkNameSearch','')">Search</a><br>
+                            </td>
+                        </tr>
+                        <tr><td>&nbsp;</td></tr>
+                        <tr>
+                            <td>
+                                Style Number
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input name="ctl00$ctlNewLeftMenu$ctlProductSearch$txtStyleNum" type="text" maxlength="5" id="ctl00_ctlNewLeftMenu_ctlProductSearch_txtStyleNum" class="searchtextboxmedium" onkeypress="search_keypress_style(2, ctl00_ctlNewLeftMenu_ctlProductSearch_txtStyleNum, ctl00_ctlNewLeftMenu_ctlProductSearch_txtColorCode)">&nbsp;<input name="ctl00$ctlNewLeftMenu$ctlProductSearch$txtColorCode" type="text" maxlength="3" id="ctl00_ctlNewLeftMenu_ctlProductSearch_txtColorCode" class="searchtextboxsmall" onkeypress="search_keypress_style(2, ctl00_ctlNewLeftMenu_ctlProductSearch_txtStyleNum, ctl00_ctlNewLeftMenu_ctlProductSearch_txtColorCode)">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img id="ctl00_ctlNewLeftMenu_ctlProductSearch_imgTriangleSearch3" src="http://cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png" height="7" width="7" border="0">                            
+                                <a onclick="return stylesearch(, );" id="ctl00_ctlNewLeftMenu_ctlProductSearch_hlnkStyleNumSearch" href="javascript:__doPostBack('ctl00$ctlNewLeftMenu$ctlProductSearch$hlnkStyleNumSearch','')">Search</a><br>
+                            </td>
+                        </tr>
+                        <tr><td>&nbsp;</td></tr>
+                        
+                        <tr>
+                            <td>
+                                Price List
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select name="ctl00$ctlNewLeftMenu$ctlProductSearch$ddlPriceListAdv" id="ctl00_ctlNewLeftMenu_ctlProductSearch_ddlPriceListAdv" class="searchtextbox" onkeypress="search_keypress(3)">
+		<option value="">all</option>
+		<option value="0-10">$10 and under</option>
+		<option value="0-25">$25 and under</option>
+		<option value="0-45">$45 and under</option>
+		<option value="46-79228162514264337593543950335">$46 and over</option>
+
+	</select>
+                            </td>
+                        </tr>                      
+                        <tr><td>&nbsp;</td></tr>
+                        
+
+
+                         <tr>
+                            <td>
+                                Color
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <input name="ctl00$ctlNewLeftMenu$ctlProductSearch$selVal" type="hidden" id="ctl00_ctlNewLeftMenu_ctlProductSearch_selVal">           
+                                <div id="ctl00_ctlNewLeftMenu_ctlProductSearch_pnlColor" onkeypress="search_keypress(3)">
+	                                                 
+                                    <table onselectstart="return false;" width="100%" bgcolor="white" border="0" cellpadding="0" cellspacing="0"> <tbody class="imagelistboxtable"><tr><td></td><td id="0" style="background:#0A246A;color:white;" onmouseover="setColorHover(this, 'LightGreen', 'true');" onmouseout="setColorHover(this, 'white', 'true');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '0');"> all</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/100.png"></td><td id="100" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '100');"> white neutrals brown</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/200.png"></td><td id="200" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '200');"> yellow gold</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/300.png"></td><td id="300" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '300');"> red burgundy pink</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/400.png"></td><td id="400" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '400');"> blue navy</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/500.png"></td><td id="500" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '500');"> green aquamarine</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/600.png"></td><td id="600" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '600');"> purple rose</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/700.png"></td><td id="700" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '700');"> orange rust nectar</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/800.png"></td><td id="800" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '800');"> black grey</td></tr><tr><td><img src="http://cdn.designtex.com//images/Designtex/Logo/900.png"></td><td id="900" onmouseover="setColorHover(this, 'LightGreen', 'false');" onmouseout="setColorHover(this, 'white', 'false');" onclick="select(this,'ctl00_ctlNewLeftMenu_ctlProductSearch_selVal', '', '900');"> multi-colored</td></tr></tbody></table>
+                                
+</div>                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Category/Type
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select name="ctl00$ctlNewLeftMenu$ctlProductSearch$ddlCategory" id="ctl00_ctlNewLeftMenu_ctlProductSearch_ddlCategory" class="searchtextbox" onkeypress="search_keypress(3)">
+	<option value="">all</option>
+	<option value="BESP">bespoke</option>
+	<option value="CUBE">cubicles</option>
+	<option value="DRAP">drapery</option>
+	<option value="FUSI">fusion</option>
+	<option value="VERT">panel fabric</option>
+	<option value="PTEX">privacy textiles</option>
+	<option value="SHAD">shades and screens</option>
+	<option value="UPHO">upholstery</option>
+	<option value="UPPE">upholstery envtl. / perf.</option>
+	<option value="UPED">upholstery envtl. design</option>
+	<option value="UPEP">upholstery extreme perf.</option>
+	<option value="UPLT">upholstery leather</option>
+	<option value="UPVN">upholstery vinyl</option>
+	<option value="UPWV">upholstery woven</option>
+	<option value="WALL">wallcovering</option>
+	<option value="PVCF">wallcovering pvc free</option>
+	<option value="RECO">wallcovering rec. content</option>
+	<option value="VNYL">wallcovering vinyl</option>
+	<option value="WOVN">wallcovering woven</option>
+
+</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Pattern :
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select name="ctl00$ctlNewLeftMenu$ctlProductSearch$ddlPattern" id="ctl00_ctlNewLeftMenu_ctlProductSearch_ddlPattern" class="searchtextbox" onkeypress="search_keypress(3)">
+	<option value="">all</option>
+	<option value="P04">animal</option>
+	<option value="P05">botanical</option>
+	<option value="GEO">geometric</option>
+	<option value="ORG">organic</option>
+	<option value="PLD">plaid</option>
+	<option value="P06">solid &amp; textured</option>
+	<option value="STR">stripe</option>
+	<option value="P07">woodgrain</option>
+
+</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                ED (Environmental Design)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select name="ctl00$ctlNewLeftMenu$ctlProductSearch$ddlSustainability" id="ctl00_ctlNewLeftMenu_ctlProductSearch_ddlSustainability" class="searchtextbox" onkeypress="search_keypress(3)">
+	<option value="0">no</option>
+	<option value="1">yes</option>
+
+</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                EP (Extreme Performance)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select name="ctl00$ctlNewLeftMenu$ctlProductSearch$ddlPerformance" id="ctl00_ctlNewLeftMenu_ctlProductSearch_ddlPerformance" class="searchtextbox" onkeypress="search_keypress(3)">
+	<option value="0">no</option>
+	<option value="1">yes</option>
+
+</select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img id="ctl00_ctlNewLeftMenu_ctlProductSearch_imgTriangleSearch4" src="http://cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png" height="7" width="7" border="0">                            
+                                <a id="ctl00_ctlNewLeftMenu_ctlProductSearch_hlnkAdvanceSearch" href="javascript:__doPostBack('ctl00$ctlNewLeftMenu$ctlProductSearch$hlnkAdvanceSearch','')">Search</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <span id="ctl00_ctlNewLeftMenu_ctlProductSearch_lblSearchCriteriaDisplay"><!--Products Total : 8288<br/>8288<br/>Sample Total : 7105<br/>Retail Total : 8<br/>Products Found : Name : Style : Color Code : Low Price : High Price : Color Type : Category : Pattern : ED : EP : Customer Scope : All<br/>Customer Number : 0<br/>Product Scope : All<br/>Search Mode : 0<br/>Master Product Count : Retail Product Count : Outlet Product Count : Customer Product Count : Overstock Only Count : --></span>
+            &nbsp;
+        </td>
+    </tr>
+</tbody></table>
+</span>
+
+                    <div id="environmental_design" class="leftnavmenu"><img class="TriangleHide" id="Triangle_leftnavsub_environmental_design" src="//cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png">&nbsp;<a id="leftnavsub_environmental_design" href="environmental_design_Environments.aspx?f=35394" class="LeftNav">Environmental Design</a></div><span class="leftnavsub_environmental_design" style="display:none"><ul><li><a href="vision_mission_Environments.aspx?f=36268" class="LeftNavChild">Vision &amp; Mission</a></li><li><a href="ceu_education_Environments.aspx?f=36270" class="LeftNavChild">CEU Education</a></li><li><a href="ed_stories_Environments.aspx?f=36272" class="LeftNavChild">ED Stories</a></li><li><a href="ed_history_Environments.aspx?f=36274" class="LeftNavChild">ED History</a></li><li><a href="product_recycling_Environments.aspx?f=36276" class="LeftNavChild">Product Recycling</a></li><li><a href="leed_Environments.aspx?f=36278" class="LeftNavChild">LEED</a></li><li><a href="products_Environments.aspx?f=37154" class="LeftNavChild">Products</a></li></ul></span>
+                        <div id="services" class="leftnavmenu"><img class="TriangleHide" id="Triangle_leftnavsub_services" src="//cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png">&nbsp;<a id="leftnavsub_services" href="services.aspx?f=35396" class="LeftNav">Services</a></div><span class="leftnavsub_services" style="display:none"><ul><li><a href="sample_reclamation_Reclamation.aspx?f=40032" class="LeftNavChild">Sample Reclamation</a></li><li><a href="consulting_services.aspx?f=35408" class="LeftNavChild">Consulting</a></li><li><a href="ceu_education_services.aspx?f=35410" class="LeftNavChild">CEU Education</a></li><li><a href="performance_calculator_services.aspx?f=39556" class="LeftNavChild">Performance Calculator</a></li><li><a href="global_order_fulfillment_services.aspx?f=36280" class="LeftNavChild">Global Order Fulfillment</a></li><li><a href="support_installation_services.aspx?f=36282" class="LeftNavChild">Support Installation</a></li><li><a href="terms_of_sale_services.aspx?f=35874" class="LeftNavChild">Terms of Sale</a></li><li><a href="warranties_services.aspx?f=36284" class="LeftNavChild">Warranties</a></li></ul></span>
+                        <div id="our_company" class="leftnavmenu"><img class="TriangleDisplay" id="Triangle_leftnavsub_our_company" src="//cdn.designtex.com/images/f60e51ec2a7a42a596f16048b8d55665.png">&nbsp;<a id="leftnavsub_our_company" href="ourcompany.aspx?f=35398" class="LeftNavFocus">Our Company</a></div><span class="leftnavsub_our_company" style="display:block"><ul><li><a href="vision_mission_ourcompany.aspx?f=36354" class="LeftNavChild">Vision &amp; Mission</a></li><li><a href="corporate_sustainability_ourcompany.aspx?f=39596" class="LeftNavChild">Corporate Sustainability</a></li><li><a href="giving_back_ourcompany.aspx?f=39402" class="LeftNavChild">Giving Back</a></li><li><a href="awards_history_ourcompany.aspx?f=39558" class="LeftNavChild">Awards &amp; History</a></li><li><a href="locations_ourcompany.aspx?f=40048" class="LeftNavChild">Locations</a></li><li><a href="careers_ourcompany.aspx?f=35640" class="LeftNavChild">Careers</a></li><li><a href="privacy_policy_cnav.aspx?f=40034" class="LeftNavChildFocus">Privacy Policy</a></li><li><a href="terms_and_conditions_cnav.aspx?f=40036" class="LeftNavChild">Terms and Conditions</a></li></ul></span>
+                        
+</div>
+   <script type="text/javascript" language="javascript">
+       // put all your jQuery goodness in here
+       $(document).ready(function() {
+           var selection = null;
+           var running = new myobject();
+           function myobject() { this.value = false; }
+
+           // maintain selection state across postbacks        
+           $("a.LeftNavFocus").each(function() { selection = this.id; })
+
+           // handle menu link clicks
+           $("a.LeftNav, a.LeftNavFocus").hoverIntent({
+               sensitivity: 2,
+               interval: 100,
+               over: expand,
+               timeout: 500,
+               out: donothing
+           });
+
+           function donothing() { }
+           function expand() {
+               if (running.value == false) {
+
+                   if (selection != this.id) {
+                       running.value = true;
+
+                       if (selection != null) {
+                           $("span." + selection).slideUp(1000, timer); //, 'linear', setUnselected(selection));
+                           //setTimeout({}, 1000);
+                           setUnselected(selection);
+                       }
+
+                       $("span." + this.id).slideDown(1000); //, 'linear', setSelected(this.id)); // set selected style                                                                                                                                                                                                      
+                       setSelected(this.id);
+                       selection = this.id;                                  // set the previous selection for use on the next click                
+                       return false;                                         // prevent postback                                                   
+                   }
+               }
+           }
+
+           function sliderCallback() { running.value = false; }
+           function timer() { setTimeout({}, 2000); }
+           function setSelected(id) {
+               //  $("span." + id).slideDown(1000, 'linear',
+               //  function() {
+               $("#" + id).removeClass();
+               $("#" + id).addClass("LeftNavFocus");
+               $("#Triangle_" + id).removeClass();
+               $("#Triangle_" + id).addClass("TriangleDisplay");
+               $("#Triangle_" + id).attr("src", "//cdn.designtex.com/images/f60e51ec2a7a42a596f16048b8d55665.png");
+               $("span." + id).css('display', 'block');
+               sliderCallback();
+               //  });
+           }
+
+           function setUnselected(id) {
+               //$("span." + id).slideUp(1000, 'linear',
+               //function() {
+               $("#" + id).removeClass();
+               $("#" + id).addClass("LeftNav");
+               $("#Triangle_" + id).removeClass();
+               $("#Triangle_" + id).addClass("TriangleHide");
+               $("#Triangle_" + id).attr("src", "//cdn.designtex.com/images/10f8371c5c3d46fd9f319911cbbc3564.png");
+               //$("span." + id).css('display', 'none');
+               //$("span." + id).css('display', 'none');
+               //});
+           }
+       });                                                       
+    </script>
+        
+  	</div>
+  	
+  	<!-- chashley note: named 19 width to remind developers to do div spans with correct numbering -->
+    
+
+    <div class="span-19 last">
+        
+
+<!-- CONTENTBLOCK -->
+<table width="90%" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td class="MainContentHeaderText">
+            Privacy Policy
+        </td>
+    </tr>
+    <tr>
+        <td class="MainContentHeaderText">
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" class="MainContentText">
+            <p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">Welcome to designtex.com (the “Site”). This Site is owned by Steelcase Inc. This Privacy Policy is designed to tell you how this Site collects, uses, and discloses the information you provide via this Site. By using this Site, you acknowledge that you have reviewed, and agree to, the terms of this Privacy Policy and the Terms and Conditions of Use. If you do not agree to this Privacy Policy and the Terms please do not access, submit information to or otherwise use this Site.</span></p>
+<p style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt"><span style="COLOR: black">This Privacy Policy applies only to this Site. Although this Site may provide you with links to other websites, including those of our business partners and/or service providers, those websites are not covered by this Privacy Policy. Likewise, although this Site may provide links to websites that are owned or operated by us or our affiliates, this Privacy Policy does not apply to such websites. We strongly encourage you to read the privacy policy of every website you visit, including those websites to which this Site provides links. Whenever you link to any other website from this Site, you are solely responsible for any interactions you may have with that website. Links from this Site to other websites will typically open in a separate browser window while the browser window for this Site remains open in the background.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">This Site may provide links to a third party website via Steelcase.com that allows you to enroll for electronic delivery of our proxy statement, annual report, and related materials as an alternative to receiving such materials by mail. This third-party website gathers certain personally identifiable information (e.g., your Social Security Number and email address) to process your enrollment. Even though this third-party website may be branded with the Steelcase logo, it is operated by Investor Communication Services (“ICS”) and any information you submit through that website is subject to the terms of ICS’s website privacy policy, which is available at www.icsdelivery.com. Our Privacy Policy does not apply to the ICS website.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Active Information Collection</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">At various points on this Site, you might choose to actively provide certain kinds of information, including personally identifiable information, such as full name, address, phone number, e-mail address, etc. The Site typically will indicate which information is required and which information is optional at the information collection point in question. In any case, by submitting information via an active information collection point at this Site, you specifically consent to the collection, use, and dissemination of such information in accordance with this Privacy Policy.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">Active information collection points at this Site may include:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b>Email Reply Mechanisms</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may provide you with one or more e-mail reply mechanisms through which you may submit questions or comments. Information you provide via such e-mail reply mechanisms is typically all optional. We may use the information you provide in your e-mail to respond to your inquiry, and we reserve the right to retain whatever information you submit in your e-mail, including your name, e-mail address, and any comments or other information that you send via the e-mail reply mechanism.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b>Question, Comment, and Feedback Forms</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may post a form for you to use in submitting questions, comments, and other feedback about us, our affiliates, this Site, our or our affiliates’ products and services, and other topics. We use such feedback information to improve this Siteand our or our affiliates’ products and services as well as for marketing and research purposes. Most information you provide in such forms is optional, but you will need to provide at least some personally identifiable information, such as your name, address, e-mail address, and phone number, so that we may respond to your inquiry.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Product Information and Catalog Request Forms</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may include a form that you can use to request information about us, our affiliates, or our or our affiliates’ products and services, or to request catalogs or brochures. In addition to asking you to identify the specific information or materials in which you are interested, these forms may request, among other things, your name, address, and e-mail address, so that we may send you the information or materials you request. These forms may also request certain demographic information about you to help us better understand your interests and needs.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Software Download Form</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may include a form that you must complete before receiving a software download from the Site. This form may request, among other things, your name, address, and e-mail address. The form also requests certain information about the computer systems you are using. We use this information to keep track of software downloads and to learn more about what computer systems and configurations visitors to the Site use. We also may use this information to send you updated versions of the software as they become available and to notify you of problems with the software.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Surveys and Evaluations</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">The Site may ask you to complete optional surveys and evaluations about us, our affiliates, this Site, our or our affiliates’ products and services, and other topics. These surveys and evaluations might request personally identifiable information, such as your name and e-mail address, so that we can follow up with you. Typically, we use such surveys and evaluations to better understand our customers and their preferences.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Registration Forms</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">Because access to portions of this Site is restricted to unauthorized users, you may be required to complete a registration form. This form may ask you for a variety of information that will help us to identify you and contact you, such as your name, business address, office e-mail address, office phone number, and your relationship to us. Where you could be using the Site to place orders, we will also ask you for billing and shipping information. Registration information will be associated with your username and password, without which you will not be able to access the restricted portions of the Site.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">E-Mail Newsletters, Alerts, or Reminders</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">The Site may ask you to provide your e-mail address so that you can receive e-mail newsletters, alerts, or reminders about us, our affiliates, our Site, our or our affiliates’ products and services, and other topics of interest. If you no longer wish to receive such e-mails, please follow the “unsubscribe” instructions included in such e-mails or contact us as described below.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Purchasing/Order Processing Information</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may allow you to purchase our products and services online. As a result, the Site gathers certain personally identifiable information (e.g., your name and address) and payment information (e.g., your credit card number) to process your order. Specifically, we may:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">(i) use and disclose the information you provide as necessary to process and ship your order (e.g., by disclosing your name and address to fulfillment houses and delivery services such as UPS or Federal Express;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">(ii) use the personally identifiable information you provide to notify you about the status of your order;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">(iii) retain this information to create an account for later use (so that you do not need to re-enter the information for each subsequent order);</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">(iv) group your de-identified information with that of other Site users to provide information to us about group purchasing and preferences; and</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">(v) share this information (other than payment information) with our affiliates, business partners, and dealers.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b>Other Functions</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site may offer tests, quizzes, search functions, calculators, or conversion tools that help you learn more about various topics. We use the information you input while using these functions to provide you with immediate feedback.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><b>Passive Information Collection</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">This Site uses various technologies to passively collect information from you while you are visiting (that is, you do not actively provide this information). Such technologies allow the Site to collect a range of non-personally identifiable information, including your Internet Protocol (IP) address (a unique identifier automatically assigned to your computer when logging onto the Internet), the type of Web browser and operating system you use, the date and time you visit the Site, the specific pages you visit on the Site, and the address of the website you visited before coming to this Site. We typically use such passively collected information for a variety of purposes, such as to administer the Site, customize the Site to your preferences, and compile aggregated statistics for marketing and research purposes. We reserve the unrestricted right to use this passively collected, non-personally identifiable information for any purpose including, but not limited to, selling, leasing, permitting access to, or otherwise transferring it to our affiliates, business partners, advertisers, dealers, and other third parties.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">Two types of passive information collection technologies deserve special mention:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b>Cookies</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">“Cookies” are small text files that store information about your interactions with a particular website, either temporarily (known as a “temporary” or “session” cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a “permanent” or “persistent cookie”). Cookies can make it easier to use a website by allowing servers to access certain information quickly.</span></p>
+<p><span style="COLOR: black">Session cookies can be used to help a user’s browser navigate a website more smoothly and may appear if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.</span></p>
+<p><span style="COLOR: black">Persistent cookies can be used to customize a website for a user, such as by storing passwords, preferences, and registration and account information so that users do not have to reenter them each time they visit a website.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">This Site uses both session/temporary cookies and persistent/permanent cookies to store information that allows us to offer you better customer service and to navigate through the Site with ease. To make the Site easier to use, we combine information collected via cookies with personally identifiable information. Note that if you configure your browser to reject cookies, you might not be able to access important functions or areas of the Site or enjoy certain conveniences at this Site.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b>Web Beacons</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">“Web beacons” (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are Internet tags that are smaller than cookies and may tell the website server non-personally identifiable information such as IP address and browser type. This Site does not use "Web beacons".</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><b>Other Uses and Disclosures of Information</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">As indicated above, we use information we collect from you via this Site for a variety of purposes. Unless otherwise provided above, we may also use personally and non-personally identifiable information you submit via this Site in the following ways:</span></p>
+<p>· <span style="COLOR: black">to tell you about new products and services or other information we think may be of interest to you. If you do not wish to receive such notifications or updates, please use the "connect with us" form on designtex.com to specify which notifications or updates you do not wish to receive;</span></p>
+<p>· <span style="COLOR: black">to conduct internal marketing and research; and</span></p>
+<p><a id="_DV_M74" class="bookmark" title="_DV_M74" name="_DV_M74"></a>· <span style="COLOR: black">to improve the content of the Site.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">From time to time, our service providers may have access to information you submit via the Site to provide operational or other support services for the Site (e.g., Web hosting or database services). We have put in place agreements with such service providers to protect against unauthorized uses or disclosures of such information.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><span style="COLOR: black">Except as otherwise provided in the “Active Information Collection” section above, we also reserve the right to sell, lease, provide access, or otherwise transfer personally identifiable information you submit via this Site to our business partners (including e-mail delivery services and content providers), affiliates, and dealers for the purposes described in this Privacy Policy.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt 0.5in"><b><span style="COLOR: black">NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS PRIVACY POLICY OR ELSEWHERE ON THIS SITE, WE RESERVE THE RIGHT TO SHARE OR TRANSFER ANY INFORMATION YOU SUBMIT VIA THIS SITE TO ANOTHER PERSON OR COMPANY IN CONNECTION WITH THE SALE, ASSIGNMENT, OR OTHER TRANSFER OF THE BUSINESS OF THIS SITE AND/OR STEELCASE INC.; TO RESPOND TO LAW ENFORCEMENT REQUESTS; OR WHERE REQUIRED BY APPLICABLE LAW, STATUTE, REGULATION, ORDINANCE, SUBPOENA, OR COURT ORDER. BY SUBMITTING PERSONALLY IDENTIFIABLE INFORMATION VIA THIS SITE, YOU CONSENT TO SUCH DISCLOSURES IN ACCORDANCE WITH THIS PRIVACY POLICY.</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><b>Security Measures</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">We use standard industry physical, electronic and administrative precautions to protect and safeguard the information you provide to us. Nevertheless, no data transmission over the Internet can be guaranteed to be completely secure. As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us. Therefore, use the Site at your own risk.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Information Access</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">We take reasonable measure to ensure that personally identifiable information that we collect from you via this Site is accurate, current, complete, and reliable for its intended uses. If you wish to update or otherwise correct personally identifiable information you have provided to us, please resubmit the applicable form on the Site with the updated information. If you have questions related to employment, use the “connect with us” email response form.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">We will make reasonable efforts to respond to your inquiry, but we may require follow-up or contact information to allow us to verify that you are the person authorized to view the information you are requesting. We may, in our discretion, refuse to allow you access to certain information if, in our view, to provide such access would jeopardize another person’s privacy; would violate any applicable federal, state, or foreign law, regulation, or directive; or would unreasonably burden this Site.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">It is your responsibility to safeguard any usernames and passwords you use to access portions of this Site and to notify us if you ever suspect that these usernames or passwords have been compromised. You acknowledge that you are solely responsible for any unauthorized use of this Site conducted via your username or password.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Safeguarding Children's Privacy</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">This Site is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from such individuals. Should a child who we know to be under 13 years of age send us personal information without the verifiable consent of that child's parent or guardian, we will immediately delete such information from our databases.</span></p>
+<h3 style="TEXT-ALIGN: justify; MARGIN: 0in 0in 12pt">Governing Law Venue</h3>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">This Privacy Policy forms part of our Terms and Conditions of Use and as such the laws of the State of Michigan, U.S.A. will govern this Privacy Policy without giving effect to any principles of conflicts of laws. YOU AGREE TO SUBMIT TO THE EXCLUSIVE PERSONAL JURISDICTION AND VENUE OF THE STATE AND FEDERAL COURTS LOCATED IN MICHIGAN, U.S.A. IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS PRIVACY POLICY.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><b>Ask Us/Enforcement of this Privacy Policy</b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">If at any time you have questions, comments, or concerns about this Privacy Policy, or the information practices of this Site, please the “connect with us” site.</span></p>
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">We will take reasonable steps to respond to your inquiry and remedy any problems you may bring to our attention.</span></p>
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><b>Changes to this Privacy Policy</b></p>
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 12pt"><span style="COLOR: black">If this Privacy Policy changes, the revised Policy will be posted here and the date of the newest version will be posted below. Please check back frequently, especially before you submit any personally identifiable information at this Site, to see if the Privacy Policy has changed.</span></p>
+<p><span style="COLOR: black">This Privacy Policy was last revised: July, 2008</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            &nbsp;
+        </td>
+    </tr>
+</tbody></table>
+
+    </div>
+
+
+  	
+    <div class="clearfix"></div>
+	
+  	<div class="span-19 first prepend-5 last">
+        
+
+<div class="span-16 CustomerServiceFooter" id="footer">
+        800.221.1540 | <a class="FooterNav" href="mailto:info@designtex.com">info@designtex.com</a> | 
+        
+            Designtex ® A <a href="http://www.steelcase.com" target="_blank" class="FooterNav">Steelcase</a> Company | © 2014 Steelcase Inc.
+        
+        
+  	</div>
+  	
+    <div class="span-3 last">
+        <!-- (c) 2005, 2010. Authorize.Net is a registered trademark of CyberSource Corporation -->&nbsp;            
+  	</div>
+    <!--<div class="span-3 last">-->
+<!--
+<style type="text/css">
+	dl.image_map {display:block; width:69px; height:62px; background:url(http://cdn.designtex.com/images/1e21400e69a44c3590a908a849340c7f.gif); position:relative; margin: 30px auto 2px 30px;}
+	a.LINK0 {left:3px; top:2px; background:transparent;}
+	a.LINK0 {display:block; width:32px; height:0; padding-top:31px; overflow:hidden; position:absolute;}
+	a.LINK0:hover  {background:transparent; border:1px dashed black; color:black;}
+	a.LINK1 {left:34px; top:1px; background:transparent;}
+	a.LINK1 {display:block; width:32px; height:0; padding-top:30px; overflow:hidden; position:absolute;}
+	a.LINK1:hover  {background:transparent; border:1px dashed black; color:black;}
+	a.LINK2 {left:4px; top:30px; background:transparent;}
+	a.LINK2 {display:block; width:31px; height:0; padding-top:29px; overflow:hidden; position:absolute;}
+	a.LINK2:hover  {background:transparent; border:1px dashed black; color:black;}
+	a.LINK3 {left:35px; top:30px; background:transparent;}
+	a.LINK3 {display:block; width:31px; height:0; padding-top:29px; overflow:hidden; position:absolute;}
+	a.LINK3:hover  {background:transparent; border:1px dashed black; color:black;}
+</style>
+
+<dl class="image_map">
+        
+        	<dd><a class="LINK0" title="" href="http://www.facebook.com/pages/Designtex/56213715473" alt="Follow us on Facebook" title="Follow us on Facebook"></a></dd>
+        
+           	<dd><a class="LINK1" title="" href="http://twitter.com/Designtex_Inc" alt="Follow us on Twitter" title="Follow us on Twitter"></a></dd>
+        
+           	<dd><a class="LINK2" title="" href="http://www.youtube.com/user/DesigntexInc" alt="Follow us on You Tube" title="Follow us on You Tube"></a></dd>
+        
+        	<dd><a class="LINK3" title="" href="http://blog.designtex.com" alt="Follow our Blog" title="Follow our Blog"></a></dd>
+        
+
+</dl>
+-->
+            
+<!--        <div class="span-3 FollowUs">
+            connect with us
+        </div>
+  	</div> -->
+
+<!-- Version: 2014.07.15.29187 -->
+ 
+  	</div>
+
+    <div class="clearfix"></div>
+
+  	<div class="span-19 first prepend-5 last">
+        
+<span id="ctl00_ucCachingTools_lblBetaServerDiagnostics"><!-- CMSCache.IsSavedToDisk = True<br/>0 key = DtexAllColorTypes<br/>1 key = DtexAllCompanies<br/>2 key = DtexAllCompanyProductMappings<br/>3 key = DtexAllFabricTypes<br/>4 key = DtexAllFinishTypes<br/>5 key = DtexAllGroupings<br/>6 key = DtexPriceList<br/>8 key = DtexAllSearchableProducts<br/>9 key = DtexAllUsageTypes<br/>WEB APP TIER :: <br/>DesignTexCache.AllGroupings = 69<br/>DesignTexCache.AllFinishTypes = 29<br/>DesignTexCache.AllUsageTypes = 22<br/>DesignTexCache.AllFabricTypes = 8<br/>DesignTexCache.AllColorTypes = 9<br/>DesignTexCache.AllCompanies = 142105<br/>DesignTexCache.AllCompanyProductMappings = 7006<br/>DesignTexCache.PriceList = 599<br/>DesignTexCache.AllSearchableProducts = 8288<br/>WEB SERVICE TIER :: <br/>lProxy.AllGroupings = 69<br/>lProxy.AllFinishTypes = 29<br/>lProxy.AllUsageTypes = 20<br/>lProxy.AllFabricTypes = 8<br/>lProxy.AllColorTypes = 9<br/>lProxy.AllCompanies = 142105<br/>lProxy.AllCompanyProductMappings = 7006<br/>lProxy.PriceList = 599<br/>lProxy.AllSearchableProducts = 8288<br/> --></span>
+
+  	</div>
+
+    <div class="clearfix"></div>
+
+  </div>
+  
+    </form>
+
+
+
+</body></html>
