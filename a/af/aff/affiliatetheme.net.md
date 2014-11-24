@@ -1,92 +1,61 @@
-> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508160032id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120646id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Affiliate Theme
+# Privacy Policy - Affiliate Theme 3.0 Affiliate Theme 3.0 - Affiliate Theme 3.0
 
-**What information do we collect?**
+AffiliateTheme.net Privacy Policy  
+Last Revised August 1, 2014
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+Introduction  
+We’re AffiliateTheme. We revolutionized the affiliate theme site building business with Word Press templates and user friendly software in 2009. Let us explain how we protect your privacy and give you our privacy policy.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Lots of Word Press affiliate marketing related websites seem like they’re just providing the information you want as a pretext to get your personal information for solicitation or marketing purposes. Our site is designed to be widely accessible without requiring you, our users, to provide your personal information. Still, some really useful features that we want to provide are naturally going to require some identifying or personal information to make them work well. But fear not, this policy is here to help you understand what we do with the information we collect on this site.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
+About This Policy  
+AffiliateTheme (“Affiliate Theme net ” or “AT” “we”, “us”, etc.), through the AffiliateTheme.net Web site, related data, and/or related services (collectively, the “Services”), collects information about its users that may be personally identifiable. In that understanding, we have adopted this privacy policy, which we will comply with when we gather and use information from users of the Services. This is our current policy as of its last revision date at the top, but please note that we may make changes or additions to our privacy policy from time to time, so before relying on any of the provisions in this privacy policy, you should check the Services for the most current version.
 
-**What do we use your information for?**
+Collection of Information  
+AffiliateTheme collects a variety of information relating to usage of the Services.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Information You Provide  
+You may provide us information about yourself, such as providing your name and contact information. We use this information to respond to your requests, and to provide and improve the Services. We may combine this information with other information we collect from the Services or from other companies.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Cookies  
+Cookies are bits of electronic information that can be transferred to a user’s computer to uniquely identify the user’s browser. When you visit the Services, we place one or more cookies on your computer. The use of cookies helps us improve the quality of the Services in various ways, such as identifying which Services are most interesting to you, or storing information you may want to retrieve on a regular basis or tracking user trends. You may adjust settings on your browser to refuse cookies. Some Services and features may not function property if you disable cookies.
 
-• To process transactions  
+Usage Logs  
+When you access the Services, your computer communicates a variety of information to computer servers operating the Services, including the existence of cookies, your Internet Protocol address, and information about your browser program. These may be used to roughly determine your physical location or Internet provider in order to analyze website usage and to provide relevant content and/or advertising. Your usage also creates a record of what information you are requesting from the Services.
 
+Usage and Disclosure  
+Generally, AffiliateTheme.net uses the information collected to provide the Services and to communicate with you.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We will only share personal information in the following circumstances:
 
-• To administer a contest, promotion, survey or other site feature
+Consent  
+When you consent or direct AffiliateTheme.net to share the information.
 
-• To send periodic emails  
+Affiliates and Service Providers  
+When AffiliateTheme.net provides personal information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy.
 
+Aggregation  
+We may share with third parties aggregate information or information that does not personally identify individuals.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+Legal Obligation or Protection from Harm  
+When AffiliateTheme.net has a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, or (d) protect the rights, property, or safety of AffiliateTheme, its users, or the public against harm.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Merger, Sale or Liquidation  
+When and if AffiliateTheme.net is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business.
 
-**How do we protect your information?**
+Third Party Web Sites  
+The Services may include links to the Web sites of other companies and/or individuals. These third party Web sites may collect personal information about users, and AffiliateTheme’s privacy policy does not extend to these external Web sites and third parties. Please refer directly to these third parties and Web sites regarding their privacy policies.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+Children Under the Age of 13  
+We will not knowingly collect personally identifiable information from any person under the age of 13. The Services are not designed to attract the attention of persons under the age of 13.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+Storage and Security of Information  
+Personal information will be processed and stored by AffiliateTheme.net in databases hosted in the United States. AffiliateTheme.net has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Contacting Affiliate Theme  
+If you have any questions about this privacy statement, or the privacy practices of the Services, please contact us by e-mailing wally@AffiliateTheme.net.
 
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Account and going to the ‘My Account’ page, and then clicking on ‘Change Password/Edit Profile’.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.affiliatetheme.net/terms-conditions/>
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on March 10, 2009
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-Ultragalactic Corporation  
-6709 Greenleaf Ave  
-Suite 215  
-Whittier, CA 90601  
-United States of America  
-(323) 680-4450  
-info@Ultragalactic.com
+Thanks  
+Wow, thanks for making it down to the end. Seriously, though, if you have any suggestions about this policy, or if anything was unclear, raised your eyebrows, or seemed dubious, please contact us at privacypolicy@AffiliateTheme.net with your thoughts.
