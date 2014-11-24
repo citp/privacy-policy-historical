@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmathday.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621083922id_/http%3A//www.3plearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmathday.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124102458id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning Privacy Policy
 
@@ -24,13 +24,13 @@
 
 .
 
-  * _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
-  * _The Australian Privacy Regulation 2013_
-  * _The United Kingdom Privacy Protection Act 1998_
-  * _The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission_
-  * _The United States Family Educational Rights and Privacy Act_
-  * _The Alberta Freedom of Information and Protection of Privacy Act_
-  * _The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA)_
+  * ___The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
+  * ___The Australian Privacy Regulation 2013_
+  * ___The United Kingdom Privacy Protection Act 1998_
+  * ___The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission_
+  * ___The United States Family Educational Rights and Privacy Act_
+  * ___The Alberta Freedom of Information and Protection of Privacy Act_
+  * ___The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA)_
 
 
 
@@ -121,7 +121,11 @@ Registrants have a right to get a copy from us of the personal information we ho
 
 ### Cookies
 
-A cookie is a little piece of information handed to a web browser from a web server that contains information that can be retrieved from the server later. When you visit the Site the server may attach a cookie to your computer’s memory. 3P Learning uses cookies only to the limited extent of recognising the Registrant when they visit the Site and pairing that Registrant with the account (and account preferences) that the Registrant created. However, this information is not linked to any personal information that Registrant may provide and cannot be used to identify Registrants. You should be able to configure your computer so that it disables cookies.
+A cookie is a little piece of information handed to a web browser from a web server that contains information that can be retrieved from the server later. When you visit the Site the server may attach a cookie to your computer’s memory. 3P Learning uses cookies only to the limited extent to recognise the Registrant when they visit the Site and pairing that Registrant with the account (and account preferences) that the Registrant created. However, this information is not linked to any personal information that Registrant may provide and cannot be used to identify Registrants. You should be able to configure your computer so that it disables cookies.
+
+To help us better understand you needs and better share content, we also use analytical software. This software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [ <http://www.google.com/privacy.html>[ ](http://www.google.com/privacy.html)].
+
+Other cookies may be stored to your computers hard drive when this website uses referral programs, sponsored links or adverts – which is extremely rare. Such cookies typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected without your consent.
 
 ### Transfer of your data
 
@@ -139,14 +143,14 @@ Ask your parent or guardian for permission before you send any personal informat
 
 For more information on privacy legislation and guidelines in your local jurisdiction please contact your relevant local authorities.
 
-  * **Australia:**  [www.privacy.gov.au](http://www.privacy.gov.au/ "Australia")
-  * **Canada:**  [www.privcom.gc.ca](http://www.privcom.gc.ca/ "Canada")
-  * **European Union:**  <http://ec.europa.eu/justice_home/fsj/privacy/>
-  * **India:**  <http://www.mit.gov.in/default.aspx>
-  * **New Zealand:**  [www.privacy.org.nz](http://www.privacy.org.nz/ "New Zealand")
-  * **Singapore:**  [www.mica.gov.sg](http://www.mica.gov.sg/ "Singapore")
-  * **United Kingdom:**   [www.ico.gov.uk](http://www.ico.gov.uk/ "UK")
-  * **USA:**  [www.ftc.gov](http://www.ftc.gov/ "USA")
+  * __**Australia:**  [www.privacy.gov.au](http://www.privacy.gov.au/ "Australia")
+  * __**Canada:**  [www.privcom.gc.ca](http://www.privcom.gc.ca/ "Canada")
+  * __**European Union:**  <http://ec.europa.eu/justice_home/fsj/privacy/>
+  * __**India:**  <http://www.mit.gov.in/default.aspx>
+  * __**New Zealand:**  [www.privacy.org.nz](http://www.privacy.org.nz/ "New Zealand")
+  * __**Singapore:**  [www.mica.gov.sg](http://www.mica.gov.sg/ "Singapore")
+  * __**United Kingdom:**   [www.ico.gov.uk](http://www.ico.gov.uk/ "UK")
+  * __**USA:**  [www.ftc.gov](http://www.ftc.gov/ "USA")
 
 
 
