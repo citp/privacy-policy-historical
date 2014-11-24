@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10steps.sg privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062453id_/http%3A//10steps.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10steps.sg privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124133952id_/http%3A//10steps.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | 10Steps.SG
 
