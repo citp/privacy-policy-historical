@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514033258id_/http%3A//www.yorkphoto.com/Content.aspx%3FPage%3DPrivacy%2B%2526%2BSecurity%26PK%3De0e04a5e-5062-405d-aeb0-aa379be6bd58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124200905id_/http%3A//www.yorkphoto.com/Content.aspx%3FPage%3DPrivacy%2B%2526%2BSecurity%26PK%3De0e04a5e-5062-405d-aeb0-aa379be6bd58) for the most accurate reproduction.*
 
 # York Photo - Privacy & Security
 
