@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the coolglow.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625140327id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolglow.com privacy policy that was archived on 2014-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124165114id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	
     
     <title>Privacy Policy - Coolglow.com</title>
@@ -13,12 +13,11 @@
 <meta name="robots" content="index, follow">
 	<link rel="shortcut icon" href="http://coolglow.com/images/favicon.ico">
 	    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <link href="/templates/coolglow/css/template_css20140603_white.css" type="text/css" rel="stylesheet">
+    <link href="/templates/coolglow/css/template_css20141103_white.css" type="text/css" rel="stylesheet">
     
     <link href="/templates/coolglow/css/menuMatic_20111122_white.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="/templates/coolglow/css/jquery-ui-1.8.13.custom.css" type="text/css">
-   
-   
+       
     <!--link rel="stylesheet" href="/includes/jqzoom_ev/css/jquery.jqzoom.css" type="text/css" /-->
     <!--link rel="stylesheet" href="/templates/coolglow/css/customprint_frontend.css" type="text/css" /-->
     
@@ -41,9 +40,10 @@
 	
     	
     		<script src="/components/com_multipleimgs/js/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
+            <link rel="stylesheet" href="/components/com_cgsearch/jquery.fancybox.css" type="text/css">
     	
     
-    <script src="/templates/coolglow/js/cg_inline_cart_20140304.js" type="text/javascript"></script>
+    <script src="/templates/coolglow/js/cg_inline_cart_20140911.js" type="text/javascript"></script>
 
 	<script type="application/javascript">
 		jQuery.noConflict();
@@ -54,6 +54,9 @@
 			
 	<script type="text/javascript" src="/includes/js/mootools_v1.2.js"></script>
     
+    <script type="text/javascript" src="/templates/coolglow/js/cookie.js"></script>
+    
+    <script src="https://jwpsrv.com/library/evdXTFPxEeSRKCIAC0WXxA.js"></script>
 	
 	    
     
@@ -63,30 +66,138 @@
 	</script>
   
    
-    
-   
-    
 
-        <!-- Begin Google Analytics Async Script -->
-        <script type="text/javascript">
+    <!-- Begin Google Analytics Async Script -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-18646329-1']);
+      _gaq.push(['_trackPageview']);
     
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-18646329-1']);
-          _gaq.push(['_trackPageview']);
-        
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = 'https://ssl.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-        </script>
-        <!-- End Google Analytics Async Script -->
-        
-        
-        
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = 'https://ssl.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <!-- End Google Analytics Async Script -->
+    
+    <!-- Begin Google Universal Analytics Async Script -->
+    <!--script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 	
+	  ga('create', 'UA-18646329-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script-->
+    <!-- End Google Universal Analytics Async Script -->
+    
+    
+    <script type="text/javascript">
+    _gaq.push(['_setCustomVar', 1, 'shipping_on_cart', 'original', 2]);	
+		//track events in GA, added by H (2014-09-29)
+		jQuery(function() {
+			jQuery("[rel^='gaq_events']").bind("click", function(e) {
+				var gaEvent = jQuery(this).attr("rel").toString().split(/\|/);
+				
+				_gaq.push(['_trackEvent', gaEvent[1],  gaEvent[2],  gaEvent[3]]); 
+							
+			});
+		});
+		
+		//Begin: track product stats, added by H (2014-11-11)
+		jQuery(function() {
+			//clicks
+			jQuery("[data-cgtrack^='p_stats']").bind("mousedown", function(e) {
+				var stats = jQuery(this).attr("data-cgtrack").toString().split(/\|/);
+				var statsJSON = '';
+				statsJSON = '[{"type":"' + stats[1] + '",' +
+							  '"location":"' + stats[2] + '",' +
+							  '"kw_id":"' + stats[3] + '",' +
+							  '"kw_page":"' + stats[4] + '",' +
+							  '"kw_perpage":"' + stats[5] + '",' +
+							  '"cat_id":"' + stats[6] + '",' +
+							  '"cgfid":"' + stats[7] + '",' +
+							  '"clicked":"' + stats[8] + '"' +
+							 '}]';
+				jQuery.post("/tracking_products.php", {pstatsData: statsJSON}, function(response) {});
+			});
+			
+			//impressions
+			var statsType = '';
+			var statsPrevType = '';
+			var statsLocation = '';
+			var statsPrevLocation = '';
+			var statsKwId = '';
+			var statsKwPage = '';
+			var statsKwPerPage = '';
+			var statsCatId = '';
+			var statsCgfid = '';
+			var statsProductsViewed = '';
+			var statsJSON = '';
+			jQuery("[data-cgtrack^='p_stats']").each(function(index, el) {
+				var stats = jQuery(this).attr("data-cgtrack").toString().split(/\|/);
+				statsType 			= stats[1];
+				statsLocation 		= stats[2];
+				statsKwId 	  		= stats[3];
+				statsKwPage			= stats[4];
+				statsKwPerPage		= stats[5];
+				statsCatId 	  		= stats[6];
+				statsCgfid 	  		= stats[7];
+				
+				//enable multiple locs tracking
+				if (statsPrevLocation == '') {
+					statsPrevType = statsType;
+					statsPrevLocation = statsLocation;
+				}
+				if (statsLocation != statsPrevLocation) {
+					statsJSON += '{"type":"' + statsPrevType + '",' +
+								  '"location":"' + statsPrevLocation + '",' +
+								  '"kw_id":"' + statsKwId + '",' +
+								  '"kw_page":"' + statsKwPage + '",' +
+								  '"kw_perpage":"' + statsKwPerPage + '",' +
+								  '"cat_id":"' + statsCatId + '",' +
+								  '"cgfid":"' + statsCgfid + '",' +
+								  '"viewed":"' + statsProductsViewed + '"' +
+								 '},';
+								 
+					//jQuery.post("/tracking_products.php", {type: statsType,	location: statsPrevLocation, kw_id: statsKwId, kw_page: statsKwPage, kw_perpage: statsKwPerPage, cat_id: statsCatId, cgfid: statsCgfid, viewed:  statsProductsViewed}, function(response) {});
+					statsPrevType = statsType;
+					statsPrevLocation = statsLocation;
+					statsProductsViewed = '';
+				}
+				statsProductsViewed += stats[8] + ',';	
+				
+			});
+			if (statsProductsViewed != '') {
+				statsJSON += '{"type":"' + statsType + '",' +
+							  '"location":"' + statsLocation + '",' +
+							  '"kw_id":"' + statsKwId + '",' +
+							  '"kw_page":"' + statsKwPage + '",' +
+							  '"kw_perpage":"' + statsKwPerPage + '",' +
+							  '"cat_id":"' + statsCatId + '",' +
+							  '"cgfid":"' + statsCgfid + '",' +
+							  '"viewed":"' + statsProductsViewed + '"' +
+							 '},';
+				//jQuery.post("/tracking_products.php", {type: statsType,	location: statsLocation, kw_id: statsKwId, kw_page: statsKwPage, kw_perpage: statsKwPerPage, cat_id: statsCatId, cgfid: statsCgfid, viewed:  statsProductsViewed}, function(response) {});
+			}
+			
+			if (statsJSON != '') {
+				statsJSON = '[' + statsJSON + ']';
+				jQuery.post("/tracking_products.php", {pstatsData: statsJSON}, function(response) {});	
+			}
+			
+			
+		});
+		//End: track product stats
+		
+	</script>
+    
 </head>
-<body id="body">
+<body id="body" class="phpab-original">
 
 	
 
@@ -113,7 +224,7 @@
                             document.location = document.location;	
                         });
                     } else {
-                        document.location = 'https://www.facebook.com/dialog/oauth?client_id=135503379876288&redirect_uri=http%3A%2F%2Fcoolglow.com%2Fprivacy-policy%2F&state=6a63c47621d4002f1801957be49e5d4d&scope=user_likes%2Cread_stream%2Cpublish_stream';
+                        document.location = 'https://www.facebook.com/dialog/oauth?client_id=135503379876288&redirect_uri=http%3A%2F%2Fcoolglow.com%2Fprivacy-policy%2F&state=7c4cef51048275af1b8b2f1fb0bf06f9&scope=user_likes%2Cread_stream%2Cpublish_stream';
                     }
                     
                 }
@@ -146,24 +257,26 @@
     	
     
     	
-            	<div id="news_splash_header">
-                &nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="/templates/coolglow/images/v4/clock.png" align="absbottom">
-                Order before 3pm CST for <span style="color: #D00;"><b>Same Day Processing + Free Shipping</b></span> on orders over $25
-                <span id="learn_more">
-                	Learn More
-                	<div id="popup_info">
-                        <div class="arrow"></div>
-                        <div class="inner_arrow"></div>
-                                                Free ground shipping applicable within the continental/contiguous U.S. for all orders more than $25. 
-                        Cannot be combined with any coupon discounts or other promotional offers (i.e., glow necklaces priced below 19 cents). 
-                    </div>
-                </span>
-            </div>
-                
-            <div id="menu_header" style="position: absolute; top: 37px; z-index: 200;">
             	
+            
+                        	
+                <div id="news_splash_header">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="/templates/coolglow/images/v4/clock.png" align="absbottom">
+                    Order before 3pm CST for <span style="color: #D00;"><b>Same Day Processing + Free Shipping</b></span> on orders over $65 
+                    <span id="learn_more">
+                        Learn More
+                        <div id="popup_info">
+                            <div class="arrow"></div>
+                            <div class="inner_arrow"></div>
+                                                        Free ground shipping applicable within the continental/contiguous U.S. for all orders more than $65. 
+                            Cannot be combined with any coupon discounts or other promotional offers (i.e., glow necklaces priced below 19 cents). 
+                        </div>
+                    </span>
+                </div>
                 
+                            
+            <div id="menu_header" style="position: absolute; top: 37px; z-index: 200;">
                 <div id="menu_header_items">
                 	<div class="separators float_left"></div>
                     <div class="menu_header_item float_left">
@@ -179,7 +292,7 @@
                     
                     <!-- Begin: Inline Cart -->
                     <div class="menu_header_item float_right" id="inline_cart">
-                    	                        <a href="https://coolglow.com/view-cart" class="footprints_topmenu_View-Cart" title="View Cart Content">
+                    	                        <a href="https://coolglow.com/view-cart/" class="footprints_topmenu_View-Cart" title="View Cart Content">
                             <div id="cart_icon">
                             	<img src="http://coolglow.com/templates/coolglow/images/v4/cart3.png" border="0" align="absmiddle">
                             </div>
@@ -219,25 +332,28 @@
             	
                 
                         		
-                    					<div id="header_coupon_1">
-						<div id="coupon_amount1">1</div>
-						<div id="coupon_amount2">0</div>
+                                        
+                    <div id="header_coupon_1">
+						<div id="coupon_amount1">&nbsp;</div>
+						<div id="coupon_amount2">5</div>
 						<div id="percent_off">% OFF</div>
 						<div id="use_code">USE CODE:</div>
-						<div id="code_value">CGx10</div>
-						<div id="order_limit">ORDERS OVER $50.</div>
-						<div id="coupon_expire">EXPIRES IN 4 DAYS!</div>
+						<div id="code_value" style="left: 50px;  font-size: 12px;">AUTUMN5</div>
+						<div id="order_limit">ORDERS OVER $125.</div>
+						<!--div id="coupon_expire">EXPIRES IN 6 DAYS!</div-->
+                        <div id="coupon_expire">EXPIRES: 11/30/2014</div>
 					</div>
 					
 					<div id="header_coupon_2">
 						<div id="coupon_or">OR</div>
 						<div id="coupon_amount1">1</div>
-						<div id="coupon_amount2">5</div>
+						<div id="coupon_amount2" style="left: 25px;">0</div>
 						<div id="percent_off">% OFF</div>
 						<div id="use_code">USE CODE:</div>
-						<div id="code_value">CGx15</div>
-						<div id="order_limit">ORDERS OVER $100.</div>
-						<div id="coupon_expire">EXPIRES IN 4 DAYS!</div>
+						<div id="code_value" style="left: 54px; font-size: 12px;">AUTUMN10</div>
+						<div id="order_limit">ORDERS OVER $165.</div>
+						<!--div id="coupon_expire">EXPIRES IN 6 DAYS!</div-->
+                        <div id="coupon_expire">EXPIRES: 11/30/2014</div>
 					</div>
 					
 					<div id="header_freeship">
@@ -245,110 +361,21 @@
 						<div id="txt_shipping">
 							FREE<br>
 							SHIPPING<br>
-							<span style="font-size: 12px;">ORDERS OVER $25</span></div>
+							<span style="font-size: 12px;">ORDERS OVER $65</span></div>
 					</div>
                     
-            		<div id="search_box">
-                    	<div id="outside_label">&nbsp;Organize your next party with over 20,000 party products!</div>
-                        <form id="searchForm" name="searchForm" action="/search/" method="get" onsubmit="return performSearch(this);">
-                                                        
-                            
-                            <!--span id="department">
-                            	<span id="current_department">All Categories</span>
-                                <span id="arrow"></span>
-                            </span-->
-                           
-                            <div id="department_list">
-                            	<div class="main_cats">
-                                	<a href="/~/" title="">All Categories</a>
-                                </div>
-                                <div style="clear: both; height: 5px;"> </div>
-										                    </div>  
-                            
-                            <div id="search_inputs" style="border-left: none;">
-                            	<input type="text" id="search_kw" name="kw" maxlength="128" value="Search by Product, Color, Holiday, Theme, etc." class="dimmed ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                            	<input type="submit" id="search-btn" value="SEARCH!">
-                            	<input type="hidden" id="search_department" name="search_department" maxlength="128" value="">
-                           	</div>
-                        </form>
-                        <script type="text/javascript">
-                            jQuery(function() {
-                                jQuery("#search_kw").autocomplete({
-                                    delay: 300,
-                                    minLength: 1,
-                                    source: '/search-suggestions/',
-                                    select: function(event, ui) {
-                                                jQuery('#search_kw').val(ui.item.value);
-                                               // jQuery('#search_department').val('');
-                                                //jQuery('#searchForm').submit();
-												performSearch(jQuery('#searchForm'));
-                                            }
-                                });	
-                                
-                                jQuery("#search_kw").bind("focus", function(e) {
-                                    jQuery("#searchForm").addClass("glowing");
-									if (this.value == 'Search by Product, Color, Holiday, Theme, etc.') {
-										jQuery(this).val('').removeClass('dimmed');	
-									}
-                                });	
-                                jQuery("#search_kw").bind("blur", function(e) {
-                                    jQuery("#searchForm").removeClass("glowing");
-									if (this.value == '') {
-										jQuery(this).val('Search by Product, Color, Holiday, Theme, etc.').addClass('dimmed');	
-									}
-                                });	
-                                
-                                jQuery("#learn_more").mouseenter(function() {
-                                    jQuery("#learn_more > #popup_info").show();
-                                });
-                                jQuery("#learn_more").mouseleave(function() {
-                                    jQuery("#learn_more > #popup_info").hide();
-                                });
-								
-								jQuery("#department").click(function(e) {
-									jQuery(".ui-autocomplete").hide();
-									jQuery("#department_list").slideToggle();
-									jQuery("#department_list").mouseenter(function(e) {
-										jQuery(this).mouseleave(function(e) {
-											jQuery(this).slideUp();
-										});
-									});
-								});
-								
-								jQuery("#department_list a").click(function(e) {
-									var catName = jQuery(this).html();
-									var catUniq = jQuery(this).attr('title');
-									jQuery("#current_department").html(catName);
-									jQuery("#search_department").val(catUniq);
-									e.preventDefault();
-									jQuery("#department_list").hide();
-									jQuery("#search_kw").trigger("focus");
-								});
-								
-								 
-                            });
-							
-							function performSearch(form) {
-								var kw      = jQuery('#search_kw').val().toString()
-								var catUniq = jQuery('#search_department').val().toString();
-								if (kw == 'Search by Product, Color, Holiday, Theme, etc.') {
-									kw = '';
-								} 
-								kw = kw.replace('/', '');
-								
-								jQuery.post("/~/", {task: 'set_sort_by_cookie', sort_by: 'relevance'}, function(response) {
-									if (catUniq != '') {
-										document.location = '/' + catUniq + '/~' + encodeURIComponent(kw) + '/';
-									} else {
-										document.location = '/~' + encodeURIComponent(kw) + '/';
-									}
-								});
-								return false;
-							}
-                        </script>
-                    </div>
+                   
                     
-                                        
+                    
+					                    
+                    <div id="header_misc">
+						<div id="tollfree">Call Us Now, 8AM - 8PM CST</div>
+                        <div id="phonenumber">1-888-909-4569</div>
+                        <!--div id="phonenumber2">469-359-2687</div-->
+                        <div id="phonediscount">Special Phone Order Discounts Available</div>
+                        
+                    </div> 
+                    
                     <!--div id="shop_clearance">
                     	<a href="/~clearance/?sort_by=discount_desc">
                             <strong>- Clearance Items -</strong><br/>
@@ -372,55 +399,56 @@
 							</a>
 							<div class="hover-tabs">
 											<div class="tab-columns"><div class="tab-items">
-												<a href="/Kids-Party-Themes/">Kids Party Themes</a>
+												<a href="/Kids-Party-Themes/">Kids Birthday Themes</a>
 											   	<div class="tab-subitems"><a href="/Abby-Cadabby-Party/">Abby Cadabby Party</a><a href="/Angry-Birds-Party/">Angry Birds Party</a><a href="/Animal-Party/">Animal Party</a><a href="/Backyardigans-Party/">Backyardigans Party</a><a href="/Barney-Party/">Barney Party</a><a href="/Black-Belt-Party~4456/">Black Belt Party</a><a href="/Bob-the-Builder-Party/">Bob the Builder Party</a><a href="/Care-Bears-Party/">Care Bears Party</a><a href="/Kids-Party-Themes/" style="color: #07C;">View All »</a></div>
 											   </div><div class="tab-items">
-												<a href="/Custom-Banners~3712/">Custom Banners</a>
-											   	<div class="tab-subitems"><a href="/Chinese-New-Year-Banners/">Chinese New Year Banners</a><a href="/Luau-Banners~3842/">Luau Banners</a><a href="/Fiesta-Banners/">Fiesta Banners</a><a href="/Disco-Banners/">Disco Banners</a><a href="/4th-of-July-Banners~4768/">4th of July Banners</a><a href="/Rock-and-Roll-Banners/">Rock and Roll Banners</a><a href="/Wedding-Banners/">Wedding Banners</a><a href="/Graduation-Banners~4771/">Graduation Banners</a><a href="/Custom-Banners~3712/" style="color: #07C;">View All »</a></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
 												<a href="/Theme-Parties/">Theme Parties</a>
-											   	<div class="tab-subitems"><a href="/Luau-Party/">Luau Party</a><a href="/Summer-Party/">Summer Party</a><a href="/Beach-Party/">Beach Party</a><a href="/Pool-Party/">Pool Party</a><a href="/Patriotic-Theme-Party/">Patriotic Party</a><a href="/Fiesta-Party/">Fiesta Party</a><a href="/Casino-Party/">Casino Party</a><a href="/Pirate-Party/">Pirate Party</a><a href="/Theme-Parties/" style="color: #07C;">View All »</a></div>
-											   </div><div class="tab-items">
-												<a href="/Party-Supplies~390/">Party Supplies</a>
-											   	<div class="tab-subitems"><a href="/Candy/">Candy</a><a href="/Cutlery/">Cutlery</a><a href="/Paper-Goods~616/">Paper Goods</a><a href="/Solid-Color-Tableware/">Solid Color Tableware</a><a href="/Drinkware~2637/">Drinkware</a><a href="/Invitations/">Invitations</a><a href="/Crepe-Paper/">Crepe Paper</a><a href="/Decorations/">Decorations</a><a href="/Party-Supplies~390/" style="color: #07C;">View All »</a></div>
+											   	<div class="tab-subitems"><a href="/Movember-Party/">Movember Party</a><a href="/Fall-Party/">Fall Party</a><a href="/Pirate-Party/">Pirate Party</a><a href="/Casino-Party/">Casino Party</a><a href="/Western-Party/">Western Party</a><a href="/Disco-Party/">Disco Party</a><a href="/Fiesta-Party/">Fiesta Party</a><a href="/Hollywood-Party/">Hollywood Party</a><a href="/Theme-Parties/" style="color: #07C;">View All »</a></div>
 											   </div></div><div class="tab-columns"><div class="tab-items">
-												<a href="/Custom-Invitations~6543/">Custom Invitations</a>
-											   	<div class="tab-subitems"><a href="/Casino-Custom-Invitations/">Casino Custom Invitations</a><a href="/Christmas-Custom-Invitations/">Christmas Custom Invitations</a><a href="/Easter-Custom-Invitations/">Easter Custom Invitations</a><a href="/Everyday-Custom-Invitations/">Everyday Custom Invitations</a><a href="/Fiesta-Custom-Invitations/">Fiesta Custom Invitations</a><a href="/Graduation-Custom-Invitations/">Graduation Custom Invitations</a><a href="/Halloween-Custom-Invitations/">Halloween Custom Invitations</a><a href="/Luau-Custom-Invitations/">Luau Custom Invitations</a><a href="/Custom-Invitations~6543/" style="color: #07C;">View All »</a></div>
+												<a href="/Party-Supplies~390/">Party Supplies</a>
+											   	<div class="tab-subitems"><a href="/Candy/">Candy</a><a href="/Cutlery/">Cutlery</a><a href="/Paper-Goods~616/">Paper Goods</a><a href="/Solid-Color-Tableware/">Solid Color Party Supplies</a><a href="/Drinkware~2637/">Drinkware</a><a href="/Invitations/">Invitations</a><a href="/Crepe-Paper/">Crepe Paper</a><a href="/Decorations/">Decorations</a><a href="/Party-Supplies~390/" style="color: #07C;">View All »</a></div>
 											   </div><div class="tab-items">
 												<a href="/Sports-Theme-Party/">Sports Theme Party</a>
 											   	<div class="tab-subitems"><a href="/NBA-Teams/">NBA Teams</a><a href="/Sports-Custom-Banners/">Sports Custom Banners</a><a href="/NHL-Teams/">NHL Teams</a><a href="/Solid-Balloons-and-RIbbon/">Solid Balloons and RIbbon</a><a href="/Sports-Invitations/">Sports Invitations</a><a href="/Solid-Decorations/">Solid Decorations</a><a href="/MLB-Teams/">MLB Teams</a><a href="/Football-Party/">Football Party</a><a href="/Sports-Theme-Party/" style="color: #07C;">View All »</a></div>
 											   </div></div><div class="tab-columns"><div class="tab-items">
-												<a href="/Baby-Shower/">Baby Shower</a>
-											   	<div class="tab-subitems"><a href="/Baby-Shower-Paper-Goods/">Baby Shower Paper Goods</a><a href="/Baby-Shower-Games/">Baby Shower Games</a><a href="/Baby-Shower-Keepsakes/">Baby Shower Keepsakes</a><a href="/Gifts-Wearables/">Gifts &amp; Wearables</a><a href="/Baby-Boy-Goods/">Baby Boy Goods</a><a href="/Baby-Girl-Goods/">Baby Girl Goods</a><a href="/Decorating-Kits/">Decorating Kits</a><a href="/Centerpieces/">Centerpieces</a><a href="/Baby-Shower/" style="color: #07C;">View All »</a></div>
-											   </div><div class="tab-items">
 												<a href="/Holiday-Parties/">Holiday Parties</a>
-											   	<div class="tab-subitems"><a href="/Memorial-Day/">Memorial Day</a><a href="/4th-of-July/">4th of July</a><a href="/Labor-Day/">Labor Day</a><a href="/Oktoberfest/">Oktoberfest</a><a href="/Halloween-Party/">Halloween Party</a><a href="/Veterans-Day/">Veterans Day</a><a href="/Thanksgiving/">Thanksgiving</a><a href="/Hanukkah/">Hanukkah</a><a href="/Holiday-Parties/" style="color: #07C;">View All »</a></div>
+											   	<div class="tab-subitems"><a href="/Halloween-Party/">Halloween Party</a><a href="/Veterans-Day/">Veterans Day</a><a href="/Thanksgiving/">Thanksgiving</a><a href="/Hanukkah/">Hanukkah</a><a href="/Christmas/">Christmas</a><a href="/New-Years/">New Year's</a><a href="/Chinese-New-Year/">Chinese New Year</a><a href="/Valentines-Day/">Valentine's Day</a><a href="/Holiday-Parties/" style="color: #07C;">View All »</a></div>
+											   </div><div class="tab-items">
+												<a href="/Special-Occasions/">Special Occasions</a>
+											   	<div class="tab-subitems"><a href="/School-Spirit~886/">School Spirit</a><a href="/Graduation-Party/">Graduation </a><a href="/Wedding-Events/">Weddings</a><a href="/Bridal-Shower/">Bridal Shower</a><a href="/Bachelorette-Party/">Bachelorette Party</a><a href="/Anniversary/">Anniversary</a><a href="/Baptism/">Baptism</a><a href="/Communion/">Communion</a><a href="/Special-Occasions/" style="color: #07C;">View All »</a></div>
+											   </div></div><div class="tab-columns"><div class="tab-items">
+												<a href="/Birthday-Parties/">Birthday Parties</a>
+											   	<div class="tab-subitems"><a href="/Adult-Birthday/">Happy Birthday Patterns</a><a href="/1st-Birthday/">1st Birthday</a><a href="/21st-Birthday/">21st Birthday</a><a href="/30th-Birthday/">30th Birthday</a><a href="/40th-Birthday/">40th Birthday</a><a href="/50th-Birthday/">50th Birthday</a><a href="/60th-Birthday/">60th Birthday</a><a href="/70th-Birthday/">70th Birthday</a><a href="/Birthday-Parties/" style="color: #07C;">View All »</a></div>
+											   </div><div class="tab-items">
+												<a href="/Custom-Banners~3712/">Custom Banners</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Custom-Invitations~6543/">Custom Invitations</a>
+											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
-						<div id="submenutab1" class="submenutabs"><div class="items">
+						<div id="submenutab1" class="submenutabs" style="display: table;"><div class="items">
 							<a class="subtablinks" href="/Theme-Parties/">Theme Parties</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Luau-Party/">Luau Party</a></div><div class="subtab-items"><a href="/Summer-Party/">Summer Party</a></div><div class="subtab-items"><a href="/Beach-Party/">Beach Party</a></div><div class="subtab-items"><a href="/Pool-Party/">Pool Party</a></div><div class="subtab-items"><a href="/Patriotic-Theme-Party/">Patriotic Party</a></div><div class="subtab-items"><a href="/Fiesta-Party/">Fiesta Party</a></div><div class="subtab-items"><a href="/Casino-Party/">Casino Party</a></div><div class="subtab-items"><a href="/Pirate-Party/">Pirate Party</a></div><div class="subtab-items"><a href="/Western-Party/">Western Party</a></div><div class="subtab-items"><a href="/Disco-Party/">Disco Party</a></div><div class="subtab-items"><a href="/Princess-Party~3134/">Princess Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/60s-Theme-Party-Supplies/">60s Party</a></div><div class="subtab-items"><a href="/80s-Theme-Party-Supplies/">80s Party</a></div><div class="subtab-items"><a href="/Hollywood-Party/">Hollywood Party</a></div><div class="subtab-items"><a href="/Nautical-Party/">Nautical Party</a></div><div class="subtab-items"><a href="/Christmas-in-July/">Christmas in July</a></div><div class="subtab-items"><a href="/Election-Day-Party/">Election Day Party</a></div><div class="subtab-items"><a href="/Olympics-Party/">Olympics Party</a></div><div class="subtab-items"><a href="/Outer-Space-Sci-Fi/">Outer Space &amp; Sci-Fi</a></div><div class="subtab-items"><a href="/Rock-N-Roll-Party/">Rock 'N Roll Party</a></div><div class="subtab-items"><a href="/Fall-Party/">Fall Party</a></div><div class="subtab-items"><a href="/Winter-Wonderland-Party/">Winter Wonderland Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Go-Red-Party/">Go Red Party</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/Movember-Party/">Movember Party</a></div><div class="subtab-items"><a href="/Fall-Party/">Fall Party</a></div><div class="subtab-items"><a href="/Pirate-Party/">Pirate Party</a></div><div class="subtab-items"><a href="/Casino-Party/">Casino Party</a></div><div class="subtab-items"><a href="/Western-Party/">Western Party</a></div><div class="subtab-items"><a href="/Disco-Party/">Disco Party</a></div><div class="subtab-items"><a href="/Fiesta-Party/">Fiesta Party</a></div><div class="subtab-items"><a href="/Hollywood-Party/">Hollywood Party</a></div><div class="subtab-items"><a href="/Patriotic-Theme-Party/">Patriotic Party</a></div><div class="subtab-items"><a href="/Election-Day-Party/">Election Day Party</a></div><div class="subtab-items"><a href="/Princess-Party~3134/">Princess Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Winter-Wonderland-Party/">Winter Wonderland Party</a></div><div class="subtab-items"><a href="/Outer-Space-Sci-Fi/">Outer Space &amp; Sci-Fi</a></div><div class="subtab-items"><a href="/60s-Theme-Party-Supplies/">60s Party</a></div><div class="subtab-items"><a href="/80s-Theme-Party-Supplies/">80s Party</a></div><div class="subtab-items"><a href="/Rock-N-Roll-Party/">Rock 'N Roll Party</a></div><div class="subtab-items"><a href="/Luau-Party/">Luau Party</a></div><div class="subtab-items"><a href="/Shark-Party/">Shark Party</a></div><div class="subtab-items"><a href="/Summer-Party/">Summer Party</a></div><div class="subtab-items"><a href="/Beach-Party/">Beach Party</a></div><div class="subtab-items"><a href="/Pool-Party/">Pool Party</a></div><div class="subtab-items"><a href="/Nautical-Party/">Nautical Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Christmas-in-July/">Christmas in July</a></div><div class="subtab-items"><a href="/Olympics-Party/">Olympics Party</a></div><div class="subtab-items"><a href="/Go-Red-Party/">Go Red Party</a></div><div class="subtab-items"><a href="/Football-Party~10744/">Football Party</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
 							<a class="subtablinks" href="/Holiday-Parties/">Holiday Parties</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Memorial-Day/">Memorial Day</a></div><div class="subtab-items"><a href="/4th-of-July/">4th of July</a></div><div class="subtab-items"><a href="/Labor-Day/">Labor Day</a></div><div class="subtab-items"><a href="/Oktoberfest/">Oktoberfest</a></div><div class="subtab-items"><a href="/Halloween-Party/">Halloween Party</a></div><div class="subtab-items"><a href="/Veterans-Day/">Veterans Day</a></div><div class="subtab-items"><a href="/Thanksgiving/">Thanksgiving</a></div><div class="subtab-items"><a href="/Hanukkah/">Hanukkah</a></div><div class="subtab-items"><a href="/Christmas/">Christmas</a></div><div class="subtab-items"><a href="/New-Years/">New Year's</a></div><div class="subtab-items"><a href="/Chinese-New-Year/">Chinese New Year</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Valentines-Day/">Valentine's Day</a></div><div class="subtab-items"><a href="/Mardi-Gras/">Mardi Gras</a></div><div class="subtab-items"><a href="/St-Patricks-Day/">St. Patrick's Day</a></div><div class="subtab-items"><a href="/Easter/">Easter</a></div><div class="subtab-items"><a href="/Cinco-de-Mayo/">Cinco de Mayo</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/Halloween-Party/">Halloween Party</a></div><div class="subtab-items"><a href="/Veterans-Day/">Veterans Day</a></div><div class="subtab-items"><a href="/Thanksgiving/">Thanksgiving</a></div><div class="subtab-items"><a href="/Hanukkah/">Hanukkah</a></div><div class="subtab-items"><a href="/Christmas/">Christmas</a></div><div class="subtab-items"><a href="/New-Years/">New Year's</a></div><div class="subtab-items"><a href="/Chinese-New-Year/">Chinese New Year</a></div><div class="subtab-items"><a href="/Valentines-Day/">Valentine's Day</a></div><div class="subtab-items"><a href="/Mardi-Gras/">Mardi Gras</a></div><div class="subtab-items"><a href="/St-Patricks-Day/">St. Patrick's Day</a></div><div class="subtab-items"><a href="/Easter/">Easter</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Cinco-de-Mayo/">Cinco de Mayo</a></div><div class="subtab-items"><a href="/Memorial-Day/">Memorial Day</a></div><div class="subtab-items"><a href="/4th-of-July/">4th of July</a></div><div class="subtab-items"><a href="/Labor-Day/">Labor Day</a></div><div class="subtab-items"><a href="/Oktoberfest/">Oktoberfest</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
 							<a class="subtablinks" href="/Special-Occasions/">Special Occasions</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Graduation-Party/">Graduation </a></div><div class="subtab-items"><a href="/School-Spirit~886/">School Spirit</a></div><div class="subtab-items"><a href="/Wedding-Events/">Weddings</a></div><div class="subtab-items"><a href="/Bridal-Shower/">Bridal Shower</a></div><div class="subtab-items"><a href="/Bachelorette-Party/">Bachelorette Party</a></div><div class="subtab-items"><a href="/Anniversary/">Anniversary</a></div><div class="subtab-items"><a href="/Baptism/">Baptism</a></div><div class="subtab-items"><a href="/Communion/">Communion</a></div><div class="subtab-items"><a href="/Confirmation/">Confirmation</a></div><div class="subtab-items"><a href="/Mothers-Day/">Mother's Day</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/School-Spirit~886/">School Spirit</a></div><div class="subtab-items"><a href="/Graduation-Party/">Graduation </a></div><div class="subtab-items"><a href="/Wedding-Events/">Weddings</a></div><div class="subtab-items"><a href="/Bridal-Shower/">Bridal Shower</a></div><div class="subtab-items"><a href="/Bachelorette-Party/">Bachelorette Party</a></div><div class="subtab-items"><a href="/Anniversary/">Anniversary</a></div><div class="subtab-items"><a href="/Baptism/">Baptism</a></div><div class="subtab-items"><a href="/Communion/">Communion</a></div><div class="subtab-items"><a href="/Confirmation/">Confirmation</a></div><div class="subtab-items"><a href="/Mothers-Day/">Mother's Day</a></div><div class="subtab-items"><a href="/Baby-Shower/">Baby Shower</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
 							<a class="subtablinks" href="/Birthday-Parties/">Birthday Parties</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Girls-Birthday/">Girls Birthday</a></div><div class="subtab-items"><a href="/Boys-Birthday/">Boys Birthday</a></div><div class="subtab-items"><a href="/1st-Birthday/">1st Birthday</a></div><div class="subtab-items"><a href="/Adult-Birthday/">Adult Birthday</a></div><div class="subtab-items"><a href="/Birthday-Invitations~990/">Birthday Invitations</a></div><div class="subtab-items"><a href="/Party-Favors~4352/">Party Favors</a></div><div class="subtab-items"><a href="/Birthday-Decorations~1054/">Birthday Decorations</a></div><div class="subtab-items"><a href="/Pinatas-and-Games/">Pinatas and Games</a></div><div class="subtab-items"><a href="/Casino-Birthday/">Casino Birthday</a></div><div class="subtab-items"><a href="/Hollywood-Birthday~6796/">Hollywood Birthday</a></div><div class="subtab-items"><a href="/Luau-Birthday~6722/">Luau Birthday</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Pirate-Birthday~6560/">Pirate Birthday</a></div><div class="subtab-items"><a href="/Princess-Birthday~6608/">Princess Birthday</a></div><div class="subtab-items"><a href="/Clearance~6363/">Clearance</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/Adult-Birthday/">Happy Birthday Patterns</a></div><div class="subtab-items"><a href="/1st-Birthday/">1st Birthday</a></div><div class="subtab-items"><a href="/21st-Birthday/">21st Birthday</a></div><div class="subtab-items"><a href="/30th-Birthday/">30th Birthday</a></div><div class="subtab-items"><a href="/40th-Birthday/">40th Birthday</a></div><div class="subtab-items"><a href="/50th-Birthday/">50th Birthday</a></div><div class="subtab-items"><a href="/60th-Birthday/">60th Birthday</a></div><div class="subtab-items"><a href="/70th-Birthday/">70th Birthday</a></div><div class="subtab-items"><a href="/Over-the-Hill-Birthday/">Over the Hill Birthday</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
-							<a class="subtablinks" href="/Kids-Party-Themes/">Kids Party Themes</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Abby-Cadabby-Party/">Abby Cadabby Party</a></div><div class="subtab-items"><a href="/Angry-Birds-Party/">Angry Birds Party</a></div><div class="subtab-items"><a href="/Animal-Party/">Animal Party</a></div><div class="subtab-items"><a href="/Backyardigans-Party/">Backyardigans Party</a></div><div class="subtab-items"><a href="/Barney-Party/">Barney Party</a></div><div class="subtab-items"><a href="/Black-Belt-Party~4456/">Black Belt Party</a></div><div class="subtab-items"><a href="/Bob-the-Builder-Party/">Bob the Builder Party</a></div><div class="subtab-items"><a href="/Care-Bears-Party/">Care Bears Party</a></div><div class="subtab-items"><a href="/Circus-Party/">Circus Party</a></div><div class="subtab-items"><a href="/Dinosaur-Party/">Dinosaur Party</a></div><div class="subtab-items"><a href="/Disney-Cars-Party/">Disney Cars Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Disney-Princess-Party/">Disney Princess Party</a></div><div class="subtab-items"><a href="/Dora-the-Explorer-Party/">Dora the Explorer Party</a></div><div class="subtab-items"><a href="/GI-Joe-Party/">G.I. Joe Party</a></div><div class="subtab-items"><a href="/Go-Diego-Go-Party/">Go Diego Go Party</a></div><div class="subtab-items"><a href="/Hello-Kitty-Party/">Hello Kitty Party</a></div><div class="subtab-items"><a href="/Hot-Wheels-Party/">Hot Wheels Party</a></div><div class="subtab-items"><a href="/iCarly-Party/">iCarly Party</a></div><div class="subtab-items"><a href="/Jungle-Party~4516/">Jungle Party</a></div><div class="subtab-items"><a href="/Lego-Party/">Lego Party</a></div><div class="subtab-items"><a href="/Little-Mermaid-Party/">Little Mermaid Party</a></div><div class="subtab-items"><a href="/Littlest-Pet-Shop-Party/">Littlest Pet Shop Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Mickey-Mouse-Party/">Mickey Mouse Party</a></div><div class="subtab-items"><a href="/Minnie-Mouse-Party/">Minnie Mouse Party</a></div><div class="subtab-items"><a href="/Monster-High-Party/">Monster High Party</a></div><div class="subtab-items"><a href="/My-Little-Pony-Party/">My Little Pony Party</a></div><div class="subtab-items"><a href="/Party-Pups-Party/">Party Pups Party</a></div><div class="subtab-items"><a href="/Pinatas-Games/">Pinatas &amp; Games</a></div><div class="subtab-items"><a href="/Pokemon-Party/">Pokemon Party</a></div><div class="subtab-items"><a href="/Princess-and-the-Frog-Party/">Princess and the Frog Party</a></div><div class="subtab-items"><a href="/Princess-Party/">Princess Party</a></div><div class="subtab-items"><a href="/Sesame-Street-Party~4496/">Sesame Street Party</a></div><div class="subtab-items"><a href="/Spongebob-Party/">Spongebob Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Sports-Party/">Sports Party</a></div><div class="subtab-items"><a href="/Strawberry-Shortcake~4500/">Strawberry Shortcake</a></div><div class="subtab-items"><a href="/Tangled-Party/">Tangled Party</a></div><div class="subtab-items"><a href="/Thomas-Friends-Party/">Thomas &amp; Friends Party</a></div><div class="subtab-items"><a href="/Tinkerbell-Party/">Tinkerbell Party</a></div><div class="subtab-items"><a href="/Toy-Story-Party/">Toy Story Party</a></div><div class="subtab-items"><a href="/Transformers-Party/">Transformers Party</a></div><div class="subtab-items"><a href="/Ugly-Doll-Party/">Ugly Doll Party</a></div><div class="subtab-items"><a href="/Yo-Gabba-Gabba-Party/">Yo Gabba Gabba Party</a></div><div class="subtab-items"><a href="/Pirate-Party~3465/">Pirate Party</a></div><div class="subtab-items"><a href="/Western-Party~1797/">Western Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Birthday-Invitations~4535/">Birthday Invitations</a></div><div class="subtab-items"><a href="/Custom-Banners~4537/">Custom Banners</a></div><div class="subtab-items"><a href="/Birthday-Decorations~4547/">Birthday Decorations</a></div><div class="subtab-items"><a href="/Birthday-Balloons~4543/">Birthday Balloons</a></div><div class="subtab-items"><a href="/Party-Favors~4539/">Party Favors</a></div></div></div>
+							<a class="subtablinks" href="/Kids-Party-Themes/">Kids Birthday Themes</a><div class="hover-subtabs">
+													<div class="subtab-columns"><div class="subtab-items"><a href="/Abby-Cadabby-Party/">Abby Cadabby Party</a></div><div class="subtab-items"><a href="/Angry-Birds-Party/">Angry Birds Party</a></div><div class="subtab-items"><a href="/Animal-Party/">Animal Party</a></div><div class="subtab-items"><a href="/Backyardigans-Party/">Backyardigans Party</a></div><div class="subtab-items"><a href="/Barney-Party/">Barney Party</a></div><div class="subtab-items"><a href="/Black-Belt-Party~4456/">Black Belt Party</a></div><div class="subtab-items"><a href="/Bob-the-Builder-Party/">Bob the Builder Party</a></div><div class="subtab-items"><a href="/Care-Bears-Party/">Care Bears Party</a></div><div class="subtab-items"><a href="/Circus-Party/">Circus Party</a></div><div class="subtab-items"><a href="/Dinosaur-Party/">Dinosaur Party</a></div><div class="subtab-items"><a href="/Disney-Cars-Party/">Disney Cars Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Disney-Princess-Party/">Disney Princess Party</a></div><div class="subtab-items"><a href="/Dora-the-Explorer-Party/">Dora the Explorer Party</a></div><div class="subtab-items"><a href="/GI-Joe-Party/">G.I. Joe Party</a></div><div class="subtab-items"><a href="/Go-Diego-Go-Party/">Go Diego Go Party</a></div><div class="subtab-items"><a href="/Hello-Kitty-Party/">Hello Kitty Party</a></div><div class="subtab-items"><a href="/Hot-Wheels-Party/">Hot Wheels Party</a></div><div class="subtab-items"><a href="/iCarly-Party/">iCarly Party</a></div><div class="subtab-items"><a href="/Jungle-Party~4516/">Jungle Party</a></div><div class="subtab-items"><a href="/Lego-Party/">Lego Party</a></div><div class="subtab-items"><a href="/Little-Mermaid-Party/">Little Mermaid Party</a></div><div class="subtab-items"><a href="/Littlest-Pet-Shop-Party/">Littlest Pet Shop Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Mickey-Mouse-Party/">Mickey Mouse Party</a></div><div class="subtab-items"><a href="/Minnie-Mouse-Party/">Minnie Mouse Party</a></div><div class="subtab-items"><a href="/Monster-High-Party/">Monster High Party</a></div><div class="subtab-items"><a href="/My-Little-Pony-Party/">My Little Pony Party</a></div><div class="subtab-items"><a href="/Party-Pups-Party/">Party Pups Party</a></div><div class="subtab-items"><a href="/Pinatas-Games/">Pinatas &amp; Games</a></div><div class="subtab-items"><a href="/Pokemon-Party/">Pokemon Party</a></div><div class="subtab-items"><a href="/Princess-and-the-Frog-Party/">Princess and the Frog Party</a></div><div class="subtab-items"><a href="/Princess-Party/">Princess Party</a></div><div class="subtab-items"><a href="/Sesame-Street-Party~4496/">Sesame Street Party</a></div><div class="subtab-items"><a href="/Spongebob-Party/">Spongebob Party</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Sports-Party/">Sports Party</a></div><div class="subtab-items"><a href="/Strawberry-Shortcake~4500/">Strawberry Shortcake</a></div><div class="subtab-items"><a href="/Tangled-Party/">Tangled Party</a></div><div class="subtab-items"><a href="/Thomas-Friends-Party/">Thomas &amp; Friends Party</a></div><div class="subtab-items"><a href="/Tinkerbell-Party/">Tinkerbell Party</a></div><div class="subtab-items"><a href="/Toy-Story-Party/">Toy Story Party</a></div><div class="subtab-items"><a href="/Transformers-Party/">Transformers Party</a></div><div class="subtab-items"><a href="/Ugly-Doll-Party/">Ugly Doll Party</a></div><div class="subtab-items"><a href="/Yo-Gabba-Gabba-Party/">Yo Gabba Gabba Party</a></div><div class="subtab-items"><a href="/Pirate-Party~3465/">Pirate Party</a></div><div class="subtab-items"><a href="/Western-Party~1797/">Western Party</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
 							<a class="subtablinks" href="/Party-Supplies~390/">Party Supplies</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Candy/">Candy</a></div><div class="subtab-items"><a href="/Cutlery/">Cutlery</a></div><div class="subtab-items"><a href="/Paper-Goods~616/">Paper Goods</a></div><div class="subtab-items"><a href="/Solid-Color-Tableware/">Solid Color Tableware</a></div><div class="subtab-items"><a href="/Drinkware~2637/">Drinkware</a></div><div class="subtab-items"><a href="/Invitations/">Invitations</a></div><div class="subtab-items"><a href="/Crepe-Paper/">Crepe Paper</a></div><div class="subtab-items"><a href="/Decorations/">Decorations</a></div><div class="subtab-items"><a href="/Party-Favors/">Party Favors</a></div><div class="subtab-items"><a href="/Balloons/">Balloons</a></div><div class="subtab-items"><a href="/String-Lights/">String Lights</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Games-Activities~10712/">Games &amp; Activities</a></div><div class="subtab-items"><a href="/Pinatas~2025/">Pinatas</a></div><div class="subtab-items"><a href="/Inflatables/">Inflatables</a></div><div class="subtab-items"><a href="/Eye-Glasses-Sunglasses/">Eyewear</a></div><div class="subtab-items"><a href="/Hats/">Hats</a></div><div class="subtab-items"><a href="/Wigs/">Wigs</a></div><div class="subtab-items"><a href="/Jewelry-Accessories/">Jewelry</a></div><div class="subtab-items"><a href="/Leis/">Leis</a></div><div class="subtab-items"><a href="/Boas/">Boas</a></div><div class="subtab-items"><a href="/Clappers/">Clappers</a></div><div class="subtab-items"><a href="/Noisemakers/">Noisemakers</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/Candy/">Candy</a></div><div class="subtab-items"><a href="/Cutlery/">Cutlery</a></div><div class="subtab-items"><a href="/Paper-Goods~616/">Paper Goods</a></div><div class="subtab-items"><a href="/Solid-Color-Tableware/">Solid Color Party Supplies</a></div><div class="subtab-items"><a href="/Drinkware~2637/">Drinkware</a></div><div class="subtab-items"><a href="/Invitations/">Invitations</a></div><div class="subtab-items"><a href="/Crepe-Paper/">Crepe Paper</a></div><div class="subtab-items"><a href="/Decorations/">Decorations</a></div><div class="subtab-items"><a href="/Party-Favors/">Party Favors</a></div><div class="subtab-items"><a href="/Balloons/">Balloons</a></div><div class="subtab-items"><a href="/String-Lights/">String Lights</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Games-Activities~10712/">Games &amp; Activities</a></div><div class="subtab-items"><a href="/Pinatas~2025/">Pinatas</a></div><div class="subtab-items"><a href="/Inflatables/">Inflatables</a></div><div class="subtab-items"><a href="/Face-Paint/">Face Paint</a></div><div class="subtab-items"><a href="/Eye-Glasses-Sunglasses/">Eyewear</a></div><div class="subtab-items"><a href="/Hats/">Hats</a></div><div class="subtab-items"><a href="/Wigs/">Wigs</a></div><div class="subtab-items"><a href="/Jewelry-Accessories/">Jewelry</a></div><div class="subtab-items"><a href="/Leis/">Leis</a></div><div class="subtab-items"><a href="/Boas/">Boas</a></div><div class="subtab-items"><a href="/Clappers/">Clappers</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Noisemakers/">Noisemakers</a></div></div></div>
 						  </div><div class="separators1"></div><div class="items">
-							<a class="subtablinks" href="/Custom-Banners~3712/">Custom Banners</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Chinese-New-Year-Banners/">Chinese New Year Banners</a></div><div class="subtab-items"><a href="/Luau-Banners~3842/">Luau Banners</a></div><div class="subtab-items"><a href="/Fiesta-Banners/">Fiesta Banners</a></div><div class="subtab-items"><a href="/Disco-Banners/">Disco Banners</a></div><div class="subtab-items"><a href="/4th-of-July-Banners~4768/">4th of July Banners</a></div><div class="subtab-items"><a href="/Rock-and-Roll-Banners/">Rock and Roll Banners</a></div><div class="subtab-items"><a href="/Wedding-Banners/">Wedding Banners</a></div><div class="subtab-items"><a href="/Graduation-Banners~4771/">Graduation Banners</a></div><div class="subtab-items"><a href="/Sports-Banners/">Sports Banners</a></div><div class="subtab-items"><a href="/Mothers-Day-Banners/">Mother's Day Banners</a></div><div class="subtab-items"><a href="/Fathers-Day-Banners/">Father's Day Banners</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Bachelorette-Banners/">Bachelorette Banners</a></div><div class="subtab-items"><a href="/Bridal-Shower-Banners/">Bridal Shower Banners</a></div><div class="subtab-items"><a href="/Halloween-Custom-Banners~5097/">Halloween Custom Banners</a></div><div class="subtab-items"><a href="/Valetines-Day-Banners/">Valetine's Day Banners</a></div><div class="subtab-items"><a href="/Mardi-Gras-Banners/">Mardi Gras Banners</a></div><div class="subtab-items"><a href="/St-Patricks-Day-Banners/">St. Patrick's Day Banners</a></div><div class="subtab-items"><a href="/Easter-Banners/">Easter Banners</a></div><div class="subtab-items"><a href="/Hanukkah-Banners/">Hanukkah Banners</a></div><div class="subtab-items"><a href="/Christmas-Banners~3718/">Christmas Banners</a></div><div class="subtab-items"><a href="/New-Years-Banners/">New Years Banners</a></div><div class="subtab-items"><a href="/Casino-Banners/">Casino Banners</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Pirate-Banners/">Pirate Banners</a></div><div class="subtab-items"><a href="/Princess-Custom-Banners~3800/">Princess Custom Banners</a></div><div class="subtab-items"><a href="/Western-Banners/">Western Banners</a></div><div class="subtab-items"><a href="/Party-Banners/">Party Banners</a></div></div></div>
+							<a class="subtablinks" href="/Custom-Banners~3712/">Custom Banners</a>
 						  </div><div class="separators1"></div><div class="items">
-							<a class="subtablinks" href="/Custom-Invitations~6543/">Custom Invitations</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/Casino-Custom-Invitations/">Casino Custom Invitations</a></div><div class="subtab-items"><a href="/Christmas-Custom-Invitations/">Christmas Custom Invitations</a></div><div class="subtab-items"><a href="/Easter-Custom-Invitations/">Easter Custom Invitations</a></div><div class="subtab-items"><a href="/Everyday-Custom-Invitations/">Everyday Custom Invitations</a></div><div class="subtab-items"><a href="/Fiesta-Custom-Invitations/">Fiesta Custom Invitations</a></div><div class="subtab-items"><a href="/Graduation-Custom-Invitations/">Graduation Custom Invitations</a></div><div class="subtab-items"><a href="/Halloween-Custom-Invitations/">Halloween Custom Invitations</a></div><div class="subtab-items"><a href="/Luau-Custom-Invitations/">Luau Custom Invitations</a></div><div class="subtab-items"><a href="/Mardi-Gras-Custom-Invitations/">Mardi Gras Custom Invitations</a></div><div class="subtab-items"><a href="/New-Years-Custom-Invitations/">New Years Custom Invitations</a></div><div class="subtab-items"><a href="/Olympic-Cusom-Invitations/">Olympic Cusom Invitations</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/Patriotic-Custom-Invitations/">Patriotic Custom Invitations</a></div><div class="subtab-items"><a href="/Pirate-Custom-Invitations/">Pirate Custom Invitations</a></div><div class="subtab-items"><a href="/Princess-Custom-Invitations/">Princess Custom Invitations</a></div><div class="subtab-items"><a href="/Religious-Custom-Invitations/">Religious Custom Invitations</a></div><div class="subtab-items"><a href="/Retro-Custom-Invitations/">Retro Custom Invitations</a></div><div class="subtab-items"><a href="/Sports-Custom-Invitations/">Sports Custom Invitations</a></div><div class="subtab-items"><a href="/St-Patricks-Day-Custom-Invitations/">St. Patrick's Day Custom Invitations</a></div><div class="subtab-items"><a href="/Valentines-Day-Custom-Invitations/">Valentine's Day Custom Invitations</a></div><div class="subtab-items"><a href="/Western-Custom-Invitations/">Western Custom Invitations</a></div></div></div>
+							<a class="subtablinks" href="/Custom-Invitations~6543/">Custom Invitations</a>
 						  </div>	</div></div><div id="tab2" class="tabs">
 						<div id="menutab2" class="menutabs">
 							<a class="tablinks" href="/Glow-Products/" title="Glow Products">
@@ -431,25 +459,10 @@
 												<a href="/Glow-Paint/">Glow Paint</a>
 											   	<div class="tab-subitems"><a href="/Glow-Body-Paint~6215/">Glow Body Paint</a><a href="/Glow-Paint~50/">Glow Paint</a><a href="/Blacklight-UV-Reactive-Paint/">Blacklight Paint</a><a href="/Glow-Blacklight-Makeup/">Glow &amp; Blacklight Makeup</a><a href="/Invisible-Glow-Paint/">Invisible Glow Paint</a><a href="/Glitter-Glow-Paint/">Glitter Glow Paint</a><a href="/Glow-Paint-Aerosol-Spray-Cans/">Glow Spray Paint</a><a href="/Glow-Pigment/">Glow Pigment</a><a href="/Glow-Paint/" style="color: #07C;">View All »</a></div>
 											   </div><div class="tab-items">
-												<a href="/Novelty-Contact-Lenses~7693/">Novelty Contact Lenses</a>
-											   	<div class="tab-subitems"><a href="/UV-Reactive-Lenses~7708/">UV Reactive Lenses</a><a href="/Fashion-Lenses~7704/">Fashion Lenses</a><a href="/Movie-Lenses/">Movie Lenses</a><a href="/Cosplay-Lenses~7742/">Cosplay Lenses</a><a href="/Halloween-Lenses~7712/">Halloween Lenses</a><a href="/Scary-Lenses~7714/">Scary Lenses</a><a href="/Animal-Eyes-Lenses/">Animal Eyes Lenses</a></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
 												<a href="/Glow-Sticks/">Glow Sticks</a>
 											   	<div class="tab-subitems"><a href="/Standard-Glow-Sticks/">Standard Glow Sticks</a><a href="/Premium-Glow-Sticks/">Premium Glow Sticks</a></div>
-											   </div><div class="tab-items">
-												<a href="/Glow-Accessories/">Glow Accessories</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Glow-Hats-Headwear/">Glow Headwear</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Glow-Stickers/">Glow Stickers</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Glow-Toys-and-Balls/">Glow Toys and Balls</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Glow-Wands-and-Swords/">Glow Wands and Swords</a>
+											   </div></div><div class="tab-columns"><div class="tab-items">
+												<a href="/Glow-Necklaces/">Glow Necklaces</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
 												<a href="/Glow-Bracelets/">Glow Bracelets</a>
@@ -460,11 +473,23 @@
 											   </div><div class="tab-items">
 												<a href="/Glow-Drinkware/">Glow Drinkware</a>
 											   	<div class="tab-subitems"></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
+											   </div><div class="tab-items">
 												<a href="/Glow-Jewelry/">Glow Jewelry</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Glow-Necklaces/">Glow Necklaces</a>
+												<a href="/Glow-Wands-and-Swords/">Glow Wands and Swords</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Glow-Toys-and-Balls/">Glow Toys and Balls</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Glow-Accessories/">Glow Accessories</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Glow-Hats-Headwear/">Glow Headwear</a>
+											   	<div class="tab-subitems"></div>
+											   </div></div><div class="tab-columns"><div class="tab-items">
+												<a href="/Glow-Stickers/">Glow Stickers</a>
 											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
@@ -492,32 +517,34 @@
 							</a>
 							<div class="hover-tabs">
 											<div class="tab-columns"><div class="tab-items">
-												<a href="/LED-Candles~7356/">LED Candles</a>
-											   	<div class="tab-subitems"><a href="/Battery-Operated-Candles/">Battery Operated Candles</a><a href="/Candle-Impressions/">Candle Impressions</a><a href="/Color-Changing-Candles/">Color Changing Candles</a><a href="/Designer-Candles/">Designer Candles</a><a href="/Flameless-Candles/">Flameless Candles</a><a href="/Flickering-Candles/">Flickering Candles</a><a href="/Lanterns/">Lanterns</a><a href="/Luminara-Candles/">Luminara Candles</a><a href="/LED-Candles~7356/" style="color: #07C;">View All »</a></div>
-											   </div><div class="tab-items">
 												<a href="/LED-Accessories/">LED Accessories</a>
 											   	<div class="tab-subitems"><a href="/LED-Hats~10651/">LED Hats</a><a href="/LED-Headbands-Tiaras/">LED Headbands &amp; Tiaras</a><a href="/LED-Wigs~10653/">LED Wigs</a><a href="/LED-Mouthpieces-Pacifiers/">LED Mouthpieces &amp; Pacifiers</a><a href="/LED-Gloves~10655/">LED Gloves</a><a href="/LED-Blinkies-Pins/">LED Blinkies &amp; Pins</a><a href="/LED-Necklaces~10657/">LED Necklaces</a><a href="/LED-Bracelets~10658/">LED Bracelets</a><a href="/LED-Accessories/" style="color: #07C;">View All »</a></div>
+											   </div><div class="tab-items">
+												<a href="/LED-Candles~7356/">LED Candles</a>
+											   	<div class="tab-subitems"><a href="/Battery-Operated-Candles/">Battery Operated Candles</a><a href="/Candle-Impressions/">Candle Impressions</a><a href="/Color-Changing-Candles/">Color Changing Candles</a><a href="/Designer-Candles/">Designer Candles</a><a href="/Flameless-Candles/">Flameless Candles</a><a href="/Flickering-Candles/">Flickering Candles</a><a href="/Lanterns/">Lanterns</a><a href="/Luminara-Candles/">Luminara Candles</a><a href="/LED-Candles~7356/" style="color: #07C;">View All »</a></div>
 											   </div></div><div class="tab-columns"><div class="tab-items">
 												<a href="/LED-Noisemakers-and-Toys/">LED Toys</a>
 											   	<div class="tab-subitems"><a href="/LED-Guns/">LED Guns</a><a href="/LED-Noisemakers/">LED Noisemakers</a><a href="/LED-Outdoor-Toys/">LED Outdoor Toys</a><a href="/LED-Spirit-Items/">LED Spirit Items</a><a href="/LED-Noisemakers-and-Toys-Bubble-Guns/">LED Bubble Guns</a><a href="/LED-Sabers-Swords/">LED Swords &amp; Sabers</a><a href="/LED-Noisemakers-and-Toys-Wands/">LED Wands</a><a href="/LED-Squishy-Toys/">LED Squishy Toys</a><a href="/LED-Noisemakers-and-Toys/" style="color: #07C;">View All »</a></div>
 											   </div><div class="tab-items">
+												<a href="/LED-Apparel/">LED Apparel</a>
+											   	<div class="tab-subitems"><a href="/LED-T-Shirts/">LED T-Shirts</a><a href="/LED-Bras/">LED Bras</a><a href="/LED-Snapback-Hats/">LED Snapback Hats</a><a href="/LED-Gloves/">LED Gloves</a><a href="/LED-Shoe-Laces~4133/">LED Shoe Laces</a><a href="/LED-Hats-Headwear~3829/">LED Hats</a><a href="/LED-Wigs~8456/">LED Wigs</a><a href="/LED-Sound-Activated-Patches/">LED Patches</a><a href="/LED-Apparel/" style="color: #07C;">View All »</a></div>
+											   </div></div><div class="tab-columns"><div class="tab-items">
 												<a href="/LED-Drinkware/">LED Drinkware</a>
 											   	<div class="tab-subitems"><a href="/LED-Cups-Glasses/">LED Cups &amp; Glasses</a><a href="/LED-Ice-Cubes~1444/">LED Ice Cubes</a><a href="/LED-Cocktail-Drinkware/">LED Cocktail Drinkware</a><a href="/LED-Shot-Glasses~7603/">LED Shot Glasses</a><a href="/LED-Cocktail-Stirrers/">LED Cocktail Stirrers</a><a href="/LED-Trays-Ice-Buckets/">LED Drinkware Accessories</a><a href="/LED-Cutlery/">LED Cutlery</a></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
-												<a href="/Novelty-Contact-Lenses~7694/">Novelty Contact Lenses</a>
-											   	<div class="tab-subitems"><a href="/UV-Reactive-Lenses~7709/">UV Reactive Lenses</a><a href="/Fashion-Lenses~7705/">Fashion Lenses</a><a href="/Movie-Lenses~7711/">Movie Lenses</a><a href="/Cosplay-Lenses~7769/">Cosplay Lenses</a><a href="/Halloween-Lenses~7713/">Halloween Lenses</a><a href="/Scary-Lenses~7715/">Scary Lenses</a><a href="/Wild-Eyes-Lenses~7707/">Animal Eyes Lenses</a></div>
-											   </div><div class="tab-items">
-												<a href="/LED-Apparel/">LED Apparel</a>
-											   	<div class="tab-subitems"><a href="/LED-T-Shirts/">LED T-Shirts</a><a href="/LED-Gloves/">LED Gloves</a><a href="/LED-Shoe-Laces~4133/">LED Shoe Laces</a><a href="/LED-Hats-Headwear~3829/">LED Hats</a><a href="/LED-Wigs~8456/">LED Wigs</a><a href="/LED-Sound-Activated-Patches/">LED Patches</a></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
-												<a href="/LED-Lamps-and-Electronics/">LED Decorations</a>
-											   	<div class="tab-subitems"><a href="/LED-Balloons~10680/">LED Balloons</a><a href="/LED-Candles~10681/">LED Candles</a><a href="/LED-Mood-Lights/">LED Mood Lights</a><a href="/LED-Centerpieces~8465/">LED Centerpieces</a><a href="/LED-EL-Copper-Wire~8466/">LED Wire &amp; String Lights</a></div>
 											   </div><div class="tab-items">
 												<a href="/LED-Hats-Headwear~7228/">LED Headwear</a>
-											   	<div class="tab-subitems"><a href="/LED-Hats~10670/">LED Hats</a><a href="/LED-Wigs~10671/">LED Wigs</a><a href="/LED-Headbands-Tiaras~10672/">LED Headbands &amp; Tiaras</a><a href="/LED-Hair-Extensions~10673/">LED Hair Extensions</a></div>
+											   	<div class="tab-subitems"><a href="/LED-Hats~10670/">LED Hats</a><a href="/LED-Wigs~10671/">LED Wigs</a><a href="/LED-Headbands-Tiaras~10672/">LED Headbands &amp; Tiaras</a><a href="/LED-Hair-Extensions~10673/">LED Hair Extensions</a><a href="/LED-Snapback-Hats/">LED Snapback Hats</a></div>
+											   </div></div><div class="tab-columns"><div class="tab-items">
+												<a href="/LED-Lamps-and-Electronics/">LED Decorations</a>
+											   	<div class="tab-subitems"><a href="/LED-Balloons~10680/">LED Balloons</a><a href="/LED-Candles~10681/">LED Candles</a><a href="/LED-EL-Copper-Wire~8466/">LED Wire &amp; String Lights</a><a href="/LED-Mood-Lights/">LED Mood Lights</a><a href="/LED-Centerpieces~8465/">LED Centerpieces</a></div>
+											   </div><div class="tab-items">
+												<a href="/LED-Jewelry/">LED Jewelry</a>
+											   	<div class="tab-subitems"><a href="/LED-Rings~2487/">LED Rings</a><a href="/LED-Earrings~10675/">LED Earrings</a><a href="/LED-Bracelets~2488/">LED Bracelets</a><a href="/LED-Necklaces~2489/">LED Necklaces</a></div>
 											   </div></div></div>
 						</div>
-						<div id="submenutab3" class="submenutabs" style="display: table;"><div class="items">
+						<div id="submenutab3" class="submenutabs"><div class="items">
+							<a class="subtablinks" href="/New-Arrivals~10726/">New Arrivals</a>
+						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/LED-Eyeglasses/">LED Eyeglasses</a>
 						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/LED-Jewelry/">LED Jewelry</a><div class="hover-subtabs">
@@ -527,17 +554,14 @@
 													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-Cups-Glasses/">LED Cups &amp; Glasses</a></div><div class="subtab-items"><a href="/LED-Ice-Cubes~1444/">LED Ice Cubes</a></div><div class="subtab-items"><a href="/LED-Cocktail-Drinkware/">LED Cocktail Drinkware</a></div><div class="subtab-items"><a href="/LED-Shot-Glasses~7603/">LED Shot Glasses</a></div><div class="subtab-items"><a href="/LED-Cocktail-Stirrers/">LED Cocktail Stirrers</a></div><div class="subtab-items"><a href="/LED-Trays-Ice-Buckets/">LED Drinkware Accessories</a></div><div class="subtab-items"><a href="/LED-Cutlery/">LED Cutlery</a></div></div></div>
 						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/LED-Accessories/">LED Accessories</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-Hats~10651/">LED Hats</a></div><div class="subtab-items"><a href="/LED-Headbands-Tiaras/">LED Headbands &amp; Tiaras</a></div><div class="subtab-items"><a href="/LED-Wigs~10653/">LED Wigs</a></div><div class="subtab-items"><a href="/LED-Mouthpieces-Pacifiers/">LED Mouthpieces &amp; Pacifiers</a></div><div class="subtab-items"><a href="/LED-Gloves~10655/">LED Gloves</a></div><div class="subtab-items"><a href="/LED-Blinkies-Pins/">LED Blinkies &amp; Pins</a></div><div class="subtab-items"><a href="/LED-Necklaces~10657/">LED Necklaces</a></div><div class="subtab-items"><a href="/LED-Bracelets~10658/">LED Bracelets</a></div><div class="subtab-items"><a href="/LED-Rings~10659/">LED Rings</a></div><div class="subtab-items"><a href="/LED-Finger-Lights~10660/">LED Finger Lights</a></div><div class="subtab-items"><a href="/LED-Earrings~10661/">LED Earrings</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/LED-Shoe-Laces~10662/">LED Shoe Laces</a></div><div class="subtab-items"><a href="/LED-Ties/">LED Ties &amp; Belts</a></div><div class="subtab-items"><a href="/LED-Wings/">LED Wings</a></div><div class="subtab-items"><a href="/LED-Scarves/">LED Scarves</a></div><div class="subtab-items"><a href="/LED-Leg-Wamers/">LED Leg Wamers</a></div><div class="subtab-items"><a href="/LED-Umbrellas/">LED Umbrellas</a></div><div class="subtab-items"><a href="/LED-Hair-Extensions-Headwear~384/">LED Hair Extensions</a></div><div class="subtab-items"><a href="/LED-Eyeglasses~380/">LED Eyeglasses</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-Hats~10651/">LED Hats</a></div><div class="subtab-items"><a href="/LED-Headbands-Tiaras/">LED Headbands &amp; Tiaras</a></div><div class="subtab-items"><a href="/LED-Wigs~10653/">LED Wigs</a></div><div class="subtab-items"><a href="/LED-Mouthpieces-Pacifiers/">LED Mouthpieces &amp; Pacifiers</a></div><div class="subtab-items"><a href="/LED-Gloves~10655/">LED Gloves</a></div><div class="subtab-items"><a href="/LED-Blinkies-Pins/">LED Blinkies &amp; Pins</a></div><div class="subtab-items"><a href="/LED-Necklaces~10657/">LED Necklaces</a></div><div class="subtab-items"><a href="/LED-Bracelets~10658/">LED Bracelets</a></div><div class="subtab-items"><a href="/LED-Rings~10659/">LED Rings</a></div><div class="subtab-items"><a href="/LED-Finger-Lights~10660/">LED Finger Lights</a></div><div class="subtab-items"><a href="/LED-Earrings~10661/">LED Earrings</a></div></div><div class="subtab-columns"><div class="subtab-items"><a href="/LED-Shoe-Laces~10662/">LED Shoe Laces</a></div><div class="subtab-items"><a href="/LED-Ties/">LED Ties &amp; Belts</a></div><div class="subtab-items"><a href="/LED-Wings/">LED Wings</a></div><div class="subtab-items"><a href="/LED-Scarves/">LED Scarves</a></div><div class="subtab-items"><a href="/LED-Leg-Wamers/">LED Leg Wamers</a></div><div class="subtab-items"><a href="/LED-Umbrellas/">LED Umbrellas</a></div><div class="subtab-items"><a href="/LED-Bags-Backpacks/">LED Bags &amp; Backpacks</a></div><div class="subtab-items"><a href="/LED-Snapback-Hats/">LED Snapback Hats</a></div><div class="subtab-items"><a href="/LED-Hair-Extensions-Headwear~384/">LED Hair Extensions</a></div><div class="subtab-items"><a href="/LED-Eyeglasses~380/">LED Eyeglasses</a></div></div></div>
 						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/LED-Apparel/">LED Apparel</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-T-Shirts/">LED T-Shirts</a></div><div class="subtab-items"><a href="/LED-Gloves/">LED Gloves</a></div><div class="subtab-items"><a href="/LED-Shoe-Laces~4133/">LED Shoe Laces</a></div><div class="subtab-items"><a href="/LED-Hats-Headwear~3829/">LED Hats</a></div><div class="subtab-items"><a href="/LED-Wigs~8456/">LED Wigs</a></div><div class="subtab-items"><a href="/LED-Sound-Activated-Patches/">LED Patches</a></div></div></div>
+													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-T-Shirts/">LED T-Shirts</a></div><div class="subtab-items"><a href="/LED-Bras/">LED Bras</a></div><div class="subtab-items"><a href="/LED-Snapback-Hats/">LED Snapback Hats</a></div><div class="subtab-items"><a href="/LED-Gloves/">LED Gloves</a></div><div class="subtab-items"><a href="/LED-Shoe-Laces~4133/">LED Shoe Laces</a></div><div class="subtab-items"><a href="/LED-Hats-Headwear~3829/">LED Hats</a></div><div class="subtab-items"><a href="/LED-Wigs~8456/">LED Wigs</a></div><div class="subtab-items"><a href="/LED-Sound-Activated-Patches/">LED Patches</a></div></div></div>
 						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/LED-Balloons~3626/">LED Balloons</a>
 						  </div><div class="separators3"></div><div class="items">
 							<a class="subtablinks" href="/Light-Sabers-and-LED-Swords~95/">LED Swords &amp; Sabers</a>
-						  </div><div class="separators3"></div><div class="items">
-							<a class="subtablinks" href="/LED-Noisemakers-and-Toys/">LED Toys</a><div class="hover-subtabs">
-													<div class="subtab-columns"><div class="subtab-items"><a href="/LED-Guns/">LED Guns</a></div><div class="subtab-items"><a href="/LED-Noisemakers/">LED Noisemakers</a></div><div class="subtab-items"><a href="/LED-Outdoor-Toys/">LED Outdoor Toys</a></div><div class="subtab-items"><a href="/LED-Spirit-Items/">LED Spirit Items</a></div><div class="subtab-items"><a href="/LED-Noisemakers-and-Toys-Bubble-Guns/">LED Bubble Guns</a></div><div class="subtab-items"><a href="/LED-Sabers-Swords/">LED Swords &amp; Sabers</a></div><div class="subtab-items"><a href="/LED-Noisemakers-and-Toys-Wands/">LED Wands</a></div><div class="subtab-items"><a href="/LED-Squishy-Toys/">LED Squishy Toys</a></div><div class="subtab-items"><a href="/LED-Weapons/">LED Weapons</a></div></div></div>
 						  </div>	</div></div><div id="tab4" class="tabs">
 						<div id="menutab4" class="menutabs">
 							<a class="tablinks" href="/Black-Light-Products/" title="Black Light Products">
@@ -551,22 +575,7 @@
 												<a href="/Temporary-Lip-Tattoos/">Temporary Lip Tattoos</a>
 											   	<div class="tab-subitems"><a href="/2-Tone-Lip-Tattoos/">Ombre Lip Tattoos</a><a href="/Classics-and-Solids/">Classics and Solids</a><a href="/Glitteratti-Lip-Tattoos/">Glitter Lip Tattoos</a><a href="/All-Animal-Print-Lip-Tattoos/">Animal Print Lip Tattoos</a><a href="/Patterned-Lip-Tattoos/">Patterned Lip Tattoos</a><a href="/Words-and-Phrases-Lip-Tattoos/">Words and Phrases</a><a href="/Flag-Lip-Tattoos/">Flag Lip Tattoos</a></div>
 											   </div></div><div class="tab-columns"><div class="tab-items">
-												<a href="/Blacklight-Tapestry/">Blacklight Tapestry</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Beer-Pong-Party/">Beer Pong Supplies</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Incense/">Incense &amp; Oils</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Invisible-Ink~5117/">Invisible Ink</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Blacklight-Room-Decor/">Blacklight Decorations</a>
-											   	<div class="tab-subitems"></div>
-											   </div><div class="tab-items">
-												<a href="/Blacklight-Apparel~5129/">Blacklight Apparel</a>
+												<a href="/Black-Lights/">Blacklights &amp; Bulbs</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
 												<a href="/Blacklight-Tableware/">Blacklight Tableware</a>
@@ -577,11 +586,26 @@
 											   </div><div class="tab-items">
 												<a href="/Blacklight-Bubbles/">Blacklight Bubbles</a>
 											   	<div class="tab-subitems"></div>
-											   </div></div><div class="tab-columns"><div class="tab-items">
+											   </div><div class="tab-items">
 												<a href="/Blacklight-Posters/">Blacklight Posters</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Black-Lights/">Blacklights &amp; Bulbs</a>
+												<a href="/Blacklight-Apparel~5129/">Blacklight Apparel</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Blacklight-Room-Decor/">Blacklight Decorations</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Beer-Pong-Party/">Beer Pong Supplies</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Blacklight-Tapestry/">Blacklight Tapestry</a>
+											   	<div class="tab-subitems"></div>
+											   </div></div><div class="tab-columns"><div class="tab-items">
+												<a href="/Incense/">Incense &amp; Oils</a>
+											   	<div class="tab-subitems"></div>
+											   </div><div class="tab-items">
+												<a href="/Invisible-Ink~5117/">Invisible Ink</a>
 											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
@@ -604,150 +628,150 @@
 							<a class="subtablinks" href="/Blacklight-Room-Decor/">Blacklight Decorations</a>
 						  </div>	</div></div><div id="tab5" class="tabs">
 						<div id="menutab5" class="menutabs">
-							<a class="tablinks" href="/Novelty-Contact-Lenses~7460/" title="Contact Lenses">
-								CONTACT LENSES
+							<a class="tablinks" href="/Football-Party~10744/" title="Football Party">
+								FOOTBALL PARTY
 							</a>
 							<div class="hover-tabs">
 											<div class="tab-columns"><div class="tab-items">
-												<a href="/UV-Reactive-Lenses/">UV Reactive Lenses</a>
+												<a href="/Football-Drinkware/">Football Drinkware</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/All-Wild-Eyes-Lenses/">Animal Eyes Lenses</a>
+												<a href="/Football-Tableware/">Football Tableware</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Cosplay-Lenses/">Cosplay Lenses</a>
+												<a href="/Football-Paper-Plates/">Football Paper Plates</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Scary-Lenses/">Scary Lenses</a>
+												<a href="/Football-Decorations~10745/">Football Decorations</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/All-Movie-Lenses/">Movie Lenses</a>
+												<a href="/Football-Accessories/">Football Accessories</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/All-Fashion-Lenses/">Fashion Lenses</a>
+												<a href="/Football-Balloons~10750/">Football Balloons</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Halloween-Lenses~7468/">Halloween Lenses</a>
+												<a href="/Football-Costumes/">Football Costumes</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Sharingan-Contact-Lenses/">Sharingan Contact Lenses</a>
+												<a href="/Football-Party-Favors~10752/">Football Party Favors</a>
 											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
 						<div id="submenutab5" class="submenutabs"><div class="items">
-							<a class="subtablinks" href="/Sharingan-Contact-Lenses/">Sharingan Contact Lenses</a>
+							<a class="subtablinks" href="/Football-Decorations~10745/">Football Decorations</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/All-Fashion-Lenses/">Fashion Lenses</a>
+							<a class="subtablinks" href="/Football-Paper-Plates/">Football Paper Plates</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/Halloween-Lenses~7468/">Halloween Lenses</a>
+							<a class="subtablinks" href="/Football-Accessories/">Football Accessories</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/All-Movie-Lenses/">Movie Lenses</a>
+							<a class="subtablinks" href="/Football-Costumes/">Football Costumes</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/Scary-Lenses/">Scary Lenses</a>
+							<a class="subtablinks" href="/Football-Tableware/">Football Tableware</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/UV-Reactive-Lenses/">UV Reactive Lenses</a>
+							<a class="subtablinks" href="/Football-Balloons~10750/">Football Balloons</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/All-Wild-Eyes-Lenses/">Animal Eyes Lenses</a>
+							<a class="subtablinks" href="/Football-Drinkware/">Football Drinkware</a>
 						  </div><div class="separators5"></div><div class="items">
-							<a class="subtablinks" href="/Cosplay-Lenses/">Cosplay Lenses</a>
+							<a class="subtablinks" href="/Football-Party-Favors~10752/">Football Party Favors</a>
 						  </div>	</div></div><div id="tab6" class="tabs">
 						<div id="menutab6" class="menutabs">
-							<a class="tablinks" href="/Luau-Party/" title="Luau Party">
-								LUAU PARTY
+							<a class="tablinks" href="/Thanksgiving/" title="Thanksgiving">
+								THANKSGIVING
 							</a>
 							<div class="hover-tabs">
 											<div class="tab-columns"><div class="tab-items">
-												<a href="/Luau-Paper-Goods~10698/">Luau Paper Goods</a>
+												<a href="/Thanksgiving-Balloons~10781/">Thanksgiving Balloons</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Luau-Accessories~10699/">Luau Accessories</a>
+												<a href="/Thanksgiving-Costumes~10779/">Thanksgiving Costumes</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Luau-Party-Favors~10700/">Luau Party Favors</a>
+												<a href="/Thanksgiving-Paper-Goods~10776/">Thanksgiving Paper Goods</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Luau-Tableware/">Luau Tableware</a>
+												<a href="/Thanksgiving-Decorations~10775/">Thanksgiving Decorations</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Luau-Drinkware/">Luau Drinkware</a>
+												<a href="/Thanksgiving-Accessories~10777/">Thanksgiving Accessories</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Hawaiian-Leis~10694/">Hawaiian Leis</a>
+												<a href="/Thanksgiving-Party-Favors/">Thanksgiving Party Favors</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Hula-Skirts~10695/">Hula Skirts</a>
+												<a href="/Thanksgiving-Hats~10778/">Thanksgiving Hats</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/Outdoor-Decor~10693/">Outdoor Decor</a>
+												<a href="/Thanksgiving-Tableware/">Thanksgiving Tableware</a>
 											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
 						<div id="submenutab6" class="submenutabs"><div class="items">
-							<a class="subtablinks" href="/Outdoor-Decor~10693/">Outdoor Decor</a>
+							<a class="subtablinks" href="/Thanksgiving-Decorations~10775/">Thanksgiving Decorations</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Hawaiian-Leis~10694/">Hawaiian Leis</a>
+							<a class="subtablinks" href="/Thanksgiving-Paper-Goods~10776/">Thanksgiving Paper Goods</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Hula-Skirts~10695/">Hula Skirts</a>
+							<a class="subtablinks" href="/Thanksgiving-Accessories~10777/">Thanksgiving Accessories</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Luau-Drinkware/">Luau Drinkware</a>
+							<a class="subtablinks" href="/Thanksgiving-Hats~10778/">Thanksgiving Hats</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Luau-Tableware/">Luau Tableware</a>
+							<a class="subtablinks" href="/Thanksgiving-Costumes~10779/">Thanksgiving Costumes</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Luau-Paper-Goods~10698/">Luau Paper Goods</a>
+							<a class="subtablinks" href="/Thanksgiving-Party-Favors/">Thanksgiving Party Favors</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Luau-Accessories~10699/">Luau Accessories</a>
+							<a class="subtablinks" href="/Thanksgiving-Balloons~10781/">Thanksgiving Balloons</a>
 						  </div><div class="separators6"></div><div class="items">
-							<a class="subtablinks" href="/Luau-Party-Favors~10700/">Luau Party Favors</a>
+							<a class="subtablinks" href="/Thanksgiving-Tableware/">Thanksgiving Tableware</a>
 						  </div>	</div></div><div id="tab7" class="tabs">
 						<div id="menutab7" class="menutabs">
-							<a class="tablinks" href="/4th-of-July/" title="4th of July">
-								4TH OF JULY
+							<a class="tablinks" href="/Christmas/" title="Christmas">
+								CHRISTMAS
 							</a>
 							<div class="hover-tabs">
 											<div class="tab-columns"><div class="tab-items">
-												<a href="/4th-of-July-Paper-Goods/">4th of July Paper Goods</a>
+												<a href="/Christmas-Costumes~10789/">Christmas Costumes</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Flags/">4th of July Flags</a>
+												<a href="/Christmas-Accessories/">Christmas Accessories</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Tableware/">4th of July Tableware</a>
+												<a href="/Christmas-Toys/">Christmas Toys</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Drinkware/">4th of July Drinkware</a>
+												<a href="/Christmas-Decorations~10783/">Christmas Decorations</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Bows-Buntings/">4th of July Bows &amp; Buntings</a>
+												<a href="/Christmas-Party-Favors/">Christmas Party Favors</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Accessories/">4th of July Accessories</a>
+												<a href="/Christmas-Tableware/">Christmas Tableware</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Party-Favors/">4th of July Party Favors</a>
+												<a href="/Christmas-Paper-Goods~10786/">Christmas Paper Goods</a>
 											   	<div class="tab-subitems"></div>
 											   </div><div class="tab-items">
-												<a href="/4th-of-July-Decorations~10701/">4th of July Decorations</a>
+												<a href="/Santa-and-Elf-Hats/">Santa and Elf Hats</a>
 											   	<div class="tab-subitems"></div>
 											   </div></div></div>
 						</div>
 						<div id="submenutab7" class="submenutabs"><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Decorations~10701/">4th of July Decorations</a>
+							<a class="subtablinks" href="/Christmas-Decorations~10783/">Christmas Decorations</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Accessories/">4th of July Accessories</a>
+							<a class="subtablinks" href="/Christmas-Toys/">Christmas Toys</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Party-Favors/">4th of July Party Favors</a>
+							<a class="subtablinks" href="/Christmas-Party-Favors/">Christmas Party Favors</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Bows-Buntings/">4th of July Bows &amp; Buntings</a>
+							<a class="subtablinks" href="/Christmas-Paper-Goods~10786/">Christmas Paper Goods</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Drinkware/">4th of July Drinkware</a>
+							<a class="subtablinks" href="/Christmas-Accessories/">Christmas Accessories</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Paper-Goods/">4th of July Paper Goods</a>
+							<a class="subtablinks" href="/Christmas-Tableware/">Christmas Tableware</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Flags/">4th of July Flags</a>
+							<a class="subtablinks" href="/Christmas-Costumes~10789/">Christmas Costumes</a>
 						  </div><div class="separators7"></div><div class="items">
-							<a class="subtablinks" href="/4th-of-July-Tableware/">4th of July Tableware</a>
-						  </div>	</div></div></div>        
-        
+							<a class="subtablinks" href="/Santa-and-Elf-Hats/">Santa and Elf Hats</a>
+						  </div>	</div></div></div>
+	    
                 
       
         
@@ -804,6 +828,231 @@
 					
 			});
 		</script>
+        
+        
+        
+	            
+        <div id="search_box">
+        	<div id="left_label">Free Shipping &amp; Easy Returns</div>
+            <div id="left_label2">On over 15,000 products.</div>
+            
+            <!--div id="outside_label">&nbsp;Organize your next party with over 20,000 party products!</div-->
+            <form id="searchForm" name="searchForm" action="/search/" method="get" onsubmit="return performSearch(this);">
+                                
+                
+                <!--span id="department">
+                    <span id="current_department">All Categories</span>
+                    <span id="arrow"></span>
+                </span-->
+               
+                <div id="department_list">
+                    <div class="main_cats">
+                        <a href="/~/" title="">All Categories</a>
+                    </div>
+                    <div style="clear: both; height: 5px;"> </div>
+                                    </div>  
+                
+                <div id="search_inputs" style="border-left: none;">
+                    <input type="text" id="search_kw" name="kw" maxlength="128" value="Search by Product, Color, Holiday, Theme, etc." class="dimmed ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                    <input type="submit" id="search-btn" value="SEARCH">
+                    <input type="hidden" id="search_department" name="search_department" maxlength="128" value="">
+                </div>
+            </form>
+            <script type="text/javascript">
+                jQuery(function() {
+                    jQuery("#search_kw").autocomplete({
+                        delay: 300,
+                        minLength: 1,
+                        source: '/search-suggestions/',
+                        select: function(event, ui) {
+                                    jQuery('#search_kw').val(ui.item.value);
+                                   // jQuery('#search_department').val('');
+                                    //jQuery('#searchForm').submit();
+                                    performSearch(jQuery('#searchForm'));
+                                }
+                    });	
+                    
+                    jQuery("#search_kw").bind("focus", function(e) {
+                        jQuery("#searchForm").addClass("glowing");
+                        if (this.value == 'Search by Product, Color, Holiday, Theme, etc.') {
+                            jQuery(this).val('').removeClass('dimmed');	
+                        }
+                    });	
+                    jQuery("#search_kw").bind("blur", function(e) {
+                        jQuery("#searchForm").removeClass("glowing");
+                        if (this.value == '') {
+                            jQuery(this).val('Search by Product, Color, Holiday, Theme, etc.').addClass('dimmed');	
+                        }
+                    });	
+                    
+                    jQuery("#learn_more").mouseenter(function() {
+                        jQuery("#learn_more > #popup_info").show();
+                    });
+                    jQuery("#learn_more").mouseleave(function() {
+                        jQuery("#learn_more > #popup_info").hide();
+                    });
+                    
+                    jQuery("#department").click(function(e) {
+                        jQuery(".ui-autocomplete").hide();
+                        jQuery("#department_list").slideToggle();
+                        jQuery("#department_list").mouseenter(function(e) {
+                            jQuery(this).mouseleave(function(e) {
+                                jQuery(this).slideUp();
+                            });
+                        });
+                    });
+                    
+                    jQuery("#department_list a").click(function(e) {
+                        var catName = jQuery(this).html();
+                        var catUniq = jQuery(this).attr('title');
+                        jQuery("#current_department").html(catName);
+                        jQuery("#search_department").val(catUniq);
+                        e.preventDefault();
+                        jQuery("#department_list").hide();
+                        jQuery("#search_kw").trigger("focus");
+                    });
+                    
+                     
+                });
+                
+                function performSearch(form) {
+                    var kw      = jQuery('#search_kw').val().toString()
+                    var catUniq = jQuery('#search_department').val().toString();
+                    if (kw == 'Search by Product, Color, Holiday, Theme, etc.') {
+                        kw = '';
+                    } 
+                    kw = kw.replace('/', '');
+                    kw = jQuery.trim(kw);
+					
+                    jQuery.post("/~/", {task: 'set_sort_by_cookie', sort_by: 'relevance'}, function(response) {
+                        if (catUniq != '') {
+                            document.location = '/' + catUniq + '/~' + encodeURIComponent(kw) + '/?kw=' + encodeURIComponent(kw);
+                        } else {
+                            document.location = '/~' + encodeURIComponent(kw) + '/?kw=' + encodeURIComponent(kw);
+                        }
+                    });
+					
+					//track clicks in GA
+					_gaq.push(['_trackEvent', 'Search Bar', 'Customer used search bar', 'Customer used search bar']); 
+				
+                    return false;
+                }
+            </script>
+        </div>
+   	     
+        
+     
+     
+     
+     
+     
+     
+         	
+			<!-- Begin: Secret Coupon Popup -->
+            <div id="coupon_popup" class="fancybox-overlay fancybox-overlay-fixed" style="width: auto; height: auto; display: none;">
+            	<div tabindex="-1" class="fancybox-wrap fancybox-desktop fancybox-type-image fancybox-opened" style="margin-left: -280px; margin-top: -175px; top: 50%; left: 50%;">
+                	<div class="fancybox-skin">
+                		<div class="fancybox-outer">
+                            <div id="coupon_popup_inner" class="fancybox-inner" style="height: 380px; width: 600px; text-align: center;">
+                            	<img height="35" id="abdlogo" src="/templates/coolglow/images//v5/logo_white.png">
+                                <div id="text1">We're giving you</div>
+                            	<div id="text2">10% &nbsp;OFF*</div>
+                                <div id="text3">YOUR FIRST ORDER</div>
+                                <div id="cpbox">
+                                	<input type="text" id="cpemail" maxlength="256" value="Enter Your Email Here"><br>
+                                    <input type="button" id="cpbutton" value="EMAIL ME MY 10% OFF">
+                                </div>
+                                <div id="text4"><a id="cpreject" href="#">I REJECT MY 10% COUPON &amp; DON'T WANT TO SEE THIS OFFER AGAIN</a></div>
+                                <div id="text5">*First Time Customers Only. 10% Off applies on purchases of $165 or more.</div>
+                            	
+                            </div>
+                            <!--img id="loading_icon" src="/templates/coolglow/images/ajax-loader2.gif" /-->
+                        </div>
+                		<!--a href="javascript:;" class="fancybox-item fancybox-close" title="Close"></a-->
+                	</div>
+                </div>
+            </div>
+            <script type="text/javascript">
+				var cptimer = null;
+				jQuery(function() {
+					var site_arrival_time = getCookie("site_arrival_time");
+					if (site_arrival_time == "") {
+						setCookie("site_arrival_time", new Date().getTime(), 10, "/"); //miliseconds!
+					}
+					cptimer = setTimeout("showCouponEmailPopup()", 5000);
+					
+				});
+				
+				function showCouponEmailPopup() {
+					var email_popup_closed = getCookie("email_popup_closed");
+					var site_arrival_time = getCookie("site_arrival_time");
+					var current_time = new Date().getTime();
+					var miliseconds_to_delay = 60 * 1000;
+					if (email_popup_closed != 1 && site_arrival_time > 0 && current_time - site_arrival_time > miliseconds_to_delay) {
+						var cpu1	 = jQuery("#coupon_popup");
+						var cpemail  = cpu1.find("#cpemail");
+						var cpbutton = cpu1.find("#cpbutton");
+						var cpreject = cpu1.find("#cpreject");
+						var cpremailTxt = cpemail.val().toString();
+						
+						cpemail.bind("click", function(e) {
+							if (this.value.toString() == cpremailTxt) {
+								this.value = '';
+							}
+						});
+						cpemail.bind("blur", function(e) {
+							if (jQuery.trim(this.value) == "") {
+								this.value = cpremailTxt;
+							}
+						});
+						cpreject.bind("click", function(e) { //close form
+							cpu1.fadeOut();
+							setCookie("email_popup_closed", 1, 10, "/"); //10 days
+						});
+						
+						cpbutton.bind("click", function(e) { //submit form
+							var email = jQuery.trim(cpemail.val());
+							var emailValid = validateEmailFormat_Simple(email);
+							if (emailValid) {
+								jQuery.post("/index.php?option=com_popup", {task: 'coupon_email', sub_task: 'send_coupon_email', email_address: email}, function(response) {
+									cpu1.fadeOut();
+									setCookie("email_popup_closed", 1, 10, "/"); //10 days
+								});
+							} else {
+								alert("Please enter a valid email address!");	
+								cpemail.trigger("click").select();
+							}
+						});
+						
+						//show form
+						cpu1.show();
+						clearTimeout(cptimer);
+					} else {
+						clearTimeout(cptimer);
+						cptimer = setTimeout("showCouponEmailPopup()", 5000);	
+					}
+				}
+				
+				function validateEmailFormat_Simple(email) {
+					var atpos = email.indexOf("@");
+					var dotpos = email.lastIndexOf(".");
+					if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=email.length) {
+						return false;
+					} else {
+						return true;	
+					}
+				}
+				
+			</script>
+            <!-- End: Secret Coupon Popup -->
+            
+	 
+    
+    
+     
+    
+    		
+        
         
         
         <div id="content">
@@ -928,48 +1177,65 @@ information to third parties.
 		            
             <div id="blue_bar">&nbsp;</div>
             <center>
+            	<style>
+					
+				#bottom-links .links-box h2 {
+					color: #1754b8;
+					font-family: verdana !important;
+					font-size: 12px;
+					font-weight: bold;
+					margin-bottom: 5px;
+					margin-left: -2px;
+				}
+				
+				
+				
+				#bottom-links .links-box a {
+					color: #333;
+					line-height: 18px;
+				}
+				
+				</style>
             	<div id="bottom-links">
-					<div class="links-box" style="border-left: 1px solid #CCC;">
-                        <h2>Our Partners:</h2>
-                        <a href="https://www.fedex.com/us/index.html">Fedex.com</a><br>
-                        <a href="https://www.ebay.com">eBay.com</a><br>
-                        <a href="https://www.amazon.com">Amazon.com</a><br>
-                        <br>
-                        <h2>About Us:</h2>
-                        <a href="/about-cool-glow/">Company Overview</a><br>
-                        <a href="/privacy-policy/">Privacy Policy</a><br>
-                        <a href="/terms-and-conditions/">Terms of Service</a><br>
-					</div>
-					<div class="links-box">
-                        <h2>Support:</h2>
+					<div style="border-left: 1px solid #CCC;" class="links-box">
+                        <h2>Customer Service:</h2>
+                        <a href="/contact-us/">Contact Us</a><br>
                         <a href="/shipping-information/">Shipping Information</a><br>
                         <a href="/return-policy/">Refund Policy</a><br>
                         <a href="/out-of-stock-policy/">Out-of-Stock Policy</a><br>
                         <a href="/optional-insurance">Optional Insurance</a><br>
-                        <a href="/contact-us/">Contact Us</a><br>
                         <a href="/faq/">Frequently Asked Questions (FAQ)</a><br>
                         <!--a href="/sitemap/">Site Map</a><br /-->
+					</div>
+					<div class="links-box">
+						<h2>About Us:</h2>
+                        <a href="/about-cool-glow/">Company Overview</a><br>
+                        <a href="/privacy-policy/">Privacy Policy</a><br>
+                        <a href="/terms-and-conditions/">Terms of Service</a><br>
+				
                     </div>
                     <div class="links-box">
-                        <h2>Product Packages:</h2>
-                        <a href="/package-birthday-parties/">Birthday Parties</a><br>
-                        <a href="/package-corporate-gatherings/">Corporate Gatherings</a><br>
-                        <a href="/package-football-games/">Football Games</a><br>
-                        <a href="/package-school-dances/">School Dances</a><br>
-                        <a href="/package-outdoor-events/">Outdoor Events</a><br>
-                        <a href="/package-weddings-celebrations/">Weddings / Celebrations</a><br>
-                        <a href="/package-church-luminaries/">Church Luminaries</a><br>
+                      <h2 style="margin-left: -10px;">Socialize with Us!:</h2>
+                      <div style="width:195px; font-size: 11px;">We like to party as much as you do and we don't want you to miss the latest promotions and coolest blinky and glowing items, for your next party connect with us!                     
                     </div>
+                    <div id="social-icons" style="margin-left: -10px;margin-top: 5px;">
+                      <a href="https://www.facebook.com/CoolGlowParty" target="_blank" title="Facebook"><img src="https://cgnsupport.com/cg/assets/fb.jpg"></a>
+                      <a href="https://twitter.com/CoolGlow" target="_blank" title="Twitter"><img src="https://cgnsupport.com/cg/assets/twitter.jpg"></a>
+                      <a href="https://pinterest.com/CoolGlow" target="_blank" title="Pinterest"><img src="https://cgnsupport.com/cg/assets/pintrest.jpg"></a>
+                      <a href="https://plus.google.com/+CoolglowParty/" target="_blank" title="Google+"><img src="https://cgnsupport.com/cg/assets/google.jpg"></a>
+                      
+                    </div></div>
                     <div class="links-box">
                         <h2>Newsletter &amp; Offers:</h2>
                         <a href="/newsletter/">Request a Catalog</a><br>
                         <br>
                         <h2 style="font-size: 13px; font-weight: bold;">Sign Up For Fun:</h2>
-                        Receive special offers, party planning tips and some other really cool stuff.<br>
+                      <div style="width:195px;">
+                        Receive special offers, party planning tips and some other really cool stuff.<br></div>
                         <br style="height:10px;">
                         <a href="/newsletter/"><img src="/templates/coolglow/images/signmeup.gif"></a>   
                      </div>
-                </div> 	
+                </div>
             	
                 	
                 <div id="bottom-links-logos">
@@ -979,9 +1245,9 @@ information to third parties.
                     </div>
                     
                     <!-- Begin: Trust Guard badge -->
-                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="http://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Verified" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/security-8182-large-white.gif" height="50"></a>
-                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="http://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Privacy Seal" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/privacy-8182-large-white.gif" height="50"></a>
-                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="http://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Business Verified" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/business-8182-large-white.gif" height="50"></a>
+                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="https://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http:', 'https:'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Verified" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/security-8182-large-white.gif" height="50"></a>
+                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="https://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http:', 'https:'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Privacy Seal" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/privacy-8182-large-white.gif" height="50"></a>
+                    <a name="trustlink" style="float: left; margin-right: 50px; margin-top:5px;" href="https://secure.trust-guard.com/certificates/8182" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http:', 'https:'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Business Verified" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/business-8182-large-white.gif" height="50"></a>
                     <!-- End: Trust Guard badge -->
                     
                      <!-- Begin: VeriSign badge -->
@@ -1034,17 +1300,6 @@ information to third parties.
 
 
 
-        <!-- BEGIN: buySAFE Seal -->
-        <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
-        <span id="BuySafeSealSpan"></span>
-        <script type="text/javascript">
-            buySAFE.Hash = 'nULe%2FAPBQv6KmLaP3ZfW%2FkqAPpMdQssgntLV9X2XDXjjrIEZ4HdNXNPsNrIG69p9hGVM27dJTrzBY%2BLZiBvMHA%3D%3D';
-            WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
-        </script>
-        <!-- END: buySAFE Seal -->
-        
-       
-
 
 
                
@@ -1079,9 +1334,10 @@ information to third parties.
         </script>
         <!-- END: Google Trusted Stores -->
         
+        
+        
 
-
-
+<!--A/B tests active with phpA/B 1.2-->
 <script type="text/javascript" src="http://coolglow.com/templates/coolglow/js/tools.js"></script>
 <script type="text/javascript" src="http://coolglow.com/templates/coolglow/js/MooTooltips.js"></script>
 <script type="text/javascript" src="http://coolglow.com/templates/coolglow/js/swfobject.js"></script>
@@ -1105,19 +1361,19 @@ information to third parties.
 	/*
 	var mouseEnter = 0;
 	jQuery(".tabs").mouseenter(function() {
-		if (this.id != 'tab3') {
+		if (this.id != 'tab1') {
 			jQuery("#menu" + this.id).animate({'height': '+=5px', 'top': '-=5px'}, 'fast').addClass('ontop');
 			mouseEnter = this.id;
 		}
-		//jQuery("#submenutab3").hide();
+		//jQuery("#submenutab1").hide();
 		//jQuery("#submenu" + this.id).show();
 	});
 	jQuery(".tabs").mouseleave(function() {
-		if (this.id != 'tab3' && mouseEnter != 0) {
+		if (this.id != 'tab1' && mouseEnter != 0) {
 			jQuery("#menu" + this.id).animate({'height': '-=5px', 'top': '+=5px'}, 'fast').removeClass('ontop');
 		}
 		//jQuery("#submenu" + this.id).hide();
-		//jQuery("#submenutab3").show();
+		//jQuery("#submenutab1").show();
 		
 	});
 	*/
@@ -1138,4 +1394,5 @@ information to third parties.
 </script>
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 103; top: 0px; left: 0px; display: none;"></ul></body></html>
+
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
