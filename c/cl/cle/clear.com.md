@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330055307id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124061438id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal | Privacy Policy | CLEAR
 
@@ -104,10 +104,6 @@ Spam is email that is sent against the wishes of the recipient. There are two ki
 **Enforcement of this Privacy Statement**
 
 If you have questions regarding this statement, you should contact Clearwire.
-
-**European Union Data Considerations**
-
-Personal information collected on this site may be stored and processed in the United States or any other country in which Clearwire or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Clearwire abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 **Privacy Policy Changes**
 
