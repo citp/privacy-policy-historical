@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desktopict.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103249id_/http%3A//www.desktopict.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopict.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124043209id_/http%3A//www.desktopict.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Desktopict.com
+# Privacy Policy at Desktopict.org
 
 The owners and operators of  **Desktopict.com**  take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
@@ -25,4 +25,4 @@ Google’s use of the DART cookie enables it to serve ads to your users based on
 
 Users may opt out of the use of the DART cookie by visiting the  **Google ad and content network privacy policy.**
 
-For any problems or questions don’t hesitate to [Contact Us](http://www.desktopict.com/contact).
+For any problems or questions don’t hesitate to [Contact Us](http://www.desktopict.org/contact).
