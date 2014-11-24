@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044728id_/http%3A//icoolbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124113310id_/http%3A//icoolbuzz.com/privacy) for the most accurate reproduction.*
 
-# Privacy | C00l Things
+# Privacy ⋆ C00l Things
 
 The iCool Buzz, a wholly-owned subsidiary of Tuuba Inc., which owns and operates the website www.iCoolBuzz.com (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at [privacy@icoolbuzz.com](mailto:privacy@icoolbuzz.com).
 
