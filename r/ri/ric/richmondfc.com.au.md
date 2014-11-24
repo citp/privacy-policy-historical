@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625193643id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124221535id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - richmondfc.com.au
 
@@ -119,7 +119,7 @@ The AFL and AFL Clubs may also disclose personal information where it is otherwi
 
 Where you provide your personal information directly to one AFL Club, although it may be disclosed to the AFL, that personal information will not ordinarily be shared with a different AFL Club. However, there may be some circumstances where this personal information is shared between AFL Clubs. For example, if in a transaction you purchase merchandise relating to two AFL Clubs, that transaction may be disclosed to both AFL Clubs.
 
-You consent to the AFL and AFL Clubs using your personal Information for sending you information, including promotional material, about the AFL or AFL Clubs, or AFL's or AFL Clubs' products and services, as well as the products and services of third parties, now and in the future. You also consent to us sending you such information by means of direct mail, email, SMS and MMS messages. You can contact us using the contact details specified in paragraph 9 if you do not want to receive marketing information from us.
+You consent to the AFL and AFL Clubs using your personal Information for sending you information, including promotional material, about the AFL or AFL Clubs, or AFL's or AFL Clubs' products and services, as well as the products and services of third parties, now and in the future. You also consent to us contacting you with such information by means of direct mail, email, SMS and MMS messages and via telephone. You can contact us using the contact details specified in paragraph 9 if you do not want to receive marketing information from us.
 
 The AFL and AFL Clubs do not otherwise disclose personal information without your permission, unless the disclosure is:
 
