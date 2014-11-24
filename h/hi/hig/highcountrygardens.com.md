@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151933id_/http%3A//highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052922id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
 # HCG - Privacy Policy
 
