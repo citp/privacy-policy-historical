@@ -1,98 +1,83 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411132918id_/https%3A//www.headphone.com/support/your-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120422id_/http%3A//www.headphone.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy
+# Privacy Policy | headphone.com
 
 ## HeadRoom Respects Your Privacy!
 
 We do not sell or distribute any of your information in any way, **ever** .
-
-**Information Collection**
-
-HeadRoom Corporation is the sole owner of the information collected on www.headphone.com. HeadRoom collects information from our users at several different points on our Web site. ****
-
-**Registration**
-
-****In order to use this Web site, a user must first complete the registration form. During registration a user is required to give us their name and email address. We use this information to contact the user about services on our site for which he has expressed interest. A user name and password is required to log on to the site and place an order.
-
-**Order**
-
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information such as credit card number, billing address, and expiration date. This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
-
-**Profile**
-
-We store information that we collect through cookies and log files to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. ****
-
-**Content and Ratings.**
-
-You can publish reviews, comments and other content. Members can choose to rate products or reviews, and to trust other members. As an unregistered visitor, we may allow you to rate products and/or reviews.
-
-We, and our licensees, can republish your content as described in the user agreement. We publish product ratings and comments and use them to develop aggregate ratings, personalize site views and merchandise products. We use your review ratings and web of trust to personalize site views and identify/feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as contemplated elsewhere in this statement), we use the database throughout our networks and to generate results for others.
-
-**Cookies**
-
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
-
-Cookies are used to save customer names and shipping addresses only. The only drawback to this is that without using cookies, the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. The user will also not be able to place an order. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the “Profile” section.
-
-This privacy statement covers the use of cookies by www.headphone.com only and does not cover the use of cookies by any advertisers.
-
-**Log Files**
-
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called http://www.urchin.com/ that uses log files to analyze user movement.
-
-Communications from the Site Special Offers and Updates Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
-
-**Newsletter**
-
-****If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. ****
-
-**Service Announcements**
-
-****On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please see our Choice and Opt-out section.
-
-**Customer Service**
-
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. ****
-
-**Sharing**
-
-Legal Disclaimer Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. ****
-
-**Choice/Opt-out**
-
-****Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
-
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@headphone.com. We also offer an opt-out mechanism on the member log-in pages or the user may contact us at 406-587-9466, support@headphone.com, or mail us at 619 N. Church Ave, #1, Bozeman, MT 59715 to opt-out.
-
-**Links**
-
-****This Web site contains links to other sites. Please be aware that we, HeadRoom Corporation, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-**Surveys & Contests **
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information, such as name and shipping address, and demographic information such as zip code. Contact information may be shared with the contest or survey sponsors to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
-
-**Security**
-
-****This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information such as a credit card, that information is encrypted and is protected with the best encryption software in the industry - SSL.
-
-While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (our customer service representatives) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
-
-If users have any questions about the security at our Web site, users can send an email to matt@headphone.com ****
-
-**Supplementation of Information**
-
-Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the log-in page or by emailing our Customer Support at support@headphone.com. Or, contact us by telephone or postal mail at the contact information listed below.
-
-Notification of Changes If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-Contact Information
+    
+    
+    **PRIVACY STATEMENT**
+    
+    **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?  
+    ** When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
+    When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+    Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
+    
+    **SECTION 2 - CONSENT  
+    ** How do you get my consent?
+    When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+    If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+    
+    How do I withdraw my consent?
+    If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at jamey@headphone.com or mailing us at:
+    headphone.com
+    619 N. Church Ave. Unit #1 Bozeman Montana US 59715
+    
+    **SECTION 3 - DISCLOSURE  
+    ** We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+    
+    **SECTION 4 - SHOPIFY  
+    ** Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+    Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.  
+     **Payment:**
+    If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+    All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
+    PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+    For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+    
+    **SECTION 5 - THIRD-PARTY SERVICES  
+    ** In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+    However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+    For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+    In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+    As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+    Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.   
+    **Links**
+    When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+    
+    **SECTION 6 - SECURITY  
+    ** To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+    If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+    
+    **SECTION 7 - COOKIES**  
+     A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.  
+    Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies.  
+     **Shopify**  
+     _session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+     _shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+     _shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+    cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+     _secure_session_id, unique token, sessional
+     storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.   
+     **Google Analytics**  
+     Google analytics uses cookies to store anonymous data about website user activities, including but not limited to page source, page views, time spent, geo location, search terms, demographic and interest data, and additional data.  This data is collected anonymously and stored as a set of numbers, thereby protecting user's identity.  Using Google Analytics helps us understand what our users are looking for and how they surf our site, allowing us to improve our offerings for our customer base.
+    **Google Remarketing**
+    We have enabled Google Analytics to collect data about our traffic via Google advertising cookies and, in addition to data collected through Google Analytics (referenced above).    
+    Personally-identifiable information will never be merged with non-personally identifiable information collected through any Google advertising product or feature, meaning that the data collected via Google analytics/remarketing tools will remain anonymous.  We aren't allowed to run interest-based advertising campaigns that collect personally identifiable information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers.  Google may include in-ads notice labels to disclose interest-based advertising, and Google reserves the right to display to users which remarketing lists they're on, along with the corresponding domain name.  
+     **OPT-OUT**  
+     To provide website visitors the ability to prevent their data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js): [https://tools.google.com/dlpage/gaoptout/](https://www.google.com/settings/dashboard)  
+    You may also opt out of Google Adwords settings and view additional privacy settings for other Google products here:  https://www.google.com/settings/dashboard
+    
+    
+    **SECTION 8 - AGE OF CONSENT  
+    ** By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+    
+    **SECTION 9 - CHANGES TO THIS PRIVACY POLICY  
+    ** We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+    If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+    
+    **QUESTIONS AND CONTACT INFORMATION**
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
@@ -109,3 +94,6 @@ HeadRoom Corporation
 619 N. Church Unit 1, Bozeman, MT 59715
 
 Web site URL http://www.headphone.com
+
+
+
