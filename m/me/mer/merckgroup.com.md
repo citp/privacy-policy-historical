@@ -1,60 +1,59 @@
-> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107035140id_/http%3A//www.merckgroup.com/en/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124204749id_/http%3A//www.merckgroup.com/en/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Merck Group
 
-**General**
+**Introduction**
 
-Thank you for your interest in the Merck KGaA Web site (referred to briefly as “Merck” in this letter). The issue of data protection and confidentiality is a topic we take very seriously by us, and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we would therefore like to provide you with information on the kind of data which we – that is, Merck and its subsidiaries – may wish to save and how we use such data.
-
- 
+Thank you for your interest in the Merck KGaA website (referred to briefly as “Merck” in this statement). The issue of data protection and confidentiality is a topic we take very seriously and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we therefore want to provide you with information on the types of data that we may collect and how we use that data.
 
 **Storage and use of data**
 
-As a visitor to our Web site, you will remain anonymous. The data we save and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we save to our servers comprises the name of your internet service provider, the Web site from which you have visited us, the Merck Web pages you have looked up, your IP address and the date and duration of your visit.
-
- 
+As a visitor to our website, you will remain anonymous. The data we store and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we store on our servers comprises the name of your internet service provider, the website from which you visited us, the Merck web pages you have looked up, your IP address and the date and duration of your visit.
 
 **Collection, processing and use of personal data**
 
-We only collect and process personal data if you make use of specific services and if you have voluntarily given us your express consent. You may do so, for instance, as part of a registration procedure, by completing a form or by sending an e-mail, ordering products or services, sending us a query or requesting materials. Unless we are subject to other legal commitments, we only use your personal data for the purposes for which you have given your consent.
+We only collect and process personal data if you make use of specific services and we therefore require your data or if you have voluntarily given us your express consent. You may do so, for instance, as part of a registration procedure, by completing a form or by sending an e-mail, ordering products or services, sending us a query or requesting materials. Unless we are subject to other legal commitments, we only use your personal data for the purposes for which you have given your consent.
 
-Your personal data will not be shared by us with third parties unless you have given your consent (e.g. permission for use by Merck subsidiaries) or unless we are instructed to do so by the authorities. If you have given permission for use by Merck subsidiaries, then these subsidiaries are obliged to treat your personal data as specified in this Data Protection Statement. The same commitment is given by Merck on behalf of other third parties, to ensure that they process your personal data as specified for their original recording purpose. This concerns, for instance, deliveries, analyses and technical services.
+Your personal data will only be shared by us with third parties if that is required in order to provide a service you have requested or if you have given your consent. If data has been released for use by Merck subsidiaries and if such permission involves data transfer to other countries, Merck will ensure that the data importer is placed under a suitable level of data protection commitment.
 
-If data has been released for use by Merck subsidiaries and if such permission involves data transfer to other countries, Merck will ensure that the data importer is placed under a suitable level of data protection commitment.   
+**Data retention**
 
+We store data as required by legal obligation or for the period of time that is required to provide a service you have requested or as agreed in applicable consent.
 
- 
+**Right to review, correct and object**
 
-**Data storage**
-
-We only store data for the period of time that is required to conduct the service you have requested.
-
- 
-
-**Right of access, correction and objection**
-
-You are entitled to review and correct any of your personal data we have saved, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is send a message by e-mail, telephone or letter to the Corporate Privacy Officer (postal and e-mail addresses see below).
-
- 
+You are entitled to review and correct any of your personal data we have stored, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is to send an e-mail to: privacy@merckgroup.com
 
 **Data protection and security**
 
-All our staff and all third parties involved in data processing are subject to commitments under the Bundesdatenschutzgesetz (German Data Protection Act) and are obliged to confidentiality in the use of personal data. Our data protection measures are continually updated, reflecting technical developments.
+Our employees involved in data processing are obliged to confidentiality in the use of personal data. Our data protection measures are continually updated, reflecting technical developments.
 
- 
+**Google Analytics**
 
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transfered to a Google server in the USA and truncated there. The IP-anonymisation is active on this website. Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage. The IP-address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: „<http://tools.google.com/dlpage/gaoptout?hl=de>“.
+
+**Cookies used on this website**
+
+Name of Cookie | 1st or 3rd party Cookie? If 3rd party: Who is setting it? | Purpose of the Cookie? | What data holds the Cookie? | Is it a session or persistent Cookie? | If persistent, how long is its lifespan?  
+---|---|---|---|---|---  
+JSESSIONID | 1st party | Session ID needed for e.g. Registration | SESSION ID | session |   
+WT_FPC | 3rd party Webtrends | Used to distinguish users | different values | persistent | 2 years  
+merck_survey_... | 3rd party mafo1.myaudience.de |  | different values | persistent | 1 year  
+ACOOKIE | 3rd party - sdc01.merck.de |  |  | persistent | 10 years  
+TAFSessionId | 1st party |  | SESSION ID | session |   
+TAFTrackingId | 1st party |  |  | persistent | _utma90 years  
+_ ga | 3rd party \- google-analytics.com | Used to distinguish users | different values | session, persistent | 2 years  
+_utma | 3rd party \- google-analytics.com | Used to distinguish users and sessions | different values | persistent | 2 years  
+_utmb | 3rd party \- google-analytics.com | Used to determine new sessions/ visits.  | different values | session | 30 mins from set/update  
+_utmz | 3rd party \- google-analytics.com | Used to determine new sessions/ visits.  | different values | persistent | 6 months from set/update  
+_utmv | 3rd party \- google-analytics.com | Stores the traffic source or campaign that explains how the user reached this site.  | different values | persistent | 2 years from set/update  
+  
 **Contact**
 
-If you have any problems, questions or suggestions, please feel to contact our Corporate Privacy Officer.
-
-## Corporate Privacy Officer at Merck KGaA
+If you have questions or suggestions, please feel free to contact our Corporate Privacy Officer.
 
 Norbert Moeren   
-Frankfurter Strasse 250   
-64293 Darmstadt   
-Germany
+Corporate Privacy Officer at Merck KGaA
 
-Phone: +49(0)6151-72-5167   
-Fax: +49(0)6151-72-915167
-
- 
+Phone: +49 6151 72 - 5167    
+Fax: +49 6151 72 - 915167
