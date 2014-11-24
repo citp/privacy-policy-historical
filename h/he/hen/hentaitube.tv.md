@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaitube.tv privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330102157id_/http%3A//hentaikey.com/v5.0/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaitube.tv privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124193646id_/http%3A//hentaikey.com/v5.0/doc/privacy.html) for the most accurate reproduction.*
 
 # HentaiKey.com
 
