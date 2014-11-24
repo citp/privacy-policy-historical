@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gagreport.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627095237id_/http%3A//www.gagreport.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagreport.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124082211id_/http%3A//www.gagreport.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Gag Report Privacy Policy
+# Gag Report Privacy Policy - Gag Report
 
 **Gag Report LLC Privacy Policy**  
 Please read this statement regarding the Gag Report. If you have any questions or suggestions regarding our privacy policy, please contact us.
