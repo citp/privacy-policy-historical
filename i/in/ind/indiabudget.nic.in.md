@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabudget.nic.in privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619042115id_/http%3A//indiabudget.nic.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabudget.nic.in privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124121149id_/http%3A//indiabudget.nic.in/privacy.asp) for the most accurate reproduction.*
 
 # UNION BUDGET
 
