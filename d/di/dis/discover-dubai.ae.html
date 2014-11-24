@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discover-dubai.ae privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627133116id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discover-dubai.ae privacy policy that was archived on 2014-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124093432id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - Discover Dubai
@@ -42,34 +42,37 @@
 
 </script>    
 
+<script type="text/javascript">
+    function _gaLt(event) {
+        var el = event.srcElement || event.target;
+
+        /* Loop up the tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+        while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
+            el = el.parentNode;
+
+        if (el && el.href) {
+            if (el.href.indexOf(location.host) == -1) { /* external link */
+                ga("send", "event", "Banner Links", el.href, document.location.pathname + document.location.search);
+                /* if target not set then delay opening of window by 0.5s to allow tracking */
+                if (!el.target || el.target.match(/^_(self|parent|top)$/i)) {
+                    setTimeout(function () {
+                        document.location.href = el.href;
+                    } .bind(el), 500);
+                    /* Prevent standard click */
+                    event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                }
+            }
+
+        }
+    }
+
+</script>
+
     
 </head>
 <body>    
     <form method="post" action="privacy" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkDLc7f1JkfiWRtmwZS/ZfF0S1x4MDGxPcrXfR+dK05FE=">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=R4_wo6Ss9S5LKOG5APdkfPymHoQrYDGuVoGNm5cs4-pjIPDpylQFSVWFgG7D6BD1LBTc5h3QK-UGPfR-D26yKPBROVrYi8w-7mpMR3icQTg1&amp;t=634896662120000000" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=2A8yhowUqTXiSJRhHP2pN9A66qPTWMdyzd5G9qCgypWrslcqVVYoviZLjR5UwsLNJyZqw6N7mPw8xA_bEXjkqmMeU5l4IC-yMPSw5tCbmGSVNa2pNfJPINqwoOfnI_o4EH3MjFUJzAwjvXsmgyKiZff15somutvh3QTmTDqbOcob0XfIwgqsyzm5pL8p0Nxr0&amp;t=6119e399" type="text/javascript"></script>
@@ -79,15 +82,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=mS2WIZYtM5QbKv_6EP7MOTHhDI3kaDRFVIi_s7OLjvKutCY07Gp5IpRoT6Y60cAF10ZRgL4Lzgm7YduLi9EPNp9XBi8xhCKEbnXFH6Wpa0nbbXotGgbDOn1LOuqO_yLo_FDqN_3ug-bBzR9STkWEqYkgoZuwb3fK38JZmBYUV-SotZmYh56q9X5RGkfLceEp0&amp;t=6119e399" type="text/javascript"></script>
     <div>
         
-        <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
-//]]>
-</script>
-  
+          
     </div>
 
     <div id="container">
@@ -152,7 +149,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                         <p><a href="/sports-and-activities/motor-sports">Motor Sports</a></p>
                         <p><a href="/sports-and-activities/shooting-and-paintball">Shooting and Paintball</a></p>
                         <p><a href="/sports-and-activities/horse-and-camel-riding">Horse and Camel Riding</a></p>
-                        <p><a href="/sports-and-activities/golf">Golf</a></p>			
+                        <p><a href="/sports-and-activities/golf">Golf</a></p>	
+                        <p><a href="/sports-and-activities/tried-and-tested">Tried and Tested</a></p>		
 				    </div>
 			    </article>
 
@@ -177,6 +175,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                         <h3>Shopping</h3>
 				        <p><a href="/shopping/shop-'til-you-drop">Shop 'til you drop</a></p>
                         <p><a href="/shopping/malls-and-souks">Shopping Malls and Souks</a></p> 
+                        <p><a href="/shopping/we-recommend">We recommend</a></p> 
 				    </div>
 			    </article>
 
@@ -184,13 +183,17 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 		            <div style="opacity: 0;" class="mh-background Dining">
                         <h3>Dining Out</h3>						                   
 				        <p><a href="/dining-out/this-months-offers">This months offers</a></p>
-						<p><a href="/dining-out/fifa-world-cup-venues">FIFA World Cup Venues</a></p>
-                        <p><a href="/dining-out/cafes-and-restaurants">Cafes and Restaurants</a></p>
+						<!--<p><a href="/dining-out/afternoon-tea">Afternoon Tea</a></p>-->
+                        <!--<p><a href="/dining-out/eid-offers">EID Offers</a></p>-->
+                        <!--<p><a href="/dining-out/halloween-offers">Halloween Offers</a></p>-->
+                        <!--<p><a href="/dining-out/cafes-and-restaurants">Cafes and Restaurants</a></p>-->
                         <p><a href="/dining-out/best-views">Best Views</a></p>
                         <p><a href="/dining-out/friday-brunch">Friday Brunch</a></p>
                         <p><a href="/dining-out/fine-dining">Fine Dining</a></p>	
                         <p><a href="/dining-out/romantic-restaurants">Romantic Restaurants</a></p>	
                         <p><a href="/dining-out/tried-and-tested">Tried and Tested</a></p>
+                        <!--<p><a href="/dining-out/we-recommend...">We Recommend...</a></p>-->
+                        <p><a href="/dining-out/hot-new-venue">Hot New Venue!</a></p>
                         <!--<p><a href="/dining-out/coming-soon">Coming Soon</a></p>-->		
 				    </div>
 			    </article>
@@ -199,9 +202,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 		            <div style="opacity: 0;" class="mh-background Nightlife">
                         <h3 style="line-height:1em">Nightlife &amp; Entertainment</h3>
                         <p><a href="/nightlife-and-entertainment">Overview</a></p>
-                        <p><a href="/nightlife-and-entertainment/opulent-clubs">Opulent Clubs</a></p>
-                        <p><a href="/nightlife-and-entertainment/chic-nightlife">Chic Nightlife</a></p>
-                        <p><a href="/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a></p>		
+                        <p><a href="/nightlife-and-entertainment/ladies-nights">Ladies Nights</a></p>
+                        <p><a href="/nightlife-and-entertainment/clubs">Clubs</a></p>
+                        <p><a href="/nightlife-and-entertainment/lounges">Lounges</a></p>
+                        <p><a href="/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a></p>	
+                        <p><a href="/nightlife-and-entertainment/we-recommend...">We Recommend...</a></p>	
 				    </div>
 			    </article>
 
@@ -288,7 +293,8 @@ Overall, cookies help us   provide you with a better website, by enabling us to 
                     <div>
                         <span>Shopping</span><br>
                         <a href="/shopping/shop-'til-you-drop">Shop 'til you drop</a><br>
-                        <a href="/shopping/malls-and-souks">Shopping Malls and Souks</a>  
+                        <a href="/shopping/malls-and-souks">Shopping Malls and Souks</a><br>
+                        <a href="/shopping/we-recommend">We recommend</a>
                         
                         <p><a href="/happenings" style="color:#150958">What's Happening This Month...</a></p>
                         <p><a href="/map-of-dubai" style="color:#150958">Map of Dubai</a></p>                                             
@@ -309,6 +315,7 @@ Overall, cookies help us   provide you with a better website, by enabling us to 
                     <div>
                         <span>Dining Out</span><br>                        
 				        <a href="/dining-out/this-months-offers">This months offers</a><br>
+                        <a href="/dining-out/afternoon-tea">Afternoon Tea</a><br>
                         <a href="/dining-out/cafes-and-restaurants">Cafes and Restaurants</a><br>
                         <a href="/dining-out/best-views">Best Views</a><br>
                         <a href="/dining-out/friday-brunch">Friday Brunch</a><br>
@@ -328,13 +335,15 @@ Overall, cookies help us   provide you with a better website, by enabling us to 
                         <a href="/sports-and-activities/motor-sports">Motor Sports</a><br>
                         <a href="/sports-and-activities/shooting-and-paintball">Shooting and Paintball</a><br>
                         <a href="/sports-and-activities/horse-and-camel-riding">Horse and Camel Riding</a><br>
-                        <a href="/sports-and-activities/golf">Golf</a>
+                        <a href="/sports-and-activities/golf">Golf</a><br>
+                        <a href="/sports-and-activities/tried-and-tested">Tried and Tested</a>
                     </div>
                     <div>
                         <span>Nightlife &amp; Entertainment</span><br>
                         <a href="/nightlife-and-entertainment">Overview</a><br>
-                        <a href="/nightlife-and-entertainment/opulent-clubs">Opulent Clubs</a><br>
-                        <a href="/nightlife-and-entertainment/chic-nightlife">Chic Nightlife</a><br>
+                        <a href="/nightlife-and-entertainment/ladies-nights">Ladies Nights</a><br>
+                        <a href="/nightlife-and-entertainment/clubs">Clubs</a><br>
+                        <a href="/nightlife-and-entertainment/lounges">Lounges</a><br>
                         <a href="/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a>        
                     </div>
                     
@@ -362,7 +371,7 @@ Overall, cookies help us   provide you with a better website, by enabling us to 
                 </div>
                 
                 <div style="width:750px; float:left; text-align:center; font-size:11px; color:#150958; margin-top:18px; line-height:normal">
-                    <p>© Connector Publishing 2005 - 2014 | All Rights Reserved <br> Last update: 01.June.2014</p>
+                    <p>© Connector Publishing 2005 - 2014 | All Rights Reserved <br> Last update: 09.November.2014</p>
                 </div>                
             </div>
 
@@ -377,6 +386,8 @@ Overall, cookies help us   provide you with a better website, by enabling us to 
                 <p>
                 <span style=" font-weight:bold; color:#150958; font-size:14px">Social Media</span> <br>
                 <a href="http://facebook.com/discoverdubai" target="_blank">Facebook</a> <br>
+				<a href="http://twitter.com/discoverdxb" target="_blank">Twitter</a> <br>
+				<a href="http://instagram.com/discover_dubaiae  " target="_blank">Instagram</a> <br>
                 <a href="http://www.youtube.com/connectordubai" target="_blank">Youtube</a> 
                 </p>
             </div>
