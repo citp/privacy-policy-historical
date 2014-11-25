@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623133055id_/http%3A//www.ericthecarguy.com/component/content/article/8-main-page/41-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125170321id_/http%3A//www.ericthecarguy.com/component/content/article/8-main-page/41-privacy-policy) for the most accurate reproduction.*
 
 # Eric The Car Guy- Stay Dirty! - Eric The Car Guy- Stay Dirty!
 
@@ -9,7 +9,7 @@ User Rating:  / 56
 PRIVACY POLICY  
 Updated: May 27, 2011
 
-EricTheCarGuy ("EricTheCarGuy", "we", "our" or "us") understands that you care how information about you is gathered, used and shared. This Privacy Policy describes how the information collected when you use EricTheCarGuy.com and related services (the "Service") will be used and how you can control the collection, correction and deletion of information. Questions regarding this policy should be directed to "Info" at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy69096%20=%20'biz'%20+%20'@';%20addy69096%20=%20addy69096%20+%20'ericthecarguy'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy69096%20+%20'\\'%3E'\);%20document.write\(addy69096\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[biz@ericthecarguy.com](mailto:biz@ericthecarguy.com).
+EricTheCarGuy ("EricTheCarGuy", "we", "our" or "us") understands that you care how information about you is gathered, used and shared. This Privacy Policy describes how the information collected when you use EricTheCarGuy.com and related services (the "Service") will be used and how you can control the collection, correction and deletion of information. Questions regarding this policy should be directed to "Info" at [biz@ericthecarguy.com.](mailto:biz@ericthecarguy.com.)
 
 INFORMATION COLLECTED BY US
 
