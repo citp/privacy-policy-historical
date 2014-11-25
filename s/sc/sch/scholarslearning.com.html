@@ -1,0 +1,470 @@
+<!--The following is the downloaded HTML source of the scholarslearning.com privacy policy that was archived on 2014-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125192541id_/http%3A//www.scholarslearning.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Scholars Learning | Privacy Policy</title>
+    <link rel="stylesheet" href="css-2/bootstrap.min.css">
+    <link rel="stylesheet" href="css-2/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="css-2/font-awesome.min.css">
+    <link rel="stylesheet" href="css-2/normalize.css">
+    <link rel="stylesheet" href="css-2/main.css">
+    <link rel="stylesheet" href="css-2/home2.css">
+    <link rel="stylesheet" href="css-2/sliderimage.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+
+
+    <!-- Le fav and touch icons -->
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#email_id').keyup(function(){ // Keyup function for check the user action in input
+		var email_id = $(this).val(); // Get the username textbox using $(this) or you can use directly $('#username')
+		var email_idAvailResult = $('#email_id_avail_result'); // Get the ID of the result where we gonna display the results
+		if(email_id.length > 1) { // check if greater than 2 (minimum 3)
+			email_idAvailResult.html('Loading..'); // Preloader, use can use loading animation here
+			var UrlToPass = 'action=email_id_availability&email_id='+email_id;
+			$.ajax({ // Send the username val to another checker.php using Ajax in POST menthod
+			type : 'POST',
+			data : UrlToPass,
+			url  : 'checker.php',
+			success: function(responseText){ // Get the result and asign to each cases
+				if(responseText == 0){
+					email_idAvailResult.html('<span class="success">Email id available</span>');
+				}
+				else if(responseText > 0){
+					email_idAvailResult.html('<span class="error">Email id already taken</span>');
+				}
+				else{
+					alert('Problem with sql query');
+				}
+			}
+			});
+		}else{
+			email_idAvailResult.html('Enter atleast 3 characters');
+		}
+		if(email_id.length == 0) {
+			email_idAvailResult.html('');
+		}
+	});
+	
+	$('#password, #email_id').keydown(function(e) { // Dont allow users to enter spaces for their username and passwords
+		if (e.which == 32) {
+			return false;
+  		}
+	});
+	
+});
+</script>
+</head>
+
+<body>
+
+    <!--Header-->
+    <header class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+        
+            <div class="containeram">
+            <div class="logobox">
+    <div class="logo_left">
+    <a href="index.php"><img src="images/logo.png"></a></div></div>
+
+            <div class="million2"><img src="images/million.png" width="100%"></div>
+     
+     
+     <div class="login">
+     			<a href="http://www.scholarslearning.com/purchase/">
+                	<div class="login_in"><p>Purchase</p></div>
+                </a>
+     			<a href="#studentLoginBox" class="student_login new-log-in">
+                <div class="sign_in"><p>Log&nbsp;in</p></div>
+                </a>
+     			<div class="icon-facebook_rate">
+					<a href="#studentRegistrationBox" class="student_registration new-sign-up">
+                    	<div class="free-registration">Free Registration</div>
+                     </a>
+				</div>
+      			<div style="clear:both"></div>
+                <div class="contact_num"><span>Call Us&nbsp;:&nbsp;<strong>0120−4540415/6</strong></span></div>
+                <div class="fb_likenum"><span><strong><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fscholarslearning&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=1442037899370409" scrolling="no" frameborder="0" style="border:none; width:95px; overflow:hidden;" allowtransparency="true"></iframe></strong></span></div>
+			</div>
+     <div class="clear"></div>
+     </div>
+    <div class="clear"></div>
+     <div class="clear1"></div>
+            <div class="nav">
+
+
+       
+		<!-- The JavaScript -->
+    
+        </div>
+                <!--/.nav-collapse -->
+            </div>
+    </header>
+    <!-- /header -->
+    <div class="clear"></div>
+    <section class="title1" style="background-color:#ff6c00;">
+       
+        
+    </section>
+    <!-- / .title -->   
+
+<section id="about-us" class="container main" style="margin-top:0px; padding-top:0px; box-shadow: 0px 0px 13px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 13px rgba(0,0,0,0.3);
+-webkit-box-shadow: 0px 0px 13px rgba(0,0,0,0.3);-o-box-shadow: 0px 0px 13px rgba(0,0,0,0.3);">
+ 
+            
+
+
+
+
+
+
+
+<!-------------------------------------------------------  Login | Register | Forgot ------------------------------->
+<div style="display:none">
+  <div id="studentLoginBox" class="fancyDivClass" style="width:393px;">
+    <div class="signIn center" style="text-align:left">
+    	<h2 id="Login_Text" class="colorBlue">Already a Member? Sign In</h2>
+     	<!--     main registration starts-->      
+      	<form name="student_login_frm" id="student_login_frm" action="" method="post" onsubmit="return check_Student_Login();">
+        <div style="margin-top:3px;">
+          <label for="student_email" class="bold">Login Email</label>
+          <span id="student_email_text" class="bold colorRed" style="display:none; margin:4px 4px;">Please enter the correct email address.</span> 
+          <br>
+          <input type="text" id="student_email" value="" name="student_email" tabindex="1" style="width:364px; height:17px;" maxlength="150">
+        </div>
+        <br>
+        <div>
+          <label for="student_password" class="bold">Password</label>
+          <span id="student_password_text" class="bold colorRed" style="display:none; margin:4px 4px;">Please enter the password</span> <br>
+          <input type="password" id="student_password" name="student_password" tabindex="2" style="width:364px; height:17px;" value="" maxlength="15">
+        </div>
+		<br>
+        <div style="width:100%">
+        <div style="float:left; width:50%;">
+       	<input type="submit" align="left" style="padding:0; width:100%; margin: 10px; margin-left:0px; font-size:14px;" name="Sign In" value="Sign In" class="grn_btn_layout log-in" tabindex="5">
+        </div>
+        <div style="float:right">
+         <a href="#studentForgotPasswordBox" style="text-decoration:underline; margin:0px 0; line-height:58px; font-size:14px; text-align:right; float:right;" class="student_forgot_password displayBlock">Forgot password?</a>
+         </div>
+        </div>
+        <div style="clear:both"></div> 
+        
+       </form>
+<!--     main registration ends--> 
+     <!-- or -->
+    	<img src="images/or_signup.png" alt="Sign in Or Login by Facebook" title="Sign in Or Login by Facebook" height="32" width="32" class="displayBlock center">
+       <!-- new fb div -->
+    	<div style="border-bottom: 1px dotted #9DCFE4; padding-bottom:10px;">
+		<img src="images/fb_login_new_up.png" alt="Login By Facebook" title="Login By Facebook" class=" displayBlock center">
+     	</div>
+       <!-- new fb div -->
+      <p class="bold centerAlign">Not a Member? Please <a style="text-decoration:underline; font-size:12px !important;" class="student_registration" href="#studentRegistrationBox">Register</a> here</p>
+      </div>
+    
+    
+    
+  </div>
+</div>
+<script type="text/javascript">
+   $(document).ready(function(){
+	$(".student_registration").fancybox({'transitionIn'	: 'elastic',
+	'transitionOut'	: 'elastic',
+	'scrolling'   : 'no',	
+	'autoScale'   : false,	
+		'onComplete'	: function() {
+	    $("#student_registration_name_text").hide();
+		$("#student_registration_email_text").hide();
+		$("#student_registration_password_text").hide();
+		$("#agree_msg").hide();
+	}
+	
+	 	});
+	$(".student_forgot_password").fancybox({'transitionIn'	: 'elastic',
+	'transitionOut'	: 'elastic',
+	'scrolling'   : 'no',	
+	'autoScale'   : false ,	
+	'onComplete'	: function() {
+	    $("#student_forgot_email_text").hide();	
+		
+	}
+	
+	});
+});
+
+
+(function(){
+    // remove layerX and layerY
+    var all = $.event.props,
+        len = all.length,
+        res = [];
+    while (len--) {
+      var el = all[len];
+      if (el != 'layerX' && el != 'layerY') res.push(el);
+    }
+    $.event.props = res;
+}());
+
+
+	
+  </script>
+<!-- fancy box div -->
+<div style="display:none">
+  <div id="studentRegistrationBox" class="fancyDivClass" style="min-height:455px !important;width:396px;">
+   <div id="studentRegistrationBox_innerDiv" class="signIn center" style="text-align:left;">
+   	<h2 id="Register_Text" class="colorBlue">New to Scholars Learning?</h2>
+     <form name="student_registration_frm" id="student_registration_frm" action="" method="post" onsubmit="return chkStudent_Registration();">
+     	<div>
+          <label for="student_registration_name" class="bold">Full Name<span class="star">*</span></label>
+          <br>
+          <input type="text" class="charonly" id="name" maxlength="100" name="name" autocomplete="off" style="width:367px; height:17px;" value="" required="">
+        </div>
+        <div class="sp10"></div>
+        <div>
+          <label for="student_registration_email" class="bold">Email<span class="star"></span></label>
+          <br>
+          <input type="text" id="email_id" name="email_id" value="" autocomplete="off" style="width:367px; height:17px;" maxlength="150" required="">
+	      <div class="email_id_avail_result" id="email_id_avail_result"></div>	
+        </div>
+        <div class="sp10"></div>
+        <div>
+          <label for="School Name" class="bold">School Name<span class="star">*</span></label>
+          <br>
+          <input type="text" autocomplete="off" id="school" name="school" maxlength="15" class="inptDet" style="width:367px; height:17px;" required="required">
+        </div>
+		<div class="sp10"></div>
+		<div>
+          <div style="float:left; width:50%;">
+          <label for="student_registration_password" class="bold">Password<span class="star">*</span></label>
+          <br>
+          <input type="password" autocomplete="off" id="password" name="password" maxlength="15" class="inptDet" style="width:155px; height:17px;" required="">
+          </div>
+          <div style="float:right; width:50%;">
+          <label for="student_registration_password" class="bold">Mobile No.<span class="star">*</span></label>
+          <br>
+          <input type="text" autocomplete="off" id="tel" name="tel" maxlength="10" class="inptDet" style="width:176px; height:17px;" required="">
+          </div>
+         
+        </div>
+        <div class="sp10"></div>
+		<div>
+          <div style="float:left; width:50%;">
+          <label for="student_registration_password" class="bold">Class<span class="star">*</span></label>
+          <br>
+          <select style="width:172px" id="select-class" name="select_class" required="required">
+                    <option selected="">Select Class</option>
+                        <option value="class-iv class-iv"> IV</option>
+                        <option value="class-v class-v"> V</option>
+                        <option value="class-vi class-vi"> VI</option>
+                        <option value="class-vii class-vii"> VII</option>
+                        <option value="class-viii class-viii"> VIII</option>
+                        <option value="class-ix class-ix"> IX</option>
+                        <option value="class-x class-x"> X</option>
+                        <option value="class-xi commerce"> XI Commerce</option>
+                        <option value="class-xi science"> XI Science</option>
+                        <option value="class-xii commerce"> XII Commerce</option>                        
+                        <option value="class-xii science"> XII Science</option>  
+                        <option value="drums drums">Drums</option>                        
+                        <option value="guitar guitar">Guitar</option>  
+                        <option value="french french">French</option>                        
+                        <option value="spanish spanish">Spanish</option>
+                        <option value="german german">German</option>                        
+                        <option value="mandarin mandarin">Mandarin</option>                        
+                  </select>
+          </div>
+          <div style="float:right; width:50%;">
+          <label for="student_registration_password" class="bold">Board<span class="star">&nbsp;</span></label>
+          <br>
+          <select style="width:192px;" name="select_board">                       
+            <option value="cbse">CBSE</option>                       
+          </select> 
+          </div>
+         
+        </div>
+        <div class="sp10"></div>
+        <div class="tabbedGroup">
+	       <input type="radio" checked="checked" value="1" id="rads1" name="tab1">
+    	   <label for="rads1">Student</label>
+           &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+           <input type="radio" value="2" id="rads2" name="tab1">
+           <label for="rads2">Teacher</label>
+       </div>
+        <div class="sp10"></div>
+        <input type="checkbox" name="agree" id="agree" value="Y" tabindex="4" style="margin-right:7px; width:16px; vertical-align:middle;">
+        <label for="agree" style="color:#777777;"><b>I agree to the <a target="_blank" href="#" style="font-size:12px; color:#3D6295;">Terms and Conditions.</a></b></label>
+      <div> 
+      <div class="sp10">&nbsp;</div>
+        <input type="submit" align="left" style="padding:0; width:30%; font-size:14px; margin: auto;" name="Register" value="Register" class="grn_btn_layout log-in">
+     </div>
+	  </form>
+    <img src="images/or_signup.png" alt="Sign in Or Login by Facebook" title="Sign in Or Login by Facebook" height="32" width="32" class="displayBlock center">
+<!-- new fb div -->
+    <div style="border-bottom: 1px dotted #9DCFE4; padding-bottom:10px;">
+		<img src="images/fb_login_new_up.png" alt="Login By Facebook" title="Login By Facebook" class=" displayBlock center">
+    </div>
+    <!-- new fb div --> 
+    <p class="bold centerAlign">Already a Member? <a style="text-decoration:underline; font-size:12px !important;color:#D85A5E;" href="#studentLoginBox" class="student_login">Sign In</a> here</p>
+  </div>
+  
+ 
+ 
+  </div>
+</div>
+<div style="display:none">
+  <div id="studentForgotPasswordBox" class="fancyDivClass" style="width:353px;">
+    <div class="signIn center">
+      <h2 class="colorBlue">Forgot Password?</h2>
+      <br>
+      <p style="margin-bottom:4px;">Type in your email id, submit and check your mail inbox.</p>
+      <br>
+      <form name="student_forgot_password_frm" id="student_forgot_password_frm" action="" method="post" onsubmit="return checkStudentForgotPassword();">
+        <div>
+          <label for="student_forgot_email" class="bold">Email</label>
+          <span id="student_forgot_email_text" class="bold colorRed" style="display:none; margin:4px 0;">Please enter the correct email address.</span><br>
+          <input type="text" id="student_forgot_email" name="student_forgot_email" tabindex="1" style="width:310px; height:17px;">
+        </div>
+        <br>
+        <input type="submit" align="left" style="padding:0; width:50%; font-size:14px; margin: auto;" name="Submit" value="Submit" class="grn_btn_layout log-in" tabindex="5">
+        <a href="#studentLoginBox" class="student_login" style="padding-top:7px;color:#D85A5E;">Back to Sign-in</a>
+      </form>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">$(document).ready(function(){	
+	$(".student_login").fancybox({'transitionIn':'elastic','transitionOut':'elastic','scrolling':'no','onComplete':function(){$("#student_email_text").hide();$("#student_password_text").hide();}});$('#courses').click(function(){$('.cclisting').show();$('.colleges1').slideToggle('slow');$('html, body').animate({scrollTop:$('.cclisting').offset().top},1000);});$('#location').click(function(){$('.cclisting').show();$('.location1').slideToggle('slow');$('html, body').animate({scrollTop:$('.cclisting').offset().top},1000);});});
+</script>
+<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript">var iPadLabels=function(){function fix(){var labels=document.getElementsByTagName('label'),target_id,el;for(var i=0;labels[i];i++){if(labels[i].getAttribute('for')){labels[i].onclick=labelClick;}}};function labelClick(){el=document.getElementById(this.getAttribute('for'));if(['radio','checkbox'].indexOf(el.getAttribute('type'))!=-1){el.setAttribute('selected',!el.getAttribute('selected'));}else{el.focus();}};return{fix:fix}}();$(document).ready(function(){if(navigator.userAgent.match(/iPhone/i)||navigator.userAgent.match(/iPod/i)||navigator.userAgent.match(/iPad/i)){iPadLabels.fix();}});</script>
+
+
+<!-------------------------------------------------------  Login | Register | Forgot ------------------------------->
+<div style="clear:both"></div>
+ <div class="row-fluid1">
+<h1>privacy</h1>
+  <hr>
+<p>SL Learning Private Limited has been registered under the laws of India with all rights reserved here-in. 
+Our copyright Privacy Policy is designed to assist you in understanding the materials collected here is 
+solely held by SL Learning Private Limited. By adhering to our website, you are making an informed decision 
+with us. None of the materials in this website shall be downloaded, copy-pasted, distributed, republished,
+modified, altered or transmitted in any form or by any means including photocopying, 
+screen shots, mechanical, electronic and recording or otherwise without prior permission of SL Learning 
+Private Limited.</p>
+
+<h1>Information that we Collect</h1>
+  <hr>
+<p>Visiting to our Website, you are providing us with two types of information- Personal Information and 
+Website Usage Information. For the former, you are disclosing your personal information at your consent 
+and for the latter,
+ you are giving us the information about the activities you are doing on our websites and its related websites.</p>
+
+<h1>Registration Information</h1>
+  <hr>
+<p>Registering to our website by means of name, e-mail, mobile number, you are providing us information 
+that will enable us to verify whether you are liable to access and use our information, customer or product 
+services and materials available from the website, SL Learning Private Limited. 
+We shall also request information like personal info, login user, password, subscription and feedback.</p>
+
+
+<h1>Disclosures</h1>
+  <hr>
+<p>We may disclose your given personal information, due to by any means 
+of breaching of our terms and conditions, we believe that such action is 
+necessary to conform to the law and comply with legal process or protect 
+and defend our rights and properties, user sites and our affiliated parties.</p>
+
+<h1>Usage of Information</h1>
+  <hr>
+<p>1. SL Learning Private Limited uses your personal information for certain specific purposes.
+ 
+2. Information like name, age, e-mail address and telephone number shall 
+be kept as confidential and used to support your relationship with our 
+website to notify you 
+of special offers, new product and services and updated information.</p>
+
+<h1>Sharing Personal Information with the Third Parties</h1>
+  <hr>
+<p>SL Learning Private Limited merges your information with third parties for purpose of Personal 
+upliftment and marketing products and services. With respect to the colleges and universities 
+(Third Parties), the personal data you share on the websites shall be shared with these third 
+parties to enhance your personal value.
+Our website will utilize advertising companies to provide advertisements on the Website. Those 
+advertising companies may unite data with non-personally private information collected by the 
+advertising company from your computer, solely for the purpose of conveying on our Web site, 
+advertisements that are targeted to you.
+We will duly send you information on your registered e-mail id about our various products and 
+services that may be interest of you..</p>
+
+<h1>Children’s Privacy Policy</h1>
+  <hr>
+<p>Children below 18 years should register to our website with the help of his/her sole 
+discretion of their parents. For kind information, we do not knowingly collect the personal 
+information. If we find that children below 15 years 
+are registered with pseudo names and ages, we have the right to cancel or terminate the account.</p>
+
+<h1>Strict Actions against Violations</h1>
+  <hr>
+<p>When SL Learning Private Limited becomes aware of an alleged or illegal violation 
+of its Acceptable use policy, SL Learning Privacy Policy will initiate an immediate 
+investigation. The customer’s access to the website shall be restricted in order to 
+prevent further possible unauthorised activity. If the violation is occurred, then a 
+severe action by means of restriction, suspension and termination of the Customer’s 
+account should be taken. If there is a criminal offence, SL Learning Private
+ Limited will notify the appropriate law enforcement department of such violation.</p>
+ 
+ <h1>Your Consent</h1>
+  <hr>
+<p>By using our Website you by your own consent to use your personal information
+ as described in this Copyright Privacy Policy.</p>
+  <hr></div>
+        
+</section>
+
+<!--Bottom-->
+
+<!--/bottom-->
+
+<!--Footer-->
+<footer id="footer">
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span5 cp">
+                © 2013 <a target="_blank" href="http://www.scholarslearning.com/" title="">Scholarslearning</a>. All Rights Reserved.
+            </div>
+            <!--/Copyright-->
+
+            <div class="span7">
+                <ul class="social pull-right">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>                       
+                    <li><a href="#"><i class="icon-youtube"></i></a></li>                    
+                 
+                </ul>
+            </div>
+
+            <div class="im"><img src="images/visha.png" width="100%;" height="51"></div>
+            <!--/Goto Top-->
+        </div>
+    </div>
+</footer>
+<!--/Footer-->
+
+<!--  Login form -->
+<div class="modal hide fade in" id="loginForm" aria-hidden="false">
+    <div class="modal-header">
+        <i class="icon-remove" data-dismiss="modal" aria-hidden="true"></i>
+        <h4>Login Form</h4>
+    </div>
+    <!--Modal Body-->
+   
+    <!--/Modal Body-->
+</div>
+<!--  /Login form -->
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
