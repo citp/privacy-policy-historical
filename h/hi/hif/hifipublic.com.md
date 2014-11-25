@@ -1,6 +1,97 @@
-> *The following text is extracted and transformed from the hifipublic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630022957id_/http%3A//hifipublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifipublic.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125040534id_/http%3A//hifipublic.com/terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy | HiFi Public
+# Privacy & Terms | HiFi Public
+
+## Welcome to HiFi Public
+
+You’ll find a vibrant and growing community of smart, enthusiastic people at HiFi Public _.  _ Our goal is to foster conversations that are helpful, informative, and fun. We very much would like you to help us do just that, so here are some guidelines for how to participate.
+
+### THE SHORT VERSION
+
+  * We’re so glad you’re here! We hope you will help create great conversations in our community.
+  * Don’t be a jerk, call people jerks, or react to jerks. We’ll remove bad stuff when we see it.
+  * Respect and help the moderators. It’s a small team of dedicated, caring humans working hard to make things better.
+
+
+
+### HOW TO REGISTER AND CUSTOMIZE YOUR PROFILE
+
+You can register by clicking “Join” on the avatar in the menu and then you can either register directly or register with your Facebook, Google+, or Twitter. You may be interested in checking out our [Privacy Policy](http://hifipublic.com/hifi4/privacy-policy) and [Terms of Use](http://hifipublic.com/hifi4/terms-of-use) if yo care about the legal stuff.
+
+The next step is to customize your profile. You can upload a photo and tell everybody a little about yourself. You can also edit your account settings to link your Facebook and Twitter accounts. You can always edit your profile by clicking your own avatar in the upper-left hand corner of the site.
+
+### HOW TO POST AND COMMENT
+
+There are three ways to interact on _  Hifi Public_. Here’s the basics, but there’s much more information down below.
+
+  * **Post a comment:**  We love comments, and simply by registering you can comment on any story on  _HiFi Public_. Comments are organized into collapsable threads to make it easy to follow a conversation. There are also some really great keyboard shortcuts on comments — they’re listed on the right of the comments area. If you realize you’ve made a typo, you’ll have 90 seconds to edit your comment before it’s set in stone.
+  * **Join a Forum:**  HiFi Public forums  are a great place to talk about technology, science, and culture. In order to post in a forum, you need to “join” it. To do that, just visit the forum you’d like to join and click the “join” button in the upper right. When you do, your membership to the forum will appear on your user profile.
+  * **Get in touch:**  Have a news tip? Want to contact the moderators? See a bug? You can do all of that right here.
+
+
+
+###  RULES OF THE ROAD
+
+Here are things that will get your comment or forum posts removed and quite possibly get you banned. Note that this is not a comprehensive list. Our moderators reserve the right to remove anything we deem inappropriate.
+
+  * **Spam:**  Zero tolerance, of course! If it comes from a human or a robot, spam will be deleted. This includes self-promotion. Generally speaking, promoting your projects here will be treated like any other spam.
+  * **Personal attacks:**  Don’t attack or insult another user. It’s not helpful and it doesn’t make  _Bluescheme_  a friendly place. This includes calling other members trolls.
+  * **Illegal activities:**  Posting links to illegal downloads; ways to steal service, and other nefarious activity is not OK here.
+  * **NSFW material:**  Nope, not allowed. Even images or links that could be considered borderline are not acceptable. A good rule of thumb is that anything beyond PG-13 will get you in trouble, but we reserve the right to remove any post we deem offensive. This goes for porngraphic material, vile language, gore and generally gross stuff.
+  * **Racism, sexism, and other discrimination:**  Attacking entire classes of people are just like attacking a single person: we’ll ban you for it.
+  * **Trolling:**  ”Trolling” is a big, messy term, but we know what trolls are and we won’t tolerate it. If you’re abusing the good conversations here at _  HiFi Public_, we will take your comments and posts down. This includes taking a thread off-topic, by the way.
+  * **Multiple accounts and throwaway emails:**  We don’t allow multiple accounts per user. Using a disposable email address signals to us that you might not be here for the right reasons. You also may not create accounts designed to impersonate another person.
+  * **Cross posting:**  Don’t make duplicate posts across different forums — it clogs things up and fractures the conversation.
+  * **Complaining about coverage:**  We cover a wide array of topics, not all of which are easy, comfortable, or reflective of your personal views. This applies doubly to review scores. While we’re not against discussions of our coverage, plainly stated accusations of bias are usually an indication that you’re not trying to be a productive member of the community.
+
+
+
+Above all, our team of moderators works to keep conversation here friendly, engaging, helpful, and productive. If we feel a comment or forum post is harming that endeavor, we’ll take action.
+
+See any of the above? You can help us out by flagging (more on that below). Any comments that are a reply to spammy/inappropriate/trolling comments will also be deleted with the original comment, so don’t reply — just flag!
+
+### MODERATION
+
+  * **Isn’t this censorship?**  Well, no and yes. We’re trying to foster great conversation and we will remove comments that harm that endeavor. You’re free to say whatever you like other places, but not here. At  _HiFi Public_  we have a different standard, working very hard to keep the conversation informative and fun. The bottom line is that the editors and moderators have the final say on whether it fits within our community guidelines.
+  * **Questions about moderation:**  We’re happy to have a discussion with you about it —  _in private_. We’ve found from long and hard experience that public complaints about moderation just leads to people trying to “game” the system. If you have a question about moderation, hit us up on our contact form and we’ll have a talk. If there’s a big policy change or something we would like to say publicly about moderation, we’ll post it in our Meta forums and update this document.
+  * **Helping out our moderators:**  Moderators work very, very hard with your best interests at heart. Please help them out by flagging inappropriate comments and take heed when they ask you to change your behavior. Note that most of our moderators are volunteers freely dedicating their time to help make things better. They don’t speak for the site, but still deserve your gratitude.
+  * **Becoming a mod:**  We don’t have an application process, we select from the best members of our community. If you want to be a mod, our advice to you is to be awesome: help users when they have questions, flag inappropriate comments with good explanations of why, help users relax when threads start to look like flamewars, and generally just show us that you’re a helpful and real human being. When the time comes, we may tap you on the shoulder and ask if you’re interested.
+
+
+
+### COMMENTS
+
+Comments are a lovely way to talk about the stories, forum posts, and reviews you find on  _HiFi Public_. They can also be a lot to keep up with, so we have some tools to make it all easier. You can preview your comment before you post it, and you will have 90 seconds to edit a comment afterwards. Every comment also has a few links associated with it:
+
+  * **Reply:**  Use this to reply to that specific comment. Your reply will be threaded to that comment.
+  * **Recommend:**  We love great comments and we know you do too. Click the “Recommend” link to vote up a comment and see it get more love and affection from the site.
+  * **Flag:**  This is the link you use to report a post to the moderators. Use it on spam, on personal attacks, or on racist or sexist language. Do not use it to report stuff you disagree with or to hassle users. Our moderators and operators really work hard so please co-operate as much as possible.
+
+
+
+It’s important to know that comments are threaded and if the top comment in a thread is a problem, we may delete it, and that will delete all the replies to it. So if there’s an inappropriate comment and you reply to it with something eloquent and heartfelt, there’s a very good chance that your highly intelligent and meaningful comment will nonetheless be lost.
+
+### FORUM POSTS
+
+_HiFi Public_  offers a full WYSIWYG (What You See Is What You Get) editor on forum posts.
+
+Our editors and moderators will be watching out for great content to promote on the site as well as inappropriate content. In other words, all the rules above about spam, abusive behavior, and basic human decency apply double to forum posts. You can help!  **Recommend**  or  **Flag**  forum posts to bring them to our attention. If a forum post is terrible, please flag it instead of commenting — even if the comments are great, we will remove forum posts that run against our community guidelines.
+
+Finally, please post in the appropriate forum. Have a question about the new iPhone? Apple Core is the place. If we again portray us,  _HiFi Public_  itself, we have a Meta forum.  If you want help to compare an Android phone to a BlackBerry? We have a general Mobile forum for that. Not sure where your post belongs? Ask in Meta or ask us directly.
+
+### COMMENTS VS. FORUM POSTS
+
+Although there is no hard and fast rule for when you should make a comment on somebody else’s post or when you should make a new forum post, we do have some clear guidelines. Essentially, if there is already a post on a topic you’re interested in talking about, it’s better to comment on that post than to make a new one. We have a very large search box at the top of the forums and we encourage all users to search before you post. Duplicate posts may be closed or removed.
+
+### ACCOUNT ALTERATIONS
+
+Need to disable your account, request a name change? Just get in touch with the moderators and operators and they can help you out.
+
+### ETHICS STATEMENT
+
+We take ethics and transparency very seriously here at  _HiFi Public_ , and we strive to provide you with coverage that is fair, accurate, and transparent. We refuse to be involved in any negative provocation for political, economic or social matters. To accomplish that, we operate our site based on the principles we’ve shared with you.
+
+We also welcome questions, comments, and concerns about our coverage, and we invite you to contact us with any issues and feedback you might have.
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliate with BlueScheme Ltd., including without limitation HiFiPublic.com. This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including Bangladesh) other than the one in which you reside.
 
