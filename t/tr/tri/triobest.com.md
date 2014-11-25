@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623203841id_/http%3A//www.triobest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125040548id_/http%3A//www.techriggs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Reviews
+# Privacy Policy - Techriggs
 
-This Privacy Policy governs the manner in which Triobest collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.triobest.com](http://www.generateprivacypolicy.com/account/policies/edit/www.triobest.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Triobest.
+This Privacy Policy governs the manner in which Triobest collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.techriggs.com website (“Site”). This privacy policy applies to the Site and all products and services offered by TechRiggs.
 
  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-Triobest may collect and use Users personal information for the following purposes:
+TechRiggs may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -61,10 +61,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Triobest](http://www.generateprivacypolicy.com/account/policies/edit/www.triobest.com)  
-[www.triobest.com](http://www.generateprivacypolicy.com/account/policies/edit/www.triobest.com)  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.techriggs.com/contact-us/ "Contact Us"):  
 1417 Browning Drive Essex, MD, 21221  
 acharyanamu1@gmail.com
 
-This document was last updated on June 14, 2014
+This document was last updated on July 14, 2014
