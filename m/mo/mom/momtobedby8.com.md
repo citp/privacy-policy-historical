@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momtobedby8.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421164119id_/http%3A//www.momtobedby8.com/pr-policy/mom-to-bed-by-8-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momtobedby8.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125021843id_/http%3A//www.momtobedby8.com/mom-to-bed-by-8-privacy-policy) for the most accurate reproduction.*
 
 # Mom to Bed by 8 Privacy Policy | Mom To Bed By 8
 
@@ -68,4 +68,4 @@ Sioux City, Iowa 51104
 USA  
 teri@momtobedby8.com
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+This policy is powered by Trust Guard PCI compliance.
