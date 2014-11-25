@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616072917id_/http%3A//abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125015842id_/http%3A//abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
 
 # Abroad Education Privacy Policy
 
