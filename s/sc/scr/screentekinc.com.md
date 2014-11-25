@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510093444id_/http%3A//www.screentekinc.com/privacy-policies.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125203930id_/http%3A//www.screentekinc.com/privacy-policies.shtml) for the most accurate reproduction.*
 
 # ScreenTek Privacy Policy
 
