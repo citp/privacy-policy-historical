@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610012243id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125015936id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-| | [](https://web.archive.org/web/20140610012243id_/http%3A//www.healthyandactive.com/index.html)|   
----|---  
-| | | 
-
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ |   
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
 ---  
 We respect your privacy and guarantee the information you give us will never be sold, rented or given away. Our site's registration form asks you to give us contact information, including your billing address, shipping address, credit card information, and email address. You may supply as much or as little of this information as you like. We use the information provided to facilitate any subsequent orders. We do not make our list of registered customers available to other companies. Our promise to you is outlined in the following privacy statement:
 
