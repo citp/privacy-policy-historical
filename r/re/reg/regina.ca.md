@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511125052id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125110350id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
 # Regina.ca Privacy Policy - City of Regina
 
@@ -28,11 +28,11 @@ Voice recording and video surveillance may be used to increase public safety and
 In most cases the personal information that we collect from you is used to deliver services on behalf of the City. For example, water service billing, fire protection services, recreation program registration, or responding to a customer inquiry.
 
   * Your personal information may be used to verify your identity or program eligibility.
-  * From time to time, we may use your personal information to send important notices, such as communications about utility billing and changes to our policies or terms of service. Because this information is important to your interaction with the City, you may not opt out of receiving these communications.
+  * From time to time, we may use your personal information to send important notices, such as communications about utility billing and changes to our policies or terms of service. Because of your customer relationship with the City and because this information is important to your interaction with the City, you may not opt out of receiving these communications.
   * In some cases such as fire protection services, burial permit provision, or life guard response the City may be required to collect personal information about the physical or mental condition of an individual.
   * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve the City’s services and communications.
   * If you enter into a contest or similar promotion we may use the information you provide to administer those programs.
-  * In some instances the personal information you provide such as email or mailing address may be used to contact you regarding new services available by the City, upcoming events, facility information or other relevant notifications. You may also be asked to provide your opinion or feedback on various topics from time to time. Participation in these types of initiatives is voluntary and an opt-out is generally provided should you wish to no longer receive correspondence related to that particular program or offering.
+  * In some instances, subject to obtaining the necessary consent, the personal information you provide such as email or mailing address may be used to contact you regarding new services available by the City, upcoming events, facility information or other relevant notifications. You may also be asked to provide your opinion or feedback on various topics from time to time. Participation in these types of initiatives is voluntary and an unsubscribe option will be provided should you wish to no longer receive correspondence related to that particular program or offering.
 
 
 
