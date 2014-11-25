@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the locobuy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144308id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locobuy.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125101836id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.*
 
 # LocoBuy
 
 ### General Privacy Policy
 
-LocoBuy.com is a Jammin’ Butter property.
+LocoBuy.com is a Jammin' Butter property.
 
 This Privacy Policy tells you how we collect information when you visit LocoBuy.com, or if you purchase a product from us. 
 
@@ -14,13 +14,13 @@ When you submit information to Locobuy by creating an account, purchasing one of
 
 We shall only disclose your personal information to third parties where the disclosure is necessary and directly related to the purposes set out above - such as our financial institution to process your order. **_We shall not give our customer lists to third parties for promotions independent of LocoBuy. You do not have to provide us with the information requested; however, we will be unable to process your order should you be unwilling to do so._**
 
-LocoBuy relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go [here](https://web.archive.org/web/20140625144308id_/https%3A//www.locobuy.com/newsletter.php?unsubscribe=1) and enter in your email address. 
+LocoBuy relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go [here](https://web.archive.org/web/20141125101836id_/https%3A//www.locobuy.com/newsletter.php?unsubscribe=1) and enter in your email address. 
 
 [Back to top] 
 
 ### Product Information
 
-All LocoBuy products are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so [here](https://web.archive.org/web/20140625144308id_/https%3A//www.locobuy.com/contact.php).
+All LocoBuy products are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so [here](https://web.archive.org/web/20141125101836id_/https%3A//www.locobuy.com/contact.php).
 
 LocoBuy is not responsible for the content or transactions with third party offers listed on the site. Any issues with deals or transactions with third parties featured on LocoBuy must be addressed directly with the seller.
 
@@ -36,7 +36,18 @@ All orders are prepaid. When ordering, your credit card (or PayPal) is charged _
 
 ### Shipping Information
 
-The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please travel on over [here](https://web.archive.org/web/20140625144308id_/https%3A//www.locobuy.com/shipping.php). [Back to top] 
+The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please travel on over [here](https://web.archive.org/web/20141125101836id_/https%3A//www.locobuy.com/shipping.php). [Back to top] 
+
+### Giveaways and Sweepstakes
+
+To enter our sweepstakes or giveaway, please mail postcard to:
+
+Jammin' Butter - Sweepstakes  
+Attn: Casey Booyinga  
+168 Roweland Drive  
+Johnson City, TN 37601
+
+Please include first name, last name, date of birth and email address. One postcard equals one entry. You can enter as many times as you want.
 
 ### In More Detail
 
@@ -94,7 +105,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Account' page.
 
-#### Children’s Online Privacy Protection Act Compliance
+#### Children's Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
@@ -110,12 +121,12 @@ This policy was last modified on 6/16/2011.
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information on our [contact page](https://web.archive.org/web/20140625144308id_/https%3A//www.locobuy.com/contact.php). 
+If there are any questions regarding this privacy policy you may contact us using the information on our [contact page](https://web.archive.org/web/20141125101836id_/https%3A//www.locobuy.com/contact.php). 
 
 [Back to top] 
 
   
-**This privacy policy can be revised at any time by LocoBuy or Jammin’ Butter. Revisions will be posted within this published policy where applicable. The last revision to this shipping policy was made June 16, 2011.**
+**This privacy policy can be revised at any time by LocoBuy or Jammin' Butter. Revisions will be posted within this published policy where applicable. The last revision to this shipping policy was made June 16, 2011.**
 
 |   
 ---|---
