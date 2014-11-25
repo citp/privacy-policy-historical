@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsforless.ae privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044218id_/http%3A//brandsforless.ae/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsforless.ae privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125013241id_/http%3A//www.brandsforless.ae/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -112,7 +112,7 @@ The Site contains links to other Web sites. We are not responsible for the priva
 ## Our Disclosure of Your Information
 
 We will not use your personal information for any purpose other than to complete a transaction with you.  
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
+We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: 
 
   1. we have your permission
   2. to provide products or services you've requested
@@ -131,6 +131,10 @@ Upon request, we will remove / block your personally identifiable information fr
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
+## How to unsubscribe from our Newsletter? 
+
+You may unsubscribe from our newsletters by clicking on 'unsubscribe' link located at the bottom of each newsletter.
+
 ## Security
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
@@ -141,8 +145,19 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally-identifying information. If you have registered your profile on Brands For Less, your [BrandsForLess.ae](http://brandsforless.ae/) User ID and Password are required in order to access your profile information.
 
-We reserve the right to change or update our policies at any time. Such changes shall be effective immediately upon posting to this Site. You can offer your views, suggestions, if any, by submitting your feedback using the form in the Contact Us section.
+We reserve the right to change or update our policies at any time. Such changes shall be effective immediately upon posting to this Site. You can offer your views, suggestions, if any, by submitting your feedback using the form in the Contact Us section. 
 
 ## Your Consent
 
 By using the Site, you consent to the collection and use of the information you disclose on the Site by Brands For Less LLC. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+**Contact details**  
+Brands For Less LLC,  
+P.O Box No: 80794, Dubai 
+
+**Customer Service**  
+Brands For Less Customer Service   
+Tel: +971 4 8806768  
+Fax: +971 4 8809433   
+E-mail: [customercare@bflgroup.ae](mailto:customercare@bflgroup.ae)  
+Time: 7:00 am to 5:00pm (Saturday-Thursday) 
