@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612003936id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125013057id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
 
 # iTech Post
 
