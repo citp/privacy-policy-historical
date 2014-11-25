@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526212657id_/http%3A//community.eveonline.com/support/policies/eve-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125055259id_/http%3A//community.eveonline.com/support/policies/eve-privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY AND COOKIES POLICY - EVE Community
+# Privacy & Cookies Policy - EVE Community
 
 CCP hf. (“CCP”, “we,” “our,” “us”) recognises that you care how information about you is collected and used.  CCP has created this privacy policy to inform you of our practices regarding collection, use, and sharing of information.  Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated.
 
