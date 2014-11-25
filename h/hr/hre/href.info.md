@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the href.info privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327230108id_/http%3A//directory.href.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the href.info privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125183619id_/http%3A//directory.href.info/privacy.html) for the most accurate reproduction.*
 
 # Href Directory
 
-[](https://web.archive.org/web/20140327230108id_/http%3A//directory.href.info/submit.html)
+[](https://web.archive.org/web/20141125183619id_/http%3A//directory.href.info/submit.html)
 
 **Privacy Policy**
 
