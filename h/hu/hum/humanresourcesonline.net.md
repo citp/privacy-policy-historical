@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanresourcesonline.net privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619093101id_/http%3A//www.humanresourcesonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanresourcesonline.net privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082745id_/http%3A//www.humanresourcesonline.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Resources Online
 
