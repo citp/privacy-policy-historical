@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327094606id_/http%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125154132id_/http%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Certify
 
 We never share your contact information. We hate that too. 
 
 **Privacy Statement**  
-Certify, LLC (“Certify”) is the developer of certain web based software products and services. With all of our products and services, we adhere to the following Privacy Policy. Certify realizes how important the privacy and security of personal information is to our users. Our privacy policies apply to all of our uses automatically. We work very hard to maintain the confidentiality of all data that is submitted to us. 
+Certify, Inc. (“Certify”) is the developer of certain web based software products and services. With all of our products and services, we adhere to the following Privacy Policy. Certify realizes how important the privacy and security of personal information is to our users. Our privacy policies apply to all of our uses automatically. We work very hard to maintain the confidentiality of all data that is submitted to us. 
 
 **Information we collect**  
 In order to provide our services, Certify collects various types of information, including person information, about our users. When you sign up for a Certify account, you will be asked to provide basic registration information, such as user name, password, email address and SMS number. In some cases we require billing information, such as credit card information. Billing information is encrypted at all times and is stored on secure servers. 
