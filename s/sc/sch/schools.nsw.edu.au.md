@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools.nsw.edu.au privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620191305id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.nsw.edu.au privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125200644id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement - NSW Department of Education & Communities
 
