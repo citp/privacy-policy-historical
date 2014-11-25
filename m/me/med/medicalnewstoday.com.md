@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051947id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125045612id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # MNT- Privacy Policy
 
@@ -50,6 +50,8 @@ We use Google and other third-party advertising companies to serve ads when you 
 If you would like more information about this practice and to know your choices about not having this information used by Google, please [see the privacy policy at Google](http://www.google.co.uk/intl/en/privacy.html "External Link - Opens in new window : Google").
 
 To learn more about behavioral advertising practices by third party advertisers or to opt-out of this type of advertising, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "External Link - Opens in new window : www.networkadvertising.org").
+
+You may also read our [advertising policy](https://web.archive.org/ad-policy "Read our advertising policy here").
 
   
 
