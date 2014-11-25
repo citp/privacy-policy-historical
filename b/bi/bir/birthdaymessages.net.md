@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620110102id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005557id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use BirthdayMessages.net, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -62,4 +59,14 @@ Your use of this site indicates acceptance of this privacy policy.
 
 [ **Home**](http://www.birthdaymessages.net/) > **Privacy Policy**
 
-******Top  |  Bottom**
+* * *
+
+  
+
+
+## Check out these popular pages...
+
+  
+
+
+* * *
