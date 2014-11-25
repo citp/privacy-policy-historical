@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040246id_/http%3A//www.netseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125022439id_/http%3A//www.netseer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NetSeer
 
-#### LAST UPDATED: JANUARY 30, 2014
+#### LAST UPDATED: OCTOBER 27, 2014
 
 #### GENERAL
 
@@ -22,7 +22,7 @@ Non-Personally Identifiable Information (“NPII”) refers to information that 
 
 #### How we use NPII
 
-We use NPII for two basic purposes. The first is to “frequency cap” ad campaigns that we administer. Frequency capping controls the number of times You are exposed to an ad, which results in a better experience for You and the advertiser. The second way we use NPII is to serve appropriate promotions from advertisers if You have expressed an implied interest by visiting that advertiser’s site (known as “retargeting.”) NetSeer retains this data for 60 days, after which the data is aggregated and maintained for an additional two years solely for reporting purposes. We also use NPII in a limited fashion for the administration and operation of our Site, and to generally improve the overall quality of experience with the information we provide on our Site. We do not share user-level data with third parties and only aggregate data is shared for reporting purposes.
+We use NPII for three basic purposes. The first is to “frequency cap” ad campaigns that we administer. Frequency capping controls the number of times You are exposed to an ad, which results in a better experience for You and the advertiser. The second way we use NPII is to serve appropriate promotions from advertisers if You have expressed an implied interest by visiting that advertiser’s site (known as “retargeting”).The third way is for Interest-Based Advertising (IBA), which uses consumer data from the ad exchanges to infer intent. NetSeer retains this data for 60 days, after which the data is aggregated and maintained for an additional two years solely for reporting purposes. While we also use NPII in a limited fashion for the administration and operation of our Site, it used primarily to improve the overall quality of experience with the information we provide on our Site. We do not share user-level data with third parties and only aggregate data is shared for reporting purposes.
 
 #### It’s your choice to opt-out
 
@@ -30,7 +30,7 @@ If You would like to opt-out of NPII-based retargeting, please return to our hom
 
 #### Compliance with the Network Advertising Initiative
 
-NetSeer is a member of the Network Advertising Initiative (NAI) – a coalition of more than 90 leading online advertising companies championing the responsible and transparent use of information for Interest-Based Advertising. Since 2000, the NAI has been working with the leaders in online advertising to build consumer awareness and to reinforce responsible business and data management practices and standards. NetSeer will sometimes use third-party data providers to complement our product offerings, and some of these companies are also fellow members of the NAI. For more information on the NAI, or to opt out of behavioral targeting delivered by NAI member companies, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+NetSeer adheres to the Code and is a member of the Network Advertising Initiative (NAI) – a coalition of more than 90 leading online advertising companies championing the responsible and transparent use of information for Interest-Based Advertising. Since 2000, the NAI has been working with the leaders in online advertising to build consumer awareness and to reinforce responsible business and data management practices and standards. NetSeer will sometimes use third-party data providers to complement our product offerings, and some of these companies are also fellow members of the NAI. For more information on the NAI, or to opt out of behavioral targeting delivered by NAI member companies, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 NetSeer does not build and supply customers with any sort of custom segments. Nor does NetSeer engage in retargeting campaigns that market prescription drugs. However, NetSeer may offer retargeting services for consumer health products that do not require a prescription. Examples of where retargeting might be offered include certain health categories such as fitness equipment, calorie counters, etc.
 
@@ -42,7 +42,7 @@ If You have any questions or concerns regarding this statement, You should first
 
 #### Third-party websites
 
-The Site may include links to other sites that are controlled by parties other than NetSeer. Because NetSeer does not control the data collection policies of any website linked to from this Site, third-party sites are covered by this Policy. We recommend that You carefully review the individual privacy policies governing any sites that You visit
+The Site may include links to other sites that are controlled by parties other than NetSeer. Because NetSeer does not control the data collection policies of any website linked to from this Site, third-party sites are not covered by this Policy. We recommend that You carefully review the individual privacy policies governing any sites that You visit
 
 #### HOW WE USE AND STORE DATA
 
