@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628043904id_/http%3A//www.brobible.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125040144id_/http%3A//www.brobible.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy | Bro Code, Hot Girls, Funny Stories and Videos, Frat Music, College Stories, Sports News and Videos - BroBible.com
+# Privacy
 
 Updated as of May 20, 2012
 
