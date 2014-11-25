@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626064522id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2014-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125185240id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3314:0';
-CONVIO.pageSessionID = '40929275FD03EC80CD26DA38C4098E47.app338b';
+CONVIO.pageSessionID = 'F38F5A62A62A391345DC06365BEEF524.app338b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1403765122888"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1416941560778"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -120,9 +120,12 @@ function openDir( form ) {
 <script>
 $(document).ready(function(e) {
     $('#billboard li').css( "cursor", "pointer");
-    // Make the entire billboard clickable
+    // Make the entire billboard clickable    
     $('#billboard li').click(function(event) {
-        window.location = $('a:first', this).attr("href");
+        var target = $(event.target);
+        if (target.closest('a').length == 0) { //respond only if target is not an A (or child of A)
+            window.location = $('a:first', this).attr("href"); 
+        } 
     });
 });
 </script> 
@@ -398,7 +401,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 
 <div style="background: url('http://www.hsi.org/assets/images/page-head/page-head-logo-background.png') top left no-repeat;height:186px; width:237px;z-index:10!important;left:11px ;position: absolute;">
-<div style="height:162px; width:150px;z-index:11!important; left:49px !important; position: relative;top:25px;"><a href="http://www.hsi.org/" title="hsi"><img src="http://www.hsi.org/assets/images/logos/hsi_global.png"></a></div>
+<div style="height:162px; width:150px;z-index:11!important; left:49px !important; position: relative;top:25px;">
+
+
+  
+  
+      
+      <a href="http://www.hsi.org/" title="hsi">
+      
+   
+<img src="http://www.hsi.org/assets/images/logos/hsi_global.png"></a></div>
 </div>
 
 <div id="top_band">
@@ -444,6 +456,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <option value="#">HSI OFFICES/AFFILIATES</option>
          <option value="http://www.hsi.org.au/">HSI/Australia</option>
           <option value="/world/canada/">HSI/Canada</option>
+<option value="/world/europe/">HSI/Europe</option>
            <option value="http://www.hsi.org">HSI/Global</option>
 
           <option value="/world/india/">HSI/India</option>
@@ -455,7 +468,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            <option value="/world/bhutan/">Bhutan</option>
            <option value="/world/brazil/">Brazil</option>
            <option value="/world/china/">China</option>
-<option value="/world/europe/">Europe</option>
+
 
            <option value="/world/haiti/">Haiti</option>
            <option value="/world/mexico/">Mexico</option>
@@ -1026,9 +1039,11 @@ form#listsignup-en { padding-right: 5px !important; }
 
 
 
+
+<!-- Begin Related Issue -->
+
+
 <!-- Begin Related News -->
-
-
 
 
 
@@ -1433,7 +1448,7 @@ CONVIO.user.isAnonymous = true;
                             <li><a href="http://www.hsi.org/world/india/">HSI India</a></li>
                             <li><a href="http://www.hsi.org/world/latin_america/">HSI Latin America</a></li>
                             <li><a href="http://www.hsi.org/world/united_kingdom/">HSI United Kingdom</a></li>
-                            <li><a href="http://www.humanesociety.org/">The Humane Society of the United States</a></li>                            
+                            <li><a href="http://www.hsi.org/hsus/">The Humane Society of the United States</a></li>                            
                         </ul>
                     </div>
                 </div>
