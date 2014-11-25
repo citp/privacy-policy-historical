@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526064015id_/http%3A//www.mycleanpc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125214821id_/http%3A//www.mycleanpc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Personal Identifying Information (PII) - Privacy Policy | MyCleanPC.com
 
