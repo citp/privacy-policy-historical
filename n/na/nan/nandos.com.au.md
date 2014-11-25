@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111550id_/http%3A//www.nandos.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125203535id_/http%3A//www.nandos.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Nando’s Australia
 
@@ -104,7 +104,7 @@
 
 10.1    To see the Personal Data we have collected through this Website that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at [marketing@nandos.com.au.](mailto:marketing@nandos.com.au) In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data.
 
-10.2    To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us at or visit [[http://www.nandos.com.au/contact](https://web.archive.org/web/20140626123900id_/http://www.nandos.com.au/contact)].  
+10.2    To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us at or visit [[http://www.nandos.com.au/contact](https://web.archive.org/web/20141125203535id_/http://www.nandos.com.au/contact)].  
  
 
 ##  Nando’s application and our use of Facebook user data (where applicable)
