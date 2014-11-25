@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wearfigs.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514182309id_/http%3A//www.wearfigs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearfigs.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125083233id_/http%3A//www.wearfigs.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – 100% Awesome Medical Apparel
+# Privacy – FIGS
 
 **FIGS Privacy Policy**
 
