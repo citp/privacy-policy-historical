@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214839id_/http%3A//www.mountainwarehouse.com/customer-services/privacy-policy-w52.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125192623id_/http%3A//www.mountainwarehouse.com/customer-services/privacy-policy-w52.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
