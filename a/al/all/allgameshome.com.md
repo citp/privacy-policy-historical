@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgameshome.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621045758id_/http%3A//www.allgameshome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgameshome.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125025006id_/http%3A//www.allgameshome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Play Free Games!
 
