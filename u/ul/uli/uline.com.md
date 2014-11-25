@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628043455id_/http%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125035711id_/http%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
-  
-[Home](https://web.archive.org/index.aspx) > Privacy Policy  
-  
 ---  
   
 Uline’s web servers automatically recognize and collect information only for internal review and then discard it. Email addresses are not automatically collected. 
@@ -17,4 +14,4 @@ If users provide their email or mailing address, Uline will send notifications, 
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined in this policy. These changes will be posted to the website, and users are invited to occasionally review the privacy policy.  
   
-6/27/2014 11:34:55 PM- \- USWEB3\- 45287442\- 0/0\- 
+11/24/2014 09:57:11 PM- \- USWEB4\- 48728675\- 0/0.00\- 
