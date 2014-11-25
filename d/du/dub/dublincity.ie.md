@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628222003id_/http%3A//dublincity.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125101419id_/http%3A//www.dublincity.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dublin City Council
+
+[ ](https://web.archive.org/)
+
+  1. [Home](https://web.archive.org/)
+
+
+
+[](http://www.dublincity.ie/print/privacy-statement "Display a printer-friendly version of this page.")
+
+### Website Privacy Statement
 
 Dublin City Council will not collect any personal information about you on this website without your permission. Any personal information supplied will be treated as confidential.
 
@@ -76,6 +86,8 @@ Dublin City Council uses cookies to allow accessibility options on the site to 
 
 The Interactive Advertising Bureau (IAB) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed. <http://www.iab.net/>
 
+####  
+
 #### Disabling/Enabling Cookies
 
 You have the ability to accept or decline cookies by modifying the settings on your browser. The IAB site tells you how to remove cookies from your browser. This advice currently comprises the following steps (however please check the IAB site for the latest guidance <http://www.iab.net/> ):
@@ -97,3 +109,14 @@ If you are not using Microsoft Windows Explorer, then you should select ‘cooki
 #### Links to other sites
 
 This privacy policy does not cover the links within this site linking to other sites.
+
+### For more information
+
+Dublin City Council  
+Information Management Unit  
+Corporate Services Department  
+Civic Offices  
+Wood Quay  
+Dublin 8
+
+**Email** : [foi@dublincity.ie](mailto:foi@dublincity.ie)
