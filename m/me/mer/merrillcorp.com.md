@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083118id_/http%3A//www.merrillcorp.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125090059id_/http%3A//www.merrillcorp.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Notice - Merrill Corporation
 
 |  | 
 
-[ Home ](https://web.archive.org/web/20140625083118id_/http%3A//www.merrillcorp.com/default.htm)  >  Privacy Notice 
+[ Home ](https://web.archive.org/web/20141125090059id_/http%3A//www.merrillcorp.com/default.htm)  >  Privacy Notice 
 
 Privacy Notice 
 
