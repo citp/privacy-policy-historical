@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073816id_/http%3A//elementsmassage.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125200401id_/http%3A//elementsmassage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Elements Massage
+# Privacy Policy
 
 The following Privacy Policy summarizes the various ways that Elements Therapeutic Massage, Inc. ("we," "our" or us) treats the information you provide while using www.touchofelements.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
