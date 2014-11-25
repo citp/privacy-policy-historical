@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the favorwarehouse.com privacy policy that was archived on 2014-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620095615id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favorwarehouse.com privacy policy that was archived on 2014-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125185718id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
@@ -23,8 +23,12 @@ function eraseCookie(name,value){createCookie(name,value,-1);}
 </script>
 <link href="fw.css" rel="stylesheet" type="text/css">
 <link type="text/css" rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/start/jquery-ui.css">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.favorwarehouse.com/mm5/personalizationPreviewTool/js/json2.js"></script>
+<script type="text/javascript" src="http://www.favorwarehouse.com/mm5/personalizationPreviewTool/js/Utilities.js"></script>
+<script type="text/javascript" src="http://www.favorwarehouse.com/mm5/personalizationPreviewTool/js/Personalization.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.favorwarehouse.com/mm5/personalizationPreviewTool/js/popupwindown.css">
 <script type="text/javascript" src="/jscript/jquery.misc.js"></script>
 <script>
 $( document ).ready( function(){
@@ -48,14 +52,6 @@ createCookie("couponCode","",-1);
 </script>
 <link type="text/css" rel="stylesheet" href="minibasket.css" media="all">
 <!-- Your customer ID = 0 -->
-<link type="text/css" rel="stylesheet" href="css/mailchimp-style.css" media="screen">
-<script type="text/javascript">
-var list_id = '974bf45cef';
-var api_key = '975bdb95606230c9c04f1166f2501e50-us2';
-var loading_path = 'graphics/00000001/gui/loading_graphic.gif';
-var module_path = '/mm5/5.00/modules/component/mailchimp.mvc';
-</script>
-<script type="text/javascript" src="js/mailchimp-js.js"></script>
 <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -66,6 +62,23 @@ ga('create', 'UA-1432689-1', 'auto'); // Replace with your property ID.
 ga('send', 'pageview', '/privacy-policy/');
 </script>
 <!-- End Google Analytics -->
+<script type="text/javascript">
+jQuery(function() { jQuery(".pixie").each(function() { var el = jQuery(this).get(0); var nodes=[], values=[];
+for (var attr, i=0, attrs=el.attributes, l=attrs.length; i<l; i++){
+attr = attrs.item(i);
+nodes.push(attr.nodeName);
+values.push(attr.nodeValue);
+}
+var newel = '<a href="' + jQuery(this).attr("data-url") + '"'; for(var a=0; a<nodes.length; a++) {
+if(nodes[a] != 'href' && nodes[a] != 'data-url') {
+newel += ' ' + nodes[a] + '="' + values[a] + '"';
+}
+}
+newel += '>' + jQuery(this).html() + '</a>';
+jQuery(this).replaceWith(newel);
+});
+});
+</script>
 <link rel="canonical" href="http://www.favorwarehouse.com/privacy-policy/">
 <link rel="stylesheet" type="text/css" id="listmenu-o" href="nav-menu/listmenu.css" title="Vertical 'Office'">
 <link rel="stylesheet" type="text/css" id="fsmenu-fallback" href="nav-menu/listmenu_fallback-test.css">
@@ -77,7 +90,7 @@ var left = (screen.width/2)-(w/2);
 var top = (screen.height/2)-(h/2);
 var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
 } </script>
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=91883683"></script></head>
+</head>
 <body bgcolor="#C0CFE0" id="privacy-policy">
 <!-- BEGIN: Google Trusted Stores via Glendale Designs GTS Module -->
 <script type="text/javascript">
@@ -108,7 +121,7 @@ s.parentNode.insertBefore(gts, s);
 <table width="980" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr> <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr> <td width="470" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> <td width="446" height="65" align="left" valign="bottom"><span class="topnavbar-links"><a href="http://www.favorwarehouse.com" target="_self"><img src="graphics/00000001/favor-warehouse-logo2010.jpg" alt="Favor Warehouse Wedding Favors" width="446" height="65" border="0"></a></span> </td>
+<tbody><tr> <td width="446" height="65" align="left" valign="bottom"><span class="topnavbar-links"><a href="http://www.favorwarehouse.com" target="_self"><img src="graphics/00000001/gui/fw-logo-2014-c.png" alt="Favor Warehouse Wedding Favors" width="446" height="65" border="0"></a></span> </td>
 <td></td>
 </tr>
 <tr> <td class="header-text">Your source for <strong><em>wedding favors</em></strong> &amp; bridal shower gifts that your guests will love</td>
@@ -128,7 +141,7 @@ Questions? Email us anytime at info@favorwarehouse.com </td>
 <td align="right" width="5
 " valign="top"></td>
 </tr>
-<tr align="right"> <td height="26" colspan="3" align="right" valign="middle"><span class="topnavbar-links2"><a href="http://www.favorwarehouse.com/contact/" target="_self" title="Contact Us">Contact</a> | <a href="http://www.favorwarehouse.com/phone-orders/" target="_self" title="Telephone Orders">Phone Orders</a> | <a href="http://www.favorwarehouse.com/shipping-info/" target="_self" title="Shipping Information">Shipping Info</a> | <a href="http://www.favorwarehouse.com/samples-low-volume-purchases/" target="_self" title="Sample Purchases/Low Volume Orders">Sample Orders</a> | <a href="http://www.favorwarehouse.com/faq/" target="_self" title="Frequently Asked Questions">FAQ</a> | <a href="http://www.favorwarehouse.com/OSLOOKUP/" target="_self" title="Order Status">Order Status</a> | <a href="http://www.favorwarehouse.com/BASK/" target="_self" title="View Your Current Shopping Cart">View Cart</a></span></td>
+<tr align="right"> <td height="26" colspan="3" align="right" valign="middle"><span class="topnavbar-links2"><a href="http://www.favorwarehouse.com/contact/" target="_self" title="Contact Us">Contact</a> | <a href="http://www.favorwarehouse.com/phone-orders/" target="_self" title="Telephone Orders">Phone Orders</a> | <a href="http://www.favorwarehouse.com/shipping-info/" target="_self" title="Shipping Information">Shipping Info</a> | <a href="http://www.favorwarehouse.com/samples-low-volume-purchases/" target="_self" title="Sample Purchases/Low Volume Orders">Sample Orders</a> | <a href="http://www.favorwarehouse.com/faq/" target="_self" title="Frequently Asked Questions">FAQ</a> | <span class="pixie" data-url="http://www.favorwarehouse.com/OSLOOKUP/" target="_self" title="Order Status">Order Status</span> | <span class="pixie" data-url="http://www.favorwarehouse.com/BASK/" target="_self" title="View Your Current Shopping Cart">View Cart</span></span></td>
 <td align="right" valign="middle">
 </td>
 </tr>
@@ -137,9 +150,18 @@ Questions? Email us anytime at info@favorwarehouse.com </td>
 <td width="120" align="left" valign="middle"> </td>
 <td width="120" align="right" valign="middle">
 <div class="live-chat">
-<!-- BEGIN LivePerson Button Code -->
-<div id="lpButDivID-1328903532174"></div>
-<style type="text/css"> .lpPoweredBy { display:none; } </style> <style type="text/css"> .lpEmtStarRating { display:none; } </style> <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/91883683/?cmd=mTagRepstate&amp;site=91883683&amp;buttonID=12&amp;divID=lpButDivID-1328903532174&amp;bt=1&amp;c=1"></script> <!-- END LivePerson Button code -->
+<!-- BEGIN LIVE PHP CHAT -->
+<span id="phplive_btn_1413824527" onclick="phplive_launch_chat_0(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//www.favorwarehouse.com/mm5/phplive/phplive/js/phplive_v2.js.php?v=0|1413824527|0|"></script></span>
+<script type="text/javascript">
+(function() {
+var phplive_e_1413824527 = document.createElement("script") ;
+phplive_e_1413824527.type = "text/javascript" ;
+phplive_e_1413824527.async = true ;
+phplive_e_1413824527.src = "//www.favorwarehouse.com/mm5/phplive/phplive/js/phplive_v2.js.php?v=0|1413824527|0|" ;
+document.getElementById("phplive_btn_1413824527").appendChild( phplive_e_1413824527 ) ;
+})() ;
+</script>
+<!-- END LIVE PHP CHAT -->
 </div>
 </td>
 <td width="10" align="right" valign="middle"></td>
@@ -159,6 +181,24 @@ if (el.defaultValue==el.value) el.value = ""
 </tr>
 </tbody></table>
 </form>
+<!--
+<link rel="stylesheet" type="text/css" href="//cdn.searchspring.net/autocomplete/autocomplete-v2.css">
+<script type="text/javascript" src="//cdn.searchspring.net/autocomplete/searchspring-autocomplete.min.js"></script>
+-->
+<link rel="stylesheet" type="text/css" href="//favorwarehouse.com/searchspring/autocomplete-v2.css">
+<script type="text/javascript" src="//favorwarehouse.com/searchspring/searchspring-autocomplete.min.js"></script>
+<script type="text/javascript">
+SearchSpring.Autocomplete.init({
+siteId: 'ww55uc',
+queryClass : 'searchspring-query',
+offsetX: -279
+});
+</script>
+<style type="text/css">
+body #searchspring-autocomplete_results:before {
+left: 278px;
+}
+</style>
 </div></td>
 </tr>
 </tbody></table></td>
@@ -195,8 +235,8 @@ if (el.defaultValue==el.value) el.value = ""
 </tr>
 </tbody></table></td>
 </tr>
-<tr> <td height="100" align="left" valign="middle">
-<a onclick="PopupCenterGblHdr('http://www.favorwarehouse.com/mm5/disclaimer1.htm', 'myPop1',500,300);" href="javascript:void(0);"><img src="graphics/00000001/gui/fall-sale-banner-2013b.png" alt="Sale 2014" title="Click here for more details" width="980" height="117" border="0"></a> </td>
+<tr> <td height="76" align="left" valign="middle">
+<a onclick="PopupCenterGblHdr('http://www.favorwarehouse.com/mm5/disclaimer1.htm', 'myPop1',500,300);" href="javascript:void(0);"><img src="graphics/00000001/gui/40-off-ship.png" alt="Sale 2014" title="Click here for more details" width="980" height="76" border="0"></a> </td>
 </tr>
 <tr>
 <td height="2" align="left" valign="middle"></td>
@@ -246,100 +286,107 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
 <tr> <td colspan="2" align="left" valign="top">
 <div align="center">
 <ul class="menulist" id="listMenuRoot">
-<li><a id="top-level1" href="/shop-by-occasion/" title="Shop for Favors by Occasion">Shop for Favors by Occasion</a></li>
-<li class="top-level2"><a href="/wedding-favors/" title="Wedding Favors">Wedding Favors</a>
+<li><a id="top-level1" href="/shop-by-occasion/">Shop for Favors by Occasion</a></li>
+<li class="top-level2"><a href="/wedding-favors/">Wedding Favors</a>
 <ul>
-<li><a class="xyz" href="/new-wedding-favors/" title="New Wedding Favors">New Wedding Favors for 2014</a></li>
-<li><a class="xyz" href="/unique-wedding-favors/" title="Unique Wedding Favors">Unique Wedding Favors</a></li>
-<li><a class="xyz" href="/wine-wedding-favors/" title="Wine &amp; Bartop Wedding Favors">Wine Wedding Favors</a></li>
-<li><a class="xyz" href="/seasonal-wedding-favors/" title="Seasonal Wedding Favors">Seasonal Wedding Favors</a></li>
-<li><a class="xyz" href="/practical-wedding-favors/" title="Practical Wedding Favors">Practical Wedding Favors</a></li>
-<li><a class="xyz" href="/closeout-wedding-favors/" title="Closeout Wedding Favors">Closeout Wedding Favors</a></li>
-<li><a class="xyz" href="/personalized-wedding-favors/" title="Personalized Wedding Favors">Personalized Wedding Favors</a></li>
-<li><a class="xyz" href="/place-card-holders/" title="Place Card Holders">Place Card Holders</a></li>
-<li><a class="xyz" href="/place-card-frames/" title="Place Card Frames">Place Card Frames</a></li>
-<li><a class="xyz" href="/candle-wedding-favors/" title="Candle Wedding Favors">Candle Wedding Favors</a></li>
-<li><a class="xyz" href="/coaster-favors/" title="Coaster Favors">Coaster Favors</a></li>
-<li><a class="xyz" href="/edible-favors/" title="Edible Wedding Favors">Edible Favors</a></li>
-<li><a class="xyz" href="/wedding-frame-favors/" title="Wedding Frame Favors">Wedding Frame Favors</a></li>
-<li><a class="xyz" href="/99cent-favors/" title="$0.99 Cent Wedding Favors">$0.99 Cent Favors</a></li>
-<li><a class="xyz" href="/beach-theme-wedding-favors/" title="Beach Wedding Favors">Beach Wedding Favors</a></li>
-<li><a class="xyz" href="/wedding-reception-favors/" title="Wedding Accessories">Wedding Accessories</a></li>
-<li><a class="xyz" href="/cheap-wedding-favors/" title="Cheap Wedding Favors">Cheap Wedding Favors</a></li>
-<li><a class="xyz" href="/popular-wedding-favors/" title="Popular Wedding Favors">Popular Wedding Favors</a></li>
-<li><a class="xyz" href="/trendy-wedding-favors/" title="Trendy Wedding Favors">Trendy Wedding Favors</a></li>
-<li><a class="xyz" href="/wedding-favors-view-all-hide/" title="All Wedding Favors">All Wedding Favors</a></li>
+<li><span data-url="/new-wedding-favors/" class="pixie xyz">New Wedding Favors for 2014</span></li>
+<li><span data-url="/unique-wedding-favors/" class="pixie xyz">Unique Wedding Favors</span></li>
+<li><span data-url="/wine-wedding-favors/" class="pixie xyz">Wine Wedding Favors</span></li>
+<li><span data-url="/seasonal-wedding-favors/" class="pixie xyz">Seasonal Wedding Favors</span></li>
+<li><span data-url="/practical-wedding-favors/" class="pixie xyz">Practical Wedding Favors</span></li>
+<li><span data-url="/closeout-wedding-favors/" class="pixie xyz">Closeout Wedding Favors</span></li>
+<li><span data-url="/personalized-wedding-favors/" class="pixie xyz">Personalized Wedding Favors</span></li>
+<li><span data-url="/candle-wedding-favors/" class="pixie xyz">Candle Wedding Favors</span></li>
+<li><span data-url="/coaster-favors/" class="pixie xyz">Coaster Favors</span></li>
+<li><span data-url="/edible-favors/" class="pixie xyz">Edible Favors</span></li>
+<li><span data-url="/wedding-frame-favors/" class="pixie xyz">Wedding Frame Favors</span></li>
+<li><span data-url="/99cent-favors/" class="pixie xyz">$0.99 Cent Favors</span></li>
+<li><span data-url="/beach-theme-wedding-favors/" class="pixie xyz">Beach Wedding Favors</span></li>
+<li><span data-url="/cheap-wedding-favors/" class="pixie xyz">Cheap Wedding Favors</span></li>
+<li><span data-url="/popular-wedding-favors/" class="pixie xyz">Popular Wedding Favors</span></li>
+<li><span data-url="/trendy-wedding-favors/" class="pixie xyz">Trendy Wedding Favors</span></li>
+<li><span data-url="/wedding-favors-view-all-hide/" class="pixie xyz">All Wedding Favors</span></li>
 </ul>
 </li>
-<li class="top-level3"><a href="/bridal-shower-favors/" title="Bridal Shower Favors">Bridal Shower Favors</a>
+<li class="top-level3"><a href="/bridal-shower-favors/">Bridal Shower Favors</a>
 <ul>
-<li><a class="xyy" href="/new-bridalshower-favors/" title="New Bridal Shower Favors">New Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/whats-hot-bridal-shower/" title="Hot Bridal Shower Favors">Whats Hot for 2014</a></li>
-<li><a class="xyz" href="/place-card-holders-bridal/" title="Bridal Shower Place Card Holders">Bridal Shower Place Card Holders</a></li>
-<li><a class="xyz" href="/bridal-shower-candle-favors1/" title="Bridal Shower Candle Favors">Bridal Shower Candle Favors</a></li>
-<li><a class="xyz" href="/bridal-shower-photo-frame-favors/" title="Bridal Shower Photo Frames">Bridal Shower Photo Frames</a></li>
-<li><a class="xyz" href="/personalized-bridal-shower-favors-1/" title="Personalized Bridal Favors">Personalized Bridal Favors</a></li>
-<li><a class="xyz" href="/themed-bridal-shower-favors/" title="Themed Bridal Shower Favors">Themed Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/edible-bridal-shower-favors/" title="Edible Bridal Shower Favors">Edible Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/99cent-bridal-shower-favors/" title="$0.99 Bridal Shower Favors">$0.99 Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/wine-bartop-bridal-shower-favors/" title="Wine &amp; Bartop Bridal Favors">Wine and Bartop Bridal Favors</a></li>
+<li><span data-url="/new-bridalshower-favors/" class="pixie xyy">New Bridal Shower Favors</span></li>
+<li><span data-url="/whats-hot-bridal-shower/" class="pixie xyz">Whats Hot for 2014</span></li>
+<li><span data-url="/place-card-holders-bridal/" class="pixie xyz">Bridal Shower Place Card Holders</span></li>
+<li><span data-url="/bridal-shower-candle-favors1/" class="pixie xyz">Bridal Shower Candle Favors</span></li>
+<li><span data-url="/bridal-shower-photo-frame-favors/" class="pixie xyz">Bridal Shower Photo Frames</span></li>
+<li><span data-url="/personalized-bridal-shower-favors-1/" class="pixie xyz">Personalized Bridal Favors</span></li>
+<li><span data-url="/themed-bridal-shower-favors/" class="pixie xyz">Themed Bridal Shower Favors</span></li>
+<li><span data-url="/edible-bridal-shower-favors/" class="pixie xyz">Edible Bridal Shower Favors</span></li>
+<li><span data-url="/99cent-bridal-shower-favors/" class="pixie xyz">$0.99 Bridal Shower Favors</span></li>
+<li><span data-url="/wine-bartop-bridal-shower-favors/" class="pixie xyz">Wine and Bartop Bridal Favors</span></li>
 </ul>
 </li>
-<li class="top-level4"><a href="/personalized-favors-for-all-occasions/" title="Personalized Favors">Personalized Favors</a></li>
-<li class="top-level"><a href="/baby-shower-favors/" title="Baby Shower Favors">Baby Shower Favors</a></li>
-<li class="top-level"><a href="/birthday-favors/" title="Birthday Favors">Birthday Favors</a></li>
-<li class="top-level"><a href="/sbc-other-events/" title="Other Event Categories">Other Event Categories</a>
+<li class="top-level"><a href="/anniversary-favors/">Anniversary Favors</a></li>
+<li class="top-level"><a href="/baby-shower-favors/">Baby Shower Favors</a></li>
+<li class="top-level"><a href="/birthday-favors/">Birthday Favors</a></li>
+<li class="top-level"><a href="/christening-favors/">Christening Favors</a></li>
+<li class="top-level"><a href="/bar-bat-mitzvah-favors/">Bar &amp; Bat Mitzvah Favors</a></li>
+<li class="top-level"><a href="/communion-and-confirmation-favors/">Communion &amp; Confirmation</a></li>
+<li class="top-level"><a href="/sweet-sixteen-quinceanera-favors/">Sweet 16 &amp; Quinceañera Favors</a></li>
+<li class="top-level"><a href="/graduation-favors/">Graduation Favors</a></li>
+<li class="top-level"><a href="/christmas-favors/">Christmas Favors</a></li>
+<li class="top-level"><a href="/holiday-favors/">Holiday Favors</a></li>
+<li class="top-level"><a href="/sbc-other-events/">Other Event Categories</a>
 <ul>
-<li><a class="xyz" href="/valentines-day-favors/" title="Valentine's Day Favors">Valentine's Day Favors</a></li>
-<li><a class="xyz" href="/sweet-sixteen-quinceanera-favors/" title="Sweet Sixteen &amp; Quinceañera Favors">Sweet 16 &amp; Quinceañera Favors</a></li>
-<li><a class="xyz" href="/christening-favors/" title="Baby Christening Favors">Christening Favors</a></li>
-<li><a class="xyz" href="/communion-and-confirmation-favors/" title="Communion &amp; Confirmation Favors">Communion &amp; Confirmation</a></li>
-<li><a class="xyz" href="/bar-bat-mitzvah-favors/" title="Bar &amp; Bat Mitzvah Favors">Bar &amp; Bat Mitzvah Favors</a></li>
-<li><a class="xyz" href="/corporate-gifts/" title="Corporate Gifts">Corporate Gifts</a></li>
-<li><a class="xyz" href="/birth-announcement-favors/" title="Birth Announcement Favors">Birth Announcement Favors</a></li>
-<li><a class="xyz" href="/anniversary-favors/" title="Anniversary Favors">Anniversary Favors</a></li>
-<li><a class="xyz" href="/graduation-favors/" title="Graduation Favors">Graduation Favors</a></li>
-<li><a class="xyz" href="/holiday-favors/" title="Holiday Favors">Holiday Favors</a></li>
-<li><a class="xyz" href="/christmas-favors/" title="Christmas Favors">Christmas Favors</a></li>
-<li><a class="xyz" href="/hanukkah-favors/" title="Hanukkah Favors">Hanukkah Favors</a></li>
-<li><a class="xyz" href="/alternative-lifestyle-favors/" title="Alternative Lifestyle Favors">Alternative Lifestyle Favors</a></li>
+<li><span data-url="/valentines-day-favors/" class="pixie xyz">Valentine's Day Favors</span></li>
+<li><span data-url="/corporate-gifts/" class="pixie xyz">Corporate Gifts</span></li>
+<li><span data-url="/birth-announcement-favors/" class="pixie xyz">Birth Announcement Favors</span></li>
+<li><span data-url="/hanukkah-favors/" class="pixie xyz">Hanukkah Favors</span></li>
+<li><span data-url="/alternative-lifestyle-favors/" class="pixie xyz">Alternative Lifestyle Favors</span></li>
 </ul>
 </li>
-<li><a id="top-level5" href="/Favor-Packaging/" title="Favor Packaging">Favor Packaging</a></li>
-<li class="top-level"><a href="/organza-bags-and-gift-boxes/" title="Organza Bags &amp; Gift Boxes">Organza Bags &amp; Gift Boxes</a></li>
-<li class="top-level"><a href="/ribbons-and-bows/" title="Personalized and Bulk Ribbon &amp; Bows">Bulk Ribbon &amp; Bows</a></li>
-<li class="top-level"><a href="/personalized-tags-and-stickers/" title="Personalized Tags &amp; Stickers">Personalized Tags &amp; Stickers</a></li>
-<li class="top-level"><a href="/xEOSLABELS/" title="Personalized Labels">Personalized Labels</a></li>
-<li><a id="top-level6" href="/wedding-theme-favors/" title="Shop by Theme">Shop by Theme</a></li>
-<li class="top-level"><a href="/winter-theme-wedding-favors/" title="Winter &amp; Holiday Favors">Winter &amp; Holiday Theme Favors</a></li>
-<li class="top-level"><a href="/beach-theme-wedding-favors/" title="Beach Theme Wedding Favors">Beach Theme Favors</a></li>
-<li class="top-level"><a href="/fairytale-theme-wedding-favors/" title="Fairytale Theme Favors">Fairytale Theme Favors</a></li>
-<li class="top-level"><a href="/wine-theme-wedding-favors/" title="Wine Theme Favors">Wine Theme Favors</a></li>
-<li class="top-level"><a href="/heart-theme-wedding-favors/" title="Heart Wedding Favors">Heart Theme Wedding Favors</a></li>
-<li class="top-level"><a href="/love-theme-wedding-favors/" title="Love Wedding Favors">Love Theme Wedding Favors</a></li>
-<li class="top-level"><a href="/calla-lily-theme-wedding-favors/" title="Calla Lily Favors">Calla Lily Theme Favors</a></li>
-<li class="top-level"><a href="/asian-theme-wedding-favors/" title="Asian Wedding Favors">Asian Theme Wedding Favors</a></li>
-<li class="top-level"><a href="/las-vegas-theme-wedding-favors/" title="Las Vegas Favors">Las Vegas Theme Favors</a></li>
-<li class="top-level"><a href="/italian-wedding-favors/" title="Italian Wedding Favors">Italian Wedding Favors</a></li>
-<li class="top-level"><a href="/murano-art-favors/" title="Murano Favors">Murano Art Deco Wedding Favors</a></li>
-<li class="top-level"><a href="/fall-wedding-favors/" title="Fall Favors">Fall Favors</a></li>
-<li class="top-level"><a href="/golf-theme-favors/" title="Golf Favors">Golf Theme Favors</a></li>
-<li class="top-level"><a href="/damask-theme/" title="Damask Favors">Damask Wedding Favors</a></li>
-<li class="top-level"><a href="/chalkboard-themed-products/" title="Chalkboard Theme Favors">Chalkboard Theme Favors</a></li>
-<li><a id="top-level7" href="/shop-by-collection/" title="Shop by Collection">Shop by Collection</a></li>
-<li class="top-level"><a href="/xeos-global-imports/" title="EOS Personalized Favors">EOS Personalized Favors</a></li>
-<li class="top-level"><a href="/FashionCraft/" title="Fashion Craft Favors">Fashion Craft Favors</a></li>
-<li class="top-level"><a href="/CassianiCollection/" title="Cassiani Collection Favors">Cassiani Collection Favors</a></li>
-<li class="top-level"><a href="/KateAspen/" title="Kate Aspen Favors">Kate Aspen Favors</a></li>
-<li class="top-level"><a href="/CathysConcepts/" title="Cathy's Concepts Favors">Cathy's Concepts</a></li>
-<li class="top-level"><a href="/EventBlossom/" title="Event Blossom Favors">Event Blossom</a></li>
-<li class="top-level"><a href="/BabyAspen/" title="Baby Aspen Favors">Baby Aspen</a></li>
-<li class="top-level"><a href="/jds-engravable-gifts/" title="JDS Personalized Gifts">JDS Personalized Gifts</a></li>
-<li class="top-level"><a href="/lorenzo-collection/" title="Lorenzo Collection">Lorenzo Collection</a></li>
-<li class="top-level"><a href="/doc-milo/" title="Doc Milo Partware">Doc Milo</a></li>
-<li class="top-level"><a href="/wedding-star/" title="Wedding Star Gifts">Wedding Star</a></li>
-<li class="top-level"><a href="/DesigningDucks-hide/" title="Designing Ducks Favors">Designing Ducks</a></li>
-<li class="top-level"><a href="/lillian-rose/" title="Lillian Rose Favors">Lillian Rose</a></li>
+<li><a id="top-level6" href="/wedding-theme-favors/">Shop by Theme</a>
+<ul>
+<li><span data-url="/winter-theme-wedding-favors/" class="pixie top-level">Winter &amp; Holiday Theme Favors</span></li>
+<li><span data-url="/beach-theme-wedding-favors/" class="pixie top-level">Beach Theme Favors</span></li>
+<li><span data-url="/fairytale-theme-wedding-favors/" class="pixie top-level">Fairytale Theme Favors</span></li>
+<li><span data-url="/wine-theme-wedding-favors/" class="pixie top-level">Wine Theme Favors</span></li>
+<li><span data-url="/heart-theme-wedding-favors/" class="pixie top-level">Heart Theme Wedding Favors</span></li>
+<li><span data-url="/love-theme-wedding-favors/" class="pixie top-level">Love Theme Wedding Favors</span></li>
+<li><span data-url="/calla-lily-theme-wedding-favors/" class="pixie top-level">Calla Lily Theme Favors</span></li>
+<li><span data-url="/asian-theme-wedding-favors/" class="pixie top-level">Asian Theme Wedding Favors</span></li>
+<li><span data-url="/las-vegas-theme-wedding-favors/" class="pixie top-level">Las Vegas Theme Favors</span></li>
+<li><span data-url="/italian-wedding-favors/" class="pixie top-level">Italian Wedding Favors</span></li>
+<li><span data-url="/murano-art-favors/" class="pixie top-level">Murano Art Deco Wedding Favors</span></li>
+<li><span data-url="/fall-wedding-favors/" class="pixie top-level">Fall Favors</span></li>
+<li><span data-url="/golf-theme-favors/" class="pixie top-level">Golf Theme Favors</span></li>
+<li><span data-url="/damask-theme/" class="pixie top-level">Damask Wedding Favors</span></li>
+<li><span data-url="/chalkboard-themed-products/" class="pixie top-level">Chalkboard Theme Favors</span></li>
+</ul>
+</li>
+<li><a id="top-level7" href="/shop-by-collection/">Shop by Collection</a>
+<ul>
+<li><span data-url="/xeos-global-imports/" class="pixie top-level">EOS Personalized Favors</span></li>
+<li><span data-url="/FashionCraft/" class="pixie top-level">Fashion Craft Favors</span></li>
+<li><span data-url="/CassianiCollection/" class="pixie top-level">Cassiani Collection Favors</span></li>
+<li><span data-url="/KateAspen/" class="pixie top-level">Kate Aspen Favors</span></li>
+<li><span data-url="/CathysConcepts/" class="pixie top-level">Cathy's Concepts</span></li>
+<li><span data-url="/EventBlossom/" class="pixie top-level">Event Blossom</span></li>
+<li><span data-url="/BabyAspen/" class="pixie top-level">Baby Aspen</span></li>
+<li><span data-url="/jds-engravable-gifts/" class="pixie top-level">JDS Personalized Gifts</span></li>
+<li><span data-url="/lorenzo-collection/" class="pixie top-level">Lorenzo Collection</span></li>
+<li><span data-url="/wedding-star/" class="pixie top-level">Wedding Star</span></li>
+<li><span data-url="/DesigningDucks-hide/" class="pixie top-level">Designing Ducks</span></li>
+<li><span data-url="/lillian-rose/" class="pixie top-level">Lillian Rose</span></li>
+<li><span data-url="/Hortense-B-Hewitt/" class="pixie top-level">Hortense B Hewitt</span></li>
+<li><span data-url="/ruby-blanc/" class="pixie top-level">Ruby Blanc</span></li>
+</ul>
+</li>
+<li class="top-level"><a href="/personalized-favors-for-all-occasions/">Personalized Favors</a></li>
+<li class="top-level"><a href="/wedding-reception-favors/">Wedding Accessories</a></li>
+<li><a id="top-level7" href="/Favor-Packaging/">Favor Packaging</a></li>
+<li class="top-level"><a href="/organza-bags-and-gift-boxes/">Organza Bags &amp; Gift Boxes</a></li>
+<li class="top-level"><a href="/ribbons-and-bows/">Bulk Ribbon &amp; Bows</a></li>
+<li class="top-level"><a href="/personalized-tags-and-stickers/">Personalized Tags &amp; Stickers</a></li>
+<li class="top-level"><a href="/xEOSLABELS/">Personalized Labels</a></li>
+<li class="top-level"><a href="/place-card-frames/">Place Card Frames</a></li>
+<li class="top-level"><a href="/place-card-holders/">Place Card Holders</a></li>
 </ul>
 </div>
 <script type="text/javascript">
@@ -463,13 +510,12 @@ addEvent(window, 'load', new Function('listMenu.activateMenu("listMenuRoot", arr
 </tr>
 </tbody></table>
 <!-- Global Footer -->
-<div id="gblfooter-frame"><div id="gblfooter-subframe1"></div><div id="gblfooter-subframe2"><span class="footer-links"><a href="http://www.favorwarehouse.com" target="_self">Home</a> | <a href="https://www.favorwarehouse.com/mm5/merchant.mvc?Session_ID=0217ca84a7b3eef51b2d74b4e34a0dfb&amp;Screen=LOGN&amp;Order=0&amp;Store_Code=favor-warehouse">Your Account</a>
-| <a href="http://wedding.favorwarehouse.com">Popular Searches</a> | <a href="/affiliates/" target="_self">Affiliates</a> | <a href="/phone-orders/" target="_self">Phone Orders</a> | <a href="/disclaimer/" target="_self">Disclaimer</a> | <a href="/order-info/" target="_self">Ordering Info</a> | <a href="/return-policy/" target="_self">Returns</a> | <a href="/privacy-policy/" target="_self">Privacy</a> | <a href="/faq/" target="_self">FAQ</a> | <a href="/contact/" target="_self">Contact</a> | <a href="/smap/" target="_self">Site Map</a></span><br><br>All Content ©2014 <span class="footer-links"><span class="vcard"><a class="url fn org" href="http://www.favorwarehouse.com" target="_self">Favor Warehouse.com, Inc.</a></span></span>. All rights Reserved.<br> <a href="http://www.facebook.com/FavorWarehouse" class="fb-footer" title="Favor Warehouse on Facebook" border="0"></a> <a href="http://twitter.com/#!/favorwarehouse" class="twitter-footer" title="Favor Warehouse on Twitter" border="0"></a>
+<div id="gblfooter-frame"><div id="gblfooter-subframe1"></div><div id="gblfooter-subframe2"><span class="footer-links"><a href="http://www.favorwarehouse.com" target="_self">Home</a> | <span class="pixie" data-url="https://www.favorwarehouse.com/mm5/merchant.mvc?Session_ID=89e69e38e1eba72cf943ccb3ee66fc74&amp;Screen=LOGN&amp;Order=0&amp;Store_Code=favor-warehouse">Your Account</span>
+| <a href="/disclaimer/" target="_self">Disclaimer</a> | <a href="/return-policy/" target="_self">Returns</a> | <a href="/privacy-policy/" target="_self">Privacy</a> | <a href="/faq/" target="_self">FAQ</a> | <a href="/contact/" target="_self">Contact</a> | <a href="/smap/" target="_self">Site Map</a></span><br><br>All Content ©2014 Favor Warehouse.com, Inc. All rights Reserved.
 <div id="gblfooter-subframe3">We accept all major credit cards. Online orders accepted 7 days a week, 24 hours a day.<br>All orders shipped via United Parcel Service (UPS).<br><br>
 <div id="gblfooter-subframe4">
 <div id="payments-footer"><img src="graphics/00000001/gui/payment-methods.png" width="500" height="44" alt="We accept these forms of payment"></div>
 <div id="geotrust-footer"><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script> <!-- end GeoTrust Smart Icon tag --></div>
-<div id="bongo-footer"><a href="https://bongous.com/signup.php" onclick="recordOutboundLink(this, 'Outbound Links', 'bongous.com/signup.php');return false;"><img src="graphics/00000001/gui/bongo-header.png" alt="Bongo International" width="99" height="54" border="0"></a></div>
 </div>
 </div>
 </div>
@@ -490,11 +536,14 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 <!--END GOOGLE CODE FOR REMARKETING TAG -->
+<!-- Commented dburlage@pantek.com 9/11/2104
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https:" : "http:") + "//d1qhbfo7yqnkif.cloudfront.net/hosted_search/js/jquery.autocomplete.min.js'; type='text/javascript'%3E%3C/script%3E"));
 document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https:" : "http:") + "//d1qhbfo7yqnkif.cloudfront.net/hosted_search/sites/ww55uc/js/autocomplete-data.js'; type='text/javascript'%3E%3C/script%3E"));
 document.write(unescape("%3Clink href='" + (("https:" == document.location.protocol) ? "https:" : "http:") + "//d1qhbfo7yqnkif.cloudfront.net/hosted_search/css/jquery.autocomplete.css'; rel='stylesheet' type='text/css' /%3E"));
-</script><script src="https://d1qhbfo7yqnkif.cloudfront.net/hosted_search/js/jquery.autocomplete.min.js" ;="" type="text/javascript"></script><script src="https://d1qhbfo7yqnkif.cloudfront.net/hosted_search/sites/ww55uc/js/autocomplete-data.js" ;="" type="text/javascript"></script><link href="https://d1qhbfo7yqnkif.cloudfront.net/hosted_search/css/jquery.autocomplete.css" ;="" rel="stylesheet" type="text/css">
+</script>
+-->
+<script src="/mm5/js/jquery.blockUI.js"></script>
 <script type="text/javascript">
 jQuery().ready(function() {
 try {
@@ -509,11 +558,6 @@ event.target.form.submit();
 } catch (e) {}
 });
 </script>
-<!-- BEGIN LivePerson Monitor. -->
-<script type="text/javascript">
-if(typeof window.lpTag==='undefined'){window.lpTag={site:'91883683',_v:'1.3',protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()}};lpTag.init()}
-</script>
-<!-- END LivePerson Monitor. -->
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
 _atrk_opts = { atrk_acct:"cyKRi1a4ZP00OG", domain:"favorwarehouse.com",dynamic: true};
