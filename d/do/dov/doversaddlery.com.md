@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512115702id_/http%3A//www.doversaddlery.com/Privacy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125203532id_/http%3A//www.doversaddlery.com/Privacy/a/75) for the most accurate reproduction.*
 
 # Dover Saddlery Privacy Policy
 
@@ -21,18 +21,18 @@ Littleton, MA 01460
 
 **
 
-  * [Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#Information%20We%20Collect)
-  * [How We Use the Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#How%20We%20Use%20the%20Information%20We%20Collect)
-  * [Information We Share with Others](http://www.doversaddlery.com/dover-library/a/75/#Information%20We%20Share%20with%20Others)
-  * [Your Choices](http://www.doversaddlery.com/dover-library/a/75/#Your%20Choices)
-  * [Cookies and Pixel Tags](http://www.doversaddlery.com/dover-library/a/75/#Cookies%20and%20Pixel%20Tags)
-  * [How We Use E-mail](http://www.doversaddlery.com/dover-library/a/75/#How%20We%20Use%20E-mail)
-  * [Links to Other Sites](http://www.doversaddlery.com/dover-library/a/75/#Links%20to%20Other%20Sites)
-  * [Updating or Reviewing Your Information](http://www.doversaddlery.com/dover-library/a/75/#Updating%20or%20Reviewing%20Your%20Information)
+  * [Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#InformationWeCollect)
+  * [How We Use the Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#HowWeUsetheInformationWeCollect)
+  * [Information We Share with Others](http://www.doversaddlery.com/dover-library/a/75/#InformationWeSharewithOthers)
+  * [Your Choices](http://www.doversaddlery.com/dover-library/a/75/#YourChoices)
+  * [Cookies and Pixel Tags](http://www.doversaddlery.com/dover-library/a/75/#CookiesandPixelTags)
+  * [How We Use E-mail](http://www.doversaddlery.com/dover-library/a/75/#HowWeUseE-mail)
+  * [Links to Other Sites](http://www.doversaddlery.com/dover-library/a/75/#LinkstoOtherSites)
+  * [Updating or Reviewing Your Information](http://www.doversaddlery.com/dover-library/a/75/#UpdatingorReviewingYourInformation)
   * [Security](http://www.doversaddlery.com/dover-library/a/75/#Security)
-  * [Privacy of Children on Our Web Site](http://www.doversaddlery.com/dover-library/a/75/#Privacy%20of%20Children%20on%20Our%20Web%20Site)
-  * [Policy Changes](http://www.doversaddlery.com/dover-library/a/75/#Policy%20Changes)
-  * [Questions or Comments?](http://www.doversaddlery.com/dover-library/a/75/#Questions%20or%20Comments?)
+  * [Privacy of Children on Our Web Site](http://www.doversaddlery.com/dover-library/a/75/#PrivacyofChildrenonOurWebSite)
+  * [Policy Changes](http://www.doversaddlery.com/dover-library/a/75/#PolicyChanges)
+  * [Questions or Comments?](http://www.doversaddlery.com/dover-library/a/75/#QuestionsorComments?)
 
 **
 
@@ -61,7 +61,7 @@ We also gather information about how visitors navigate through our Web site by u
 
 **
 
-### [How We Use the Information We Collect](http://www.doversaddlery.com/#How%20We%20Use%20the%20Information%20We%20Collect)
+### How We Use the Information We Collect
 
 **
 
@@ -71,7 +71,7 @@ At Dover Saddlery, the information we collect allows us to:
   * Provide the services you request
   * Contact you about the status of an order
   * Send you catalogs or promotional offers we believe will be of interest to you
-  * Send you email promotions or newsletters, if requested
+  * Send you email promotions or newsletters
   * Identify your product and service preferences
   * Customize our communications to you
   * Provide information concerning product recalls or products you have purchased
