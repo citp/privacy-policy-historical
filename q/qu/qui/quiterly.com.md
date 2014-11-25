@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiterly.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206031913id_/http%3A//www.quiterly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiterly.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125110258id_/http%3A//www.quiterly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuiteRly - Funny pictures updated daily
 
