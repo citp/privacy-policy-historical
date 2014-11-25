@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002004id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125064237id_/http%3A//industracom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Content & Privacy Policy
 
   * Content Policy
   * Privacy Policy
@@ -9,20 +9,20 @@
 
 
 **Definitions**  
-Website: Refers to the website owner/operator Industracom Pty Ltd ([www.industracom.com](http://www.industracom.com/), Australia ABN 20 079 858 236) operators of [IndustrySearch.com.au](http://www.industrysearch.com.au/), [MedicalSearch.com.au](http://www.medicalsearch.com.au/) and [HospitalityHub.com.au](http://www.hospitalityhub.com.au/).
+Website: Refers to the website owner/operator Industracom Pty Ltd ([www.industracom.com](http://www.industracom.com/), Australia ABN 20 079 858 236) operators of [ IndustrySearch.com.au](http://www.industrysearch.com.au/), [ MedicalSearch.com.au](http://www.medicalsearch.com.au/) and [ HospitalityHub.com.au](http://www.hospitalityhub.com.au/).
 
 * * *
 
-Content Policy
+###  Content Policy
 
 This section outlines policies and definitions for information published by the website. The website values editorial integrity and aims towards publishing relevant and accurate content. 
 
-**Editorial content sources**  
+** Editorial content sources**  
 Editorial news content published on the website originates from sources such as AAP, Reuters, government and industry bodies. Other editorial originates from contributors commissioned by the website to produce content.
 
 Editorial content is marked , or is identified as such by not linking with an active Storefront.
 
-**Advertiser content sources**  
+** Advertiser content sources**  
 Commercial organisations can use the website to distribute media releases by maintaining a Storefront package. Commercial companies are not authorised to publish content without a Storefront. Companies can publish Product Releases, News Releases, Feature Articles (Case Studies) and Events. Videos and pictures can be included with content. 
 
 Storefront content is marked , or is branded as such by linking to an active Storefront.
@@ -36,7 +36,7 @@ BACK TO TOP ^
 
 * * *
 
-Privacy Policy
+###  Privacy Policy
 
 The website is committed to user privacy in accordance with the Privacy Amendment Act 2000 and is bound by the National Privacy Principles ('NPPs') which were introduced into the Privacy Act 1988 (Cth) ('Privacy Act') by the Privacy Amendment (Private Sector) Act 2000. 
 
@@ -55,6 +55,9 @@ Upon subscription the website collects information such as company details and j
 
 **Advertiser requests**  
 When website visitors send an email request to an advertiser through the online forms, the website stores information such as: name, phone number, location, email and message details. Only the advertiser to whom the request was sent is provided with the details of the person sending the request.
+
+**Add your business**  
+Upon submitting your business details, the website collects information such as company name, contact person, e-mail address and website address. This information is stored to check if the business is a good fit for the website. If suitable, the website will then set up a basic profile for the business.
 
 **Search terms**  
 When a search is performed, the website collects information such as the IP address, search term, date and time. This information is stored and tracked for internal trend analysis only.
@@ -85,7 +88,7 @@ BACK TO TOP ^
 
 * * *
 
-System Specifications
+###  System Specifications
 
 **Search**  
 The website's search facilities are driven by the Microsoft SQL Server standard free text search algorithm. The search is implemented using Microsoft SQL Sever 2005 fulltext search features known as "CONTAINSTABLE" and "FREETEXTTABLE". The "CONTAINSTABLE" feature makes use of a "search phrase" and the number of occurrences to derive the ranking for content whereas the "FREETEXTTABLE" search makes use of the OKAPI BM25 ranking formula. The detail of each feature is provided in the following link http://msdn2.microsoft.com/en-us/library/ms142524.aspx. The key highlights of a search using these features is described below: 
@@ -103,11 +106,11 @@ BACK TO TOP ^
 
 * * *
 
-CONTACT US
+###  CONTACT US
 
 If you have any questions please contact Industracom:
 
 PHONE: +61 (02) 9925 4000  
 FAX: +61 (02) 9925 4099  
 Address: Level 3, 17 Randle St, Surry Hills, NSW 2010  
-Last updated: August 18, 2011 
+Last updated: May 23, 2014 
