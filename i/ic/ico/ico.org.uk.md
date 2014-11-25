@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125624id_/http%3A//ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125125530id_/http%3A//ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Notice - Information Commissioner's Office - ICO
 
@@ -33,6 +33,10 @@ We use a third party provider, Adestra, to deliver our monthly e-newsletter. We 
 ### Online reporting tool
 
 We collect information volunteered by members of the public about nuisance calls and texts using an online reporting tool hosted by Snap Surveys. This company is a data processor for the ICO and only processes personal information in line with our instructions.
+
+### Security and performance
+
+The ICO uses a third party service to help maintain the security and performance of the ICO website. To deliver this service it processes the IP addresses of visitors to the ICO website. 
 
 ### Data Protection Practitioners Conference site
 
