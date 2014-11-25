@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044955id_/http%3A//sendgrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125033914id_/https%3A//sendgrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Transactional Email and SMTP Service
 
@@ -56,7 +56,7 @@ We may also share certain personally identifiable information we collect through
 
 ###  USE OF PERSONAL INFORMATION RECEIVED FROM THE EU. 
 
-**When SendGrid is a data controller**. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at [safeharbor.export.gov](http://safeharbor.export.gov/ "safeharbor.export.gov").
+**When SendGrid is a data controller**. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at [export.gov/safeharbor](http://www.export.gov/safeharbor "export.gov/safeharbor").
 
 **When SendGrid is a data processor**. SendGrid’s obligations with respect to personal data for which we are solely a data processor, such as personal data received from our customers or from other third parties that we use to generate and transmit email and other communications through the Services, are defined in our agreements with those customers and are not included in this Policy. In those circumstances, we receive personal data from the EU as an agent for the customer or other third party merely for processing and are not required to apply the Safe Harbor principles to that information. In those circumstances, our customers or those other third parties will remain responsible for personal data that they collect and for compliance with the applicable data protection laws.
 
