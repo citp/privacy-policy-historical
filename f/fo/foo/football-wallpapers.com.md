@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330093621id_/http%3A//www.football-wallpapers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125180817id_/http%3A//www.football-wallpapers.com/privacy.php) for the most accurate reproduction.*
 
 # Football-Wallpapers.com Privacy Policy
 
