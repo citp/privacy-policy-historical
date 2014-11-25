@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531235442id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125173901id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Getamap.net
 
