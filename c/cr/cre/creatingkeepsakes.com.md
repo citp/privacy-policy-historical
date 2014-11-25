@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523111859id_/http%3A//www.creatingkeepsakes.com/ckm_global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125071318id_/http%3A//www.creatingkeepsakes.com/ckm_global/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Creating Keepsakes
-
-**Creative Crafts Group** **Privacy Policy**
 
 Creative Crafts Group respects your privacy, and is committed to providing a safe online experience for our users. Since we request personal information for many of our online features, this policy summarizes the types of information we will collect and how it will be used.
 
