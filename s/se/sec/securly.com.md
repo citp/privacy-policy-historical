@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323090127id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125085917id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
 
-# Securly - Web Filter for Schools
+# Securly - Web Filtering 2.0 For Schools & Families
 
-This privacy policy ("Policy") covers the website [http://www.securly.com](http://www.securly.com/#) which, is owned and operated by Securly, Incorporated ("Securly", "we", "us", "our"), and all associated services provided by Securly.
+_
+
+This privacy policy ("Policy") covers the website[http://www.securly.com](http://www.securly.com/#) which, is owned and operated by Securly, Incorporated ("Securly", "we", "us", "our"), and all associated services provided by Securly.
+
+_
 
 ## Contact Information
 
