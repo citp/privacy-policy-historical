@@ -1,125 +1,81 @@
-> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608222316id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125090101id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The City | Real Life. Together.
 
-[The City](https://web.archive.org/ "The City") site navigation
+ACS Technologies, Inc. ("ACST") is committed to protecting the privacy of our clients and the security of their data, especially those who access ACST sites (including without limitation acstechnologies.com, onrealm.org, onthecity.org, etc (Individually and collectively, the Sites) and corresponding services (the Sites and services are collectively referred to as the “Services”). This Privacy and Security Policy is designed to inform you about the types of information that we gather about you and your organization, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of that information. “You” and “your” as used herein refers to the individual, or an entity bound by an individual authorized to act on behalf of the entity, desiring to use the Sites and/or ACST software (“ACST Software”) and to be bound by this Privacy and Security Policy and ACST’s Terms of Use and Service.
 
-[Legal](http://www.onthecity.org/legal/) » Privacy Policy
+###  Collection and Use of Your Personal Information
 
-  * [What's The City?](http://www.onthecity.org/whats-the-city/)
-    * [Catch The Vision](http://www.onthecity.org/whats-the-city/catch-the-vision/)
-    * [What difference can software make?](http://www.onthecity.org/whats-the-city/what-difference-can-software-make/)
-    * [Back Office to Whole Church](http://www.onthecity.org/whats-the-city/back-office-whole-church/)
-  * [How It Works](http://www.onthecity.org/how-it-works/)
-    * [The City and Your Church](http://www.onthecity.org/how-it-works/the-city-and-your-church/)
-    * [Map of The City](http://www.onthecity.org/how-it-works/map-of-the-city/)
-    * [The City is a little like [...]](http://www.onthecity.org/how-it-works/the-city-is-a-little-like/)
-    * [S/M/L/XL](http://www.onthecity.org/how-it-works/s-m-l-xl/)
-    * [Discover The City](http://www.onthecity.org/how-it-works/discover-the-city/)
-  * [Features](http://www.onthecity.org/features/)
-    * [Communication](http://www.onthecity.org/features/communication/)
-    * [Groups](http://www.onthecity.org/features/groups/)
-    * [Administration](http://www.onthecity.org/features/administration/)
-    * [Module: Children's Ministry](http://www.onthecity.org/features/childrens-ministry/)
-      * [Children's Ministry Gear](http://www.onthecity.org/features/childrens-ministry/gear/)
-    * [Module: Giving](http://www.onthecity.org/features/giving/)
-      * [Giving Module Gear](http://www.onthecity.org/features/giving/gear/)
-  * [Is this legit?](http://www.onthecity.org/is-this-legit/)
-    * [Proof in numbers](http://www.onthecity.org/is-this-legit/proof-in-numbers/)
-    * [Endorsements](http://www.onthecity.org/is-this-legit/endorsements/)
-    * [Case Studies](http://www.onthecity.org/is-this-legit/case-studies/)
-  * [Plans & Pricing](http://www.onthecity.org/pricing/)
-  * [FAQ](http://www.onthecity.org/faq/)
-  * [Resources](http://www.onthecity.org/resources/)
-    * [The City Blog](http://www.onthecity.org/resources/the-city-blog/)
-    * [City Conversations](http://www.onthecity.org/resources/city-conversations/)
-    * [Training](http://www.onthecity.org/resources/training/)
+For all visitors to its Sites, ACST collects general data pertaining to each website visitor, such as the visitor's IP address, operating system, browser type and version number, and the web pages viewed. This information is aggregated with all other visitor information.
 
+ACST collects personal information, which means information by which specific individuals can be identified, including name, identification number, mailing address, e-mail address, and other personal characteristics or attributes. ACST will process personal information collected from you fairly and lawfully and will not use such personal information for purposes that are incompatible with the purposes it was requested and received. For example, ACST will use your personal information to process orders; to help us to improve our Sites and ACST Software and your online experience; to provide you with information about our products and services; for ordering, customer support, payment, processing and service purposes; to transact business with us; for credit checks, collections and related billing or credit purposes; and as otherwise allowed by law.
 
+In addition to personal information you provide to us for the purpose of ordering products, you may provide financial information to us for the purpose of extending credit to you and/or selling products and services to you. This data is only used to process financial transactions and evaluate your credit worthiness, and is reviewed periodically as long as your account is active. It is shared with financial institutions as a normal course of doing business. Your account status and payment history is also reported to various credit reporting agencies.
 
-ACS Technologies Group, Inc.'s privacy and security policy covers all corporate and divisional information gathering and dissemination practices. THIS POLICY IS SUBJECT TO CHANGE FROM TIME TO TIME SO PLEASE CHECK BACK PERIODICALLY. ACS Technologies will not release, sell, or rent the personally identifiable information of its clients or prospects. We comply with all United States state and federal privacy and security laws.
+###  Sharing Your Personal Information
 
-  1. ###  Hosted & Web-Based Services
+ACST may share your personal information within our organization, with any ACST subsidiary worldwide, or with authorized third parties (e.g., business partners, suppliers and financial institutions) as described in this policy. We may also disclose information in response to subpoenas, governmental requests or other legal process or to otherwise protect our legal or contractual obligations. We will not sell or otherwise transfer your personal information to individuals or entities outside of us or one of our authorized partners or resellers without your approval.
 
-This section highlights our privacy practices for clients of ACS Technologies hosted and Web-based services and covers the following points:
+###  Cookies
 
-    * What personally identifiable information is collected and how the information is used
-    * With whom the personally identifiable information may be shared
-    * How privacy policy changes are communicated
-    * What choices are available to you regarding the communication you receive from us
-    * How you can correct any inaccuracies in your hosted services registration information
-    * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ACS Technologies’ control. If you have questions or concerns regarding this statement, you should first contact ACS Technologies Client Support at 1.800.669.2509.
+A cookie is a type of identifier sent from a website to your computer system via your web browser to provide tailored features. ACST uses cookies in order to secure and confirm your information when logging into partner access with your private login name and password. We do not use this information for any other purpose than to grant you access to secured specific reseller only website pages.
 
-####  Information Collection & Use
+###  E-mail Communications
 
-Several of ACS Technologies solutions require the client to use a Web-based registration form for clients to activate their service. We collect client contact information (such as first name, last name, phone number, email address, and username). Contact information from the registration form is used to create records in our database(s) that are necessary to establish the service, send information related to updates and revisions, and inform the client about pertinent information of their service.
+ACST may provide customers with promotional announcements for savings, rebates, product-related information, product updates, and product launches. These announcements can be stopped at any time by selecting the opt-out feature at the bottom of the e-mail; provided, however, this opt-out does not apply to non-promotional information provided to customers regarding their accounts or purchased product or services. We do not sell these e-mail lists to any of our business partners for any reason.
 
-ACS Technologies maintains the right to email/contact active clients for the purpose of administering services. For operational purposes, records created in some of our databases include the establishment of a password used in conjunction with the service username. Upon registration, username and password are communicated by email to the email address given on the registration form.
+###  Third Party Service: Promotions, Events and Webinars
 
-####  Client Forums
+From time to time, ACST may collect personal information for promotions, events and webinars. This information may be disclosed to our third-party partners for the limited purpose of awarding prizes and/or developing business opportunities.
 
-ACS Technologies is not responsible for any personal identification information that clients disclose through the use of ACS Technologies services or online forums. ACS Technologies strongly discourages forum participants from including personal identification information in their interaction with other clients.
+###  Blogs and other Forums
 
-####  Partners
+If you use a communication platform for content creation, sharing, or distribution on any of our Sites or using ACST Software, you should be aware that any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. These forums may be hosted by ACST, by our customers and/or by one of our third party service providers on ACST's behalf. ACST is not responsible, or liable to any customer or third party, for the substance or accuracy of any information or material posted by you or any other user of the ACTS Sites, ACST Software or communication platforms.
 
-ACS Technologies may share personally identifiable information with our partners for the purpose of providing the service. For example, we may use an outside shipping company or a credit card processing company to bill users for goods and services. We may partner with other parties to provide specific services. When a client places an order or signs up for a service, names or other contact information that is necessary to provide these services may be shared between the parties. These parties are not allowed to use personally identifiable information except for the purpose of providing their specific service(s).
+###  Communication Preferences and Reviewing Your Personal Information
 
-ACS Technologies does reserve the right to analyze the data in order to provide a better client experience and overall solution.
+You can manage your communication preferences by contacting us at acstechnologies.com or sending a letter to the mailing address below. When contacting us please include your name, e-mail address, and the details of your request. For example, if you wish to unsubscribe from a newsletter, include the name of the newsletter. You can also access and update your personal information by contacting us at acstechnologies.com or sending a letter to the mailing address below that includes you name, e-mail address, account ID and the purpose of the request.
 
-####  Notification of Changes
+###  Security of Your Personal Information
 
-If any changes are to be made in the privacy or security practices for our hosted and Web-based solutions, we will, 30 days prior to the changes taking effect, send a notification to the email address on record for the client and post the changes in our privacy statement on our corporate Web page.
+ACST operates secure data networks protected by industry standard security measures to protect your personal information from loss and misuse including, without limitation, firewalls, encryption, and password protection systems. ACST’s security and privacy policies are periodically reviewed and enhanced as necessary.
 
-####  Choice/Opt-Out
+###  Disclosure of your information to protect our rights or if required by law
 
-ACS Technologies provides users the opportunity to opt-out of receiving promotional communications from us. However, we maintain the right to communicate with active users about their account.
+Notwithstanding the foregoing, ACST reserves the right (and you authorize ACST) to share or disclose your personal information when ACST determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:
 
-####  Correct/Update
-
-ACS Technologies provides their clients with the means for maintaining an up-to-date client profile. Maintaining accurate records regarding the client's account information is vital to the security of the service. Clients are required to notify ACS Technologies promptly of any changes in the information provided for their service registration. Registration information can be updated by contacting the ACS Technologies Support Team at 1.800.669.2509 or by visiting the your ACS Technologies client portal Web page. Access to this website is secured by username and password.
-
-####  Security
-
-The following are overviews of ACS Technologies; security protection measures in place:
-
-#####  Account and Data Protection
-
-    * Your account is password protected.
-    * Individual account usernames are unique.
-    * Access to your account is limited to key support individuals and all change requests are logged.
-    * On occasion, clients who use ACS Technologies services may ask support individuals to retrieve their data from the server for purposes of supporting the services. While we strive to serve our clients in the most efficient way possible, security measures are taken into consideration. In these cases, clients must provide documented authorization approving these requests. Support individuals may use the username and password to retrieve the data.
-    * As representatives of ACS Technologies, Support individuals are bound to the services Service Agreement and the ACS Technologies Privacy and Security Policy. When support individuals leave the employment of ACS Technologies, immediate measures are taken so that they cannot access any ACS Technologies computer systems.
-
-#####  Network Protection
-
-    * Industry Standard Firewall is used with all activity limited to a two TCP port.
-    * All connections to ports are authenticated by valid account and password.
-    * Failed access attempts are logged and reviewed.
-    * Best operating system and database security practices are followed.
-    * Only software necessary to provide the service is running on the servers.
-
-#####  Physical Security
-
-    * Co-location sites have barriers with 24x7 security.
-    * Co-location equipment is locked in a facility with sensors and an alarm system.
-    * All visitors require pre-authorization and identification.
-    * Card access readers control access to the data facility.
-    * All access to computer equipment is logged.
-  2. ###  Data Services
-
-The Data Services Department does not and will not sell, rent, loan, or make available to any client or any other third party the names, addresses, or data received from our clients. Data received by the Data Services Department is held on a location to which only they have access. It is our standard operating procedure to keep a client’s data on that server for a period of six months after Data Services has completed their work on the client’s data. After six months, the data is deleted.
-
-  3. ###  Promotional / Marketing Services
-
-ACS Technologies collects certain information (such as name, email address, phone number, title, ministry goals, domination, attendance, etc.) through our online forms to better communicate new services and solutions that best fit the needs of your organization. All online forms alert recipients if the information collected will be used to contact you regarding your inquiry and ACS Technologies solutions
-
-At any time, you can choose to opt-out of these promotional emails by following the opt-out instructions at the bottom of the email you no longer wish to receive. You can also call Support at 1.800.669.2509 and request to be removed from all promotional communications or pick and chose which types you still want to receive such as support, training or product development announcements.
-
-Opt-out does not apply to the receipt of mandatory service communications that are considered part of certain ACS Technologies services, which you may receive periodically unless you cancel the service.
-
-  4. ###  Governing Laws
-
-**This Privacy Policy and your rights and ACS Technologies' responsibilities hereunder are governed by the laws of the State of South Carolina** and federal United States law, as may be applicable to disputes solely between South Carolina State residents concerning subject matter located entirely within the State of South Carolina. In the event of any dispute involving this Privacy Policy, you agree to submit to personal and exclusive jurisdiction of the state and federal courts located in the State South Carolina, Florence County.
+  * To enforce our rights against you or in connection with a breach by you of this Privacy and Security Policy or the acstechnologies.com Terms of Use;
+  * To prevent prohibited or illegal activities; or
+  * When required by any applicable law, rule regulation, subpoena or other legal process.
 
 
 
+###  Data may be transferred upon change of control
+
+Personal information may be transferred to a third party as a result of a sale, acquisition, merger, reorganization or other change of control. If we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will be asked if you'd like to stop receiving promotional information following any change of control.
+
+###  Transport or deletion of data
+
+Your data belongs to you. You can remove it anytime you want and you should remove it just prior to requesting us to delete your account. When you request us to stop using the Sites or ACST Software, your data may be permanently expunged from our primary production servers and further access to your account may not be possible. We will also promptly disconnect any connection we had established to your account information and delete all account credentials. However, portions of your data, consisting of aggregate data derived from your account information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. ACST keeps these backups to ensure our continued ability to provide services to you in the event of malfunction or damage to our primary production servers. We also reserve the right to use any aggregated or anonymous data derived from or incorporating your personal information. If you have special requirements, please send ACST a written request for consideration, and ACST may be able to accommodate your needs for an additional charge.
+
+###  Children's Privacy
+
+In accordance with ACST’s Terms of Use and Service, we cannot prohibit minors from visiting ACST sites. We must rely on parents, guardians and those responsible for supervising children under 13 to decide which materials are appropriate for such children to view, participate, upload to the Sites, and/or purchase. We require that all usage of the Sites be made by individuals 13 years of age or older. EACH TIME YOU USE ONE OR MORE OF THE SITES, YOU ARE REPRESENTING TO ACST AND THE SITES THAT YOU ARE AN INDIVIDUAL 13 YEARS OF AGE OR OLDER. If it becomes necessary to collect the personal information of children under the age of 13, we must receive verifiable parental consent prior to collection. If we learn that we have collected children's personal information without parental consent, we will delete it from our systems.
+
+###  Maintaining of confidentiality of Login ID and Password
+
+We maintain strict rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-16 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at acstechnologies.com, but in any event you should change your password immediately. We are not responsible if someone else accesses your account through information they have obtained from you or through a violation by you of this Privacy and Security Policy or the ACST Terms of Use and Service.
+
+###  Governing Law
+
+This Privacy and Security Policy and your rights and ACST’s responsibilities hereunder are governed by the laws of the State of South Carolina. In the event of any dispute involving this Privacy and Security Policy, you agree to submit to personal and exclusive jurisdiction of the state and federal courts located in Florence County, South Carolina.
+
+###  Updates to Privacy and Security Policy
+
+We update this Privacy and Security Policy periodically. The date last revised appears at the top of the Policy. Changes take effect immediately upon posting.
+
+###  How to Contact Us
+
+You can contact ACST by contacting us at acstechnologies.com or by sending a letter to the mailing address listed below. Please include your contact information, name of ACST web site or service, and a detailed description of your request or privacy concern. If a client, you may also contact us by phone by calling ACS Technologies Client Support at 1-800-669-2509.
+
+**ACS Technologies Group, Inc.,** 180 Dunbarton Drive, Florence, SC 29501, United States
