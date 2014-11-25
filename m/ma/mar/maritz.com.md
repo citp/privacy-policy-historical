@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513021038id_/http%3A//www.maritz.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125233719id_/http%3A//www.maritz.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,8 +36,6 @@ We will make a sincere effort to respond in a timely manner to any request to co
 
 We are not responsible for the privacy practices or the content of any other websites to which we link and you should review the privacy policy at each site before providing any information.
 
-A cookie is a small string of text that a web site can send to your browser. Cookies were designed to assist in distinguishing a user's browser from a previous visitor by saving and remembering any preferences that may have been set while browsing the particular site. We may use "cookie" or other technologies now or in the future to tailor our website to your interests based on the items you review while visiting our site; such technologies may also be used by us for other purposes related to your visit to our site or to further our business purposes.
-
 Use of Cookies and Other Technologies
 
 A cookie is a small string of text that a web site can send to your browser. Cookies were designed to assist in distinguishing a user's browser from a previous visitor by saving and remembering any preferences that may have been set while browsing the particular site. We may use "cookie" or other technologies now or in the future to tailor our website to your interests based on the items you review while visiting our site; such technologies may also be used by us for other purposes related to your visit to our site or to further our business purposes.
@@ -69,7 +67,7 @@ Definitions
 
 Notice
 
-Maritz collects personal data from and about individuals for use generally in connection with the operation of its business. Such personal data may be used by Maritz to provide incentive, performance improvement, loyalty marketing, learning, travel, market research, or other goods and services to its clients. In addition, Maritz may use personal data in order to properly manage the employment or contractor relationship with the individual that is the subject of such data.Maritz may disclose personal data to third parties when such disclosure is necessary or appropriate for Maritz' provision of such services to its clients or otherwise for Maritz' operation of its business. Maritz may also disclose personal data to third parties in circumstances described in the "Onward Transfer to Third Parties" section below.
+Maritz collects personal data from and about individuals for use generally in connection with the operation of its business. Such personal data may be used by Maritz to provide incentive, performance improvement, loyalty marketing, learning, travel, market research, or other goods and services to its clients. In addition, Maritz may use personal data in order to properly manage the employment or contractor relationship with the individual that is the subject of such data. Maritz may disclose personal data to third parties when such disclosure is necessary or appropriate for Maritz' provision of such services to its clients or otherwise for Maritz' operation of its business. Maritz may also disclose personal data to third parties in circumstances described in the "Onward Transfer to Third Parties" section below.
 
 Any complaints or questions should be directed to Maritz' Chief Privacy Officer, Derek C. Mays, whose contact information is as follows: 1375 N. Highway Drive, Fenton, Missouri 63099; derek.mays@maritz.com; telephone (636) 827-2170.
 
