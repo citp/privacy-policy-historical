@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asamanthinketh.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630085156id_/http%3A//www.asamanthinketh.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asamanthinketh.net privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020735id_/http%3A//asamanthinketh.net/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
