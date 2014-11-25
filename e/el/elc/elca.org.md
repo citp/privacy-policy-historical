@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417013819id_/http%3A//elca.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125081551id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evangelical Lutheran Church in America
 
@@ -29,6 +29,22 @@ In order to collect the anonymous data described in the preceding paragraph, the
 
 In order for certain applications on the ELCA’s Web sites to function properly, if at all, it is necessary for your computer to accept cookies.
 
+**Google Analyitics**
+
+Evangelical Lutheran Church of America (ELCA) uses all features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our website. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing.
+
+ELCA uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
+
+ELCA and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitor’s past visits to our website.
+
+We take our users’ privacy very seriously. We feel that certain personal information should always be kept private, so we’ve developed restrictions around the types of ads where we don’t allow remarketing. When creating remarketing lists, we can’t use any sensitive information about users. 
+
+As adwords advertisers, we are restricted from and will not perform the following actions:  
+(a) Running ads that collect Personally Identifiable Information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers  
+(b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as “prohibited” in the categories below.
+
+Visitors can opt out of Google Analytics for [Display Advertisers](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCiDv0hDUlId583BUnd1cDcHU5sCAZJgW5IuATvR0flHD-NvnofQ5GEo36eD9-Ux-3c_PcAYcCBJPjYsWrl8mF0TZ_74sm_2WSRoQTOHFKdBjj-gmEeVPaHbAYZQuhk-_oEgIElv726BtFCmdi14liK4qLT2woav2kgU9B-JrdOe5BUQUMs), opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.networkadvertising.org/choices/) or may visit their own internet provider’s information on opting out. 
+
 **Children  
 **The ELCA does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to the ELCA, please contact us, and we will endeavor to delete that information from our databases. As we develop online programs for children, we will adopt appropriate policies and practices to protect the privacy of children.
 
@@ -39,4 +55,4 @@ In order for certain applications on the ELCA’s Web sites to function properly
 **This privacy policy forms part of our Web site [Terms and Conditions](https://web.archive.org/en/About/Terms-and-Conditions) and as such shall be governed by and construed in accordance with the laws of the State of Illinois.
 
 **Questions About Our Privacy Policy**  
-If you have any questions about this privacy policy or concerns about the way the ELCA uses personal data, please email.
+If you have any questions about this privacy policy or concerns about the way the ELCA uses personal data, please [ email](http://www.elca.org/tools/secure_emailer?a=aW5mb0BlbGNhLm9yZw==&b=SW5mbw==&subject=Info&body=).
