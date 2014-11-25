@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the pageaday.com privacy policy that was archived on 2014-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140427000453id_/http%3A//www.pageaday.com/about/terms-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pageaday.com privacy policy that was archived on 2014-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125203944id_/http%3A//www.pageaday.com/about/terms-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <title>Terms / Privacy - Page-A-Day</title>
 <meta name="description" content="Terms of Use and Privacy Policy for the official Page-A-Day website - Workman Publishing, New York">
 <meta name="keywords" content="calendar, page-a-day, page a day, pageaday, workman, Workman Publishing, terms of use, privacy policy">
 <link rel="author" href="/humans.txt">
-<link rel="stylesheet" href="//a.pageaday.com/css/style.2014012102.css">
+<link rel="stylesheet" href="//a.pageaday.com/css/style.2014112200.css">
 <link rel="alternate" type="application/atom+xml" title="Page-A-Day Blog Post Feed" href="/blog/atom">
-<script src="//ssl.google-analytics.com/ga.js"></script><script src="//www.google-analytics.com/analytics.js"></script><script src="//a.pageaday.com/js/modernizr.js"></script>
+<script src="//ssl.google-analytics.com/ga.js"></script><script src="//www.google-analytics.com/analytics.js"></script><script src="//a.pageaday.com/js/modernizr.20140729.js"></script>
 <!--[if lt IE 9]>
 <script src="//a.pageaday.com/js/respond.min.js"></script>
 <link href="//a.pageaday.com/js/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
@@ -25,15 +24,22 @@ var PAD = PAD || {}; PAD.siteURL = 'http://www.pageaday.com'; PAD.sslURL = 'http
 Modernizr.load([{
     load: '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js',
         complete: function () {
-            if (!window.jQuery) {Modernizr.load('//a.pageaday.com/js/jquery-1.10.2.min.js');}
+            if (!window.jQuery) {
+                Modernizr.load(PAD.assetURL + '/js/jquery-1.10.2.min.js');
+            }
         }
 }
 ,{
-    load: '//a.pageaday.com/js/lib-min.2013121100.js'
+    load: PAD.assetURL + '/js/lib-min.2014112200.js'
 }
 ,{
-    load: '//a.pageaday.com/js/script-min.2014012108.js'
+    load: PAD.assetURL + '/js/script-min.2014112200.js'
 }
+
+,{
+    load: PAD.assetURL + '/js/store-min.2014112200.js'
+}
+
 
 ,{
     load: '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-527bd8da1e5d252d'
@@ -57,6 +63,9 @@ Modernizr.load([{
 
 
 
+    
+
+    
 
 
 
@@ -64,7 +73,8 @@ Modernizr.load([{
 
 
 
-<div class="mastwrap"><div class="masthead">
+
+<div class="mastwrap"><div class="masthead" itemscope="" itemtype="http://schema.org/WebSite"><meta itemprop="url" content="http://www.pageaday.com/">
     <header role="banner">
         <h1><a href="http://www.pageaday.com" class="ir">Page-A-Day</a></h1>
     </header>
@@ -84,7 +94,7 @@ Modernizr.load([{
         
         </ul>
     </nav>
-    <form id="search" class="search_form" method="post" action="http://www.pageaday.com/">
+    <form id="search" class="search_form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="post" action="http://www.pageaday.com/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="67">
 <input type="hidden" name="params" value="eyJyZXF1aXJlZCI6ImtleXdvcmRzIiwicmVzdWx0X3BhZ2UiOiJzZWFyY2hcL2luZGV4IiwiZm9yY2VfcHJvdG9jb2wiOiJodHRwIn0">
@@ -92,13 +102,14 @@ Modernizr.load([{
 </div>
 
 
-        <input type="search" name="keywords" class="keywords" value="SEARCH" onfocus="if(this.value==='SEARCH'){this.value='';}" onblur="if(this.value===''){this.value='SEARCH';}">
+		<meta itemprop="target" content="http://www.pageaday.com/search?kewyords={keywords}">
+        <input type="search" name="keywords" class="keywords" value="" placeholder="SEARCH" itemprop="query-input">
         <input type="submit" name="submit" class="submit" value="">
     </form>
     <nav class="util" role="navigation">
         <h4 class="visuallyhidden">Member Accounts Menu</h4>
         <span class="sess">
-            <a href="https://www.pageaday.com/account/calendars" class="cal">My Calendars</a>
+            <a href="https://www.pageaday.com/account/calendars" class="cal calpop_open">My Calendars</a>
             <a href="https://www.pageaday.com/account" class="ir acct">My Account</a>
         </span>
         <span class="nosess">
@@ -146,7 +157,12 @@ Modernizr.load([{
 
         
                 
-    <li class="on last nav2_2"><a href="http://www.pageaday.com/about/terms-privacy" title="Terms of Service / Privacy Policy">Terms / Privacy</a></li>
+    <li class=" nav2_2"><a href="http://www.pageaday.com/about/store-policies" title="Store Policies, Shipping and Returns Info">Store Policies</a></li>
+            
+
+        
+                
+    <li class="on last nav2_3"><a href="http://www.pageaday.com/about/terms-privacy" title="Terms of Service / Privacy Policy">Terms / Privacy</a></li>
             
 
 
@@ -183,13 +199,14 @@ Modernizr.load([{
 </div>
 
 
+
 <script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 e.src='//www.google-analytics.com/analytics.js';
 r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-ga('create','UA-2964068-40', {'cookieDomain': 'www.pageaday.com'});ga('send','pageview');
+ga('create','UA-2964068-40', {'cookieDomain': 'www.pageaday.com'});ga('send','pageview');ga('require', 'linker');ga('linker:autoLink', ['cart.pageaday.com']);
 </script>
 
 
