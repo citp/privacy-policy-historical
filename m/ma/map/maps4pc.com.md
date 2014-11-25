@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maps4pc.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012152041id_/http%3A//maps4pc.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maps4pc.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125091120id_/http%3A//maps4pc.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Maps4pc - Privacy Policy
 
