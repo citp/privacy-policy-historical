@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestop.ie privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616220801id_/http%3A//www.gamestop.ie/Help/Index/%3Fsection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.ie privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125140839id_/http%3A//www.gamestop.ie/Help/Index/%3Fsection%3DPrivacy) for the most accurate reproduction.*
 
 # 
 
@@ -140,8 +140,8 @@ Our Website may contain links that permit you to link to other websites or Inter
 
 If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:
 
-Email: info@gamestop.co.uk (please read the Important Reminder below)  
-You may contact our Privacy Compliance Manager or a member of the senior management team by calling +353 1 813 5350 or you can contact us in writing addressed to GameStop Ltd., Estuary House, Swords Business Park, Co. Dublin, IRELAND
+Email: hello@gamestop.ie (please read the Important Reminder below)  
+You may contact our Privacy Compliance Manager or a member of the senior management team by calling +353 76 680 5877 or you can contact us in writing addressed to GameStop Ltd., Estuary House, Swords Business Park, Co. Dublin, IRELAND
 
 We will respond to your request or investigate your concern as quickly as we can, but no later than 40 days from the date of receipt of your query.
 
@@ -151,6 +151,6 @@ Important Reminder about email communications: Please remember that email sent o
 GAMESTOP, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES, SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES, INCLUDING WITHOUT LIMITATION, REASONABLE LEGAL FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY STATEMENT AND YOUR CONSENTS.
 
 Will this Privacy Policy change?  
-Last Update: 2012-05-22
+Last Update: 10-11-2014
 
 To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.
