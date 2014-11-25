@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the graspskills.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619010522id_/http%3A//graspskills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graspskills.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125014358id_/http%3A//www.graspskills.com/privacy-policy) for the most accurate reproduction.*
 
-# GraspSkills
+# Privacy Policy | GraspSkills
 
-## Privacy Policy
-
- **Graspskills Training & Consulting: Web site Privacy Policy for <http://www.graspskills.com/>**
+**Graspskills Training & Consulting: Web site Privacy Policy for <http://www.graspskills.com/>**
 
 **What information do we collect?**
 
