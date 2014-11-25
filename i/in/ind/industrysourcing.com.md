@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysourcing.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525065710id_/http%3A//www.industrysourcing.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysourcing.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125152928id_/http%3A//www.industrysourcing.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy - Industry Sourcing for manufacturers, suppliers, machinery, materials, industrial equipment, news & information
 
@@ -12,6 +12,8 @@ By accessing and using this Site, you hereby agree to the terms of this Privacy 
 In order to respond to your questions, to fulfil your requests or to manage interactive functions like submitting magazines/e-newsletters, conference registration/comments etc., it may be necessary to ask for personal information.This may include your name, address, e-mail address and telephone number. We may use this information to respond to your requests or to contact you via mail, e-mail or phone to inform you of new services or promotions we may offer. If you place a request for a product or a supplier, request a service or submit content to this site, we may need to contact you for additional information required to process your request. However, unless compelled by applicable legislation, we will not provide this information to a third party without your permission, except if necessary to answer your questions, to fulfil your requests or to manage interactive functions. You also hereby grant to Ringier Trade Media Ltd. the right to exchange any information provided by you between Ringier Trade Media Ltd.'s affiliates for the purposes mentioned before.
 
 In addition to the personal information that you may provide us, this Site may use technology that lets us collect certain technical information like your Internet protocol address, your computer's operating system, your browser type, traffic patterns and the address of any referring websites.
+
+If you want to Unsubscribe our enewsletter,please write email to us with edm@ringiertrade.com.
 
 ##  Security
 
@@ -28,3 +30,6 @@ From time to time, information may be placed on your computer to allow us to ide
 ##  Changes
 
 We may change this Privacy Policy, or change, modify or withdraw access to this Site or the content of these pages at any time with or without notice.
+
+Copyright： Industrysourcing.cn，Industrysourcing.com are owned by Ringier Trade Media Ltd.  
+Company Address:9/F., Cheong Sun Tower,118 Wing Lok Street,Sheung Wan,Hong Kong 
