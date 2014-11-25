@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134144id_/http%3A//www.allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125041107id_/http%3A//www.allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
 
 # Hittin' The Web with The Allman Brothers Band :: Where Music Plus Friends Equals Family
 
@@ -9,7 +9,7 @@ We don’t ask you for personal information unless we truly need it. We don’t 
 
 If you have questions about deleting or correcting your personal data please contact us at webmaster at hittintheweb dot com.
 
-**Hittin' The Web Group** operates several websites including [allmanbrothersband.com](http://www.allmanbrothersband.com/), [greggallman.com](http://www.greggallman.com/), [dickeybetts.com](http://www.dickeybetts.com/), [duaneallman.com](http://www.duaneallman.com/), and [winediningfun.com](http://www.winediningfun.com/). It is **Hittin' The Web Group** ’s policy to respect your privacy regarding any information we may collect while operating our websites.
+**Hittin' The Web Group** operates several websites including [allmanbrothersband.com](http://www.allmanbrothersband.com/), [greggallman.com](http://www.greggallman.com/), [dickeybetts.com](http://www.dickeybetts.com/), [duaneallman.com](http://www.duaneallman.com/), [peachcorps.com](http://www.peachcorps.com/), [winerefrigeratorguide.com](http://www.winerefrigeratorguide.com/), and [winediningfun.com](http://www.winediningfun.com/). It is **Hittin' The Web Group** ’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
