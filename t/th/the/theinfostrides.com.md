@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinfostrides.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122559id_/http%3A//www.theinfostrides.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfostrides.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125110019id_/http%3A//www.theinfostrides.com/terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms | The InfoStrides
 
@@ -66,7 +66,7 @@ Please do not pay to any organization that claims to be The InfoStrides. We neit
 
 Employers or agencies that ask for money, are fake and do not exist. They are scammers and fraudsters: none of these forms of requests originate from either our site or that of any of our affiliates. These sorts of scams may be a part of the notorious Advance Fee Fraud, popularly known as 419. Please beware and be careful!!!
 
-**NB:**  If you were asked to pay through any of the information provided on our website, please [Contact Us](http://www.theinfostrides.com/contact-us/ "Contact Us") or post it on the [forum](http://www.theinfostrides.com/forum/ "The InfoStrides Forum").
+**NB:**  If you were asked to pay through any of the information provided on our website, please [Contact Us](http://www.theinfostride.com/contact-us/ "Contact Us") or post it on the [forum](http://www.theinfostride.com/forum/ "The InfoStrides Forum").
 
 ### Links To Other Websites
 
@@ -77,13 +77,13 @@ Our website may contain links to other websites of interest. However, once you
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing](http://www.theinfostrides.com/contact-us/ "Contact Us") to or [emailing us](http://www.theinfostrides.com/contact-us/ "Contact Us").
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing](http://www.theinfostride.com/contact-us/ "Contact Us") to or [emailing us](http://www.theinfostride.com/contact-us/ "Contact Us").
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you. If you would like a copy of the information held on you please [Contact Us](http://www.theinfostrides.com/contact-us/ "Contact Us").
+You may request details of personal information which we hold about you. If you would like a copy of the information held on you please [Contact Us](http://www.theinfostride.com/contact-us/ "Contact Us").
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
