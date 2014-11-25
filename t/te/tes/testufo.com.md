@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testufo.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503083808id_/http%3A//www.blurbusters.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testufo.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020559id_/http%3A//www.blurbusters.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blur Busters
 
@@ -29,7 +29,7 @@ To process transactions, including mailing a product.
 
 To administer a contest, promotion, survey or other site feature.
 
-To send periodic emails. The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. In addition, signing up for Blur Busters comments and forums requires registration confirmation emails. Also, the comment and forum system also sends reply notification emails. Notification settings are configurable via ’Edit My Profile’ page (for www.blurbusters.com) and ‘User Control Panel’ (for forums.blurbusters.com).
+To send periodic emails. The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. In addition, signing up for Blur Busters comments and forums requires registration confirmation emails. Also, the comment and forum system also sends reply notification emails. Notification settings are configurable via ‘Edit My Profile’ page (for www.blurbusters.com) and ‘User Control Panel’ (for forums.blurbusters.com).
 
 ### **How do we protect your information?**
 
@@ -67,7 +67,4 @@ This policy was last modified on January 3rd, 2014.
 
 If there are any questions regarding this privacy policy, please contact squad@blurbusters.com.
 
-Blur Busters — a part of Rejhon Technologies Inc. – Toronto, Ontario, Canada
-
-  
-
+Blur Busters — a part of Rejhon Technologies Inc. — Toronto, Ontario, Canada
