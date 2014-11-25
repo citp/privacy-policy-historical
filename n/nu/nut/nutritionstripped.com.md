@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionstripped.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071113id_/http%3A//nutritionstripped.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstripped.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125112903id_/http%3A//nutritionstripped.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
