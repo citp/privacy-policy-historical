@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the makesparties.com privacy policy that was archived on 2013-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130118042653id_/http%3A//www.4funparties.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the makesparties.com privacy policy that was archived on 2014-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125013024id_/http%3A//www.4funparties.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,11 +10,20 @@ We feature decorations, occasion gifts and favors. Plus, we offer the largest se
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
+<link rel="canonical" href="http://www.4funparties.com/terms_privacy.asp">
+		
 
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
-<link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
 
+<link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
+
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 	var Config_VCompare_MaxProducts = '3';
@@ -29,7 +38,30 @@ We feature decorations, occasion gifts and favors. Plus, we offer the largest se
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.84.1.1142"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -42,7 +74,7 @@ We feature decorations, occasion gifts and favors. Plus, we offer the largest se
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.84.1.1142"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -64,9 +96,34 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 
 
 <!-- =================Analytics ==================== -->
+<!-- Google Analytics Content Experiment code -->
+<script>
+if(window.location.href.indexOf("SearchResults.asp") > -1) {
+function utmx_section(){}function utmx(){}(function(){var
+k='33999081-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+}
+</script>
+<script>
+if(window.location.href.indexOf("SearchResults.asp") > -1) {
+	utmx('url','A/B');
+}
+</script>
+<!-- End of Google Analytics Content Experiment code -->
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-17100790-1']);
+  _gaq.push(['_setDomainName', '4funparties.com']);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
 
@@ -76,6 +133,21 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+
+<script type="text/javascript">
+var mr_jsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + mr_jsHost + "cdn.mercent.com/js/tracker.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://cdn.mercent.com/js/tracker.js" type="text/javascript"></script> 
+
+<script type="text/javascript"> 
+try{
+<!-- 
+mr_merchantID = "4FunParties";
+//mr_cookieDomain = ".yourdomain.com";
+mr_Track();
+// --> 
+} catch(err) {}
 </script>
 
 <!-- =================END Analytics ==================== --> 
@@ -104,7 +176,7 @@ Date: AUGUST 2011
 	</div>
     
   <div id="phone_wrap">
-    Call Us Toll Free: 1-888-4FUN-PTY
+  <a href="#bf2014" style="text-decoration : none; color : #FFFFFF;">“Black Friday Starts Now – Save up to 35% Storewide – Click for Promo Code”</a>    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Call Us Toll Free: 1-888-438-6789
   </div>
 <!-- ======================== SHOPPING CART DISPLAY
     <div id="cart_wrapper">
@@ -150,6 +222,9 @@ function mClk1(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/Themes_s/1867.htm" title="Themes">Themes</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.4funparties.com/Clearance_s/2366.htm" title="Clearance">Clearance</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/MailingList_subscribe.asp" title="">Newsletter Sign Up</a>
@@ -230,11 +305,11 @@ function mSubClk3(src, popup)
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Candy_s/1870.htm" title="Candy">Candy</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Balloons_Accessories_s/1947.htm" title="Balloons Accessories">Balloons &amp; Accessories</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Balloons_Accessories_s/1947.htm" title="Balloons Accessories">Balloons &amp; Accessories</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Candy_s/1870.htm" title="Candy">Candy</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
@@ -258,15 +333,15 @@ function mSubClk3(src, popup)
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Toys_s/1948.htm" title="Toys">Party Favors</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Jewelry_s/1950.htm" title="Jewelry">Jewelry</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Masks_Sunglasses_s/1875.htm" title="Masks Sunglasses">Masks &amp; Sunglasses</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Masks_s/2358.htm" title="Masks">Masks</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Noise_Makers_s/1876.htm" title="Noise Makers">Noise Makers</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Noise_Makers_s/1876.htm" title="Noise Makers">Noisemakers</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
@@ -274,7 +349,11 @@ function mSubClk3(src, popup)
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Plasticware_s/1949.htm" title="Plasticware">Plasticware</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Toys_s/1948.htm" title="Toys">Party Favors</a>
+</td></tr>
+	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
+<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Photo_Booth_s/2365.htm" title="Photo Booth">Photo Booth</a>
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
@@ -282,7 +361,7 @@ function mSubClk3(src, popup)
 </td></tr>
 	<tr><td><img src="/v/vspfiles/templates/207/images/template/menu3_divider.gif" alt=""></td></tr>
 <tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Jewelry_s/1950.htm" title="Jewelry">Jewelry</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Party_Sunglasses_s/1875.htm" title="Party Sunglasses">Sunglasses</a>
 </td></tr>
 </tbody></table>
 </div>   
@@ -305,37 +384,56 @@ function mSubClk4(src, popup)
 </script>
 <table cellpadding="0" cellspacing="0" border="0" class="nav">
 <tbody><tr><td class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Clearance_Decorations_s/1884.htm" title="Clearance Decorations">Clearance Decorations</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Birthday_Clearance_s/2367.htm" title="Birthday Clearance">Birthday Clearance</a>
 </td></tr>
 <tr><td class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Clearance_Paper_Goods_s/1881.htm" title="Clearance Paper Goods">Clearance Paper Goods</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Holiday_Clearance_s/2380.htm" title="Holiday Clearance">Holiday Clearance</a>
 </td></tr>
 <tr><td class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Clearance_Party_Items_s/1883.htm" title="Clearance Party Items">Clearance Party Items</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Party_Basics_Clearance_s/2391.htm" title="Party Basics Clearance">Party Basics Clearance</a>
 </td></tr>
 <tr><td class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);">
-<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Clearance_Toys_Favors_s/1882.htm" title="Clearance Toys Favors">Clearance Toys &amp; Favors</a>
+<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Party_Theme_Clearance_s/2371.htm" title="Party Theme Clearance">Party Theme Clearance</a>
+</td></tr>
+<tr><td class="nav" onmouseover="mOvr4(this);" onmouseout="mOut4(this);" onclick="mClk4(this);">
+<img src="/v/vspfiles/templates/207/images/Template/Menu4_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.4funparties.com/Special_Occasions_Clearance_s/2395.htm" title="Special Occasions Clearance">Special Occasions Clearance</a>
 </td></tr>
 </tbody></table>
 </div>   
 
         
                 
-        <!--div id="DropDown_ShopBy_Manufacturer" param_defaultvalue="Shop By Brand">
-        <select><option>Shop By </option></select></div-->
-        <!--div id="DropDown_ShopBy_Price" param_defaultvalue="Shop By Price">
-        <select><option>Shop By </option></select></div-->
-        <!--div id="DropDown_ShopBy_Category" param_category="X" param_defaultvalue="Shop By Category">
-        <select><option>Shop By </option></select></div-->
+        
+        <!--<div id="DropDown_ShopBy_Price"><script type="text/javascript">
+function DropDown_ShopBy_Price_onChange(arg_value) {
+	if (arg_value !== "") {
+	window.location.href = '/SearchResults.asp?RefineBy_Price=' + arg_value;
+	}
+}
+</script>
+<form name="shopbyprice" method="get" action="">
+<select name="lowpricedropdown" onChange="DropDown_ShopBy_Price_onChange(this.options[lowpricedropdown.selectedIndex].value)">
+<option value="" selected>Shop By Price</option>
+<option value="0-25">$0 - $25</option><option value="25-50">$25 - $50</option><option value="50-100">$50 - $100</option><option value="100-250">$100 - $250</option><option value="250-500">$250 - $500</option><option value="500-">$500 and up</option></select></form></div>
+        <div id="DropDown_ShopBy_Category"><script type="text/javascript">
+function DropDown_ShopBy_Category_onChange(arg_value) {
+	if (arg_value !== "") {
+	window.location.href = arg_value;
+	}
+}
+</script>
+<form name="ShopByCategory_X" method="get" action="">
+<select name="mfg" onChange="DropDown_ShopBy_Category_onChange(this.options[mfg.selectedIndex].value)">
+<option value="" selected>Shop By Category</option>
+</select></form></div>-->
             
-        <div id="display_promotions_999"><div align="center">
-<form name="MailingList" method="post" action="/MailingList_subscribe.asp">
-<span style="font-weight: bold; color: black;"><img alt="" src="/v/vspfiles/assets/images/10offside.jpg" align="" border="0"><br><br>Join our mailing 
-list!</span><br>
-<input style="font-size: 11px;" name="emailaddress" size="19" maxlength="50" type="text">
-<div align="center"><input name="Submit" value="Submit" type="submit"></div>
-</form>
-</div><br><img src="/v/vspfiles/assets/images/credit_card_logos_43.jpg" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.4funparties.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br></div>
+        <div id="display_promotions_999"><a name="bf2014"><img alt="" src="/v/vspfiles/assets/images/bfleft14.jpg" align="" border="0"></a><br><br><img src="/v/vspfiles/assets/images/credit_card_logos_43.jpg" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.4funparties.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><img alt="" src="/v/vspfiles/assets/images/allsoc.jpg" usemap="#Map" border="0" height="85" width="180" align=""> 
+<map name="Map">
+  <area shape="rect" coords="8,21,61,80" href="http://www.facebook.com/4FunParties?filter=1" target="_blank">
+  <area shape="rect" coords="67,21,120,84" href="http://www.twitter.com/4FunParties" target="_blank">
+  <area shape="rect" coords="125,20,172,80" href="http://www.pinterest.com/4funparties/" target="_blank">
+</map><div id="VolusionVerified"></div>
+                                <script type="text/javascript" src="https://verify.volusion.com/verification/www.4funparties.com" defer="defer"></script></div>
         
       </div>
       <div id="content_area">
@@ -346,6 +444,7 @@ list!</span><br>
 
 <b>Privacy Policy</b><br>
 <br>
+<div id="div_articleid_5">
 <span style="font-weight: bold;">What information do we collect?</span><br><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li><li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><span style="font-weight: bold;">How do we use your information?</span><br><br>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<ul><li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To quickly process your transactions.</li><li>To administer a contest, promotion, survey or other site feature.</li><li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li></ul><br><span style="font-weight: bold;">How do we protect visitor information?</span><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.<br><br><br><span style="font-weight: bold;">Do we use "cookies"?</span><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to 
 serve ads to you based on your visit to our sites and/or other 
 sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the<a href="http://www.google.com/ads/preferences/" target="_blank"> ads preference manager</a>.<br>Alternatively, you can direct users to opt out of a third-party 
@@ -353,7 +452,7 @@ vendor's use of cookies for interest based advertising by visiting <a href="http
 
 
 	  
-          </td>
+          </div></td>
         </tr>
 </tbody></table>
 
@@ -393,7 +492,7 @@ vendor's use of cookies for interest based advertising by visiting <a href="http
 ===============================================================================================
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement. -->   
 
-<p>Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a> Ecommerce Shopping Cart Software.</p>
+<p>Built with <a href="http://www.volusion.com" target="_blank" rel="nofollow">Volusion</a></p>
 <!-- ===========================================================================================
       VOLUSION LINK - END
 ============================================================================================ -->
