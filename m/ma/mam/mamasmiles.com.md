@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamasmiles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075251id_/http%3A//mamasmiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasmiles.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125060742id_/http%3A//www.mamasmiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mama Smiles - Joyful Parenting
+# Privacy Policy - Mama Smiles
 
 **What information do we collect?**
 
@@ -68,4 +68,4 @@ http://mamasmiles.com
 
 mamasmilesblog at gmail dot com
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority. 
