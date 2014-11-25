@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607175126id_/http%3A//www.creationent.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125163934id_/http%3A//www.creationent.com/privacy.htm) for the most accurate reproduction.*
 
-# Creation Entertainment - Star Trek - Stargate SG-1 - Xena - LOTR - Conventions & Merchandise
+# Creation Entertainment - Supernatural The Television Series - The Vampire Diaries - Star Trek - Stargate SG-1 - Xena - The Twilight Saga - Conventions & Merchandise
 
 www.creationent.com ("Creation Entertainment") is committed to respecting the privacy rights of all visitors to our Web site. The following policy describes how Creation Entertainment seeks to assure its visitors, and the parents of children visiting the site, how it protects information it receives from visitors to the Web site: 
 
