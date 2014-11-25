@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webresint.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617132301id_/http%3A//www.webresint.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webresint.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125114018id_/http%3A//www.webresint.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Web Reservations International
 
@@ -12,7 +12,7 @@ WRI fully respects your right to privacy, and will not collect any personal info
 
 We will not collect any personally identifying information about you when you visit our website unless you choose to provide that information to us. The information we collect depends on what you do when visiting our website. 
 
-If you visit our site to browse, read or download we automatically collect and store information about your use of the site through certain cookies that are set. Please refer to our Cookies Policy, which is available [here](https://web.archive.org/web/20140617132301id_/http%3A//www.webresint.com/cookie_policy.html) for further information.
+If you visit our site to browse, read or download we automatically collect and store information about your use of the site through certain cookies that are set. Please refer to our Cookies Policy, which is available [here](https://web.archive.org/web/20141125114018id_/http%3A//www.webresint.com/cookie_policy.html) for further information.
 
 If you click on the “Sign Up” or “Learn More” links in the “Work with us section” you will be directed to another WRI group company website. Any personal data you provide to us through the external site will be used solely for the purposes of dealing with your application to sign up to a WRI service. Any further processing of your personal data provided during the application process will be in accordance with the terms and conditions that govern the particular service you have applied for. 
 
