@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628070231id_/http%3A//www.inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125113951id_/http%3A//www.inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – In the Powder Room
+# Privacy Policy
 
 ### Your Privacy and the Security of Your Personal Information Is Very Important to Us
 
@@ -70,7 +70,7 @@ This website may also contain links to sites that display www.inthepowderroom.co
 
 ##### **Contact Preferences and Accessing Your Personal Information**
 
-You have choices when it comes to how HMPP uses your personal information. When you register online with www.inthepowderroom.com, you can choose not to receive information about our services, content and or special promotional items from us by direct mail and/or e-mail. If you elect not to receive such information by direct mail or e-mail, HMPP may continue to contact you as necessary to service your account. [You can change your contact preferences at any time by following the instructions for "My Powder Room" on www.inthepowderroom.com.]
+You have choices when it comes to how HMPP uses your personal information. When you register online with www.inthepowderroom.com, you can choose not to receive information about our services, content and or special promotional items from us by direct mail and/or e-mail. If you elect not to receive such information by direct mail or e-mail, HMPP may continue to contact you as necessary to service your account. [You can change your contact preferences at any time by following the instructions for “My Powder Room” on www.inthepowderroom.com.]
 
 Keeping your account information accurate and up-to-date is very important, so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions for My Powder Room on www.inthepowderroom.com to correct your account information online.
 
