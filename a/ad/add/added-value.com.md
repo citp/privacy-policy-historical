@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111406id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125060558id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
 
 # Added Value | Privacy Policy
 
