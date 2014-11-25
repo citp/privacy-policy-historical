@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629155456id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005700id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
@@ -113,7 +113,7 @@ If you have any questions or if you would like to discuss the privacy policies a
 
 Mail to:
 
-Highland Colony Parkway, Suite 300  
+1018 Highland Colony Parkway, Suite 300  
 Ridgeland, Mississippi 39157  
 Attn: Director, Product Development & Management
 
