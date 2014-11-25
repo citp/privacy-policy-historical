@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327215806id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125172640id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
