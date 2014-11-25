@@ -1,38 +1,59 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214728id_/http%3A//mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125015206id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Summer Camps 2011 - MySummerCamps.com
 
-## Privacy Policy Highlights
+Privacy Statement for MySummerCamps.com
 
-Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20140530093510id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
+MySummerCamps.com is firmly commited to privacy. The following discloses our information gathering and dissemination practices for MySummerCamps.com.  
+This site contains third party links. MySummerCamps.com is not responsible for the privacy practices or the content of such Web Sites.
 
-  * ### Personal Information
+Our request camp information link asks visitors for contact information (such as their email address) and demographic information (such as age, gender). Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, tailoring our content to match their interests. We do share your name and email address with programs when you voluntarily request further information from the program. By submitting this information you are opting in to receive communication back from the program you have contacted and from MySummerCamps.com about camp related products and services.
 
-We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways: First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
+Security
 
-  * ### Your Choices
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. MySummerCamps.com uses Secure Socket Layer (SSL) technology, utilized by most popular browsers, including Netscape and Microsoft Explorer. This technology allows us to use the industry standard encryption tools necessary to protect information transmitted between your computer and our server.
 
-    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
-    * You may cancel your registration or deactivate your account, or update your preferences at any time.
-    * You can manage cookies using your browser controls.
-    * You can opt out of the use of certain cookies.
-    * Individual products or services may offer additional controls or preferences.
-  * ### Uses of Information
+Choice/Opt-Out
 
-Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-  * ### Information Sharing
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+1\. You can send e-mail to [info@MySummerCamps.com](mailto:info@MySummerCamps.com)
 
-  * ### How to Contact Us
+2\. You can visit the following URL: [http://www.MySummerCamps.com](http://www.mysummercamps.com/) and use the Contact Us form.
 
-    * Use our Privacy [Contact form](https://web.archive.org/web/20140530093510id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
-  
+3\. You can send mail to the following postal address:  
+    909 Sepulveda Blvd. El Segundo, 90245
 
-    * Privacy Office
-    * Internet Brands, Inc.
-    * 909 N. Sepulveda Blvd., 11th Floor
-    * El Segundo, CA 90245 U.S.A.
+4\. You can send a fax to: 310-280-4921
 
+5\. You can call the following telephone number: 877-777-7738
 
+Correct/Update
+
+This site gives users the following options for changing and modifying information previously provided.
+
+1\. E-mail [info@MySummerCamps.com](mailto:info@MySummerCamps.com)
+
+2\. Visit [http://www.MySummerCamps.com](http://www.mysummercamps.com/) and fill out the online update form.
+
+3\. Send mail to the following postal address:  
+    909 Sepulveda Blvd. El Segundo, 90245
+
+4\. You can send a fax to: 310-280-4821
+
+5\. Call the following telephone number: 877-777-7738
+
+Contacting the Web Site
+
+If you have any questions about this privacy statement or the practices of the site you can contact:
+
+**MySummerCamps.com**  
+c/o Internet Brands, Inc.  
+909 Sepulveda Blvd.  
+El Segundo, 90245  
+**Phone:** 310-280-4105  
+**Fax:** 310-280-4921  
+**Toll-Free:** 877-777-7738  
+**Email:**[info@MySummerCamps.com](mailto:info@MySummerCamps.com)
