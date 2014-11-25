@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328203136id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125015536id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
 
 # iRentToOwn.com Privacy Policy
 
@@ -122,4 +122,8 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 ## Contacting the Company
 
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at customerservice@irenttoown.com Postal Mail Address:  500 3rd Street, Suite 555 
+If you have any questions, comments, or concerns about this Privacy Policy, please email us at customerservice@irenttoown.com 
+
+Postal Mail Address:    
+500 3rd Street, Suite 555   
+San Francisco, CA 94107 
