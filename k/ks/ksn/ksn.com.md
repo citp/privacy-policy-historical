@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052231id_/http%3A//ksn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125055348id_/http%3A//ksn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KSN-TV
 
