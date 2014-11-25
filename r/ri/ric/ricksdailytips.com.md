@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618144145id_/http%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125054702id_/http%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Any personal information requested from visitors is used solely to complete the task at hand. I will never ask for any information that I don’t need in order to successfully conduct business with you (that was initiated by you) or allow you to enjoy the site’s features.
 
-\- Your personal information (name, address, phone number, email address, etc.) is never shared with any third party for any reason.
+– Your personal information (name, address, phone number, email address, etc.) is never shared with any third party for any reason.
 
-\- I never send unsolicited commercial email (SPAM) to the visitors of RicksDailyTips.com.
+– I never send unsolicited commercial email (SPAM) to the visitors of RicksDailyTips.com.
 
-\- In short, your personal information is completely safe and confidential when you visit and interact in any way with RicksDailyTips.com.
+– In short, your personal information is completely safe and confidential when you visit and interact in any way with RicksDailyTips.com.
 
 Detailed privacy information:
 
