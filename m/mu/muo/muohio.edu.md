@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062515id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082623id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - Miami University
 
