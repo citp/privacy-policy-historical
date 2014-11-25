@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071426id_/http%3A//tomferry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020306id_/http%3A//www.tomferry.com/privacy) for the most accurate reproduction.*
 
 # Real Estate's #1 Educator | Tom Ferry – Your Coach » Privacy
 
