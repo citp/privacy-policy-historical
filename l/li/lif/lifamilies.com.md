@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154735id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005739id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
 
 # LIFamilies.com Privacy Policy
 
@@ -10,9 +10,9 @@ Bridal Planner Group can be contacted by mail at:
 
 Attention Legal Department  
 Bridal Planner Group, Inc.  
-3245 Route 112  
-Suite 5  
-Medford, NY 11763  
+16 Sawgrass Drive  
+Suite 2  
+Bellport, NY 11713  
 United States of America
 
 by phone at (631) 320-3450 or
