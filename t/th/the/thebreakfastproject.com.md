@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebreakfastproject.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209035839id_/http%3A//thebreakfastproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebreakfastproject.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125105734id_/http%3A//milklife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Breakfast Project
+# Privacy Policy - Milk Life
 
 This site (“Milk”) has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
 
-Milk occasionally collects and stores personal user information in connection with promotions at [www.milkmustache.com](http://www.milkmustache.com/). Whenever information of that kind is collected, Milk checks the ages of all site visitors before accepting information from them. No information is collected from guests under the age of 13 unless parental permission to do so is obtained as described below in the section designated “POLICY FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE).”
+Milk occasionally collects and stores personal user information in connection with promotions at [www.milklife.com](http://www.milklife.com/). Whenever information of that kind is collected, Milk checks the ages of all site visitors before accepting information from them. No information is collected from guests under the age of 13 unless parental permission to do so is obtained as described below in the section designated “POLICY FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE).”
 
 From time to time, Milk requests personal information such as your name, e-mail address and birth date. For example, we may request personal information when you request brochures or information on diet and exercise, or when you register to enter a promotion such as a sweepstakes or contest. Whenever Milk collects and stores such personal user information, information you provide will not be disclosed to third parties without your consent; however, Milk may share aggregate information about our visitors (for example, what percentages of our visitors are male and female) with advertisers, business partners, sponsors, and other third parties in order to customize the content of our site to deliver a better experience for our visitors.
 
@@ -16,7 +16,7 @@ Milk may disclose user information in special cases when we have reason to belie
 Information provided at the time of registration or submission from a guest who is 13 years of age or over may be used for marketing and promotional purposes by Milk. To keep you in control of your personal information and the communications directed to you, you may opt out of receiving communications from Milk about new features or services. If you object to such use for any reason, you may stop that use by e-mail request to [milk@webershandwick.com](mailto:milk@webershandwick.com).
 
 **POLICY FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE)**  
-Milk encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at Milk by guests under 13 years of age without the consent of their parent or guardian. If Milk collects any personal information from children under 13 (and only after obtaining parental permission to do so), Milk will collect only such information as is necessary for the intended purpose. Milk will not provide any personally identifying information whatsoever from our guests under 13 years of age to any third party for any purpose without consent of a parent or guardian. In addition, Milk will provide a secure Web page that allows parents to view, revise and/or delete all information gathered about their children; to consent to Milk’s collection and use of such information; and to consent to disclosure of such information to third parties. Links to that page will be prominently displayed on the milkmustache.com homepage, within this Privacy Policy, on all pages where information is gathered on the site, and in emails sent to parents to confirm permission to collect user data.
+Milk encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at Milk by guests under 13 years of age without the consent of their parent or guardian. If Milk collects any personal information from children under 13 (and only after obtaining parental permission to do so), Milk will collect only such information as is necessary for the intended purpose. Milk will not provide any personally identifying information whatsoever from our guests under 13 years of age to any third party for any purpose without consent of a parent or guardian. In addition, Milk will provide a secure Web page that allows parents to view, revise and/or delete all information gathered about their children; to consent to Milk’s collection and use of such information; and to consent to disclosure of such information to third parties. Links to that page will be prominently displayed on the milklife.com homepage, within this Privacy Policy, on all pages where information is gathered on the site, and in emails sent to parents to confirm permission to collect user data.
 
 Guests under 13 years of age may participate in activities on our site upon registration (such as entry in a sweepstakes), unless a parent or guardian invalidates their registration. When a guest under 13 registers for a sweepstakes or contest, he/she will be required either to: (a) provide the e-mail address of a parent or guardian who will then receive an e-mail alert regarding his/her child’s attempted registration, or (b) print the registration/entry form and mail it with a parent/guardian’s signature. If such a guest wins, notification and prizes will be sent to the parent or guardian. Publication of names, ages, or likenesses of promotion winners under 13 requires parental or guardian consent.
 
@@ -31,7 +31,7 @@ An IP address is a number that’s automatically assigned to your computer whene
 When guests request pages from Milk sites, our servers log the guests’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user’s session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers, or others.
 
 **USE OF COOKIES**  
-The thebreakfastproject.com site uses cookie and tracking technology. Cookie and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the web site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors’ needs and help customize the site for visitors. For example, we may use cookies to make sure you don’t see the same information repeatedly. Also, if you have elected to store your favorite recipes or activities at the site, cookies help us do this. The site may also use cookies to deliver content specific to your interests and for other similar purposes. We use general IP address information to better understand how the site is utilized. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate (not individual), cookie and tracking information may be shared with third parties.
+The milklife.com site uses cookie and tracking technology. Cookie and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the web site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors’ needs and help customize the site for visitors. For example, we may use cookies to make sure you don’t see the same information repeatedly. Also, if you have elected to store your favorite recipes or activities at the site, cookies help us do this. The site may also use cookies to deliver content specific to your interests and for other similar purposes. We use general IP address information to better understand how the site is utilized. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate (not individual), cookie and tracking information may be shared with third parties.
 
 **LINKS TO OTHER SITES**  
 Users should be aware that when they are on Milk, they can be directed to other sites, the content and practices of which are beyond our control. There are links to other sites from Milk pages that take you outside our service. This includes links from partners that may use Milk or the Milk’s logo as part of a co-branding agreement.
@@ -54,7 +54,7 @@ Neither we nor anyone involved in the creation or delivery of this site or whose
 **COPYRIGHT AND TRADEMARK NOTIC** E  
 This site is protected by U.S. copyright laws, and may be protected by the copyright laws of other countries and jurisdictions. Except as specifically permitted below, any copy, reproduction, display, performance or retransmission of the contents of this site is strictly prohibited.
 
-Any use of “The Breakfast Project “milkmustache.com,” “Got Milk?” and any other trademarks, trade names and logos in which we, our subsidiaries, affiliates, divisions and licensors do business is strictly prohibited absent our prior written consent. In addition, the names, trade names and trademarks of third parties, including our promotional partners, that appear on this site are proprietary to their respective owners and may be used only with their express written permission. The mark and logo for “got milk?” is a registered trademark of the California Fluid Milk Processor Advisory Board.
+Any use of "Milk LIfe®," "milklife.com," “The Breakfast Project," “milkmustache.com,” “Got Milk?®” and any other trademarks, trade names and logos in which we, our subsidiaries, affiliates, divisions and licensors do business is strictly prohibited absent our prior written consent. In addition, the names, trade names and trademarks of third parties, including our promotional partners, that appear on this site are proprietary to their respective owners and may be used only with their express written permission. The mark and logo for "Milk LIfe®," and “got milk?®” are registered trademarks of the California Fluid Milk Processor Advisory Board.
 
 **USE OF MILK MATERIALS**  
 All of our proprietary documents, images, designs and information, including information about our businesses and other public information posted about our company on this site may be copied, reproduced, downloaded and used, provided that: (1) copyright notice in the form “© The National Milk Processor Promotion Board”. Used With Permission. All rights reserved.” appears on every copy or reproduction of such materials; (2) you only use these materials for non-commercial, personal purposes; (3) you do not alter, edit or condense these materials; and (4) you do not use these materials to ridicule, disparage, harass or annoy anyone.
@@ -63,39 +63,39 @@ If you would like to use, copy, upload or retransmit any of our proprietary mate
 
 **User-Generated Content Policy**
 
-**1.     ****Overview**
+**1.     ** **Overview**
 
-We respect third-party content and the members of our communities, and recognize the importance of providing credit for ideas, images, and written content. User-generated content provides opportunities for brands to connect with _bloggers, celebrities, and social media communities_ in exciting and dynamic ways. They also can present potential public relations, privacy, legal and other concerns. For that reason, MilkPEP has developed these Rules of Engagement to provide general guidance on common issues faced in the social media space. Our content policy applies to all content posted to MilkPEP social channels in the public domain.
+We respect third-party content and the members of our communities, and recognize the importance of providing credit for ideas, images, and written content. User-generated content provides opportunities for brands to connect with  _bloggers, celebrities, and social media communities_  in exciting and dynamic ways. They also can present potential public relations, privacy, legal and other concerns. For that reason, MilkPEP has developed these Rules of Engagement to provide general guidance on common issues faced in the social media space. Our content policy applies to all content posted to MilkPEP social channels in the public domain.
 
 The laws that govern user-generated content media are complex and are continuing to evolve in response to fast-paced changes in technology. In certain respects, these rules of engagement (the “Rules”) may be more stringent than current law requires, a reflection of MilkPEP’s long-standing commitment to promote honest, truthful communications with its users. In addition, these Rules are not intended to be a substitute for getting Legal, IT or Communications approval for promotional activities on a social media platform. This is merely a place to start when considering social media as a promotional tool. Curated content is discovered, gathered, and promoted by the brand in social media (a retweet, share, pin, etc.) – but is clearly not created by the brand itself. In such instances, full credit should be given to the owner. It is the act of selecting content to promote that is relevant to the brand story in some way.
 
-The Breakfast Project and REFUEL user-generated or curated content should be developed with a deliberate focus on the following:
+Milk Life and REFUEL user-generated or curated content should be developed with a deliberate focus on the following:
 
 ·       Messaging that follows all brand guidelines
 
-·       Content that benefits the objectives of MilkPEP, the Breakfast Project and REFUEL programs
+·       Content that benefits the objectives of MilkPEP, Milk Life and REFUEL programs
 
 ·       Content that is from an original source, and is used with permission of owner whenever possible.
 
-**2.     ****List of MilkPEP social channels (as of 2/6/13)*:**
+**2.     ** **List of MilkPEP social channels (as of 8/7/13)*:**
 
-**a.      ****Facebook:**
+**a.      ** **Facebook:**
 
-                             i.   <http://www.facebook.com/MilkMustache>
+                             i.   <http://www.facebook.com/Milk>
 
                            ii.   <http://www.facebook.com/bigotedeleche>
 
                           iii.   <http://www.facebook.com/GotChocolateMilk>
 
-**b.      ****Twitter:**
+**b.      ** **Twitter:**
 
-                             i.   <http://twitter.com/MilkMustache>
+                             i.   <http://twitter.com/MilkLife>
 
                            ii.   <http://twitter.com/bigotedeleche>
 
                           iii.   <http://twitter.com/GotChocoMilk>
 
-**c.      ****YouTube:**
+**c.      ** **YouTube:**
 
                              i.   <http://youtube.com/MilkMustacheCampaign>
 
@@ -103,13 +103,15 @@ The Breakfast Project and REFUEL user-generated or curated content should be dev
 
                           iii.   <http://youtube.com/ChocolateMilkRefuel>
 
-**d.      ****Pinterest:** <http://pinterest.com/mymilkmustache>
+**d.      ** **Pinterest:**  <http://pinterest.com/milk>
 
-**e.      ****Instagram:** <http://instagram.com/milkmustache>
+**e.      ** **Instagram:**  <http://instagram.com/milklife>
+
+**f.      Google+:** <https://plus.google.com/+Milklife>
 
 *All guiding principles included in this guideline will be applied for any new channels that are created.
 
-**3.     ****Types of content**
+**3.     ** **Types of content**
 
 The table below depicts the various scenarios for sharing third-party content on MilkPEP social channels, and the protocol for different channels.
 
@@ -161,7 +163,7 @@ Fan
 
 | 
 
-In cases where a fan shares an image with Milk Mustache or REFUEL by posting to our timeline, tweeting at us, or through another social action, we may share the image through our channels.
+In cases where a fan shares an image with Milk Life or REFUEL by posting to our timeline, tweeting at us, or through another social action, we may share the image through our channels.
 
 _*See page 6 for our facebook rules about deleting inappropriate content posted by fans._
 
@@ -211,7 +213,7 @@ Fan
 
 | 
 
-In cases where a fan shares a video with Milk Mustache or REFUEL by posting to our timeline, tweeting at us, or through another social action, we may share that video through our channels
+In cases where a fan shares a video with Milk Life or REFUEL by posting to our timeline, tweeting at us, or through another social action, we may share that video through our channels
 
 | 
 
@@ -257,7 +259,7 @@ Fan
 
 | 
 
-In cases where a fan shares a recipe with Milk Mustache by posting to our timeline, tweeting at us, or through another social action, we may share the recipe through our channels.
+In cases where a fan shares a recipe with Milk Life by posting to our timeline, tweeting at us, or through another social action, we may share the recipe through our channels.
 
 | 
 
@@ -299,31 +301,31 @@ When a quote is used in social content, the source of that quote will be vetted 
   
 **_Sample Communication for obtaining permission to use third-party content:_**
 
-_I came across your_[A Simple St. Patrick's Day Breakfast](http://www.thoughtfullysimple.com/a-simple-st-patricks-day-breakfast/) _blog post yesterday and absolutely loved it! I work for the National Got Milk? Milk Mustache Campaign and wanted to see if we could share your cute idea on our Milk Mustache social media channels for St. Patrick’s Day. Would that be OK with you?  _
+_I came across your  _[A Simple St. Patrick's Day Breakfast](http://www.thoughtfullysimple.com/a-simple-st-patricks-day-breakfast/)  _blog post yesterday and absolutely loved it! I work for the National Milk Life Campaign and wanted to see if we could share your cute idea on our social media channels for St. Patrick’s Day. Would that be OK with you?  _
 
 _We’ll be sure to tag your page/handle and link back to your blog on all posts if you’re ok with us sharing them to our followers. I’ve included a list of our social channels below for your reference:_
 
-_Facebook:_[Milk Mustache Campaign](http://www.facebook.com/MilkMustache)
+_Facebook:  _[Milk Life ](http://www.facebook.com/Milk)
 
-_Twitter:_[@MilkMustache](https://twitter.com/)
+_Twitter:_[@MilkLife](https://twitter.com/MilkLife)
 
-_Instagram:_[@MilkMustache](https://chifpr09/clients/M2012/Social%20Media/04%20Third%20Parties/User-Generated%20Content/instagram.com/milkmustache)
+_Instagram:_[@MilkLife](http://instagram.com/milklife)
 
-_Pinterest:_[MyMilkMustache](http://pinterest.com/mymilkmustache/)
+_Pinterest:  _[Milk](http://pinterest.com/milk)
 
 _Please let me know if you have any questions._
 
-**4.     ****Content Requirements and Clearances:**
+**4.     ** **Content Requirements and Clearances:**
 
-**A.** Content and Originality: All user-generated content must be the original work of the user, must not include any material subject to a third-party’s copyright or trademark protection, may not have been previously published, and may not have won previous awards.
+**A.  **Content and Originality: All user-generated content must be the original work of the user, must not include any material subject to a third-party’s copyright or trademark protection, may not have been previously published, and may not have won previous awards.
 
-**B.** No Names and Likeness Without Permission: Photos must not contain any individual’s name, in whole or in part, refer to public figures, contain materials embodying the names, likenesses, or other identifying elements of any entity and/or person, living or dead, without permission.
+**B.  **No Names and Likeness Without Permission: Photos must not contain any individual’s name, in whole or in part, refer to public figures, contain materials embodying the names, likenesses, or other identifying elements of any entity and/or person, living or dead, without permission.
 
-**C.** No Illegal, Offensive or Inappropriate Content: User generated content must not contain words, images or statements considered offensive to individuals of any race, ethnicity, religion, sexual orientation, or socioeconomic group nor contain material that is unlawful, sexually explicit, libelous or content that potentially infringes on third party rights.  Content must be in keeping with MilkPEP’s reputation and image, at Sponsor’s sole discretion.
+**C.  **No Illegal, Offensive or Inappropriate Content: User generated content must not contain words, images or statements considered offensive to individuals of any race, ethnicity, religion, sexual orientation, or socioeconomic group nor contain material that is unlawful, sexually explicit, libelous or content that potentially infringes on third party rights.  Content must be in keeping with MilkPEP’s reputation and image, at Sponsor’s sole discretion.
 
 D.  Child-Created Content:  Content created or submitted by a child under age 13 may not be used on any platform.
 
-**5.     ****Transparency and Disclosures**
+**5.     ** **Transparency and Disclosures**
 
 MilkPEP will always disclose when working with a spokesperson and our partners are also expected to disclose when working with us. Our spokespeople allow MilkPEP to use their approved name, likeness and endorsement in connection with the campaign in press materials and content related to the Program from completion through a date agreed upon by both parties.
 
@@ -335,13 +337,13 @@ All agencies, bloggers, contractors and others who will post content or messages
 
 MilkPEP complies with the Federal Trade Commission’s “.com Disclosures – How to Make Effective Disclosures in Digital Advertising.”
 
-**6.     ****Platform-specific Rules**
+**6.     ** **Platform-specific Rules**
 
-**Facebook:** The rules below are our guidelines for Facebook and are displayed in our “About Me” section
+**Facebook:  **The rules below are our guidelines for Facebook and are displayed in our “About Me” section
 
-Welcome to [Milk Mustache Campaign Page / Got Chocolate Milk Page] on Facebook (the "Milk Mustache Page"). We're glad you visited the [Milk Mustache Campaign Page / Got Chocolate Milk Page] and invite you to use the [Milk Mustache Campaign Page / Got Chocolate Milk Page] to interact with us and fellow [milk / chocolate milk] lovers.
+Welcome to [Milk Life Campaign Page / Got Chocolate Milk Page] on Facebook (the "Milk Life Page"). We're glad you visited the [Milk Life Campaign Page / Got Chocolate Milk Page] and invite you to use the [Milk Life Campaign Page / Got Chocolate Milk Page] to interact with us and fellow [milk / chocolate milk] lovers.
 
-We invite you to share your comments on our posts and to post photos, videos and other content to our Timeline. However, we do ask that you follow these guidelines when posting anything to the [Milk Mustache Campaign Page / Got Chocolate Milk Page]:
+We invite you to share your comments on our posts and to post photos, videos and other content to our Timeline. However, we do ask that you follow these guidelines when posting anything to the [Milk Life Campaign Page / Got Chocolate Milk Page]:
 
 1\. Play nice and be kind - no bullying, harassing language, threats or trolling. 
 
@@ -351,33 +353,33 @@ We invite you to share your comments on our posts and to post photos, videos and
 
 4\. Don’t post pictures, videos or content that belong to someone else or that include someone else without their permission. 
 
-5\. All of your activity on the [Milk Mustache Campaign Page / Got Chocolate Milk Page] must comply with Facebook's Statement of Rights and Responsibilities.
+5\. All of your activity on the [Milk Life Campaign Page / Got Chocolate Milk Page] must comply with Facebook's Statement of Rights and Responsibilities.
 
-We reserve the right (but have no obligation) to remove what you post from the [Milk Mustache Campaign Page / Got Chocolate Milk Page]. If you violate our guidelines more than three times, we will block you from our Page.
+We reserve the right (but have no obligation) to remove what you post from the [Milk Life Campaign Page / Got Chocolate Milk Page]. If you violate our guidelines more than three times, we will block you from our Page.
 
-All content provided on the [Milk Mustache Campaign Page / Got Chocolate Milk Page] is the sole responsibility of the person submitting it. The National Fluid Milk Processor Promotion Board (“MilkPEP”) does not endorse, nor is it responsible for any of the postings, opinions, photographs, video or other submissions on this Facebook page and MilkPEP expressly disclaims any and all liability in connection with User Submissions. You agree through the use of this Facebook page to indemnify MilkPEP for any costs, expenses, losses, damages, or claims arising out of or in connection with your use of this Facebook page.
+All content provided on the [Milk Life Campaign Page / Got Chocolate Milk Page] is the sole responsibility of the person submitting it. The National Fluid Milk Processor Promotion Board (“MilkPEP”) does not endorse, nor is it responsible for any of the postings, opinions, photographs, video or other submissions on this Facebook page and MilkPEP expressly disclaims any and all liability in connection with User Submissions. You agree through the use of this Facebook page to indemnify MilkPEP for any costs, expenses, losses, damages, or claims arising out of or in connection with your use of this Facebook page.
 
 By posting photographs, video, information or other content to this Facebook page, you automatically grant, and you represent and warrant that you have the right to grant, to MilkPEP and its affiliates, an irrevocable, perpetual, sub-licensable, non-exclusive, transferable, royalty-free, worldwide license to use such content for any purpose in any media, including promotions, to prepare derivative works of, or incorporate into other works, such content, and to grant and authorize sublicenses of the foregoing.
 
 MilkPEP reserves the right, at its sole discretion, to modify the foregoing terms and conditions at any time without further notice.
 
-Thank you for “liking” the [Milk Mustache Campaign Page / Got Chocolate Milk Page]!
+Thank you for “liking” the [Milk Life Campaign Page / Got Chocolate Milk Page]!
 
 **Twitter:**
 
-**a.      **Retweet Guidelines
+**a.      **Retweet Guidelines
 
-MilkPEP may retweet content from third-parties that promotes The Breakfast Project or MilkPEP or REFUEL message, or adds value to our social community.
+MilkPEP may retweet content from third-parties that promotes Milk Life or MilkPEP or REFUEL message, or adds value to our social community.
 
-**b.      **Contest Submissions
+**b.      **Contest Submissions
 
 When a piece of content is submitted as part of a contest, per the rules of the contest, it becomes the property of MilkPEP, and may be used in future content. When we post user-generated content to our social channels, we will attribute credit to the creator of that content in a manner fit for that platform.
 
-**c.      **Spokesperson Protocol
+**c.      **Spokesperson Protocol
 
 We must use “Ad” or “Sponsored” or another word that clearly tells consumers the message is from a marketer.
 
-Whatever we use, _it must appear at the beginning of the tweet_ , not the end.
+Whatever we use,  _it must appear at the beginning of the tweet_ , not the end.
 
 Multi-tweet approaches are not acceptable because the tweets may not appear in a consumer’s feed consecutively.
 
@@ -467,11 +469,11 @@ Per the rules of a contest, submissions become the property of MilkPEP, and we m
 
 We will attribute the source by tagging the users Pinterest page or mention the users name in the caption.  
   
-**7.      ****Removal Guidelines**
+**7.      ** **Removal Guidelines**
 
 In situations when third-party content usage rights are limited by a contract or other agreement the following steps will be taken:
 
-**a.      **When the rights to content expire, we will assess removal in the following steps:
+**a.      **When the rights to content expire, we will assess removal in the following steps:
 
 1\. Decide whether or not we want to keep the content live after contract terms
 
@@ -485,7 +487,7 @@ In situations when third-party content usage rights are limited by a contract or
 
 4\. If we do not or cannot keep content live (content no longer valuable, fee will be incurred), remove content according to contract term
 
-**b.      **When the creator of content requests that the content be removed, we will assess the removal in the following steps:
+**b.      **When the creator of content requests that the content be removed, we will assess the removal in the following steps:
 
 1\. Decide whether or not we want to keep the content live despite the request
 
@@ -497,7 +499,7 @@ In situations when third-party content usage rights are limited by a contract or
 
 **MilkPEP Guidelines for Obtaining Rights for Use of Third Party Content**
 
-**Usage Scenarios:**
+**_Usage Scenarios:_**
 
 **Different ways MilkPEP uses online influencers**
 
@@ -529,17 +531,17 @@ In situations when third-party content usage rights are limited by a contract or
   
 ---|---|---|---|---|---|---  
   
-**_Media spokesperson:_** official spokesperson, requiring message and media training
+**__Media spokesperson:__**  official spokesperson, requiring message and media training
 
-**_Satellite Media Tour:_** official spokesperson
+**__Satellite Media Tour:__**  official spokesperson
 
-**_Speaking engagements:_** medical, nutritional, fitness, blog conferences targeting industry professionals and influencers
+**__Speaking engagements:__**  medical, nutritional, fitness, blog conferences targeting industry professionals and influencers
 
-**_Embedding bloggers at events:_**
+**__Embedding bloggers at events:__**
 
 Contracting with bloggers to provide VIP access at events, unveils, etc. and encouraging them to post about their experiences.
 
-**_Fitness event participation:_** Representing REFUEL at public sporting events
+**__Fitness event participation:__**  Representing REFUEL at public sporting events
 
 | 
 
@@ -591,7 +593,7 @@ MilkPEP Spokesperson Legal Agreement
 
 -FTC Disclosure Requirements  
   
-**_“Unofficial” / ad-hoc media opportunities_**
+**__“Unofficial” / ad-hoc media opportunities__**
 
 | 
 
@@ -681,7 +683,7 @@ Race Entry Waiver
 
 -FTC Disclosure Requirements  
   
-**_Earned Media Program support:_** sharing MilkPEP messages or user-generated content in their channels
+**__Earned Media Program support:__**  sharing MilkPEP messages or user-generated content in their channels
 
 | 
 
@@ -707,7 +709,7 @@ No
 
 n/a  
   
-**_Earned Media Program support ~ Surprise & Delight:_** sharing MilkPEP messages or user-generated content in their channels  non-solicited)
+**__Earned Media Program support ~ Surprise & Delight:__** sharing MilkPEP messages or user-generated content in their channels  non-solicited)
 
 | 
 
@@ -735,7 +737,7 @@ No
 
 n/a  
   
-**_3rd Party Owned Media – Distributed through MilkPEP Channels:_** MilkPEP licensing 3rd party editorial content (recipes, image or editorial article/video
+**_3 rd Party Owned Media – Distributed through MilkPEP Channels: _**MilkPEP licensing 3rd party editorial content (recipes, image or editorial article/video
 
 | 
 
@@ -761,7 +763,7 @@ Licensing Agreement
 
 -Perpetual, royalty-free licenses of photos and materials  
   
-**_MilkPEP Owned Media – Distributed through MilkPEP or Partnership Channels:_** Partnering with MilkPEP to create-produce content  (Images, video, quotes/written, links)
+**__MilkPEP Owned Media – Distributed through MilkPEP or Partnership Channels:__**  Partnering with MilkPEP to create-produce content  (Images, video, quotes/written, links)
 
 | 
 
@@ -821,7 +823,7 @@ MilkPEP Sponsorship Legal Agreement
 
 -Maintenance of Records  
   
-**_Twitter party support <or> Blogger Tour_**
+**__Twitter party support <or> Blogger Tour__**
 
 Hosting or participating in a Twitter chat/party (i.e. promoting on channels and managing conversation flow and prizing questions)
 
@@ -861,7 +863,7 @@ Media Promotion Legal Agreement
 
 -FTC Disclosure Requirements  
   
-**_Contest Winner:_**
+**__Contest Winner:__**
 
 Sharing content or MilkPEP messages on their channels or via MilkPEP channels
 
@@ -901,7 +903,7 @@ By using this site, you signify your assent to the Milk Privacy Policy. If you d
 [privacy@whymilk.com](mailto:privacy@whymilk.com)
 
 Milk PEP  
-ATTN: Marketing Coordinator, milkmustache.com  
+ATTN: Marketing Coordinator, milklife.com  
 1250 H Street, NW  
 Suite 950  
 Washington, DC 20005
