@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ldssmile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085316id_/http%3A//www.ldssmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldssmile.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125080424id_/http%3A//www.ldssmile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LDS SMILE
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fldssmile.com%2Fprivacy-policy%2F&media=http%3A%2F%2Ftermsfeed.com%2Fseals%2Fts-pp-authenticity.png)
 
 This Privacy Policy was last modified on November 15, 2013.
 
