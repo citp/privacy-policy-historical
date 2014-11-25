@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kimberlysnyder.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093024id_/http%3A//kimberlysnyder.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberlysnyder.net privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125033034id_/http%3A//kimberlysnyder.net/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | kimberlysnyder
+# Our Privacy Policy - kimberlysnyder
 
 (last update: Mar 2013)
 
