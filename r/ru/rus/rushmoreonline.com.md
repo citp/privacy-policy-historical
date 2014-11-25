@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429010736id_/http%3A//www.rushmoreonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125173709id_/http%3A//www.rushmoreonline.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Rushmore Online
+# Rushmore Online | Casino | Play Poker, Slots
 
 Privacy Policy
 
@@ -24,11 +24,11 @@ E-mail addresses are NOT shared with any other organization for commercial or no
 
 We collect e-mail addresses of those who communicate with us via e-mail.
 
-If you do NOT wish to receive any e-mails from us, please send us a blank e-mail with the word “remove” in the subject to [support@rushmoreonline.com](mailto:support@rushmoreonline.com). 
+If you do NOT wish to receive any e-mails from us, please send us a blank e-mail with the word “remove" in the subject to [support@rushmoreonline.com](mailto:support@rushmoreonline.com). 
 
 Winnings
 
-Your winnings and cash-outs are kept strictly confidential, winnings’ information is stored in a secure operating environment. Rushmore Casino keeps your winnings’ information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority. 
+Your winnings and cash-outs are kept strictly confidential, winnings' information is stored in a secure operating environment. Rushmore Casino keeps your winnings' information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority. 
 
 Security
 
