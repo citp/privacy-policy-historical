@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060438id_/http%3A//alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125214848id_/http%3A//alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
 
 # Government of Alberta Privacy Statement
 
