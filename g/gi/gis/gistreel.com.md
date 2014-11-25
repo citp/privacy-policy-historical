@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gistreel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073331id_/http%3A//gistreel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gistreel.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125051744id_/http%3A//gistreel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyPrivacy Policy
+
+[Home](http://gistreel.com/) Privacy Policy
 
 ### Privacy Policy
 
@@ -43,6 +45,8 @@ International Information – Personal data that you have voluntarily entered is
 Users Consent – Users consent to the collection and use of their information as described herein. Users will be notified by e-mail in the event of any fundamental changes to the uses of information that are described herein.
 
 Data Quality and Access – In accordance with the Fair Information Practices defined by the government, GistReel.Com encourages Users to correct any inaccuracies in personal information that has been previously provided to the Web site. Users may correct or update their information by sending an e-mail to [gistreel@gmail.com](mailto:gistreel@gmail.com)
+
+If we use any content of yours in disregard to your policy, please contact us for take down. We obey every take down request we get on the site.
 
 Feedback – Users may provide feedback (e.g., input and suggestions) to GistReel.Com regarding the GistReel.Com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback.
 
