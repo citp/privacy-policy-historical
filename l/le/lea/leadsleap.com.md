@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208012902id_/http%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125183426id_/http%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
 
-# Explosive Lead Generation System - LeadsLeap
+# LeadsLeap
+
+[](http://www.leadsleap.com/)
 
 **Privacy Policy**
 
 LeadsLeap.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-1) The information we gather from our members include our member's name, email address, Paypal email, Clickbank ID and Paydotcom ID.
+1) The information we gather from our members include our member's name, email address, Paypal email.
 
 2) We will not share, distribute or sell our members information to any third party. The use of this information is limited to making payment of earned commissions and tracking purposes.
 
@@ -19,3 +21,15 @@ LeadsLeap.com takes your privacy seriously. Please read the following to learn m
 6) All payment made to LeadsLeap.com are transacted through a reliable and secure third party payment gateway provided by Paypal.com. We do not keep any of the purchaser's credit card details or Paypal account password. 
 
 We reserve the right to change the information we collect from our members as well as the mechanism or service we use for our operation. Thank you for your cooperation.
+
+TIME LIMITED OFFER. HURRY! 
+
+Get instant traffic to your site  
+with 100 advertising credits  
+ONLY if you sign up before  
+26th November 2014!
+
+**SECURE & CONFIDENTIAL**  
+We've zero spam tolerance. Your email address will NOT be rented, traded or sold.
+
+Processing...
