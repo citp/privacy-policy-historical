@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the united-states-flag.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228152832id_/http%3A//www.united-states-flag.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the united-states-flag.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125102513id_/http%3A//www.united-states-flag.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ Online Stores, Inc.
 1000 Westinghouse Drive, Suite 1  
 New Stanton, PA  15672  
 [support@onlinestores.com  
-](mailto:support@onlinestores.com&subject=Privacy%20Policy)(877) 734-2458 (Mon-Sat: 8AM – 7PM EST)
+](mailto:support@onlinestores.com&subject=Privacy%20Policy)(877) 734-2458 (Mon-Fri: 8AM – 7PM EST, and Saturday 10AM – 5PM)
