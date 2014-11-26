@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the objectmentor.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623083216id_/http%3A//www.objectmentor.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the objectmentor.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126221955id_/http%3A//www.objectmentor.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
