@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414003614id_/http%3A//www.advertising365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126151556id_/http%3A//www.advertising365.com/privacy.html) for the most accurate reproduction.*
 
-# Advertising365.com Affiliate Marketing Network | Terms & Conditions
+# Advertising365.com Privacy
 
-_this policy covers how we protect your privacy and treat your information._
-
-#### What This Privacy Policy Covers
-
-This policy covers how Advertising 365 treats personal information that Advertising365 collects and receives, including information related to your past use of Advertising365 products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+This policy covers how Advertising365 treats personal information that it collects and receives, including information related to your use of any Advertising365 products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 This policy does not apply to the practices of companies that Advertising365 does not own or control, or to people that Advertising 365 does not employ or manage. 
-
-#### Information Collection and Use
 
 **General**
 
