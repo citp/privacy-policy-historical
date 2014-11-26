@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226165421id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126053141id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 What follows is the Privacy Statement for [JakJobs.com](http://jakjobs.com/). Please read this statement regarding our website. If you have questions please ask us via our contact info.
 
 **Email Addresses**  
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We donÃ¢â‚¬â„¢t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact info.
+You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We currently dont send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact info.
 
 **Ownership of Information**  
 [JakJobs.com](http://jakjobs.com/) is the sole owner of any information collected on our websites.
