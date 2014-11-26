@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipspit.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316151258id_/http%3A//www.tipspit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipspit.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126085347id_/http%3A//www.tipspit.com/privacy) for the most accurate reproduction.*
 
-# Default Title
+# Privacy Policy
 
 Personal data is information that relates to or is capable of identifying a living person.
 
