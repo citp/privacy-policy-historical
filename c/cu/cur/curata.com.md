@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619202430id_/http%3A//www.hivefire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126152600id_/http%3A//www.hivefire.com/privacy) for the most accurate reproduction.*
 
 # Content Curation Company: Privacy Policy - Curata
 
@@ -22,7 +22,7 @@ Our primary purpose in collecting information is to provide you with an efficien
 
 ## Registration Information: We ask for Registration Information in order to verify your identity and to enable your use of the Service.  We may use third party banking organizations and other providers of payment services to bill you, and in that case we will, therefore, provide this billing provider with the necessary billing data.
 
-We respect the privacy of personal e-mail accounts and we will store your e-mail addresses just as securely as other Personal Data.  We will not send you unwanted e-mail messages or junk mail, and your details will not be passed to third parties for their marketing purposes without your explicit permission.  However, we will use e-mail to send you messages about faults and service issues.  We may also use e-mail to keep you up to date with news about the Service.  If you do not want to be kept informed in this way by e-mail, please contact us at 245 First Street, Cambridge, MA 02142.  In any event, we reserve the right to use e-mail to notify you of any claims related to your use of the Service, including without limitation claims of violation of third party rights.
+We respect the privacy of personal e-mail accounts and we will store your e-mail addresses just as securely as other Personal Data.  We will not send you unwanted e-mail messages or junk mail, and your details will not be passed to third parties for their marketing purposes without your explicit permission.  However, we will use e-mail to send you messages about faults and service issues.  We may also use e-mail to keep you up to date with news about the Service.  If you do not want to be kept informed in this way by e-mail, please contact us at 141 Tremont Street, Boston, MA 02111.  In any event, we reserve the right to use e-mail to notify you of any claims related to your use of the Service, including without limitation claims of violation of third party rights.
 
 ## Content: In general, we will not review or provide third parties access to your Content.  However, if required by law, we reserve the right to pre-screen, review, flag, filter, modify, refuse or remove any or all Content from the Service.
 
