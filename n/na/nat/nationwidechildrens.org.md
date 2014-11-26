@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwidechildrens.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511104543id_/http%3A//www.nationwidechildrens.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidechildrens.org privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126022519id_/http%3A//www.nationwidechildrens.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice :: Nationwide Children's Hospital
 
