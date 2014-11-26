@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clicknloan.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233327id_/http%3A//www.clicknloan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknloan.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126104121id_/http%3A//www.clicknloan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » ClickNLoan
+# Privacy Policy - ClickNLoan
 
 We are committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this policy have the same meanings as in the [terms of use](http://www.clicknloan.com/terms-of-service/)).  We created this privacy policy (the “Privacy Policy”) to give you confidence as you visit and use the Website, and to demonstrate our commitment to fair information practices and to the protection of privacy.
 
