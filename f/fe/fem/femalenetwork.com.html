@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the femalenetwork.com privacy policy that was archived on 2014-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140511105029id_/http%3A//www.femalenetwork.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the femalenetwork.com privacy policy that was archived on 2014-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127001320id_/http%3A//www.femalenetwork.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   	<meta charset="utf-8">
@@ -14,7 +14,7 @@
 	<title>Privacy Policy | FemaleNetwork.com</title>
 	<meta name="title" content="Privacy Policy | FemaleNetwork.com">
 	<meta name="description" content="Privacy Policy">
-	<meta name="keywords" content="Privacy Policy">
+    <meta name="keywords" content="Privacy Policy">
 	<meta name="copyright" content="Summit Media 2011">
 	<meta http-equiv="Content-Language" content="en">   
 	
@@ -56,7 +56,7 @@
 	</style>
     <!--end css scripts-->
    	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-  	<script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com.ph/cse/cse.js?cx=partner-pub-8410367438263606:6542258054"></script><script src="http://www.femalenetwork.com/templates/fn2011/javascipts/modernizr-2.6.2.min.js"></script>
+  	<script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ph-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://www.google.com.ph/cse/cse.js?cx=partner-pub-8410367438263606:6542258054"></script><script src="http://www.femalenetwork.com/templates/fn2011/javascipts/modernizr-2.6.2.min.js"></script>
 	<!-- GA Social Tracking -->
     <script type="text/javascript" src="http://www.femalenetwork.com/templates/fn2011/javascipts/ga_social_tracking.js" data-cfasync="true"></script>
     <!--javascripts-->   
@@ -113,7 +113,7 @@
 	
 	
 	googletag.defineSlot('/1019353/femalenetwork_skinning_others', [1600, 700], 'div-gpt-ad-1359948877277-16').addService(googletag.pubads());
-	googletag.defineSlot('/1019353/femalenetwork_baseboard_others', [980, 90], 'div-gpt-ad-1359948877277-14').addService(googletag.pubads());
+	googletag.defineSlot('/1019353/femalenetwork_baseboard_others', [970, 90], 'div-gpt-ad-1359948877277-14').addService(googletag.pubads());
 
 	
 
@@ -148,27 +148,24 @@
 
 </script>
 
-<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>
 
 <script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script></head>
-<body id="privacy-policy" class="fn- Sun staticpages privacy-policy" style="zoom: 1;">
-
+<body id="privacy-policy" class="fn- Thu staticpages privacy-policy" style="zoom: 1;">
 
 
 		<!-- BEGIN EFFECTIVE MEASURE CODE -->
 		<!-- COPYRIGHT EFFECTIVE MEASURE -->
-		<script type="text/javascript" language="JavaScript">
-			//<![CDATA[
-			document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%20language%3D%22JavaScript%22%20src%3D%22'));
-			document.write((location.protocol.indexOf('https')>-1?'https://ph-ssl':'http://ph-cdn')
-			+unescape('.effectivemeasure.net/em.js%22%3E%3C/script%3E'));
-			//]]>
-		</script><script type="text/javascript" language="JavaScript" src="https://ph-ssl.effectivemeasure.net/em.js"></script>
+		<script type="text/javascript">
+			(function() {
+				var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+				em.src = ('https:' == document.location.protocol ? 'https://ph-ssl' : 'http://ph-cdn') + '.effectivemeasure.net/em.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+			})();
+		</script>
 		<noscript>
 			<img src="//ph.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 		</noscript>
 		<!--END EFFECTIVE MEASURE CODE -->
-		
 		<!-- BEGIN GOOGLE ANALYTICS -->
 		<script type="text/javascript" language="JavaScript">
 				
@@ -181,6 +178,8 @@
 			ga('create', 'UA-252180-1', {'name': 'summitmediaTracker'});
 			//fn account
 			ga('create', 'UA-252180-5', {'name': 'fn'});
+		
+			ga('fn.require', 'displayfeatures');
 		
 			ga('fn.send', 'pageview');
 		
@@ -209,6 +208,25 @@
           window.location.reload();
         });
 
+        FB.Event.subscribe("edge.create",function(response) {
+			if (response.indexOf("facebook.com") > 0) {
+				// if the returned link contains 'facebook,com'. It is a 'Like'
+				// for your Facebook page
+				//_gaq.push(['_trackEvent','Facebook','Like',response]);
+				ga('fn.send', 'social', 'Facebook', 'Like', document.location.href);
+				console.log(response,'Facebook Like Facebook Page');
+			} else {
+			// else, somebody is sharing the current page on their wall
+			//_gaq.push(['_trackEvent','Facebook','Share',response]);
+			ga('fn.send', 'social', 'Facebook', 'Share', document.location.href);
+			console.log(response,'Facebook Like / Share Post');
+			}
+		});
+		FB.Event.subscribe("message.send",function(response){
+			ga('fn.send', 'social', 'Facebook', 'Send', document.location.href);
+			console.log(response,'Facebook Send Post');
+		});
+
 		//_ga.trackFacebook();
 		
       };
@@ -232,6 +250,27 @@
 		//twitterWidgets.onload = _ga.trackTwitter;
 
 	    document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+
+		$(twitterWidgets).load(function() {
+		  function tweetIntentToAnalytics(intent_event) {
+		    if (intent_event) {
+		      var label = intent_event.data.tweet_id;
+		      ga('fn.send', 'social', 'Twitter', 'Tweet', document.location.href);
+		      console.log(document.location.href,'Twitter '+label);
+		    }
+		  }
+		  function followIntentToAnalytics(intent_event) {
+		    if (intent_event) {
+		      var label = intent_event.data.user_id + " (" +
+			  intent_event.data.screen_name + ")";
+		      ga('fn.send', 'social', 'Twitter', 'Follow', document.location.href);
+		      console.log(document.location.href,'Twitter '+label);
+		    }
+		  }
+		  twttr.events.bind('tweet',    tweetIntentToAnalytics);
+		  twttr.events.bind('follow',   followIntentToAnalytics);
+		});
+
 	  })();
 	</script>
 <!-- end twitter ini -->  
@@ -251,8 +290,8 @@
 	<!--start container-->
     <div id="container" class="dfp-container">
     	<!--start header-->
-       		<div id="fnheader">			
-			            <div id="headerNewAdsContainer">
+       		<div id="fnheader">		
+    		            <div id="headerNewAdsContainer">
                 <div id="div-gpt-ad-1359948877277-2" style="width: 970px; height: 90px; margin-left: 15px;">
 
                     <script type="text/javascript" data-cfasync="true">
@@ -297,10 +336,10 @@
 	                    
 <div id="tipheaderOld">
   <span id="tiptitleOld" class="sprites-headerimg">tip <span class="BlackColor">of the day</span></span>                            
-  <span id="tipdateOld"><span>SUN</span> 11 MAY 14</span>
+  <span id="tipdateOld"><span>THU</span> 27 NOV 14</span>
 </div>
 <div id="tipcontentOld">
-    <div style="height: 50px; font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 13px; padding-top: 15px;">Finding it hard to meet the payments for your kid's tuition fee? Check out the payment plans at your child's school and figure out which one </div>
+    <div style="height: 50px; font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 13px; padding-top: 15px;">Off for a swim? Avoid getting cramps in the water by warming up properly before jumping in the pool.        </div>
     <div style="margin-top: 10px;  font-size: 11px;"><a href="http://www.femalenetwork.com/tips/"><strong>See more tips from us!</strong></a></div>
 </div>                     	
                     </div>      
@@ -318,47 +357,47 @@
 							<div class="headerRightNewCol1">
 								<img src="http://www.femalenetwork.com/templates/fn2011/images/getTheIssue.jpg" title="Good House Keeping" alt="Good House Keeping">
 								
-								<div style=" font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 12px; padding: 5px 0px;">
-												                            <div style="margin-top: 5px;"></div>
-		                            	An extra pretty Mother's Day issue just for you! Plus, it’s GH’s 16th anniversary special. On stands now for only P120.		                            </div>
-								<div style=""><a href="http://goo.gl/zA9HG" target="_blank"><strong>Grab a copy now!</strong></a></div>
+								<div style=" font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 10px; padding: 2px 0px;">
+												                            <div style="margin-top: 0px;"></div>
+		                            	The New Mrs. Pitt, Angelina Jolie, is on the cover of the November issue of Good Housekeeping!		                            </div>
+								<div style=""><a href="https://www.summitnewsstand.com.ph/good-housekeeping" target="_blank"><strong>Grab a copy now!</strong></a></div>
 								
 							</div>
 							
 							<div class="headerRightNewCol2">
-								<a href="http://goo.gl/zA9HG" target="_blank"><img src="http://www.femalenetwork.com/templates/fn2011/images/gh-covers/GH-May-2014-web.jpg" width="94" height="120" title="Good Housekeeping" alt="Good Housekeeping"></a>
+								<a href="https://www.summitnewsstand.com.ph/good-housekeeping" target="_blank"><img src="http://www.femalenetwork.com/images/GH_Nov-2014.jpg" width="94" height="120" title="Good Housekeeping" alt="Good Housekeeping"></a>
 							</div>
                 		</li>
 <!--REALLIVING  -->
-                		<li>
+                		<!--li>
 							<div class="headerRightNewCol1">
-								<img src="http://www.femalenetwork.com/templates/fn2011/images/getTheIssue.jpg" title="Real Living" alt="Real Living">
+								<img src="images/getTheIssue.jpg" title="Real Living" alt="Real Living" />
 								
 								<div style=" font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 12px; padding: 5px 0px;">
-									Real Living’s April 2014 issue is a thing of beauty, literally! The magazine’s Beautiful Homes issue features 43 pages which will inspire you to rethink your own space.		                            <div style="margin-top: 5px;"></div>
+											                            <div style="margin-top: 5px;"></div>
 		                            		                            </div>
 								<div style=""><a href="https://www.summitnewsstand.com.ph/real-living" target="_blank"><strong>Grab a copy now!</strong></a></div>
 								
 							</div>
 							
-							<div class="headerRightNewCol2"><a href="https://www.summitnewsstand.com.ph/real-living" target="_blank"><img src="http://www.femalenetwork.com/templates/fn2011/images/rlCovers/Real Living April 2014 Cover.jpg" width="94" height="120" title="Real Living" alt="Real Living"></a></div>
-                		</li>
+							<div class="headerRightNewCol2"><a href="https://www.summitnewsstand.com.ph/real-living"  target="_blank"><img src="" width="94" height="120" title="Real Living" alt="Real Living" /></a></div>
+                		</li-->
 <!-- WOMEN'S HEALTH -->
-                		<li>
+                		<!--<li>
 							<div class="headerRightNewCol1">
-								<img src="http://www.femalenetwork.com/templates/fn2011/images/getTheIssue.jpg" title="Women's Health" alt="Women's Health">
+								<img src="http://www.femalenetwork.com/templates/fn2011/images/getTheIssue.jpg" title="Women's Health" alt="Women's Health" />
 								
-								<div style=" font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 12px; padding: 5px 0px;">
-											                            <div style="margin-top: 5px;"></div>
-		                            Everything you need to score your hottest, sexiest summer EVER is in the Women’s Health March issue!		                            </div>
-								<div style=""><a href="http://goo.gl/zA9HG" target="_blank"><strong>Grab a copy now!</strong></a></div>
+								<div style=" font-size: 9px; font-family: Verdana, Geneva, sans-serif; line-height: 11px; padding: 2px 0px;">
+											                            <div style="margin-top: 2px;"></div>
+		                            Drop two sizes fast—with simple exercises you can do at home! This month's ultimate weight-loss special shows you how. Plus, real women share how you, too, can shed and keep off excess weight for good.		                            </div>
+								<div style=""><a href="https://www.summitnewsstand.com.ph/womens-health" target="_blank"><strong>Grab a copy now!</strong></a></div>
 								
 							</div>
 							
 							<div class="headerRightNewCol2">
-								<a href="http://www.summitnewsstand.com.ph/womens-health" target="_blank"><img src="http://www.femalenetwork.com/templates/fn2011/images/wh/Megan Young - March 2014.jpg" title="Women's Health" alt="Women's Health" width="94" height="120"></a>
+								<a href="https://www.summitnewsstand.com.ph/womens-health"  target="_blank"><img src="http://www.femalenetwork.com/images/Womens-Health-Drop-Two-Sizes-Fast-Brei.jpg" title="Women's Health" alt="Women's Health" width="94" height="120"/></a>
 							</div>
-                		</li>
+                		</li>-->
                 	</ul>
                 </div>    
 			
@@ -584,18 +623,13 @@
         
         <!--start body-->
         <div id="body">     
-        		
+        		        			
 				<div id="newAds" style="width:1000px;<!-- float:left -->;padding-bottom:10px;padding:10px 15px;">
-					<div id="div-gpt-ad-1359948877277-3" style="width: 970px;">
-
-							<script type="text/javascript" data-cfasync="true">
-
-								googletag.display('div-gpt-ad-1359948877277-3');
-
-							</script>
-
-						</div>		
-				</div>		
+										<div style="width: 970px;">
+						<div id="insertAdSpaceBeforeThis_000000016031d638" style="display:none"></div> <script type="text/javascript"> (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async'; scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js'; var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {}; })(); </script> <script type="text/javascript"> var cX = cX || {}; cX.callQueue = cX.callQueue || []; cX.callQueue.push(['insertAdSpace', { adSpaceId:'000000016031d638', adUnitWidth:970, adUnitHeight:60, initialHorizontalAdUnits:1, initialVerticalAdUnits:1, clickTargetFrame:'_blank' } ]); </script>
+					</div> 
+									</div>					
+        			
 						 <!--start leftcontent-->
                 <div id="leftcontent">            	
        			                  
@@ -740,7 +774,12 @@
 				<!-- search box -->
                                 <div id="searchbox" class="rightcontent-box">
                         <div class="searchbox-text">     
-                        <gcse:searchbox-only></gcse:searchbox-only>
+                        <!--<gcse:searchbox-only></gcse:searchbox-only>-->
+                            <form name="s" method="get" action="http://www.femalenetwork.com/search/">
+                                <div>&nbsp;SEARCH</div>
+                                <input type="text" name="q" id="q" value="" style="margin-bottom: 5px;float: left; margin-left: 5px; width: 191px; text-transform: none; border: 1px solid #417374; height: 20px; padding: 1px 5px;">
+                                <button type="submit" style="padding:2px 8px;margin:0px;">GO</button>
+                            </form>
                         </div>
                 </div>
                                 <!-- end search box -->
@@ -827,16 +866,10 @@
                     <div class="label">ADVERTISEMENT</div>
                     
                     <div id="adsboxitem2" class="adsboxitem">
-						<div id="div-gpt-ad-1359948877277-5" style="width: 300px; height: 250px;">
-
-							<script type="text/javascript" data-cfasync="true">
-
-							googletag.display('div-gpt-ad-1359948877277-5');
-
-							</script>
-
-						</div>
-                    </div>
+                                                <div style="width: 300px; height: 250px;">
+                            <div id="insertAdSpaceBeforeThis_000000015fc4aa1c" style="display:none"></div> <script type="text/javascript"> (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async'; scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js'; var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {}; })(); </script> <script type="text/javascript"> var cX = cX || {}; cX.callQueue = cX.callQueue || []; cX.callQueue.push(['insertAdSpace', { adSpaceId:'000000015fc4aa1c', adUnitWidth:300, adUnitHeight:250, initialHorizontalAdUnits:1, initialVerticalAdUnits:1, clickTargetFrame:'_blank' } ]); </script> 
+                        </div>
+                                            </div>
                 </div>
                 
             <div class="clearfloat"></div>
@@ -1016,7 +1049,7 @@
           
         <!--start footer-->
        	<!--footerads (bottom leaderboard)-->
-				<div id="footerads">
+    			<div id="footerads">
                 <div id="footeradsbox">
 						<div id="div-gpt-ad-1359948877277-10" style="width: 970px; height: 90px;">
 
@@ -1056,26 +1089,27 @@
 <div id="partnersite[smartparenting]" class="partnersite-items">
 <div class="partnersitelogo"><a href="http://www.smartparenting.com.ph/" target="_blank" id="partnersitelogo-smartparenting" class="fnpartnersitesprites" rel="nofollow"></a><div class="clearfloat"></div></div>
 <ul>
-<li><a href="http://www.smartparenting.com.ph/home-living/travel-trips-activities/we-love-you-mom-39-restaurant-and-hotel-offerings-for-mother-s-day" target="_blank" rel="nofollow">Where to Dine on Mother's Day: 39 Restaurant and Hotel Offerings</a> 
-</li><li><a href="http://www.smartparenting.com.ph/community/news/men-prefer-women-with-less-makeup-on-says-study" target="_blank" rel="nofollow">Men Prefer Women With Less Makeup On, says Study</a> 
-</li><li><a href="http://www.smartparenting.com.ph/home-living/gift-suggestions/gifts-of-love-mother-s-day-gift-guide-2014" target="_blank" rel="nofollow">Gifts of Love: Mother's Day Gift Guide 2014</a> 
-</li><li><a href="http://www.smartparenting.com.ph/community/news/study-using-saliva-reveals-reducing-stress-helps-improve-women-s-fertility" target="_blank" rel="nofollow">Study Reveals Reducing Stress May Help Improve Women's Fertility</a> 
-</li><li><a href="http://www.smartparenting.com.ph/home-living/travel-trips-activities/family-weekender-guide-things-to-do-on-may-9-to-11" target="_blank" rel="nofollow">Family Weekender Guide: Things to Do on May 9 to 11</a> 
+<li><a href="http://www.smartparenting.com.ph/home-living/food-talk/5-simple-ways-to-make-your-meals-healthier" target="_blank" rel="nofollow">5 Simple Ways to Serve Healthier Meals at Home</a> 
+</li><li><a href="http://www.smartparenting.com.ph/home-living/homebase/mom-we-love-nicole-jacinto" target="_blank" rel="nofollow">Mom we Love: Nicole Jacinto</a> 
+</li><li><a href="http://www.smartparenting.com.ph/community/news/dad-s-brain-goes-into-caregiver-mode-with-baby-interaction" target="_blank" rel="nofollow">Study: Fatherhood Can Rewire Men's Brains to "Caregiver Mode"</a> 
+</li><li><a href="http://www.smartparenting.com.ph/mom-dad/mom-dad-health/13-questions-you-re-afraid-to-ask-your-doctor-on-secondary-infertility" target="_blank" rel="nofollow">13 Questions on Secondary Infertility you're Afraid to Ask your Doctor</a> 
+</li><li><a href="http://www.smartparenting.com.ph/community/news/behind-the-scenes-our-october-shoot-with-danda-muraoka" target="_blank" rel="nofollow">Behind the Scenes: Our October Shoot with Danda Muraoka</a> 
 </li></ul>
 </div>
 <div id="partnersite[stylebible]" class="partnersite-items">
 <div class="partnersitelogo"><a href="http://www.stylebible.ph/" target="_blank" id="partnersitelogo-stylebible" class="fnpartnersitesprites" rel="nofollow"></a><div class="clearfloat"></div></div>
 <ul>
-<li><a href="http://www.stylebible.ph/fashion/style-report/the-supers" target="_blank" rel="nofollow">Behind the Scenes with Danica Magpantay, Chat Almarvez &amp; Charo Ronquillo!</a> 
-</li><li><a href="http://www.stylebible.ph/fashion/steal-her-style/trendspotting-sheer-maxi-skirts" target="_blank" rel="nofollow">TREND ALERT! See who's wearing sheer maxi skirts!</a> 
-</li><li><a href="http://www.stylebible.ph/fashion/steal-her-style/best-dressed-cheat-sheet-lucille-dizon" target="_blank" rel="nofollow">BEST DRESSED CHEAT SHEET: Shop with Lucille Dizon's keen eye for style!</a> 
-</li><li><a href="http://www.stylebible.ph/gallery/popup/parties/3152" target="_blank" rel="nofollow">EVENT: Filipiniana flair at the State of the Nation Adress 2011</a> 
-</li><li><a href="http://www.stylebible.ph/beauty/beauty-stylist/contrast-nails-matte-and-gloss" target="_blank" rel="nofollow">BEAUTY HOW-TO: Try chic black gloss on black matte nails!</a> 
+<li><a href="http://www.stylebible.ph/beauty/beauty-report/disney-princesses-and-their-local-celebrity-counterparts/" target="_blank" rel="nofollow">Disney Princesses And Their Local Celebrity Counterparts</a> 
+</li><li><a href="http://www.stylebible.ph/fashion/personal-stylist/5-ways-to-be-geek-chic-2/" target="_blank" rel="nofollow">5 Ways To Be Geek Chic</a> 
+</li><li><a href="http://www.stylebible.ph/beauty/look-we-love/midweek-celebrity-selfie-holiday-muses/" target="_blank" rel="nofollow">Midweek Celebrity #selfie: Holiday Muses</a> 
+</li><li><a href="http://www.stylebible.ph/fashion/personal-stylist/work-wear-diaries-dr-aivee-aguilar-teo/" target="_blank" rel="nofollow">Work Wear Diaries: Dr. Aivee Aguilar-teo</a> 
+</li><li><a href="http://www.stylebible.ph/beauty/editors-picks/holiday-beauty-gift-guide-p1000-to-p1500/" target="_blank" rel="nofollow">Holiday Beauty Gift Guide: P1000 To P1500</a> 
 </li></ul>
 </div>
 <div class="clearfloat"></div>
        				</div>
 				</div><!--end footer partnersites-->
+ 
  <div id="footer">
 
             
@@ -1089,8 +1123,11 @@
                          	<li class=" ">
                                     <a href="http://www.femalenetwork.com/celebrities/">Celebrities</a></li>
                             <li class="  ">
-                                    <a href="http://www.femalenetwork.com/health-wellness/">Health &amp; Wellness</a></li>					        					<li class=" ">
-                                    <a href="http://www.femalenetwork.com/food-home/">Food &amp; Home</a></li>
+                                    <a href="http://www.femalenetwork.com/health-wellness/">Health &amp; Wellness</a></li>					        					
+							<li class=" ">
+                                    <a href="http://www.femalenetwork.com/food/">Food</a></li>
+							<li class=" ">
+                                    <a href="http://www.femalenetwork.com/home/">Home</a></li>
                             <li class="  ">
                                     <a href="http://www.femalenetwork.com/work-money/">Work &amp; Money</a></li>
                             <li class="  ">
@@ -1173,7 +1210,12 @@
                                 <li><a href="http://www.stylebible.ph" rel="nofollow" target="_blank">StyleBible.ph</a></li>
                                 <li><a href="http://www.spot.ph" rel="nofollow" target="_blank">Spot.ph</a></li>
                                 <li><a href="http://www.topgear.com.ph" rel="nofollow" target="_blank">TopGear.com.ph</a></li>
-                                <li class="last"><a href="http://www.yummy.ph" rel="nofollow" target="_blank">Yummy.ph</a></li>
+                                <li><a href="http://www.yummy.ph" rel="nofollow" target="_blank">Yummy.ph</a></li>
+								<li><a href="http://www.myproperty.ph" rel="nofollow" target="_blank">MyProperty.ph</a></li>
+								<li><a href="http://www.realliving.com.ph" rel="nofollow" target="_blank">RealLiving.com.ph</a></li>
+								<li><a href="http://www.bridalbook.ph" rel="nofollow" target="_blank">BridalBook.ph</a></li>
+								<li><a href="http://www.buqo.ph" rel="nofollow" target="_blank">Buqo.ph</a></li>
+								<li class="last"><a href="http://www.travelbook.ph" target="_blank">TravelBook.ph</a></li>
                             </ul>
                      </div>
                      <div>
@@ -1275,6 +1317,7 @@ Contact Information: 6F &amp; 7F Robinsons Cybergate Center Tower 3, Robinsons P
 
 	$('.headerRightNews').cycle({ 
     	fx:    'scrollLeft',
+		timeout: '7000'
 	});
 </script>
 
@@ -1282,7 +1325,7 @@ Contact Information: 6F &amp; 7F Robinsons Cybergate Center Tower 3, Robinsons P
     <script src="http://www.femalenetwork.com/templates/fn2011/js/dd_belatedpng.js?v=1"></script>
   <![endif]-->
 
- <script src="http://www.femalenetwork.com/templates/fn2011/javascipts/privacy-policy.js?v=3" type="text/javascript"></script><script src="http://www.femalenetwork.com/templates/fn2011/javascipts/fn.js?v=3" type="text/javascript"></script>
+ <script src="http://www.femalenetwork.com/templates/fn2011/javascipts/privacy-policy.js?v=3" type="text/javascript"></script><script src="http://www.femalenetwork.com/templates/fn2011/javascipts/fn.js?v=6" type="text/javascript"></script>
  <!-- Place this tag in your head or just before your close body tag -->
  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
  
@@ -1302,14 +1345,8 @@ Contact Information: 6F &amp; 7F Robinsons Cybergate Center Tower 3, Robinsons P
  
  
 
-	<script type="text/javascript">
-		var _abd = _abd || [];
-		/* load placement for account: summitmedia, site: http://femalenetwork.com, size: 1x1 - web, zone: popup */
-		_abd.push(["1367567742","Popup","1367575936"]);
-	</script>
-	<script src="http://cdn.ambientplatform.vn/js/adnetwork.js" type="text/javascript"></script>
-	<noscript><div style="bottom:0;position: fixed;right: 0;"><a href="http://track.adnetwork.vn/247/adServerNs/zid_1367575936/wid_1367567742/" target="_blank"><img src="http://delivery.adnetwork.vn/247/noscript/zid_1367575936/wid_1367567742/" /></a></div></noscript>
-	<script src="https://www.surveymonkey.com/jsPop.aspx?sm=WQBcA_2fdJAWoOYMjFCGQ1Xg_3d_3d"> </script>
+	
+	
 <!-- lazy loadings -->
 <script src="http://www.femalenetwork.com/templates/fn2011/javascipts/jquery.lazyload.js"></script>
 <script>$("img.lazy").lazyload();</script>
@@ -1320,12 +1357,8 @@ Contact Information: 6F &amp; 7F Robinsons Cybergate Center Tower 3, Robinsons P
 		<div id="cX-root" style="display:none"></div>
 		<script type="text/javascript">
 			var cX = cX || {}; cX.callQueue = cX.callQueue || [];
-			cX.callQueue.push(['setSiteId', CXENSE_SITE_ID ]);cX.callQueue.push(['sendPageViewEvent', { useAutorefreshCheck: false }]);cX.callQueue.push(['insertWidget',{
-				      widgetId: '32424356041e6d65f280646bca7fbca63d528b89',
-				      templateElementId: 'templateElementHome',
-	  				  targetElementId: 'targetElementHome',
-				      width: 300, height: 182
-				      }]);
+			cX.callQueue.push(['setSiteId', CXENSE_SITE_ID ]);
+			console.log('Current Cx Id: ' + cX.getUserId());cX.callQueue.push(['sendPageViewEvent', { useAutorefreshCheck: false }]);
 		</script>
 		<script type="text/javascript">
 			(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
@@ -1334,6 +1367,18 @@ Contact Information: 6F &amp; 7F Robinsons Cybergate Center Tower 3, Robinsons P
 		</script>
 		<!-- Cxense script end --><!-- Cxense script end -->
 
+<!-- START scrolldepth -->
+		
+				
+        <script src="http://www.femalenetwork.com/lib/js/jquery.scrolldepth.js"></script>
+        
+        <script>
+        $(function() {
+          $.scrollDepth({pageLabel: 'Scroll Depth - privacy-policy'});
+        });
+        </script>
+                    		
+<!-- END scrolldepth -->
 
 
 </body></html>
