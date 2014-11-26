@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525022828id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126184301id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
 
 # KS3 (Key Stage 3) Education Quizzes - Privacy Policy
 
 This document outlines the Privacy Policy of Education Quizzes and forms an integral part of our Terms and Conditions.   
 
 
-In order for us to maintain a record for you of the KS3 quizzes you have played (dates and scores) we need to retain the information that you give us at the time you register or subscribe. We acknowledge that you need to trust us when you share personal information with us and we take our responsibilities in this regard very seriously. We have documented below the ways in which we use the information that you give us.
+In order for us to maintain a record for you of the quizzes you have played (dates and scores) we need to retain the information that you give us at the time you register or subscribe. We acknowledge that you need to trust us when you share personal information with us and we take our responsibilities in this regard very seriously. We have documented below the ways in which we use the information that you give us.
 
 **1\. Sharing Information**  
 We will never share your information and therefore you will never be contacted by any third party as a result of information that you supply to us.
 
 **2\. E-mails**  
-We thoroughly disapprove of spam and we have no intention of subjecting you to unwanted and unsolicited e-mails. We want to provide you with enough information to keep you informed but not so much as to become annoying. We will send you a welcome e-mail when you subscribe. Other than that we will send e-mails only when we have something worthwhile to say that we genuinely think you might want to know about.  After the initial welcome email, every time we email you we will give you the opportunity to be deleted from our email list.
+We thoroughly disapprove of spam and we have no intention of subjecting you to unwanted and unsolicited e-mails. We want to provide you with enough information to keep you informed but not so much as to become annoying. We will send you a welcome e-mail when you subscribe. Other than that we will send e-mails only when we have something worthwhile to say that we genuinely think you might want to know about. After the initial welcome email, every time we email you we will give you the opportunity to be removed from our email list.
 
 **3\. Information That We Hold About You**  
-All of the information we hold about you can be found by logging into “Your Account” at the Education Quizzes website. You can change some of these details if you would like to do so. We do not store financial details about you such as your credit card or debit card details.  Our merchant provider (PayPal) need to store some information that enables them to collect the monthly subscription. 
+All of the information we hold about you can be found by logging into “Your Account” at the Education Quizzes website. You can change some of these details if you would like to do so. We do not store financial details about you such as your credit card or debit card details. Our merchant provider (PayPal) need to store some information that enables them to collect the monthly subscription. 
 
 **4\. Cookies**  
 Cookies are small computer files that assist both you and us. Without cookies it is not possible for us to keep a record for you of the quizzes you have played, the dates they were played and your scores. You have our assurance that under no circumstances will cookies be used to gather specific information about your use of the site either for our own use or for disclosure to any third party.
