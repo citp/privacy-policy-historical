@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winona.edu privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515000156id_/http%3A//www.winona.edu/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winona.edu privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126221746id_/http%3A//www.winona.edu/disclaimer.asp) for the most accurate reproduction.*
 
 # Disclaimer - Winona State University
 
@@ -26,4 +26,4 @@ In the course of using this web site, you may choose to provide us with informat
 
 University web sites provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the University's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a University web site by noting the URL of the destination site. 
 
-If you have questions about general Winona State University security measures or this site, its collection of information, and its online privacy statement contact webmaster@winona.edu. 
+If you have questions about general Winona State University security measures or this site, its collection of information, and its online privacy statement contact [webmaster@winona.edu](mailto:webmaster@winona.edu?Subject=Privacy%20Statement "email WSU Webmaster"). 
