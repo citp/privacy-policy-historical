@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529003416id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094427id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy | Orion Telescopes & Binoculars
 
@@ -68,7 +68,7 @@ Our Site has reasonable security measures in place to protect the loss, misuse a
 
 ## Web site security
 
-We have taken many steps to ensure the security of your transaction. The data you send has a minimum 128-bit SSL encryption. Extended validation complies with the CA/Browser Forum Extended Validation Certificate Standard. Independent site authentication, including Site ownership and our organization's identity, is provided by VeriSign. You can confirm that you are in a secure area by looking for the closed padlock symbol on your browser. Click here to confirm.
+We have taken many steps to ensure the security of your transaction. Telescope.com is secured with a GeoTrust world-class SSL certificate, enabling up to 256-bit SSL encryption. More than 100,000 customers in over 150 countries trust GeoTrust to secure online transactions and conduct business over the Internet. The presence of SSL means you can rest assured that communications (e.g. credit card numbers) between your browser and this site's web servers are private and secure when the SSL session is activated.
 
 This Site is tested and certified daily to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard. This indicates that a site such as ours meets payment card industry guidelines for remote web server vulnerability testing to help protect your personal information. Click here to confirm.
 
