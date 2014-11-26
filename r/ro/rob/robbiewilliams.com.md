@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013202949id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RobbieWilliams.com
+# Shop > Privacy Policy | Robbie Williams
 
-PRIVACY AND COOKIES POLICY
+#### 1\. INFORMATION ABOUT US
 
-1\. INFORMATION ABOUT US
-
-[www.robbiewilliams.com](http://www.robbiewilliams.com/) (our site) is operated and owned by RobbieWilliams.com of  111 Frithville Gardens, London, W12 7JQ REG NO 4389178 on behalf of Robbie Williams  (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
+[www.robbiewilliams.com](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/www.robbiewilliams.com) (our site) is operated and owned by RobbieWilliams.com of  111 Frithville Gardens, London, W12 7JQ REG NO 4389178 on behalf of Robbie Williams  (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
 
 This Privacy and Cookies Policy (together with the documents referred to on it and the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -14,20 +12,20 @@ For the purposes of the Data Protection Act 1998 (the “Act”), the data contr
 
 We will only collect and process information about you in accordance with this Privacy and Cookies Policy. By using our site, you consent to such processing.
 
-2\. INFORMATION WE MAY COLLECT FROM YOU
+#### 2\. INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
   * Information that you provide when you fill in forms on our site, such as your name, age, address, email address, sex and mobile number. We may also ask you for information when you purchase products (“Products”) from our site, register for our mailing list, access our chat forum and when you report a problem with our site.
   * Information about you such as your name, address and contact details when you enter a competition or prize-draw we may choose to operate.
-  * ·If you contact us, we may keep a record of that correspondence.
-  * ·We or our agents on our behalf may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * ·Details of any transactions you carry out through our site and of the fulfilment of your orders (“Orders”).
-  * ·Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * If you contact us, we may keep a record of that correspondence.
+  * We or our agents on our behalf may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of any transactions you carry out through our site and of the fulfilment of your orders (“Orders”).
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 
 
-3\. IP ADDRESSES AND COOKIES
+#### 3\. IP ADDRESSES AND COOKIES
 
 We use analytics to collect and store anonymous statistical data about our users’ visits to our site.
 
@@ -37,17 +35,17 @@ We may obtain information about your general internet usage by using a cookie fi
 
 Our site uses the following cookies:
 
-3.1 Session cookies
+#### 3.1 SESSION COOKIES
 
 These remember what you have put in your basket and enable you to use the checkout to make your purchase on our site. Without these essential session cookies we would not be able to provide you with the ability to make the purchase on our site.
 
 Session cookies are not used to gather information to advertise products or services to you.
 
-3.2 Quantcast cookie (_qca)
+#### 3.2 QUANTCAST COOKIE (_QCA)
 
 This web analytics service provided by Quantcast helps us to analyse how users use our site. It records visitors behaviour overall, such as typical length of stay on our site or average number of pages a user views.
 
-3.3 Google Analytics (_utma, _utmb, _utmc, _utmz)
+#### 3.3 GOOGLE ANALYTICS (_UTMA, _UTMB, _UTMC, _UTMZ)
 
 This web analytics service provided by Google Inc helps us to analyse how users use our site. It counts the number of visitors and tells us things about their behaviour overall, such as typical length of stay on our site or the average number of pages a user views.  
 
@@ -106,15 +104,15 @@ Safari
 
 By continuing to use our site you give your pre-informed consent to us using cookies (and other similar tools) on your visit. If you subsequently wish to revoke this consent, you may do so by deleting the cookies (and similar tools) via your browser tools settings. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to our site.
 
-If you want to learn more about cookies you can do so at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+If you want to learn more about cookies you can do so at [www.allaboutcookies.org](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/www.allaboutcookies.org)
 
-4\. WHERE WE STORE YOUR PERSONAL DATA
+#### 4\. WHERE WE STORE YOUR PERSONAL DATA
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will endeavour to take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy and Cookies Policy.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-5\. USES MADE OF THE INFORMATION
+#### 5\. USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways:
 
@@ -126,17 +124,16 @@ We use information held about you in the following ways:
   * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf.
   * If you consent, to notify you by email of our Products, promotions, competitions and special offers that may be of interest to you.
   * To create non personally identifiable reports on the user interaction with our site.
-  * If you have made a purchase from our shop we may occasionally update you on our latest products, news and special offers via e-mail. You have the option to opt-out of receiving marketing communications from us by clicking on the 'Unsubscribe' link in any email communications which we might send you.
 
 
 
-6\. HOW YOU CAN REMOVE, UPDATE OR CORRECT YOUR PERSONAL INFORMATION INCLUDING UNSUBSCRIBING FROM OUR NEWSLETTER
+#### 6\. HOW YOU CAN REMOVE, UPDATE OR CORRECT YOUR PERSONAL INFORMATION INCLUDING UNSUBSCRIBING FROM OUR NEWSLETTER
 
 When you enter your email address into the newsletter icon and click the icon, you will be given the opportunity to enter a form and provide us with your details for us to contact you. We will then send you an email for you to confirm your subscription to the newsletter. If you wish to update, correct or delete your details or unsubscribe form our newsletter you can do so following the relevant icons and links in displayed our email to you.
 
-If you wish us to delete your details from our records entirely, you will need to contact us at [help@robbiewilliams.com](mailto:help@robbiewilliams.com) as we will need to do this manually for you.
+If you wish us to delete your details from our records entirely, you will need to contact us at [help@robbiewilliams.com](mailto:help@robbiewilliams.com) as we will need to do this manually for you.
 
-7\. DISCLOSURE OF YOUR INFORMATION
+#### 7\. DISCLOSURE OF YOUR INFORMATION
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -149,22 +146,20 @@ We may disclose your personal information to third parties:
 
 
 
-8\. MINORS
+#### 8\. MINORS
 
 Please note that our site and the service available on it are not aimed at Minors, and you should not share any personal information with us if you are a Minor (the age of Minors is determined by local laws where you reside).
 
-9\. CHANGES TO OUR PRIVACY AND COOKIES POLICY
+#### 9\. CHANGES TO OUR PRIVACY AND COOKIES POLICY
 
 Any changes we may make to our Privacy and Cookies Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-10\. LINKS
+#### 10\. LINKS
 
 This Privacy and Cookies Policy applies only to information collected by us on our site. The site may contain links to other websites. Please be aware that we are not responsible for the privacy and cookies policies of such other websites and we would advise you to read the privacy and cookies policy of other websites that collects your personal information. 
 
-11\. CONTACT
+#### 11\. CONTACT
 
-If you have any questions, comments or requests regarding this Privacy and Cookies Policy, the practices of our site or your dealings with our site you can contact us by emailing [help@robbiewilliams.com](mailto:help@robbiewilliams.com).
+If you have any questions, comments or requests regarding this Privacy and Cookies Policy, the practices of our site or your dealings with our site you can contact us by emailing [help@robbiewilliams.com](mailto:help@robbiewilliams.com).
 
 Thank you for visiting our site.
-
-BACK TO TOP
