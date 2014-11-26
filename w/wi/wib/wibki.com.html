@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wibki.com privacy policy that was archived on 2014-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213045253id_/http%3A//www.wibki.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wibki.com privacy policy that was archived on 2014-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126102131id_/http%3A//www.wibki.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <!--[if IE]> <link href="/css/ie.css" rel="stylesheet" /> <![endif]-->
@@ -67,16 +67,21 @@
 					<div class="larg-logo left">
 						<a href="http://www.wibki.com" onclick="_gaq.push(['_trackPageview','//wbklinks/profilemenu/wibkilogo']);">
 							<!-- <img src="http://img0.minifav.net/images/wibki/logos/logo-header.png" width="131px" height="60px"> -->
-							<div id="logo-header" class="sprite-img" data-intro="Wibki serves as your starting point for the web. Providing you with a new browsing experience." data-step="1"></div>
+							<div id="logo-header" class="sprite-img" data-intro="Wibki serves as your starting point for the Web. An easy way to access all your Web favorites." data-step="1"></div>
 						</a>
 					</div>
-					<div class="search-bar left"><!--data-intro='Without a link in your Wibki? No problem, just search the web' data-step='3'-->
-						<form method="GET" action="http://www.wibki.com/index/search/" target="_blank">
-							<input name="q" type="text" placeholder="Google Search">
-							<button type="submit">
-								<i class="sprite-img"></i>
-							</button>
-						</form>
+					<div>
+					<p id="thisIsSearch">
+					
+					 </p>
+							<ul class="iconsSml">
+								<li class="web" title="Google" data-searchtype="web">Google</li>
+								<li class="images" title="Bing" data-searchtype="images">Bing</li>
+								<li class="news" title="YouTube" data-searchtype="news">YouTube</li>
+								<li class="videos" title="Amazon" data-searchtype="video">Amazon</li>
+							</ul>  
+							
+					   
 					</div>
 				</div>
 				<div class="second-nav right">
@@ -264,6 +269,69 @@
 			drop.removeClass('open');
 		});
 	});
+	
+	$(document).ready(function(){
+	
+	var config = {
+		siteURL		: 'wibki.com',	// Change this to your site
+		searchSite	: false,
+		type		: 'web',
+		append		: false,
+		perPage		: 8,			// A maximum of 8 is allowed by Google
+		page		: 0				// The start page
+	}
+	
+	// The small arrow that marks the active search icon:
+	var arrowicon = $('<span>',{class:'arrowicon'}).appendTo('ul.iconsSml');
+	
+	$('ul.iconsSml li').click(function(){
+		var el = $(this);
+		
+		if(el.hasClass('active')){
+			// The icon is already active, exit
+			return false;
+		}
+		
+		el.siblings().removeClass('active');
+		el.addClass('active');
+		
+		// Move the arrow below this icon
+		arrowicon.stop().animate({
+			left		: el.position().left,
+			marginLeft	: (el.width()/2)-4
+		});
+		
+		// Set the search type
+		config.type = el.attr('data-searchType');
+		$('#more').fadeOut();
+		
+		if(config.type == 'web'){
+			var element=document.getElementById("thisIsSearch");
+			element.innerHTML="<form id='searchForm' method='GET' action='http://www.wibki.com/index/search/' target='_blank'><fieldset><input type='submit' value='Submit' id='submitButton'/><input type='hidden' name='cx' value='partner-pub-1569923671775194:7747982731'/><input type='hidden' name='cof' value='FORID:10'/><input type='hidden' name='ie' value='UTF-8'/><input name='q' type='text' placeholder='Google Search'>";
+
+		}
+		if(config.type == 'images'){
+			var element=document.getElementById("thisIsSearch");
+			element.innerHTML="<form id='searchForm' method='GET' action='http://Trovi.com/Results.aspx' target='_blank'><fieldset><input type='submit' value='Submit' id='submitButton'/><input type='hidden' name='ctid' value='CT3326800'/><input type='hidden' name='searchsource' value='55'/><input type='hidden' name='um' value='6'/><input name='q' type='text' placeholder='Bing Search'>";
+
+		}
+		if(config.type == 'news'){
+			var element=document.getElementById("thisIsSearch");
+			element.innerHTML="<form id='searchForm' method='GET' action='https://www.youtube.com/results' target='_blank'><fieldset><input type='submit' value='Submit' id='submitButton'/><input name='q' type='text' placeholder='YouTube Search'>";
+
+		}
+		if(config.type == 'video'){
+			var element=document.getElementById("thisIsSearch");
+			element.innerHTML="<form id='searchForm' method='GET' action='http://www.amazon.com/gp/search?' target='_blank'><fieldset><input type='submit' value='Submit' id='submitButton'/><input type='hidden' name='ie' value='UTF8'/><input type='hidden' name='camp' value='1789'/><input type='hidden' name='creative' value='9325'/><input type='hidden' name='index' value='aps'/><input type='hidden' name='linkCode' value='ur2'/><input type='hidden' name='tag' value='wbksrch-20'/><input name='keyword' type='text' placeholder='Amazon Search'>";
+		}
+	});
+	
+	
+	// Marking the web search icon as active:
+	$('li.web').click();
+		
+});
+
 </script>
 
 
