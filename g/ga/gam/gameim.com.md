@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063151id_/http%3A//gameim.com/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126153343id_/http%3A//gameim.com/Policy.html) for the most accurate reproduction.*
 
-# Diablo 3 Gold, Buy Diablo 3 Gold, Cheap Diablo 3 Gold for Sale
+# Wildstar Gold, Buy ArcheAge Gold, Cheap Aion Gold for Sale
 
 PRIVACY
 
