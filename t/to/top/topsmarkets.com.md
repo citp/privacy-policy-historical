@@ -1,63 +1,57 @@
-> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620034427id_/http%3A//www.topsmarkets.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126012736id_/http%3A//www.topsmarkets.com/privacy/privacy_s.las) for the most accurate reproduction.*
 
-# TOPS Privacy Policy
+# Tops Friendly Markets - Tops Deli
 
-### Privacy Policy 
+Privacy Policy 
 
-TOPS Markets®, (TOPS) believes in protecting the confidentiality of customer information in accordance with our customers' wishes and applicable laws. Our reason for collecting customer information is to help us deliver greater value and improve the shopping experience of our customers. The TOPS BonusCard is our primary means of collecting such information which helps us to target benefits and services to our customers. This may include advising our customers about products, services and other opportunities. 
+## Privacy Policy
 
-TOPS values your business and the trust you place in us. To help you better understand how customer information is used and protected at TOPS, this Privacy Policy outlines (a) a definition of customer information, (b) methods and sources of collecting customer information, (c) categories of institutions or parties to whom we may disclose customer information, and (d) measures and efforts we take to safeguard customer information. 
+TOPS Markets® (TOPS) believes in the importance of protecting our customers' information. TOPS values your business and the trust you place in us. To help you better understand how customer information is collected, used and protected at TOPS, this Privacy Policy outlines: (a) our definition of customer information, (b) how customer information is collected, (c) how customer information is used, (d) how you may prevent your customer information from being collected, and (e) the measures we take to safeguard customer information. 
 
-**What is Customer Information?**
+Our primary reasons for collecting customer information is to help us deliver greater value to you and to improve your shopping experience with us. For example, we may use customer information to advise you about products, services, special savings, coupons and discounts we believe may be of interest to you, and to advise you of important information such as product recalls. 
 
-Customer Information is information about you that is obtained by TOPS in connection with providing a product or service for personal, family or household purposes. Some Customer Information is general and not specifically about you. For example, we may collect and use aggregate sales information or purchase data to determine purchasing trends. Because this aggregated information cannot be linked to any individual, it is not protected by this policy. 
+#### What is Customer Information?
 
-Customer Information also includes Customer Identifiable Information. This is information that identifies you. It includes your name, address, email address, and telephone number. If you elect to have check cashing privileges at our stores, it may also include your social security number, checking account number and/or driver's license number.
+Customer Information is information that is obtained by TOPS when our customers purchase a product or service in our stores, or when our customers interact with us as described in this Privacy Policy. Customer Information includes both generic information that does not contain any specific information about you, as well as Customer Identifiable Information which is information that identifies or is specific to you. Customer Identifiable Information typically includes your name, address, email address, telephone number and purchasing information. If you elect to have check-cashing privileges at our stores, it may also include your social security number, checking account number and/or driver's license number. 
 
-This privacy policy does not include TOPS pharmacy records. Pharmacy records are kept separate from other Customer Information and maintained in accordance with the privacy and other requirements of Federal and state law. Please speak to your pharmacist for additional information. 
+Generic information is information concerning sales in general, which does not contain any specific information about you or others ("Generic Information"). Because Generic Information cannot be linked to you or any other specific individual, it is not covered by this Privacy Policy and it may be used by TOPS or others for any purpose. 
 
-  
-**How is Customer Information Identified and Collected?**
+Customer Information, as defined in this Privacy Policy, does not include any of your pharmacy records. Your pharmacy records are kept separate and apart from other Customer Information. Importantly, all pharmacy records are kept and maintained in strict accordance with the privacy and confidentiality requirements mandated by Federal and state law. Our privacy policy for pharmacy records is described in the TOPS Notice of Privacy Practices, which is available on our website or at any of our pharmacy locations. [Click here](http://tops.graphics.grocerywebsite.com/G_Departments/TOPSMARKETS_NoticeofPrivacyPractices_131003.pdf) to view the Pharmacy Privacy Policy or speak to your pharmacist for additional information. 
 
-  
-To help better understand and serve the needs of our customers, we collect Customer Information from various sources, including the following: 
+#### How is Customer Identifiable Information Collected?
 
-  * Information we receive when you use your TOPS BonusCard. 
-  * Information you give us on application forms, customer surveys, store kiosks, sweepstakes and coupon rebate entries, or when you visit our website or shop at our stores.
-  * Information you provide to us over the phone or through the mail. 
-  * Information we collect through your browser when you visit our website and your browser interacts with us; 
-  * Information recorded as a result of your interaction with any company in our corporate family related by common ownership, such as Ahold USA, Inc. and its other supermarket companies; and 
-  * Information provided to us by other companies. 
+We collect Customer Identifiable Information from various sources, including the following: 
 
+  * Information we receive when you use your TOPS BonusPlus®; 
+  * Information you give us on application forms, customer surveys, store kiosks, sweepstakes, contests and coupon rebate entries; 
+  * Information you provide to us over the phone, through the mail, or via email; 
+  * Information we collect through your browser when you visit our website and your browser interacts with our computer systems; and 
+  * nformation provided to us by other companies that have collected information about you and that have the lawful right to give this information to us. 
 
 
-**How is Customer Identifiable Information used?**
 
-TOPS will not disclose to any company, person or agency Customer Identifiable Information such as customer names, home or e-mail addresses, or phone numbers, except as described below. 
+#### How is Customer Identifiable Information used?
 
-In order to provide you with products and services we believe may meet your needs and interests, TOPS may disclose Customer Identifiable Information about you, your purchases and your experiences with TOPS to other companies in our corporate family, which in this Privacy Policy includes Ahold USA, Inc. and its other operating companies related by common ownership. We may also provide Customer Identifiable Information to marketing services providers that perform services for us, such as sending a direct mail offer from us to you. We require these companies to sign a confidentiality agreement that prohibits them from using the information for their own purpose and from disclosing the information to anyone else. 
+In order to provide you with products and services we believe may meet your needs and interests, TOPS may disclose Customer Identifiable Information about you, your purchases and your shopping experiences with TOPS to marketing service providers that are utilized by TOPS to perform services for us, such as sending a direct mail offer from us to you. Importantly, we require these marketing service providers to sign a confidentiality agreement that prohibits them from using your Customer Identifiable Information for other purposes and/or from disclosing your Customer Identifiable Information to anyone else. 
 
-In addition, TOPS may disclose Customer Identifiable Information as required by law, as required to protect the rights or safety of TOPS or our customers, or in response to a specific law enforcement request.   
-TOPS may transfer Customer Identifiable Information in connection with the sale of its business operations to a buyer who agrees to be bound by this Privacy Policy. 
+TOPS may also disclose Customer Identifiable Information to third party companies who accumulate and combine data to produce aggregated information that is not identifiable to you or any other specific individual ("Aggregated Information"). Importantly, we require these third party companies to sign a confidentiality agreement that prohibits them from using your Customer Identifiable Information for other purposes and/or from disclosing your Customer Identifiable Information to anyone else. Aggregated Information, like Generic Information, cannot be linked to you or any other specific individual, and is therefore not covered by this Privacy Policy, and may be used by TOPS or others for any purpose. 
 
-**How can I prevent my Customer Identifiable Information from being disclosed?**
+We may also provide your Customer Identifiable Information to a third party to complete your purchases. For example, if you use a credit or debit card to pay for your purchases at TOPS your card number and transaction information will be shared with the payment processor or card issuer. In addition, TOPS may disclose Customer Identifiable Information as required by law, as required to protect the rights or safety of TOPS or our customers, or in response to a specific law enforcement request. TOPS may also disclose Customer Identifiable Information to our affiliates, and may transfer Customer Identifiable Information in connection with a sale of its business operations, reorganization, merger, sale, joint venture or other disposition of the assets or stock of (or membership interest in) TOPS. 
 
-You have the right at any time to direct us not to disclose Customer Identifiable Information about you, or to change your preference in this regard, or to change Customer Identifiable Information that you have provided to us, by [**_contacting us_**](http://www.topsmarkets.com/shareddev/TOPS_comments/consumer_commentcard.cfm) at our website, or by calling TOPS Consumer Relations, toll-free at 1-800-522-2522. If you direct us not to disclose such information about you, you will not be eligible for any card-based promotions that require individual data, such as continuity programs which require Customer Identifiable Information, sweepstakes, etc, but you will still be entitled to receive other benefits from the use of your TOPS BonusCard. 
+#### How can I prevent my Customer Identifiable Information from being collected?
 
-**What measures have been designed to safeguard Customer Identifiable Information?**
+You consent to us collecting and using your Customer Identifiable Information in accordance with this Privacy Policy by (a) signing up for and using a TOPS BonusPlus®, (b) registering on our website, (c) interacting with us via phone, mail or e-mail, or (d) otherwise voluntarily providing us with your Customer Identifiable Information. 
 
-Protecting Customer Identifiable Information is an important priority for TOPS. Our internal employee Code of Ethics and this Privacy Policy emphasize this priority. TOPS employees who violate our policies and procedures are subject to disciplinary action. Marketing services providers that receive Customer Identifiable Information are required to preserve the confidentiality of that information under the terms of our legal contracts with them. TOPS also maintains physical, electronic and procedural safeguards in accordance with industry standards that are designed to keep unauthorized persons from accessing Customer Identifiable Information stored on our systems. 
+You may elect not to receive special offers by mail or e-mail. You may also prevent your Customer Identifiable Information from being collected if you shop without a TOPS BonusPlus®. Please keep in mind that if you elect not to use a TOPS BonusPlus® you may not be eligible for TOPS BonusPlus® savings or other TOPS BonusPlus® -based promotions such as TOPS Gaspoints® and other continuity and savings programs, including certain sweepstakes that require the use of a TOPS BonusPlus®. 
 
-**What happens when I visit TOPS’ website?**
+####  What measures have been designed to safeguard Customer Identifiable Information?
 
-  
-When you connect to a TOPS website our computers do not collect Customer Identifiable Information about you unless you submit that information to us through our website during your visit. We track usage of our website and record the preferences of visitors to our website, but we do not record any Customer Identifiable Information about you through these processes.   
-The TOPS website provides links to advertisers and other providers of products and services that may be of interest to you. If you choose to visit us via the Internet or interact with the businesses linked to our website, TOPS is not responsible for that transmission or for the use of information by the linked entities. 
+Protecting Customer Identifiable Information is a priority for TOPS. Our employee Code of Ethics and this Privacy Policy emphasize this priority. TOPS employees who violate our policies and procedures are subject to disciplinary action. Marketing services providers and other third parties that receive Customer Identifiable Information are required to preserve the confidentiality of that information under the terms of our contracts with them. TOPS also maintains physical, electronic and procedural safeguards that meet or exceed industry standards that are designed to keep unauthorized persons from accessing Customer Identifiable Information stored on our systems. 
 
-**Will the Privacy Policy change?**
+#### Will the Privacy Policy change?
 
-TOPS may modify this Privacy Policy from time to time. Our current Privacy Policy can be viewed on our website at http://www.topsmarkets.com/About/privacypolicy.cfm.   
-If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact TOPS Consumer Relations, toll-free at 1-800-522-2522,or ** _[contact us ](http://www.topsmarkets.com/shareddev/TOPS_comments/consumer_commentcard.cfm)_**through our website.
+TOPS may modify this Privacy Policy from time to time. Our current Privacy Policy can be viewed on our website at www.topsmarkets.com. The date this Privacy Policy was last revised is noted at the end of this Privacy Policy. 
 
-  
-This Privacy Policy was last revised on March 7, 2008
+If you have any questions regarding this Privacy Policy, please contact TOPS Consumer Relations, toll-free at 1-800-522-2522, or contact us through our website. 
+
+Last Revised: May 6, 2014 
