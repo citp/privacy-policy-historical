@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideteam.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618070337id_/http%3A//www.slideteam.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideteam.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126134431id_/http%3A//www.slideteam.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
