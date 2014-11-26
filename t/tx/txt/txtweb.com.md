@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txtweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102053id_/http%3A//www.txtweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtweb.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126205853id_/http%3A//www.txtweb.com/privacy) for the most accurate reproduction.*
 
 # txtWeb | Privacy - txtWeb
 
