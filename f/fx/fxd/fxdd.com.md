@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608143159id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126082500id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # FXDD Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
 
