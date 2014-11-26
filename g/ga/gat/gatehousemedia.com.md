@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503150836id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126164311id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
 
 # Privacy - Gatehouse Media
 
@@ -36,6 +36,8 @@ Occasionally, we use "cookies" to store pertinent user information during a sess
 
 We may also collect other information from users to the Websites such as the user's IP address (the number assigned automatically to your computer whenever you use the World Wide Web), length of time spent on the Websites, and the pages accessed during each visit to the Websites. We use this information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
+We may also use third-party advertising companies to collect data and/or serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 ### HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION
 
 To opt out of further email communications from us, just click on the Unsubscribe link in the email, or contact us as instructed at the end of this Privacy Policy. We need up to 30 days to process your request. 
@@ -68,7 +70,7 @@ This Web site uses services provided by AP News Registry. AP News Registry colle
 
 We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.
 
-GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXuâ€™s privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
+GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXu's privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
 
 ### CONTACT US
 
@@ -84,7 +86,7 @@ Fairport, NY 14450
 
 **Call us at:** (585) 598-0030 and ask for the GateHouse webmaster
 
-Last revised April 2010
+Last revised July 2014
 
 GateHouse Media, Inc.  
 350 WillowBrook Office Park, Fairport, NY 14450  
