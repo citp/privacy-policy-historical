@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082755id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126220238id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
