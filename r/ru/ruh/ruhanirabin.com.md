@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612193700id_/http%3A//www.ruhanirabin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126064352id_/http%3A//www.ruhanirabin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RuhaniRabin.com
 
@@ -14,7 +14,7 @@ Like many other Web sites, [www.ruhanirabin.com](http://www.ruhanirabin.com/) 
 
   * Google, as a third party vendor, uses cookies to serve ads on [www.ruhanirabin.com](http://www.ruhanirabin.com/).
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.ruhanirabin.com](http://www.ruhanirabin.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://anonym.to/?http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html).
 
 
 
