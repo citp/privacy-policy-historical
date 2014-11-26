@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609101604id_/http%3A//www.netsarang.com/rules/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126032220id_/http%3A//www.netsarang.com/rules/privacy.html) for the most accurate reproduction.*
 
-# NetSarang - Privacy Policy
+# Secure Connectivity Solutions: PC X server, SSH client, SFTP client, LPD server
 
 NetSarang Computer, Inc. is committed to protecting your privacy. We use the information we collect on our web site to deliver services and to enhance your experience. Please read below for specific details on our policy. 
 
