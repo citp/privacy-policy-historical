@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612181021id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126045312id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSchoolRun's privacy policy | TheSchoolRun
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy. We will only use the information th
 
 We collect information about you for three reasons: firstly, to process your order, secondly, to submit your competition/prize draw entries (when applicable) and thirdly, to provide you with the best possible service.
 
-We may send you information regarding the progress of your order by email. We may also occasionally make our mailing list available to other trusted third parties. Please select the appropriate option when sending personal information to us if you would prefer not to receive offers or information from other relevant companies. Alternatively, please contact Customer Services with your email address and user name and we will ensure that none of your details are passed on.
+We may send you information regarding the progress of your order by email as well as information about our products, services and special offers however we won't ever send random marketing emails to personal email addresses (spam). We may also occasionally make our mailing list available to other trusted third parties. Please select the appropriate option when sending personal information to us if you would prefer not to receive offers or information from other relevant companies. Alternatively, please contact Customer Services with your email address and user name and we will ensure that none of your details are passed on.
 
 The type of information we will collect about you includes:
 
