@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendimobile.om privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615164923id_/http%3A//www.friendimobile.com/en-om/article/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendimobile.om privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126155353id_/http%3A//www.friendimobile.com/en-om/article/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - FRiENDi mobile
 
