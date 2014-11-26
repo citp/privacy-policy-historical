@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyna.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622004444id_/http%3A//privacy.truste.com/privacy-policy/Realtyna%2520L.L.C./policyId%3Df9a49d86-8aef-4d9c-8ca1-8f3f51579df8%3Freferer%3Drealtyna.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyna.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126144021id_/http%3A//privacy.truste.com/privacy-policy/Realtyna%2520L.L.C./policyId%3Df9a49d86-8aef-4d9c-8ca1-8f3f51579df8%3Freferer%3Drealtyna.com) for the most accurate reproduction.*
 
 # realtyna.com Privacy Policy
 
@@ -14,25 +14,25 @@ This privacy statement describes how **realtyna.com** collects and uses your per
 
 ## Additional Uses w/Choice »
 
-](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Collection)
+](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Collection)
 
-Your data is used to create a profile about you based upon your past purchases and/or to send you marketing communications. You can opt-out by emailing [info@realtyna.com](mailto:info@realtyna.com). **[learn more »](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Collection)**
+Your data is used to create a profile about you based upon your past purchases and/or to send you marketing communications. You can opt-out by emailing [info@realtyna.com](mailto:info@realtyna.com). **[learn more »](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Collection)**
 
 [
 
 ##  Data Shared for Fulfillment »
 
-](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Sharing)
+](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Sharing)
 
-Your data is only shared with or collected by other companies only to fulfill your order or provide services you requested. **[learn more »](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Sharing)**
+Your data is only shared with or collected by other companies only to fulfill your order or provide services you requested. **[learn more »](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#Sharing)**
 
 [
 
 ##  Tracking On This & Other Sites w/Choice »
 
-](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#AdServing)
+](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#AdServing)
 
-Other companies collect data from this and other independent websites to provide you with relevant ads. You can [opt-out](http://preferences.truste.com/) if you do not want your data used for this purpose. **[learn more »](https://web.archive.org/web/20140622004444id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#AdServing)**
+Other companies collect data from this and other independent websites to provide you with relevant ads. You can [opt-out](http://preferences.truste.com/) if you do not want your data used for this purpose. **[learn more »](https://web.archive.org/web/20141126144021id_/http://privacy.truste.com/privacy-policy/Realtyna-L.L.C./certified/a50d2e8e-ece7-4467-9d3e-d130c48d68fc#AdServing)**
 
 * * *
 
