@@ -1,39 +1,49 @@
-> *The following text is extracted and transformed from the gpsed.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517184056id_/http%3A//www.shape.ag/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsed.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126101908id_/http%3A//www.shape.ag/en/privacy) for the most accurate reproduction.*
 
 # SHAPE.AG - Privacy Policy
 
-**Last Updated: 02.01.2013**
+**Last Updated: 20.06.2014**
 
-**Introduction**  
-This policy covers use of personal information that SHAPE.AG collects when you use www.shape.ag, related pages and software applications offered by SHAPE.AG. 
+**Our Commitment to Privacy**
 
-From time to time, you will be asked to submit personal information about yourself in order to receive or use services on www.shape.ag, such services include receiving newsletters, competitions, registering for events, completing questionnaires, downloading and using software and submitting questions and reports. By entering your details in the fields requested, you enable SHAPE.AG to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. 
+We understand and respect the privacy concerns of our customers. Therefore, we have made it a critical focus to protect the confidentiality and security of the personal information you provide us. This document, SHAPE GmbH Privacy Policy, governs how SHAPE GmbH ("we," "us," "our," etc.) handles our customers ("you," "your," etc.) data both in mobile apps / on servers (collectively, the "Services") and on our websites (the "Websites").
 
-**Updates to this Privacy Policy and Notification of Changes**  
-This policy may change without notice from time to time and we will post these changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect and how we use it.
+SHAPE GmbH operates several services and websites using a few fundamental principles:
 
-**The information collected**  
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience of using our software and services. We only collect personal information that is relevant to the purpose of our website or software application functionality.
+  * We don't ask you for personal information unless it is required for operation of services and websites;
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights;
+  * We don't store personal information unless required for the on-going operation of one of our services.
 
-Registering on SHAPE sites is optional. If you choose not to register or provide personal information, you can still use the SHAPE website. However, you will not be to receive email alerts. Separately, you may choose to sign-up to receive updates/news information from SHAPE by selecting the appropriate option.
 
-**How can I delete my information?**  
-SHAPE currently does not have a method for completely deleting user information from our database. However, deleting the cookies stored on your computer and removing your personal information from software applications offered by SHAPE will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some services offered by SHAPE.AG.
 
-**What we do with the information collected**  
-When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you to gather broad demographic identification that will not be tied to your identity.
+**Service-Specific Privacy Policies**
 
-This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your device model so you can go back and continue surfing software for your device) and to keep track of the number of users accessing our site and the information they access. 
+This document, SHAPE GmbH Privacy Policy, governs the general principles which are applied across several services and websites operated by SHAPE GmbH. As long as SHAPE GmbH offers several services and websites, separate Privacy Policies may be available for a specific service or website and govern how SHAPE GmbH handles your data in this specific service or website, such as [Sicher Privacy Policy](http://www.shape.ag/en/privacy/sicher/), which is specific to Sicher service and is not applicable for any other service or website.
 
-SHAPE maintains a strict "no-spam" policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and services, and to keep you informed of SHAPE's commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, you can always unsubscribe from our newsletter by clicking on the appropriate link at the bottom of newsletter. If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way. SHAPE will never use your data for anything beyond the reasons stated and the permissions you grant us.
+**Website Visitors**
 
-We also record information about your questions to us and your purchases so that we and you can keep track of what you've asked about or ordered directly on our site. Additionally, we may need to contact you about your questions and/or your orders.
+Like most website operators, SHAPE GmbH collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our customers use our websites. To protect your privacy, we recommend using a browser plugin to block third party tracking services, such as [Ghostery](https://www.ghostery.com/ru/).
 
-We use email addresses to send you the alerts, newsletters and software updates/news information you've requested, to answer the email we receive and to communicate with you about our software.
+Cookies
 
-**Feedback**  
-Information collected from feedback is used either internally (if the user is submitting feedback about the site or software). We do not share any personal information with any third parties nor is it used for any other purpose. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. SHAPE GmbH uses cookies to help SHAPE GmbH identify and track visitors, their usage of our websites, and their website access preferences. SHAPE GmbH visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our websites, with the drawback that certain features of our websites may not function properly without the aid of cookies.
 
-**External Links**  
-This site contains links to other sites in news stories and throughout the site. SHAPE is not responsible for the privacy practices or the content of external websites, even those with whom SHAPE has established special relationships.  
+**Gathering of Personally-Identifying Information**
 
+Certain customers of SHAPE GmbH choose to interact with our services and websites in ways that require SHAPE GmbH to gather personally-identifying information. The amount and type of information that SHAPE GmbH gathers depends on the nature of service and the nature of interaction. In each case, SHAPE GmbH collects such information only insofar as is necessary or appropriate to fulfill the purpose of the customer's interaction with our services or websites. SHAPE GmbH does not disclose personally-identifying information other than as described below. Customers can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain related activities.
+
+**Protection of Personally-Identifying Information**
+
+SHAPE GmbH may disclose potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SHAPE GmbH's behalf or to provide services available at SHAPE GmbH's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SHAPE GmbH's services and websites, you consent to the transfer of such information to them. SHAPE GmbH will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SHAPE GmbH discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when SHAPE GmbH believes in good faith that disclosure is reasonably necessary to protect the property or rights of SHAPE GmbH, third parties or the public at large. If you are a registered user of an SHAPE GmbH website or mobile app and have supplied your email address, SHAPE GmbH may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with SHAPE GmbH and our products. We primarily use our various social media pages to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SHAPE GmbH takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+**Using SHAPE GmbH Services to Access Third Party Services**
+
+When using SHAPE GmbH services to access and use to third party services, you are relying on those services' privacy policies as well. For example, if you use SHAPE GmbH's IM+ service to connect to Google Talk instant messaging service, you should be mindful of [Google's Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
+
+**Privacy Policy Changes**
+
+Although changes are likely to be minor, SHAPE GmbH may change its Privacy Policy from time to time in SHAPE GmbH's sole discretion. We encourage visitors to frequently check this page for any changes to Privacy Policy. Your continued use of our services and websites after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**Contact Information**
+
+If you have any questions regarding privacy while using our Services or Websites, or have questions about our practices, please contact us via email at [privacy@shape.ag](mailto:privacy@shape.ag)
