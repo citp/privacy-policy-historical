@@ -1,48 +1,23 @@
-> *The following text is extracted and transformed from the bncollege.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218154838id_/http%3A//www.bncollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bncollege.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126062514id_/http%3A//www.bncollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Barnes & Noble College
 
-## Privacy Policy
+Effective Date: January 27, 2014
 
-**SECURE SITE**
+This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes & Noble enterprise, which consists of (a) Barnes & Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, “Barnes & Noble”); (b) businesses and operations managed or operated by Barnes & Noble; (c) websites owned, operated and managed by Barnes & Noble, including each website that links to this Privacy Policy, and any digital content stores operated by Barnes & Noble (collectively, “Barnes & Noble Websites”); and (d) Barnes & Noble and NOOK devices (“Devices”), content, software and mobile applications (“Apps”).
 
-  The security of the information regarding your order is very important to us. We use the Secure Socket Layer (SSL) protocol to protect the security of your on-line order information. SSL technology encrypts your order information to protect it from being decoded by anyone other than Barnes & Noble College. Once you enter the checkout page your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following:
+Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses.
 
-  * The “http” in the web address will be replaced by “https”, indicating that you’ve reached a secure area of the website.
-  * Depending on the browser, you will see either a padlock (Microsoft Internet Explorer, AOL, Netscape Communicator) or a solid key (Netscape Navigator) in the lower section of the browser window.
-  * Only browsers that use the Secure Socket Layer protocol are able to order through the Bookstore website. If your browser does not support SSL, you can get an upgrade at Microsoft’s or Netscape’s home page. 
+To review the prior version of Barnes & Noble’s Privacy Policy, please [click here](http://www.barnesandnoble.com/help/cds2.asp?PID=27344). To review Barnes & Noble’s Mobile Privacy Supplement optimized for reading on mobile devices, please [click here.](http://www.barnesandnoble.com/mobile/legal.asp?view=privacy)
 
+**By interacting with Barnes & Noble in the manner described in this Privacy Policy at any time, you are accepting the practices described in this Privacy Policy and you consent to the application of this Privacy Policy to the collection, storage, use and disclosure of all your personal and other information as described.**
 
+These current privacy policies and the privacy practices described herein apply to personal information previously collected from you by Barnes & Noble, Inc. and each of its subsidiaries, including NOOK Media LLC and its subsidiaries (“NOOK Media”), as well as personal information that they may collect from you in the future.
 
-**PRIVACY POLICY**
+Barnes & Noble reserves the right to modify or amend this Privacy Policy at any time, but you can be assured that, should it be necessary to do so, we will always do so in accordance with the Barnes & Noble **Privacy Principles** of Clarity, Security and Integrity. You will be notified of any material changes to this Privacy Policy which are less protective of customer information prior to such changes becoming effective. We may notify you of these changes by email reminders, by notice on this site, or by other acceptable means. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Barnes & Noble College respects your privacy and we will do our best to earn and keep your trust. This Privacy Policy identifies how we collect, use and protect the personal information you provide to us when you visit this site. By using this site, you agree with the terms and conditions of this Privacy Policy and the Terms of Use.
+_Clarity:_ We strive to communicate clearly about your privacy and how we handle your personal information.  
+_Security_ : We follow security standards, processes and procedures that are designed to protect your personal information.  
+_Integrity_ : We do not sell or rent your personal information and respect your preferences with respect to your personal information.
 
-  What Information Do We Collect and How Is It Used?
-
-  * Information you actively submit to Barnes & Noble: You may choose to provide certain personal information to Barnes & Noble through this site. This “personal information” may include your name, address, telephone number, email address, SFA student ID number, and credit card information. You may be asked to provide this information when you register to create an account with Barnes & Noble, to place an order with Barnes & Noble, or to contact Barnes & Noble with a question or comment. We use this information to fulfill your orders for books and related merchandise, to provide customer support, and to communicate with you.
-
-  Except as described below, Barnes & Noble will not disclose your personal information to third parties who are not our affiliates without your consent. We do not sell or exchange customer lists or customer information for marketing purposes with unaffiliated third parties, and will not do so without your express permission. We may, however, share personal information described above with our affiliates for business or marketing purposes. When completing the registration process you will be asked if you wish to receive emails from us pertaining to your order and other information about Barnes & Noble such as sales and events. Both options will be selected for you, however you can choose to opt out.
-
-  We may also share all of the personal information we collect, described above, for business purposes with companies and individuals who provide servicing, administrative, marketing, and other services for us, or on our behalf. Companies we hire to provide such services are only permitted, by contract, to use your information for the performance of the specific services we have requested of them. 
-
-   Barnes & Noble may disclose personal information to government and regulatory authorities as permitted or required by applicable law, to enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Barnes & Noble, our users, or others. 
-
-   Barnes & Noble is not responsible for the privacy practices or the content of other websites that may be linked to this site.
-
-  * Automatically collected information: Barnes & Noble’s web servers automatically collect anonymous information about a visitor’s IP address, browser type and referrer by reading this information from your browser. This information is collected in a database and is used to help us recognize you each time you return to our site. This information is automatically logged by most websites.
-  * Information collected using cookies: Barnes & Noble may use various kinds of software devices, such as “cookies” to collect information about Internet use. These small files identify your browser and save information such as passwords so that Web sites can recognize you. You can set your browser to disable cookies, but some portions of this site (and other sites) may not work properly if you do this.
-
-
-
-How Is Your Personal Information Protected? 
-
-   Barnes & Noble maintains reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification or disclosure. Nonaffiliated third parties are contractually obligated to maintain strict confidentiality, and are not permitted to use your personal information for marketing purposes, or for any purpose other than that we have requested of them.
-
-  How Can You Access Your Personal Information?
-
-  To access, correct or delete your personal information stored by Barnes & Noble, please log-in and click on the “My Account” link.
-
-  How Will You Know If We Change Our Privacy Policy? 
-
-   Barnes & Noble may, but is not required to, update this policy from time to time. Accordingly, you should periodically check this web site for any changes.
+To review our current Privacy Policy in its entirety, please [click here](http://www.barnesandnoble.com/help/cds2.asp?PID=25560).
