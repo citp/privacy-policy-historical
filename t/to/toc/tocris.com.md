@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529004740id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126183900id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Customer Support | Tocris Bioscience
 
@@ -24,9 +24,9 @@ If you forget your password you may request to have it reset. A temporary passwo
 
 ### No Third Party Data Exchange
 
-We will not share, sell, rent, or loan your personal information to any third party outside of the R&D Systems group* unless required to do so by law, governmental request, court order, or in the case of official Tocris Bioscience distributors for the purpose of Tocris literature and product information distribution.
+Tocris is a Bio-Techne brand. We will not share, sell, rent, or loan your personal information to any third party outside of the Bio-Techne group* unless required to do so by law, governmental request, court order, or in the case of official Tocris Bioscience distributors for the purpose of Tocris literature and product information distribution.
 
-* In May 2011 Tocris Bioscience was wholly acquired by R&D Systems, headquartered in Minneapolis, MN, USA.
+* In May 2011 Tocris Bioscience was wholly acquired by R&D Systems, headquartered in Minneapolis, MN, USA. In July 2014 Bio-Techne was introduced as the new name for Tocris' parent company.
 
 ### Marketing Correspondence Opt In
 
@@ -111,3 +111,5 @@ Please complete a [customer enquiry form](http://www.tocris.com/enquiry.php "Sen
 Alternatively, please [contact us](http://www.tocris.com/contact.php "Support for Customers Worldwide") for further information and assistance.
 
 View all [Customer Support](http://www.tocris.com/customerSupport.php "Answers to the most common questions that customer support are asked") common questions.
+
+Tocris, R&D Systems and Boston Biochem are Bio-Techne brands. To find out more please visit our [news page](http://www.tocris.com/news/pr-01-07-14.php).
