@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meeton.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630024046id_/http%3A//www.meeton.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meeton.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126075335id_/http%3A//www.meeton.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MeetON.com
 
