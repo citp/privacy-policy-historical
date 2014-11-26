@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408030734id_/http%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127002229id_/http%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Shotbow Network
 
