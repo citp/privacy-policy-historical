@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527163321id_/http%3A//www.foxwoods.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094822id_/http%3A//www.foxwoods.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Foxwoods Resort Casino
 
@@ -29,3 +29,5 @@ This Web site contains links to other Web sites. We are not responsible for the 
 
  **Copyright**  
 All contents of this Web site are: Copyright © 2001-2014 Foxwoods Resort Casino, Route 2, Mashantucket, Connecticut, 06338. All rights not expressly granted herein are reserved.
+
+[Follow @FoxwoodsCT](https://twitter.com/FoxwoodsCT)
