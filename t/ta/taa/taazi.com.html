@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the taazi.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622032649id_/http%3A//taazi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taazi.com privacy policy that was archived on 2014-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126053127id_/http%3A//taazi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -21,15 +21,18 @@
 <link rel="stylesheet" media="screen" href="http://taazi.com/css/video-style.css">
 <link rel="stylesheet" type="text/css" href="http://taazi.com/css/conv.css">
 <link rel="stylesheet" type="text/css" href="http://taazi.com/css/thickbox.css">
+<link rel="stylesheet" type="text/css" href="http://taazi.com/css/jquery.cleditor.css">
 <link class="include" rel="stylesheet" type="text/css" href="http://taazi.com/css/jquery.jqplot.min.css">
-<!--<link type="text/css" rel="stylesheet" media="all" href="http://taazi.com/css/chat.css" />-->
+<link type="text/css" rel="stylesheet" media="all" href="http://taazi.com/css/chat.css">
 <!--<link type="text/css" rel="stylesheet" media="all" href="css/screen.css" />-->
 
 <!--[if lte IE 7]>
 <link type="text/css" rel="stylesheet" media="all" href="css/screen_ie.css" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript">
 var taaziLike = 0;
+var uploadInProgress = 0;
+var uploadMsg = "Uploading is in progress, Please cancel uploading before leaving the page.";
 function baseURL(bSecureURL){
 	if(bSecureURL == true)
 		return 'http://taazi.com/';
@@ -63,6 +66,13 @@ function ConfirmDelete(){
 	</div>
 </noscript>
 
+<style>
+.ui-autocomplete-loading 
+{
+	background: white url("http://taazi.com/images/ui-anim_basic_16x16.gif") right center no-repeat;
+}
+</style>
+  
 <script type="text/javascript" src="http://taazi.com/js_min/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/jquery.address-1.5.js"></script>
 <!-- <script defer='defer' type="text/javascript" src="http://taazi.com/js_min/jquery.maskedinput.min.js"></script> -->
@@ -81,8 +91,8 @@ function ConfirmDelete(){
 <script type="text/javascript" src="http://taazi.com/js_min/slider/wowslider.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/slider/script.js"></script>
 <!--<script  type="text/javascript" src="http://taazi.com/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>-->
-<script type="text/javascript" src="http://taazi.com/js_min/taazi_road_map.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/taazi_common.js"></script>
+<script type="text/javascript" src="http://taazi.com/js_min/taazi_road_map.js"></script>
 
 <script defer="defer" class="include" type="text/javascript" src="http://taazi.com/js_min/jquery.jqplot.min.js"></script>
 <script defer="defer" language="javascript" type="text/javascript" src="http://taazi.com/js_min/jqplot.categoryAxisRenderer.min.js"></script>
@@ -90,9 +100,9 @@ function ConfirmDelete(){
 <script defer="defer" language="javascript" type="text/javascript" src="http://taazi.com/js_min/jqplot.barRenderer.min.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/chat.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/thickbox.js"></script>
+<script type="text/javascript" src="http://taazi.com/js_min/jquery.cleditor.js"> </script> 
 <!--<script type="text/javascript" src="http://taazi.com/js_min/tour.js"></script>-->
 </head><body><a href="" style="display:none;" id="thickbox_link" class="thickbox">Thickbox</a>
-
 
 
 
@@ -158,21 +168,33 @@ function make_blank2(input)
     <div class="header_menu">
       <div class="menu_left"></div>
       <div class="menu_center">
-        <ul class="meneu_bar"> <!--<div class="taaziBeta"><img src="images/beta-txt.png" /></div>-->
-   <li><a href="http://taazi.com/">HOME</a></li>
+        
+
+  <!--<div class="taaziBeta"><img src="images/beta-txt.png" /></div>-->
+          <ul class="meneu_bar">
+  
+
+      <li><a href="http://taazi.com/">HOME</a></li>
   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
   <li><a href="http://taazi.com/album/top-charts/">MUSIC</a></li>
-   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-     <li><a href="http://taazi.com/video/recent/">VIDEOS</a></li>
-     <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+  <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+  <li><a href="http://taazi.com/video/recent/">VIDEOS</a>
+     <ul class="SubMenu">
+		<li><a href="http://taazi.com/video/top/">Top Videos</a></li>
+		<li><a href="http://taazi.com/video/recent/">New Arivals</a></li>
+      </ul>
+  </li>
+  <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
   <li><a href="http://taazi.com/search/user/artist/">ARTISTS</a></li>
   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-   <li><a href="http://taazi.com/search/user/member/">MEMBERS</a></li>
-    <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-    <li> <a class="login_pop" href="javascript:;">SIGN IN</a> </li>
-       <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-      
-  </ul>
+  <li><a href="http://taazi.com/search/user/member/">MEMBERS</a></li>
+  <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+      <li><a href="http://taazi.com/fanpage/TvorMovie/channel">MOVIES / TV</a>
+               </li>
+    <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>                          
+  <li> <a class="login_pop" href="javascript:;">LOG IN</a> </li>
+  <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+    </ul>
       </div>
       <div class="menu_right"></div>
     </div>
@@ -326,10 +348,15 @@ If you have any questions, concerns or thoughts about the privacy of your person
         <div style="float:left; padding-left:8px;"> 
           <!--Start Search-->
           <div id="search-bar-div" style="padding-left:20px; padding-top:10px;">
-					<div class="top-right-search">
+					<style>
+input[placeholder]{
+	font-size:11px;
+	}
+</style>
+<div class="top-right-search">
 <div class="tr-search-field">
 	<form id="frmSearch" name="frmSearch" method="post" action="http://taazi.com/search/searchHome/">
-    <input type="text" id="searchtxt" name="searchtxt" placeholder="Search Artist, Music &amp; Videos" maxlength="50">
+    <input type="text" id="searchtxt" name="searchtxt" placeholder="Search Artist, Music, Member or Video" maxlength="50">
     <!--<input id="btnSearch" type="image" border="0" name="btnSearch" src="http://taazi.com/css/images/search-newicn.png" style="width:25px; height:25px; float:right; margin:4px 0 0 0;">-->
     <a href="javascript:;"><img src="http://taazi.com/css/images/search-newicn.png" name="btnSearch" id="btnSearch" border="0" align="absmiddle" onclick="if($('#searchtxt').val().length > 0){$('#frmSearch').submit();}" style="width:25px; height:25px; float:right; margin:4px 0 0 0; padding: 0 7px;"></a>
     </form>
@@ -388,19 +415,21 @@ If you have any questions, concerns or thoughts about the privacy of your person
             <a href="http://taazi.com/dmca/">DMCA</a>   I   
             <a href="http://taazi.com/privacy-policy/">Privacy Policy</a>   I   
             <a href="http://taazi.com/terms-conditions/">Terms &amp; Conditions</a>   I 
-            <a href="http://taazi.com/faq/">FAQs</a>
+            <a href="http://taazi.com/faq/">FAQs</a>   I 
+            <a href="http://taazi.com/aboutus/">About us</a>
   			</div><br>
-            <div>
+            <div style=" width:250px; float:left;">
             © 2014 <a href="http://taazi.com/">taazi.com</a>. All Rights reserved.
             </div>
-        </div><!--center area-->
-        <div class="footer-rightside">
+            <div class="footer-rightside">
         	<div class="ftr-fbfan">
                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTaaziCom%2F449321755078511&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
   </div>
-           <a href="javascript:;">  <img src="http://taazi.com/css/images/ftr-fb.png" width="32" height="32" onclick="open_new_tab('http://www.facebook.com/pages/TaaziCom/449321755078511');"></a>
-           <a href="javascript:;"> <img src="http://taazi.com/css/images/ftr-twitter.png" width="32" height="32" onclick="open_new_tab('https://twitter.com/Taazidotcom');"></a>
-        </div><!--footer rightside-->
+           &nbsp;&nbsp;<a href="javascript:;">  <img src="http://taazi.com/css/images/ftr-fb.png" width="32" height="32" onclick="open_new_tab('http://www.facebook.com/pages/TaaziCom/449321755078511');"></a>
+           <a href="javascript:;"> <img src="http://taazi.com/css/images/ftr-twitter.png" width="32" height="32" onclick="open_new_tab('https://twitter.com/Taaziofficial');"></a>
+        </div>
+        </div><!--center area-->
+        <!--footer rightside-->
     </div><!--footer inner ends here-->
 </div><!--foooter-->
 <!--feedback bttn-->
@@ -414,20 +443,37 @@ If you have any questions, concerns or thoughts about the privacy of your person
 	    
 </div>
 
+
 <!-- create new playlist popup -->
 <script> 
-    // prepare the form when the DOM is ready 
-	$(document).ready(function() { 
-			});
-		
-	function processXml(data){
-			handler(data);
-		$('#ajax_loading_div').hide();
-		$('#content_body').removeClass('jp-bg-body'); 
-		//window.history.pushState(this.url, "Taazi", this.url); 
-    }
+// prepare the form when the DOM is ready 
+$(document).ready(function() {
 	
-    </script>
+	$(document).mouseup(function (e)
+	{
+		var container = $(".ui-dialog.ui-widget.ui-widget-content.ui-corner-all");
+
+		if (!container.is(e.target) // if the target of the click isn't the container...
+			&& container.has(e.target).length === 0) // ... nor a descendant of the container
+		{
+			var parent_item = $(e.target).parent().parent().parent();
+			if($(parent_item).hasClass('ui-menu-item') || $(parent_item).hasClass('ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all'))
+				return;
+			else	
+				container.remove();
+		}
+	});
+	
+	});
+	
+function processXml(data){
+		handler(data);
+	$('#ajax_loading_div').hide();
+	$('#content_body').removeClass('jp-bg-body'); 
+	//window.history.pushState(this.url, "Taazi", this.url); 
+}
+
+</script>
 </div><!--content End-->
 
 <div id="jp_container_1" class="jp-audio jp-video">
@@ -447,7 +493,7 @@ If you have any questions, concerns or thoughts about the privacy of your person
               <li><a href="javascript:;" class="jp-play" tabindex="1" title="Play">play</a></li>
               <li><a href="javascript:;" class="jp-pause" tabindex="1" title="Pause">pause</a></li>
               <li><a href="javascript:;" class="jp-next" tabindex="1" title="Next">next</a></li>
-              <li><a href="javascript:;" class="jp-stop" tabindex="1" title="Stop">stop</a></li>
+              <li><a href="javascript:;" class="jp-stop" id="jp-stop" tabindex="1" title="Stop">stop</a></li>
               <li><a href="javascript:;" class="jp-mute" tabindex="1" title="Mute">mute</a></li>
               <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="Unmute">unmute</a></li>
               <li>
@@ -621,7 +667,7 @@ If you have any questions, concerns or thoughts about the privacy of your person
       <form name="frmSearch-footer" id="frmSearch-footer" action="http://taazi.com/search/searchHome/#1" method="POST">
         <div class="psa-searchbox">
            <!--<input type="text" id="searchtxt" name="searchtxt" value="" placeholder="Enter Song or Artist name" maxlength="50"/>--> 
-           <input type="text" id="searchtxt" name="searchtxt" value="" placeholder="Search Artist, Music &amp; Videos" maxlength="50" style="padding:5px 5px 5px 5px;">
+           <input type="text" id="searchtxt" name="searchtxt" value="" autocomplete="off" placeholder="Search Artist, Music &amp; Videos" maxlength="50" style="padding:5px 5px 5px 5px;">
           <input name="btnSearch" id="btnSearch" style="" type="image" src="http://taazi.com/css/images/pas-search-icn.png" width="25" height="25">
         </div>
       </form>
@@ -630,7 +676,7 @@ If you have any questions, concerns or thoughts about the privacy of your person
 </div>
 <div id="pop-up-msg" class="new_message_popup" title="Create new message" style="display:none;">
     <form id="message_form" name="message_form" method="post">
-        <input type="text" id="to_name" name="to_name" placeholder="Name" value=""><a class="e_to_name" id="e_to_name" onclick="enable_edit($('#to_name'), $(this))" href="javascript:;" style="display:none;"><img height="25" width="25" src="http://taazi.com/css/images/eb-edit-bttn.png" style="margin-bottom: -7px; margin-left: 4px;"></a><textarea id="message_text" name="message_text" placeholder="Please type your message here." style="resize:none; padding:5px !important;" cols="90" rows="5"></textarea><div class="pspca-button"><a style="float:left;text-align: center;" href="javascript:;" onclick="send_message();">Send</a></div><table>
+        <input type="text" id="to_name" name="to_name" placeholder="Name" value="" style="width:215px;"><a class="e_to_name" id="e_to_name" onclick="enable_edit($('#to_name'), $(this))" ondblclick="enable_edit($('#to_name'), $(this))" href="javascript:;" style="display:none;"><img height="25" width="25" src="http://taazi.com/css/images/eb-edit-bttn.png" style="margin-bottom: -7px; margin-left: 4px;"></a><textarea id="message_text" name="message_text" placeholder="Please type your message here." style="resize:none; padding:5px !important;" cols="90" rows="5"></textarea><div class="pspca-button"><a style="float:left;text-align: center;" href="javascript:;" onclick="send_message();">Send</a></div><table>
             <tbody><tr><td>
                 </td></tr><tr><input type="hidden" id="to_id" name="to_id" value=""></tr>
                 <tr></tr>
@@ -640,6 +686,12 @@ If you have any questions, concerns or thoughts about the privacy of your person
             
         </tbody></table>
     </form>
+</div>
+<div class="taazicons_side_banner" onclick="javascript:;">
+	<div class="taazicons_text"> <a href="http://taazi.com/taazicons/" style="text-decoration:none !important;"> Taazicons </a> </div>
+	<div id="taazicons" class="tzicon_active">
+    	<a href="http://taazi.com/taazicons/"> <img src=""> </a>
+    </div>
 </div>
 <!--CHAT BOX-->
 <!--<div id="friendslistbox" class="friendslistbox" style="bottom: 0px; right: 1px; display: none; z-index: 10000;">
@@ -666,16 +718,16 @@ If you have any questions, concerns or thoughts about the privacy of your person
         <input type="text" class="chatboxtext" onKeyUp="searchFriends(this);" placeholder="Search Friend" onFocus="$(this).addClass('chatboxtextareaselected');" onBlur="$(this).removeClass('chatboxtextareaselected');"/>
     </div>
 </div>-->
-<!--<div id="taazi-chatlist">
-	<div class="taazi-cl-head" onClick="togglefriendlistbox();" style="cursor:pointer">Online Friends (0)</div>
+<div id="taazi-chatlist">
+	<div class="taazi-cl-head" onclick="togglefriendlistbox();" style="cursor:pointer">Online Friends (0)</div>
     <div id="friends" style="display: none;">
     	<ul></ul>
         <div id="noresult" class="noresult" style="display: none; padding-left:10px; padding-top:10px;"><p>No Friend found</p></div>
     </div>
     <div id="chatuser-find" class="chatuser-find" style="display: none;">
-    	<input type="text" class="chatboxtext" onKeyUp="searchFriends(this);" placeholder="Search Friend" onFocus="$(this).addClass('chatboxtextareaselected');" onBlur="$(this).removeClass('chatboxtextareaselected');"/>
+    	<input type="text" class="chatboxtext" onkeyup="searchFriends(this);" placeholder="Search Friend" onfocus="$(this).addClass('chatboxtextareaselected');" onblur="$(this).removeClass('chatboxtextareaselected');">
    	</div>
-</div>-->
+</div>
 <!--<div id="online-usermsgbox">
       	<div class="online-umb-top">
         <span>Taazi...</span>
@@ -712,7 +764,7 @@ If you have any questions, concerns or thoughts about the privacy of your person
   <br>
   <p id="dialog_login_first_fb_login"><a href="javascript:;" onclick="hideDialogForLogin();" class="fb_login_pop"><img border="0" align="absmiddle" src="http://taazi.com/images/social_btn.png"></a></p>
 </div>
-<script type="text/javascript">
+<!--<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-42748164-1']);
@@ -724,4 +776,23 @@ If you have any questions, concerns or thoughts about the privacy of your person
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script></body></html>
+</script>
+comment by ikram
+-->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-52793376-1', 'auto');
+ga('send', 'pageview');
+
+</script><!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"1ZrWj1a0CM008G", domain:"taazi.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1ZrWj1a0CM008G" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  </body></html>
