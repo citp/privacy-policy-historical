@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladscamp.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407034337id_/http%3A//ladscamp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladscamp.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126181945id_/http%3A//www.ladscamp.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy.
 
