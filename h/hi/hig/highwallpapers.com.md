@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwallpapers.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125090215id_/http%3A//www.highwallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwallpapers.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126180005id_/http%3A//www.highwallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy High Wallpapers
 
