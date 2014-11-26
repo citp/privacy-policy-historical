@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528022249id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126055344id_/http%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hiveage
 
