@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623142328id_/http%3A//www.basementsystems.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126175348id_/http%3A//www.basementsystems.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement by Basement Systems for Customers and Site Visitors
 
@@ -27,7 +27,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Any Questions, Comments or Suggestions?  
 [Contact us](http://www.basementsystems.com/free-estimate.html)
 
-Phone: 1-800-875-7551   
+Phone: 1-800-638-7048   
 (Available during office hours)
 
 Looking for a price? Get a no cost, no obligation [free estimate](http://www.basementsystems.com/free-estimate.html).
