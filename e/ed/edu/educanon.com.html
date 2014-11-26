@@ -1,31 +1,32 @@
-<!--The following is the downloaded HTML source of the educanon.com privacy policy that was archived on 2014-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214212058id_/http%3A//www.educanon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the educanon.com privacy policy that was archived on 2014-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126201706id_/http%3A//www.educanon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>eduCanon</title>
+    <script type="text/javascript" async="" src="//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>eduCanon</title>
+    
     <meta name="title" content="eduCanon">
-    <meta property="og:image" content="http://educanon.com/static/img/dachshundorange200.jpg">
+    <meta property="og:image" content="//educanon.com/static/img/dachshundorange200.jpg">
     <meta property="og:title" content="eduCanon: interactive video. unleashed.">
     <meta property="og:description" content="Flipped and Blended Interactive Video Learning Platform">
     <meta charset="utf-8">
     <meta name="description" content="Flipped and Blended Interactive Video Learning Platform">
     <meta name="author" content="eduCanon">
     <meta name="Copyright" content="Copyright eduCanon 2013. All Rights Reserved">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"> <!--320-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"> 
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-touch-fullscreen" content="yes">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="/static/img/dachshund_256.png">
     <link rel="shortcut icon" href="/static/img/favicon.ico">
-    <link rel="stylesheet" href="/static/css/app.css?v=1.491">
-    <meta name="google-site-verification" content="YOI7UVwAWWssR7jc2zuMIt54n2uPA-DQ65aVZrh9Ix8">
+    <link rel="stylesheet" href="/static/css/app.css?v=1.529">
+    <meta name="google-site-verification" content="OKcD6O4asirVYPSEUU-5JqVBKJb6fyVTMIwfRavjd_8">
+    
   </head>
-  <body><div class="pace pace-active" data-progress-text="100%" data-progress="99"><div class="pace-progress" style="width: 100%;">
+  <body><div class="pace pace-active" data-progress-text="44%" data-progress="44"><div class="pace-progress" style="width: 44.382%;">
   <div class="pace-progress-inner"></div>
 </div>
 <div class="pace-activity"></div></div>
      
-    <script src="/static/js/pace.min.js"></script>
       <script>
         var _gaq = _gaq || [];
         var pluginUrl = 
@@ -39,20 +40,54 @@
           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-      </script>  
+
+        window.onerror = function(){
+          "use strict";
+            var errors = Array.prototype.slice.apply(arguments);
+
+            var error_message = errors[0];
+            var error_url = errors[1];
+            var error_line = errors[2];
+            var error_column = errors[3]+1;
+
+          var line_string   = isNaN(error_line) ? "" : " (line: " + error_line + "";    
+          var column_string = isNaN(error_column) ? "" : ", column: " + error_column + ")";
+          var error_event = "[" + error_message + "][" + error_url +  line_string + column_string + "]";
+
+          if (typeof FromPHP != "undefined" && FromPHP != null) {
+            if (typeof FromPHP.student != "undefined" && FromPHP.student != null) error_event += "Sid=" + FromPHP.student.id;
+            else if (typeof FromPHP.user != "undefined" && FromPHP.user != null) error_event += "Tid=" + FromPHP.user.id;
+            else if (typeof FromPHP.teacher != "undefined" && FromPHP.teacher != null) error_event += "Tid=" + FromPHP.teacher.id;
+            else {
+              //do nothing
+            }
+          }
+
+          if (typeof(_gaq) != "undefined") {
+             _gaq.push(['_trackEvent', 'JSv=1.529', 'JS errors', error_event, null, true]);
+          } else if(typeof(ga) != "undefined") {
+             ga('send', 'event' , 'JSv=1.529', 'JS errors', error_event);
+          } else {
+            // do nothing
+          }
+            return errors; //make true to hide errors
+        }
+      </script> 
     
     <div id="container">
       <nav id="header">
-        <a href="/"><h1 class="logo">eduCanon</h1></a> 
-        <a href="/tutorial"><img class="logo" src="/static/img/dachshundlogo.png"></a>
+        <a href="/index" class="web-app"><h1 class="logo">eduCanon</h1></a> 
+        <a href="/tutorial" class="web-app"><img class="logo" src="/static/img/dachshundlogo.png" alt="Flipped classroom"></a>
         <div id="nav">
           <ul class="header-links">
                           <li class="Login">
-                <a href="/login" class="Login  hint--left" id="link-0">Login</a>
+                <a href="/login" class="web-app Login " id="link-0">Login</a>
                           </li><li class="Signup">
-                <a href="/signup" class="Signup  hint--left" id="link-1">Signup</a>
+                <a href="/signup" class="web-app Signup " id="link-1">Signup</a>
                           </li><li class="About">
-                <a href="/aboutus" class="About  hint--left" id="link-2">About</a>
+                <a href="/aboutus" class="web-app About " id="link-2">About</a>
+                          </li><li class="Blog">
+                <a href="http://blog.educanon.com" class="web-app Blog " id="link-3">Blog</a>
                       </li></ul>
         </div>
       </nav>
@@ -108,9 +143,8 @@
           <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
           <nav id="footer-nav">
             <ul>       
-              <li>© 2013 eduCanon</li>
-              <li><a href="/faq">FAQ</a></li>
-              <li><a href="mailto:help@educanon.com">Contact</a></li>
+              <li>© 2014 eduCanon</li>
+              <li><a href="https://educanon.uservoice.com/knowledgebase" target="_blank">FAQ</a></li>
               <li><a href="/aboutus">About</a></li>
               <li><a href="/terms">Terms</a></li>
               <li><a href="/privacy">Privacy</a></li>
@@ -123,48 +157,55 @@
             </ul>
           </nav>
         </footer>
-        <!-- UserVoice JavaScript SDK (only needed once on a page) -->
-        <script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
-        <!-- A tab to launch the Classic Widget -->
-        <script>
-        
-        UserVoice = window.UserVoice || [];
-        UserVoice.push(['showTab', 'classic_widget', {
-          mode: 'full',
-          primary_color: '#de5158',
-          link_color: '#1cc09f',
-          default_mode: 'support',
-          forum_id: 223998,
-          tab_label: 'Help & Feedback',
-          tab_color: '#de5158',
-          tab_position: 'middle-right',
-          tab_inverted: false
-        }]);
-        
-        </script>
         <script>
           
           !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
           
         </script>
-          <!-- scripts go here -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript" src="/min/b=static/js&amp;f=underscore.js,backbone.js,deep-model.js,styling.js,magnific-popup.js,responsive-nav.min.js,date.format.js?v=1.49"></script>
-    <script>
-      var navigation = responsiveNav("#nav", {
-        transition: 0
-      });
-    </script>
+          
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" crossorigin=""></script>
+    <script type="text/javascript" src="/min/b=static/js&amp;f=underscore.js,backbone.js,deep-model.js,styling.js,magnific-popup.js,date.format.js?v=1.529"></script>
     <script>
       Backbone.emulateJSON = true;
       window.FromPHP = JSON.parse("null");
       window.api_prefix = "/api/1.0";
     </script>
     
+    <script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+    <script>
+    
+      UserVoice = window.UserVoice || [];
+      UserVoice.push(['set', {accent_color: '#ff9900', trigger_color: 'white', trigger_background_color: '#ff9900'}]);
+      UserVoice.push(['identify', {}]);
+      UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
+      UserVoice.push(['autoprompt', {}]);
+    
+    </script>
+    
 <script>
 $("#site-footer").css("position", "fixed");
 </script>
 
-  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","923bbb1839","2423311","YQYAYUVTW0dSWxIKVlhMN0deHVxaV10eTUleEw==",0,100,new Date().getTime(),"","","","",""]);</script>
+    <script src="/static/js/pace.min.js"></script>
+    <script type="text/javascript">
+    
+      //Blocking things on edmodo
+      var edmodo = FromPHP ? 
+        (FromPHP.user ? (FromPHP.user.edmodoSesh) : 
+          (FromPHP.student ? FromPHP.student.edmodoSesh : 
+            (FromPHP.teacher ? FromPHP.teacher.edmodoSesh : false))) : false;
+      if(edmodo === true){
+        $(".Premium").css("display", "none"); //removing premium link
+        $(".premium-feature-promo").css("display", "none"); //Remove premium prompt signup
+      }
+      if(location.search.match(/cn=(.)/)) {
+        var campaign = location.search.match(/cn=(.)/)[1];
+        $.post( "/set_session/"+campaign, function (datum) {
+          //setting campaign type
+        });
+      }
+    
+    </script>
+  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","923bbb1839","2423311","YQYAYUVTW0dSWxIKVlhMN0deHVxaV10eTUleEw==",0,176,new Date().getTime(),"","","","",""]);</script>
 
 </div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
