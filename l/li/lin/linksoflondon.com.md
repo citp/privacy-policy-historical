@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072533id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126103625id_/http%3A//www.linksoflondon.com/gb-en/footer-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
