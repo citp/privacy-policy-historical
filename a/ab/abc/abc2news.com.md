@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627161226id_/http%3A//www.abc2news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126032748id_/http%3A//www.abc2news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Winter Storm Warning issued November 25 at 2:55PM EST expiring November 27 at 12:00AM EST in effect for: Adams, Bedford, Blair, Cambria, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lancaster, Lebanon, Mifflin, Perry, Schuylkill, Somerset, York 
+
+Coastal Flood Statement issued November 25 at 3:52PM EST expiring November 26 at 3:00PM EST in effect for: Worcester 
+
+Winter Weather Advisory issued November 25 at 7:05PM EST expiring November 26 at 6:00PM EST in effect for: Baltimore, Harford, Howard, Montgomery, Baltimore City 
+
+Winter Storm Warning issued November 25 at 11:01AM EST expiring November 26 at 6:00PM EST in effect for: Baltimore, Carroll, Frederick 
+
+Winter Weather Advisory issued November 25 at 11:01AM EST expiring November 26 at 6:00PM EST in effect for: Baltimore, Howard, Montgomery, Baltimore City 
+
+Winter Storm Watch issued November 24 at 3:06PM EST expiring November 26 at 6:00PM EST in effect for: Baltimore, Carroll, Frederick, Harford, Washington 
+
+Winter Storm Watch issued November 24 at 3:55PM EST expiring November 27 at 12:00AM EST in effect for: Adams, Bedford, Blair, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lancaster, Lebanon, Mifflin, Perry, Schuylkill, York 
 
 **PRIVACY POLICY**
 
