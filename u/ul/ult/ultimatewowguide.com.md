@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ultimatewowguide.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521071630id_/http%3A//www.ultimatewowguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatewowguide.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126175720id_/http%3A//www.ultimatewowguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dugi Guides™
+
+[](https://monitor13.sucuri.net/verify.php?r=6b90fa171932b7ab990f6e7a9827cfdc5d07478064)
 
 This privacy policy sets out how **Dugi Guides™** uses and protects any information that you give **Dugi Guides™** when you use this website.
 
@@ -23,13 +25,17 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send promotional emailsabout new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 
+
+ **Opting-Out**
+
+If you wish to stop receiving emails or newsletter from us you will be able to opt-out by clicking the “Unsubscribe” link found at the bottom of every email or newsletter.
 
  **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
  **How we use cookies**
 
@@ -57,6 +63,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **webmaster at ultimatewowguide.com**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to **webmaster at ultimatewowguide.com**
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
