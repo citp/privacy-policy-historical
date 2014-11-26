@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112827id_/http%3A//mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126152534id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
 
-[](https://web.archive.org/canada-fsa-postal-code-shapefiles/)
+[](https://web.archive.org/stream-shapefiles/)
 
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
@@ -43,7 +43,7 @@ Have a question or comment? Post them at the [**MapCruzin Blog**](http://mapcruz
 
 [**Climate Shift Blog**](http://climate-shift.blogspot.com/)
 
-[**MapCruzin Consulting**](http://www.mapcruzin.com/aboutus.htm)  
+[**MapCruzin Consulting**](https://web.archive.org/aboutus.htm)  
 GIS and Google Maps Development, Website Creation and Hosting, Fast and Affordable. 
 
 [GIS Tutorials](https://web.archive.org/free-gis-tutorials/free-gis-tutorials.htm)
