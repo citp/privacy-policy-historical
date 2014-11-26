@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070445id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126072830id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
 
-# Naturally Ella | Privacy Policy
+# Privacy Policy | Naturally Ella
 
 This Privacy Policy governs the manner in which Naturally Ella collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://naturallyella.com](http://naturallyella.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Naturally Ella.
 
