@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612021518id_/http%3A//www.invitationbox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127005117id_/http%3A//www.invitationbox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Invitation Box
 
