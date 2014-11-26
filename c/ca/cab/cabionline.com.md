@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526210332id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126170604id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CAbi Spring 2014 Collection
+# Privacy Policy - CAbi Fall 2014 Collection
 
 ## Privacy Policy _Last Updated: June 1, 2009_
 
