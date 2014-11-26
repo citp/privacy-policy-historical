@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the ikeafamilylivemagazine.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609145633id_/http%3A//www.ikeafamilylivemagazine.com/gb/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikeafamilylivemagazine.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126151908id_/http%3A//www.ikeafamilylivemagazine.com/gb/en/privacy) for the most accurate reproduction.*
 
 # IKEA UK Privacy Policy
 
-**live** IS BROUGHT TO YOU BY: live EDITOR Lotta Brandt INTERNATIONAL CREATIVE DIRECTOR Jules Rogers INTERNATIONAL EDITOR Helen Bazuaye FEATURES EDITOR Ellie Fazan FEATURES ASSISTANT Kate Herbert-Smith HOUSES EDITOR Bethan John Product/Shoot Co-ordinator Annie Towers CHIEF SUB EDITOR Kate Britten DEPUTY CHIEF SUB EDITOR Caroline Drew SUB EDITORS Naomi Misquita-Rice, Saskia Liebenberg ART EDITOR Sam Franks DESIGNER Mella McKeown PICTURE EDITORS Giulia Galati, Clare Limpus Senior Artworker David Sharman Junior artworker Stella Ajao INTERNATIONAL EDITORIAL DIRECTOR Sarah Bravo MANAGING DIRECTOR Mark Lonergan SEE MORE HOMES & IDEAS FROM IKEA FAMILY at IKEAFAMILYLIVE.COM DIGITAL TEAM: Katy Davis, Lucy Hatherall, Helen Brown, Paul Hamilton FOR IKEA Hiral Ramaiya ADVERTISING SALES MANAGER Ciara McGettrick 020 7033 0931 DESIGN & PRODUCTION August Media Ltd, Zetland House, Scrutton Street, London, EC2A 4HJ, UK, TEL 020 7749 3300, EMAIL info@augustmedia.com Reproduction in whole or part is strictly forbidden. The opinions expressed in this publication are those of the authors or persons interviewed only and do not necessarily reflect the views of IKEA or August Media. All prices are maximum prices valid until 21 July 2013 (Prices are subject to any alteration in VAT)
+**live IS BROUGHT TO YOU BY:** live EDITOR **Lotta Brandt** INTERNATIONAL CREATIVE DIRECTOR **Jules Rogers** INTERNATIONAL EDITOR **Helen Bazuaye** FEATURES EDITOR **Ellie Fazan** FEATURES ASSISTANT **Kate Herbert-Smith** HOUSES EDITOR **Bethan John** Product/Shoot Co-ordinator **Annie Towers** CHIEF SUB EDITOR **Kate Britten** DEPUTY CHIEF SUB EDITOR **Caroline Drew** SUB EDITORS **Naomi Misquita-Rice** , **Saskia Liebenberg** ART EDITOR **Sam Franks** DESIGNER **Mella McKeown** PICTURE EDITORS **Giulia Galati** , **Clare Limpus** Senior Artworker **David Sharman** Junior artworker **Stella Ajao** INTERNATIONAL EDITORIAL DIRECTOR **Sarah Bravo** MANAGING DIRECTOR **Mark Lonergan** SEE MORE HOMES & IDEAS FROM IKEA FAMILY at IKEAFAMILYLIVE.COM
 
-#### A partnership in trust
+ **DIGITAL TEAM: Katy Davis, Lucy Hatherall, Helen Brown, Paul Hamilton** FOR IKEA **Hiral Ramaiya** ADVERTISING SALES MANAGER **Ciara McGettrick** 020 7033 0931 DESIGN & PRODUCTION **August Media Ltd, Zetland House, Scrutton Street, London, EC2A 4HJ, UK, TEL 020 7749 3300,** EMAIL **info@augustmedia.com**
+
+ ****Reproduction in whole or part is strictly forbidden. The opinions expressed in this publication are those of the authors or persons interviewed only and do not necessarily reflect the views of IKEA or August Media. All prices are maximum prices valid until 21 July 2013 (Prices are subject to any alteration in VAT)
+
+### A partnership in trust
 
 When IKEA set out to create a high-quality, low-priced line of home furnishings, we knew we couldn’t do it without the help of some very important partners - you, our customers. Whether you’re ordering goods online through the IKEA website, picking up your furniture in our self-serve warehouses or assembling your purchases at home - we’re working together to help you create a better everyday life at a price everyone can afford. IKEA is based on a partnership with our customers. Without you, IKEA could not exist.
 
 This partnership extends to the way we handle your personal information. Just as shopping at IKEA is a co-operative experience, IKEA makes a point of working with our customers when it comes to their privacy. This Privacy Notice is our way of telling you what information we collect, how we use it, who we will disclose it to and how you can access, change and remove your information.
 
-#### Help us build a better IKEA
+### Help us build a better IKEA
 
 In order to create a better IKEA, we need your help. You can help by providing us with various kinds of information to help IKEA serve you better, and ultimately improve IKEA for everyone. Below you’ll find an explanation of some of the reasons we request information from you, as well as some details about how we obtain and use that information.
 
@@ -18,19 +22,19 @@ Throughout this Privacy Notice where we refer to your "personal information" wha
 
 ## Where we collect your personal information
 
-#### Catalogue
+### Catalogue
 
 If you ask us to mail you an IKEA catalogue, we need your name and address. We also ask for your telephone number and email address in case there are any problems with delivery. You also have the option of providing us with additional information about products that interest you and other lifestyle information. Why do we ask for this additional information? It helps us learn about the people who shop at IKEA so we can better tailor our products, stores and website to you. Of course, providing this additional information is purely optional.
 
-#### Purchases
+### Purchases
 
 When you make a purchase through our website, you will need to give us your credit or debit card number and other personal information. This information is necessary in order to process your payment and make delivery of your goods.
 
-#### Customer service
+### Customer service
 
 In order for a customer service representative to respond to your questions or concerns, we may need personal information like your name, address and telephone number. This information is used to answer your questions as completely and thoroughly as possible.
 
-#### Special offers, promotions, coupons and warranties
+### Special offers, promotions, coupons and warranties
 
 When you register for or redeem IKEA special offers, discount coupons or other promotions, we may ask for personal information in order to note the success of our promotions for future offers. You may also provide such personal information when you fill out a warranty card about a product you purchased from IKEA. Or you may provide us with personal information such as product preferences, reasons for purchasing a product, or family and lifestyle information to help us learn more about your shopping preferences.
 
@@ -77,19 +81,19 @@ If you provide any personal information to us you give us permission to contact 
 
 We'll make sure that we only send you messages that we think will be of interest to you – for instance the dates of our in-store and online sales, details of special offers or information about new products and services. If you do not want us to use your personal information to market to you, you can decide to opt-out of these types of marketing messages at any time by changing the settings in your Profile or by following the unsubscribe link at the bottom of any email we send to you.
 
-### Storing your information and keeping it up to date
+## Storing your information and keeping it up to date
 
-#### Out of sight, but never out of reach
+### Out of sight, but never out of reach
 
 When you share your personal information with IKEA, you will always have access to this information. Where you store a "Profile" on the website, you can amend the details stored in your account yourself. Alternatively, you can update, change or remove any personal information at any time by calling, writing or emailing us using one of the options provided below.
 
 If you want to find out what personal information IKEA holds about you, please write to our Data Protection Officer at the postal address given below. We may charge you a small fee for providing this information.
 
-#### Keeping it safe
+### Keeping it safe
 
 We are committed to providing appropriate security controls to protect your personal information against foreseeable hazards. Making sure that your personal information is secure is very important to IKEA. For more details please visit our Security Section.
 
-#### Change of address? Change of heart? Let us know
+### Change of address? Change of heart? Let us know
 
 If you would like us to update your personal information, remove your name from our mailing list, or if you have any questions about IKEA’s privacy policies or your personal information, please don’t hesitate to contact us.
 
