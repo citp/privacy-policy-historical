@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philzendia.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609074738id_/http%3A//www.philzendia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philzendia.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126161010id_/http%3A//www.philzendia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Google uses the Doubleclick DART cookie to serve ads across it’s Adsense netwo
 
 **Log Files**
 
-As with most other websites, we collect and use the data contained in log files via StatCounter. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site, which pages you visited throughout our site and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information..
+As with most other websites, we collect and use the data contained in log files via StatCounter and Google Analytics. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site, which pages you visited throughout our site and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information..
 
 **Cookies and Web Beacons**
 
