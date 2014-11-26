@@ -1,100 +1,155 @@
-> *The following text is extracted and transformed from the difference-engine.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the difference-engine.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126025406id_/http%3A//www.difference-engine.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy « Difference Engine
 
-**Go Daddy Respects Your Privacy**
+[](http://www.difference-engine.com/)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+**Learning Objects, Inc.**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Privacy Policy  **
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Learning Objects, Inc. (“ **Learning Objects,** ” “ **we** ” or “ **us** ”) provides an online platform, a set of applications, and related technology designed to permit education providers to create tailored learning environments for students and other end users (collectively, “ **Students** “).  Our subscribers include colleges, universities, K-12 schools, publishers, and education technology providers (“ **Subscribers** “).  Our products are provided to Students through our relationships with Subscribers and other partners. Learning Objects is committed to safeguarding the privacy of its Subscribers and Students. The following privacy policy governs our privacy practices for each of our products.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Our Compliance With Applicable Law**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Our products are designed for students enrolled in a college, university, or K-12 school system.  We recognize the sensitive nature of personal information, for example (a) concerning Students under age 13 that is protected under the Children’s Online Privacy Protection Act (“ **COPPA** ”), and (b) concerning information in a Student’s educational records that is protected under the Family Educational Rights and Privacy Act, including the Protection of Pupil Rights Amendment (“ **FERPA** “).  We also recognize the range of other regulations concerning privacy and information security.  Our privacy practices comply with COPPA and FERPA, as well as with other applicable privacy laws.  We comply both with respect to personal information we store, as well as personal information we ourselves collect or receive from Subscribers in the course of providing our products and services.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**The Scope of Our Privacy Policy**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Our privacy policy describes: (i) what personal information we collect on our own behalf and receive from our Subscribers; (ii) how we use that information; (iii) with whom we share that information; and (iv) what steps we take to safeguard this information. This policy governs not only our practices with respect to students’ personal information, but also with respect to the personal information of all other users of our products, including teachers and others.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**How We Ask for Your Consent to Our Privacy Policy**
 
-**Security**
+We ask for consent to (a) collect and use Students’ personal information and to (b) collect and use personal information of all other users of our products, as described below.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Consent from Schools regarding Students’ Personal Information**
 
-**Updating Your Information**
+For purposes of compliance with COPPA, we rely on schools to obtain proper Student consent, as permitted under COPPA. For purposes of compliance with FERPA, we rely on the law’s “school official” exception. This privacy policy is consistent with our obligations as a “school official”.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Consents from Other Users  **
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Finally, we may obtain consents from users other than those covered by Section 3.1 (Consent from Schools regarding Students’ Personal Information).  To obtain these consents we (a) notify the users of our privacy practices by including links to this privacy policy on our website, (b) rely on their continued use of our products to indicate their consent to this privacy policy, and (c) rely on consents obtained from our partners who have directly contracted with such users.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**The Types of User Information We Collect**
 
-      iii.      You may call us at: (480) 505-8800
+We provide a platform for Subscribers to provide strong educational experiences for their users.   To enable a greater customization and individualized experience for students, teachers, and other users, personal information may be gathered through use of our products, or through integration of our products with that of a Subscriber with whom the user has contracted.  We limit our collection of personal information to no more than is reasonably necessary for our users — including students, teachers, school administrators and parents — to participate in our products, and no more than is permitted for improvements permitted by COPPA and FERPA.
 
-       iv.      You may fax us at: (480) 505-8844
+The following types of information may be collected through your use of our products:
 
-**Sending Emails**
+  * Full Name
+  * Email Address
+  * Information concerning the Student or the Student’s parents combined with another identifier
+  * Screen/usernames where they function in the same manner as online contact information
+  * Student educational records
+  * Pages visited and the time spent on each page
+  * Articles read
+  * Search terms or other data entered on the online platform
+  * User information such as preferred language and Web-browser type, operating system, and geographical location information
+  * Information that is not linked or reasonably linkable to an individual or to a particular device
+  * Content supplied by the users through participation in our platform
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+**How We Collect Personal Information  **
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We collect personal information during the registration process and during the normal operation of our products, including through integration with our partners. In addition, our products collect usage information through technology, such as cookies, flash cookies, web beacons, and persistent identifiers.
 
-**Third Party Service Providers**
+**Third Party Collection**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+For certain products, we contract directly with the school or other Subscriber. For other products, we act as a service provider to a third party, and that third party has the direct relationship with the school (or other Subscriber) (each such Subscriber-facing entity, a “ **Primary Provider** “). Learning Objects relies on the Subscriber to select their Primary Providers, and to confirm that the privacy and information security practices of these Primary Providers meet the school’s (or other Subscriber’s) requirements.  This Policy does not address, and Learning Objects is not responsible for, the privacy, information or other practices of Primary Providers and their other service providers.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**How We Use Personal Information**
 
-**Supplementation of Information**
+We use personal information for the following purposes:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * To provide users with the content and features available through our products;
+  * To communicate with school administrators, teachers, and parents about the applicable subscription account or transactions with us, and to send information about our products’ features and where applicable, changes to these features;
+  * To personalize our products’ content and experiences for students, teachers, and other users of the platform;
+  * To detect, investigate and prevent activities that may violate our policies or be illegal;
+  * To authenticate and identify users;
+  * When you direct us to share your personal information with third-party sites or platforms, such as social networking sites; and
+  * To integrate our products with those of Primary Providers.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+As noted in Section 6 (Third Party Collection), we do not as a rule allow third-party operators, other than Primary Providers, to collect personal information or usage information through persistent identifiers on our products for any purposes other than to provide and operate our products and services.
 
-**Tell-A-Friend**
+Finally, we de-identify usage information in accordance with COPPA and FERPA, and use this de-identified information to develop, evaluate, and provide improved educational products and services, as permitted under COPPA and FERPA.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**We Use Personal Information For Internal Purposes Only, And Do Not Share Personal Information Beyond Our Products**
 
-**What Happens to my Personal Information if I Opt Out?**
+We share our user’s personal information in the following limited instances.  First, we share information with our Vendors if necessary for them to perform a business, professional, or technology support function for us.  In instances where we engage Vendors for these purposes, we require them to comply with this privacy policy.  Moreover, we require our Vendors by contract to comply with COPPA, FERPA, and other privacy-related applicable law.  Second, we disclose personal information if necessary
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+  * in response to a law enforcement or an authorized public agency’s request, including a request by a school or children’s services agency;
+  * if we believe disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a student or other user of our products;
+  * to protect the security or integrity of our products and associated applications and technology, as well as the technology of our Vendors;
+  * to enable us to take precautions against liability, enforce legal rights, and to detect, investigate and prevent activities that violate our policies or that are illegal;
+  * in other cases if we believe in good faith that disclosure is required by law; and
+  * to an acquirer in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), provided that such disclosure is subject to this privacy policy.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
+**How We Protect Personal Information  **
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We have implemented commercially reasonable technical, administrative and physical security controls, including transport layer security, data encryption, and select multi-factor authentication, designed to protect personal information from unauthorized access, disclosure, use or modification.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Access and Control of Personal Information**
 
-**Contacting Our Site**
+We provide two methods for accessing and correcting personal information used in our products — one method is for personal information of students, and the other is for personal information of users other than students.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Parents and guardians of students who wish to review, correct, or update their child’s personal information stored on our products should contact their child’s school. We cooperate with and facilitate the school’s response to these access requests. Eligible Students, as that term is defined by FERPA, can obtain this information in a similar manner. We provide users other than students and parents — such as teachers and schools — similar access and deletion rights.  Users should be aware that deletions of personal information will prevent the user from engaging in some or likely all features of our products.
 
-* * *
+**Our Retention and Deletion of Personal Information**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We will retain personal information of users of our products, including Students, only so long as reasonably necessary to permit the user to participate in the platform, and ensure the security of our users and our services, or as required by law.  After this period has expired, we will delete the personal information from our systems.
+
+**Notice to California Residents**
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Learning Objects to third parties for the third parties’ direct marketing purposes.  As described above, we do not disclose users’ personal information to third parties to direct marketing purposes.  Nevertheless, if you wish to make such a request, please send an email to or write us at:
+
+Attention: Legal  
+Email: [jmarashi@learningobjects.com](mailto:jmarashi@learningobjects.com)  
+Mail: Learning Objects, Inc.  
+1528 Connecticut Ave NW, Washington DC 20036
+
+**Do Not Track Notice**
+
+Certain web browsers allow consumers to enable “do not track” signals through which a consumer can signal to websites and online services whether the consumer approves of the collection of personally identifiable information about its online activities over time and across third-party websites and online services. Learning Objects does not respond to “do not track” signals.
+
+**Further Information**
+
+For more information about protections for students’ and children’s personal information, please visit:
+
+The Federal Trade Commission: <http://www.business.ftc.gov/privacy-and-security/childrens-privacy>
+
+The Department of Education: <http://www2.ed.gov/policy/gen/guid/fpco/brochures/parents.html>
+
+**Updates  **
+
+As circumstances warrant, we may change this Policy.  With respect to partners or schools with whom we have a written contract, such changes will become effective upon renewal of such contract, or if the partner or school otherwise agrees.  With respect to other users, changes will become effective upon the user’s consent, in the manner set forth in Section 3.2 (Consents from Other Users).
+
+**Definitions**
+
+“De-identified information” means information that meets each of the following criteria:  the information (i) does not identify a particular natural person; (ii) does not identify, by network Internet Protocol address, raw hardware serial number, or raw MAC address, a particular device or computer associated with or used by a person; (iii) does not identify the school at issue by name or address; and (iv) is not reasonably linkable to a particular natural person or school because of technical, legal, or other controls.
+
+“Personal information” means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When Usage Information is directly or indirectly associated with personal information, this Usage Information also is treated as personal information.
+
+“Usage Information” means information that does not directly identify a particular person, but that may be linkable to a particular computer or device (via a unique device ID or otherwise).
+
+“We” or “us” or “our” refers to Learning Objects.
+
+**Contact Us**
+
+You may contact us with questions or concerns with respect to this Privacy Policy at the following addresses:
+
+Attention: Legal  
+Email: [jmarashi@learningobjects.com](mailto:jmarashi@learningobjects.com)  
+Mail: Learning Objects, Inc.  
+1528 Connecticut Ave NW, Washington DC 20036
+
+**Effective Date**
+
+The effective date of this privacy policy is June 5, 2014.
