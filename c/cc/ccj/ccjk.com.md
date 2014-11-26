@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ccjk.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616014236id_/http%3A//www.ccjk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccjk.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126012024id_/http%3A//www.ccjk.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-**[](http://www.ccjk.com/)**
-
-You are here: [Home](http://www.ccjk.com/) / Privacy Statement
 
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+
+**Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -50,6 +48,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+**Your Consent**
+
 By using our website, you consent to our Privacy Policy.
 
 **Changes to our Privacy Policy**
@@ -57,7 +57,3 @@ By using our website, you consent to our Privacy Policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 06/08/12.
-
-Copyright © CCJK Technologies Co., Ltd. 2000-2013. All rights reserved.
-
-TOP
