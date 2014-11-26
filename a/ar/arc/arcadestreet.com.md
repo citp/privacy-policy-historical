@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234452id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126205515id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeStreet.com
 
