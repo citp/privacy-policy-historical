@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plagiarismdetect.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123307id_/http%3A//www.plagiarismdetect.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plagiarismdetect.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126152026id_/http%3A//plagiarismdetect.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | PlagiarismDetect.com
+# Privacy Policy | plagiarismdetect.org
 
 ## What information do we collect?
 
@@ -49,7 +49,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms of Use
 
-Please also familiarize yourself with our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.plagiarismdetect.com/terms-of-use.html](https://web.archive.org/terms-of-use.html)
+Please also familiarize yourself with our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://plagiarismdetect.org/terms-of-use.html](https://web.archive.org/terms-of-use.html)
 
 ## Changes to our Privacy Policy
 
