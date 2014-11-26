@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swordandscale.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427180821id_/http%3A//swordandscale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordandscale.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126110752id_/http%3A//swordandscale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sword and Scale
+# Privacy Policy | Sword and Scale™
 
 This Privacy Policy governs the manner in which Sword and Scale collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://swordandscale.com](http://swordandscale.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Sword and Scale.
 
