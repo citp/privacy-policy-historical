@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503061323id_/http%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127005340id_/http%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
 
-# The legal stuff around NowNovel.com
+# The legal stuff around your privacy on Now Novel
 
 ## We collect personal and activity data, which may be linked.
 
