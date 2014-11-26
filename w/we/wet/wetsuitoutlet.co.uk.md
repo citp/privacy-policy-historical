@@ -1,34 +1,64 @@
-> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053455id_/http%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126190637id_/http%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wetsuit Outlet - Privacy
 
-[ ](https://www.mcafeesecure.com/RatingVerify?ref=www.wetsuitoutlet.co.uk)
+_We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998)._
 
-  
+ _Last updated 10th October 2014_
 
+* * *
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+## Our Commitment to your privacy
+
+* * *
+
+**How and Why we use Your Information**
+
+We do not collect sensitive information about you without your explicit consent. The information we hold is accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
+
+Any personal information will be held securely in accordance with our internal security policy, the law and the Which? Web Trader Code. If we intend to transfer your information outside the EEA (European Economic Area), we will always obtain your consent first. 
+
+**Our Use of Cookies**
+
+We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie", which would is stored by your browser. If you wish, you can modify your browser to prevent cookies from being enabled. 
+
+The information we obtain from cookies can be used to identify you when you visit our website. 
+
+**Marketing**
+
+Once a month, we send a promotional email to our registered customers. As a registered customer, you have the ability to accept or refuse these emails. None of the information we collect is shared with third party companies for marketing purposes. 
+
+* * *
+
+## The information we collect
+
+* * *
+
+The personal information we may collect about you when registering an account includes: 
+
+\- Your name  
+\- Address  
+\- Phone number  
+\- Email address 
+
+As a registered customer, you have the ability to edit or remove this information. 
+
+The non-personal information we may collect from visitors using this website includes: 
+
+\- Device details (browser type, screen resolution, operating system, etc.)  
+\- The use of our website including pages visited and links clicked 
 
 We collect information about you for 2 reasons: 
 
-\- To process your order   
-\- To provide you with the best possible service 
+1\. To process your order efficiently  
+2\. To provide you with the best possible service 
 
-We will give you the chance to refuse any marketing email from us or from another trader in the future. 
+* * *
 
-The type of information we will collect about you includes: 
+If you have any questions or comments regarding your privacy, please [check our FAQ](http://www.wetsuitoutlet.co.uk/faq.php). 
 
-\- Your name   
-\- Address   
-\- Phone number   
-\- Email address 
+If you're still not sure, email us at [info@wetsuitoutlet.co.uk](mailto:info@wetsuitoutlet.co.uk). We are just as committed to answering new customer queries concerning privacy as we are about general customer queries. 
 
-We will never collect sensitive information about you without your explicit consent. 
+* * *
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
-
-Any personal information will be held securely in accordance with our internal security policy, the law and the Which? Web Trader Code. 
-
-If we intend to transfer your information outside the EEA (European Economic Area), we will always obtain your consent first. 
-
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie", which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
+[Continue](http://www.wetsuitoutlet.co.uk/index.php)
