@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607021537id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126030714id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Chartbeat
 
-**Effective Date: March 15, 2013**
+**Effective Date: October 22, 2014**
 
 This privacy policy (the "Privacy Policy") describes how Chartbeat, Inc. ("Chartbeat", "We" or "Us") collects and uses your data on our websites, including chartbeat.com (collectively, the “Site”), along with services related to the Site (collectively, the "Service"). By visiting the Site and using the Service, you consent to our use and processing of your information as set forth herein. This Privacy Policy covers Chartbeat’s treatment of personal information that Chartbeat gathers when you use the Service or visit the Site. This policy does not apply to third parties that Chartbeat does not own or control. 
 
@@ -17,7 +17,7 @@ If you have any questions or comments regarding this privacy policy or its enfor
     5. _Cookies._ Like many other websites, We use a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive. They can help make the Internet experience quicker and more convenient. Cookies allow Customers to login without entering their user ID and password each time they use the Service. We also use cookies on Customer Websites; these cookies help Us understand how users interact with those Customer Websites. Cookies also allow Us to improve the Service. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able to use the Service. We may also use cookies in connection with third party services to run analytics on Our Site; these cookies do not collect or use any personal information about users of Our Site or Service. 
 
 **For our European Customers who are subject to the EU ePrivacy directive:**  
-Chartbeat uses two cookies. One cookie (_chartbeat2) is used to register whether a user has visited the Customer Website before (to calculate “new vs returning” users). The other (_SUPERFLY_nosample) is used only if a Customer exceeds its plan’s traffic limit. When the traffic limit is reached the cookie is set and will disable the beacon from that Customer for one hour. The chartbeat2 cookie is valid for 30 days. The _SUPERFLY_nosample cookie is valid for one hour.
+Chartbeat uses two cookies. One cookie (_chartbeat2) is used to register whether a user has visited the Customer Website before (to calculate “new vs returning” users). The other (_SUPERFLY_nosample) is used only if a Customer exceeds its plan’s traffic limit. When the traffic limit is reached the cookie is set and will disable the beacon from that Customer for one hour. The chartbeat2 cookie will remain valid as to any given website visitor or user, until the user elects to disable it. The _SUPERFLY_nosample cookie is valid for one hour.
 
 If a Customer does not allow the placement of Chartbeat cookies on its Customer Website, the “new vs. returning user” data point in its Chartbeat dashboard will not be accurately reported.
 
