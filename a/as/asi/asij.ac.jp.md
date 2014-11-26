@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525024513id_/http%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126075821id_/http%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
 
 # ASIJ Privacy Policy - The American School in Japan
 
