@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626231555id_/http%3A//www.nature.org/about-us/governance/privacy-policy.xml%3Fintc%3Dnature.fnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094407id_/http%3A//www.nature.org/about-us/governance/privacy-policy.xml%3Fintc%3Dnature.fnav) for the most accurate reproduction.*
 
 # About the Website Privacy Policy | The Nature Conservancy
 
