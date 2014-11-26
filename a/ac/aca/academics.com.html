@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622012431id_/https%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2014-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126053601id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js rgba borderimage borderradius boxshadow cssgradients"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js canvas geolocation rgba borderimage borderradius boxshadow textshadow opacity cssgradients cssreflections fontface video audio localstorage applicationcache" style=""><head>
 	<link rel="shortcut icon" href="/images/favicon/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon-precomposed" href="/images/favicon/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-touch-icon-57x57.png">
@@ -26,11 +26,11 @@
 <meta http-equiv="pragma" content="no-cache">
  <meta name="verify-v1" content="txkkxtlGDim1htaRD8FK1+R915m/XQ1kERYlTQnjDOA=">
                     
-	<script type="text/javascript" src="/script/jquery-1.3.2.js"></script>
-	<script type="text/javascript" src="/script/modernizr.js"></script>
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NLLWHP"></script><script type="text/javascript" src="/script/desktop/modernizr.js"></script>
+  <script type="text/javascript" src="/script/desktop/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/script/jquery.autocomplete.js"></script>		
 	<script type="text/javascript" src="/script/prettyCheckboxes.js"></script>
-	<script type="text/javascript" src="/script/header.js"></script>
+	<script type="text/javascript" src="/script/desktop/aca_header.js"></script>
 	<script type="text/javascript" src="/script/content.js"></script>
 	<script type="text/javascript" src="/script/boxes.js"></script>
 	<script type="text/javascript" src="/script/swfobject.js"></script>
@@ -38,7 +38,7 @@
 	<script type="text/javascript" src="/script/jquery.easing.1.3.js"></script>
 	<script type="text/javascript" src="/script/jquery.selectbox-0.5.js"></script>
   <script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
-	<script type="text/javascript" src="/script/aca_script.js"></script>
+  <script type="text/javascript" src="/script/desktop/aca_script.js"></script>
 
 	<link rel="stylesheet" href="/css/site.css" type="text/css">
 	<link rel="stylesheet" href="/css/header.css" type="text/css">
@@ -47,6 +47,7 @@
 	<link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css">
 	<link rel="stylesheet" href="/css/aca_navigation_com.css" type="text/css">
 	<link rel="stylesheet" href="/css/aca_templates.css" type="text/css">
+	<link rel="stylesheet" href="/css/desktop/v13_page.css" type="text/css">
 	
   <script type="text/javascript"></script>
 	<noscript><link rel="stylesheet" href="/css/generic-search_fbjs.css" type="text/css" /></noscript>
@@ -134,38 +135,6 @@ function aca_dialog_hide() {
 
 			$('.selectBoxACA').selectbox({debug: true});
 
-	$('a.iframe').each(function() {
-		var hstr = $(this).attr('href');
-		if(hstr.indexOf('action/account/create') > 0) {
-			$(this).attr('href','https://www.academics.com/action/account/create/agent-luf?iframe=true&starturl='+location.pathname+'').removeClass('iframe').addClass('ajaxlayer').attr('data-wt-click', 'jetzt_registrieren');
-  		$(this).attr('data-href', $(this).attr('href'));
-	  	$(this).attr('href', 'javascript:void(0);');
-		} else if(hstr.indexOf('?') > 0) {
-			$(this).attr('href', $(this).attr('href') + '&iframe=true');
-		} else {
-			$(this).attr('href', $(this).attr('href') + '?iframe=true');
-		}
-		
-	});
-	$('a.ajaxlayer').click(function(event) {
-		event.preventDefault();
-		var goal = $(this).attr('data-href');
-    var dialog = '<div class="aca-dialog-container aca-iframe-dialog-container"></div><div class="aca-dialog aca-iframe-dialog" ><a class="close" href="javascript:void(0);" title="schlieÃŸen"></a><iframe id="iframe-aca-dialog-data" scrolling="no" src="'+goal+'" class="aca-dialog-data"></iframe></div>';
-    $(window).scrollTop(0);
-		$('body').append(dialog);
-		$('.aca-dialog-container').click(function() {
-			aca_dialog_hide();
-		});
-		$('.aca-iframe-dialog a.close').click(function() { aca_dialog_hide(); });
-	});
-	
-	$('a.iframe').fancybox({
-		'frameWidth': 791,
-		'frameHeight': 400,
-		'padding': 0,
-		'centerOnScroll': false,
-		'overlayOpacity': 0.5
-	});			
 
     // Fallbackbutton ausblenden und die js-Variante einblenden
     $('.hiddenButton').removeClass("hiddenButton");
@@ -207,939 +176,55 @@ function aca_dialog_hide() {
 		});
 		//]]>
 	</script>
-</head>
+	</head>
 
-<body class="green" id="body">
-
-	<div id="firefoxscrollbarenforcer"></div>
+<body class="green isCom" id="body" style="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NLLWHP"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NLLWHP');</script>
+<!-- End Google Tag Manager --><div id="firefoxscrollbarenforcer"></div>
     <!--START: Header-->
 
     <div id="frameHeader">
-        <div id="containerHeader" class="testimonial5" style="z-index: 1000;">
-				  <div id="headerRight" style="z-index: 999;">
-					<div id="headerMeta" style="z-index: 998;">
-						<div id="headerMetaLaender" class="containerDropdown" style="z-index: 997;">
-							<ul class="dropdown">
-								<li><div class="dropdownEntry" style="z-index: 996;">International<img src="/images/rebrush/header-country-select_arrow.png"></div>
-									<ul class="sub_menu">
-										<li><a href="//www.academics.de" title="Germany">Germany</a></li>									
-										<li><a href="//www.academics.at" title="Austria">Austria</a></li>																		
-										<li><a href="//www.academics.ch" title="Switzerland">Switzerland</a></li>
-									</ul>
-								</li>
-							</ul>
-						</div>
-					</div>
-<script language="javascript">
- 					document.write('<form name="headerSearchLufForm" action="/action/av/search/luf" method="get" id="searchForm" class="iframe">');
-</script><form name="headerSearchLufForm" action="/action/av/search/luf" method="get" id="searchForm" class="iframe">
-<noscript>
-          <form name="headerSearchLufForm" action="/action/search" method="get" id="searchForm" class="iframe">
-</noscript>
-<script language="javascript">
-
-function mySaveProfile() {
-  action = $('#searchForm').attr('action');
-  $.post(action, $("#searchForm").serialize(), function(data){
-	});
-	return false;
-}
-function changeAction(wert) {
-   document.getElementById("searchForm").getAttributeNode("action").value = wert;
-}
-
-function doSearch() {
-    if(document.headerSearchLufForm.searchString.value == 'Keyword, Discipline, Position') {document.headerSearchLufForm.searchString.value = ''; }
-    document.headerSearchLufForm.editing.value = "false";
-    document.headerSearchLufForm.submit();
-}
-
-function searchAca() {
-    uncheckExplicitAllPrettyCheckboxes($('#headerSearchAdvancedDropdown1'));
-    uncheckExplicitAllPrettyCheckboxes($('#headerSearchAdvancedDropdown2'));
-    uncheckExplicitAllPrettyCheckboxes($('#headerSearchAdvancedDropdown3'));
-    uncheckExplicitAllPrettyCheckboxes($('#headerSearchAdvancedDropdown4'));
-    uncheckExplicitAllPrettyCheckboxes($('#headerSearchAdvancedDropdown5'));
-    if(document.headerSearchLufForm.searchString.value == 'Keyword, Discipline, Position') {document.headerSearchLufForm.searchString.value = ''; }
-    //onetime_popup('http://www.academics.de/umfrage/academics_popup/umfrage_popup_academics.html', 'aca.luf');
-    document.headerSearchLufForm.submit();
-}
-
-function searchAcaAdvanced() {
-    document.headerSearchLufForm.searchString.value = '';
-    //onetime_popup('http://www.academics.de/umfrage/academics_popup/umfrage_popup_academics.html', 'aca.luf');
-    document.headerSearchLufForm.submit();
-}
-
-function saveSearchLufForm() {
-    document.headerSearchLufForm.searchString.value = '';
-    document.headerSearchLufForm.saveSearch.value = "true";
-    document.headerSearchLufForm.submit();
-}
-
-function newProfile() {
-    if(document.headerSearchLufForm.searchString.value == 'Suchbegriff') {document.headerSearchLufForm.searchString.value = ''; }
-    document.headerSearchLufForm.saveSearch.value="true";
-    document.headerSearchLufForm.editing.value="true";
-    document.headerSearchLufForm.mode.value="new";
-    document.headerSearchLufForm.submit();
-}
-
-</script>
-
-<input type="hidden" name="action" value="search"><input type="hidden" name="partialSubmission" value="false"><input type="hidden" name="saveSearch" value="false"><input type="hidden" name="editing" value="false"><input type="hidden" name="agentId" value=""><input type="hidden" name="mode" value="">
-          <!-- LastSearch:  -->
-					<div id="headerSearch" role="search" style="z-index: 995;">
-						<div id="headerSearchRight" style="z-index: 994;">
-							<div id="headerSearchLinks" style="z-index: 993;">
-<script language="javascript">
-								document.write('<ul id="searchSwitch"><li><a href="javascript:void(0);" class="act" id="headerSearchFilter" onclick="changeAction(\'/action/av/search/luf\');" title="Jobs">Jobs</a></li><li><a href="javascript:void(0);"  id="headerSearchFilterWissen" onclick="changeAction(\'/action/magazine/search\');" title="Articles">Articles</a></li></ul>');
-								</script><ul id="searchSwitch"><li><a href="javascript:void(0);" class="act" id="headerSearchFilter" onclick="changeAction('/action/av/search/luf');" title="Jobs">Jobs</a></li><li><a href="javascript:void(0);" id="headerSearchFilterWissen" onclick="changeAction('/action/magazine/search');" title="Articles">Articles</a></li></ul><noscript>
-								<ul id="searchSwitchFallback" class="inputButton">
-									<li><input id="adSwitch" type="radio" name="searchType" value="ad" checked /><label for="adSwitch">Jobs</label></li>
-									<li><input id="magazineSwitch" type="radio" name="searchType" value="magazine"  /><label for="magazineSwitch">Articles</label></li>
-								</ul>
-</noscript>
-							</div>
-							<div style="clear: left; z-index: 992;"></div>
-							<div style="z-index: 991;"><input type="text" name="searchString" value="Keyword, Discipline, Position" id="headerSearchInput" onclick="this.value=='Keyword, Discipline, Position'?this.value='':true" onblur="this.value==''?this.value='Keyword, Discipline, Position':true" class="inputText"></div>
-						</div>
-
-						<div id="headerSearchInputs" style="z-index: 990;"><span class="inputButton"><input type="submit" name="Search" value="Search"></span><a class="buttonBig hiddenButton" id="headerSearchButtonSearch" href="javascript:searchAca();" title="Search"><span>Search</span></a><a href="/action/av/search/luf" class="button inputButton"><span>Advanced search</span></a><div class="buttonAdvancedSearch hiddenButton" id="headerSearchAdvancedButton" style="z-index: 989;"><a href="javascript:void(0);" title="Advanced search">Advanced search</a></div></div>
-						<div id="headerSearchAdvanced" class="isCOM" style="clear: left; z-index: 988;">
-<style type="text/css">
-#headerSearchAdvanced { position: relative; z-index: 99900 !important; }
-
-.as-container { position: absolute; z-index: 99900 !important; width: 790px; }
-.as-search-element { position: absolute; width: 368px; height: auto; }
-#as-fachrichtung { top: 20px; left: 20px; z-index: 99920 !important; }
-#as-arbeitgeber { top: 20px; left: 409px; z-index: 99920 !important; }
-#as-position { top: 75px; left: 20px; z-index: 99910 !important; }
-#as-land { top: 75px; left: 409px; z-index: 99910 !important; }
-
-#headerRight .as-title { font-weight: bold; color: #254567; padding-left: 6px; margin-bottom: 2px; }
-#headerRight .as-input { cursor: pointer; height: 22px; padding: 0 24px 0 10px; font-size: 11px; line-height: 22px; color: #656565; font-weight: normal; text-decoration: none; border: 2px solid white; background:url(/images/rebrush/search_advanced_select.png) no-repeat 0px 0px transparent; }
-#headerRight .as-content { margin-left: -2px; background-color: white; background-image: none; border: 2px solid #CDD7E5; border-top: 1px solid #CDD7E5; padding-top: 6px; padding-bottom: 10px; }
-#headerRight .as-content ul { list-style: none; padding:0; margin:0; }
-#headerRight .as-content ul li { position: relative; list-style: none; padding:0; margin:0; }
-#headerRight .as-content ul li { color: #656565; padding-left: 15px; font-weight: normal; text-decoration: none; padding-right: 24px; }
-#headerRight .as-content ul li.as-sub-dropdown { color: #656565; padding-left: 3px; font-weight: normal; text-decoration: none; padding-right: 24px; }
-#headerRight .as-content ul li a { color: #656565; padding-left: 20px; font-weight: normal; text-decoration: none; }
-#headerRight .as-content ul li.as-switch { padding-left: 20px; color: #5291CC; }
-#headerRight .as-content ul li.as-global-switch { padding-left: 0px; color: #5291CC; }
-#headerRight .as-content ul li a.as-checkAll { padding: 0 0 0 0; color: #5291CC; }
-#headerRight .as-content ul li a.as-uncheckAll { padding: 0 0 0 0; color: #5291CC; }
-#headerRight .as-content ul li.as-global-switch a.as-checkAll { padding-left: 15px; }
-#headerRight .as-content ul li ul li { padding-left: 18px; }
-#headerRight .as-content ul li label { cursor: pointer; display: block; padding:0 0 0 18px; margin:0; }
-#headerRight .as-content ul li input { position: absolute; top: 1px; left: 10px; }
-#headerRight .as-content ul li ul li label { cursor: pointer; display: block; padding:0 0 0 20px; margin:0; }
-#headerRight .as-content ul li ul li input { position: absolute; top: 1px; left: 17px; }
-#headerRight .as-sub-dropdown-entry { padding-left: 10px; font-weight: normal; }
-#headerRight .as-sub-dropdown-entry a { display: block; color: #656565; padding-left: 10px; font-weight: normal; text-decoration: none; padding-right: 5px; background:transparent url(/images/search_advanced_submenu.png) 0 2px no-repeat; }
-#headerRight .as-content ul li.trenner { background: transparent; }
-#headerRight .as-content ul li .as-pretty-checkbox { position: absolute; display: block; top: 2px; left: 13px; width: 14px; height: 14px; background:url('/images/search_advanced_checkbox.png') no-repeat 0px 0px transparent; }
-#headerRight .as-content ul li .as-pretty-checkbox.checked { position: absolute; display: block; top: 2px; left: 13px; width: 14px; height: 14px; background:url('/images/search_advanced_checkbox.png') no-repeat 0px -15px transparent; }
-#headerRight .as-content ul li ul li .as-pretty-checkbox { position: absolute; display: block; top: 2px; left: 20px; width: 14px; height: 14px; background:url('/images/search_advanced_checkbox.png') no-repeat 0px 0px transparent; }
-#headerRight .as-content ul li ul li .as-pretty-checkbox.checked { position: absolute; display: block; top: 2px; left: 20px; width: 14px; height: 14px; background:url('/images/search_advanced_checkbox.png') no-repeat 0px -15px transparent; }
-#as-button-row { position: absolute; top: 139px; right: 10px; }
-</style>
-
-<script type="text/javascript">
-$(document).ready(function() {
-  $('.as-container input[type="checkbox"]').each(function() {
-  	var type = $(this).parents('.as-search-element').attr('id');
-		var filter = $(this).attr('id').substring(0,13);
-		var org = $(this).parents('.as-search-element').find('.as-input').html();
-		initSelection(type, filter, org);
-
-    var id = $(this).attr('id');
-    var checked = '';
-    if($(this).attr('checked')) {
-      checked = 'checked';
-			var item = $('label[name="'+id+'"]').attr('innerHTML').replace(/<\/?[^>]+>/gi, '');
-			addSelection(type, filter, item);
-  		$(this).parents('.as-search-element').find('.as-input').attr('innerHTML',getSelection(type, filter, ', '));
-    }
-
-    $(this).after('<div name="'+id+'" class="as-pretty-checkbox '+checked+'"></div>');
-    $(this).hide();
-
-  });
-
-  /*
-  $('.as-pretty-checkbox').click(function() {
-	 var id = $(this).attr('name');
-	 $('input[id="'+id+'"]').trigger('click');
-   var type = $(this).parents('.as-search-element').attr('id');
-   var filter = $(this).attr('name').substring(0,13);
-   var org = $(this).parent().find('label').html();
-   var item = $('label[name="'+id+'"]').attr('innerHTML').replace(/<\/?[^>]+>/gi, '');
-	 if($('input[id="'+id+'"]').attr('checked')) {
-	   $(this).addClass('checked');
-	   addSelection(type, filter, item);
-	 }
-	 else {
-  	 $(this).removeClass('checked');
-	   removeSelection(type, filter, item);
-	 }
-	 $(this).parents('.as-search-element').find('.as-input').attr('innerHTML',getSelection(type, filter, ', '));
-  });
-
-  $('.as-container label').click(function() {
-   $(this).parent().find('.as-pretty-checkbox:first').trigger('click');
-  });
-  
-  $('.as-container .as-checkAll').click(function() {
-    if($(this).parents('li').hasClass('as-global-switch')) {
-      $(this).parents('ul').find('.as-pretty-checkbox').each(function(){
-        if(! $(this).hasClass('checked')) $(this).trigger('click');
-      });      
-    } else {
-      $(this).parents('li').find('.as-pretty-checkbox').each(function(){
-        if(! $(this).hasClass('checked')) $(this).trigger('click');
-      });
-    }
-  });
-  $('.as-container .as-uncheckAll').click(function() {
-    if($(this).parents('li').hasClass('as-global-switch')) {
-      $(this).parents('ul').find('.as-pretty-checkbox').each(function(){
-        if($(this).hasClass('checked')) $(this).trigger('click');
-      });
-    } else {
-      $(this).parents('li').find('.as-pretty-checkbox').each(function(){
-        if($(this).hasClass('checked')) $(this).trigger('click');
-      });
-    }
-  });
-
-  $('.as-sub-dropdown ul').hide();
-  
-  $('.as-sub-dropdown-entry a').click(function() {
-    $(this).parents('li').find('ul').slideToggle("fast");
-  });
-
-  $('.as-content').hide();
-  $('.as-input').click(function() {
-    if(! $(this).parent().find('.as-content').hasClass('isVisible')) {
-      $(this).parent().find('.as-content').addClass('isVisible').slideDown('fast');    
-    }
-  });
-  
-  $('.as-search-element').mouseleave(function() {
-    $(this).find('.as-content').slideUp('fast').removeClass('isVisible');
-  });
-*/
-});
-</script>
-
-<div class="as-container" style="z-index: 987;">
-  <div id="as-fachrichtung" class="as-search-element" style="z-index: 986;">
-    <div class="as-title" style="z-index: 985;">Field and Subject</div>
-    <div class="as-input" style="z-index: 984;">Please select your field and subject</div>
-    <div class="as-content" style="z-index: 983;">
-      <ul class="as-dropdown">
-        <li class="as-switch as-global-switch">
-          <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-        </li>
-        <li>
-                <input type="checkbox" name="studyFieldIds" class="imageCheckboxes" id="searchfilter1_0" value="14">
-                <label name="searchfilter1_0">Administration and Management in Higher Education and Research Institutes</label>
-              </li>
-         	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 982;">
-        			    <a href="javascript:void(0);">Agriculture / Forestry</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_1_0" value="10">
-                      <label name="searchfilter1_1_0">Agriculture</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_1_1" value="11">
-                      <label name="searchfilter1_1_1">Forestry</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_1_2" value="13">
-                      <label name="searchfilter1_1_2">Others under Agriculture / Forestry</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 981;">
-        			    <a href="javascript:void(0);">Architecture / Town and Regional Planning / Planning</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_2_0" value="20">
-                      <label name="searchfilter1_2_0">Architecture</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_2_1" value="21">
-                      <label name="searchfilter1_2_1">Town / Regional / Spatial Planning / Landscaping</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_2_2" value="22">
-                      <label name="searchfilter1_2_2">Others under Architecture / Town and Regional Planning / Planning</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 980;">
-        			    <a href="javascript:void(0);">Computer Science / Mathematics</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_3_0" value="50">
-                      <label name="searchfilter1_3_0">Computer Science</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_3_1" value="51">
-                      <label name="searchfilter1_3_1">Mathematics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_3_2" value="52">
-                      <label name="searchfilter1_3_2">Others under Computer Science / Mathematics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_3_3" value="65">
-                      <label name="searchfilter1_3_3">Business Information Technology</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 979;">
-        			    <a href="javascript:void(0);">Cultural Studies / Languages / Media / History</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_0" value="40">
-                      <label name="searchfilter1_4_0">Archaeology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_1" value="100">
-                      <label name="searchfilter1_4_1">Ethnology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_2" value="41">
-                      <label name="searchfilter1_4_2">History</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_3" value="166">
-                      <label name="searchfilter1_4_3">Cultural Anthropology / European Anthropology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_4" value="120">
-                      <label name="searchfilter1_4_4">Cultural Studies</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_5" value="42">
-                      <label name="searchfilter1_4_5">History of Art / Science of Art</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_6" value="121">
-                      <label name="searchfilter1_4_6">Media / Communications / Journalism</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_7" value="122">
-                      <label name="searchfilter1_4_7">Languages</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_4_8" value="43">
-                      <label name="searchfilter1_4_8">Others under Cultural Studies / Languages / Media / History</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 978;">
-        			    <a href="javascript:void(0);">Economics</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_5_0" value="150">
-                      <label name="searchfilter1_5_0">Business Studies</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_5_1" value="151">
-                      <label name="searchfilter1_5_1">Economics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_5_2" value="152">
-                      <label name="searchfilter1_5_2">Others under Economics</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 977;">
-        			    <a href="javascript:void(0);">Education / Social Sciences / Sports</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_0" value="30">
-                      <label name="searchfilter1_6_0">Education</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_1" value="102">
-                      <label name="searchfilter1_6_1">Politics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_2" value="103">
-                      <label name="searchfilter1_6_2">Religious Studies</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_3" value="104">
-                      <label name="searchfilter1_6_3">Sociology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_4" value="31">
-                      <label name="searchfilter1_6_4">Sports</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_6_5" value="32">
-                      <label name="searchfilter1_6_5">Others under Education / Social Sciences / Sports</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 976;">
-        			    <a href="javascript:void(0);">Engineering</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_0" value="60">
-                      <label name="searchfilter1_7_0">Civil Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_1" value="61">
-                      <label name="searchfilter1_7_1">Electrical Engineering / Electronics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_2" value="170">
-                      <label name="searchfilter1_7_2">Aerospace Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_3" value="62">
-                      <label name="searchfilter1_7_3">Mechanical Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_4" value="63">
-                      <label name="searchfilter1_7_4">Process Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_5" value="64">
-                      <label name="searchfilter1_7_5">Others under Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_6" value="153">
-                      <label name="searchfilter1_7_6">Industrial Engineering</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 975;">
-        			    <a href="javascript:void(0);">Law</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_8_0" value="110">
-                      <label name="searchfilter1_8_0">Public Law</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_8_1" value="111">
-                      <label name="searchfilter1_8_1">Criminal Law</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_8_2" value="112">
-                      <label name="searchfilter1_8_2">Others under Law</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_8_3" value="113">
-                      <label name="searchfilter1_8_3">Civil Law</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 974;">
-        			    <a href="javascript:void(0);">Life Sciences</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_0" value="90">
-                      <label name="searchfilter1_9_0">Biochemistry</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_1" value="158">
-                      <label name="searchfilter1_9_1">Bioinformatics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_2" value="91">
-                      <label name="searchfilter1_9_2">Biology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_3" value="159">
-                      <label name="searchfilter1_9_3">Biomedical Sciences</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_4" value="160">
-                      <label name="searchfilter1_9_4">Biophysics</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_5" value="92">
-                      <label name="searchfilter1_9_5">Biotechnology and Genetic Engineering</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_6" value="12">
-                      <label name="searchfilter1_9_6">Nutrition</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_7" value="95">
-                      <label name="searchfilter1_9_7">Food Technology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_8" value="161">
-                      <label name="searchfilter1_9_8">Medical Technology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_9" value="162">
-                      <label name="searchfilter1_9_9">Molecular Biology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_10" value="71">
-                      <label name="searchfilter1_9_10">Pharmacology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_11" value="163">
-                      <label name="searchfilter1_9_11">Pharmacy</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_12" value="164">
-                      <label name="searchfilter1_9_12">Environmental Management / Technology </label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_9_13" value="165">
-                      <label name="searchfilter1_9_13">Life Sciences, other</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 973;">
-        			    <a href="javascript:void(0);">Medicine / Psychology / Public Health</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_0" value="169">
-                      <label name="searchfilter1_10_0">Public Health</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_1" value="70">
-                      <label name="searchfilter1_10_1">Medicine</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_2" value="72">
-                      <label name="searchfilter1_10_2">Psychology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_3" value="73">
-                      <label name="searchfilter1_10_3">Veterinary Medicine</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_4" value="74">
-                      <label name="searchfilter1_10_4">Others under Medicine / Psychology / Public Health</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_10_5" value="75">
-                      <label name="searchfilter1_10_5">Dentistry</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 972;">
-        			    <a href="javascript:void(0);">Music / Art / Design</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_0" value="80">
-                      <label name="searchfilter1_11_0">Fine Art</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_1" value="81">
-                      <label name="searchfilter1_11_1">Design</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_2" value="167">
-                      <label name="searchfilter1_11_2">Music (performing)</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_3" value="83">
-                      <label name="searchfilter1_11_3">Music (academic)</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_4" value="168">
-                      <label name="searchfilter1_11_4">Drama / Directing</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_5" value="84">
-                      <label name="searchfilter1_11_5">Drama and Film Studies</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_11_6" value="85">
-                      <label name="searchfilter1_11_6">Others under Music / Art / Design</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 971;">
-        			    <a href="javascript:void(0);">Natural Sciences</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_12_0" value="93">
-                      <label name="searchfilter1_12_0">Chemistry</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_12_1" value="94">
-                      <label name="searchfilter1_12_1">Earth Sciences</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_12_2" value="96">
-                      <label name="searchfilter1_12_2">Physics / Astronomy</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_12_3" value="97">
-                      <label name="searchfilter1_12_3">Others under Natural Sciences</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 970;">
-        			    <a href="javascript:void(0);">Philosophy</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_13_0" value="101">
-                      <label name="searchfilter1_13_0">Philosophy</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_13_1" value="105">
-                      <label name="searchfilter1_13_1">Others under Philosophy</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 969;">
-        			    <a href="javascript:void(0);">Theology</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_14_0" value="130">
-                      <label name="searchfilter1_14_0">Protestant Theology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_14_1" value="131">
-                      <label name="searchfilter1_14_1">Catholic Theology</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_14_2" value="157">
-                      <label name="searchfilter1_14_2">Others under Theology</label>
-                    </li>
-                  </ul>
-        		  </li>
-        	  </ul>
-    </div>
-  </div>
-  <div id="as-arbeitgeber" class="as-search-element" style="z-index: 968;">
-    <div class="as-title" style="z-index: 967;">Employer</div>
-    <div class="as-input" style="z-index: 966;">Please select your employer type</div>
-    <div class="as-content" style="z-index: 965;">
-      <ul class="as-dropdown">
-        <li class="as-switch as-global-switch">
-          <a class="as-checkAll" href="javascript:void(0);">Select all</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect all</a>
-        </li>										
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_0" value="11">
-            <label name="searchfilter4_0">Foundation</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_1" value="6">
-            <label name="searchfilter4_1">Graduate School</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_2" value="7">
-            <label name="searchfilter4_2">Other Employer</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_3" value="9">
-            <label name="searchfilter4_3">Research Company</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_4" value="10">
-            <label name="searchfilter4_4">Research Hospital</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_5" value="5">
-            <label name="searchfilter4_5">Research Institute</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_6" value="1">
-            <label name="searchfilter4_6">University</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_7" value="2">
-            <label name="searchfilter4_7">University of Applied Sciences</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_8" value="4">
-            <label name="searchfilter4_8">University of Cooperative Education</label>
-          </li>
-        <li>
-            <input type="checkbox" name="employerTypeIds" class="imageCheckboxes" id="searchfilter4_9" value="3">
-            <label name="searchfilter4_9">University of Music / Arts</label>
-          </li>
-        </ul>		
-    </div>
-  </div>
-  <div id="as-position" class="as-search-element" style="z-index: 964;">
-    <div class="as-title" style="z-index: 963;">Role</div>
-    <div class="as-input" style="z-index: 962;">Please select your preferred role</div>
-    <div class="as-content" style="z-index: 961;">
-      <ul class="as-dropdown">
-        <li class="positionsHead">Higher Education, Research &amp; Development</li> 
-        <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_0" value="1">
-              <label name="searchfilter2_0">PhD Student</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_1" value="2">
-              <label name="searchfilter2_1">Lecturer / Reader</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_2" value="3">
-              <label name="searchfilter2_2">Research and Development Associate</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_3" value="4">
-              <label name="searchfilter2_3">Institute Director</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_4" value="5">
-              <label name="searchfilter2_4">Associate Professor</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_5" value="6">
-              <label name="searchfilter2_5">Postdoctoral Position</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_6" value="7">
-              <label name="searchfilter2_6">Professor</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_10" value="11">
-              <label name="searchfilter2_10">Scientific Assistant / Research Fellow</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_11" value="12">
-              <label name="searchfilter2_11">Assistant Professor</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_12" value="13">
-              <label name="searchfilter2_12">Research Group Leader</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_13" value="14">
-              <label name="searchfilter2_13">Management Position in Research &amp; Development</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_14" value="15">
-              <label name="searchfilter2_14">Medical Research Associate</label>
-            </li>
-          <li>
-              <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_15" value="16">
-              <label name="searchfilter2_15">Manager</label>
-            </li>
-          <li class="trenner">&nbsp;</li>
-        <li class="positionsHead">Administration and Management in Higher Education and Research Institutes</li> 
-        <li>
-            <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_7" value="8">
-            <label name="searchfilter2_7">Chief Executive Positions</label>
-          </li>
-        <li>
-            <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_9" value="10">
-            <label name="searchfilter2_9">Manager / Specialist</label>
-          </li>
-        <li>
-            <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_16" value="17">
-            <label name="searchfilter2_16">Head of Section / Department</label>
-          </li>
-        <li class="trenner">&nbsp;</li>
-      <li>
-            <input type="checkbox" name="positionIds" class="imageCheckboxes" id="searchfilter2_8" value="9">
-            <label name="searchfilter2_8">Scholarships / Grants / Prizes / Stipends</label>
-          </li>
-        </ul>
-    </div>
-  </div>
-  <div id="as-land" class="as-search-element" style="z-index: 960;">
-    <div class="as-title" style="z-index: 959;">Country</div>
-    <div class="as-input" style="z-index: 958;">Please select your country</div>
-    <div class="as-content" style="z-index: 957;">
-      <ul class="as-dropdown">
-        <li class="as-switch as-global-switch">
-          <a class="as-checkAll" href="javascript:void(0);">Select all</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect all</a>
-        </li>
-        <li class="as-sub-dropdown">
-        			  <div class="as-sub-dropdown-entry" style="z-index: 956;">
-        			    <a href="javascript:void(0);">Germany</a>
-        			  </div>
-        				<ul>										
-                  <li class="as-switch">
-                    <a class="as-checkAll" href="javascript:void(0);">Select All</a><span>&nbsp;|&nbsp;</span><a class="as-uncheckAll" href="javascript:void(0);">Deselect All</a>
-                  </li>										
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_0" value="1">
-                      <label name="searchfilter5_0_0">Baden-Wurttemberg</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_1" value="2">
-                      <label name="searchfilter5_0_1">Bavaria</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_2" value="3">
-                      <label name="searchfilter5_0_2">Berlin</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_3" value="4">
-                      <label name="searchfilter5_0_3">Brandenburg</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_4" value="5">
-                      <label name="searchfilter5_0_4">Bremen</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_5" value="6">
-                      <label name="searchfilter5_0_5">Hamburg</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_6" value="7">
-                      <label name="searchfilter5_0_6">Hesse</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_7" value="8">
-                      <label name="searchfilter5_0_7">Mecklenburg-Western Pomerania</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_8" value="9">
-                      <label name="searchfilter5_0_8">Lower Saxony</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_9" value="10">
-                      <label name="searchfilter5_0_9">North Rhine-Westphalia</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_10" value="11">
-                      <label name="searchfilter5_0_10">Rhineland-Palatinate</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_11" value="12">
-                      <label name="searchfilter5_0_11">Saarland</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_12" value="13">
-                      <label name="searchfilter5_0_12">Saxony</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_13" value="14">
-                      <label name="searchfilter5_0_13">Saxony-Anhalt</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_14" value="15">
-                      <label name="searchfilter5_0_14">Schleswig-Holstein</label>
-                    </li>
-                  <li>
-                      <input type="checkbox" name="regionIds" class="imageCheckboxes" id="searchfilter5_0_15" value="16">
-                      <label name="searchfilter5_0_15">Thuringia</label>
-                    </li>
-                  </ul>
-              </li>
-            <li>
-                <input type="checkbox" name="countryIds" class="imageCheckboxes" id="searchfilter5_1" value="2">
-                <label name="searchfilter5_1">Austria</label>
-              </li>
-            <li>
-                <input type="checkbox" name="countryIds" class="imageCheckboxes" id="searchfilter5_2" value="3">
-                <label name="searchfilter5_2">Switzerland</label>
-              </li>
-            <li>
-                <input type="checkbox" name="countryIds" class="imageCheckboxes" id="searchfilter5_3" value="4">
-                <label name="searchfilter5_3">Other Countries</label>
-              </li>
-            </ul>			
-    </div>
-  </div>
-
-	<div id="as-button-row" style="z-index: 955;"><a class="button" href="javascript:searchAcaAdvanced();" title="Search"><span>Search</span></a> <a class="button iframe" id="saveAsProfile" href="https://www.academics.com/action/account/create/agent-luf" onclick="mySaveProfile();"><span>Activate search profile</span></a></div>
-
+        <header class="aca-header as-animate">
+  <div class="aca-header-inner isCom as-animate">
+    <a class="logo com" href="/" title="academics.com">&nbsp;</a>
+<div class="aca-country-selection dropdown-container">
+	<ul class="dropdown">
+		<li>
+			<span class="dropdown-entry">International</span>
+			<ul class="sub-menu">
+				<li><a href="//www.academics.de" title="Germany">Germany</a></li>									
+				<li><a href="//www.academics.at" title="Austria">Austria</a></li>																		
+				<li><a href="//www.academics.ch" title="Switzerland">Switzerland</a></li>
+			</ul>							
+		</li>
+	</ul>
 </div>
-</div>
-					</div>
-          </form>
-				  </div>
-					<script type="text/javascript">
-					</script>
-					<noscript>
-					  <style>
-						 #logo a img { visibility: visible; }
-						</style>
-					</noscript>
-				  <div id="logo" style="z-index: 954;"><a href="//www.academics.com" title="academics.com"><img src="/images/academics_com_logo_big.png" alt="logo: academics.com" style="width: 211px; position: absolute; bottom: 0px;"></a></div>				  	
+  <form name="headerSearchLufForm_keyword" action="/action/av/search/all" method="get" id="searchForm" class="iframe">
 
-				  <div style="clear: both; z-index: 953;"></div>
+    <input type="hidden" name="action" value="search"><input type="hidden" name="partialSubmission" value="false"><input type="hidden" name="saveSearch" value="false"><input type="hidden" name="editing" value="false"><input type="hidden" name="agentId" value=""><input type="hidden" name="mode" value="">
 
+    <div class="aca-header-search">
+      <div class="aca-header-search-input">
+        <input type="text" name="searchString" value="" placeholder="Keyword, Discipline, Position" id="headerSearchInput" class="inputText" autocomplete="off">
+      </div>
+			<div class="aca-header-search-button-row">
+        <button type="submit" name="suchen" class="button type-normal">Search</button>
+        <a href="javascript:void(0);" class="button type-normal">Advanced Search</a>
+      </div>
+    </div>
+  </form>
+  <form name="headerSearchLufForm" action="/action/av/search/luf" method="get" id="searchForm" class="iframe">
 
-				 <div id="mainNav" class="containerDropdown" style="z-index: 952;">
+    <input type="hidden" name="action" value="search"><input type="hidden" name="partialSubmission" value="false"><input type="hidden" name="saveSearch" value="false"><input type="hidden" name="editing" value="false"><input type="hidden" name="agentId" value=""><input type="hidden" name="mode" value="">
+    <input type="hidden" name="sortSearchString" value="">
 
-<!-- Navigation -->
+    <div class="aca-advanced-search-container as-animate"></div>
+  </form>
+
+  <div id="mainNav" class="containerDropdown" role="navigation">
+
 <script type="text/javascript">
   function loadNav(navId) {
     $.post("/wissenschaft/navigationsknoten_53075.html", { navpart: navId },
@@ -1230,10 +315,10 @@ $(document).ready(function() {
     <a class="level-1" href="/science/jobs_in_research_and_science_37198.html" title="Jobs"><span>Jobs</span><span class="bg-right">&nbsp;</span></a>
     
     <ul class="level-2 spalten-3">
-    <div class="subnav-top" style="z-index: 951;"></div>
-    <div class="subnav-bottom" style="z-index: 950;"></div>
-    <div class="trenner spalten-3-1" style="z-index: 949;"></div>
-    <div class="trenner spalten-3-2" style="z-index: 948;"></div>
+    <div class="subnav-top"></div>
+    <div class="subnav-bottom"></div>
+    <div class="trenner spalten-3-1"></div>
+    <div class="trenner spalten-3-2"></div>
       <li class="level-2">
         <ul>
            <li><a class="wiki" href="/science/jobs_and_vacancies_early-career_researcher_51258.html" title="Early-Career Researcher: Jobs and Vacancies"><span class="linkText">Early-Career Researcher</span></a>
@@ -1283,9 +368,9 @@ $(document).ready(function() {
     <a class="level-1" href="/science/career_information_53590.html" title="Career Information"><span>Career Information</span><span class="bg-right">&nbsp;</span></a>
     
     <ul class="level-2 spalten-2">
-    <div class="subnav-top" style="z-index: 947;"></div>
-    <div class="subnav-bottom" style="z-index: 946;"></div>
-    <div class="trenner spalten-2-1" style="z-index: 945;"></div>
+    <div class="subnav-top"></div>
+    <div class="subnav-bottom"></div>
+    <div class="trenner spalten-2-1"></div>
       <li class="level-2">
         <ul>
           <li><a class="wiki" href="/science/career_paths_55952.html" title="Career Path, Career Opportunity"><span class="linkText">Career Paths</span></a>
@@ -1308,7 +393,7 @@ $(document).ready(function() {
           <li><a class="wiki" href="/science/salaries_in_science_and_research_38518.html" title="Research job salaries"><span class="linkText">Salaries</span></a></li>
           <li><br><a class="wiki" href="/science/research_funding_30519.html" title="Research Funding"><span class="linkText">Research Funding</span></a></li>
           <li><br><a class="wiki" href="/science/applications_30540.html" title="The Application Process"><span class="linkText">Application Processes</span></a></li>
-<li><br><a class="wiki" href="/science/academics_award_36250.html" title="Young Researcher of the Year 2014"><span class="linkText">academics Award</span></a></li>
+<li><br><a class="wiki" href="/science/academics_award_36250.html" title="Young Researcher of the Year 2014: Jun.-Prof. Dr.-Ing. Kálmán Graffi"><span class="linkText">academics Award</span></a></li>
           <li><br><span class="a"><a class="wiki" href="/science/spotlight_on_53591.html" title="Spotlight On Research Topics"><span class="linkText">Spotlight on</span></a></span>
             <ul>
 	            <li><a class="wiki" href="/science/spotlight_on_biotechnology_53592.html" title="Spotlight on Biotechnology"><span class="linkText">Biotechnology</span></a></li>
@@ -1324,12 +409,12 @@ $(document).ready(function() {
     <a class="level-1" href="/science/working_in_germany_55957.html" title="Working in Germany"><span>Working in Germany</span><span class="bg-right">&nbsp;</span></a>
     
     <ul class="level-2 spalten-2">
-    <div class="subnav-top" style="z-index: 944;"></div>
-    <div class="subnav-bottom" style="z-index: 943;"></div>
-    <div class="trenner spalten-2-1" style="z-index: 942;"></div>
+    <div class="subnav-top"></div>
+    <div class="subnav-bottom"></div>
+    <div class="trenner spalten-2-1"></div>
       <li class="level-2">
         <ul>
-          <li><a class="wiki" href="/science/scientific_infrastructure_56037.html" title="Scientific Infrastructure: Bringing Research to Life"><span class="linkText">Scientific Infrastructure</span></a></li>
+          <li><a class="wiki" href="/science/scientific_infrastructure_-_germany_55958.html" title="Scientific infrastructure"><span class="linkText">Scientific Infrastructure</span></a></li>
           <li><br><a class="wiki" href="/science/city_profiles_55959.html" title="City Profiles"><span class="linkText">City Profiles</span></a></li>
           <li><br><a class="wiki" href="/science/getting_started_55961.html" title="Getting Started"><span class="linkText">Getting Started</span></a></li>
           <li><br><a class="wiki" href="/science/german_language_30701.html" title="Learning German - for an international career in academia"><span class="linkText">Learning German</span></a></li>
@@ -1350,26 +435,26 @@ $(document).ready(function() {
     </ul>
 </li>
   <li id="nav-login" class="level-1 login">
-    <a class="level-1 login" href="#" title="Login"><span>Login</span><span class="bg-right">&nbsp;</span></a>
+    <a class="level-1 login" href="#" title="Login"><span>Sign up / Login</span><span class="bg-right">&nbsp;</span></a>
         
 <ul class="level-2">
-    <div class="subnav-top" style="z-index: 941;"></div>
-    <div class="subnav-bottom" style="z-index: 940;"></div>
+    <div class="subnav-top"></div>
+    <div class="subnav-bottom"></div>
  <li id="subnav-login">
-  <div class="facebook-login" style="z-index: 939;">
+  <div class="facebook-login">
     <form action="https://www.academics.com/action/account/startFacebookLogin" method="get">
       <input type="hidden" name="action" value="start">
       <button type="submit"></button>      
     </form>
   </div>
-  <div class="google-login" style="z-index: 938;">
+  <div class="google-login">
      <form action="https://www.academics.com/action/account/startGoogleLogin" method="get">
       <input type="hidden" name="action" value="start">
       <button type="submit"></button>      
     </form>
  </div>
-  <div class="login-trenner" style="z-index: 937;"><span class="part-1"></span><span class="part-2">or</span><span class="part-3"></span></div>
-  <div class="normal" style="z-index: 936;">
+  <div class="login-trenner"><span class="part-1"></span><span class="part-2">or</span><span class="part-3"></span></div>
+  <div class="normal">
   <form action="https://www.academics.com/action/account/login" name="myLoginForm" target="_top" method="post" class="com">
    <input type="hidden" name="action" value="login">
    <span class="login-text">Log in with your academics account</span>
@@ -1379,10 +464,10 @@ $(document).ready(function() {
 	 <input type="password" name="password" id="password" class="inputText bg-image" autocomplete="off">
 	 <button type="submit" name="submitbutton" value="Einloggen"><span>Log in</span><span class="bg-right">&nbsp;</span></button>
   </form>
-<div class="login-trenner-weiss" style="z-index: 935;"></div>
+<div class="login-trenner-weiss"></div>
          <a href="/science/contact_30408.html" class="loginLink" id="problem" title="Trouble logging in?">Trouble logging in?</a>
-	 <a href="/action/account/sendPassword?iframe=true" class="loginLink iframe" id="vergessen" title="Forgot password?">Forgot password?</a>
-	 <a href="https://www.academics.com/action/account/create/agent-luf?iframe=true" class="loginLink iframe" id="registration" title="Register now">Register now</a>
+	 <a href="/action/account/sendPassword?iframe=true&amp;iframe=true" class="loginLink iframe" id="vergessen" title="Forgot password?">Forgot password?</a>
+	 <a href="javascript:void(0);" class="loginLink ajaxlayer" id="registration" title="Register now" data-wt-click="jetzt_registrieren" data-href="https://web.archive.org/action/account/create/agent-luf?iframe=true&amp;starturl=/web/20141126053601id_/http%3A//www.academics.com/science/privacy_policy_30406.html">Register now</a>
 </div>
  </li>
 </ul>
@@ -1392,14 +477,13 @@ $(document).ready(function() {
 </ul>
 
 <ul class="dropdown" id="menuArbeitgeber">
-	<li class="open"><div class="dropdownEntry arbeitgeber" style="z-index: 934;"><a href="//www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a></div></li>
+	<li class="open"><div class="dropdownEntry arbeitgeber"><a href="//www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a></div></li>
 </ul>
 
 </div>
-				  <div style="clear: both; z-index: 933;"></div>
+    </div></header>
 
-			</div>
-  </div>
+</div>
 
     <!--ENDE: Header-->
     
@@ -1651,7 +735,7 @@ info@academics.com
 				<div class="left">
             <script type="text/javascript">document.write('<a class="printButton" klickout="drucken" href="javascript:print();" title="Print">Print</a>');</script><a class="printButton" klickout="drucken" href="javascript:print();" title="Print">Print</a>
     <noscript><a class="printButton" target="_blank" href="http://www.academics.com/science/privacy_policy_30406.html?printView=true" title="Print">Print</a></noscript>
-  <a class="sendButton iframe" href="/action/popup/recommendPage?nav=30406" title="Send to a friend">Send to a friend</a>
+  <a class="sendButton iframe" href="/action/popup/recommendPage?nav=30406&amp;iframe=true" title="Send to a friend">Send to a friend</a>
   <a class="bookmarkButton" href="#" title="Bookmarks">Bookmarks</a>
                     </div>
                   <div id="bookmarkBox">
@@ -1741,7 +825,7 @@ iom.c(iam_data);
 var IVW="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;";
 document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" />");
 //-->
-</script><img src="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;?r=&amp;d=53482.25446267301" width="1" height="1" alt="szmtag">
+</script><img src="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;?r=&amp;d=61680.56153627845" width="1" height="1" alt="szmtag">
 <noscript>
 <img src="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;" width="1" height="1" alt="szmtag" />
 </noscript>
@@ -1838,7 +922,7 @@ document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.ran
     </ul>
     <ul>
       <li class="top-link">
-        <a class="iframe" href="/action/account/create/agent-luf" title="Sign in now">Sign in now</a>
+        <a class="ajaxlayer" href="javascript:void(0);" title="Sign in now" data-wt-click="jetzt_registrieren" data-href="https://web.archive.org/action/account/create/agent-luf?iframe=true&amp;starturl=/web/20141126053601id_/http%3A//www.academics.com/science/privacy_policy_30406.html">Sign in now</a>
       </li>
       <li class="top-link">
         <a href="/action/account/login" title="Login">Login</a>
@@ -1858,14 +942,6 @@ document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.ran
     <!--Ende: footer -->
 
 <!-- Squid-Tag kommt hier -->
-<img src="//squid.academics.de/squid?requestUrl=http%3A%2F%2Fwww.academics.com%2Fscience%2Fprivacy_policy_30406.html" width="0" height="0" alt="" style="display: none"><script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-13069811-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
-<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
+
+<div id="AutocompleteContainter_1580362357686" style="position: absolute; z-index: 990; top: 104px; left: 399.5px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_1580362357686" style="display: none; width: 363px; max-height: 300px;"></div></div></div></body></html>
