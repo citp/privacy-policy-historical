@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsccd.edu privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620162307id_/http%3A//www.rsccd.edu/Discover-RSCCD/Pages/RSCCD-Privacy-Act-Notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsccd.edu privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126180120id_/http%3A//www.rsccd.edu/Discover-RSCCD/Pages/RSCCD-Privacy-Act-Notice.aspx) for the most accurate reproduction.*
 
 # Discover RSCCD
 
