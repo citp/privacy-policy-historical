@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627090107id_/http%3A//www.tabelog.us/privacy_policy/20120915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126165637id_/http%3A//www.tabelog.us/privacy_policy/20120915) for the most accurate reproduction.*
 
 # Tabélog New York
 
@@ -137,7 +137,7 @@ We may also disclose your personal information:
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly (e.g., logging in).
-  * Promotional Offers from the Company. If you do not wish to have your e-mail address used by the Company to promote our services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to . If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. Furthermore, you may choose not to receive promotional emails from Tabélog by unchecking the associated box on your MyPage site.
+  * Promotional Offers from the Company. If you do not wish to have your e-mail address used by the Company to promote our services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to . If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. Furthermore, you may choose not to receive promotional emails from Tabélog by unchecking the associated box on your [MyPage site](https://ssl.tabelog.us/my/profile/edit).
 
 
 
