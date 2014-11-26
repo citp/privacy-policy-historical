@@ -1,35 +1,8 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412122026id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126085054id_/http%3A//www.speedwaymotors.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy and Security Policy - Speedway Motors, America's Oldest Speed Shop
+# Privacy and Security Policy
 
-This statement discloses the privacy practices for www.speedwaymotors.com. The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within speedwaymotors.com to read the privacy statements of those sites as their privacy practices may differ from ours.
-
-If you have questions or concerns regarding this statement you should first contact us via Customer Service 
-
-[_email_](https://web.archive.org/ContactSpeedway.dlp)
-
-or by calling 800.979.0122. If you prefer to write us our postal address is:
-
-Speedway Motors, Inc.  
-340 Victory Lane  
-Lincoln, NE 68528
-
-[ _email Customer Service_](https://web.archive.org/ContactSpeedway.dlp)
-
-Speedway Motors has taken numerous precautions to guard your security while making purchases online in order to make you feel comfortable and secure. Our goal is to make you feel as comfortable shopping here as you would from our catalog or retail showroom. 
-
-**Speedway Motors' privacy/security policy will inform you about:**
-
-  * _What personally identifiable information is being collected?_
-  * _How is the information being used?_
-  * _With whom do we share your information?_
-  * _How do I access, update, or delete my personally identifiable information?_
-  * _What information will be disclosed if required by law?_
-  * _What are cookies and how do we use them?_
-  * _What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?_
-  * _What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?_
-
-
+### **Privacy**
 
 _**What personally identifiable information is being collected?**_  
 You may be asked to provide us with personally identifiable information when you visit the Speedway Motors website in order for us to provide you with the products or services that you have requested. For example, when you order a product we may ask you to become a registered user of our site. You will be asked for your shipping and billing addresses, your email address, and your credit card number or other payment-related information. If you request one of our newsletters or send an inquiry to one of our customer service representatives we will store a record of your request along with your email address. Additionaly, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited. That information does not typically contain any personally identifiable information about you. We also collect demographic and interest information (such as age, gender and interests) about you using Google Anayltics. This allows us to present specific products and services to you based on who you are and what you like.
@@ -45,58 +18,22 @@ If you are a registered user of the website, you can manage many aspects of your
 
 Speedway Motors, Inc.  
 340 Victory Lane  
-Lincoln, NE 68528
-
-[ _email Customer Service_](https://web.archive.org/ContactSpeedway.dlp)
+Lincoln, NE 68528  
+[sales@speedwaymotors.com](mailto:sales@speedwaymotors.com "Email Us!")
 
 _**What information will be disclosed if required by law?**_  
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency as well as the particular law enforcement agency making the request.
 
 _**What are cookies and how do we use them?**_  
-A cookie is a block of text placed in a file on your hard drive by a website you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information via online registration. Speedway Motors uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience.
+A cookie is a block of text placed in a file on your hard drive by a website you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information via online registration. Speedway Motors uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience. Cookies are also used in line with Google Remarketing and Analytics to serve advertisements to you on other websites across the Internet based on your past visits to our website. Your personally identifiable information, such as telephone number and address, are not shared with Google via cookies.
 
-Cookies are also used in line with Google Remarketing, Google Analytics and Bazaarvoice (our 3rd party product ratings and reviews provider) to collect demographic and interest-based information such as gender and shopping behavior. This information allows Speedway Motors to serve relevant content specific to you on SpeedwayMotors.com and relevant advertisements to you on other websites across the Internet based on your past visits to our website. Your personally identifiable information, such as telephone number and address, are not shared with Google or Bazaarvoice via cookies.
-
-Lastly, Speedway Motors uses a session cookie, which is a piece of identification between your browser and our server that helps to do things such as keeping track of the items in your shopping cart. The shopping cart cookie is saved for a designated period of time in case your session expires or if you return to complete a purchase within that time frame.
-
-If you wish to track and manage your cookies, we suggest using the Network Advertising Initiative's 
-
-[_Consumer Opt-Out Tool_](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67Jde%252FhmjTEU5z16uorXqK1gokz2EFye%252BLIHETpodcMTcJlNLvYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D)
-
-.  
+Speedway Motors also uses a session cookie, which is a piece of identification between your browser and our server that helps to do things such as keeping track of the items in your shopping cart. The shopping cart cookie is saved for a designated period of time in case your session expires or if you return to complete a purchase within that time frame.  
 _  
 **What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?** _   
 If you do not want to receive email from us in the future, please let us know by calling, sending an email, or by writing to us at the above postal address and telling us that you do not want to receive email from our company.
 
-If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this website, and messages from subsidiaries of Speedway Motors and other companies with operational relationships to Speedway Motors. You may modify your email preferences by calling 800.979.0122 or if you have an account at speedwaymotors.com you may change them in the "My Account" section by clicking 
-
-[_here_](https://www.speedwaymotors.com/SSL/Login.aspx?ReturnUrl=%2fssl%2faccount%2fshopperaccount.aspx)
-
-.
+If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this website, and messages from subsidiaries of Speedway Motors and other companies with operational relationships to Speedway Motors. You may modify your email preferences by calling 800.979.0122 or if you have an account at speedwaymotors.com you may change them in the "My Account" section by [clicking here](https://www.speedwaymotors.com/Account/Login).
 
 If you provide us with your postal address, you may receive periodic catalogs from us or other notices containing information about new products and services or upcoming events. Occasionally, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Speedway Motors' family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, _we do not share email addresses with any outside organizations for marketing purposes_. If you do not wish to receive postal mailings from Speedway Motors, its subsidiaries, or third-party organizations, please let us know by calling, sending an email, or writing to us at the above postal address. Please provide us with your exact name and postal address and define which lists you wish to be removed from so that we can be sure your information is removed from future mailing lists.
 
 We will request your telephone number or facsimile (FAX) number and if you provide it you may receive telephone or FAX contact from us with information regarding your orders or requests for information. We do not share phone or FAX numbers with third parties for marketing purposes.
-
-_**What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?**_  
-Speedway Motors values your business and is committed to doing everything possible to make our online ordering process secure. As always, our 100% satisfaction guarantee applies to any and all purchases from Speedway Motors.
-
-**Secure Ordering Process**  
-Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). The Speedway Motors website uses SSL to communicate with secure browsers like Firefox, Netscape, and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. Don't worry if your browser is secure or not - if it is not secure, you will not be able to purchase on our online store.
-
-Once you have completed your order online, our security procedures do not end. We take appropriate precautions to protect the security and privacy of the information stored on our computer networks. Many of the systems which store your personal information are not connected to the Internet, reducing the likelihood of security breaches. Our systems are also housed in secure facilities, and access to your data by our employees is limited to a "need to know" basis, controlled by password protected systems, and monitored for abuse.
-
-If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call 800.979.0122. Our fax number for orders is 800.768.3733. Or send your order to:
-
-Speedway Motors, Inc.  
-Attn: Order Processing  
-340 Victory Lane  
-Lincoln, NE 68528
-
-If you have any further question regarding your online security, please contact us at 800.979.0122 or 
-
-[_email Customer Service_](https://web.archive.org/ContactSpeedway.dlp)
-
-.
-
-In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our website. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
