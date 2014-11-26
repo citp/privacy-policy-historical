@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualworldsland.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508090816id_/http%3A//www.virtualworldsland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualworldsland.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126101420id_/http%3A//www.virtualworldsland.com/privacy) for the most accurate reproduction.*
 
-# Virtual Worlds Land!
+# Virtual Worlds Land! - Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -11,6 +11,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   5. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
   6. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
   7. We will make readily available to customers information about our policies and practices relating to the management of personal information.
+  8. Third parties, like Google, may collect certain types of information about visits to your sites, including interaction with content on these sites. As always, no personally identifiable information will be collected.
+  9. Our website use Google/DoubleClick remarketing cookies. We do not store, use nor share any personally identifiable information on our lists
 
 
 
