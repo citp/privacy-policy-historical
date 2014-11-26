@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118015433id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126063810id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
 
-# eBay Store Design | eBay Shop Design | eBay Listing Template Design | eBay Templates by Frooition - Privacy Policy| US
+# Privacy Policy | eBay Store Design | eBay Shop Design | eBay Listing Template Design | eBay Templates by Frooition | US
 
-This service is maintained by Froo.com Limited. Your privacy is important to us. We use the information we collect about you to provide an improved service for both our customers and visitors. We want to help you maintain your privacy on the internet.   
+This service is maintained by Troubleshooter LLC doing business as Froo.com. Your privacy is important to us. We use the information we collect about you to provide an improved service for both our customers and visitors. We want to help you maintain your privacy on the internet.   
 This document explains our policy regarding any personal information which you might supply to us when you visit our site and associated services.
 
 **1.1 Information Collection and Use**  
@@ -24,8 +24,14 @@ As required by the UK Data Protection Act 1998, we follow strict security proced
 We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:
 
   * unauthorised access
+  
+
   * improper use or disclosure
+  
+
   * unauthorised modification
+  
+
   * unlawful destruction or accidental loss
 
 
@@ -41,12 +47,14 @@ It is currently our policy not to pass on any information, which you provide to 
 **1.6 Do we hold information on you?**  
 You can ask us whether we are keeping personal data about you and you may request any such information by using one of the following methods:
 
-  * Sending an email to privacypolicy@frooition.com 
-  * Sending postal mail to Unit E, Silver End Business Park, Brettell Lane, Stourbridge, West Midlands, DY5 3LG
+  * Sending an email to privacypolicy@froo.com 
+  
+
+  * Sending postal mail to Suite 400,433 Camden Drive,Beverly Hills,90210,United States.
 
 
 
-On request we will provide you with a readable copy of the personal data which we keep about you, although we may require proof of your identity prior to disclosing any information. We reserve the right to charge a £10 fee in respect of providing this information.
+On request we will provide you with a readable copy of the personal data which we keep about you, although we may require proof of your identity prior to disclosing any information. We reserve the right to charge a $15 fee in respect of providing this information.
 
 **1.7 Privacy Compliance**  
 Our privacy policy is compliant with the Data Protection Act 1998 and connected legislation. 
@@ -54,4 +62,4 @@ Our privacy policy is compliant with the Data Protection Act 1998 and connected 
 **1.8 Your Comments**  
 The Company's privacy policy is subject to change at any time and without notice. For updates, please check here.
 
-Please send any comments about this website or privacy policy to privacypolicy@frooition.com
+Please send any comments about this website or privacy policy to privacypolicy@froo.com
