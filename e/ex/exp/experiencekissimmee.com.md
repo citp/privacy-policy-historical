@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623231031id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127053542id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
 
 # Things To Do - Experience Kissimmee - Orlando Florida Area - Fun Family Events - Kissimmee
 
-84°
+50°
 
 [](http://www.experiencekissimmee.com/)
 
@@ -40,7 +40,7 @@ The **Experience Kissimmee** values your privacy. That's why we're doing everyth
 
 We are committed to protecting your privacy and maintaining your trust. We have created the following privacy policy to explain our processes and express this commitment.
 
-We do not collect any personal information except that knowingly and willingly supplied by the visitor. We collect the domain name from each visitor as well as statistical information such as the number of visitors and the pages viewed. Personal identifying information may be collected through e-newsletter lists, mailing lists, online request forms, contests, feedback forms, surveys, and personal interest forms. Any information that the customer provides, such as name, address, e-mail, ZIP code, gender, and income will be stored in a secure location and will be used only for those purposes for which it was given.
+We do not collect any personal information except that knowingly and willingly supplied by the visitor.  We collect the domain name from each visitor as well as statistical information such as the number of visitors and the pages viewed.  As a means of measuring the efficacy of the online advertising and marketing campaigns that **Experience Kissimmee** employs, we may also allow third-party advertising companies to use a single-pixel image file on our site to collect information about your visit.  This information is anonymous in nature.  It only identifies actions being performed on our website.  It does not tie actions back to any individual user of our website. No personally identifiable information is collected during this process.  Personal identifying information may be collected through e-newsletter lists, mailing lists, online request forms, contests, feedback forms, surveys, and personal interest forms. Any information that the customer provides, such as name, address, e-mail, ZIP code, gender, and income will be stored in a secure location and will be used only for those purposes for which it was given.
 
 The information that we collect is used to enhance the usability and improve the content of our web page. It may be used to personalize information and for statistical purposes. Personal information will not be shared with third parties unless otherwise indicated or unless required to do so by law. **Experience Kissimmee ********website** contains links to other sites. Please be aware that we are not responsible for the information collection processes on these sites and cannot control how the information is used.
 
