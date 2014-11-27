@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1upmedia.biz privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128041759id_/http%3A//www.1upads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1upmedia.biz privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127140931id_/http%3A//www.1upads.com/privacy) for the most accurate reproduction.*
 
 # Online Game Advertising - 1upAds.com
 
